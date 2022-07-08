@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,289 likes - 123 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,299 likes - 123 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 122 | [Awake the Snake](https://open.spotify.com/track/5kiMm4Xc8q6aOVfph937J3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 1 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF) | 2:06 |
 | 123 | [Rock 'N' Roll Over You](https://open.spotify.com/track/24ttxzDgbZoMHHSyhhSTOP) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [The Other Side Of Life](https://open.spotify.com/album/5dY18oz4mvg4ouRMz7oZTm) | 4:49 |
 
-Snapshot ID: `MTY0MzE1MDQyNSwwMDAwMDAwNjAwMDAwMTdlOTM2NWJiYzMwMDAwMDE3ZTJiNTRlNGU0`
+Snapshot ID: `MTY1NzIyMDY0MywwMDAwMDAwNzAwMDAwMTgxZGEwYzNiNWUwMDAwMDE3ZTJiNTRlNGU0`

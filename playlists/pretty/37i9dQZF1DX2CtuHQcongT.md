@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,654 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,694 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 21 | [Illusion \(SDI\)](https://open.spotify.com/track/0I0wnZ4QNU2fOQV9gomsJr) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SDI & カルテット SEGA SYSTEM 16 COLLECTION](https://open.spotify.com/album/2jSsCQAD2xydTXHTpYaBtB) | 2:53 |
 | 22 | [SPLASH WAVE \(Out Run\)](https://open.spotify.com/track/4Ndkrlf9rUxwfEIwrKC5PU) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [アウトラン オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/38PUHL4Ab0rky3W6Lnmp4r) | 5:52 |
 | 23 | [HAYA\-OH \- SPACE HARRIER\(SEGA MARKⅢ\)](https://open.spotify.com/track/5LRB86nkAPMNqJcrSwhqUl) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SPACE HARRIER II 〜SPACE HARRIER COMPLETE COLLECTION〜 ORIGINAL SOUNDTRACK\(Bonus Track\)](https://open.spotify.com/album/7sVQDE20rLpkvFx2AsyVs9) | 1:00 |
-| 24 | [セガサターン起動音\[H.\] \- Remix](https://open.spotify.com/track/7pRrDxpHuuhW5MkCN5KZna) | [Hiro\(SEGA\)](https://open.spotify.com/artist/6jEp2ecyeyUpJEJQMwSdwh) | [maimai SEGA Sounds \(Vol.5 \-GreeNはじめました〜!パック\-\)](https://open.spotify.com/album/66vHtfaYNpdv1MsVVhFVbw) | 1:24 |
+| 24 | [セガサターン起動音 \- \[H.\] Remix](https://open.spotify.com/track/7pRrDxpHuuhW5MkCN5KZna) | [SEGA SOUND TEAM Sound Unit \[H.\]](https://open.spotify.com/artist/7ltPmr25yRfzYPTZ4woC4c) | [maimai SEGA Sounds \(Vol.5 \-GreeNはじめました\~!パック\-\)](https://open.spotify.com/album/66vHtfaYNpdv1MsVVhFVbw) | 1:24 |
 | 25 | [mexican flyer \(original\)](https://open.spotify.com/track/1ZJlnZwmPtZpurCk7CTA91) | [Ken Woodman & his Picaddilly Brass](https://open.spotify.com/artist/7lxPI4VWiIO70toR1hhWrq) | [スペースチャンネル5★20th anniversary「ぎゅんぎゅんセレクション」 \[Original Soundtrack\]](https://open.spotify.com/album/3cwHvZxnkOvxf0QsLOZ4D5) | 2:35 |
 | 26 | [LAU \- VF2](https://open.spotify.com/track/5IQiUZQltGjGPOBAznm0BC) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Virtua Fighter2 Official Sound](https://open.spotify.com/album/5bK3EcN8nCZTb5Yicoq7Kb) | 2:37 |
 | 27 | [Leaf Forest \- Sonic Advance 2](https://open.spotify.com/track/6S8Y02WtPGE7TJb5jYQix9) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Teruhiko Nakagawa](https://open.spotify.com/artist/5SNXOOQ9It50YqS1l7ePjT) | [Sonic Sound Station Selection \(Vol.1\)](https://open.spotify.com/album/434xk86KFTCIaIHEDSI4z7) | 2:58 |

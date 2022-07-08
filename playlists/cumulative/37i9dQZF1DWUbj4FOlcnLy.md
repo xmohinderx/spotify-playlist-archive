@@ -4,7 +4,7 @@
 
 > Disfruta esta selección musical, de la mano de Las Pelotas.
 
-50 songs - 3 hr 31 min - not published yet
+50 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/6CL9LpbCIbcGsqOPFt1lgD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

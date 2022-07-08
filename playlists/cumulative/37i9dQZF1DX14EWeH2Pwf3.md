@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia\. Cover: Baby Gang
+> La playlist urban più grande d'Italia\. Cover: Rhove, Ghali, Shiva
 
-103 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
+104 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [COSA NOSTRA \(feat\. Paky\)](https://open.spotify.com/track/02PjSmx4OB3qsc8Qt3cV1J) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [COSA NOSTRA](https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH) | 2:53 | 2022-05-09 | 2022-05-20 |
 | [Cuore](https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Cuore](https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY) | 3:22 | 2022-06-23 |  |
 | [Desaparecidos \(feat\. Geolier\)](https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:12 | 2022-05-09 | 2022-05-14 |
-| [DUALIPA E DABABY](https://open.spotify.com/track/1vuSsLVeIb5tSAQsLrlyhV) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [EVOL](https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c) | 2:48 | 2022-06-30 |  |
+| [DUALIPA E DABABY](https://open.spotify.com/track/1vuSsLVeIb5tSAQsLrlyhV) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [EVOL](https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c) | 2:48 | 2022-06-30 | 2022-07-08 |
 | [Easy \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0DpTRR4HyiDJH4Waoj9hXU) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 3:26 | 2022-05-09 |  |
 | [Eclissi \(feat\. Neffa\)](https://open.spotify.com/track/1lV5bvVyZdeWuetLyX9BLH) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Eclissi \(feat\. Neffa\)](https://open.spotify.com/album/2T9HGGzn2cmF27zrUTHHN0) | 2:40 | 2022-05-09 | 2022-05-13 |
 | [EGO](https://open.spotify.com/track/6i88tx7811AzFNDknwILat) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb) | 2:51 | 2022-05-27 |  |
@@ -71,6 +71,7 @@
 | [MAYDAY](https://open.spotify.com/track/37qvUP2uVefoziYGywQwur) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [FAIV](https://open.spotify.com/album/4xpmdTSoa2iKkBnxrsTWzK) | 2:41 | 2022-06-02 | 2022-06-10 |
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2022-06-16 |  |
 | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5) | 3:00 | 2022-05-12 |  |
+| [MILLIONAIRE \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/3EWOOws0Ssrzo3vVFKn5M2) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [MILLIONAIRE \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2) | 3:52 | 2022-07-07 |  |
 | [MOLOTOV](https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MOLOTOV](https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu) | 2:40 | 2022-05-09 | 2022-05-28 |
 | [Mujer \(feat\. Madame\)](https://open.spotify.com/track/2B2jQ2cdbrsWs1XmjVhdrU) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 2:41 | 2022-06-23 |  |
 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2022-06-01 |  |

@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: El Fantasma
 
-374 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+375 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [La Niña De La Montaña](https://open.spotify.com/track/5GXxzsvlN7G0OJPfGaoAUt) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j), [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [La Niña De La Montaña](https://open.spotify.com/album/7GAAnGNWgxg1ILM8WYKoTM) | 3:55 | 2022-06-10 | 2022-06-18 |
 | [La Parranda](https://open.spotify.com/track/2V4WbuVKyXcOY6q3d25iwr) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [La Parranda](https://open.spotify.com/album/5sjQSnB9CLMtnZckbhGpqi) | 3:02 | 2022-05-27 | 2022-06-04 |
 | [La Sombra Del Sombrero](https://open.spotify.com/track/7A1TzKROBNCPBnCj9PaOo8) | [Los Nuevos Ondeados](https://open.spotify.com/artist/6cOnEvtYAaRTCWdLl1nqEI) | [La Sombra Del Sombrero](https://open.spotify.com/album/1GwnzvUm0WKgBEwHnJPVHB) | 2:55 | 2022-06-17 | 2022-06-25 |
+| [La Venia Bendita \(En Vivo\)](https://open.spotify.com/track/391u7N5hX3YSwtzQOPwG1s) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Pisteando En El Limón \(En Vivo\)](https://open.spotify.com/album/4NibJgWPYGIKHtDRxsGfpe) | 3:12 | 2022-07-01 |  |
 | [La Vida](https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Vida](https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7) | 3:43 | 2022-06-10 | 2022-06-18 |
 | [Labios de Cereza](https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios de Cereza](https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK) | 3:34 | 2022-05-20 | 2022-05-28 |
 | [Las Cosas Como Son](https://open.spotify.com/track/6SO2cvqHgdo6bIglV3TDOZ) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Banda Reclutada](https://open.spotify.com/artist/6t2N5GqVasKcT1ddOHZ7dj) | [Las Cosas Como Son](https://open.spotify.com/album/0xfQ4uUDo7SLP639JDVaN8) | 3:08 | 2022-06-17 | 2022-06-25 |

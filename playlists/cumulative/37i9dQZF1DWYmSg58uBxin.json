@@ -1873,6 +1873,24 @@
     {
       "album": {
         "name": "Once Again",
+        "url": "https://open.spotify.com/album/2VneXLzvhPk5Wwn3rxSh1c"
+      },
+      "artists": [
+        {
+          "name": "Cierna Sobre Ti",
+          "url": "https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140156,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/6SFxknzg00olqCJl4QJEyq"
+    },
+    {
+      "album": {
+        "name": "Once Again",
         "url": "https://open.spotify.com/album/6rHvuSWrrMiqfRf08jo137"
       },
       "artists": [
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 184973,
       "name": "Reprieve",
       "url": "https://open.spotify.com/track/1UTyE3P7cQ2de4dwLNyt58"
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 128857,
       "name": "Still Asleep",
       "url": "https://open.spotify.com/track/4JOjSfJqokAV6Ff2DhCZcf"
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 165244,
       "name": "The Flow",
       "url": "https://open.spotify.com/track/5utTNDqFPpLSC19SqHNIXx"
@@ -2892,6 +2910,24 @@
     },
     {
       "album": {
+        "name": "Veo Tus Ojos",
+        "url": "https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz"
+      },
+      "artists": [
+        {
+          "name": "No Pude Detenerme",
+          "url": "https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186710,
+      "name": "Veo Tus Ojos",
+      "url": "https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe"
+    },
+    {
+      "album": {
         "name": "Forever In Your Arms",
         "url": "https://open.spotify.com/album/3Aqr3oh4OLhRXeBHWqCR4F"
       },
@@ -2903,7 +2939,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 160687,
       "name": "Waltz In The Sunset",
       "url": "https://open.spotify.com/track/4KxLDubITTzAoRROcamdIs"

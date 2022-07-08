@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [10 Things I Hate About You](https://open.spotify.com/track/0LLSnUWo0fgQJ5dH8Sumgq) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [10 Things I Hate About You](https://open.spotify.com/album/6BBA6F9Yi50dIacG1Pxyx8) | 2:56 | 2022-05-18 | 2022-06-16 |
 | [10,000 Hours](https://open.spotify.com/track/0t0zQbACSCjyIT3OzfsPX4) | [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y) | [10,000 Hours](https://open.spotify.com/album/1CnQhbJtMojSLbjjdBMT1C) | 2:33 | 2022-06-15 | 2022-06-30 |
-| [14](https://open.spotify.com/track/1AlbmEnnFgR9b4yCw9zkzf) | [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [14](https://open.spotify.com/album/6Y8manNCbK8DfkDFZrEQMh) | 3:28 | 2022-06-22 |  |
+| [14](https://open.spotify.com/track/1AlbmEnnFgR9b4yCw9zkzf) | [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [14](https://open.spotify.com/album/6Y8manNCbK8DfkDFZrEQMh) | 3:28 | 2022-06-22 | 2022-07-08 |
 | [15 Dennies](https://open.spotify.com/track/44aexCBGwEP1QwF8qrHLso) | [Dead Witch](https://open.spotify.com/artist/6Y3YCnKOnV4bOyWkYvhcvi) | [15 Dennies](https://open.spotify.com/album/38C1qraJihuLK3b59NhmVC) | 3:52 | 2022-06-01 | 2022-06-23 |
 | [2 Many Friends](https://open.spotify.com/track/2l8XA35eINEpfu2XXTun4v) | [Adam Ricci](https://open.spotify.com/artist/3TZMtVrUznikUI2pKAlW0b) | [2 Many Friends](https://open.spotify.com/album/2r4Ba3ltYgRazOKg64MFjM) | 2:29 | 2022-03-16 | 2022-04-07 |
 | [2009](https://open.spotify.com/track/3fSZKzYzUaj6nAuI4Ojljv) | [IPSY](https://open.spotify.com/artist/4qExdi24cnjTTcvtDRgHom) | [2009](https://open.spotify.com/album/0tUAMyFmlnLuZflV4m0DJK) | 2:18 | 2022-05-25 | 2022-06-09 |

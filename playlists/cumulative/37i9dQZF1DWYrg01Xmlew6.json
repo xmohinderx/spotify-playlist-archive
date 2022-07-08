@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Napoli e il meglio della scena campana. Cover: Luch\u00e8, Paky",
+  "description": "Napoli e il meglio della scena campana. Cover: SLF",
   "name": "Int 'o Rione",
   "published_playlist_ids": [
     "24YJoDhwO3164C86soW14C"
@@ -524,6 +524,28 @@
     },
     {
       "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7ciK8kJ0K7fExA4VtiXLYQ"
+      },
+      "artists": [
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        },
+        {
+          "name": "emvnuel",
+          "url": "https://open.spotify.com/artist/6rGb0Db2lSQVMVWuSwzQBj"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145257,
+      "name": "GAS",
+      "url": "https://open.spotify.com/track/6351T1EhGpm7IAnsmXplnn"
+    },
+    {
+      "album": {
         "name": "GLORIA",
         "url": "https://open.spotify.com/album/1bHMxxRXGzttc6ClsSPBYH"
       },
@@ -717,6 +739,40 @@
       "duration_ms": 306260,
       "name": "ME STAJE APPENNENN' AM\u00d2",
       "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
+    },
+    {
+      "album": {
+        "name": "MILLIONAIRE (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
+        "url": "https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "MILLIONAIRE (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
+      "url": "https://open.spotify.com/track/3EWOOws0Ssrzo3vVFKn5M2"
     },
     {
       "album": {
@@ -1291,7 +1347,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 162864,
       "name": "Tetti (feat. Yung Snapp)",
       "url": "https://open.spotify.com/track/7iJ95DAak22eCvQMLt44pB"
@@ -1327,7 +1383,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 159064,
       "name": "TIK TOK",
       "url": "https://open.spotify.com/track/20t5iixTDSQq5jzl1DO5pQ"

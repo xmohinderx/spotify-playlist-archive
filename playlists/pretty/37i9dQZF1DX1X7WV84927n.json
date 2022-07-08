@@ -1,15 +1,15 @@
 {
-  "description": "For the Hard Rock and full volume lovers. Cover: Ozzy Osbroune",
-  "num_followers": 259882,
+  "description": "For the Hard Rock and full volume lovers. Cover: Ozzy Osbourne",
+  "num_followers": 259960,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYzMzYwMCwwMDAwMDFhZjAwMDAwMTgxYjcwZWE4YTgwMDAwMDE4MThmNDExMDQy",
+  "snapshot_id": "MTY1NzIzODQwMCwwMDAwMDFiMTAwMDAwMTgxZGIxYjJjY2EwMDAwMDE4MThmNDExMDQy",
   "tracks": [
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Patient Number 9 (feat. Jeff Beck)",
         "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
@@ -29,71 +29,7 @@
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "Welcome To The Show",
-        "url": "https://open.spotify.com/album/0l9XSM566KYzfpjfpVT3pP"
-      },
-      "artists": [
-        {
-          "name": "Classless Act",
-          "url": "https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "All That We Are",
-      "url": "https://open.spotify.com/track/7rwjvrRERCvxdfB0p7UZ8P"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 348333,
-      "name": "Watcher In The Sky",
-      "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "Ready for a Good Time",
-        "url": "https://open.spotify.com/album/0CmMi5CVhUusvcNCd7HcN0"
-      },
-      "artists": [
-        {
-          "name": "Art Of Dying",
-          "url": "https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe"
-        }
-      ],
-      "duration_ms": 184146,
-      "name": "Ready for a Good Time",
-      "url": "https://open.spotify.com/track/5rX16XklyqZnUBM9fF59qc"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "Radiance",
-        "url": "https://open.spotify.com/album/11IUeusP2f7zjGlKAOBJYB"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 243336,
-      "name": "Radiance",
-      "url": "https://open.spotify.com/track/7tYTL5VTShsYu8cQRnilSK"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "VIOLENT PRINCIPLES",
         "url": "https://open.spotify.com/album/7kv5aRv6tltcgjHOmCmUIT"
@@ -109,7 +45,71 @@
       "url": "https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Welcome To The Show",
+        "url": "https://open.spotify.com/album/0l9XSM566KYzfpjfpVT3pP"
+      },
+      "artists": [
+        {
+          "name": "Classless Act",
+          "url": "https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "All That We Are",
+      "url": "https://open.spotify.com/track/7rwjvrRERCvxdfB0p7UZ8P"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 348333,
+      "name": "Watcher In The Sky",
+      "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/6UqHgUnm9v6EoaJhduSkmt"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 178873,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/6vcHKWopK07LS88BRO7qzQ"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Ready for a Good Time",
+        "url": "https://open.spotify.com/album/0CmMi5CVhUusvcNCd7HcN0"
+      },
+      "artists": [
+        {
+          "name": "Art Of Dying",
+          "url": "https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe"
+        }
+      ],
+      "duration_ms": 184146,
+      "name": "Ready for a Good Time",
+      "url": "https://open.spotify.com/track/5rX16XklyqZnUBM9fF59qc"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "We Strive for Excellence",
         "url": "https://open.spotify.com/album/1IntXQlFhAc2KcA2dWuPxG"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/7Kjxo3ZGH9s2OzvxQIIhQ2"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Rotoscope",
         "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
@@ -141,23 +141,7 @@
       "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "City Of The Dead",
-        "url": "https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 173931,
-      "name": "City Of The Dead",
-      "url": "https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "See Through Blue",
         "url": "https://open.spotify.com/album/5Y17LH7yvP9uXq5zAvECNg"
@@ -173,87 +157,7 @@
       "url": "https://open.spotify.com/track/7BeifY1gMTeIx8uqKR6D1Y"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "I Know You Better",
-        "url": "https://open.spotify.com/album/5OntbXcFVPOqy4z1w1HQWk"
-      },
-      "artists": [
-        {
-          "name": "Lillasyster",
-          "url": "https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "I Know You Better",
-      "url": "https://open.spotify.com/track/7soKhTgZkQSzUxfdVOZKnY"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4xgtygravIkm1QT6nEjFXY"
-      },
-      "artists": [
-        {
-          "name": "The 69 Eyes",
-          "url": "https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b"
-        }
-      ],
-      "duration_ms": 202388,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1PKSFV1n7pa3OgCGiUugLb"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/1RZxJUNrYPbuMR2S03yoiM"
-      },
-      "artists": [
-        {
-          "name": "Thundermother",
-          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
-        }
-      ],
-      "duration_ms": 265500,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/2rHM0Z7AOHN4FiDMfvpqwW"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/6bxcSOe2Fp4DUwC72MA0WM"
-      },
-      "artists": [
-        {
-          "name": "H.E.A.T",
-          "url": "https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/4cLCbUjCGAo6Ln1dhnTwxT"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/2ulQy55tAU204XtJqddoTU"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 189736,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/1IXHEW37OZl7EBajKupTg0"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Never Gonna Stop",
         "url": "https://open.spotify.com/album/0zxYkTkOXAMRUirSbbruIy"
@@ -269,27 +173,87 @@
       "url": "https://open.spotify.com/track/7zFx8H6whkcPEm2a1hPrck"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Universal",
-        "url": "https://open.spotify.com/album/03iscjjvHoP6JWfTjUoPAj"
+        "name": "I Know You Better",
+        "url": "https://open.spotify.com/album/5OntbXcFVPOqy4z1w1HQWk"
       },
       "artists": [
         {
-          "name": "Michael Schenker Group",
-          "url": "https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi"
-        },
-        {
-          "name": "Ronnie Romero",
-          "url": "https://open.spotify.com/artist/5uURCTdE7ztucOBpi5PmY2"
+          "name": "Lillasyster",
+          "url": "https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj"
         }
       ],
-      "duration_ms": 277014,
-      "name": "Under Attack (feat. Ronnie Romero)",
-      "url": "https://open.spotify.com/track/1DnGvoDr1k8BNiMKBPoH2d"
+      "duration_ms": 181986,
+      "name": "I Know You Better",
+      "url": "https://open.spotify.com/track/7soKhTgZkQSzUxfdVOZKnY"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/1RZxJUNrYPbuMR2S03yoiM"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "duration_ms": 265500,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/2rHM0Z7AOHN4FiDMfvpqwW"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/6bxcSOe2Fp4DUwC72MA0WM"
+      },
+      "artists": [
+        {
+          "name": "H.E.A.T",
+          "url": "https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/4cLCbUjCGAo6Ln1dhnTwxT"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/2ulQy55tAU204XtJqddoTU"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 189736,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/1IXHEW37OZl7EBajKupTg0"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Call Me Snake",
+        "url": "https://open.spotify.com/album/1bOLrSXcoiGyP9BLQHF2gv"
+      },
+      "artists": [
+        {
+          "name": "The 69 Eyes",
+          "url": "https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b"
+        }
+      ],
+      "duration_ms": 219039,
+      "name": "Call Me Snake",
+      "url": "https://open.spotify.com/track/07a1Zu7zlJ5U0mxxIM2to5"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
@@ -305,7 +269,7 @@
       "url": "https://open.spotify.com/track/5On0z2PZjPf5x7eB2afLEf"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/0x9NVwmHIApAPGvIzC5mNo"
@@ -325,7 +289,7 @@
       "url": "https://open.spotify.com/track/6mCBk4OB2JXszZe9ATsZ0H"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "You Promised Me Love",
         "url": "https://open.spotify.com/album/7jbHX6G5JIb0Dtxr9qXNpF"
@@ -345,7 +309,7 @@
       "url": "https://open.spotify.com/track/0WVSpqEmsVyVs64i8Mkn3a"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "That Ain't Livin'",
         "url": "https://open.spotify.com/album/5asLEjfvOkvWgkskU6sQxe"
@@ -361,7 +325,7 @@
       "url": "https://open.spotify.com/track/2aZeP8gOHxZuDyYh2FSLcy"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Surviving the Law",
         "url": "https://open.spotify.com/album/3Z5yXM2AoHoIUMqNXtZjYI"
@@ -377,7 +341,7 @@
       "url": "https://open.spotify.com/track/4gNzAlHWjr73HycnkCcGSs"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Not Alone",
         "url": "https://open.spotify.com/album/0nqLpJcFTpIlN4pLlNBRo6"
@@ -393,7 +357,7 @@
       "url": "https://open.spotify.com/track/4kfIlXDqubi7Pf23TTh7MC"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Don't Give Up On Us",
         "url": "https://open.spotify.com/album/4nPgrSDWnf4M8W9M4PKfnd"
@@ -409,7 +373,23 @@
       "url": "https://open.spotify.com/track/3FQuJiVvCjU6RmkXDDME1D"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "City Of The Dead",
+        "url": "https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 173931,
+      "name": "City Of The Dead",
+      "url": "https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Get Off",
         "url": "https://open.spotify.com/album/1xxA0JiTUidQe7dMfIh7Wp"
@@ -425,7 +405,7 @@
       "url": "https://open.spotify.com/track/5iHpCkeNVzVo2nNVF7jqhJ"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "The Gang's All Here",
         "url": "https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7"
@@ -441,7 +421,7 @@
       "url": "https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Natural Born Killer",
         "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
@@ -457,7 +437,7 @@
       "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Fire It Up",
         "url": "https://open.spotify.com/album/5BDAPbqXoXGOy8lwur9SxF"
@@ -473,7 +453,7 @@
       "url": "https://open.spotify.com/track/2NtTPFydPxZnZ3p6wlkYdq"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/2oAnV3Zd5txIhmfUGX5fu2"
@@ -489,7 +469,7 @@
       "url": "https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "EAT IT UP SPIT IT OUT",
         "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
@@ -505,7 +485,7 @@
       "url": "https://open.spotify.com/track/5Hv8s5ts2YW4oYF6hTKKB3"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Venomous Anonymous",
         "url": "https://open.spotify.com/album/5oo2muA01o06z1r9EOUcyc"
@@ -521,7 +501,7 @@
       "url": "https://open.spotify.com/track/182ajalm85aTrniP4CYr65"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Rise to the Call",
         "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
@@ -537,7 +517,7 @@
       "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Sail On",
         "url": "https://open.spotify.com/album/1Gwl7LBODkfUIa2o1W2raJ"
@@ -553,7 +533,27 @@
       "url": "https://open.spotify.com/track/53k2Iwe5XyYA2W0GhTy8OS"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Universal",
+        "url": "https://open.spotify.com/album/03iscjjvHoP6JWfTjUoPAj"
+      },
+      "artists": [
+        {
+          "name": "Michael Schenker Group",
+          "url": "https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi"
+        },
+        {
+          "name": "Ronnie Romero",
+          "url": "https://open.spotify.com/artist/5uURCTdE7ztucOBpi5PmY2"
+        }
+      ],
+      "duration_ms": 277014,
+      "name": "Under Attack (feat. Ronnie Romero)",
+      "url": "https://open.spotify.com/track/1DnGvoDr1k8BNiMKBPoH2d"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Disconnect from the Matrix",
         "url": "https://open.spotify.com/album/16WsVVurX2OsZGRLhvcAtM"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/5n88rjkUNyv2mokNkDeOqa"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Electric Love",
         "url": "https://open.spotify.com/album/1b6dTOicwjotpOetvQUdBK"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/0LdZZnaoti9ueYWlyHqQRf"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Everybody's Nobody",
         "url": "https://open.spotify.com/album/5Zx1trhR6ewwuwsjg683Bo"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/3vTGGtow46dxxgg5iWbkXK"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "The Language Of My Heart (France Bonus Track)",
         "url": "https://open.spotify.com/album/0Kmho2vdfbGmfJyyUesNoW"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/4anwYZI6i9l5xi8caRrbo3"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Here Comes the Revolution",
         "url": "https://open.spotify.com/album/31wESA1p2Yn26BuiesP2wF"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/0KX65nsb1sH143B4SlZv4V"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Strike Like a Cobra",
         "url": "https://open.spotify.com/album/54f7T8NezACrIPKwkR5dMS"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/7wupm1ynQeNJVyey1g8FFE"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Abrakadabra (Japan Edition)",
         "url": "https://open.spotify.com/album/74iLS86gsiZWszg5F62wxN"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/2htPaFATsHA9oCTbpGHx9r"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Sold My Soul to the Night",
         "url": "https://open.spotify.com/album/7MJQgT1l7KVI6RwjsRg0ji"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/2fkEIVFhPxEDI1VqFzPV4G"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Over the Horizon Radar",
         "url": "https://open.spotify.com/album/4CR7GpwpFdR0nuLeGbxk9A"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/7uy1wXlIw0IjGOS6wKlpGs"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Brown Eyed Son",
         "url": "https://open.spotify.com/album/62EZbw2VPVeL13WMTRBllf"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/0qENavjo41kOKOnuSy9laJ"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Eyes Of Oblivion",
         "url": "https://open.spotify.com/album/1VHGCKri6PWtI5kijzvkTr"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/0IFdMq2MhXGEAdjzfpaMVu"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Right There, Just Like That",
         "url": "https://open.spotify.com/album/6K8ls5wvPJRnhVgm131HX2"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/6sxdlON2OhydFd8j2OIYeA"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Voices of Silence",
         "url": "https://open.spotify.com/album/4E0vmRDkCDScK4LMk7iFfv"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/3JYPeSLAgKw5zb2x3GtMxl"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Tohu Bohu",
         "url": "https://open.spotify.com/album/1PdrIj7vAwYaoqT6D2QoAT"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/7DB9ke3uWGxz0ecs1pzhoD"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "The Endgame",
         "url": "https://open.spotify.com/album/4fULKw61VhX824FdYOkvAM"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/5fiNrnaoV0mZBThQ9dVfpT"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/1laYwMskzwRiLgH7FDDwXB"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/2d5nvTEPNgLzvdhBrcc8FA"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Generation Mind",
         "url": "https://open.spotify.com/album/6UGcYx1XfJH0oUikg4ytrq"

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-30",
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
   "name": "Rock Barrial",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4rbybKMGrwMGLce2LU8aOy"
+  ],
   "tracks": [
     {
       "album": {
@@ -161,7 +163,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 259186,
       "name": "Arrancacorazones",
       "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
@@ -291,6 +293,24 @@
       "duration_ms": 328746,
       "name": "Chance",
       "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
+    },
+    {
+      "album": {
+        "name": "Superpoderosos",
+        "url": "https://open.spotify.com/album/6JeYoFX9uU9ihnktm6NsOC"
+      },
+      "artists": [
+        {
+          "name": "Villanos",
+          "url": "https://open.spotify.com/artist/5V3p1FHktSmZSGyfvSGdhY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181186,
+      "name": "Chau coraz\u00f3n",
+      "url": "https://open.spotify.com/track/51ujAnIRCpKM5ymBg91i2u"
     },
     {
       "album": {
@@ -521,7 +541,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 188586,
       "name": "Down",
       "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
@@ -701,7 +721,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 231800,
       "name": "Flores Secas",
       "url": "https://open.spotify.com/track/2pHU8MnJRkDOLqQBgoyOE5"
@@ -737,7 +757,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 228786,
       "name": "Hasta La Victoria",
       "url": "https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH"
@@ -827,7 +847,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 222729,
       "name": "La Ca\u00f1ada",
       "url": "https://open.spotify.com/track/6PuOXcW4FTK6oAwgGGiLBe"
@@ -899,7 +919,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 214090,
       "name": "Las cosas que no se tocan",
       "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
@@ -917,7 +937,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 340893,
       "name": "Lo Artesanal - Remix",
       "url": "https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX"
@@ -1061,7 +1081,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 280880,
       "name": "Mi Revolucion",
       "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
@@ -1115,7 +1135,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 261133,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/2RzNpQEcatMIym0AFLJUsF"
@@ -1133,7 +1153,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "M\u00e1s Lejos",
       "url": "https://open.spotify.com/track/5oohb2BfvCucvZIFGo04i4"
@@ -1187,7 +1207,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 208373,
       "name": "Nunca me ense\u00f1aste",
       "url": "https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf"
@@ -1241,7 +1261,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 224213,
       "name": "Ojos Ventanal",
       "url": "https://open.spotify.com/track/1wsKixePlchQnf1EZTaAjX"
@@ -1259,7 +1279,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 321706,
       "name": "Otra Vuelta de Tuerca",
       "url": "https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO"
@@ -1331,7 +1351,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 245986,
       "name": "Para No Verme M\u00e1s",
       "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
@@ -1479,7 +1499,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 239560,
       "name": "Qu\u00e9 Se Yo",
       "url": "https://open.spotify.com/track/24RgLBs7t0WMWBcYdHOI6u"
@@ -1551,7 +1571,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 186788,
       "name": "Rotos y Descocidos",
       "url": "https://open.spotify.com/track/2u55FMNQoM8W7tHuO4JOgM"
@@ -1659,7 +1679,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 357093,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/1ELykgy7CVsJtEuwUcvCfq"
@@ -1677,7 +1697,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 198385,
       "name": "Se\u00f1or Kioskero",
       "url": "https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d"
@@ -1713,7 +1733,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 203573,
       "name": "Silbando una ilusi\u00f3n",
       "url": "https://open.spotify.com/track/1S3oe1jbV5j4EdXBmVtkbJ"
@@ -1767,7 +1787,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 191530,
       "name": "Soy",
       "url": "https://open.spotify.com/track/3aJ5EHfJq8DNA9zho99LQ4"
@@ -1828,6 +1848,24 @@
     },
     {
       "album": {
+        "name": "Sideral",
+        "url": "https://open.spotify.com/album/2U5M8ZgqLFlvAl4EpDlH7K"
+      },
+      "artists": [
+        {
+          "name": "Cielo Razzo",
+          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239986,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2WengSk6pPmZ5kRRwrgiSu"
+    },
+    {
+      "album": {
         "name": "Este Fuerte Viento Que Sopla",
         "url": "https://open.spotify.com/album/6HyHimLPwJgAVkpH7fc8gb"
       },
@@ -1857,7 +1895,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 201584,
       "name": "Terminales",
       "url": "https://open.spotify.com/track/77LZ92TrNFB8WCYtCaCwsy"
@@ -1911,7 +1949,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 244426,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2qAif1nwoyDsfMrsJcGrco"

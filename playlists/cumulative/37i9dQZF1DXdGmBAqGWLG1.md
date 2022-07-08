@@ -4,7 +4,7 @@
 
 > Escuchá la banda de sonido de La Serie.
 
-49 songs - 3 hr 26 min - not published yet
+49 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/5t0ADaneMsPzHagGYtx1HJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

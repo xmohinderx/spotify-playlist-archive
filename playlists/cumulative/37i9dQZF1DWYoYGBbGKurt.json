@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 148235,
       "name": "Aluminium",
       "url": "https://open.spotify.com/track/7rndGBnOCHU89t1rKZfDZn"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 112592,
       "name": "Boutique",
       "url": "https://open.spotify.com/track/3atyuxObBb1LkmKcvEZT95"
@@ -1705,6 +1705,32 @@
       "duration_ms": 235728,
       "name": "Cartoons & Cereal",
       "url": "https://open.spotify.com/track/3NA3j32GZcVlLHE5ouertM"
+    },
+    {
+      "album": {
+        "name": "Cascadilla",
+        "url": "https://open.spotify.com/album/0jbjMTUvJQU2ThpS91LfEg"
+      },
+      "artists": [
+        {
+          "name": "azula",
+          "url": "https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS"
+        },
+        {
+          "name": "juniorodeo",
+          "url": "https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN"
+        },
+        {
+          "name": "G Mills",
+          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109326,
+      "name": "Cascadilla",
+      "url": "https://open.spotify.com/track/1UkfpVjyztFIqxwg861Mgs"
     },
     {
       "album": {
@@ -2865,7 +2891,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 152359,
       "name": "Dalmatian",
       "url": "https://open.spotify.com/track/2SuabPRj4ZKX7uQpsTUGQK"
@@ -3263,7 +3289,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 157000,
       "name": "Dotters",
       "url": "https://open.spotify.com/track/4dAbCuNehX0eahmR3uXhpD"
@@ -3509,6 +3535,28 @@
       "duration_ms": 123333,
       "name": "Drift",
       "url": "https://open.spotify.com/track/7DgiTzkm5OcTlD4vYLmGS9"
+    },
+    {
+      "album": {
+        "name": "Nature Between",
+        "url": "https://open.spotify.com/album/2dkVr1RCjuPdgOUppIxvqK"
+      },
+      "artists": [
+        {
+          "name": "morningtime",
+          "url": "https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS"
+        },
+        {
+          "name": "Daniel Mayer",
+          "url": "https://open.spotify.com/artist/4WghUXiYqQQdd0yl8VoHL5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Driftwood, Joshua",
+      "url": "https://open.spotify.com/track/7LaODCkvOqa2UhpF4ikvlh"
     },
     {
       "album": {
@@ -4088,6 +4136,24 @@
     },
     {
       "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/4sVJTeQBQCIpMwpQREPXDe"
+      },
+      "artists": [
+        {
+          "name": "Natasha Ghosh",
+          "url": "https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/6j4XSo0IYkvaFnxgeeg8zD"
+    },
+    {
+      "album": {
         "name": "falling",
         "url": "https://open.spotify.com/album/3YpHJzRylTi7Y3jU2KcXVS"
       },
@@ -4157,7 +4223,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 180000,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/5f703of0AlVVMqFhBy5Osq"
@@ -4519,7 +4585,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 161038,
       "name": "Floating Between",
       "url": "https://open.spotify.com/track/6nqOGykFeVWsM3Okw3V73C"
@@ -4908,6 +4974,42 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/6t0KrvmFn3cRW6wL68CnVS"
+      },
+      "artists": [
+        {
+          "name": "don C",
+          "url": "https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/403bR4J4rNTf9H03KDMzFZ"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/0m5igDfRStOQlJgS8rvzwF"
+      },
+      "artists": [
+        {
+          "name": "hypewave",
+          "url": "https://open.spotify.com/artist/3lN15qxwRIUGJF6NA0LGUc"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141098,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/6wuUCAIlEpU5UX0tRt6Des"
+    },
+    {
+      "album": {
         "name": "skirt & lofi",
         "url": "https://open.spotify.com/album/1ZA441yOuzMQ87O222grOe"
       },
@@ -5219,7 +5321,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 135405,
       "name": "Havanna Glow Pt. 2",
       "url": "https://open.spotify.com/track/4nkIOTBqCzgTFRKz98J3i4"
@@ -5415,6 +5517,24 @@
       "duration_ms": 161867,
       "name": "High Street Blues",
       "url": "https://open.spotify.com/track/75W3NDn1Nt8F5sfx6G97oA"
+    },
+    {
+      "album": {
+        "name": "high tide",
+        "url": "https://open.spotify.com/album/0PCAFE8cwvzrfOqrxPDyTf"
+      },
+      "artists": [
+        {
+          "name": "Zatsuma",
+          "url": "https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "high tide",
+      "url": "https://open.spotify.com/track/4VTJ41f30zyF2ACwzXkSiH"
     },
     {
       "album": {
@@ -7730,6 +7850,24 @@
     },
     {
       "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/0h4nSIq7YwurSAqTruXNh4"
+      },
+      "artists": [
+        {
+          "name": "Smuv",
+          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110608,
+      "name": "Melting",
+      "url": "https://open.spotify.com/track/27Y8SVpM3t1Ni8nbnKsaRW"
+    },
+    {
+      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/1F85ZcndEEfLMCrABfeZ9t"
       },
@@ -8103,7 +8241,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 159069,
       "name": "Mondays",
       "url": "https://open.spotify.com/track/6Rls9NUvKGkU17cnagmxry"
@@ -9370,6 +9508,24 @@
     },
     {
       "album": {
+        "name": "Korean BBQ",
+        "url": "https://open.spotify.com/album/0sxHgW3KYTmRfFq0qubtvU"
+      },
+      "artists": [
+        {
+          "name": "Polis Sitz",
+          "url": "https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156881,
+      "name": "poolSide",
+      "url": "https://open.spotify.com/track/2V33ELzmC3DA4hWxJoxjvX"
+    },
+    {
+      "album": {
         "name": "Poor Introduction",
         "url": "https://open.spotify.com/album/5taldUT9OpgKjvB6giZ9LQ"
       },
@@ -9979,6 +10135,24 @@
       "duration_ms": 191982,
       "name": "Santino",
       "url": "https://open.spotify.com/track/5QKDIzfyW02WRcA3Ag9kDe"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2MeZ3MCw3QFquMCctLFokJ"
+      },
+      "artists": [
+        {
+          "name": "Mysterybops",
+          "url": "https://open.spotify.com/artist/3Kz2x1edaxHzoe69LxWK4n"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112132,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0Etu29i3NNSXE2KufX3xC2"
     },
     {
       "album": {
@@ -11759,7 +11933,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 107727,
       "name": "The Martian Nextdoor",
       "url": "https://open.spotify.com/track/1t31EP9jDCaleagcRsq2Zn"
@@ -11817,7 +11991,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 173340,
       "name": "The Spy Hunter",
       "url": "https://open.spotify.com/track/1AMBXDrCOcfzXIKaJF23yx"
@@ -13317,6 +13491,24 @@
       "duration_ms": 182400,
       "name": "Yamanoie - Japanese Lofi",
       "url": "https://open.spotify.com/track/4zepSYCn0T0jhE9muZyUOU"
+    },
+    {
+      "album": {
+        "name": "Lofi Noire",
+        "url": "https://open.spotify.com/album/0sOpERk8tJIEooArNOtWIZ"
+      },
+      "artists": [
+        {
+          "name": "PawnShop Guy",
+          "url": "https://open.spotify.com/artist/3dYZvW3b9n2aZcV1Z4d07B"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93176,
+      "name": "Yellow and Blue",
+      "url": "https://open.spotify.com/track/1MyRgermzklUxoMHti2kVi"
     },
     {
       "album": {

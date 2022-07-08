@@ -6,8 +6,24 @@
     "name": "RCA Records",
     "url": "https://open.spotify.com/user/rcarecords"
   },
-  "snapshot_id": "MjExOCwyZjhiZjFhZjdmMDUwMmI5NmY1MzRlYmQ5NTQ4Y2IzMDE2MjQ2ZTQ2",
+  "snapshot_id": "MjExOSw3ODdiOGFiYzA4MGE2NGNkMGFiYjNjZDY4M2YxMDRhNGRjNTEzMTky",
   "tracks": [
+    {
+      "added_at": "2022-07-07 19:55:24",
+      "album": {
+        "name": "Conceited",
+        "url": "https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 146440,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv"
+    },
     {
       "added_at": "2022-06-14 14:52:50",
       "album": {

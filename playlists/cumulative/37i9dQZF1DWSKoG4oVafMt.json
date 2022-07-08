@@ -1120,6 +1120,28 @@
     },
     {
       "album": {
+        "name": "Dholna",
+        "url": "https://open.spotify.com/album/5BgkOpu9x8NsTtsDrIy9qu"
+      },
+      "artists": [
+        {
+          "name": "Deedar Kaur",
+          "url": "https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q"
+        },
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dholna",
+      "url": "https://open.spotify.com/track/0fFwmkrYS71wPfv2PYGd34"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/2pIDaUHfZ1BcK3Es4ptDBb"
       },
@@ -7573,7 +7595,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 139690,
       "name": "Wang Tut Gyi",
       "url": "https://open.spotify.com/track/6mVllu47msCKvF0kFN6Ma4"

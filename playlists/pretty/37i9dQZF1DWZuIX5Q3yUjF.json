@@ -1,183 +1,15 @@
 {
-  "description": "Il meglio dell'R&B italiano. Cover: Ganzo",
+  "description": "Il meglio dell'R&B italiano. Cover: Mangrovia Twang",
   "num_followers": 8729,
   "original_name": "anima R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjQ2MCwwMDAwMDA4MTAwMDAwMTgxYjZhMWI1ZmYwMDAwMDE4MWIwMzExZDk1",
+  "snapshot_id": "MTY1NzIzMTI2MCwwMDAwMDA4MjAwMDAwMTgxZGFhZTNhMjAwMDAwMDE4MWQyZjAwM2Zl",
   "tracks": [
     {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "San Castrese",
-        "url": "https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G"
-      },
-      "artists": [
-        {
-          "name": "Ganzo",
-          "url": "https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "O'tiempo",
-      "url": "https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/3klV0mhxXPHdn2pq8gjNDo"
-      },
-      "artists": [
-        {
-          "name": "Wako",
-          "url": "https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx"
-        },
-        {
-          "name": "BigMama",
-          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/6BsRHAOiyM0EULpcTjf91l"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "Tra Mille",
-        "url": "https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC"
-      },
-      "artists": [
-        {
-          "name": "ETT",
-          "url": "https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS"
-        }
-      ],
-      "duration_ms": 155320,
-      "name": "Tra Mille",
-      "url": "https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "Odissea / Astronave",
-        "url": "https://open.spotify.com/album/1ADCIxjTiItCD5YkuTUtPe"
-      },
-      "artists": [
-        {
-          "name": "Palmaria",
-          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
-        }
-      ],
-      "duration_ms": 212769,
-      "name": "Odissea / Astronave",
-      "url": "https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "Lama d'argento",
-        "url": "https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2"
-      },
-      "artists": [
-        {
-          "name": "Priestess",
-          "url": "https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT"
-        }
-      ],
-      "duration_ms": 209894,
-      "name": "Lama d'argento",
-      "url": "https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "FAKE",
-        "url": "https://open.spotify.com/album/3qIvTuL9WllXp4QBsoREz0"
-      },
-      "artists": [
-        {
-          "name": "Angie",
-          "url": "https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z"
-        }
-      ],
-      "duration_ms": 167242,
-      "name": "FAKE",
-      "url": "https://open.spotify.com/track/5nupdztXGdF3PWWwad581p"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "Lacreme",
-        "url": "https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM"
-      },
-      "artists": [
-        {
-          "name": "SVM",
-          "url": "https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL"
-        },
-        {
-          "name": "LEO",
-          "url": "https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Lacreme",
-      "url": "https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/1o3kKZNiluPkE0UIDkpWvn"
-      },
-      "artists": [
-        {
-          "name": "Diora Madama",
-          "url": "https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2"
-        }
-      ],
-      "duration_ms": 172290,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/2V8r2YxPjZTCpfkDvSGcjQ"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "Jeans Appeal",
-        "url": "https://open.spotify.com/album/78dWDklJ4ITsnQ14SIEojh"
-      },
-      "artists": [
-        {
-          "name": "Merrick",
-          "url": "https://open.spotify.com/artist/5msEesooT4udZUDKyp8SPe"
-        }
-      ],
-      "duration_ms": 185842,
-      "name": "Jeans Appeal",
-      "url": "https://open.spotify.com/track/0SnJuW9iXV3s2nTgGN31Nb"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "Fossi nato gemelli",
-        "url": "https://open.spotify.com/album/3W6F44q3hafFKita7WTWpB"
-      },
-      "artists": [
-        {
-          "name": "Nico Arezzo",
-          "url": "https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "Fossi nato gemelli",
-      "url": "https://open.spotify.com/track/6RQaetUr5u5u6X90JeTPIy"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Giorni che esplodono",
         "url": "https://open.spotify.com/album/1EL0DnhlJFQudSGdAwsHEl"
@@ -197,7 +29,207 @@
       "url": "https://open.spotify.com/track/6y2eneVA3eWA3WBADJjyBl"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "San Castrese",
+        "url": "https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G"
+      },
+      "artists": [
+        {
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "O'tiempo",
+      "url": "https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/3klV0mhxXPHdn2pq8gjNDo"
+      },
+      "artists": [
+        {
+          "name": "Wako",
+          "url": "https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx"
+        },
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/6BsRHAOiyM0EULpcTjf91l"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Tra Mille",
+        "url": "https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC"
+      },
+      "artists": [
+        {
+          "name": "ETT",
+          "url": "https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS"
+        }
+      ],
+      "duration_ms": 155320,
+      "name": "Tra Mille",
+      "url": "https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Odissea / Astronave",
+        "url": "https://open.spotify.com/album/1ADCIxjTiItCD5YkuTUtPe"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "duration_ms": 212769,
+      "name": "Odissea / Astronave",
+      "url": "https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Lama d'argento",
+        "url": "https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2"
+      },
+      "artists": [
+        {
+          "name": "Priestess",
+          "url": "https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT"
+        }
+      ],
+      "duration_ms": 209894,
+      "name": "Lama d'argento",
+      "url": "https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "FAKE",
+        "url": "https://open.spotify.com/album/3qIvTuL9WllXp4QBsoREz0"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z"
+        }
+      ],
+      "duration_ms": 167242,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/5nupdztXGdF3PWWwad581p"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Lacreme",
+        "url": "https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM"
+      },
+      "artists": [
+        {
+          "name": "SVM",
+          "url": "https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL"
+        },
+        {
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Lacreme",
+      "url": "https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/1o3kKZNiluPkE0UIDkpWvn"
+      },
+      "artists": [
+        {
+          "name": "Diora Madama",
+          "url": "https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2"
+        }
+      ],
+      "duration_ms": 172290,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2V8r2YxPjZTCpfkDvSGcjQ"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Tutto da rifare",
+        "url": "https://open.spotify.com/album/5BFCtA2Ld80YBsLsjvgL5N"
+      },
+      "artists": [
+        {
+          "name": "Bleu Smith",
+          "url": "https://open.spotify.com/artist/3Pyn6XseElYT90ATJL1xjN"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Tutto da rifare",
+      "url": "https://open.spotify.com/track/2ESOFOksMJ58Pn1K9iVCe8"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Jeans Appeal",
+        "url": "https://open.spotify.com/album/78dWDklJ4ITsnQ14SIEojh"
+      },
+      "artists": [
+        {
+          "name": "Merrick",
+          "url": "https://open.spotify.com/artist/5msEesooT4udZUDKyp8SPe"
+        }
+      ],
+      "duration_ms": 185842,
+      "name": "Jeans Appeal",
+      "url": "https://open.spotify.com/track/0SnJuW9iXV3s2nTgGN31Nb"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Fossi nato gemelli",
+        "url": "https://open.spotify.com/album/3W6F44q3hafFKita7WTWpB"
+      },
+      "artists": [
+        {
+          "name": "Nico Arezzo",
+          "url": "https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "Fossi nato gemelli",
+      "url": "https://open.spotify.com/track/6RQaetUr5u5u6X90JeTPIy"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Soli Qui",
         "url": "https://open.spotify.com/album/3qbYWZEtCkuxy5bKbb3tPA"
@@ -213,7 +245,7 @@
       "url": "https://open.spotify.com/track/3cTUBNsVv0ED2rhbbjFBlC"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Io sono in paranoia",
         "url": "https://open.spotify.com/album/7sEJpEQ8zRtMwv7AD5ujVE"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/4TvvAnvrvyQmdJgv7FASaF"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Ci\u00f2 Che Non Ho",
         "url": "https://open.spotify.com/album/6MIQSo9hmNQjqEwBONo6LC"
@@ -253,7 +285,23 @@
       "url": "https://open.spotify.com/track/25xfeNo9UFTEZUFpgWPYdb"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Stavolta",
+        "url": "https://open.spotify.com/album/10ztXShbbY1hSbQm32UwrS"
+      },
+      "artists": [
+        {
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Stavolta",
+      "url": "https://open.spotify.com/track/0y9C4eT0lKJ0UWUtfrK6FR"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "R&DRILL",
         "url": "https://open.spotify.com/album/1bh96AtCfno8P6R3OBrudh"
@@ -273,7 +321,7 @@
       "url": "https://open.spotify.com/track/7yicqzLOI8Cl2A8g60xzG9"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/7ktPpSLTAJ4mcnfZxQBXnN"
@@ -301,7 +349,47 @@
       "url": "https://open.spotify.com/track/6MCemM0G5xKhsiqD97OOvU"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Giorni che esplodono",
+        "url": "https://open.spotify.com/album/6SVSdsb4X0w73ZnMqQGRHx"
+      },
+      "artists": [
+        {
+          "name": "Mangrovia Twang",
+          "url": "https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg"
+        },
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        }
+      ],
+      "duration_ms": 184370,
+      "name": "Giorni che esplodono",
+      "url": "https://open.spotify.com/track/7KoU2DLPJXnKNIu3ikzgIR"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/0j5ORtEDEXa4btbGSngtst"
+      },
+      "artists": [
+        {
+          "name": "Evra",
+          "url": "https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb"
+        },
+        {
+          "name": "Tuasorellaminore",
+          "url": "https://open.spotify.com/artist/5XDbbJ70a1pfPPo4GRWceT"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/5YFa84aeqziBwADCiX2i73"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Interno N.6",
         "url": "https://open.spotify.com/album/3TBGbh3LTDNsCUMHWX766z"
@@ -317,7 +405,7 @@
       "url": "https://open.spotify.com/track/57SBANqHenDufs98cl35Vl"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Diversi",
         "url": "https://open.spotify.com/album/0tJdwwGSNGDEc2mODFtO1c"
@@ -333,7 +421,23 @@
       "url": "https://open.spotify.com/track/258bYaUpoQ5wJrLzqQ1JEj"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Qualcosa di speciale",
+        "url": "https://open.spotify.com/album/5nLD2f5T4GZ57wUwB9efde"
+      },
+      "artists": [
+        {
+          "name": "Subconscio",
+          "url": "https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh"
+        }
+      ],
+      "duration_ms": 173479,
+      "name": "Qualcosa di Speciale",
+      "url": "https://open.spotify.com/track/4o0fBO8aUszRidx4QAbnsf"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Non mi vuoi pi\u00f9 bene",
         "url": "https://open.spotify.com/album/0QRXE7xhIGxl70M1jIjOdC"
@@ -357,7 +461,7 @@
       "url": "https://open.spotify.com/track/1JDLPzD8ZfFR1sQN6enws4"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "l'ultima volta",
         "url": "https://open.spotify.com/album/3mh8M69DP6zlcAWUQNlMFn"
@@ -373,7 +477,7 @@
       "url": "https://open.spotify.com/track/1esjxDsgrkrBXGhpcMfc64"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Fratelli & Sogni",
         "url": "https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG"
@@ -393,7 +497,23 @@
       "url": "https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "DIAMANTI",
+        "url": "https://open.spotify.com/album/1xHqLNfHuyCFfuDYy2D2wi"
+      },
+      "artists": [
+        {
+          "name": "francesca moretti",
+          "url": "https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "DIAMANTI",
+      "url": "https://open.spotify.com/track/6S3Q6qeGe0DFTDYvO5ZetR"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "UV",
         "url": "https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY"
@@ -413,7 +533,7 @@
       "url": "https://open.spotify.com/track/5S6J3X4G1ulSJyM5D0EUp9"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Se chiedo alla luna",
         "url": "https://open.spotify.com/album/5lom3OWxoJbpyMC2CCWKbw"
@@ -429,7 +549,7 @@
       "url": "https://open.spotify.com/track/2Tk5njSvMXVc8cHpY9FGOy"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Delicatoni",
         "url": "https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA"
@@ -445,7 +565,7 @@
       "url": "https://open.spotify.com/track/1YmNkL6FHnO8GgpN2HqWaS"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "UN'ALTRA NOTTE",
         "url": "https://open.spotify.com/album/0wxai2kIsKcmGlHvSXsPR3"
@@ -465,7 +585,7 @@
       "url": "https://open.spotify.com/track/3pGkGnlkqP1uFnYyzAEspn"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Catena",
         "url": "https://open.spotify.com/album/6483X446suoGQDcMIATLTI"
@@ -481,7 +601,7 @@
       "url": "https://open.spotify.com/track/2pKikj8zRj9cLjWm1ngM1r"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Volevo Portarti Al Mare",
         "url": "https://open.spotify.com/album/0KIp2ubNGwlo2H9DDpegfV"
@@ -497,7 +617,7 @@
       "url": "https://open.spotify.com/track/0GXIWEkfHN5RE3G9Y67bqr"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Tabasco",
         "url": "https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe"
@@ -513,7 +633,7 @@
       "url": "https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Perdo Tempo",
         "url": "https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B"
@@ -529,7 +649,7 @@
       "url": "https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Alice",
         "url": "https://open.spotify.com/album/5yBXRbEwojENjfqDonTFGK"
@@ -545,7 +665,7 @@
       "url": "https://open.spotify.com/track/5zQZLyhTWu7sOWni4HrFrJ"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "CATRAME",
         "url": "https://open.spotify.com/album/7hdFnnjccKNalbYJbnwO8i"
@@ -561,7 +681,7 @@
       "url": "https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "x averti",
         "url": "https://open.spotify.com/album/2uw9IwbZRJwsAZj1Jx8hUu"
@@ -581,7 +701,7 @@
       "url": "https://open.spotify.com/track/3tThvTQnw9UiMiYQFU3GwC"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Ultimo giro",
         "url": "https://open.spotify.com/album/7e3K5vxNW8fjGIGOvCIpAT"
@@ -597,7 +717,7 @@
       "url": "https://open.spotify.com/track/4tOx6QdfZipbqLZhSREDxG"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Invisibile",
         "url": "https://open.spotify.com/album/56qIcB3BWjrEyKy49HB32z"
@@ -613,7 +733,7 @@
       "url": "https://open.spotify.com/track/16ul9kzVQqpjdFat8gRbeM"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Lo Sguardo Degli Angeli",
         "url": "https://open.spotify.com/album/2sPXbn73Q5fK4DN8sCqj5C"
@@ -629,7 +749,7 @@
       "url": "https://open.spotify.com/track/1wql7SfwYxxTpjTIUtL63K"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Pas pour toi",
         "url": "https://open.spotify.com/album/5kw4tP7YxEDnEvJm4Hj2N2"
@@ -645,7 +765,7 @@
       "url": "https://open.spotify.com/track/4ScqPc9ABKT0czGYbc0HLK"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "cento metri",
         "url": "https://open.spotify.com/album/393JFt171sEH0GisXy7WeM"
@@ -661,7 +781,7 @@
       "url": "https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Delicatoni",
         "url": "https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA"
@@ -677,7 +797,7 @@
       "url": "https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Paradiso & Inferno",
         "url": "https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9"
@@ -697,7 +817,7 @@
       "url": "https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Monodose",
         "url": "https://open.spotify.com/album/2RrqdXnY3YzsJAQif4JcW7"
@@ -713,7 +833,7 @@
       "url": "https://open.spotify.com/track/4Doceb3PbB1O4Rdijrn2Qp"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Siberiana",
         "url": "https://open.spotify.com/album/7AyBApLEQ2BOBiGlBEiFar"
@@ -729,7 +849,7 @@
       "url": "https://open.spotify.com/track/4QlmhdJeIc1490DXIm614c"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Non ti sento pi\u00f9",
         "url": "https://open.spotify.com/album/70poOsHGDl7urLq0sfhPKH"
@@ -745,7 +865,7 @@
       "url": "https://open.spotify.com/track/3hdAL9JFNGFRbO4MhzIaVR"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Corpi astrali",
         "url": "https://open.spotify.com/album/27V0XvfNzIv9eOF4IYT4sp"
@@ -765,7 +885,7 @@
       "url": "https://open.spotify.com/track/4yUVZ9AwqvuWOzpJtXScuW"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "tutta la citt\u00e0",
         "url": "https://open.spotify.com/album/1Vnpi1IsmucBnoouygSyTI"
@@ -781,7 +901,7 @@
       "url": "https://open.spotify.com/track/5jZ3gAws7oYZcJ9e9moN2u"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Sei Diventata",
         "url": "https://open.spotify.com/album/7z0slYrWLiphPOMOdPTvBl"
@@ -801,7 +921,7 @@
       "url": "https://open.spotify.com/track/2tGfmcXRFhHnTM1rgDodWF"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Hot Thing",
         "url": "https://open.spotify.com/album/6h0asJFNiWmM0tNapbJKyF"
@@ -817,7 +937,7 @@
       "url": "https://open.spotify.com/track/1HigmdWZNe4G1K7KklpsDp"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Vieni con me",
         "url": "https://open.spotify.com/album/6dRU6IthL0vQcaL6OUcAgi"
@@ -833,7 +953,7 @@
       "url": "https://open.spotify.com/track/7yAJfH5ZGi6FYYNVFoRif8"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "+0881",
         "url": "https://open.spotify.com/album/1IT9xUZiobsYQeaBO6Wq6W"
@@ -857,7 +977,7 @@
       "url": "https://open.spotify.com/track/6VZFonwEjQz2bH05rJXb8x"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "La Ruota",
         "url": "https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG"
@@ -873,7 +993,7 @@
       "url": "https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Ku",
         "url": "https://open.spotify.com/album/4nGcz59HrKCQHjvJVrkwaH"
@@ -889,7 +1009,7 @@
       "url": "https://open.spotify.com/track/40I9VS4TKqDHjd4wyFHw2Y"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/6a608NAL2SvP3U6uI4WQpF"
@@ -909,7 +1029,7 @@
       "url": "https://open.spotify.com/track/0aHzuh1etGgRDpK4enI5T0"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/6Rg2bOenUQB6uQaTS65lA6"
@@ -925,7 +1045,7 @@
       "url": "https://open.spotify.com/track/62AYmj3XkHN0fZGUVCTX44"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Vienna",
         "url": "https://open.spotify.com/album/3FP4ojnhOoKc2GKj5L85yu"
@@ -941,7 +1061,7 @@
       "url": "https://open.spotify.com/track/53KrUxwMNVHjLILF1jyAfn"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Leggera",
         "url": "https://open.spotify.com/album/38u5loF7G4PPZj5aiIXLjk"
@@ -957,7 +1077,7 @@
       "url": "https://open.spotify.com/track/3zvESN9KJ7FSHuzEP14FCM"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "IL TEMPO DELLE MELE",
         "url": "https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w"
@@ -973,7 +1093,7 @@
       "url": "https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/6cUx83dXwKcmjER80iUAWy"
@@ -993,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5JiVlyEvnZj6D3fZEhS9M8"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "MATERIA (TERRA)",
         "url": "https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302"
@@ -1009,7 +1129,7 @@
       "url": "https://open.spotify.com/track/3JNIkNlzpYSVRqRntUVMF0"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "La pi\u00f9 bella",
         "url": "https://open.spotify.com/album/21XWxQ4WH8wyDoKb8rGP3Z"
@@ -1029,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6mBrMo2CUoou15ZRqJpmI3"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Cult",
         "url": "https://open.spotify.com/album/2E7kATBLAHZJFnmOWZhjH8"
@@ -1045,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0LJI0x54X29TStopw2PzFG"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Passatempo",
         "url": "https://open.spotify.com/album/4kZbt4bD50aQgRAg6tJwC5"
@@ -1061,7 +1181,7 @@
       "url": "https://open.spotify.com/track/70URplGTkPeSuAEISU5SxS"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Cos'\u00e8 una regola",
         "url": "https://open.spotify.com/album/1dxJEVmp2GsAC2guij4tJW"
@@ -1077,7 +1197,7 @@
       "url": "https://open.spotify.com/track/4hZat4zoX4ghX3da67nYfl"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Presente Indicativo",
         "url": "https://open.spotify.com/album/2y65ziC6q7ZZSTKtuK2tdF"
@@ -1093,7 +1213,7 @@
       "url": "https://open.spotify.com/track/2lPOGlxqhVx2MAkbrzMQxO"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Come un Film",
         "url": "https://open.spotify.com/album/3h9WDTPIEOddGaxoAW9yeA"
@@ -1109,7 +1229,7 @@
       "url": "https://open.spotify.com/track/39XNBtQcyOgyWEIbreIe8u"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "No eh? Va be'",
         "url": "https://open.spotify.com/album/5SXnrkbFeNPOfFnEHChOX6"
@@ -1125,7 +1245,7 @@
       "url": "https://open.spotify.com/track/64kDlkqrSAg5vha3bK7I8A"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Cose stupide",
         "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
@@ -1141,7 +1261,7 @@
       "url": "https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "LUNES",
         "url": "https://open.spotify.com/album/5rMv8OvpZ9HTyTn5UkGeO5"
@@ -1157,7 +1277,7 @@
       "url": "https://open.spotify.com/track/3ux6HhWQNXS4fjTGuyZcru"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "come le canzoni stonate",
         "url": "https://open.spotify.com/album/7GpitQPJM57M3jJ8DcxVMb"
@@ -1173,7 +1293,7 @@
       "url": "https://open.spotify.com/track/7pmRJ2TA1iqx2Pdt5V4b9K"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Vicino",
         "url": "https://open.spotify.com/album/4UakhMQpfKJaEk7CzZ9mLk"
@@ -1193,7 +1313,7 @@
       "url": "https://open.spotify.com/track/73teXUHwtke0LElEq9dpYN"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Occhi su di me",
         "url": "https://open.spotify.com/album/7wfpmJ9NtGrSFlOwfR93PB"
@@ -1209,7 +1329,7 @@
       "url": "https://open.spotify.com/track/4oh46p9qC3Z2E3QM2cSr59"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Universo",
         "url": "https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I"
@@ -1225,7 +1345,7 @@
       "url": "https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "LUCE",
         "url": "https://open.spotify.com/album/1UCn39AYANQdyJLb4niuPk"
@@ -1245,7 +1365,7 @@
       "url": "https://open.spotify.com/track/36b3q6725OsbEUGZKCrSLW"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Grido (Di Notte)",
         "url": "https://open.spotify.com/album/16aqA0wKV2jEwbeV50ffLw"
@@ -1269,7 +1389,7 @@
       "url": "https://open.spotify.com/track/2Ly5ZoBeOeUaNGaXk3UKIR"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "tu sonrisa de dise\u00f1o",
         "url": "https://open.spotify.com/album/6hX4z8fr1EHZs8lOnhanG9"
@@ -1289,7 +1409,7 @@
       "url": "https://open.spotify.com/track/53FfBBPlNbJS170DxtuSWS"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "LACRIME D'ORO",
         "url": "https://open.spotify.com/album/1yQj474qyH6wbzfQ6mlsmw"
@@ -1305,7 +1425,7 @@
       "url": "https://open.spotify.com/track/4HlpFmqICHyhgPZJlcp3Vw"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Sparring Partner",
         "url": "https://open.spotify.com/album/6zB8hy11G0P75DYhXPTrir"
@@ -1321,7 +1441,7 @@
       "url": "https://open.spotify.com/track/1cD0Yb3NyGkatnm6fVx9tQ"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "FUOCO (LA NOTTE)",
         "url": "https://open.spotify.com/album/3FFJZI70SRGC1M9zk5h5Ub"
@@ -1337,7 +1457,7 @@
       "url": "https://open.spotify.com/track/53Hycm3y3MMRzXKfr1ZfVU"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Dispersi",
         "url": "https://open.spotify.com/album/4eXZ2OUE8YzADOsUhKaD6l"
@@ -1353,7 +1473,7 @@
       "url": "https://open.spotify.com/track/6DRQhfzlmOEfdvft0bMPGE"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Lo-Fi Love",
         "url": "https://open.spotify.com/album/7wABqEPQRQxxIpc5Ng3i4r"
@@ -1369,7 +1489,7 @@
       "url": "https://open.spotify.com/track/6CYmeURWTreGKriMFHcPiV"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Uccidersi per Sbaglio",
         "url": "https://open.spotify.com/album/4zpv68HMIc0q7Ldpv81WlB"
@@ -1389,7 +1509,7 @@
       "url": "https://open.spotify.com/track/5OlG9tBd7yfmrrMavKfTl5"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Hangover",
         "url": "https://open.spotify.com/album/1SMfOswIVtLfDi3fEB3A9Q"
@@ -1409,7 +1529,7 @@
       "url": "https://open.spotify.com/track/2KYiGWhzTezhiurZpd8g4f"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Sparami (feat. Inoki)",
         "url": "https://open.spotify.com/album/0BAQ3TAYXH3ehu2wSDv4OJ"
@@ -1429,27 +1549,7 @@
       "url": "https://open.spotify.com/track/4EPXHRT5x0TVctWWJ7RbHQ"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
-      "album": {
-        "name": "Giorni che esplodono",
-        "url": "https://open.spotify.com/album/6SVSdsb4X0w73ZnMqQGRHx"
-      },
-      "artists": [
-        {
-          "name": "Mangrovia Twang",
-          "url": "https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg"
-        },
-        {
-          "name": "Lauryyn",
-          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
-        }
-      ],
-      "duration_ms": 184370,
-      "name": "Giorni che esplodono",
-      "url": "https://open.spotify.com/track/7KoU2DLPJXnKNIu3ikzgIR"
-    },
-    {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/3ZfBvSBao0yS0MDU2vCOyZ"
@@ -1465,7 +1565,7 @@
       "url": "https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Anime Gemelle",
         "url": "https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB"
@@ -1485,7 +1585,7 @@
       "url": "https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Je so accuss\u00ec",
         "url": "https://open.spotify.com/album/2IypMkbbnccB6T3exs2u0b"
@@ -1505,7 +1605,7 @@
       "url": "https://open.spotify.com/track/5QougSlOCoMqyHAVzK5Qc0"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Fior di glicine",
         "url": "https://open.spotify.com/album/3KTYT0lzuD9WSaMah6hU55"
@@ -1529,7 +1629,7 @@
       "url": "https://open.spotify.com/track/3XdumBkBt85bdQTMGEdbEn"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi"
@@ -1545,7 +1645,7 @@
       "url": "https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Ossessione",
         "url": "https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy"
@@ -1561,7 +1661,7 @@
       "url": "https://open.spotify.com/track/2xTA9Fzx9W1VoqZAslxhgU"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Dov'\u00e8 l'amore",
         "url": "https://open.spotify.com/album/70Du0a2JKApIs12n9y1vJK"
@@ -1577,7 +1677,7 @@
       "url": "https://open.spotify.com/track/6txQf8yhBknrS0QCqQaBC2"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "DIVISO DUE",
         "url": "https://open.spotify.com/album/109751QGcD8dQsdnYnKNck"
@@ -1593,7 +1693,7 @@
       "url": "https://open.spotify.com/track/6eIPv0RqhVJiExImD71D97"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Settembre",
         "url": "https://open.spotify.com/album/3iBeceXDxmYczEHVFLYWZC"
@@ -1609,7 +1709,7 @@
       "url": "https://open.spotify.com/track/0V7oH1zg5Rmevnv2hx1v0n"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Pesca Noche",
         "url": "https://open.spotify.com/album/3uE4tgA8f7mFxngunL6206"
@@ -1629,7 +1729,7 @@
       "url": "https://open.spotify.com/track/4K8CrCx25sTLfexADXFboz"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Come fai",
         "url": "https://open.spotify.com/album/2HmFp6CpCpiG1ez0AsOc62"
@@ -1645,7 +1745,7 @@
       "url": "https://open.spotify.com/track/6EZ6ay901NLycnIWyMCEni"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "non ci sta",
         "url": "https://open.spotify.com/album/6vQiCy1LkSCCfwESVLe5a0"
@@ -1661,7 +1761,7 @@
       "url": "https://open.spotify.com/track/4atRzLSh8tx0lsVsmgHTTu"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "confessioni",
         "url": "https://open.spotify.com/album/4SXQ82iVI2XZSRjn16qKrz"
@@ -1681,7 +1781,7 @@
       "url": "https://open.spotify.com/track/6DDjZYfWPO9f9wd5B8F9RO"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "balliamo",
         "url": "https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH"
@@ -1697,7 +1797,7 @@
       "url": "https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Felpa",
         "url": "https://open.spotify.com/album/23UwjDGJgmbbTNdFgDGIVR"
@@ -1713,7 +1813,7 @@
       "url": "https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Easy Girl",
         "url": "https://open.spotify.com/album/3jipkFOtx8adiuJqudvV5C"
@@ -1729,7 +1829,7 @@
       "url": "https://open.spotify.com/track/7dAcl4BwYFs1wetMYhUHw3"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Lacrime dolci",
         "url": "https://open.spotify.com/album/6Fpaqs6bsEXWhG2bE2NgCm"
@@ -1745,7 +1845,7 @@
       "url": "https://open.spotify.com/track/5jTUqOCEHL8VzXGibJWlwf"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Stai tra fra",
         "url": "https://open.spotify.com/album/6nqXNm6sHNLt29nr3MzLhN"
@@ -1761,7 +1861,7 @@
       "url": "https://open.spotify.com/track/0bP9y38PARMlFUrT984lp0"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Coppa Martini",
         "url": "https://open.spotify.com/album/6P41Fu8o0MclS4ExYl6uUO"
@@ -1777,7 +1877,7 @@
       "url": "https://open.spotify.com/track/3RVwiSkSpjzEvfO08tCH2J"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Lunatica",
         "url": "https://open.spotify.com/album/76Baf3jjsQ5NsoxQGPiim6"
@@ -1793,7 +1893,7 @@
       "url": "https://open.spotify.com/track/5u7C2wWsB5iALTL6v4HNJs"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Originali",
         "url": "https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU"
@@ -1809,7 +1909,7 @@
       "url": "https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Domani",
         "url": "https://open.spotify.com/album/7eAu1k5HMSGehcGPpRCMxu"
@@ -1837,7 +1937,7 @@
       "url": "https://open.spotify.com/track/2m8xEUL7S1Q0qmYYNjS2rQ"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Neve Nostalgia",
         "url": "https://open.spotify.com/album/5v1omc0DtCHJu8lQKdt0tK"
@@ -1857,7 +1957,7 @@
       "url": "https://open.spotify.com/track/5Oi2WD7QCm7QauxSCfkCla"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Rotterdam",
         "url": "https://open.spotify.com/album/5Hh1Yp8l8vZNDaNGS5mAco"
@@ -1873,7 +1973,7 @@
       "url": "https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "CD",
         "url": "https://open.spotify.com/album/1uNXOV1SMmAqjTvIu5gdNw"
@@ -1889,7 +1989,7 @@
       "url": "https://open.spotify.com/track/0aIlrqoiw0VEJ3sI5niW57"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Come nevicando",
         "url": "https://open.spotify.com/album/7HTq4YrBhejxyxsPgYBtSR"
@@ -1909,7 +2009,7 @@
       "url": "https://open.spotify.com/track/7v7OHQ2N49DhiEIQcj9O80"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Sul fondo",
         "url": "https://open.spotify.com/album/2MKGwFKpeTYvcCqbUtwLzo"
@@ -1925,7 +2025,7 @@
       "url": "https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Girls In Purgatory (Full Moon Edition)",
         "url": "https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia"
@@ -1945,7 +2045,7 @@
       "url": "https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW"
     },
     {
-      "added_at": "2022-06-30 22:01:00",
+      "added_at": "2022-07-07 22:01:00",
       "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/5c71nbw4lllzQE8AKXO7yH"

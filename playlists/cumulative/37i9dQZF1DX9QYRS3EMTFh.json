@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Bamby",
+  "description": "Les hits dancehall du moment. Photo : Its Natascha",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -382,6 +382,46 @@
     },
     {
       "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/5EJsDFoL9jqVOsCS2UnXil"
+      },
+      "artists": [
+        {
+          "name": "Lamboginny",
+          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132310,
+      "name": "Count Your Blessings",
+      "url": "https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM"
+    },
+    {
+      "album": {
+        "name": "Wordle Riddim",
+        "url": "https://open.spotify.com/album/5Qzyi64m3ak0GXtcd5bemz"
+      },
+      "artists": [
+        {
+          "name": "Pop Style",
+          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "Dancehall",
+      "url": "https://open.spotify.com/track/2sCG5Iwv9GdYNViAs5b7Gy"
+    },
+    {
+      "album": {
         "name": "Dancehall Wine",
         "url": "https://open.spotify.com/album/6wW1nEfVxqFVjJpeAXEKQO"
       },
@@ -561,7 +601,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 205810,
       "name": "Fight and win",
       "url": "https://open.spotify.com/track/7pRLfX2thIxTzT0bKiEuK6"
@@ -1071,7 +1111,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 183673,
       "name": "Jo",
       "url": "https://open.spotify.com/track/6MF7A93KnwAffYjUw0G19O"
@@ -1420,6 +1460,28 @@
     },
     {
       "album": {
+        "name": "Miss & Mr",
+        "url": "https://open.spotify.com/album/6prBtCqqHyInlikYG3XyUa"
+      },
+      "artists": [
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        },
+        {
+          "name": "Jahlys",
+          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186382,
+      "name": "Miss & Mr",
+      "url": "https://open.spotify.com/track/6gc4MOrOElugiJh2I1uL1N"
+    },
+    {
+      "album": {
         "name": "MOB$TA#2",
         "url": "https://open.spotify.com/album/02lvaqAYeBV4Lks5uIMJUR"
       },
@@ -1571,7 +1633,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 210922,
       "name": "No Fear (feat. Damian Marley & Nicky Jam)",
       "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
@@ -1989,7 +2051,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 221583,
       "name": "Skeleton Cartier",
       "url": "https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og"

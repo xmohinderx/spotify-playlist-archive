@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,330 likes - 71 songs - 4 hr 10 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,329 likes - 73 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 69 | [Real Life \- Alex Preston Remix](https://open.spotify.com/track/7EpAUuSOOCOytPVjiBTllB) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Real Life \(Remixes\)](https://open.spotify.com/album/0bUx8416niknm1utNHSPvi) | 5:20 |
 | 70 | [Forever and Ever](https://open.spotify.com/track/6LQvXuT1B693YJ32QqoOd4) | [Kilter](https://open.spotify.com/artist/2syYGtINPRno1nxxil7UcJ), [Brain Flowers](https://open.spotify.com/artist/31imdiZgUutxbuMl8PH20G) | [Forever and Ever](https://open.spotify.com/album/3YX7OgGVq28qpQo4585WRm) | 3:52 |
 | 71 | [on the hill](https://open.spotify.com/track/33uIddmYbMTtXea5qTfwLT) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG), [Finn Sigil](https://open.spotify.com/artist/4hUoSB0GFnGjmwUouW4Z2O) | [Mage 1](https://open.spotify.com/album/0WzFWjxpn9M2vQJS1jxcGR) | 4:40 |
+| 72 | [sun+tide](https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [everythingeverydayeverything](https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV) | 3:43 |
+| 73 | [Calle De Silva 6](https://open.spotify.com/track/4bzvRGIfL83G3RzasLgUH3) | [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Calle De Silva 6](https://open.spotify.com/album/5OpqN5kyrLcxsyJMwwYGP5) | 2:29 |
 
-Snapshot ID: `OTc4NSxjZDU0ZjZhNjFiM2I2OWY4YzAyMzQyMDdiMWZjMzNkNTQ0NDczYWU4`
+Snapshot ID: `OTc4Nyw3MmE0Y2Y4NTAyYzAzZmQyOTI0OGY2YzQyZTlhM2UzZWY1ZDU0MzI1`

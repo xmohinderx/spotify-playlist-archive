@@ -690,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Calle De Silva 6",
+        "url": "https://open.spotify.com/album/5OpqN5kyrLcxsyJMwwYGP5"
+      },
+      "artists": [
+        {
+          "name": "Kwesi",
+          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149603,
+      "name": "Calle De Silva 6",
+      "url": "https://open.spotify.com/track/4bzvRGIfL83G3RzasLgUH3"
+    },
+    {
+      "album": {
         "name": "BUFFERING...",
         "url": "https://open.spotify.com/album/5p611tPdHx6106delXBiHv"
       },
@@ -3937,6 +3955,24 @@
       "duration_ms": 253523,
       "name": "Sun & Moon - Manila Killa Remix",
       "url": "https://open.spotify.com/track/1ulJG8ELvRv1za2KTYoPSP"
+    },
+    {
+      "album": {
+        "name": "everythingeverydayeverything",
+        "url": "https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV"
+      },
+      "artists": [
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223464,
+      "name": "sun+tide",
+      "url": "https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR"
     },
     {
       "album": {

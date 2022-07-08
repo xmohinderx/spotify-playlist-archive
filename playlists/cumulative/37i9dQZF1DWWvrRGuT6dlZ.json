@@ -384,6 +384,24 @@
     },
     {
       "album": {
+        "name": "Believe In You",
+        "url": "https://open.spotify.com/album/79JGAQuIIPYNKlVGtIjA4N"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ashley",
+          "url": "https://open.spotify.com/artist/7yqiktW2LbSk4i5jThiOxq"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266057,
+      "name": "Believe In You",
+      "url": "https://open.spotify.com/track/2b8iLygyF2HIyVsXhz1zkJ"
+    },
+    {
+      "album": {
         "name": "Cherish",
         "url": "https://open.spotify.com/album/44FFa9jFQXaNfhv4u8vR2S"
       },
@@ -475,7 +493,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 185196,
       "name": "Bonfire",
       "url": "https://open.spotify.com/track/4F2Hm9Iu84ribXJf0ZUDpl"
@@ -551,6 +569,24 @@
       "duration_ms": 198000,
       "name": "Call Out",
       "url": "https://open.spotify.com/track/5cnCKbndudY9uSCzmDY6rG"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/287ZxrPxu76GbmQbW1FUL6"
+      },
+      "artists": [
+        {
+          "name": "Reserjang",
+          "url": "https://open.spotify.com/artist/44kwE1o3CXTpYUgQ4TL8KI"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3uRmS7TmFRSMjl3XWruTv1"
     },
     {
       "album": {
@@ -896,6 +932,24 @@
     },
     {
       "album": {
+        "name": "Day Before A Monday",
+        "url": "https://open.spotify.com/album/2nHZP0OYA9fkCD1oScgtD0"
+      },
+      "artists": [
+        {
+          "name": "Shohini",
+          "url": "https://open.spotify.com/artist/3WcxoMXDOK4nZBUCm1QCSd"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238861,
+      "name": "Day Before A Monday",
+      "url": "https://open.spotify.com/track/5LORh9bIQvxVTaO1oqEVUi"
+    },
+    {
+      "album": {
         "name": "Daytona",
         "url": "https://open.spotify.com/album/3mMRGL1nC2Lj965eQZaiAw"
       },
@@ -979,7 +1033,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 164000,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4enRXp0XqK8Xy6FJyPuuaf"
@@ -1171,6 +1225,28 @@
       "duration_ms": 225124,
       "name": "Edge Of The World",
       "url": "https://open.spotify.com/track/7rPcWcfXJET5aQXYF2XLbo"
+    },
+    {
+      "album": {
+        "name": "Endless High",
+        "url": "https://open.spotify.com/album/1wKSTy6l7BsbALioBqV4KH"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cara",
+          "url": "https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ"
+        },
+        {
+          "name": "Wrong Denzel",
+          "url": "https://open.spotify.com/artist/1vltqiKorKKAj01T0Y1pBZ"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242181,
+      "name": "Endless High",
+      "url": "https://open.spotify.com/track/5tlQN2tMlZkr2bm4WK4R1v"
     },
     {
       "album": {
@@ -1666,6 +1742,24 @@
     },
     {
       "album": {
+        "name": "Hot Sauce",
+        "url": "https://open.spotify.com/album/7dEQzGm9KcIxWukfhZjUcM"
+      },
+      "artists": [
+        {
+          "name": "J.M3",
+          "url": "https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/4KOK9rRVZY9Wp7Buh1oZDj"
+    },
+    {
+      "album": {
         "name": "house of cards",
         "url": "https://open.spotify.com/album/7LMM6fXEJJruiB5ymIITjx"
       },
@@ -1681,6 +1775,28 @@
       "duration_ms": 197500,
       "name": "house of cards",
       "url": "https://open.spotify.com/track/08bMB0bZGVejanNWzsm0Ah"
+    },
+    {
+      "album": {
+        "name": "How do I survive ?",
+        "url": "https://open.spotify.com/album/4ty39NXUIEOowUjtWjgW40"
+      },
+      "artists": [
+        {
+          "name": "Raf Kairyl",
+          "url": "https://open.spotify.com/artist/5t6OuSln7p4rnAwizjzSyT"
+        },
+        {
+          "name": "K-Mobu",
+          "url": "https://open.spotify.com/artist/6CBN8htbmAsThxTb2TWvUQ"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "How do I survive ?",
+      "url": "https://open.spotify.com/track/0NO6ukpDZS0qFaZ0weDDwA"
     },
     {
       "album": {
@@ -1855,7 +1971,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 199874,
       "name": "I need u",
       "url": "https://open.spotify.com/track/7E4mIxuhnNL856aydrP0B7"
@@ -2021,7 +2137,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 190370,
       "name": "JADED",
       "url": "https://open.spotify.com/track/3JLRDi6U0BXwWzkqXjliIn"
@@ -2082,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "Keep On Smiling",
+        "url": "https://open.spotify.com/album/5pjQPnr9OwEcuQ4T2LffmX"
+      },
+      "artists": [
+        {
+          "name": "Drichulous",
+          "url": "https://open.spotify.com/artist/1XeAeRWILDePCKo2OSvjjB"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168699,
+      "name": "Keep On Smiling",
+      "url": "https://open.spotify.com/track/3NYBXsmtc2kWPYKSBDX7bB"
+    },
+    {
+      "album": {
         "name": "Kiss Me In The Rain",
         "url": "https://open.spotify.com/album/0Yi9xC5oEUCnM5hDSvGYxE"
       },
@@ -2129,7 +2263,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 149538,
       "name": "least of u",
       "url": "https://open.spotify.com/track/3OE0fTXpnWRZKJWkBcpfPT"
@@ -2546,6 +2680,24 @@
     },
     {
       "album": {
+        "name": "midnight",
+        "url": "https://open.spotify.com/album/52ZpwE72Y4bGcyY4XjkFre"
+      },
+      "artists": [
+        {
+          "name": "Rush Martines",
+          "url": "https://open.spotify.com/artist/2DfGCdKwXsfavSVSlcefIC"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193071,
+      "name": "midnight",
+      "url": "https://open.spotify.com/track/2qfhWH1YdfYtZ86nFFZeDt"
+    },
+    {
+      "album": {
         "name": "Minah",
         "url": "https://open.spotify.com/album/620YKeHPzLkjmX6eLv0Phf"
       },
@@ -2717,6 +2869,24 @@
       "duration_ms": 194835,
       "name": "NEVER",
       "url": "https://open.spotify.com/track/7xPZnlty5gBy92kgqGtX6u"
+    },
+    {
+      "album": {
+        "name": "NEW BOOM BAP",
+        "url": "https://open.spotify.com/album/2RsHIHYY0WncSLIrYpItFY"
+      },
+      "artists": [
+        {
+          "name": "CZALM",
+          "url": "https://open.spotify.com/artist/3jlcCk5J1KEvF3zrCMAFyp"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "NEW BOOM BAP",
+      "url": "https://open.spotify.com/track/4t91Tm4XHy0ZI27AwkfT7Q"
     },
     {
       "album": {
@@ -2963,7 +3133,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 141121,
       "name": "OVER",
       "url": "https://open.spotify.com/track/4NmZMyrKqf37ST8Retl1TW"
@@ -2999,7 +3169,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 203847,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/7MFMicI9kiV2QKmhSzhGTr"
@@ -3057,7 +3227,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 212027,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/2Z25fVRiv9kkCuYCpqf8dX"
@@ -3665,7 +3835,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 243797,
       "name": "the moon",
       "url": "https://open.spotify.com/track/0RetyWjqdLJrSy3JvJqiPj"
@@ -3773,7 +3943,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 178106,
       "name": "Together",
       "url": "https://open.spotify.com/track/3TJIMpjbW492DHb54atSFL"

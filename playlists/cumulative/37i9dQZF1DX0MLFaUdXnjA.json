@@ -4318,6 +4318,28 @@
     },
     {
       "album": {
+        "name": "Don't Forget My Love (Acoustic)",
+        "url": "https://open.spotify.com/album/5eJcgHJfIcP6HMQu7ZlnMm"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "Don't Forget My Love - Acoustic",
+      "url": "https://open.spotify.com/track/1n8Dak8MPeZ82E3iPzWyzH"
+    },
+    {
+      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/54glTEevDoOTqfBVNmlQtx"
       },

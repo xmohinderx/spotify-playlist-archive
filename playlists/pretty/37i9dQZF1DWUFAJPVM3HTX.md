@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Yoshi T
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,590 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,801 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 62 | [Red Handed](https://open.spotify.com/track/61k46pWQAEEwpagctUMgry) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n) | [Red Handed](https://open.spotify.com/album/67mUKShwkfh8J6NACuQ85k) | 2:48 |
 | 63 | [Garden](https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Garden](https://open.spotify.com/album/2AZjeSF9UHQkPhyjMXP9aa) | 2:28 |
 | 64 | [Sucré](https://open.spotify.com/track/1nPqHhpCGBVj9FE7m7zgiy) | [noiir](https://open.spotify.com/artist/4fajmnCbACvqKxvd2jXyxz), [Juic3Boy](https://open.spotify.com/artist/5wb69ju4N9tnD2Po57xNs5) | [Sucré](https://open.spotify.com/album/6zt4y1B8i4TnSvxtcXrEwY) | 2:36 |
-| 65 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
+| 65 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
 | 66 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 |
 | 67 | [Energy](https://open.spotify.com/track/12q3pDcjI9HYZwd5rhSSvY) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Loss Of Valuable Energy \(L.O.V.E.\)](https://open.spotify.com/album/0goRiyw1IR5vSWD8UNfnmy) | 3:16 |
 | 68 | [keisha](https://open.spotify.com/track/0ICoAzphnJ3i5I9KHcBLdo) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [keisha](https://open.spotify.com/album/6lIhuQnAGRVi0DMNUmdNCD) | 2:55 |

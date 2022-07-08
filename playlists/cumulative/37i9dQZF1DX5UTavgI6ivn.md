@@ -2,9 +2,9 @@
 
 ### [Made In Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
 
-> Representando la cultura con orgullo\. Representing with pride! Cover: Karol G
+> Representando la cultura con orgullo\. Representing with pride! Cover: Feid
 
-121 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
+123 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 | 2022-05-28 |  |
 | [Millones](https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:41 | 2022-01-12 |  |
 | [Mocca \- Remix](https://open.spotify.com/track/1usoXi4f0BnMART4uActEA) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Trapical](https://open.spotify.com/artist/1akovilveREPmx1E535jJU) | [Mocca \(Remix\)](https://open.spotify.com/album/5e17MvJeEUfTQJ2Ygu6acn) | 3:22 | 2022-01-12 |  |
+| [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2022-07-08 |  |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-05-28 |  |
 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 | 2022-01-12 |  |
 | [Más De Ti](https://open.spotify.com/track/4svaGEtJdr5gdhBvdIkGaL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Más De Ti](https://open.spotify.com/album/2CN1yjEVnshrIJ2lKHIWMn) | 3:10 | 2022-01-12 |  |
@@ -81,6 +82,7 @@
 | [No Me Mientas \- Versión Especial](https://open.spotify.com/track/3dtK0iUS9zrC8D9fHrM175) | [Mauricio & PalodeAgua](https://open.spotify.com/artist/3odWGV3m6MfdawwEXIyyhr), [Salo](https://open.spotify.com/artist/017ABXmkLtlACQrBeTdvlV), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Sebastián Yepes](https://open.spotify.com/artist/0MgNwuvlfchpQObRwfqPx0), [Juan Felipe Samper](https://open.spotify.com/artist/5pyxhce2Lhf61IAu9297NF) | [No Me Mientas \(Versión Especial\)](https://open.spotify.com/album/4imf7y6E7mN6MoRJ3NVAAT) | 2:59 | 2022-01-12 | 2022-02-03 |
 | [No Te Creo](https://open.spotify.com/track/4UcRV7KP7Je3yILEPe3gdf) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [No Te Creo](https://open.spotify.com/album/71FfsHIciDmAJdfA0oB0bW) | 3:42 | 2022-01-12 |  |
 | [No Te Vayas](https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Te Vayas](https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9) | 3:46 | 2022-01-12 | 2022-05-29 |
+| [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-08 |  |
 | [Nuestro Secreto](https://open.spotify.com/track/2sBTBHbqkwz0qSDhKsQ4OQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:29 | 2022-01-12 |  |
 | [Nunca Te Olvidé](https://open.spotify.com/track/3OeYgrFYUOSyA3XOWBCaLS) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Te Olvidé](https://open.spotify.com/album/488U2P85QxXRlBvj5H5rGm) | 3:31 | 2022-01-12 |  |
 | [Nuqui \(Te Quiero Para Mi\) \- Versión Urbana](https://open.spotify.com/track/1ccA2GQoOmIX0gYYhOASns) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Nuqui \(Te Quiero Para Mi\) EP](https://open.spotify.com/album/7bdZs47pIJ0VlkSQXaUjZg) | 3:26 | 2022-01-12 |  |

@@ -2,9 +2,9 @@
 
 ### [Ambient Shoegaze](https://open.spotify.com/playlist/37i9dQZF1DWYIlyW5yvFjI)
 
-> Beautiful noise: when Shoegaze goes Ambient.
+> Beautiful noise: when Shoegaze goes Ambient\. Cocteau Twins on cover.
 
-74 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
+75 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [sovfx](https://open.spotify.com/track/3xqTSrrpVIj66VZtin03oj) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [Voirshn](https://open.spotify.com/album/2T0luu0TDaGbKfKVvQiWQW) | 3:40 | 2022-04-08 |  |
 | [Stained Glass Body](https://open.spotify.com/track/395kkfqRukDVft9bfzpJ7V) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Love Is A Stream](https://open.spotify.com/album/0PeiGSI11Ym2KeXhIYjtf5) | 5:28 | 2022-04-08 |  |
 | [Sunbathing](https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4) | 3:11 | 2022-04-08 |  |
+| [Sunlight crying](https://open.spotify.com/track/360NvrhUSzWSbBfCCuADPv) | [Raum](https://open.spotify.com/artist/6Qsrt0RPmIemQhHjCYDnCU) | [Daughter](https://open.spotify.com/album/6beHH4VPWefU6S7JzaXllj) | 7:33 | 2022-07-07 |  |
 | [Sunrise](https://open.spotify.com/track/4ICvDl03lQOVwJq9WVFVc5) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Antarctica: Bliss Out v.2](https://open.spotify.com/album/5hMi6ouwcemUnLYdBBWDlg) | 8:33 | 2022-04-08 |  |
 | [Super Timeknowing Gentleman](https://open.spotify.com/track/6RgA0Bs2Fzt3LfXEcdFiNq) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Nature Heart Software](https://open.spotify.com/album/25NpVtdgL29klIrre3mion) | 2:23 | 2022-04-08 |  |
 | [Tapir](https://open.spotify.com/track/65L1bYGDGVWBQT1mWL1kYa) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Tapir](https://open.spotify.com/album/1irDXGPlQ4AjsrMGepCbKG) | 4:03 | 2022-04-08 |  |

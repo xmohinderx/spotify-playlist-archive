@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmyIPX2ivrY.md) - [plain]
 
 > Gentle classical music for you and your baby, proven to stimulate your little one's brain activity in the womb during pregnancy, and as a newborn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457 likes - 31 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 31 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

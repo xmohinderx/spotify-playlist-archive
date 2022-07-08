@@ -2,7 +2,7 @@
 
 ### [Mollywood Gold](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> An exclusive collection of Malayalam super hit songs.<br/>Cover: Minnal Murali
+> An exclusive collection of Malayalam super hit songs.<br/>Cover: Aarattu
 
 61 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/10m0BYH7vx3vQP94cQIjSm)
 

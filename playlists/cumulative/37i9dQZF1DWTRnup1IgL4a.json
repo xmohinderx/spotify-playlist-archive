@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/3cMpbmbHDRFojvimdEOIlV"
+      },
+      "artists": [
+        {
+          "name": "Esteban Delano",
+          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104840,
+      "name": "Au Revoir",
+      "url": "https://open.spotify.com/track/205qtb3ouMjfPrvxiqBG5v"
+    },
+    {
+      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV"
       },

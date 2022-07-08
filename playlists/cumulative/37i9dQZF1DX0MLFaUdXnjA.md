@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Taylor Swift
 
-979 songs - 2 day 3 hr 52 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+980 songs - 2 day 3 hr 55 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-07-04 | 2021-08-21 |
 | [Don't Blame It On Love](https://open.spotify.com/track/2Z4kEzYRGKCKRv9QttvBrW) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Don't Blame It On Love](https://open.spotify.com/album/5RLZKkvBO2cJWJ7ZeiyqYv) | 3:17 | 2021-06-26 | 2021-08-07 |
 | [Don't Ever Leave](https://open.spotify.com/track/6drtmkgMWpehwKX2si4DEl) | [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Don't Ever Leave](https://open.spotify.com/album/5w92T9ZtddS6IhgPkpfnXX) | 2:28 | 2020-10-02 | 2021-02-19 |
+| [Don't Forget My Love \- Acoustic](https://open.spotify.com/track/1n8Dak8MPeZ82E3iPzWyzH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love \(Acoustic\)](https://open.spotify.com/album/5eJcgHJfIcP6HMQu7ZlnMm) | 3:14 | 2022-07-01 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/692eaPfP2aoBCldTXYxdwm) | [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz) | [Don't Let Me Down](https://open.spotify.com/album/54glTEevDoOTqfBVNmlQtx) | 3:50 | 2020-10-30 | 2020-11-21 |
 | [Don't Really Wanna Know](https://open.spotify.com/track/5JhyQVF00K4YiYjDZ5bf4x) | [Modslee](https://open.spotify.com/artist/0lD2xlIDx6kyBvbdz2Uu2C), [Ariza](https://open.spotify.com/artist/2DgUJ5AA3XmXe2CUmE3laE) | [Don't Really Wanna Know](https://open.spotify.com/album/70BnRPJ0at7LXRJebxBr3s) | 2:41 | 2020-04-26\* | 2020-09-04 |
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2020-09-11 | 2020-10-02 |

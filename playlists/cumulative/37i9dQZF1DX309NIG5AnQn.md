@@ -4,7 +4,7 @@
 
 > Hay otro sonido y lo encontrás acá\. <br/>Foto: Buenos Vampiros.
 
-79 songs - 4 hr 25 min - not published yet
+79 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/5FP3dwk8hADhOl8RSWpO0T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: Micro TDH, Jerry Di, Big Soto, ADSO, Akapellah
+> Aquí está el sonido urbano de Venezuela\. Cover: Danny Ocean
 
-75 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
+76 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Combina](https://open.spotify.com/track/3ZRstEup7FvszzoJaDbDWk) | [EstoeSPosdata](https://open.spotify.com/artist/78xJabNNsBJOz0uuBY23cN), [Jisa](https://open.spotify.com/artist/1eW3fgEEXYMqD2jc6EWEZs), [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Jair Blanco](https://open.spotify.com/artist/3nxRFYiToLJqHdM05Pmq8n), [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [Combina](https://open.spotify.com/album/5TtVx5OfmsCB1vCrnKT6nv) | 5:13 | 2022-03-11 |  |
 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 | 2022-03-11 |  |
 | [Como Si Nada \- Remix](https://open.spotify.com/track/2ZSA8W4UA7cjTtFfi1nxjM) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Como Si Nada \(Remix\)](https://open.spotify.com/album/1t4jCxHtWOCxPA5l5gBZrb) | 4:22 | 2022-03-11 |  |
-| [Cuando Quieras \- Remix](https://open.spotify.com/track/2Le3wJyr5NDDEhYIll7GLj) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:56 | 2022-03-11 |  |
+| [Cuando Quieras \- Remix](https://open.spotify.com/track/2Le3wJyr5NDDEhYIll7GLj) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:56 | 2022-03-11 | 2022-07-08 |
 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-27 |  |
 | [DCDT](https://open.spotify.com/track/1apSC9rsvoo2vJfeFCrHvp) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [DCDT](https://open.spotify.com/album/4bccskjZqHXf82lnKVsjeK) | 2:12 | 2022-04-22 |  |
 | [Dime Cuantas Veces](https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Dime Cuantas Veces](https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd) | 3:33 | 2022-03-11 |  |
@@ -41,7 +41,7 @@
 | [Fuego](https://open.spotify.com/track/18hAN4TYNwXERnzAzZu5Tt) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Fuego](https://open.spotify.com/album/1DtyUnwykOKQ6n0UE1Gj1B) | 3:34 | 2022-03-11 | 2022-04-09 |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hasta Que Salga el Sol](https://open.spotify.com/album/1z3dJze0v30WJxORECHCE8) | 3:29 | 2022-03-11 |  |
 | [HP](https://open.spotify.com/track/3kfXOIL2AvwrzS5cT5RjED) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [HP](https://open.spotify.com/album/66Nzq7BM0gIRLz47lNdg1W) | 3:24 | 2022-06-10 |  |
-| [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 | 2022-03-11 |  |
+| [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 | 2022-03-11 | 2022-07-08 |
 | [Lloro :'\(](https://open.spotify.com/track/4t7l6bftv8c7Go12L0q8eQ) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Lloro :'\(](https://open.spotify.com/album/6SSfwDHEIaInwRlnFAYiUR) | 2:36 | 2022-03-11 | 2022-04-09 |
 | [Lo Necesario](https://open.spotify.com/track/586Il7FbvVojIL5UVErkkt) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Akapellah](https://open.spotify.com/artist/6Naxs6HXr5irrzDck6d2Dt) | [Tiempo Mítico](https://open.spotify.com/album/1nABOBtMxTw2gYuBmP9zar) | 5:08 | 2022-05-27 |  |
 | [Los Tweets](https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Los Tweets](https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX) | 2:37 | 2022-04-22 |  |
@@ -81,6 +81,7 @@
 | [Vacile](https://open.spotify.com/track/0UyFBKCoQOU9GiPCLICTXG) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Vacile](https://open.spotify.com/album/2Gf7Rcxy8gYKFlvpD303NR) | 3:27 | 2022-03-11 |  |
 | [Vaticano](https://open.spotify.com/track/6yJtb1FFa1fQ1V4p1Bx7w5) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Vaticano](https://open.spotify.com/album/5imyvG8HR56AqU6UKnEIgs) | 2:55 | 2022-03-11 |  |
 | [Veneno](https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:42 | 2022-03-11 |  |
+| [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-08 |  |
 | [Vuela](https://open.spotify.com/track/5atvVaX7LAya8JS7acZJz6) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vuela](https://open.spotify.com/album/56lXsTpyHxdhdmEF09AGT4) | 3:18 | 2022-03-11 |  |
 | [Xulitos](https://open.spotify.com/track/2oAcKRifuogjcy5MSZaeYK) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Xulitos](https://open.spotify.com/album/75V05gZImDLeUV0I2yaF9T) | 3:57 | 2022-03-11 | 2022-04-09 |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione di rapper italiani. Cover: Papa V, Nerissima Serpe",
+  "description": "La nuova generazione di rapper italiani. Cover: Il Ghost",
   "name": "Raptopia",
   "published_playlist_ids": [
     "6nhHRG6xegRC3RJpPdvh9l"
@@ -382,6 +382,50 @@
     },
     {
       "album": {
+        "name": "Barrio",
+        "url": "https://open.spotify.com/album/0oo7r2R5x6NmPffFsR2eEh"
+      },
+      "artists": [
+        {
+          "name": "Ramzes",
+          "url": "https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Barrio",
+      "url": "https://open.spotify.com/track/5JwPW4CHmbvjm7gTm3NlvH"
+    },
+    {
+      "album": {
+        "name": "Beautiful Morning (feat. Praci)",
+        "url": "https://open.spotify.com/album/1ZhQ81hUEEI3N9oIyIkoNh"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Praci",
+          "url": "https://open.spotify.com/artist/51kuvTRk7gXn9CblNfH3Tn"
+        },
+        {
+          "name": "Nevia",
+          "url": "https://open.spotify.com/artist/7g786aXP2HsoPtUVn4N30Z"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Beautiful Morning (feat. Praci)",
+      "url": "https://open.spotify.com/track/4somAVSvBpCTaScdxyCDjn"
+    },
+    {
+      "album": {
         "name": "Bene",
         "url": "https://open.spotify.com/album/31a5ESU6MrP0tkjnFC8IAF"
       },
@@ -685,7 +729,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 160575,
       "name": "CASH",
       "url": "https://open.spotify.com/track/7MFHZPxsULoQvCH0UqUnG4"
@@ -1088,6 +1132,28 @@
     },
     {
       "album": {
+        "name": "FAKE LOV3",
+        "url": "https://open.spotify.com/album/4XQ4VYfyLFf45J37xKNoyn"
+      },
+      "artists": [
+        {
+          "name": "SAC1",
+          "url": "https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6"
+        },
+        {
+          "name": "Razen",
+          "url": "https://open.spotify.com/artist/6xEx33PHYEKQCQ2UlKxS98"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124714,
+      "name": "FAKE LOV3",
+      "url": "https://open.spotify.com/track/0uddaGz9eiKu58im2uqqlG"
+    },
+    {
+      "album": {
         "name": "TEMPESTA DI LACRIME",
         "url": "https://open.spotify.com/album/0cE7IGkRpzgEgr88JOcZ2Q"
       },
@@ -1333,7 +1399,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 135111,
       "name": "HOLA",
       "url": "https://open.spotify.com/track/1ORbOadvMHNqKlS1xnJdsQ"
@@ -1413,7 +1479,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 120555,
       "name": "Il mio fr\u00e9re",
       "url": "https://open.spotify.com/track/6Ay1UQZmE1rJj5dcl98z6s"
@@ -1541,7 +1607,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 131707,
       "name": "Kessler",
       "url": "https://open.spotify.com/track/1mIqGl04Ey8aN8QF9AfkLH"

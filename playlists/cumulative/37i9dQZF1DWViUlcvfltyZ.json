@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, Emma Nolde)",
+  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, le Bambole di Pezza)",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Buio",
+        "url": "https://open.spotify.com/album/0SWsn6jGy0EQzBGGQysYc6"
+      },
+      "artists": [
+        {
+          "name": "LOREN",
+          "url": "https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200146,
+      "name": "Buio",
+      "url": "https://open.spotify.com/track/6X1PE6tOCJa9mpXdcCIswg"
+    },
+    {
+      "album": {
         "name": "Buttami Gi\u00f9",
         "url": "https://open.spotify.com/album/3aVWnMXssTGsU9ZVm6wgBv"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 198857,
       "name": "canzo/paure",
       "url": "https://open.spotify.com/track/2ZUd2twmaOFOtLtzDtYDe2"
@@ -694,6 +712,24 @@
     },
     {
       "album": {
+        "name": "Go Fuck Yourself",
+        "url": "https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT"
+      },
+      "artists": [
+        {
+          "name": "Mutonia",
+          "url": "https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141850,
+      "name": "Go Fuck Yourself",
+      "url": "https://open.spotify.com/track/6VT9pC5hzmIMRxuzpnkOzm"
+    },
+    {
+      "album": {
         "name": "Graphiti :)",
         "url": "https://open.spotify.com/album/2QLcmqN7nP9zJRFhdXE3QR"
       },
@@ -727,7 +763,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 178000,
       "name": "Grunge Morale",
       "url": "https://open.spotify.com/track/4ifzWdf99hgtG6YOPI7jy7"
@@ -824,6 +860,24 @@
     },
     {
       "album": {
+        "name": "I RAGAZZI COI GOMITI SUI TAVOLI",
+        "url": "https://open.spotify.com/album/0qzgEKo84VFfA49MxdOdWY"
+      },
+      "artists": [
+        {
+          "name": "I Le Lucertole",
+          "url": "https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "I RAGAZZI COI GOMITI SUI TAVOLI",
+      "url": "https://open.spotify.com/track/4Ul88N7v8tRU2PikQXMMcC"
+    },
+    {
+      "album": {
         "name": "Idea",
         "url": "https://open.spotify.com/album/3jG7ZwprmZW0PDoImjUL0H"
       },
@@ -857,7 +911,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 166800,
       "name": "Identikit / PLOT TWIST",
       "url": "https://open.spotify.com/track/3J93fJVupbMEjlrspQ2fp5"
@@ -933,7 +987,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 131063,
       "name": "Imma Stunt",
       "url": "https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1"
@@ -951,7 +1005,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 185519,
       "name": "Jack (Non Sa)",
       "url": "https://open.spotify.com/track/3lEeE5InLjr2Wpu0zeQ64b"
@@ -1122,6 +1176,24 @@
     },
     {
       "album": {
+        "name": "Love Will Take You from Behind",
+        "url": "https://open.spotify.com/album/7ta4mTgSJ38tqR21MPHrWg"
+      },
+      "artists": [
+        {
+          "name": "Santa Chiara",
+          "url": "https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165138,
+      "name": "Love Will Take You from Behind",
+      "url": "https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP"
+    },
+    {
+      "album": {
         "name": "Cari Fottutissimi Amici",
         "url": "https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB"
       },
@@ -1209,7 +1281,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 281976,
       "name": "Naufragio con spettatore",
       "url": "https://open.spotify.com/track/1aoUuolpBbnefrX7u5xFjk"
@@ -1523,7 +1595,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 160000,
       "name": "rotten",
       "url": "https://open.spotify.com/track/4nU6o0IqVjUFjoqODuJBQl"
@@ -1783,6 +1855,28 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
+        "name": "TDC (BoJack)",
+        "url": "https://open.spotify.com/album/7hd7x8eej4bWiUMAxHK7oM"
+      },
+      "artists": [
+        {
+          "name": "HOOD",
+          "url": "https://open.spotify.com/artist/5IbmWnYEykGQK5N8pUn8ng"
+        },
+        {
+          "name": "Sillage",
+          "url": "https://open.spotify.com/artist/5tQCbzDeBy8NlI90GKQdf6"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157696,
+      "name": "TDC (BoJack)",
+      "url": "https://open.spotify.com/track/57jUUESGFDZlaJ6IZrYCCp"
     },
     {
       "album": {
@@ -2061,6 +2155,24 @@
       "duration_ms": 198455,
       "name": "What a Heart Is For",
       "url": "https://open.spotify.com/track/18xVzYlFYM20dK5OP6E35n"
+    },
+    {
+      "album": {
+        "name": "What's In Your Mind?",
+        "url": "https://open.spotify.com/album/7fGYMPoPRGUsPZlCR9SuSG"
+      },
+      "artists": [
+        {
+          "name": "Nothing for Breakfast",
+          "url": "https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "What's In Your Mind?",
+      "url": "https://open.spotify.com/track/19FavAnu4EeUTZ7awOvb7V"
     },
     {
       "album": {

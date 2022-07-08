@@ -1362,6 +1362,28 @@
     },
     {
       "album": {
+        "name": "Hyperscapism",
+        "url": "https://open.spotify.com/album/2lx14hf7n6ys3Rbm1Zew6e"
+      },
+      "artists": [
+        {
+          "name": "jinkasei",
+          "url": "https://open.spotify.com/artist/4nrZ7yhBckcZ3QsPzF3EHV"
+        },
+        {
+          "name": "1rokit",
+          "url": "https://open.spotify.com/artist/6E5AX6DUZsGLaIW5NzEqqQ"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246009,
+      "name": "Stand-Upon The Earth",
+      "url": "https://open.spotify.com/track/4DjNXYgBmoKE5JnY0P3sft"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },

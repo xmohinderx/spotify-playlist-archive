@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,352 likes - 325 songs - 18 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,389 likes - 325 songs - 18 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

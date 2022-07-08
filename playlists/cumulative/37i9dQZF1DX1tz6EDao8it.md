@@ -4,7 +4,7 @@
 
 > Timeless, unforgettable melodies from the movies.
 
-65 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/4xWD1N1G8wZyE8HKW18sNF)
+66 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/4xWD1N1G8wZyE8HKW18sNF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 | 2021-07-16 |  |
 | [Brooks Was Here](https://open.spotify.com/track/5FRGTGPZ7uA6JaLAH55PVV) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [The Hollywood Studio Symphony](https://open.spotify.com/artist/7EDsxqvVACibUGGHfMNjyK) | [The Shawshank Redemption](https://open.spotify.com/album/5ucvCY0hFIAL95DVKohEiB) | 5:05 | 2021-07-16 |  |
 | [Captain Marvel](https://open.spotify.com/track/4CQ8uwWfH9hDCbwj4PUs58) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Captain Marvel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0) | 2:15 | 2021-07-16 |  |
+| [Come Back to Us](https://open.spotify.com/track/44sVQfPdCTGM5JLBRHUngc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 5:39 | 2022-07-07 |  |
 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/4O2N861eOnF9q8EtpH8IJu) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Amélie \(Original Soundtrack\)](https://open.spotify.com/album/7JG0QwvJRzPILHEW1xHEJj) | 2:20 | 2021-07-16 |  |
 | [Concerning Hobbits](https://open.spotify.com/track/644es5aYPJghtZLjM1rmSP) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 2:55 | 2021-07-16 |  |
 | [Discombobulate](https://open.spotify.com/track/0Wj7EzpRCrfbHbHj0koVdl) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Sherlock Holmes: Original Motion Picture Soundtrack](https://open.spotify.com/album/00PwJ8l6T1jwXkfK95PfWz) | 2:24 | 2021-07-16 |  |

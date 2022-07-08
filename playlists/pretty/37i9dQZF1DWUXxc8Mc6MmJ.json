@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 424686,
+  "num_followers": 425192,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzE1NjIzMCwwMDAwMDAwMGZlMjA1YmZiOTllMGVkZjRmYTFiMTI0NWI4YjdiZGRh",
+  "snapshot_id": "MTY1NzI0MjgxNCwwMDAwMDAwMDc5MDY5YjAzOTlkMTAwZWEwZmJjNTA2MGIzZDM4YWM0",
   "tracks": [
     {
       "added_at": "2022-06-24 06:18:44",
@@ -191,6 +191,38 @@
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "She Would Never Know (Original Television Soundtrack) Pt. 7",
+        "url": "https://open.spotify.com/album/2GQyG3pwnp8a16BQkJcT07"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Leave Me",
+      "url": "https://open.spotify.com/track/0A4TOaLlewmKuhl10Hwf2V"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
         "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
       },
@@ -211,54 +243,6 @@
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
-        "url": "https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 214258,
-      "name": "Sweet Night",
-      "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Love Me Like That",
-      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "Hometown Cha-Cha-Cha, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 254771,
-      "name": "Here Always (SEUNGMIN of Stray Kids)",
-      "url": "https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
         "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
       },
@@ -271,6 +255,54 @@
       "duration_ms": 193933,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/4f415rW7jQPbi5a2tPo4pA"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "duration_ms": 230969,
+      "name": "Beautiful My Love",
+      "url": "https://open.spotify.com/track/6lAFMbiZ00wBYwvDGA5PmB"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "Hi Bye Mama (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/7MDwMSMEZLXv7qcpMIshpe"
+      },
+      "artists": [
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+      ],
+      "duration_ms": 259713,
+      "name": "In The Night",
+      "url": "https://open.spotify.com/track/2BzHlLKQyUVuvREaJikvmm"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/5iqfGbG2zpIih56ptL9OUV"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 221909,
+      "name": "Let Us Go",
+      "url": "https://open.spotify.com/track/2y3Z9MQdgoENX8FtIVI40H"
     },
     {
       "added_at": "2022-06-24 06:18:44",
@@ -295,82 +327,54 @@
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 1",
-        "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
+        "url": "https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93"
       },
       "artists": [
         {
-          "name": "TAEIL",
-          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 225817,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
+      "duration_ms": 214258,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
     },
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J"
+        "name": "Find Me In Your Memory (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3mTdCQaktzKJihC6TeI4fP"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "Jooyoung",
+          "url": "https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH"
         }
       ],
-      "duration_ms": 216734,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a"
+      "duration_ms": 244451,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/7MjaIOqmlq83z04h7kdhdq"
     },
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/23CJ3PKYKeljAzr1glLmAh"
+        "name": "Diamond Hotel (Original Television Soundtrack) 1st",
+        "url": "https://open.spotify.com/album/5tiEj34GGF6HsikkloorDj"
       },
       "artists": [
         {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/0GVKkD74xcixRYYG3zv1NL"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "\ud0dc\uc591\uc758 \ud6c4\uc608 (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/6hEeL5DGfL0fffPGGUDvqq"
-      },
-      "artists": [
+          "name": "Yun Song A",
+          "url": "https://open.spotify.com/artist/2yh20ZxSlQ9YC11QGdVB9E"
+        },
         {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+          "name": "TaeGun",
+          "url": "https://open.spotify.com/artist/4CCFbwuSgX3bHPNSvNYYc6"
         }
       ],
-      "duration_ms": 240680,
-      "name": "You Are My Everything",
-      "url": "https://open.spotify.com/track/109Yq7KKwMyZhEyX4JqqeU"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "Whats wrong with secretary kim OST",
-        "url": "https://open.spotify.com/album/4AnAiO6p63i5cCj2t94CWu"
-      },
-      "artists": [
-        {
-          "name": "JEONG SEWOON",
-          "url": "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "It`s you",
-      "url": "https://open.spotify.com/track/1MuSKl3GY0J3pLdiNjynTg"
+      "duration_ms": 206058,
+      "name": "Diamond Hotel (Original Television Soundtrack) 1st",
+      "url": "https://open.spotify.com/track/3pdq96X7JQGp9L0HcmQ4EY"
     },
     {
       "added_at": "2022-06-24 06:18:44",
@@ -387,6 +391,22 @@
       "duration_ms": 229678,
       "name": "I Will Go To You Like the First Snow",
       "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 1",
+        "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "duration_ms": 225817,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
     },
     {
       "added_at": "2022-06-24 06:18:44",
@@ -423,146 +443,18 @@
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "Jirisan (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4"
+        "name": "Whats wrong with secretary kim OST",
+        "url": "https://open.spotify.com/album/4AnAiO6p63i5cCj2t94CWu"
       },
       "artists": [
         {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "JEONG SEWOON",
+          "url": "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
         }
       ],
-      "duration_ms": 264840,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "Penthouse2 (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/21zg2W8KpUED6ljxAKDEGo"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Repeatedly",
-      "url": "https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 12",
-        "url": "https://open.spotify.com/album/6Ss8sCrnYYG4I69cC4vNYV"
-      },
-      "artists": [
-        {
-          "name": "Mido and Falasol",
-          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Me to You, You to Me",
-      "url": "https://open.spotify.com/track/6C0GXYej47pTNRFWBHxmGZ"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
-      },
-      "artists": [
-        {
-          "name": "CHO JUNG SEOK",
-          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "Dr. Romantic 2 OST Part.1",
-        "url": "https://open.spotify.com/album/6hjVPB4sG0Gwme1e9hy62b"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 193930,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "A PIECE OF YOUR MIND (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/2Mq6OLmul8tW8lZj2U5XhY"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Rain or Shine",
-      "url": "https://open.spotify.com/track/5KgiTDTshu1Hdc2lbcVs76"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/78leBSYzLwn705oFe2psHe"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 233939,
-      "name": "All With You",
-      "url": "https://open.spotify.com/track/4zuNsWGzUfl9lL43JjWckB"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "Twenty-Five Twenty-One OST Part 3",
-        "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 214851,
-      "name": "Very, Slowly",
-      "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10",
-        "url": "https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 220929,
-      "name": "MY LOVE",
-      "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
+      "duration_ms": 219506,
+      "name": "It`s you",
+      "url": "https://open.spotify.com/track/1MuSKl3GY0J3pLdiNjynTg"
     },
     {
       "added_at": "2022-06-24 06:18:44",
@@ -583,184 +475,72 @@
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "The Beauty Inside Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN"
+        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c, Pt. 3 Original Television Soundtrack",
+        "url": "https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF"
       },
       "artists": [
         {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+          "name": "Kim Yeonji",
+          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
         }
       ],
-      "duration_ms": 238862,
-      "name": "Beautiful Moment",
-      "url": "https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW"
+      "duration_ms": 302852,
+      "name": "\ub9c8\uc74c\uc758 \ub9d0",
+      "url": "https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH"
     },
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 4 Original Television Soundtrack",
-        "url": "https://open.spotify.com/album/1WWEdcuZ8q1WN3Z4IM65am"
+        "name": "Mr. Queen (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/5Gl6E2Fvv0BXCNHZn2QlTY"
       },
       "artists": [
         {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
         }
       ],
-      "duration_ms": 264538,
-      "name": "I Love You Boy",
-      "url": "https://open.spotify.com/track/5XXJnC5TvcL2QsAZ3Nxgku"
+      "duration_ms": 238004,
+      "name": "Here I am",
+      "url": "https://open.spotify.com/track/0RDu8QpQwZMtzRjmjL6fp2"
     },
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "Stay Alive (Prod. SUGA of BTS)",
-        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+        "name": "Jirisan (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
         }
       ],
-      "duration_ms": 210928,
-      "name": "Stay Alive (Prod. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+      "duration_ms": 264840,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
     },
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+        "name": "Her Private Life (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6KtI28DkWKsxRvLm9ylKU3"
       },
       "artists": [
         {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+      "duration_ms": 263870,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/3fnhqgNnzE3eALxismWcpv"
     },
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/0xXh2BdSfwmNk3JjwuuaqG"
-      },
-      "artists": [
-        {
-          "name": "CHO JUNG SEOK",
-          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/6TitBrzYhD1mTxqXADFo7v"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "One the Woman (Original Television Soundtrack, Pt. 2)",
-        "url": "https://open.spotify.com/album/13WhqrQObo1gkx7OYkYtop"
-      },
-      "artists": [
-        {
-          "name": "Jung Yup",
-          "url": "https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "Let me hug you",
-      "url": "https://open.spotify.com/track/1dibMAdwYGU1H3SjtNsNYR"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/2YorB1Q7BGa4FwdMB6xnFY"
-      },
-      "artists": [
-        {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "All of My Days",
-      "url": "https://open.spotify.com/track/4258fiEd2cnCC5d6F7nfUz"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/6oR7m22sIO1t7o8h7bnwNW"
-        }
-      ],
-      "duration_ms": 287813,
-      "name": "Someday, The Boy",
-      "url": "https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.1",
-        "url": "https://open.spotify.com/album/4Rg2Jfly1w79ZJUMf8W3J6"
-      },
-      "artists": [
-        {
-          "name": "Lee Chan Sol",
-          "url": "https://open.spotify.com/artist/7E09MibBCbxOQjZDdCx6q8"
-        }
-      ],
-      "duration_ms": 319640,
-      "name": "Still Fighting It",
-      "url": "https://open.spotify.com/track/229kY9iSbfDh0TasEWkZot"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 275362,
-      "name": "Is It Still Beautiful",
-      "url": "https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "Where Stars Land Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1ewGE57TeFfUgXkpXybXKE"
-      },
-      "artists": [
-        {
-          "name": "O.WHEN",
-          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
-        }
-      ],
-      "duration_ms": 270073,
-      "name": "Mystic World",
-      "url": "https://open.spotify.com/track/2WV4Uw45aAFxv5oQMR0Dy2"
-    },
-    {
-      "added_at": "2022-06-24 06:18:44",
-      "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 6",
-        "url": "https://open.spotify.com/album/6ZGUvD476odOT0J0SdK8L5"
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J"
       },
       "artists": [
         {
@@ -768,9 +548,25 @@
           "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 235293,
-      "name": "Please Don't Cry",
-      "url": "https://open.spotify.com/track/5pmhDbaeNG5Y31mCGK07JE"
+      "duration_ms": 216734,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "Hometown Cha-Cha-Cha, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 254771,
+      "name": "Here Always (SEUNGMIN of Stray Kids)",
+      "url": "https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n"
     },
     {
       "added_at": "2022-06-24 06:18:44",
@@ -791,34 +587,242 @@
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "A PIECE OF YOUR MIND (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/12I9OaovCrdtLLroBYcnco"
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 12",
+        "url": "https://open.spotify.com/album/6Ss8sCrnYYG4I69cC4vNYV"
       },
       "artists": [
         {
-          "name": "Ha Hyunsang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+          "name": "Mido and Falasol",
+          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
         }
       ],
-      "duration_ms": 241080,
-      "name": "Slowly Fall",
-      "url": "https://open.spotify.com/track/20iKxZ9WfxHgTB2GVXpQMk"
+      "duration_ms": 232000,
+      "name": "Me to You, You to Me",
+      "url": "https://open.spotify.com/track/6C0GXYej47pTNRFWBHxmGZ"
     },
     {
       "added_at": "2022-06-24 06:18:44",
       "album": {
-        "name": "Whats wrong with secretary kim OST Part.5",
-        "url": "https://open.spotify.com/album/0DScQIKugPfaNgB2iGp7Mu"
+        "name": "Find Me In Your Memory (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/1tV7ZIyAJDZkis4RjXWQ91"
       },
       "artists": [
         {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
         }
       ],
-      "duration_ms": 220352,
-      "name": "Because I only see you",
-      "url": "https://open.spotify.com/track/2Akf1x68EZPx7H8zGlBWtR"
+      "duration_ms": 267893,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "\ud0dc\uc591\uc758 \ud6c4\uc608 (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/6hEeL5DGfL0fffPGGUDvqq"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/109Yq7KKwMyZhEyX4JqqeU"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "The Beauty Inside Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 238862,
+      "name": "Beautiful Moment",
+      "url": "https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/23CJ3PKYKeljAzr1glLmAh"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/0GVKkD74xcixRYYG3zv1NL"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/0xXh2BdSfwmNk3JjwuuaqG"
+      },
+      "artists": [
+        {
+          "name": "CHO JUNG SEOK",
+          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/6TitBrzYhD1mTxqXADFo7v"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 201786,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "The Uncanny Counter (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/10UR0IIhXKA0n6lreq6Huv"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/4Zp3rm12p5PiHToYJflmyy"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "You Are My Spring OST Part 9",
+        "url": "https://open.spotify.com/album/2hxR84Q3tHUdh5eelpgBMP"
+      },
+      "artists": [
+        {
+          "name": "seo hyun jin",
+          "url": "https://open.spotify.com/artist/56kr7ithHAvEeInwvWJoRs"
+        }
+      ],
+      "duration_ms": 227530,
+      "name": "Falling Flower (Dajung Ver.)",
+      "url": "https://open.spotify.com/track/4VqXGpj0uRNhN1xu4T4ZJu"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "A PIECE OF YOUR MIND (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/2Mq6OLmul8tW8lZj2U5XhY"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Rain or Shine",
+      "url": "https://open.spotify.com/track/5KgiTDTshu1Hdc2lbcVs76"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "Hi Bye Mama (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/5qM2yc5dwte5lQiuw2Dnvy"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "duration_ms": 269619,
+      "name": "Hopefully sky",
+      "url": "https://open.spotify.com/track/0w246i6rL2nkjgnyNNAmg6"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "The Beauty In?",
+        "url": "https://open.spotify.com/album/27D2iMQytWqdB6tQoGTtgU"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/1RkWrJvmavMNPEXIGXskQS"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
+      },
+      "artists": [
+        {
+          "name": "CHO JUNG SEOK",
+          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
+    },
+    {
+      "added_at": "2022-06-24 06:18:44",
+      "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6KH2bpNterP9Xfe65uDdLT"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 242899,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/35q0DyRH5bIXDoFGWJBjmC"
     }
   ],
   "unique_name": "Best of Korean Soundtracks",

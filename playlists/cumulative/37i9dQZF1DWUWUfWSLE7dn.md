@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-88 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+90 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Prelude](https://open.spotify.com/track/0VfCAdeGLmpKvoztILf3cO) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Prelude](https://open.spotify.com/album/6LOyg4gcs4uTxdb5X0pFFK) | 2:03 | 2022-06-24 |  |
 | [Première Lumière](https://open.spotify.com/track/2wGeML7k5tc7O83IzIDJ0t) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Première Lumière](https://open.spotify.com/album/637ZAa38xb2KJ4oWPy4goX) | 2:38 | 2022-03-09 |  |
 | [Restless, Tamriel Dreams](https://open.spotify.com/track/5GPpwG6GtAPPfdmxltXJnv) | [Brad Derrick](https://open.spotify.com/artist/0WgwTXh66Tz9hSU7LjZsww) | [The Elder Scrolls Online: Music of Tamriel, Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7) | 6:51 | 2022-03-09 |  |
+| [Road Home](https://open.spotify.com/track/7vbXVFIeGI3qc0qY2TXFp2) | [Space Tation](https://open.spotify.com/artist/199PLrBvdZLdtnNsuaBrhN) | [Road Home](https://open.spotify.com/album/0WDP1XqaqDi2iEZ6Q7CiuT) | 1:15 | 2022-07-08 |  |
 | [Samurai Sword](https://open.spotify.com/track/0j0UE5JDkNhpWGmFo4RLMl) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Samurai Sword](https://open.spotify.com/album/7AbyUNTbyN8qkADD3GEM7g) | 2:16 | 2022-06-10 |  |
 | [Scotland](https://open.spotify.com/track/7MiNGcNnLD9YSnkxnj5lue) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:12 | 2022-03-09 |  |
 | [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 | 2022-07-01 |  |
@@ -91,6 +92,7 @@
 | [To Breathe Again](https://open.spotify.com/track/2hMdmMDaLa6e7evidcrDmK) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Breathe Again](https://open.spotify.com/album/1JsHM0So4bhf9XsCFYj4Lc) | 2:14 | 2022-03-09 |  |
 | [Touchless](https://open.spotify.com/track/71D7iylmSl5mbsJUIrtqYV) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Touchless](https://open.spotify.com/album/6wridSsSkC6PXi9MZRj0Yk) | 2:53 | 2022-03-09 |  |
 | [Tsimtsum](https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Life of Pi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ogV7CBV00ONXAVx4tm0gk) | 2:49 | 2022-03-09 |  |
+| [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 | 2022-07-08 |  |
 | [Wayfinders](https://open.spotify.com/track/6rEF3F1fu6SPyEbzRGxUKr) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Nocturne](https://open.spotify.com/album/0r8EWo5tLMJoOLNhystGx1) | 2:51 | 2022-03-09 |  |
 | [Where Heroes Come to Die](https://open.spotify.com/track/1paOx5tHH937AcHuWjgEa8) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:51 | 2022-03-09 |  |
 | [Winter Has Come](https://open.spotify.com/track/16bZwkDgXGLeys3cS1Mn5f) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 6 \(Music from the HBO® Series\)](https://open.spotify.com/album/29zyqYXwLn4nNTPkRNSOuJ) | 3:14 | 2022-03-09 |  |

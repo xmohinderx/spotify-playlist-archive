@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "aesthetics",
+        "url": "https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej"
+      },
+      "artists": [
+        {
+          "name": "Agnes Lundh",
+          "url": "https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133600,
+      "name": "aesthetics",
+      "url": "https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg"
+    },
+    {
+      "album": {
         "name": "Feels Like This",
         "url": "https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj"
       },
@@ -149,6 +167,24 @@
       "duration_ms": 142788,
       "name": "Chorale Bloom",
       "url": "https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE"
+    },
+    {
+      "album": {
+        "name": "Clusters",
+        "url": "https://open.spotify.com/album/6PVMPpV2c8hgr85kOh2LWN"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7xVi0DSU3QPrtx76T70CEi"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Clusters",
+      "url": "https://open.spotify.com/track/2QHuP9PnPJuu8T3YrhGWLA"
     },
     {
       "album": {
@@ -1367,6 +1403,24 @@
       "duration_ms": 330158,
       "name": "The Source",
       "url": "https://open.spotify.com/track/6MmCpo0GytipNTU0mNwh4X"
+    },
+    {
+      "album": {
+        "name": "Towards Daylight",
+        "url": "https://open.spotify.com/album/52kuliw2gKIqyaZbdJMe6z"
+      },
+      "artists": [
+        {
+          "name": "John Pete Dexter",
+          "url": "https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147446,
+      "name": "Towards Daylight",
+      "url": "https://open.spotify.com/track/6zHVtnqzmL0cNG3KFBJv0H"
     },
     {
       "album": {

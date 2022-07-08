@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Belor\u00e1",
+        "url": "https://open.spotify.com/album/7cUx2Ie3a8B95wQSoW8oki"
+      },
+      "artists": [
+        {
+          "name": "Papir Chaser",
+          "url": "https://open.spotify.com/artist/64jtTdqJ8iLVkpbiQvBfy2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Belor\u00e1",
+      "url": "https://open.spotify.com/track/0TjZORJlPmVEbJSmxmsqgm"
+    },
+    {
+      "album": {
         "name": "Big Apple",
         "url": "https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5"
       },
@@ -345,7 +363,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 245853,
       "name": "Brand New Ride",
       "url": "https://open.spotify.com/track/278yaUyHB1jfFh0Hx0HqU1"
@@ -554,6 +572,24 @@
     },
     {
       "album": {
+        "name": "EAT MY SOUL",
+        "url": "https://open.spotify.com/album/3J6pK48PU2p8TuJBpFBlGh"
+      },
+      "artists": [
+        {
+          "name": "illiterate",
+          "url": "https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82136,
+      "name": "DID U TAKE IT ALL?",
+      "url": "https://open.spotify.com/track/5yk4X1mRYvE92mVV3Rxs6E"
+    },
+    {
+      "album": {
         "name": "Didn't You Hear?",
         "url": "https://open.spotify.com/album/2RkvjxeLXWOow3kE4aGmPJ"
       },
@@ -666,6 +702,24 @@
     },
     {
       "album": {
+        "name": "Downtown Blizz",
+        "url": "https://open.spotify.com/album/4FHFwHU57wxdfgNLAe068e"
+      },
+      "artists": [
+        {
+          "name": "Art Vandeley",
+          "url": "https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Downtown Blizz",
+      "url": "https://open.spotify.com/track/3kOGZX0wgaeSeB5UDOg9j2"
+    },
+    {
+      "album": {
         "name": "Moving Forward",
         "url": "https://open.spotify.com/album/4wwgeuJ0bwZVVoZ9Bx1pYI"
       },
@@ -771,7 +825,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 107328,
       "name": "Flight",
       "url": "https://open.spotify.com/track/5qLPc5msHoWoKAVwNtpDl9"
@@ -945,7 +999,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 84034,
       "name": "Goodies",
       "url": "https://open.spotify.com/track/034s5MPRbS4Ii8lpZoWNY2"
@@ -967,6 +1021,24 @@
       "duration_ms": 138837,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140"
+    },
+    {
+      "album": {
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/7bhVGjoaVsXVwkHt9rUkst"
+      },
+      "artists": [
+        {
+          "name": "Dre Dilla",
+          "url": "https://open.spotify.com/artist/3iEZGJz6uRmSbCbtxR4Zde"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146357,
+      "name": "Happy Hours",
+      "url": "https://open.spotify.com/track/2E3sQrE7A1yT7bbN5lQfT7"
     },
     {
       "album": {
@@ -1501,7 +1573,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 84395,
       "name": "Maze",
       "url": "https://open.spotify.com/track/22rN9B1hyxCkmqqbgi7ag4"
@@ -1803,7 +1875,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 68822,
       "name": "Old Enough To Party",
       "url": "https://open.spotify.com/track/1toZcQ10Fj2q2kFlM6f7e3"
@@ -2323,7 +2395,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 168204,
       "name": "Summer Jam",
       "url": "https://open.spotify.com/track/6WTF575QHWkfPpZb6D8PCE"
@@ -2381,7 +2453,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 184615,
       "name": "surrender",
       "url": "https://open.spotify.com/track/6Taozt3i4orsCi0eOzaSCg"
@@ -2421,7 +2493,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 81473,
       "name": "Take a Picture",
       "url": "https://open.spotify.com/track/6m7gai9dX5aQFDWp7XNcT2"
@@ -2515,7 +2587,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 181546,
       "name": "The Realest",
       "url": "https://open.spotify.com/track/6cA7Gs5OK6TyZnmSMAJXwu"
@@ -2671,7 +2743,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 268074,
       "name": "Walk in the Park - Remix Instrumental",
       "url": "https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8"

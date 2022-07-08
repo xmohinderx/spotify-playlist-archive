@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,335 songs - 2 day 12 hr 12 min - [published](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
+1,336 songs - 2 day 12 hr 16 min - [published](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Be Still](https://open.spotify.com/track/0xNJLfwntlwTEVXZbmj0PF) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Be Still](https://open.spotify.com/album/6OO0iefvJco2Wc1OZ1B2ml) | 3:30 | 2022-03-02 |  |
 | [Be, Leave](https://open.spotify.com/track/1NdgOyzoqE6FHIm7tM5ySM) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4r4uDSOluGi5a41Jh8XuZA) | 3:41 | 2019-05-26\* | 2020-03-17 |
 | [Beautiful Minds](https://open.spotify.com/track/47sqd7sC9flICbhCazkvmP) | [Steinar Larsen](https://open.spotify.com/artist/7apKZCmtUMhx1HdiqyU4ex) | [Beautiful Minds](https://open.spotify.com/album/7tSo33pTLxlOdz1aZJIxHM) | 3:09 | 2020-01-22 | 2020-02-04 |
+| [beautifully broken](https://open.spotify.com/track/3liyZ3pbwmOhsrYKtePAQE) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [saudade \(feat\. Ardie Son\)](https://open.spotify.com/album/2Fra3qAyV4EHYX72KtA4QV) | 3:56 | 2022-07-06 |  |
 | [beautifully broken](https://open.spotify.com/track/5WzXY5LkQ1MNfCJeCv05Ds) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [beautifully broken](https://open.spotify.com/album/06Xp76So7fvDjHumcmdysx) | 3:56 | 2022-05-04 | 2022-07-07 |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-01-19 |  |
 | [Becalm](https://open.spotify.com/track/4N9UKWy0TLiwNEuzeynWiU) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Solo](https://open.spotify.com/album/4Ht3iY23RMXFTnYe02lrtC) | 2:29 | 2019-07-11 | 2020-03-31 |

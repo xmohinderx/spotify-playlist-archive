@@ -4,10 +4,11 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-81 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+84 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [aesthetics](https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [aesthetics](https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej) | 2:13 | 2022-07-08 |  |
 | [After](https://open.spotify.com/track/6bu6ncccfVyX29Tkl9oRpR) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Feels Like This](https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj) | 4:19 | 2022-05-13 |  |
 | [Bortom Träden](https://open.spotify.com/track/4CFlaEtdgeu4mFmnUApAyl) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 4:20 | 2022-05-13 |  |
 | [Boy Meets World](https://open.spotify.com/track/0r049w4eKLL1dEdZ6xZJYZ) | [Ladderbreak](https://open.spotify.com/artist/0GxMDb96WYvDodwqMfeSwe) | [Cerro](https://open.spotify.com/album/0kXdiTfDJNzAqefh5NBFQy) | 3:41 | 2022-05-13 |  |
@@ -16,6 +17,7 @@
 | [Butterfly Baby \- Guitar](https://open.spotify.com/track/1GjZZjRXRKGHwpoNwcg7yH) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Wishful Thinking & Butterfly Baby](https://open.spotify.com/album/3WjqToFMhrS3yM13dpgN5o) | 2:39 | 2022-05-13 |  |
 | [By Then](https://open.spotify.com/track/4UoKhh4KjZfFhbNh1EuyKv) | [Joe T\. Harris](https://open.spotify.com/artist/4iE2uZjQBe6KKF49DtFcD3) | [By Then](https://open.spotify.com/album/4um3mquSODjjiVy2KESC86) | 2:37 | 2022-05-13 |  |
 | [Chorale Bloom](https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Chorale Bloom](https://open.spotify.com/album/1mzSDbGGXL5CXXTB8bEFYH) | 2:22 | 2022-06-24 |  |
+| [Clusters](https://open.spotify.com/track/2QHuP9PnPJuu8T3YrhGWLA) | [LUNA](https://open.spotify.com/artist/7xVi0DSU3QPrtx76T70CEi) | [Clusters](https://open.spotify.com/album/6PVMPpV2c8hgr85kOh2LWN) | 2:34 | 2022-07-08 |  |
 | [cold start](https://open.spotify.com/track/1oRYeH614gcXBYZMjjvnOz) | [RRST](https://open.spotify.com/artist/3nPrEz2yxxCTnR2yPHiFo6) | [cold start](https://open.spotify.com/album/50bVrDOjalJh8BlPpsNHYZ) | 2:32 | 2022-05-13 |  |
 | [Comfort](https://open.spotify.com/track/2UsNtVgKlx9FYhRHUAYIJn) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Comfort](https://open.spotify.com/album/11o1wEU5W9S7e6ii4oVWE2) | 2:24 | 2022-05-13 |  |
 | [Count Me In](https://open.spotify.com/track/1BHe1rqxhkVlJctZQ9nzIY) | [Thoughtlines](https://open.spotify.com/artist/7g04f5dUBMBNO7jdBrBZfR) | [Electric Hearts](https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs) | 3:00 | 2022-05-13 |  |
@@ -83,6 +85,7 @@
 | [The Journey](https://open.spotify.com/track/1XcOci00g6G98QaDipUiPb) | [Jimmie Stills](https://open.spotify.com/artist/64FYFlv9Z4qfU4rXS6Ri5E) | [The Actress](https://open.spotify.com/album/2VOcYwupehwQHrQieOWbCH) | 3:12 | 2022-05-13 |  |
 | [The Kind Journeyman](https://open.spotify.com/track/2CgGcJ3cBHQJhhK2pqcm8g) | [Timestain](https://open.spotify.com/artist/3x4Wg2JsXrfZkMbfP0giOU) | [Ghost Town](https://open.spotify.com/album/2ceYok3cY1JTWnIP12B7u8) | 2:40 | 2022-05-13 |  |
 | [The Source](https://open.spotify.com/track/6MmCpo0GytipNTU0mNwh4X) | [Dan Caine](https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A) | [Rivers](https://open.spotify.com/album/4v47S3SLTz4b0Wsnfs3gjq) | 5:30 | 2022-05-13 |  |
+| [Towards Daylight](https://open.spotify.com/track/6zHVtnqzmL0cNG3KFBJv0H) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [Towards Daylight](https://open.spotify.com/album/52kuliw2gKIqyaZbdJMe6z) | 2:27 | 2022-07-08 |  |
 | [Tremoland](https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:43 | 2022-05-13 |  |
 | [Vast Open Sky](https://open.spotify.com/track/42gzCgGFiRmoDvzhVQvEOI) | [J\. J\. Zapata](https://open.spotify.com/artist/6ospPIOrQaXpxQD5dsKAAL) | [Vast Open Sky](https://open.spotify.com/album/1yN0XDhIYbhffVOzLpEHq4) | 2:12 | 2022-05-13 |  |
 | [Wagonside](https://open.spotify.com/track/4Tb2hOoWV5c6Xe8CcI2sUP) | [Arpwatch](https://open.spotify.com/artist/4QWzCQdSl0I35LnBIN5Lmr) | [Rotations](https://open.spotify.com/album/1yyulWBUveBEnszGh0Zseu) | 3:18 | 2022-05-13 |  |

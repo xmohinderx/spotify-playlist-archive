@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Chxrry22
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,046 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,119 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 49 | [Play Safe](https://open.spotify.com/track/7cPdCG3oXEAWSFyHiVulhL) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Play Safe](https://open.spotify.com/album/7AnvxoSu0ZjrVe6rFaC41H) | 2:32 |
 | 50 | [ARENA Y MAR](https://open.spotify.com/track/5j42bMuCeQHfQHC61QZEDO) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [ARENA Y MAR](https://open.spotify.com/album/10wlt2vpWYDy6XKDGvFYO4) | 2:33 |
 | 51 | [Sun Don't Set](https://open.spotify.com/track/2GSqoSLzsaTwCoKhl2Tcrk) | [LOKRE](https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho) | [Sun Don't Set](https://open.spotify.com/album/0xIk2POASLi4QGsnqoizfD) | 3:34 |
-| 52 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
+| 52 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
 | 53 | [ON VENUS](https://open.spotify.com/track/3y5DngFE3QJEc6TSuW0hSv) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [ON VENUS](https://open.spotify.com/album/5PI4hnyqYDTyTTlwDLqvVA) | 3:39 |
 | 54 | [Love In Atlanta](https://open.spotify.com/track/6K8qwbuUweQOdaErsNbdRc) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Figure It Out](https://open.spotify.com/album/3kAvLGkeU40IINgCQmkiUC) | 3:06 |
 | 55 | [Lately](https://open.spotify.com/track/2hgflNxd7dPZct0xUzF4Ef) | [Mackenta](https://open.spotify.com/artist/3Df0jtSNL8pqruwrJeH0DZ) | [Lately](https://open.spotify.com/album/79XMjtI4dfxqZy1WLu2gDB) | 2:37 |

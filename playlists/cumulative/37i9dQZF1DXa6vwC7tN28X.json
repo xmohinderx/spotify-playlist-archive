@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-30",
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
   "name": "Tango Rock",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3WMriKUyo2CSgT5Sf3Ib9y"
+  ],
   "tracks": [
     {
       "album": {
@@ -65,7 +67,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 222208,
       "name": "Barro Tal Vez",
       "url": "https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO"
@@ -161,7 +163,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 196773,
       "name": "Ciudad de los Tangos Sarpados",
       "url": "https://open.spotify.com/track/42aMjiZ6vLYCe7yD8RM0H9"
@@ -335,7 +337,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 169762,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/2ZuC6YJTATt0VvUt46eNHB"
@@ -521,7 +523,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 228560,
       "name": "La Triste Historia de Rosa Brown",
       "url": "https://open.spotify.com/track/6YO14y9tXHpZe1Km4eg83j"
@@ -557,7 +559,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 225771,
       "name": "Las Tribus",
       "url": "https://open.spotify.com/track/0Hnne5lFK5ppt6UO4BzYjc"
@@ -575,7 +577,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 172880,
       "name": "Laura Va",
       "url": "https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo"
@@ -597,7 +599,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 195704,
       "name": "Laura Va",
       "url": "https://open.spotify.com/track/5caXGav3sqgWv6UWbOyxzr"
@@ -745,7 +747,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 140786,
       "name": "Nocturno A Mi Barrio",
       "url": "https://open.spotify.com/track/0c4oyNo6yqoX0MTwMzDhvM"
@@ -857,7 +859,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 404853,
       "name": "Salvavidas de Plomo",
       "url": "https://open.spotify.com/track/7cNvngqh1wKhEAAJ7bikHD"
@@ -879,7 +881,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 149920,
       "name": "Siga El Baile - Versi\u00f3n Cantada por Alberto Castillo",
       "url": "https://open.spotify.com/track/0W1R6AOWnBzeRZPLcrkJKW"
@@ -955,7 +957,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 170520,
       "name": "Toda Mi Vida",
       "url": "https://open.spotify.com/track/75gpWV9FUZ1SfndAECb5qv"
@@ -1009,7 +1011,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 175866,
       "name": "Volver Ni A Palos",
       "url": "https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM"

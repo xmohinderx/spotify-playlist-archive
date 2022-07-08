@@ -52,6 +52,28 @@
     },
     {
       "album": {
+        "name": "Aaya Mausam",
+        "url": "https://open.spotify.com/album/2Jcb1B7oVEmgUUN4U1rPG5"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Aaya Mausam",
+      "url": "https://open.spotify.com/track/4YZQWjQnuctiHfk5wgYAiu"
+    },
+    {
+      "album": {
         "name": "Ab Tere Bin Nahin Jeena",
         "url": "https://open.spotify.com/album/1ePTio0SPPNBmyBFtst8SN"
       },

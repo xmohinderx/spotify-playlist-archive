@@ -4,7 +4,7 @@
 
 > El sonido del nuevo rock argentino esta acá\. Foto: Las Sombras.
 
-100 songs - 5 hr 49 min - not published yet
+100 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Văn Mai Hương
+> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: GREY D
 
 77 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 

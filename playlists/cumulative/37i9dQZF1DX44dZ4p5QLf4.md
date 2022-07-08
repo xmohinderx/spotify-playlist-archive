@@ -2,9 +2,9 @@
 
 ### [Next Wave Neo\-Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> A blend of new songs and new artists in the neo\-soul space\. Cover: Pip Millett
+> A blend of new songs and new artists in the neo\-soul space\. Cover: Greentea Peng
 
-201 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+202 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,10 +149,11 @@
 | [Red Dots](https://open.spotify.com/track/7EvkF7IdoNl7beJ4EFZX5R) | [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO), [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY) | [Half as Much](https://open.spotify.com/album/55nHhOheffHnpq8BY3O1xu) | 2:45 | 2021-12-16 | 2022-04-29 |
 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 | 2021-12-16 | 2022-02-25 |
 | [Relay](https://open.spotify.com/track/7cHLutQTiJ5cMfVI5Bg7nQ) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Relay](https://open.spotify.com/album/43skczn9Io3vAXh97760qM) | 3:05 | 2021-12-16 |  |
-| [Remember](https://open.spotify.com/track/2I8ShBtMUKGgjZjgoV8ell) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Remember](https://open.spotify.com/album/4k4s2vqYvuj1u2DWyCvvK3) | 3:32 | 2021-12-16 |  |
+| [Remember](https://open.spotify.com/track/2I8ShBtMUKGgjZjgoV8ell) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Remember](https://open.spotify.com/album/4k4s2vqYvuj1u2DWyCvvK3) | 3:32 | 2021-12-16 | 2022-07-08 |
 | [RISE](https://open.spotify.com/track/5pvQJtNSJH28ex4qFLQi69) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [L V J](https://open.spotify.com/artist/6nbOYUQOlOoU5C0p2I6zGk) | [RISE](https://open.spotify.com/album/7CeHWqHwSeRkV0XY1GePBN) | 3:34 | 2022-02-10 |  |
 | [Rise](https://open.spotify.com/track/6ZKs0LHSpN5fA17tA3lqIT) | [Safa Liron](https://open.spotify.com/artist/7DAy6NPOtahk5F2aOgEjZw), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Rise](https://open.spotify.com/album/2mhIpzfMTGU01Owrq3ydin) | 2:38 | 2021-12-16 | 2022-07-07 |
 | [Roots](https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Roots](https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ) | 2:50 | 2021-12-16 | 2022-01-14 |
+| [Roselle](https://open.spotify.com/track/2txQgPnmR08OcKQW7P1x4v) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Roselle](https://open.spotify.com/album/0p8fTiDLzBOvOtMQPH1LGO) | 3:20 | 2022-07-07 |  |
 | [Sanctuary](https://open.spotify.com/track/09PnjJyhIkjYcMzV835Wfx) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Sanctuary](https://open.spotify.com/album/2ncuFWULnAaGrdwHpDnt9E) | 3:04 | 2021-12-16 |  |
 | [Satisfaction](https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q) | 2:10 | 2022-05-19 |  |
 | [Sauce](https://open.spotify.com/track/1vf8YxG1eBOulIZ7dvXRGk) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [That Secret Sauce](https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ) | 2:54 | 2021-12-16 | 2022-03-11 |

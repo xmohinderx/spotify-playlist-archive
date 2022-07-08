@@ -2796,6 +2796,24 @@
     },
     {
       "album": {
+        "name": "Zanzibar",
+        "url": "https://open.spotify.com/album/0HFKcAkd2zQDxi7or6ENLh"
+      },
+      "artists": [
+        {
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173453,
+      "name": "Femme",
+      "url": "https://open.spotify.com/track/1ox6W1kkA1C6okKgpQK5e9"
+    },
+    {
+      "album": {
         "name": "Sticky Bottle EP",
         "url": "https://open.spotify.com/album/3qV8k73DqSusDiqVyVoFMn"
       },
@@ -4607,7 +4625,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 187451,
       "name": "Memorabilia",
       "url": "https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY"

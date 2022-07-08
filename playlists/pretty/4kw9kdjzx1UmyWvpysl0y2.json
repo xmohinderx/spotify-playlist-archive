@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128462,
+  "num_followers": 128470,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzUwNCxlMmJhM2M5M2M2NjUzNWZhYjM1MjgxMDA2ZmNiMjAwYTkxYzk5MzZh",
+  "snapshot_id": "MzUwNiw5OTc0NjkwMjkzOTQwM2U2YTNkYmFlMGRkMTY4NmE3MjYxNGFiY2Vm",
   "tracks": [
+    {
+      "added_at": "2022-07-07 16:37:29",
+      "album": {
+        "name": "A Cookie From Space",
+        "url": "https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Bliss",
+          "url": "https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk"
+        }
+      ],
+      "duration_ms": 619715,
+      "name": "A Cookie From Space",
+      "url": "https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC"
+    },
     {
       "added_at": "2022-07-05 14:52:49",
       "album": {
@@ -1095,26 +1115,6 @@
       "duration_ms": 223448,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch"
-    },
-    {
-      "added_at": "2022-04-27 15:57:31",
-      "album": {
-        "name": "Silk Road",
-        "url": "https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman"
-      },
-      "artists": [
-        {
-          "name": "Talamanca",
-          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
-        },
-        {
-          "name": "Roald Velden",
-          "url": "https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Silk Road",
-      "url": "https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

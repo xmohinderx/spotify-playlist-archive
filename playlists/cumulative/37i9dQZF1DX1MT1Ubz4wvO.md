@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Pez Plátano en portada.
 
-85 songs - 5 hr 6 min - not published yet
+85 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/1BUAq3Aj6U4yuWSfhY1mrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

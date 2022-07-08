@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-386 songs - 21 hr 16 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+387 songs - 21 hr 20 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Deewana](https://open.spotify.com/track/7pHbdBHrGCmGNibnTpvIeq) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP) | [Deewana](https://open.spotify.com/album/1ojsW5BU8JfG7GNYaoGSKv) | 3:13 | 2022-03-08 | 2022-04-06 |
 | [Dhee \- From "The Underdog EP"](https://open.spotify.com/track/6xi8ZEnaZ7DEizI8zVeVCB) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte) | [Dhee](https://open.spotify.com/album/2AKbuESshpZouoGUoa4YyI) | 3:29 | 2022-05-20 | 2022-07-06 |
 | [Dholna](https://open.spotify.com/track/2XjagbYk7A08ioxlnlrNOt) | [Aatish](https://open.spotify.com/artist/6w2tW2P6MoEdHEFAGUqrMa) | [Dholna](https://open.spotify.com/album/7KpSRckcDKWoIdwJiEyolS) | 2:57 | 2022-05-18 | 2022-05-20 |
+| [Dholna](https://open.spotify.com/track/0fFwmkrYS71wPfv2PYGd34) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6) | [Dholna](https://open.spotify.com/album/5BgkOpu9x8NsTtsDrIy9qu) | 3:43 | 2022-07-07 |  |
 | [Diamond](https://open.spotify.com/track/4GPygMUqEhPyYUosLKmvCK) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu), [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM) | [Diamond](https://open.spotify.com/album/2pIDaUHfZ1BcK3Es4ptDBb) | 3:39 | 2022-01-29 | 2022-03-01 |
 | [Diamond Koka](https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Diamond Koka](https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD) | 2:52 | 2022-01-11 | 2022-05-20 |
 | [Dil Diyan Gallan](https://open.spotify.com/track/76wpnLYf4uwrpJA4W9VwqT) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI), [Gauri Virdi](https://open.spotify.com/artist/6vhqXm02dV8QJVCfdHVE7Q) | [Dil Diyan Gallan](https://open.spotify.com/album/4fEQsSIpxj0yMT6msWS7Be) | 3:19 | 2022-02-04 | 2022-02-12 |
@@ -377,7 +378,7 @@
 | [Waada Kar](https://open.spotify.com/track/4l9fXPF7SHlAOXGg5CdQMm) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Divya Bhatt](https://open.spotify.com/artist/2dwNUvIo6j1fBisV0WNSWt), [Vipul Kapoor](https://open.spotify.com/artist/16TRFm7lBsrkg8kojlVDMJ) | [Waada Kar](https://open.spotify.com/album/4pDwbQcGqmzc1Qy6u8vP0a) | 3:02 | 2022-02-11 | 2022-04-06 |
 | [Waalian](https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Waalian](https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb) | 3:26 | 2021-12-02 |  |
 | [Waja](https://open.spotify.com/track/1xrYjUmXmbJRCNuTGqBmS2) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Waja](https://open.spotify.com/album/5Op1WZIYTjQTlqXVYMyZDN) | 3:00 | 2022-02-03 | 2022-03-11 |
-| [Wang Tut Gyi](https://open.spotify.com/track/6mVllu47msCKvF0kFN6Ma4) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD) | [Wang Tut Gyi](https://open.spotify.com/album/6mALhy205IRnUevHx7mk43) | 2:19 | 2022-07-05 |  |
+| [Wang Tut Gyi](https://open.spotify.com/track/6mVllu47msCKvF0kFN6Ma4) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD) | [Wang Tut Gyi](https://open.spotify.com/album/6mALhy205IRnUevHx7mk43) | 2:19 | 2022-07-05 | 2022-07-08 |
 | [Waves](https://open.spotify.com/track/0PTKdhCpWGehmffPEum7jA) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Waves](https://open.spotify.com/album/3MhjfVPObsfp6YEZiNi2av) | 3:03 | 2022-07-05 |  |
 | [Wedding Vibes](https://open.spotify.com/track/1M0kEP53VUsLQi5yOJtL2W) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Beat Boi Deep](https://open.spotify.com/artist/024zFKsfkByro9RORWasCq) | [Wedding Vibes](https://open.spotify.com/album/3EBlV4zqE2nTJu3a7SFsAL) | 2:58 | 2022-01-10 | 2022-02-01 |
 | [Weekend](https://open.spotify.com/track/4Su7DHadrVmCFuxU972eTc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Weekend](https://open.spotify.com/album/5CWJfhgBQzYb3GbIfpjvw1) | 2:50 | 2022-01-10 | 2022-04-06 |

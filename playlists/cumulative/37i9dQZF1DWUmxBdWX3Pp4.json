@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del Trap Latino. Foto: Bad Bunny.",
+  "description": "\u00c9xitos del Trap Latino. Foto: Tiago PZK.",
   "name": "TRAPPERZ",
   "published_playlist_ids": [
     "0YPZzz15ohQLZmTK6LnsaM"
@@ -691,6 +691,24 @@
       "duration_ms": 172000,
       "name": "Carrera",
       "url": "https://open.spotify.com/track/5TbutTu80CvVOgilfbZu6x"
+    },
+    {
+      "album": {
+        "name": "Casa De Chapa",
+        "url": "https://open.spotify.com/album/5G6Lqh2CLIshQDsZ8RN9kD"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153806,
+      "name": "Casa De Chapa",
+      "url": "https://open.spotify.com/track/6cF2qsUsTxrgR3g9YGHT2u"
     },
     {
       "album": {
@@ -3333,7 +3351,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 183272,
       "name": "Nois faz a moda",
       "url": "https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki"

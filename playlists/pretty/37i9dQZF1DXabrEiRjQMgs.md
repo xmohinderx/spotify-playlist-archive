@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabrEiRjQMgs.md) - [plain]
 
 > Explore the world of ballet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,120 likes - 29 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,791 likes - 29 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabrEiRjQMgs.md) - [plain]
 | 28 | [Water Music: Suite No\. 2 in D Major, HWV 349, II\. Alla Hornpipe](https://open.spotify.com/track/1iWqwgEbHd1okS2dXQe6LT) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Pierre Boulez](https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Handel: Water Music; Royal Fireworks Music \- Expanded Edition](https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH) | 3:36 |
 | 29 | [Les Sylphides: 7\. Valse in C♯ minor, Op\. 64, No\. 2](https://open.spotify.com/track/6X0f3blXFFAA0TcCSSjMgu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Ballet Highlights \- The Nutcracker, Romeo & Juliet, Swan Lake](https://open.spotify.com/album/4OIaXexWOfirCq7u5nQKtR) | 4:28 |
 
-Snapshot ID: `MTY1Mjg4NzAxNSwwMDAwMDAyNzAwMDAwMTgwZDdiZTRmZDMwMDAwMDE3ZDgwNzNkMzcy`
+Snapshot ID: `MTY1NzIyNDAxMywwMDAwMDAyODAwMDAwMTgxZGEzZmE3NmEwMDAwMDE3ZDgwNzNkMzcy`

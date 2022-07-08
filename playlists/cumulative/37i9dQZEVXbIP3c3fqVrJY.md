@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-683 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
+684 songs - 1 day 11 hr 9 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [51 Party](https://open.spotify.com/track/5xNX0rpaWbesfXUHUK9kO0) | [Smack](https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7) | [Chimera Pt\. 3: Snake](https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD) | 6:13 | 2021-12-17 | 2021-12-19 |
 | [721](https://open.spotify.com/track/5UglUCrJfKXFJwQSuDse9G) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Jsem v pohodě, sem v prdeli.](https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr) | 1:46 | 2021-08-01 | 2021-08-19 |
 | [7:30 RÁNO V BRATISLAVE](https://open.spotify.com/track/5BBnjiqknqdUPBNtfJgm5W) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Otis](https://open.spotify.com/artist/6tgoVY0A9jgdei4JA2cCrF), [Luca Brassi10x](https://open.spotify.com/artist/533p900oXrV93rJupPWvF2), [SAK10DENZ](https://open.spotify.com/artist/7qIxkjhPmu8j1c8THSt8xl) | [ODSÚDENÍ NA ÚSPECH](https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2) | 4:25 | 2021-12-16 | 2021-12-17 |
-| [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-19 |  |
+| [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-19 | 2022-07-08 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-06 | 2022-07-04 |
 | [Adagio for Hate](https://open.spotify.com/track/0KVgSVzPwEwCYXZNDP3D1C) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Návrat na planetu Zemi](https://open.spotify.com/album/4MVM6BJQ15yt9d0fUFwzYG) | 2:22 | 2021-11-14 | 2021-11-14 |
 | [aha](https://open.spotify.com/track/4zO37lLh7Vz7CsStYCwS9U) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt) | [Anarchia](https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW) | 2:13 | 2021-09-03 | 2021-09-05 |
@@ -354,6 +354,7 @@
 | [Mam rad](https://open.spotify.com/track/3dy5oEu2K9ujwyJBd12fTZ) | [Miro Žbirka](https://open.spotify.com/artist/38vf1Wys8uNYdbZQwtGpmr) | [Modry album](https://open.spotify.com/album/5lzAvhShtMIPkJea7vEqAP) | 2:59 | 2021-11-13 | 2021-11-14 |
 | [Mama jdeme up](https://open.spotify.com/track/2jtaickG7eA0pXJqYpT4Fk) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Robby Trouble](https://open.spotify.com/album/1Ne3BSmtzwo5Iw4IaXu4eO) | 3:13 | 2021-06-20 | 2021-06-26 |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-18 |
+| [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-07 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2022-06-01 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 | 2022-03-18 | 2022-03-27 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 | 2022-03-26 | 2022-04-03 |

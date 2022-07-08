@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-60 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
+61 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Passacaglia](https://open.spotify.com/track/5BD9SqJecAsPUI717asNV6) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Tigran](https://open.spotify.com/artist/5aIfDT5vYjvLA47OUCv8eJ), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2) | [Liberetto II](https://open.spotify.com/album/52f8OH2v1jtqemCOI4VFvt) | 4:28 | 2021-12-02 |  |
 | [Passepied nouveau](https://open.spotify.com/track/0Ojn5HBy1lcILqz4m0Nj2h) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Monsieur Claude \(A Travel with Claude Debussy\)](https://open.spotify.com/album/1Eh0JcWtm36zjJaR276Rph) | 4:50 | 2021-12-02 |  |
 | [Pavane](https://open.spotify.com/track/1pASaPpC5gkDDQlcZi1QKi) | [Regina Carter](https://open.spotify.com/artist/3lWP7nrnwtWJFOANMDz0GJ) | [Paganini: After A Dream](https://open.spotify.com/album/5iW2cWp53rs2JDCW7lbXc2) | 5:24 | 2021-12-02 |  |
+| [Peace Piece](https://open.spotify.com/track/1OIf9HdeZ0V0F6kSbgnBoO) | [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Kronos Quartet: Music Of Bill Evans](https://open.spotify.com/album/5vGOb3jAa4wv7ZS0mL2IfF) | 7:11 | 2022-07-07 |  |
 | [Peer Gynt Suites Nos\. 1 & 2 : In the Hall of the Mountain King](https://open.spotify.com/track/0PCFkOmhv7UdcLReoMG05m) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Swinging Suites](https://open.spotify.com/album/7tCNBCYSxnp4PaIaMsUmh7) | 2:31 | 2021-12-02 | 2022-07-05 |
 | [Piano Concerto No\. 2 \(feat\. Jeff Tain Watts, Silvano Monasterios & Chris Smith\)](https://open.spotify.com/track/1304Brw70MJMGq2l5UZmqv) | [Troy Roberts](https://open.spotify.com/artist/7J9YpX3eZIWlcRbDnbny88), [Jeff "Tain" Watts](https://open.spotify.com/artist/0hZXvDnljkma4aThiBMQ6h), [Silvano Monasterios](https://open.spotify.com/artist/7otPm9JdRxi8eO6DZPgY5Y), [Chris Smith](https://open.spotify.com/artist/5dMaOXLKrpk8oiW8fc7rek) | [Secret Rhymes](https://open.spotify.com/album/2HmRK7gOKbifwwMDCB4hpA) | 8:40 | 2021-12-02 | 2022-07-05 |
 | [Precious Joy](https://open.spotify.com/track/77XEV3Bvbm8Jur93KPvObi) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Blues On Bach](https://open.spotify.com/album/0h0djkzsIkooZkiKlgT9pc) | 3:15 | 2021-12-02 | 2022-07-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Marc Tatchapon",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Praesun",
   "name": "T-Pop Now",
   "published_playlist_ids": [
     "46jC5TDLIJijd5c6Z3EIRR"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 183453,
       "name": "All Night (feat. Loco)",
       "url": "https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0"
@@ -413,6 +413,24 @@
       "duration_ms": 207073,
       "name": "SuperCarCare",
       "url": "https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r"
+    },
+    {
+      "album": {
+        "name": "WINK",
+        "url": "https://open.spotify.com/album/17K46xu9e8ZwLfYXsOQBeY"
+      },
+      "artists": [
+        {
+          "name": "Jaonaay",
+          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "WINK",
+      "url": "https://open.spotify.com/track/1c3J4LNuNvUUnXmk8moHHv"
     },
     {
       "album": {
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 253770,
       "name": "\u0e08\u0e34\u0e19\u0e15\u0e19\u0e32\u0e01\u0e32\u0e23\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e01\u0e27\u0e48\u0e32\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01 (remain)",
       "url": "https://open.spotify.com/track/3buBvnFvPISsiYsglZ7CCG"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 199310,
       "name": "\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01 - Original soundtrack from \"\u0e19\u0e34\u0e48\u0e07\u0e40\u0e2e\u0e35\u0e22\u0e01\u0e47\u0e2b\u0e32\u0e27\u0e48\u0e32\u0e0b\u0e37\u0e48\u0e2d\" cutie pie series",
       "url": "https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj"
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 215675,
       "name": "\u0e23\u0e2d\u0e40\u0e01\u0e48\u0e07 - Introvert",
       "url": "https://open.spotify.com/track/60lOiEJVxbn4Crv8344i1W"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 278312,
       "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1e\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
       "url": "https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh"
@@ -2170,6 +2188,42 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d (Miss You)",
+        "url": "https://open.spotify.com/album/4n3hdmxkvLv3IvsLbH5Frj"
+      },
+      "artists": [
+        {
+          "name": "Chypre",
+          "url": "https://open.spotify.com/artist/4mMIQJKMHFmFW2DVdFBUqp"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232421,
+      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d (Miss You)",
+      "url": "https://open.spotify.com/track/2MhltgwCtdahdAJTrFUbIm"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e15\u0e31\u0e27\u0e40\u0e25\u0e47\u0e01 (Chob Kub Khun)",
+        "url": "https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI"
+      },
+      "artists": [
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195194,
+      "name": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e15\u0e31\u0e27\u0e40\u0e25\u0e47\u0e01 (Chob Kub Khun)",
+      "url": "https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2b\u0e25\u0e48\u0e17\u0e48\u0e2d",
         "url": "https://open.spotify.com/album/6yNmCQx2RcSytSTbDCaAfE"
       },
@@ -2203,6 +2257,42 @@
       "duration_ms": 204263,
       "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
       "url": "https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e44\u0e21\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e07 (Hermionong)",
+        "url": "https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj"
+      },
+      "artists": [
+        {
+          "name": "TheChanisara",
+          "url": "https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216734,
+      "name": "\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e44\u0e21\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e07 - Hermionong",
+      "url": "https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e01\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e21\u0e32\u0e15\u0e25\u0e2d\u0e14 (All Kill)",
+        "url": "https://open.spotify.com/album/6j1Vn1TozowU0s8AswD8dp"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186279,
+      "name": "\u0e41\u0e01\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e21\u0e32\u0e15\u0e25\u0e2d\u0e14 - All Kill",
+      "url": "https://open.spotify.com/track/16F2kMvP3sJ9aqtL5ubZt2"
     },
     {
       "album": {
@@ -2341,7 +2431,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 192786,
       "name": "\u0e41\u0e25\u0e01\u0e40\u0e25\u0e22\u0e1b\u0e30 (Hoo Whee Hoo)",
       "url": "https://open.spotify.com/track/70Sn9wy03VYM7iChqD8DXQ"
@@ -2395,7 +2485,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 227250,
       "name": "\u0e42\u0e2d\u0e49\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/2VtEXjR6lKIGBafyHYLbiN"

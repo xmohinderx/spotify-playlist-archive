@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Wind Rose
 
-309 songs - 23 hr 21 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+311 songs - 23 hr 30 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Breathing Divinity](https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8) | [Jani Liimatainen](https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [My Father's Son](https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr) | 5:03 | 2022-05-06 |  |
 | [Brothers of the Past \- 2022 Version](https://open.spotify.com/track/0Setu1TLxA25kpwiKs2PVp) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Brothers of the Past \(2022 Version\)](https://open.spotify.com/album/0qrDK7oCOnwxipfC225U11) | 4:42 | 2022-04-01 | 2022-04-09 |
 | [Bulletproof](https://open.spotify.com/track/3fW5bM0HE0C6SjmATeMhOp) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Seven](https://open.spotify.com/album/7BmZ8XbskH7qzoBux13TZb) | 3:42 | 2021-08-28 | 2022-04-02 |
+| [Call My Name](https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY) | [Sleeping Romance](https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM) | [Call My Name](https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl) | 4:27 | 2022-07-08 |  |
 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 | 2022-05-20 |  |
 | [Chain of the Golden Horn](https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Chain of the Golden Horn](https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj) | 4:00 | 2020-11-29\* | 2021-11-27 |
 | [Chambers of Fire](https://open.spotify.com/track/0t6hb4sQPxJQAAB7iYPrpt) | [Battlelore](https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw) | [Chambers of Fire](https://open.spotify.com/album/2knMVLETWD9mGLSF02iClX) | 4:13 | 2022-05-06 |  |
@@ -143,7 +144,7 @@
 | [Kiss The Mountain](https://open.spotify.com/track/3H6LUyEnkwY4Q1ve2QcYWf) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [II \- Those We Don't Speak Of](https://open.spotify.com/album/4hSTThiexItng5cluApyAN) | 3:41 | 2021-09-04 | 2022-04-15 |
 | [Kraven the Hunter \- Single Edit](https://open.spotify.com/track/3skZ9npI1llyAOivyBCC7y) | [Power Paladin](https://open.spotify.com/artist/2jkaoO6BDX0QvewdjxRSvB) | [Kraven The Hunter](https://open.spotify.com/album/39Zzf3eP7dTiDPlbCZrTma) | 4:42 | 2021-12-11 |  |
 | [Land Under Storm](https://open.spotify.com/track/3U5Vr0V0iv9t9R6DKT4hQU) | [Frozen Shield](https://open.spotify.com/artist/1KiaTHAqtLFqstFaPG933b) | [Land Under Storm](https://open.spotify.com/album/5yGz3JfrZC5Rzp48h5FGe9) | 5:35 | 2021-06-19 | 2022-02-26 |
-| [Le Radeau de La Méduse](https://open.spotify.com/track/3pA6e63BSPjPt9SFF9lwha) | [Aephanemer](https://open.spotify.com/artist/1M2nK2dOXJjcCuW3SQEzET) | [Le Radeau de La Méduse \(English\)](https://open.spotify.com/album/1KENM3kf19xETgAZT0DQng) | 5:42 | 2021-11-20 |  |
+| [Le Radeau de La Méduse](https://open.spotify.com/track/3pA6e63BSPjPt9SFF9lwha) | [Aephanemer](https://open.spotify.com/artist/1M2nK2dOXJjcCuW3SQEzET) | [Le Radeau de La Méduse \(English\)](https://open.spotify.com/album/1KENM3kf19xETgAZT0DQng) | 5:42 | 2021-11-20 | 2022-07-08 |
 | [Leierkinder](https://open.spotify.com/track/3ImQFmi5ODojWONMe9S1mu) | [Nachtblut](https://open.spotify.com/artist/5B0OyK2i2akNMaYj3voQ3j) | [Leierkinder](https://open.spotify.com/album/4ULEzWkcdcKjenxTXmyhJc) | 4:00 | 2020-11-29\* | 2021-10-16 |
 | [Lempo](https://open.spotify.com/track/3WzAw4smXmAsSyXVEE09Qb) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Noita](https://open.spotify.com/album/0VjxxvMfRb10KB92WYbgqN) | 5:35 | 2020-11-29\* | 2021-09-04 |
 | [Let the Fire Rain](https://open.spotify.com/track/4e1sizUvzt4tOquIcEmDpm) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Let the Fire Rain](https://open.spotify.com/album/7IUt3b9v6otoNjqG6WdLbc) | 4:35 | 2021-02-19 | 2021-12-04 |
@@ -194,6 +195,7 @@
 | [Noise](https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Noise](https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex) | 5:40 | 2020-11-29\* | 2021-08-21 |
 | [Northwest Passage](https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Northwest Passage](https://open.spotify.com/album/7aKwMRfEricZ79KMU1kip9) | 4:35 | 2020-11-29\* | 2021-06-19 |
 | [Nostos](https://open.spotify.com/track/3W6Xik6Xxf06JuUoZSATlD) | [Orion's Reign](https://open.spotify.com/artist/3hRL14TJtJqr7i1IH3D1pU), [Minniva](https://open.spotify.com/artist/50KIyycosYOGrBHfLaI1Ju) | [Nostos](https://open.spotify.com/album/2ZNyqng4E2LUSI2iDA4o04) | 2:55 | 2020-11-29\* | 2021-02-19 |
+| [Not All Those Who Wander Are Lost](https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Not All Those Who Wander Are Lost](https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65) | 4:46 | 2022-07-08 |  |
 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 | 2022-01-21 |  |
 | [Oblivion](https://open.spotify.com/track/67MGQWoNdzW83hl6khFD6q) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Oblivion](https://open.spotify.com/album/7z9xtUPMCYEGy5w448oGA3) | 5:38 | 2022-06-17 |  |
 | [Omegacoustic](https://open.spotify.com/track/7yG5JmZcNMZzjkUbQWdrlz) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omegacoustic](https://open.spotify.com/album/4GxhRnVmjuRhSkrrU143tZ) | 4:29 | 2021-02-19 | 2021-02-26 |
@@ -265,7 +267,7 @@
 | [The Land of Xia](https://open.spotify.com/track/75RY9AwhKebedSsNs0hRqg) | [Memories Of Old](https://open.spotify.com/artist/3jwxNFNe7BHnFTas8X2cGS) | [The Land of Xia](https://open.spotify.com/album/3OeFbWpvoCLnVBaYT0lT90) | 6:00 | 2020-11-29\* | 2021-09-25 |
 | [The Last Glow of Day](https://open.spotify.com/track/5A8Swwa08RlHqJ8SCcrGk9) | [Walk in Darkness](https://open.spotify.com/artist/4J5dAuYmTTvllJTymoS3tL) | [The Last Glow of Day](https://open.spotify.com/album/1bDmn617Zj0iFIaa6uVQfv) | 5:15 | 2021-10-01 | 2022-05-14 |
 | [The Last Hymn to Life](https://open.spotify.com/track/2m1SoDCpZAE0oRs6gGCCXe) | [Insania](https://open.spotify.com/artist/5PgpbJGDEilZcBglUPMMPl) | [V \(Praeparatus Supervivet\)](https://open.spotify.com/album/6DjBQrACipS0vKlBIqUgzI) | 7:36 | 2021-11-13 | 2022-06-12 |
-| [The Last Rays of the Sun](https://open.spotify.com/track/5RAVYLt6qwE6qAJISplSud) | [Her Alone](https://open.spotify.com/artist/2dnG7Q4xgIcfNpItnAwLAv) | [The Last Rays of the Sun](https://open.spotify.com/album/4vOgylNHYI8EGze0sJGWOg) | 4:35 | 2021-11-27 |  |
+| [The Last Rays of the Sun](https://open.spotify.com/track/5RAVYLt6qwE6qAJISplSud) | [Her Alone](https://open.spotify.com/artist/2dnG7Q4xgIcfNpItnAwLAv) | [The Last Rays of the Sun](https://open.spotify.com/album/4vOgylNHYI8EGze0sJGWOg) | 4:35 | 2021-11-27 | 2022-07-08 |
 | [The Last Wave](https://open.spotify.com/track/3HIrL5CpFrc6CNjiOCDidI) | [The Ferrymen](https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7) | [The Last Wave](https://open.spotify.com/album/4fh7KDwJsiTCLwzeEEJIXL) | 4:47 | 2021-12-17 | 2022-06-18 |
 | [The Longing](https://open.spotify.com/track/6nLAVYh5wKwASkNoYVNSNi) | [Oversense](https://open.spotify.com/artist/2s2E3a8FosQdQvs1r8KHYd) | [The Longing](https://open.spotify.com/album/7bNjKNmZ2Wj58s9zCRCJ0u) | 4:43 | 2021-07-10 | 2022-04-02 |
 | [The Other Side](https://open.spotify.com/track/3o9soRptwDhjVZ5IW0c2OG) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [The Other Side](https://open.spotify.com/album/6pzWHJIhb1m0bynoFZzx7Q) | 3:34 | 2022-03-22 | 2022-06-18 |

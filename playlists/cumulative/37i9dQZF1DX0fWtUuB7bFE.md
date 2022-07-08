@@ -4,7 +4,7 @@
 
 > New music from all\-time greats! Cover: Pink Floyd
 
-54 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/417uTD9hFYLOKnNMeHCzDQ)
+55 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/417uTD9hFYLOKnNMeHCzDQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Coming Undone](https://open.spotify.com/track/5OCiXLk65pqIM793HtmJfT) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Change The World](https://open.spotify.com/album/6APtDR2O7RrsZiDCXKXkyg) | 3:20 | 2022-05-20 |  |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-05-20 |  |
 | [Dig Yourself Deep \- Paul Tipler Remix](https://open.spotify.com/track/4zFcpN5BtjZJ4lKAHBBU0t) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt), [Paul Tipler](https://open.spotify.com/artist/1K1gY3jNM7v2oin7ElLDry) | [Dig What You Need](https://open.spotify.com/album/5JQhknkzCUN5RuDvy1zoqB) | 1:52 | 2022-05-20 |  |
-| [Don't Give Up On Us](https://open.spotify.com/track/3FQuJiVvCjU6RmkXDDME1D) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Don't Give Up On Us](https://open.spotify.com/album/4nPgrSDWnf4M8W9M4PKfnd) | 5:22 | 2022-06-10 |  |
+| [Don't Give Up On Us](https://open.spotify.com/track/3FQuJiVvCjU6RmkXDDME1D) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Don't Give Up On Us](https://open.spotify.com/album/4nPgrSDWnf4M8W9M4PKfnd) | 5:22 | 2022-06-10 | 2022-07-08 |
 | [Don't Ya Mess With Me](https://open.spotify.com/track/3VJIfLCvM1wF7LQCSrU0td) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Liberté](https://open.spotify.com/album/2n0oR2fuj2Wzmv6r4LM1tn) | 3:32 | 2022-05-20 |  |
 | [Emergency \(feat\. Ronnie Romero, Barry Sparks & Simon Phillips\)](https://open.spotify.com/track/1r4TvZ1NDSGsJxmFOcXrqb) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi), [Barry Sparks](https://open.spotify.com/artist/4Rl5skbePa3vdyXRr9muro), [Ronnie Romero](https://open.spotify.com/artist/5uURCTdE7ztucOBpi5PmY2), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Emergency \(feat\. Ronnie Romero, Barry Sparks & Simon Phillips\)](https://open.spotify.com/album/2O3nyTQwb5eg9PwYi5Ft0X) | 3:49 | 2022-05-20 |  |
 | [End Of Night](https://open.spotify.com/track/2mOzVvURATXmEU64DANxDr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 3:23 | 2022-05-20 |  |
@@ -59,6 +59,7 @@
 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 | 2022-05-20 |  |
 | [Tumbling Dice \- Live At The El Mocambo 1977](https://open.spotify.com/track/4ysl37uXN7mZhSedAzKCUD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tumbling Dice / Hot Stuff \(Live At The El Mocambo 1977\)](https://open.spotify.com/album/4oJx1yVKrT7cKoS2dvpCLk) | 4:56 | 2022-05-20 |  |
 | [Tush \(7" Version\)](https://open.spotify.com/track/227z0JaI3cU3FThHOa4PVo) | [Girlschool](https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8) | [Play Dirty \(Bonus Track Edition\)](https://open.spotify.com/album/2T4pSW43IHC4LfLGOCPzSt) | 2:13 | 2022-05-20 |  |
+| [United We Stand](https://open.spotify.com/track/5fPTvRwefHOnjwIJwrLFJ4) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [United We Stand](https://open.spotify.com/album/4mTBIjxITJ177XFXKPTpVz) | 5:04 | 2022-07-08 |  |
 | [Waiting for the World to End](https://open.spotify.com/track/4gNzAlHWjr73HycnkCcGSs) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Surviving the Law](https://open.spotify.com/album/3Z5yXM2AoHoIUMqNXtZjYI) | 2:47 | 2022-05-20 |  |
 | [We're All Just Trying To Get By](https://open.spotify.com/track/0MScNXn0DvA1HXlndSiq5p) | [Roger Taylor](https://open.spotify.com/artist/2PZEd7yktruWruOqORRChA), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [We’re All Just Trying To Get By](https://open.spotify.com/album/1UF5v2Zq76v4GLUamIfoMB) | 2:52 | 2022-05-20 |  |
 | [White Room](https://open.spotify.com/track/3nWDytplyudbnv36JdKmeW) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 4:53 | 2022-05-20 |  |

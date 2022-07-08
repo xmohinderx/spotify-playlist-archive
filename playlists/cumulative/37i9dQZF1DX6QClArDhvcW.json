@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 166153,
       "name": "an ordinary night",
       "url": "https://open.spotify.com/track/18b2tn5ZE4qocknxWP4XOU"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 114754,
       "name": "Big El",
       "url": "https://open.spotify.com/track/69aMbPMuyQLVUOW0M52Cbc"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 280000,
       "name": "fusions",
       "url": "https://open.spotify.com/track/505vdK8fP7XVkNmK3zicyC"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 132435,
       "name": "Klok",
       "url": "https://open.spotify.com/track/1FUxKfCKHPLpvB8h1wWZ8Y"
@@ -1993,6 +1993,28 @@
       "duration_ms": 107100,
       "name": "nesh",
       "url": "https://open.spotify.com/track/0HOAVNvOCf0RMc9oZCIAVP"
+    },
+    {
+      "album": {
+        "name": "Never On Sunday",
+        "url": "https://open.spotify.com/album/5RRa56SiNZRfCmyslYD0Vy"
+      },
+      "artists": [
+        {
+          "name": "Enluv",
+          "url": "https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin"
+        },
+        {
+          "name": "twuan",
+          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151898,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/2B8ftHLCfrsqdiwClpXzvY"
     },
     {
       "album": {
@@ -2985,7 +3007,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 147937,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/44P7zNM1vILYeAd7rpLB7w"
@@ -3061,7 +3083,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 158190,
       "name": "Trick or beats?",
       "url": "https://open.spotify.com/track/52azPQfTvTNPnXlokpRisV"

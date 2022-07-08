@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "A TE",
+        "url": "https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124195,
+      "name": "A TE",
+      "url": "https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu"
+    },
+    {
+      "album": {
         "name": "Dasein Sollen",
         "url": "https://open.spotify.com/album/4cpbVkMPzHjWZajKY53SKJ"
       },

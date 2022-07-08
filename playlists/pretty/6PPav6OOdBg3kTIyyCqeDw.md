@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > A collection of Hip Hop hits and viral trends featuring Lil Baby, J.Cole, Doechii &amp; more\. Updated weekly!  Cover: City Girls
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 12,053 likes - 58 songs - 3 hr 18 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 12,052 likes - 58 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

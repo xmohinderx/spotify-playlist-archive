@@ -217,10 +217,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 213634,
       "name": "Andlegur",
       "url": "https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM"
+    },
+    {
+      "album": {
+        "name": "Apelsin",
+        "url": "https://open.spotify.com/album/4yfmMDdTRzvgFkzseQ6w4T"
+      },
+      "artists": [
+        {
+          "name": "Son-us",
+          "url": "https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174270,
+      "name": "Apelsin",
+      "url": "https://open.spotify.com/track/2JU9HxO67unq1IxdfLWywI"
     },
     {
       "album": {
@@ -275,6 +293,24 @@
       "duration_ms": 166779,
       "name": "Atamasco",
       "url": "https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6K3FYQWAQcANDZjQgcxaCM"
+      },
+      "artists": [
+        {
+          "name": "Penga Scain",
+          "url": "https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274543,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/6wHt80ii2pZjjffzLfM1mg"
     },
     {
       "album": {
@@ -1484,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "album": {
         "name": "Hop Notch",
         "url": "https://open.spotify.com/album/4fGkYjNUU6vqq4MD9f0kfS"
       },
@@ -1697,6 +1751,24 @@
       "duration_ms": 184644,
       "name": "Kashmir (Edit)",
       "url": "https://open.spotify.com/track/204q7FkjtzZBm8TWl2sjBz"
+    },
+    {
+      "album": {
+        "name": "Keeping",
+        "url": "https://open.spotify.com/album/1as5ri9NKFQcZN9YZJUIh4"
+      },
+      "artists": [
+        {
+          "name": "Chimi Berry",
+          "url": "https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Keeping",
+      "url": "https://open.spotify.com/track/7J6zJzF5nBfW610gUHT6gE"
     },
     {
       "album": {
@@ -2853,7 +2925,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 179590,
       "name": "SPF",
       "url": "https://open.spotify.com/track/1tqvyTyYlfi3CMH5dnaySS"

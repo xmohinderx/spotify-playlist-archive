@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-99 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
+101 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,8 @@
 | [Suite From Mulan](https://open.spotify.com/track/1b6Spq4MiEzShOBQLtEhWe) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mulan \(Original Soundtrack\)](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 7:06 | 2021-10-07 |  |
 | [Suite from Zootopia](https://open.spotify.com/track/1ljmDqxdiIl9Vhghp21DWs) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 7:28 | 2021-10-07 |  |
 | [The Archery Affair](https://open.spotify.com/track/7qHs4ZARJCiRZmGqWEmv0t) | [George Bruns](https://open.spotify.com/artist/5T60shnsXD8hlLRDsbvFoO) | [Walt Disney Records The Legacy Collection: Robin Hood](https://open.spotify.com/album/56ewU1ti6LTUjDQzsI9QZD) | 1:53 | 2021-10-07 |  |
+| [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/2mHszKdcP0V2DPrv3w1f8P) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/2ObuQ2rZlx0uJbFMSp6f7M) | 2:40 | 2022-07-07 |  |
+| [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/4imtIfVskTzpoloHLaHplb) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/5sRIFmDAhy6ngKjxrTaO6h) | 2:40 | 2022-07-07 |  |
 | [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/3nJU5HZFOShBsFjCGx9wKT) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/0BGscoeS9uZfXPsbtzu32K) | 3:41 | 2021-10-07 |  |
 | [The Bell Tower](https://open.spotify.com/track/5xlq7bxuhPDUEI5GQFS4zQ) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback of Notre Dame Original Soundtrack \(English Version\)](https://open.spotify.com/album/4oO2rv8QInfX4jVrCdLzlp) | 3:04 | 2021-10-07 |  |
 | [The Big Olive](https://open.spotify.com/track/0tll8bK3dI5vXQSdIf1v8y) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq) | 1:07 | 2021-10-07 |  |

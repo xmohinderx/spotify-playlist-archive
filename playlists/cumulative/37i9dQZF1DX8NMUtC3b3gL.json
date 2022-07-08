@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 266379,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2tzpKB078CVO6s0L3zerxA"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 164010,
       "name": "By The Sea",
       "url": "https://open.spotify.com/track/1CMd0KfJCTs92JyHS68wOS"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 124692,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1bdGo5PNU1fmSJy8vwkzWv"
@@ -710,6 +710,42 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/3dzs7o0stX20Z105dG4Ffh"
+      },
+      "artists": [
+        {
+          "name": "Twofacts",
+          "url": "https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117120,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1mL3YZ7HjesgGu2RWHacxv"
+    },
+    {
+      "album": {
+        "name": "fall",
+        "url": "https://open.spotify.com/album/5gsGyzaNxTJA5zqg4qmQkB"
+      },
+      "artists": [
+        {
+          "name": "majic",
+          "url": "https://open.spotify.com/artist/5sNthmyXtGakNigg1xxlMS"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81000,
+      "name": "fall",
+      "url": "https://open.spotify.com/track/0ndmNCKuAluAi4bjfJCiE4"
+    },
+    {
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/5iYzJvoc8wvClT7PvwXoOb"
       },
@@ -769,7 +805,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 161142,
       "name": "Florida Groove",
       "url": "https://open.spotify.com/track/3gYj3e09w9jinTujZojpxt"
@@ -1022,6 +1058,24 @@
     },
     {
       "album": {
+        "name": "haze avenue",
+        "url": "https://open.spotify.com/album/3LGb9f9WeXASzdKanaiPdu"
+      },
+      "artists": [
+        {
+          "name": "Kenobi wan",
+          "url": "https://open.spotify.com/artist/5HYod5WZrhCiF1AN86T895"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "haze avenue",
+      "url": "https://open.spotify.com/track/12YAU1BzBei8xXoSu10Ae8"
+    },
+    {
+      "album": {
         "name": "Heaven's Nite",
         "url": "https://open.spotify.com/album/3elfAJETFNriDHy3SIbP8d"
       },
@@ -1181,7 +1235,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 116571,
       "name": "Lasting Friendships",
       "url": "https://open.spotify.com/track/1GVnU4t7lZP96JiQjiL98r"
@@ -1293,7 +1347,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 123200,
       "name": "Manito",
       "url": "https://open.spotify.com/track/3czR3Xu0Ld5moQlOntRH4E"
@@ -1333,7 +1387,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 116619,
       "name": "modernity",
       "url": "https://open.spotify.com/track/2Gwx7C7INLa5Ze2OwOPs8O"
@@ -1532,6 +1586,46 @@
     },
     {
       "album": {
+        "name": "ocean blue",
+        "url": "https://open.spotify.com/album/7bcfdyabuld1dgPrq2P6YJ"
+      },
+      "artists": [
+        {
+          "name": "brknhrt.Wav",
+          "url": "https://open.spotify.com/artist/7CSAczsskEtnMBzZ25tOma"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104437,
+      "name": "ocean blue",
+      "url": "https://open.spotify.com/track/4F10zgqF71gLdv9ZIHQeXX"
+    },
+    {
+      "album": {
+        "name": "Other Way Around",
+        "url": "https://open.spotify.com/album/4aK8t4rKtHjdsMaV4hg34t"
+      },
+      "artists": [
+        {
+          "name": "eaup",
+          "url": "https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt"
+        },
+        {
+          "name": "WOOLFSON",
+          "url": "https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Other Way Around",
+      "url": "https://open.spotify.com/track/1Ncz3CgIIhlvoqChef6QLm"
+    },
+    {
+      "album": {
         "name": "our future",
         "url": "https://open.spotify.com/album/54O5b1b2VKMu4fD0d72wp3"
       },
@@ -1619,6 +1713,24 @@
       "duration_ms": 129808,
       "name": "patterns",
       "url": "https://open.spotify.com/track/7l6PWAfC06SZhcciNN5cvg"
+    },
+    {
+      "album": {
+        "name": "Patterns Of Nature",
+        "url": "https://open.spotify.com/album/2oq1tmjN0vPEE7xDycGydt"
+      },
+      "artists": [
+        {
+          "name": "Mindeliq",
+          "url": "https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149659,
+      "name": "Patterns Of Nature",
+      "url": "https://open.spotify.com/track/3RjNoeYW7Xfyw72744iEDJ"
     },
     {
       "album": {
@@ -1717,6 +1829,42 @@
       "duration_ms": 81946,
       "name": "play\u2019n rewind",
       "url": "https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3"
+    },
+    {
+      "album": {
+        "name": "Korean BBQ",
+        "url": "https://open.spotify.com/album/0sxHgW3KYTmRfFq0qubtvU"
+      },
+      "artists": [
+        {
+          "name": "Polis Sitz",
+          "url": "https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156881,
+      "name": "poolSide",
+      "url": "https://open.spotify.com/track/2V33ELzmC3DA4hWxJoxjvX"
+    },
+    {
+      "album": {
+        "name": "prettybaby.",
+        "url": "https://open.spotify.com/album/44fDrwORuNkg0kmNbnJvlD"
+      },
+      "artists": [
+        {
+          "name": "Yakuka.",
+          "url": "https://open.spotify.com/artist/3h8nRZ5Q3Z1uaFwi7ivPkh"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156924,
+      "name": "prettybaby.",
+      "url": "https://open.spotify.com/track/447v1kCLZAN4CaVUAcG2Oc"
     },
     {
       "album": {
@@ -1843,6 +1991,24 @@
       "duration_ms": 169500,
       "name": "Sapphire Lake",
       "url": "https://open.spotify.com/track/1JkJyzYF2rFW8JNtKAcvJg"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2MeZ3MCw3QFquMCctLFokJ"
+      },
+      "artists": [
+        {
+          "name": "Mysterybops",
+          "url": "https://open.spotify.com/artist/3Kz2x1edaxHzoe69LxWK4n"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112132,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0Etu29i3NNSXE2KufX3xC2"
     },
     {
       "album": {
@@ -1991,7 +2157,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 266100,
       "name": "Soft Lad",
       "url": "https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid"
@@ -2201,6 +2367,24 @@
       "duration_ms": 184000,
       "name": "Sunset Drive",
       "url": "https://open.spotify.com/track/0MhsUh9Rak7iwDCbvAJ9Rm"
+    },
+    {
+      "album": {
+        "name": "Sunsoak",
+        "url": "https://open.spotify.com/album/5tcXUxmQFntGbhJJcmsjVD"
+      },
+      "artists": [
+        {
+          "name": "Ray Ford",
+          "url": "https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Sunsoak",
+      "url": "https://open.spotify.com/track/0GiZGyGx5A5r1zDxARPdkl"
     },
     {
       "album": {
@@ -2454,6 +2638,24 @@
     },
     {
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5CMhCQd8dBQ8hEPxeg5gGy"
+      },
+      "artists": [
+        {
+          "name": "low&slow",
+          "url": "https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154692,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0Dcsu1oGRH9knxbEbYd5dC"
+    },
+    {
+      "album": {
         "name": "shortstories",
         "url": "https://open.spotify.com/album/2Am9QrlMjX0QTnkAOayeeI"
       },
@@ -2527,7 +2729,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 108800,
       "name": "Worthless",
       "url": "https://open.spotify.com/track/73xT58rBWebbb0nkQcfofJ"
@@ -2585,7 +2787,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 167368,
       "name": "\u00c1gua de beber - Lofi",
       "url": "https://open.spotify.com/track/1H1q2sQFV13oGHbMMOs48W"

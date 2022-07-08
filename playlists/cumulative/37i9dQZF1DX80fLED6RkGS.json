@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=xuSvLd0_R4eridg_tisTrQ\"> Maandy</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q?si=dHc9UkpbQz2jb-MNOXBWbw\">Boondocks Gang</a> ",
   "name": "Gengetone Fire",
   "published_playlist_ids": [
     "7MvfVmuw7tyjVzEqBd5mPq"
@@ -1991,7 +1991,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 168000,
       "name": "Mbogi Ya Madenge",
       "url": "https://open.spotify.com/track/2K14BPDtOZxdBdaDZZtH0n"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 193015,
       "name": "Mmh Aah",
       "url": "https://open.spotify.com/track/7dMpjpq6hB4B7f4GjYhkPv"
@@ -2303,6 +2303,28 @@
       "duration_ms": 202657,
       "name": "Nakulombotov - Remix",
       "url": "https://open.spotify.com/track/4bZZENtwTQvFzxi9GqllTR"
+    },
+    {
+      "album": {
+        "name": "Nasikia Wah",
+        "url": "https://open.spotify.com/album/3UWUoIRvsWuCBGEU03xNoh"
+      },
+      "artists": [
+        {
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+        },
+        {
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219782,
+      "name": "Nasikia Wah",
+      "url": "https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm"
     },
     {
       "album": {
@@ -2948,6 +2970,36 @@
     },
     {
       "album": {
+        "name": "Sababisha",
+        "url": "https://open.spotify.com/album/4yaSzj4uwT6wakoKiI8dXP"
+      },
+      "artists": [
+        {
+          "name": "Rico Gang",
+          "url": "https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx"
+        },
+        {
+          "name": "Benzema",
+          "url": "https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK"
+        },
+        {
+          "name": "Willis Raburu",
+          "url": "https://open.spotify.com/artist/356iHuAuOvmjqp1N2gvw7P"
+        },
+        {
+          "name": "Vic West",
+          "url": "https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182743,
+      "name": "Sababisha",
+      "url": "https://open.spotify.com/track/1ssSnP005VDeNK5PKePpRR"
+    },
+    {
+      "album": {
         "name": "Sam C",
         "url": "https://open.spotify.com/album/5DwRtZXNI08ZpfiBntPJDB"
       },
@@ -3226,6 +3278,24 @@
     },
     {
       "album": {
+        "name": "Sijazoea Kuteteshwa (Si Lazima Tuolewe)",
+        "url": "https://open.spotify.com/album/1rzDS7m9kJuQjlOCJonxaU"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214900,
+      "name": "Sijazoea Kuteteshwa (Si Lazima Tuolewe)",
+      "url": "https://open.spotify.com/track/0DA5PMNJQXpeUBtL4uM4ZS"
+    },
+    {
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/3Q3ApgWPWXhusHABxXOKVV"
       },
@@ -3293,24 +3363,6 @@
       "duration_ms": 206280,
       "name": "Sipangwingwi",
       "url": "https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1"
-    },
-    {
-      "album": {
-        "name": "SIPENDI [Si Lazima Tuolewe]",
-        "url": "https://open.spotify.com/album/1rzDS7m9kJuQjlOCJonxaU"
-      },
-      "artists": [
-        {
-          "name": "Kushman",
-          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
-        }
-      ],
-      "date_added": "2022-05-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214900,
-      "name": "Sipendi [Si Lazima Tuolewe]",
-      "url": "https://open.spotify.com/track/0DA5PMNJQXpeUBtL4uM4ZS"
     },
     {
       "album": {

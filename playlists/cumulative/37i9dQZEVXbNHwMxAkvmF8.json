@@ -6510,6 +6510,28 @@
     },
     {
       "album": {
+        "name": "Pullup (Unplugged)",
+        "url": "https://open.spotify.com/album/65LQb8ypADDtdZlIaZm0Aw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156390,
+      "name": "Pullup - Unplugged",
+      "url": "https://open.spotify.com/track/1qzx5uVTuvW7OftFiRBX3E"
+    },
+    {
+      "album": {
         "name": "Digit\u00e1lis/Anal\u00f3g",
         "url": "https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA"
       },
@@ -7227,7 +7249,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"

@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Black Thunder",
+        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Black Thunder",
+      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
+    },
+    {
+      "album": {
         "name": "Blodbylgje",
         "url": "https://open.spotify.com/album/5SrSRDf01IzfQGJ4yKrGJn"
       },
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 325226,
       "name": "The Legend of Mother Swan",
       "url": "https://open.spotify.com/track/0q8qLv0DTVWKkOS0R510Pg"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 224854,
       "name": "This Is Mongol",
       "url": "https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 338000,
       "name": "Wolf Totem",
       "url": "https://open.spotify.com/track/6uCzY8MKTcLDExUR6nGl99"

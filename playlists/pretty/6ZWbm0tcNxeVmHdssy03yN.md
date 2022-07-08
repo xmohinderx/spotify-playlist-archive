@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,443 likes - 100 songs - 5 hr 27 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,457 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 27 | [Down With Me](https://open.spotify.com/track/7aBFkYFwfSI1rAnlABHHgy) | [Yaz](https://open.spotify.com/artist/3zndnfRPOvKMshWivaeyHq), [SaxONLY](https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y) | [Down With Me](https://open.spotify.com/album/1GNrVAo06KJY7SF8jY5leY) | 2:58 |
 | 28 | [Try \- Mosca Remix](https://open.spotify.com/track/3vukxw4bLJJz50EtxQZqif) | [Gazelle](https://open.spotify.com/artist/4avg26YpNfxui1Jl40RdFU), [Dj Invizable](https://open.spotify.com/artist/1RPxEZn5dt2blPZ0zVJquR) | [Try \(Mosca Remix\)](https://open.spotify.com/album/6xmABq7tjnvUGK6h1v249f) | 5:41 |
 | 29 | [Mmutla](https://open.spotify.com/track/1xOcUmvfl2mIcV7xsWdhWz) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Mmutla](https://open.spotify.com/album/2No7GgFKmpZWIHvaM73CPQ) | 6:19 |
-| 30 | [Fugitivo Vol\. 13](https://open.spotify.com/track/4hkrjTCLpcIg0qimDao2HJ) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [Dirty Suc](https://open.spotify.com/artist/5zziunXg44b8BEQnVx7W2e) | [Fugitivo Vol\. 13](https://open.spotify.com/album/6RugcX5pOtB7BQnaQCkKOY) | 3:00 |
+| 30 | [Dirty Suc \- Fugitivo Vol\. 13](https://open.spotify.com/track/4hkrjTCLpcIg0qimDao2HJ) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [Dirty Suc](https://open.spotify.com/artist/5zziunXg44b8BEQnVx7W2e) | [Dirty Suc \- Fugitivo Vol\. 13](https://open.spotify.com/album/6RugcX5pOtB7BQnaQCkKOY) | 3:00 |
 | 31 | [LONERS ANTHEM](https://open.spotify.com/track/5TJlSKnKnvPcp48BXhHWik) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [LONERS ANTHEM](https://open.spotify.com/album/34zxLXckaHvHXtheuNUcrq) | 2:58 |
 | 32 | [Okay To Make A Change](https://open.spotify.com/track/5vF5uuRQcyVSLAOouLERCZ) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Okay To Make A Change](https://open.spotify.com/album/1vQYOdeP9ftJRwLPA8Vcs6) | 3:42 |
 | 33 | [Changing](https://open.spotify.com/track/3D3M20xGtKIxd1TBXGv7db) | [Lucila Ruiu](https://open.spotify.com/artist/5gH3fVr85QCZg3KTYQB3m4) | [Changing](https://open.spotify.com/album/5K9feHoiTR7to5WZ6Y7UeI) | 3:54 |

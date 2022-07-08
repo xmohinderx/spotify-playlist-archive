@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: Ozzy Osbroune",
+  "description": "For the Hard Rock and full volume lovers. Cover: Ozzy Osbourne",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
@@ -461,6 +461,24 @@
       "duration_ms": 130546,
       "name": "Brown Eyed Son",
       "url": "https://open.spotify.com/track/0qENavjo41kOKOnuSy9laJ"
+    },
+    {
+      "album": {
+        "name": "Call Me Snake",
+        "url": "https://open.spotify.com/album/1bOLrSXcoiGyP9BLQHF2gv"
+      },
+      "artists": [
+        {
+          "name": "The 69 Eyes",
+          "url": "https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219039,
+      "name": "Call Me Snake",
+      "url": "https://open.spotify.com/track/07a1Zu7zlJ5U0mxxIM2to5"
     },
     {
       "album": {
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 202388,
       "name": "Drive",
       "url": "https://open.spotify.com/track/1PKSFV1n7pa3OgCGiUugLb"
@@ -2569,7 +2587,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 243336,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/7tYTL5VTShsYu8cQRnilSK"
@@ -2923,6 +2941,24 @@
       "duration_ms": 166946,
       "name": "She\u2019s On Fire",
       "url": "https://open.spotify.com/track/3ExuTGplbf3o6ilyu4JhY4"
+    },
+    {
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/6UqHgUnm9v6EoaJhduSkmt"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178873,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/6vcHKWopK07LS88BRO7qzQ"
     },
     {
       "album": {

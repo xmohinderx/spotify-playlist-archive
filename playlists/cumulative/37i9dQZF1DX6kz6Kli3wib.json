@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "beslow",
+        "url": "https://open.spotify.com/album/2zs9DYVAe53LBaoWzRzAQr"
+      },
+      "artists": [
+        {
+          "name": "incovent",
+          "url": "https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226906,
+      "name": "beslow",
+      "url": "https://open.spotify.com/track/07QmUmO6lJaMGr6jKCekXl"
+    },
+    {
+      "album": {
         "name": "Best of Luck",
         "url": "https://open.spotify.com/album/2H031CDVjncr8LcOEFRGD5"
       },
@@ -2975,6 +2993,24 @@
       "duration_ms": 226909,
       "name": "Street Spiritz",
       "url": "https://open.spotify.com/track/1WUpnPChiUlbXUTRLTQTQn"
+    },
+    {
+      "album": {
+        "name": "Summer Haze",
+        "url": "https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Summer Haze",
+      "url": "https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol"
     },
     {
       "album": {

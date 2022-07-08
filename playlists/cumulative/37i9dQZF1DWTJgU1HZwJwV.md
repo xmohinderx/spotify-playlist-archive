@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-164 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+166 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Quiet Haven](https://open.spotify.com/track/4OraVyKuW65iz5tUgfN6a0) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [A Quiet Haven](https://open.spotify.com/album/4AmSXmEKrVH7IJUPuSGks0) | 2:43 | 2022-06-17 |  |
 | [A quiet storm](https://open.spotify.com/track/3WIsMgOMmIigPtcBU8VXnU) | [Havvind](https://open.spotify.com/artist/1nPyySRukLSpcKGlTveDnn) | [A quiet storm](https://open.spotify.com/album/49hTGCwDQKxFl6QLE7koEL) | 2:44 | 2022-06-17 |  |
 | [Above](https://open.spotify.com/track/56Ob1mejaKw4RCwlYj3dMw) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Above](https://open.spotify.com/album/6QOcrwQ96kTMC4aOHOHwr4) | 2:16 | 2022-06-17 |  |
+| [Above the vast forest](https://open.spotify.com/track/4rtMTP9GeyxBF4pykocGoP) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Above the vast forest](https://open.spotify.com/album/71ZmOMo10LD4o1tWtBoIvI) | 2:13 | 2022-07-08 |  |
 | [Aeonian](https://open.spotify.com/track/5t5afa9dRzW41gHbAvUfHQ) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Aeonian](https://open.spotify.com/album/10TTVSf5z979cewemtMlep) | 2:46 | 2022-06-17 |  |
 | [Agricola Pamtillan](https://open.spotify.com/track/6oespGB8uH8MnFMPncsOiQ) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Agricola Pamtillan](https://open.spotify.com/album/1n0hHrMp1GmcW02jCTeGMJ) | 2:07 | 2022-06-17 |  |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-06-17 |  |
@@ -149,6 +150,7 @@
 | [Sunset In Alcudia](https://open.spotify.com/track/24LazZmLViVcjOHPCeJikj) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [Sunset In Alcudia](https://open.spotify.com/album/7CjwSRVXRjNBBEaCZHVaR5) | 2:00 | 2022-06-17 |  |
 | [Sunshine In Her Hair](https://open.spotify.com/track/6Ji4I94StmYhrkNrubHCeF) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Sunshine In Her Hair](https://open.spotify.com/album/6w6lRqVy3bx8ObKV5mJ11K) | 1:56 | 2022-06-17 |  |
 | [Sweet Freedom](https://open.spotify.com/track/5qYDw7w2kta0cIAHWLk9Qm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sweet Freedom](https://open.spotify.com/album/1H1dx5HRADoZAn88UcUQhc) | 2:45 | 2022-06-17 |  |
+| [Tarregas Bodega](https://open.spotify.com/track/6mueyqJyIsSTHJBZaR6b2n) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Tarregas Bodega](https://open.spotify.com/album/5GqIcRQ3SxM2UE9jxy02B9) | 1:29 | 2022-07-08 |  |
 | [Tears of an Angel](https://open.spotify.com/track/71BUlq3am1Izd2fo4pqTxC) | [Kjell Åge Hartveit Karlsen](https://open.spotify.com/artist/00hIkKdGrTzRCMvQ3qirHQ) | [Tears of an Angel](https://open.spotify.com/album/77j8C5X2LtnRFVdzlCjbIm) | 2:56 | 2022-06-17 |  |
 | [Telémaco](https://open.spotify.com/track/3qvKQpE2OLPDqho3DM19N1) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB), [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Telémaco](https://open.spotify.com/album/6kKjlOBuPfKXQicsIZUmgw) | 2:45 | 2022-06-17 |  |
 | [The Bird's Nest](https://open.spotify.com/track/1tY1E5TeQj4kcZVQQZLUqx) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [The Bird's Nest](https://open.spotify.com/album/1rFbbm5Ms87iwZR8gVgkUw) | 2:48 | 2022-07-01 |  |

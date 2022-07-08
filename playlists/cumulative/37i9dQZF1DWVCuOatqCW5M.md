@@ -4,12 +4,13 @@
 
 > New music from popular Hindi artists\. Cover\- Emiway Bantai & Celina Sharma
 
-131 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
+132 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aao Naa](https://open.spotify.com/track/3SdnnjpGOQbueltPNHFTXI) | [Garima Yajnik](https://open.spotify.com/artist/0KjstUEJiTaMx2heTg8Odj), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Aao Naa](https://open.spotify.com/album/5DVCBfsRQA8e5Gl4mnLXsN) | 4:46 | 2022-05-27 | 2022-06-11 |
 | [Aarzoo](https://open.spotify.com/track/6E1xdTd2tWqjBLhSbnxuYk) | [Shom Chaterjjee](https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf), [Ashwin Srinivasan](https://open.spotify.com/artist/0b7kHhI5N93ZxMuMiBy7Tl) | [Aarzoo](https://open.spotify.com/album/73IOVRfYS4zCMfmUlW4MY6) | 7:13 | 2022-06-24 |  |
+| [Aaya Mausam](https://open.spotify.com/track/4YZQWjQnuctiHfk5wgYAiu) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Aaya Mausam](https://open.spotify.com/album/2Jcb1B7oVEmgUUN4U1rPG5) | 3:44 | 2022-07-01 |  |
 | [Ab Tere Bin Nahin Jeena](https://open.spotify.com/track/0HvQXh0iK0bISvUisXEdnb) | [Ankush Bhardwaj](https://open.spotify.com/artist/0XshHSxU5gt37nBa6SS8gY), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Ab Tere Bin Nahin Jeena](https://open.spotify.com/album/1ePTio0SPPNBmyBFtst8SN) | 4:27 | 2022-05-27 | 2022-06-11 |
 | [Aisa Kyun?](https://open.spotify.com/track/3jz2owmUTFnKssSzl1MVzw) | [Advait](https://open.spotify.com/artist/5FndSs7pNHPzomD3mxiBR5), [Hemang](https://open.spotify.com/artist/0Mcoqh0ZKmp41Apx7sKyfa) | [Aisa Kyun?](https://open.spotify.com/album/3sREkxbPfKWl2XtwvbA9oE) | 3:35 | 2022-06-24 | 2022-07-02 |
 | [Alvida](https://open.spotify.com/track/4ftbjZ62RQj9NsBOt7tDfl) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [Harry Spark](https://open.spotify.com/artist/4rjoncFFlCXRsbwdpfOd1q) | [Alvida](https://open.spotify.com/album/5H4LHmdjIp1PKu51KqKeQL) | 3:09 | 2022-06-24 | 2022-07-02 |

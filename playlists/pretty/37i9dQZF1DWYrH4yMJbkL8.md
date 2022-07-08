@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators in Canada\. Currently curated by Boslen
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,461 likes - 25 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,467 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 24 | [Forgive Yourself](https://open.spotify.com/track/4Ek4211HeSJkdjzdDOSFx6) | [Kelly Fraser](https://open.spotify.com/artist/6tfktWLnyhNzZdUtGSChSW) | [Sedna](https://open.spotify.com/album/4TnpF14Fst1uuRPzHk5He8) | 3:53 |
 | 25 | [Savages \(feat\. Drezus\)](https://open.spotify.com/track/2v5nzcrK0AVYKLEzs7pz9j) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ) | [The Average Savage](https://open.spotify.com/album/1Zm19YQhpbR0Rk5KUmXdfl) | 5:00 |
 
-Snapshot ID: `MTY1NzE1NjU5MywwMDAwMDAwMDI5OGIyNGVhNTRiYjdmYTllNGY1NWJmZWNlODgxNDQ0`
+Snapshot ID: `MTY1NzI0MzI4OSwwMDAwMDAwMDI5OGIyNGVhNTRiYjdmYTllNGY1NWJmZWNlODgxNDQ0`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-547 songs - 1 day 8 hr 2 min - [published](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
+548 songs - 1 day 8 hr 4 min - [published](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-22 |
 | [Ashofak Kil Youm](https://open.spotify.com/track/3SPxrgsmCxj11dMzJw9TgF) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB) | [Ala Albal](https://open.spotify.com/album/4VsJStcFPyvJCji3oLTSnZ) | 9:37 | 2022-02-06 | 2022-05-31 |
-| [Ashtagna Ya Halw](https://open.spotify.com/track/6I6BlgkI3kxRYcwjIoVka7) | [Tarab Yanbaawey](https://open.spotify.com/artist/1nrgm9l6OrnDED4PV7IXIm) | [Ashtagna Ya Halw](https://open.spotify.com/album/7D6Z9cZsBK1mq4a2OkgY9c) | 6:47 | 2022-05-24 |  |
+| [Ashtagna Ya Halw](https://open.spotify.com/track/6I6BlgkI3kxRYcwjIoVka7) | [Tarab Yanbaawey](https://open.spotify.com/artist/1nrgm9l6OrnDED4PV7IXIm) | [Ashtagna Ya Halw](https://open.spotify.com/album/7D6Z9cZsBK1mq4a2OkgY9c) | 6:47 | 2022-05-24 | 2022-07-08 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-09-12 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/5AUE3qJ6sCsgdUaaVK02uq) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/0ojd5qKZ07l7mtEOi5rExb) | 2:12 | 2021-09-12 | 2021-09-13 |
@@ -177,7 +177,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-12-31 |
 | [Haram Aliek](https://open.spotify.com/track/0nOYzdwXVX4ATRYVENxOyb) | [Nasrat Al Badr](https://open.spotify.com/artist/3fPWjGqkBchYXNmr18J5n5) | [Nasrat Al Badr Collection](https://open.spotify.com/album/7uUcCbO0rCZTiysnpi1gFm) | 4:50 | 2021-11-25 | 2021-12-01 |
 | [Harleys In Hawaii](https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:05 | 2021-09-16 | 2021-11-03 |
-| [Heartbeat](https://open.spotify.com/track/7crSbQ5sZmLWx9aKqdReXa) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/3g3qEtaEKcIRv8GmDlKfPH) | 3:50 | 2022-03-30 | 2022-07-03 |
+| [Heartbeat](https://open.spotify.com/track/7crSbQ5sZmLWx9aKqdReXa) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/3g3qEtaEKcIRv8GmDlKfPH) | 3:50 | 2022-03-30 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-29 | 2021-05-22 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-07 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-04 |  |
@@ -251,7 +251,8 @@
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2022-02-03 | 2022-02-09 |
 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 | 2022-05-21 | 2022-05-26 |
 | [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 | 2021-10-18 | 2021-10-19 |
-| [Living Life, In The Night](https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night](https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD) | 2:02 | 2022-04-16 |  |
+| [Living Life, In The Night](https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX) | [Living Life, In The Night](https://open.spotify.com/album/1d2GYtUIcaf1jqjFc7P5hL) | 2:02 | 2022-07-07 |  |
+| [Living Life, In The Night](https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night](https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD) | 2:02 | 2022-04-16 | 2022-07-08 |
 | [Living Life, In the Night](https://open.spotify.com/track/7d9wfIzzsb46HWVEso2zvK) | [Kigali Beats](https://open.spotify.com/artist/7eU9jYLMYHUzMqIC8DZjEv), [Toni Cels](https://open.spotify.com/artist/4TRFtA7X8r3OoALhk2JHNE) | [Living Life, In the Night](https://open.spotify.com/album/7HEKzdbtzjXJ1VsIz0NSAQ) | 2:02 | 2022-04-20 | 2022-04-26 |
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-08-20 | 2021-08-21 |
 | [LOCO](https://open.spotify.com/track/59c0HrzmHfyQs6LgDw5cHe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh) | 3:11 | 2021-09-28 | 2021-10-08 |

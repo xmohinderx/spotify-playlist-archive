@@ -2,9 +2,9 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down\-tempo low key tracks\. Cover: Bri Clark
+> Let your mind float away with these down\-tempo low key tracks\. Cover: Carla Wehbe
 
-590 songs - 1 day 7 hr 49 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+593 songs - 1 day 8 hr 1 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Flying So Far](https://open.spotify.com/track/6N5y3lqSOZdKXhnpb8SNoQ) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4) | [Flying So Far](https://open.spotify.com/album/3iTg2cXyH6ZiiGHSqgduc4) | 2:52 | 2019-11-25 | 2021-05-12 |
 | [FOOL 4 U](https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:17 | 2022-06-17 |  |
 | [Fools](https://open.spotify.com/track/029JPfM163NTS6fA0Pldws) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Nights Like This](https://open.spotify.com/album/7xyaGyDfDSP6h05f7vM7oq) | 3:44 | 2019-08-27\* | 2020-02-12 |
+| [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-08 |  |
 | [Forgive Myself](https://open.spotify.com/track/4upXlYzMHIwAd8fR2cp6sp) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Forgive Myself](https://open.spotify.com/album/4zYpRSmCxbwKtFaoHhezsG) | 2:53 | 2020-05-29 | 2021-05-12 |
 | [Forgot About](https://open.spotify.com/track/3JnRyp1X0N1QxiaMwnXlEs) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Forgot About](https://open.spotify.com/album/1KdLuqgmPBrrOtkqFDDvxe) | 3:38 | 2021-05-15 |  |
 | [Four Walls](https://open.spotify.com/track/1wX3WY9nQ3D4vRUR9Vmfl6) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Four Walls](https://open.spotify.com/album/5ntMnnFCM2LtENrZOoeQxp) | 3:33 | 2019-11-05 | 2020-02-12 |
@@ -278,6 +279,7 @@
 | [Intoxicated by Youth](https://open.spotify.com/track/2ttehJCYVsY4OtBoeYOcom) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [VAALEA](https://open.spotify.com/artist/1lNnJLLTpE1pujUoW5ZyqS) | [Intoxicated by Youth](https://open.spotify.com/album/7HVcOExQiq6jU48Ksl7Yc0) | 3:01 | 2019-11-11 | 2020-02-12 |
 | [Intuition](https://open.spotify.com/track/3HB6LludJh4pB1YzsVF78J) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7), [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Intuition](https://open.spotify.com/album/30sVsSNtT6Mtu31LvKC2rS) | 4:05 | 2021-07-02 |  |
 | [IRL](https://open.spotify.com/track/2hTm4MljABGm013AzKCxN6) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [IRL](https://open.spotify.com/album/1GoynDFX8zhqqBaM3mFoJo) | 3:18 | 2021-02-12 |  |
+| [is forever off the table?](https://open.spotify.com/track/1po8cEXRIOGcmDt2Ag8IU4) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [is forever off the table?](https://open.spotify.com/album/0zyKAMlAh2zpnWtIk3A5ft) | 3:29 | 2022-07-08 |  |
 | [it's happening again \(feat\. KUČKA\)](https://open.spotify.com/track/7bir6lHXKRp0DTPHPwvOgW) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [it's happening again \(feat\. KUČKA\)](https://open.spotify.com/album/5YMys8LacAHczMN0ORX33K) | 3:41 | 2021-07-02 |  |
 | [It's Not You](https://open.spotify.com/track/5jwT6BU2z55yvsWkopWadR) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:26 | 2021-07-17 |  |
 | [It's You](https://open.spotify.com/track/6moU77g9RQyMzHNuKEaQKq) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [It's You](https://open.spotify.com/album/40vQONzvJb6sKejDN3eWza) | 3:32 | 2019-08-27\* |  |
@@ -379,6 +381,7 @@
 | [Nothing Right](https://open.spotify.com/track/5VRmNV5X8aTVQojGsiFFTH) | [Fleur De Mur](https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD) | [Metamor\-for\-this](https://open.spotify.com/album/3EZMOPPyBVPVaw6RfRfO0d) | 2:55 | 2022-07-01 |  |
 | [Notice Me \(feat\. Ruel\)](https://open.spotify.com/track/5thDxhqcKA5q8Opd6INQp8) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Notice Me \(feat\. Ruel\)](https://open.spotify.com/album/0ED0HGQmkmWR3o1Uw5Zp5w) | 2:38 | 2021-08-27 |  |
 | [NOW I'M ALONE \(feat\. Sofía Valdés\)](https://open.spotify.com/track/43YIg00RcAoXF4isZgqFh7) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [PART 1: WWYD?](https://open.spotify.com/album/1BE6pGMVQh8wSnPp2hfGGs) | 3:44 | 2021-07-09 |  |
+| [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 | 2022-07-08 |  |
 | [Oh Brother](https://open.spotify.com/track/5buUWMp8lKM3FlbZXArhFa) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [Oh Brother](https://open.spotify.com/album/6EVhzUL0qQ5OgsD2eeUrtZ) | 2:56 | 2020-04-29 | 2021-05-12 |
 | [Oh My God](https://open.spotify.com/track/2U12JbtnFSYa5Av5wEcEDX) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Oh My God](https://open.spotify.com/album/4luKvo6ahaj8ZG9fAzQ6YO) | 3:07 | 2020-02-14 |  |
 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-09 |  |

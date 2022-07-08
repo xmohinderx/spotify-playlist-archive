@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26702,
+  "num_followers": 26704,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzA2MiwyOWRhZGRkZmQ3NjA3MmViNDc1ZTAzYmFiMjJhMTJiNWY1ZGIyYjE3",
+  "snapshot_id": "MzA2NCwyNDQ2NWM4NDBkMzUzNmJkZjk2ZTI0ZmU5NDFlMjQ5YWY0NTE3MmVh",
   "tracks": [
     {
       "added_at": "2022-06-28 18:31:24",
@@ -39,6 +39,22 @@
       "duration_ms": 134523,
       "name": "Incredibly Annoying",
       "url": "https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG"
+    },
+    {
+      "added_at": "2022-07-07 11:34:09",
+      "album": {
+        "name": "In Contemplation of Clair\u2019s Scent",
+        "url": "https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb"
+      },
+      "artists": [
+        {
+          "name": "Terence Etc.",
+          "url": "https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj"
+        }
+      ],
+      "duration_ms": 170108,
+      "name": "In Contemplation of Clair\u2019s Scent - Edit",
+      "url": "https://open.spotify.com/track/6evizKGLv223qG5hpReBWy"
     },
     {
       "added_at": "2022-06-29 16:24:00",
@@ -431,22 +447,6 @@
       "duration_ms": 222535,
       "name": "TO FIND LOVE IS TO SEEK THE END - Ivy Lab Remix",
       "url": "https://open.spotify.com/track/0c2NAdPReN7SUNR809lkVR"
-    },
-    {
-      "added_at": "2022-04-05 15:58:33",
-      "album": {
-        "name": "Hidden Angel",
-        "url": "https://open.spotify.com/album/48m80PFbxDUrWQreHMgIXZ"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Hidden Angel",
-      "url": "https://open.spotify.com/track/6txbToi4pugOMA8zro3Ma9"
     },
     {
       "added_at": "2022-03-09 12:04:10",

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "A Contratiempo",
       "url": "https://open.spotify.com/track/5tDfbfJCQyXuCOft8hbRIg"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 254085,
       "name": "Aroma de Caf\u00e9",
       "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
@@ -227,6 +227,24 @@
       "duration_ms": 210510,
       "name": "Ayer Ver\u00e1s Sentimientos",
       "url": "https://open.spotify.com/track/4bvplJJUj6JWYg7piTKUds"
+    },
+    {
+      "album": {
+        "name": "Semillas de Paz",
+        "url": "https://open.spotify.com/album/193bZ2lQG52qlcXH0INEHY"
+      },
+      "artists": [
+        {
+          "name": "Vero y Pablo",
+          "url": "https://open.spotify.com/artist/3Zy5CDFIZUBqV4NFTpkTCw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273046,
+      "name": "Bailen y canten",
+      "url": "https://open.spotify.com/track/7rwie4X5L2JflaBdqgzVF9"
     },
     {
       "album": {
@@ -277,7 +295,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 219293,
       "name": "Buen D\u00eda",
       "url": "https://open.spotify.com/track/4pyVpSIVTjtqbm8YczHvea"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 221912,
       "name": "Camino",
       "url": "https://open.spotify.com/track/6xubp8IMFJZa4xZylMXwYo"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "Cerquita",
       "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 256880,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1zjbYt5OsR2WpvrigMrpid"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 208596,
       "name": "Cuanto Heredamos",
       "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 189453,
       "name": "De la Tierra Crece",
       "url": "https://open.spotify.com/track/2um53B5wdoATS9GbrWf5Vo"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 243391,
       "name": "Desinformation",
       "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 230986,
       "name": "Diablito",
       "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
@@ -719,7 +737,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 243085,
       "name": "Don't Speak - Reggae Version",
       "url": "https://open.spotify.com/track/4fNcaiS9FUUjpznbSeVmqN"
@@ -741,7 +759,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 176146,
       "name": "Don't Stay Away",
       "url": "https://open.spotify.com/track/7kbhfGEIRNJN5N6IxSor1M"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 223346,
       "name": "El Silencio",
       "url": "https://open.spotify.com/track/490zFllTSVutzmCeB12226"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 256810,
       "name": "Esclavo",
       "url": "https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 265216,
       "name": "Este Mundo",
       "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 235120,
       "name": "Jamaica Reggae (En Vivo)",
       "url": "https://open.spotify.com/track/6D3MOX8hJfilSYUpLzvCBg"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 200569,
       "name": "La Chica",
       "url": "https://open.spotify.com/track/3DasnHSRVxAfvFaoUiHkz9"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 283400,
       "name": "La Clave",
       "url": "https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 203341,
       "name": "La Espera Esperanza",
       "url": "https://open.spotify.com/track/2PziwNR4xkNXGc7JltI6HS"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 349280,
       "name": "La Pipa",
       "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 182244,
       "name": "La \u00daltima Gota",
       "url": "https://open.spotify.com/track/1R9g4cfnkoOcbSHsnvKM4Q"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 232342,
       "name": "Laba Laba Craven",
       "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 198946,
       "name": "Meu Reggae \u00e9 Roots - Ao Vivo",
       "url": "https://open.spotify.com/track/1r7BRiLgM288W76CaiocEN"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 376800,
       "name": "Misterio",
       "url": "https://open.spotify.com/track/3xKXKFjtT24Z6RDNXPF4au"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 202306,
       "name": "M\u00e1s Libre",
       "url": "https://open.spotify.com/track/20HhIBf0Gd4U7KhOr2dcC4"
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 237026,
       "name": "Naufrago",
       "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 206766,
       "name": "No Insistas",
       "url": "https://open.spotify.com/track/4SdoaFB9giKlapsCBwja6c"
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 277256,
       "name": "No veo nada",
       "url": "https://open.spotify.com/track/1oAZmndoZfcGuVPS1TpoRC"
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 272978,
       "name": "Oto\u00f1o en Mendoza",
       "url": "https://open.spotify.com/track/2iC4Zs0v1LpcuS4rJRhhGV"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 170976,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/3uS5lBNjkk8DD8CSzy1gq6"
@@ -2423,7 +2441,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 218100,
       "name": "Repatriation",
       "url": "https://open.spotify.com/track/5ix1mGbHcNmDaeQLqDwbKY"
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 208563,
       "name": "Revolution Rock",
       "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
@@ -2565,7 +2583,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 280468,
       "name": "Se\u00f1orita - Remastered",
       "url": "https://open.spotify.com/track/72YhqbNKWrfl5hZUWO6Ffe"
@@ -2601,7 +2619,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 218689,
       "name": "Si No Fuera",
       "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
@@ -2641,7 +2659,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 260170,
       "name": "Si vas a dejarme...",
       "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
@@ -2739,7 +2757,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 226577,
       "name": "Sonido Fresco",
       "url": "https://open.spotify.com/track/0CKgR8v1Q3mBXi82zOHCBu"
@@ -2877,7 +2895,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 435040,
       "name": "The Chicken",
       "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
@@ -2997,7 +3015,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 291920,
       "name": "Todo Tiene Su Tiempo",
       "url": "https://open.spotify.com/track/1TyyXiIMIL0yhYQqv5GfUs"
@@ -3275,7 +3293,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 251567,
       "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
       "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"

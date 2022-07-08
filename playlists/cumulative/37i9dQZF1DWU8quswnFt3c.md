@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Simi
 
-536 songs - 1 day 5 hr 31 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+537 songs - 1 day 5 hr 35 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Echo](https://open.spotify.com/track/0YUYmUbaP8p7hPQPY5pdXe) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 3:40 | 2022-06-01 | 2022-07-07 |
 | [Eco \- A COLORS SHOW](https://open.spotify.com/track/3WkTWK2VCy8R9Lzb8q6AgP) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Eco \- A COLORS SHOW](https://open.spotify.com/album/28P2W9MunOGmfnDetyntYx) | 2:54 | 2021-12-11 | 2022-01-06 |
 | [El Chino](https://open.spotify.com/track/7qs3pUILxp3VqyBLqhV6gU) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Chocolate Inglés](https://open.spotify.com/album/3pZONXDON8OV4eHSvPPh1q) | 3:38 | 2022-07-06 |  |
-| [El Galb Yefdak](https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [El Galb Yefdak](https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw) | 3:45 | 2022-07-06 |  |
+| [El Galb Yefdak](https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [El Galb Yefdak](https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw) | 3:45 | 2022-07-06 | 2022-07-08 |
 | [El Sa3a Tes3a](https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G) | 3:25 | 2022-03-09 | 2022-04-07 |
 | [El Telephone](https://open.spotify.com/track/1zB8iM97STLlKaweWhtasO) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Bobito](https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm), [Ayman](https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M) | [Poli\_Ploki](https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8) | 2:50 | 2022-07-06 |  |
 | [El Valle Encantado](https://open.spotify.com/track/2nHMuo3mqEOePjLlIz1PhQ) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 2:17 | 2022-05-04 | 2022-06-01 |
@@ -148,6 +148,7 @@
 | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz) | 2:33 | 2022-06-01 | 2022-07-07 |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2022-06-01 | 2022-07-07 |
 | [FCKN IN LOVE](https://open.spotify.com/track/509rrXeQLsxcBC8VPBV5Pn) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6UEK6qZZvECvMVaKk6DHtk) | 3:14 | 2022-03-08 | 2022-04-07 |
+| [Fini Kther](https://open.spotify.com/track/7kMclfTeBnMbkPOcoClFlx) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [One Playlist](https://open.spotify.com/album/2wtZWooYfOuUHDGztpH4s3) | 4:11 | 2022-07-07 |  |
 | [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 | 2022-04-06 | 2022-05-05 |
 | [Fly \- You're Mine](https://open.spotify.com/track/4fYluChkI4HFZWBvbBTUmm) | [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [Fly \(You're Mine\)](https://open.spotify.com/album/5fQo0BWnHHwDTTAKuD80RM) | 2:58 | 2022-06-01 | 2022-07-07 |
 | [Foi Pá Pum](https://open.spotify.com/track/5uztIMqjl5FTZSYDlOBJjV) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/1sjc64jbaYx3p0gktRqdV1) | 3:03 | 2022-01-05 | 2022-02-03 |

@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-66 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+68 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Home](https://open.spotify.com/track/0BZK74rauKeNrOevBkhNE8) | [Gorka](https://open.spotify.com/artist/6kPHDVsuzYXW2oTAZ80QJj) | [Meditations II](https://open.spotify.com/album/3nVaUZTPIjtP99Ebri2LaS) | 3:14 | 2022-06-10 |  |
 | [How to Be Invisible](https://open.spotify.com/track/6GEX4BBT1EHwIiO6qkYSUR) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6k6xZ06qceVGxE3NLPrj5x) | 3:06 | 2022-06-10 |  |
 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 | 2022-06-10 |  |
+| [I'm Yours](https://open.spotify.com/track/3vGp33C7IFjgJdvFDhvRc9) | [Karolina Szcześniak](https://open.spotify.com/artist/5pcFuJmgWmT0JvJELnkHrS) | [I'm Yours](https://open.spotify.com/album/4hMVTdiiq47rlHysJYOcfR) | 2:43 | 2022-07-08 |  |
 | [In My Sight](https://open.spotify.com/track/6zZTUG7kGV3GAOS5JPcRm0) | [Oscar Rhodes](https://open.spotify.com/artist/3ICSZdpAbJIZRtvYCxlAzX) | [Path of The Moon](https://open.spotify.com/album/4l5q2eFbVXYKWdrcjFJHo1) | 2:27 | 2022-06-10 |  |
 | [Iridescent](https://open.spotify.com/track/1KTUpvg6XroGOSnmpjuyVi) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:37 | 2022-06-10 |  |
 | [Itinere](https://open.spotify.com/track/3SJyrNsIX3mkiyFKekNAty) | [Rickard Nilsson](https://open.spotify.com/artist/6qa2LFLjGOvQPRxs8LZuZX), [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Itinere](https://open.spotify.com/album/47GVftysLfyzIMrF3D95Gw) | 2:08 | 2022-06-10 |  |
@@ -48,6 +49,7 @@
 | [Mirage](https://open.spotify.com/track/0gqVMTgk94SscygbYJjwtk) | [Evangelin Hart](https://open.spotify.com/artist/6DyiSbTRpje2U747lxkg4V) | [Mirage](https://open.spotify.com/album/1mhSxjyImpw5PzPS792uKs) | 2:48 | 2022-06-10 |  |
 | [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 | 2022-06-10 |  |
 | [Nine Times around the Heart](https://open.spotify.com/track/5KEhwMi5xD7HxfoXe0iPM7) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 2:57 | 2022-06-10 |  |
+| [NYC Waltz](https://open.spotify.com/track/270VPYYS4uR1haVazI85N3) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [NYC Waltz](https://open.spotify.com/album/1SC79YaRaFEcgbro7JSAfF) | 2:24 | 2022-07-08 |  |
 | [Opal](https://open.spotify.com/track/3vb6ZHxSckbWkqM5wNdsA5) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Opal](https://open.spotify.com/album/7zXuTzVmAVe1fbNw93N4QV) | 3:33 | 2022-06-10 |  |
 | [Pendulum](https://open.spotify.com/track/0kQZcp9q1i3Cg1EfsqXGbf) | [Clearius Ensemble](https://open.spotify.com/artist/14MEzH0WXErAIVtRpQitLW) | [Pendulum](https://open.spotify.com/album/4m9nsk0a4Xcfhv5uePHb8x) | 2:23 | 2022-06-10 |  |
 | [Prélude](https://open.spotify.com/track/6CIVHlBDakr82sbXYweF8x) | [Massimo Romanza](https://open.spotify.com/artist/6n1878S9P9QD4u959fAZeM) | [Prélude](https://open.spotify.com/album/0Q5sbKw0dl9z7ANapFmIHL) | 2:01 | 2022-06-10 |  |

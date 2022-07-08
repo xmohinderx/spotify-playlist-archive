@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 230000,
       "name": "111",
       "url": "https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 209708,
       "name": "966",
       "url": "https://open.spotify.com/track/3PflE6uFFthNWVo0kgLUdX"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 193118,
       "name": "Albi Elou",
       "url": "https://open.spotify.com/track/7uIdrMD04D7jsL7lI6ytTw"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 261695,
       "name": "Ana El Mostahel",
       "url": "https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 201038,
       "name": "Baseeb El Donia",
       "url": "https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 291061,
       "name": "Betateb Khialak",
       "url": "https://open.spotify.com/track/0YiPfcpDYfPfQ3mTgATAtj"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 272040,
       "name": "Chakhs Taraktah",
       "url": "https://open.spotify.com/track/7qnpqHdclXCDhWvNHepCQI"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 181176,
       "name": "Dime Porque",
       "url": "https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 132604,
       "name": "Eh Aadi",
       "url": "https://open.spotify.com/track/62Imq6fPJkweUSZsA7wiVc"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 227280,
       "name": "Erjaa Shoufak",
       "url": "https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 228872,
       "name": "Fann El Lom",
       "url": "https://open.spotify.com/track/0XUEmwVAJWrPce0maZBS1l"
@@ -1447,6 +1447,24 @@
       "duration_ms": 272578,
       "name": "Feny Elly Mkafeny",
       "url": "https://open.spotify.com/track/5j0j6OfAhxbdNVtuX77B6E"
+    },
+    {
+      "album": {
+        "name": "One Playlist",
+        "url": "https://open.spotify.com/album/2wtZWooYfOuUHDGztpH4s3"
+      },
+      "artists": [
+        {
+          "name": "Nawal El Kuwaitia",
+          "url": "https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251324,
+      "name": "Fini Kther",
+      "url": "https://open.spotify.com/track/7kMclfTeBnMbkPOcoClFlx"
     },
     {
       "album": {
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 197666,
       "name": "Helo Moodak",
       "url": "https://open.spotify.com/track/5qUWv52tFjCXXBrqxju8Tt"
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 188826,
       "name": "Hnaya",
       "url": "https://open.spotify.com/track/37fxraGklh1llULoyhcFCz"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 190830,
       "name": "ISMAK",
       "url": "https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 241993,
       "name": "Kam Marra",
       "url": "https://open.spotify.com/track/0cawWyQZDZheOScU3xR5jr"
@@ -1951,7 +1969,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 159339,
       "name": "Keda Wala Keda",
       "url": "https://open.spotify.com/track/5jpNJTb9XKt6WVxEQfKLYK"
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 178285,
       "name": "Keef Bensa",
       "url": "https://open.spotify.com/track/0uwOOnge02dhkX4kPl7Kkk"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 183076,
       "name": "Kifak",
       "url": "https://open.spotify.com/track/6qC6yW3SkH0FlvnkqOesJe"
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 223253,
       "name": "Leh Rajee",
       "url": "https://open.spotify.com/track/2rTe08BVkNA9S8xaC4ZqTD"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 229516,
       "name": "Makanak Mbyen",
       "url": "https://open.spotify.com/track/0TzQ3u6VhbcxTcRN3zBi8a"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 190328,
       "name": "Mazal Lyam Dor",
       "url": "https://open.spotify.com/track/7CVP5B3WQKuYF067pfwE6F"
@@ -2701,7 +2719,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 213616,
       "name": "Mazar",
       "url": "https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP"
@@ -2845,7 +2863,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 120731,
       "name": "Mishtaq",
       "url": "https://open.spotify.com/track/4j65JzQYXQ4PNZ3PlO4LvD"
@@ -3231,7 +3249,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 184810,
       "name": "Raasooni",
       "url": "https://open.spotify.com/track/341G3Sw0NL7iSRHjXeAeLe"
@@ -3365,7 +3383,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 194701,
       "name": "Romansiya",
       "url": "https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6"
@@ -3439,7 +3457,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 219212,
       "name": "Shagar El Asham",
       "url": "https://open.spotify.com/track/5qG6crR9QExjJpQg01QNsD"
@@ -3955,7 +3973,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 130694,
       "name": "Weino 2",
       "url": "https://open.spotify.com/track/25v0ao9Pk1RMagxyVCbJNZ"
@@ -4189,7 +4207,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 262644,
       "name": "Yimken Habbeit",
       "url": "https://open.spotify.com/track/76nBJMgYcFtsKE0XcJsBRU"
@@ -4351,7 +4369,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 208764,
       "name": "\u0627\u062f\u0631\u064a \u062c\u0631\u062d\u062a\u0643",
       "url": "https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi"
@@ -4453,7 +4471,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 184466,
       "name": "\u0627\u0645\u0634\u064a \u0628\u062f\u0644\u0639",
       "url": "https://open.spotify.com/track/1HPF3InztTmXGe2QeDnUAv"
@@ -4615,7 +4633,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "\u0631\u0648\u062d \u0628\u0631\u0627\u062d\u062a\u0643",
       "url": "https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ"
@@ -4633,7 +4651,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 219776,
       "name": "\u0632\u0627\u0646\u062a \u0627\u0644\u062f\u0646\u064a\u0627",
       "url": "https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I"
@@ -5113,7 +5131,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 178764,
       "name": "\u0648\u0644\u0648",
       "url": "https://open.spotify.com/track/4YkNQggwRFNWBxCOrNf7nj"
@@ -5131,7 +5149,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 262857,
       "name": "\u064a\u0627 \u0635\u0628\u0631 \u0627\u0644\u0644\u064a\u0644",
       "url": "https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy"

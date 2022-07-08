@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-237 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+239 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Divine Sorrow](https://open.spotify.com/track/0yplat8BWBy2vHAUZIGh2p) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO) | [Atmosphere Mood](https://open.spotify.com/album/2prutZgrFTEzBNo2x6NRBR) | 4:27 | 2022-01-12 | 2022-02-16 |
 | [Dolphin Diver](https://open.spotify.com/track/30nFANb7ZagzcrJ0YUVmNG) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Dolphin Dreams](https://open.spotify.com/album/0SPZhWzHjidjBSVzywdhp5) | 3:06 | 2021-08-10 | 2022-03-17 |
 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 | 2021-08-10 | 2022-03-17 |
-| [Down and Out](https://open.spotify.com/track/1AOU0cQCD5sRNPCPySQkf4) | [Gaudri](https://open.spotify.com/artist/1IMQNrqlyQgtczhinthT3s) | [Down and Out](https://open.spotify.com/album/2oFWGdxWFXTLTn2sv8viNA) | 2:49 | 2022-03-16 |  |
+| [Down and Out](https://open.spotify.com/track/1AOU0cQCD5sRNPCPySQkf4) | [Gaudri](https://open.spotify.com/artist/1IMQNrqlyQgtczhinthT3s) | [Down and Out](https://open.spotify.com/album/2oFWGdxWFXTLTn2sv8viNA) | 2:49 | 2022-03-16 | 2022-07-08 |
 | [Dreamin About You](https://open.spotify.com/track/1onjYykeSU1hzu5eH2BIJu) | [Gaudeix](https://open.spotify.com/artist/1TIyHgc4lFrfKNUlLLAB7z) | [Dreamin About You](https://open.spotify.com/album/4viHpSlScOMfO1pfU8Pbdi) | 2:52 | 2021-08-10 | 2022-03-11 |
 | [Dreamland](https://open.spotify.com/track/3Xnj3T6IMbPgw56KFvYku2) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [Phases](https://open.spotify.com/album/3UMqhBgBTUniqsBIZ09ZCT) | 2:11 | 2022-03-16 |  |
 | [Drops Of Dreams](https://open.spotify.com/track/1JNb8r32zZkhfoLPzDWfYM) | [NkisOk](https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo) | [Springflower](https://open.spotify.com/album/36GCCVLhVQ4bUlrir0Ofsj) | 3:51 | 2021-08-10 | 2022-03-17 |
@@ -182,6 +182,7 @@
 | [Red Door](https://open.spotify.com/track/1t1EHx5BhZkk4ZGHjynHf0) | [Rudy Boy](https://open.spotify.com/artist/3oAXW0WYR5lFZdx62Vr8OM) | [Lazy Work](https://open.spotify.com/album/4gBX0GHmIEiyGYD7fAkmRv) | 2:03 | 2022-03-16 |  |
 | [Riding the Atmosphere](https://open.spotify.com/track/47iUF2syKZAqWOAd0LvNk9) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Weightless](https://open.spotify.com/album/1RpTpCr3JWULDnaM9SLRW7) | 4:45 | 2021-08-10 | 2022-03-17 |
 | [Rise Main](https://open.spotify.com/track/0XTgHWAYCk9F1YAIzcHlgB) | [Flight Club](https://open.spotify.com/artist/0iMxy0AdVvT9kbJzBJEQ0D) | [Flight \(Vol 1\)](https://open.spotify.com/album/2mjZgEwsdtcrbpMLU9LsbX) | 3:50 | 2021-08-10 | 2022-03-17 |
+| [Roamin'](https://open.spotify.com/track/7hswEr6qO73WUdJwWNQ1dQ) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Roamin'](https://open.spotify.com/album/678qXarh6IJnxpH54iDi8i) | 2:08 | 2022-07-08 |  |
 | [Romeo & Juliette](https://open.spotify.com/track/2FDMN3in8KIQJi0avzdPFd) | [Luc Serra](https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7) | [Godfather](https://open.spotify.com/album/7h47d4ol6NcLd413WIssOt) | 3:21 | 2021-08-10 | 2022-03-17 |
 | [Sand Castles](https://open.spotify.com/track/30slZZuvA0o5E2wlYeeG0K) | [Samuel Hanna](https://open.spotify.com/artist/44gEYv5MzA8s5tQF8STkXn) | [Sand Castles](https://open.spotify.com/album/3CgyVbeyxAwiYaqOEdYiGr) | 4:36 | 2022-03-16 |  |
 | [Scene Damour](https://open.spotify.com/track/3EIbP49Tx5HhvbH8nRrEaR) | [Tom Stella](https://open.spotify.com/artist/4WRI9YH6mHZQTgQWcMbdqm) | [Cavatina](https://open.spotify.com/album/55rOgz4YitvuAejFjjJ2es) | 4:26 | 2021-08-10 | 2022-03-17 |
@@ -193,6 +194,7 @@
 | [Solitary Fields](https://open.spotify.com/track/782tgZqcyFOMpHKV7aUb2X) | [Hologram](https://open.spotify.com/artist/2PPhHBy697OJbDKYAxmW6c) | [Day](https://open.spotify.com/album/4CzoTrhzUU5w2THIIndXCJ) | 4:46 | 2021-08-10 | 2022-03-17 |
 | [Someone To Love](https://open.spotify.com/track/4rCZ6DbEq18AT1AFSN6v4U) | [J\. Moore](https://open.spotify.com/artist/1bQ74eG6gWVQg5nPkMhKfV) | [Atmosphere Mood](https://open.spotify.com/album/2prutZgrFTEzBNo2x6NRBR) | 4:21 | 2022-01-12 | 2022-03-17 |
 | [Sorry \- Chill Out Version](https://open.spotify.com/track/3v4ld1cFFpTCKDttI3Fro4) | [Anthony Hathaway](https://open.spotify.com/artist/22yx7oCj4eUJpDEPl06hXD) | [Sorry](https://open.spotify.com/album/3uLU4PTGNXwZROx8A9RAvu) | 3:48 | 2021-08-10 | 2022-03-17 |
+| [soul 9001](https://open.spotify.com/track/7FKKLZPwpCUtf6dDdZPilz) | [Beowülf](https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg), [Koji](https://open.spotify.com/artist/18wvtZ2XFYolCagIQ6oCsB) | [It's not too late for me](https://open.spotify.com/album/0ZuMfyo5I2PpGaOXZ5ApPb) | 1:24 | 2022-07-08 |  |
 | [Soul Blanket](https://open.spotify.com/track/44McOkwrQvgCzDxd5NZV6a) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6) | 4:01 | 2021-08-10 | 2022-03-17 |
 | [Sound of Atlantis](https://open.spotify.com/track/5mkmhvQxQEfZkUsPDYn9fG) | [Tiki Lounge](https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD) | [Sunset Sounds](https://open.spotify.com/album/5X8f43K30RXxQSHson7met) | 5:13 | 2021-08-10 | 2022-03-17 |
 | [Sparkle](https://open.spotify.com/track/5BHxtOBsxwMN2hhxXRiYBI) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/4UZwqu9XzugDZSxG6YT4HT) | 4:02 | 2021-08-10 | 2022-03-17 |

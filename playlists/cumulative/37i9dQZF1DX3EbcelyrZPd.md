@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania.
 
-120 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+123 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,11 +80,13 @@
 | [Namsosomola](https://open.spotify.com/track/3fXb1cxpNEsaQPRZDMmB2U) | [Shetta](https://open.spotify.com/artist/1UaXKMZaYJipBoWQS9XdCT) | [Namsosomola](https://open.spotify.com/album/33uT8tBAbDxnOH12LdoVyV) | 3:08 | 2022-06-02 |  |
 | [Naoa](https://open.spotify.com/track/5mqvQK9sfEM9oVV4FCipjs) | [Brown Mauzo](https://open.spotify.com/artist/2ee8EQ0K7tAYVxHT9suKdf) | [V the Album](https://open.spotify.com/album/6bTnVI9B98ircUnv8UYXuy) | 3:20 | 2022-01-06 |  |
 | [Naogopa](https://open.spotify.com/track/7dpCzGxbcTzSL3j6mKdSuG) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Naogopa](https://open.spotify.com/album/0YkcJmRaaQwGjs5BPoQaP5) | 4:00 | 2022-04-14 |  |
+| [Napona](https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Napona](https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6) | 2:49 | 2022-07-07 |  |
 | [Natamani](https://open.spotify.com/track/66e3PI32YFAtjWS6JckXW7) | [Brown Mauzo](https://open.spotify.com/artist/2ee8EQ0K7tAYVxHT9suKdf) | [Nitulize](https://open.spotify.com/album/1ewr5cJO5MHYhYhM6aj6Jj) | 3:45 | 2021-10-21 | 2022-02-11 |
 | [Ndombolo \(feat\. AbduKiba, K2ga & Tommy Flavour\)](https://open.spotify.com/track/0LS9OwMeG8F46UbnXprQSK) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Abdukiba](https://open.spotify.com/artist/3x8WCqlqNZRdGrZ7lbEzJk), [K2ga](https://open.spotify.com/artist/1Tg2IP8iwTQwYyoggU9ZAW), [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Ndombolo \(feat\. AbduKiba, K2ga & Tommy Flavour\)](https://open.spotify.com/album/43FwegLk89Afrx8IlgYVtI) | 2:59 | 2021-08-26 |  |
 | [Ng'ari Ng'ari](https://open.spotify.com/track/6a2bPw2tY0yTAsFUQqdccf) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Ng'ari Ng'ari](https://open.spotify.com/album/2OkhAnQxJPqgebWQwFHdC4) | 4:29 | 2021-12-16 |  |
 | [Ni Wewe](https://open.spotify.com/track/7w9rWg34rariNBWQavgu5c) | [K2ga](https://open.spotify.com/artist/1Tg2IP8iwTQwYyoggU9ZAW) | [Safari](https://open.spotify.com/album/4qCYaL1T88OgIGTwMe1nXF) | 3:46 | 2021-12-06 | 2022-04-01 |
 | [Ni Wewe](https://open.spotify.com/track/5kZpQHkVT0EtRDPlE5nHkO) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Ni Wewe](https://open.spotify.com/album/4M1Dg9hKg46sGnSarGiJfI) | 3:00 | 2021-09-23 |  |
+| [Nibebe](https://open.spotify.com/track/0wAeptB1IYnjfmU4yP6Mxn) | [Mzee Yusuph](https://open.spotify.com/artist/1JyYRDJWdQMECFjJGWjMqm) | [Tamu Kwa Tamu](https://open.spotify.com/album/0VYGQMTaK2E8l8lWresCxq) | 4:08 | 2022-07-07 |  |
 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 | 2021-11-25 | 2022-02-25 |
 | [Nimekuzoea](https://open.spotify.com/track/6UpuTAuQF82c95Hg7lCBUe) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Nimekuzoea](https://open.spotify.com/album/0Hr25mTjVlrkNexp2CbKDc) | 2:43 | 2021-08-26 |  |
 | [Nioneshe \(feat\. Alikiba\)](https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 3:32 | 2022-05-19 |  |
@@ -95,6 +97,7 @@
 | [Nyumba Ndogo](https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nyumba Ndogo](https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb) | 4:01 | 2021-09-09 | 2022-04-08 |
 | [Outside](https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 3:06 | 2021-11-11 | 2022-05-06 |
 | [Oya Oya](https://open.spotify.com/track/5l1j75XxjCKV82YQRnfCNl) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:27 | 2021-10-07 | 2022-06-03 |
+| [Papaa](https://open.spotify.com/track/06MXbcZxZqPJPcFHaQLmkL) | [B Gway](https://open.spotify.com/artist/2McpxRWbFB0yp0zsh38XOZ) | [Papaa](https://open.spotify.com/album/77qytTZiJTwHdJTfANVsrk) | 2:13 | 2022-07-07 |  |
 | [Party](https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Party](https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf) | 3:10 | 2021-11-25 |  |
 | [Pepetua](https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3) | [Nedy Music](https://open.spotify.com/artist/0EFCi7pCSlHLW8dVn020hD) | [Pepetua](https://open.spotify.com/album/4e6v5aqrFS5f3XYRzBK87i) | 2:49 | 2022-03-10 |  |
 | [Pomp Pomp](https://open.spotify.com/track/7c80qxudZjhs4niCgOi0Gi) | [Sani Boy](https://open.spotify.com/artist/7koc9wMjyVw3KNLwc6bSKb), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Pomp Pomp](https://open.spotify.com/album/2VgxfRdeb2X6nihfFXMhrM) | 3:06 | 2022-02-10 |  |

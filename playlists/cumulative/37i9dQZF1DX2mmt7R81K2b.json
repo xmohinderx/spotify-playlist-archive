@@ -910,6 +910,24 @@
     },
     {
       "album": {
+        "name": "Kronos Quartet: Music Of Bill Evans",
+        "url": "https://open.spotify.com/album/5vGOb3jAa4wv7ZS0mL2IfF"
+      },
+      "artists": [
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431866,
+      "name": "Peace Piece",
+      "url": "https://open.spotify.com/track/1OIf9HdeZ0V0F6kSbgnBoO"
+    },
+    {
+      "album": {
         "name": "Swinging Suites",
         "url": "https://open.spotify.com/album/7tCNBCYSxnp4PaIaMsUmh7"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Avenoir, Artwork: Isu Kim",
-  "num_followers": 1108004,
+  "num_followers": 1108023,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzE0NDcyMSwwMDAwMDFjYzAwMDAwMTgxZDU4NWJmNGMwMDAwMDE4MWQ0NDVmYTRk",
+  "snapshot_id": "MTY1NzIwODI2MCwwMDAwMDFjZDAwMDAwMTgxZDk0ZjQ4YWYwMDAwMDE4MWQ0NDVmYTRk",
   "tracks": [
     {
       "added_at": "2022-07-06 16:10:20",
@@ -27,54 +27,6 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Where I Go",
-        "url": "https://open.spotify.com/album/1WgpfbEh8TfGeY9a8OaCng"
-      },
-      "artists": [
-        {
-          "name": "Self Tape",
-          "url": "https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI"
-        }
-      ],
-      "duration_ms": 248221,
-      "name": "Where I Go",
-      "url": "https://open.spotify.com/track/0vuErHWsHarpKnC21sQEu2"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
-        "name": "Immature",
-        "url": "https://open.spotify.com/album/1QUlW7bCRIDZmJtuY59GXb"
-      },
-      "artists": [
-        {
-          "name": "Brigetta",
-          "url": "https://open.spotify.com/artist/6dAOkHEQVpVD8mFj7OQv8M"
-        }
-      ],
-      "duration_ms": 165174,
-      "name": "Immature",
-      "url": "https://open.spotify.com/track/3G5rwPtdFHQRdpcjpmiKw8"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
-        "name": "i lost my friend at a rave",
-        "url": "https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g"
-      },
-      "artists": [
-        {
-          "name": "Abby Bella May",
-          "url": "https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8"
-        }
-      ],
-      "duration_ms": 180409,
-      "name": "i lost my friend at a rave",
-      "url": "https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
         "name": "Eve",
         "url": "https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5"
       },
@@ -91,18 +43,18 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Running My Luck",
-        "url": "https://open.spotify.com/album/0SLjHcTIQtorAcNLY3n1dm"
+        "name": "Where I Go",
+        "url": "https://open.spotify.com/album/1WgpfbEh8TfGeY9a8OaCng"
       },
       "artists": [
         {
-          "name": "Lawn",
-          "url": "https://open.spotify.com/artist/5Dk3G2pCM54sYxkRpzcMUh"
+          "name": "Self Tape",
+          "url": "https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI"
         }
       ],
-      "duration_ms": 246500,
-      "name": "Running My Luck",
-      "url": "https://open.spotify.com/track/0bQHsGEM3U17GCgpo0AGWZ"
+      "duration_ms": 248221,
+      "name": "Where I Go",
+      "url": "https://open.spotify.com/track/0vuErHWsHarpKnC21sQEu2"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -123,82 +75,50 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Mista Mystery",
-        "url": "https://open.spotify.com/album/5IkMfSD8cnhTlSJ2kJemzI"
+        "name": "Running My Luck",
+        "url": "https://open.spotify.com/album/0SLjHcTIQtorAcNLY3n1dm"
       },
       "artists": [
         {
-          "name": "Goldie Scott",
-          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
+          "name": "Lawn",
+          "url": "https://open.spotify.com/artist/5Dk3G2pCM54sYxkRpzcMUh"
         }
       ],
-      "duration_ms": 219813,
-      "name": "Mista Mystery",
-      "url": "https://open.spotify.com/track/5AR6wzMOq0yunKELXgYcha"
+      "duration_ms": 246500,
+      "name": "Running My Luck",
+      "url": "https://open.spotify.com/track/0bQHsGEM3U17GCgpo0AGWZ"
     },
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Playground",
-        "url": "https://open.spotify.com/album/4X1JwTma4tZOj49jDtfyKn"
+        "name": "i lost my friend at a rave",
+        "url": "https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g"
       },
       "artists": [
         {
-          "name": "Mona San",
-          "url": "https://open.spotify.com/artist/294HwRjVYrw7dYo0k2zM2T"
+          "name": "Abby Bella May",
+          "url": "https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8"
         }
       ],
-      "duration_ms": 158372,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/40dxjESbcWa5jUtBKVMsWP"
+      "duration_ms": 180409,
+      "name": "i lost my friend at a rave",
+      "url": "https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV"
     },
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/6EIbYonzw81mVuoFx2ss5y"
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/1QUlW7bCRIDZmJtuY59GXb"
       },
       "artists": [
         {
-          "name": "Santana Fox",
-          "url": "https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga"
+          "name": "Brigetta",
+          "url": "https://open.spotify.com/artist/6dAOkHEQVpVD8mFj7OQv8M"
         }
       ],
-      "duration_ms": 194673,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/3avS8eLs4GmxktIK9C9veI"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
-        "name": "Carsick",
-        "url": "https://open.spotify.com/album/2kvGRMPD2fjjzJS9Wwaqdz"
-      },
-      "artists": [
-        {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
-        }
-      ],
-      "duration_ms": 187504,
-      "name": "Carsick",
-      "url": "https://open.spotify.com/track/53QIhVdWpIG3NmpkhoqFy6"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
-        "name": "Juniper Street",
-        "url": "https://open.spotify.com/album/2TgrGVUOAuStONkQcJKNY6"
-      },
-      "artists": [
-        {
-          "name": "Also Joe",
-          "url": "https://open.spotify.com/artist/1W4A1H9a1a7ioRdBavsCiq"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Juniper Street",
-      "url": "https://open.spotify.com/track/6FSNJrkdLqOGlSXFSd6JCg"
+      "duration_ms": 165174,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/3G5rwPtdFHQRdpcjpmiKw8"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -219,18 +139,34 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
-        "url": "https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu"
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/4X1JwTma4tZOj49jDtfyKn"
       },
       "artists": [
         {
-          "name": "Chinese American Bear",
-          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+          "name": "Mona San",
+          "url": "https://open.spotify.com/artist/294HwRjVYrw7dYo0k2zM2T"
         }
       ],
-      "duration_ms": 271952,
-      "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
-      "url": "https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox"
+      "duration_ms": 158372,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/40dxjESbcWa5jUtBKVMsWP"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "Mista Mystery",
+        "url": "https://open.spotify.com/album/5IkMfSD8cnhTlSJ2kJemzI"
+      },
+      "artists": [
+        {
+          "name": "Goldie Scott",
+          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Mista Mystery",
+      "url": "https://open.spotify.com/track/5AR6wzMOq0yunKELXgYcha"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -251,34 +187,82 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/4KDI4RT3iWSyrZmeyQRBs2"
+        "name": "Juniper Street",
+        "url": "https://open.spotify.com/album/2TgrGVUOAuStONkQcJKNY6"
       },
       "artists": [
         {
-          "name": "William Light",
-          "url": "https://open.spotify.com/artist/1gAYGQ9MbK0ebpu7cUG6IG"
+          "name": "Also Joe",
+          "url": "https://open.spotify.com/artist/1W4A1H9a1a7ioRdBavsCiq"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/7AWbSAaYHMb82k4HF1Hb4J"
+      "duration_ms": 195310,
+      "name": "Juniper Street",
+      "url": "https://open.spotify.com/track/6FSNJrkdLqOGlSXFSd6JCg"
     },
     {
-      "added_at": "2022-07-06 21:58:13",
+      "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "SUMMER DAZE",
-        "url": "https://open.spotify.com/album/0foaLQ6JXdMiRSwcsTFFrs"
+        "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
+        "url": "https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu"
       },
       "artists": [
         {
-          "name": "Trey Moore",
-          "url": "https://open.spotify.com/artist/7L6U6XFo8h39HKpTKNnRAJ"
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
         }
       ],
-      "duration_ms": 102826,
-      "name": "SUMMER",
-      "url": "https://open.spotify.com/track/5gMzlJnqsO9fVbCae62yZq"
+      "duration_ms": 271952,
+      "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
+      "url": "https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/6EIbYonzw81mVuoFx2ss5y"
+      },
+      "artists": [
+        {
+          "name": "Santana Fox",
+          "url": "https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga"
+        }
+      ],
+      "duration_ms": 194673,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/3avS8eLs4GmxktIK9C9veI"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "AWKWARD FREESTYLE",
+        "url": "https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 127764,
+      "name": "AWKWARD FREESTYLE",
+      "url": "https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "Carsick",
+        "url": "https://open.spotify.com/album/2kvGRMPD2fjjzJS9Wwaqdz"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "duration_ms": 187504,
+      "name": "Carsick",
+      "url": "https://open.spotify.com/track/53QIhVdWpIG3NmpkhoqFy6"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -299,22 +283,6 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Girl Wonder",
-        "url": "https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w"
-      },
-      "artists": [
-        {
-          "name": "Taylor Edwards",
-          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
-        }
-      ],
-      "duration_ms": 182326,
-      "name": "Girl Wonder",
-      "url": "https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/6Yr9GJw4aOdR0HCDTEjfAq"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 241909,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/28yw2fVqczsN9TCTmtpQ5L"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "Up In The Sky",
+        "url": "https://open.spotify.com/album/4edTXgynYjblkVFVHtHzDd"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "duration_ms": 233751,
+      "name": "Up In The Sky",
+      "url": "https://open.spotify.com/track/5DGUvMn0jGSCJIbAv9HqfU"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -347,30 +331,6 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "OOTAZ",
-        "url": "https://open.spotify.com/album/5s0FhQROk8RQ9jLb4nD2ZQ"
-      },
-      "artists": [
-        {
-          "name": "Kenzo Balla",
-          "url": "https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp"
-        },
-        {
-          "name": "TG Crippy",
-          "url": "https://open.spotify.com/artist/2imWKJY5TRQoXxDmKsIHps"
-        },
-        {
-          "name": "Jay Da Chaser",
-          "url": "https://open.spotify.com/artist/0JylLcrOkiUSkBMbDoiWYl"
-        }
-      ],
-      "duration_ms": 220671,
-      "name": "OOTAZ",
-      "url": "https://open.spotify.com/track/0WmDdW0eCWfNN6Yr386WUD"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
         "name": "ALL I WANNA",
         "url": "https://open.spotify.com/album/0yHk6WZ6uETrpsp4OVGU2M"
       },
@@ -385,36 +345,20 @@
       "url": "https://open.spotify.com/track/1jqIPhosdnRj26Rxy9m5V1"
     },
     {
-      "added_at": "2022-07-06 21:58:13",
-      "album": {
-        "name": "The Godwynn Experience Vol. II",
-        "url": "https://open.spotify.com/album/5Jcnk2Qr20fsEc73XaZSWD"
-      },
-      "artists": [
-        {
-          "name": "Ro Godwynn",
-          "url": "https://open.spotify.com/artist/4BVDhzLqEGp1CHLuLvE3B9"
-        }
-      ],
-      "duration_ms": 236238,
-      "name": "Intervene",
-      "url": "https://open.spotify.com/track/7fNewUH4PkRx5G2lH6TE7X"
-    },
-    {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/5YEMhgJxSgvHmP7vaE9t1o"
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/4KDI4RT3iWSyrZmeyQRBs2"
       },
       "artists": [
         {
-          "name": "Sempra",
-          "url": "https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq"
+          "name": "William Light",
+          "url": "https://open.spotify.com/artist/1gAYGQ9MbK0ebpu7cUG6IG"
         }
       ],
-      "duration_ms": 308192,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/2yscq5BPVUjmQgIXr7fqZx"
+      "duration_ms": 208500,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/7AWbSAaYHMb82k4HF1Hb4J"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -451,34 +395,58 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Up In The Sky",
-        "url": "https://open.spotify.com/album/4edTXgynYjblkVFVHtHzDd"
+        "name": "Texts",
+        "url": "https://open.spotify.com/album/4IoE4c57vVygNfgbPReGda"
       },
       "artists": [
         {
-          "name": "Emilee Moore",
-          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+          "name": "Kieran Ivy",
+          "url": "https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK"
         }
       ],
-      "duration_ms": 233751,
-      "name": "Up In The Sky",
-      "url": "https://open.spotify.com/track/5DGUvMn0jGSCJIbAv9HqfU"
+      "duration_ms": 143732,
+      "name": "Texts",
+      "url": "https://open.spotify.com/track/3S653c6Jwl9aSy4DosDm8j"
     },
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "After Me",
-        "url": "https://open.spotify.com/album/4z5eotsFW80CeZ07cZn360"
+        "name": "Girl Wonder",
+        "url": "https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w"
       },
       "artists": [
         {
-          "name": "Morgan Johnston",
-          "url": "https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC"
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
         }
       ],
-      "duration_ms": 173354,
-      "name": "After Me",
-      "url": "https://open.spotify.com/track/4bvWD6jaP4PJzj5e2auCzu"
+      "duration_ms": 182326,
+      "name": "Girl Wonder",
+      "url": "https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "OOTAZ",
+        "url": "https://open.spotify.com/album/5s0FhQROk8RQ9jLb4nD2ZQ"
+      },
+      "artists": [
+        {
+          "name": "Kenzo Balla",
+          "url": "https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp"
+        },
+        {
+          "name": "TG Crippy",
+          "url": "https://open.spotify.com/artist/2imWKJY5TRQoXxDmKsIHps"
+        },
+        {
+          "name": "Jay Da Chaser",
+          "url": "https://open.spotify.com/artist/0JylLcrOkiUSkBMbDoiWYl"
+        }
+      ],
+      "duration_ms": 220671,
+      "name": "OOTAZ",
+      "url": "https://open.spotify.com/track/0WmDdW0eCWfNN6Yr386WUD"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -499,66 +467,34 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Pods",
-        "url": "https://open.spotify.com/album/2yxxciiP7cj7fcuSx6WTwa"
+        "name": "Caution Tape",
+        "url": "https://open.spotify.com/album/058Aan9gNp3rcpl4SOaknh"
       },
       "artists": [
         {
-          "name": "Two Shell",
-          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+          "name": "Ian Frandsen",
+          "url": "https://open.spotify.com/artist/5hjkUNlfSgaj48eHb4acq2"
         }
       ],
-      "duration_ms": 242892,
-      "name": "Pods",
-      "url": "https://open.spotify.com/track/6lHH2Pf5R8IBuQtew5hWz8"
+      "duration_ms": 136399,
+      "name": "Caution Tape",
+      "url": "https://open.spotify.com/track/5NcGrtx8ejEjQ1gwI7VULc"
     },
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Alice",
-        "url": "https://open.spotify.com/album/7oPduVHuOL5mK87EqNN8BE"
+        "name": "plain chip",
+        "url": "https://open.spotify.com/album/78GuTKkqxNUe8SqSJxKlBh"
       },
       "artists": [
         {
-          "name": "Cloud Cukkoo",
-          "url": "https://open.spotify.com/artist/3bIIfcj0VjiKKPrJgA57Rg"
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
         }
       ],
-      "duration_ms": 231061,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/4iliH1pecbImn1IJfNnLB7"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
-        "name": "Fun And Games",
-        "url": "https://open.spotify.com/album/0TARB7CV4PQJKl6ceVpyfG"
-      },
-      "artists": [
-        {
-          "name": "Please",
-          "url": "https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku"
-        }
-      ],
-      "duration_ms": 245187,
-      "name": "Fun And Games",
-      "url": "https://open.spotify.com/track/5sotg0jgud6MzdGzmeFdeY"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/6fwozR7KIRyaPF34GUODcj"
-      },
-      "artists": [
-        {
-          "name": "KEEKS",
-          "url": "https://open.spotify.com/artist/1a0szpyoLfe9iC1II42U4o"
-        }
-      ],
-      "duration_ms": 175524,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/72CQvFsq5eCmwdQAvNHw0s"
+      "duration_ms": 160754,
+      "name": "plain chip",
+      "url": "https://open.spotify.com/track/3OnjXW05hcOQ8aXhj1rlPv"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -579,38 +515,50 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/6leGkaXuaSLggHgk5UTIrN"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/5YEMhgJxSgvHmP7vaE9t1o"
       },
       "artists": [
         {
-          "name": "Casper Bluff",
-          "url": "https://open.spotify.com/artist/1MT4LJ5B0wdgv6z932znLB"
-        },
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          "name": "Sempra",
+          "url": "https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq"
         }
       ],
-      "duration_ms": 191290,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/7y1kQ8gmRikqLM5Zaos8vC"
+      "duration_ms": 308192,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/2yscq5BPVUjmQgIXr7fqZx"
     },
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Am I Enough",
-        "url": "https://open.spotify.com/album/42Ov4DbHkVAtxTKGLkjCjJ"
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/7oPduVHuOL5mK87EqNN8BE"
       },
       "artists": [
         {
-          "name": "WinWel",
-          "url": "https://open.spotify.com/artist/6CbRlRjHH42aw6V6zbCAxb"
+          "name": "Cloud Cukkoo",
+          "url": "https://open.spotify.com/artist/3bIIfcj0VjiKKPrJgA57Rg"
         }
       ],
-      "duration_ms": 181463,
-      "name": "Am I Enough",
-      "url": "https://open.spotify.com/track/39NUfJgeSJn0izBmXz6Ymg"
+      "duration_ms": 231061,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/4iliH1pecbImn1IJfNnLB7"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/6fwozR7KIRyaPF34GUODcj"
+      },
+      "artists": [
+        {
+          "name": "KEEKS",
+          "url": "https://open.spotify.com/artist/1a0szpyoLfe9iC1II42U4o"
+        }
+      ],
+      "duration_ms": 175524,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/72CQvFsq5eCmwdQAvNHw0s"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -635,22 +583,6 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "plain chip",
-        "url": "https://open.spotify.com/album/78GuTKkqxNUe8SqSJxKlBh"
-      },
-      "artists": [
-        {
-          "name": "VAL\u00c9",
-          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
-        }
-      ],
-      "duration_ms": 160754,
-      "name": "plain chip",
-      "url": "https://open.spotify.com/track/3OnjXW05hcOQ8aXhj1rlPv"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
         "name": "CAT",
         "url": "https://open.spotify.com/album/2KJeofExu5B68ItEd49Vts"
       },
@@ -667,18 +599,118 @@
     {
       "added_at": "2022-07-06 16:10:20",
       "album": {
-        "name": "Caution Tape",
-        "url": "https://open.spotify.com/album/058Aan9gNp3rcpl4SOaknh"
+        "name": "Fun And Games",
+        "url": "https://open.spotify.com/album/0TARB7CV4PQJKl6ceVpyfG"
       },
       "artists": [
         {
-          "name": "Ian Frandsen",
-          "url": "https://open.spotify.com/artist/5hjkUNlfSgaj48eHb4acq2"
+          "name": "Please",
+          "url": "https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku"
         }
       ],
-      "duration_ms": 136399,
-      "name": "Caution Tape",
-      "url": "https://open.spotify.com/track/5NcGrtx8ejEjQ1gwI7VULc"
+      "duration_ms": 245187,
+      "name": "Fun And Games",
+      "url": "https://open.spotify.com/track/5sotg0jgud6MzdGzmeFdeY"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "After Me",
+        "url": "https://open.spotify.com/album/4z5eotsFW80CeZ07cZn360"
+      },
+      "artists": [
+        {
+          "name": "Morgan Johnston",
+          "url": "https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC"
+        }
+      ],
+      "duration_ms": 173354,
+      "name": "After Me",
+      "url": "https://open.spotify.com/track/4bvWD6jaP4PJzj5e2auCzu"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0e1duhKpJ6Kik6d77iLe4w"
+      },
+      "artists": [
+        {
+          "name": "W1ZE",
+          "url": "https://open.spotify.com/artist/5yEpeaMokz3lTtjloWgQO5"
+        }
+      ],
+      "duration_ms": 152041,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4aflKB9woUwqWTqYvHR1GL"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "Am I Enough",
+        "url": "https://open.spotify.com/album/42Ov4DbHkVAtxTKGLkjCjJ"
+      },
+      "artists": [
+        {
+          "name": "WinWel",
+          "url": "https://open.spotify.com/artist/6CbRlRjHH42aw6V6zbCAxb"
+        }
+      ],
+      "duration_ms": 181463,
+      "name": "Am I Enough",
+      "url": "https://open.spotify.com/track/39NUfJgeSJn0izBmXz6Ymg"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/6leGkaXuaSLggHgk5UTIrN"
+      },
+      "artists": [
+        {
+          "name": "Casper Bluff",
+          "url": "https://open.spotify.com/artist/1MT4LJ5B0wdgv6z932znLB"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "duration_ms": 191290,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/7y1kQ8gmRikqLM5Zaos8vC"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "Pods",
+        "url": "https://open.spotify.com/album/2yxxciiP7cj7fcuSx6WTwa"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "duration_ms": 242892,
+      "name": "Pods",
+      "url": "https://open.spotify.com/track/6lHH2Pf5R8IBuQtew5hWz8"
+    },
+    {
+      "added_at": "2022-07-06 16:10:20",
+      "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/35AY0CysZ16bapvMLM69ZJ"
+      },
+      "artists": [
+        {
+          "name": "Ss.hh.a.n.a",
+          "url": "https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE"
+        }
+      ],
+      "duration_ms": 185086,
+      "name": "home",
+      "url": "https://open.spotify.com/track/1RB220WNY36lP8i50pseMZ"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -697,20 +729,20 @@
       "url": "https://open.spotify.com/track/7rwVlm5LhFTO8utknjR6Kt"
     },
     {
-      "added_at": "2022-07-06 16:10:20",
+      "added_at": "2022-07-06 21:58:13",
       "album": {
-        "name": "AWKWARD FREESTYLE",
-        "url": "https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV"
+        "name": "SUMMER DAZE",
+        "url": "https://open.spotify.com/album/0foaLQ6JXdMiRSwcsTFFrs"
       },
       "artists": [
         {
-          "name": "Eem Triplin",
-          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+          "name": "Trey Moore",
+          "url": "https://open.spotify.com/artist/7L6U6XFo8h39HKpTKNnRAJ"
         }
       ],
-      "duration_ms": 127764,
-      "name": "AWKWARD FREESTYLE",
-      "url": "https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2"
+      "duration_ms": 102826,
+      "name": "SUMMER",
+      "url": "https://open.spotify.com/track/5gMzlJnqsO9fVbCae62yZq"
     },
     {
       "added_at": "2022-07-06 16:10:20",
@@ -749,52 +781,20 @@
       "url": "https://open.spotify.com/track/2YFAAKi6gXh9IR15qngxR5"
     },
     {
-      "added_at": "2022-07-06 16:10:20",
+      "added_at": "2022-07-06 21:58:13",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0e1duhKpJ6Kik6d77iLe4w"
+        "name": "The Godwynn Experience Vol. II",
+        "url": "https://open.spotify.com/album/5Jcnk2Qr20fsEc73XaZSWD"
       },
       "artists": [
         {
-          "name": "W1ZE",
-          "url": "https://open.spotify.com/artist/5yEpeaMokz3lTtjloWgQO5"
+          "name": "Ro Godwynn",
+          "url": "https://open.spotify.com/artist/4BVDhzLqEGp1CHLuLvE3B9"
         }
       ],
-      "duration_ms": 152041,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4aflKB9woUwqWTqYvHR1GL"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
-        "name": "Texts",
-        "url": "https://open.spotify.com/album/4IoE4c57vVygNfgbPReGda"
-      },
-      "artists": [
-        {
-          "name": "Kieran Ivy",
-          "url": "https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK"
-        }
-      ],
-      "duration_ms": 143732,
-      "name": "Texts",
-      "url": "https://open.spotify.com/track/3S653c6Jwl9aSy4DosDm8j"
-    },
-    {
-      "added_at": "2022-07-06 16:10:20",
-      "album": {
-        "name": "home",
-        "url": "https://open.spotify.com/album/35AY0CysZ16bapvMLM69ZJ"
-      },
-      "artists": [
-        {
-          "name": "Ss.hh.a.n.a",
-          "url": "https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE"
-        }
-      ],
-      "duration_ms": 185086,
-      "name": "home",
-      "url": "https://open.spotify.com/track/1RB220WNY36lP8i50pseMZ"
+      "duration_ms": 236238,
+      "name": "Intervene",
+      "url": "https://open.spotify.com/track/7fNewUH4PkRx5G2lH6TE7X"
     }
   ],
   "unique_name": "Fresh Finds",

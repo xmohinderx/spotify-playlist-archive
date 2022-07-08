@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Davy Flowers
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,167 likes - 99 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,248 likes - 99 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 85 | [Glad You Stayed \- Nitro X Remix](https://open.spotify.com/track/7rNY2jGmo19ywTaB8YOn9D) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Adam Paddock](https://open.spotify.com/artist/4uNm6ZFRfJ3lqSly0QZhUv), [Nitro X](https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW) | [Glad You Stayed \(Nitro X Remix\)](https://open.spotify.com/album/0m9ATZdS2jQ2IkqFufQv78) | 3:33 |
 | 86 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 |
 | 87 | [Talk of the Town](https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Talk of the Town](https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B) | 3:27 |
-| 88 | [How Many Songs Does It Take To Save the World?](https://open.spotify.com/track/0ckOhLMJGbKW3VK4iTVFsx) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi) | [How Many Songs Does It Take To Save the World?](https://open.spotify.com/album/7f2VrFm3fjLc0NjL8XiWHT) | 4:50 |
+| 88 | [How Many Songs Does It Take To Save the World?](https://open.spotify.com/track/0ckOhLMJGbKW3VK4iTVFsx) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi) | [How Many Songs Does It Take To Save the World?](https://open.spotify.com/album/7f2VrFm3fjLc0NjL8XiWHT) | 4:49 |
 | 89 | [So Sure](https://open.spotify.com/track/2wrKR8uUTsLM2N7HGnpF48) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [So Sure](https://open.spotify.com/album/3teL8cd11AjroIiX2apF7v) | 4:05 |
 | 90 | [limbo](https://open.spotify.com/track/6JqwhcKzZX3HPbtyTxaQU7) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [limbo](https://open.spotify.com/album/3R6MKsZWoTZZt63NHnChWf) | 4:35 |
 | 91 | [Everything I Need \- Live](https://open.spotify.com/track/7ldQe5DU1whNByqIE7FtNJ) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Everything I Need \(Live\)](https://open.spotify.com/album/763IYFWtHpjjLWvAJQzeQS) | 4:59 |

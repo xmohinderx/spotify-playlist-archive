@@ -4,7 +4,7 @@
 
 > Fina selección musical por el legendario ídolo del Rock Latinoamericano.
 
-29 songs - 2 hr 11 min - not published yet
+29 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/3q7UsHyJJBn4WNXvV4nmyX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-279 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+280 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Caribs](https://open.spotify.com/track/77IvFp174yhWdvqwBYkphA) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Caribs](https://open.spotify.com/album/26hrmwEdbhGyQSKcJ6nu1w) | 2:07 | 2021-11-11 | 2022-06-17 |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2021-11-11 |  |
 | [Celebrate You](https://open.spotify.com/track/5ZmTz0zMu1ENE9ksmNKuBi) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Celebrate You](https://open.spotify.com/album/6mur5z1CltJszyCwJFjLJx) | 2:22 | 2021-11-11 |  |
+| [Centraal](https://open.spotify.com/track/5fQZSvFRYJpv5etKkAe7LW) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Centraal](https://open.spotify.com/album/4tIVNhQ7RcIEPtTqbGnPwm) | 2:10 | 2022-07-08 |  |
 | [Chi\-town](https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [Chi\-town](https://open.spotify.com/album/4UswIixSDaHuBY5YdrBQi7) | 2:41 | 2021-11-11 |  |
 | [Chill Day](https://open.spotify.com/track/5OcOe5TzjRmq7c40QwD0Dz) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Chill Day](https://open.spotify.com/album/3s66orZ9ESKD4dWGEGKxze) | 2:40 | 2022-04-08 |  |
 | [Chillin'](https://open.spotify.com/track/54G7nglEzYJdrIfCcur3El) | [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [From Above](https://open.spotify.com/album/7AzyGdeuLj3yYOMgCahejP) | 2:08 | 2021-11-11 |  |
@@ -80,7 +81,7 @@
 | [Fountain of Youth](https://open.spotify.com/track/6qV7mgZJ93bfPlECJ8cp8j) | [fwn.](https://open.spotify.com/artist/1Fqwbp1tTD8kx2CmB8j6tu), [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg) | [Fountain of Youth](https://open.spotify.com/album/6V8htjUIh2ovsKFHb5CbZn) | 2:13 | 2022-07-01 |  |
 | [Frontside Smokeflip](https://open.spotify.com/track/4RHR237B71Bwl8ldOa2Jyi) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Frontside Smokeflip](https://open.spotify.com/album/2BllATRPs1aOaaMsdKg8Ei) | 2:10 | 2022-04-22 |  |
 | [frozen grapes](https://open.spotify.com/track/5vMkAdCEgGVbPqmyFR9fB8) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 1:35 | 2021-11-11 |  |
-| [Full Circle](https://open.spotify.com/track/4PYtxcZhOSoXiYpcDJbvPZ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Full Circle](https://open.spotify.com/album/326mwc7rrYRFnxATCTTWVC) | 3:02 | 2022-06-24 |  |
+| [Full Circle](https://open.spotify.com/track/4PYtxcZhOSoXiYpcDJbvPZ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Full Circle](https://open.spotify.com/album/326mwc7rrYRFnxATCTTWVC) | 3:02 | 2022-06-24 | 2022-07-08 |
 | [Funkophomatic](https://open.spotify.com/track/3llezaxf0tOO3n0S81ZgDI) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Funkophomatic](https://open.spotify.com/album/795wf2HDzo17vytmfBRcuo) | 2:40 | 2021-11-11 |  |
 | [G&T!](https://open.spotify.com/track/6tgghxEXGuAeQWn3NYIsKT) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [G&T!](https://open.spotify.com/album/0E9J985TjgZozA7pUrwcCF) | 2:44 | 2021-11-11 |  |
 | [Gary Valentine](https://open.spotify.com/track/68pKz8cONemO0EHd4DITfn) | [Sepia Tapes](https://open.spotify.com/artist/3PuHZwsr0txnw9NMq6b1kT) | [Gary Valentine](https://open.spotify.com/album/7DjXakUEVv3FZ9TW21sGIK) | 2:20 | 2022-06-10 |  |
@@ -123,7 +124,7 @@
 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [artoban](https://open.spotify.com/artist/3sQE7gxylG2AydTX4UutZT) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 | 2021-11-11 |  |
 | [Koji](https://open.spotify.com/track/1nC17MFFBInGll7Wjun7XS) | [Calabrese](https://open.spotify.com/artist/3Bbd9D85OngaqLISpyDUmf), [Jay PowPow](https://open.spotify.com/artist/4iKJ2T8WvQc8SDxg6qdbrg) | [Koji](https://open.spotify.com/album/2h0JTol7uA3XQxaVgFfKG1) | 2:45 | 2022-04-15 |  |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2021-11-11 |  |
-| [Lab](https://open.spotify.com/track/2kHDQldORUg2dYR1BOQlWc) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Lab](https://open.spotify.com/album/4CnTuWjhnYgnE2Wqv57AUc) | 2:21 | 2021-11-11 |  |
+| [Lab](https://open.spotify.com/track/2kHDQldORUg2dYR1BOQlWc) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Lab](https://open.spotify.com/album/4CnTuWjhnYgnE2Wqv57AUc) | 2:21 | 2021-11-11 | 2022-07-08 |
 | [last summer](https://open.spotify.com/track/4FjKXaAOnpf72mCwlalB6V) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Last Summer](https://open.spotify.com/album/4hYHySVOfdMSwvO6hVAgt6) | 1:51 | 2022-07-01 |  |
 | [Late at Night](https://open.spotify.com/track/7E9D2k2LU9hqzf9Wp4IZpW) | [Tiny Anthem](https://open.spotify.com/artist/4mvPTefcTixgsLnqjwc8K2) | [Late at Night](https://open.spotify.com/album/5waBBAq9BKnpUjmEpdAC9c) | 3:00 | 2022-04-15 |  |
 | [Late Hour](https://open.spotify.com/track/5ueBL4PSEp7B7TInLXxhFA) | [kahlooa station](https://open.spotify.com/artist/7IltJzcGeHqTULdYFB0GwT) | [Late Hour](https://open.spotify.com/album/2XmEWdLXAmLF6pY3mht9wi) | 2:18 | 2021-11-11 |  |
@@ -188,7 +189,7 @@
 | [Poetico](https://open.spotify.com/track/3WOVGisKBJAaab268pcVSw) | [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Birdcage](https://open.spotify.com/album/1rt06RiwxbqpW7lANXybwj) | 2:36 | 2022-02-04 |  |
 | [Positive Vibes](https://open.spotify.com/track/0VrZZ4GWTRa8TXJulbzJ6U) | [Opal Fangs](https://open.spotify.com/artist/4WXavKtmJD4UsjSTHIwZrZ) | [Positive Vibes](https://open.spotify.com/album/075pLxefaNgm93o7v9K7kC) | 1:31 | 2021-11-11 |  |
 | [Postcards](https://open.spotify.com/track/6CCXRC8JslvUainLY7In0P) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:15 | 2021-11-11 |  |
-| [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 |  |
+| [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 | 2022-07-08 |
 | [Purrfect](https://open.spotify.com/track/06FHrzf7psD6ow7W4SH5Ks) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 2:18 | 2022-06-10 |  |
 | [Rain On Me](https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Rain On Me](https://open.spotify.com/album/1XC002Q49QhVnYvKhWeAY4) | 2:27 | 2021-11-11 |  |
 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 | 2021-11-11 |  |
@@ -252,7 +253,7 @@
 | [Tightrope Dancer](https://open.spotify.com/track/2KNjcNgghOZqNmfCGa5KuY) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Tightrope Dancer](https://open.spotify.com/album/3sHWJRv2zeA6aoc9Y5CeiH) | 2:22 | 2021-11-11 |  |
 | [Times, Times](https://open.spotify.com/track/1CEeMld7h9WlsJBTobGPyu) | [Eric Goldander](https://open.spotify.com/artist/271Et84OFD9kd3AHKbjoEz) | [Times, Times](https://open.spotify.com/album/2PGffwBFMtFQqAOWPVERQj) | 2:13 | 2021-11-11 |  |
 | [Tokyo Trainspotting](https://open.spotify.com/track/71xDIzNBNBymTelTTUz3YC) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/0YMPRcQiUqkkWM6DHjUNRO) | 2:00 | 2021-11-11 |  |
-| [Tomorrow Will Be Better](https://open.spotify.com/track/62zFKMb9q7pnJgV64UQX1f) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/2SAg5ASeGWGt7YDXqiOEs7) | 2:34 | 2021-11-11 |  |
+| [Tomorrow Will Be Better](https://open.spotify.com/track/62zFKMb9q7pnJgV64UQX1f) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/2SAg5ASeGWGt7YDXqiOEs7) | 2:34 | 2021-11-11 | 2022-07-08 |
 | [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 | 2021-11-11 |  |
 | [Train Ride](https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 2:31 | 2021-11-11 |  |
 | [Trillest](https://open.spotify.com/track/2PmHbcDaBmWr3OmoD09vTd) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Playground Sessions Vol 1](https://open.spotify.com/album/2fPD6SfAuDrOmNMBjNpeTa) | 1:32 | 2021-11-11 | 2022-06-10 |

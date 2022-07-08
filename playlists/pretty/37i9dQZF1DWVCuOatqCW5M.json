@@ -1,6 +1,6 @@
 {
   "description": "New music from popular Hindi artists. Cover- Emiway Bantai & Celina Sharma ",
-  "num_followers": 5363,
+  "num_followers": 5384,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,26 @@
       "duration_ms": 212869,
       "name": "Shaam",
       "url": "https://open.spotify.com/track/4ktaJXIoCnhjODrOwSCPBg"
+    },
+    {
+      "added_at": "2022-07-01 08:02:17",
+      "album": {
+        "name": "Aaya Mausam",
+        "url": "https://open.spotify.com/album/2Jcb1B7oVEmgUUN4U1rPG5"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Aaya Mausam",
+      "url": "https://open.spotify.com/track/4YZQWjQnuctiHfk5wgYAiu"
     },
     {
       "added_at": "2022-07-01 08:02:17",

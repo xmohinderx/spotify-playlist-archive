@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Asiatica, Artwork: Robin Clifford Ellis
 
-720 songs - 1 day 15 hr 5 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+721 songs - 1 day 15 hr 10 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [Over & Again](https://open.spotify.com/track/1TdsZCfivSVDd5JkowqgYz) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Over & Again](https://open.spotify.com/album/1e1qAsUPSLlvBoqYMXkSbN) | 3:07 | 2022-04-27 | 2022-06-09 |
 | [Overthinking](https://open.spotify.com/track/1BdZg2Id9Xq8n9w2owkoaz) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Overthinking](https://open.spotify.com/album/7FaGK2kvmc8vskLYsVIJKa) | 2:55 | 2022-04-27 | 2022-05-12 |
 | [Owe Me](https://open.spotify.com/track/6pL0YVJ4MyEGSkx7dohqOJ) | [Lily Konigsberg](https://open.spotify.com/artist/0C0xVsusgtna2fFBSPQzQS) | [Owe Me](https://open.spotify.com/album/58gVx4lQN3yBvon4bddZo6) | 3:35 | 2021-12-01 | 2022-01-13 |
-| [Oxygen!](https://open.spotify.com/track/3cRWtWnQhJofNchkKtoXvA) | [Capital Soiree](https://open.spotify.com/artist/1sd5vbMAYXlLoJNTQfY0HV) | [Oxygen!](https://open.spotify.com/album/31alWZq3ftTwk6FlRUeVTu) | 2:16 | 2022-06-15 |  |
+| [Oxygen!](https://open.spotify.com/track/3cRWtWnQhJofNchkKtoXvA) | [Capital Soiree](https://open.spotify.com/artist/1sd5vbMAYXlLoJNTQfY0HV) | [Oxygen!](https://open.spotify.com/album/31alWZq3ftTwk6FlRUeVTu) | 2:16 | 2022-06-15 | 2022-07-08 |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2022-03-16 | 2022-07-07 |
 | [Palmspree](https://open.spotify.com/track/53G4D2qCKWODpGWOBofGHd) | [Titus Waldner](https://open.spotify.com/artist/0JMMuonQuJIW6SWwF6S92e) | [Ballroom](https://open.spotify.com/album/69MPuROQnEm2vJ71vQ4lPO) | 3:52 | 2022-03-30 | 2022-04-27 |
 | [Panic](https://open.spotify.com/track/7gFofm1Y1EBpcs6VLiRLY1) | [Legwurk](https://open.spotify.com/artist/5adOsYarVjOqKyGhKACW7p) | [Panic](https://open.spotify.com/album/2tSkEc1RoebP9UyavlkbCn) | 2:38 | 2022-06-08 | 2022-06-30 |
@@ -528,6 +528,7 @@
 | [Reach Out](https://open.spotify.com/track/4ODZzpFNzWj7USJjwihuIS) | [Hembree](https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ) | [It's a Dream!](https://open.spotify.com/album/2T565vrx61D9qlU8wZFTSc) | 3:00 | 2022-06-15 | 2022-07-07 |
 | [Reckless](https://open.spotify.com/track/52Prki1NWO1a2XnC3zfCr6) | [Colorvision](https://open.spotify.com/artist/4QiFBLINdu9SEdhOTxHHmj) | [Reckless](https://open.spotify.com/album/7xG0KHWuzpvhN80VPET3vq) | 3:24 | 2022-03-02 | 2022-04-13 |
 | [Redwoods](https://open.spotify.com/track/14FWm9OKkbfQbnlOVmX4sJ) | [Veni Sun](https://open.spotify.com/artist/2FLqR4YXPurY27vtZEIwqB) | [Artifacts of Summer](https://open.spotify.com/album/5Hr9XshNla8vcCNtvEQYsN) | 3:32 | 2022-02-02 | 2022-03-03 |
+| [Remember Why You Fell in Love \(Unplugged\)](https://open.spotify.com/track/3lSJBIvJJadF3L2z9p59Hv) | [Natalie Madigan](https://open.spotify.com/artist/0VqERH28tjwguO9olLjkJd) | [Remember Why You Fell in Love \(Unplugged\)](https://open.spotify.com/album/4Z0Vytilw2EuDIANbQaYhT) | 4:32 | 2022-07-07 |  |
 | [Rerun](https://open.spotify.com/track/09MWtKckcVk01jzxZjjc3e) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Rerun](https://open.spotify.com/album/6Izi5vqlILx2FOE4AolRoD) | 3:21 | 2022-04-06 | 2022-04-27 |
 | [retrograde](https://open.spotify.com/track/3peF6vJT8hbvHBEh0naYE9) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/7CRLVLjGplbDfqJqTpOZ07) | 2:12 | 2021-12-01 | 2022-01-13 |
 | [Rick James](https://open.spotify.com/track/5WXpatjEQWyxbe9a107sGT) | [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Rick James](https://open.spotify.com/album/7hcfy3rrMfzKXtCYFHHiA7) | 2:01 | 2022-02-09 | 2022-03-10 |

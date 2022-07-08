@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-165 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
+167 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Observations From A Faraway Place](https://open.spotify.com/track/5H14dJbhKeaU1ffTMmIGJi) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:22 | 2020-10-20\* |  |
 | [October stroll](https://open.spotify.com/track/0djBbURQR8Zu4SD4K48lzJ) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [October stroll](https://open.spotify.com/album/7dnDyRoLFwV6HSSiZ3L1AP) | 2:09 | 2020-10-20\* | 2021-11-17 |
 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 | 2020-10-20\* |  |
+| [Once Again](https://open.spotify.com/track/6SFxknzg00olqCJl4QJEyq) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Once Again](https://open.spotify.com/album/2VneXLzvhPk5Wwn3rxSh1c) | 2:20 | 2022-07-08 |  |
 | [Once Again](https://open.spotify.com/track/3rM7tHIfS6tzuaPXxp5hK1) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Once Again](https://open.spotify.com/album/6rHvuSWrrMiqfRf08jo137) | 3:23 | 2020-10-20\* |  |
 | [Ondulante](https://open.spotify.com/track/0eDBnFUrIsOq7wf2d7vvr0) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Ambientalismo](https://open.spotify.com/album/150OGcG307oqzZadHxUcQH) | 3:00 | 2020-10-20\* |  |
 | [One With You](https://open.spotify.com/track/1Xiva2KjOYcPIT8VfrfJKS) | [Rick Jolt](https://open.spotify.com/artist/0hzZ0tiSaLHWUUOWNPo5cQ) | [One With You](https://open.spotify.com/album/4mep7pNFHlun9gvlRKkv6Y) | 2:13 | 2020-10-20\* |  |
@@ -121,7 +122,7 @@
 | [Placid Skies](https://open.spotify.com/track/6rqGbIXc1GcgOYrWw8MLY7) | [Montana Plains](https://open.spotify.com/artist/6XOiaS2D7BL25uNuKlS4nR) | [Placid Skies](https://open.spotify.com/album/0NVfdJJRVoz71KstCax2d0) | 2:42 | 2020-10-20\* |  |
 | [Prague](https://open.spotify.com/track/0nZBVfNvj54NQ0pxMw8My1) | [Marta Stivender](https://open.spotify.com/artist/5n2PYwVLxFzpVXptXhwEOU) | [Prague](https://open.spotify.com/album/0JGYMvCHdcEFySffamjjo7) | 1:47 | 2020-10-20\* |  |
 | [Reality](https://open.spotify.com/track/6610gii04R3zRuWpa38XzY) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:06 | 2020-10-20\* |  |
-| [Reprieve](https://open.spotify.com/track/1UTyE3P7cQ2de4dwLNyt58) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Inner Emotions](https://open.spotify.com/album/360SVaUkXUu24nh4hlNLia) | 3:04 | 2020-10-20\* |  |
+| [Reprieve](https://open.spotify.com/track/1UTyE3P7cQ2de4dwLNyt58) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Inner Emotions](https://open.spotify.com/album/360SVaUkXUu24nh4hlNLia) | 3:04 | 2020-10-20\* | 2022-07-08 |
 | [Resilient](https://open.spotify.com/track/3qcqLrOeFOaWzpHK7GK6Qo) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Resilient](https://open.spotify.com/album/0uETRAhCKO0BjQHHxtW4YP) | 3:26 | 2020-10-20\* |  |
 | [Saga Menuette](https://open.spotify.com/track/3EwA8gI0oi0vtmIBZBjGRQ) | [Marie Depauw](https://open.spotify.com/artist/3YrkixibPYT9i5JliqmLK7) | [Saga Menuette](https://open.spotify.com/album/0h1xKYfHHxyIEUKQDie39S) | 1:51 | 2020-10-20\* |  |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2020-10-20\* |  |
@@ -137,7 +138,7 @@
 | [Staying Safe](https://open.spotify.com/track/3uokV7euVTekwkO5SzFpnK) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Staying Safe](https://open.spotify.com/album/60dIOyOzwfUnHjnanDTQaZ) | 3:18 | 2020-10-20\* | 2021-10-21 |
 | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi) | 3:05 | 2022-05-20 |  |
 | [Stellar Love](https://open.spotify.com/track/0Zb70eJIng8v2H38ZivcNw) | [John Hanks](https://open.spotify.com/artist/3MN3dRQvZWIRj0wTpY5QnY) | [Stellar Love](https://open.spotify.com/album/62MMCb2Z0fa1kCTGvKU086) | 2:31 | 2020-10-20\* | 2021-11-17 |
-| [Still Asleep](https://open.spotify.com/track/4JOjSfJqokAV6Ff2DhCZcf) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [A Second to Forget](https://open.spotify.com/album/2876PFeHSUpVjjbxVQhlkd) | 2:08 | 2020-10-20\* |  |
+| [Still Asleep](https://open.spotify.com/track/4JOjSfJqokAV6Ff2DhCZcf) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [A Second to Forget](https://open.spotify.com/album/2876PFeHSUpVjjbxVQhlkd) | 2:08 | 2020-10-20\* | 2022-07-08 |
 | [Street Lights](https://open.spotify.com/track/4MJpaD8vXN3d9APFeE1FMJ) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [The Enlightened](https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE) | 3:03 | 2020-10-20\* |  |
 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 | 2020-10-20\* |  |
 | [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 | 2020-10-20\* |  |
@@ -151,7 +152,7 @@
 | [Thankful](https://open.spotify.com/track/0fLniMyx3JO0FBuW8AjvNz) | [Allysa Nelson](https://open.spotify.com/artist/6h7cuFH2XtPwuplHby1gT0) | [Spring is Here](https://open.spotify.com/album/59xOA3f8FmCObSHn9pJuxk) | 3:07 | 2020-10-20\* |  |
 | [The Day After Tomorrow](https://open.spotify.com/track/6utMGchGek24Jzaihq2GSP) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 2:47 | 2020-10-20\* |  |
 | [The Essence](https://open.spotify.com/track/50Iw4pM6pLfisbWog0ysGF) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Pause To Think](https://open.spotify.com/album/00gHKH9fv0mUYsKqWBfK4x) | 3:19 | 2020-10-20\* | 2021-12-11 |
-| [The Flow](https://open.spotify.com/track/5utTNDqFPpLSC19SqHNIXx) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sleepwalking](https://open.spotify.com/album/7i4b354sCe4KyTPaelIKdn) | 2:45 | 2020-10-20\* |  |
+| [The Flow](https://open.spotify.com/track/5utTNDqFPpLSC19SqHNIXx) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sleepwalking](https://open.spotify.com/album/7i4b354sCe4KyTPaelIKdn) | 2:45 | 2020-10-20\* | 2022-07-08 |
 | [The Night Falls Deep](https://open.spotify.com/track/7iMpckuKV0NZV4Ta9bHrxM) | [Eric de Joté](https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL) | [Moonlight Reflections](https://open.spotify.com/album/0U93oQQXhaAVO7gfLfsKbr) | 3:38 | 2020-10-20\* |  |
 | [The North Wind \- Daigo Hanada Re\-work](https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [The North Wind \(Daigo Hanada Re\-work\)](https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5) | 1:55 | 2022-05-20 |  |
 | [The Sacrament](https://open.spotify.com/track/7JDeCzVl0C9cqqTxqaFhU9) | [Elenor Fuchs](https://open.spotify.com/artist/0sDCRQ87f2NG1mIoXc9yBb) | [The Sacrament](https://open.spotify.com/album/6PCHBDH0Zpllxm3FKuBnMz) | 2:15 | 2020-10-20\* |  |
@@ -166,7 +167,8 @@
 | [Un Tambour sur les Roses](https://open.spotify.com/track/1oYGtB1E2bEjakyLElrdBX) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Réunion](https://open.spotify.com/album/3KduaJCpIteIgNVgo5GSAh) | 3:08 | 2020-10-20\* | 2020-11-28 |
 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2020-10-20\* |  |
 | [Valse Mulsanne](https://open.spotify.com/track/4W3IYRqNBnQ5HYeoaU9YdF) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Mulsanne](https://open.spotify.com/album/4RLS1pexXBhZz211nuYUov) | 3:12 | 2020-10-20\* | 2021-10-21 |
-| [Waltz In The Sunset](https://open.spotify.com/track/4KxLDubITTzAoRROcamdIs) | [An&Ca](https://open.spotify.com/artist/6RH6BLYVKA1TGccBIvluoI) | [Forever In Your Arms](https://open.spotify.com/album/3Aqr3oh4OLhRXeBHWqCR4F) | 2:40 | 2020-10-20\* |  |
+| [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 | 2022-07-08 |  |
+| [Waltz In The Sunset](https://open.spotify.com/track/4KxLDubITTzAoRROcamdIs) | [An&Ca](https://open.spotify.com/artist/6RH6BLYVKA1TGccBIvluoI) | [Forever In Your Arms](https://open.spotify.com/album/3Aqr3oh4OLhRXeBHWqCR4F) | 2:40 | 2020-10-20\* | 2022-07-08 |
 | [Watching Dew Drops](https://open.spotify.com/track/1AXcLYTinsU5mUI2xObiQJ) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Song for the Dandelion](https://open.spotify.com/album/6CpIli1LlEdyjK801eaYZ8) | 2:00 | 2020-10-20\* | 2021-09-24 |
 | [Water](https://open.spotify.com/track/15aAIdzt0xxazdV6abyGBC) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [Water](https://open.spotify.com/album/2iqpzaEFsjiuD4HJzu0nJw) | 2:14 | 2020-10-20\* |  |
 | [Winding Trails](https://open.spotify.com/track/5X3hvz25Pyqgtj1jF3HX4V) | [Cara Wolff](https://open.spotify.com/artist/4awzT4TfiIuWgss8saWodD) | [Winding Trails](https://open.spotify.com/album/6pVYhysoA5VGngRzATX4bo) | 2:02 | 2020-10-20\* |  |

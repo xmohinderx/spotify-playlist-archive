@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 103500,
       "name": "21st Trail",
       "url": "https://open.spotify.com/track/59xjNpoZ10ctiycFSEEOIB"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 94023,
       "name": "Artifact",
       "url": "https://open.spotify.com/track/0fZ0xr4utWdReyvnCpG99B"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 132000,
       "name": "Distance",
       "url": "https://open.spotify.com/track/22EUPDSks0pkcJwXJ6CEem"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 80740,
       "name": "dreams",
       "url": "https://open.spotify.com/track/4YRmrJ0bFhYfDQQInW52Qb"
@@ -923,6 +923,28 @@
       "duration_ms": 178949,
       "name": "ether",
       "url": "https://open.spotify.com/track/4zrOqot4vi27IPPQ7u1B2l"
+    },
+    {
+      "album": {
+        "name": "Even After",
+        "url": "https://open.spotify.com/album/7fjdQgP1T2Ipa9VMFHebgv"
+      },
+      "artists": [
+        {
+          "name": "So.Lo",
+          "url": "https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj"
+        },
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "Even After",
+      "url": "https://open.spotify.com/track/6ZrXmTGrIrXJ5dYCJi9YJs"
     },
     {
       "album": {
@@ -1315,7 +1337,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 84800,
       "name": "i dreamed of you last night",
       "url": "https://open.spotify.com/track/7hwKTXZWkT9H7Vlp9KibMZ"
@@ -1351,7 +1373,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 194611,
       "name": "i think too much",
       "url": "https://open.spotify.com/track/1J2tOOXixJKDockYnLcwQQ"
@@ -1441,7 +1463,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 135529,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/5yIWddfakTzZeObu2nrGhi"
@@ -1597,6 +1619,24 @@
       "duration_ms": 149553,
       "name": "lavender luster",
       "url": "https://open.spotify.com/track/76o5VE3NHgKGB1Sdz4Ouam"
+    },
+    {
+      "album": {
+        "name": "laziness",
+        "url": "https://open.spotify.com/album/3PscnzGhlFUABok52QKHi8"
+      },
+      "artists": [
+        {
+          "name": "ev\u00e4n",
+          "url": "https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116106,
+      "name": "laziness",
+      "url": "https://open.spotify.com/track/68qJ3TskDFK2QuEDlUs8rH"
     },
     {
       "album": {
@@ -1835,7 +1875,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 113684,
       "name": "Magic Place",
       "url": "https://open.spotify.com/track/4Pf6gWTEHTh7ujrokx4des"
@@ -1861,6 +1901,24 @@
       "duration_ms": 144000,
       "name": "Maybes",
       "url": "https://open.spotify.com/track/1wChTOTxJtY33UEQAyjvLx"
+    },
+    {
+      "album": {
+        "name": "memories",
+        "url": "https://open.spotify.com/album/3nSW0AhPMSuDoajmzenszc"
+      },
+      "artists": [
+        {
+          "name": "m\u0117lyna",
+          "url": "https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163097,
+      "name": "memories",
+      "url": "https://open.spotify.com/track/1st1h9byLbKUQiooNUN9Xf"
     },
     {
       "album": {
@@ -1900,6 +1958,28 @@
     },
     {
       "album": {
+        "name": "Soul Searching",
+        "url": "https://open.spotify.com/album/2gRSG93nb8L3TUT2jmbmbg"
+      },
+      "artists": [
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        },
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "mirage",
+      "url": "https://open.spotify.com/track/6MJoayW5JUOqBixVTFIbLI"
+    },
+    {
+      "album": {
         "name": "Pioggia Blu",
         "url": "https://open.spotify.com/album/7frOMIAbdDWLHaIoLKrURg"
       },
@@ -1911,7 +1991,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 97515,
       "name": "Miresa e la Pioggia",
       "url": "https://open.spotify.com/track/0S6lYorQM1KyvBrucbzRCW"
@@ -2020,6 +2100,24 @@
     },
     {
       "album": {
+        "name": "Mosquito's Lullaby",
+        "url": "https://open.spotify.com/album/01qyVrihwHMa3SERdl7Hcj"
+      },
+      "artists": [
+        {
+          "name": "Prithvi",
+          "url": "https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "Mosquito's Lullaby",
+      "url": "https://open.spotify.com/track/2krr6u24FeTHQpPvVArZbR"
+    },
+    {
+      "album": {
         "name": "Longing For The Sea",
         "url": "https://open.spotify.com/album/6kMbnr9adjnElu3nq8yjDY"
       },
@@ -2053,7 +2151,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 98313,
       "name": "need you back",
       "url": "https://open.spotify.com/track/4ppEnqXIURq7kCIFDdTmXE"
@@ -2245,7 +2343,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 110603,
       "name": "On the way home",
       "url": "https://open.spotify.com/track/2IXTWWyNFE0WDazkffDEIE"
@@ -2303,7 +2401,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 108719,
       "name": "Pale Fire",
       "url": "https://open.spotify.com/track/60UeQGbHPhN3o7m9isislN"
@@ -2321,7 +2419,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 93265,
       "name": "panorama",
       "url": "https://open.spotify.com/track/7rPrKbLOu6BtwUFO0y1TIH"
@@ -2658,6 +2756,28 @@
     },
     {
       "album": {
+        "name": "Safe Space",
+        "url": "https://open.spotify.com/album/016WzXOtza9LzfXDt6qWVt"
+      },
+      "artists": [
+        {
+          "name": "v i v",
+          "url": "https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX"
+        },
+        {
+          "name": "Project AER",
+          "url": "https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173499,
+      "name": "Safe Space",
+      "url": "https://open.spotify.com/track/5hVggLMkxpwrDZOXYkJ2O6"
+    },
+    {
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/1PsjbsAxMKLUCsp3uJgJjw"
       },
@@ -2796,6 +2916,24 @@
     },
     {
       "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/1i6oUKGKalSNKdLwNchOCl"
+      },
+      "artists": [
+        {
+          "name": "hushfall",
+          "url": "https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "Sincere",
+      "url": "https://open.spotify.com/track/3Kx9kmgg2iM4Fv84VllkJm"
+    },
+    {
+      "album": {
         "name": "six gems",
         "url": "https://open.spotify.com/album/5xq3FQqt6NJSnJgDq9Qj2U"
       },
@@ -2829,7 +2967,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 146401,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/2WYl308FkljMbjrI24v3fm"
@@ -3169,7 +3307,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 157187,
       "name": "the professor",
       "url": "https://open.spotify.com/track/4rUiLtJfrjNDmfI5Lbk30d"

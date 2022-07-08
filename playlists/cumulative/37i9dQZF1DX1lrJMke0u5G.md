@@ -4,7 +4,7 @@
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-100 songs - 6 hr 15 min - not published yet
+100 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/0FtiJzGWVQsaojRwqozUF7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

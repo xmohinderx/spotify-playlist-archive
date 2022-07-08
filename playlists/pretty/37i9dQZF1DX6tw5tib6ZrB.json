@@ -1,12 +1,12 @@
 {
   "description": "Monster Hiphop anthems to unlock your day. Tracks from Khalighraph Jones, Wakadinali, Kendrick Lamar and more",
-  "num_followers": 4949,
+  "num_followers": 5302,
   "original_name": "JumpOff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyMjc0MCwwMDAwMDAwNTAwMDAwMTgxYjY2OGYyYzMwMDAwMDE4MTZiZWY4ZTU1",
+  "snapshot_id": "MTY1NzIyNzU0MCwwMDAwMDAwNjAwMDAwMTgxZGE3NTc2OGIwMDAwMDE4MTZiZWY4ZTU1",
   "tracks": [
     {
       "added_at": "2022-06-16 10:18:18",
@@ -47,18 +47,22 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
       "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2022-06-23 20:59:00",
@@ -115,6 +119,22 @@
       "duration_ms": 176574,
       "name": "I Know",
       "url": "https://open.spotify.com/track/40j4RoqmLiivqzRObbQ4BF"
+    },
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -201,6 +221,46 @@
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
     },
     {
+      "added_at": "2022-07-07 20:59:00",
+      "album": {
+        "name": "Cash In Cash Out",
+        "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 216135,
+      "name": "Cash In Cash Out",
+      "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
+    },
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
       "added_at": "2022-06-16 10:18:18",
       "album": {
         "name": "Borrow",
@@ -263,38 +323,18 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+      "duration_ms": 135264,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -311,22 +351,6 @@
       "duration_ms": 172933,
       "name": "PUFFIN ON ZOOTIEZ",
       "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 135264,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -547,6 +571,26 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
+        "name": "Pop Out",
+        "url": "https://open.spotify.com/album/3DKxIMMpgRakBLeaXEs0JG"
+      },
+      "artists": [
+        {
+          "name": "Lewis KE",
+          "url": "https://open.spotify.com/artist/5EWEp45uBW3TNr3v0F0bT3"
+        },
+        {
+          "name": "The Renaissance Man",
+          "url": "https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi"
+        }
+      ],
+      "duration_ms": 189295,
+      "name": "Pop Out",
+      "url": "https://open.spotify.com/track/0XLWcdwnbkaq1sxbNXJBNs"
+    },
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
         "name": "Wheelie (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
       },
@@ -623,26 +667,6 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "Pop Out",
-        "url": "https://open.spotify.com/album/3DKxIMMpgRakBLeaXEs0JG"
-      },
-      "artists": [
-        {
-          "name": "Lewis KE",
-          "url": "https://open.spotify.com/artist/5EWEp45uBW3TNr3v0F0bT3"
-        },
-        {
-          "name": "The Renaissance Man",
-          "url": "https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi"
-        }
-      ],
-      "duration_ms": 189295,
-      "name": "Pop Out",
-      "url": "https://open.spotify.com/track/0XLWcdwnbkaq1sxbNXJBNs"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -695,6 +719,34 @@
       "duration_ms": 237904,
       "name": "Mrs. Davis",
       "url": "https://open.spotify.com/track/6R8OyxlpbW1F00R2eJRiHk"
+    },
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
+        "name": "Romantic Rivals",
+        "url": "https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE"
+      },
+      "artists": [
+        {
+          "name": "Wangechi",
+          "url": "https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6"
+        },
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+        },
+        {
+          "name": "Domani Mkadinali",
+          "url": "https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2"
+        },
+        {
+          "name": "Sewersydaa",
+          "url": "https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "Romantic Rivals",
+      "url": "https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -795,6 +847,26 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
         "name": "D.R.U.G.S (Dear.Romance.U.Got.Sweet)",
         "url": "https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8"
       },
@@ -807,34 +879,6 @@
       "duration_ms": 115973,
       "name": "Love",
       "url": "https://open.spotify.com/track/0wj0rGLu2CnpGEZBiXcZZi"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "Romantic Rivals",
-        "url": "https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE"
-      },
-      "artists": [
-        {
-          "name": "Wangechi",
-          "url": "https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6"
-        },
-        {
-          "name": "Scar Mkadinali",
-          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
-        },
-        {
-          "name": "Domani Mkadinali",
-          "url": "https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2"
-        },
-        {
-          "name": "Sewersydaa",
-          "url": "https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Romantic Rivals",
-      "url": "https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -895,42 +939,6 @@
       "duration_ms": 394380,
       "name": "ZOZA",
       "url": "https://open.spotify.com/track/4zKMMryM7cPyMDvgCPPheB"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "See You Again (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "EAST MPAKA LONDON",
-        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
-      },
-      "artists": [
-        {
-          "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "BLICKY",
-      "url": "https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB"
     },
     {
       "added_at": "2022-06-16 10:18:18",

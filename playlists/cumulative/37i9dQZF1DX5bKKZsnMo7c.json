@@ -642,6 +642,24 @@
     },
     {
       "album": {
+        "name": "the first glass beach album",
+        "url": "https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138119,
+      "name": "cold weather",
+      "url": "https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B"
+    },
+    {
+      "album": {
         "name": "cut my fingers off",
         "url": "https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo"
       },
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 157088,
       "name": "Eco Anxiety (Emo Animosity)",
       "url": "https://open.spotify.com/track/7G6tyJxqTuhZnLHtkRX1hE"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 168974,
       "name": "Fall In Love With A Girl (feat. Orla Gartland)",
       "url": "https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ"
@@ -935,6 +953,24 @@
       "duration_ms": 108128,
       "name": "Fuck It",
       "url": "https://open.spotify.com/track/6n4dJjCThR7Gb9A5DXr1xj"
+    },
+    {
+      "album": {
+        "name": "Fuck The Supreme Court (Rant Song)",
+        "url": "https://open.spotify.com/album/462TZxbkxvWlvQrxHk8iAN"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170774,
+      "name": "Fuck The Supreme Court (Rant Song)",
+      "url": "https://open.spotify.com/track/4V2cyPgdRKrK2MxMsk5m5U"
     },
     {
       "album": {
@@ -1775,6 +1811,24 @@
       "duration_ms": 215000,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts"
+    },
+    {
+      "album": {
+        "name": "What Could Be Better",
+        "url": "https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c"
+      },
+      "artists": [
+        {
+          "name": "The Happy Fits",
+          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199413,
+      "name": "She Wants Me (To Be Loved)",
+      "url": "https://open.spotify.com/track/0owmJNkGcGNq4hb6qt3ufd"
     },
     {
       "album": {

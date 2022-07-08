@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Phạm Nguyên Ngọc; thiết kế: Isu Kim
 
-436 songs - 1 day 1 hr 16 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+437 songs - 1 day 1 hr 19 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [CML](https://open.spotify.com/track/2m1tkeyx6dqZ7GOa5nIrJk) | [Mai Ngô](https://open.spotify.com/artist/3XIEdFeFLXEt0dovJX3uYu) | [CML](https://open.spotify.com/album/2ctC4Nr9TjsUNZEQYJHN3j) | 3:04 | 2022-03-26 | 2022-03-31 |
 | [Cogaido](https://open.spotify.com/track/3rJHMjGXixxqvu3NSrf5dn) | [Minhtriet](https://open.spotify.com/artist/1Sa0tIuciBv3CPSIdtSNLB) | [Cogaido](https://open.spotify.com/album/2MuurUeX78jrfS7PnLEFh8) | 4:02 | 2022-01-06 | 2022-04-23 |
 | [Cold kid](https://open.spotify.com/track/1uv9uA1f4MTcS43dIbr3us) | [Bennn](https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS), [CapsCtrl](https://open.spotify.com/artist/7wN7vb40xrBRCvPEfeyNy5) | [Cold kid](https://open.spotify.com/album/6VNXXCiEuRA5AtMKseGu70) | 3:15 | 2022-02-23 | 2022-05-12 |
-| [Con Nhà Quê](https://open.spotify.com/track/4FxXY067gF2AdcVdyNUzTF) | [Pjnboys](https://open.spotify.com/artist/3tPhATqpWFeuaZEmPMKvu1), [Big T](https://open.spotify.com/artist/4BaDWU29SQK7VZdjUrmkbS) | [Con Nhà Quê](https://open.spotify.com/album/41jPwYbEBe96KXJKtJx1X5) | 3:49 | 2022-06-07 |  |
+| [Con Nhà Quê](https://open.spotify.com/track/4FxXY067gF2AdcVdyNUzTF) | [Pjnboys](https://open.spotify.com/artist/3tPhATqpWFeuaZEmPMKvu1), [Big T](https://open.spotify.com/artist/4BaDWU29SQK7VZdjUrmkbS) | [Con Nhà Quê](https://open.spotify.com/album/41jPwYbEBe96KXJKtJx1X5) | 3:49 | 2022-06-07 | 2022-07-08 |
 | [Con Say Theo Mot Doi](https://open.spotify.com/track/2Jh39oyOS4DRdBNIErwsTL) | [Hades](https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh), [Minh Trang](https://open.spotify.com/artist/0XMACkBYhq2KY5sv28eFzT) | [Con Say Theo Mot Doi](https://open.spotify.com/album/6b3BQ5oMqpT4OjQGdj8Gk2) | 2:44 | 2022-04-22 | 2022-05-10 |
 | [CRUSH ANH](https://open.spotify.com/track/486QsTMlCWKSANShGsQrCN) | [Ly Ating](https://open.spotify.com/artist/2Sdo3rc4Yln6JX5P23w8tK) | [CRUSH ANH](https://open.spotify.com/album/6g4e9moRnBmahjKS1N1LVm) | 2:09 | 2022-01-06 | 2022-01-15 |
 | [CtrlN](https://open.spotify.com/track/07yzf6FmXnot389GJL1P2N) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [CtrlN](https://open.spotify.com/album/16QqMSjPL2EqmulDNahT0O) | 3:17 | 2022-04-19 | 2022-05-25 |
@@ -202,6 +202,7 @@
 | [Lonely Night](https://open.spotify.com/track/6P0IT3pbsCTf1LEuFjLIiU) | [Fliedkid](https://open.spotify.com/artist/33YKg2hbB81DUKSdIaXTcR) | [Lonely Night](https://open.spotify.com/album/5h3n1GpLhtFfHBZYnSrwBF) | 2:48 | 2022-05-11 | 2022-06-04 |
 | [Lose You](https://open.spotify.com/track/5mACzX9W7gTOhX8ms3z43w) | [Phi Zi](https://open.spotify.com/artist/6ko1Rytv1xKlLZhMaKsrtV) | [Lose You](https://open.spotify.com/album/2Y9tbjD5eSD0ToV6jVMABc) | 3:34 | 2022-01-20 | 2022-03-18 |
 | [Loser](https://open.spotify.com/track/2Iaqq3XmyaR6PmUDVoISFy) | [Nhật Hoàng](https://open.spotify.com/artist/1owVn9TB2AwdiPqkaD29wX), [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm), [Hennessy](https://open.spotify.com/artist/7qFa5wU1h7319OpI33qnxc), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Loser](https://open.spotify.com/album/2b9n8QBMInabU5qDV0Hhdp) | 4:59 | 2022-05-21 |  |
+| [Loving Heart \(Trái Tim Yêu Thương\)](https://open.spotify.com/track/0ifCVz16ytCyMexaXXG39k) | [Thuý Vân](https://open.spotify.com/artist/2WeprvQAXKGZmEUTNV49gB) | [Loving Heart \(Trái Tim Yêu Thương\)](https://open.spotify.com/album/4q874sblvWWTMWZrCfSgxL) | 3:25 | 2022-07-07 |  |
 | [Lying to myself](https://open.spotify.com/track/4kyC7RSjMFeePlXQ5yZdiV) | [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV), [sy](https://open.spotify.com/artist/7eiLshFe5Gg4tik2JmwGNU) | [Lying to myself](https://open.spotify.com/album/7gU4sYYG8bsvCCusUZGt5N) | 2:56 | 2022-02-24 | 2022-07-01 |
 | [Là thờ ích thích là thờ ương thương](https://open.spotify.com/track/4WQRt4T3OJ7AghHSIJcP43) | [NaaiG](https://open.spotify.com/artist/65e379P1CmEi8cZABbLyaP) | [Là thờ ích thích là thờ ương thương](https://open.spotify.com/album/5Xgm9iy81Upe1zm5Hjto6R) | 3:23 | 2022-02-10 | 2022-02-19 |
 | [Làm Nó](https://open.spotify.com/track/7BK7gjVd06wY2IEC60py6a) | [Key V](https://open.spotify.com/artist/1k1nO8ue7WFIjT4hX1zuAF), [Koo](https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq), [Khoa Wzzzy](https://open.spotify.com/artist/7f3vs7IeQScnYHmehKrAuv) | [Làm Nó](https://open.spotify.com/album/4UEjQpX7Xv4cJCt7lgJisE) | 4:06 | 2022-06-16 | 2022-06-27 |

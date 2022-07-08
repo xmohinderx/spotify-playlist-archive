@@ -4,7 +4,7 @@
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Kool Jane x Idyl
 
-200 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/0Ug3iJ167AwJwwVFcWuJiv)
+203 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/0Ug3iJ167AwJwwVFcWuJiv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Kabuk](https://open.spotify.com/track/2ZPCzGhifU3FPtvpmffEav) | [Su Soley](https://open.spotify.com/artist/0dtUUdWmcV3TecbEICZ3A8) | [Kabuk](https://open.spotify.com/album/0TBUn2ikXwgE2YUuRVfULC) | 3:15 | 2022-05-31 | 2022-07-06 |
 | [Kal Deme](https://open.spotify.com/track/2T0SM71wiSzYfNNw7ybr63) | [Seran Bilgi](https://open.spotify.com/artist/0lPzpQeTJrWSbAjsmvrZar) | [Kal Deme](https://open.spotify.com/album/7caMX0bgALQ6UePscgNrVJ) | 3:21 | 2022-05-03 | 2022-06-01 |
 | [Kalbim](https://open.spotify.com/track/55PEhblVDzfepMTb7ykDNK) | [Seda Yüksel](https://open.spotify.com/artist/1U8qvxQpDvWcAVosrIYP7X) | [Kalbim](https://open.spotify.com/album/3hwOGO5bqOOo0gL6Q9gbY9) | 3:20 | 2022-05-03 | 2022-06-01 |
+| [Kalbim Otel Odası](https://open.spotify.com/track/1pyEp80WEXTYotwxFmb5wP) | [Lalfizu](https://open.spotify.com/artist/30QNnzgsYkMMoS34AlWGxE) | [Kalbim Otel Odası](https://open.spotify.com/album/4SPQVTP8iWAF2T6WVSoCW1) | 2:12 | 2022-07-05 |  |
 | [kanatlarım](https://open.spotify.com/track/5kYuBQoh1LRHojNp3yoLiz) | [Martino](https://open.spotify.com/artist/45snXmB203Ip6IDMg5B9BK) | [kanatlarım](https://open.spotify.com/album/6YjvAcxlnQtC587z3YbnWM) | 1:54 | 2022-05-31 | 2022-07-06 |
 | [Kartallar](https://open.spotify.com/track/4myT7ubD40ZT0BZQFC4QrL) | [Özge Ürer](https://open.spotify.com/artist/6mjeHIMr7MLnXYsrGAwLns) | [Urbanist](https://open.spotify.com/album/4LdeFAIdHCQ9Zujf6TeaCG) | 3:43 | 2022-05-31 | 2022-07-06 |
 | [Kayboldum](https://open.spotify.com/track/2gmtbymmDNf3PO9qGeFMWt) | [Mine Özgüle](https://open.spotify.com/artist/15QctPiHcedop0WX3zhRqR) | [Kayboldum](https://open.spotify.com/album/62hTJAiY1j6GavaXkbw8Pj) | 3:46 | 2022-05-03 | 2022-06-01 |
@@ -120,6 +121,7 @@
 | [Kurtar Beni](https://open.spotify.com/track/1oZ6w6YzxtaBah3ggwi2Hv) | [Billur Battal](https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu) | [Kurtar Beni](https://open.spotify.com/album/2jMbXrCDMP3kirzUVVHOAC) | 2:39 | 2022-05-03 | 2022-06-01 |
 | [Kuş Sürüsü](https://open.spotify.com/track/3YdCtPZXjOeydJkEltAoxc) | [Sera Savaş](https://open.spotify.com/artist/0ZJEJs5ckjTCpL7BpyAHAF) | [Kuş Sürüsü](https://open.spotify.com/album/4YOLQa2312GsDODPM6hoWq) | 4:17 | 2022-07-05 |  |
 | [Körkütük](https://open.spotify.com/track/1uMohHNqEbm8V83SggibCe) | [Ekin Beril](https://open.spotify.com/artist/1sJ90imre0sj4Kj4a8xyXp) | [Körkütük](https://open.spotify.com/album/08yIxDqlXzHOX6kKUhkgiE) | 3:04 | 2022-05-31 | 2022-07-06 |
+| [Küstüm Ne Demek](https://open.spotify.com/track/4nwCA8I4CnD4H4X2IEjR7E) | [Yeşim Salkım](https://open.spotify.com/artist/1EazdGiXrpHKzZTsuWK8zw) | [Küstüm Ne Demek](https://open.spotify.com/album/3nFPq9QYyUyetwIFRjm67c) | 3:54 | 2022-07-05 |  |
 | [Kırarım Bu Kalemi](https://open.spotify.com/track/7vGKoVwR9uhR3WNJJGXE4K) | [Seda Üren](https://open.spotify.com/artist/3NSgMEsEo8y8vtz3WtE22G) | [Kırarım Bu Kalemi](https://open.spotify.com/album/3C83nrWA2uC1JTgHGmpNUS) | 3:18 | 2022-05-31 | 2022-07-06 |
 | [Kırık Kalpler Mevsimi \- Akustik](https://open.spotify.com/track/57jeWb9Do5U9Q5TCP7W2pe) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Kırık Kalpler Mevsimi \- Akustik](https://open.spotify.com/album/4NWBy1sAVZ8PU8AWMAstht) | 2:07 | 2022-07-05 |  |
 | [Kıskıvrak](https://open.spotify.com/track/2Iiy6tJunjHK1ZZzOjHOwi) | [Selin Sümbültepe](https://open.spotify.com/artist/0KmKUL5Vh4hWu4y94z4L2l) | [Kıskıvrak](https://open.spotify.com/album/3ampEuikGJBb10HlXMJrdn) | 3:17 | 2022-07-05 |  |
@@ -189,6 +191,7 @@
 | [Yersiz Korkuların](https://open.spotify.com/track/4QaHZTVUW4cbgk7eNw3bBv) | [Bîdar](https://open.spotify.com/artist/7jOk8UWLjN0boLFk0q9RgT) | [Yersiz Korkuların](https://open.spotify.com/album/0hdS7ELgkGIrGi8ThV16x2) | 3:04 | 2022-07-05 |  |
 | [Yok, Olmaz!](https://open.spotify.com/track/6D8VI1pXzEZyfEtpZaszqj) | [Ezgi Aktan](https://open.spotify.com/artist/3YWG3RyJkflr9w9LZqK0j8) | [Yok, Olmaz!](https://open.spotify.com/album/6glq4Coohovtxlf0NoikSk) | 2:46 | 2022-05-03 | 2022-06-01 |
 | [Yokluğunda](https://open.spotify.com/track/6EJ2GpB6FgAKsIscVUrHix) | [Gülşah Kömür](https://open.spotify.com/artist/0rFRdFCCe5YQKYZ7Oew9Vi) | [Yokluğunda](https://open.spotify.com/album/2QdQUmCZHjIv2v7GlDdv3q) | 4:00 | 2022-05-03 | 2022-06-01 |
+| [Yük](https://open.spotify.com/track/4ODEGgsVoTFR8KX96GQrTC) | [Suzan Hacigarip](https://open.spotify.com/artist/70sxCmeoRmcpTdH4atqPDV) | [Yük](https://open.spotify.com/album/5gikkgCGU6DgnqZckjpmXD) | 3:24 | 2022-07-05 |  |
 | [Yüreğim Ellerinde](https://open.spotify.com/track/2Jqu87GbopSiPP3v9DR5j6) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [Paralel Evrende Dünya Tarihi](https://open.spotify.com/album/1ZbvCC3eho3J20iwjSaIBv) | 3:29 | 2022-05-03 | 2022-06-01 |
 | [Yüzleş](https://open.spotify.com/track/6424iv3eRgNPKASeIv6qBU) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Yüzleş](https://open.spotify.com/album/7yamlkwXwz36oBJuMufS9I) | 3:28 | 2022-05-31 | 2022-07-06 |
 | [Yüzleşme](https://open.spotify.com/track/61QfaYXqHXfqwzSE2l8KyH) | [Eda Atlas](https://open.spotify.com/artist/7evFI1HE86akQXdNhdWJVd) | [Yüzleşme](https://open.spotify.com/album/5iXrpc3uUDslNnM4BcvuEd) | 3:36 | 2022-05-03 | 2022-06-01 |

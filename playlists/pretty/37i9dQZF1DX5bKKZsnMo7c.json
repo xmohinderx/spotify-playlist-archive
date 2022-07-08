@@ -1,13 +1,29 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 120642,
+  "num_followers": 121747,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0NTYzNiwwMDAwMDA1OTAwMDAwMTgxYTVlNGFmNGMwMDAwMDE4MTI2MDVlZTdj",
+  "snapshot_id": "MTY1NzIyMzUwOCwwMDAwMDA1YzAwMDAwMTgxZGEzN2YzYmIwMDAwMDE4MTI2MDVlZTdj",
   "tracks": [
+    {
+      "added_at": "2022-07-07 19:49:47",
+      "album": {
+        "name": "Fuck The Supreme Court (Rant Song)",
+        "url": "https://open.spotify.com/album/462TZxbkxvWlvQrxHk8iAN"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 170774,
+      "name": "Fuck The Supreme Court (Rant Song)",
+      "url": "https://open.spotify.com/track/4V2cyPgdRKrK2MxMsk5m5U"
+    },
     {
       "added_at": "2022-06-07 00:40:43",
       "album": {
@@ -87,6 +103,22 @@
       "duration_ms": 329049,
       "name": "Boys Will Be Bugs",
       "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
+    },
+    {
+      "added_at": "2022-07-07 19:49:47",
+      "album": {
+        "name": "the first glass beach album",
+        "url": "https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "duration_ms": 138119,
+      "name": "cold weather",
+      "url": "https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B"
     },
     {
       "added_at": "2022-06-07 00:40:43",
@@ -613,6 +645,22 @@
       "url": "https://open.spotify.com/track/7hRgBIc6DHSAup9lH11VNZ"
     },
     {
+      "added_at": "2022-07-07 19:51:48",
+      "album": {
+        "name": "What Could Be Better",
+        "url": "https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c"
+      },
+      "artists": [
+        {
+          "name": "The Happy Fits",
+          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "She Wants Me (To Be Loved)",
+      "url": "https://open.spotify.com/track/0owmJNkGcGNq4hb6qt3ufd"
+    },
+    {
       "added_at": "2022-06-14 16:44:21",
       "album": {
         "name": "Blah Blah Blah",
@@ -711,26 +759,6 @@
       "duration_ms": 206500,
       "name": "2econd 2ight 2eer (that was fun, goodbye.)",
       "url": "https://open.spotify.com/track/4jd13hFvWAZKZpomQleZ8L"
-    },
-    {
-      "added_at": "2022-06-10 06:18:00",
-      "album": {
-        "name": "Fall In Love With A Girl (feat. Orla Gartland)",
-        "url": "https://open.spotify.com/album/4rhuxHJsNJdATS6PHxMvQ6"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 168974,
-      "name": "Fall In Love With A Girl (feat. Orla Gartland)",
-      "url": "https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ"
     },
     {
       "added_at": "2022-06-07 00:40:43",
@@ -1283,22 +1311,6 @@
       "duration_ms": 168582,
       "name": "Miss Rhode Island",
       "url": "https://open.spotify.com/track/3TuRAkB0OueGVYfUTbCaVN"
-    },
-    {
-      "added_at": "2022-06-24 05:22:00",
-      "album": {
-        "name": "Eco Anxiety (Emo Animosity)",
-        "url": "https://open.spotify.com/album/22V98xfVoC34f6ZWcVI8XN"
-      },
-      "artists": [
-        {
-          "name": "Oli Frost",
-          "url": "https://open.spotify.com/artist/5dFJdXPDdubN7e6RIC2MXP"
-        }
-      ],
-      "duration_ms": 157088,
-      "name": "Eco Anxiety (Emo Animosity)",
-      "url": "https://open.spotify.com/track/7G6tyJxqTuhZnLHtkRX1hE"
     },
     {
       "added_at": "2022-06-07 00:40:43",

@@ -1918,6 +1918,28 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/5CyvFcv9b2H2dRpQ3EzI2M"
+      },
+      "artists": [
+        {
+          "name": "Zack Merci",
+          "url": "https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI"
+        },
+        {
+          "name": "CRVN",
+          "url": "https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2wsH9mYlpO698u3NOsD6Xw"
+    },
+    {
+      "album": {
         "name": "Nobody Else",
         "url": "https://open.spotify.com/album/598fb20yfA52W2gQNoCUZK"
       },

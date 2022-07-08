@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-205 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+207 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,8 @@
 | [Follow the Sun \- JordanXL Remix](https://open.spotify.com/track/0Yw2oKRVSUtQfQbZGtarJU) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po), [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [Follow the Sun \(Remixes\) \- Single](https://open.spotify.com/album/67nMpCUL8SDP6CC6DPzVaz) | 3:29 | 2019-10-04 | 2022-02-12 |
 | [Fool 4 You](https://open.spotify.com/track/49dTuuSZfC6676ARFbkjQQ) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Fool 4 You](https://open.spotify.com/album/4wRiP3qKS7MPIctQJrnFgv) | 4:14 | 2019-10-04 | 2022-02-12 |
 | [Fool for You](https://open.spotify.com/track/4JbIkmFKu9Ed1bj9DyIEDw) | [mitty](https://open.spotify.com/artist/2vENpm7iHtOlvqe5kTPMYs) | [Fool for You](https://open.spotify.com/album/2QXQmLaOyMnWKWjCBwD8Br) | 1:45 | 2022-02-12 |  |
+| [Forest](https://open.spotify.com/track/6KeIMvw8uhRYLnacrkw1Ud) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Forest](https://open.spotify.com/album/22UFmpYk6dIxWHhWQX1zn2) | 3:01 | 2022-07-08 |  |
+| [Forever](https://open.spotify.com/track/7IeVeLOeFHtkHcFZ5Nz3L6) | [Zone+](https://open.spotify.com/artist/5TyGDxSguO86fVeA8LWQj1) | [Forever](https://open.spotify.com/album/3vFJp1M7f0AY8SLIXCXjyR) | 8:16 | 2022-07-08 |  |
 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 | 2022-02-11 |  |
 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 | 2022-02-11 |  |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2022-02-12 |  |
@@ -118,7 +120,7 @@
 | [Novice Juggler](https://open.spotify.com/track/4qll3wRtSGgLmpj7liqNEr) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Novice Juggler](https://open.spotify.com/album/4AQx07SKH6WpZqcLHWw6jb) | 3:11 | 2019-10-04 | 2022-02-12 |
 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 | 2022-06-03 |  |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2021-10-12 | 2022-02-12 |
-| [Ocean of Love](https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Ocean of Love](https://open.spotify.com/album/73VsNWe5VmFl4ePU7NY4AF) | 4:11 | 2022-02-12 |  |
+| [Ocean of Love](https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Ocean of Love](https://open.spotify.com/album/73VsNWe5VmFl4ePU7NY4AF) | 4:11 | 2022-02-12 | 2022-07-08 |
 | [Odi](https://open.spotify.com/track/0Bh4wJur10tNxheiWrl0yp) | [Xack](https://open.spotify.com/artist/3Tg2AlVypH64iuYosDtyHj) | [Odi / What Now?](https://open.spotify.com/album/6UensQ152s1PV4sbuFgEjY) | 3:10 | 2022-02-11 |  |
 | [On Circus](https://open.spotify.com/track/7cU1homsrSeiL3D5FMyMNj) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Your Vibe](https://open.spotify.com/album/56f5UXJTtHKYcaXx9TO3KG) | 2:03 | 2019-10-04 | 2022-02-12 |
 | [On Repeat](https://open.spotify.com/track/3fY4AgYbIUJZvz7hl0326O) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [On Repeat](https://open.spotify.com/album/14CoxikyUkUvWAp9itXBjS) | 2:30 | 2021-10-12 | 2022-02-12 |
@@ -168,7 +170,7 @@
 | [Take Off](https://open.spotify.com/track/5oHL7Dl37tMi0YK2qATM5C) | [Ikson](https://open.spotify.com/artist/0oaw4MsauBh5lIEBWqhi1r) | [Take Off](https://open.spotify.com/album/0RqZgPvRa2OE0KwgT1ad8e) | 2:39 | 2019-10-04 | 2022-02-12 |
 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 | 2022-02-11 |  |
 | [The Heavens](https://open.spotify.com/track/2BQPwEDYM8KLUaKncKQiZA) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [The Heavens](https://open.spotify.com/album/4SfOQIO0DjTwSYAzMGlyC1) | 3:36 | 2022-02-12 |  |
-| [They Do Exist](https://open.spotify.com/track/656iCGkgKBbDxvFs5EfzGK) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [They Do Exist](https://open.spotify.com/album/48I1k8R1X9Psk5XTrVDT2u) | 4:49 | 2022-02-12 |  |
+| [They Do Exist](https://open.spotify.com/track/656iCGkgKBbDxvFs5EfzGK) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [They Do Exist](https://open.spotify.com/album/48I1k8R1X9Psk5XTrVDT2u) | 4:49 | 2022-02-12 | 2022-07-08 |
 | [Think It Through](https://open.spotify.com/track/5dQStS5S139vgcybY6gUJL) | [Billy Mccray](https://open.spotify.com/artist/2EqQ9FPklGoK7YmlJQ1qA4) | [Think It Through](https://open.spotify.com/album/5kqO9S5yFkV9x3FiqGFPA2) | 2:28 | 2022-03-25 |  |
 | [This Life \- Y.V.E\. 48 Remix](https://open.spotify.com/track/1tfVM4uwraShkT3vPClGcq) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [This Life \(Y.V.E\. 48 Remix\)](https://open.spotify.com/album/2togNluo2gMQRkkWOOnum2) | 2:29 | 2022-02-11 |  |
 | [Through the fields](https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Through the fields](https://open.spotify.com/album/4msZok2Vb2B7SG7etPBv2T) | 2:56 | 2021-10-26 | 2022-02-12 |
@@ -196,7 +198,7 @@
 | [Voices In My Head](https://open.spotify.com/track/5qcuzoVn3eqQiDPIcSqo6g) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [Voices In My Head](https://open.spotify.com/album/6j2sv5DzZKnZxOgIZgalrY) | 2:20 | 2021-10-12 | 2022-02-12 |
 | [Voyager](https://open.spotify.com/track/0msUZN9MVtQfT0Mjq02u4o) | [Mayden Blue](https://open.spotify.com/artist/75UHJrQHVWVIi1fM8TlRpf) | [Voyager](https://open.spotify.com/album/5AzdlqZP2nq2ugxzsuu26D) | 3:44 | 2021-07-20 | 2022-02-12 |
 | [Wanderer \- Chill Mix](https://open.spotify.com/track/1QoZXDJVp516a9QCNvnmZL) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Wanderer](https://open.spotify.com/album/1dX5KiQVkYcayFZFFSbq82) | 2:21 | 2022-02-11 |  |
-| [Weekend](https://open.spotify.com/track/4gO2vV1kosaVP06CYnkQN6) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x), [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Weekend](https://open.spotify.com/album/2vNXWpcWiD8BWpb3AOKY0A) | 1:52 | 2022-02-11 |  |
+| [Weekend](https://open.spotify.com/track/4gO2vV1kosaVP06CYnkQN6) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x), [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Weekend](https://open.spotify.com/album/2vNXWpcWiD8BWpb3AOKY0A) | 1:52 | 2022-02-11 | 2022-07-08 |
 | [Where the sand is](https://open.spotify.com/track/3VffpZvEnQsxLZ1ZgNb4Rn) | [Nino The Dino](https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi) | [Sunset Paradise](https://open.spotify.com/album/5JzMUwp6FKlJPfgrS2eE6T) | 3:03 | 2022-06-24 |  |
 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 | 2021-10-12 | 2022-02-12 |
 | [Wish We Had History](https://open.spotify.com/track/32rW37r60HLUJj8qlleba7) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Wish We Had History](https://open.spotify.com/album/0bH31JVkxjZKgTeXCCNPsK) | 3:40 | 2019-10-04 | 2022-02-12 |

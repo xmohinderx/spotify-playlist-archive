@@ -1924,6 +1924,24 @@
     },
     {
       "album": {
+        "name": "Graveyard Love",
+        "url": "https://open.spotify.com/album/02vvZsSjHWwJ6FDOTNb6NN"
+      },
+      "artists": [
+        {
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194022,
+      "name": "Graveyard Love",
+      "url": "https://open.spotify.com/track/6CxSCda7mkSetFnBpFpZ8f"
+    },
+    {
+      "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/3Edg3KMG3X3IqQUvO2tQEl"
       },

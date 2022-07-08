@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ](https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4)
 
-> Éxitos del Trap Latino\. Foto: Bad Bunny.
+> Éxitos del Trap Latino\. Foto: Tiago PZK.
 
-213 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
+214 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Brillo De Más](https://open.spotify.com/track/1I8sOduAGo1LSZbfn8XYyS) | [Lao](https://open.spotify.com/artist/2zDEnKW6qy7E4M9A2c2YAZ), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Brillo De Más](https://open.spotify.com/album/1AFexsSshLU0jyHrRHyfTi) | 2:28 | 2022-01-21 | 2022-02-26 |
 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 | 2021-12-06 |  |
 | [Carrera](https://open.spotify.com/track/5TbutTu80CvVOgilfbZu6x) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [Carrera](https://open.spotify.com/album/0aPquprrKLJiXfXRKdBBuJ) | 2:52 | 2022-04-22 | 2022-06-04 |
+| [Casa De Chapa](https://open.spotify.com/track/6cF2qsUsTxrgR3g9YGHT2u) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Casa De Chapa](https://open.spotify.com/album/5G6Lqh2CLIshQDsZ8RN9kD) | 2:33 | 2022-07-07 |  |
 | [Cascada](https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:12 | 2021-12-06 | 2022-05-28 |
 | [Celebrando](https://open.spotify.com/track/28l5P6yBrjBMAvgFm1uiQ4) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Celebrando](https://open.spotify.com/album/3vM9T5faPuqqEbZJ0wYPN3) | 3:27 | 2021-12-06 |  |
 | [Chambea](https://open.spotify.com/track/6ElmxV9B2mSNscEjP27M7i) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Chambea](https://open.spotify.com/album/1M3WE183lRAy3NY3JDOsts) | 3:11 | 2022-06-03 |  |
@@ -153,7 +154,7 @@
 | [No Me Importa un Carajo](https://open.spotify.com/track/1OGhv7OFVVIKsbVD3g4MAR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:10 | 2021-12-06 | 2022-06-04 |
 | [No Soy Yo](https://open.spotify.com/track/64z5CqcwEqEqncSZ1iILQ4) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [No Soy Yo](https://open.spotify.com/album/4kJ0ZhiZJBEcQgULwrKpO8) | 2:56 | 2022-06-03 |  |
 | [No Voy a Morir Pobre](https://open.spotify.com/track/4Z5H6v9XrUqZBfMcCRoqjR) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Young Laroye](https://open.spotify.com/artist/0uQHkE5xfRwR5bv46LLRfD), [Dilinyer Guarakid](https://open.spotify.com/artist/7881DbYY5CtdmBnYdcuyQj), [King Roker](https://open.spotify.com/artist/0X5zjGGhU94vdSACDCTKH4) | [The World Is Mine](https://open.spotify.com/album/2nAm320RkWc5fJNaX4OWsK) | 5:14 | 2021-12-06 | 2022-04-16 |
-| [Nois faz a moda](https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Nois faz a moda](https://open.spotify.com/album/35PHjpGIk3ICMNWOJ1GcXv) | 3:03 | 2022-06-17 |  |
+| [Nois faz a moda](https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Nois faz a moda](https://open.spotify.com/album/35PHjpGIk3ICMNWOJ1GcXv) | 3:03 | 2022-06-17 | 2022-07-08 |
 | [Nos Da Igual](https://open.spotify.com/track/3dyQfqPEASyhbdCnIteJQY) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb) | [Nos Da Igual](https://open.spotify.com/album/3RQzEGZ1F64jVRUA2MTncJ) | 2:51 | 2022-05-23 | 2022-06-04 |
 | [Nos Matamos](https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Nos Matamos](https://open.spotify.com/album/38rKm1PY26o3u2Q7GXDJLV) | 4:30 | 2021-12-06 |  |
 | [NÚMEROS](https://open.spotify.com/track/2v0qoaeWzW1vQbUiwdWW9x) | [MOL](https://open.spotify.com/artist/0kcjwgqgT7QdNONFwVgQQX), [Dolce](https://open.spotify.com/artist/2Xld1YLHzyTDYoiuUhGeeV) | [NÚMEROS](https://open.spotify.com/album/5gceZL4lch362WfH1sYsMR) | 2:25 | 2022-03-11 | 2022-06-04 |

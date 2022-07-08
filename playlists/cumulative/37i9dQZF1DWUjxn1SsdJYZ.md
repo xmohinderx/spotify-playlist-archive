@@ -2,9 +2,9 @@
 
 ### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
-> The best Hip Hop coming out of Australia\. Cover: Lawd Lance
+> The best Hip Hop coming out of Australia\. Cover: Yaz
 
-183 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+184 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [SEE NO EVIL](https://open.spotify.com/track/4Kttz3UZLMG8CUexnT6KIk) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [SEE NO EVIL](https://open.spotify.com/album/7hBUo4m5ZlZ9cJYD5M6kbf) | 3:18 | 2022-05-05 |  |
 | [SEE RED](https://open.spotify.com/track/1tNUzxdUz3cnEdQRZNGIQA) | [Perry P](https://open.spotify.com/artist/1hGnXrS3sPLcOmjJ8TtkIQ), [Trapbaby](https://open.spotify.com/artist/1JCrZj9bavyeiHTYDDGHjX), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [SEE RED](https://open.spotify.com/album/42xabLFQ3lQ4HGhxUSDwcB) | 3:12 | 2022-06-02 |  |
 | [Shelly](https://open.spotify.com/track/1BN1dmG0qmEDUcGJHhUiRH) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [Shelly](https://open.spotify.com/album/3QZBubJYumSQsFMuvnlFm9) | 2:29 | 2022-03-21 | 2022-06-10 |
+| [Shoodaz](https://open.spotify.com/track/0WOZWB20pRxCBjJ4k8r241) | [Jed McIntosh](https://open.spotify.com/artist/1a4vMYkp9BT9dQu2uABNUv), [SOS](https://open.spotify.com/artist/7CW9JX09AjjVRwcYY6RHcG) | [Shoodaz](https://open.spotify.com/album/7M5fm7vaTmgmT2PEz5y7xV) | 2:32 | 2022-07-07 |  |
 | [Since When](https://open.spotify.com/track/5Wk5ETWckKEeWFU5zy6G6q) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [Lawd Lance](https://open.spotify.com/artist/5QomExSHXEoFZllmjeaQBM), [JR](https://open.spotify.com/artist/3XH9HjOmomIwvkGpYRKIGl) | [Since When](https://open.spotify.com/album/55md5f23yj7QaWnI3NJEfp) | 2:47 | 2022-03-21 |  |
 | [SLIPPIN](https://open.spotify.com/track/44MmMErXGh8EwcS9mjxtZi) | [LooneyCK](https://open.spotify.com/artist/18SXzTTuGk379MsnkTN2ks), [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [UNEEK.](https://open.spotify.com/artist/698B1NbgD1hmSuL2KvjLTz) | [SLIPPIN](https://open.spotify.com/album/0qMn6sRTvNXLk4IhtQ0Q0O) | 4:20 | 2022-06-23 |  |
 | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/track/6mdexAmqt5bv08E3gem5ON) | [Colcci](https://open.spotify.com/artist/2lJOX4tJ4zpcLgZTNmHhTG), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/album/0b87eEoV2PjgmVCQRmRdXJ) | 2:59 | 2022-05-19 |  |

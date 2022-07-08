@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-66 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/5sKVVJySgFONogn0anMM3a)
+67 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/5sKVVJySgFONogn0anMM3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Something There](https://open.spotify.com/track/77JhqIuQjqzVmkRTUcm9ji) | [Emma Watson](https://open.spotify.com/artist/4N3cNXg5phUzRzuJYYxQlV), [Dan Stevens](https://open.spotify.com/artist/5lLVsxABqSuosfqAoLQeXV), [Ewan McGregor](https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1), [Ian McKellen](https://open.spotify.com/artist/4poDCMNdZuW1XNK5deqmSj), [Emma Thompson](https://open.spotify.com/artist/4tB1f1h4TQqDz4bNaibMpl), [Nathan Mack](https://open.spotify.com/artist/13tHisUuVf3mbhjTH5UJ8t), [Gugu Mbatha\-Raw](https://open.spotify.com/artist/0ZrekatCWFPF9GPKApg9EA) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 2:54 | 2022-03-16 |  |
 | [Something There](https://open.spotify.com/track/6M4hBkdml7QIB502hzBCK8) | [Robby Benson](https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP), [Jerry Orbach](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO), [Paige O'Hara](https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM), [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [David Ogden Stiers](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP) | [Beauty And The Beast \(Soundtrack\)](https://open.spotify.com/album/6Hzv2X1vxzbyGUv5gmaYOS) | 2:18 | 2022-03-16 |  |
 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 | 2022-03-16 |  |
+| [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/2mHszKdcP0V2DPrv3w1f8P) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/2ObuQ2rZlx0uJbFMSp6f7M) | 2:40 | 2022-07-07 |  |
 | [The Place Where Lost Things Go](https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC) | [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 3:43 | 2022-03-16 |  |
 | [Three Hearts \(End Title\)](https://open.spotify.com/track/2bzpFslWmm883WrCcBIKqU) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 1:36 | 2022-03-16 |  |
 | [True Love's Kiss \- From "Enchanted"/ Soundtrack Version](https://open.spotify.com/track/0enYe3J97eUBaxSbZvYNsQ) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX), [James Marsden](https://open.spotify.com/artist/4PMcxAosgYzNpvMCq04K7u) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:12 | 2022-03-16 |  |

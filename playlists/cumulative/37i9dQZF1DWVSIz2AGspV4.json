@@ -1948,6 +1948,24 @@
     },
     {
       "album": {
+        "name": "Mno Enta",
+        "url": "https://open.spotify.com/album/0ICKOpQg0VdEDQnZSHA07c"
+      },
+      "artists": [
+        {
+          "name": "Bassam Mahdi",
+          "url": "https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249253,
+      "name": "Mno Enta",
+      "url": "https://open.spotify.com/track/2GBYI4P8SvdjcEfUELPzpd"
+    },
+    {
+      "album": {
         "name": "Mo Wafi (\u0645\u0648 \u0648\u0641\u064a)",
         "url": "https://open.spotify.com/album/2LJBbAAvWPt4ai0H2Cuf9r"
       },

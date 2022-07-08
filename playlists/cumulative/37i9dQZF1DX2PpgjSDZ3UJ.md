@@ -4,7 +4,7 @@
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-89 songs - 5 hr 22 min - not published yet
+89 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/2eQNmuCUeDCgnCnBRYeHXL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

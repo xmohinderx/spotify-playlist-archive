@@ -4,7 +4,7 @@
 
 > canzoni da gridare ed è iniziata anche questa summersad ❤️‍🩹🌦
 
-176 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+180 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Guarderai la luna](https://open.spotify.com/track/7plsuK7H3jQD2eoLOmf7Ws) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [Guarderai la luna](https://open.spotify.com/album/4S1tJnDu1QWd2nGh95WzZo) | 2:55 | 2022-05-06 | 2022-06-03 |
 | [HAPPY MEAL](https://open.spotify.com/track/2aHsQiY6ePHsArewvOhgeC) | [VERSAILLES](https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [\-PATICO](https://open.spotify.com/album/5qFmUkWUyxRR8vYXhWArSn) | 2:59 | 2022-05-12 | 2022-06-03 |
 | [Ho perso](https://open.spotify.com/track/4MOb6heVFRG7fwUwQZfLQl) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Ho perso](https://open.spotify.com/album/27vYcHvUYPaT1zEcBQXjQR) | 2:39 | 2022-05-06 | 2022-06-03 |
+| [Ho Smesso](https://open.spotify.com/track/5X4ZF5EN7rbZpNnn7Ovc8B) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Ho Smesso](https://open.spotify.com/album/6WCNWyTxAISoH3fiVg4OWk) | 3:00 | 2022-07-07 |  |
 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 | 2022-05-06 |  |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-05-06 |  |
 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-05-06 | 2022-06-03 |
@@ -91,6 +92,7 @@
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2022-06-27 |  |
 | [Live Fast Die Numb](https://open.spotify.com/track/10omO03JNpJwhjo538gdNc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Live Fast Die Numb](https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH) | 2:14 | 2022-06-09 | 2022-07-01 |
 | [Locked Out](https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Locked Out](https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA) | 2:56 | 2022-05-19 | 2022-06-17 |
+| [Lola](https://open.spotify.com/track/7CwPk4p8ZNbI4oH3cakwUl) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [Lola](https://open.spotify.com/album/22dJpy36yuKnUkXXCxC0pC) | 2:51 | 2022-07-07 |  |
 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-06 | 2022-05-14 |
 | [Luci](https://open.spotify.com/track/1FxHnw0caKYveCSa2IDBai) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws), [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Luci](https://open.spotify.com/album/4w4QMDRhDYHDVD8lYfBhd5) | 2:45 | 2022-05-26 |  |
 | [Ma non erano te](https://open.spotify.com/track/0B1LI7BXzvtxDVdpyxCWKb) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Ma non erano te](https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM) | 2:33 | 2022-05-06 |  |
@@ -111,6 +113,7 @@
 | [Non dovevo farlo](https://open.spotify.com/track/3ODSL16OKr7HLeNxYhw0K5) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Non dovevo farlo](https://open.spotify.com/album/3ZUtORdZq7mJFcz79IVk8K) | 2:42 | 2022-06-09 |  |
 | [Non fa per me](https://open.spotify.com/track/3O66zFEQF2LLmDqt8vFd7V) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Non fa per me](https://open.spotify.com/album/34W0ANfNz551RHuo1m3CcU) | 2:53 | 2022-05-06 | 2022-06-10 |
 | [Non fa x me](https://open.spotify.com/track/1YCED21RSrmC6dSdY6oa5D) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [Non fa x me](https://open.spotify.com/album/1iQnCUr1teJNKZmVGH2iKm) | 2:21 | 2022-05-26 | 2022-06-28 |
+| [non mi BASTA](https://open.spotify.com/track/0HvbJLT8li56TnvC1zYwit) | [Aspettativa](https://open.spotify.com/artist/0FBFBr8Z7ZaTk8X7jevnRk) | [non mi BASTA](https://open.spotify.com/album/6VlqwSVCdMW2Q1tA5hEG6d) | 2:53 | 2022-07-07 |  |
 | [Non mi fa più effetto](https://open.spotify.com/track/6pThYLxwNWJqHwxDLaBoWw) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7) | [Non mi fa più effetto](https://open.spotify.com/album/76CYB1ZDOUawBhqQxlatiZ) | 3:04 | 2022-06-23 |  |
 | [Non voglio guai](https://open.spotify.com/track/2quAWiyJVoeV3Ots9gg2WZ) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Non voglio guai](https://open.spotify.com/album/3YX01kpzAqvgq2Qw8NFBXW) | 2:24 | 2022-05-06 |  |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2022-06-28 |  |
@@ -167,6 +170,7 @@
 | [Te tra le cose](https://open.spotify.com/track/0m22YZOycFxIQ3iXHGrqJT) | [WENDY’S PARADE](https://open.spotify.com/artist/4rUdPudp1ZaBhsb5104EEN) | [Te tra le cose](https://open.spotify.com/album/2nFJk9xN0zbMhUzUmS9pJt) | 2:37 | 2022-06-23 | 2022-07-01 |
 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 | 2022-06-16 | 2022-06-28 |
 | [thot](https://open.spotify.com/track/13i8SRJERvFkyd3IDnYvnG) | [demoncandy](https://open.spotify.com/artist/68SYpEb4cmSAjA4k3B8npz) | [thot](https://open.spotify.com/album/34BqkpE71mtHnSE0AkaGO5) | 2:59 | 2022-06-27 |  |
+| [ti dirò](https://open.spotify.com/track/5vlA0S3wArEk2g3rusAjAB) | [mich<3](https://open.spotify.com/artist/60TrKa4pL7M9VGcFqa1n9F) | [ti dirò](https://open.spotify.com/album/3gshscBfAVlzXIbrjiWe95) | 2:45 | 2022-07-07 |  |
 | [TIRA E MOLLA](https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 2:48 | 2022-05-06 | 2022-06-03 |
 | [TUTTE LE SERE \(feat\. ARIETE\)](https://open.spotify.com/track/4sJ4ZAKEuMe2qtvOtN7UcB) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:05 | 2022-05-06 |  |
 | [Twin Peaks](https://open.spotify.com/track/4PgwFeTesVd21JzEDDgOkz) | [NIO](https://open.spotify.com/artist/6ezfB5USiV0QJLp9tHxbjU), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Twin Peaks](https://open.spotify.com/album/4vAE9JsaZRb68Pba6NrIoV) | 2:10 | 2022-05-06 | 2022-06-17 |

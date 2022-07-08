@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6K3FYQWAQcANDZjQgcxaCM"
+      },
+      "artists": [
+        {
+          "name": "Penga Scain",
+          "url": "https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274543,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/6wHt80ii2pZjjffzLfM1mg"
+    },
+    {
+      "album": {
         "name": "Balearic Dream",
         "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
       },
@@ -912,6 +930,24 @@
     },
     {
       "album": {
+        "name": "Zanzibar",
+        "url": "https://open.spotify.com/album/0HFKcAkd2zQDxi7or6ENLh"
+      },
+      "artists": [
+        {
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173453,
+      "name": "Femme",
+      "url": "https://open.spotify.com/track/1ox6W1kkA1C6okKgpQK5e9"
+    },
+    {
+      "album": {
         "name": "Flawless",
         "url": "https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs"
       },
@@ -1229,7 +1265,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 152903,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h"
@@ -1985,7 +2021,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 356000,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4TbcZUOwyywPPC1gbpnLqW"
@@ -2309,7 +2345,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 175758,
       "name": "Sidebar Sally",
       "url": "https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK"
@@ -2525,7 +2561,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 241043,
       "name": "Sun Glitches",
       "url": "https://open.spotify.com/track/4J9HHafhgC42Dm18pJUIQo"
@@ -2831,7 +2867,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 255135,
       "name": "When We Were Suns",
       "url": "https://open.spotify.com/track/51LgENjsl5N0jRYYBSOT0R"

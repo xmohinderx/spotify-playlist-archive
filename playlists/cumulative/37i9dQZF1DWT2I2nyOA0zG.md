@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-101 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+102 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 | 2022-01-20 |  |
 | [Anybody](https://open.spotify.com/track/4cyUTdVRJNxjcI9W4TezDW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Anybody](https://open.spotify.com/album/5DPMC3g3iWqpWFzg7NoIG4) | 3:09 | 2021-10-11 |  |
 | [Bad Influence](https://open.spotify.com/track/2RaHreAi8lXvQOM0prMvXT) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/7udDaiv9Mgh1LrHvObls1I) | 2:18 | 2021-10-11 |  |
-| [Bad News](https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41) | [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Bad News](https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx) | 3:12 | 2022-02-18 |  |
+| [Bad News](https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41) | [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Bad News](https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx) | 3:12 | 2022-02-18 | 2022-07-08 |
 | [Balance](https://open.spotify.com/track/3Kt5hNbXHXF4i9Uv2lE9t3) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Balance](https://open.spotify.com/album/3dF8lDBMv9ozOybtRhQZ1n) | 4:05 | 2021-12-09 |  |
 | [Bank On It](https://open.spotify.com/track/59r8MRjv8K2rx8W3jQ5HW2) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 4:36 | 2021-10-11 |  |
 | [Be a Man](https://open.spotify.com/track/4LFL0eNYe5cRNy87Cn6PCl) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Klem](https://open.spotify.com/artist/2aImsy0HLKw0cbiyCDJX3t) | [Man](https://open.spotify.com/album/2jYuXSwfh6qdqhrcRrplbO) | 3:16 | 2022-01-14 | 2022-03-11 |
@@ -38,6 +38,7 @@
 | [FYN](https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FYN](https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH) | 3:27 | 2022-03-16 |  |
 | [Gbona](https://open.spotify.com/track/2Q20eWqSnV519ybPThUDWs) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Gbona](https://open.spotify.com/album/3OJY4Z5s479HvoAlwAOQRn) | 3:07 | 2021-10-11 | 2022-02-25 |
 | [Gidi](https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Gidi](https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt) | 2:47 | 2022-02-24 |  |
+| [Glory \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/0z8uQ7o34HDoRU02Cz26d1) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:51 | 2022-07-07 |  |
 | [Good Friends](https://open.spotify.com/track/2VWHk5P5qr9Yk9u81FzgRY) | [Jus](https://open.spotify.com/artist/2WKwwGJ7L0RN5xNV3ljhkq), [Jabali Afrika](https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC), [Samaki Mkuu](https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou), [Steve Gatitu](https://open.spotify.com/artist/7phrFWqQM63ViskGKrBuJY) | [Good Friends](https://open.spotify.com/album/3hBry3ZRsfpL3v8eQ7KYPx) | 3:45 | 2022-03-31 | 2022-06-10 |
 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 | 2021-10-11 |  |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-02-24 |  |

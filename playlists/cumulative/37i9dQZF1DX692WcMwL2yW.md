@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-266 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+271 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Astro Beat](https://open.spotify.com/track/4U6d6txn9S3BV6MrFefQuI) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Astro Beat](https://open.spotify.com/album/2NY3CbNis1x7g34As1kKqc) | 3:41 | 2021-07-09 | 2021-08-26 |
 | [Ataraxis](https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ascension](https://open.spotify.com/album/0G43axY2mZJzvnM7gHI0yq) | 3:16 | 2021-07-09 |  |
 | [B.O.H](https://open.spotify.com/track/59Rk6nuKbwujYHiHQhOkV9) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Ayo](https://open.spotify.com/album/3JbCidRahlQ5zLvYN2lVe4) | 4:09 | 2022-04-22 |  |
+| [Back the Line](https://open.spotify.com/track/6VmLAZAbbDoqPAm8OHFbPs) | [IZY REALLY](https://open.spotify.com/artist/2QpnXxnib6tVD5Vy4Hlvar) | [Power](https://open.spotify.com/album/0ygj6ZCtEMvOHL2835FW3k) | 2:54 | 2022-07-08 |  |
 | [Basquè](https://open.spotify.com/track/6zhvPJuZKVjzv4fQelqvo0) | [Gold Birds](https://open.spotify.com/artist/5MisRKjFSK7o3bab0rojcs) | [Afterglow](https://open.spotify.com/album/0Q4O3GicWbNcxOQakY5Glc) | 3:43 | 2021-07-09 |  |
 | [Big Bounce](https://open.spotify.com/track/46J9LlrB4irAkEMPfEKPeY) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Move Ya Body](https://open.spotify.com/album/61L9RCKpU8NJkrqidv3Fj9) | 2:46 | 2021-06-04 |  |
 | [Blackstar](https://open.spotify.com/track/6djXsgxuBxkhZ304F6f9m6) | [Zoot Lix](https://open.spotify.com/artist/1hLSwZoc1fc7nbd87G36La) | [Blackstar](https://open.spotify.com/album/77nkWEQ9KlbYGdsAx0TGng) | 3:17 | 2021-07-09 | 2022-05-14 |
@@ -46,6 +47,7 @@
 | [Clarity](https://open.spotify.com/track/1dybFHd0ge6XP8Yjy8ub22) | [Litu Ritu](https://open.spotify.com/artist/3PSahIv0mhBptzduLsuEJU) | [Hyperloop](https://open.spotify.com/album/6TlRciT120PQPOxplEQB9y) | 4:19 | 2021-11-10 |  |
 | [Clevelig](https://open.spotify.com/track/115cPJoVFoqJzCnLGaqkXO) | [Doctors Who Smoke](https://open.spotify.com/artist/2W8i2J8TaTQ0hdZjC4Tw8X) | [Homework](https://open.spotify.com/album/3zYk94oHA1pju1A3VHfDiB) | 3:28 | 2021-04-26\* | 2022-05-27 |
 | [Close Call](https://open.spotify.com/track/5a7qqDK0TArhQulbAXlYHV) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Close Call](https://open.spotify.com/album/7Id0c14GxNXDkz38Io070t) | 2:41 | 2021-04-26\* | 2022-05-14 |
+| [clouds](https://open.spotify.com/track/7HW3irYBGOzjXBlLDPuhS2) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [clouds](https://open.spotify.com/album/1hIPzokzzAqTO7uao4S3CH) | 2:34 | 2022-07-08 |  |
 | [Cognac Carousel](https://open.spotify.com/track/1kMW4G825Ch7Ba6kps51Wp) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [A Year Down](https://open.spotify.com/album/2XkYfq0Sq0kOrGUCuMZS0g) | 1:59 | 2021-04-26\* | 2021-06-18 |
 | [Come Over](https://open.spotify.com/track/02SZNC6HRyEuFSWwvDHvGr) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/64RIVMQaMTlWzDpAymXzFa) | 4:00 | 2022-04-22 |  |
 | [comfort](https://open.spotify.com/track/4E7cWFhbicXsOLpPTVyrvc) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [comfort](https://open.spotify.com/album/3pR0S6P46htwQIpRtbvkaT) | 2:58 | 2022-05-13 |  |
@@ -78,6 +80,7 @@
 | [Escape](https://open.spotify.com/track/7loBMJPuSrISlENdY3nuVR) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [Escape](https://open.spotify.com/album/32du4LBKI5WrU6VImj5kIB) | 3:42 | 2021-04-26\* |  |
 | [Espionage](https://open.spotify.com/track/1mFmFZRC6mMSeMioZ5MfRh) | [Inteus](https://open.spotify.com/artist/19NNBW45HcAOPkYzJMeMNN) | [Espionage](https://open.spotify.com/album/6D7XC9r5x45DXCUDfjS0m1) | 5:29 | 2022-04-08 |  |
 | [Eternal Lounge](https://open.spotify.com/track/4KPaY49SIzHQSE7y9J3typ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Even When It Hurts](https://open.spotify.com/album/60WED4aWktTTkbqw36QGa3) | 2:53 | 2021-08-26 |  |
+| [everlasting](https://open.spotify.com/track/45te5r880nl86sqoPIfB2X) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [everlasting](https://open.spotify.com/album/6doZlIgO3A1TgWGJVq55Z6) | 2:32 | 2022-07-08 |  |
 | [Everlasting Energy](https://open.spotify.com/track/5CFgDie02AjtB8Kf0fX8PN) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Virtue](https://open.spotify.com/album/5nOfl1TFoybsvjAFi5Ip69) | 2:44 | 2021-08-26 |  |
 | [Extra](https://open.spotify.com/track/1m5OGKLquB59mNASxCsvkF) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Extra](https://open.spotify.com/album/7LH0JuhJc2ZT0Qbi9vcmsf) | 2:19 | 2021-04-26\* |  |
 | [Face Shot](https://open.spotify.com/track/4MVhRwIat6P6WrTxbnLFbZ) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Face Shot](https://open.spotify.com/album/5GU1xNaOnJlkFM5IkoSKai) | 1:49 | 2021-09-10 |  |
@@ -154,6 +157,7 @@
 | [Mesopotamia](https://open.spotify.com/track/1AQzhq2Bj2s4spmrn0UnpY) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [Mesopotamia](https://open.spotify.com/album/7HAi2VEkiPyPhSCgRt5gDf) | 2:14 | 2021-11-10 | 2022-03-05 |
 | [Meta](https://open.spotify.com/track/0sZ9fmHC8sn257DvXmi1f2) | [Backyard Ballet](https://open.spotify.com/artist/0avNlMblKvYPEmla2XWTPz) | [Meta](https://open.spotify.com/album/7b8EYqxUP2blm6c0mJ0cXK) | 4:00 | 2021-07-09 |  |
 | [Midnight Inn](https://open.spotify.com/track/2Xih3Id83Y3AoODWCre31i) | [Homebody](https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY) | [Inn](https://open.spotify.com/album/5JsbGfOiAE4pg3qfFQBRwC) | 2:35 | 2021-04-26\* | 2021-04-28 |
+| [Million Theory](https://open.spotify.com/track/2LT5bLnR50ekqDNe1rFMLf) | [Gerythi](https://open.spotify.com/artist/2aYOcyFanTQngUQ2oq7CJh) | [Million Theory](https://open.spotify.com/album/699Qh3cVz0aovmoe2F95X1) | 1:46 | 2022-07-08 |  |
 | [Monday 7AM](https://open.spotify.com/track/53medhlG5jux2pCprP02h2) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Up & Down](https://open.spotify.com/album/15tBEZCHqURPIvdglYShoD) | 3:14 | 2021-06-04 | 2021-08-26 |
 | [Mono](https://open.spotify.com/track/7H6I12bFL1XSD2NLUthuq8) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Sublime](https://open.spotify.com/album/56pBm2WN9oVK9vAnb3MXX4) | 3:27 | 2021-08-26 | 2021-10-14 |
 | [Moonlight](https://open.spotify.com/track/1ChMnHnidWk1DSCDdsj6EM) | [biasonthebeat](https://open.spotify.com/artist/4jau7k1m1HToVUgZygnwsQ) | [Moonlight](https://open.spotify.com/album/0SgemJayqG1RE7u7Mubpfc) | 2:59 | 2022-04-22 |  |
@@ -263,6 +267,7 @@
 | [Wasted on You](https://open.spotify.com/track/183mkQJGrevUCBWcS8Tl6C) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [All Cash](https://open.spotify.com/album/6nYqoYO4cXVEsav2nhSJYb) | 3:22 | 2021-07-09 | 2022-05-27 |
 | [WAY](https://open.spotify.com/track/3DIqWBdLAGx7CLqAfypQcW) | [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR), [Yvng Tavo](https://open.spotify.com/artist/0cNu3VVuE76EYfID6I9v1H) | [WAY](https://open.spotify.com/album/3t3lV0abO9yYZgw9O1YFws) | 2:19 | 2022-04-22 | 2022-05-27 |
 | [Wesley](https://open.spotify.com/track/5yACaHvqRm1tCL5RsaIs9w) | [Velli Roze](https://open.spotify.com/artist/1tRALjpw3fKgtjhzkcjqLm) | [Upscencion](https://open.spotify.com/album/0glQ55ZkBXkyJIUxqx38a5) | 4:23 | 2021-09-10 |  |
+| [Westcoast](https://open.spotify.com/track/1W3vO8ruXxFBdBBkfXBRTb) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Westcoast](https://open.spotify.com/album/5QOKXie53iPkrIHLUayNUZ) | 2:33 | 2022-07-08 |  |
 | [WhirligiG](https://open.spotify.com/track/04DyIqLxOCBoJz6TLniVOc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Shell Games](https://open.spotify.com/album/1QJkOlBuUBIcs5mE4ePhOo) | 2:39 | 2021-09-10 |  |
 | [Whirlpool](https://open.spotify.com/track/3aZfUnI78dyExxPFl2Inux) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Whirlpool](https://open.spotify.com/album/1JuUBeuiFGZuNF3eV3429n) | 2:26 | 2021-08-26 | 2022-05-27 |
 | [Whis](https://open.spotify.com/track/1KswaDddiXqRnneChbrOwL) | [Charles M](https://open.spotify.com/artist/20rOuJzUYSNKfaWM69IZb3) | [Hunter Z](https://open.spotify.com/album/6w4N0qQOoZUqg0xB6Swlbg) | 2:00 | 2021-06-18 | 2022-05-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: \u5433\u6797\u5cf0",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: CY Leo",
   "name": "+852 Rising",
   "published_playlist_ids": [
     "3cSFMATQHJw7Fzc2uC3LB1"
@@ -606,6 +606,28 @@
     },
     {
       "album": {
+        "name": "Live Twice",
+        "url": "https://open.spotify.com/album/2ZFnWV0PjomKo5TAGr0HW8"
+      },
+      "artists": [
+        {
+          "name": "Takeem",
+          "url": "https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1"
+        },
+        {
+          "name": "\u67d2\u7f8a",
+          "url": "https://open.spotify.com/artist/2Blp6ydxgRiJaRzAiHMhLz"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "Fuccboi 2.0",
+      "url": "https://open.spotify.com/track/7b60XiOYeu5ZVC2xfzgZe4"
+    },
+    {
+      "album": {
         "name": "<0>",
         "url": "https://open.spotify.com/album/0TLVt9mhdNlvikfqZnjUEe"
       },
@@ -1138,6 +1160,28 @@
     },
     {
       "album": {
+        "name": "Nobody's Fault",
+        "url": "https://open.spotify.com/album/0G4d2UidnbccSf9BoQplD3"
+      },
+      "artists": [
+        {
+          "name": "J1M3",
+          "url": "https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v"
+        },
+        {
+          "name": "\u9ec3\u6d69\u7433",
+          "url": "https://open.spotify.com/artist/4gEBX9EZfO1axr12JUzJwH"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223373,
+      "name": "Nobody's Fault",
+      "url": "https://open.spotify.com/track/5YZyY4cr2leMeTNjVcykBQ"
+    },
+    {
+      "album": {
         "name": "not alright",
         "url": "https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB"
       },
@@ -1189,6 +1233,28 @@
       "duration_ms": 251964,
       "name": "Now Here, Man!",
       "url": "https://open.spotify.com/track/5tRefnEvjFoc1fdoI0lRIc"
+    },
+    {
+      "album": {
+        "name": "Now That She's Gone (ft. Heartgrey)",
+        "url": "https://open.spotify.com/album/6qbc4CspLWtno9WFm051fU"
+      },
+      "artists": [
+        {
+          "name": "Eagle Chan",
+          "url": "https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D"
+        },
+        {
+          "name": "Heartgrey",
+          "url": "https://open.spotify.com/artist/74HveI8LJp6GPQ3P9h813k"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Now That She's Gone (ft. Heartgrey)",
+      "url": "https://open.spotify.com/track/7zzjQaPr74NJByHTuWfMa2"
     },
     {
       "album": {
@@ -1470,6 +1536,24 @@
     },
     {
       "album": {
+        "name": "Spaceship",
+        "url": "https://open.spotify.com/album/4wc8biQw9TsUg8DdH6IU4s"
+      },
+      "artists": [
+        {
+          "name": "XTIE",
+          "url": "https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203960,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/7Kz8jS0iJ07JjWkN6gY0S6"
+    },
+    {
+      "album": {
         "name": "STORM IS COMING !!!",
         "url": "https://open.spotify.com/album/2GjANqBhBhgqxpqjM8ogyq"
       },
@@ -1485,6 +1569,24 @@
       "duration_ms": 235466,
       "name": "STORM IS COMING",
       "url": "https://open.spotify.com/track/7oZdECdOcQPL4Un0G4ss2X"
+    },
+    {
+      "album": {
+        "name": "Noodles",
+        "url": "https://open.spotify.com/album/1ExTXmIeooEWgFxQoiFCka"
+      },
+      "artists": [
+        {
+          "name": "Science Noodles",
+          "url": "https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224300,
+      "name": "Stuck in my dream",
+      "url": "https://open.spotify.com/track/6FRQGRaRgCBMiV1od1ZJAG"
     },
     {
       "album": {
@@ -1792,6 +1894,24 @@
     },
     {
       "album": {
+        "name": "Wanna Freek \u60f3\u66f3",
+        "url": "https://open.spotify.com/album/3cZQkL0zaWk7wmLv4KbkZO"
+      },
+      "artists": [
+        {
+          "name": "Takeem",
+          "url": "https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181237,
+      "name": "Wanna Freek \u60f3\u66f3",
+      "url": "https://open.spotify.com/track/2uYY4NzLkqBtFiGDiF5HRj"
+    },
+    {
+      "album": {
         "name": "NIRVANA",
         "url": "https://open.spotify.com/album/14qA3m1Opr9rumuMx6ZJ9x"
       },
@@ -2013,6 +2133,24 @@
       "duration_ms": 182684,
       "name": "\u4fdd\u8b77\u5f0f",
       "url": "https://open.spotify.com/track/5AGs1WQkmMVRCowWcooW5S"
+    },
+    {
+      "album": {
+        "name": "\u5012\u657816\u65e5",
+        "url": "https://open.spotify.com/album/3kNlI4beTgOMTeWSXY8lXF"
+      },
+      "artists": [
+        {
+          "name": "Cy Leo \u4f55\u5353\u5f65",
+          "url": "https://open.spotify.com/artist/6kFHVgW2mWtYxdPLVscKyG"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "\u5012\u657816\u65e5",
+      "url": "https://open.spotify.com/track/5iMs7SrutkqdLExe8qtikM"
     },
     {
       "album": {
@@ -2273,6 +2411,28 @@
       "duration_ms": 244394,
       "name": "\u66f4\u65b0\u4f5c\u696d\u6700\u5f8c\u9650\u671f",
       "url": "https://open.spotify.com/track/5LvlHUuFtItkQgiLbjJJim"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5f8c\u5e3d\u4e8b",
+        "url": "https://open.spotify.com/album/6tTAAG51tVKYTLtduoudCc"
+      },
+      "artists": [
+        {
+          "name": "FREQ",
+          "url": "https://open.spotify.com/artist/5h9ouHo2fiyP7ukhKLDRvZ"
+        },
+        {
+          "name": "Delta T \u86cb\u64bb\u982d",
+          "url": "https://open.spotify.com/artist/2GWO2az2ehE3ixfMLtdpl4"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136901,
+      "name": "\u6700\u5f8c\u5e3d\u4e8b",
+      "url": "https://open.spotify.com/track/09pFN1tzzifDSwFL9VLbNj"
     },
     {
       "album": {

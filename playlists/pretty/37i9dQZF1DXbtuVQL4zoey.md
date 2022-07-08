@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,635 likes - 246 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,698 likes - 255 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,11 +248,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 238 | [Location](https://open.spotify.com/track/09SnJEZccx2iIMfp28khni) | [Wolly](https://open.spotify.com/artist/0qxRZ4kkDJv5MXJuP4RzDD) | [Location](https://open.spotify.com/album/1r4TDoXNFW4Kus4PUNqXr3) | 1:31 |
 | 239 | [Acrylic](https://open.spotify.com/track/5slcOZGvvt488R61ph95IP) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Acrylic](https://open.spotify.com/album/1v8SwfuVFz6qiNfceWzoaD) | 2:25 |
 | 240 | [Daiquiri](https://open.spotify.com/track/4frKqpptdMc64k9rvkLYFD) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Cold Busted](https://open.spotify.com/artist/0uhd4ZyLS61oODSwmyhPfV) | [Daiquiri](https://open.spotify.com/album/2NLbM9792a08XFlMGTCoa4) | 2:26 |
-| 241 | [Cold](https://open.spotify.com/track/4eXX8nK66Bl9Xx5wmmmKwV) | [Hallucination Orbit](https://open.spotify.com/artist/2TsrJ8aEu8sWhKWlv8AMEO) | [Cold](https://open.spotify.com/album/0nYl18rnqfe2UzBE98mvmr) | 2:12 |
-| 242 | [Heat Wave](https://open.spotify.com/track/0C3u3qhOe64OTvfUq0MD9M) | [Floraboros](https://open.spotify.com/artist/0bGb3H70RYZZDz1O9rBteJ) | [Heat Wave](https://open.spotify.com/album/4RFCRp0VxikRWcLhjVeqim) | 2:08 |
-| 243 | [Move Your Hands](https://open.spotify.com/track/0Pr5OKqzYKJZAJ5S8ARuCM) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Cut Corners](https://open.spotify.com/album/3L0KAXbd7N5PLBHAyW6zPF) | 2:31 |
-| 244 | [Munch](https://open.spotify.com/track/3qThAX1vBbI8ATxS2BP1Oj) | [S\-Ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG) | [Ascent](https://open.spotify.com/album/2xqC1X8AHfFDxNoEoo1GRb) | 1:45 |
-| 245 | [slow breath](https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:08 |
-| 246 | [Poetic Wax](https://open.spotify.com/track/6ueWeJJyq1rMkdNitaL7a6) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [On the Keys of Steel](https://open.spotify.com/album/3ZuaHM9zbQrNT23OG7I3bz) | 2:23 |
+| 241 | [Granola](https://open.spotify.com/track/4e3e5FxR7Q3Jbko5mdo7UR) | [ogu](https://open.spotify.com/artist/2XGMqDOQPx7Od7AYzOaNFa) | [Granola](https://open.spotify.com/album/5cgl1KlLFYqY4k2PSiO6ks) | 2:29 |
+| 242 | [metronohm](https://open.spotify.com/track/4JwhIswrV7w5EeJbx8iouU) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [metronohm](https://open.spotify.com/album/2PfmexxQWyCaUIzVChRvoe) | 2:19 |
+| 243 | [Elevador Vibes](https://open.spotify.com/track/1s69vmiL2ds0m2cNdaG0x9) | [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Elevador Vibes](https://open.spotify.com/album/2QWaBd00CB9a4ydOVIMEIf) | 2:20 |
+| 244 | [Tropical mood](https://open.spotify.com/track/5iFoZkbtZ0XWwMR5jL0sQK) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Tropical mood](https://open.spotify.com/album/7IAFfRZdoVslZYtJTuIaB0) | 1:16 |
+| 245 | [Floating Ways](https://open.spotify.com/track/1m1HGbcUMXFUCdi7S5UnuL) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [Diiolme](https://open.spotify.com/artist/29GPUrWlYRtiq1NMNpQiQo) | [Floating Ways](https://open.spotify.com/album/29voq6CUBAUx1Z0PHx18XT) | 2:35 |
+| 246 | [Flamantico](https://open.spotify.com/track/6mbOBzSXjisjO2eB8ovh4X) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Flamantico](https://open.spotify.com/album/71oImTIci4jQKSiDOPIy8Z) | 2:09 |
+| 247 | [A Bright New Day](https://open.spotify.com/track/0OVFRb4yQK5abrmnWNjr5f) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Development](https://open.spotify.com/album/2I3z5YfETOjQQHs2JPdceV) | 2:08 |
+| 248 | [Sunset Cruise](https://open.spotify.com/track/4PDx95A1EalEnhMRHS7mdL) | [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER) | [Sunset Cruise](https://open.spotify.com/album/0oIN2IV9x9mwfwt7Jqvfy6) | 2:24 |
+| 249 | [Tarde em itapoã](https://open.spotify.com/track/2h4oOzWX3o9gBzvu03DrsH) | [Raul Coca](https://open.spotify.com/artist/3xTHgswUl566EFP0e1FN5l) | [Tarde em itapoã](https://open.spotify.com/album/7tS232apN1FZdsk7s1hxZz) | 3:14 |
+| 250 | [Cold](https://open.spotify.com/track/4eXX8nK66Bl9Xx5wmmmKwV) | [Hallucination Orbit](https://open.spotify.com/artist/2TsrJ8aEu8sWhKWlv8AMEO) | [Cold](https://open.spotify.com/album/0nYl18rnqfe2UzBE98mvmr) | 2:12 |
+| 251 | [Heat Wave](https://open.spotify.com/track/0C3u3qhOe64OTvfUq0MD9M) | [Floraboros](https://open.spotify.com/artist/0bGb3H70RYZZDz1O9rBteJ) | [Heat Wave](https://open.spotify.com/album/4RFCRp0VxikRWcLhjVeqim) | 2:08 |
+| 252 | [Move Your Hands](https://open.spotify.com/track/0Pr5OKqzYKJZAJ5S8ARuCM) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Cut Corners](https://open.spotify.com/album/3L0KAXbd7N5PLBHAyW6zPF) | 2:31 |
+| 253 | [Munch](https://open.spotify.com/track/3qThAX1vBbI8ATxS2BP1Oj) | [S\-Ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG) | [Ascent](https://open.spotify.com/album/2xqC1X8AHfFDxNoEoo1GRb) | 1:45 |
+| 254 | [slow breath](https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:08 |
+| 255 | [Poetic Wax](https://open.spotify.com/track/6ueWeJJyq1rMkdNitaL7a6) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [On the Keys of Steel](https://open.spotify.com/album/3ZuaHM9zbQrNT23OG7I3bz) | 2:23 |
 
-Snapshot ID: `MTY1NjYzMzYwMCwwMDAwMDBhODAwMDAwMTgxYjcwZWE4YmQwMDAwMDE3MGFmMzk2M2E5`
+Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDBhOTAwMDAwMTgxZGIxYjJjYmUwMDAwMDE3MGFmMzk2M2E5`

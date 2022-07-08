@@ -466,6 +466,24 @@
     },
     {
       "album": {
+        "name": "I'm Yours",
+        "url": "https://open.spotify.com/album/4hMVTdiiq47rlHysJYOcfR"
+      },
+      "artists": [
+        {
+          "name": "Karolina Szcze\u015bniak",
+          "url": "https://open.spotify.com/artist/5pcFuJmgWmT0JvJELnkHrS"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/3vGp33C7IFjgJdvFDhvRc9"
+    },
+    {
+      "album": {
         "name": "Path of The Moon",
         "url": "https://open.spotify.com/album/4l5q2eFbVXYKWdrcjFJHo1"
       },
@@ -745,6 +763,24 @@
       "duration_ms": 177536,
       "name": "Nine Times around the Heart",
       "url": "https://open.spotify.com/track/5KEhwMi5xD7HxfoXe0iPM7"
+    },
+    {
+      "album": {
+        "name": "NYC Waltz",
+        "url": "https://open.spotify.com/album/1SC79YaRaFEcgbro7JSAfF"
+      },
+      "artists": [
+        {
+          "name": "Las Tinieblas",
+          "url": "https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "NYC Waltz",
+      "url": "https://open.spotify.com/track/270VPYYS4uR1haVazI85N3"
     },
     {
       "album": {

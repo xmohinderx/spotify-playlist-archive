@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Above the vast forest",
+        "url": "https://open.spotify.com/album/71ZmOMo10LD4o1tWtBoIvI"
+      },
+      "artists": [
+        {
+          "name": "Matthew Everwood",
+          "url": "https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133549,
+      "name": "Above the vast forest",
+      "url": "https://open.spotify.com/track/4rtMTP9GeyxBF4pykocGoP"
+    },
+    {
+      "album": {
         "name": "Aeonian",
         "url": "https://open.spotify.com/album/10TTVSf5z979cewemtMlep"
       },
@@ -2575,6 +2593,24 @@
       "duration_ms": 165746,
       "name": "Sweet Freedom",
       "url": "https://open.spotify.com/track/5qYDw7w2kta0cIAHWLk9Qm"
+    },
+    {
+      "album": {
+        "name": "Tarregas Bodega",
+        "url": "https://open.spotify.com/album/5GqIcRQ3SxM2UE9jxy02B9"
+      },
+      "artists": [
+        {
+          "name": "John A. Nilson",
+          "url": "https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89698,
+      "name": "Tarregas Bodega",
+      "url": "https://open.spotify.com/track/6mueyqJyIsSTHJBZaR6b2n"
     },
     {
       "album": {

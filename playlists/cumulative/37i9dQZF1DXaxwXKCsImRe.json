@@ -294,6 +294,28 @@
     },
     {
       "album": {
+        "name": "Dans M'n Ogen Dicht",
+        "url": "https://open.spotify.com/album/42tXcJPo0MY8U9tv9U6Q7e"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        },
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Dans M'n Ogen Dicht",
+      "url": "https://open.spotify.com/track/1KTYxEsgVcoyCa3PE28ZnH"
+    },
+    {
+      "album": {
         "name": "De Diepte",
         "url": "https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o"
       },
@@ -305,7 +327,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 176603,
       "name": "De Diepte",
       "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
@@ -504,6 +526,24 @@
     },
     {
       "album": {
+        "name": "Iced Out",
+        "url": "https://open.spotify.com/album/5zFLy61k07leoBrxjNbjKE"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181337,
+      "name": "Iced Out",
+      "url": "https://open.spotify.com/track/54Z4M6n677nH3rKWeV5IWJ"
+    },
+    {
+      "album": {
         "name": "Digital Tears",
         "url": "https://open.spotify.com/album/6dEZTAWhslVOPZc3SU18oD"
       },
@@ -649,7 +689,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 157969,
       "name": "Lost Souls",
       "url": "https://open.spotify.com/track/2rOYki5z6g9vuhz4vUQZgj"
@@ -1047,7 +1087,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 223995,
       "name": "Ten Onder",
       "url": "https://open.spotify.com/track/5BND52vo95M97WRJ4o7Jat"

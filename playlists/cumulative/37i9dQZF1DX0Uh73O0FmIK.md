@@ -4,7 +4,7 @@
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-91 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
+92 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/track/65oGVYJfdT6mYIdmmb6q3c) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/album/63SwZU3t9Bqb45SVWoPprT) | 4:23 | 2022-05-19 |  |
 | [Someday](https://open.spotify.com/track/7LA4E5n1SvGb2Srzh6bCZ8) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [The Weight](https://open.spotify.com/album/5zB9HVERRys2UNiyNszxIP) | 5:44 | 2022-05-19 |  |
 | [Spaced](https://open.spotify.com/track/4dz8WzdifDQPWqHq2jWRKA) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Globe, Vol\. 3](https://open.spotify.com/album/0vSQUrgafUyXCBaDiReL4q) | 4:48 | 2022-05-19 |  |
+| [Stand\-Upon The Earth](https://open.spotify.com/track/4DjNXYgBmoKE5JnY0P3sft) | [jinkasei](https://open.spotify.com/artist/4nrZ7yhBckcZ3QsPzF3EHV), [1rokit](https://open.spotify.com/artist/6E5AX6DUZsGLaIW5NzEqqQ) | [Hyperscapism](https://open.spotify.com/album/2lx14hf7n6ys3Rbm1Zew6e) | 4:06 | 2022-07-07 |  |
 | [Stress](https://open.spotify.com/track/1YdbiBOWvFUi6Zko3HXyEG) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:58 | 2022-05-19 | 2022-07-02 |
 | [Suffer With Me](https://open.spotify.com/track/3nfj9Fdbl30TvcZE9sU0Vx) | [líue](https://open.spotify.com/artist/3xFXCUS8RN65oCwsO4PJRI) | [Suffer With Me](https://open.spotify.com/album/6G8FJ9OgqUFa5p7qxhAqki) | 3:27 | 2022-05-19 |  |
 | [Sulk](https://open.spotify.com/track/1CuNAntYhT2j6LNJoIEfF4) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [TRST](https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK) | 6:17 | 2022-05-19 |  |

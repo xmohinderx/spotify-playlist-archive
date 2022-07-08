@@ -1090,6 +1090,24 @@
     },
     {
       "album": {
+        "name": "Road Home",
+        "url": "https://open.spotify.com/album/0WDP1XqaqDi2iEZ6Q7CiuT"
+      },
+      "artists": [
+        {
+          "name": "Space Tation",
+          "url": "https://open.spotify.com/artist/199PLrBvdZLdtnNsuaBrhN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75413,
+      "name": "Road Home",
+      "url": "https://open.spotify.com/track/7vbXVFIeGI3qc0qY2TXFp2"
+    },
+    {
+      "album": {
         "name": "Samurai Sword",
         "url": "https://open.spotify.com/album/7AbyUNTbyN8qkADD3GEM7g"
       },
@@ -1523,6 +1541,24 @@
       "duration_ms": 169533,
       "name": "Tsimtsum",
       "url": "https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F"
+    },
+    {
+      "album": {
+        "name": "Veo Tus Ojos",
+        "url": "https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz"
+      },
+      "artists": [
+        {
+          "name": "No Pude Detenerme",
+          "url": "https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186710,
+      "name": "Veo Tus Ojos",
+      "url": "https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe"
     },
     {
       "album": {

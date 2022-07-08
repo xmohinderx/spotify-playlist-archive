@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 ### [Mollywood Gold](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> An exclusive collection of Malayalam super hit songs.<br/>Cover: Minnal Murali
+> An exclusive collection of Malayalam super hit songs.<br/>Cover: Aarattu
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,946 likes - 61 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,386 likes - 61 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 60 | [Mele Vaanil](https://open.spotify.com/track/3h1fJqE8XbN151jD9szk11) | [Rahul Subrahmanian](https://open.spotify.com/artist/6mJG2u6SOpg9gE7G8BXbi6), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Meppadiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CgSXUnFaGO1IobnYT6Qjf) | 4:20 |
 | 61 | [Kugramame](https://open.spotify.com/track/3xXGMn7VTB2Zg74PEN3P9M) | [Vipin Raveendran](https://open.spotify.com/artist/02U0IdqBzAwQdBE7LRhSB9), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Minnal Murali](https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x) | 1:38 |
 
-Snapshot ID: `MTY1NTcwODM0NCwwMDAwMDAwZjAwMDAwMTgxN2ZlODVmM2MwMDAwMDE4MGJjYWMyYWJk`
+Snapshot ID: `MTY1NzE3Njg1OSwwMDAwMDAxMTAwMDAwMTgxZDc3MDIzNDQwMDAwMDE4MWQ3NmNjNGE2`

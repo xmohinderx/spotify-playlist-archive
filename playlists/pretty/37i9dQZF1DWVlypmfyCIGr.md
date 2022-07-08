@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 菅原圭
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,283 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,393 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 51 | [Bittersweet](https://open.spotify.com/track/2vAdmUTPQYTo4u8kxo1n74) | [Drive Boy](https://open.spotify.com/artist/40FGkO8b0zPEeoQc4X6FVs) | [Bittersweet](https://open.spotify.com/album/17dedms418x0rJlCAk3e2q) | 3:23 |
 | 52 | [hikari](https://open.spotify.com/track/7eyZLwg6BDEot7ld0Z2nqP) | [FUNLETTERS](https://open.spotify.com/artist/6mu0jFkEwoXOyN09RjRCBO) | [hikari](https://open.spotify.com/album/3B4VuIuw3h13QmPM3NxFvW) | 3:57 |
 | 53 | [動物たち](https://open.spotify.com/track/2DxqmB8k25SEUSRtrDKXk5) | [Cing](https://open.spotify.com/artist/7JoTzYuza75pNAj6MIhbgZ) | [動物たち](https://open.spotify.com/album/0ksU3fse5trStydUsmFG86) | 3:22 |
-| 54 | [ランチタイム・ラブ](https://open.spotify.com/track/4IpYnXf5V3A6h0DS8UyFJL) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY), [オカモトコウキ](https://open.spotify.com/artist/7jiN2HCXOBi9W0ZJFwfGHi) | [ランチタイム・ラブ](https://open.spotify.com/album/2rVr0WAgddWIw5y4tO1rR8) | 5:08 |
+| 54 | [ランチタイム・ラブ](https://open.spotify.com/track/4IpYnXf5V3A6h0DS8UyFJL) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY), [Koki Okamoto](https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i) | [ランチタイム・ラブ](https://open.spotify.com/album/2rVr0WAgddWIw5y4tO1rR8) | 5:08 |
 | 55 | [no.8](https://open.spotify.com/track/29T0hG4SSBf4Dn62RmcDpY) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [no.8](https://open.spotify.com/album/1Vsv5s3ABjXwy7PSX6ShRb) | 3:15 |
 | 56 | [アブノーマル](https://open.spotify.com/track/0UAp9RVNUbA6XxLjwrmvmx) | [Amber’s](https://open.spotify.com/artist/02uHSOwZg81iN67YEBbc0O) | [SPACEK](https://open.spotify.com/album/4hublL7feCzzqGIrQZqHxd) | 3:47 |
 | 57 | [and now here you are](https://open.spotify.com/track/4dteImfBK1LTqoKxYWaw24) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [and now here you are](https://open.spotify.com/album/4kqnGONkF0RbfgzdXQn2uq) | 3:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3U6hsbkXCoetMh9khioWQX.md) - [plain]
 
 > A collection of pop hits and viral trends that's updated weekly!  Cover: Katy Perry
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 16,955 likes - 35 songs - 1 hr 47 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 16,950 likes - 35 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

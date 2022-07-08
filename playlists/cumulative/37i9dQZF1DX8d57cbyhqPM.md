@@ -4,7 +4,7 @@
 
 > From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Moonshine
 
-75 songs - 4 hr 56 min - not published yet
+75 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

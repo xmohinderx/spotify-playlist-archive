@@ -4,7 +4,7 @@
 
 > On se retrouve au parc?
 
-101 songs - 5 hr 52 min - not published yet
+101 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

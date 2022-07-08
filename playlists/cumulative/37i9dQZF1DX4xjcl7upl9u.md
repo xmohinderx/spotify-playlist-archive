@@ -4,7 +4,7 @@
 
 > The Swedish duo <a href =“ spotify:artist:00sAT5YX8W3xNd1EuqyHw9”>Dada Life</a> drop a hot mix just in time for festival season!
 
-22 songs - 1 hr 5 min - not published yet
+22 songs - 1 hr 5 min - [published](https://open.spotify.com/playlist/1vyhkdlYLRxotAreRP9s28)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
