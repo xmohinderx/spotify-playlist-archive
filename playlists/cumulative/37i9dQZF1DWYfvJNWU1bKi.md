@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-100 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/1TNQk9AULP0cVDpyMKbqiM)
+101 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/1TNQk9AULP0cVDpyMKbqiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Kandaangi Kandaangi](https://open.spotify.com/track/5qGrY4iAi05Ej1yjfUUhNe) | [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jilla \(Original Music Picture Soundtrack\)](https://open.spotify.com/album/3D6qVncbJK9etDCBZs1lx6) | 4:54 | 2022-01-03 |  |
 | [Kangal Irandal](https://open.spotify.com/track/3IpEJ86hrMfUcoXCk9U4h3) | [James Vasanthan](https://open.spotify.com/artist/0a4PNswQHfm1lfnOCTjVeh), [Bellie Raj](https://open.spotify.com/artist/4578gOJB66pNtL4Oqi09uI), [Deepa Miriam](https://open.spotify.com/artist/3adwCIFf97kIoMi42TCP5y) | [Subramaniapuram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/047Ehzf1hblhLG5g4kuOEF) | 5:22 | 2022-01-03 |  |
 | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/album/6ORDYnNAskVUmXrb0UnU8F) | 3:57 | 2022-05-25 |  |
+| [Kannadi Poovukku](https://open.spotify.com/track/3TjkNpxBaS9RFvDU7laCwx) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Enakku Vaaitha Adimaigal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0pA5FezDG5lSjYWZAhl9u8) | 3:59 | 2022-07-08 |  |
 | [Kannala Kannala \- The Melting Point of Love](https://open.spotify.com/track/4nSwWiwtieiNmRAjy9fEXN) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kaushik Krish](https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Thani Oruvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AOEe4UzP8MAtjwvzo2lcQ) | 3:35 | 2021-08-16 |  |
 | [Kannamma](https://open.spotify.com/track/45THyhjDbYhNU7bDrTTUK6) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ispade Rajavum Idhaya Raniyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F4OLoTCtVTsS3hB2zqFbI) | 4:16 | 2021-08-16 |  |
 | [Kannazhaga \- The Kiss of Love](https://open.spotify.com/track/2MwCoo4GeXpi8soWn9EiPo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 3:25 | 2021-08-16 |  |

@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-109 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/1KjSvUrAbFZ4YSc6mnzAWe)
+110 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/1KjSvUrAbFZ4YSc6mnzAWe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Drift Away](https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [No Stranger to Shame](https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9) | 4:15 | 2022-04-24 |  |
 | [Everyone She Knows](https://open.spotify.com/track/0OURixtwzJF8pON5JpMHKv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 3:24 | 2022-04-15 |  |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2022-04-24 | 2022-06-21 |
+| [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/track/7HM8TbCagVN3nrfF2UshfP) | [Positive Vibrations](https://open.spotify.com/artist/4HK4FOF99boN9AaOtLdkMb), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/album/6AN0tipaUtM5wPqYreXc76) | 3:20 | 2022-07-08 |  |
 | [Feet Wet](https://open.spotify.com/track/2UDGfQ79zL7dUimZK26naj) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [While The Gettin' Is Good](https://open.spotify.com/album/1GYdmYeRu7YWfBjM4rc5qD) | 3:30 | 2020-09-08 | 2022-04-25 |
 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 | 2022-04-24 |  |
 | [Flip Flops](https://open.spotify.com/track/6V1vwYltQSbvZgssaPhm5M) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Summertime Six\-Pack](https://open.spotify.com/album/2vm15qy6altCkBjOf0COdr) | 3:40 | 2020-09-08 | 2022-04-25 |

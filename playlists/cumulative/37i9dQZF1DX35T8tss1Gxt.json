@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: CANDIACE",
+  "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
   "name": "Rhythm & Praise",
   "published_playlist_ids": [
     "3eK48lf8axZCOz8TG1pXO8"
@@ -252,6 +252,36 @@
     },
     {
       "album": {
+        "name": "The Fallen Movie Soundtrack",
+        "url": "https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "Marcus Hodge",
+          "url": "https://open.spotify.com/artist/4zp9HZh3LJ2K6qN5y4tkqi"
+        },
+        {
+          "name": "B SLADE",
+          "url": "https://open.spotify.com/artist/1vXFOrqCxtBKdLaJqjLqOy"
+        },
+        {
+          "name": "1kphew",
+          "url": "https://open.spotify.com/artist/3MQ4t2qrxZwxZbcp76jXAt"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178454,
+      "name": "All the Time (Thinking Bout Me)",
+      "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
+    },
+    {
+      "album": {
         "name": "Know I.D.",
         "url": "https://open.spotify.com/album/5dYBUoykfQWOLGphBmcDyu"
       },
@@ -493,7 +523,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 218482,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/1THaY9o2MzTUeSafomuyq3"
@@ -581,7 +611,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 184506,
       "name": "Be Ok",
       "url": "https://open.spotify.com/track/6BZhnWBf7nFsw7gC5Pam1c"
@@ -1315,7 +1345,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 281360,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/0kgaxUdgR0wOgVxnpyllLY"
@@ -1563,6 +1593,32 @@
       "duration_ms": 165813,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ"
+    },
+    {
+      "album": {
+        "name": "Easy!",
+        "url": "https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165813,
+      "name": "Easy!",
+      "url": "https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj"
     },
     {
       "album": {
@@ -2164,6 +2220,32 @@
     },
     {
       "album": {
+        "name": "Gotta Be God",
+        "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Gotta Be God",
+      "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
+    },
+    {
+      "album": {
         "name": "GRACE",
         "url": "https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct"
       },
@@ -2299,7 +2381,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 143671,
       "name": "GUIDE MY HEART",
       "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
@@ -2915,7 +2997,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 255478,
       "name": "It's Alright To Cry",
       "url": "https://open.spotify.com/track/5GqlpLE5mySda7HAnSGot4"
@@ -3363,10 +3445,32 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 200096,
       "name": "Love is King (Remix)",
       "url": "https://open.spotify.com/track/6Xu7TTrOHTGE7OIqxbYdbS"
+    },
+    {
+      "album": {
+        "name": "Love So Sweet",
+        "url": "https://open.spotify.com/album/5KdES3GFxqvSh46467PyoM"
+      },
+      "artists": [
+        {
+          "name": "Chastity",
+          "url": "https://open.spotify.com/artist/2tQN1Rkm2xUAG09xEgQq1A"
+        },
+        {
+          "name": "Porsha Love",
+          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151467,
+      "name": "Love So Sweet",
+      "url": "https://open.spotify.com/track/4wpc2rPfoFkdbgsqG2KI6r"
     },
     {
       "album": {
@@ -3669,7 +3773,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 162500,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
@@ -3977,7 +4081,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 159000,
       "name": "No One's Gonna Save Me",
       "url": "https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV"
@@ -4155,6 +4259,24 @@
       "duration_ms": 253426,
       "name": "Oil & Water (feat. Anthony Hamilton)",
       "url": "https://open.spotify.com/track/6vREtE2UPe78r9FfuoBtJj"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235994,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p"
     },
     {
       "album": {
@@ -4485,6 +4607,28 @@
       "duration_ms": 224100,
       "name": "Pretty Brown Skin (feat. EUGENE KIING & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/5EAX9QacyUHrlftFcpmELT"
+    },
+    {
+      "album": {
+        "name": "Prodigal",
+        "url": "https://open.spotify.com/album/2kBPEOfYZcxBVl636hk9Lk"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        },
+        {
+          "name": "Benji",
+          "url": "https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234800,
+      "name": "Prodigal",
+      "url": "https://open.spotify.com/track/6LjwbDC3LHoYmxbOhGQHnh"
     },
     {
       "album": {
@@ -5755,7 +5899,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 148318,
       "name": "VANILLA",
       "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
@@ -5908,6 +6052,28 @@
     },
     {
       "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415745,
+      "name": "Walk By Faith",
+      "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
+    },
+    {
+      "album": {
         "name": "Walk With You",
         "url": "https://open.spotify.com/album/189fRY2Ia2UVDcMnGW8hKV"
       },
@@ -5919,7 +6085,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 382608,
       "name": "Walk With You",
       "url": "https://open.spotify.com/track/1ccvFGOxax5zDNdt8fNZLg"
@@ -6267,7 +6433,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 138139,
       "name": "you are worth it",
       "url": "https://open.spotify.com/track/5dpbAmZqwlXwsxL0cKNrHA"

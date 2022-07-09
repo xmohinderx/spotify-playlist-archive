@@ -4,7 +4,7 @@
 
 > استمع لافضل الأغاني العراقية! الغلاف: سيف عامر
 
-69 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
+70 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ma Yehemeny](https://open.spotify.com/track/0ruxtWuNlLi2q9ONynhVI8) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Ma Yehemeny](https://open.spotify.com/album/3oGvSJA0ee6v5KGH5pWEX8) | 3:53 | 2022-05-06 | 2022-06-17 |
 | [Mitghaer W Halyan](https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Mostafa Ibrahim](https://open.spotify.com/artist/6rEEUjWP7GWSQHo5sTU2ZU) | [Mitghaer W Halyan](https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3) | 4:10 | 2022-05-25 |  |
 | [Mo Wafi \- مو وفي](https://open.spotify.com/track/3eetE1j3t8zX4XFPV0lmPD) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Muhmdawi](https://open.spotify.com/artist/2UgjvFvfz7rQ5Vmu3HeEN5), [Ali Riyadh](https://open.spotify.com/artist/35pMeblJsAHj7ZzQrw4aX9) | [Mo Wafi \(مو وفي\)](https://open.spotify.com/album/2LJBbAAvWPt4ai0H2Cuf9r) | 3:44 | 2022-05-06 |  |
+| [My Angel](https://open.spotify.com/track/49cz53NuIM51grKU3vzfw6) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [My Angel](https://open.spotify.com/album/6vDsUpYNxKGDcMDRUzLZpF) | 3:47 | 2022-07-08 |  |
 | [Odna Lel Hayah](https://open.spotify.com/track/7rsqhAm8gE0KawfyCzyZ5X) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa), [Oras Sattar](https://open.spotify.com/artist/7CZtgfwlF64ys2ilQfhrkT) | [Odna Lel Hayah](https://open.spotify.com/album/4pvjYf8COTRFk49Tp3Tg05) | 3:27 | 2022-05-25 |  |
 | [Qatalny Alshooq](https://open.spotify.com/track/4STIuCz1EUhsHXKrfkeqPr) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Qatalny Alshooq](https://open.spotify.com/album/4bqDO2NjCt9NInbjVHqUrh) | 4:05 | 2022-05-25 |  |
 | [Qosat Hobna](https://open.spotify.com/track/1kq2AX8hKBZA2I8NExx9gf) | [Haitham Yousif](https://open.spotify.com/artist/0jPXHSYuneyrz1WOWZfpXT), [Mustafa AlRubaiy](https://open.spotify.com/artist/1p6wrJn2I0QTJATQf7wZha) | [Qosat Hobna](https://open.spotify.com/album/2RL3oKbloORtWFekhGtmS6) | 4:35 | 2022-05-06 |  |

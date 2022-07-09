@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 117312,
       "name": "40 Silenciada",
       "url": "https://open.spotify.com/track/2Z2W2b1EyGda9VfG7G6qC6"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 217750,
       "name": "Blackjack",
       "url": "https://open.spotify.com/track/0Muqo5yTYi4gTUpwYMQvYC"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 130669,
       "name": "Cajas De Parke",
       "url": "https://open.spotify.com/track/2yIKNAZ0eXxTx3r3Emfmdk"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 243242,
       "name": "Dime",
       "url": "https://open.spotify.com/track/232eCrpYvra59HVubildeC"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 153706,
       "name": "Estos Tragos Van Por Ti",
       "url": "https://open.spotify.com/track/5pvyq5JmDPhDJ9xIMKNuYK"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 178857,
       "name": "Fuera De Servicio",
       "url": "https://open.spotify.com/track/2252ukIJHzlAv9VuJLjY53"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 268951,
       "name": "Hoy toca y Ando Bien Pedo",
       "url": "https://open.spotify.com/track/0LrrEt7WBu4Xo5HmStgA6b"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 165328,
       "name": "La Bandera",
       "url": "https://open.spotify.com/track/27ByOSCbUNu75GuT3Ed8Jn"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 193870,
       "name": "Mi Morenita",
       "url": "https://open.spotify.com/track/1ZvVinhAqHiK8YdjXu1Cnr"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 263807,
       "name": "Nieves de Enero",
       "url": "https://open.spotify.com/track/1GxYyP3rMCMtB3e7EWqU3f"
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj"
@@ -1454,6 +1454,24 @@
     },
     {
       "album": {
+        "name": "Por un Malandro",
+        "url": "https://open.spotify.com/album/60a681bIqPM7sKHJsThh4T"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Por un Malandro",
+      "url": "https://open.spotify.com/track/2MQPxzwvpgcJ4kBNBB0UjK"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9stame Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
       },
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 160597,
       "name": "Quiero Contarte",
       "url": "https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay"
@@ -2055,6 +2073,24 @@
       "duration_ms": 185173,
       "name": "Ya Te Supere - En Vivo",
       "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
+    },
+    {
+      "album": {
+        "name": "Ya Viv\u00ed El Desamor",
+        "url": "https://open.spotify.com/album/54rgpyfRluG3hRXR7CQdPi"
+      },
+      "artists": [
+        {
+          "name": "La Martita",
+          "url": "https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101680,
+      "name": "Ya Viv\u00ed El Desamor",
+      "url": "https://open.spotify.com/track/5SZcsfj451HOgs3GYxOHgj"
     },
     {
       "album": {

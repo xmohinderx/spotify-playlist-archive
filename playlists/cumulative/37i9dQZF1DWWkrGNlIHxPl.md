@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Ghaliaa.
+> Global crossovers by/with Arab artists\. Cover: ElGrandeToto x Ayra Starr.
 
-172 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+173 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Nobody](https://open.spotify.com/track/6XjENN2LsFNLOsAOpDv7ze) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Nobody](https://open.spotify.com/album/0hEo7Gh3anOoce9xCMLDNn) | 3:27 | 2021-12-16 | 2022-03-18 |
 | [Nouar](https://open.spotify.com/track/7kYE92jx3dkVo6aYhz4GFG) | [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [Nouar](https://open.spotify.com/album/3P0GnsGZmo6FGQdX4KRmwR) | 6:19 | 2022-06-06 | 2022-06-24 |
 | [Now or Never](https://open.spotify.com/track/08R90Edtb2dNC0CN60vQSe) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG), [Skyral](https://open.spotify.com/artist/1xVVcdJpBS4LjdYZRTdZx3) | [Now or Never](https://open.spotify.com/album/6VMxOr3e73NvXTbWbznvAu) | 3:12 | 2021-12-16 | 2022-04-08 |
+| [Old Flame](https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Old Flame](https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw) | 2:04 | 2022-07-08 |  |
 | [On My Own](https://open.spotify.com/track/0jVixX0ZFa2m9bhDbHoTXD) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [On My Own](https://open.spotify.com/album/6jBPKGE15wIoYciA3m34ou) | 3:25 | 2021-12-16 | 2022-03-08 |
 | [Once Again](https://open.spotify.com/track/7n6iWoWqzsvsaqHzwLcO2Q) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Once Again](https://open.spotify.com/album/6fW2puJsm7B130FA1KSSAz) | 3:28 | 2021-12-16 | 2022-03-15 |
 | [Once Again \(Acoustic\)](https://open.spotify.com/track/2cjVtPViKQYe5TglhdEWnw) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Once Again \(Acoustic\)](https://open.spotify.com/album/439lOGb0EQdQXG9DGprOZF) | 3:42 | 2021-12-16 |  |

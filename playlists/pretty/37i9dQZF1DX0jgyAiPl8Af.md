@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,527 likes - 199 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,686 likes - 199 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 198 | [Altitudes](https://open.spotify.com/track/1irRBmDlje6gY0rBa3ue1m) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Altitudes](https://open.spotify.com/album/2e8F67H4vPMGo5L3tJu0id) | 2:23 |
 | 199 | [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 |
 
-Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDBiYjAwMDAwMTgxZGIxYjJjY2IwMDAwMDE2ZDE1MzFlYjZl`
+Snapshot ID: `MTY1NzI4ODg1MiwwMDAwMDBiYzAwMDAwMTgxZGUxZDA0ZDgwMDAwMDE4MWRlMWNkZmEy`

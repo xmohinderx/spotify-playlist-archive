@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-61 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
+62 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [My Heart Will Go On](https://open.spotify.com/track/7g7zKzgHOmRYYyYWr66gTW) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [Piano Cover](https://open.spotify.com/album/5JImxehtOINJnpAEIVGbJi) | 3:11 | 2021-11-25 |  |
 | [No Woman, No Cry \(Arr\. Kanneh\-Mason\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 | 2021-11-25 |  |
 | [Nothing Compares To You](https://open.spotify.com/track/2tZw7jaxDXM7klb1lEL3u2) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Nothing Compares To You](https://open.spotify.com/album/6pfu6QZu1gPxpzUXr73HzN) | 2:25 | 2021-11-25 |  |
+| [Papa, Can You Hear Me?](https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Papa, Can You Hear Me?](https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK) | 4:41 | 2022-07-08 |  |
 | [Rainbow \- Instrumental](https://open.spotify.com/track/77fsaToe6geS16GLiwBzlm) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Rainbow \(Instrumental\)](https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB) | 3:23 | 2021-11-25 |  |
 | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/4gcQGnyJYyxlbTtO8Qx9Dy) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/4nUKrWBOAJ0jb4lVFkDej2) | 2:40 | 2021-11-25 |  |
 | [Shape of My Heart](https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Shape of My Heart](https://open.spotify.com/album/6rpczEJb2gH66izQHWYLNj) | 5:44 | 2021-11-25 |  |

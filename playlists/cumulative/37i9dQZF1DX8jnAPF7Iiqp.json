@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 266206,
       "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) - Edit",
       "url": "https://open.spotify.com/track/2WObGIQXhjveq6yuXvf6VQ"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 231568,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/24abahS4tYAxt7lgSBk7Vc"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 268225,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1Rb7olpOry6c65F00zCteY"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 254339,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0gagDJrA1Kdm1xmwOzNoSN"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 281379,
       "name": "Dying Light",
       "url": "https://open.spotify.com/track/5Lsr7AauyHMlMNjQzWb0uH"
@@ -737,6 +737,24 @@
       "duration_ms": 220711,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/2PkJD0EZfKpODl8A2GXf4W"
+    },
+    {
+      "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/4tXty4RLKNyDH0ltilC9jJ"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203071,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7"
     },
     {
       "album": {
@@ -825,7 +843,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 270339,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3DEOsCKFcseZtobrpOH2J7"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5D4YdAFb2OUZ4xtsevk4Xl"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 251684,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/3XPhsmIWEOHdBQnxZoJtx6"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 177931,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7iSUYpEq065PlyuWxzQWdf"
@@ -1695,10 +1713,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 224946,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V"
+    },
+    {
+      "album": {
+        "name": "What Came Before",
+        "url": "https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224946,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/4kVpdy4mnZ8FLPw0hGV8hk"
     },
     {
       "album": {
@@ -1717,7 +1753,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 267906,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/6bUlKNTAOA2EUg4CQ4PtJb"
@@ -1761,7 +1797,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 248720,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/6ZPpy9nlOq2xDw054bjoS9"
@@ -1955,7 +1991,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 244151,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3dJ6Nq35hCel0helAg8TR8"
@@ -2335,7 +2371,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 220689,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/5sPntn8ccDJdR5yUZ7rLiY"
@@ -2357,7 +2393,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 219428,
       "name": "Streetside",
       "url": "https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN"
@@ -2375,7 +2411,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 268955,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/3u787rFfUvg3kMK7tNyjiV"
@@ -2503,7 +2539,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 325517,
       "name": "Time To Let Go",
       "url": "https://open.spotify.com/track/2LnOH8dOY6kmQRrOZsnUpA"
@@ -2583,7 +2619,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 212591,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/0kuYcrNwT08HZTpmxvgDb2"
@@ -2703,7 +2739,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 234827,
       "name": "We All Need Someone",
       "url": "https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP"
@@ -2725,7 +2761,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5asj11vQ6VWmTJP8kQ2Lig"
@@ -2791,7 +2827,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 216637,
       "name": "Where\u2019s Your Head At - 1991 Remix",
       "url": "https://open.spotify.com/track/3MX0TGUzniV9GiEVEcjNqB"
@@ -2809,7 +2845,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 286896,
       "name": "Why Should I",
       "url": "https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4"

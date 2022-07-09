@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 195312,
       "name": "Al Rev\u00e9s - feat. Petite Amie",
       "url": "https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 290362,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 314916,
       "name": "Avec Lui",
       "url": "https://open.spotify.com/track/4zWpQKHzdbGNkRP00xAIbe"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 466973,
       "name": "Ayisha Abyss",
       "url": "https://open.spotify.com/track/4372hjN43SwPpKhQWvRuXI"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 194720,
       "name": "Bottlerocket",
       "url": "https://open.spotify.com/track/5EeaNNzKCbJfcaVnaWz6Dl"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 198842,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/0UQc1EkgxdIB3nGVTuAXKI"
@@ -560,6 +560,24 @@
     },
     {
       "album": {
+        "name": "Crawlers - EP",
+        "url": "https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254418,
+      "name": "Come Over (Again)",
+      "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
+    },
+    {
+      "album": {
         "name": "Cometa",
         "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
       },
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 240678,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
@@ -589,7 +607,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 247866,
       "name": "Crasher",
       "url": "https://open.spotify.com/track/3WQ0VxgZ1yy1bO4GuPsieu"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 254437,
       "name": "Culto",
       "url": "https://open.spotify.com/track/6Ow58pNK9dPNKLLxrfKX9z"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 190798,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/3y9rDgEdATAwgFX2NPKGw7"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 205417,
       "name": "Die Happily",
       "url": "https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 159636,
       "name": "D\u00edas Grises",
       "url": "https://open.spotify.com/track/0nTmbWN8jqJ6XNcG2i5rCq"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 241902,
       "name": "En Letargo",
       "url": "https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 243093,
       "name": "Goodtimes",
       "url": "https://open.spotify.com/track/3Pt8kGU9mlpwMsrLA8JmVO"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 180346,
       "name": "hua(3)",
       "url": "https://open.spotify.com/track/57znaLsNhGo2dNMK2oPiZu"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 276172,
       "name": "Inspiral",
       "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 191901,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 260360,
       "name": "Is This a Hotel?",
       "url": "https://open.spotify.com/track/3v4UCOl8AZzhSdCEbLLZu5"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 125333,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 227281,
       "name": "Life in Color",
       "url": "https://open.spotify.com/track/4TdpOtzVF7aeh7EhvOk377"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 197100,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/53WUmuG7PPNjtbRWoN56SA"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 375426,
       "name": "On High",
       "url": "https://open.spotify.com/track/3UqJ0TTT3WSe9k5VNipZDv"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 184213,
       "name": "One Plus One Equals Three or More",
       "url": "https://open.spotify.com/track/1gnNQYEALMHJjvPgoz3mSq"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 197563,
       "name": "Our Goal to Realise",
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
@@ -1907,7 +1925,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 475065,
       "name": "Phase Break",
       "url": "https://open.spotify.com/track/1zPQS7xNJUksb1Zg5T6Nys"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 211319,
       "name": "Press",
       "url": "https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx"
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 280230,
       "name": "Reel",
       "url": "https://open.spotify.com/track/1SHkhQfzSnMFOAYlrJjVKA"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 273533,
       "name": "Runner",
       "url": "https://open.spotify.com/track/1fItLBpR6V1T1DY1gtx9ph"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 300503,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY"
@@ -2123,7 +2141,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 276991,
       "name": "Shiny Shiny",
       "url": "https://open.spotify.com/track/33AccsjCXPy04llhvJbHFm"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 220403,
       "name": "Showers",
       "url": "https://open.spotify.com/track/5lJDgnn9Wq06dBoEdMyXuz"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 255573,
       "name": "Spring and by Summer Fall",
       "url": "https://open.spotify.com/track/4H1WerRdoDxPnra8SJtW3R"
@@ -2447,7 +2465,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 178100,
       "name": "Two Girls",
       "url": "https://open.spotify.com/track/4MlTLBpeNYRTkjx35eQfMe"

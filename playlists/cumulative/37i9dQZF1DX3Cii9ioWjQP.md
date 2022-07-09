@@ -4,12 +4,13 @@
 
 > All about Korean Jazz hits & new \(Cover: Woong San\(웅산\)\)
 
-69 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/26wTSHT9kapiRaMyX7792n)
+70 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/26wTSHT9kapiRaMyX7792n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20th century peoples](https://open.spotify.com/track/3oDA9tHwdZCXnmEh99eCl9) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [20th century peoples](https://open.spotify.com/album/5g031chgii7mbeG3q1Nwn8) | 3:37 | 2022-05-03 |  |
 | [3월의 밤](https://open.spotify.com/track/3V1YH9HkdVyurldYIMZX8C) | [Choi Moon Seok](https://open.spotify.com/artist/0kgjv7IJnvcz5RmnHlXrdt) | [3월의 밤](https://open.spotify.com/album/7xmtGgNnp8RTrWUxVj6Onh) | 7:16 | 2022-05-03 |  |
+| [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 | 2022-07-08 |  |
 | [Bambi](https://open.spotify.com/track/75IjhFxQkIvCzP16IyR5Ob) | [정수연](https://open.spotify.com/artist/7az0Pd2sKjDBXMxPxhd6Qn) | [Bambi](https://open.spotify.com/album/0qKGgiSj0etZBTFrqMwPZ7) | 4:22 | 2022-05-03 |  |
 | [Behind](https://open.spotify.com/track/6HvtI4dnFqS2YHxQxSRN5R) | [Hyena Park](https://open.spotify.com/artist/1FPKbjt3JFJCUL0Tjo4V4E) | [JAZZ DIVA](https://open.spotify.com/album/46RpUdfLtkuprdnQh69cPb) | 5:21 | 2022-05-03 |  |
 | [Between Us \(Feat\. OVCOCO\)](https://open.spotify.com/track/7e6bMKP3CEeyg6jbjFDcrk) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE), [OVCOCO](https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght) | [Between Us \(Feat\. OVCOCO\)](https://open.spotify.com/album/3XGjYjce5dOqS0vWknvUzs) | 3:19 | 2022-05-03 |  |

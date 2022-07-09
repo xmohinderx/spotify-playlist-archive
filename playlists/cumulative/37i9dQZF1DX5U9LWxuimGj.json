@@ -1270,6 +1270,24 @@
     },
     {
       "album": {
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/67gR6ME2xaUHnG5dC7t3qk"
+      },
+      "artists": [
+        {
+          "name": "Andrea Vasquez",
+          "url": "https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221087,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/2T6vymk0i2Pd5pli788DSQ"
+    },
+    {
+      "album": {
         "name": "Country from another country",
         "url": "https://open.spotify.com/album/2MyLrd6esHFxMjP1FdtC7W"
       },

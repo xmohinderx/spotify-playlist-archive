@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,874 likes - 166 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,909 likes - 166 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 165 | [Aria Amore](https://open.spotify.com/track/2gbiV6hshIr99CuE8Jmc1J) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Aria Amore](https://open.spotify.com/album/0dZ1cH2oc1byH1xvEMkwhE) | 2:36 |
 | 166 | [Looking Back](https://open.spotify.com/track/6RZAuFGShnNxq37NM0SMbH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Looking Back](https://open.spotify.com/album/73s0HB2kuLl7a0wo5N19lY) | 2:28 |
 
-Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDAyODAwMDAwMTgxZGIxYjJjZDAwMDAwMDE3ZDVjMzRjYTRj`
+Snapshot ID: `MTY1NzI5MTg5OSwwMDAwMDAyOTAwMDAwMTgxZGU0YjgyY2MwMDAwMDE4MWRlNGI0ZTI0`

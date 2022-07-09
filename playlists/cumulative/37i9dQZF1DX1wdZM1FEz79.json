@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "album": {
         "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 8",
         "url": "https://open.spotify.com/album/0XHinGNkFWk58KpzLxU5QF"
       },
@@ -623,7 +641,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 220924,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/1v1xZWe4flQJlntJXAIVI8"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 250999,
       "name": "Darling",
       "url": "https://open.spotify.com/track/6ChPSpcpyuFT8C5HMTlezz"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 298541,
       "name": "Early summer",
       "url": "https://open.spotify.com/track/3VOwTYieX61YALed6ovW5j"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 243124,
       "name": "For a Long Time \uc624\ub798\ub3c4\ub85d \ubc18\uc9dd\uc774\uac8c",
       "url": "https://open.spotify.com/track/1iyrKf79eBRdPoxQ1zawzu"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 244382,
       "name": "goodnight, dear",
       "url": "https://open.spotify.com/track/3c8LgCeqvBz0qtCRrS72yD"
@@ -2183,7 +2201,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
@@ -2241,7 +2259,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 227506,
       "name": "HONEY (Feat. Crucial Star)",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 263453,
       "name": "How Is Your Night",
       "url": "https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase"
@@ -2479,7 +2497,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 245533,
       "name": "I wanna go out",
       "url": "https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y"
@@ -3385,7 +3403,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 230373,
       "name": "Love one day - \ud0dc\uc778 Solo Version",
       "url": "https://open.spotify.com/track/6CnucKkMn6oV7kFTkuaUHG"
@@ -3407,7 +3425,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 262333,
       "name": "Love U (feat. J_ust)",
       "url": "https://open.spotify.com/track/4Umuqgh54N3EsC9G1ChxVc"
@@ -3623,7 +3641,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 186642,
       "name": "My Day",
       "url": "https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq"
@@ -3659,7 +3677,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 174520,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
@@ -4021,7 +4039,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 248835,
       "name": "Only Then",
       "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
@@ -4039,7 +4057,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 190093,
       "name": "only you",
       "url": "https://open.spotify.com/track/3kq53cvkH6hjNnmMgf5Gqa"
@@ -4545,7 +4563,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
@@ -4845,7 +4863,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 237925,
       "name": "Somehow you are \uc660\uc9c0 \ub108\ub294",
       "url": "https://open.spotify.com/track/17xYfVlgC5q36pXP7Eju4A"
@@ -4863,7 +4881,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 155413,
       "name": "Something missing between us",
       "url": "https://open.spotify.com/track/2HJGLIMw4jK21i93h7OLTg"
@@ -5131,7 +5149,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 273333,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF"
@@ -5283,7 +5301,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 249771,
       "name": "Sunny Days, Summer Nights",
       "url": "https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q"
@@ -5597,7 +5615,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 224000,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
@@ -5814,6 +5832,24 @@
     },
     {
       "album": {
+        "name": "Tropical night",
+        "url": "https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK"
+      },
+      "artists": [
+        {
+          "name": "\uc5ec\ub3d9\uc0dd",
+          "url": "https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311797,
+      "name": "Tropical night",
+      "url": "https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk"
+    },
+    {
+      "album": {
         "name": "B_ye",
         "url": "https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk"
       },
@@ -5883,7 +5919,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 215353,
       "name": "vacation",
       "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
@@ -6241,7 +6277,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
@@ -6451,7 +6487,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 241470,
       "name": "With me \uc624\ub298\uc774 \uc9c0\ub098\uba74",
       "url": "https://open.spotify.com/track/12NNRxfewZV8ey2qxQv9pa"

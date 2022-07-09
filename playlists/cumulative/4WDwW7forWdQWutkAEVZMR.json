@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "RELAPSED",
+        "url": "https://open.spotify.com/album/05CtRgycYQtDaDo80zxeQF"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166651,
+      "name": "(N) INE",
+      "url": "https://open.spotify.com/track/7lC2H90qclM4JgyQz6H1ys"
+    },
+    {
+      "album": {
         "name": "14",
         "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
       },
@@ -63,6 +81,32 @@
       "duration_ms": 109746,
       "name": "2 Slimed Out",
       "url": "https://open.spotify.com/track/32W3LRPntEXgODlqHZjaNi"
+    },
+    {
+      "album": {
+        "name": "6 ft deep (feat. Galvanic & Silent Child)",
+        "url": "https://open.spotify.com/album/1zH2TTC79xj4B6RqxdDvCu"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Galvanic",
+          "url": "https://open.spotify.com/artist/3GQj08iHefTniyhHjCVBov"
+        },
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "6 ft deep (feat. Galvanic & Silent Child)",
+      "url": "https://open.spotify.com/track/52ZWNeOEBXdrVb2Im3Anht"
     },
     {
       "album": {
@@ -192,6 +236,28 @@
     },
     {
       "album": {
+        "name": "Can You Pay?",
+        "url": "https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri"
+      },
+      "artists": [
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Pessto",
+          "url": "https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133573,
+      "name": "Can You Pay?",
+      "url": "https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f"
+    },
+    {
+      "album": {
         "name": "Cash In Cash Out",
         "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
       },
@@ -215,6 +281,24 @@
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
+    },
+    {
+      "album": {
+        "name": "Change the Locks",
+        "url": "https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269784,
+      "name": "Change the Locks",
+      "url": "https://open.spotify.com/track/7vnxhcah4Sgm6WY8FLlf5c"
     },
     {
       "album": {
@@ -668,7 +752,7 @@
     },
     {
       "album": {
-        "name": "New Money (feat. 21 Savage)",
+        "name": "New Money",
         "url": "https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw"
       },
       "artists": [
@@ -685,7 +769,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170321,
-      "name": "New Money (feat. 21 Savage)",
+      "name": "New Money",
       "url": "https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl"
     },
     {
@@ -745,6 +829,28 @@
       "duration_ms": 137721,
       "name": "ON TEN",
       "url": "https://open.spotify.com/track/1Hdh6lJUR1WZCiNPVWxLTA"
+    },
+    {
+      "album": {
+        "name": "Paris to Tokyo",
+        "url": "https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130897,
+      "name": "Paris to Tokyo",
+      "url": "https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7"
     },
     {
       "album": {
@@ -854,6 +960,24 @@
     },
     {
       "album": {
+        "name": "sTraNgeRs",
+        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195747,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
+    },
+    {
+      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -894,6 +1018,24 @@
     },
     {
       "album": {
+        "name": "Survivors Guilt",
+        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352613,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
+    },
+    {
+      "album": {
         "name": "So Far So Good (+ The Fall)",
         "url": "https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB"
       },
@@ -913,6 +1055,24 @@
       "duration_ms": 196021,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx"
+    },
+    {
+      "album": {
+        "name": "the idea",
+        "url": "https://open.spotify.com/album/529HyBH38pXm03KrwyI0At"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203972,
+      "name": "the idea",
+      "url": "https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr"
     },
     {
       "album": {
@@ -1007,6 +1167,24 @@
       "duration_ms": 202515,
       "name": "TURN IT UP",
       "url": "https://open.spotify.com/track/0uUljDsi9o1MXjReM6uLzz"
+    },
+    {
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "album": {

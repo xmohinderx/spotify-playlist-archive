@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-462 songs - 20 hr 48 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+464 songs - 20 hr 53 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,8 @@
 | [Jamaica \- Freestyle](https://open.spotify.com/track/75eZkKcJlcuW8EwDuTui14) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7) | [Jamaica \(Freestyle\)](https://open.spotify.com/album/1pgvUhLApdxYUUtsTmv1SY) | 1:46 | 2022-03-04 | 2022-03-18 |
 | [Januari](https://open.spotify.com/track/1tcSVR26p2ZqbS9iWFkDpB) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [MP3](https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ) | 2:39 | 2021-12-16 | 2022-01-07 |
 | [Jaw](https://open.spotify.com/track/3WD46C6wIMtBYIhHRK7AVw) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Jaw](https://open.spotify.com/album/38RJf1UrjwYBo0mLqCOghv) | 2:26 | 2022-06-30 |  |
+| [JB X YASIN \- DIE YOUNG](https://open.spotify.com/track/46fo800FpGqEjaCPLX4uHy) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [JB AHSP DEL 2](https://open.spotify.com/album/7KtrpUHy9JLhCskwG0MMrC) | 2:31 | 2022-07-08 |  |
+| [JB X YASIN \- HYRAN ÄR PÅ 50](https://open.spotify.com/track/3tFCYOdbUReTjqB7D3Gf1F) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [JB AHSP DEL 2](https://open.spotify.com/album/7KtrpUHy9JLhCskwG0MMrC) | 2:52 | 2022-07-08 |  |
 | [Jungel](https://open.spotify.com/track/1mOHXk057Y2K322MbkB6cW) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Allt jag har](https://open.spotify.com/album/2lC2Ikke3js0INuXJdoKt2) | 3:19 | 2022-05-05 | 2022-05-20 |
 | [K.A.B](https://open.spotify.com/track/0eQnQIkGXKgkRZeWp0tSci) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl), [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [K.A.B](https://open.spotify.com/album/09ZfS3qdGryVWizzi7dyob) | 3:12 | 2022-01-06 | 2022-03-04 |
 | [Kalejdoskop](https://open.spotify.com/track/1YkRezYJi1XKYmhG1GidUd) | [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c), [Käp](https://open.spotify.com/artist/13jd8ireAONmQcSDY3cMka), [Trainspotters](https://open.spotify.com/artist/4dq4bHaTzqLMpRwGJFuuxy) | [Northerntörpalisticarportmuzik](https://open.spotify.com/album/3uXQpUeiq0T1HkBG88763T) | 2:40 | 2021-12-16 | 2022-01-07 |

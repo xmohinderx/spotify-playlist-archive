@@ -1164,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Any\u017cowe \u017celki",
+        "url": "https://open.spotify.com/album/5bYQfIpnHyL18WS668K4Ll"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133600,
+      "name": "Any\u017cowe \u017celki",
+      "url": "https://open.spotify.com/track/7AGGiiTX5RhsVM2rYF6s5O"
+    },
+    {
+      "album": {
         "name": "Akademia Sztuk Pi\u0119knych",
         "url": "https://open.spotify.com/album/2pzDm1usjCxQGw8nYU8nkZ"
       },
@@ -7599,7 +7617,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 178758,
       "name": "Lato",
       "url": "https://open.spotify.com/track/0oF40HEGBYbYQufEtB81BM"

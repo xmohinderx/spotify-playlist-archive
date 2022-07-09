@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602 likes - 33 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 607 likes - 33 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 19 | [Circle of Light, Pt\. 1](https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 21:14 |
 | 20 | [Hannett and Delia synth exchanges track 4](https://open.spotify.com/track/31w8FxWHtH85l41qSS9v1K) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 0:34 |
 | 21 | [Falling, From the Dreams \- Radio Version 1964](https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol\. 1](https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v) | 8:46 |
-| 22 | [Effervescence](https://open.spotify.com/track/2JCDGlSg42vh0I246sX0Vu) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 2:02 |
+| 22 | [Celestial Cantabile](https://open.spotify.com/track/4CktDPZOXK9LL7xMs2A04c) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 3:30 |
 | 23 | [Circle of Light, Pt\. 2](https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 10:25 |
 | 24 | [Hannett and Delia synth exchanges track 16](https://open.spotify.com/track/5bv0tIM9J7jMxBhHznLt2y) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:54 |
 | 25 | [About Bridges Polyphonic Theme \(From The Hooykaas / Stansfield Film\)](https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Do What You Love](https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj) | 0:54 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 32 | [A New View of Politics](https://open.spotify.com/track/2tLBAVvLREIyKdHClrtXkK) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:41 |
 | 33 | [Time on Our Hands](https://open.spotify.com/track/2oeQFA1RwZbR9E5Pf50XRQ) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 1:13 |
 
-Snapshot ID: `Mjc2MjAwNDAsMDAwMDAwMDAxNDA2YTgxNTIwMzEzY2MzMzU0OTI0NWQzMGVhODEzOQ==`
+Snapshot ID: `Mjc2MjE1MzIsMDAwMDAwMDAyZjU5ODMwMDA0YWY2YmVmOGUxYmExOTE0MzdkZjhhMQ==`

@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/16LZtAsJhnyta6i2zmVCZL"
+    },
+    {
+      "album": {
         "name": "New Moon Shine",
         "url": "https://open.spotify.com/album/36DBvvp7XO5oSulZANyCIM"
       },
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 171080,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/7njZh7zfFuSHCufWu6OzID"

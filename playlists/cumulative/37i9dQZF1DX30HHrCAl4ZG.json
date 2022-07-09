@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 157935,
       "name": "Bad Communicator",
       "url": "https://open.spotify.com/track/0Y7OIMb5lkLXvuKTZLs9mF"
@@ -1667,7 +1667,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 277889,
       "name": "Chloe",
       "url": "https://open.spotify.com/track/4U8VEq1Eu4FdkgIp9xkgMl"
@@ -2287,7 +2287,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 200240,
       "name": "dead",
       "url": "https://open.spotify.com/track/4ZjGvzvTg4Tf94TtDFntu4"
@@ -3065,7 +3065,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 140786,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/5ekucJquBlWaZojC2oNZHU"
@@ -5191,7 +5191,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 143493,
       "name": "Loner",
       "url": "https://open.spotify.com/track/7fLb22ZSPkgPOCsOksCwtg"
@@ -5339,7 +5339,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 243440,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6mTrJCo3VOX1ch8vBOthH5"
@@ -5833,7 +5833,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 234573,
       "name": "More Than It Hurts You",
       "url": "https://open.spotify.com/track/5DQtZx4cWbuNvHfsTQHcSL"
@@ -6695,7 +6695,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 167688,
       "name": "PLACEBO + \u91ce\u7530\u6d0b\u6b21\u90ce",
       "url": "https://open.spotify.com/track/4IkSLZYHnCLQyiiiQbEGJD"
@@ -6865,6 +6865,24 @@
       "duration_ms": 179533,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ"
+    },
+    {
+      "album": {
+        "name": "Pink Songs 2",
+        "url": "https://open.spotify.com/album/5Hss6ml2F35xoVJzFmnicV"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205182,
+      "name": "pretty funny",
+      "url": "https://open.spotify.com/track/6f9T8Q6xqWEWTvp3P87Wjm"
     },
     {
       "album": {
@@ -7615,7 +7633,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 179920,
       "name": "Sitting on the Porch at Night",
       "url": "https://open.spotify.com/track/4CfCUMmSIqBGr3TvZ1hNbs"
@@ -7687,7 +7705,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 306562,
       "name": "Slow Ready",
       "url": "https://open.spotify.com/track/19AXHJvTBkh8n9aRrlRqv6"
@@ -8207,6 +8225,32 @@
       "duration_ms": 185120,
       "name": "sugar",
       "url": "https://open.spotify.com/track/2d6CmdLPd1rOi7zdQK6kBg"
+    },
+    {
+      "album": {
+        "name": "BEACH CASSETTE",
+        "url": "https://open.spotify.com/album/0GS23M0MYJVddh3OYIdIg5"
+      },
+      "artists": [
+        {
+          "name": "Max Leonard",
+          "url": "https://open.spotify.com/artist/5UXiN3pIEW9zZQXQY3vwew"
+        },
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/6iPag3KNgZKw56EnjCzcv4"
+        },
+        {
+          "name": "Garrett Sparrow",
+          "url": "https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "SUMMER",
+      "url": "https://open.spotify.com/track/2v0563M9NN06MYmCGYdgoI"
     },
     {
       "album": {
@@ -8817,7 +8861,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 282000,
       "name": "Think It's Real",
       "url": "https://open.spotify.com/track/06nE4D9SWTUFkFDhOnc4l4"
@@ -9877,7 +9921,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 209737,
       "name": "Woman on the Move",
       "url": "https://open.spotify.com/track/6bGqWdZiKHTPXkjauf9Xdh"

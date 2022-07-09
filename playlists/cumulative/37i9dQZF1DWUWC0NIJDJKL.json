@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 180731,
       "name": "Across the Room",
       "url": "https://open.spotify.com/track/7dCSqTnarqs3EF7iDRVRW9"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 228922,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 251321,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/0QtQf7cY8qQWnqR9YGsLo2"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 195066,
       "name": "Do Me Like That",
       "url": "https://open.spotify.com/track/33TRLeMwVVAWa2eZEGnTip"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 270789,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/60crPH0AEVhi1ZxicgyR0W"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 208382,
       "name": "Hannah Sun",
       "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 201945,
       "name": "I'll Call You Mine",
       "url": "https://open.spotify.com/track/0cH6s5bw1BS4hL06hmUO6F"
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 245350,
       "name": "Morning in the Sun",
       "url": "https://open.spotify.com/track/70CtfoTKRQKcMyByUeKAOK"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Redwoods",
       "url": "https://open.spotify.com/track/14FWm9OKkbfQbnlOVmX4sJ"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 154200,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/6nQSwXVn3DAa2vNl57rbFD"
@@ -2325,7 +2325,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 176315,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
@@ -2563,7 +2563,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 187133,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
@@ -2844,6 +2844,28 @@
     },
     {
       "album": {
+        "name": "Turn Up The Sunshine (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229610,
+      "name": "Turn Up The Sunshine - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM"
+    },
+    {
+      "album": {
         "name": "Up Granville",
         "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
@@ -2985,7 +3007,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 178080,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/7Cb9fYGYtFaANCaqYEOCDC"
@@ -3021,7 +3043,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 195078,
       "name": "Witches",
       "url": "https://open.spotify.com/track/4CZgaNdobtnTfBevPBje0c"

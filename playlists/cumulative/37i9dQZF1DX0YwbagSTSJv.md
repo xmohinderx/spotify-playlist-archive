@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-113 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+114 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Peaceful Movement](https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Peaceful Movement](https://open.spotify.com/album/6WhbkTG9bSpcHmP01t2P87) | 2:53 | 2022-05-25 |  |
 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 | 2021-12-23 |  |
 | [peaceful year calling](https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [peaceful year calling](https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf) | 3:08 | 2022-01-06 |  |
+| [Perseverance](https://open.spotify.com/track/6yxNnfmwGWXJYx6lenH59s) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Perseverance](https://open.spotify.com/album/4GkK8XcF5cVOhfoa4Svqv6) | 3:09 | 2022-07-08 |  |
 | [Polvera](https://open.spotify.com/track/6WWI8SoJ581xUjOncAsmxj) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ), [Miguel Otero](https://open.spotify.com/artist/7ok1JjfEi1QoRXoyOEINrQ) | [Salinas](https://open.spotify.com/album/36z6vlCjhfjbDAK5U1DokD) | 4:48 | 2021-12-23 |  |
 | [Positive Aura Cleanse](https://open.spotify.com/track/0cOrxCYpnXJSVWKxDzGWfU) | [Spiritual Moment](https://open.spotify.com/artist/5e5P006iq5TGOsKDGdjmit) | [Clear Negative Energy](https://open.spotify.com/album/1P20wAwU25AJWGbl2PKbtk) | 6:16 | 2021-12-23 |  |
 | [Praise](https://open.spotify.com/track/6JPkvrIXIROTBKMg6fZTKC) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Praise](https://open.spotify.com/album/6lkZbG6qQljcbdT4UrUDuh) | 3:06 | 2021-12-23 |  |

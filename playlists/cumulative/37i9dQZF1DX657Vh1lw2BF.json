@@ -936,6 +936,24 @@
     },
     {
       "album": {
+        "name": "My Angel",
+        "url": "https://open.spotify.com/album/6vDsUpYNxKGDcMDRUzLZpF"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "My Angel",
+      "url": "https://open.spotify.com/track/49cz53NuIM51grKU3vzfw6"
+    },
+    {
+      "album": {
         "name": "Odna Lel Hayah",
         "url": "https://open.spotify.com/album/4pvjYf8COTRFk49Tp3Tg05"
       },

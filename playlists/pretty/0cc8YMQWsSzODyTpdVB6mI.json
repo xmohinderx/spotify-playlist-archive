@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42279,
+  "num_followers": 42287,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjg2NixmODJhMDM2NjEzYjE5MGY3NGU0ZjA0MjI0NTdmODY2NjQ3NGNmYWQx",
+  "snapshot_id": "Mjg3MCxjMDBhYzVmZmRiMDQ5MTQwYTJjMDM1NDY4NjMxMGUyZGY5ODIyMDVk",
   "tracks": [
+    {
+      "added_at": "2022-07-08 08:30:52",
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/5RjcxA4BGTJfkcVK2bPyDF"
+      },
+      "artists": [
+        {
+          "name": "Pecas",
+          "url": "https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/7bNJSUTF1XreWJYN11YnuY"
+    },
     {
       "added_at": "2022-07-06 08:26:41",
       "album": {
@@ -407,38 +423,6 @@
       "duration_ms": 217082,
       "name": "ENTROPY/",
       "url": "https://open.spotify.com/track/0RZS3qAGkztX8LuUSRYmpz"
-    },
-    {
-      "added_at": "2022-05-04 08:28:34",
-      "album": {
-        "name": "Spikes (Edit)",
-        "url": "https://open.spotify.com/album/2ZkHjP93wimpyM0gGn1MWf"
-      },
-      "artists": [
-        {
-          "name": "Razante",
-          "url": "https://open.spotify.com/artist/3dB9mmLX2lYKa4bfEUPUYA"
-        }
-      ],
-      "duration_ms": 224746,
-      "name": "Spikes - Edit",
-      "url": "https://open.spotify.com/track/04ZcgSFH3tPDyjJ0Ij3S4f"
-    },
-    {
-      "added_at": "2022-05-02 08:30:51",
-      "album": {
-        "name": "IDHAGF",
-        "url": "https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4"
-      },
-      "artists": [
-        {
-          "name": "KIIKO BLAK",
-          "url": "https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "IDHAGF",
-      "url": "https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3"
     },
     {
       "added_at": "2021-11-05 15:47:43",

@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 224093,
       "name": "Blessings (feat. Chronixx)",
       "url": "https://open.spotify.com/track/0VoCmyKz6GRRl6AuT7if6t"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 213891,
       "name": "Moonwalking (feat. DJ Drama & Ron Suno)",
       "url": "https://open.spotify.com/track/4uYDoLcUEAKhy9cLEECtzw"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 144033,
       "name": "Mudbaby (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/4RCQPrRcIH7jFBJ8khMQn3"
@@ -1222,6 +1222,32 @@
     },
     {
       "album": {
+        "name": "The World Is Yours: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/2G7OtfI3kpgfQNvnH9Sq9h"
+      },
+      "artists": [
+        {
+          "name": "Badda TD",
+          "url": "https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Put In Work (feat. Dusty Locane)",
+      "url": "https://open.spotify.com/track/2VOgN0UIoBnWahApbZvyhG"
+    },
+    {
+      "album": {
         "name": "Richer Than I Ever Been",
         "url": "https://open.spotify.com/album/5cZ23u1lWxszHiUokH6LnJ"
       },
@@ -1237,6 +1263,28 @@
       "duration_ms": 172570,
       "name": "Richer Than I Ever Been",
       "url": "https://open.spotify.com/track/6APhSotnV8vcCFG87XiYfo"
+    },
+    {
+      "album": {
+        "name": "In My Projects",
+        "url": "https://open.spotify.com/album/3E5dBHBjnIdXovdZbcoGay"
+      },
+      "artists": [
+        {
+          "name": "D3szn",
+          "url": "https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn"
+        },
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197280,
+      "name": "Show No Love (feat. Fredo Bang)",
+      "url": "https://open.spotify.com/track/0B1kYE1ZJHVEtiYhmNPEda"
     },
     {
       "album": {
@@ -1511,6 +1559,28 @@
       "duration_ms": 169340,
       "name": "WIN",
       "url": "https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK"
+    },
+    {
+      "album": {
+        "name": "Wishin (feat. B-Lovee)",
+        "url": "https://open.spotify.com/album/2o1fNtQx2GK6ezyeTZXaRc"
+      },
+      "artists": [
+        {
+          "name": "AAP Deno",
+          "url": "https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163187,
+      "name": "Wishin (feat. B-Lovee)",
+      "url": "https://open.spotify.com/track/4brjhS8jM6awvONNexpSG0"
     },
     {
       "album": {

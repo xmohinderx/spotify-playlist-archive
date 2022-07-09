@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-67 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
+68 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Como Se Fosse a Primeira Vez](https://open.spotify.com/track/7feU3MT0RImQ1pC2DJHbCw) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Como Se Fosse a Primeira Vez](https://open.spotify.com/album/0y13SIfG3kpyhMJWx01kYK) | 2:16 | 2022-04-29 |  |
 | [Copacabana](https://open.spotify.com/track/2tyvnpNAEWSH7ZMLxDwnFV) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [Copacabana](https://open.spotify.com/album/059xp13b7fffD12Rdc2XDs) | 2:23 | 2022-04-29 |  |
 | [Coquinha de Café](https://open.spotify.com/track/2wKsVwVQzc9tp9zdNRmwB1) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Guilherme Galeno](https://open.spotify.com/artist/31aLhhJNZBcilYlPCXxdGv) | [Coquinha de Café](https://open.spotify.com/album/3HQ8wBouWUkLeljTZLKmtO) | 3:22 | 2022-04-29 |  |
+| [Cosplay de Amor da Minha Vida](https://open.spotify.com/track/7l8VsccVXfcUD6tYmiKxzI) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Cosplay de Amor da Minha Vida](https://open.spotify.com/album/3riQ42qoo9R4V7OSA9XoeU) | 3:01 | 2022-07-08 |  |
 | [Céu Neon](https://open.spotify.com/track/77lJZx5Aj7FymJE1nPuc0N) | [Natu Rap](https://open.spotify.com/artist/0PtLgb2wKQeuLHaNftz0mk) | [Céu Neon](https://open.spotify.com/album/0tOuA6nhzH5sUn3ZSLrvLM) | 2:40 | 2022-04-29 |  |
 | [Deixa o Sol Acordar](https://open.spotify.com/track/3Jb0xeInjjQslSrgUj3bPC) | [Sadness :c](https://open.spotify.com/artist/5pvKSKOm1QGAf5BZoD9WEr), [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [Deixa o Sol Acordar](https://open.spotify.com/album/3cWxjqkOUmYcQ7AC28c3Kp) | 2:15 | 2022-04-29 | 2022-07-02 |
 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 | 2022-04-29 |  |
@@ -36,7 +37,7 @@
 | [Liga pra Mim](https://open.spotify.com/track/519BX7HBoxCmvlqv4XKo7L) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma) | [Liga pra Mim](https://open.spotify.com/album/4kJq6ltzbq9VJw0Bwgq32O) | 2:42 | 2022-04-29 |  |
 | [Luzes da Cidade](https://open.spotify.com/track/2CTTflN4rA96cmMq8NpjND) | [Belato](https://open.spotify.com/artist/1j0b8QZNoluRO17A2PJh62), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Luzes da Cidade](https://open.spotify.com/album/2be4Abf3oT5rIfeNvcINIX) | 2:30 | 2022-05-27 |  |
 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 | 2022-04-29 |  |
-| [Matcha](https://open.spotify.com/track/6ngy530qeyAJ78ucSAtM7c) | [Tuuh](https://open.spotify.com/artist/65456d4iYC4Z1twwPkV9O5) | [Matcha](https://open.spotify.com/album/1ez2X9giPDe7IWaDjndNbH) | 2:49 | 2022-06-24 |  |
+| [Matcha](https://open.spotify.com/track/6ngy530qeyAJ78ucSAtM7c) | [Tuuh](https://open.spotify.com/artist/65456d4iYC4Z1twwPkV9O5) | [Matcha](https://open.spotify.com/album/1ez2X9giPDe7IWaDjndNbH) | 2:49 | 2022-06-24 | 2022-07-09 |
 | [Me Tira O Sossego](https://open.spotify.com/track/2os0PZg85oglHfJtBfpz6t) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1) | [Me Tira O Sossego](https://open.spotify.com/album/2es0GKloxQo0T6EOQtwBF2) | 2:44 | 2022-04-29 |  |
 | [Melhor Sem Mim](https://open.spotify.com/track/1hUzkO738a6LoYIBhMCR0r) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Melhor Sem Mim](https://open.spotify.com/album/088K4X8hrYw2RTyxs6q77A) | 3:06 | 2022-04-29 |  |
 | [Meu Lado da História](https://open.spotify.com/track/08LiZsFrLkWYtd20jeqWLh) | [Nandx710](https://open.spotify.com/artist/6Kk3DH8cxWFrTq9ajqck22), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [David Gomes](https://open.spotify.com/artist/16hlg6k7mG0fnOOWxVBmuV) | [Meu Lado da História](https://open.spotify.com/album/5mWCIurXAUfxn3e0K9WX4T) | 2:31 | 2022-04-29 |  |

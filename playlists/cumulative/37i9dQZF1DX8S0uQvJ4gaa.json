@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Kylie Morgan",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Kameron Marlowe",
   "name": "New Boots",
   "published_playlist_ids": [
     "4GYziq6IZSItn9f84k0CzJ"
@@ -3060,6 +3060,24 @@
     },
     {
       "album": {
+        "name": "Brown Eyes Baby",
+        "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224985,
+      "name": "Brown Eyes Baby",
+      "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+    },
+    {
+      "album": {
         "name": "Bucket List",
         "url": "https://open.spotify.com/album/0rpoSHdeRK75XyB8APLIAX"
       },
@@ -3147,6 +3165,24 @@
       "duration_ms": 202821,
       "name": "Busy",
       "url": "https://open.spotify.com/track/0Z59bs7H2ibAzIoApGzN7p"
+    },
+    {
+      "album": {
+        "name": "Buy A Girl A Drink",
+        "url": "https://open.spotify.com/album/36tVeUCmIWva4RKFBN0OG8"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196415,
+      "name": "Buy A Girl A Drink",
+      "url": "https://open.spotify.com/track/3WXWxyUcD9HQBQcNaFN6xd"
     },
     {
       "album": {
@@ -4899,7 +4935,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 182061,
       "name": "Diamondback",
       "url": "https://open.spotify.com/track/3MeCawtEDk2Ia4qasaWtiL"
@@ -10388,6 +10424,24 @@
     },
     {
       "album": {
+        "name": "Hope It's Hot Out",
+        "url": "https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167345,
+      "name": "Hope It's Hot Out",
+      "url": "https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V"
+    },
+    {
+      "album": {
         "name": "Horseshoes and Hand Grenades",
         "url": "https://open.spotify.com/album/7q7T3eIdjbppmEEii3kKci"
       },
@@ -10619,7 +10673,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 221520,
       "name": "Human",
       "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
@@ -14297,6 +14351,24 @@
       "duration_ms": 176413,
       "name": "Me No You",
       "url": "https://open.spotify.com/track/7npmPKGa5TjBMtpIOytGw6"
+    },
+    {
+      "album": {
+        "name": "Me On You",
+        "url": "https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167266,
+      "name": "Me On You",
+      "url": "https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22"
     },
     {
       "album": {
@@ -22332,6 +22404,28 @@
     },
     {
       "album": {
+        "name": "Thinkin' We're In Love",
+        "url": "https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww"
+      },
+      "artists": [
+        {
+          "name": "Tyler Rich",
+          "url": "https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK"
+        },
+        {
+          "name": "Marie-Mai",
+          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228038,
+      "name": "Thinkin' We're In Love",
+      "url": "https://open.spotify.com/track/1dQYswRaULYA9XfPc02FF1"
+    },
+    {
+      "album": {
         "name": "Tullahoma",
         "url": "https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5"
       },
@@ -25243,7 +25337,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 167375,
       "name": "With A Woman You Love",
       "url": "https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA"

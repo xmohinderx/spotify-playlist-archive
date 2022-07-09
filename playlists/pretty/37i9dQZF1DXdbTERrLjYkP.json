@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: ROSIE",
-  "num_followers": 63447,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: quinnie",
+  "num_followers": 63544,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0NDY0OSwwMDAwMDA1YzAwMDAwMTgxY2Y4ZWM3NmEwMDAwMDE4MThkMDZhZGFj",
+  "snapshot_id": "MTY1NzI1Mjg2MCwwMDAwMDA1ZDAwMDAwMTgxZGJmN2QxMzQwMDAwMDE4MWQ2YzgzZmU2",
   "tracks": [
+    {
+      "added_at": "2022-07-05 18:10:49",
+      "album": {
+        "name": "touch tank",
+        "url": "https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "touch tank",
+      "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "You Never Met Me",
+        "url": "https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Cutting Corners",
+      "url": "https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD"
+    },
     {
       "added_at": "2022-06-24 04:00:00",
       "album": {
@@ -25,20 +57,36 @@
       "url": "https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd"
     },
     {
-      "added_at": "2022-07-05 18:10:49",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "touch tank",
-        "url": "https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6"
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
       },
       "artists": [
         {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 179133,
-      "name": "touch tank",
-      "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
+      "duration_ms": 189672,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "california from the backseat",
+        "url": "https://open.spotify.com/album/41uZXshRhF6F1ivv7l58F9"
+      },
+      "artists": [
+        {
+          "name": "Molly Seger",
+          "url": "https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9"
+        }
+      ],
+      "duration_ms": 192196,
+      "name": "california from the backseat",
+      "url": "https://open.spotify.com/track/17vwIZ7XPQzJE91ljTjuM5"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -57,6 +105,22 @@
       "url": "https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk"
     },
     {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "a little hope never hurt",
+        "url": "https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "a little hope never hurt",
+      "url": "https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB"
+    },
+    {
       "added_at": "2022-06-22 19:48:42",
       "album": {
         "name": "My Eyes Only",
@@ -73,20 +137,20 @@
       "url": "https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "california from the backseat",
-        "url": "https://open.spotify.com/album/41uZXshRhF6F1ivv7l58F9"
+        "name": "Isolate Myself",
+        "url": "https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C"
       },
       "artists": [
         {
-          "name": "Molly Seger",
-          "url": "https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9"
+          "name": "Mallory Merk",
+          "url": "https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF"
         }
       ],
-      "duration_ms": 192196,
-      "name": "california from the backseat",
-      "url": "https://open.spotify.com/track/17vwIZ7XPQzJE91ljTjuM5"
+      "duration_ms": 185019,
+      "name": "Isolate Myself",
+      "url": "https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -139,6 +203,22 @@
     {
       "added_at": "2022-06-22 19:48:42",
       "album": {
+        "name": "we're all sad here",
+        "url": "https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "duration_ms": 203470,
+      "name": "life, im over you",
+      "url": "https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3"
+    },
+    {
+      "added_at": "2022-06-22 19:48:42",
+      "album": {
         "name": "Happening Again",
         "url": "https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM"
       },
@@ -169,6 +249,22 @@
       "url": "https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9"
     },
     {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "BDSM",
+        "url": "https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "duration_ms": 209383,
+      "name": "BDSM",
+      "url": "https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8"
+    },
+    {
       "added_at": "2022-06-22 19:48:42",
       "album": {
         "name": "You Might Not Like Her",
@@ -183,22 +279,6 @@
       "duration_ms": 202693,
       "name": "You Might Not Like Her",
       "url": "https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "a little hope never hurt",
-        "url": "https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7"
-      },
-      "artists": [
-        {
-          "name": "Devon Gabriella",
-          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "a little hope never hurt",
-      "url": "https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB"
     },
     {
       "added_at": "2022-06-22 19:48:42",
@@ -233,20 +313,20 @@
       "url": "https://open.spotify.com/track/40NJ6IcslmhpnxVCY0mQUl"
     },
     {
-      "added_at": "2022-06-22 19:48:42",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "we're all sad here",
-        "url": "https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR"
+        "name": "Is It Enough",
+        "url": "https://open.spotify.com/album/6zmkcJhd5cv7pBrQYPDYfY"
       },
       "artists": [
         {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 203470,
-      "name": "life, im over you",
-      "url": "https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3"
+      "duration_ms": 153499,
+      "name": "Is It Enough",
+      "url": "https://open.spotify.com/track/5CiwHSUDf9C1Uv0r4nUVLd"
     },
     {
       "added_at": "2022-06-22 19:48:42",
@@ -631,42 +711,6 @@
       "duration_ms": 235556,
       "name": "Universe",
       "url": "https://open.spotify.com/track/6Cm5uLnM47WzZUZifIqMgM"
-    },
-    {
-      "added_at": "2022-06-22 19:48:42",
-      "album": {
-        "name": "hate to be you",
-        "url": "https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "hate to be you",
-      "url": "https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU"
-    },
-    {
-      "added_at": "2022-06-22 19:48:42",
-      "album": {
-        "name": "hate to be lame",
-        "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 156798,
-      "name": "hate to be lame (feat. FINNEAS)",
-      "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
     },
     {
       "added_at": "2022-06-22 19:48:42",
@@ -1075,22 +1119,6 @@
     {
       "added_at": "2022-06-22 19:48:42",
       "album": {
-        "name": "Birthday Cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Birthday Cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
-    },
-    {
-      "added_at": "2022-06-22 19:48:42",
-      "album": {
         "name": "mood ring",
         "url": "https://open.spotify.com/album/7iTcqrJVu8e8myv9OIV1KM"
       },
@@ -1267,38 +1295,6 @@
       "duration_ms": 218433,
       "name": "pretty when u cry",
       "url": "https://open.spotify.com/track/5XVz2gm474WOD26Q3pp9PA"
-    },
-    {
-      "added_at": "2022-06-22 19:48:42",
-      "album": {
-        "name": "Still Something",
-        "url": "https://open.spotify.com/album/010yX6iIbqs59x29SwwUaG"
-      },
-      "artists": [
-        {
-          "name": "Suriel Hess",
-          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
-        }
-      ],
-      "duration_ms": 188950,
-      "name": "Still Something",
-      "url": "https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX"
-    },
-    {
-      "added_at": "2022-06-22 19:48:42",
-      "album": {
-        "name": "God Must Hate Me",
-        "url": "https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 149802,
-      "name": "God Must Hate Me",
-      "url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

@@ -1,13 +1,29 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 64547,
+  "num_followers": 64561,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDA0ZjAwMDAwMTgxYjdlYzM3MzkwMDAwMDE2ZDE1MTg0ZTc2",
+  "snapshot_id": "MTY1NzI1MjkyMCwwMDAwMDA1MDAwMDAwMTgxZGJmOGJiNTYwMDAwMDE2ZDE1MTg0ZTc2",
   "tracks": [
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Money, Love & Death",
+        "url": "https://open.spotify.com/album/7oWB6Lfleo2iNyMXtYjBut"
+      },
+      "artists": [
+        {
+          "name": "Garrett Nash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "duration_ms": 164109,
+      "name": "Money, Love & Death",
+      "url": "https://open.spotify.com/track/6SNbZkTjHMCLninZRWTjbJ"
+    },
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
@@ -859,26 +875,6 @@
       "duration_ms": 230066,
       "name": "Eveline",
       "url": "https://open.spotify.com/track/6wgCah9IU4VP9zqqMSVxk7"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Sweet Annie",
-        "url": "https://open.spotify.com/album/1jkQi9IxBAoxAi2INKASyD"
-      },
-      "artists": [
-        {
-          "name": "Roseanne Reid",
-          "url": "https://open.spotify.com/artist/5ePOH20nPLAGlOCqSNMpYd"
-        },
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Sweet Annie",
-      "url": "https://open.spotify.com/track/2xPRYtkesQBl1he1BJNsxV"
     },
     {
       "added_at": "2021-04-19 17:11:28",

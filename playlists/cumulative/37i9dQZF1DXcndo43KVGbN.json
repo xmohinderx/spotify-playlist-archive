@@ -1180,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "Daughter",
+        "url": "https://open.spotify.com/album/6beHH4VPWefU6S7JzaXllj"
+      },
+      "artists": [
+        {
+          "name": "Raum",
+          "url": "https://open.spotify.com/artist/6Qsrt0RPmIemQhHjCYDnCU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402500,
+      "name": "Revolving door",
+      "url": "https://open.spotify.com/track/7giXEIu7MPLp0PpPkM6PUi"
+    },
+    {
+      "album": {
         "name": "Aleas (1)",
         "url": "https://open.spotify.com/album/1CMsdpTA2lEiwE5bSsteol"
       },

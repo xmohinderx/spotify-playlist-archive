@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Downtown Baby",
+        "url": "https://open.spotify.com/album/2dbQaQFGQjxmQxicnp0701"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Downtown Baby",
+      "url": "https://open.spotify.com/track/3NIMPlnySYOfVF5Vxr4Ae1"
+    },
+    {
+      "album": {
         "name": "Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line)",
         "url": "https://open.spotify.com/album/5H6lxubLtZamdoXEmVmcbz"
       },

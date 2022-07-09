@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: Vision Juvenil",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: Barak",
   "name": "\u00c9xitos Cristianos",
   "published_playlist_ids": [
     "46xuGYmp3nbMhyLwZ3Xj5y"
@@ -1042,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0NUlU1FN532IWWOiYKiEOG"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212276,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/3u4jkJRTMTWvXBAPmUB9Zc"
+    },
+    {
+      "album": {
         "name": "Digno Eres T\u00fa",
         "url": "https://open.spotify.com/album/4sfRa9xPxR89ImAcit1crt"
       },
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 640995,
       "name": "Fuego & Poder",
       "url": "https://open.spotify.com/track/4egnZWPE4EX5qo9TI7ywfi"
@@ -1689,6 +1707,28 @@
       "duration_ms": 301710,
       "name": "Gloria, Honor, Poder",
       "url": "https://open.spotify.com/track/32mOZgW0bDqy5wUxmjpSVy"
+    },
+    {
+      "album": {
+        "name": "Gozo",
+        "url": "https://open.spotify.com/album/2i0mONvYiLsguOLI409PTj"
+      },
+      "artists": [
+        {
+          "name": "Josh Lopez",
+          "url": "https://open.spotify.com/artist/0qSGHbYMTrls3ruaGGemBE"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "Gozo",
+      "url": "https://open.spotify.com/track/6FGhI4d8FgLeAf1QG8k7Re"
     },
     {
       "album": {
@@ -2083,7 +2123,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 204105,
       "name": "La Pesadilla",
       "url": "https://open.spotify.com/track/0vE1TXFPXBxgSiWOdn7kZR"
@@ -2207,6 +2247,24 @@
       "duration_ms": 184849,
       "name": "Lo Primero",
       "url": "https://open.spotify.com/track/62wcs7NhqaDGt9PILwW2AG"
+    },
+    {
+      "album": {
+        "name": "Alumbras Mi Vida",
+        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168493,
+      "name": "Lo Que T\u00fa Digas",
+      "url": "https://open.spotify.com/track/1IsJQPN3ZYz6C3FbFXTDuN"
     },
     {
       "album": {
@@ -3969,7 +4027,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 197217,
       "name": "Tienes Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fW9gpZJLeXiKLuO2Mhs7L"
@@ -4053,6 +4111,24 @@
       "duration_ms": 310272,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/6nMLy0o2cH8oqBV8RqXYXl"
+    },
+    {
+      "album": {
+        "name": "Tu Hijo Soy",
+        "url": "https://open.spotify.com/album/71Fb5Oqj9L4bix79tNoKJC"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 647703,
+      "name": "Tu Hijo Soy",
+      "url": "https://open.spotify.com/track/75mdqXCjsSOblBblD42M9b"
     },
     {
       "album": {

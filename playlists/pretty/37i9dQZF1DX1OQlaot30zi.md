@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Emis Killa, Villabanks, Neima Ezza, Luchè, Paky e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,764 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,836 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 9 | [Amore Spray](https://open.spotify.com/track/44C7ihQd3BiGiBQDxkWrd0) | [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Amore Spray](https://open.spotify.com/album/7oqcJfKKHMwIuoQTVlG4gj) | 2:28 |
 | 10 | [MAREKIARO](https://open.spotify.com/track/6k61PEOqpPdVQ7yfyWAMBA) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [MAREKIARO](https://open.spotify.com/album/6HRcJv98qBgAzUiLEw7SKK) | 3:10 |
 | 11 | [FERMO PER UN PO'](https://open.spotify.com/track/52sRAQiZTyIvw1fbTMhOv3) | [WISM](https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO), [Perenne](https://open.spotify.com/artist/1deGGaaHXorjwxQkdaYvcX), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [FERMO PER UN PO'](https://open.spotify.com/album/1NPSeJrHnqlQT2ns9EwtlO) | 2:58 |
-| 12 | [Beautiful Morning \(feat\. Praci\)](https://open.spotify.com/track/4somAVSvBpCTaScdxyCDjn) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Praci](https://open.spotify.com/artist/51kuvTRk7gXn9CblNfH3Tn), [Nevia](https://open.spotify.com/artist/7g786aXP2HsoPtUVn4N30Z) | [Beautiful Morning \(feat\. Praci\)](https://open.spotify.com/album/1ZhQ81hUEEI3N9oIyIkoNh) | 3:26 |
+| 12 | [Beautiful Morning \(feat\. Praci\)](https://open.spotify.com/track/4somAVSvBpCTaScdxyCDjn) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Nevia](https://open.spotify.com/artist/2CcJATfFG50akqpHUVp1be) | [Beautiful Morning \(feat\. Praci\)](https://open.spotify.com/album/1ZhQ81hUEEI3N9oIyIkoNh) | 3:26 |
 | 13 | [Cuore](https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Cuore](https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY) | 3:22 |
 | 14 | [X Sempre](https://open.spotify.com/track/5Vw9le6wrmCUwmrYnu56Gl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 3:25 |
 | 15 | [FAKE LOV3](https://open.spotify.com/track/0uddaGz9eiKu58im2uqqlG) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6), [Razen](https://open.spotify.com/artist/6xEx33PHYEKQCQ2UlKxS98) | [FAKE LOV3](https://open.spotify.com/album/4XQ4VYfyLFf45J37xKNoyn) | 2:04 |

@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-116 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+118 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Closer](https://open.spotify.com/track/5mCGTPQcA0XK2ApGmIaXx2) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [9loo](https://open.spotify.com/artist/3WEhFPBwX2zRE2EL2QrqtE), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S) | [Closer](https://open.spotify.com/album/3xuJsr75n7P5nlmxOwnMVs) | 3:31 | 2021-10-29 |  |
 | [Corporate](https://open.spotify.com/track/6EOG5p1ZdmfEgXxO18pJt2) | [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF), [Selo](https://open.spotify.com/artist/3YIXXBpayG6wLurirvtKbF) | [Nairobi Lost Tapes, Vol\. 1](https://open.spotify.com/album/5JXpQ1A62RHcXH9l963xtq) | 2:38 | 2021-10-15 | 2022-01-28 |
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-17 |  |
-| [Dogtail](https://open.spotify.com/track/1ziLbRPnlPKu9QeUyl36fx) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [MFN](https://open.spotify.com/album/1UbW090je8UnxtjgGphoXy) | 3:36 | 2021-10-15 |  |
+| [Dogtail](https://open.spotify.com/track/1ziLbRPnlPKu9QeUyl36fx) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [MFN](https://open.spotify.com/album/1UbW090je8UnxtjgGphoXy) | 3:36 | 2021-10-15 | 2022-07-09 |
 | [Echoes \- Remix](https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Echoes \(Remix\)](https://open.spotify.com/album/21mY94BhJNjVcHXuTuBElI) | 2:47 | 2021-10-29 |  |
 | [Entebbe](https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Entebbe](https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub) | 3:52 | 2022-03-25 |  |
 | [Ex Wako Hawezi](https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Ex Wako Hawezi](https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc) | 3:48 | 2022-03-10 |  |
@@ -32,6 +32,7 @@
 | [Feel A Vibe](https://open.spotify.com/track/3sDAbZpJWBxgxry5ATbW9g) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br) | [Feel A Vibe](https://open.spotify.com/album/4EjSGOjlSpwN4Kdv3gvALp) | 2:59 | 2021-12-09 |  |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-02-24 | 2022-04-02 |
 | [Filthy Rich](https://open.spotify.com/track/0HRJK34PPIPWu3mEQHgDD9) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Filthy Rich](https://open.spotify.com/album/2xWZiT64H6JH8NSV3kHs0l) | 2:46 | 2022-01-13 |  |
+| [Fireflies](https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Fireflies](https://open.spotify.com/album/6WfB9YEC9FDRhJCrNd5sah) | 2:21 | 2022-07-08 |  |
 | [Fluid](https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Fluid](https://open.spotify.com/album/2Gl9K6erA2hugDhU1qqbUC) | 3:19 | 2022-05-05 |  |
 | [For Hawi](https://open.spotify.com/track/0sa9IqP77NArCvVe1MkdBp) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Sky Up Above](https://open.spotify.com/album/4BguiMoE15dCHo5mG2tMv0) | 6:34 | 2021-10-15 |  |
 | [Funk To Black](https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [FUNK TO BLACK](https://open.spotify.com/album/4lSpuoQtBMFGXdmCXkqyki) | 2:23 | 2022-04-25 | 2022-06-18 |
@@ -68,6 +69,7 @@
 | [Mad Ting](https://open.spotify.com/track/0329hJmIoXzCiAt2BkR4Zy) | [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII), [Chevy Kev](https://open.spotify.com/artist/7b3Cm19fyzxElci72YY4xQ), [mau](https://open.spotify.com/artist/6CXT5rXzTle8RsPrtrw7aj), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [MR.LU](https://open.spotify.com/artist/53SfY6OMDo9sMPS3DMxTSQ), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [It Is What It Is](https://open.spotify.com/album/1Jf4ia1dd68RkCKHHPLqBc) | 3:06 | 2021-10-15 | 2022-01-28 |
 | [megan fox](https://open.spotify.com/track/1ZO1oxKK88xOhvJnA1QDPM) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [megan fox](https://open.spotify.com/album/2adAlemQTvmOKs5PHY0ugx) | 2:29 | 2021-10-15 | 2022-04-01 |
 | [Microwave](https://open.spotify.com/track/34vw8DKn7RIcoC7igRqUGC) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Microwave](https://open.spotify.com/album/5ozHQm7hB3VlhMz1wIfm1E) | 2:45 | 2021-12-09 |  |
+| [Minutes](https://open.spotify.com/track/6f7KmU1InKkiW3UegkWj09) | [Shully](https://open.spotify.com/artist/4os0GkCkfwC8HUjKn7wULI), [Yuzko](https://open.spotify.com/artist/2WkJBd6ga7SI7QTcQVydEG) | [Minutes](https://open.spotify.com/album/6etqTIrfFLoRxslu3kbwZC) | 3:32 | 2022-07-08 |  |
 | [Move \- Acoustic](https://open.spotify.com/track/39Y8tJOuclCLZaCDD8M4kk) | [Shwento](https://open.spotify.com/artist/1kujXfGrKwSU4xOaUtZBdZ) | [Shwento 2020](https://open.spotify.com/album/3Yzp0vJY1qmQZwoUfwdCik) | 2:47 | 2021-10-15 | 2022-01-28 |
 | [My Heart Is Yours](https://open.spotify.com/track/5FKRgg3w4e4uKOiLxttCSY) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:05 | 2021-10-15 | 2022-02-05 |
 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 | 2022-05-05 |  |

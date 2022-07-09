@@ -420,6 +420,28 @@
     },
     {
       "album": {
+        "name": "En la Vereda del Sol",
+        "url": "https://open.spotify.com/album/6wR1dGuhXYzNdJbAFpTX3F"
+      },
+      "artists": [
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        },
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221422,
+      "name": "En la Vereda del Sol",
+      "url": "https://open.spotify.com/track/4cyCrbeYfe7xEozbfG2n23"
+    },
+    {
+      "album": {
         "name": "En Redondel",
         "url": "https://open.spotify.com/album/1VfGbyob5VJXF8D5AtH3GR"
       },
@@ -793,7 +815,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 231262,
       "name": "La Ciudad Sin Alma",
       "url": "https://open.spotify.com/track/3sDI2suYX1N8IuszYbRmuZ"
@@ -833,6 +855,28 @@
       "duration_ms": 219414,
       "name": "La Izquierda de la Noche",
       "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
+    },
+    {
+      "album": {
+        "name": "La Ladrona",
+        "url": "https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199495,
+      "name": "La Ladrona",
+      "url": "https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72"
     },
     {
       "album": {
@@ -941,7 +985,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 236015,
       "name": "La Vida Es As\u00ed",
       "url": "https://open.spotify.com/track/1Zsu6m9PyxwcpyUcw3yQgk"
@@ -1510,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "L\u00e1mina Once",
+        "url": "https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237075,
+      "name": "Rorschach",
+      "url": "https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS"
+    },
+    {
+      "album": {
         "name": "Rugido de Cien Mil Dragones",
         "url": "https://open.spotify.com/album/2USasy5iVrMq5FNwnUuZT4"
       },
@@ -1605,7 +1667,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 183000,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/45i5W1vz9hd0Msl6YjNJHO"
@@ -1699,7 +1761,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 242638,
       "name": "Tiempo Sin Sue\u00f1os (feat. Conociendo Rusia)",
       "url": "https://open.spotify.com/track/2CuikRtiqFulp7zXdrayni"
@@ -1805,6 +1867,24 @@
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
+    },
+    {
+      "album": {
+        "name": "Ultra Free",
+        "url": "https://open.spotify.com/album/00rJK2jvhkRho9npgLWL1w"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180146,
+      "name": "Ultra Free",
+      "url": "https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o"
     },
     {
       "album": {

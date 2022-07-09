@@ -4,7 +4,7 @@
 
 > This is the new core at its finest\. Cover: Miss May I
 
-322 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+323 songs - 19 hr 28 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 |  |
 | [Earthquake](https://open.spotify.com/track/0LrweVkIjYuXjtJYS8vaL4) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Earthquake](https://open.spotify.com/album/7ipDIQx6f6t0cuyoCFYDr1) | 3:49 | 2021-12-17 | 2022-01-08 |
 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 | 2021-12-17 | 2022-02-18 |
+| [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 | 2022-07-08 |  |
 | [Erase My Mind](https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Home](https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P) | 3:11 | 2021-12-17 | 2022-04-02 |
 | [Eraser](https://open.spotify.com/track/588UONZ98cyfcM2IEia5nf) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Eraser](https://open.spotify.com/album/2yvQYev2fyWfAOLrjXgQnE) | 2:33 | 2021-12-17 | 2022-01-08 |
 | [EYE TO EYE](https://open.spotify.com/track/532PgIpf93c12uY9SAWheS) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [EYE TO EYE](https://open.spotify.com/album/52Bi5Euib8FrdsJLA7LsT1) | 3:53 | 2022-04-15 | 2022-07-01 |

@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-81 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
+82 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Theme From M\*A\*S\*H \- Live](https://open.spotify.com/track/1kzrdCbFcXxUUHc2eHEdhg) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Joe LaBarbera](https://open.spotify.com/artist/6cNZnJFHmf0jFAiXFo1L2F) | [Theme From M\*A\*S\*H \(Live\)](https://open.spotify.com/album/7s5CjcnG4ecB9z1FV3rkvy) | 4:56 | 2022-03-18 |  |
 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 | 2021-11-12 |  |
 | [Well, You Needn't \- Live \[It Club\]](https://open.spotify.com/track/7dqd672DHvOU9OF41vRxl1) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Thelonious Monk Live At The It Club \- Complete](https://open.spotify.com/album/7AEiZMDP0eB990c44G4zDT) | 9:16 | 2021-11-12 |  |
+| [What It Is \- Live In Montreal \- July 7, 1983](https://open.spotify.com/track/5daKUVUo5FVbXv6TF6Ic5D) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [What It Is \(Live In Montreal \- July 7, 1983\)](https://open.spotify.com/album/5iNscjGQmMygfbiWXJlpkx) | 6:45 | 2022-07-08 |  |
 | [Windjammer \- Live At The Lighthouse, Hermosa Beach, CA/1972](https://open.spotify.com/track/2JqnTQh5Shj7V5geLwXJZj) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Live At The Lighthouse](https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ) | 12:15 | 2021-11-12 |  |
 | [Yesterdays \(Live\) \- Live At Cafe Bohemia, NY, 1955 / Remastered 2001](https://open.spotify.com/track/3261Vks4j8VomrwDXph9zB) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [At The Cafe Bohemia](https://open.spotify.com/album/7abhRrzWB22yrMLbp7HcMJ) | 4:18 | 2021-11-12 |  |
 

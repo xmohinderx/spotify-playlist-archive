@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4UpA1KitN1RgIZVyWDbZ0U">DOMi & JD BECK</a> collaborates with Spotify on this playlist to share their jazz favorites
 
-266 songs - 1 day 0 hr 43 min - [published](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
+267 songs - 1 day 0 hr 48 min - [published](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Sylvia](https://open.spotify.com/track/7gd7BDwZWjGXD6CfX7KQcF) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Arthur Verocai](https://open.spotify.com/album/4yv17Q486G8QoqM001kFKO) | 3:03 | 2022-01-13 | 2022-01-17 |
 | [Synthetic World](https://open.spotify.com/track/2SzN8aFto8qDLdA9Lj0txB) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [The Excellent Sides of Swamp Dogg Vol\. 1](https://open.spotify.com/album/1KWyim9gjeXiLIqtsIOJZs) | 3:25 | 2022-03-18 | 2022-04-29 |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2022-01-13 | 2022-01-17 |
+| [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm) | 4:24 | 2022-07-08 |  |
 | [Taurus](https://open.spotify.com/track/1Jbmu6SdB3cstf95oTNuXx) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Zodiac Suite](https://open.spotify.com/album/0rNgP6dA7elgUCINGUUeyI) | 2:35 | 2022-04-29 | 2022-06-18 |
 | [Tears in Heaven](https://open.spotify.com/track/6NlmRmhfmccg4mmmPP0Vyd) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Wish](https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij) | 3:21 | 2022-01-17 | 2022-02-19 |
 | [Textures](https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Mr\. Hands](https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5) | 6:38 | 2022-06-17 |  |

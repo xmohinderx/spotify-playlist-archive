@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: NoCap
 
-93 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+94 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Letter 2 My Brother](https://open.spotify.com/track/5QIT3l4ZyXIUn9fe0hYfr3) | [Lil Kee](https://open.spotify.com/artist/21UqznWenhsInMOKxpVPBd) | [Letter 2 My Brother](https://open.spotify.com/album/4IhixF00YHMV3nPGVdFzMS) | 3:22 | 2022-05-06 |  |
 | [Life Support](https://open.spotify.com/track/1vERyqgnr9u4BnbLTKFNq6) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell](https://open.spotify.com/album/0M9H12x4U2F2VtAhQRuQ6S) | 3:53 | 2021-09-24 | 2022-03-12 |
 | [Lion Eyes](https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lion Eyes](https://open.spotify.com/album/6LP3eNouezRT5SsEviDcr3) | 1:52 | 2021-11-12 | 2022-06-25 |
+| [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr) | 3:00 | 2022-07-08 |  |
 | [livin wild](https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:22 | 2022-01-26 |  |
 | [Luigi \(feat\. Chief Keef\)](https://open.spotify.com/track/2LvbYwfsRvGYnRytG573iW) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Luigi \(feat\. Chief Keef\)](https://open.spotify.com/album/6o58I8nVfoDw0MGhpG6amS) | 3:21 | 2021-10-22 | 2022-04-10 |
 | [Mad That I'm Rich \(feat\. FCG Heem\)](https://open.spotify.com/track/2F36MK3mo9y03u5WeQuw7B) | [Project Youngin](https://open.spotify.com/artist/0zSnym91x3cA9RTp3wHff0), [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC) | [Letter From The Projects](https://open.spotify.com/album/3QxR8x7qrawR2l7F4jBWB1) | 3:15 | 2021-12-17 | 2022-05-20 |

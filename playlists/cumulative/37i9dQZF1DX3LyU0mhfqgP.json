@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Claim your space with the newest songs from LGBTQIA+ artists. Cover: Gia Woods",
+  "description": "Claim your space with the newest songs from LGBTQIA+ artists. Cover: Doechii",
   "name": "Out Now",
   "published_playlist_ids": [
     "6zK7hnGvgZc1PZ34TAWzzK"
@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "BDSM",
+        "url": "https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209383,
+      "name": "BDSM",
+      "url": "https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8"
+    },
+    {
+      "album": {
         "name": "Near Life Experience Part One",
         "url": "https://open.spotify.com/album/0Mzy64DaJ2GTdPHStsn1qf"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 169968,
       "name": "Be In Her Bedroom",
       "url": "https://open.spotify.com/track/77yU8cXphr0D15KKJBMidV"
@@ -541,10 +559,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 244750,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0Wj4lcMuTx79dg4iwxzXgH"
+    },
+    {
+      "album": {
+        "name": "Bitch I'm Nice",
+        "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87037,
+      "name": "Bitch I'm Nice",
+      "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
     },
     {
       "album": {
@@ -635,7 +671,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 176427,
       "name": "Blue Dream Baby",
       "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
@@ -855,7 +891,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 138266,
       "name": "Catch This Love",
       "url": "https://open.spotify.com/track/6srcAu7CPT2h2ePrCEm42q"
@@ -1359,7 +1395,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 203358,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/6u6BehEzXV24njiIbK4KtE"
@@ -1377,7 +1413,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 189898,
       "name": "deep in the woods",
       "url": "https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h"
@@ -1489,7 +1525,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Dose",
       "url": "https://open.spotify.com/track/2EF8lku4iNs7sMJBLZ8DqZ"
@@ -1507,7 +1543,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 207216,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/40NJ6IcslmhpnxVCY0mQUl"
@@ -1597,7 +1633,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
@@ -1659,7 +1695,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 172200,
       "name": "F*****g Up What Matters",
       "url": "https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5"
@@ -1681,7 +1717,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 191188,
       "name": "Fall In Love With A Girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
@@ -1721,7 +1757,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 164785,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/1beBffSPiC69t4iPU1aOTx"
@@ -1838,7 +1874,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 158486,
+      "duration_ms": 157685,
       "name": "for the girls",
       "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
     },
@@ -2021,7 +2057,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 194208,
       "name": "GET ME OUTTA HERE",
       "url": "https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8"
@@ -2216,6 +2252,24 @@
     },
     {
       "album": {
+        "name": "GMT",
+        "url": "https://open.spotify.com/album/1DxcIuPG0YT1kcPXOkdYL1"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "GMT",
+      "url": "https://open.spotify.com/track/7edS2WLGBDCqpNAsDdtJb2"
+    },
+    {
+      "album": {
         "name": "Go Home!",
         "url": "https://open.spotify.com/album/6JDNtBDAUI8KaWT0TAqetc"
       },
@@ -2227,7 +2281,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 161673,
       "name": "Go Home!",
       "url": "https://open.spotify.com/track/5lMMj6wp1O5POGMrrJLjzy"
@@ -2731,7 +2785,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 241920,
       "name": "Honey Understand",
       "url": "https://open.spotify.com/track/3q5eBVe8qOa1x3f24xoBkc"
@@ -2785,7 +2839,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 199314,
       "name": "How Long - From\"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
@@ -3027,7 +3081,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 132250,
       "name": "I THINK YOU TURNED ME",
       "url": "https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0"
@@ -3237,7 +3291,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 221871,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z"
@@ -3291,7 +3345,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 159608,
       "name": "jenny",
       "url": "https://open.spotify.com/track/4c8vbW5fv8fIFdt7thpKRp"
@@ -3425,7 +3479,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 151307,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
@@ -3501,7 +3555,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 173905,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
@@ -3757,7 +3811,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 184166,
       "name": "Love You When You\u2019re Gone",
       "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
@@ -4089,7 +4143,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 163082,
       "name": "nice pup",
       "url": "https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE"
@@ -4379,7 +4433,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 247419,
       "name": "Palladium",
       "url": "https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3"
@@ -4415,7 +4469,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 237133,
       "name": "Parasites",
       "url": "https://open.spotify.com/track/1jTUPYLNOVm37c8QA8n25V"
@@ -4577,7 +4631,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 188160,
       "name": "PRE MADONNA",
       "url": "https://open.spotify.com/track/7HEVw1CmTyeCvB1RjpVf1i"
@@ -5141,7 +5195,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 214157,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB"
@@ -5257,7 +5311,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 143188,
       "name": "snakes",
       "url": "https://open.spotify.com/track/4CigTjRg2PZZKYAus45wOA"
@@ -5293,7 +5347,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
@@ -5463,7 +5517,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 160058,
       "name": "sugarcane",
       "url": "https://open.spotify.com/track/4IKKOmbPQOHyUm1VX6dpzV"
@@ -5637,7 +5691,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 250213,
       "name": "The Curse of the Blackened Eye",
       "url": "https://open.spotify.com/track/4o5XagsRjI8g1lGryYhrGD"
@@ -6187,7 +6241,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 175714,
       "name": "White Rabbit (feat. Michelle Branch)",
       "url": "https://open.spotify.com/track/3vytvFuEeRHKgmgNA0Ur7X"
@@ -6353,7 +6407,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 166263,
       "name": "you ruined phoebe bridgers",
       "url": "https://open.spotify.com/track/1wbqhfq7CIN9Q5FL8CL90r"

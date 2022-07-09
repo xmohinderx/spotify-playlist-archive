@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Foals
 
-304 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+305 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Savage Lands](https://open.spotify.com/track/5nDrnOSq8NuwHJpwH6Zv0y) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 4:24 | 2021-10-29 |  |
 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/2Srbekd8waUUAr0gIMt5dg) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/album/0IZGnnl5a2wFGLsCYHJyQ6) | 3:30 | 2020-10-10\* | 2021-05-13 |
 | [Season 5 \(Break My Fall\)](https://open.spotify.com/track/0SfCryEa05GUIWP9DJEd7R) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [Season 5 \(Break My Fall\)](https://open.spotify.com/album/2Cew4ZRUkzcT9Dn8AlPMco) | 3:14 | 2022-05-20 |  |
+| [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-07-08 |  |
 | [Sex Magik](https://open.spotify.com/track/5QUfvTWB3lufXitDEbrcT7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Sex Magik](https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU) | 3:26 | 2022-02-25 |  |
 | [Shadowland](https://open.spotify.com/track/1l3elIbQWyMArfxbIXM6uB) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Shadowland](https://open.spotify.com/album/5scdC0iQINKXXSwqwHTyVi) | 5:21 | 2020-10-16 | 2022-03-18 |
 | [She Couldn't](https://open.spotify.com/track/11LguGpEjOklkNQr70nrHQ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [She Couldn't](https://open.spotify.com/album/43tjeef8lVwnRffkZY0uQp) | 5:05 | 2020-10-10\* | 2022-03-18 |

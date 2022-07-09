@@ -132,6 +132,28 @@
     },
     {
       "album": {
+        "name": "Trap de Quebra (Deluxe)",
+        "url": "https://open.spotify.com/album/19fuY6ljpmJaymifBNFqDf"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179439,
+      "name": "Ambi\u00e7\u00e3o e Desejo",
+      "url": "https://open.spotify.com/track/6RAJXjuBuK2SvSmVRPuoG5"
+    },
+    {
+      "album": {
         "name": "Aonde Eu Sou Cria",
         "url": "https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1"
       },
@@ -452,6 +474,36 @@
     },
     {
       "album": {
+        "name": "COPO DO GERSON",
+        "url": "https://open.spotify.com/album/5Wm6ycHKsHus4Ah6hkhveh"
+      },
+      "artists": [
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        },
+        {
+          "name": "DROPEreal",
+          "url": "https://open.spotify.com/artist/0W4OeSgEAxfqQWFQu6LQ00"
+        },
+        {
+          "name": "Guiu",
+          "url": "https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px"
+        },
+        {
+          "name": "RnoCria21",
+          "url": "https://open.spotify.com/artist/72YrAIwheQnB0AvdIvGAMq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "COPO DO GERSON",
+      "url": "https://open.spotify.com/track/44Z9tey4l3w2lfeVkD5zGi"
+    },
+    {
+      "album": {
         "name": "Zoo",
         "url": "https://open.spotify.com/album/3jqd57ft9JoXiJnIJreNHb"
       },
@@ -671,7 +723,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 140000,
       "name": "Ela Quer 2",
       "url": "https://open.spotify.com/track/3kX2NPiYhraUBcRxRP4cHS"
@@ -925,7 +977,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 201600,
       "name": "Jessiquinha",
       "url": "https://open.spotify.com/track/3H5wWhrqdGO4LKP2DXwhVJ"

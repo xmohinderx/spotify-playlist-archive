@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Zeds Dead",
+  "description": "The best of today's dance hits. Cover: Loud Luxury",
   "name": "mint Canada",
   "published_playlist_ids": [
     "1PEHoMgddwKvz8RvsLstCM"
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Al Boomer's Lounge",
+        "url": "https://open.spotify.com/album/29XUzzBVAOWS8UvzhtP6tJ"
+      },
+      "artists": [
+        {
+          "name": "Honeydripper",
+          "url": "https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358584,
+      "name": "Al Boomer's Lounge",
+      "url": "https://open.spotify.com/track/5XkNlLfzV9DHWKVlw9Mu8a"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3ONdVw5rchTT3gLfJUYSdy"
       },
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 146065,
       "name": "All Night & Every Day",
       "url": "https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ"
@@ -742,6 +760,28 @@
     },
     {
       "album": {
+        "name": "Can You Pay?",
+        "url": "https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri"
+      },
+      "artists": [
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Pessto",
+          "url": "https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133573,
+      "name": "Can You Pay?",
+      "url": "https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f"
+    },
+    {
+      "album": {
         "name": "Can't Get Over You (feat. Aloe Blacc)",
         "url": "https://open.spotify.com/album/1dlQZWMYBgvrP0azHKfah3"
       },
@@ -863,7 +903,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 355920,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar"
@@ -1340,6 +1380,32 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
+        "url": "https://open.spotify.com/album/5fGpsmRrs2q0XWY8lo4xaA"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
+      "url": "https://open.spotify.com/track/251aCFbFK1f4Jkil96E5g1"
+    },
+    {
+      "album": {
         "name": "Dopamine (feat. Eyelar)",
         "url": "https://open.spotify.com/album/6ViQtwjVgVNTTkEqn9YETq"
       },
@@ -1413,7 +1479,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 406829,
       "name": "Duke Silver's Place",
       "url": "https://open.spotify.com/track/66Dg7wIo6UsTDA4NJEBpZE"
@@ -1776,6 +1842,28 @@
     },
     {
       "album": {
+        "name": "Hush Hush EP",
+        "url": "https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ"
+      },
+      "artists": [
+        {
+          "name": "Serge Devant",
+          "url": "https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP"
+        },
+        {
+          "name": "Forrest",
+          "url": "https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243809,
+      "name": "Flashback feat. Forrest",
+      "url": "https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q"
+    },
+    {
+      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
       },
@@ -2035,6 +2123,28 @@
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
+    },
+    {
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/0WIwvSVJ7kcFOsrjuzd2Lr"
+      },
+      "artists": [
+        {
+          "name": "Marcus James",
+          "url": "https://open.spotify.com/artist/3VEzgR55OpqT9SyPeOwrQ4"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159995,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/6tPYz05avJHydJ4gv8JAmn"
     },
     {
       "album": {
@@ -2967,7 +3077,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 238125,
       "name": "INTO THE UNKNOWN",
       "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
@@ -3171,6 +3281,24 @@
       "duration_ms": 157619,
       "name": "La Danza",
       "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    {
+      "album": {
+        "name": "La Murga (Michael's Midnight Mix)",
+        "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206971,
+      "name": "La Murga - Michael's Midnight Mix",
+      "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
     },
     {
       "album": {
@@ -3501,7 +3629,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 222916,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/4CIQtXCxU3yChA88LzC3Ai"
@@ -3950,6 +4078,24 @@
     },
     {
       "album": {
+        "name": "Missing You / Something About Your Love",
+        "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222650,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0liLrRUJW0oTNwsZh8kPBx"
+    },
+    {
+      "album": {
         "name": "fuck ya go us",
         "url": "https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT"
       },
@@ -3965,7 +4111,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 197142,
       "name": "monotony (feat. Party Nails)",
       "url": "https://open.spotify.com/track/5OPRwpt3Bl41raaWphfW3q"
@@ -5094,6 +5240,28 @@
     },
     {
       "album": {
+        "name": "Really Special",
+        "url": "https://open.spotify.com/album/0FdnSC3UbA7fmNlJaDbBaT"
+      },
+      "artists": [
+        {
+          "name": "Block & Crown",
+          "url": "https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7"
+        },
+        {
+          "name": "Nick Fiorucci",
+          "url": "https://open.spotify.com/artist/3YPMYCdGVCZz2xLDUbR3TY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291428,
+      "name": "Really Special",
+      "url": "https://open.spotify.com/track/0UVY8JcLsmhjMd7hkqvX7j"
+    },
+    {
+      "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
@@ -5347,7 +5515,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 187320,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs"
@@ -5387,7 +5555,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 207272,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
@@ -5457,7 +5625,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 209760,
       "name": "Sete",
       "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
@@ -6282,6 +6450,28 @@
     },
     {
       "album": {
+        "name": "Tantale",
+        "url": "https://open.spotify.com/album/0KguNfeAVd9Jyv5p4m65ao"
+      },
+      "artists": [
+        {
+          "name": "Kora (CA)",
+          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
+        },
+        {
+          "name": "Ra*faelle",
+          "url": "https://open.spotify.com/artist/1j3ssAVlxEXuW9zikS7gfO"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515702,
+      "name": "Tantale",
+      "url": "https://open.spotify.com/track/011mlIOhqipYb0bttQZnuX"
+    },
+    {
+      "album": {
         "name": "Taurus",
         "url": "https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G"
       },
@@ -6319,7 +6509,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 170982,
       "name": "Teardrops (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC"
@@ -6639,6 +6829,28 @@
       "duration_ms": 158724,
       "name": "The Parade",
       "url": "https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN"
+    },
+    {
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132417,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
     },
     {
       "album": {
@@ -7009,7 +7221,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 122054,
       "name": "U&U (feat. R\u00eave & Tim North)",
       "url": "https://open.spotify.com/track/2YnpF6En8tjNmkFDU4yK6y"
@@ -7291,6 +7503,24 @@
       "duration_ms": 193893,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
+    },
+    {
+      "album": {
+        "name": "What You Waiting for?",
+        "url": "https://open.spotify.com/album/122TcLx7ilK2T5Ri3mJ92C"
+      },
+      "artists": [
+        {
+          "name": "Sinner & James",
+          "url": "https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "What You Waiting for?",
+      "url": "https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI"
     },
     {
       "album": {

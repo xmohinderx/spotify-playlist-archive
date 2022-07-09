@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 
 > Warming instrumental guitar for sitting by the fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,468 likes - 155 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,510 likes - 155 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 154 | [Transient Clouds](https://open.spotify.com/track/0mDXzY5kBcJEc5Ko75BVJX) | [Nesima](https://open.spotify.com/artist/530XbBVaksvDN09nLsbwER) | [Spring in My Head](https://open.spotify.com/album/1C9NbVsvBeLOD46KO0H3sz) | 2:56 |
 | 155 | [To the Coast of Ceylon](https://open.spotify.com/track/2SEAYMXCzCv2ESdSd136Hd) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:32 |
 
-Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDAxNzAwMDAwMTgxZGIxYjJjYjcwMDAwMDE3YzAyN2ZlNTc4`
+Snapshot ID: `MTY1NzI5MjA0NCwwMDAwMDAxODAwMDAwMTgxZGU0ZGI5NjUwMDAwMDE4MWRlNGRhMjZi`

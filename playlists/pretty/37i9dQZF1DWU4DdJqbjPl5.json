@@ -1,12 +1,12 @@
 {
   "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g?si=orS8U0gwQGGOsf9HxylsAg\" > Jeremy Loops</a>",
-  "num_followers": 112908,
+  "num_followers": 113021,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0Mjc1NywwMDAwMDAwMDZmOTcwZGJmNzFlZDg2MzQ5MmRkNzQ0MGNkNmJmZGVm",
+  "snapshot_id": "MTY1NzMyODM1OCwwMDAwMDAwMDZmOTcwZGJmNzFlZDg2MzQ5MmRkNzQ0MGNkNmJmZGVm",
   "tracks": [
     {
       "added_at": "2022-06-08 08:17:06",
@@ -379,6 +379,22 @@
       "duration_ms": 177000,
       "name": "Fashion Killer",
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
+    },
+    {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Old Flame",
+        "url": "https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw"
+      },
+      "artists": [
+        {
+          "name": "Rhita Nattah",
+          "url": "https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr"
+        }
+      ],
+      "duration_ms": 124428,
+      "name": "Old Flame",
+      "url": "https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8"
     },
     {
       "added_at": "2022-06-08 08:17:06",

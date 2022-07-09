@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,147 likes - 46 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,159 likes - 46 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 45 | [Roucky \(feat\. Taj Mahal\) \- 2017 Remastered Version](https://open.spotify.com/track/5VJpfs13Kfbc4Ti455wZ4e) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:34 |
 | 46 | [Toungere](https://open.spotify.com/track/0K3W6FrcGzkgYJjYwa8m17) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 7:31 |
 
-Snapshot ID: `Mjc2MjAwNDAsMDAwMDAwMDBlMmY2MWYyMDA1MzI0ZGY1Y2ZiM2ZiYjFkZTc5NGY2ZA==`
+Snapshot ID: `Mjc2MjE1MzIsMDAwMDAwMDAwNzdiYjRiYTVhOTVkN2YxMzAzNjI1NTRmOTI2NDllMg==`

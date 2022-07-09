@@ -1,13 +1,61 @@
 {
   "description": "\ud83d\ude08 \ud83d\ude08 \ud83d\ude08  Cover: Freddie Dredd",
-  "num_followers": 243428,
+  "num_followers": 243785,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIxNjYzMiwwMDAwMDBiMzAwMDAwMTgxZDljZjA4MjIwMDAwMDE4MTAxMDdiZDBk",
+  "snapshot_id": "MTY1NzI5NjEzMCwwMDAwMDBiNTAwMDAwMTgxZGU4YzEwYjYwMDAwMDE4MTAxMDdiZDBk",
   "tracks": [
+    {
+      "added_at": "2022-07-01 04:18:00",
+      "album": {
+        "name": "Escape From BABYLON",
+        "url": "https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 141043,
+      "name": "Escape From BABYLON",
+      "url": "https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3"
+    },
+    {
+      "added_at": "2022-07-08 07:04:00",
+      "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/021icRE8txfPQMBmEz6j2r"
+      },
+      "artists": [
+        {
+          "name": "Oh Gasm!",
+          "url": "https://open.spotify.com/artist/1VMMM8J2XHnLHyTPQ0HS0s"
+        }
+      ],
+      "duration_ms": 111592,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/3Y7AlLapD7AYzmqS4CM5FR"
+    },
+    {
+      "added_at": "2022-07-08 07:04:00",
+      "album": {
+        "name": "Roswell",
+        "url": "https://open.spotify.com/album/1NndovHvyyBEYUJO69NmKY"
+      },
+      "artists": [
+        {
+          "name": "Haarper",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "duration_ms": 144166,
+      "name": "Roswell",
+      "url": "https://open.spotify.com/track/4G01UY2AijcdKA3BS4liYH"
+    },
     {
       "added_at": "2022-07-01 04:18:00",
       "album": {
@@ -25,6 +73,26 @@
       "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
     },
     {
+      "added_at": "2022-07-08 07:04:00",
+      "album": {
+        "name": "DEAD OR ALIVE",
+        "url": "https://open.spotify.com/album/6rGLysyfoqKWRGpKwn6cUp"
+      },
+      "artists": [
+        {
+          "name": "Sxmpra",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "DEAD OR ALIVE",
+      "url": "https://open.spotify.com/track/18vRG2hgEKrg9fgkITGvXT"
+    },
+    {
       "added_at": "2022-07-01 04:18:00",
       "album": {
         "name": "ANTI-ICON",
@@ -39,22 +107,6 @@
       "duration_ms": 151625,
       "name": "Fed Up",
       "url": "https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp"
-    },
-    {
-      "added_at": "2022-07-01 04:18:00",
-      "album": {
-        "name": "Escape From BABYLON",
-        "url": "https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 141043,
-      "name": "Escape From BABYLON",
-      "url": "https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3"
     },
     {
       "added_at": "2022-07-01 04:18:00",
@@ -159,6 +211,26 @@
       "duration_ms": 153600,
       "name": "DON'T BREATHE!",
       "url": "https://open.spotify.com/track/77Aac38YQDZ14cN4A5JAFx"
+    },
+    {
+      "added_at": "2022-07-08 07:04:00",
+      "album": {
+        "name": "ALL BLACK ATTIRE",
+        "url": "https://open.spotify.com/album/4Y705O8UoVmJuhZHOZrX9R"
+      },
+      "artists": [
+        {
+          "name": "SHUSH",
+          "url": "https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs"
+        },
+        {
+          "name": "ONI INC.",
+          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "ALL BLACK ATTIRE",
+      "url": "https://open.spotify.com/track/3ljyB9X8TMFKRkLEJ6JgtD"
     },
     {
       "added_at": "2022-07-01 04:18:00",

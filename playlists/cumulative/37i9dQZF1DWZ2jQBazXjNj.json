@@ -2016,6 +2016,32 @@
     },
     {
       "album": {
+        "name": "Para Abajo",
+        "url": "https://open.spotify.com/album/27KyrL4TeU1itZLc5uFPIQ"
+      },
+      "artists": [
+        {
+          "name": "Jenny69",
+          "url": "https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX"
+        },
+        {
+          "name": "Muzik Junkies",
+          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
+        },
+        {
+          "name": "DJ Morphius",
+          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189086,
+      "name": "Para Abajo",
+      "url": "https://open.spotify.com/track/1ai3HhUv3sdEOspgGc83QA"
+    },
+    {
+      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -2403,7 +2429,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 232500,
       "name": "Siente El Bajo",
       "url": "https://open.spotify.com/track/1qLMdXABrFzd7psp1sMV0p"

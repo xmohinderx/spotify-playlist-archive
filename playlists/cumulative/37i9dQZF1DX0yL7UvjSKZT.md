@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Mama's Broke
 
-147 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+152 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,9 @@
 | [Fish and Bird](https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Beat the Devil and Carry a Rail](https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV) | 5:13 | 2022-01-21 |  |
 | [Fishin'](https://open.spotify.com/track/57R26ENxtPjmBH5qhVuWaX) | [Luisa Marion](https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie) | [Just Memories](https://open.spotify.com/album/39sFZfld2W398U2FJc5yPE) | 3:35 | 2022-05-27 |  |
 | [Folk Bloodbath](https://open.spotify.com/track/7cwPw3wT77MvYo4Q8mcDLk) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Folk Bloodbath](https://open.spotify.com/album/7BUGUk2LXFZUlZFhwHNsVc) | 6:04 | 2021-10-01 |  |
+| [Freedom](https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Freedom](https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt) | 3:02 | 2022-07-08 |  |
 | [From The Dust](https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8) | [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [From The Dust](https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE) | 3:08 | 2022-01-14 |  |
+| [Going West](https://open.spotify.com/track/6D03AaCUjfhpaxrxf7AoGR) | [Michelle Rivers](https://open.spotify.com/artist/77pTWntGDAr6uRxFq2GZQc) | [Going West](https://open.spotify.com/album/65UYeqA3nLbTopSj14Udzj) | 3:02 | 2022-07-08 |  |
 | [Gone](https://open.spotify.com/track/3A37e37f2HPZ3Nq75akQqW) | [Michelle Rivers](https://open.spotify.com/artist/77pTWntGDAr6uRxFq2GZQc) | [Gone](https://open.spotify.com/album/6RSSNjlOMArkHjtgMU0YFb) | 4:05 | 2022-03-25 |  |
 | [Good Intentions](https://open.spotify.com/track/6586Yb57Ussd4h1A7brBsU) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Good Intentions](https://open.spotify.com/album/39To6wr7OM6vpS3HfvD8Kb) | 3:05 | 2022-01-07 |  |
 | [Gravity](https://open.spotify.com/track/0wdptlNBbiNuog9juv7DyV) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Gravity](https://open.spotify.com/album/7CZK1FnQ4wkZJE6XiwixBq) | 3:41 | 2021-10-01 | 2022-01-22 |
@@ -81,6 +83,7 @@
 | [Lemons and Tangerines \- Live Session, Paso Robles, CA, 2021](https://open.spotify.com/track/5xIO3D9k6gUGg5ptO1abRk) | [AJ Lee & Blue Summit](https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Jam in the Van \- AJ Lee & Blue Summit \(Live Session, Paso Robles, CA, 2021\)](https://open.spotify.com/album/5fmJvOgfxX37ndWmbnOL2U) | 4:12 | 2022-01-21 |  |
 | [Light My Fire](https://open.spotify.com/track/0qhSnJz1pLxidDVxFHH9XD) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Light My Fire](https://open.spotify.com/album/2Wj72J5gYHOtf2QhNDoP5T) | 3:11 | 2022-05-27 |  |
 | [Little Sadie](https://open.spotify.com/track/5oZVRtVqTDawr47jOda6AH) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound \(Deluxe\)](https://open.spotify.com/album/45cjYhMQZBlltDVr6sLXrG) | 2:32 | 2022-05-13 |  |
+| [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 | 2022-07-08 |  |
 | [Local Honey](https://open.spotify.com/track/0DoAh5V2UYlRSO0bi7sFim) | [Sean Watkins](https://open.spotify.com/artist/45K759axQK0aohwSjbkgpy) | [What to Fear](https://open.spotify.com/album/7jf04POqt5rp1jWM8KQhzd) | 2:44 | 2021-10-01 |  |
 | [Love Letter](https://open.spotify.com/track/3l6KKhbzmDDy4ye0qqgTEf) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Blind and Brave](https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90) | 3:07 | 2021-10-01 |  |
 | [Love Will Only Break Your Heart](https://open.spotify.com/track/2faqlLswnAEXMqkaiRQ5LW) | [The David Mayfield Parade](https://open.spotify.com/artist/2cUl2KIxv7FHmL4pt4uLsN) | [Good Man Down](https://open.spotify.com/album/5d2s0xDFNSP9DHcENh8Htz) | 2:53 | 2021-10-01 | 2022-01-22 |
@@ -132,6 +135,7 @@
 | [The Middle](https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [The Middle](https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct) | 4:28 | 2021-10-01 |  |
 | [The New Ground](https://open.spotify.com/track/6yljyecBkeP42NOhPzuJpH) | [Kristin Andreassen](https://open.spotify.com/artist/4ZmoZRx6S8AvKtFuRGIVSX) | [Gondolier](https://open.spotify.com/album/7FqccxROWYb0YQ3rg97ggN) | 3:26 | 2021-10-01 |  |
 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 | 2021-10-01 |  |
+| [Traveler](https://open.spotify.com/track/1d8RnzcjBkxDjnotF8KaAp) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Traveler](https://open.spotify.com/album/66IADnbHU3X1kasqfUtenr) | 3:36 | 2022-07-08 |  |
 | [Troubled Waltz](https://open.spotify.com/track/1pcyOZei4BnZ0RRljDoylz) | [The Howlin' Brothers](https://open.spotify.com/artist/2Ya197LjC2pz0ZXl0rwAgl) | [Trouble](https://open.spotify.com/album/7pYtZKjHhWshTqLyBuQXmY) | 3:41 | 2021-10-01 | 2022-02-12 |
 | [Troubles](https://open.spotify.com/track/6nnGWRHzscBMWQZjxokadI) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/4vdbptzhY4LSdn8H31J08U) | 2:14 | 2021-10-01 |  |
 | [Tucson](https://open.spotify.com/track/2p9za39w0aVoLWGfVr7enK) | [St\. Beaufort](https://open.spotify.com/artist/0xzQcilTb96Drs3GMMKwVU) | [Tucson](https://open.spotify.com/album/48s7GtXLDRdarhXNmvzhT8) | 3:29 | 2022-04-01 |  |
@@ -150,6 +154,7 @@
 | [Won’t Be Long](https://open.spotify.com/track/29rZE5N3Q3Ke3GtJaQdbdR) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Ladies & Gentlemen](https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N) | 3:16 | 2021-10-01 |  |
 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 | 2021-10-01 |  |
 | [Yarrow](https://open.spotify.com/track/4sGJEM8PFJTvM3AcVRs8G4) | [Red Tail Ring](https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3) | [Fall Away Blues](https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr) | 3:21 | 2021-10-01 |  |
+| [You & Me](https://open.spotify.com/track/0n5Fuy0G10GmUiCD83hIMw) | [Useful Jenkins](https://open.spotify.com/artist/6uspASPue822fmki6Wr8ZD) | [Fool's Gold](https://open.spotify.com/album/4BfATC0CJMywroF4caIdiA) | 3:31 | 2022-07-08 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/036wosWhY0P3ibCFRQLgbw) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [You Are My Sunshine](https://open.spotify.com/album/1ce4TJnN4Hn9km24yisiep) | 3:20 | 2021-10-15 | 2022-01-08 |
 | [You Are My Sunshine](https://open.spotify.com/track/3gg5FHI5j0FjXrEk6jO71Y) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [You Are My Sunshine](https://open.spotify.com/album/7hyMzALTKSgT2XN2qc9lvD) | 3:20 | 2022-01-07 | 2022-01-22 |
 | [You Look Like Trouble \- But I Guess I Do Too](https://open.spotify.com/track/7KVUUbgwJsr5upohiyQkW7) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Highways Heartaches and Time Well Wasted \- EP](https://open.spotify.com/album/1mHrAySciYSR2nZIRpuBg5) | 3:45 | 2021-10-01 |  |

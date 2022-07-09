@@ -11430,6 +11430,24 @@
     },
     {
       "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
+    },
+    {
+      "album": {
         "name": "rocket science",
         "url": "https://open.spotify.com/album/2AnbP606iCAadKQyqfxq32"
       },
@@ -11579,6 +11597,24 @@
       "duration_ms": 130042,
       "name": "Sad Anymore",
       "url": "https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6"
+    },
+    {
+      "album": {
+        "name": "Sad Baby",
+        "url": "https://open.spotify.com/album/1MMgsQcs2mV3XalOFcJIo9"
+      },
+      "artists": [
+        {
+          "name": "Mishaal",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218130,
+      "name": "Sad Baby",
+      "url": "https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B"
     },
     {
       "album": {

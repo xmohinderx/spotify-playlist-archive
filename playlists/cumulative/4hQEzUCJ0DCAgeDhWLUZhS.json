@@ -4070,6 +4070,24 @@
     },
     {
       "album": {
+        "name": "SELF-SABOTAGE",
+        "url": "https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157053,
+      "name": "SELF-SABOTAGE",
+      "url": "https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3"
+    },
+    {
+      "album": {
         "name": "Sex Magik",
         "url": "https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU"
       },

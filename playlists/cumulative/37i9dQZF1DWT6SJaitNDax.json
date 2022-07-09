@@ -105,7 +105,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "A Million",
       "url": "https://open.spotify.com/track/50Auw53j8FiSIB4frKT12I"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 189106,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/6BtXtwOOy9CfpdlClUscJv"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 168865,
       "name": "Badman Love - Remix",
       "url": "https://open.spotify.com/track/5iRSqf87cY8ldNrPpbymRq"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 174774,
       "name": "Big Thug Boys (Dj Yo! Remix)",
       "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 194627,
       "name": "Can't Let You Go",
       "url": "https://open.spotify.com/track/5YmPSElBlLt0Yy1zPOUGqi"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 194856,
       "name": "Can't Let You Go - Remix",
       "url": "https://open.spotify.com/track/1jpWdlkRzrWWSg3tESHf34"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 179461,
       "name": "Champion",
       "url": "https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR"
@@ -1037,6 +1037,28 @@
       "duration_ms": 179080,
       "name": "CHOP N PRAY",
       "url": "https://open.spotify.com/track/0NtyyD2hX0VY9jKVsEVHTF"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
       "album": {
@@ -1265,7 +1287,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 165849,
       "name": "Dangerous Love - M\u00f8me Edit",
       "url": "https://open.spotify.com/track/1zRFuReZGAV4vgCyF88ait"
@@ -1485,7 +1507,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 206086,
       "name": "Dumebi (Matoma Remix)",
       "url": "https://open.spotify.com/track/1iz8whv91h636omc6PbcWc"
@@ -1525,7 +1547,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 174295,
       "name": "E Be Mad",
       "url": "https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY"
@@ -1543,7 +1565,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 172191,
       "name": "ELI",
       "url": "https://open.spotify.com/track/264tFYse4A4qbgmaur6Pxd"
@@ -1960,6 +1982,28 @@
     },
     {
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+    },
+    {
+      "album": {
         "name": "FOR YOU",
         "url": "https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0"
       },
@@ -2267,7 +2311,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "Grandad",
       "url": "https://open.spotify.com/track/35Q5ldq74wOaAErCmL9OQZ"
@@ -2289,7 +2333,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "Guestlist",
       "url": "https://open.spotify.com/track/46yplRp7xn26QkDe8AdgaB"
@@ -2497,7 +2541,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 160733,
       "name": "I No Go Give Up On You",
       "url": "https://open.spotify.com/track/5gj2HpTTav81pD714RdU1O"
@@ -2739,7 +2783,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 182666,
       "name": "Killa (feat. DaVido)",
       "url": "https://open.spotify.com/track/46YL800EFmXBhOjab7MLsy"
@@ -2889,7 +2933,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 146249,
       "name": "Legalize",
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
@@ -2995,7 +3039,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 241293,
       "name": "Location (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
@@ -3035,7 +3079,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 176000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/7CEtMPWyALbePUNSi5Ak3F"
@@ -3171,7 +3215,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 210826,
       "name": "Love Nobody",
       "url": "https://open.spotify.com/track/2pg8Vb16ItDI2bovhZalrQ"
@@ -3251,7 +3295,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 238016,
       "name": "MAD",
       "url": "https://open.spotify.com/track/6mGUY6CaFbnK9a6YxV5lpJ"
@@ -3581,7 +3625,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 171493,
       "name": "M\u00e9chante",
       "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
@@ -3611,7 +3655,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 217520,
       "name": "Never Forget [Feat. Chef 187, Tio Nason, Mwanj\u00e9]",
       "url": "https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7"
@@ -3949,7 +3993,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 183092,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/6DaBr6zT7hlxNchzYVgPds"
@@ -4227,7 +4271,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 184433,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/0eqCKOEU3ZVuLFFsmupw5r"
@@ -4245,7 +4289,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 208692,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/02FYtL48KCMi11uRttaMeH"
@@ -4307,7 +4351,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 205640,
       "name": "Play Play (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2kxWRS8ZcJZ51Dik5uKGK6"
@@ -4347,7 +4391,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 234161,
       "name": "plenty feat. Sons of Sonix",
       "url": "https://open.spotify.com/track/213lc71WFDmKgHDFhR55rP"
@@ -4443,7 +4487,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 186782,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
@@ -4465,7 +4509,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 185080,
       "name": "Princess Cuts (feat. Young T & Bugsey)",
       "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
@@ -4689,7 +4733,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 233293,
       "name": "Roadblock",
       "url": "https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX"
@@ -5539,7 +5583,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 251286,
       "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
       "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
@@ -5705,7 +5749,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 169669,
       "name": "Talk 2 Me Nice",
       "url": "https://open.spotify.com/track/1JHI3YiQd6mExSgjd1mrjH"
@@ -5789,7 +5833,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
@@ -5843,7 +5887,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 168896,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD"
@@ -5947,7 +5991,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 202012,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/7uNU0RCnCy6lGG2Id1cN4Z"
@@ -5987,7 +6031,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 185341,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
@@ -6027,7 +6071,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 334475,
       "name": "Today",
       "url": "https://open.spotify.com/track/4t7c1fZ0apVcUOyj9hi6Tv"
@@ -6105,7 +6149,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 185652,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/3ZUWEJ3Vl7xsxydVMM6Ebv"

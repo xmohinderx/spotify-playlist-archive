@@ -788,6 +788,24 @@
     },
     {
       "album": {
+        "name": "Dance 2 The Beat",
+        "url": "https://open.spotify.com/album/6qwyUm3xT0G3C0acI1jlPY"
+      },
+      "artists": [
+        {
+          "name": "HeyMcFly!",
+          "url": "https://open.spotify.com/artist/65lYK1dU8mQjVthSTNtJS2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216124,
+      "name": "Dance 2 The Beat",
+      "url": "https://open.spotify.com/track/3sP5Qa52HgEZUpbJtNJKs0"
+    },
+    {
+      "album": {
         "name": "Dani Girl",
         "url": "https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa"
       },

@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-121 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
+122 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Remind U \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI) | [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Real Life](https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI) | 2:48 | 2021-11-19 |  |
 | [Retrograde \(Arr\. Rimmer / Maydew\)](https://open.spotify.com/track/2Qzs78maIl8RzAbzGCHuOc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [TIME](https://open.spotify.com/album/0JI3Z1yxCT2j9ZXw4hXriA) | 3:41 | 2021-11-19 |  |
 | [ROCKSTAR](https://open.spotify.com/track/6g6kKzZvUccFnKUBFxmYsP) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ROCKSTAR](https://open.spotify.com/album/320h3om9QXkhhX05vDU5T6) | 3:04 | 2021-11-19 |  |
-| [Running Up That Hill \- Violin](https://open.spotify.com/track/3H9au5DxP2ryR2ozNngGM3) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Running Up That Hill \(Violin\)](https://open.spotify.com/album/1ijNnoLrJNS8ZPcScKZGsi) | 4:06 | 2022-06-24 |  |
+| [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 | 2022-07-08 |  |
+| [Running Up That Hill \- Violin](https://open.spotify.com/track/3H9au5DxP2ryR2ozNngGM3) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Running Up That Hill \(Violin\)](https://open.spotify.com/album/1ijNnoLrJNS8ZPcScKZGsi) | 4:06 | 2022-06-24 | 2022-07-09 |
 | [Save Your Tears \(arr\. string quartet\) \- Inspired by 'Bridgerton'](https://open.spotify.com/track/4OwrUXHzt5gqQo2DguWyQY) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Save Your Tears \(arr\. String quartet\) \[Inspired by 'Bridgerton'\]](https://open.spotify.com/album/0c9bKDLYp5SnXTx2gkvquF) | 3:05 | 2022-04-08 |  |
 | [Señorita](https://open.spotify.com/track/5IUkEKXYrAzIhgHeAyU6gE) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Señorita](https://open.spotify.com/album/5fMUj1mTQwHCPfloI8071G) | 3:04 | 2021-11-19 |  |
 | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/4gcQGnyJYyxlbTtO8Qx9Dy) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/4nUKrWBOAJ0jb4lVFkDej2) | 2:40 | 2021-11-19 |  |

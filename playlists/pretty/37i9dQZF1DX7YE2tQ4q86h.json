@@ -1,13 +1,49 @@
 {
   "description": "Screaming, crying, throwing up.  Like this, you'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: Rina Sawayama",
-  "num_followers": 23925,
+  "num_followers": 24052,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjcwNzU4MCwwMDAwMDAzYTAwMDAwMTgxYmI3NzgzNGEwMDAwMDE4MTZkMmE1ZmU2",
+  "snapshot_id": "MTY1NzI1MjgwMCwwMDAwMDAzYjAwMDAwMTgxZGJmNmU3MTIwMDAwMDE4MTZkMmE1ZmU2",
   "tracks": [
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "This Hell",
+        "url": "https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 236078,
+      "name": "This Hell",
+      "url": "https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Wuh Oh",
+          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
+        }
+      ],
+      "duration_ms": 182799,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
+    },
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
@@ -29,20 +65,24 @@
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "This Hell",
-        "url": "https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E"
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3QPAXE08JQFgIc5lsmQEg1"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
         }
       ],
-      "duration_ms": 236078,
-      "name": "This Hell",
-      "url": "https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm"
+      "duration_ms": 206335,
+      "name": "JUMP (feat. Coast Contra)",
+      "url": "https://open.spotify.com/track/0Eyr5YGPwE4CzmNGXhxc87"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -109,22 +149,6 @@
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Explosive",
-        "url": "https://open.spotify.com/album/3HDeUdqtFGF5NIkLZP4KWl"
-      },
-      "artists": [
-        {
-          "name": "CuteBad",
-          "url": "https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Explosive",
-      "url": "https://open.spotify.com/track/2eAekdkZ8Dbtkv1dmXWQWT"
-    },
-    {
       "added_at": "2022-06-21 04:00:00",
       "album": {
         "name": "BREAK MY SOUL",
@@ -185,24 +209,56 @@
       "url": "https://open.spotify.com/track/35Kejpttob4ICouzMYjZg1"
     },
     {
-      "added_at": "2022-07-01 20:33:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Am I Gay? - Single",
-        "url": "https://open.spotify.com/album/1HTFFIR6wPWMuvQ1AEAVLX"
+        "name": "Love You When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
       },
       "artists": [
         {
-          "name": "ziwe",
-          "url": "https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib"
-        },
-        {
-          "name": "Jen Goma",
-          "url": "https://open.spotify.com/artist/5k82r3hAQ8j4CEpnbQHNS6"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Am I Gay? (feat. Jen Goma)",
-      "url": "https://open.spotify.com/track/60plBCQE49eGPVtHrhQhR3"
+      "duration_ms": 184166,
+      "name": "Love You When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Everybody Wants It",
+        "url": "https://open.spotify.com/album/2W6n5qvGnLQjSZuvIfb85T"
+      },
+      "artists": [
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        },
+        {
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU"
+        }
+      ],
+      "duration_ms": 204062,
+      "name": "Everybody Wants It",
+      "url": "https://open.spotify.com/track/088lc5Y2AY6pQw6PG2Gm9X"
+    },
+    {
+      "added_at": "2022-02-15 15:40:26",
+      "album": {
+        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Ancient Dreams In A Modern Land",
+      "url": "https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -241,22 +297,6 @@
       "url": "https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Love You When You\u2019re Gone",
-        "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 184166,
-      "name": "Love You When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
-    },
-    {
       "added_at": "2022-04-29 04:01:00",
       "album": {
         "name": "Maybe You\u2019re The Problem",
@@ -271,22 +311,6 @@
       "duration_ms": 190318,
       "name": "Maybe You\u2019re The Problem",
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
-    },
-    {
-      "added_at": "2022-02-15 15:40:26",
-      "album": {
-        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Ancient Dreams In A Modern Land",
-      "url": "https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -333,6 +357,22 @@
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
     },
     {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/07fqC2Puj13frv9iYtlcri"
+    },
+    {
       "added_at": "2022-05-09 14:06:34",
       "album": {
         "name": "Am I A Girl?",
@@ -373,6 +413,22 @@
       "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Explosive",
+        "url": "https://open.spotify.com/album/3HDeUdqtFGF5NIkLZP4KWl"
+      },
+      "artists": [
+        {
+          "name": "CuteBad",
+          "url": "https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Explosive",
+      "url": "https://open.spotify.com/track/2eAekdkZ8Dbtkv1dmXWQWT"
+    },
+    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Another Stranger",
@@ -407,6 +463,22 @@
       "duration_ms": 173266,
       "name": "Let Love Go",
       "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 173105,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -472,7 +544,7 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 158486,
+      "duration_ms": 157685,
       "name": "for the girls",
       "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
     },
@@ -513,6 +585,26 @@
       "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
     },
     {
+      "added_at": "2022-07-01 20:33:00",
+      "album": {
+        "name": "Am I Gay? - Single",
+        "url": "https://open.spotify.com/album/1HTFFIR6wPWMuvQ1AEAVLX"
+      },
+      "artists": [
+        {
+          "name": "ziwe",
+          "url": "https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib"
+        },
+        {
+          "name": "Jen Goma",
+          "url": "https://open.spotify.com/artist/5k82r3hAQ8j4CEpnbQHNS6"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Am I Gay? (feat. Jen Goma)",
+      "url": "https://open.spotify.com/track/60plBCQE49eGPVtHrhQhR3"
+    },
+    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "Blow Out My Candle",
@@ -529,20 +621,20 @@
       "url": "https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
+      "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Life's Too Short",
-        "url": "https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx"
+        "name": "Barbiegurl",
+        "url": "https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
         }
       ],
-      "duration_ms": 178133,
-      "name": "Life's Too Short (English Version)",
-      "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
+      "duration_ms": 153230,
+      "name": "Barbiegurl",
+      "url": "https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -575,6 +667,22 @@
       "duration_ms": 190423,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5QWWWBAkC6sDuCLlKubuYi"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Competition",
+        "url": "https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "duration_ms": 186462,
+      "name": "Competition",
+      "url": "https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -769,20 +877,24 @@
       "url": "https://open.spotify.com/track/3OGH7oTsxIrpBfmmh0PV8q"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Barbiegurl",
-        "url": "https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X"
+        "name": "Lose Control (feat. Guilty Empress)",
+        "url": "https://open.spotify.com/album/3zfNAvAZz0HxwjaePj0TzQ"
       },
       "artists": [
         {
-          "name": "Malibu Babie",
-          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "Guilty Empress",
+          "url": "https://open.spotify.com/artist/1sqLOPikfBNDEkLPuN8EZh"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Barbiegurl",
-      "url": "https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb"
+      "duration_ms": 161332,
+      "name": "Lose Control (feat. Guilty Empress)",
+      "url": "https://open.spotify.com/track/6vCcveqr0Hw76YcMVGC16R"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -885,22 +997,6 @@
       "url": "https://open.spotify.com/track/2Z9agUb5fMyvfVeSA4r9rX"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "NAILS",
-        "url": "https://open.spotify.com/album/6xNOhGAMlLrxbg0yV7gRNu"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "NAILS",
-      "url": "https://open.spotify.com/track/67qVRmg2JynkOZ5olduLAd"
-    },
-    {
       "added_at": "2022-05-15 14:25:17",
       "album": {
         "name": "SloMo (Eurovision's Dancebreak Edit)",
@@ -933,38 +1029,6 @@
       "url": "https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/3NWJXg0aK1Wo2EPhv46IRP"
-      },
-      "artists": [
-        {
-          "name": "Mint Simon",
-          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/6qjISOkB9F6X6FgsvdI2fR"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Ain't Seen Nothing Yet",
-        "url": "https://open.spotify.com/album/3LcVbnZA14ci52Oc7yzyQH"
-      },
-      "artists": [
-        {
-          "name": "Krysta Youngs",
-          "url": "https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/1eBBnwbleqZvZjfCAbRlkn"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "Versions of Me",
@@ -979,22 +1043,6 @@
       "duration_ms": 173255,
       "name": "I'd Rather Have Sex",
       "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Brightsider",
-        "url": "https://open.spotify.com/album/025bhDcJFx2CWiYVXOUZvA"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Brightsider",
-      "url": "https://open.spotify.com/track/45r6xQhf7hKsefH0FEUPVH"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1051,26 +1099,6 @@
       "duration_ms": 188666,
       "name": "Rebel Revolution",
       "url": "https://open.spotify.com/track/1dIFTswy9iCiF2gVVvmwNV"
-    },
-    {
-      "added_at": "2022-03-25 05:00:00",
-      "album": {
-        "name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
-        "url": "https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0"
-      },
-      "artists": [
-        {
-          "name": "AleXa",
-          "url": "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU"
-        },
-        {
-          "name": "American Song Contest",
-          "url": "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
-        }
-      ],
-      "duration_ms": 164723,
-      "name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
-      "url": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1623,26 +1651,6 @@
       "duration_ms": 161068,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
-    },
-    {
-      "added_at": "2022-04-08 13:34:28",
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 201495,
-      "name": "psychofreak (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
     },
     {
       "added_at": "2022-02-15 15:40:26",

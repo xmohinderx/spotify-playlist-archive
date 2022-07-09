@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,123 songs - 2 day 8 hr 8 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,124 songs - 2 day 8 hr 11 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -917,6 +917,7 @@
 | [Skimaske](https://open.spotify.com/track/4EOScEFj7jZ7ALDmsCupHY) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU) | [Grosse Freiheit](https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S) | 2:20 | 2022-01-15 | 2022-01-17 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-11-30 | 2021-12-29 |
 | [SMOOTH](https://open.spotify.com/track/3uDFDOXT7dCpmtB1yUvNFk) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [SMOOTH](https://open.spotify.com/album/0moeNWa9C2CYNDtDSVlqVR) | 3:01 | 2021-03-27 | 2021-04-01 |
+| [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-08 |  |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-11-28 | 2021-12-30 |
 | [So muss sein!](https://open.spotify.com/track/1gZDbvoKxDXyKRHn2ccPet) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC) | [Sampler 5](https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG) | 2:21 | 2021-05-16 | 2021-05-20 |
 | [So weit](https://open.spotify.com/track/0Dih0JpYGyuEUokeThzwLQ) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Kapitel I 2sad2disco \(2sad2disco\)](https://open.spotify.com/album/5QgUK4vAMv4GD4i9ZbKbsO) | 3:09 | 2021-09-05 | 2021-09-06 |
@@ -1077,7 +1078,7 @@
 | [Wenn du mich siehst \- RIBELLU Remix](https://open.spotify.com/track/75HcbS3oSzIR5HMD95sDRI) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [RIBELLU](https://open.spotify.com/artist/2cV70GHs4YKfI5OHSy1mJt) | [Wenn du mich siehst \(RIBELLU Remix\)](https://open.spotify.com/album/1Hc0aChcGLmdnkSJSz6sdQ) | 2:18 | 2021-11-14 | 2021-11-16 |
 | [WENN DU MICH VERMISST](https://open.spotify.com/track/7EtfwHVS8FcciOBU1VnT8G) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [WENN DU MICH VERMISST](https://open.spotify.com/album/6d4QrOkN7QZd4Aay3koF7a) | 2:32 | 2022-02-12 | 2022-04-30 |
 | [Wenn es schlecht läuft](https://open.spotify.com/track/3iJHblQ5cJJdWY77WsyOqz) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 3:02 | 2021-07-18 | 2021-07-23 |
-| [Wenn ich du wäre](https://open.spotify.com/track/1JwFcHPniDkjgLcJqTGree) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Wenn ich du wäre](https://open.spotify.com/album/1oXKK2bwZhuxrfKGaNGSiI) | 2:38 | 2022-06-25 |  |
+| [Wenn ich du wäre](https://open.spotify.com/track/1JwFcHPniDkjgLcJqTGree) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Wenn ich du wäre](https://open.spotify.com/album/1oXKK2bwZhuxrfKGaNGSiI) | 2:38 | 2022-06-25 | 2022-07-09 |
 | [Wenn ich geh](https://open.spotify.com/track/7bs43GIqBJY9V6lCQEVSep) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Wenn ich geh](https://open.spotify.com/album/6lxRIj0t5m0jpeKelTl29y) | 2:26 | 2021-07-18 | 2021-09-05 |
 | [Wenn ich wein](https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wenn ich wein](https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj) | 2:14 | 2021-07-01 | 2021-07-25 |
 | [Wenn ich will](https://open.spotify.com/track/0Dfyjnusld4dFOUl91gf0z) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Wenn ich will](https://open.spotify.com/album/6fYu5NDQEVoBpRfifwdaZu) | 2:11 | 2022-01-08 | 2022-01-15 |

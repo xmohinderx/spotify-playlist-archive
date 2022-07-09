@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 293274,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3NGouqhbWEjkKJFqNTFBhM"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 209454,
       "name": "Cruel Love (feat. shYbeast & FRANK ZUMMO)",
       "url": "https://open.spotify.com/track/1NTfEjAtESDdRX8H2a9uFh"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 185608,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/6t5jyZK7AGBkUBIOUQyEED"
@@ -1178,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "Enemy Brain",
+        "url": "https://open.spotify.com/album/2Gi7K1ROVbpnF4kP19TWMT"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251511,
+      "name": "Enemy Brain",
+      "url": "https://open.spotify.com/track/225lMWq2wtUmUeETswWKu8"
+    },
+    {
+      "album": {
         "name": "Enemy VIP (with Shane Told of Silverstein)",
         "url": "https://open.spotify.com/album/2iwX9yHexLZSn0PtOu3D8G"
       },
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 189479,
       "name": "England Screams",
       "url": "https://open.spotify.com/track/21XAGAUNCh1INwlr98XjBu"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 161699,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1sbcbxIb89jGLhsDr0eX0f"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 229000,
       "name": "Hayloft II (DNMO Mix)",
       "url": "https://open.spotify.com/track/72AxgcShVmWv7DMsfy3aIP"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 193568,
       "name": "Kill Me Better",
       "url": "https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 165703,
       "name": "Last One To Know - Curbi Remix",
       "url": "https://open.spotify.com/track/2gm7uyTVq6FqLfXHatUY2b"
@@ -3613,7 +3631,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/65YiXAuE5eA8pWI4COEhmQ"
@@ -3649,7 +3667,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 217458,
       "name": "Stigmata",
       "url": "https://open.spotify.com/track/2dmPVqFpmhNuggEB3niC9S"
@@ -3951,7 +3969,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 180618,
       "name": "This Will Be My Year",
       "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
@@ -4189,7 +4207,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 208062,
       "name": "Up In Flames (feat. Alex Gaskarth of All Time Low)",
       "url": "https://open.spotify.com/track/7hgE1K6lm7V4ULzlxMWPiF"
@@ -4369,7 +4387,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 168736,
       "name": "We Did It!!!",
       "url": "https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K"

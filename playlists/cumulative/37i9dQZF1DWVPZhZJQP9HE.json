@@ -1104,6 +1104,28 @@
     },
     {
       "album": {
+        "name": "Love Loop",
+        "url": "https://open.spotify.com/album/2i08qgD1ApF4srqqEopOMP"
+      },
+      "artists": [
+        {
+          "name": "Jeevanandhan Ram",
+          "url": "https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax"
+        },
+        {
+          "name": "Sudarshan Arumugam",
+          "url": "https://open.spotify.com/artist/6D4IJcXCBRLOro4B4wg02E"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Love Loop",
+      "url": "https://open.spotify.com/track/7ELwPXWWDZExDD29QpMKdL"
+    },
+    {
+      "album": {
         "name": "Luck illa Maamey",
         "url": "https://open.spotify.com/album/2KAWe8ogQmKbbtVjhS7OYm"
       },

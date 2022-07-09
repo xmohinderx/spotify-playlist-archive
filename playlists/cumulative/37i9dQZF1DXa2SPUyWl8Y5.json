@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 445881,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4"
@@ -1166,6 +1166,28 @@
     },
     {
       "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+      },
+      "artists": [
+        {
+          "name": "Soul Button",
+          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
+        },
+        {
+          "name": "Rustboy",
+          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364918,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+    },
+    {
+      "album": {
         "name": "Crossing",
         "url": "https://open.spotify.com/album/5XuCKnhO815k8InduVnMeS"
       },
@@ -1423,7 +1445,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 474679,
       "name": "Earth",
       "url": "https://open.spotify.com/track/5ZrT1f69ISeELuHAHdYste"
@@ -1669,7 +1691,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 382194,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3XI5xmqIiDqdHF7vLZUnfL"
@@ -1965,7 +1987,7 @@
       ],
       "date_added": "2021-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 379386,
       "name": "Fr\u00e4ulein Smilla",
       "url": "https://open.spotify.com/track/2VhMVewJnu96AG9QxyeJLo"
@@ -2241,6 +2263,24 @@
       "duration_ms": 516000,
       "name": "House Of Lights",
       "url": "https://open.spotify.com/track/26jkWXrQRsWHKPxEX2Ahg3"
+    },
+    {
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
+      },
+      "artists": [
+        {
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435238,
+      "name": "Housefly",
+      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
     },
     {
       "album": {
@@ -2601,7 +2641,7 @@
       ],
       "date_added": "2020-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 447201,
       "name": "La Napoule - Nathan Micay's Life in Every Breath Remix",
       "url": "https://open.spotify.com/track/26BnoECfbkfmgw05VNMFGW"
@@ -2655,7 +2695,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 401834,
       "name": "Last Storm",
       "url": "https://open.spotify.com/track/3mN0xBvHnDlSheEUdkdObs"
@@ -2887,7 +2927,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 192016,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
@@ -2959,7 +2999,7 @@
       ],
       "date_added": "2020-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 457080,
       "name": "March of the giants",
       "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
@@ -3031,7 +3071,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 427658,
       "name": "Mdogo",
       "url": "https://open.spotify.com/track/4D05ikAdhRGPUn5coE8DKl"
@@ -3143,7 +3183,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 422079,
       "name": "Mistral",
       "url": "https://open.spotify.com/track/4qV0Lu1zn2xc50B9RurHKS"
@@ -3749,7 +3789,7 @@
       ],
       "date_added": "2020-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 266730,
       "name": "Phases",
       "url": "https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK"
@@ -3825,7 +3865,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 241769,
       "name": "Planet F",
       "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
@@ -4185,7 +4225,7 @@
       ],
       "date_added": "2019-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 570543,
       "name": "Red Planet",
       "url": "https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP"
@@ -4489,7 +4529,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 241282,
       "name": "Sense of Wonder",
       "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
@@ -4811,7 +4851,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 418364,
       "name": "Storia Infinita",
       "url": "https://open.spotify.com/track/0L74Azd7cF1Rrt0Nkx9n0s"
@@ -5655,7 +5695,7 @@
       ],
       "date_added": "2020-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 499598,
       "name": "Zero Dark Thirty",
       "url": "https://open.spotify.com/track/7H2Y5DWXu15KR0cwvKIx3q"

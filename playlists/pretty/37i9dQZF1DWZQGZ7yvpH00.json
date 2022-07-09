@@ -1,51 +1,31 @@
 {
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 ERRE en portada. ",
-  "num_followers": 354004,
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Esteban Gabriel en portada. ",
+  "num_followers": 354411,
   "original_name": "sad sierre\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0NjgwMCwwMDAwMDA2NDAwMDAwMTgxOTQxNGNjZjEwMDAwMDE4MTkyY2I2MjFl",
+  "snapshot_id": "MTY1NzI1MjgwMCwwMDAwMDA2NTAwMDAwMTgxZGJmNmU2ZjkwMDAwMDE4MWRiYzQ4YmZj",
   "tracks": [
     {
-      "added_at": "2022-05-23 23:22:16",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "solo",
-        "url": "https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG"
+        "name": "Substancias",
+        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
       },
       "artists": [
         {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 228740,
-      "name": "solo",
-      "url": "https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3"
+      "duration_ms": 204213,
+      "name": "Substancias",
+      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
     },
     {
-      "added_at": "2022-06-24 05:00:00",
-      "album": {
-        "name": "Distantes",
-        "url": "https://open.spotify.com/album/2bLiF7ZGHwIHco3WGb9vsM"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        },
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 213439,
-      "name": "Distantes",
-      "url": "https://open.spotify.com/track/0o3DbryDgbWANJNZJo8x9R"
-    },
-    {
-      "added_at": "2022-06-03 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
@@ -61,7 +41,71 @@
       "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
     },
     {
-      "added_at": "2022-04-11 18:27:49",
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Tu Mirada",
+        "url": "https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 149851,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Arroz Con Leche",
+        "url": "https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn"
+      },
+      "artists": [
+        {
+          "name": "Cachas De Oro",
+          "url": "https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Arroz Con Leche",
+      "url": "https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Noches Tristes",
+        "url": "https://open.spotify.com/album/7ij7G7ihXtmrFey0lLllDa"
+      },
+      "artists": [
+        {
+          "name": "Distinto",
+          "url": "https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "La Realidad",
+      "url": "https://open.spotify.com/track/4EIORNEyx8Ig5zK636Ghvl"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Despues De Ti",
+        "url": "https://open.spotify.com/album/3mhfl1thpSC4HEvooCfwqx"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 135185,
+      "name": "Despues De Ti",
+      "url": "https://open.spotify.com/track/3NvmjLWLihMep2IXcm9TuF"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Esta Noche",
         "url": "https://open.spotify.com/album/1uVGFC7Zio3Sc4UTfz4Y7Y"
@@ -77,39 +121,7 @@
       "url": "https://open.spotify.com/track/6FJbKBPUiFVPC4e5S3uesc"
     },
     {
-      "added_at": "2022-06-24 05:00:00",
-      "album": {
-        "name": "Terminaste Perdiendo",
-        "url": "https://open.spotify.com/album/3jrWrC8ThBb1TQejK14n0v"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 258863,
-      "name": "Terminaste Perdiendo",
-      "url": "https://open.spotify.com/track/6MUOoy2N11fdY9SSLujiyh"
-    },
-    {
-      "added_at": "2022-01-28 06:00:00",
-      "album": {
-        "name": "Mi Despedida",
-        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 196064,
-      "name": "Mi Despedida",
-      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
-    },
-    {
-      "added_at": "2022-06-24 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
@@ -129,7 +141,107 @@
       "url": "https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND"
     },
     {
-      "added_at": "2022-06-10 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Era El \u00danico",
+        "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "duration_ms": 130375,
+      "name": "Era El \u00danico",
+      "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Terminaste Perdiendo",
+        "url": "https://open.spotify.com/album/3jrWrC8ThBb1TQejK14n0v"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "duration_ms": 258863,
+      "name": "Terminaste Perdiendo",
+      "url": "https://open.spotify.com/track/6MUOoy2N11fdY9SSLujiyh"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Que Me Hiciste",
+        "url": "https://open.spotify.com/album/7vUpsaiqHYSAo9PUqharum"
+      },
+      "artists": [
+        {
+          "name": "Estilo Noreste",
+          "url": "https://open.spotify.com/artist/1vdVGzUNrVi6PFCUTeFY7r"
+        }
+      ],
+      "duration_ms": 247367,
+      "name": "Que Me Hiciste",
+      "url": "https://open.spotify.com/track/7DODSQw9dsnwETuU1UtlSn"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Piensa",
+        "url": "https://open.spotify.com/album/1muFFQvj6MF64ZyBGNOBSV"
+      },
+      "artists": [
+        {
+          "name": "El Proyecto",
+          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
+        }
+      ],
+      "duration_ms": 273339,
+      "name": "Piensa",
+      "url": "https://open.spotify.com/track/1u25yYhSNY1PFOoc9kh1my"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Distantes",
+        "url": "https://open.spotify.com/album/2bLiF7ZGHwIHco3WGb9vsM"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 213439,
+      "name": "Distantes",
+      "url": "https://open.spotify.com/track/0o3DbryDgbWANJNZJo8x9R"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Mi Despedida",
+        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 196064,
+      "name": "Mi Despedida",
+      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Junto A T\u00ed",
         "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
@@ -145,43 +257,7 @@
       "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
     },
     {
-      "added_at": "2022-06-24 05:00:00",
-      "album": {
-        "name": "Dulcito e Coco",
-        "url": "https://open.spotify.com/album/74yUD8QPWPKOFsyLS93g92"
-      },
-      "artists": [
-        {
-          "name": "Cachas De Oro",
-          "url": "https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU"
-        },
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 198123,
-      "name": "Dulcito e Coco",
-      "url": "https://open.spotify.com/track/3tD4abUOGHZHeL1eOl0gyy"
-    },
-    {
-      "added_at": "2021-11-22 20:20:52",
-      "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Edici\u00f3n Mexico",
-        "url": "https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 277167,
-      "name": "1004 Kil\u00f3metros",
-      "url": "https://open.spotify.com/track/0pt0wjZNeFOMIeCudmXRrl"
-    },
-    {
-      "added_at": "2022-02-03 00:08:07",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Tu Veneno Mortal, Vol. 2",
         "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
@@ -197,7 +273,7 @@
       "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
     },
     {
-      "added_at": "2022-02-11 06:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Perro Abandonado",
         "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
@@ -213,7 +289,27 @@
       "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
     },
     {
-      "added_at": "2022-06-10 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Maldito Olvido",
+        "url": "https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS"
+      },
+      "artists": [
+        {
+          "name": "Diamante Perez",
+          "url": "https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF"
+        },
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/5HOOxSdjMwgdg5jKIzHAU9"
+        }
+      ],
+      "duration_ms": 214804,
+      "name": "Maldito Olvido",
+      "url": "https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "MUSICA <3",
         "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
@@ -229,7 +325,7 @@
       "url": "https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8"
     },
     {
-      "added_at": "2022-05-09 14:14:48",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
@@ -249,7 +345,7 @@
       "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
     },
     {
-      "added_at": "2022-05-23 23:22:16",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Nuestras metas",
         "url": "https://open.spotify.com/album/1K1EUCVp9qWENfEG0ShLBK"
@@ -265,7 +361,7 @@
       "url": "https://open.spotify.com/track/3jAm5zs7oSKWv5UkrTFYBQ"
     },
     {
-      "added_at": "2021-11-22 20:20:52",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Llamadas Perdidas",
         "url": "https://open.spotify.com/album/4Nkw7UzpoBnf8gasrKjncS"
@@ -281,23 +377,7 @@
       "url": "https://open.spotify.com/track/2Njnz4h488q7hT6hRXuwQT"
     },
     {
-      "added_at": "2021-11-22 20:20:52",
-      "album": {
-        "name": "Del Corazon",
-        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 245201,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
-    },
-    {
-      "added_at": "2022-04-22 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/1r0GC7OLM12sPncbIMWiUC"
@@ -313,7 +393,43 @@
       "url": "https://open.spotify.com/track/2f1u0yTIYN95nmScvQmZiQ"
     },
     {
-      "added_at": "2021-11-26 06:00:00",
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Dulcito e Coco",
+        "url": "https://open.spotify.com/album/74yUD8QPWPKOFsyLS93g92"
+      },
+      "artists": [
+        {
+          "name": "Cachas De Oro",
+          "url": "https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU"
+        },
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 198123,
+      "name": "Dulcito e Coco",
+      "url": "https://open.spotify.com/track/3tD4abUOGHZHeL1eOl0gyy"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "solo",
+        "url": "https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 228740,
+      "name": "solo",
+      "url": "https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Love </3",
         "url": "https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn"
@@ -329,7 +445,7 @@
       "url": "https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56"
     },
     {
-      "added_at": "2022-01-05 01:22:37",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Atrapado en un Sue\u00f1o",
         "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
@@ -345,27 +461,7 @@
       "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
     },
     {
-      "added_at": "2022-02-21 19:20:07",
-      "album": {
-        "name": "Est\u00e1 Noche",
-        "url": "https://open.spotify.com/album/2vR2wBrb5I4UKOVyMxxVz8"
-      },
-      "artists": [
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
-          "name": "Jos\u00e9 Mej\u00eda",
-          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
-        }
-      ],
-      "duration_ms": 124267,
-      "name": "Est\u00e1 Noche",
-      "url": "https://open.spotify.com/track/6uOMIOljAGYvk0pVMpYxFI"
-    },
-    {
-      "added_at": "2021-11-22 20:20:52",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "MUSICA <3",
         "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
@@ -381,7 +477,7 @@
       "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
     },
     {
-      "added_at": "2022-03-16 23:39:30",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Pr\u00e9stame Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
@@ -397,7 +493,7 @@
       "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
-      "added_at": "2021-11-22 20:20:52",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Alma Vac\u00eda",
         "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
@@ -413,7 +509,7 @@
       "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
     },
     {
-      "added_at": "2022-04-05 14:48:57",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Desde El Cant\u00f3n (en Vivo)",
         "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
@@ -429,23 +525,7 @@
       "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
     },
     {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Nuestra Felicidad",
-      "url": "https://open.spotify.com/track/7f2mAgfVjPp2m0hfVKrHN9"
-    },
-    {
-      "added_at": "2022-03-18 18:50:12",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/1TQtXw5mgUBjaYx73KXSap"
@@ -461,7 +541,7 @@
       "url": "https://open.spotify.com/track/6KLCHorfObfTNApurEUdAq"
     },
     {
-      "added_at": "2022-01-05 01:22:37",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Las Preferidas, Vol. 2 (En vivo)",
         "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
@@ -477,23 +557,7 @@
       "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
     },
     {
-      "added_at": "2021-12-13 20:15:08",
-      "album": {
-        "name": "Me Vuelves Loco",
-        "url": "https://open.spotify.com/album/7a3pecJxQO32p5KeC7FnW4"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 276900,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/5dCkGth7tNwJzX19iKKKKr"
-    },
-    {
-      "added_at": "2022-06-17 17:06:36",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Lo Que Construimos - Spotify Singles",
         "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
@@ -509,23 +573,7 @@
       "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
-      "added_at": "2021-11-22 20:20:52",
-      "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 206338,
-      "name": "Que Te Vas",
-      "url": "https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ"
-    },
-    {
-      "added_at": "2022-04-08 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
@@ -541,7 +589,7 @@
       "url": "https://open.spotify.com/track/4At5UqkhN2soNreIhYdx5X"
     },
     {
-      "added_at": "2021-11-22 20:20:52",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "The Life in Your Eyes",
         "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
@@ -557,7 +605,7 @@
       "url": "https://open.spotify.com/track/1iYYianrZZiSmIKldBfFq9"
     },
     {
-      "added_at": "2022-01-28 06:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Eres Tu / </3",
         "url": "https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx"
@@ -573,7 +621,7 @@
       "url": "https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL"
     },
     {
-      "added_at": "2022-04-05 14:48:57",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
@@ -589,7 +637,7 @@
       "url": "https://open.spotify.com/track/3ewS8DYitFRgZBv9X4f7qZ"
     },
     {
-      "added_at": "2022-04-08 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Me Cans\u00e9",
         "url": "https://open.spotify.com/album/7nVUBzcGrEISaNM2iHGwr7"
@@ -605,7 +653,7 @@
       "url": "https://open.spotify.com/track/3H5l8J3Jqxjz17l5T3r1hI"
     },
     {
-      "added_at": "2022-04-29 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
@@ -621,7 +669,7 @@
       "url": "https://open.spotify.com/track/0atD69P4fKr8nBUi1FXBzX"
     },
     {
-      "added_at": "2022-03-28 18:49:37",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Soy El Unico",
         "url": "https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl"
@@ -637,7 +685,7 @@
       "url": "https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN"
     },
     {
-      "added_at": "2022-04-29 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Beyond The Limit",
         "url": "https://open.spotify.com/album/5KwiZ0Ly7gpV8t7uvX7ZvT"
@@ -653,7 +701,7 @@
       "url": "https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1"
     },
     {
-      "added_at": "2022-05-23 23:22:16",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "En Donde Quedo Yo",
         "url": "https://open.spotify.com/album/0fFL3CyMKpIA6OOfjKlDWo"
@@ -673,39 +721,7 @@
       "url": "https://open.spotify.com/track/2xmH5KTkTsRWAxxHbXJkoL"
     },
     {
-      "added_at": "2022-06-10 05:00:00",
-      "album": {
-        "name": "Substancias",
-        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Substancias",
-      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
-    },
-    {
-      "added_at": "2022-05-06 05:00:00",
-      "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 187447,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
-    },
-    {
-      "added_at": "2022-02-21 19:20:07",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Ni\u00f1a Fiel",
         "url": "https://open.spotify.com/album/3KpHEtgSEBgbycuWbZFcCV"
@@ -725,23 +741,7 @@
       "url": "https://open.spotify.com/track/2fuftZ5cJqs2T2lZqDVr5y"
     },
     {
-      "added_at": "2022-03-16 23:39:30",
-      "album": {
-        "name": "Noches Tristes",
-        "url": "https://open.spotify.com/album/7ij7G7ihXtmrFey0lLllDa"
-      },
-      "artists": [
-        {
-          "name": "Distinto",
-          "url": "https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "La Realidad",
-      "url": "https://open.spotify.com/track/4EIORNEyx8Ig5zK636Ghvl"
-    },
-    {
-      "added_at": "2022-04-29 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Ya acab\u00f3 (Con Becky G)",
         "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
     },
     {
-      "added_at": "2021-12-17 17:26:51",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/0YK6koGYXva8aceQpman6H"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r"
     },
     {
-      "added_at": "2022-04-22 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Tu Lindo Corazon",
         "url": "https://open.spotify.com/album/5hSsxcACAGLsEqMNG6w4th"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/6oM0BoUKb4m73WROmGimUj"
     },
     {
-      "added_at": "2022-06-03 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Proximo Nivel",
         "url": "https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM"
     },
     {
-      "added_at": "2022-06-03 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Te Gusta La Loquera",
         "url": "https://open.spotify.com/album/0yuvjX1IIfzunRGzqefwNN"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/7d6bOOk4QUDfEbxLa7Gsil"
     },
     {
-      "added_at": "2022-05-27 05:00:00",
+      "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Loco y Enamorado",
         "url": "https://open.spotify.com/album/6LdEvPHHmTenzOEJqwZsq5"

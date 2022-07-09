@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-160 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+162 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Chaos Energy](https://open.spotify.com/track/1ADoaoyKY78CnBvsq6DqFG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Chaos Energy](https://open.spotify.com/album/2uEgm3sxH1gHPPHGcjvJXc) | 5:13 | 2022-06-08 |  |
 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 | 2022-04-29 |  |
 | [Cinétique \- Edit](https://open.spotify.com/track/1jRdRoJqx2s6v4T5VZM41C) | [Jinjé](https://open.spotify.com/artist/59ceK8A6RxzUQZF05aXezk) | [Cinétique](https://open.spotify.com/album/36j2hkJhjKKiGDu6IRT9Vr) | 4:00 | 2021-10-15 | 2022-01-20 |
+| [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 | 2022-07-08 |  |
 | [Clouds](https://open.spotify.com/track/6VipQibtXdo7Dy3uuW981g) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/6lo52TlixgAYR8gX6vescb) | 4:05 | 2022-01-11 |  |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-15 | 2022-01-13 |
 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 | 2022-01-11 | 2022-03-12 |
@@ -66,6 +67,7 @@
 | [Full Panther](https://open.spotify.com/track/7q4kf5pGKXWT3HShalid99) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Full Panther](https://open.spotify.com/album/6NnHFMmeDC1R31eheMh725) | 3:23 | 2021-10-15 | 2022-03-31 |
 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 | 2022-01-19 |  |
 | [Get There](https://open.spotify.com/track/4QzQFNQnwNqmdOKwkfWeTi) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Souvenirs](https://open.spotify.com/album/0762wvRziSk7teli97iy1A) | 4:33 | 2021-10-15 | 2022-01-04 |
+| [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 | 2022-07-08 |  |
 | [Goddess Calling](https://open.spotify.com/track/4npxPQ7jYsO9RL6aN9EDjl) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 7:40 | 2021-10-15 | 2022-01-21 |
 | [Gripper](https://open.spotify.com/track/1Ic1HKNFUzgomJECOGpg1X) | [Robin Ball](https://open.spotify.com/artist/3BkQkIMX2qIvwRgUQoxk15) | [X To C](https://open.spotify.com/album/7upSj25Yd2zUW2AneFDlfu) | 7:42 | 2021-10-15 | 2022-01-20 |
 | [Harmonic Frequencies](https://open.spotify.com/track/2U2dlU4ELCrmUOnojBsMcT) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/4KI8PM8G8iT5tc2yAz3PBl) | 4:10 | 2021-10-15 | 2022-01-11 |
@@ -78,7 +80,7 @@
 | [Inlove2 \- Edit](https://open.spotify.com/track/5E2gMJ9KAbaVAscQ20N7Xk) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Inlove2](https://open.spotify.com/album/7L3eq511jN3Avxa2W4KLzP) | 4:06 | 2021-10-15 | 2022-02-10 |
 | [Involuntary Prophet](https://open.spotify.com/track/18pgIi3t5qFJpT8ymfEuQv) | [The Shanghai Restoration Project](https://open.spotify.com/artist/0EP5EpsiMP8oLYy7sPHwf9) | [Involuntary Prophet](https://open.spotify.com/album/3ILF8LpC4eTUvQOzv9uyk8) | 6:23 | 2021-10-15 | 2022-01-20 |
 | [Jordão](https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Jordão](https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi) | 4:23 | 2022-01-21 |  |
-| [Joy Squad](https://open.spotify.com/track/3Y8T9RXnsJFjz9OgieBnyP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Joy Squad](https://open.spotify.com/album/31my8IdGlu4Sti63ivmuje) | 4:31 | 2022-01-03 |  |
+| [Joy Squad](https://open.spotify.com/track/3Y8T9RXnsJFjz9OgieBnyP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Joy Squad](https://open.spotify.com/album/31my8IdGlu4Sti63ivmuje) | 4:31 | 2022-01-03 | 2022-07-09 |
 | [Junkyard](https://open.spotify.com/track/0e6DNQUhI8lQKxmpY3sgA3) | [Madd3e](https://open.spotify.com/artist/6QnSsfZW8okVlHBenG0Nu2) | [Junkyard](https://open.spotify.com/album/1kcSDURv7MX0D939GVGbNE) | 3:33 | 2021-10-15 | 2022-01-13 |
 | [Kabeljau](https://open.spotify.com/track/5yKlkKJ1gtIHuzSSP4TdLt) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82) | [Ghostly Swim 3](https://open.spotify.com/album/5wATCNKKYbRKlG2hKzhUCu) | 4:21 | 2021-10-15 | 2022-02-26 |
 | [Kagen Sound](https://open.spotify.com/track/4jfmpxZgW0ci3DcL7mzfsr) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Kagen Sound](https://open.spotify.com/album/4RcCF7AZ8Al5ymICWmx2GI) | 3:07 | 2021-10-15 | 2022-03-12 |
@@ -131,7 +133,7 @@
 | [So](https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [So](https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS) | 4:39 | 2021-10-15 |  |
 | [Space 3](https://open.spotify.com/track/3hnaQzwgcPZTAjkgdzxdOc) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 3](https://open.spotify.com/album/4Z5hSkWEc9MuQUZ0HArRij) | 1:15 | 2021-10-15 | 2022-02-10 |
 | [Star City](https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6) | [Solomon Fesshaye](https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4) | [Star City](https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb) | 4:23 | 2022-03-03 |  |
-| [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 | 2022-01-12 |  |
+| [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 | 2022-01-12 | 2022-07-09 |
 | [Static Doesn't Exist \- Kode9 Remix](https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 5:33 | 2022-03-11 |  |
 | [Stirling Bridge \- DJ Dairy & DJ Orient \(black midi\) Remix](https://open.spotify.com/track/4RePVG6qQVvl2nIyPrhtYx) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA), [DJ Dairy](https://open.spotify.com/artist/1nvsLtEJECKpOfyqBXjLs8), [DJ Orient](https://open.spotify.com/artist/4SH7ll7VUPHf5QMCeNPMkv) | [Stirling Bridge \[DJ Dairy & DJ Orient \(black midi\) Remix\]](https://open.spotify.com/album/1XIVUXpnRBfge9QR9TEq6p) | 5:17 | 2021-10-15 | 2022-02-10 |
 | [Stories](https://open.spotify.com/track/5BnLFmaAm7DqeXrZy1n8Jp) | [Herzeloyde](https://open.spotify.com/artist/2AmAO3IlqP2zaCoh98msPC) | [Stories](https://open.spotify.com/album/2flgQXTTijtmFYYNM6FsSm) | 3:17 | 2021-10-15 | 2022-01-20 |

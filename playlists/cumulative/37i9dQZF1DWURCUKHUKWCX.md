@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-122 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+125 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 | 2021-12-10 |  |
 | [Ambro](https://open.spotify.com/track/5kU2kYLFu3uNDBlmjvvNxg) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ambro](https://open.spotify.com/album/3B6FfU08qymnkrY7paVtUX) | 2:45 | 2021-12-10 |  |
 | [Amor \- C.B\. Rework](https://open.spotify.com/track/7bUwtVVvPPdlW6Cghagfhn) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Daniel Isn’t Real \(Expanded Edition\)](https://open.spotify.com/album/7lew2WtSATnm25If8B9cAZ) | 4:10 | 2021-12-10 |  |
+| [amour – piano](https://open.spotify.com/track/2F0XzNxOXO6uzMyIYlC0EG) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [amour – piano](https://open.spotify.com/album/4phqumUbfsuVx9ZWjne9TP) | 5:05 | 2022-07-08 |  |
 | [An Ending, a Beginning](https://open.spotify.com/track/2t6aXckrRWNnKb0ysc1vBc) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 2:08 | 2021-12-10 |  |
 | [Apartment Song \#5](https://open.spotify.com/track/0GG1KOVmUeZfipy9MB9m4e) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Apartment Song \#5](https://open.spotify.com/album/3c5jf7GTivqPWw5bGLvtT5) | 3:11 | 2021-12-10 |  |
 | [As Wind Echoes Over Snow](https://open.spotify.com/track/31sFVhpsghiYz85q6pdxao) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Winter Poetry](https://open.spotify.com/album/3UAMIANsQQemUfXOyTe5TU) | 3:41 | 2021-12-10 |  |
@@ -56,12 +57,14 @@
 | [Halston](https://open.spotify.com/track/7AbVRoHrQB3JMHC8J1P3Hi) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Halston](https://open.spotify.com/album/6XflbsoG89kmcH3on1bu9R) | 5:07 | 2021-12-10 |  |
 | [Himitsu](https://open.spotify.com/track/17DJuwGNugAo1UzfyA7On8) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [By the Border](https://open.spotify.com/album/2ahyKR00M06DOvnNfXeGmd) | 2:38 | 2021-12-10 |  |
 | [Holm Sound](https://open.spotify.com/track/7vvqiqB4O7nPXWxiehIH9l) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Holm Sound](https://open.spotify.com/album/3B8s4Z5VhzbK1R7upD1IP5) | 2:55 | 2021-12-10 |  |
+| [I Just Love You \(Reimagined for Piano\)](https://open.spotify.com/track/35sddvWKYpfdCnbQ3F7zi9) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [I Just Love You \(Reimagined for Piano\)](https://open.spotify.com/album/6rkLNRx9NTFbXdkFfpoko7) | 5:15 | 2022-07-08 |  |
 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/1WQiXGnr4RwC4C8jBEhIB5) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\) \- I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/0X0pCoI82tq3qy446cmrXm) | 4:33 | 2021-12-10 |  |
 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 | 2021-12-10 |  |
 | [Inno \(Prologo\)](https://open.spotify.com/track/4CYoKviFpkT3XC6nDbjYte) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#002 Hymns](https://open.spotify.com/album/0tVvs2WoGh1ZkYp9ZuGkot) | 2:43 | 2022-02-25 |  |
 | [Inventing Light](https://open.spotify.com/track/0yquufspHuwdG9o7hVNv26) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Inventing Light](https://open.spotify.com/album/0hoJC8NU80jLnsw8l5iZq0) | 3:02 | 2021-12-10 |  |
 | [K.A.H.D\. \- Home Session](https://open.spotify.com/track/79NexPR54Uygigj6OynSn0) | [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 2 / Debussy: Canope](https://open.spotify.com/album/1HNnHVV9ITkbflRYzsxFJH) | 4:21 | 2021-12-10 |  |
 | [Last to Let Go \- Daigo Hanada Rework](https://open.spotify.com/track/3baIpuf7biyuTFM32j0Coe) | [Richard Luke](https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Last to Let Go \(Daigo Hanada Rework\)](https://open.spotify.com/album/7J6JgkOoCbtD0BVxHNvPJZ) | 3:38 | 2021-12-10 |  |
+| [Laura \(Piano Vision\)](https://open.spotify.com/track/63ofp7btGGtGE4vRruo5vu) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Laura \(Piano Vision\)](https://open.spotify.com/album/2244WAWYH7iDNwRyR5oAYT) | 1:51 | 2022-07-08 |  |
 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 | 2021-12-10 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-10 |  |
 | [Little Forest](https://open.spotify.com/track/0ngRF3XtGxXhFWDxeOJqfb) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Little Forest](https://open.spotify.com/album/2OUVbMW3PXmpVBzrVKEDDd) | 2:08 | 2022-01-21 |  |

@@ -3008,6 +3008,24 @@
     },
     {
       "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/0aUHZaNG7elj6T2HMnExjU"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138792,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/5mAqm8QY71uwyj7PcIPGnL"
+    },
+    {
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx"
       },

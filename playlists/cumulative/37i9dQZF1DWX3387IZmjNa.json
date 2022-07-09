@@ -410,6 +410,24 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6cNrV6Uz4CdVM7hwIPSA60"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151238,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/6RouTxJEaWLaleuPFt5JP4"
+    },
+    {
+      "album": {
         "name": "Bogus (feat. BlueBucksClan)",
         "url": "https://open.spotify.com/album/6WwSmNmwiq8f1VKEor6hUz"
       },
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 195129,
       "name": "cold",
       "url": "https://open.spotify.com/track/0EjxwI2vzEVqMpFjusasfm"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 206906,
       "name": "Hard To Trust (feat. Dreezy)",
       "url": "https://open.spotify.com/track/0VfopEzDeW2ANyBulAFh90"
@@ -1313,7 +1331,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 128659,
-      "name": "IF U EVER",
+      "name": "IF YOU EVER",
       "url": "https://open.spotify.com/track/41G3M9ewHTrDGNl5UKKlQl"
     },
     {
@@ -1694,6 +1712,24 @@
     },
     {
       "album": {
+        "name": "Mad At Her",
+        "url": "https://open.spotify.com/album/4nEvGOK5tet14OyE7HKWoH"
+      },
+      "artists": [
+        {
+          "name": "BRS Kash",
+          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180459,
+      "name": "Mad At Her",
+      "url": "https://open.spotify.com/track/7nW1oORHIjElSCjC6cWEkA"
+    },
+    {
+      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
       },
@@ -1989,7 +2025,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 195173,
       "name": "Nobody (feat. Dreezy)",
       "url": "https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK"
@@ -2675,6 +2711,28 @@
       "duration_ms": 158737,
       "name": "Touch You",
       "url": "https://open.spotify.com/track/6ISm3GwztEFGsDKuF2X8fl"
+    },
+    {
+      "album": {
+        "name": "Toxic Traits (with KB Mike)",
+        "url": "https://open.spotify.com/album/4sYNQCQPR4fgNLHtl2hBhp"
+      },
+      "artists": [
+        {
+          "name": "Lul Bob",
+          "url": "https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj"
+        },
+        {
+          "name": "KB Mike",
+          "url": "https://open.spotify.com/artist/6dGMlf9UbIdCyLvUiAS4yY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159263,
+      "name": "Toxic Traits (with KB Mike)",
+      "url": "https://open.spotify.com/track/3ip51s5ui2OEur1fzCKsaJ"
     },
     {
       "album": {

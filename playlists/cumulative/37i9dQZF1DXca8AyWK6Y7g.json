@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "living life in your 250 sq ft micro apartment Cover: Daya",
+  "description": "living life in your 250 sq ft micro apartment Cover: Ethan Bortnick",
   "name": "young & free",
   "published_playlist_ids": [
     "5ughHfqxtBosozqZ6BniQD"
@@ -1427,7 +1427,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 152230,
       "name": "Baby Don't Go",
       "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
@@ -2101,7 +2101,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 194673,
       "name": "Black Cloud",
       "url": "https://open.spotify.com/track/4tBehUVhRGqIUb3rTI9x8h"
@@ -3083,7 +3083,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 163240,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/4YOAzHBhNgRYdZ1d6y0Mhf"
@@ -3799,7 +3799,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 182146,
       "name": "cloudbathing",
       "url": "https://open.spotify.com/track/3SjBwAnJXh69mDAsAea3iu"
@@ -4729,7 +4729,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 163560,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3"
@@ -5153,7 +5153,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 163727,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/7bIa6A4XjMVy4trhKI0Z3G"
@@ -5882,6 +5882,24 @@
     },
     {
       "album": {
+        "name": "engravings",
+        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+    },
+    {
+      "album": {
         "name": "Enjoy The Weather",
         "url": "https://open.spotify.com/album/2y82EbzL8FRX92BUT3Ehq1"
       },
@@ -5933,6 +5951,24 @@
       "duration_ms": 156342,
       "name": "Evening Buffalo",
       "url": "https://open.spotify.com/track/6w40GgWhGts8g6779DPXR3"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234420,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62"
     },
     {
       "album": {
@@ -7171,7 +7207,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 219542,
       "name": "Garden On The Kitchen Floor",
       "url": "https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5"
@@ -9988,6 +10024,24 @@
     },
     {
       "album": {
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173105,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
+    },
+    {
+      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp"
       },
@@ -10277,7 +10331,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 185664,
       "name": "It Took A Lot To Get To This",
       "url": "https://open.spotify.com/track/1kLn3PxbnFzHV1kkXWpg4e"
@@ -10411,7 +10465,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 128851,
       "name": "Julian, king of manhattan",
       "url": "https://open.spotify.com/track/69OR7bYhVphLuTd9dyJjT9"
@@ -10745,7 +10799,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 178888,
       "name": "killer queen",
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
@@ -12095,7 +12149,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 206847,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/6IYyWCVQbWpuyifWOGDevP"
@@ -12233,7 +12287,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 172794,
       "name": "made for you",
       "url": "https://open.spotify.com/track/3OVfWzWkl7RqsOkysmc5kg"
@@ -12251,7 +12305,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 192133,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs"
@@ -12273,7 +12327,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 162056,
       "name": "Madonna (with Audrey Mika)",
       "url": "https://open.spotify.com/track/7xU12s4CHm1wT2M3YMmCqg"
@@ -13211,7 +13265,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 171033,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO"
@@ -15234,6 +15288,24 @@
     },
     {
       "album": {
+        "name": "Post Party Trauma",
+        "url": "https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Post Party Trauma",
+      "url": "https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu"
+    },
+    {
+      "album": {
         "name": "Postmates",
         "url": "https://open.spotify.com/album/5OfvjKaTnPrWanUVC2mjix"
       },
@@ -17035,7 +17107,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "sideways",
       "url": "https://open.spotify.com/track/13ioHTU2uplzpkkvTUqfp2"
@@ -19191,7 +19263,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 170666,
       "name": "Teddy Bears",
       "url": "https://open.spotify.com/track/0OoYSngy0SJ9kJDECRlGcU"
@@ -19419,7 +19491,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 193702,
       "name": "The Devil\u2019s Still Down in Georgia",
       "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
@@ -20247,7 +20319,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 224747,
       "name": "Two Moons",
       "url": "https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC"
@@ -21629,7 +21701,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 139293,
       "name": "Window",
       "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"

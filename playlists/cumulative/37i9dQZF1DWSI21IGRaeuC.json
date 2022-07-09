@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 241889,
       "name": "Bouncer",
       "url": "https://open.spotify.com/track/2cPp9AOTQcVcZUklahBmab"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 357230,
       "name": "D.N.C.",
       "url": "https://open.spotify.com/track/1eoPkDYe6hRTE0jLP2SITo"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 363009,
       "name": "Encoding",
       "url": "https://open.spotify.com/track/2fnS9uEeunmh1NwlkmSGqb"
@@ -269,6 +269,24 @@
       "duration_ms": 391436,
       "name": "Energy",
       "url": "https://open.spotify.com/track/3h2DNWJn3GLNVhBQKpgxpK"
+    },
+    {
+      "album": {
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382439,
+      "name": "Femme",
+      "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
     },
     {
       "album": {
@@ -348,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Heart Of Jazz",
+        "url": "https://open.spotify.com/album/70DEmkfKbQq971gDSdXo3r"
+      },
+      "artists": [
+        {
+          "name": "Fleur Shore",
+          "url": "https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Heart Of Jazz",
+      "url": "https://open.spotify.com/track/1BbKe9iPRe5ZNFKdhzv82N"
+    },
+    {
+      "album": {
         "name": "Highway Freedom EP",
         "url": "https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh"
       },
@@ -359,7 +395,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 195348,
       "name": "Highway Freedom",
       "url": "https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK"
@@ -413,7 +449,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
@@ -489,7 +525,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 382606,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/36PkmbHlfH1JYwoFJS1S0q"
@@ -507,7 +543,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 420779,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3O9ed5dnmz1T3O2o0OtnJp"
@@ -605,7 +641,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 382278,
       "name": "Lovelee Dae",
       "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
@@ -641,7 +677,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 355151,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/4pzKf9d5woftnKhWzELZoS"
@@ -793,7 +829,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 369836,
       "name": "Otto's Chant",
       "url": "https://open.spotify.com/track/3j8PXtq0NN7QQVdNwkoFBe"
@@ -955,7 +991,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 358007,
       "name": "Sin City",
       "url": "https://open.spotify.com/track/2rdMlVRtuImJXZhUHQjjj9"
@@ -1143,7 +1179,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 358153,
       "name": "That's Right",
       "url": "https://open.spotify.com/track/4DQQw8ILU9DUpkXhfVJYtQ"
@@ -1183,7 +1219,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 373032,
       "name": "The Ciggie",
       "url": "https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV"
@@ -1209,7 +1245,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 400565,
       "name": "The Key",
       "url": "https://open.spotify.com/track/1JqC0dklBZxfMeiqtsuUqP"
@@ -1281,7 +1317,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 462868,
       "name": "Troll",
       "url": "https://open.spotify.com/track/2QLlGPzBYeixEyqJKqzqj9"
@@ -1335,7 +1371,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 423934,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/38d5OWdfoJGFXg9vpkctkj"

@@ -2726,6 +2726,24 @@
     },
     {
       "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/490tEx7QX0OmH7vmZ6JZBk"
+      },
+      "artists": [
+        {
+          "name": "Jon Mero",
+          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144342,
+      "name": "Yes It Do",
+      "url": "https://open.spotify.com/track/3S2AYMJpZBYwFJkqIhwpnV"
+    },
+    {
+      "album": {
         "name": "Soul Food: Cooking With Maceo",
         "url": "https://open.spotify.com/album/1nI2mxpnTcJsPjFh4ORf5E"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,178 likes - 113 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,281 likes - 113 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 112 | [Sombra](https://open.spotify.com/track/7vpF6W64XotHKOESMN7eKp) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sombra](https://open.spotify.com/album/2BKmkEhOxgCUInScgtmcG0) | 1:42 |
 | 113 | [Path To The Mind](https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Path To The Mind](https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF) | 3:23 |
 
-Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDA0MTAwMDAwMTgxZGIxYjJkMWIwMDAwMDE3MzcxMjFkMGZi`
+Snapshot ID: `MTY1NzI5MTQ0OCwwMDAwMDA0MjAwMDAwMTgxZGU0NDlmZDkwMDAwMDE4MWRlNDQyNmY3`

@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 192625,
       "name": "Algum Lugar",
       "url": "https://open.spotify.com/track/3yEXRZC6m1M9XtAwijENfx"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 254304,
       "name": "Breu",
       "url": "https://open.spotify.com/track/3Eu2TC0aIOaBUB5oNzI6kr"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 204428,
       "name": "Coisas da Vida",
       "url": "https://open.spotify.com/track/74YDFvn8exKF2sbrFJMoek"
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 231000,
       "name": "Eu Voltei",
       "url": "https://open.spotify.com/track/3NLlQqrUUCHkRtqjl5UIly"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 258023,
       "name": "Fases",
       "url": "https://open.spotify.com/track/21clkKJbVa4RIguk7OPbZH"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 204500,
       "name": "Imperfeito",
       "url": "https://open.spotify.com/track/3bTkfTFNh90ZWsLwecx1JR"
@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 299480,
       "name": "Lazy Dayz",
       "url": "https://open.spotify.com/track/0tQPk5aD0j9DfieEKVPGV5"
@@ -2391,6 +2391,24 @@
       "duration_ms": 135910,
       "name": "N\u00e3o foi por mal",
       "url": "https://open.spotify.com/track/40XZqX5zbxr0PaqnmPGr1Y"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Fosse T\u00e3o Tarde",
+        "url": "https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205256,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde",
+      "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
     },
     {
       "album": {
@@ -3384,6 +3402,24 @@
     },
     {
       "album": {
+        "name": "Sonho",
+        "url": "https://open.spotify.com/album/41umITmWrGCRQVmIjVSBv7"
+      },
+      "artists": [
+        {
+          "name": "Brasileiro",
+          "url": "https://open.spotify.com/artist/5d2tthD9fxDS7G9C4fiDM4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sonho",
+      "url": "https://open.spotify.com/track/1AazDREEV0aK7wohJClJ1r"
+    },
+    {
+      "album": {
         "name": "G\u00eameos",
         "url": "https://open.spotify.com/album/0ChE7T4gcw48AEt6cMmaBx"
       },
@@ -3417,6 +3453,24 @@
       "duration_ms": 285546,
       "name": "sua sombra",
       "url": "https://open.spotify.com/track/5Qe4Q8qH5ZR39EXRbbB3Pp"
+    },
+    {
+      "album": {
+        "name": "sua sombra [sinais]",
+        "url": "https://open.spotify.com/album/4y8W1M1hyjv0qkwYES88zW"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faria",
+          "url": "https://open.spotify.com/artist/0L6jkqOXPUOl62qXsTCqO3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275863,
+      "name": "sua sombra [sinais]",
+      "url": "https://open.spotify.com/track/5XtgQPJcwouAlYtP9ikmV9"
     },
     {
       "album": {
@@ -3569,7 +3623,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 216373,
       "name": "Terra do Nunca Mais",
       "url": "https://open.spotify.com/track/7iBR8wrrllEI9BbU98zs4y"
@@ -4047,7 +4101,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 164878,
       "name": "Voc\u00ea N\u00e3o V\u00ea",
       "url": "https://open.spotify.com/track/03o9imYVmPeXwJEGLZrWbv"
@@ -4157,6 +4211,24 @@
       "duration_ms": 167914,
       "name": "V\u00eanus",
       "url": "https://open.spotify.com/track/15aq8H2UxtbVCr5MEY37YO"
+    },
+    {
+      "album": {
+        "name": "\u00cdMPAR 60",
+        "url": "https://open.spotify.com/album/4zqy15IdFuUcqBO1jEEuLN"
+      },
+      "artists": [
+        {
+          "name": "Antonia Morais",
+          "url": "https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "\u00cdmpar",
+      "url": "https://open.spotify.com/track/4Qo4YT6wQz4EkguY7KAINQ"
     },
     {
       "album": {

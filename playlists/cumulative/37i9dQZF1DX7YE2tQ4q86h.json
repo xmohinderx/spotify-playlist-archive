@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 146106,
       "name": "Ain't Seen Nothing Yet",
       "url": "https://open.spotify.com/track/1eBBnwbleqZvZjfCAbRlkn"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 196680,
       "name": "Brightsider",
       "url": "https://open.spotify.com/track/45r6xQhf7hKsefH0FEUPVH"
@@ -739,6 +739,24 @@
       "duration_ms": 216179,
       "name": "Company",
       "url": "https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1"
+    },
+    {
+      "album": {
+        "name": "Competition",
+        "url": "https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186462,
+      "name": "Competition",
+      "url": "https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L"
     },
     {
       "album": {
@@ -978,6 +996,28 @@
     },
     {
       "album": {
+        "name": "Everybody Wants It",
+        "url": "https://open.spotify.com/album/2W6n5qvGnLQjSZuvIfb85T"
+      },
+      "artists": [
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        },
+        {
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204062,
+      "name": "Everybody Wants It",
+      "url": "https://open.spotify.com/track/088lc5Y2AY6pQw6PG2Gm9X"
+    },
+    {
+      "album": {
         "name": "Explosive",
         "url": "https://open.spotify.com/album/3HDeUdqtFGF5NIkLZP4KWl"
       },
@@ -1106,7 +1146,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 158486,
+      "duration_ms": 157685,
       "name": "for the girls",
       "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
     },
@@ -1145,6 +1185,24 @@
       "duration_ms": 197013,
       "name": "GASLIGHT",
       "url": "https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/07fqC2Puj13frv9iYtlcri"
     },
     {
       "album": {
@@ -1526,6 +1584,28 @@
     },
     {
       "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Wuh Oh",
+          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182799,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
+    },
+    {
+      "album": {
         "name": "I Can't Get Enough",
         "url": "https://open.spotify.com/album/5LSeEdLSgCi2zQKYhmdIsb"
       },
@@ -1634,6 +1714,24 @@
     },
     {
       "album": {
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173105,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
+    },
+    {
+      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX"
       },
@@ -1715,6 +1813,28 @@
       "duration_ms": 172341,
       "name": "Jenny (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/6iKV3OxYyXJK1uAoZnKVMz"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3QPAXE08JQFgIc5lsmQEg1"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206335,
+      "name": "JUMP (feat. Coast Contra)",
+      "url": "https://open.spotify.com/track/0Eyr5YGPwE4CzmNGXhxc87"
     },
     {
       "album": {
@@ -1875,7 +1995,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 178133,
       "name": "Life's Too Short (English Version)",
       "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
@@ -1987,6 +2107,28 @@
       "duration_ms": 184029,
       "name": "Ll\u00e1mame",
       "url": "https://open.spotify.com/track/3n9qn38IhqkC7DcdIRaM9q"
+    },
+    {
+      "album": {
+        "name": "Lose Control (feat. Guilty Empress)",
+        "url": "https://open.spotify.com/album/3zfNAvAZz0HxwjaePj0TzQ"
+      },
+      "artists": [
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "Guilty Empress",
+          "url": "https://open.spotify.com/artist/1sqLOPikfBNDEkLPuN8EZh"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161332,
+      "name": "Lose Control (feat. Guilty Empress)",
+      "url": "https://open.spotify.com/track/6vCcveqr0Hw76YcMVGC16R"
     },
     {
       "album": {
@@ -2327,7 +2469,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 171750,
       "name": "NAILS",
       "url": "https://open.spotify.com/track/67qVRmg2JynkOZ5olduLAd"
@@ -2635,7 +2777,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 201495,
       "name": "psychofreak (feat. WILLOW)",
       "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
@@ -2653,7 +2795,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 198095,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6qjISOkB9F6X6FgsvdI2fR"
@@ -3431,7 +3573,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 164723,
       "name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO"

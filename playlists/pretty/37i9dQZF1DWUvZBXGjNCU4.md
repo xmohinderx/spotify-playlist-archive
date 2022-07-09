@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,700 likes - 138 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,717 likes - 138 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 137 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 |
 | 138 | [homestretch](https://open.spotify.com/track/6X7sxHLt8IMSUeqnw5T8dT) | [Brooke Osmanski](https://open.spotify.com/artist/1feAma94YsixyNehcnalFA) | [away from the city](https://open.spotify.com/album/6V0gpmoSXFlimu7tHH0fmM) | 2:39 |
 
-Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDAzODAwMDAwMTgxZGIxYjJjZGEwMDAwMDE3MGFmM2IyZWE5`
+Snapshot ID: `MTY1NzI5MTY4NSwwMDAwMDAzOTAwMDAwMTgxZGU0ODQwNTMwMDAwMDE4MWRlNDgxYmUy`

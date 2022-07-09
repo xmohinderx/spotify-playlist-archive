@@ -1712,6 +1712,24 @@
     },
     {
       "album": {
+        "name": "Official Blues Band Bootleg Album (Remastered)",
+        "url": "https://open.spotify.com/album/2VzkgbYZHG3rOTSJQxzlRO"
+      },
+      "artists": [
+        {
+          "name": "The Blues Band",
+          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234393,
+      "name": "Talk To Me Baby - Remastered",
+      "url": "https://open.spotify.com/track/3xbfli5MdImWymShGOOMlC"
+    },
+    {
+      "album": {
         "name": "Beck-Ola",
         "url": "https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi"
       },

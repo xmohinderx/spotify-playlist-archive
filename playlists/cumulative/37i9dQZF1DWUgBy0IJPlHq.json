@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Zach Bryan",
+  "description": "A new shade of Country. Cover: 49 Winchester",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "(Remember Me) I'm the One Who Loves You",
+        "url": "https://open.spotify.com/album/6mSs7MCOo0rv9f25WMfFnn"
+      },
+      "artists": [
+        {
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "(Remember Me) I'm the One Who Loves You",
+      "url": "https://open.spotify.com/track/4DSG3Jl9MHt7EQRR9louzF"
+    },
     {
       "album": {
         "name": "100 Proof",
@@ -764,6 +786,28 @@
     },
     {
       "album": {
+        "name": "Common Law",
+        "url": "https://open.spotify.com/album/2l8tS2MaLm9XUkmmWhmPZi"
+      },
+      "artists": [
+        {
+          "name": "Zoe Cummins",
+          "url": "https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh"
+        },
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183420,
+      "name": "Common Law",
+      "url": "https://open.spotify.com/track/5aImc0JnM01Y2LYNbdAx5T"
+    },
+    {
+      "album": {
         "name": "Neon Blue",
         "url": "https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk"
       },
@@ -993,6 +1037,24 @@
       "duration_ms": 254181,
       "name": "Doin' This",
       "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
+    },
+    {
+      "album": {
+        "name": "\"I'll Tell You What's Gonna Happen\"",
+        "url": "https://open.spotify.com/album/5H6WsuIbCm7xkRkDEmDTxN"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Kelly",
+          "url": "https://open.spotify.com/artist/5lXFUPKLFCgdpsP7WJ3Czc"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217965,
+      "name": "Don't Blame It on Me",
+      "url": "https://open.spotify.com/track/1XVLwPLqU18l5DRqNQS7m7"
     },
     {
       "album": {
@@ -1323,6 +1385,28 @@
       "duration_ms": 285866,
       "name": "Forged in Hell and Heaven Sent",
       "url": "https://open.spotify.com/track/7BI77Zk4GyY88tB3SJyx8p"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182826,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
     },
     {
       "album": {
@@ -1833,7 +1917,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 270826,
       "name": "Highway Like Me (feat. Marcus King)",
       "url": "https://open.spotify.com/track/51PuIBYfGsXVFmnsv70Vr3"
@@ -1963,7 +2047,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
@@ -2811,7 +2895,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 212883,
       "name": "On the Roof",
       "url": "https://open.spotify.com/track/1E3anxRwTDfSt4ORRzugNi"
@@ -2855,6 +2939,24 @@
       "duration_ms": 253973,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/19kDyB6HprmUSzBvPbpkTl"
+    },
+    {
+      "album": {
+        "name": "Other Than That",
+        "url": "https://open.spotify.com/album/7jEbVyXKzcWE4rJXnES8JO"
+      },
+      "artists": [
+        {
+          "name": "J.R. Carroll",
+          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258480,
+      "name": "Other Than That",
+      "url": "https://open.spotify.com/track/3YlHvC8fJhnQdbCbeEPsS2"
     },
     {
       "album": {
@@ -4307,7 +4409,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 268032,
       "name": "Wheel",
       "url": "https://open.spotify.com/track/6UXxzA4wX5qjteuBzMXrj6"
@@ -4343,7 +4445,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 291034,
       "name": "When John Prine Died",
       "url": "https://open.spotify.com/track/5VBOocjR3TYhcgYkPE7XiO"

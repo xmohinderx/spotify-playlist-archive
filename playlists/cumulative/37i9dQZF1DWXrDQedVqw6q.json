@@ -1916,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/7elTnjhpbDAbtO2LYKdd1f"
+      },
+      "artists": [
+        {
+          "name": "Michael Logozar",
+          "url": "https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/3LVfGCqen57RXIKj8Baen5"
+    },
+    {
+      "album": {
         "name": "Summer Memories",
         "url": "https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,476 likes - 74 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,622 likes - 74 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 73 | [60's Love](https://open.spotify.com/track/3h78AziF7cEXfm50J2TNcA) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Obosheshey](https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR) | 5:23 |
 | 74 | [Ta Khayala](https://open.spotify.com/track/0NyqnSwYGDbM72PUiRVGjM) | [Irfan Ali Taj](https://open.spotify.com/artist/0wzji6eI2JiZNztAEoXer4), [Anas Alam Khan](https://open.spotify.com/artist/5jBNrNEJZsx9jAmNJtnPkd), [Aziz Kazi](https://open.spotify.com/artist/5fcwlFnNLnw4OSMy6oNdnG) | [Mahal](https://open.spotify.com/album/6kVbEY9BY2Fqqr0St7HaXG) | 5:34 |
 
-Snapshot ID: `MTY1NTcwMzk0MCwwMDAwMDAxOTAwMDAwMTgxN2ZhNTJiZGEwMDAwMDE4MGUwOGRlMDI5`
+Snapshot ID: `MTY1NzI2MjI0MywwMDAwMDAxYTAwMDAwMTgxZGM4NzAwN2EwMDAwMDE4MGUwOGRlMDI5`

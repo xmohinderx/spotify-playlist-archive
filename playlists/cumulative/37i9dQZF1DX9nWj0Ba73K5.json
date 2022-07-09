@@ -1784,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/249z39NOAXP1q0HuhduwM7"
+      },
+      "artists": [
+        {
+          "name": "Tyler Cain",
+          "url": "https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194143,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/1gEo3St6nqFBAlXX2YU4z6"
+    },
+    {
+      "album": {
         "name": "Learn Myself",
         "url": "https://open.spotify.com/album/1bFjQhSYFc2pMFxZgypnJ2"
       },
@@ -2575,6 +2593,24 @@
       "duration_ms": 204706,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/28nO80586CILwu5kNXj3NI"
+    },
+    {
+      "album": {
+        "name": "self care.",
+        "url": "https://open.spotify.com/album/7eG9QRz0CNpz8Y1fzKJYzB"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139041,
+      "name": "self care.",
+      "url": "https://open.spotify.com/track/6RgUCaT2kLxy6o1XCOWQjQ"
     },
     {
       "album": {

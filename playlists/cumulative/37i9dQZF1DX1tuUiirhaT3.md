@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-196 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+197 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Morning Rises](https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:44 | 2021-12-17 |  |
 | [Mountaintop Birdwalk](https://open.spotify.com/track/7joXZ5D0jFDEzkSsGIgCcy) | [Overdue Soles](https://open.spotify.com/artist/4D9rrvqXdR4y5IA0zJaicG) | [Mountaintop Birdwalk](https://open.spotify.com/album/1KG2rjcesAYUTij1Rp2a0P) | 3:19 | 2022-02-16 |  |
 | [Move With the World](https://open.spotify.com/track/4rdGFY7PaFbiYdtt0XFFcb) | [Andrei Floarea](https://open.spotify.com/artist/78IHxPt2btrcsBlXX7HR0P) | [Waters of the Bay](https://open.spotify.com/album/5K3iTNfIAGAOForUufQNcp) | 4:04 | 2021-12-17 |  |
-| [Night Waves](https://open.spotify.com/track/2Al8nAkIepCfSlWDJMSanz) | [Summer Sea](https://open.spotify.com/artist/1lmCmB56gK4BS9i1Y6lLhP) | [Night Waves](https://open.spotify.com/album/6yuXpqdYcXc8EPHikT59rD) | 3:40 | 2021-12-17 |  |
+| [Night Waves](https://open.spotify.com/track/2Al8nAkIepCfSlWDJMSanz) | [Summer Sea](https://open.spotify.com/artist/1lmCmB56gK4BS9i1Y6lLhP) | [Night Waves](https://open.spotify.com/album/6yuXpqdYcXc8EPHikT59rD) | 3:40 | 2021-12-17 | 2022-07-09 |
 | [Nightfall at Whitehaven Beach](https://open.spotify.com/track/0X1tKaN8UN1r4DRxOtocSr) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Nightfall at Whitehaven Beach](https://open.spotify.com/album/4Nn0t0INwyLJnM4SuJqJ9Q) | 3:19 | 2021-12-17 |  |
 | [No Beginning No End](https://open.spotify.com/track/08Ud09yKK3KT1ylfWzBF8p) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [No Beginning No End](https://open.spotify.com/album/4hJS4JLgD3kkTlHfotsYCh) | 3:05 | 2021-12-17 |  |
 | [Numerus](https://open.spotify.com/track/3EPRoYFIBqOghG8uXqKD8x) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Novo](https://open.spotify.com/album/4T9SRXa272N8cLRiUpTMIB) | 3:33 | 2021-12-17 |  |
@@ -187,6 +187,7 @@
 | [The Walk Across](https://open.spotify.com/track/2ti4RtTCj8HxSADB6SHrh4) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [The Afternoon Breeze](https://open.spotify.com/album/06FNY9stCHsUBU5ZGcN5YU) | 3:14 | 2021-12-17 |  |
 | [Thunder Meditation](https://open.spotify.com/track/6roWjQjFjuNXdX5ApbWTR5) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Thunder Meditation](https://open.spotify.com/album/12jjifPSSSvIZvrxDxuZI2) | 4:37 | 2021-12-17 |  |
 | [Tones of Nature](https://open.spotify.com/track/78jPG2b6dRYEn5xtf36TxI) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:54 | 2021-12-17 |  |
+| [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2022-07-08 |  |
 | [True Awakening](https://open.spotify.com/track/0s7Qc2ytTasqhqjA9K2U2S) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Paranormal](https://open.spotify.com/album/0lUQkebaMN5Fa9O35WcMDu) | 3:21 | 2021-12-17 |  |
 | [Unto Nothing](https://open.spotify.com/track/5cLtfV0IzXgQmYXC2e6dm1) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Unto Nothing](https://open.spotify.com/album/06eFwXIBHDiut7njFtruKF) | 2:39 | 2021-12-17 |  |
 | [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2022-04-13 |  |

@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 91428,
       "name": "Accepted",
       "url": "https://open.spotify.com/track/25kktyAapXqmeQxKiHnlwk"
@@ -478,6 +478,24 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6cNrV6Uz4CdVM7hwIPSA60"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151238,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/6RouTxJEaWLaleuPFt5JP4"
+    },
+    {
+      "album": {
         "name": "Boom Boom (feat. A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/2mb4aeOU7TvbjgY86EEBqa"
       },
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 161816,
       "name": "BSU (Shut Up)",
       "url": "https://open.spotify.com/track/1Copp20ewBPoetwaP3XVDr"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 185376,
       "name": "Chaa Chaa Chaa (feat. HoodCelebrityy)",
       "url": "https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 241643,
       "name": "Changed On Me (feat. Vory & Polo G)",
       "url": "https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 138750,
       "name": "Cocky Humble",
       "url": "https://open.spotify.com/track/0fIYXOOFWKMOnULDcQPEru"
@@ -963,6 +981,24 @@
       "duration_ms": 128854,
       "name": "Copy and Paste",
       "url": "https://open.spotify.com/track/1uBrfwtWoUGg1smzPOBZWA"
+    },
+    {
+      "album": {
+        "name": "Crossing My Mind",
+        "url": "https://open.spotify.com/album/6RtTh2szJrsuqrgtqNBEw9"
+      },
+      "artists": [
+        {
+          "name": "Ciggy Blacc",
+          "url": "https://open.spotify.com/artist/0IN0wP9ki18ys6EW4OtoQJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "Crossing My Mind",
+      "url": "https://open.spotify.com/track/3OF7MWm0t3uxO4TurkqvOJ"
     },
     {
       "album": {
@@ -1127,6 +1163,24 @@
       "duration_ms": 122141,
       "name": "Demon (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG"
+    },
+    {
+      "album": {
+        "name": "Peace \"Fly\" God",
+        "url": "https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279640,
+      "name": "Derrick Boleman",
+      "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
     },
     {
       "album": {
@@ -1634,6 +1688,28 @@
     },
     {
       "album": {
+        "name": "GO KUU (feat. Rayy Balla)",
+        "url": "https://open.spotify.com/album/72MrteVGW8VJBK3VSDLB8z"
+      },
+      "artists": [
+        {
+          "name": "Kenzo Balla",
+          "url": "https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp"
+        },
+        {
+          "name": "Rayy Balla",
+          "url": "https://open.spotify.com/artist/4jgpkZGVmMusMmTYJkZPnM"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173419,
+      "name": "GO KUU (feat. Rayy Balla)",
+      "url": "https://open.spotify.com/track/0Pm7DMzgHOSNDoUwBnZU2E"
+    },
+    {
+      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/6RdO1MGip6pQfmEpUxjXzV"
       },
@@ -1747,7 +1823,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 129535,
       "name": "HAHA (feat. Pusha T)",
       "url": "https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW"
@@ -1977,7 +2053,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 212142,
       "name": "Hottest In My City (feat. Rob49)",
       "url": "https://open.spotify.com/track/0uEkLt1na2pzVo3NUzI1CJ"
@@ -2043,6 +2119,32 @@
       "duration_ms": 160940,
       "name": "I Don't Really Care",
       "url": "https://open.spotify.com/track/7AFdKKY8VN6gijdxQJgQr4"
+    },
+    {
+      "album": {
+        "name": "I Got A Feeling",
+        "url": "https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Dthang",
+          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+        },
+        {
+          "name": "T Dot",
+          "url": "https://open.spotify.com/artist/4Lt8by3K29vseH2bTZNx0p"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228436,
+      "name": "I Got A Feeling",
+      "url": "https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36"
     },
     {
       "album": {
@@ -2201,7 +2303,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 175306,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
@@ -2279,6 +2381,24 @@
       "duration_ms": 225000,
       "name": "Johnny P's Caddy",
       "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
+    },
+    {
+      "album": {
+        "name": "July The Fourth",
+        "url": "https://open.spotify.com/album/6Ai7vuVWp2XvQAYBib1TPA"
+      },
+      "artists": [
+        {
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "July The Fourth",
+      "url": "https://open.spotify.com/track/5L2yLS4c0rEAVu2sQouz7t"
     },
     {
       "album": {
@@ -2765,7 +2885,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 213891,
       "name": "Moonwalking (feat. DJ Drama & Ron Suno)",
       "url": "https://open.spotify.com/track/4uYDoLcUEAKhy9cLEECtzw"
@@ -3319,10 +3439,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 123480,
       "name": "OWITFWMGAF",
       "url": "https://open.spotify.com/track/0CBd7NIUboC0Db2qNi5A7M"
+    },
+    {
+      "album": {
+        "name": "Paris to Tokyo",
+        "url": "https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130897,
+      "name": "Paris to Tokyo",
+      "url": "https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7"
     },
     {
       "album": {
@@ -3435,7 +3577,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 152941,
       "name": "Pon de River",
       "url": "https://open.spotify.com/track/2j8JwskHQF2SZcli0PwhDJ"
@@ -3497,6 +3639,32 @@
       "duration_ms": 94876,
       "name": "Pulling up",
       "url": "https://open.spotify.com/track/2tytnCYxmi5sK4jHw4Be2r"
+    },
+    {
+      "album": {
+        "name": "The World Is Yours: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/2G7OtfI3kpgfQNvnH9Sq9h"
+      },
+      "artists": [
+        {
+          "name": "Badda TD",
+          "url": "https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Put In Work (feat. Dusty Locane)",
+      "url": "https://open.spotify.com/track/2VOgN0UIoBnWahApbZvyhG"
     },
     {
       "album": {
@@ -4178,6 +4346,24 @@
     },
     {
       "album": {
+        "name": "Survivors Guilt",
+        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352613,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
+    },
+    {
+      "album": {
         "name": "T O X I C",
         "url": "https://open.spotify.com/album/6Xd813lPkoPVndJxVQKyvq"
       },
@@ -4501,7 +4687,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 105926,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/5gHZrIUjZ6eniUIrySkv6Y"
@@ -4541,6 +4727,24 @@
       "duration_ms": 159101,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2HzSAg4A7t5yM8Ly3JpaZR"
+    },
+    {
+      "album": {
+        "name": "TRIBORO",
+        "url": "https://open.spotify.com/album/6cSas8iJsNMlJptuh152ES"
+      },
+      "artists": [
+        {
+          "name": "Justin Rose",
+          "url": "https://open.spotify.com/artist/6lnJJJRdoHFl0hP4GQq4oc"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136312,
+      "name": "TRIBORO",
+      "url": "https://open.spotify.com/track/3YW6dTxbI2cFhrsvcUbiOS"
     },
     {
       "album": {
@@ -4617,6 +4821,24 @@
       "duration_ms": 282581,
       "name": "Vinyl Days (feat. DJ Premier)",
       "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
+    },
+    {
+      "album": {
+        "name": "Walk Em",
+        "url": "https://open.spotify.com/album/5SAkuoaJVtQkzNCeA7EN8L"
+      },
+      "artists": [
+        {
+          "name": "26ar",
+          "url": "https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121285,
+      "name": "Walk Em",
+      "url": "https://open.spotify.com/track/7Fb1CXeHkU4axxhebmT7Io"
     },
     {
       "album": {
@@ -4849,7 +5071,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 188386,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"

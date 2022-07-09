@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-216 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+217 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2021-12-08 |  |
 | [Villa Borghese](https://open.spotify.com/track/5N69GHuuvue74rYozPlBJ2) | [Roma Atmosphere](https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8) | [Roma Atmosphere](https://open.spotify.com/album/5j8CZ8WMJoxRfwVAdFJai0) | 3:41 | 2021-12-08 |  |
 | [Vá Devagar](https://open.spotify.com/track/34ttyToe7nrqpvxu9XMyr0) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:19 | 2021-12-08 |  |
+| [Walking Alongside the Gates of Heaven](https://open.spotify.com/track/6vOynuMgg62np7cBtV5qjk) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:04 | 2022-07-08 |  |
 | [Watercolor](https://open.spotify.com/track/4WTmQdOSpj9rfBqYY2hryC) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 4:07 | 2021-12-08 |  |
 | [Winds of Haryana](https://open.spotify.com/track/5M2vSYhLSDww1n3x2zB1qN) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 | 2021-12-08 |  |
 | [Within Us](https://open.spotify.com/track/0KJ0xOx8ZhVlsRlta6MftC) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Colors & Shapes](https://open.spotify.com/album/3cunIVFjTiFdhYW9OZPcvw) | 3:09 | 2021-12-08 |  |

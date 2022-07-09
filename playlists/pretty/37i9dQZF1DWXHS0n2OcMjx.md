@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,042 likes - 147 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,041 likes - 147 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 146 | [Personal](https://open.spotify.com/track/3Fs4KN9bsXag0yxBilBG9y) | [Densky9](https://open.spotify.com/artist/2FzImqc6MWD57A5yR5KXz0) | [Panda Talk](https://open.spotify.com/album/2b2zrKQQg4fACjRdGgs996) | 3:42 |
 | 147 | [Hello Friend](https://open.spotify.com/track/3mB3p3Dh014P4fdxvEb07J) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Chillhop Daydreams](https://open.spotify.com/album/7qdepmAALqX7taS6nMz8v5) | 2:01 |
 
-Snapshot ID: `MTY1NDg1NTA4MSwwMDAwMDAwZDAwMDAwMTgxNGQwYzlmZmMwMDAwMDE3MGM0Y2IwZTMx`
+Snapshot ID: `MTY1NzI5NDE3MCwwMDAwMDAwZTAwMDAwMTgxZGU2ZTJhZWYwMDAwMDE4MWRlNmQwOWM5`

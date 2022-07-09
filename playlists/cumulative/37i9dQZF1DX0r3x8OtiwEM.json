@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 384377,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1Ikxe4XFu0B5zW3FJX7PUO"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 412500,
       "name": "As We Roll",
       "url": "https://open.spotify.com/track/0wtVKPi0ctiZTlntlHjxLM"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 452867,
       "name": "Astronautin",
       "url": "https://open.spotify.com/track/4clBWumKdQ85EDbgYxv3Ow"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 413858,
       "name": "Avalanche - Joachim Pastor Remix",
       "url": "https://open.spotify.com/track/1SFWabVeCbM9cD7Gb2qBNo"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 313846,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/1QAukxDeTuctdK9O6IzyJv"
@@ -880,6 +880,24 @@
     },
     {
       "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464026,
+      "name": "Between Two Worlds",
+      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/3KArNyUMUdAXmnwP72PQSz"
       },
@@ -895,7 +913,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 324000,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/3gkChSNvZJeTegxz57szLt"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 198676,
       "name": "Bring You Back - Edit",
       "url": "https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz"
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 252250,
       "name": "Broken Moonlight",
       "url": "https://open.spotify.com/track/1izKtDdviVm7LmhEJZLReB"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 343125,
       "name": "CITY OF DUST - 8KAYS Remix",
       "url": "https://open.spotify.com/track/7IssVZDmUwAVXJwYaGGwLQ"
@@ -1785,7 +1803,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 364918,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
@@ -2470,6 +2488,24 @@
     },
     {
       "album": {
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/79p9DOvfUpXIVUUzkqdeb2"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279999,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/3qTJbiHIjxSm1RDTtwybdE"
+    },
+    {
+      "album": {
         "name": "Einmusik / Lake Avalon",
         "url": "https://open.spotify.com/album/1sz5tUBNYQd4jasYDTvxV1"
       },
@@ -2877,7 +2913,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 411978,
       "name": "Finale",
       "url": "https://open.spotify.com/track/1wirHkULbAEyUu9G4qGwuR"
@@ -3213,7 +3249,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 432848,
       "name": "German Spring",
       "url": "https://open.spotify.com/track/16rPiwJp75OWUxBAMVzJQx"
@@ -3571,7 +3607,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 420876,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/07kw4vqIzRkaoR2JQMiIXK"
@@ -4201,7 +4237,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
@@ -4237,7 +4273,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 328189,
       "name": "Iela",
       "url": "https://open.spotify.com/track/3nUMd9BAvtt7r0RZnecRh3"
@@ -4499,7 +4535,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 204907,
       "name": "It's a Fine Day",
       "url": "https://open.spotify.com/track/0ZRVNeTUZVdjIdjss3toAS"
@@ -4731,7 +4767,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 227962,
       "name": "Klaxon",
       "url": "https://open.spotify.com/track/20zXYmh2UvTiFugquhOF6i"
@@ -4945,7 +4981,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 388000,
       "name": "Lose Your Senses",
       "url": "https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY"
@@ -4985,7 +5021,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 413044,
       "name": "Lost In The Stars - Original Mix",
       "url": "https://open.spotify.com/track/3ODEf1vww4qljvqidfcqIU"
@@ -5781,7 +5817,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 314389,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
@@ -5915,7 +5951,7 @@
       ],
       "date_added": "2020-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 286717,
       "name": "No Silence",
       "url": "https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO"
@@ -6007,7 +6043,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 383500,
       "name": "Not Alone - Hidden Empire Remix",
       "url": "https://open.spotify.com/track/7IiLZWBF8KCSH60Vv7qME8"
@@ -6537,7 +6573,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 250731,
       "name": "Packard - Nora En Pure Remix",
       "url": "https://open.spotify.com/track/6q8y9CRGqPCz4Waajo9zAS"
@@ -6879,10 +6915,28 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 257439,
       "name": "Protection",
       "url": "https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL"
+    },
+    {
+      "album": {
+        "name": "Pulsing",
+        "url": "https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E"
+      },
+      "artists": [
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "Pulsing",
+      "url": "https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws"
     },
     {
       "album": {
@@ -7995,7 +8049,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 279127,
       "name": "Something Was Missing - PARIS Remix",
       "url": "https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41"
@@ -8281,7 +8335,7 @@
       ],
       "date_added": "2020-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 191612,
       "name": "Suvi",
       "url": "https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL"
@@ -8695,7 +8749,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 985710,
       "name": "The Kingdom Is Ours",
       "url": "https://open.spotify.com/track/7FABE5YnCjQMBl3DyT1FQG"
@@ -9521,7 +9575,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Unite",
       "url": "https://open.spotify.com/track/3oIybLlADYuhdinp3LB8Ct"
@@ -9539,7 +9593,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 424979,
       "name": "Unlocked",
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
@@ -9601,7 +9655,7 @@
       ],
       "date_added": "2020-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 211475,
       "name": "Vallut Bass",
       "url": "https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo"
@@ -10037,7 +10091,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 223451,
       "name": "What Is Real",
       "url": "https://open.spotify.com/track/6FejG35GjXYmlHwJOdaChF"

@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-98 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+100 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Anarkali](https://open.spotify.com/track/6XjsTOdtCJqn50W7ouvXAq) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Temple Leaves](https://open.spotify.com/album/4FgFJmKNa2omZgJxpybnkP) | 5:00 | 2022-04-04 |  |
 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 | 2022-04-04 |  |
 | [Aum](https://open.spotify.com/track/142JeUf0yewGiafhVEVZAQ) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Relaxing Music From Around The World: Music for Meditation, Sleep and Working](https://open.spotify.com/album/5QU0YYRzu0pzxfNESLOECe) | 5:23 | 2022-04-04 |  |
+| [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 | 2022-07-08 |  |
 | [Bageshri](https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 8:11 | 2022-04-04 | 2022-05-06 |
 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 | 2022-04-04 |  |
 | [Bhairavi](https://open.spotify.com/track/4zttb0FMlcA1PO9h8mQ8ub) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 6:47 | 2022-04-04 |  |
@@ -99,6 +100,7 @@
 | [The Nomad](https://open.spotify.com/track/4niholgEfhqnE5ibXj51IB) | [Niraj Chag](https://open.spotify.com/artist/0GcVFL5IbFUWK4qj1ZNxk6), [Melissa Baten](https://open.spotify.com/artist/1hop7lgm5DhS5O0ku1OUxu) | [Along The Dusty Road](https://open.spotify.com/album/2OX1EL4s2oyro3ujGRIM1L) | 5:09 | 2022-04-04 |  |
 | [The Smile](https://open.spotify.com/track/5wKC89heaxElqcfbNUueay) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Peace and Quiet](https://open.spotify.com/album/7FppjfxFZLD1bO80GhAYqF) | 5:08 | 2022-04-04 |  |
 | [the start](https://open.spotify.com/track/5f4MmyB0T4AMvBpn1R6aDZ) | [The Calm Within](https://open.spotify.com/artist/4bGT4F2c2EVVA9kZYCvbvM) | [the start](https://open.spotify.com/album/7GJM6LI1cSWrqUxZAeqL9O) | 5:29 | 2022-04-04 |  |
+| [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 | 2022-07-08 |  |
 | [This Strange Isolation](https://open.spotify.com/track/5xQDDJPpZ5fmRujXZX9HMR) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV) | [Body.Mind.Soul](https://open.spotify.com/album/6tbT222rFV6qbso1ZqQ3ZY) | 1:11 | 2022-04-04 |  |
 | [Tombstone Moondancer](https://open.spotify.com/track/1u5vczu5TwLXBD1Jkv08vp) | [Maximikiz](https://open.spotify.com/artist/0YlEZ0L8FwH6HMXW5jf4JC) | [Tombstone Moondancer](https://open.spotify.com/album/3ikwIBOPITN3FPGnV2seaR) | 3:21 | 2022-04-04 |  |
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2022-04-04 |  |

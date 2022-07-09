@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-123 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+124 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [make believe](https://open.spotify.com/track/6btp8C9tzrkVPFzwIhOByv) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [make believe](https://open.spotify.com/album/4v5FIKvi2HgnjJxmsBzJl4) | 2:31 | 2021-04-19 |  |
 | [Me, My Old Man and Steely Dan](https://open.spotify.com/track/1P522La5BZVnPSLuPwya2M) | [Andrew Sevener](https://open.spotify.com/artist/0ZvCVJNGgjViL07mB8Xuxx) | [Me, My Old Man and Steely Dan](https://open.spotify.com/album/3lC8XBp5SC40kVFsXLMn5l) | 3:18 | 2021-04-19 |  |
 | [Milkman](https://open.spotify.com/track/31s3epLc7WpJvWJZyushyP) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 3:22 | 2021-04-19 | 2022-04-29 |
+| [Money, Love & Death](https://open.spotify.com/track/6SNbZkTjHMCLninZRWTjbJ) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Money, Love & Death](https://open.spotify.com/album/7oWB6Lfleo2iNyMXtYjBut) | 2:44 | 2022-07-08 |  |
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2021-04-19 |  |
 | [My Old Man](https://open.spotify.com/track/6OzujJBXwYPxJ7KeqflLtr) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/2IcmfT1b5m1wWrJI1ZVAUa) | 3:47 | 2021-04-19 |  |
 | [Nashville](https://open.spotify.com/track/54ZN2jpVqqhS8l4Qdc4ncu) | [Jill and Kate](https://open.spotify.com/artist/3nOFoJxsyWVGxnFQMqjeH0) | [Nashville](https://open.spotify.com/album/1R2wxAT6PhqV8EkE3EejMT) | 3:54 | 2021-04-19 | 2022-04-29 |
@@ -95,7 +96,7 @@
 | [Stand Like an Oak](https://open.spotify.com/track/6VXHUPu7zooSbuu8ZyKu9M) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like an Oak](https://open.spotify.com/album/3hMbzAsZb8Wl78Ob7aGhGO) | 3:01 | 2021-04-19 |  |
 | [Stay for a While](https://open.spotify.com/track/4Un0UIwMc6h7NYa4ZkjnCf) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:04 | 2021-04-19 |  |
 | [Stupid Heart](https://open.spotify.com/track/49LO8TA171dpEzwGZlBO91) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Sides](https://open.spotify.com/album/7JCQA4uw0BpFSlvO1PYgRE) | 3:02 | 2021-04-19 |  |
-| [Sweet Annie](https://open.spotify.com/track/2xPRYtkesQBl1he1BJNsxV) | [Roseanne Reid](https://open.spotify.com/artist/5ePOH20nPLAGlOCqSNMpYd), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Sweet Annie](https://open.spotify.com/album/1jkQi9IxBAoxAi2INKASyD) | 3:23 | 2021-04-19 |  |
+| [Sweet Annie](https://open.spotify.com/track/2xPRYtkesQBl1he1BJNsxV) | [Roseanne Reid](https://open.spotify.com/artist/5ePOH20nPLAGlOCqSNMpYd), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Sweet Annie](https://open.spotify.com/album/1jkQi9IxBAoxAi2INKASyD) | 3:23 | 2021-04-19 | 2022-07-09 |
 | [Take Me In](https://open.spotify.com/track/3kO1Q0Wnru2byANBQArvLq) | [Emily Mae Winters](https://open.spotify.com/artist/32DWWN4wxy82xoUR4gLdsA) | [High Romance](https://open.spotify.com/album/6yPoKNXHpy6filsFCgrLSO) | 3:28 | 2021-04-19 | 2022-04-29 |
 | [Take The Chance](https://open.spotify.com/track/6noKDeExEd4bYp9qtSg6f5) | [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Behind This Guitar](https://open.spotify.com/album/4eu52uZltxOTS0ec73kDpu) | 3:37 | 2021-04-19 |  |
 | [Take This Hand](https://open.spotify.com/track/11PKwER5M6Rxu04BK7uTst) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Rosemary & Garlic](https://open.spotify.com/album/3BZ2g04bJWlE9WmuEs5vf3) | 3:32 | 2021-04-19 | 2022-04-29 |

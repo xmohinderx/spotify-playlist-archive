@@ -312,6 +312,24 @@
     },
     {
       "album": {
+        "name": "Hello Rocks (from Hoa - Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y"
+      },
+      "artists": [
+        {
+          "name": "Johannes Johansson",
+          "url": "https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166528,
+      "name": "Hello Rocks - from Hoa - Original Soundtrack",
+      "url": "https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys"
+    },
+    {
+      "album": {
         "name": "Far from the Madding Crowd (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP"
       },

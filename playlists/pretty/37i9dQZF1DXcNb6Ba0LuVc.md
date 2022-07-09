@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,885 likes - 213 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,950 likes - 213 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 212 | [Funkophomatic](https://open.spotify.com/track/3llezaxf0tOO3n0S81ZgDI) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Funkophomatic](https://open.spotify.com/album/795wf2HDzo17vytmfBRcuo) | 2:40 |
 | 213 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 |
 
-Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDAzMzAwMDAwMTgxZGIxYjJjZDcwMDAwMDE3MTVjM2YzNDY3`
+Snapshot ID: `MTY1NzI5MjgyNiwwMDAwMDAzNDAwMDAwMTgxZGU1OWE4OTYwMDAwMDE4MWRlNTk4ODJk`

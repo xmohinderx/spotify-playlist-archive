@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 18889,
+  "num_followers": 19004,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0Mzg2NiwwMDAwMDAwMDNkYTk4NmI4MWRiYWY0MjFhMWIyMjYzNDJhMmVhNzE0",
+  "snapshot_id": "MTY1NzMyOTAyNywwMDAwMDAwMDk1ZDkyMDVjYzk0MTcyZGI0ZmQ0YzllY2VjZTJjNDVh",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -59,18 +59,34 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
       },
       "artists": [
         {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
         }
       ],
-      "duration_ms": 249293,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
+      "duration_ms": 272706,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Profilin': The Hits",
+        "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
+      },
+      "artists": [
+        {
+          "name": "Rob Base & DJ EZ Rock",
+          "url": "https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
     },
     {
       "added_at": "2022-01-10 20:50:24",
@@ -87,22 +103,6 @@
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Hello Nasty (Deluxe Version/Remastered 2009)",
-        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "Intergalactic - Remastered 2009",
-      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -131,18 +131,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Profilin': The Hits",
-        "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
       },
       "artists": [
         {
-          "name": "Rob Base & DJ EZ Rock",
-          "url": "https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu"
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
         }
       ],
-      "duration_ms": 301893,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
+      "duration_ms": 249293,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -161,22 +161,6 @@
       "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
-    },
-    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "A Wolf In Sheep's Clothing",
@@ -191,6 +175,38 @@
       "duration_ms": 243200,
       "name": "The Choice Is Yours (Revisited)",
       "url": "https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P"
+    },
+    {
+      "added_at": "2022-01-10 20:50:24",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Hello Nasty (Deluxe Version/Remastered 2009)",
+        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "Intergalactic - Remastered 2009",
+      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -211,22 +227,6 @@
     {
       "added_at": "2022-01-10 20:50:24",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
-    },
-    {
-      "added_at": "2022-01-10 20:50:24",
-      "album": {
         "name": "The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook",
         "url": "https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 260306,
       "name": "Mistadobalina",
       "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC"
+    },
+    {
+      "added_at": "2020-12-07 15:05:30",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -289,22 +305,6 @@
       "url": "https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe"
     },
     {
-      "added_at": "2020-12-07 15:05:30",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "It's Tricky",
-      "url": "https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc"
-    },
-    {
       "added_at": "2020-09-29 17:19:21",
       "album": {
         "name": "Don't Sweat The Technique",
@@ -323,18 +323,86 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "2 Hype",
-        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
+        "name": "Holy Intellect (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
       },
       "artists": [
         {
-          "name": "Kid 'N Play",
-          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
+          "name": "Poor Righteous Teachers",
+          "url": "https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy"
         }
       ],
-      "duration_ms": 284040,
-      "name": "Gittin' Funky",
-      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
+      "duration_ms": 311080,
+      "name": "Rock Dis Funky Joint",
+      "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "My Adidas",
+      "url": "https://open.spotify.com/track/64UQLXFp7Gs189kF3myYiq"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Ladies First",
+        "url": "https://open.spotify.com/album/5KWbm0YELafqxzEmE27J5O"
+      },
+      "artists": [
+        {
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+        },
+        {
+          "name": "Monie Love",
+          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+        }
+      ],
+      "duration_ms": 229896,
+      "name": "Ladies First - Radio Edit",
+      "url": "https://open.spotify.com/track/2hZ88MVnZCOuXZ2UmeCOFI"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -361,20 +429,52 @@
       "url": "https://open.spotify.com/track/6oObYkdW3HMbqCV3AhSfVR"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
+      "added_at": "2021-03-19 15:07:31",
       "album": {
-        "name": "Holy Intellect (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
       },
       "artists": [
         {
-          "name": "Poor Righteous Teachers",
-          "url": "https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy"
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
         }
       ],
-      "duration_ms": 311080,
-      "name": "Rock Dis Funky Joint",
-      "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Big Tyme",
+        "url": "https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8"
+      },
+      "artists": [
+        {
+          "name": "Heavy D & The Boyz",
+          "url": "https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "We Got Our Own Thang",
+      "url": "https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -395,86 +495,34 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Ladies First",
-        "url": "https://open.spotify.com/album/5KWbm0YELafqxzEmE27J5O"
+        "name": "2 Hype",
+        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
       },
       "artists": [
         {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        },
-        {
-          "name": "Monie Love",
-          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+          "name": "Kid 'N Play",
+          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
         }
       ],
-      "duration_ms": 229896,
-      "name": "Ladies First - Radio Edit",
-      "url": "https://open.spotify.com/track/2hZ88MVnZCOuXZ2UmeCOFI"
+      "duration_ms": 284040,
+      "name": "Gittin' Funky",
+      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
     },
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+        "name": "Dana Dane with Fame",
+        "url": "https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Dana Dane",
+          "url": "https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp"
         }
       ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
-    },
-    {
-      "added_at": "2021-03-19 15:07:31",
-      "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
-      },
-      "artists": [
-        {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
+      "duration_ms": 198880,
+      "name": "This Be the Def Beat",
+      "url": "https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -491,22 +539,6 @@
       "duration_ms": 224826,
       "name": "Monie in the Middle",
       "url": "https://open.spotify.com/track/03iVkiiPAFaAgc3qrwrzNa"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Big Tyme",
-        "url": "https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8"
-      },
-      "artists": [
-        {
-          "name": "Heavy D & The Boyz",
-          "url": "https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "We Got Our Own Thang",
-      "url": "https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -531,22 +563,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
       },
@@ -559,6 +575,22 @@
       "duration_ms": 177266,
       "name": "The Fresh Prince of Bel-Air",
       "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257360,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -579,18 +611,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Dana Dane with Fame",
-        "url": "https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5"
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
       },
       "artists": [
         {
-          "name": "Dana Dane",
-          "url": "https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp"
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         }
       ],
-      "duration_ms": 198880,
-      "name": "This Be the Def Beat",
-      "url": "https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri"
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -639,22 +671,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
-      },
-      "artists": [
-        {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
-        }
-      ],
-      "duration_ms": 257360,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 222840,
       "name": "It's a Shame (My Sister)",
       "url": "https://open.spotify.com/track/2tFAP5PycKceC26ZnIqnBt"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "My Adidas",
-      "url": "https://open.spotify.com/track/64UQLXFp7Gs189kF3myYiq"
     }
   ],
   "unique_name": "Raised on Hip Hop",

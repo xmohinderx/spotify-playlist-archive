@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 313548,
       "name": "Breng",
       "url": "https://open.spotify.com/track/6vzqgrHOThby3HvNfSRLwY"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 154293,
       "name": "Buffalo Soldiers 2022",
       "url": "https://open.spotify.com/track/11YObz6UIpxSf5jokVBFlU"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 128444,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/2Vld4tt2tCLlTI86owjykK"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 164761,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
@@ -1076,6 +1076,24 @@
     },
     {
       "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150348,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
+    },
+    {
+      "album": {
         "name": "Distant Memory (with Timmy Trumpet x W&W)",
         "url": "https://open.spotify.com/album/4Hx4oAboWyR4hI1UeEHRLR"
       },
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 150468,
       "name": "Distant Memory (with Timmy Trumpet x W&W)",
       "url": "https://open.spotify.com/track/50Q24gRvLy128dfU2DDoao"
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 155714,
       "name": "Get in Trouble (So What) - Lilo Remix",
       "url": "https://open.spotify.com/track/0dmUBjkwsT8aQg1qlbkLso"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 181120,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/1E08Ym6iYOonl5L107Eh5X"
@@ -2293,7 +2311,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 160480,
       "name": "I Wanna Dance with Somebody (feat. The High)",
       "url": "https://open.spotify.com/track/6wa9YlQMYlnur0kdTDgwl8"
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 163998,
       "name": "Lai Lai - Radio Edit",
       "url": "https://open.spotify.com/track/2dxMU41k1sCboEDE7DNLtX"
@@ -2751,7 +2769,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 187214,
       "name": "Life Like This",
       "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
@@ -2873,7 +2891,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 163478,
       "name": "Lo Nevosh",
       "url": "https://open.spotify.com/track/3hYWcQkxlGEiOtDjfKsD7d"
@@ -3021,7 +3039,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 128713,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/1dNKEN8oSU00yRARXd0XuQ"
@@ -3079,7 +3097,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 143911,
       "name": "Mera Eva",
       "url": "https://open.spotify.com/track/5KNNHlJw4DOKjxrs8LxHtL"
@@ -3119,7 +3137,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 158000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2ImJRXPtx4meYZ4DkhSU89"
@@ -3237,7 +3255,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 219000,
       "name": "My Feelings",
       "url": "https://open.spotify.com/track/7DIXoZRRwog4KbDTIN7fgN"
@@ -3259,7 +3277,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 156446,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/3eBHxUVMT8zXWnyaIPJMTP"
@@ -3829,7 +3847,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 132538,
       "name": "Rakt In",
       "url": "https://open.spotify.com/track/2u8IipnJOEDdDLyLUv3g9c"
@@ -3953,7 +3971,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
@@ -4145,7 +4163,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 190312,
       "name": "Sao Paulo",
       "url": "https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub"
@@ -4255,7 +4273,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 144280,
       "name": "Selskabet 2021",
       "url": "https://open.spotify.com/track/400NglZCQ1v3zANvpTXS5K"
@@ -4439,7 +4457,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 149822,
       "name": "SK\u00c5L",
       "url": "https://open.spotify.com/track/0H7EEBVrmoupdLzj22cXDp"
@@ -4549,7 +4567,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 120000,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5jQxnJIy96OrUKQy8phVzh"
@@ -4751,7 +4769,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 221647,
       "name": "Stars Don't Shine (feat. Global Dan)",
       "url": "https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16"
@@ -4823,7 +4841,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 160685,
       "name": "Step-Grandma",
       "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
@@ -5331,7 +5349,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 135483,
       "name": "The Club Is Jumpin'",
       "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
@@ -5551,7 +5569,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 178812,
       "name": "To the Moon",
       "url": "https://open.spotify.com/track/68j909ukxFuw5Pwjwzx3X2"
@@ -5693,7 +5711,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Turn The Lights Down Low (with R3HAB)",
       "url": "https://open.spotify.com/track/6k330QxFV5VXZSDj5wTUNR"
@@ -5859,7 +5877,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 147258,
       "name": "Voltage",
       "url": "https://open.spotify.com/track/7z3kQQICDz1iLkfo7j1lOV"
@@ -5903,7 +5921,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 181896,
       "name": "We Are Here Now",
       "url": "https://open.spotify.com/track/4UVuGgYk3qlAfR8DGH30C4"
@@ -6101,7 +6119,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 179600,
       "name": "Who U Gonna Love (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"

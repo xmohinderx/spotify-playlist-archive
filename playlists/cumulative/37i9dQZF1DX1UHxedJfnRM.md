@@ -2,9 +2,9 @@
 
 ### [Pura Salsa](https://open.spotify.com/playlist/37i9dQZF1DX1UHxedJfnRM)
 
-> Los temas más sabrosos del momento suenan aquí\. Foto: Daniela Darcourt
+> Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-84 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/2tB1ux7wGPv1Xl4KlF6iA7)
+85 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/2tB1ux7wGPv1Xl4KlF6iA7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 | 2022-05-13 |  |
 | [Escúchame Mi Amor](https://open.spotify.com/track/4hKA20qV4pbFRsvetaiI6F) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Escúchame Mi Amor](https://open.spotify.com/album/0ShEn9YT8mKbikES8Bbczq) | 3:45 | 2022-05-13 | 2022-05-28 |
 | [Escúchame Mi Amor \- \(Versión Salsa\)](https://open.spotify.com/track/3ls8JeVnVqZjgxBUQ6dFmN) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Escúchame Mi Amor](https://open.spotify.com/album/2JLsZ8rCJFCnjNIkepUej0) | 3:45 | 2022-05-27 |  |
+| [FOR SALE](https://open.spotify.com/track/68Pz7iMzCrCoHQcocNwvAi) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [FOR SALE](https://open.spotify.com/album/4MYIOezZeoePIZ8LAS084W) | 4:43 | 2022-07-08 |  |
 | [Frágil](https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764) | [Reynier Perez](https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Enamórate Bailando](https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y) | 4:36 | 2022-05-13 |  |
 | [Fuera](https://open.spotify.com/track/34QE9OSoB5EMflRXe6n0uo) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 5:05 | 2022-05-27 |  |
 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 | 2022-05-13 |  |
@@ -84,7 +85,7 @@
 | [Te Equivocaste Conmigo](https://open.spotify.com/track/5fIZ0ju08y3plRtjM3SS84) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Te Equivocaste Conmigo](https://open.spotify.com/album/6rirUeOxzeulvnkmTvQAwo) | 4:09 | 2022-05-13 |  |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/5npRVbAfQveZ57Od4e1j66) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Díselo](https://open.spotify.com/album/05El2xzVkxnnXhb5OBsSWd) | 5:28 | 2022-05-13 |  |
 | [Tu Falta de Querer](https://open.spotify.com/track/5AQ5u6zEpcHqwnTuYFesR9) | [Son Tentacion](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Nuestra Historia](https://open.spotify.com/album/4BBYd00knrYeFnPDSwQ23l) | 5:01 | 2022-05-13 |  |
-| [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-05-13 |  |
+| [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-05-13 | 2022-07-09 |
 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 | 2022-05-13 |  |
 | [Vacilando Rico Con Zaperoko](https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Vacilando Rico Con Zaperoko](https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9) | 14:09 | 2022-05-13 |  |
 | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH) | 3:04 | 2022-05-13 |  |

@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Killua
 
-84 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+85 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aquela](https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Aquela](https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs) | 2:01 | 2022-03-18 |  |
 | [Autentik](https://open.spotify.com/track/4fjCiIbLbAODNeAPfFsYdN) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Autentik](https://open.spotify.com/album/5qtO48IVD7aoY7VcLJDXfp) | 2:51 | 2022-03-18 |  |
 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 | 2022-03-18 |  |
-| [Baby Prince$$](https://open.spotify.com/track/3MebYuT8I3DY4EMCcbinzy) | [Nic Dias](https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM) | [Baby Prince$$](https://open.spotify.com/album/136I42oMuE4sPEuIouaRqF) | 2:15 | 2022-03-18 |  |
+| [Baby Prince$$](https://open.spotify.com/track/3MebYuT8I3DY4EMCcbinzy) | [Nic Dias](https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM) | [Baby Prince$$](https://open.spotify.com/album/136I42oMuE4sPEuIouaRqF) | 2:15 | 2022-03-18 | 2022-07-09 |
 | [BNTA](https://open.spotify.com/track/1dUA1RZRJtTKYATLHuxsbS) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/0ukdEskm3LHXFYBvYwsCOk) | 3:57 | 2022-03-18 |  |
 | [Braba](https://open.spotify.com/track/2S9eAfAmIExYjbpclUpqEv) | [Camilli Miranda](https://open.spotify.com/artist/7fLjiciAnNIg6r6YdYOjvW), [Dj Tom Rc](https://open.spotify.com/artist/0gNoMkZ14tXJmgyPBIIq4N) | [Braba](https://open.spotify.com/album/0pUKN9S8Z1JxZJSbarZbWH) | 2:01 | 2022-03-18 |  |
 | [Brincando com Fogo](https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Brincando com Fogo](https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk) | 3:02 | 2022-06-24 |  |
@@ -80,6 +80,7 @@
 | [Sagaz](https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Sagaz](https://open.spotify.com/album/1qysRiSfDDpuxQNaS8AG6p) | 2:15 | 2022-03-18 |  |
 | [Sem Tempo](https://open.spotify.com/track/09ziftydXrtCwTqIQl5PFj) | [CALI](https://open.spotify.com/artist/58XX830AG7eO98Od1VXwC8) | [Sem Tempo](https://open.spotify.com/album/4Av4a7XW2YxfupT4mJDXXh) | 2:44 | 2022-03-18 | 2022-04-23 |
 | [Sinto Te Dizer](https://open.spotify.com/track/5O1UvWpcxMjT5ZoCjfAy2u) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Sinto Te Dizer](https://open.spotify.com/album/6HEscFE5brELtlw4Nfl76V) | 3:22 | 2022-04-22 |  |
+| [Soul](https://open.spotify.com/track/48BbXcPOpPu0XMymrDBi3k) | [Ornellas](https://open.spotify.com/artist/27zOmTo3H5RpXpliGvS5vH), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Soul](https://open.spotify.com/album/2EWAQZhCgfd3oBwpJmoZpq) | 2:19 | 2022-07-08 |  |
 | [SP NIGHTS](https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [SP NIGHTS](https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb) | 4:18 | 2022-03-18 |  |
 | [Suíte](https://open.spotify.com/track/2V1OUlByWK0TETvPKjdUqp) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Suíte](https://open.spotify.com/album/2czFe8CEb8GcRnYCiZyHd0) | 2:58 | 2022-03-18 | 2022-04-09 |
 | [Só Mais um Trapper](https://open.spotify.com/track/077llN7tZH947zQPJFAsMJ) | [Donna Forte](https://open.spotify.com/artist/7pFC3Q9kglhwQQ9y5h9utD) | [Só Mais um Trapper](https://open.spotify.com/album/4xFk7SlXHcQYK1muQp4roe) | 2:24 | 2022-03-18 |  |

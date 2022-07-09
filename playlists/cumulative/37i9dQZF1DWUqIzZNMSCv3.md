@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-54 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/2E2RyBcBkqOG7RVx0sFU7t)
+55 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/2E2RyBcBkqOG7RVx0sFU7t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Piano Sonata No\. 20 in A Major, D\. 959: II\. Andantino](https://open.spotify.com/track/2lZ4IicfSIP3e1vwUZ4MQj) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 8:55 | 2021-12-06 |  |
 | [Premier Nocturne, Op\. 22](https://open.spotify.com/track/1xrz9rJJPVENNP4l4Jvft4) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Michael Landrum](https://open.spotify.com/artist/1ZwgmPk7yAW0HsoGlFsBQ0) | [Nocturnes](https://open.spotify.com/album/4W4WygqfXLiIKtaiv1snAc) | 6:09 | 2022-01-25 |  |
 | [Rêverie, L\. 68](https://open.spotify.com/track/6HNUntao7jCtKR2cGKgqn0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:29 | 2021-12-06 |  |
+| [Scarlatti, D: Keyboard Sonata in F Minor, Kk\. 466](https://open.spotify.com/track/234LwPuKv0RLwbiWYUEeJT) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Morning Piano \- Scarlatti: Keyboard Sonata K\. 466](https://open.spotify.com/album/2GCs7UuM83toYpS5mAhuwG) | 7:24 | 2022-07-08 |  |
 | [Sechs Klavierstücke, Op\. 118: II\. Intermezzo in A Major](https://open.spotify.com/track/1Oo7XEqkrwifJn17aA0ocF) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos Plays Brahms](https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO) | 6:18 | 2021-12-06 |  |
 | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah) | 2:54 | 2021-12-06 |  |
 | [Siciliano \(After "Erbarme dich" from Matthäus\-Passion, BWV 244, No\. 39\)](https://open.spotify.com/track/5nFCdayR5pAEVvQw7ZAIuQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Piano Songbook](https://open.spotify.com/album/4kb4g4LErw7g8iooZfxFAF) | 2:05 | 2021-12-06 |  |

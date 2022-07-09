@@ -794,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Papa, Can You Hear Me?",
+        "url": "https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jacqu\u00e9s",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281053,
+      "name": "Papa, Can You Hear Me?",
+      "url": "https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b"
+    },
+    {
+      "album": {
         "name": "Rainbow (Instrumental)",
         "url": "https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB"
       },

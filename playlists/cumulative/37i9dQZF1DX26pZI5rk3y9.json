@@ -870,6 +870,24 @@
     },
     {
       "album": {
+        "name": "Black & White",
+        "url": "https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "Polk Salad Annie",
+      "url": "https://open.spotify.com/track/0jtz7Ia3HahOqXWnKad0rn"
+    },
+    {
+      "album": {
         "name": "Groove Juice: The Norman Granz Recordings + More",
         "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
       },

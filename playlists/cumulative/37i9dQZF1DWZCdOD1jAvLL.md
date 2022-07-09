@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: 401 WST
 
-223 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
+224 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/track/3BXkQUkKCPQzB8FitUJh4N) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/album/0imeEEICV87asg6t6YTv9z) | 4:16 | 2022-01-14 | 2022-02-26 |
 | [Crave The Bassline](https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Crave The Bassline](https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S) | 2:46 | 2022-02-25 |  |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-11 | 2022-04-29 |
+| [Dance 2 The Beat](https://open.spotify.com/track/3sP5Qa52HgEZUpbJtNJKs0) | [HeyMcFly!](https://open.spotify.com/artist/65lYK1dU8mQjVthSTNtJS2) | [Dance 2 The Beat](https://open.spotify.com/album/6qwyUm3xT0G3C0acI1jlPY) | 3:36 | 2022-07-08 |  |
 | [Dani Girl](https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Dani Girl](https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa) | 3:54 | 2022-02-25 |  |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-25 |  |
 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 | 2022-01-14 | 2022-03-12 |

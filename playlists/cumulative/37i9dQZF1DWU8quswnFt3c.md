@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Simi
 
-537 songs - 1 day 5 hr 35 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+538 songs - 1 day 5 hr 38 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Clit Is Good](https://open.spotify.com/track/162VxrGfWcY4uE0LW6jbeQ) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Clit Is Good](https://open.spotify.com/album/1MzcGJruvNRVX49q5ZR9wt) | 3:01 | 2022-05-04 | 2022-06-01 |
 | [Cobarde](https://open.spotify.com/track/3w0IdrfXrlmvESogOesvOf) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Cobarde \(feat\. Sergio George\)](https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo) | 3:12 | 2022-01-05 | 2022-02-03 |
 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 | 2022-07-06 |  |
+| [Competition](https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Competition](https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK) | 3:06 | 2022-07-08 |  |
 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 | 2022-06-01 | 2022-07-07 |
 | [Coração de Pedra](https://open.spotify.com/track/3YHkxbE7bRGdGVSIEXgooD) | [MARA](https://open.spotify.com/artist/5F9mvejx8ps76oWYpjbHtJ) | [Coração de Pedra](https://open.spotify.com/album/5tKiYumWylU32f3ky8FpYb) | 3:24 | 2022-03-08 | 2022-04-07 |
 | [CORDUROY](https://open.spotify.com/track/6UWr3nxjlOJ5j4dwA8qIwf) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [hello TRINITY](https://open.spotify.com/album/03h1vbYJqvoI1fpnBDWuvh) | 3:11 | 2021-12-11 | 2022-01-06 |
@@ -173,7 +174,7 @@
 | [Good Behaviour](https://open.spotify.com/track/4vqkuf2iiz4eRMHZakL94e) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Good Behaviour](https://open.spotify.com/album/5evJhPMfeMuqgIJQF7ARYZ) | 4:03 | 2022-01-05 | 2022-02-01 |
 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 | 2022-05-04 | 2022-06-01 |
 | [Good Trouble](https://open.spotify.com/track/7tOscxxC3AlgiBagWInEm3) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Good Trouble](https://open.spotify.com/album/1BqIPBcVq5VEl4HpMuboQI) | 3:24 | 2022-02-09 | 2022-03-09 |
-| [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-07-06 |  |
+| [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-07-06 | 2022-07-09 |
 | [Gusto Ko Nang Bumitaw \- From "The Broken Marriage Vow"](https://open.spotify.com/track/1FxGqFnJkRgJ5LG2NBRTh3) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Gusto Ko Nang Bumitaw \(From "The Broken Marriage Vow"\)](https://open.spotify.com/album/05RICu0AxsqrqoiSzzxeyG) | 4:31 | 2022-04-06 | 2022-05-05 |
 | [Gái Độc Thân](https://open.spotify.com/track/2klsSb2iTfgDh95Ak9uWY2) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Gái Độc Thân](https://open.spotify.com/album/4gDgccYkth0VxOc4m5IpIJ) | 3:05 | 2022-05-04 | 2022-06-01 |
 | [Haja Te Min Tûne](https://open.spotify.com/track/732SZN5cHOoCnskgDnVVoe) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Haja Te Min Tûne](https://open.spotify.com/album/2PDA2TWHD9OO3QbZIJDnXo) | 3:07 | 2021-12-11 | 2022-01-06 |

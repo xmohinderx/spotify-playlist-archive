@@ -1524,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "Old Flame",
+        "url": "https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw"
+      },
+      "artists": [
+        {
+          "name": "Rhita Nattah",
+          "url": "https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124428,
+      "name": "Old Flame",
+      "url": "https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8"
+    },
+    {
+      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6"
       },

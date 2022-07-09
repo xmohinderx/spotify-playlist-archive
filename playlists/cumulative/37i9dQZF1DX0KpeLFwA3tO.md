@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Waterparks
 
-436 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+437 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Headstone](https://open.spotify.com/track/5PbNsH6E4cKPKqSTIx6sQb) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Headstone](https://open.spotify.com/album/1qBvU9jzoyXf2FnF83MvvQ) | 3:50 | 2022-01-14 | 2022-02-25 |
 | [Heavy Steps](https://open.spotify.com/track/7nlA824VNUPmoHadJ2ir3K) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/0fsLogewsZXku52SwVJF0I) | 3:22 | 2021-12-17 | 2022-01-21 |
 | [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 2:55 | 2022-03-31 | 2022-05-27 |
+| [Highs & Lows](https://open.spotify.com/track/5mAqm8QY71uwyj7PcIPGnL) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [Highs & Lows](https://open.spotify.com/album/0aUHZaNG7elj6T2HMnExjU) | 2:18 | 2022-07-07 |  |
 | [Homesick for Hope](https://open.spotify.com/track/4RvPDeKtZxooLkO2mXW6gs) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III](https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx) | 2:53 | 2021-12-17 | 2022-02-25 |
 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-04-28 | 2022-06-18 |
 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 | 2021-12-17 | 2022-01-28 |

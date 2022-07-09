@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 178000,
       "name": "7 Lagos",
       "url": "https://open.spotify.com/track/47JIcIX3Iq2xwrAIgjMNuv"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 204419,
       "name": "Alejandra",
       "url": "https://open.spotify.com/track/2KNQI5eVgoNyvZY4HJFHpz"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 205596,
       "name": "Coisa Linda (Solo Guitar)",
       "url": "https://open.spotify.com/track/5RIBurCH73RYHD9rbNPvN2"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 235798,
       "name": "Como Han Pasado los Anos",
       "url": "https://open.spotify.com/track/56MEvjcsopnXjg0beoQiJU"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 130500,
       "name": "Esperare",
       "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 221684,
       "name": "Garden Peace",
       "url": "https://open.spotify.com/track/00f9Id9X2EBYkyHkIL7gTA"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 145125,
       "name": "Me Muero Sin Tus Besos",
       "url": "https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 162944,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
@@ -1573,7 +1573,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 221026,
       "name": "Recuerdos de la Alhambra",
       "url": "https://open.spotify.com/track/0txa5FMG04o9M0dxnX4HcT"
@@ -1613,6 +1613,24 @@
       "duration_ms": 170833,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0VwA4OOrK4K0qrfaFBHCoi"
+    },
+    {
+      "album": {
+        "name": "Saint Valentine",
+        "url": "https://open.spotify.com/album/1MbqX2EtuO7SnLnrKzEnkv"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112833,
+      "name": "Saint Valentine",
+      "url": "https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR"
     },
     {
       "album": {
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 256613,
       "name": "Serenata Campechana",
       "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
@@ -1837,6 +1855,24 @@
       "duration_ms": 199937,
       "name": "Summer Bolero",
       "url": "https://open.spotify.com/track/2TpnRrHffsh7aeYgPWrGdK"
+    },
+    {
+      "album": {
+        "name": "Summer Walks",
+        "url": "https://open.spotify.com/album/7C0PB7dfWUj7FLoXCYkSMQ"
+      },
+      "artists": [
+        {
+          "name": "Walter David",
+          "url": "https://open.spotify.com/artist/7DroDCkqomfRXj7zVYjiI3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96738,
+      "name": "Summer Walks",
+      "url": "https://open.spotify.com/track/3PgpqddvtMosikFwFytr14"
     },
     {
       "album": {
@@ -2069,7 +2105,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 212918,
       "name": "Vals del Carnaval",
       "url": "https://open.spotify.com/track/6gct3vAaDCOLiM3MXOqrnI"
@@ -2141,7 +2177,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 193851,
       "name": "When the Ocean Sleeps",
       "url": "https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr"
@@ -2195,7 +2231,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 142775,
       "name": "You Are All Mine",
       "url": "https://open.spotify.com/track/51D5edfTPbvHeB3AUEWMxT"

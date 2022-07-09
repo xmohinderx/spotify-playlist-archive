@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Clermont",
+        "url": "https://open.spotify.com/album/0XciGzBUV8HJUcSkYo0vku"
+      },
+      "artists": [
+        {
+          "name": "Luka Vida",
+          "url": "https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131995,
+      "name": "Clermont",
+      "url": "https://open.spotify.com/track/0WNOQLJP7OsYJ9nLUO1IPY"
+    },
+    {
+      "album": {
         "name": "mise-en-sc\u00e8ne",
         "url": "https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ"
       },
@@ -441,6 +459,24 @@
       "duration_ms": 192748,
       "name": "Dreams of Mercury",
       "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+    },
+    {
+      "album": {
+        "name": "Essential Transformation",
+        "url": "https://open.spotify.com/album/0OlqiG1lP38XGnl5TrITD8"
+      },
+      "artists": [
+        {
+          "name": "Cold Space",
+          "url": "https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248109,
+      "name": "Essential Transformation",
+      "url": "https://open.spotify.com/track/13dIRMP00LvvzqhY9OLOSk"
     },
     {
       "album": {

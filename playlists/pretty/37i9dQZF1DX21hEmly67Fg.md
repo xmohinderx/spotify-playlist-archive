@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,266 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,346 likes - 61 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 53 | [How Far Will I Go](https://open.spotify.com/track/5DbaHzbL6yNvDweTMwDsjE) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [How Far Will I Go](https://open.spotify.com/album/01dPukYevifXCAoCg1iLP3) | 4:10 |
 | 54 | [Nothing Compares To You](https://open.spotify.com/track/2tZw7jaxDXM7klb1lEL3u2) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Nothing Compares To You](https://open.spotify.com/album/6pfu6QZu1gPxpzUXr73HzN) | 2:25 |
 | 55 | [Ain't No Sunshine](https://open.spotify.com/track/6yLcsEgiCCn6gxVXtGCWQz) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Cello Covers](https://open.spotify.com/album/1rhVOuaB488YSTGUl5GuvJ) | 2:06 |
-| 56 | [Shape of My Heart](https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Shape of My Heart](https://open.spotify.com/album/6rpczEJb2gH66izQHWYLNj) | 5:44 |
-| 57 | [All Of Me](https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo) | 3:18 |
-| 58 | [Dance Monkey](https://open.spotify.com/track/2yKwUvawwvock24y5EAl4g) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Dance Monkey](https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44) | 2:52 |
-| 59 | [A Thousand Years](https://open.spotify.com/track/0E0xI4AgMNU7UkwBt3FCVN) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:35 |
-| 60 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 |
+| 56 | [Papa, Can You Hear Me?](https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Papa, Can You Hear Me?](https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK) | 4:41 |
+| 57 | [Shape of My Heart](https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Shape of My Heart](https://open.spotify.com/album/6rpczEJb2gH66izQHWYLNj) | 5:44 |
+| 58 | [All Of Me](https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo) | 3:18 |
+| 59 | [Dance Monkey](https://open.spotify.com/track/2yKwUvawwvock24y5EAl4g) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Dance Monkey](https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44) | 2:52 |
+| 60 | [A Thousand Years](https://open.spotify.com/track/0E0xI4AgMNU7UkwBt3FCVN) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:35 |
+| 61 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 |
 
-Snapshot ID: `MTY1MjQxNDUyMCwwMDAwMDAxODAwMDAwMTgwYmI5NDliNTAwMDAwMDE3Nzk2NjAxOTA5`
+Snapshot ID: `MTY1NzI1Mjg2MCwwMDAwMDAxOTAwMDAwMTgxZGJmN2QxNmIwMDAwMDE3Nzk2NjAxOTA5`

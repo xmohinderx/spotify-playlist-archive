@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Monkey Safari
 
-432 songs - 1 day 16 hr 6 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+433 songs - 1 day 16 hr 10 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Chaos Energy](https://open.spotify.com/track/2tHEINSk0N2hd2GkXCTyRd) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/32xpe2C8vcln7YEVPou5T2) | 5:13 | 2022-05-20 | 2022-06-03 |
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-05-26 | 2022-06-10 |
 | [Choir Song](https://open.spotify.com/track/6dIHOrCZ8Lprk0lNSX2wsg) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Choir Song](https://open.spotify.com/album/2awZQRNIJc7kKdvxwCatmw) | 6:24 | 2022-04-14 | 2022-04-22 |
+| [CIEL](https://open.spotify.com/track/4rMOMzdO1tlcayilkK1AML) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CIEL](https://open.spotify.com/album/22U8WncH3Ih48jcY83lw41) | 4:10 | 2022-07-08 |  |
 | [Clamato](https://open.spotify.com/track/1jNPV5NpnuC2dtgI7lzQX4) | [Zombies In Miami](https://open.spotify.com/artist/42ZWiibQTSxTJSBV7oziPy), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Michelada Brothers](https://open.spotify.com/album/6AdVgEAX7QaYOElbOqqoxp) | 6:51 | 2022-04-14 | 2022-04-22 |
 | [Clarity](https://open.spotify.com/track/1sx2rzsTFeqqHRYugGZVIB) | [Atroxx](https://open.spotify.com/artist/5xUFaih4LPL1He9jDdvqTw), [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Clarity](https://open.spotify.com/album/0ve5omxRE21tbmQMb8cA33) | 6:15 | 2022-06-23 |  |
 | [Climax](https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Climax](https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC) | 3:18 | 2022-05-20 | 2022-06-03 |

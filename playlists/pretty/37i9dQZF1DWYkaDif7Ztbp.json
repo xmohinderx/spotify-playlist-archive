@@ -1,12 +1,12 @@
 {
   "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=KUVPUyCARYWjp_Fjfk8s_g\">Burna Boy </a> ",
-  "num_followers": 1009495,
+  "num_followers": 1010486,
   "original_name": "African Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDI0NjAwMDAwMTgxZGFlNDNlMjAwMDAwMDE4MWQ4MjM2NWZm",
+  "snapshot_id": "MTY1NzI2NTIxMSwwMDAwMDI0NzAwMDAwMTgxZGNiNDQ5MzQwMDAwMDE4MWQ4MjM2NWZm",
   "tracks": [
     {
       "added_at": "2022-05-12 23:00:00",
@@ -79,6 +79,26 @@
       "duration_ms": 159124,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP"
+    },
+    {
+      "added_at": "2022-07-08 07:26:51",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
       "added_at": "2022-05-19 23:00:00",

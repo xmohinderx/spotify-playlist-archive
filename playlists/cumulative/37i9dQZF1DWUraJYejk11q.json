@@ -498,6 +498,28 @@
     },
     {
       "album": {
+        "name": "Closer (Daniel Avery Edit)",
+        "url": "https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G"
+      },
+      "artists": [
+        {
+          "name": "Rolo Tomassi",
+          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246696,
+      "name": "Closer - Daniel Avery Edit",
+      "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
+    },
+    {
+      "album": {
         "name": "Ones",
         "url": "https://open.spotify.com/album/6lo52TlixgAYR8gX6vescb"
       },
@@ -1100,6 +1122,28 @@
     },
     {
       "album": {
+        "name": "Go (Otik Remix)",
+        "url": "https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245438,
+      "name": "Go (Otik Remix)",
+      "url": "https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ"
+    },
+    {
+      "album": {
         "name": "She's Calling EP",
         "url": "https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N"
       },
@@ -1327,7 +1371,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 271946,
       "name": "Joy Squad",
       "url": "https://open.spotify.com/track/3Y8T9RXnsJFjz9OgieBnyP"
@@ -2345,7 +2389,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 188802,
       "name": "STARS",
       "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"

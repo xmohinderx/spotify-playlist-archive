@@ -3882,6 +3882,24 @@
     },
     {
       "album": {
+        "name": "Spiritually Connected",
+        "url": "https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI"
+      },
+      "artists": [
+        {
+          "name": "Elisha Raymond",
+          "url": "https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147127,
+      "name": "Praiseworthy",
+      "url": "https://open.spotify.com/track/6UDUV0eh8K04FTxhfpOEdR"
+    },
+    {
+      "album": {
         "name": "Profound",
         "url": "https://open.spotify.com/album/2T5PHfwAwONbtakHIwNb5X"
       },

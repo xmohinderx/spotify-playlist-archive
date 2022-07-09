@@ -3338,6 +3338,24 @@
     },
     {
       "album": {
+        "name": "Shangri-La Is Calling",
+        "url": "https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274901,
+      "name": "Shangri-La Is Calling",
+      "url": "https://open.spotify.com/track/3mC9UEuISVfgymoY1YDTNn"
+    },
+    {
+      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K"
       },

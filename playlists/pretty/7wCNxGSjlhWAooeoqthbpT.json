@@ -6,7 +6,7 @@
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MTc5MSw1OTVlZDE2OGM4YmUxNTBmNmFhZWY4YmFiODI5NTVkODllZTVhN2Mz",
+  "snapshot_id": "MTgwMyxlNDdhZDRiYmI3NmY5M2MyOTUyYmJjYjhkNWViZDE3ZmVhMmU0MWQ2",
   "tracks": [
     {
       "added_at": "2022-04-29 13:45:14",
@@ -341,6 +341,30 @@
       "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
     },
     {
+      "added_at": "2022-07-08 14:16:02",
+      "album": {
+        "name": "The World Is Yours: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/2G7OtfI3kpgfQNvnH9Sq9h"
+      },
+      "artists": [
+        {
+          "name": "Badda TD",
+          "url": "https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Put In Work (feat. Dusty Locane)",
+      "url": "https://open.spotify.com/track/2VOgN0UIoBnWahApbZvyhG"
+    },
+    {
       "added_at": "2021-10-22 14:24:17",
       "album": {
         "name": "FOR CERTAIN (Deluxe)",
@@ -557,6 +581,26 @@
       "url": "https://open.spotify.com/track/2LNiTlYDSFntPkU3qvUc6Y"
     },
     {
+      "added_at": "2022-07-08 14:17:37",
+      "album": {
+        "name": "In My Projects",
+        "url": "https://open.spotify.com/album/3E5dBHBjnIdXovdZbcoGay"
+      },
+      "artists": [
+        {
+          "name": "D3szn",
+          "url": "https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn"
+        },
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Show No Love (feat. Fredo Bang)",
+      "url": "https://open.spotify.com/track/0B1kYE1ZJHVEtiYhmNPEda"
+    },
+    {
       "added_at": "2022-06-24 13:42:24",
       "album": {
         "name": "LARRY (Deluxe)",
@@ -593,30 +637,6 @@
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
-      "added_at": "2022-05-06 14:04:12",
-      "album": {
-        "name": "Moonwalking (feat. DJ Drama & Ron Suno)",
-        "url": "https://open.spotify.com/album/1DNweKGpzInFXs1FgsIjy1"
-      },
-      "artists": [
-        {
-          "name": "Badda TD",
-          "url": "https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
-        {
-          "name": "Ron Suno",
-          "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
-        }
-      ],
-      "duration_ms": 213891,
-      "name": "Moonwalking (feat. DJ Drama & Ron Suno)",
-      "url": "https://open.spotify.com/track/4uYDoLcUEAKhy9cLEECtzw"
-    },
-    {
       "added_at": "2021-10-22 14:24:36",
       "album": {
         "name": "Seven Shades of Heartbreak",
@@ -647,26 +667,6 @@
       "duration_ms": 136051,
       "name": "ANXIETY",
       "url": "https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5"
-    },
-    {
-      "added_at": "2022-04-29 13:44:52",
-      "album": {
-        "name": "Mudbaby (feat. Kalan.FrFr)",
-        "url": "https://open.spotify.com/album/4ZIqCkN9QsLsYUPZKYxhjQ"
-      },
-      "artists": [
-        {
-          "name": "D3szn",
-          "url": "https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn"
-        },
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 144033,
-      "name": "Mudbaby (feat. Kalan.FrFr)",
-      "url": "https://open.spotify.com/track/4RCQPrRcIH7jFBJ8khMQn3"
     },
     {
       "added_at": "2022-04-15 16:07:56",
@@ -829,26 +829,6 @@
       "url": "https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw"
     },
     {
-      "added_at": "2022-01-07 14:50:03",
-      "album": {
-        "name": "Blessings (feat. Chronixx)",
-        "url": "https://open.spotify.com/album/59eVgCnvJgjlEX4vLiOSHm"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Blessings (feat. Chronixx)",
-      "url": "https://open.spotify.com/track/0VoCmyKz6GRRl6AuT7if6t"
-    },
-    {
       "added_at": "2022-05-06 14:06:15",
       "album": {
         "name": "Final Notice",
@@ -863,6 +843,26 @@
       "duration_ms": 179928,
       "name": "Final Notice",
       "url": "https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a"
+    },
+    {
+      "added_at": "2022-07-08 14:17:25",
+      "album": {
+        "name": "Wishin (feat. B-Lovee)",
+        "url": "https://open.spotify.com/album/2o1fNtQx2GK6ezyeTZXaRc"
+      },
+      "artists": [
+        {
+          "name": "AAP Deno",
+          "url": "https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "duration_ms": 163187,
+      "name": "Wishin (feat. B-Lovee)",
+      "url": "https://open.spotify.com/track/4brjhS8jM6awvONNexpSG0"
     },
     {
       "added_at": "2021-11-05 14:17:54",

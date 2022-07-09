@@ -44,6 +44,32 @@
     },
     {
       "album": {
+        "name": "F1 22 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5hRhjXSgKKSlLX8ZFhxEqT"
+      },
+      "artists": [
+        {
+          "name": "Ian Livingstone",
+          "url": "https://open.spotify.com/artist/71wbvQyh0QbofdrRXCagLU"
+        },
+        {
+          "name": "Ethan Livingstone",
+          "url": "https://open.spotify.com/artist/5SWVyhFS5ykl0LpJQNNL6H"
+        },
+        {
+          "name": "Julie Seechuk",
+          "url": "https://open.spotify.com/artist/1R62hlOb9mHKh9sWyPvBGa"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255436,
+      "name": "A New Dawn (feat. Julie Seechuk)",
+      "url": "https://open.spotify.com/track/0gs2sDUTqsDaxY5BLxhpik"
+    },
+    {
+      "album": {
         "name": "A Plague Tale: Requiem (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7h4CSV1MgXOf5XKntD3Ivj"
       },
@@ -758,6 +784,24 @@
     },
     {
       "album": {
+        "name": "Hello Rocks (from Hoa - Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y"
+      },
+      "artists": [
+        {
+          "name": "Johannes Johansson",
+          "url": "https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166528,
+      "name": "Hello Rocks - from Hoa - Original Soundtrack",
+      "url": "https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys"
+    },
+    {
+      "album": {
         "name": "The Outer Worlds (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6Hd0qkZ6fnN981YtFQI6oG"
       },
@@ -1267,7 +1311,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 189910,
       "name": "Prelude and Main Titles",
       "url": "https://open.spotify.com/track/3XjWFz19CqI8IP1h5JdSdH"

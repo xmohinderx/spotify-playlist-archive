@@ -1528,6 +1528,24 @@
     },
     {
       "album": {
+        "name": "Whiskey When I'm Gone",
+        "url": "https://open.spotify.com/album/3VQtuaW3kFENk36ThLmnT7"
+      },
+      "artists": [
+        {
+          "name": "Chauncey Jones",
+          "url": "https://open.spotify.com/artist/5Dm8aBxMcG8ORTzv0IJMkt"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198296,
+      "name": "Whiskey When I'm Gone",
+      "url": "https://open.spotify.com/track/7EY4WHDf4Csp0gz7urHClf"
+    },
+    {
+      "album": {
         "name": "Whiskeysippi River",
         "url": "https://open.spotify.com/album/7d0FHNsKz47v9HGgpoSROS"
       },

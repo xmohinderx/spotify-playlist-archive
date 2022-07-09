@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,358 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,364 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 35 | [He Don't Really Love You](https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Cameo Parkway 1957\-1967](https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo) | 2:24 |
 | 36 | [I Don't Want To Make You Wait \- Digitally Remastered 1997](https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 3:16 |
 | 37 | [How Long Will You Stay \- Re\-Recorded In Stereo](https://open.spotify.com/track/7LVpQBczvJBhkiezh2316d) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 4:46 |
-| 38 | [Just Come To Me](https://open.spotify.com/track/2hLyef5hQ0SQPMsQbFbl3Q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:34 |
-| 39 | [You've Got Yours and I'll Get Mine](https://open.spotify.com/track/1kv28lKIdRA2aydk5ZYtW2) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 3:16 |
-| 40 | [Strangers Again](https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Delfonics Today All Platinium](https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U) | 3:39 |
+| 38 | [Strangers Again](https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Delfonics Today All Platinium](https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U) | 3:39 |
+| 39 | [Just Come To Me](https://open.spotify.com/track/2hLyef5hQ0SQPMsQbFbl3Q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:34 |
+| 40 | [You've Got Yours and I'll Get Mine](https://open.spotify.com/track/1kv28lKIdRA2aydk5ZYtW2) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 3:16 |
 | 41 | [The Way Things Are \(Aren't The Way They Used To Be\)](https://open.spotify.com/track/7bMzxxzDoXkMJQiCjv88RU) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Records Presents: The Way Things Were](https://open.spotify.com/album/0v9VmBNpHA23zKo3lbTEIJ) | 3:28 |
 | 42 | [Didn't I Blow Your Mind This Time \- Re\-Recorded In Stereo](https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 3:24 |
 | 43 | [My World Revolves Around You](https://open.spotify.com/track/1Bb8niOtFuv0M07uCEDpvb) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:38 |
 | 44 | [Start All Over Again](https://open.spotify.com/track/3T94VAbOrvsKgXEFsTLEOb) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Records Presents: This Time](https://open.spotify.com/album/4JiEK0vq0RvCZIYB4PdCMs) | 4:19 |
 | 45 | [Totally in Love With You \(Modal Voice Mix\) \[feat\. William Hart\]](https://open.spotify.com/track/4wqLjjkwhj5rMuLEV1XLjg) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [William Hart](https://open.spotify.com/artist/2Y3pUok6I8CqV4m9vqQJwH) | [Totally in Love With You \(Modal Voice Mix\) \[feat\. William Hart\]](https://open.spotify.com/album/49a2Z6m6J9fH0PTYuPsDjG) | 4:41 |
-| 46 | [The Phoney](https://open.spotify.com/track/2SQMUwmA8zQ1YPTwwJKr3v) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Records Presents: The Way Things Were](https://open.spotify.com/album/0v9VmBNpHA23zKo3lbTEIJ) | 3:10 |
-| 47 | [She's The Kinda Girl](https://open.spotify.com/track/3QXJsJ9R31nSo6uierSCeE) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:13 |
-| 48 | [Can't Get Over Losing You](https://open.spotify.com/track/7ejLrBSdqORsHcMDCd26RO) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:30 |
-| 49 | [Oh My Love](https://open.spotify.com/track/6o2OoZbn5shmkO7AVKbRe1) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Records Presents: The Way Things Were](https://open.spotify.com/album/0v9VmBNpHA23zKo3lbTEIJ) | 5:41 |
-| 50 | [I've Got Everything](https://open.spotify.com/track/1Xe3QCAuTkwQLBbxfQamz3) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Records Presents: The Way Things Were](https://open.spotify.com/album/0v9VmBNpHA23zKo3lbTEIJ) | 4:45 |
+| 46 | [Oh My Love](https://open.spotify.com/track/6o2OoZbn5shmkO7AVKbRe1) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Records Presents: The Way Things Were](https://open.spotify.com/album/0v9VmBNpHA23zKo3lbTEIJ) | 5:41 |
+| 47 | [I Told You So \- Digitally Remastered 1997](https://open.spotify.com/track/56lTbw4gJtOaLaWYkgBwx1) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 3:10 |
+| 48 | [She's The Kinda Girl](https://open.spotify.com/track/3QXJsJ9R31nSo6uierSCeE) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:13 |
+| 49 | [Can't Get Over Losing You](https://open.spotify.com/track/7ejLrBSdqORsHcMDCd26RO) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:30 |
+| 50 | [The Phoney](https://open.spotify.com/track/2SQMUwmA8zQ1YPTwwJKr3v) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Records Presents: The Way Things Were](https://open.spotify.com/album/0v9VmBNpHA23zKo3lbTEIJ) | 3:10 |
 
-Snapshot ID: `Mjc2MjAwNDAsMDAwMDAwMDBjNDc2YzE5NDA0MzQ3NTAxY2Y0ZDZhZmJkMTExMmFjNw==`
+Snapshot ID: `Mjc2MjE1MzIsMDAwMDAwMDA1ODg4ZDExNmUyNjI0YWUwODc4ZTRmZDhlNzVjOWE5ZQ==`

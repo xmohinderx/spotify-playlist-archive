@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura. Cover: Chxrry22",
+  "description": "This is R&B in Canada, elevate your aura. Cover: Zeina",
   "name": "Mood Ring",
   "published_playlist_ids": [
     "5Scr3kl4jdyMwylCsvsI3D"
@@ -1590,6 +1590,24 @@
     },
     {
       "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
+    {
+      "album": {
         "name": "Glowing",
         "url": "https://open.spotify.com/album/10stvNyLMgPnFX4MPFzUuW"
       },
@@ -2363,7 +2381,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 207640,
       "name": "Is It Love?",
       "url": "https://open.spotify.com/track/2Lbfend8u6ccFu2zMFpPxF"
@@ -2537,7 +2555,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 157142,
       "name": "Lately",
       "url": "https://open.spotify.com/track/2hgflNxd7dPZct0xUzF4Ef"
@@ -2911,7 +2929,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 188031,
       "name": "Luvin' \u00fc",
       "url": "https://open.spotify.com/track/5sOqkS0xLbdCRy2idVf0Xb"
@@ -3249,7 +3267,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 232364,
       "name": "NASTY GIRL",
       "url": "https://open.spotify.com/track/6vxRwGCB5W01PzdEc8eyM4"
@@ -3573,7 +3591,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 219672,
       "name": "ON VENUS",
       "url": "https://open.spotify.com/track/3y5DngFE3QJEc6TSuW0hSv"
@@ -3831,6 +3849,24 @@
       "duration_ms": 202451,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/7hRlTK3mgFTBEjX7DjqBsI"
+    },
+    {
+      "album": {
+        "name": "PAINKILLERS",
+        "url": "https://open.spotify.com/album/5FrHN3chpDhEdhZYOXduzu"
+      },
+      "artists": [
+        {
+          "name": "J-Soul",
+          "url": "https://open.spotify.com/artist/04QcyYLTjG43lmp2ETdMB8"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161016,
+      "name": "PAINKILLERS",
+      "url": "https://open.spotify.com/track/1wEad4445vJifOlOFONgt2"
     },
     {
       "album": {
@@ -4184,6 +4220,24 @@
     },
     {
       "album": {
+        "name": "Riding",
+        "url": "https://open.spotify.com/album/502rAa5hIKBSQBEzzgu658"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172227,
+      "name": "Riding",
+      "url": "https://open.spotify.com/track/7FxcpthjDIN32mT0WEfkz5"
+    },
+    {
+      "album": {
         "name": "SCARLET",
         "url": "https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k"
       },
@@ -4221,6 +4275,24 @@
       "duration_ms": 190500,
       "name": "Risking It All",
       "url": "https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN"
+    },
+    {
+      "album": {
+        "name": "RN Interlude",
+        "url": "https://open.spotify.com/album/3j73yMjikMWvu49l6TuAKP"
+      },
+      "artists": [
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/31gFvqSxh2pAlou6w8iOc5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "RN Interlude",
+      "url": "https://open.spotify.com/track/2neaD0EL4EqsWyLCefrytF"
     },
     {
       "album": {
@@ -4435,6 +4507,24 @@
       "duration_ms": 266250,
       "name": "Sleep Good",
       "url": "https://open.spotify.com/track/3kn0vpZqIj5T7gZaczL97c"
+    },
+    {
+      "album": {
+        "name": "Slip N Slide",
+        "url": "https://open.spotify.com/album/2JNaHxeWgygUfHsspDrnfW"
+      },
+      "artists": [
+        {
+          "name": "John Concepcion",
+          "url": "https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196490,
+      "name": "Slip N Slide",
+      "url": "https://open.spotify.com/track/1Oxe86yKPd5NhnFlg2opXJ"
     },
     {
       "album": {
@@ -4853,7 +4943,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 308820,
       "name": "Texts Go Green",
       "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"

@@ -2023,7 +2023,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 134250,
       "name": "First Day Out",
       "url": "https://open.spotify.com/track/2xrPQGb3D6JGyyTvYOrXc6"
@@ -6163,7 +6163,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 187625,
       "name": "That White",
       "url": "https://open.spotify.com/track/3n4kOc46bJi0jOnqvKfr0V"
@@ -6365,7 +6365,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 145943,
       "name": "Trap Shark",
       "url": "https://open.spotify.com/track/3BKreoEA5wRNk5o96NIBpL"
@@ -6541,6 +6541,24 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
+    },
+    {
+      "album": {
+        "name": "Vasya OMG",
+        "url": "https://open.spotify.com/album/2RGc8UOFRPKXRU4O9vQwXQ"
+      },
+      "artists": [
+        {
+          "name": "Patsyki Z Franeka",
+          "url": "https://open.spotify.com/artist/0fB3vIwNC9q3MCIBugQ5o9"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Vasya OMG",
+      "url": "https://open.spotify.com/track/4O32TwoybFtp2hLJI58adX"
     },
     {
       "album": {
@@ -12385,7 +12403,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 124800,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"
@@ -13223,7 +13241,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 89806,
       "name": "\u0422\u0430\u0431\u043b\u0435\u0442\u043a\u0430",
       "url": "https://open.spotify.com/track/0fLampmh4qsOLGitXM171a"

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,104 likes - 98 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,320 likes - 98 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 |
-| 2 | [Blinding Lights](https://open.spotify.com/track/5x17OfFfF4UNy5XkRBZjWB) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020](https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN) | 3:21 |
-| 3 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
-| 4 | [What About Us](https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:51 |
-| 5 | [Bad Guy](https://open.spotify.com/track/2FH0jT9o0mz71s7AtMkAa4) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Bad Guy](https://open.spotify.com/album/7jgCENuww6WXc03Gpm3bKe) | 3:11 |
-| 6 | [Running Up That Hill \- Violin](https://open.spotify.com/track/3H9au5DxP2ryR2ozNngGM3) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Running Up That Hill \(Violin\)](https://open.spotify.com/album/1ijNnoLrJNS8ZPcScKZGsi) | 4:06 |
+| 2 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 |
+| 3 | [Blinding Lights](https://open.spotify.com/track/5x17OfFfF4UNy5XkRBZjWB) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020](https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN) | 3:21 |
+| 4 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
+| 5 | [What About Us](https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:51 |
+| 6 | [Bad Guy](https://open.spotify.com/track/2FH0jT9o0mz71s7AtMkAa4) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Bad Guy](https://open.spotify.com/album/7jgCENuww6WXc03Gpm3bKe) | 3:11 |
 | 7 | [Easy On Me](https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Easy On Me](https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3) | 3:16 |
 | 8 | [As It Was](https://open.spotify.com/track/0RsaOIEKB4u4dbZMgs8zXP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [As It Was](https://open.spotify.com/album/1de4PdJI0bgz3j1wd0bW94) | 2:41 |
 | 9 | [We Found Love](https://open.spotify.com/track/0bt22Pke8uyTr7az9pseW9) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [In2ition](https://open.spotify.com/album/7dg6d2sSCH28iHCdpdp30D) | 3:32 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 97 | [Such Great Heights](https://open.spotify.com/track/0i75xg1hBO4BQuivKkGio1) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/5qaF3UTjIIzapiEvfaDnfc) | 4:38 |
 | 98 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `MTY1NjA0MzI2MCwwMDAwMDA4NDAwMDAwMTgxOTNkZWM4ZTcwMDAwMDE3MGM0OTg2NmUz`
+Snapshot ID: `MTY1NzI1Mjg2MCwwMDAwMDA4NTAwMDAwMTgxZGJmN2QxM2EwMDAwMDE3MGM0OTg2NmUz`

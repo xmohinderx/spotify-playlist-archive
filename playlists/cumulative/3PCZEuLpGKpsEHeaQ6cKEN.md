@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Loud Luxury
 
-174 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+175 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Is It Enough](https://open.spotify.com/track/7v8Nkh1eiKqB7yfVk9NAm4) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM) | [WeDisappear](https://open.spotify.com/album/4w9lDjMD7wopSiYLBVsDgI) | 3:45 | 2022-06-09 | 2022-07-08 |
 | [It's A Killa](https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt) | 3:20 | 2022-06-09 |  |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2022-06-09 |  |
+| [Jack Flip](https://open.spotify.com/track/2yQcHJYJngvxS6L3kH7eRm) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Jack Flip](https://open.spotify.com/album/0Qg4RgceOxpJaLsZ0J3CcU) | 2:35 | 2022-07-08 |  |
 | [Jazz Club](https://open.spotify.com/track/2g7HR8Q4xsIDaItScB9OqZ) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Jazz Club](https://open.spotify.com/album/3IEbppWLyhaxJpgFIs7Q5d) | 2:28 | 2022-06-09 |  |
 | [Jungle Ego](https://open.spotify.com/track/3VzHfnFmyK1s8KCHSD7UTC) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [Jungle Ego](https://open.spotify.com/album/2ZcqNhcbJf0ywc3fxgGHiR) | 4:31 | 2022-06-30 |  |
 | [Kitchen Party](https://open.spotify.com/track/4v9HnuZRub3kBt4krLQpH8) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn) | [Kitchen Party](https://open.spotify.com/album/78ME64M8qj3AtRF1QXUbP2) | 3:27 | 2022-06-20 | 2022-07-08 |

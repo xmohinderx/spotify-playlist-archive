@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-141 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+142 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Wildman](https://open.spotify.com/track/6xKbZckqJTzIStdlp9nIp3) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [Wildman](https://open.spotify.com/album/26mwl4r20VYuBRks5yG9cX) | 4:31 | 2021-02-12 |  |
 | [Witness 4 The Prosecution \(Version 1\) \- 2020 Remaster](https://open.spotify.com/track/22ZZIvttMc2JsRC2hVrXyF) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Witness 4 The Prosecution \(Version 1\) \[2020 Remaster\]](https://open.spotify.com/album/23cQVWou7vii0d3CknLU6A) | 3:59 | 2020-10-30 |  |
 | [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 | 2020-10-30 | 2022-04-09 |
+| [Yes It Do](https://open.spotify.com/track/3S2AYMJpZBYwFJkqIhwpnV) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [Keep It Real](https://open.spotify.com/album/490tEx7QX0OmH7vmZ6JZBk) | 2:24 | 2022-07-08 |  |
 | [Yes We Can Can](https://open.spotify.com/track/7GO7XfiDsUysp4MMkdCiXo) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/1nI2mxpnTcJsPjFh4ORf5E) | 5:42 | 2020-10-30 |  |
 | [You Can Make It](https://open.spotify.com/track/04fsxHTjiYVX0B7Ybk1N2e) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj), [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [You Can Make It](https://open.spotify.com/album/0BfA48bRpjxdeqpTAH1x9l) | 3:41 | 2022-04-08 |  |
 | [You'll Be Sorry](https://open.spotify.com/track/35kDqdxX71QMxGN9TfN8Ze) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Kate McQuaide](https://open.spotify.com/artist/4LWeARGZqgnbwcLbOe2NUX) | [You'll Be Sorry](https://open.spotify.com/album/5TOVbHHY3iU7oukVDTAgD2) | 3:30 | 2020-10-30 |  |

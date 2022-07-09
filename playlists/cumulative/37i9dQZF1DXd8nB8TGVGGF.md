@@ -4,7 +4,7 @@
 
 > The best Blues for a long trip behind the wheel.
 
-114 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
+115 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Spoonful](https://open.spotify.com/track/5v2Hwf7w2j4Xpy8kdRgpK2) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Fresh Cream](https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB) | 6:30 | 2022-05-25 |  |
 | [Still Got The Blues](https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:05 | 2022-05-25 |  |
 | [Stop Right Now \- Stereo Version](https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 2:27 | 2022-05-25 |  |
+| [Talk To Me Baby \- Remastered](https://open.spotify.com/track/3xbfli5MdImWymShGOOMlC) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [Official Blues Band Bootleg Album \(Remastered\)](https://open.spotify.com/album/2VzkgbYZHG3rOTSJQxzlRO) | 3:54 | 2022-07-08 |  |
 | [The Hangman's Knee \- 2004 Remaster](https://open.spotify.com/track/0LxgShBPLp0dZT866Ilkv2) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Beck\-Ola](https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi) | 4:50 | 2022-05-25 |  |
 | [The Hunter](https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 4:14 | 2022-05-25 |  |
 | [The Letter](https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 4:26 | 2022-05-25 |  |

@@ -1,13 +1,85 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44498,
+  "num_followers": 44497,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTgwNCw2NzNiYzdmMDU1ZmEzYmQ3MjBkNTdhMDIzM2NiZmUxYTM2MjM1NzNl",
+  "snapshot_id": "NTgxMyw3NDhkMmQ5NjQ1ZmQwNWI5N2Q3NjhjOThiY2U2Y2MzYmRjMDU0NzA1",
   "tracks": [
+    {
+      "added_at": "2022-07-08 20:11:32",
+      "album": {
+        "name": "Waiting For The Day (feat. Kyle Reynolds)",
+        "url": "https://open.spotify.com/album/1yKCAwWiURqdUyA7yi7yHu"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "CORTR",
+          "url": "https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 222962,
+      "name": "Waiting For The Day (feat. Kyle Reynolds)",
+      "url": "https://open.spotify.com/track/6VGqFX2ZOLbdhtOZXNXY2k"
+    },
+    {
+      "added_at": "2022-07-08 20:10:34",
+      "album": {
+        "name": "Home 2 Me",
+        "url": "https://open.spotify.com/album/4W4GQvDqlb18eNR4tl87vE"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "duration_ms": 158512,
+      "name": "Home 2 Me",
+      "url": "https://open.spotify.com/track/34fH6Q1MOz5xT4PMItdvnV"
+    },
+    {
+      "added_at": "2022-07-06 00:50:29",
+      "album": {
+        "name": "Wild Nights",
+        "url": "https://open.spotify.com/album/3eh0EMLQ9M42KHXZ6If1bw"
+      },
+      "artists": [
+        {
+          "name": "Axsara",
+          "url": "https://open.spotify.com/artist/7dAmxDhUmmH7sVxpsxQC53"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Wild Nights",
+      "url": "https://open.spotify.com/track/5ZUgzZBOQmi8ARjnJckxeP"
+    },
+    {
+      "added_at": "2022-07-01 18:10:25",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm"
+      },
+      "artists": [
+        {
+          "name": "StayLoose",
+          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz"
+    },
     {
       "added_at": "2022-07-01 18:10:24",
       "album": {
@@ -27,38 +99,6 @@
       "duration_ms": 204369,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv"
-    },
-    {
-      "added_at": "2022-07-01 18:10:25",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm"
-      },
-      "artists": [
-        {
-          "name": "StayLoose",
-          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz"
-    },
-    {
-      "added_at": "2022-07-06 00:50:29",
-      "album": {
-        "name": "Wild Nights",
-        "url": "https://open.spotify.com/album/3eh0EMLQ9M42KHXZ6If1bw"
-      },
-      "artists": [
-        {
-          "name": "Axsara",
-          "url": "https://open.spotify.com/artist/7dAmxDhUmmH7sVxpsxQC53"
-        }
-      ],
-      "duration_ms": 135238,
-      "name": "Wild Nights",
-      "url": "https://open.spotify.com/track/5ZUgzZBOQmi8ARjnJckxeP"
     },
     {
       "added_at": "2022-06-24 18:51:08",
@@ -999,46 +1039,6 @@
       "duration_ms": 171710,
       "name": "sunlight",
       "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"
-    },
-    {
-      "added_at": "2022-05-06 22:43:20",
-      "album": {
-        "name": "Miedo",
-        "url": "https://open.spotify.com/album/5Q7ygUBxpsQpQowIBdwLBF"
-      },
-      "artists": [
-        {
-          "name": "Andrekza",
-          "url": "https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s"
-        }
-      ],
-      "duration_ms": 180571,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/5QyP1mCvTyBasfWC8Qdp9i"
-    },
-    {
-      "added_at": "2022-05-06 22:43:20",
-      "album": {
-        "name": "Patience (feat. Kayla Rose) [Henry Fong Remix]",
-        "url": "https://open.spotify.com/album/2EIuPgwOT8lM0XU6gxxFvw"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "Kayla Rose",
-          "url": "https://open.spotify.com/artist/36xsrPKnUIN1ZCSlO5Xnqk"
-        }
-      ],
-      "duration_ms": 135724,
-      "name": "Patience (feat. Kayla Rose) - Henry Fong Remix",
-      "url": "https://open.spotify.com/track/7tsi9Ega7ZpjndsGNpc4hK"
     },
     {
       "added_at": "2022-05-06 22:43:20",

@@ -6,62 +6,66 @@
     "name": "digster.fm",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MTY2OSw3MGQ2MTk3ZmVjNGYzMzRhMGU4YTAzYzI1ZjBlMjRhNzJlNDRmYWIy",
+  "snapshot_id": "MTY5OSwxNjA1OGQxZmRjMjZjOWY1ZjgyMDg1YWM3MjlmZDI2MGQxMThmNmM3",
   "tracks": [
     {
-      "added_at": "2022-06-29 23:13:26",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3QPAXE08JQFgIc5lsmQEg1"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         },
         {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
         }
       ],
-      "duration_ms": 333582,
-      "name": "Screwin (with Omarion)",
-      "url": "https://open.spotify.com/track/3QR92iEfcnqgVFsOr2pCGz"
+      "duration_ms": 206335,
+      "name": "JUMP (feat. Coast Contra)",
+      "url": "https://open.spotify.com/track/0Eyr5YGPwE4CzmNGXhxc87"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+      "duration_ms": 216062,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
-        "name": "Love/Hate",
-        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+        "name": "Gotta Move On (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ"
       },
       "artists": [
         {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 271173,
-      "name": "Falsetto",
-      "url": "https://open.spotify.com/track/2P1e3xpjDhYFqOFeu8IWzS"
+      "duration_ms": 160776,
+      "name": "Gotta Move On (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
@@ -81,7 +85,7 @@
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Hello Poison",
         "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
@@ -101,7 +105,23 @@
       "url": "https://open.spotify.com/track/4tUEHNvFibqNk0No4s7q6v"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+    },
+    {
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
@@ -121,23 +141,7 @@
       "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
-      "album": {
-        "name": "Guy",
-        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 294475,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/67j0ZucyzdfMGWLe2kh6Ze"
-    },
-    {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Yamz",
         "url": "https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ"
@@ -157,7 +161,39 @@
       "url": "https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
+      "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "Falsetto",
+      "url": "https://open.spotify.com/track/2P1e3xpjDhYFqOFeu8IWzS"
+    },
+    {
+      "added_at": "2022-07-08 22:03:56",
+      "album": {
+        "name": "Selfless",
+        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Wicked Games",
+      "url": "https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km"
+    },
+    {
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
@@ -173,7 +209,7 @@
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "A Kind Of Magic \u2013 Coke Studio Session",
         "url": "https://open.spotify.com/album/5xcPwkP5PcQxtjFDLe2yFF"
@@ -189,31 +225,7 @@
       "url": "https://open.spotify.com/track/1bIUu2VreemWSrbvjGBH95"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
-      "album": {
-        "name": "No Love (with SZA & Cardi B) [Extended Version]",
-        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 276214,
-      "name": "No Love (with SZA & Cardi B) - Extended Version",
-      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
-    },
-    {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Heaux Tales, Mo' Tales: The Deluxe",
         "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
@@ -229,7 +241,7 @@
       "url": "https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Meant To Be Mint",
         "url": "https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr"
@@ -245,7 +257,7 @@
       "url": "https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
@@ -265,7 +277,7 @@
       "url": "https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Something New",
         "url": "https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI"
@@ -285,23 +297,7 @@
       "url": "https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
-      "album": {
-        "name": "Selfless",
-        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Wicked Games",
-      "url": "https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km"
-    },
-    {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Try Peace...",
         "url": "https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y"
@@ -317,7 +313,7 @@
       "url": "https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Good Morning Gorgeous",
         "url": "https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18"
@@ -337,7 +333,7 @@
       "url": "https://open.spotify.com/track/31GVq6oNgcw67sXJtlvfRp"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
@@ -353,7 +349,7 @@
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
@@ -369,7 +365,7 @@
       "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "The Jungle Is The Only Way Out",
         "url": "https://open.spotify.com/album/40L9yPrh6yD1ECI3ofNfPc"
@@ -385,7 +381,7 @@
       "url": "https://open.spotify.com/track/0Vc8kuWRWUzHOcjSV5hO2G"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "All For Us (from the HBO Original Series Euphoria)",
         "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
@@ -405,7 +401,23 @@
       "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "No ID",
         "url": "https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd"
@@ -421,7 +433,7 @@
       "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
@@ -441,7 +453,7 @@
       "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Calm Down",
         "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
@@ -457,7 +469,7 @@
       "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Worth It",
         "url": "https://open.spotify.com/album/4gA30BEiTEYzHesXLSBbJc"
@@ -473,7 +485,7 @@
       "url": "https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
@@ -489,7 +501,7 @@
       "url": "https://open.spotify.com/track/5Mv7yjian35AddlklJgg1v"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
         "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
@@ -505,7 +517,7 @@
       "url": "https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
@@ -529,23 +541,7 @@
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Best Of Me",
         "url": "https://open.spotify.com/album/44zD5iw8kn2Xhn1QDlLnGu"
@@ -561,7 +557,7 @@
       "url": "https://open.spotify.com/track/1KkxtIMy5n9AN0hhlzWbAc"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Most Men - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
@@ -577,23 +573,7 @@
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 128652,
-      "name": "Bare Wit Me",
-      "url": "https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj"
-    },
-    {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
@@ -617,7 +597,7 @@
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "For Tonight",
         "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
@@ -633,7 +613,7 @@
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Ease My Mind (Come Over)",
         "url": "https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj"
@@ -649,7 +629,7 @@
       "url": "https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Habits",
         "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
@@ -665,7 +645,7 @@
       "url": "https://open.spotify.com/track/0fK68ZKng9JZK4jdxFoo8N"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Fame - A COLORS ENCORE",
         "url": "https://open.spotify.com/album/6KDwBSHWJXQ0aJxXKKHCgk"
@@ -681,7 +661,7 @@
       "url": "https://open.spotify.com/track/2jP5Y9uvfPt1Tjj7Kl3plF"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Heat Of The Moment",
         "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
@@ -697,7 +677,7 @@
       "url": "https://open.spotify.com/track/1VqMsJh8cqXefdCos5GRma"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
@@ -713,7 +693,7 @@
       "url": "https://open.spotify.com/track/45wbaSjwlHfUyLf36DHPtF"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Trigger Protection Mantra",
         "url": "https://open.spotify.com/album/2NGGOdyDlyb4bu3vqQqF83"
@@ -729,7 +709,7 @@
       "url": "https://open.spotify.com/track/10OJeHia1lrq7OCY2lSJiP"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
@@ -745,7 +725,7 @@
       "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "4275 (Bonus Version)",
         "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
@@ -761,7 +741,7 @@
       "url": "https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
         "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
@@ -785,7 +765,7 @@
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Found (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
@@ -805,7 +785,7 @@
       "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Hate Love",
         "url": "https://open.spotify.com/album/78byhY5U2A6DqsCxwCTKvg"
@@ -821,7 +801,7 @@
       "url": "https://open.spotify.com/track/6vKX4RARRayUWTbjOAZ5u0"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "At Your Best (You Are Love) - Spotify Singles",
         "url": "https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn"
@@ -837,7 +817,7 @@
       "url": "https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Parked Car Convos",
         "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
@@ -853,7 +833,7 @@
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Come Over (Remix)",
         "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
@@ -873,7 +853,7 @@
       "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
     },
     {
-      "added_at": "2022-06-29 23:13:14",
+      "added_at": "2022-07-08 22:03:56",
       "album": {
         "name": "Pulp",
         "url": "https://open.spotify.com/album/2TaGJWosHw4FfLOV560vuK"
@@ -887,6 +867,22 @@
       "duration_ms": 250066,
       "name": "lost",
       "url": "https://open.spotify.com/track/2bZPCLxB0B8rtFInImQORA"
+    },
+    {
+      "added_at": "2022-07-08 22:03:56",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     }
   ],
   "unique_name": "Top Trending: R&B / Soul",

@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 256839,
       "name": "Al alba",
       "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 250302,
       "name": "Conviene Saber (feat. Rozal\u00e9n)",
       "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
@@ -1124,6 +1124,28 @@
     },
     {
       "album": {
+        "name": "Las Consecuencias",
+        "url": "https://open.spotify.com/album/5xLCQx2sfojdolO0HQm4Et"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Tulsa",
+          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "Frente a frente (feat. Tulsa)",
+      "url": "https://open.spotify.com/track/73KNzyiG6xM6xguaLe4ICj"
+    },
+    {
+      "album": {
         "name": "30 a\u00f1os",
         "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
@@ -1215,7 +1237,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 229165,
       "name": "Honrar la Vida",
       "url": "https://open.spotify.com/track/5qAYAoahHsmbH8l1BhIoQ6"
@@ -1399,7 +1421,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 202600,
       "name": "La Puerta Violeta",
       "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
@@ -1543,7 +1565,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 232080,
       "name": "Mar\u00eda la portuguesa",
       "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
@@ -1565,7 +1587,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 167013,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7vgvrrqPEJdmy6SPPfVU6t"
@@ -1771,7 +1793,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 268733,
       "name": "Nieve - En Directo",
       "url": "https://open.spotify.com/track/4KRNPEyIFRp7MH7ZSxP9k6"
@@ -1905,7 +1927,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 247266,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
@@ -1927,7 +1949,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 228173,
       "name": "No S\u00e9 por Qu\u00e9 Te Quiero (with Victor Manuel)",
       "url": "https://open.spotify.com/track/5iG5xQWP5aFCsXGbbkGtTE"
@@ -2087,7 +2109,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 170906,
       "name": "Para la Libertad",
       "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
@@ -2163,7 +2185,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 174159,
       "name": "Por qu\u00e9 te vas",
       "url": "https://open.spotify.com/track/3Gj5CDzCdq01ftkxGxhdeH"
@@ -2315,7 +2337,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 281095,
       "name": "Qui\u00e9reme Bien (feat. Leiva)",
       "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
@@ -2333,7 +2355,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 238760,
       "name": "Qu\u00e9 Bello Es Vivir",
       "url": "https://open.spotify.com/track/2CD5TesE5cPyhWxXxz3qIE"
@@ -2351,7 +2373,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 230000,
       "name": "Qu\u00e9 bonito",
       "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
@@ -2619,7 +2641,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 215343,
       "name": "Solo para Ti",
       "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
@@ -2659,7 +2681,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 275873,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/5WKzka1jZPxUDW6gIjKOSQ"
@@ -2771,7 +2793,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 228000,
       "name": "Tristeza de amor",
       "url": "https://open.spotify.com/track/4wCFuKKGHErY1mZIZEPaw9"

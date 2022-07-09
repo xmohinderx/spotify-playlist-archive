@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > CHRISSY WAKE UP, I DON'T LIKE THIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,995 likes - 479 songs - 1 day 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,186 likes - 479 songs - 1 day 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

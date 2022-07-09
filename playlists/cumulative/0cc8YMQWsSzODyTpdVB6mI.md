@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-61 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+62 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Hollow](https://open.spotify.com/track/43dWASmdtGOOI0yOyx9zAH) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Hollow](https://open.spotify.com/album/4N7w5vzvRIAfxjNPaSAMXN) | 3:39 | 2022-05-27 |  |
 | [Huacachina](https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 3:33 | 2021-11-05 |  |
 | [I Can Talk](https://open.spotify.com/track/0Krxo9CPCj98TR3QHqSb8N) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Kitsuné: I Can Talk \(Remixes\)](https://open.spotify.com/album/0DDPS6mumu79yYixnXOVZF) | 2:57 | 2021-11-05 |  |
-| [IDHAGF](https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3) | [KIIKO BLAK](https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte) | [IDHAGF](https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4) | 3:00 | 2022-05-02 |  |
+| [IDHAGF](https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3) | [KIIKO BLAK](https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte) | [IDHAGF](https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4) | 3:00 | 2022-05-02 | 2022-07-09 |
 | [Leather Free Seats](https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [Leather Free Seats](https://open.spotify.com/album/3GZvFemzsIFVRjayknmOEl) | 3:33 | 2022-06-15 |  |
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2021-11-05 |  |
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 |  |
@@ -59,7 +59,7 @@
 | [Shy](https://open.spotify.com/track/37rholV7FQmDvCNV64ydkh) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Shy](https://open.spotify.com/album/4JZHZRLlXUs15fOzj9FumQ) | 3:03 | 2022-04-27 | 2022-07-07 |
 | [So High](https://open.spotify.com/track/5doFTkrPLq1AZYDvAIdn7x) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Kitsuné America 2](https://open.spotify.com/album/2dVnDTtY8qzYbPTMmw88vX) | 3:06 | 2021-11-05 |  |
 | [Space Birds](https://open.spotify.com/track/6h09oYGOD7u3JJcVA9CvcC) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [TONG](https://open.spotify.com/artist/67cqVjONTBOiGNhEx9T8FB) | [Space Birds](https://open.spotify.com/album/2BMLZaPguH55Qc95D7ptOE) | 2:41 | 2022-06-24 |  |
-| [Spikes \- Edit](https://open.spotify.com/track/04ZcgSFH3tPDyjJ0Ij3S4f) | [Razante](https://open.spotify.com/artist/3dB9mmLX2lYKa4bfEUPUYA) | [Spikes \(Edit\)](https://open.spotify.com/album/2ZkHjP93wimpyM0gGn1MWf) | 3:44 | 2022-05-04 |  |
+| [Spikes \- Edit](https://open.spotify.com/track/04ZcgSFH3tPDyjJ0Ij3S4f) | [Razante](https://open.spotify.com/artist/3dB9mmLX2lYKa4bfEUPUYA) | [Spikes \(Edit\)](https://open.spotify.com/album/2ZkHjP93wimpyM0gGn1MWf) | 3:44 | 2022-05-04 | 2022-07-09 |
 | [Stolen Car](https://open.spotify.com/track/5vVWrefc29nd8RdBu7wdfv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Stolen Car](https://open.spotify.com/album/3b0iQA7R2HhxAlexKYyfbM) | 3:14 | 2021-11-05 |  |
 | [Surf You](https://open.spotify.com/track/7iBPGBKUezy2EuH1eA82ut) | [Archil & Leon](https://open.spotify.com/artist/76ptaW1lOTbARlWqFoNJVI) | [Surf You](https://open.spotify.com/album/5qo2UbCeU262V9qWLfjedL) | 3:35 | 2022-05-16 |  |
 | [Synchronise](https://open.spotify.com/track/6f9XYKnQIkBfar5zfEm5Eu) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Synchronise](https://open.spotify.com/album/1ELHpKQWozs7pR6Y6L4QAA) | 4:47 | 2022-06-10 |  |
@@ -68,6 +68,7 @@
 | [TTYL](https://open.spotify.com/track/0KBtXATQFDLMOjTKS9kiDt) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [TTYL](https://open.spotify.com/album/3dLq3aoKcbZyrUJLuAtM3G) | 3:18 | 2022-07-04 |  |
 | [Want It Bad](https://open.spotify.com/track/6r6WolFiUnf8leQpgM3kzc) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Want It Bad](https://open.spotify.com/album/2BhX3mXTSlYednKnaQmJJZ) | 3:12 | 2022-05-20 |  |
 | [Weekend \- Jai Wolf Remix](https://open.spotify.com/track/6GXSZaHXyN3QJ7QeoMQSw3) | [Mocki](https://open.spotify.com/artist/5Xrk8HKFWj76Jonuerfupw), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kitsuné: Weekend](https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp) | 4:09 | 2021-11-05 |  |
+| [Worship](https://open.spotify.com/track/7bNJSUTF1XreWJYN11YnuY) | [Pecas](https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU) | [Worship](https://open.spotify.com/album/5RjcxA4BGTJfkcVK2bPyDF) | 4:26 | 2022-07-08 |  |
 | [You \- Mixed](https://open.spotify.com/track/6EjgpCbSTdNMjFiBVCQwxt) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 4:42 | 2021-11-05 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Five Finger Death Punch
 
-1,189 songs - 3 day 8 hr 28 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+1,192 songs - 3 day 8 hr 38 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Compound and Fracture](https://open.spotify.com/track/4saCDd0HBsmgMIkiXrXCH2) | [Nicolas Cage Fighter](https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl) | [Compound and Fracture](https://open.spotify.com/album/0gLIPTs3nR30Qr8mA2IOnH) | 2:02 | 2022-07-01 | 2022-07-08 |
 | [Congregation](https://open.spotify.com/track/2LMKemBZtIqQFYwbOtWNYj) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6eCA5jhCBTqYYoOgemoAES) | 4:55 | 2022-05-20 | 2022-05-27 |
 | [Constrict](https://open.spotify.com/track/6HmDHDxI3rjxEwHKxKuqLx) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [Constrict](https://open.spotify.com/album/0OJVbL9cWUTlbXSJwgQfzv) | 3:19 | 2022-03-18 | 2022-03-25 |
+| [Consume](https://open.spotify.com/track/3JClrCtzChfR22Vzt5pkMk) | [Seeing Things](https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH), [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Paranoia](https://open.spotify.com/album/2CB5ZRSpqClA2Kg8rIoSoE) | 3:52 | 2022-07-08 |  |
 | [Context](https://open.spotify.com/track/6bf9dcjiG7TekO8nxypUWg) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B), [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4) | [Context](https://open.spotify.com/album/7LvsmZg3KJHLqQt4q1UJ2H) | 3:24 | 2022-04-29 | 2022-05-06 |
 | [Couple Suicide](https://open.spotify.com/track/1Ut8XiSTo5R1iN4seoOmF5) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO), [Stu Block](https://open.spotify.com/artist/3y7cQLWTNdxQ1u3KZBSTtl), [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r), [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW), [Angela Gossow](https://open.spotify.com/artist/5TClu7BnUh8oXuBC5GiVLQ) | [Metal II](https://open.spotify.com/album/6rvqy7S1R8d5kZ7jHNQ3Iw) | 3:56 | 2022-02-17 | 2022-03-04 |
 | [Cracks in the Pyre](https://open.spotify.com/track/4KVI1m8p8oFAUiO4cOVjYp) | [Conjurer](https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ) | [Cracks in the Pyre](https://open.spotify.com/album/7t3dnVTvKZgHu0vNnFnvPO) | 7:22 | 2022-05-27 | 2022-06-10 |
@@ -355,6 +356,7 @@
 | [Engine No\. 9](https://open.spotify.com/track/3gCZjsbqbVOr9s82yQxgXI) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Cleansing \(Ultimate Edition\)](https://open.spotify.com/album/5lmITSmkKzlvTFCmI5KhA6) | 3:25 | 2022-06-24 | 2022-07-01 |
 | [ENIGMA](https://open.spotify.com/track/18YWzvDlPvDYaa4FPIcol6) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ) | 2:50 | 2022-06-17 | 2022-06-24 |
 | [Enigmatic Pandemonium](https://open.spotify.com/track/34UhDLlXksoHP52Jx9SBOG) | [DeadSquad](https://open.spotify.com/artist/2By8ec9DQOnN2aiiFyrQ82) | [Enigmatic Pandemonium](https://open.spotify.com/album/44VbUKECo4VZNGL3j7PDLZ) | 3:50 | 2022-07-08 |  |
+| [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 | 2022-07-08 |  |
 | [Enrage](https://open.spotify.com/track/0cxrLeUyUFZm94ZYRFWbtc) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Enrage](https://open.spotify.com/album/5F0Iy1940Z97Z28WxNFuOC) | 4:49 | 2022-03-24 | 2022-04-01 |
 | [Environmental Patients](https://open.spotify.com/track/6kYhshfUHmoWpsR2mp2s3W) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Environmental Patients](https://open.spotify.com/album/3Xkf298OolEiHstHxIHNG6) | 3:40 | 2022-03-03 | 2022-03-18 |
 | [Erase My Mind](https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Home](https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P) | 3:11 | 2021-12-17 | 2022-01-21 |
@@ -498,6 +500,7 @@
 | [Hero](https://open.spotify.com/track/6Y1WpXTydIzLRC6Y2omjNl) | [Youth Never Dies](https://open.spotify.com/artist/2zPGFp4GWeCgriWz13XR6r), [Ankor](https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj), [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Hero](https://open.spotify.com/album/0qVJST5VZGY3u4tJm0pqIX) | 2:58 | 2022-02-17 | 2022-03-04 |
 | [Hierophant](https://open.spotify.com/track/6Z81Mgv0n5CYhGcSQvhHOh) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Hierophant](https://open.spotify.com/album/3kuUtTdSvGPUStfmqkTYuO) | 4:05 | 2022-03-03 | 2022-03-11 |
 | [High Speed Steel](https://open.spotify.com/track/7hEgckrxQxTNJ0WMjkfyhH) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [High Speed Steel](https://open.spotify.com/album/3IBzEW9Cdtbn7Yc1o4Jv7W) | 2:31 | 2022-05-20 | 2022-05-27 |
+| [Hold the Line](https://open.spotify.com/track/1zaVa0iG2JC0DGdsp7K3lo) | [The Lone Wolf](https://open.spotify.com/artist/3tgBwjfL3ycAT49VVpkfnE) | [Hold the Line](https://open.spotify.com/album/1HuFVENLlPTi0N6iNwtIan) | 3:17 | 2022-07-08 |  |
 | [Holy Mountain](https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ), [Lars Nedland](https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd) | [Holy Mountain](https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL) | 5:13 | 2022-04-22 | 2022-04-29 |
 | [Home](https://open.spotify.com/track/4rvipVyFuPr5VaBeYop1bn) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Home](https://open.spotify.com/album/6sba2UuexmszIP7Jf1G6ul) | 3:26 | 2022-07-08 |  |
 | [Home](https://open.spotify.com/track/5xGiG8izp7SgNaFskYWVbZ) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Home](https://open.spotify.com/album/5mLHqEAeh5zhf1WtDxBNPZ) | 4:04 | 2022-03-11 | 2022-03-18 |

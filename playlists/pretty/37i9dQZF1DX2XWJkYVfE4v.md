@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XWJkYVfE4v.md) - [plain]
 
 > Soft, shimmering strings to help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,522 likes - 63 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,555 likes - 63 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-296 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+297 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Plegaria](https://open.spotify.com/track/6yOZX34ZsQZV303qDJjWPm) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK) | [Plegaria](https://open.spotify.com/album/6vbPuXiFruQ4Ju9L6NCDVJ) | 3:18 | 2021-11-10 |  |
 | [Polar Breeze](https://open.spotify.com/track/2rsMqLxGgLH6csppBYXG6f) | [Karlis Volt](https://open.spotify.com/artist/55DNIiMoYD4awuH7e1gZiT) | [Polar Breeze](https://open.spotify.com/album/4v4t3yJtYKWTl5szaE13c2) | 1:46 | 2021-11-10 |  |
 | [Pomalu](https://open.spotify.com/track/12Oywn6DYHxxnq1DUFrwRR) | [Marie Protivová](https://open.spotify.com/artist/0N0cHhRbd0hOXkUv8szdQ3) | [Pomalu](https://open.spotify.com/album/2VY6QYyg4a9jwm2swobVi7) | 3:24 | 2021-11-10 |  |
+| [Praiseworthy](https://open.spotify.com/track/6UDUV0eh8K04FTxhfpOEdR) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:27 | 2022-07-08 |  |
 | [Profound](https://open.spotify.com/track/738ZWyXzrfKT1OuyRJmmsX) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Profound](https://open.spotify.com/album/2T5PHfwAwONbtakHIwNb5X) | 3:20 | 2021-11-10 |  |
 | [Protostar](https://open.spotify.com/track/5F82mtEXo9CbyPchaCWDI3) | [Vadodara](https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V) | [Protostar](https://open.spotify.com/album/3zCIUdjM4M0qr0LCfk3UYE) | 3:27 | 2021-11-10 |  |
 | [Pure Air](https://open.spotify.com/track/5dMI1sHkCxUWvh8vksx0Rz) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Pure Air](https://open.spotify.com/album/5DaR78zcqu8qM8MB5qRJwq) | 3:31 | 2021-11-10 |  |

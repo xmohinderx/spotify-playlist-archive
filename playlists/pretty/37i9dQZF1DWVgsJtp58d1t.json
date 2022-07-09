@@ -1,13 +1,29 @@
 {
-  "description": "New releases, driving the current. Cover: Steve Lacy",
-  "num_followers": 37016,
+  "description": "New releases, driving the current. Cover: Brent Faiyaz",
+  "num_followers": 37179,
   "original_name": "This is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0MjkzNSwwMDAwMDAwMDZlMjkxYzYzNjc3YzM0N2ZhYzdmMWZhZjI4MGEyNmJh",
+  "snapshot_id": "MTY1NzMyODQ2OCwwMDAwMDAwMDFmNTIyMzg1M2NmYzBhOTEyNjRkNTY3MTNhNDMwMmM0",
   "tracks": [
+    {
+      "added_at": "2022-07-08 04:59:00",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 216062,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+    },
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {

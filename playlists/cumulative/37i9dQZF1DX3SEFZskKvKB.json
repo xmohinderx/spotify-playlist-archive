@@ -84,6 +84,28 @@
     },
     {
       "album": {
+        "name": "Arcoiris",
+        "url": "https://open.spotify.com/album/3PXOe4P7kAbvb0KyloV9In"
+      },
+      "artists": [
+        {
+          "name": "Svaha.",
+          "url": "https://open.spotify.com/artist/35wl6gVa66JYBP8FejyJ82"
+        },
+        {
+          "name": "Mono Handpan",
+          "url": "https://open.spotify.com/artist/4rJpumsl8NbIJhoKYKgvxu"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Arcoiris",
+      "url": "https://open.spotify.com/track/21igXlN4PFHS04K8uAnrpo"
+    },
+    {
+      "album": {
         "name": "Fugaces I",
         "url": "https://open.spotify.com/album/2dn6YDORsEnu7N84Yndcp1"
       },
@@ -383,7 +405,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 202000,
       "name": "Finding Yourself",
       "url": "https://open.spotify.com/track/0am5MUkNemEW7Qg2rHHUgL"
@@ -1024,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "Sapana",
+        "url": "https://open.spotify.com/album/2jffMkVB0aQ7p0dZx3Xd3e"
+      },
+      "artists": [
+        {
+          "name": "Mathura Horizon",
+          "url": "https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219568,
+      "name": "Sapana",
+      "url": "https://open.spotify.com/track/3vF3QhICER6LgljDmPDyFR"
+    },
+    {
+      "album": {
         "name": "African Zen - Spiritual Experience, Harmony & Balance, Healing Meditation, Tribal Soul, Relaxing Ethnic Music",
         "url": "https://open.spotify.com/album/69dYZP5IHROiw5tAhxMOzs"
       },
@@ -1421,6 +1461,24 @@
       "duration_ms": 194000,
       "name": "Zen Beat 1",
       "url": "https://open.spotify.com/track/5xZ2SUNClq0bfr5CbYEKBc"
+    },
+    {
+      "album": {
+        "name": "\u660e\u65e5 Tomorrow",
+        "url": "https://open.spotify.com/album/0K0EsCmAo5nqwPzYAR9eRL"
+      },
+      "artists": [
+        {
+          "name": "Shunya Koyanagi",
+          "url": "https://open.spotify.com/artist/2NGMjhqXuqLLdvot10Mij4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190792,
+      "name": "\u660e\u65e5 Tomorrow",
+      "url": "https://open.spotify.com/track/4E7pyCeIzWAzuk4RD5hUkC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3SEFZskKvKB"

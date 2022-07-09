@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 166840,
       "name": "260 (feat. Raekwon)",
       "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
@@ -125,6 +125,28 @@
       "duration_ms": 202500,
       "name": "38 Special (feat. Tanya Morgan)",
       "url": "https://open.spotify.com/track/7Ca6teoo4OjelfS5fiPywg"
+    },
+    {
+      "album": {
+        "name": "Barrel Brothers",
+        "url": "https://open.spotify.com/album/6DZDcydT3ifEHYWbzUgu91"
+      },
+      "artists": [
+        {
+          "name": "Skyzoo",
+          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
+        },
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144872,
+      "name": "4 Bar Friday",
+      "url": "https://open.spotify.com/track/5yo4S84nHSRkMJXLZ38xs2"
     },
     {
       "album": {
@@ -627,10 +649,32 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 174886,
       "name": "Big Boy Deli (feat. Rome Streetz)",
       "url": "https://open.spotify.com/track/4a8IfExKWSPUgZAGN0TQxJ"
+    },
+    {
+      "album": {
+        "name": "Diamonds In Space",
+        "url": "https://open.spotify.com/album/72D6z73c6GgtFHHesqKQdb"
+      },
+      "artists": [
+        {
+          "name": "Aaron Alexander",
+          "url": "https://open.spotify.com/artist/3aY5vFyTSP6wnIkddlb7lC"
+        },
+        {
+          "name": "Leonard Dstroy",
+          "url": "https://open.spotify.com/artist/53rWPWhJhMj19DHg2lZ9HK"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156404,
+      "name": "Big Splendid",
+      "url": "https://open.spotify.com/track/0XBjp1FThdpZdBNT9FRvLx"
     },
     {
       "album": {
@@ -689,7 +733,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 292048,
       "name": "Black Israelis (The New World)",
       "url": "https://open.spotify.com/track/1566lwSLDJW0HLYMU7d9nk"
@@ -755,7 +799,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 216000,
       "name": "Bouls On Parade",
       "url": "https://open.spotify.com/track/6TbahU1ahO9bnzrIy3BEhp"
@@ -849,7 +893,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 182551,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/3jpjbizEUW74AQPNlmoeiD"
@@ -985,6 +1029,24 @@
       "duration_ms": 183160,
       "name": "Cherchez LaGhost (feat. U-God)",
       "url": "https://open.spotify.com/track/5vKPSbwck6yojUAZIHTsFj"
+    },
+    {
+      "album": {
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68830,
+      "name": "Cherry Beach",
+      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
       "album": {
@@ -1135,7 +1197,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 241133,
       "name": "Coolie High",
       "url": "https://open.spotify.com/track/6yZAdQyPJtXjATvAT8ERQg"
@@ -1257,7 +1319,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 218297,
       "name": "Cruisin USA",
       "url": "https://open.spotify.com/track/7gwQIgCoMKxY0zrALk86Zc"
@@ -1301,7 +1363,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 166289,
       "name": "CUD GAWD",
       "url": "https://open.spotify.com/track/5BDmVjKFoZIl0tZ7Qdp3xW"
@@ -1527,7 +1589,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 281600,
       "name": "Do For Love",
       "url": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq"
@@ -1725,7 +1787,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 285866,
       "name": "Drink Away the Pain (Situations) (feat. Q-Tip)",
       "url": "https://open.spotify.com/track/4GdKi4F976XGtr8hedHEro"
@@ -1853,7 +1915,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 146781,
       "name": "EKIN 2",
       "url": "https://open.spotify.com/track/64zryN4rCa7LqRPZfAQF6L"
@@ -1935,7 +1997,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 148965,
       "name": "Ep. 1: Circles",
       "url": "https://open.spotify.com/track/4BQe8I2QmniLE1zol4SQqX"
@@ -2427,7 +2489,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 116533,
       "name": "Got It For Cheap",
       "url": "https://open.spotify.com/track/7CIm9r6YGAu8KJ47RZ41hZ"
@@ -2549,7 +2611,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 160187,
       "name": "Hands Clean",
       "url": "https://open.spotify.com/track/4Z4XgHYpNQFvTinHWhHdPp"
@@ -2571,7 +2633,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 138517,
       "name": "Head Nod Theory",
       "url": "https://open.spotify.com/track/3HpoyF6JgpWwy8EvhEFATd"
@@ -2911,7 +2973,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 234933,
       "name": "I Shot a Warhol",
       "url": "https://open.spotify.com/track/5A7emdZcgyF4ylLVNcWx1h"
@@ -3069,7 +3131,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 134040,
       "name": "Invocation",
       "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
@@ -3171,7 +3233,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 150000,
       "name": "its all good",
       "url": "https://open.spotify.com/track/3dgLsN49usi0UVar2nOaRd"
@@ -3255,7 +3317,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 246961,
       "name": "Kalamata Olives (C'est la Vie) [feat. Quelle Chris]",
       "url": "https://open.spotify.com/track/4druR6rc02ZsefLN5DfqLo"
@@ -3317,7 +3379,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 146947,
       "name": "Krohmeconut Wolf",
       "url": "https://open.spotify.com/track/0DZVkUkr5udpeqlv2lfWdB"
@@ -3411,7 +3473,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 151090,
       "name": "Late for the Bus",
       "url": "https://open.spotify.com/track/04eV3eZX2h8Tlhi1oo3fpJ"
@@ -3546,6 +3608,36 @@
     },
     {
       "album": {
+        "name": "Lights Out!",
+        "url": "https://open.spotify.com/album/7vMqeLwILKSrfUYOjhgiTm"
+      },
+      "artists": [
+        {
+          "name": "Decay The Llama",
+          "url": "https://open.spotify.com/artist/4PEeFwGpaV9hlvDUEkQVNQ"
+        },
+        {
+          "name": "Defcee",
+          "url": "https://open.spotify.com/artist/4T41Vb8DlaVJwVFcvqAt3P"
+        },
+        {
+          "name": "Homeboy Sandman",
+          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
+        },
+        {
+          "name": "Custom Made",
+          "url": "https://open.spotify.com/artist/0KImMyjtDXiVH5Vj89Aow0"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183366,
+      "name": "Lights Out!",
+      "url": "https://open.spotify.com/track/1fpIvTl7EZtvPAHIvMuh5p"
+    },
+    {
+      "album": {
         "name": "Off the Strength",
         "url": "https://open.spotify.com/album/1okrd5yTD0zDNhOq2YJDox"
       },
@@ -3649,7 +3741,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 91214,
       "name": "LONG WINTERS",
       "url": "https://open.spotify.com/track/1NZCPCR23J55ifJsLLt0Hw"
@@ -4325,7 +4417,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 108739,
       "name": "New Shit",
       "url": "https://open.spotify.com/track/6GOkubr6OCtKQn2yv8I29n"
@@ -4987,7 +5079,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 272013,
       "name": "Pam Grier",
       "url": "https://open.spotify.com/track/4COklyEUnipSInTyM61f56"
@@ -5031,7 +5123,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 270653,
       "name": "Paris, Tokyo",
       "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
@@ -5121,7 +5213,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 140500,
       "name": "Plain English",
       "url": "https://open.spotify.com/track/5zFPB7NKXniVJWgwrC8B6Y"
@@ -5265,7 +5357,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 107379,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
@@ -5471,7 +5563,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 184625,
       "name": "Reaching The Sky (feat. Che Grand)",
       "url": "https://open.spotify.com/track/3RChtW2KXc17yhkCp14peI"
@@ -5565,7 +5657,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 203613,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/5mFC0krEDkxLVykyb4pJ22"
@@ -5591,7 +5683,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 302973,
       "name": "Return of the Crooklyn Dodgers",
       "url": "https://open.spotify.com/track/72mGcVc65dysPSaT2SvWZX"
@@ -5613,6 +5705,24 @@
       "duration_ms": 218992,
       "name": "Rich Rhetoric",
       "url": "https://open.spotify.com/track/3UTKApxxXsQ4dKaDrSacJo"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/1KRevA9ahRj5MZ2TzWzJda"
+      },
+      "artists": [
+        {
+          "name": "Thurz",
+          "url": "https://open.spotify.com/artist/7bWmyvqnoAdWHLBvGprwsz"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1Oh3oP0GGAJMQ48T0FlcOg"
     },
     {
       "album": {
@@ -5653,7 +5763,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 175581,
       "name": "Roman Candles (feat. Roc Marciano & Black Thought)",
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
@@ -6023,7 +6133,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 221083,
       "name": "So Tired You Can't Stop Dreaming",
       "url": "https://open.spotify.com/track/05P5KJcvIDyeLsR4JdGzoq"
@@ -6115,7 +6225,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 164990,
       "name": "Stank Dreams",
       "url": "https://open.spotify.com/track/2px68DxnQB2L5B6S6vdJEZ"
@@ -6239,6 +6349,24 @@
       "duration_ms": 274240,
       "name": "Summertime (It's All Good)",
       "url": "https://open.spotify.com/track/2u7ZwypOUK56ihDqofLf1I"
+    },
+    {
+      "album": {
+        "name": "1st Baptist",
+        "url": "https://open.spotify.com/album/3ah3k6QazZf72E8ATTdiUm"
+      },
+      "artists": [
+        {
+          "name": "Pac Div",
+          "url": "https://open.spotify.com/artist/5504Qqp7s40bqBqzWMEByl"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Summertime Fine",
+      "url": "https://open.spotify.com/track/5NJqYasrlre1hZxeT7NCFb"
     },
     {
       "album": {
@@ -6479,7 +6607,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 280220,
       "name": "The Love Song",
       "url": "https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn"
@@ -6505,7 +6633,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 261363,
       "name": "The New Balance - Live from the D.M.V.",
       "url": "https://open.spotify.com/track/23vv03mQkqT3J1VkwjOW6I"
@@ -6615,7 +6743,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 211778,
       "name": "The Twist (feat. Donwill)",
       "url": "https://open.spotify.com/track/5Yhj50upgVMSxbcMYFcKzL"
@@ -6727,7 +6855,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 237416,
       "name": "Through The Woods",
       "url": "https://open.spotify.com/track/6aGOpmkYjhSgkSB9ekHALv"
@@ -7071,7 +7199,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 133333,
       "name": "War Report",
       "url": "https://open.spotify.com/track/2Hyw4BbGK01C0lAPIIeM61"
@@ -7167,7 +7295,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 228992,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/24zYzUI3WjerBzqO3Vj2BC"
@@ -7291,7 +7419,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 150561,
       "name": "Why Worry",
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
@@ -7473,10 +7601,32 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 241680,
       "name": "You Ain't Gotta Lie (Momma Said)",
       "url": "https://open.spotify.com/track/7A3ETuOrieyx9KSF0sn0Zf"
+    },
+    {
+      "album": {
+        "name": "Capital Punishment (Explicit Version)",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "N.O.R.E.",
+          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "You Came Up (feat. Noreaga)",
+      "url": "https://open.spotify.com/track/2uh3tuSkLydG8QpxY4cqgQ"
     },
     {
       "album": {

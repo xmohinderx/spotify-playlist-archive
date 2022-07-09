@@ -3604,6 +3604,24 @@
     },
     {
       "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/4GZnxEVMdliCIS4fKUcYWa"
+      },
+      "artists": [
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/4dM5RiuTAMqpxMXUymNvom"
+    },
+    {
+      "album": {
         "name": "sad4whattt (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS"
       },

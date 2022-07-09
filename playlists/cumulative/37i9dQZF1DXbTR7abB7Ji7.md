@@ -2,7 +2,7 @@
 
 ### [Classical Wedding](https://open.spotify.com/playlist/37i9dQZF1DXbTR7abB7Ji7)
 
-> The perfect classical accompaniment to your wedding day.
+> The perfect classical accompaniment to your wedding day; elegant background music for seating guests, walking down the aisle or cocktail hour.
 
 40 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/5Y8mV1kkK7RVGOGyZCwVZy)
 

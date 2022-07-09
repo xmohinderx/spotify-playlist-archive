@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,507 songs - 3 day 15 hr 48 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,509 songs - 3 day 15 hr 55 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Claim \(with Olivia O'Brien\)](https://open.spotify.com/track/33GofuA3y8ohKvAdpm4Wh8) | [drumaq](https://open.spotify.com/artist/6YxiJtz5oCCcDsMGiLNMh5), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Claim \(with Olivia O'Brien\)](https://open.spotify.com/album/0ErEUoNONDJ3sQufxHvYFJ) | 3:37 | 2021-09-18 | 2021-10-03 |
 | [Claustrophobic](https://open.spotify.com/track/1cKZeZ5bKGy7y7L73arGgG) | [Nové](https://open.spotify.com/artist/0bsCwiBOlYXNWORzIVyhmo) | [Claustrophobic](https://open.spotify.com/album/3rg2Zx34Y3p772yFWU0BTU) | 3:10 | 2022-04-14 | 2022-04-30 |
 | [CLOSE TO ME](https://open.spotify.com/track/41nDM1IxSQN9YnIYuZhYYM) | [RYOKER](https://open.spotify.com/artist/3f5H53m7DIJapLedJek1vK), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [CLOSE TO ME](https://open.spotify.com/album/6qkAqys8nnj3JuX5mDmcnM) | 3:25 | 2021-02-06 | 2021-02-20 |
+| [Closer](https://open.spotify.com/track/1povXjJAZZbtMuQiDvJL3s) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Wild Blue Yonder](https://open.spotify.com/album/3gckwZpXnsNoH1dIhLeiud) | 3:32 | 2022-07-08 |  |
 | [Closer \(feat\. Chromeo\)](https://open.spotify.com/track/7rPtsNELDBM7AWrJwmwIIh) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Closer \(feat\. Chromeo\)](https://open.spotify.com/album/3Faki8wp8JRFsgZGsS1VvQ) | 3:08 | 2021-07-31 | 2021-08-15 |
 | [Closure](https://open.spotify.com/track/3MSbJdSuHFhigKjcgvvtl2) | [Guy Tang](https://open.spotify.com/artist/57qOgv22WG6NqUD4iglLjL), [Jordyn Kane](https://open.spotify.com/artist/5jFpFUOtNai4WFc2fmwzdT) | [Multi\-Perspective](https://open.spotify.com/album/10NMkMZJqAyaUsciayemcU) | 2:35 | 2020-10-26 | 2020-11-11 |
 | [Clubbin'](https://open.spotify.com/track/11rbqaiMgVC354axdYVgYI) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Clubbin'](https://open.spotify.com/album/5A1DlN7SHxiJrGin4eEm2m) | 3:00 | 2021-07-05 | 2021-07-12 |
@@ -992,6 +993,7 @@
 | [One Hawt Sunny Day](https://open.spotify.com/track/6WpD2ruAZzCHDweUDzQ3ek) | [Haidee](https://open.spotify.com/artist/5TUlz1H8AM5ghjz7yDuLbQ) | [An EP](https://open.spotify.com/album/6LvU9P31EbjGWYweWmvrP9) | 3:43 | 2021-03-06 | 2021-03-20 |
 | [One Last Time](https://open.spotify.com/track/3jmES10ZW2gOaygKGEpiJZ) | [Kristina Lachaga](https://open.spotify.com/artist/20lFOC1hCNvIZpNCHiVLA6) | [One Last Time](https://open.spotify.com/album/40jJOiYm0OS2HTd49DyKnC) | 3:25 | 2022-03-04 | 2022-03-26 |
 | [one life, might live](https://open.spotify.com/track/5kZ3mNo3Sjstbq5nVa5CMG) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:34 | 2020-08-20 |  |
+| [One More Szn](https://open.spotify.com/track/1VT2y4ffCimUcjzfi7vjPS) | [WhitMo](https://open.spotify.com/artist/1pacBSmBxfwndRD8ulFjy3), [Mark Anthony](https://open.spotify.com/artist/5YjFotPhzSEnq1TaukuCQM) | [One More Szn](https://open.spotify.com/album/4C2PHcs4ASj9IJq6YdnvY3) | 3:17 | 2022-07-08 |  |
 | [One Thing Is For Certain](https://open.spotify.com/track/6biIT1niXjpnAkPyDzNQX0) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Motik](https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX) | [One Thing Is For Certain](https://open.spotify.com/album/4ZQbjRNx6q6qaqpBbmEClU) | 3:16 | 2021-03-14 | 2021-03-27 |
 | [One Trick Ponies](https://open.spotify.com/track/2OlVATK8cXm4g45ecB3Rmz) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [One Trick Ponies](https://open.spotify.com/album/6If42lOtWMrs2kKXlIGTPr) | 5:21 | 2021-08-28 | 2021-09-11 |
 | [One Two Three](https://open.spotify.com/track/1OYBNcyWtEik36mDHkJFp6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [One Two Three](https://open.spotify.com/album/3Hdx1wDjgJqO8YYhbYTgpZ) | 3:40 | 2021-08-07 | 2021-08-22 |

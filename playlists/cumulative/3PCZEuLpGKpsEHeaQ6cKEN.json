@@ -1500,6 +1500,24 @@
     },
     {
       "album": {
+        "name": "Jack Flip",
+        "url": "https://open.spotify.com/album/0Qg4RgceOxpJaLsZ0J3CcU"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155106,
+      "name": "Jack Flip",
+      "url": "https://open.spotify.com/track/2yQcHJYJngvxS6L3kH7eRm"
+    },
+    {
+      "album": {
         "name": "Jazz Club",
         "url": "https://open.spotify.com/album/3IEbppWLyhaxJpgFIs7Q5d"
       },

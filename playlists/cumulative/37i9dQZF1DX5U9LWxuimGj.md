@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Filmore and Pitbull
 
-87 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+88 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Paraíso \(Heaven\) \- Ao Vivo](https://open.spotify.com/track/2WJdzFwnx0weS4sekT175s) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Paraíso \(Heaven\) \[Ao Vivo\]](https://open.spotify.com/album/0hD5CDJxCMjN5vw11oFeGD) | 2:55 | 2021-12-10 |  |
 | [Pienso en Ti](https://open.spotify.com/track/6187nmNResODDMkb2WNgES) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:03 | 2021-12-10 |  |
 | [Poder Vivir](https://open.spotify.com/track/0iHidkaP0x9Dd8IwFmNkG4) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 3:17 | 2021-12-10 |  |
+| [Reverse](https://open.spotify.com/track/2T6vymk0i2Pd5pli788DSQ) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Reverse](https://open.spotify.com/album/67gR6ME2xaUHnG5dC7t3qk) | 3:41 | 2022-07-08 |  |
 | [Ring of Fire](https://open.spotify.com/track/0s62CMcYQzqro7kFKCVIAd) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts) | [Country from another country](https://open.spotify.com/album/2MyLrd6esHFxMjP1FdtC7W) | 3:42 | 2021-12-10 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:39 | 2021-12-10 |  |
 | [Se Va A Arrepentir](https://open.spotify.com/track/3tV7TCBFRB4dZ03gYwZ7Ax) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 3:18 | 2021-12-10 |  |

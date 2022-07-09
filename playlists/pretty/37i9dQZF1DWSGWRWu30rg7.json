@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Assia Keva.  Artwork: Isu Kim.",
-  "num_followers": 58680,
+  "num_followers": 58703,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIxNDc3NiwwMDAwMDBmZjAwMDAwMTgxZDliMmI2NzYwMDAwMDE4MWQ5OTAwMjY3",
+  "snapshot_id": "MTY1NzI2MTU0NywwMDAwMDEwMDAwMDAwMTgxZGM3YzVlOWUwMDAwMDE4MWQ5OTAwMjY3",
   "tracks": [
     {
       "added_at": "2022-07-07 17:26:16",
@@ -299,6 +299,38 @@
       "duration_ms": 260693,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/2B4LbA1ARtGOtwUWolKv1G"
+    },
+    {
+      "added_at": "2022-07-08 06:25:47",
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7uXQmMAkEPKSSXz36dqRim"
+      },
+      "artists": [
+        {
+          "name": "Chintana Jo",
+          "url": "https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf"
+        },
+        {
+          "name": "ABRAM",
+          "url": "https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL"
+        },
+        {
+          "name": "Tintin",
+          "url": "https://open.spotify.com/artist/79dBBbf22bLsxtklqr9x6y"
+        },
+        {
+          "name": "Victor Kong",
+          "url": "https://open.spotify.com/artist/1wRDUXp3D3beKAcE5XxYdm"
+        },
+        {
+          "name": "Kitut",
+          "url": "https://open.spotify.com/artist/0sARNVxRbF1f7xBM8OMP5q"
+        }
+      ],
+      "duration_ms": 244455,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/54uGhbPxHvcwaYpwkDAnL4"
     },
     {
       "added_at": "2022-07-07 17:26:16",

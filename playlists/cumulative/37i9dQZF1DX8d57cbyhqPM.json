@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 173202,
       "name": "Achour",
       "url": "https://open.spotify.com/track/4qPofy87agRAPWFW7ZofXO"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 193097,
       "name": "Balola",
       "url": "https://open.spotify.com/track/2xU6ImNhlmtj2ikpIrjT9e"
@@ -524,6 +524,28 @@
     },
     {
       "album": {
+        "name": "J'ai trop de doute",
+        "url": "https://open.spotify.com/album/7A1sGtnEjm2j2GAZiNeODh"
+      },
+      "artists": [
+        {
+          "name": "Unice Impacha",
+          "url": "https://open.spotify.com/artist/6LRDzElFJeeRgHwV50rfeE"
+        },
+        {
+          "name": "Muz",
+          "url": "https://open.spotify.com/artist/431RfrruAfhLUmeQz6GzXI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168671,
+      "name": "J'ai trop de doute",
+      "url": "https://open.spotify.com/track/6Y7id1J4IhIgAMUkNJDAjM"
+    },
+    {
+      "album": {
         "name": "Coup\u00e9 d\u00e9cal\u00e9 congolais",
         "url": "https://open.spotify.com/album/3HOzLE98uvORHFwCmZ9oil"
       },
@@ -539,6 +561,24 @@
       "duration_ms": 315948,
       "name": "Jalousie",
       "url": "https://open.spotify.com/track/1W7asBGIbGNgFelsxHqz9D"
+    },
+    {
+      "album": {
+        "name": "Julio Cesar (Amapiano)",
+        "url": "https://open.spotify.com/album/0v7n1Dy8POTrf0uclPKm2P"
+      },
+      "artists": [
+        {
+          "name": "IDPizzle",
+          "url": "https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Julio Cesar - Amapiano",
+      "url": "https://open.spotify.com/track/3RDFbEo7EZado9KJVtLFc5"
     },
     {
       "album": {
@@ -692,6 +732,28 @@
     },
     {
       "album": {
+        "name": "Mbapp\u00e9",
+        "url": "https://open.spotify.com/album/4TdC4zH22pUkAkW2eVQm2A"
+      },
+      "artists": [
+        {
+          "name": "Ibn Itaka",
+          "url": "https://open.spotify.com/artist/3ZyajuEhPOcKzQTObbskL2"
+        },
+        {
+          "name": "Julien Makarabianco",
+          "url": "https://open.spotify.com/artist/5hVEzDP6ZvgTQX0jSRQ9zI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Mbapp\u00e9",
+      "url": "https://open.spotify.com/track/4x8jFY4oAcBsAt67pjonSS"
+    },
+    {
+      "album": {
         "name": "Mbila (Jo\u00e3o Selva Remix)",
         "url": "https://open.spotify.com/album/4CexHLC4PDH9rCz9l33xpo"
       },
@@ -801,7 +863,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 182177,
       "name": "Mukila",
       "url": "https://open.spotify.com/track/76Z253AF0PcCEOFbBy3TeS"
@@ -1273,7 +1335,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 738133,
       "name": "Techno malewa m\u00e9canique",
       "url": "https://open.spotify.com/track/5O34o7gWa08iA4giYbY6mS"
@@ -1535,6 +1597,24 @@
       "duration_ms": 172384,
       "name": "\u00c9lengui",
       "url": "https://open.spotify.com/track/3xAoNXwkn6sRB5SjYqtQvc"
+    },
+    {
+      "album": {
+        "name": "Ips\u00e9it\u00e9",
+        "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200866,
+      "name": "\u039a. Kin la belle",
+      "url": "https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM"

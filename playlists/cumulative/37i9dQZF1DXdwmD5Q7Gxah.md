@@ -4,7 +4,7 @@
 
 > at least we have new 1975 and the ultimate going out song from charli
 
-1,725 songs - 3 day 20 hr 19 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,727 songs - 3 day 20 hr 24 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Apartment 402](https://open.spotify.com/track/4HHa6HZxKsgTLldpwQPs4D) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:25 | 2021-05-03 | 2021-06-05 |
 | [Aphrodite](https://open.spotify.com/track/0XIH3R3fwPOlELF70Oh68h) | [Natalie Green](https://open.spotify.com/artist/0fxQXo3PV20WmVzJaYPC8T) | [Evangeline](https://open.spotify.com/album/0oHP9K3YUilwr2ngbbAKBU) | 3:05 | 2020-10-07 | 2020-11-11 |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-07-06 |  |
+| [Apocalypse Love Song](https://open.spotify.com/track/5sisWMCOONgnbPJ5Q4MZq9) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Apocalypse Love Song](https://open.spotify.com/album/4xb97mzuYxZctEoVl7bhL3) | 2:35 | 2022-07-08 |  |
 | [Apple Eyes](https://open.spotify.com/track/58FNz5tnNUe6CTd3qw0yK0) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Apple Eyes](https://open.spotify.com/album/3NSyGzvWx2LF3cY9rXh8qR) | 2:10 | 2020-10-07 | 2021-03-06 |
 | [Applesauce](https://open.spotify.com/track/2bsTfDQBc5kmDReErSCrtD) | [Sam.Sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Applesauce](https://open.spotify.com/album/1SI4bzbzGHvIrNzoe0tHl7) | 3:21 | 2019-10-25 | 2020-02-20 |
 | [Apricots](https://open.spotify.com/track/3tWR8p2FEEHbBsmDmTce9l) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/5gj1qZoL0z8cOMWzSP77Ae) | 3:12 | 2020-10-30 | 2021-03-14 |
@@ -1376,6 +1377,7 @@
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2021-11-13 | 2022-04-09 |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-02 | 2022-04-09 |
 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2019-08-02 | 2022-03-11 |
+| [Solar](https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Solar](https://open.spotify.com/album/0ihYO4WjTtY3i5PyOJPIL5) | 2:39 | 2022-07-08 |  |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-11 | 2021-08-14 |
 | [Solo](https://open.spotify.com/track/2chyIj1EahRcg0J7aalS5f) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Solo](https://open.spotify.com/album/6sa4IOjkUs5ppR6PTxvjR1) | 3:26 | 2021-07-04 | 2021-08-14 |
 | [Somebody Else](https://open.spotify.com/track/0yyz1ebvy6ye4bh41apO6D) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Somebody Else](https://open.spotify.com/album/72IJG5WNH2onZIf06yIVLf) | 4:24 | 2020-08-21 | 2020-09-17 |

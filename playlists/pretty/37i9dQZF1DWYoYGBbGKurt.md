@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,742 likes - 500 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,847 likes - 500 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 71 | [Clouds](https://open.spotify.com/track/5LrRZIOip9uqlJuISIcPZN) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Clouds](https://open.spotify.com/album/0MFuP63RB3wKviRRBHJXUq) | 1:59 |
 | 72 | [April Snow](https://open.spotify.com/track/7aAeKms8QSD0VwsHJbhyOX) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [April Snow](https://open.spotify.com/album/1PhgAx4wCZ9Nx9bpd8bDdA) | 2:20 |
 | 73 | [Tanger](https://open.spotify.com/track/56qbQWzgwBV6Djd9Yukiae) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Tanger](https://open.spotify.com/album/7C7dTuZgoQQF4JWVR5r5ae) | 2:31 |
-| 74 | [Walls between us](https://open.spotify.com/track/5QHdwYfk3tF4fHIKAA95rV) | [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q), [FYLDZ](https://open.spotify.com/artist/1NCWweyBWuO8pXL6nFguqc) | [Messages from my bedroom](https://open.spotify.com/album/1z0tpLC6qTu50vL5WsUPiY) | 3:08 |
+| 74 | [Walls between us](https://open.spotify.com/track/5QHdwYfk3tF4fHIKAA95rV) | [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q), [Fyldz](https://open.spotify.com/artist/6ALwFNCOReeXTblkR1bVJn) | [Messages from my bedroom](https://open.spotify.com/album/1z0tpLC6qTu50vL5WsUPiY) | 3:08 |
 | 75 | [chimenea](https://open.spotify.com/track/0gapXTrrUdFXk8707pDVBB) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9), [Deli](https://open.spotify.com/artist/6UUlZWE7mcQ41Qwos0O6gl) | [chimenea](https://open.spotify.com/album/6Fu7WKoTfwFKNX6dn3UPV4) | 1:54 |
 | 76 | [Tea Cosy](https://open.spotify.com/track/6dc1pLuUuHHttonZuLd3wf) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Tea Cosy](https://open.spotify.com/album/0Vxe4WPILqTU3XfmeI3N6Y) | 3:01 |
 | 77 | [Enchanted Way](https://open.spotify.com/track/0ShT1pUizUwabwIeQcgsV9) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Enchanted Way](https://open.spotify.com/album/77bPATfa9VhQUr4fXAm3Nz) | 2:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,681 likes - 312 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,758 likes - 312 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 311 | [Jazzy Conscience](https://open.spotify.com/track/1fwiNplwwbDWodDUHiUHdU) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:25 |
 | 312 | [Lo\-Fi Prism](https://open.spotify.com/track/7xMO3gsf52QohpGmPzBZgt) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:36 |
 
-Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDA1YjAwMDAwMTgxZGIxYjJjYmYwMDAwMDE3MGFmNDM4MjE0`
+Snapshot ID: `MTY1NzI5Mjc1MCwwMDAwMDA1YzAwMDAwMTgxZGU1ODdlMDQwMDAwMDE4MWRlNTg1Njhh`

@@ -1,12 +1,12 @@
 {
-  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Good Boy Daisy",
-  "num_followers": 283555,
+  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Dove Cameron",
+  "num_followers": 283843,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODAwMCwwMDAwMDA5MDAwMDAwMTgxYjdlYTYzMDcwMDAwMDE4MWI2ZjZiMDQz",
+  "snapshot_id": "MTY1NzI1MjgwMCwwMDAwMDA5MTAwMDAwMTgxZGJmNmU3MDEwMDAwMDE4MWRhOWU2MjZj",
   "tracks": [
     {
       "added_at": "2022-06-24 04:00:00",
@@ -23,6 +23,86 @@
       "duration_ms": 148470,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Competition",
+        "url": "https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "duration_ms": 186462,
+      "name": "Competition",
+      "url": "https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "engravings",
+        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Bad Bitch",
+        "url": "https://open.spotify.com/album/6h9dGhDGp7IbnthobQ23xK"
+      },
+      "artists": [
+        {
+          "name": "Cappa",
+          "url": "https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh"
+        }
+      ],
+      "duration_ms": 139058,
+      "name": "Bad Bitch",
+      "url": "https://open.spotify.com/track/4BSv6txtXIBg44D9EHpifH"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Shut Up And Look Pretty",
+        "url": "https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52"
+      },
+      "artists": [
+        {
+          "name": "ari hicks",
+          "url": "https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z"
+        }
+      ],
+      "duration_ms": 141329,
+      "name": "Shut Up And Look Pretty",
+      "url": "https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Hot Killer",
+        "url": "https://open.spotify.com/album/0as00WK8RwmFBwlvg3gmPy"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 138730,
+      "name": "Hot Killer",
+      "url": "https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -59,38 +139,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Bad Bitch",
-        "url": "https://open.spotify.com/album/6h9dGhDGp7IbnthobQ23xK"
-      },
-      "artists": [
-        {
-          "name": "Cappa",
-          "url": "https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh"
-        }
-      ],
-      "duration_ms": 139058,
-      "name": "Bad Bitch",
-      "url": "https://open.spotify.com/track/4BSv6txtXIBg44D9EHpifH"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Hot Killer",
-        "url": "https://open.spotify.com/album/0as00WK8RwmFBwlvg3gmPy"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 138730,
-      "name": "Hot Killer",
-      "url": "https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM"
       },
@@ -103,6 +151,22 @@
       "duration_ms": 168981,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "i\u2019m too pretty for this",
+        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 166037,
+      "name": "i'm too pretty for this",
+      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -137,20 +201,20 @@
       "url": "https://open.spotify.com/track/3Wc4jQhzto9iZehUirrzcM"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
+      "added_at": "2022-05-27 20:57:32",
       "album": {
-        "name": "engravings",
-        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+        "name": "Lego Blocks",
+        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
       },
       "artists": [
         {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
         }
       ],
-      "duration_ms": 180186,
-      "name": "engravings",
-      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+      "duration_ms": 159493,
+      "name": "Lego Blocks",
+      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -201,22 +265,6 @@
       "url": "https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "i\u2019m too pretty for this",
-        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 166037,
-      "name": "i'm too pretty for this",
-      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
-    },
-    {
       "added_at": "2022-05-20 05:04:53",
       "album": {
         "name": "Wish You the Worst",
@@ -231,6 +279,22 @@
       "duration_ms": 143466,
       "name": "Wish You the Worst",
       "url": "https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Fuck Friday",
+        "url": "https://open.spotify.com/album/7f3vjO34MfUj4o0WPuIpz1"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 188218,
+      "name": "Fuck Friday",
+      "url": "https://open.spotify.com/track/42S8a0eCTdw2qYuK8oXB4Z"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -297,22 +361,6 @@
       "url": "https://open.spotify.com/track/6QlM4xHmnopildYh5eWG0G"
     },
     {
-      "added_at": "2022-05-27 20:57:32",
-      "album": {
-        "name": "Lego Blocks",
-        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Lego Blocks",
-      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
-    },
-    {
       "added_at": "2022-02-04 05:01:00",
       "album": {
         "name": "FU In My Head",
@@ -359,22 +407,6 @@
       "duration_ms": 178367,
       "name": "one bad day",
       "url": "https://open.spotify.com/track/1Qz3mHiMABwI3wBK3PQgsr"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "a letter to me",
-        "url": "https://open.spotify.com/album/2jLOhU9bWQgsKQ6fVa9xVE"
-      },
-      "artists": [
-        {
-          "name": "Dixie",
-          "url": "https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs"
-        }
-      ],
-      "duration_ms": 200031,
-      "name": "Someone to Blame",
-      "url": "https://open.spotify.com/track/7xCrXGPDHKYHIyPOaDAv8Q"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -471,22 +503,6 @@
       "duration_ms": 166948,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Sweatshirt (Pettier)",
-        "url": "https://open.spotify.com/album/7rNzMil2oHfLYjeZnaU2ca"
-      },
-      "artists": [
-        {
-          "name": "Anna Clendening",
-          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
-        }
-      ],
-      "duration_ms": 147407,
-      "name": "Sweatshirt - Pettier",
-      "url": "https://open.spotify.com/track/1lHd7db3a79MPI02e3xblS"
     },
     {
       "added_at": "2022-05-20 05:04:53",
@@ -701,22 +717,6 @@
       "url": "https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "You Ruined Nirvana",
-        "url": "https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "You Ruined Nirvana",
-      "url": "https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK"
-    },
-    {
       "added_at": "2022-04-01 04:01:00",
       "album": {
         "name": "cult leader",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/1Ls9hQqVRPIIWnylIlHg48"
     },
     {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "ALL ABOUT ME",
-        "url": "https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP"
-      },
-      "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "ALL ABOUT ME",
-      "url": "https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL"
-    },
-    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "When You Say My Name",
@@ -981,22 +965,6 @@
       "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Barely on My Mind",
-      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
-    },
-    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Library Card",
@@ -1011,22 +979,6 @@
       "duration_ms": 206527,
       "name": "Library Card",
       "url": "https://open.spotify.com/track/4zQiuvLmOFXI9lRxBEeb94"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Moderation",
-        "url": "https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U"
-      },
-      "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Moderation",
-      "url": "https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -1095,38 +1047,6 @@
       "duration_ms": 170015,
       "name": "FUCK MY EXES",
       "url": "https://open.spotify.com/track/03xqIbvagvjf3K75qqL0fC"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Devil In A Dress",
-        "url": "https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 111467,
-      "name": "Devil In A Dress",
-      "url": "https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw"
-      },
-      "artists": [
-        {
-          "name": "Chloe Adams",
-          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
-        }
-      ],
-      "duration_ms": 153222,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub"
     },
     {
       "added_at": "2022-01-28 05:07:55",

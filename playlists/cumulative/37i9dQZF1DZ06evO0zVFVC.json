@@ -772,6 +772,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Fear",
+        "url": "https://open.spotify.com/album/7Jeto13iM7TeHsLhxeffb6"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328743,
+      "name": "The Greatest Fear",
+      "url": "https://open.spotify.com/track/4djFibnNhLYGcQra97W9N1"
+    },
+    {
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },

@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dibob
 
-177 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+178 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Outono](https://open.spotify.com/track/0oD08rD3TriDPXQYFOISKt) | [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Outono](https://open.spotify.com/album/4cm6Omv3PJEVPQmQmjrNfz) | 4:15 | 2022-01-14 |  |
 | [Para Todos Os Garotos Que Eu Já Matei](https://open.spotify.com/track/0YxoElqRCPLeIzWW34DWA5) | [Lia](https://open.spotify.com/artist/03sopzsMsDAuj5U0hSFvS3) | [Para Todos Os Garotos Que Eu Já Matei](https://open.spotify.com/album/33WgImZgWqrsiMiizY1cJ2) | 2:41 | 2022-02-04 |  |
 | [Paranoia Gigante](https://open.spotify.com/track/0tt3xMFyE29zsNT0GIWKB0) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z) | [Paranoia Gigante](https://open.spotify.com/album/2rFlV9QEHKscbrr8HbKRTO) | 2:22 | 2022-01-14 | 2022-03-18 |
-| [Passageira](https://open.spotify.com/track/4mkYd2T8dbLG6KtyT7Zh9F) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Passageira](https://open.spotify.com/album/7FPnMFyWc8gw6doOkUVmly) | 3:48 | 2022-05-20 |  |
+| [Passageira](https://open.spotify.com/track/4mkYd2T8dbLG6KtyT7Zh9F) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Passageira](https://open.spotify.com/album/7FPnMFyWc8gw6doOkUVmly) | 3:48 | 2022-05-20 | 2022-07-09 |
 | [Pedra Polida](https://open.spotify.com/track/2Kc293UYOGPGIt9AmrBw5h) | [Silvério Pessoa](https://open.spotify.com/artist/5sUkqENZZVzvZrlCjMRQVe), [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Sangue de Amor](https://open.spotify.com/album/2WGtQ9Mgnjw1mycBqZp3US) | 3:29 | 2022-04-08 | 2022-04-16 |
 | [Pegada Colada](https://open.spotify.com/track/0iQCjbuMMyeOCZtnKJcdQu) | [Camarones Orquestra Guitarrística](https://open.spotify.com/artist/1lgCw7strGg0tVjf13Ou4Q) | [Pegada Colada](https://open.spotify.com/album/04siOqdLoFOK4eUyA1FacT) | 2:01 | 2022-01-14 | 2022-02-19 |
 | [Permita\-Se](https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Permita\-Se](https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2) | 3:11 | 2022-01-14 |  |
@@ -148,6 +148,7 @@
 | [Quando o Encontro É Mais](https://open.spotify.com/track/5QA7rwtAFT2VsLwxhvS158) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Jay Vaquer](https://open.spotify.com/artist/7LSLnoj6uCCnE2TJ1G6kvw) | [Quando o Encontro É Mais](https://open.spotify.com/album/4UHW7w22v7Za7oCU5Quooq) | 5:06 | 2022-01-14 |  |
 | [quando saio de mim](https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf) | [Putz](https://open.spotify.com/artist/56HkciUnJHwVdl5yNQpIeb) | [quando saio de mim](https://open.spotify.com/album/4R9lTGeQuoDnhKxTRcHWod) | 2:57 | 2022-01-14 |  |
 | [Quase Perfeito](https://open.spotify.com/track/6uoeSnJvGJuLWaC5z1eG4X) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Quase Perfeito](https://open.spotify.com/album/03mhwPYhBSC24PVjOQEvuF) | 2:43 | 2022-06-24 | 2022-07-06 |
+| [Queda Livre](https://open.spotify.com/track/6bbJfRj9tp9BN2FTqqKzIB) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 2](https://open.spotify.com/album/6o0zg6G1XY9KqwyTPmZCsV) | 3:40 | 2022-07-08 |  |
 | [Quero Ser Eu Mesmo](https://open.spotify.com/track/4KRdoq2lJw8dKg9QvJkx07) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN), [Samurai Ghile](https://open.spotify.com/artist/3kSm6WL86cVmLKLTFS3G6N) | [Quero Ser Eu Mesmo](https://open.spotify.com/album/04YbltMjXDT4Kmv07nbxXO) | 3:26 | 2022-01-14 | 2022-04-16 |
 | [raiva](https://open.spotify.com/track/5ohmUHZRVYckbotO3zP30w) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [raiva](https://open.spotify.com/album/3ahG4lLXnrvZjc9Sb89BP1) | 3:15 | 2022-05-20 |  |
 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 | 2022-01-14 |  |

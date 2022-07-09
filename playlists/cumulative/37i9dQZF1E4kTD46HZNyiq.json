@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Francis Moon, The Hollow Men, Taletta and more",
+  "description": "With Laureline, Young in the City, The Light the Heat and more",
   "name": "NIGHT TRAVELER Radio",
   "published_playlist_ids": [
     "7516uBfjNbecLTG6tnzPU5"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 250537,
       "name": "1984",
       "url": "https://open.spotify.com/track/67sJp0ChEsa4mKXUFae0qq"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 219760,
       "name": "1990",
       "url": "https://open.spotify.com/track/6lSujJn0GaRfr1Jtlhgqe4"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 281270,
       "name": "All for You",
       "url": "https://open.spotify.com/track/24FUiqL4zbWB1VfvcqLIGv"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 259635,
       "name": "Always You",
       "url": "https://open.spotify.com/track/1a9SCQmc4Eq4uwAVOfktIZ"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 253760,
       "name": "Better in My Head",
       "url": "https://open.spotify.com/track/31r5NLOx5L31PWYT9GvCQV"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 180640,
       "name": "Breath",
       "url": "https://open.spotify.com/track/19gmeC3VYA1MJsnuXBe09n"
@@ -1777,7 +1777,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 255791,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/3s52KIJZ4QwqQndKroBabJ"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 344600,
       "name": "Carolina (Live)",
       "url": "https://open.spotify.com/track/3GjLml3zhjUYluVFKKfXRE"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 246500,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/2IDJMGDuMgluOkFUOHeRmD"
@@ -2911,7 +2911,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/1ldzBCZ5Wjg2wdhJDIcSXy"
@@ -2947,7 +2947,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 320826,
       "name": "Don't Keep Driving",
       "url": "https://open.spotify.com/track/2EMpUhxVk9FYQ0Ce8TxVgQ"
@@ -3059,7 +3059,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 170909,
       "name": "dreamin'",
       "url": "https://open.spotify.com/track/267QMIjVTwU5HvH2lJmrFW"
@@ -3210,6 +3210,24 @@
     },
     {
       "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/6JsoOxrkhbRI4R5p2Zel6I"
+      },
+      "artists": [
+        {
+          "name": "The Catalina",
+          "url": "https://open.spotify.com/artist/28QCTLI7HSNPNm6b217Pjj"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228311,
+      "name": "Easy Drinking",
+      "url": "https://open.spotify.com/track/2Gl967eZn92JfjG852oLT2"
+    },
+    {
+      "album": {
         "name": "Body Weather",
         "url": "https://open.spotify.com/album/1VhHDkJ2ffmwD0eq36XXhf"
       },
@@ -3293,7 +3311,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 228688,
       "name": "Electric Love (Native)",
       "url": "https://open.spotify.com/track/6wO5GhCuB7PmkAuVImxbT3"
@@ -3455,7 +3473,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 190261,
       "name": "Everything Ends Up Ending",
       "url": "https://open.spotify.com/track/6xi5BCyIzRb1xMCKstdnlZ"
@@ -3857,7 +3875,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "Feel the Same",
       "url": "https://open.spotify.com/track/3FmowjgP140Te2KFmPsc2s"
@@ -4247,7 +4265,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 233898,
       "name": "G C V",
       "url": "https://open.spotify.com/track/2RrxcgpzvurTlA9mjf7bz2"
@@ -4607,7 +4625,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 215823,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6roiPaka61jSTdVIH5B35F"
@@ -5011,7 +5029,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 252824,
       "name": "Here's To Endings",
       "url": "https://open.spotify.com/track/6wXL3MalwBZSgdF2expmTW"
@@ -5047,7 +5065,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 230769,
       "name": "Hey Carolina",
       "url": "https://open.spotify.com/track/5O46BpWmJNF6HL3sowDLuj"
@@ -5173,7 +5191,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 229784,
       "name": "Holding You, Holding Me",
       "url": "https://open.spotify.com/track/6rdLoCRzRPiCpDLFPgxOCZ"
@@ -5523,7 +5541,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "I Die on Sunset (Courts Remix)",
       "url": "https://open.spotify.com/track/4SM0QjlNtdBpj49XeXacnR"
@@ -5656,6 +5674,28 @@
     },
     {
       "album": {
+        "name": "Hope Remains",
+        "url": "https://open.spotify.com/album/2RsHjV0jyTDU8TYt03cCRU"
+      },
+      "artists": [
+        {
+          "name": "Krystin Hernandez",
+          "url": "https://open.spotify.com/artist/1ZD4fT10bwczZ0mHeyHqRd"
+        },
+        {
+          "name": "Benjamin Jusino",
+          "url": "https://open.spotify.com/artist/5B3BOcTLuWETeLAIWaiOEF"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258336,
+      "name": "I Knew It Was You",
+      "url": "https://open.spotify.com/track/4uFlq3DtiymqUnCEnrL2Rl"
+    },
+    {
+      "album": {
         "name": "Wash",
         "url": "https://open.spotify.com/album/3X4oLQ5APFlwryQnOeNtYJ"
       },
@@ -5667,7 +5707,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 202000,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/1JWUUSoVpMjz1Sgy56kFUg"
@@ -5721,7 +5761,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 308266,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/3qbQjQotCtzQJqHZd0j4fK"
@@ -6085,7 +6125,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 209708,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4TxCHsg67V7WPdYtUSYyoV"
@@ -6175,7 +6215,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 216370,
       "name": "Isle of Strawberries",
       "url": "https://open.spotify.com/track/7zfTF24acTKL42XSfzGETi"
@@ -6229,7 +6269,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 221979,
       "name": "It's Our Time",
       "url": "https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T"
@@ -6557,7 +6597,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 251863,
       "name": "Know Your Heart",
       "url": "https://open.spotify.com/track/49jXLsbAFrLA5iEzUpxpzF"
@@ -6705,7 +6745,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 226470,
       "name": "Late Nights",
       "url": "https://open.spotify.com/track/0glvPG96bg3z2VdTGwsSqT"
@@ -6781,7 +6821,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 240250,
       "name": "Let's Go Missing",
       "url": "https://open.spotify.com/track/0bdnO8RvbtlSEnuz4hWTaM"
@@ -7123,7 +7163,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 221717,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/0X6bCalV2gGsvj53F9VdTb"
@@ -7267,7 +7307,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 282354,
       "name": "Loving Like You Lost",
       "url": "https://open.spotify.com/track/3zXe63KdnNfe3LA4L3AKnS"
@@ -7559,7 +7599,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 258928,
       "name": "Maybe You're Right",
       "url": "https://open.spotify.com/track/0NIpYmvuP1qifLLvJp0hWr"
@@ -7613,7 +7653,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 177426,
       "name": "Me Tonight",
       "url": "https://open.spotify.com/track/2uFCDWBNbw2vKx0Iux69zD"
@@ -7761,7 +7801,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 275400,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/7zh456XsP582pVEoq6Nf6m"
@@ -8002,6 +8042,24 @@
     },
     {
       "album": {
+        "name": "Late Night Radio",
+        "url": "https://open.spotify.com/album/4wLIwIQqZEJMdgpFbFUxSX"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255200,
+      "name": "Need Somebody",
+      "url": "https://open.spotify.com/track/5A6LUv4Xuc1L4ULprZP8wv"
+    },
+    {
+      "album": {
         "name": "NEED YOU STILL",
         "url": "https://open.spotify.com/album/0udETORJ0tU6bLEISNP8QU"
       },
@@ -8121,7 +8179,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 234345,
       "name": "Never Live Without You",
       "url": "https://open.spotify.com/track/06Mu4dzNZDxsMkFK5iAmpe"
@@ -8425,7 +8483,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 233538,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/25bsI1HHIOSFpTh9eQGnAb"
@@ -8555,7 +8613,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 198890,
       "name": "Now We Know",
       "url": "https://open.spotify.com/track/3Rd5n7jgmCKKtjZ7dYquP0"
@@ -8703,7 +8761,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 231924,
       "name": "Ocean - demo",
       "url": "https://open.spotify.com/track/2sD2w0LAlY2DIIJTfIoKHs"
@@ -8779,7 +8837,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 187428,
       "name": "Okay With That",
       "url": "https://open.spotify.com/track/6OOmFgjdqSqeBXORizLbG2"
@@ -9347,7 +9405,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 212356,
       "name": "Pick Me Up Tonight",
       "url": "https://open.spotify.com/track/5grQprnAJ5CkNvvIsa85Ki"
@@ -9463,7 +9521,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 316733,
       "name": "Portland",
       "url": "https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK"
@@ -9709,7 +9767,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 240579,
       "name": "Reckless Lover - Acoustic",
       "url": "https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng"
@@ -9961,7 +10019,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 200816,
       "name": "Run",
       "url": "https://open.spotify.com/track/2WZsatd6Cmvj7fVmPnh2j0"
@@ -10305,7 +10363,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Shaking",
       "url": "https://open.spotify.com/track/2OEht8uERr6rcvHJCeqTCY"
@@ -10323,7 +10381,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 216240,
       "name": "She",
       "url": "https://open.spotify.com/track/4tdDt8uEGX2c5ikwH0zhWl"
@@ -10503,7 +10561,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 208878,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/0I9deMawCrAn32ntJLYbsX"
@@ -10759,7 +10817,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 258720,
       "name": "Space Talk",
       "url": "https://open.spotify.com/track/2kqMzzgzqyDrQO4WurQiJA"
@@ -11015,7 +11073,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 207960,
       "name": "Still Thinking About You",
       "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
@@ -11033,7 +11091,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 205368,
       "name": "Still Young",
       "url": "https://open.spotify.com/track/2ASxiGTpgNUXsgQlyWrTTx"
@@ -11289,7 +11347,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 280093,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/3yTPovBS6q8zcevTR3UowE"
@@ -11343,7 +11401,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 293525,
       "name": "Sweatshirt (Don't Let Go)",
       "url": "https://open.spotify.com/track/4ZFqTzkzm163dFIZ9XmizE"
@@ -11801,7 +11859,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 295000,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/2FrpcMmVduj9eX1NmTqmLs"
@@ -12083,7 +12141,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 176640,
       "name": "Thousand Stars",
       "url": "https://open.spotify.com/track/71S0HhZLwWXOo5wAc0ECak"
@@ -12301,7 +12359,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 234026,
       "name": "Tougher Than the Rest",
       "url": "https://open.spotify.com/track/2DrkIi5HbaX97SbGsuwsg5"
@@ -12323,6 +12381,24 @@
       "duration_ms": 276186,
       "name": "Towel",
       "url": "https://open.spotify.com/track/1fhpNdiCQSTQmov5BAgfig"
+    },
+    {
+      "album": {
+        "name": "Turning This Around",
+        "url": "https://open.spotify.com/album/42AWxIZfuQJtzuG7Bgsfrd"
+      },
+      "artists": [
+        {
+          "name": "Jess Gordon",
+          "url": "https://open.spotify.com/artist/5PD8OXo6KkLDoy4j32YZW8"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260178,
+      "name": "Turning This Around",
+      "url": "https://open.spotify.com/track/18dJkkW3mXGNoPOulEddCD"
     },
     {
       "album": {
@@ -12543,7 +12619,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 231549,
       "name": "Waiting in the Dark",
       "url": "https://open.spotify.com/track/79uyzDUkfaxQZfKRtsqqjF"
@@ -12641,7 +12717,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 286255,
       "name": "Wash",
       "url": "https://open.spotify.com/track/5geOnnY2JELFAlYORpvCEW"
@@ -12753,7 +12829,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 201922,
       "name": "Waves",
       "url": "https://open.spotify.com/track/7yU9ObmYVNQEqyWEOj1Gv5"
@@ -12843,7 +12919,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 182334,
       "name": "westside",
       "url": "https://open.spotify.com/track/10EGpDhTEwrSXkUcpmZz32"
@@ -13363,7 +13439,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 289781,
       "name": "You",
       "url": "https://open.spotify.com/track/43Bg5bwZ4AFhiaCTrq7I9m"
@@ -13529,7 +13605,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 259910,
       "name": "You Loved Me (Stripped)",
       "url": "https://open.spotify.com/track/1HF2tXmvmrbL6YGJVTDALp"

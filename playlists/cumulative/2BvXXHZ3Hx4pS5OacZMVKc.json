@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Dioma (Demo)",
+        "url": "https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff"
+      },
+      "artists": [
+        {
+          "name": "Jnathyn",
+          "url": "https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137475,
+      "name": "Dioma (Demo)",
+      "url": "https://open.spotify.com/track/700JJvwxvnn8kykvp3nZqb"
+    },
+    {
+      "album": {
         "name": "The Revolution (Remixed)",
         "url": "https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g"
       },
@@ -2037,6 +2055,24 @@
       "duration_ms": 140000,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2wAfNfNYVBoDuu1xu91X8U"
+    },
+    {
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/5TZ5biaTPYvsVqw1VPsQQ5"
+      },
+      "artists": [
+        {
+          "name": "More Plastic",
+          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/2H1M1zD08kZI5GuG4smljN"
     },
     {
       "album": {

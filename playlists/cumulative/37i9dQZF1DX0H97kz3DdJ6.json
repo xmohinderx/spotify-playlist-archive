@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 169278,
       "name": "A Chuva",
       "url": "https://open.spotify.com/track/6QKcTl3FS9NmSKmG4HSPDA"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 158117,
       "name": "A M\u00fasica Mais Triste do Ano 3",
       "url": "https://open.spotify.com/track/6CiABO49rMorhhLKjeLHcH"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 149197,
       "name": "Deixa Queimar",
       "url": "https://open.spotify.com/track/3q7qqA2yQYMI1tJkJn9g1j"
@@ -527,6 +527,32 @@
       "duration_ms": 137832,
       "name": "Desculpa",
       "url": "https://open.spotify.com/track/3uF1c6XbqghSa4EcbQCGpQ"
+    },
+    {
+      "album": {
+        "name": "Di\u00e1rio de um Ex-Amor",
+        "url": "https://open.spotify.com/album/5GXgV5Ub8lKMAMRz8Ggd9E"
+      },
+      "artists": [
+        {
+          "name": "Sadstation",
+          "url": "https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h"
+        },
+        {
+          "name": "Kayno",
+          "url": "https://open.spotify.com/artist/1HwPQ8sTeEufVDCt2XfLlb"
+        },
+        {
+          "name": "Firee",
+          "url": "https://open.spotify.com/artist/6hlcifXN2YLzpRIg8wvJIP"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140312,
+      "name": "Di\u00e1rio de um Ex-Amor",
+      "url": "https://open.spotify.com/track/76JTOcSuSbj0ZeAqIVnl56"
     },
     {
       "album": {
@@ -735,6 +761,32 @@
       "duration_ms": 134504,
       "name": "Eu T\u00f4 Bem",
       "url": "https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d"
+    },
+    {
+      "album": {
+        "name": "Fica Mais um Pouco (Speed)",
+        "url": "https://open.spotify.com/album/60RIdS7LLMXgpeq9MXcZGD"
+      },
+      "artists": [
+        {
+          "name": "Fuji",
+          "url": "https://open.spotify.com/artist/2hRHTgxBeovtixZArRGiY1"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        },
+        {
+          "name": "Sadnation",
+          "url": "https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96667,
+      "name": "Fica Mais um Pouco - Speed",
+      "url": "https://open.spotify.com/track/60pOKtx48FsYVKii0pG0bL"
     },
     {
       "album": {
@@ -1197,7 +1249,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 128903,
       "name": "Passarinho",
       "url": "https://open.spotify.com/track/5ngkflVDg5UyV92g8DGxlv"
@@ -1382,6 +1434,24 @@
     },
     {
       "album": {
+        "name": "Solit\u00e1rio Vampiro",
+        "url": "https://open.spotify.com/album/72wrW8pvGiNe0tHy3SjNn9"
+      },
+      "artists": [
+        {
+          "name": "K o d a",
+          "url": "https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "Solit\u00e1rio Vampiro",
+      "url": "https://open.spotify.com/track/6fOvrxj71Ca9o3lxdzLDCb"
+    },
+    {
+      "album": {
         "name": "S\u00f4nia",
         "url": "https://open.spotify.com/album/0EpXl3Ne4z8ZNOO6vrPUVh"
       },
@@ -1507,6 +1577,32 @@
       "duration_ms": 137591,
       "name": "Vento",
       "url": "https://open.spotify.com/track/2Yf9Q8MmG40zVPaY8AXkKD"
+    },
+    {
+      "album": {
+        "name": "Voar",
+        "url": "https://open.spotify.com/album/02vKA8IACrrcHjcpu6q2lF"
+      },
+      "artists": [
+        {
+          "name": "Sadness :c",
+          "url": "https://open.spotify.com/artist/5pvKSKOm1QGAf5BZoD9WEr"
+        },
+        {
+          "name": "K4tt0",
+          "url": "https://open.spotify.com/artist/5YpokbwUkNnmqyKVJiO2E3"
+        },
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Voar",
+      "url": "https://open.spotify.com/track/5MfsQMIZSGoSnqXsGGcLoD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0H97kz3DdJ6"

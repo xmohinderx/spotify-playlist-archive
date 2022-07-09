@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  CalledOut Music",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Free Worship",
   "name": "WorshipNow",
   "published_playlist_ids": [
     "12yoI78Chtrh071OwGd6QO"
@@ -2096,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse (Live)",
+        "url": "https://open.spotify.com/album/75ovaEavOTAYPe5Je4fNyx"
+      },
+      "artists": [
+        {
+          "name": "Community Music",
+          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284865,
+      "name": "Lighthouse - Live",
+      "url": "https://open.spotify.com/track/14e6kysjljUfMXQtWZSxzO"
+    },
+    {
+      "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
@@ -2264,6 +2282,24 @@
     },
     {
       "album": {
+        "name": "My Soul Sings",
+        "url": "https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360290,
+      "name": "My Soul Sings",
+      "url": "https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI"
+    },
+    {
+      "album": {
         "name": "Nail Scarred Hands",
         "url": "https://open.spotify.com/album/04sRnc4zX3NEI2Raqfx8JD"
       },
@@ -2423,7 +2459,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 300749,
       "name": "Nothing is Too Hard for You - Live",
       "url": "https://open.spotify.com/track/4YL8kmRkA35LPQYJpsHvoO"
@@ -2901,6 +2937,28 @@
       "duration_ms": 561041,
       "name": "Rise And Shine - Live",
       "url": "https://open.spotify.com/track/1hUPaZqEBm2w5G64GLtHSH"
+    },
+    {
+      "album": {
+        "name": "Room At the Table",
+        "url": "https://open.spotify.com/album/41ywbWUU3NjO5cWXHmL7CW"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Olu Meduoye",
+          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362139,
+      "name": "Room At the Table",
+      "url": "https://open.spotify.com/track/1cWSJHExNtDnBzJQWiSNXf"
     },
     {
       "album": {
@@ -4207,7 +4265,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 426194,
       "name": "You Can Do All Things",
       "url": "https://open.spotify.com/track/6cVgO1fJ2z2pMB6NSvuiAz"

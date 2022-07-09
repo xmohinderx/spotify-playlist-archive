@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 153750,
       "name": "Darsana",
       "url": "https://open.spotify.com/track/07h8WLyLdqdwrD72oWkats"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 187598,
       "name": "Fields of Passion",
       "url": "https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO"
@@ -782,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Hills of Calm",
+        "url": "https://open.spotify.com/album/09UEBRt9zN7VIVb1SIvxOb"
+      },
+      "artists": [
+        {
+          "name": "Life Line Hub",
+          "url": "https://open.spotify.com/artist/1VFGLQHXOKyzfPDf9FTcTx"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Hills of Calm",
+      "url": "https://open.spotify.com/track/42yklXVTId98yfwJdpIrjX"
+    },
+    {
+      "album": {
         "name": "In the Far Away Distance",
         "url": "https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS"
       },
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 254041,
       "name": "Lidia's Song",
       "url": "https://open.spotify.com/track/2cPfYDD11tZSALRgFBrAtK"
@@ -1003,6 +1021,24 @@
       "duration_ms": 190116,
       "name": "My Seven Feelings",
       "url": "https://open.spotify.com/track/5OOiY3O34bUYV2mHGcMGQW"
+    },
+    {
+      "album": {
+        "name": "Mystique Garden",
+        "url": "https://open.spotify.com/album/22vqrzMQgNuilRS25m08hL"
+      },
+      "artists": [
+        {
+          "name": "Baya Lakshmi",
+          "url": "https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Mystique Garden",
+      "url": "https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-59 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/5XoyP0YYwv6kZa4UxwFOYH)
+60 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/5XoyP0YYwv6kZa4UxwFOYH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Fossils \(From the "Ammonite" Soundtrack\)](https://open.spotify.com/track/4zssgPwXowdwLZaJujelvV) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Fossils \(From the "Ammonite" Soundtrack\)](https://open.spotify.com/album/2wNkJ0bZI6Zv92SPLxAmtz) | 5:40 | 2021-11-19 |  |
 | [Frank Gehry](https://open.spotify.com/track/7BaosKNwKG6icbPSpNPg2y) | [Mark Isham](https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI) | [A Family Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1oMmTmUhk9eAgaU2ls8gjz) | 2:13 | 2021-11-19 |  |
 | [Harry and Ginny](https://open.spotify.com/track/2iX2KVy2X2QEhTqx4ebOeO) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5gI4aiUCMxTkrjEeXDbybG) | 1:43 | 2021-11-19 |  |
+| [Hello Rocks \- from Hoa \- Original Soundtrack](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(from Hoa \- Original Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 | 2022-07-08 |  |
 | [Hollow in the Ferns](https://open.spotify.com/track/7ChcR1Vdev6qnpcELoU5tI) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 3:38 | 2021-11-19 |  |
 | [I Feel Alive](https://open.spotify.com/track/2GP6cPGsGLtiy99uJZ5ZL5) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [The Mountain Between Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4m1tneZGVaqxQ43cy3dP0p) | 2:39 | 2021-11-19 |  |
 | [I Remember My Name](https://open.spotify.com/track/65AGQ1piJE3BRpul7jEpip) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:13 | 2021-11-19 | 2022-05-28 |

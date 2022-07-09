@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Pictured Resort (Japan)",
-  "num_followers": 49589,
+  "num_followers": 49653,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIwNzkzMCwwMDAwMDRjMzAwMDAwMTgxZDk0YTNlYTUwMDAwMDE4MWQ3ZWZlNThk",
+  "snapshot_id": "MTY1NzI3MDY0NiwwMDAwMDRjNDAwMDAwMTgxZGQwNzM4OTUwMDAwMDE4MWQ3ZWZlNThk",
   "tracks": [
     {
       "added_at": "2022-07-07 15:32:10",
@@ -43,6 +43,22 @@
       "duration_ms": 253482,
       "name": "Dead (feat. Young Cocoa)",
       "url": "https://open.spotify.com/track/62z9xqVNOKn3yc7K3wbmxa"
+    },
+    {
+      "added_at": "2022-07-08 08:57:26",
+      "album": {
+        "name": "Shangri-La Is Calling",
+        "url": "https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "duration_ms": 274901,
+      "name": "Shangri-La Is Calling",
+      "url": "https://open.spotify.com/track/3mC9UEuISVfgymoY1YDTNn"
     },
     {
       "added_at": "2022-07-07 15:32:10",
@@ -159,22 +175,6 @@
     {
       "added_at": "2022-07-07 15:32:10",
       "album": {
-        "name": "Shangri-La Is Calling",
-        "url": "https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK"
-      },
-      "artists": [
-        {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
-        }
-      ],
-      "duration_ms": 231210,
-      "name": "\u81ea\u8aaa\u81ea\u8a71",
-      "url": "https://open.spotify.com/track/7iufo31RxYOcahPUWTkyMT"
-    },
-    {
-      "added_at": "2022-07-07 15:32:10",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd"
       },
@@ -235,6 +235,22 @@
       "duration_ms": 253955,
       "name": "I'd Better Be On Time - (bilibili & Disney\u300a\u6b63\u7fa9\u7684\u7b97\u6cd5\u300b\u63d2\u66f2) [A_LIVE PASS Session]",
       "url": "https://open.spotify.com/track/4RUC4ZpIkfni1EqiKW9Omu"
+    },
+    {
+      "added_at": "2022-07-07 15:32:10",
+      "album": {
+        "name": "Shangri-La Is Calling",
+        "url": "https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "duration_ms": 231210,
+      "name": "\u81ea\u8aaa\u81ea\u8a71",
+      "url": "https://open.spotify.com/track/7iufo31RxYOcahPUWTkyMT"
     },
     {
       "added_at": "2022-07-07 15:32:10",

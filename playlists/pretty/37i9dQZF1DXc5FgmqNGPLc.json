@@ -1,13 +1,29 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 2723,
+  "num_followers": 2729,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAxOTAwMDAwMTgxYjdlYzM3MzkwMDAwMDE3ZDlhNmU1YTBj",
+  "snapshot_id": "MTY1NzI1MjkyMCwwMDAwMDAxYTAwMDAwMTgxZGJmOGJiYjAwMDAwMDE3ZDlhNmU1YTBj",
   "tracks": [
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "What It Is (Live In Montreal - July 7, 1983)",
+        "url": "https://open.spotify.com/album/5iNscjGQmMygfbiWXJlpkx"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 405425,
+      "name": "What It Is - Live In Montreal - July 7, 1983",
+      "url": "https://open.spotify.com/track/5daKUVUo5FVbXv6TF6Ic5D"
+    },
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {

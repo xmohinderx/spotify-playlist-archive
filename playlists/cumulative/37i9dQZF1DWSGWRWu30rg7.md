@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Assia Keva\.  Artwork: Isu Kim.
 
-835 songs - 2 day 3 hr 12 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+836 songs - 2 day 3 hr 16 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Dance on Fire \(Meanor\)](https://open.spotify.com/track/026Q5fSp1paQUNj6aRCEUJ) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Dance on Fire \(Meanor\)](https://open.spotify.com/album/4Bwkslj7A4STvZob5sR9dD) | 3:13 | 2022-04-14 | 2022-05-06 |
 | [dancing on the sky](https://open.spotify.com/track/4CRDHRHfifcQVjF3MMyEN4) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [dancing on the sky](https://open.spotify.com/album/5M9uhbmsZFDqos3moGkzOo) | 1:58 | 2022-02-24 | 2022-03-11 |
 | [Dear My Past Self](https://open.spotify.com/track/1y30BXFAzlVilT0tFWl5Nz) | [Rose Mystica](https://open.spotify.com/artist/5VYj1fc8JdHU3BGpSw1hbf) | [Dear My Past Self](https://open.spotify.com/album/1MKLj5deYZzfUY5MLJzK6G) | 3:41 | 2022-01-06 | 2022-01-21 |
+| [DEJA VU](https://open.spotify.com/track/54uGhbPxHvcwaYpwkDAnL4) | [Chintana Jo](https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [Tintin](https://open.spotify.com/artist/79dBBbf22bLsxtklqr9x6y), [Victor Kong](https://open.spotify.com/artist/1wRDUXp3D3beKAcE5XxYdm), [Kitut](https://open.spotify.com/artist/0sARNVxRbF1f7xBM8OMP5q) | [DEJA VU](https://open.spotify.com/album/7uXQmMAkEPKSSXz36dqRim) | 4:04 | 2022-07-08 |  |
 | [Delusi](https://open.spotify.com/track/1gMgwVvU81kWOvMC0Kvgb3) | [Fiore](https://open.spotify.com/artist/1TDEP616aDu5Asf2xiXgOo) | [Delusi](https://open.spotify.com/album/0H2UeLTtA07tAE0Wqunjkv) | 2:21 | 2022-05-05 | 2022-05-20 |
 | [Demon](https://open.spotify.com/track/4Xw6Osef059Zg8blbuzkl5) | [Hello Bandito](https://open.spotify.com/artist/1WqcIgBWSAjA9PqznucsCO) | [Demon](https://open.spotify.com/album/0Rjv5SwrYVb28m9spLKHvk) | 1:56 | 2022-05-05 | 2022-05-20 |
 | [Denial](https://open.spotify.com/track/1WanRKS5mokJyuWKKjRrF0) | [Empatkata](https://open.spotify.com/artist/5vtVHtAvY1jf0L20GOqCy9) | [denial](https://open.spotify.com/album/1ktGoYXyqlvRa9GQKW1tiS) | 4:24 | 2022-02-24 | 2022-03-11 |

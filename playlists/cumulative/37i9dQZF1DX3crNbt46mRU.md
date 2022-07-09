@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Burna Boy
 
-2,217 songs - 4 day 17 hr 50 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+2,219 songs - 4 day 17 hr 57 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Auf Eis](https://open.spotify.com/track/1obpXlvNzz3P1n8xoSyU0H) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Auf Eis](https://open.spotify.com/album/6Nl8zstL4O3uigpet8f7O8) | 3:22 | 2022-05-26 | 2022-06-03 |
 | [AUF UND AB \(Das Isses\)](https://open.spotify.com/track/2Waj1oZ4UMz5x7jphlVzA7) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [AUF UND AB \(Das Isses\)](https://open.spotify.com/album/2Nen2YBIQw1rDeVZcFAOEk) | 3:34 | 2022-05-26 | 2022-06-03 |
 | [AUSMACHT](https://open.spotify.com/track/5EqNQy5SQgXIRQ86oYvUlf) | [Emilio](https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF) | [AUSMACHT](https://open.spotify.com/album/1l35wpORDxzKGwnsfWQnWv) | 2:28 | 2022-06-02 | 2022-06-10 |
+| [Ay Caramba](https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ay Caramba](https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv) | 2:44 | 2022-07-07 |  |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-03-03 | 2022-03-11 |
 | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt) | [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu) | 2:45 | 2022-03-18 | 2022-03-25 |
 | [B.A.M.](https://open.spotify.com/track/4zcvcmOQNzhIseuZyt4Jqe) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [B.A.M.](https://open.spotify.com/album/27tc3vusfciaqBm3j48Upx) | 3:00 | 2022-03-24 | 2022-04-01 |
@@ -1142,6 +1143,7 @@
 | [Liebeslied](https://open.spotify.com/track/5yf926Kfq9Wv2vGJ11hCn1) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Liebeslied](https://open.spotify.com/album/3xwdlG4DPUcouIA1Mg7IwV) | 2:42 | 2022-02-11 | 2022-02-18 |
 | [Liebi Passiert](https://open.spotify.com/track/14UNoU3Ueo1dI2ITDILn0P) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [So Easy](https://open.spotify.com/album/173JFXLv2b26aV5uRUn2Hu) | 3:30 | 2022-03-18 | 2022-03-25 |
 | [Lies](https://open.spotify.com/track/3uEANNW2BWmOjuywSPkzOm) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Lies](https://open.spotify.com/album/1la4Wtfa7TgvusC4h3P3AS) | 2:58 | 2022-03-31 | 2022-04-08 |
+| [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/album/6rdfmpRVrUn1B7Q8rSCHZj) | 3:17 | 2022-07-07 |  |
 | [Lifeline \(From “American Song Contest”\)](https://open.spotify.com/track/77m19SJU08mNTFKv34zl3j) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Lifeline \(From “American Song Contest”\)](https://open.spotify.com/album/0t4nQARgJq9noLU4tarlTY) | 2:42 | 2022-04-21 | 2022-04-29 |
 | [LIFT OFF](https://open.spotify.com/track/4ZmGrOJzyA5RWH4JMDLsJK) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [BEHIND THE SCENES](https://open.spotify.com/album/0isSvzdXojUdjCMvgM6VTK) | 2:53 | 2022-05-05 | 2022-05-13 |
 | [Light My Fire \(feat\. Gwen Stefani & Shenseea\)](https://open.spotify.com/track/1egbEbrblp5ujK8mABDl10) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Light My Fire](https://open.spotify.com/album/5LOqQ3f3DtEMKo8d7aOIXt) | 3:22 | 2022-05-26 | 2022-06-03 |

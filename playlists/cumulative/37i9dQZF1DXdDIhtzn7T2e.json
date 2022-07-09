@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Doobie Like U Do",
+        "url": "https://open.spotify.com/album/7An5o2NItPc19K3PsgtdSg"
+      },
+      "artists": [
+        {
+          "name": "Cannabis Cowboys",
+          "url": "https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227122,
+      "name": "Doobie Like U Do",
+      "url": "https://open.spotify.com/track/6KPERXy14OLEL1kFpunnvo"
+    },
+    {
+      "album": {
         "name": "Hot to Trot",
         "url": "https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh"
       },

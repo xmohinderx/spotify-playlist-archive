@@ -1298,6 +1298,24 @@
     },
     {
       "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/4GkK8XcF5cVOhfoa4Svqv6"
+      },
+      "artists": [
+        {
+          "name": "LUVT",
+          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Perseverance",
+      "url": "https://open.spotify.com/track/6yxNnfmwGWXJYx6lenH59s"
+    },
+    {
+      "album": {
         "name": "Salinas",
         "url": "https://open.spotify.com/album/36z6vlCjhfjbDAK5U1DokD"
       },

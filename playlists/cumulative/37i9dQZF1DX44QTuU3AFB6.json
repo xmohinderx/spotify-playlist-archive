@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 157506,
       "name": "Al Cien Y Pasadito",
       "url": "https://open.spotify.com/track/0skFLH6DHqdcmbAjl0LoE0"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 217283,
       "name": "As\u00ed Quer\u00eda Mirarte",
       "url": "https://open.spotify.com/track/1U0TaW2UNfdD8Hr5IEJXXv"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
@@ -728,6 +728,28 @@
     },
     {
       "album": {
+        "name": "Cuando El Destino (En Vivo)",
+        "url": "https://open.spotify.com/album/73VJ6EdbJk2MiFz89yxaHp"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227226,
+      "name": "Cuando El Destino - En Vivo",
+      "url": "https://open.spotify.com/track/6gHVZ6UcwgnoprIUUKZsQN"
+    },
+    {
+      "album": {
         "name": "Ya No Vives En M\u00ed",
         "url": "https://open.spotify.com/album/3GcFU0ICHxdr3rkWoRXcfE"
       },
@@ -847,7 +869,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 234480,
       "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
       "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
@@ -901,7 +923,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 180040,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY"
@@ -1651,7 +1673,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 230866,
       "name": "El Venadito",
       "url": "https://open.spotify.com/track/1LgRHcKeJz6ATJ8SPxWF85"
@@ -1843,7 +1865,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 155706,
       "name": "Estas Ganas de Tomar",
       "url": "https://open.spotify.com/track/7bEvMxjakpTmanjdG4B64e"
@@ -1879,7 +1901,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX"
@@ -2201,7 +2223,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 201600,
       "name": "Javier El De Los Llanos",
       "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
@@ -2291,7 +2313,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 170106,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
@@ -2385,7 +2407,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 168840,
       "name": "La N\u00famero 20",
       "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
@@ -2515,7 +2537,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 174373,
       "name": "Me Equivoqu\u00e9 Contigo",
       "url": "https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL"
@@ -2797,7 +2819,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 135200,
       "name": "Mi Estilo De Vida",
       "url": "https://open.spotify.com/track/7rmeGB7eg8aGo2SKy2e0KD"
@@ -3233,7 +3255,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
@@ -3381,7 +3403,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 204196,
       "name": "Que Falta Me Hace Mi Padre",
       "url": "https://open.spotify.com/track/75VmwRw5z4YEKk2eYXG0IC"
@@ -3501,7 +3523,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 241374,
       "name": "Quihubo Cuando - En Vivo",
       "url": "https://open.spotify.com/track/62r8ek1osvJmhBIJOFbihU"
@@ -3573,7 +3595,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 207453,
       "name": "Qu\u00e9 Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K"
@@ -3725,7 +3747,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 214880,
       "name": "Se Me Sigue Notando",
       "url": "https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T"
@@ -4093,7 +4115,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
@@ -4635,7 +4657,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 156253,
       "name": "\u00c1rboles De La Barranca",
       "url": "https://open.spotify.com/track/6cMoCUuDuM9qN4q91JazXu"

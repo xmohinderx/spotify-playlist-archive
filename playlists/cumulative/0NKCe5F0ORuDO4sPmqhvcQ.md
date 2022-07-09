@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-241 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+242 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2021-11-19 | 2022-01-08 |
 | [Riot \- Chahine Remix](https://open.spotify.com/track/1wDB8a4bZlnkbUmhJm0OE3) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Chahine](https://open.spotify.com/artist/0ffZOUG03CN6pw4ry7CJY9) | [Riot \(Chahine Remix\)](https://open.spotify.com/album/0QQaemw9727t0MirfAj56x) | 3:08 | 2022-03-09 |  |
 | [running back v2](https://open.spotify.com/track/35ux9cbSiFQvCMKF7v8J1z) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [running back v2](https://open.spotify.com/album/3UiLBW5hlvxEDAolwoWJUq) | 2:05 | 2022-02-28 | 2022-03-31 |
+| [Running Up That Hill](https://open.spotify.com/track/4dM5RiuTAMqpxMXUymNvom) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Running Up That Hill](https://open.spotify.com/album/4GZnxEVMdliCIS4fKUcYWa) | 2:38 | 2022-07-08 |  |
 | [sad4whattt \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sad4whattt \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS) | 1:58 | 2022-01-31 | 2022-02-16 |
 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 | 2022-02-15 | 2022-03-10 |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-02-10 | 2022-03-10 |

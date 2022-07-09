@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,774 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,805 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 49 | [BECØME THE FIRESTØRM](https://open.spotify.com/track/3EPgili2JS1ZR9LVMj05Rq) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ARRØWS IN WØRDS FRØM THE SKY](https://open.spotify.com/album/3161fhMWzGaExi9Dky5MlX) | 5:00 |
 | 50 | [American High](https://open.spotify.com/track/1sbM3pW8xKd2HKm9bosFF2) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 3:48 |
 
-Snapshot ID: `Mjc2MjAwNDAsMDAwMDAwMDBhOWZjMWU3NjgxNmQwODUzNDE4MDE0MzdiOTBjNWNlNg==`
+Snapshot ID: `Mjc2MjE1MzIsMDAwMDAwMDAyOGE1ZTMwZmNiOGI5Y2YzMWQ1NTYyNzJlMWI5YThlNA==`

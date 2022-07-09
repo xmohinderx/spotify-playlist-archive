@@ -1610,6 +1610,24 @@
     },
     {
       "album": {
+        "name": "What It Is (Live In Montreal - July 7, 1983)",
+        "url": "https://open.spotify.com/album/5iNscjGQmMygfbiWXJlpkx"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405425,
+      "name": "What It Is - Live In Montreal - July 7, 1983",
+      "url": "https://open.spotify.com/track/5daKUVUo5FVbXv6TF6Ic5D"
+    },
+    {
+      "album": {
         "name": "Live At The Lighthouse",
         "url": "https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ"
       },

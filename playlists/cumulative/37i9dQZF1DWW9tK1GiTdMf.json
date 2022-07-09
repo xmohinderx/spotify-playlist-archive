@@ -2160,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "Non \u00e8 facile",
+        "url": "https://open.spotify.com/album/0f78DOJtvjfSfez8fIiXCH"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Yung",
+          "url": "https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Non \u00e8 facile",
+      "url": "https://open.spotify.com/track/3H2WiDzrK0TPyANzwadVGs"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P"
       },

@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 148469,
       "name": "disaster",
       "url": "https://open.spotify.com/track/0l39wZwdO1xqIbw3DgGRxk"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 183232,
       "name": "echo - acoustic",
       "url": "https://open.spotify.com/track/7LB11knvxUwv6CAMRu42Dz"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 136480,
       "name": "Emotionless",
       "url": "https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 304106,
       "name": "evermore (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/3O5osWf1rSoKMwe6E9ZaXP"
@@ -1721,7 +1721,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 180363,
       "name": "Her",
       "url": "https://open.spotify.com/track/5czDKqPioLGfqZUERYxVZC"
@@ -3073,7 +3073,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 214100,
       "name": "Movies",
       "url": "https://open.spotify.com/track/3x7YsMwPnlXe51XWrwjo7g"
@@ -3408,6 +3408,24 @@
     },
     {
       "album": {
+        "name": "Oceans & Engines",
+        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
+    },
+    {
+      "album": {
         "name": "Oh Love",
         "url": "https://open.spotify.com/album/3LnydTYoQ2XGDZCCC6cOcn"
       },
@@ -3621,6 +3639,24 @@
       "duration_ms": 231251,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC"
+    },
+    {
+      "album": {
+        "name": "Post Party Trauma",
+        "url": "https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Post Party Trauma",
+      "url": "https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu"
     },
     {
       "album": {
@@ -3920,6 +3956,24 @@
     },
     {
       "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY"
+      },
+      "artists": [
+        {
+          "name": "Laura Marano",
+          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187105,
+      "name": "Smoke Alarm",
+      "url": "https://open.spotify.com/track/3DO4Uwb1rmC5vNntGSmTBI"
+    },
+    {
+      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -4195,7 +4249,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 163636,
       "name": "the reason i hate home",
       "url": "https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj"
@@ -4415,7 +4469,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 198439,
       "name": "unbreak",
       "url": "https://open.spotify.com/track/64QMCHiZCgKIq29dHhMScU"
@@ -4549,7 +4603,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 182958,
       "name": "we're not kids anymore",
       "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
@@ -4759,7 +4813,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 212713,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
@@ -4907,7 +4961,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 214000,
       "name": "You Wanted Me to Stay",
       "url": "https://open.spotify.com/track/0H0skF3IjqUeHNcHuQyLfy"

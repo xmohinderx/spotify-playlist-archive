@@ -4,7 +4,7 @@
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-95 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
+96 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Rebstock Fold](https://open.spotify.com/track/4APWyWpjQm3qPSpIwMvXJG) | [Francis Harris](https://open.spotify.com/artist/3pTGFfv4bHpC2MO7LS9S6W) | [Rebstock Fold](https://open.spotify.com/album/1mVCBO9JdLbv9cfQkrE9ci) | 5:31 | 2022-03-11 |  |
 | [REEL 2 PHASE 2](https://open.spotify.com/track/4UJk2NxHXGcpkjhzhqhVTl) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [REEL 2 PHASE 2](https://open.spotify.com/album/70kULFcLysFbSLj4YynEVG) | 5:22 | 2022-03-25 |  |
 | [Rest](https://open.spotify.com/track/6lwzPFFTgVWJq4YM9Cf6Ek) | [half light](https://open.spotify.com/artist/77kksV1as6x1oKGfoyYKfK) | [Rest](https://open.spotify.com/album/0j1VtChCYo7clU8Yz4Iohq) | 6:05 | 2022-03-25 |  |
+| [Revolving door](https://open.spotify.com/track/7giXEIu7MPLp0PpPkM6PUi) | [Raum](https://open.spotify.com/artist/6Qsrt0RPmIemQhHjCYDnCU) | [Daughter](https://open.spotify.com/album/6beHH4VPWefU6S7JzaXllj) | 6:42 | 2022-07-08 |  |
 | [River Faith](https://open.spotify.com/track/6NyW1PO1IPf46YjTeJd9sF) | [Marco Caricola](https://open.spotify.com/artist/5B8mOxjZeel228q1wNq0Cp), [Luca Longobardi](https://open.spotify.com/artist/3u2Sq4N5nNzSumzKsbZwDW) | [Aleas \(1\)](https://open.spotify.com/album/1CMsdpTA2lEiwE5bSsteol) | 4:14 | 2022-03-11 |  |
 | [Room To Room](https://open.spotify.com/track/2nL7PY2oT8TQFgmADUXSwu) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi), [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 3:08 | 2022-03-11 |  |
 | [Ruby Lights](https://open.spotify.com/track/6kOgyouykoatyTDUUHqkeb) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Eyes Like Angels](https://open.spotify.com/album/3peNyjBArdVRwfMNCY5UOP) | 6:39 | 2022-03-11 |  |

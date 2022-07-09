@@ -1134,6 +1134,24 @@
     },
     {
       "album": {
+        "name": "Idols",
+        "url": "https://open.spotify.com/album/4Pwno4xA9DPeAjnSnfymvK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Idols",
+      "url": "https://open.spotify.com/track/3PPG4ztHr3H9zST0fKOipQ"
+    },
+    {
+      "album": {
         "name": "Confessio - Irish American Roots",
         "url": "https://open.spotify.com/album/2WJ82jOdDTCssz6m04yMsS"
       },

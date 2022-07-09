@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-66 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
+67 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Boys From Oklahoma](https://open.spotify.com/track/3R2TX8QbAKYE6ldlrnirrY) | [Boys From Oklahoma](https://open.spotify.com/artist/71l8QhJo5TLQzFbGJursbf) | [Outlaw Trails](https://open.spotify.com/album/3xB5EwbkzW4gH1FlHnouQP) | 5:01 | 2021-04-20 |  |
 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 | 2021-04-20 |  |
 | [Don't Bogart Me \(aka Don't Bogart That Joint\)](https://open.spotify.com/track/68vd5D5TdaWui3lN9WBkXS) | [The Fraternity Of Man](https://open.spotify.com/artist/1e3oBLWpiu34xzdzOIdNzS) | [Easy Rider \(Music From The Soundtrack\)](https://open.spotify.com/album/53Eub84MQoBDpOV1KVNQaf) | 3:06 | 2021-04-20 |  |
+| [Doobie Like U Do](https://open.spotify.com/track/6KPERXy14OLEL1kFpunnvo) | [Cannabis Cowboys](https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB) | [Doobie Like U Do](https://open.spotify.com/album/7An5o2NItPc19K3PsgtdSg) | 3:47 | 2022-07-08 |  |
 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 | 2021-04-20 |  |
 | [Easy on the Trigger](https://open.spotify.com/track/1MG6WgoUuXCaPIWMqOQqn6) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Easy on the Trigger](https://open.spotify.com/album/3ZyvR4UtdxgvNx9gllISB9) | 2:33 | 2021-11-26 |  |
 | [Electric Bill](https://open.spotify.com/track/61euBDYvR2Pp9pjggyeLTc) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Dark & Dirty Mile](https://open.spotify.com/album/21iBaD9BflnoP75s2bP0MO) | 3:15 | 2021-04-20 |  |

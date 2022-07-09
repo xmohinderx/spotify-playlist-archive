@@ -1548,6 +1548,32 @@
     },
     {
       "album": {
+        "name": "Schubert: Symphonies Nos. 8 \"Unfinished\" & 9 \"The Great\"",
+        "url": "https://open.spotify.com/album/7HYWPIMMrG70Ub1AQ2iorC"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 910491,
+      "name": "Symphony No. 9 in C Major, D. 944 \"The Great\": III. Scherzo. Allegro vivace",
+      "url": "https://open.spotify.com/track/5T6Y0sFRBDF2LxfGGo90Zc"
+    },
+    {
+      "album": {
         "name": "Schubert: Trout Quintet",
         "url": "https://open.spotify.com/album/5tw1KLShas6aNfrgdYmQJb"
       },

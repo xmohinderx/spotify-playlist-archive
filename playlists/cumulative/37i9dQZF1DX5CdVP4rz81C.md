@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: David Kushner
 
-848 songs - 1 day 20 hr 41 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+850 songs - 1 day 20 hr 48 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [remember the mornings](https://open.spotify.com/track/27kcZEJvhkb1rzZS9gCpdA) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [remember the mornings](https://open.spotify.com/album/64FL2oQINZPAIfz3axVOU7) | 3:22 | 2020-11-27 | 2021-02-22 |
 | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/album/4kD0pFwhEjEiF9pwUwkpNo) | 4:14 | 2021-07-04 | 2021-08-21 |
 | [Retail Therapy](https://open.spotify.com/track/1lCgCLr0V3xh6TtQTNvdfn) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Retail Therapy](https://open.spotify.com/album/2qNeHIU6USVlEhnx2h7Rvc) | 3:01 | 2021-02-12 | 2021-04-30 |
+| [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-08 |  |
 | [rocket science](https://open.spotify.com/track/55cwGtYrExG7slEAor5jeR) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [rocket science](https://open.spotify.com/album/2AnbP606iCAadKQyqfxq32) | 2:32 | 2021-11-13 | 2022-02-12 |
 | [Roots](https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Roots](https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ) | 2:50 | 2021-02-26 | 2021-03-26 |
 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 | 2021-01-21 | 2021-04-10 |
@@ -629,6 +630,7 @@
 | [Runaway](https://open.spotify.com/track/6h8oeJ62qCY0aThaKzQZqg) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Runaway](https://open.spotify.com/album/2wDZg4ltJv3MCyK1svvdQD) | 2:55 | 2020-12-04 | 2021-03-06 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-10-23 | 2021-12-09 |
 | [Sad Anymore](https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Sad Anymore](https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc) | 2:10 | 2022-05-27 | 2022-06-11 |
+| [Sad Baby](https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B) | [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Sad Baby](https://open.spotify.com/album/1MMgsQcs2mV3XalOFcJIo9) | 3:38 | 2022-07-08 |  |
 | [sad girl](https://open.spotify.com/track/7cSLuynax4DXSi9G28wPXk) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [sad girl](https://open.spotify.com/album/355E5k9ID462ORMpbbFTe2) | 3:32 | 2022-06-24 |  |
 | [Sad Sad Sad](https://open.spotify.com/track/3WBrVcz2iXxnQpEso12Wnw) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Sad Sad Sad](https://open.spotify.com/album/4wDEYOS2vH4j3T7SOdJKAq) | 3:01 | 2021-08-14 | 2021-09-11 |
 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 | 2022-02-25 | 2022-04-23 |

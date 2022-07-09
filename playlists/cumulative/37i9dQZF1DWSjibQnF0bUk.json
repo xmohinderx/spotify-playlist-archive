@@ -854,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
       },
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Commander",
       "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 179775,
       "name": "Dumebi",
       "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 152941,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5ba4KjrBg1k5KYZjYx0UVZ"
@@ -1799,7 +1817,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 337028,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/7CrIYL4F8zpXm7bwhXUkxM"
@@ -2139,7 +2157,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 216428,
       "name": "Kilofese - Remix",
       "url": "https://open.spotify.com/track/56zrSYTUQR8iiFShUQqPRe"
@@ -2157,7 +2175,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 165000,
       "name": "Kilofeshe",
       "url": "https://open.spotify.com/track/6vg6CHlcsjLXCDKZHYtzwd"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 135482,
       "name": "Man Of The Year",
       "url": "https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 223967,
       "name": "REQUIRE (with Olamide)",
       "url": "https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD"
@@ -3519,7 +3537,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"

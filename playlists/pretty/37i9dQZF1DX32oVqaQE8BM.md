@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,501 likes - 184 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,548 likes - 184 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 183 | [Castles of Lanterna](https://open.spotify.com/track/2aPFYht1z7oVS6MzkVdkik) | [Myriad of Trees](https://open.spotify.com/artist/1jQMcRz0UCaTN63mFIPdOF) | [Sootbird](https://open.spotify.com/album/1MwYQvWmQZwT5uljVPRlV2) | 2:36 |
 | 184 | [Fruity Flavor](https://open.spotify.com/track/4a5zK2frFoJIH7MsJvC7Lp) | [Gaura](https://open.spotify.com/artist/4Zv99UKFFZKDVl2OsQS7Vp) | [ENGL](https://open.spotify.com/album/1TlcUSr83vfKHkQ2RCsnWI) | 1:52 |
 
-Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDBjZDAwMDAwMTgxZGIxYjJjYzQwMDAwMDE2ZDE1MGQyMTRj`
+Snapshot ID: `MTY1NzI3ODE0OSwwMDAwMDBjZTAwMDAwMTgxZGQ3OWIzMWMwMDAwMDE4MWRkNzk4OTYy`

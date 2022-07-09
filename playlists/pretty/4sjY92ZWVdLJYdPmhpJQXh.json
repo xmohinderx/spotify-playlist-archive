@@ -6,8 +6,52 @@
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "NDIxMyxkNmIwZGE0ZjQ4ZDhjNjYxYzViNzJhNDk1MGZmMzFiMzYxNThmZmRm",
+  "snapshot_id": "NDI2NSxmODgyNGY3Y2M3ZjcxNmQ5YzJhNjcyZmRmNWU4NmFiNjE2ZmJmOTc3",
   "tracks": [
+    {
+      "added_at": "2022-07-08 15:12:58",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+    },
+    {
+      "added_at": "2022-07-08 15:06:27",
+      "album": {
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+    },
     {
       "added_at": "2022-06-10 15:30:30",
       "album": {
@@ -39,6 +83,42 @@
       "duration_ms": 218306,
       "name": "Catalonia",
       "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
+    },
+    {
+      "added_at": "2022-07-08 15:32:59",
+      "album": {
+        "name": "deep in the woods",
+        "url": "https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "deep in the woods",
+      "url": "https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h"
+    },
+    {
+      "added_at": "2022-07-08 15:17:24",
+      "album": {
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2022-06-10 15:30:47",
@@ -75,6 +155,26 @@
       "duration_ms": 210000,
       "name": "Intro",
       "url": "https://open.spotify.com/track/616GCCMUU7QADlWJIYFfOl"
+    },
+    {
+      "added_at": "2022-07-08 15:18:48",
+      "album": {
+        "name": "All Dz Chainz (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/6lXYbUYhqxR56YlzPe8NxW"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "All Dz Chainz (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/6f8nS2g21RNEL7gNG4WJVT"
     },
     {
       "added_at": "2022-06-10 15:30:15",
@@ -139,6 +239,26 @@
       "duration_ms": 254725,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/3jAj05GZHIGVkJTA4WRau5"
+    },
+    {
+      "added_at": "2022-07-08 15:28:04",
+      "album": {
+        "name": "Up N Stuck (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/37CvkyPQ2CmhJm6C4L6n5g"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 193970,
+      "name": "Up N Stuck (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/58pNnGL8WQNamdfN6Q9SbH"
     },
     {
       "added_at": "2022-06-10 15:32:00",
@@ -303,6 +423,22 @@
       "duration_ms": 262320,
       "name": "break the curse",
       "url": "https://open.spotify.com/track/3tO2uomNS80bwIzfYA0fZA"
+    },
+    {
+      "added_at": "2022-05-13 14:49:58",
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-06-03 14:33:43",
@@ -476,7 +612,7 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 158486,
+      "duration_ms": 157685,
       "name": "for the girls",
       "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
     },
@@ -543,6 +679,22 @@
       "duration_ms": 173637,
       "name": "Give You Love",
       "url": "https://open.spotify.com/track/0H4yyuVRMIXT9hkDZMc6D6"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 200105,
+      "name": "Children Of The Stars",
+      "url": "https://open.spotify.com/track/63V1zBOx4IP2Z91EOHYNtc"
     },
     {
       "added_at": "2022-05-20 14:54:36",
@@ -617,22 +769,6 @@
       "url": "https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG"
     },
     {
-      "added_at": "2022-05-13 14:49:58",
-      "album": {
-        "name": "Last Last",
-        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
-    },
-    {
       "added_at": "2022-05-13 14:50:54",
       "album": {
         "name": "Roman Candles",
@@ -647,6 +783,22 @@
       "duration_ms": 130106,
       "name": "Roman Candles",
       "url": "https://open.spotify.com/track/6jIrbJ5w2KfkLsk3LiGTOW"
+    },
+    {
+      "added_at": "2022-07-08 15:22:46",
+      "album": {
+        "name": "When It's Too Good",
+        "url": "https://open.spotify.com/album/48NnCIQkK1iJkYxEbHF3f0"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk"
+        }
+      ],
+      "duration_ms": 193233,
+      "name": "Don't Stay Too Long",
+      "url": "https://open.spotify.com/track/6lxyJqgQwCO1HtOcy90vFj"
     },
     {
       "added_at": "2022-05-13 14:50:11",
@@ -1169,6 +1321,22 @@
       "url": "https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6"
     },
     {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 233779,
+      "name": "Petrified In Love",
+      "url": "https://open.spotify.com/track/4aIWisH2SZugl5V73hXJUr"
+    },
+    {
       "added_at": "2022-04-29 13:08:15",
       "album": {
         "name": "Sunflower: Deluxe",
@@ -1219,6 +1387,22 @@
       "duration_ms": 145547,
       "name": "DADDY ISSUES",
       "url": "https://open.spotify.com/track/2CuZa66yQSugnSois0olvc"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 230329,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E"
     },
     {
       "added_at": "2022-04-29 13:04:44",
@@ -1307,6 +1491,22 @@
       "duration_ms": 109788,
       "name": "Vaderz (feat. Bktherula)",
       "url": "https://open.spotify.com/track/7qUqxnNtlBgeo8h5yzVd19"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 151873,
+      "name": "Stranded Words (Interlude)",
+      "url": "https://open.spotify.com/track/2AsXxSJxejFW9c5QqUHiOb"
     },
     {
       "added_at": "2022-04-25 16:21:31",
@@ -1449,6 +1649,22 @@
       "url": "https://open.spotify.com/track/5KcZNsrl7PMIxJ2xBbTwH3"
     },
     {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 221245,
+      "name": "Through The Echoes",
+      "url": "https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC"
+    },
+    {
       "added_at": "2022-04-15 14:06:44",
       "album": {
         "name": "Let Me Down Easy (Lie)",
@@ -1513,6 +1729,22 @@
       "url": "https://open.spotify.com/track/3MLq7vHvOlbKPKvQK9m3Gi"
     },
     {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 351108,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/6yLPztLhBPhPCF9K9GBx5c"
+    },
+    {
       "added_at": "2022-04-15 14:06:58",
       "album": {
         "name": "COMPLICATED (feat. aldn & 8485)",
@@ -1573,6 +1805,22 @@
       "url": "https://open.spotify.com/track/1YLu1GZtNv1j7PkbvRxz1Q"
     },
     {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 215024,
+      "name": "Desperation",
+      "url": "https://open.spotify.com/track/1dFwtLMS2qCwQB7jQ8xWbA"
+    },
+    {
       "added_at": "2022-04-15 14:07:17",
       "album": {
         "name": "blah blah blah",
@@ -1619,6 +1867,22 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 262871,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
       "added_at": "2022-04-08 17:46:26",
@@ -1749,6 +2013,22 @@
       "url": "https://open.spotify.com/track/3FcsP46yuD5OhisPkp0jFT"
     },
     {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 317400,
+      "name": "Heart Filled Up",
+      "url": "https://open.spotify.com/track/7JjopiZFPvyS7o7lIAI4qz"
+    },
+    {
       "added_at": "2022-04-08 17:47:16",
       "album": {
         "name": "Stuck In My Ways (feat. Blueface)",
@@ -1819,6 +2099,434 @@
       "duration_ms": 134279,
       "name": "Letter To Ur N(ex)t",
       "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 245013,
+      "name": "Afterneath",
+      "url": "https://open.spotify.com/track/7j9kqWrBc4XFy7r5rRhLDQ"
+    },
+    {
+      "added_at": "2022-07-08 15:16:58",
+      "album": {
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 273349,
+      "name": "Acid Eyes",
+      "url": "https://open.spotify.com/track/6LTQO44rCg2mNQckEJdrSF"
+    },
+    {
+      "added_at": "2022-07-08 15:18:19",
+      "album": {
+        "name": "Miss America",
+        "url": "https://open.spotify.com/album/61Es52Ztb8rT01ai0PEo8W"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 172702,
+      "name": "Miss America",
+      "url": "https://open.spotify.com/track/5MuTVJ2ShxMA96buyVCEpP"
+    },
+    {
+      "added_at": "2022-07-08 15:19:32",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "added_at": "2022-07-08 15:19:57",
+      "album": {
+        "name": "What I Want (feat. Jacquees)",
+        "url": "https://open.spotify.com/album/35SGTgFnncFTZQ4RJyFfoU"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "What I Want (feat. Jacquees)",
+      "url": "https://open.spotify.com/track/00E8NOIw0fzADMNrzyQfEY"
+    },
+    {
+      "added_at": "2022-07-08 15:20:19",
+      "album": {
+        "name": "Never End Up Broke",
+        "url": "https://open.spotify.com/album/540ZUOz3g4xw4mokGA0R4K"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        }
+      ],
+      "duration_ms": 162415,
+      "name": "Never End Up Broke",
+      "url": "https://open.spotify.com/track/05DZcUyOZDX4OR2mc1RIrg"
+    },
+    {
+      "added_at": "2022-07-08 15:20:37",
+      "album": {
+        "name": "sleepwalking",
+        "url": "https://open.spotify.com/album/41eAihxq73pTaEwi28tOrr"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 174437,
+      "name": "sleepwalking",
+      "url": "https://open.spotify.com/track/1F5MHbpTOrsbTxmMkNs5b3"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 330672,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ"
+    },
+    {
+      "added_at": "2022-07-08 15:20:54",
+      "album": {
+        "name": "Crazy What Love Can Do",
+        "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Crazy What Love Can Do",
+      "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "added_at": "2022-07-08 15:21:21",
+      "album": {
+        "name": "Crazy What Love Can Do (with Becky Hill) [\u00d6wnboss Remix]",
+        "url": "https://open.spotify.com/album/69IqzaBTW4Ok0UzGFOJfhb"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 156749,
+      "name": "Crazy What Love Can Do (with Becky Hill) [\u00d6wnboss Remix]",
+      "url": "https://open.spotify.com/track/0UV1xzcuNfWs4fWc8ZsB3Y"
+    },
+    {
+      "added_at": "2022-07-08 15:22:30",
+      "album": {
+        "name": "Victoria\u2019s Secret",
+        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Victoria\u2019s Secret",
+      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 356254,
+      "name": "Shine A Light",
+      "url": "https://open.spotify.com/track/2TKbUrwgNWfZ7shMZqvfZC"
+    },
+    {
+      "added_at": "2022-07-08 15:24:07",
+      "album": {
+        "name": "Feel It (Mark Maxwell Remix)",
+        "url": "https://open.spotify.com/album/5J4xdyjkRJN2gj4Mk9ERzK"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        },
+        {
+          "name": "Mark Maxwell",
+          "url": "https://open.spotify.com/artist/1yOjThq2IWrVGP3a2i0Ug7"
+        }
+      ],
+      "duration_ms": 186663,
+      "name": "Feel It - Mark Maxwell Remix",
+      "url": "https://open.spotify.com/track/2RHan5mYxohE6ss9S8P2ou"
+    },
+    {
+      "added_at": "2022-07-08 15:24:22",
+      "album": {
+        "name": "Slidin' (BADDIES ONLY Remix)",
+        "url": "https://open.spotify.com/album/1vILcJFs6kxZmdiAxTWF3s"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 173408,
+      "name": "Slidin' - BADDIES ONLY Remix",
+      "url": "https://open.spotify.com/track/6Xi23f6UAZDcsMSGML8Tb6"
+    },
+    {
+      "added_at": "2022-07-08 15:24:46",
+      "album": {
+        "name": "Since 91 (feat. $LUGG)",
+        "url": "https://open.spotify.com/album/1xNjebhLSg4XXs7iDT8Vgj"
+      },
+      "artists": [
+        {
+          "name": "Sonny Digital",
+          "url": "https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL"
+        },
+        {
+          "name": "$lugg",
+          "url": "https://open.spotify.com/artist/6qBEAm67lFVJIqPdWnLZA3"
+        }
+      ],
+      "duration_ms": 174392,
+      "name": "Since 91 (feat. $LUGG)",
+      "url": "https://open.spotify.com/track/3vsHHMdo734N08AcJ7bzrq"
+    },
+    {
+      "added_at": "2022-07-08 15:25:16",
+      "album": {
+        "name": "improvisations",
+        "url": "https://open.spotify.com/album/1GCFt2v3up4r5GviI7ddCM"
+      },
+      "artists": [
+        {
+          "name": "linanthem",
+          "url": "https://open.spotify.com/artist/0HrxevJVGTEFBWFfAc88H3"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "duration_ms": 133463,
+      "name": "improvisations",
+      "url": "https://open.spotify.com/track/3qGpDDgmPTykqFyzMzCXKW"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "Julianne",
+      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 411185,
+      "name": "Take Me Take Mine",
+      "url": "https://open.spotify.com/track/2soOvBiMJMqSGgCcQ9kYYU"
+    },
+    {
+      "added_at": "2022-07-08 15:25:59",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 241502,
+      "name": "Writer",
+      "url": "https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey"
+    },
+    {
+      "added_at": "2022-07-08 15:26:46",
+      "album": {
+        "name": "Step Mom",
+        "url": "https://open.spotify.com/album/6KTdmgQ3PwBVgZfc6j2R8I"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "duration_ms": 214754,
+      "name": "Step Mom",
+      "url": "https://open.spotify.com/track/33yL9mCGvvVCjLKCZsnm1w"
+    },
+    {
+      "added_at": "2022-07-08 15:27:24",
+      "album": {
+        "name": "Sausalito",
+        "url": "https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Leggs",
+          "url": "https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5"
+        }
+      ],
+      "duration_ms": 170892,
+      "name": "Sausalito",
+      "url": "https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ"
+    },
+    {
+      "added_at": "2022-07-08 15:28:35",
+      "album": {
+        "name": "Don\u2019t Be A Hero",
+        "url": "https://open.spotify.com/album/5yOQsrhMwlGln8nOCGLXgS"
+      },
+      "artists": [
+        {
+          "name": "Kateel",
+          "url": "https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT"
+        }
+      ],
+      "duration_ms": 182543,
+      "name": "Don\u2019t Be A Hero",
+      "url": "https://open.spotify.com/track/1z4Drt5NPoDom7DrtulyZ6"
+    },
+    {
+      "added_at": "2022-07-08 15:33:36",
+      "album": {
+        "name": "A Memory Away",
+        "url": "https://open.spotify.com/album/5GfFGaxHa3h2YMjorHYNG8"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "A Memory Away",
+      "url": "https://open.spotify.com/track/38Oho2Ycl7SCjEBr83qzyV"
     }
   ],
   "unique_name": "Atlantic Records: Presents",

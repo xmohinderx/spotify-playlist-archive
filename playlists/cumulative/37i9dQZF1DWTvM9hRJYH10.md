@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Tanner Adell
 
-197 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+199 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Push & Pull](https://open.spotify.com/track/4cMGt04mMdpCq7LyNuOYzr) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Push & Pull](https://open.spotify.com/album/3E0XbQUeBsXhsRDHrLxS4X) | 3:07 | 2021-12-31 |  |
 | [Reckless](https://open.spotify.com/track/1rnvSdz7bj6yZzyUeNqTkp) | [Johnny Gates](https://open.spotify.com/artist/2qwlFTAV2LVhQ01ljAyWJz) | [Reckless](https://open.spotify.com/album/5hzqphd8wma3P9ika7i6Yn) | 2:58 | 2021-12-31 | 2022-02-12 |
 | [Red Flags](https://open.spotify.com/track/5yJ0jhZV0YXAzQ6ylZgj6i) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Red Flags](https://open.spotify.com/album/53wuYCjfggJsrAKAHFDdCx) | 2:34 | 2022-03-18 |  |
+| [Reverse](https://open.spotify.com/track/2T6vymk0i2Pd5pli788DSQ) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Reverse](https://open.spotify.com/album/67gR6ME2xaUHnG5dC7t3qk) | 3:41 | 2022-07-08 |  |
 | [Rhinestone Ring](https://open.spotify.com/track/2j4ap81Wqs3VmNWBg3tAt8) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Rhinestone Ring](https://open.spotify.com/album/17oU8IlYEwDF946GBffGp1) | 3:25 | 2021-12-31 | 2022-02-12 |
 | [Ride Or Die](https://open.spotify.com/track/4rvxfxUrgh0KkPrbJl7KdK) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Ride Or Die](https://open.spotify.com/album/6PQUKlA0vXV9tYRmb1Qk15) | 3:11 | 2021-12-31 | 2022-02-12 |
 | [Right Now](https://open.spotify.com/track/5ck3G7eGFtScipscku8Q8t) | [Caleb Lovely](https://open.spotify.com/artist/588OniOrJFEKU5hWUDJ6V7) | [Right Now](https://open.spotify.com/album/35CLVsyK08NxxZxxwQEmu9) | 3:02 | 2022-01-07 |  |
@@ -196,6 +197,7 @@
 | [We'll Be](https://open.spotify.com/track/6nf5AVgf4Y4N9d21dolwpB) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [We'll Be](https://open.spotify.com/album/5VbKG5rT9ElKh5Qh0xS8NI) | 3:47 | 2021-12-31 |  |
 | [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 | 2022-05-13 |  |
 | [What I'm Missing](https://open.spotify.com/track/66GQoMh8QwUD8ogFEX2xxD) | [Tarrah](https://open.spotify.com/artist/7wAd2gJo5Hr8WUUgRiLu6l) | [What I'm Missing](https://open.spotify.com/album/5KBJHtly6fuSycf8Hou4mm) | 4:07 | 2021-12-31 | 2022-02-12 |
+| [When It Wasn't](https://open.spotify.com/track/2T4lQflLAaLiyXe4nVLAFL) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [When It Wasn't](https://open.spotify.com/album/0fhQxTXDGEB3ahvmWLas0W) | 2:49 | 2022-07-08 |  |
 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2021-12-31 |  |
 | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/track/0Mb7cQgxUHG1sv942JKRQN) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB), [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/album/0oQTz1ECewqKTOYgkWbiIN) | 3:18 | 2022-04-22 |  |
 | [Why Can't You](https://open.spotify.com/track/35tF9YJnXqZqX0MFlGxKoN) | [Chance Tomke](https://open.spotify.com/artist/2wysL0FCBKVYBXk9seETxb) | [Why Can't You](https://open.spotify.com/album/4MTKjn8evMgQ6aSlUV2gOf) | 3:29 | 2022-02-18 |  |

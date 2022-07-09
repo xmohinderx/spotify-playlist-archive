@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-145 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+146 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Staying Safe](https://open.spotify.com/track/3uokV7euVTekwkO5SzFpnK) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Staying Safe](https://open.spotify.com/album/60dIOyOzwfUnHjnanDTQaZ) | 3:18 | 2022-03-21 |  |
 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 | 2022-03-21 |  |
 | [Sum Of The Parts](https://open.spotify.com/track/1eaeklJFnNjG203g72IKuj) | [Dana Kiley](https://open.spotify.com/artist/0o3CUUalrv4PcKlVTcUvBO) | [Sum Of The Parts](https://open.spotify.com/album/3JMRUEN6Mq7BxBotzuyPue) | 2:18 | 2022-03-21 |  |
+| [Summer](https://open.spotify.com/track/3LVfGCqen57RXIKj8Baen5) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Summer](https://open.spotify.com/album/7elTnjhpbDAbtO2LYKdd1f) | 2:47 | 2022-07-08 |  |
 | [Summer Memories](https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:47 | 2022-03-21 |  |
 | [Surging Shapes](https://open.spotify.com/track/1CAk7eIlboHJ3FfmGeSzlV) | [Lea Ardella](https://open.spotify.com/artist/0I5BqWqbu0DEpAgepIodnm) | [Surging Shapes](https://open.spotify.com/album/28GVLis8M4eYoMCxbXTgis) | 2:54 | 2022-03-21 |  |
 | [Surrender](https://open.spotify.com/track/2XT3IIDjd9ve1bHoavN1L6) | [Frozen Forests](https://open.spotify.com/artist/3JMKuMIkqPhpsXO0nAUhs9) | [Elevate](https://open.spotify.com/album/3Jr1NEoQbFZ9xi1fYa4Fq6) | 3:32 | 2022-03-21 |  |

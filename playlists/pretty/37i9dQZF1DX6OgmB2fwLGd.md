@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > "Hey bel, la bastichi\. La papaya, du la potato" Cover: Minions
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,055 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,285 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 12 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 |
 | 13 | [EA \(feat\. 21 Savage\)](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [SlimeBall 2](https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t) | 3:47 |
 | 14 | [Cracked \(I’m Him 2\)](https://open.spotify.com/track/4NwPP9NVYwY5jc66hnaOls) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Cracked \(I’m Him 2\)](https://open.spotify.com/album/7qEGRLbCBK2GrhJF1BRtbE) | 1:41 |
-| 15 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 |
+| 15 | [Escape From BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape From BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 |
 | 16 | [THROUGH 2 U](https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [THROUGH 2 U](https://open.spotify.com/album/6QoH3WybTsxVHKcXC8vsUv) | 2:41 |
 | 17 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
 | 18 | [so silly !](https://open.spotify.com/track/4AAU9Fg5uQqq8OkmhxSxIm) | [Koto.](https://open.spotify.com/artist/7BhOIxOt4a0uyyIu6zJYef) | [so silly !](https://open.spotify.com/album/1Rudga8yVbJbBsFkuKF2YI) | 1:43 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 49 | [Dub](https://open.spotify.com/track/2Ocbja3GNcxq9Ualmmvfc1) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:33 |
 | 50 | [You Know?, Pt\. 3](https://open.spotify.com/track/6n6TnyJwc10q07Jer3KILk) | [Crimsons Red](https://open.spotify.com/artist/5AYeIJIU09BXFjZEyDujtB) | [Rated Lux Diss](https://open.spotify.com/album/1Qz4SNMAW5N5OhQGGrDr51) | 1:20 |
 | 51 | [waY bacK wheN](https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [wheN iT rainS iT pourS](https://open.spotify.com/album/53zUIw0vdPLw5YhMwFBeWU) | 2:57 |
-| 52 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 |
+| 52 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/3ikrlJEBBbY0BOfxOn59Bc), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 |
 | 53 | [euphoria](https://open.spotify.com/track/4O9icaX9uwFqdFm9DmC26Q) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF), [Specxfic](https://open.spotify.com/artist/5PbXje7x8DoKod3J9NB2Ex) | [euphoria](https://open.spotify.com/album/15BsUDpzIMTzlN6cEwqoEq) | 2:49 |
 | 54 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 |
 | 55 | [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 76 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 |
 | 77 | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/track/6foIbQlxDlg5RzMqY0uOwR) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/album/0K5ueKr5c9ZBfkl3kHNR9v) | 2:52 |
 | 78 | [Jesus Forgive Me, I Am A Thot](https://open.spotify.com/track/4odoLyHnSx2jIcXs16IvsV) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [All My Heroes Are Cornballs](https://open.spotify.com/album/5ilsl5R2lGACTnPZMKIp7o) | 2:36 |
-| 79 | [Antisocial \(feat\. Slump6s\)](https://open.spotify.com/track/4KBJ6dFxtup8Ku4uQZcPQ8) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Antisocial](https://open.spotify.com/album/5XOo1c28e4YMxp4uLh70qS) | 2:55 |
+| 79 | [Antisocial \(feat\. Slump6s\)](https://open.spotify.com/track/4KBJ6dFxtup8Ku4uQZcPQ8) | [tana](https://open.spotify.com/artist/3ikrlJEBBbY0BOfxOn59Bc), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Antisocial](https://open.spotify.com/album/5XOo1c28e4YMxp4uLh70qS) | 2:55 |
 | 80 | [Yale](https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:46 |
 | 81 | [IMAGO DEI](https://open.spotify.com/track/6zl1eXulHnfWYmiJTNW4eW) | [WELL$](https://open.spotify.com/artist/0LHzh8WdqxdtnTzp0XIOyZ) | [IMAGO DEI](https://open.spotify.com/album/0AjBEA9BMwFZ1z86QvoeID) | 2:20 |
 | 82 | [R4C3 v2](https://open.spotify.com/track/0e8U84GGgAy1UXnProZStf) | [Klay Kamikaze](https://open.spotify.com/artist/4r9OHTmYQipOKI3GrZv9ck), [Grayicu](https://open.spotify.com/artist/11Nui3qCc6rsGcQ8mqHZDn), [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ) | [R4C3 v2](https://open.spotify.com/album/4WuL6wXYW1uUgEOb73Egj9) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [middle](https://open.spotify.com/track/2F8YuzhSMZHq1rKv3VgnRb) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [middle](https://open.spotify.com/album/1C8prJTb4QpG6J5Vjr9li6) | 2:22 |
 | 100 | [ANXIETY](https://open.spotify.com/track/3hyLwD3Z23VDx2SXRdEg9B) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 2:16 |
 
-Snapshot ID: `MTY1NzIyMzYyMywwMDAwMDM0OTAwMDAwMTgxZGEzOWIyMDUwMDAwMDE4MWQ5MGVhNTRj`
+Snapshot ID: `MTY1NzI5NjE2MSwwMDAwMDM0YTAwMDAwMTgxZGU4YzhhNzkwMDAwMDE4MWQ5MGVhNTRj`

@@ -1860,6 +1860,24 @@
     },
     {
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/2Y3dHOjEIxYumXA17T7QDH"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2JgciX6HkDVwRAU8e8VmR6"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4IU5ADOJ9DnVa9clXVhrEE"
       },
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 188200,
       "name": "No Games",
       "url": "https://open.spotify.com/track/3WU2blK7YBcugEEU9CATvF"

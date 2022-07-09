@@ -1,32 +1,56 @@
 {
-  "description": "Chillout hip-hop vibes. Cover: Logic",
-  "num_followers": 1093825,
+  "description": "Chillout hip-hop vibes. Cover: Lupe Fiasco",
+  "num_followers": 1094184,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUzNTMxNCwwMDAwMDFhODAwMDAwMTgxYjEzMmYyMTEwMDAwMDE4MTI1NGZhNWNi",
+  "snapshot_id": "MTY1NzI1MzAxOSwwMDAwMDFhOTAwMDAwMTgxZGJmYTQwM2IwMDAwMDE4MWI2YWEzNWY5",
   "tracks": [
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 309327,
-      "name": "Churchill Downs (feat. Drake)",
-      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 282581,
+      "name": "Vinyl Days (feat. DJ Premier)",
+      "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
     },
     {
       "added_at": "2022-06-29 20:41:54",
@@ -55,30 +79,6 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "WAIT FOR U (feat. Drake & Tems)",
-      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
         "name": "Cooped Up",
         "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
       },
@@ -95,6 +95,22 @@
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
+    },
+    {
+      "added_at": "2022-04-22 04:22:12",
+      "album": {
+        "name": "learn 2 swim",
+        "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "pg baby",
+      "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
     },
     {
       "added_at": "2022-06-29 20:41:54",
@@ -117,6 +133,42 @@
       "url": "https://open.spotify.com/track/06r4k5ncgrDmgrf9mlncR4"
     },
     {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 309327,
+      "name": "Churchill Downs (feat. Drake)",
+      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2022-07-08 04:03:39",
+      "album": {
+        "name": "Peace \"Fly\" God",
+        "url": "https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "Derrick Boleman",
+      "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
+    },
+    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "True Love",
@@ -137,40 +189,24 @@
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-04-29 04:30:50",
       "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
+        "name": "From The District To The World",
+        "url": "https://open.spotify.com/album/03q8PTeivBkbtmpm1GkYtS"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
         },
         {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
         }
       ],
-      "duration_ms": 282581,
-      "name": "Vinyl Days (feat. DJ Premier)",
-      "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
-    },
-    {
-      "added_at": "2022-04-22 04:22:12",
-      "album": {
-        "name": "learn 2 swim",
-        "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "pg baby",
-      "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
+      "duration_ms": 250240,
+      "name": "Dontplaydat (feat. Buddy)",
+      "url": "https://open.spotify.com/track/5AwF7f9aYqOsIbiLOZHCjf"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -197,6 +233,26 @@
       "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
     },
     {
+      "added_at": "2022-07-08 04:03:39",
+      "album": {
+        "name": "MEMO",
+        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 268151,
+      "name": "SOHO HOUSE (feat. Hello O'shay)",
+      "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
+    },
+    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "7220",
@@ -215,26 +271,6 @@
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
-    },
-    {
-      "added_at": "2022-04-29 04:30:50",
-      "album": {
-        "name": "From The District To The World",
-        "url": "https://open.spotify.com/album/03q8PTeivBkbtmpm1GkYtS"
-      },
-      "artists": [
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "Dontplaydat (feat. Buddy)",
-      "url": "https://open.spotify.com/track/5AwF7f9aYqOsIbiLOZHCjf"
     },
     {
       "added_at": "2022-06-29 20:41:54",
@@ -287,6 +323,22 @@
       "duration_ms": 189773,
       "name": "CORSA",
       "url": "https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm"
+    },
+    {
+      "added_at": "2022-07-08 04:03:39",
+      "album": {
+        "name": "Mannequin",
+        "url": "https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "duration_ms": 234664,
+      "name": "Mannequin",
+      "url": "https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W"
     },
     {
       "added_at": "2022-04-29 04:30:50",
@@ -691,6 +743,22 @@
       "duration_ms": 196363,
       "name": "Jupiter & Mars",
       "url": "https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B"
+    },
+    {
+      "added_at": "2022-07-08 04:03:39",
+      "album": {
+        "name": "keep my cool",
+        "url": "https://open.spotify.com/album/5NRxfb3kyVCr6Kl3rtXoqa"
+      },
+      "artists": [
+        {
+          "name": "Koi",
+          "url": "https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk"
+        }
+      ],
+      "duration_ms": 90810,
+      "name": "keep my cool",
+      "url": "https://open.spotify.com/track/0C7XJaaDmmrf3jJjjvaMES"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1835,78 +1903,6 @@
       "duration_ms": 233000,
       "name": "Light Years (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/1rPLVDp1qxgIn15gyquhqG"
-    },
-    {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7FxGRRumCAoPESLvW2Ta5K"
-      },
-      "artists": [
-        {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
-        }
-      ],
-      "duration_ms": 129835,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/1EXHfM9lHxzwb3lbJ4XU0J"
-    },
-    {
-      "added_at": "2021-11-26 05:00:00",
-      "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/7z6BoDe1YgiZUl5h8GlR3I"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 241397,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/2wmZFiWL7MKt2vQe6DPanz"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Payday",
-        "url": "https://open.spotify.com/album/0lofROR75lRgE1OZzPl1Pw"
-      },
-      "artists": [
-        {
-          "name": "Bando.",
-          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
-        },
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Payday",
-      "url": "https://open.spotify.com/track/1TEHeYuZGKXIcZxONEsJ3K"
     }
   ],
   "unique_name": "Mellow Bars",

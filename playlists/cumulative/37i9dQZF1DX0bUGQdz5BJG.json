@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Sacha",
+  "description": "Music City must-hears. Cover: Kylie Morgan",
   "name": "Next From Nashville",
   "published_playlist_ids": [
     "6guBJqgtXaO0mvdeL4JtNk"
@@ -2342,6 +2342,28 @@
     },
     {
       "album": {
+        "name": "Didn't Even Date (feat. Roman Alexander)",
+        "url": "https://open.spotify.com/album/2VrEVhkJ8pune6s8xaqyzJ"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        },
+        {
+          "name": "Roman Alexander",
+          "url": "https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "Didn't Even Date (feat. Roman Alexander)",
+      "url": "https://open.spotify.com/track/2EvA9kbBy7MHWf3rmHGihD"
+    },
+    {
+      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
@@ -2429,7 +2451,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 198974,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/5e13nAMzDVRfCyHLB9rd5Y"
@@ -2454,6 +2476,24 @@
     },
     {
       "album": {
+        "name": "Dodge Out Of Hell",
+        "url": "https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192226,
+      "name": "Dodge Out Of Hell",
+      "url": "https://open.spotify.com/track/1JV425vD0dWil9boakNIHf"
+    },
+    {
+      "album": {
         "name": "Doin' It Right",
         "url": "https://open.spotify.com/album/6ndo9jE0Vmg3wm6gAuitPw"
       },
@@ -2469,6 +2509,24 @@
       "duration_ms": 180520,
       "name": "Doin' It Right",
       "url": "https://open.spotify.com/track/5BmL9dvw8RYAqFZRZOx1hU"
+    },
+    {
+      "album": {
+        "name": "Don't It Feel Like Rain",
+        "url": "https://open.spotify.com/album/6vTFibcqaVDMflKlJYpyE3"
+      },
+      "artists": [
+        {
+          "name": "Michael Daniels",
+          "url": "https://open.spotify.com/artist/1Rl4v2zAaEA3OJ1GFc9hWs"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216626,
+      "name": "Don't It Feel Like Rain",
+      "url": "https://open.spotify.com/track/354HsVzN2ikyLwPk8KKdnF"
     },
     {
       "album": {
@@ -3166,6 +3224,32 @@
     },
     {
       "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/5ECjElUCcGjURvHvdarOyz"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        },
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        },
+        {
+          "name": "Seth Ennis",
+          "url": "https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186961,
+      "name": "First Rodeo",
+      "url": "https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO"
+    },
+    {
+      "album": {
         "name": "First Stone",
         "url": "https://open.spotify.com/album/4O2lTDSonLUmdwyLTkxqMq"
       },
@@ -3505,7 +3589,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 173011,
       "name": "Girl On Fire",
       "url": "https://open.spotify.com/track/3DUVwg2lfRKphwNtYE7S85"
@@ -3639,7 +3723,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 182800,
       "name": "Gonna Be A Problem",
       "url": "https://open.spotify.com/track/3j7K4P3Ao5JM1hTnGpzhaG"
@@ -4307,6 +4391,24 @@
       "duration_ms": 173324,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/51uld0hwaPZQkreLc9lnd8"
+    },
+    {
+      "album": {
+        "name": "Heartbreak In Boots",
+        "url": "https://open.spotify.com/album/212DoETvEuKBW2JeycM7bH"
+      },
+      "artists": [
+        {
+          "name": "Temecula Road",
+          "url": "https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169474,
+      "name": "Heartbreak In Boots",
+      "url": "https://open.spotify.com/track/1pP0dNfTVENxNgUI42xnAk"
     },
     {
       "album": {
@@ -5485,7 +5587,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 210410,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/6Nk2OjwtxyrNeP6v8Y5s8b"
@@ -5748,6 +5850,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2uFl4pMQtGIlGN3onYvxfg"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/70Y4SxunX8iVvBLzjEukyE"
+    },
+    {
+      "album": {
         "name": "Keys To The Country",
         "url": "https://open.spotify.com/album/0RLL5G7u2zY6qFzGnssXwX"
       },
@@ -5781,6 +5901,24 @@
       "duration_ms": 199290,
       "name": "King Of The World",
       "url": "https://open.spotify.com/track/6yK2aEEVtYTmQ2ca3wja3S"
+    },
+    {
+      "album": {
+        "name": "Knock Off",
+        "url": "https://open.spotify.com/album/3lGl8LGBSvrLvv89wFpy6y"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184530,
+      "name": "Knock Off",
+      "url": "https://open.spotify.com/track/4OFyzhB3z7NI9LHk1imE5E"
     },
     {
       "album": {
@@ -6091,7 +6229,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 200841,
       "name": "Like Home",
       "url": "https://open.spotify.com/track/1DRwtey1bIxUNn5NZbISU4"
@@ -6239,6 +6377,24 @@
       "duration_ms": 202893,
       "name": "Livin' My Best Life",
       "url": "https://open.spotify.com/track/7zzIG2xLiQkxX1isaZMiMW"
+    },
+    {
+      "album": {
+        "name": "Livin' That Good Life",
+        "url": "https://open.spotify.com/album/61z4aVxATrAjZNgZwxLwIC"
+      },
+      "artists": [
+        {
+          "name": "Cale Dodds",
+          "url": "https://open.spotify.com/artist/4PRfc0tn0HR0GhzWHHckLt"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138475,
+      "name": "Livin' That Good Life",
+      "url": "https://open.spotify.com/track/2Wal6cxc6T0RlgDwEKUIl1"
     },
     {
       "album": {
@@ -6427,10 +6583,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 154533,
       "name": "Love Like We're Drunk",
       "url": "https://open.spotify.com/track/3LyU3vaPoWgLry9iKl16HM"
+    },
+    {
+      "album": {
+        "name": "P.S.",
+        "url": "https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Love Like We're Drunk",
+      "url": "https://open.spotify.com/track/6oxftprduyrsoueRYStp2e"
     },
     {
       "album": {
@@ -6921,6 +7095,24 @@
       "duration_ms": 202880,
       "name": "Missing One",
       "url": "https://open.spotify.com/track/6boItJTxu8c9PdSbVqbAUF"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/56SRgnt6qGni9StUZSyxup"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162501,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0NN89T8ZrNPTCVAYexHqlR"
     },
     {
       "album": {
@@ -7657,6 +7849,24 @@
       "duration_ms": 182831,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0YBgxXh6I0X8jnTzybUiTx"
+    },
+    {
+      "album": {
+        "name": "Nowhere to Go",
+        "url": "https://open.spotify.com/album/08tAeRC1wWDlBa7NLo0R26"
+      },
+      "artists": [
+        {
+          "name": "Austin Burke",
+          "url": "https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159132,
+      "name": "Nowhere to Go",
+      "url": "https://open.spotify.com/track/11BuSznfX0xozQn5Jyza7Y"
     },
     {
       "album": {
@@ -8949,7 +9159,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 180540,
       "name": "Shootin' Me Down",
       "url": "https://open.spotify.com/track/1FSgk75diCUOO5UTBOSv16"
@@ -9347,7 +9557,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 179533,
       "name": "Son Of The Dirty South",
       "url": "https://open.spotify.com/track/6e5zD3UWwZmbae4jN3qibs"
@@ -9491,7 +9701,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 184880,
       "name": "Started in a Bar",
       "url": "https://open.spotify.com/track/6A9grYaO5YObPaGJkGriaM"
@@ -9779,7 +9989,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 200109,
       "name": "Take My Life",
       "url": "https://open.spotify.com/track/6mJTy9XoiJIHXzVLMXwTYj"
@@ -10035,7 +10245,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 193702,
       "name": "The Devil\u2019s Still Down in Georgia",
       "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
@@ -10608,6 +10818,24 @@
     },
     {
       "album": {
+        "name": "Truck In The Yard",
+        "url": "https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "Truck In The Yard",
+      "url": "https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ"
+    },
+    {
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/4nLk01yBivpv7vihOUUtwc"
       },
@@ -10951,7 +11179,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 183342,
       "name": "We Did",
       "url": "https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz"
@@ -10991,6 +11219,24 @@
       "duration_ms": 212000,
       "name": "We Had It Good",
       "url": "https://open.spotify.com/track/7HQIudswhHicyidL1V4iiO"
+    },
+    {
+      "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/6C8xaLNV3IpwwtOFUqLKsC"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219920,
+      "name": "We Were Cowboys",
+      "url": "https://open.spotify.com/track/5Nbq6BNkf5gedpzWeNIH8e"
     },
     {
       "album": {
@@ -11135,7 +11381,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 189850,
       "name": "Whatever She Sees in Me",
       "url": "https://open.spotify.com/track/5AHnYt0v2PRUbCtbQFoJws"
@@ -11175,6 +11421,24 @@
       "duration_ms": 179251,
       "name": "When I Look Back",
       "url": "https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw"
+    },
+    {
+      "album": {
+        "name": "When It Wasn't",
+        "url": "https://open.spotify.com/album/0fhQxTXDGEB3ahvmWLas0W"
+      },
+      "artists": [
+        {
+          "name": "Wild Fire",
+          "url": "https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "When It Wasn't",
+      "url": "https://open.spotify.com/track/2T4lQflLAaLiyXe4nVLAFL"
     },
     {
       "album": {
@@ -11391,7 +11655,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 165373,
       "name": "Whiskey Side",
       "url": "https://open.spotify.com/track/7lYXb5Vdlq0Y48j6kEPh6r"
@@ -11701,7 +11965,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 177056,
       "name": "Without You",
       "url": "https://open.spotify.com/track/5LLj9u9X29c0X7lvUIkFco"

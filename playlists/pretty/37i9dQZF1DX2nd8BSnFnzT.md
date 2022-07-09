@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dibob
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,272 likes - 74 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,281 likes - 74 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Só Chamar](https://open.spotify.com/track/67XJR4zyKkmq79mqgiPaBP) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Só Chamar](https://open.spotify.com/album/5muZEDqjv0fVSY3e2ZeV96) | 2:58 |
-| 2 | [Passageira](https://open.spotify.com/track/4mkYd2T8dbLG6KtyT7Zh9F) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Passageira](https://open.spotify.com/album/7FPnMFyWc8gw6doOkUVmly) | 3:48 |
-| 3 | [Coliseu \(Video Mix\)](https://open.spotify.com/track/3uND74WMJKkkHVrtCvSrb5) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Fausto Fawcett](https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Coliseu \(Video Mix\)](https://open.spotify.com/album/3vcJVRGUpB5slAtA3A3cKy) | 4:54 |
-| 4 | [Tudo Destruído](https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [Tudo Destruído](https://open.spotify.com/album/4m8NyqdTP1zcSEKHZiHzVp) | 3:09 |
-| 5 | [Nó](https://open.spotify.com/track/2NsoozYK2yr62Y9HoN1Hfk) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Nó](https://open.spotify.com/album/4gKgBctqVjoHhBbI7BK83t) | 3:11 |
-| 6 | [filmes fatos fotos](https://open.spotify.com/track/5EcBZmnE3VUhqES2HdNtwv) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [filmes fatos fotos](https://open.spotify.com/album/1UepRjCZjyoz4PWNmZbEP1) | 3:04 |
-| 7 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 |
-| 8 | [Esse Cara Não Sou Eu](https://open.spotify.com/track/7In1OiMVJnQM99n4hGhbkN) | [Anônimos Anônimos](https://open.spotify.com/artist/5UWDldtq4b6RU5vo554Xnc) | [Esse Cara Não Sou Eu](https://open.spotify.com/album/1lr1Ghu1rcRS1CbcKESLqm) | 2:17 |
-| 9 | [Antes do Fim](https://open.spotify.com/track/6EBMOVo0Z7axH4LO0cYz6c) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Antes do Fim](https://open.spotify.com/album/7opPi58oGdMw3QRej7drBd) | 2:52 |
-| 10 | [UM CUPIDO ME FLECHOU](https://open.spotify.com/track/2oebIxdd8SZpGmdRsU90Bd) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [UM CUPIDO ME FLECHOU](https://open.spotify.com/album/3MqwDkJ5JdvYrKNzaTINia) | 2:22 |
-| 11 | [A Volta](https://open.spotify.com/track/1MyWIvkVvahDc7ifLKG8iZ) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [A Volta](https://open.spotify.com/album/29RHpQagn2LRkxffMEPQdb) | 5:00 |
-| 12 | [Little Lies](https://open.spotify.com/track/6MNKLJJbFmSD5eIZ6tyTOB) | [Vinyl Laranja](https://open.spotify.com/artist/1LvWAKQ20drCAtoMXmbl71) | [Little Lies](https://open.spotify.com/album/3ito4x3nxnkTns1IEznIAN) | 3:39 |
-| 13 | [Sexo Animal](https://open.spotify.com/track/3Ori3rp369Md0VHHtIOx2k) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Sexo Animal](https://open.spotify.com/album/3eBQfsPXJ0B84A2eNcV6KO) | 2:32 |
-| 14 | [Mais Que Folclore \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/1qxD9mhGGoyUYZXh6u7sGh) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [BRAZA ilumina Sonastério](https://open.spotify.com/album/0bwFN5W3VUinPfnFNdRfQy) | 3:33 |
-| 15 | [Andando de SK8](https://open.spotify.com/track/2J8hc2jstcvn7yH3fbvOEb) | [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Andando de SK8](https://open.spotify.com/album/5xHLWqJjt6svcBPyvvXfl1) | 2:40 |
-| 16 | [Hipnose](https://open.spotify.com/track/7FeR0yVfu44pb0AzaCjep6) | [Orbtao](https://open.spotify.com/artist/0YdpMujOaWAFADHmO9mpED) | [Transitando a Olho Nu](https://open.spotify.com/album/6ucz37FZZk8WinxGpe8FwQ) | 3:03 |
-| 17 | [Ciganinha](https://open.spotify.com/track/26jC94e3lcogp7fiwZImSQ) | [João Gordo](https://open.spotify.com/artist/7aoHAC7aGNfSiDCIHxRO84) | [Ciganinha](https://open.spotify.com/album/6u6OZwcdslmYQ4hbavsELN) | 2:30 |
+| 2 | [Coliseu \(Video Mix\)](https://open.spotify.com/track/3uND74WMJKkkHVrtCvSrb5) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Fausto Fawcett](https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Coliseu \(Video Mix\)](https://open.spotify.com/album/3vcJVRGUpB5slAtA3A3cKy) | 4:54 |
+| 3 | [UM CUPIDO ME FLECHOU](https://open.spotify.com/track/2oebIxdd8SZpGmdRsU90Bd) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [UM CUPIDO ME FLECHOU](https://open.spotify.com/album/3MqwDkJ5JdvYrKNzaTINia) | 2:22 |
+| 4 | [A Volta](https://open.spotify.com/track/1MyWIvkVvahDc7ifLKG8iZ) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [A Volta](https://open.spotify.com/album/29RHpQagn2LRkxffMEPQdb) | 5:00 |
+| 5 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 |
+| 6 | [Esse Cara Não Sou Eu](https://open.spotify.com/track/7In1OiMVJnQM99n4hGhbkN) | [Anônimos Anônimos](https://open.spotify.com/artist/5UWDldtq4b6RU5vo554Xnc) | [Esse Cara Não Sou Eu](https://open.spotify.com/album/1lr1Ghu1rcRS1CbcKESLqm) | 2:17 |
+| 7 | [Queda Livre](https://open.spotify.com/track/6bbJfRj9tp9BN2FTqqKzIB) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 2](https://open.spotify.com/album/6o0zg6G1XY9KqwyTPmZCsV) | 3:40 |
+| 8 | [Ciganinha](https://open.spotify.com/track/26jC94e3lcogp7fiwZImSQ) | [João Gordo](https://open.spotify.com/artist/7aoHAC7aGNfSiDCIHxRO84) | [Ciganinha](https://open.spotify.com/album/6u6OZwcdslmYQ4hbavsELN) | 2:30 |
+| 9 | [Mais Que Folclore \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/1qxD9mhGGoyUYZXh6u7sGh) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [BRAZA ilumina Sonastério](https://open.spotify.com/album/0bwFN5W3VUinPfnFNdRfQy) | 3:33 |
+| 10 | [Hipnose](https://open.spotify.com/track/7FeR0yVfu44pb0AzaCjep6) | [Orbtao](https://open.spotify.com/artist/0YdpMujOaWAFADHmO9mpED) | [Transitando a Olho Nu](https://open.spotify.com/album/6ucz37FZZk8WinxGpe8FwQ) | 3:03 |
+| 11 | [Little Lies](https://open.spotify.com/track/6MNKLJJbFmSD5eIZ6tyTOB) | [Vinyl Laranja](https://open.spotify.com/artist/1LvWAKQ20drCAtoMXmbl71) | [Little Lies](https://open.spotify.com/album/3ito4x3nxnkTns1IEznIAN) | 3:39 |
+| 12 | [Nó](https://open.spotify.com/track/2NsoozYK2yr62Y9HoN1Hfk) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Nó](https://open.spotify.com/album/4gKgBctqVjoHhBbI7BK83t) | 3:11 |
+| 13 | [Tudo Destruído](https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [Tudo Destruído](https://open.spotify.com/album/4m8NyqdTP1zcSEKHZiHzVp) | 3:09 |
+| 14 | [filmes fatos fotos](https://open.spotify.com/track/5EcBZmnE3VUhqES2HdNtwv) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [filmes fatos fotos](https://open.spotify.com/album/1UepRjCZjyoz4PWNmZbEP1) | 3:04 |
+| 15 | [Antes do Fim](https://open.spotify.com/track/6EBMOVo0Z7axH4LO0cYz6c) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Antes do Fim](https://open.spotify.com/album/7opPi58oGdMw3QRej7drBd) | 2:52 |
+| 16 | [Sexo Animal](https://open.spotify.com/track/3Ori3rp369Md0VHHtIOx2k) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Sexo Animal](https://open.spotify.com/album/3eBQfsPXJ0B84A2eNcV6KO) | 2:32 |
+| 17 | [Andando de SK8](https://open.spotify.com/track/2J8hc2jstcvn7yH3fbvOEb) | [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Andando de SK8](https://open.spotify.com/album/5xHLWqJjt6svcBPyvvXfl1) | 2:40 |
 | 18 | [Mente Blindada](https://open.spotify.com/track/1V0bLFzFT6s3UYcx5buRAd) | [SONGZ](https://open.spotify.com/artist/4IEdb4XbOL3tYsrkqjwfhI) | [Mente Blindada](https://open.spotify.com/album/2OpV6iAAIBcwDrLh8bAGlf) | 2:53 |
 | 19 | [Mísseis Democráticos](https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Mísseis Democráticos](https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB) | 2:38 |
 | 20 | [arão](https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [zera](https://open.spotify.com/album/5hKzinFoIFHtvIK8EeWUVU) | 4:21 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 73 | [quando saio de mim](https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf) | [Putz](https://open.spotify.com/artist/56HkciUnJHwVdl5yNQpIeb) | [quando saio de mim](https://open.spotify.com/album/4R9lTGeQuoDnhKxTRcHWod) | 2:57 |
 | 74 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 |
 
-Snapshot ID: `MTY1NzA0MDkxNCwwMDAwMDE2MzAwMDAwMTgxY2Y1NWM4MDUwMDAwMDE4MWIwZWJlYjdk`
+Snapshot ID: `MTY1NzI0OTI2MCwwMDAwMDE2NDAwMDAwMTgxZGJjMGUyNzIwMDAwMDE4MWIwZWJlYjdk`

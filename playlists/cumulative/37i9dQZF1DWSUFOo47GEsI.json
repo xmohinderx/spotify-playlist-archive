@@ -3742,6 +3742,24 @@
     },
     {
       "album": {
+        "name": "Sona",
+        "url": "https://open.spotify.com/album/5eCtu7zfvFUWQyqp63NDHu"
+      },
+      "artists": [
+        {
+          "name": "Ka Wadhwa",
+          "url": "https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150026,
+      "name": "Sona",
+      "url": "https://open.spotify.com/track/685glMCresRk1Yvy50O1wO"
+    },
+    {
+      "album": {
         "name": "Sonhando",
         "url": "https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T"
       },

@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La crème de la crème of Montréal's music scene\. Photo: Patrick Holland
+> La crème de la crème of Montréal's music scene\. Photo: Men I Trust
 
-161 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+163 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,9 +43,9 @@
 | [Comme au cinéma](https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Ogee Rodman](https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT) | [Plaisirs & terreurs de la vie domestique](https://open.spotify.com/album/6EV5e75ret5X9pHNkbeKv8) | 2:57 | 2022-04-22 |  |
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2022-03-25 | 2022-05-28 |
 | [Côte à côte](https://open.spotify.com/track/0HOam65TS747Pobhfj8qai) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Côte à côte](https://open.spotify.com/album/2FsHNptOTlP86hAIr4H28v) | 2:46 | 2022-03-25 |  |
-| [Danced Into My Life](https://open.spotify.com/track/1TytpiMHN6cvEk6NT8WMqE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [My Bestfriend's House](https://open.spotify.com/album/7m3bfhtjrx4YfHpO2Ph5tZ) | 2:46 | 2022-03-25 |  |
+| [Danced Into My Life](https://open.spotify.com/track/1TytpiMHN6cvEk6NT8WMqE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [My Bestfriend's House](https://open.spotify.com/album/7m3bfhtjrx4YfHpO2Ph5tZ) | 2:46 | 2022-03-25 | 2022-07-09 |
 | [Dans la foule](https://open.spotify.com/track/1lxW5i6WdLJpUJYqOyMpNS) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Dans la foule](https://open.spotify.com/album/4Bcl7TLTBO7Q6Sbks59HRC) | 2:34 | 2022-03-25 | 2022-04-29 |
-| [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-03-25 |  |
+| [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-03-25 | 2022-07-09 |
 | [De la perspective d'un vieil homme \- P'tit Belliveau Remix](https://open.spotify.com/track/6VNas98Qy7GSduZoQeW9LY) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt), [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Perspectives](https://open.spotify.com/album/12AkIdAo8bCIpjFHLEKSPb) | 3:36 | 2022-03-25 | 2022-05-20 |
 | [Depuis](https://open.spotify.com/track/7D14x2U6kLT9BhbmsjWmPW) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/4uyTvxltj4VNnQ1T2n8cnY) | 4:53 | 2022-03-25 |  |
 | [Des nœuds dans les doigts](https://open.spotify.com/track/2lE5EAPTKZ6inx0gNq6gTg) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Des nœuds dans les doigts](https://open.spotify.com/album/29UB860uihaDIj9d0NsD23) | 4:17 | 2022-05-27 |  |
@@ -64,11 +64,13 @@
 | [Feu intérieur](https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/5yHCrq24mQpZEfaYFcRfIU) | 3:33 | 2022-05-27 |  |
 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 | 2022-03-25 |  |
 | [Fièvre](https://open.spotify.com/track/0i52Kimd9JK0cYbbqBYR6R) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Fièvre](https://open.spotify.com/album/4O1FVF6WNDLB2FLLxMBCBd) | 4:09 | 2022-03-25 |  |
+| [Flash](https://open.spotify.com/track/6QidTb1L7KCdbLmu7j0WIB) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Flash](https://open.spotify.com/album/5vp5ih0pzIsUrNLcD8Hcyx) | 3:21 | 2022-07-08 |  |
 | [Fleur de l'Âge](https://open.spotify.com/track/1AtvnJLYXb0eUy0JElcoPC) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:25 | 2022-05-13 |  |
 | [Fleurs](https://open.spotify.com/track/6J4sn4PN9POF1TeZiE77w2) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Fleurs](https://open.spotify.com/album/1QX130cPvTixh689vkCWo4) | 2:58 | 2022-03-25 | 2022-04-16 |
 | [Follow](https://open.spotify.com/track/7KxeibFn8Nammh6i9cDD7j) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [CIEL](https://open.spotify.com/album/0e4POgMcYBEFomuUoE2uq6) | 4:22 | 2022-03-25 | 2022-04-09 |
 | [Free Grillz](https://open.spotify.com/track/60YGUQOa2e5BwtDgfltZvQ) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Free Grillz](https://open.spotify.com/album/4Lagndmtb3CdC01wU12E1k) | 2:17 | 2022-03-25 | 2022-04-29 |
 | [Funambule \(tout restera pareil\)](https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Funambule \(tout restera pareil\)](https://open.spotify.com/album/70NVJKvlYKqS8Tsmh2LYIk) | 3:56 | 2022-06-10 |  |
+| [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-07-08 |  |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-01 |  |
 | [Heartbeat](https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:50 | 2022-03-25 |  |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-03-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vem de dm 🔥  ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,614 likes - 65 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,676 likes - 65 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 3 | [Vênus](https://open.spotify.com/track/5TChJtHcdZXJILz64SylZi) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Vênus](https://open.spotify.com/album/3IWdWQcegW47JGPRM30t5S) | 4:07 |
 | 4 | [Quinto Degrau](https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh) | [Quinto Degrau](https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8) | 2:22 |
 | 5 | [Rubi](https://open.spotify.com/track/3SOiQUQ988zKilwom5t0tS) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Rubi](https://open.spotify.com/album/4kEjE9IxjZuHveMQ62t6bw) | 3:27 |
-| 6 | [nada contra \(ciúme\)](https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/0GKDqWpEF0cRw9Q6Ha1zpH) | 2:22 |
-| 7 | [Gumball](https://open.spotify.com/track/3CegdOeCCPTW9vP2KLb10w) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Gumball](https://open.spotify.com/album/3cXNC67o6QAYFzwo86RvVd) | 2:41 |
-| 8 | [Tão Sem Graça!](https://open.spotify.com/track/28JOaLfd5WnRPlT4dNDgCz) | [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [O Amor Me Deixa...](https://open.spotify.com/album/1QIzh4aquIHhjljm06jqUr) | 2:11 |
-| 9 | [Novos Dias](https://open.spotify.com/track/4mn42Ofg4kUBUmRAwiZjft) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Novos Dias](https://open.spotify.com/album/5w2QDXAhOMe4SjyiM59yT5) | 2:18 |
-| 10 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 |
-| 11 | [Matcha](https://open.spotify.com/track/6ngy530qeyAJ78ucSAtM7c) | [Tuuh](https://open.spotify.com/artist/65456d4iYC4Z1twwPkV9O5) | [Matcha](https://open.spotify.com/album/1ez2X9giPDe7IWaDjndNbH) | 2:49 |
+| 6 | [Gumball](https://open.spotify.com/track/3CegdOeCCPTW9vP2KLb10w) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Gumball](https://open.spotify.com/album/3cXNC67o6QAYFzwo86RvVd) | 2:41 |
+| 7 | [nada contra \(ciúme\)](https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/0GKDqWpEF0cRw9Q6Ha1zpH) | 2:22 |
+| 8 | [Cosplay de Amor da Minha Vida](https://open.spotify.com/track/7l8VsccVXfcUD6tYmiKxzI) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Cosplay de Amor da Minha Vida](https://open.spotify.com/album/3riQ42qoo9R4V7OSA9XoeU) | 3:01 |
+| 9 | [Tão Sem Graça!](https://open.spotify.com/track/28JOaLfd5WnRPlT4dNDgCz) | [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [O Amor Me Deixa...](https://open.spotify.com/album/1QIzh4aquIHhjljm06jqUr) | 2:11 |
+| 10 | [Novos Dias](https://open.spotify.com/track/4mn42Ofg4kUBUmRAwiZjft) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Novos Dias](https://open.spotify.com/album/5w2QDXAhOMe4SjyiM59yT5) | 2:18 |
+| 11 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 |
 | 12 | [Luzes da Cidade](https://open.spotify.com/track/2CTTflN4rA96cmMq8NpjND) | [Belato](https://open.spotify.com/artist/1j0b8QZNoluRO17A2PJh62), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Luzes da Cidade](https://open.spotify.com/album/2be4Abf3oT5rIfeNvcINIX) | 2:30 |
 | 13 | [Copacabana](https://open.spotify.com/track/2tyvnpNAEWSH7ZMLxDwnFV) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [Copacabana](https://open.spotify.com/album/059xp13b7fffD12Rdc2XDs) | 2:23 |
 | 14 | [Te Vi Passar](https://open.spotify.com/track/49jP8SX1HfjBi5cw3g8Ctq) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Te Vi Passar](https://open.spotify.com/album/5Cmil5GE8LJ46Nu1Yw1690) | 2:14 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 64 | [Quero Agora](https://open.spotify.com/track/2EaOYBodrkKFceFdbIBRYC) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Quero Agora](https://open.spotify.com/album/0Wwfj23cw97BCGrOHznMvQ) | 3:25 |
 | 65 | [A Garota Mais Linda de Oz](https://open.spotify.com/track/6blFfIKfjek2zgrcNjWcnU) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [A Garota Mais Linda de Oz](https://open.spotify.com/album/6EnL3B0Co201xFS185pL0B) | 2:45 |
 
-Snapshot ID: `MTY1NjY0NDU4MCwwMDAwMDAzNTAwMDAwMTgxYjdiNjMzNGIwMDAwMDE3OWViYTBkNDRi`
+Snapshot ID: `MTY1NzI3ODg4NSwwMDAwMDAzNjAwMDAwMTgxZGQ4NGVkNjkwMDAwMDE3OWViYTBkNDRi`

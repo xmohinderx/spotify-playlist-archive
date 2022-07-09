@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Nicolle Galyon
 
-196 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+198 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Just For Us](https://open.spotify.com/track/0F33vsMY4cjnpiU4jPz7w0) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [Lost & Found](https://open.spotify.com/album/7qVTM1a4k90QERoj0fTIgQ) | 3:36 | 2022-01-01 |  |
 | [Just Like It Matters](https://open.spotify.com/track/3vOfgOCTf5KdMM8SYbuwl5) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:44 | 2022-01-01 |  |
 | [Just Tell Me](https://open.spotify.com/track/5LgmjIU908hABiSPk3Ibuy) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Tell the People](https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt) | 3:12 | 2022-01-01 |  |
+| [Kiki](https://open.spotify.com/track/1gEo3St6nqFBAlXX2YU4z6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Kiki](https://open.spotify.com/album/249z39NOAXP1q0HuhduwM7) | 3:14 | 2022-07-08 |  |
 | [Learn Myself](https://open.spotify.com/track/2R3PX9sHmjO8wJFMbMx9N9) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Learn Myself](https://open.spotify.com/album/1bFjQhSYFc2pMFxZgypnJ2) | 2:57 | 2022-02-11 |  |
 | [Learning To Live Again](https://open.spotify.com/track/4KM4KZ0LSxiJqQZyNPVtDO) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Greatest Hits](https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn) | 3:43 | 2022-01-01 |  |
 | [Leaving You](https://open.spotify.com/track/4nwSN6bLSMQycNLDkOtIRf) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [Gold And The Sand](https://open.spotify.com/album/2inQbhKxH3ZTW2kkvGTPfz) | 3:02 | 2022-01-01 |  |
@@ -139,6 +140,7 @@
 | [Say You Do](https://open.spotify.com/track/5Ru3FrpXdk3pJcdfvDzs5d) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Matthew Ramsey](https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:19 | 2022-01-01 | 2022-06-07 |
 | [Say You Do \(feat\. Matthew Ramsey\)](https://open.spotify.com/track/7hFrXzKRJkRNXa6575wCJZ) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C), [Matthew Ramsey](https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:27 | 2022-01-01 |  |
 | [See You Again](https://open.spotify.com/track/28nO80586CILwu5kNXj3NI) | [Jessi Alexander](https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS) | [Keeping It Original for Alive: A Celebration of Songwriters Benefiting Alive Hospice, Vol\. 1](https://open.spotify.com/album/1kwMPmio6OJkwHRYWK6q8p) | 3:24 | 2022-01-01 |  |
+| [self care.](https://open.spotify.com/track/6RgUCaT2kLxy6o1XCOWQjQ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [self care.](https://open.spotify.com/album/7eG9QRz0CNpz8Y1fzKJYzB) | 2:19 | 2022-07-08 |  |
 | [Setting the World on Fire \(feat\. Josh Osborne\)](https://open.spotify.com/track/0no4JGUGADpduYExUgiizp) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:17 | 2022-01-01 |  |
 | [She Let Herself Go](https://open.spotify.com/track/7i9lx2znzB7zREJhhUzyjV) | [Dean Dillon](https://open.spotify.com/artist/6TaRQZ726me3yOu1f2glVH) | [Dylyn](https://open.spotify.com/album/42n6SYRT9TRdi4ul40vIpY) | 3:24 | 2022-01-01 |  |
 | [Single Wide Dreamer](https://open.spotify.com/track/0TTne50yeMlIWkxe48rm2f) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Single Wide Dreamer](https://open.spotify.com/album/368ZJJfNJ4ZukWVDzFqE37) | 3:32 | 2022-04-08 |  |

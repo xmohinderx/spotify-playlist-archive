@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-122 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+123 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Katthi](https://open.spotify.com/track/6id01ayZW6GNqKTYDvVREN) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Katthi](https://open.spotify.com/album/77Cw0DDVbnzCGmwAWAEO4L) | 4:04 | 2021-12-01 |  |
 | [Kuru Kure](https://open.spotify.com/track/75XFlO98uPiuuV3GLld4x5) | [TeeJay Arunachalam](https://open.spotify.com/artist/3HXoAXanyNRqXXAZLZ1zhA) | [Kuru Kure](https://open.spotify.com/album/4cXstr3Bglnj7cZcvuUtrK) | 3:49 | 2021-12-01 |  |
 | [Lityananda](https://open.spotify.com/track/3uLjbFmhCeVBtBXwueAAYx) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Lityananda](https://open.spotify.com/album/2IniUlFtmoXBSMCu6Uro57) | 2:53 | 2021-12-01 |  |
+| [Love Loop](https://open.spotify.com/track/7ELwPXWWDZExDD29QpMKdL) | [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax), [Sudarshan Arumugam](https://open.spotify.com/artist/6D4IJcXCBRLOro4B4wg02E) | [Love Loop](https://open.spotify.com/album/2i08qgD1ApF4srqqEopOMP) | 3:44 | 2022-07-08 |  |
 | [Luck illa Maamey](https://open.spotify.com/track/10G6bC2d6Cxopk4Gkfm2se) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Luck illa Maamey](https://open.spotify.com/album/2KAWe8ogQmKbbtVjhS7OYm) | 3:08 | 2022-04-18 | 2022-07-08 |
 | [Lyca Kovai Kings Anthem](https://open.spotify.com/track/2pXdzH8V45MMVx44SULGbE) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Lyca Kovai Kings Anthem](https://open.spotify.com/album/4fST1elFH54IFmpl0xD6kw) | 1:45 | 2022-06-28 |  |
 | [Maaran Ambu](https://open.spotify.com/track/2A5JPLInzNA6jr8ITGzWlN) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Sindhuja Ganapathy](https://open.spotify.com/artist/05bCSt2cfm7afEvkoWKqdM), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 2:54 | 2022-05-06 |  |

@@ -3124,6 +3124,40 @@
     },
     {
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7uXQmMAkEPKSSXz36dqRim"
+      },
+      "artists": [
+        {
+          "name": "Chintana Jo",
+          "url": "https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf"
+        },
+        {
+          "name": "ABRAM",
+          "url": "https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL"
+        },
+        {
+          "name": "Tintin",
+          "url": "https://open.spotify.com/artist/79dBBbf22bLsxtklqr9x6y"
+        },
+        {
+          "name": "Victor Kong",
+          "url": "https://open.spotify.com/artist/1wRDUXp3D3beKAcE5XxYdm"
+        },
+        {
+          "name": "Kitut",
+          "url": "https://open.spotify.com/artist/0sARNVxRbF1f7xBM8OMP5q"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244455,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/54uGhbPxHvcwaYpwkDAnL4"
+    },
+    {
+      "album": {
         "name": "Delusi",
         "url": "https://open.spotify.com/album/0H2UeLTtA07tAE0Wqunjkv"
       },

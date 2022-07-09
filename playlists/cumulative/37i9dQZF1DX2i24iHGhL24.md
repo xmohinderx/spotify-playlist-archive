@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Avril Lavigne
 
-282 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+284 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2021-12-17 |  |
 | [Dancing on My Own](https://open.spotify.com/track/0yxOcUVUgmck4FySMWbSea) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [Radio Redhead, Vol\. 1](https://open.spotify.com/album/3C8WLr8zTMyJCdo5sYMRG9) | 4:19 | 2021-12-17 | 2022-05-02 |
 | [Daylight](https://open.spotify.com/track/5EWbjEQCRhU1l3zvEYucig) | [Shaun Reynolds](https://open.spotify.com/artist/6kIgB5cLdAQ1ctIgs9lrkS) | [Daylight](https://open.spotify.com/album/37lI8YxLStfcha86BI7Gec) | 3:57 | 2021-12-24 | 2022-04-16 |
+| [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 | 2022-07-08 |  |
 | [Despacito](https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Despacito](https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3) | 2:50 | 2022-03-25 |  |
 | [Diamonds](https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [In Your Prime \- EP](https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX) | 4:07 | 2022-03-25 |  |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4RVmTDYYWR4xivKlLMjS0q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/0OTkauhBKvLKa7r1Kue0bz) | 2:59 | 2021-12-17 | 2022-04-16 |
@@ -169,7 +170,8 @@
 | [Love Me Harder](https://open.spotify.com/track/6B1wyLrNnkI35yDXjao45U) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Charles Jones](https://open.spotify.com/artist/54SLl07eCSMFL8u2H3MwKl) | [Love Me Harder](https://open.spotify.com/album/3qVaRlJnuayWSHskthLXG2) | 4:14 | 2021-12-17 | 2022-05-02 |
 | [Love on Top](https://open.spotify.com/track/61RtRHxYsVQlHgNAFdFVea) | [Sophie Rose](https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp) | [Love on Top](https://open.spotify.com/album/50CdVgWmGv2kofaevHIKyR) | 3:48 | 2021-12-17 |  |
 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 | 2021-12-17 |  |
-| [Lucky](https://open.spotify.com/track/4KyRwSI04n7IhxgLr6Jv1r) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Basement Covers](https://open.spotify.com/album/1h6Swp2jqG7JDTsWld7tcD) | 3:31 | 2021-12-17 |  |
+| [luckie](https://open.spotify.com/track/6bgEBtFnH3qRY2Jprc8OSY) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [luckie](https://open.spotify.com/album/1XkHOCaHI4fqbB3tQ5nroU) | 2:54 | 2022-07-08 |  |
+| [Lucky](https://open.spotify.com/track/4KyRwSI04n7IhxgLr6Jv1r) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Basement Covers](https://open.spotify.com/album/1h6Swp2jqG7JDTsWld7tcD) | 3:31 | 2021-12-17 | 2022-07-09 |
 | [Lucky](https://open.spotify.com/track/3ThAExlMNs4A86hime1qNG) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Basement Covers](https://open.spotify.com/album/6eO7oW6th87o1WBH9uNzPS) | 3:31 | 2021-12-17 | 2022-01-10 |
 | [Magic](https://open.spotify.com/track/1ryKtGzdk4zMPLhEC6F95t) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Magic](https://open.spotify.com/album/7JqZcRZTsuvLO228vbGiwK) | 3:04 | 2021-12-17 |  |
 | [Manchild](https://open.spotify.com/track/1v8bDsrquS2MbPcY0rXnCl) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Manchild](https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I) | 3:17 | 2022-05-01 |  |

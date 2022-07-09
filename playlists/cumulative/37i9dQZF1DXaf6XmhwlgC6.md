@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-83 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+86 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,8 @@
 | [finished falling](https://open.spotify.com/track/16UwPw97aFFsprUZrjoU3I) | [Riley Power](https://open.spotify.com/artist/16li8cbi4fTA6Fyztk1Bz1) | [finished falling](https://open.spotify.com/album/7hrcaCivMZsdEEpiBBK9s6) | 3:25 | 2022-03-30 |  |
 | [For Dinner… \- Remastered](https://open.spotify.com/track/6yBmGf0yUUWnKWefP1qsfg) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland \(remastered\)](https://open.spotify.com/album/5aCh5uldkBY1tInUgVhVO0) | 5:05 | 2022-03-30 |  |
 | [Forest Canvas](https://open.spotify.com/track/0Y67hBf8raOl4JYVvohHR2) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 3:59 | 2022-03-30 |  |
+| [forward thinking](https://open.spotify.com/track/5xKohBCQd8wzOeXmtAMvTS) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [forward thinking](https://open.spotify.com/album/6oRs6YLnM18Zo6sOyparRg) | 3:01 | 2022-07-08 |  |
+| [Free Like The Wind](https://open.spotify.com/track/3ntpDVWUeikEroH6Qkj1vG) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Free Like The Wind](https://open.spotify.com/album/7h0Iap2Tws6QSXmxuF2S6a) | 2:48 | 2022-07-08 |  |
 | [Gentle Whisper](https://open.spotify.com/track/0SdF87pVzhydKwygD13H6B) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gentle Whisper](https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2) | 2:58 | 2022-03-30 |  |
 | [Happy Easters](https://open.spotify.com/track/7fRke8rCGhCzTkPzIh7jqE) | [Gareth Dickson](https://open.spotify.com/artist/5K679k3u9KgR60ESQxyihW) | [Quite A Way Away](https://open.spotify.com/album/2FeEWF8kbqpAjMFv5elAwM) | 5:56 | 2022-03-30 |  |
 | [High Up](https://open.spotify.com/track/794SxkpLERVaBoag5946LG) | [Mirror Inside](https://open.spotify.com/artist/7qoAxsJr24mbtIRupSaI3Z) | [High Up](https://open.spotify.com/album/4DrcJ7w0o3G59qIlS25Mdx) | 2:18 | 2022-03-30 |  |
@@ -90,6 +92,7 @@
 | [When we go](https://open.spotify.com/track/0AREwUN0iRNPjQxYGQf9BP) | [NYMK](https://open.spotify.com/artist/49kckQu5DktnBTpPlsJTDA) | [When we go](https://open.spotify.com/album/2Rrba97lDOHXALfvZSpRx7) | 3:27 | 2022-03-30 |  |
 | [Whispers](https://open.spotify.com/track/4i8k0moTL3u9w4TsT7Es5A) | [The Day Before Today](https://open.spotify.com/artist/7bpOMy71Wl6uiqIWXhQGOi) | [Whispers](https://open.spotify.com/album/6AdqX0VKoWgCO4EMPlJb2p) | 2:49 | 2022-03-30 |  |
 | [Wings](https://open.spotify.com/track/2lPCySGhdlWTnUWU4cbtQo) | [A House on the Hill](https://open.spotify.com/artist/6guLl7XQ3MXZoxBgbZXXM3) | [Wings](https://open.spotify.com/album/2MZzFLMncLZle4ZXlzqPTZ) | 2:46 | 2022-03-30 |  |
+| [Wires](https://open.spotify.com/track/2wAOrDyPab6VEsaaNFmQAM) | [Harvest Silence](https://open.spotify.com/artist/6qtd1ujjnPOMDU5DCDQPuH) | [Wires](https://open.spotify.com/album/3smWNxmoz5deYJejiTWJY3) | 2:13 | 2022-07-08 |  |
 | [worth the wait](https://open.spotify.com/track/72sEMr3VwkECakurLsgF2f) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [worth the wait](https://open.spotify.com/album/6T4h9RYefYVY4jUocwZFfI) | 2:05 | 2022-06-16 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

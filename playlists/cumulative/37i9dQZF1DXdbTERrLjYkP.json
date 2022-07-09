@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: ROSIE",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: quinnie",
   "name": "Next Gen Singer-Songwriters",
   "published_playlist_ids": [
     "5yqeqnGwA3WW1b3xVN4nfp"
@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "BDSM",
+        "url": "https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209383,
+      "name": "BDSM",
+      "url": "https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8"
+    },
+    {
+      "album": {
         "name": "You Make Me Feel Alright",
         "url": "https://open.spotify.com/album/3BDzqGbPFnSceUIqzX2jQp"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
@@ -639,6 +657,42 @@
       "duration_ms": 215997,
       "name": "Crystal Ball",
       "url": "https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb"
+    },
+    {
+      "album": {
+        "name": "You Never Met Me",
+        "url": "https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Cutting Corners",
+      "url": "https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189672,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
     },
     {
       "album": {
@@ -1151,7 +1205,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 149802,
       "name": "God Must Hate Me",
       "url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK"
@@ -1281,7 +1335,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 156798,
       "name": "hate to be lame (feat. FINNEAS)",
       "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
@@ -1299,7 +1353,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 182946,
       "name": "hate to be you",
       "url": "https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU"
@@ -1627,6 +1681,42 @@
       "duration_ms": 198823,
       "name": "if you hate me, say it",
       "url": "https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO"
+    },
+    {
+      "album": {
+        "name": "Is It Enough",
+        "url": "https://open.spotify.com/album/6zmkcJhd5cv7pBrQYPDYfY"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153499,
+      "name": "Is It Enough",
+      "url": "https://open.spotify.com/track/5CiwHSUDf9C1Uv0r4nUVLd"
+    },
+    {
+      "album": {
+        "name": "Isolate Myself",
+        "url": "https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C"
+      },
+      "artists": [
+        {
+          "name": "Mallory Merk",
+          "url": "https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185019,
+      "name": "Isolate Myself",
+      "url": "https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU"
     },
     {
       "album": {
@@ -2913,7 +3003,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 188950,
       "name": "Still Something",
       "url": "https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX"

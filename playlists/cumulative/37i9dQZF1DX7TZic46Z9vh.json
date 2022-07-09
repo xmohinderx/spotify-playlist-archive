@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 236933,
       "name": "69",
       "url": "https://open.spotify.com/track/5dMnjdBx6dWwBwrdqVSFBp"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 180226,
       "name": "Acapulco Dorado",
       "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 187120,
       "name": "Alto, M\u00e1s Alto",
       "url": "https://open.spotify.com/track/4VMrcttS6dVnPWMal6y04r"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 138759,
       "name": "Better Watch What You Do",
       "url": "https://open.spotify.com/track/2vK1U3UP6CRt4j8TybtIBD"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 307408,
       "name": "Ciudad Hippie",
       "url": "https://open.spotify.com/track/5LdkkBK0i72xJku8NXkXcw"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 330328,
       "name": "Gente Tonta",
       "url": "https://open.spotify.com/track/5tVlYVcUdr3r0zF5ER5BK4"
@@ -584,6 +584,24 @@
     },
     {
       "album": {
+        "name": "Siempre Fuimos Companeros",
+        "url": "https://open.spotify.com/album/6ESkpsPJB3bMjOtYLfTQ3Y"
+      },
+      "artists": [
+        {
+          "name": "Los Chijuas",
+          "url": "https://open.spotify.com/artist/5nWkamOwLJmb4TReNqnCEp"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158528,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/4V12HHDMFBsa9M4vFw7C0d"
+    },
+    {
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2oV7ZTUFSRFPwzFwxowLgS"
       },
@@ -631,7 +649,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 167000,
       "name": "Incienso y Menta (Incence & Peppermints)",
       "url": "https://open.spotify.com/track/38E8Nnyvf5eAtT8KHfHTxN"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 235160,
       "name": "Insurgensex",
       "url": "https://open.spotify.com/track/5YfgBQqKkQOxrS6U0zfKgl"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 577053,
       "name": "La Pobreza",
       "url": "https://open.spotify.com/track/74xLbMcYBC6nCn4KU7WS8i"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 276373,
       "name": "Let's Make It Now (Hag\u00e1moslo Ahora)",
       "url": "https://open.spotify.com/track/7pKFG1Hlr37cS8TLJCs27j"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 225053,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/7ivdF9GuhQFXPr4IOXEoNr"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 125982,
       "name": "Mi Mami Dijo",
       "url": "https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 203153,
       "name": "My Way Is Love",
       "url": "https://open.spotify.com/track/0CI67v7SM4HohMbUcffnmT"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 192893,
       "name": "Nada Nos Detendr\u00e1",
       "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 283226,
       "name": "Nadie En Especial",
       "url": "https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 331333,
       "name": "No One to Depend On",
       "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 139459,
       "name": "Peace and Love",
       "url": "https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 188395,
       "name": "Preludio de la Felicidad",
       "url": "https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b"
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 157663,
       "name": "Rio Amarillo",
       "url": "https://open.spotify.com/track/7gCvPhzQ8X9Ooz9OfIvGVn"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 187386,
       "name": "Roaming",
       "url": "https://open.spotify.com/track/1s5KYOR8PiPA55bxfhFvz3"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 252749,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/1R9TnOZrNbGwAMIrARnwcb"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 350112,
       "name": "She'll Come Back to Me",
       "url": "https://open.spotify.com/track/67E7DOLOIUgDaDfCGpmDzM"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 184163,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 475846,
       "name": "Take My Lovin' - En Vivo",
       "url": "https://open.spotify.com/track/5AyKb9ZA4zhYnSrUfAg8Qc"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 147930,
       "name": "Te Vas a Perder",
       "url": "https://open.spotify.com/track/55o3dwIn4noclOPF4kN3ic"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 359492,
       "name": "The Best I Can",
       "url": "https://open.spotify.com/track/5f20wNhDfUOkjFyemzVXuj"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 267082,
       "name": "The Train",
       "url": "https://open.spotify.com/track/2NIALKJKHJM2EhGl6gUceq"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 281773,
       "name": "Tiempo Perdido",
       "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 223600,
       "name": "Under The Sing Of Aquarius - (Bajo El Signo De Acuario)",
       "url": "https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE"

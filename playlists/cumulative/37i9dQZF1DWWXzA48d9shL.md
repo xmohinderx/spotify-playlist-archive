@@ -4,7 +4,7 @@
 
 > 😈 😈 😈  Cover: Freddie Dredd
 
-262 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+266 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [a mosh pit love story](https://open.spotify.com/track/5Q7JUXXghzKqPPS2IrJK8O) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [a mosh pit love story](https://open.spotify.com/album/68KzN6H88EMJK6wxChPYaN) | 1:57 | 2021-10-01 | 2022-05-28 |
 | [AI](https://open.spotify.com/track/4OcxBd349UIgErVz81V2TY) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [AI](https://open.spotify.com/album/2bqMK2GcB02ezyvBJhW7Uy) | 2:54 | 2021-09-17 | 2022-06-11 |
 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 | 2022-03-24 |  |
+| [ALL BLACK ATTIRE](https://open.spotify.com/track/3ljyB9X8TMFKRkLEJ6JgtD) | [SHUSH](https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [ALL BLACK ATTIRE](https://open.spotify.com/album/4Y705O8UoVmJuhZHOZrX9R) | 3:34 | 2022-07-08 |  |
 | [ALL THE RAGE](https://open.spotify.com/track/6i0ecFS8xZBgP03ktAOz6d) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [ALL THE RAGE](https://open.spotify.com/album/7K1K8XS0hxyISkgiUSMwkZ) | 2:36 | 2022-03-11 | 2022-04-19 |
 | [Alone](https://open.spotify.com/track/7CwPDvjGUUyPSJK8HudIlO) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Alone](https://open.spotify.com/album/2maX4LyB1EfbKvUp6SXYRP) | 2:10 | 2021-09-17 |  |
 | [AMV](https://open.spotify.com/track/2tCzoavZgN8Hnoy31NNGNi) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [AMV](https://open.spotify.com/album/60xhnCT75qhoZJOobUrLVP) | 2:18 | 2022-04-05 | 2022-05-06 |
@@ -80,6 +81,7 @@
 | [Dead Batteries](https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:23 | 2022-04-11 | 2022-05-17 |
 | [DEAD ONE](https://open.spotify.com/track/3BNVFDqzVpziMeRZMLBY7F) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Heartsnow](https://open.spotify.com/artist/7999NGEoCSbZ9UirHPDlql) | [DEAD ONE](https://open.spotify.com/album/00T1P0wR8YKI8UaesBziwg) | 2:06 | 2022-04-22 |  |
 | [DEAD OR ALIVE](https://open.spotify.com/track/48VY050bKrpgaJM20n8uBS) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [DEAD OR ALIVE](https://open.spotify.com/album/4Uf1M20JT33LgrpwNhN0TC) | 2:11 | 2022-01-28 |  |
+| [DEAD OR ALIVE](https://open.spotify.com/track/18vRG2hgEKrg9fgkITGvXT) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [DEAD OR ALIVE](https://open.spotify.com/album/6rGLysyfoqKWRGpKwn6cUp) | 2:43 | 2022-07-08 |  |
 | [DEAD TO ME](https://open.spotify.com/track/4x1K2NGxzutGeMJQwvTF7I) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [DEAD TO ME](https://open.spotify.com/album/4rA9drGZuKSK7K8I36nzPq) | 2:14 | 2021-09-17 |  |
 | [DEADSHOT](https://open.spotify.com/track/09WWIy51EBmD7gEKuIuxBO) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [DEADSHOT](https://open.spotify.com/album/1hqI4rDiTpj4MZpGHROTEz) | 1:52 | 2022-06-03 |  |
 | [DEATH BLOW freestyle](https://open.spotify.com/track/7ojp6FPLCPo2krGRCKxbN3) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [DEATH BLOW freestyle](https://open.spotify.com/album/5nPv5MpAx7sZzMx1Qn5swc) | 2:02 | 2021-10-08 | 2022-04-21 |
@@ -174,6 +176,7 @@
 | [Mean](https://open.spotify.com/track/4gncrdopojb9Xe8KoNXKGY) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Mean](https://open.spotify.com/album/3cOGCXAKUcJGpk0vQvz5RX) | 2:04 | 2021-09-17 | 2022-05-17 |
 | [MeetYourMaker](https://open.spotify.com/track/3pJnx38vLQvVHcT3aDnOdH) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Deergod](https://open.spotify.com/artist/0lcFNl4eBE4NcQATqbKEtc) | [PushingUpDaisies](https://open.spotify.com/album/1x9TicUl0wO9wIXpLWlUfq) | 2:44 | 2021-09-17 | 2022-05-17 |
 | [Mercury: Retrograde](https://open.spotify.com/track/2Vc6NJ9PW9gD9q343XFRKx) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/4pzCKSWYNM2yUWrNvycC6e) | 2:04 | 2022-04-22 |  |
+| [Metal](https://open.spotify.com/track/3Y7AlLapD7AYzmqS4CM5FR) | [Oh Gasm!](https://open.spotify.com/artist/1VMMM8J2XHnLHyTPQ0HS0s) | [Metal](https://open.spotify.com/album/021icRE8txfPQMBmEz6j2r) | 1:51 | 2022-07-08 |  |
 | [Mindset](https://open.spotify.com/track/5nykfNlQXA0CFJpH0rLDxL) | [Baker Ya Maker](https://open.spotify.com/artist/65T6BIrUTcgylCYTXqVxvR) | [The Vault II](https://open.spotify.com/album/5kOE2LtmpW9YqnyeFlmBAx) | 2:48 | 2021-09-17 |  |
 | [Miss YOU!](https://open.spotify.com/track/3pXVmZh293nWtqxildz9jf) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Miss YOU!](https://open.spotify.com/album/1N4sOPjYya80HsT6idMO0f) | 1:32 | 2021-09-17 | 2022-04-19 |
 | [Molasses](https://open.spotify.com/track/6S3SnnZ7HRMoTF11Fqu8th) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Molasses](https://open.spotify.com/album/0XYwE2kQ3N6vpCiHQkjGHT) | 2:22 | 2022-03-16 | 2022-06-04 |
@@ -204,6 +207,7 @@
 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 | 2022-05-06 |  |
 | [Red Light](https://open.spotify.com/track/0IKjAwm7HA6kZC9sm39Xvx) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Red Light](https://open.spotify.com/album/6Ciw7D04j2nfPIxvW0Rs0Q) | 2:18 | 2021-09-17 | 2022-07-02 |
 | [Rose Colored Glasses](https://open.spotify.com/track/0cCgFH4qb2zA7Nfqej9fJd) | [5thFloorHomicide](https://open.spotify.com/artist/5G6sRziHhCPJFbhcebJQnp) | [Rose Colored Glasses](https://open.spotify.com/album/1jA83pq3azUgwlOcLEX2rX) | 2:31 | 2022-01-21 | 2022-04-20 |
+| [Roswell](https://open.spotify.com/track/4G01UY2AijcdKA3BS4liYH) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Roswell](https://open.spotify.com/album/1NndovHvyyBEYUJO69NmKY) | 2:24 | 2022-07-08 |  |
 | [Sangria \(feat\. Denzel Curry\)](https://open.spotify.com/track/2fG0gdRKdTjyxYkTydQEv9) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Sangria \(feat\. Denzel Curry\)](https://open.spotify.com/album/5JUzMtOlM52YO5rzdQwg38) | 2:06 | 2021-09-17 |  |
 | [Scorn](https://open.spotify.com/track/5raxeWh926F2Drzx1C0zlF) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [Scorn](https://open.spotify.com/album/061VEDp0eD05Bcmk1hLE1r) | 2:48 | 2022-05-20 | 2022-05-28 |
 | [SDWM](https://open.spotify.com/track/0pdXlLvB5I5ocWIb05Fvru) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [SDWM](https://open.spotify.com/album/0R9anNsw1AHGkk4whhbX5y) | 2:37 | 2022-01-14 | 2022-02-12 |

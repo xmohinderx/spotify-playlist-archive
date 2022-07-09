@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Moore Kismet.",
+  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Keinemusik.",
   "name": "Dance Rising",
   "published_playlist_ids": [
     "2pLFymjcvaRi3S7CfLfDqz"
@@ -355,6 +355,24 @@
       "duration_ms": 273994,
       "name": "A Dream I Have",
       "url": "https://open.spotify.com/track/04IEe7T9LrB5tnrydpSHFg"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173097,
+      "name": "A Keeper",
+      "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
     },
     {
       "album": {
@@ -2136,6 +2154,28 @@
     },
     {
       "album": {
+        "name": "B.O.T.A. (Baddest Of Them All) / Move To The",
+        "url": "https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357493,
+      "name": "B.O.T.A. (Baddest Of Them All)",
+      "url": "https://open.spotify.com/track/6WQ4c9jQ6MWXav30bqlGir"
+    },
+    {
+      "album": {
         "name": "B2B / Black Roses",
         "url": "https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA"
       },
@@ -3562,6 +3602,24 @@
     },
     {
       "album": {
+        "name": "Body Shots",
+        "url": "https://open.spotify.com/album/5yJHDOdyDT4KVeBS0TsUQk"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153850,
+      "name": "Body Shots",
+      "url": "https://open.spotify.com/track/02FQoIxEcJEKBW4VJ8a4XJ"
+    },
+    {
+      "album": {
         "name": "Bodytalk (STFU)",
         "url": "https://open.spotify.com/album/5zK7Tr5XwE9g00ksys6wKe"
       },
@@ -3861,6 +3919,24 @@
       "duration_ms": 178420,
       "name": "Breathe Me In",
       "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
+    },
+    {
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1OZYHN7RxP2o8zg45RFF5n"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286555,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4vKEzzWe1W1xYI5foZu15g"
     },
     {
       "album": {
@@ -6379,7 +6455,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 170511,
       "name": "Crossed Our Hearts",
       "url": "https://open.spotify.com/track/6ZI7dfjX2IlxaXsFw5LIdf"
@@ -6467,6 +6543,28 @@
       "duration_ms": 202128,
       "name": "Cut Me Loose - Edit",
       "url": "https://open.spotify.com/track/0dSTbC1TcahlWOZV5C5OhI"
+    },
+    {
+      "album": {
+        "name": "Da Fonk (feat. Joni)",
+        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366141,
+      "name": "Da Fonk (feat. Joni)",
+      "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
     },
     {
       "album": {
@@ -8440,6 +8538,24 @@
     },
     {
       "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/6a3wDTIPiYQwXGkNAAye04"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193872,
+      "name": "Elevated",
+      "url": "https://open.spotify.com/track/0qZ2NBUmGIaHzvUAfH43A0"
+    },
+    {
+      "album": {
         "name": "Ellipse",
         "url": "https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj"
       },
@@ -8451,7 +8567,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 411633,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP"
@@ -9295,7 +9411,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 178750,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/4I6JwM7pS6Uo705qqyM2su"
@@ -10163,6 +10279,28 @@
       "duration_ms": 296324,
       "name": "For a Feeling (feat. RHODES)",
       "url": "https://open.spotify.com/track/1wjQEAV31X26Za9KRAmqwz"
+    },
+    {
+      "album": {
+        "name": "For The Same Man (Nic Fanciulli Remix)",
+        "url": "https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4"
+      },
+      "artists": [
+        {
+          "name": "B Beat Girls",
+          "url": "https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214036,
+      "name": "For The Same Man - Nic Fanciulli Remix",
+      "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
     },
     {
       "album": {
@@ -12149,7 +12287,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 209078,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/2RENEC1I3hpe1PXVbqSvr6"
@@ -12623,7 +12761,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 185696,
       "name": "Hold Tight (feat. Darla Jade)",
       "url": "https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us"
@@ -13071,7 +13209,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 526672,
       "name": "How It Makes You Feel",
       "url": "https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK"
@@ -14324,6 +14462,24 @@
     },
     {
       "album": {
+        "name": "Incredibly Annoying",
+        "url": "https://open.spotify.com/album/2EHzdOCliBlaKJWTJ7A8li"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134523,
+      "name": "Incredibly Annoying",
+      "url": "https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG"
+    },
+    {
+      "album": {
         "name": "Indian Summer",
         "url": "https://open.spotify.com/album/6TFxvvkuIY7EiFZpcP8bS0"
       },
@@ -15437,7 +15593,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 206971,
       "name": "La Murga - Michael's Midnight Mix",
       "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
@@ -17569,7 +17725,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 163909,
       "name": "Make You Scream",
       "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
@@ -17617,6 +17773,24 @@
       "duration_ms": 148822,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF"
+    },
+    {
+      "album": {
+        "name": "Anjunadeep Explorations 19",
+        "url": "https://open.spotify.com/album/3nKb70XsqiQwCQQuLxZWpg"
+      },
+      "artists": [
+        {
+          "name": "Sinca",
+          "url": "https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239388,
+      "name": "Mancora",
+      "url": "https://open.spotify.com/track/2pmbbUP1lTKZ7voVz0zwmP"
     },
     {
       "album": {
@@ -19456,6 +19630,40 @@
     },
     {
       "album": {
+        "name": "Nobody Is Not Loved, Remixes, Pt. 3",
+        "url": "https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432360,
+      "name": "Never Sleep Again - Keinemusik Remix",
+      "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
+    },
+    {
+      "album": {
         "name": "Never Surrender (feat. Sarah de Warren)",
         "url": "https://open.spotify.com/album/5RqW9pQeAqQyd2iCWbSvIE"
       },
@@ -20071,6 +20279,24 @@
       "duration_ms": 223129,
       "name": "Not In Love (feat. LOWES)",
       "url": "https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu"
+    },
+    {
+      "album": {
+        "name": "Not The Only One",
+        "url": "https://open.spotify.com/album/2d6L8Hl5QO5FfPdf09F3HX"
+      },
+      "artists": [
+        {
+          "name": "SNBRN",
+          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Not The Only One",
+      "url": "https://open.spotify.com/track/2soUC2CP7aY7lEbSUdq2ny"
     },
     {
       "album": {
@@ -21457,7 +21683,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 221135,
       "name": "Passion (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF"
@@ -21549,7 +21775,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 159850,
       "name": "Perfect Melody",
       "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
@@ -21837,7 +22063,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 242892,
       "name": "Pods",
       "url": "https://open.spotify.com/track/6lHH2Pf5R8IBuQtew5hWz8"
@@ -22541,6 +22767,24 @@
       "duration_ms": 188852,
       "name": "Ready To Love",
       "url": "https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4"
+    },
+    {
+      "album": {
+        "name": "Real Nu Rave",
+        "url": "https://open.spotify.com/album/25sT5VKHzmvLH7tkWG4dBY"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Real Nu Rave",
+      "url": "https://open.spotify.com/track/78tfQxr0HGWVlHFkR5lBK8"
     },
     {
       "album": {
@@ -24344,6 +24588,28 @@
     },
     {
       "album": {
+        "name": "Side By Side (with MKLA)",
+        "url": "https://open.spotify.com/album/41tTMz5QHSUZgrKEYzsPlH"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153870,
+      "name": "Side By Side (with MKLA)",
+      "url": "https://open.spotify.com/track/37107dPB28NderX4Tpbirg"
+    },
+    {
+      "album": {
         "name": "Side Effect (feat. Au/Ra)",
         "url": "https://open.spotify.com/album/3zZfGVDKje9EiK2q4pki53"
       },
@@ -24655,6 +24921,24 @@
       "duration_ms": 303125,
       "name": "Skywalk",
       "url": "https://open.spotify.com/track/4AHbsdacRagQT4GklwTtON"
+    },
+    {
+      "album": {
+        "name": "Skyway",
+        "url": "https://open.spotify.com/album/2Jr01pxqEprp4dMjv4m927"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220309,
+      "name": "Skyway",
+      "url": "https://open.spotify.com/track/0iGHKQrXFK5ciq1BXYoDnR"
     },
     {
       "album": {
@@ -26756,6 +27040,32 @@
     },
     {
       "album": {
+        "name": "Tamo Loco",
+        "url": "https://open.spotify.com/album/0vsLnW41TjwuMgZI9kd0zA"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Tamo Loco",
+      "url": "https://open.spotify.com/track/19EwqyuwH4Na6bnOlIe3O0"
+    },
+    {
+      "album": {
         "name": "Tantrum",
         "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
       },
@@ -27979,7 +28289,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 162786,
       "name": "Those Eyes (feat. Griff Clawson)",
       "url": "https://open.spotify.com/track/33ArLNq6JksceoJUONafnX"
@@ -29133,7 +29443,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 389800,
       "name": "UUUU",
       "url": "https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd"
@@ -29473,7 +29783,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 148080,
       "name": "Walk Of Shame",
       "url": "https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo"
@@ -30921,7 +31231,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 161634,
       "name": "Wild Feelings",
       "url": "https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6"
@@ -31425,6 +31735,32 @@
       "duration_ms": 217617,
       "name": "Working Title",
       "url": "https://open.spotify.com/track/5Sumq4EBEVuB0fEloLidTd"
+    },
+    {
+      "album": {
+        "name": "World Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Fisher",
+          "url": "https://open.spotify.com/artist/1KXyMrwf1RFipbVOKsrYyg"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178304,
+      "name": "World Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
       "album": {

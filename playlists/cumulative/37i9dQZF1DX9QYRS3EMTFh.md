@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Its Natascha
 
-116 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+117 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-16 |  |
 | [Take A Shot](https://open.spotify.com/track/1ZwB1v284TPLEc6IU6O01O) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Take A Shot](https://open.spotify.com/album/4q3SkgQNK3BMwEOjFULRql) | 2:32 | 2021-12-22 | 2022-03-11 |
 | [The Harder They Fall](https://open.spotify.com/track/6AxSYAHq0U6fKykB7uScPl) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [The Harder They Fall \(The Motion Picture Soundtrack\)](https://open.spotify.com/album/3whjvbBxG7j2FfTImRdqBw) | 2:48 | 2022-01-06 | 2022-05-13 |
+| [Throwback \(feat\. Jnr Choi & Blackway\)](https://open.spotify.com/track/5IGJfLJRtJ5GYlQuOi2pBy) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Throwback \(feat\. Jnr Choi & Blackway\)](https://open.spotify.com/album/1d4aZ0J5JQpUTCr9IH4xkk) | 2:25 | 2022-07-07 |  |
 | [Touch Yuh Head](https://open.spotify.com/track/3Uz7hukmuZrWgndrVa0iXS) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Monsta Boss](https://open.spotify.com/artist/1M84HVHheuNfv1GbnDMqBb) | [Touch Yuh Head](https://open.spotify.com/album/4oQEwqssWbXMmrGfaTd3UC) | 2:49 | 2022-04-21 | 2022-07-01 |
 | [Tropics](https://open.spotify.com/track/4a2RUg8Jwp3bLl5eh7ZYJ0) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [P Skinna](https://open.spotify.com/artist/2vGSsUbRGtgfwCvGyJCJSV), [Liondub](https://open.spotify.com/artist/7HuGtUW71ocVHeaeasyFlB) | [Tropics](https://open.spotify.com/album/0Gi5mHgVkU5YKS48OMkriL) | 2:57 | 2022-01-06 | 2022-04-29 |
 | [Turn It up Hard](https://open.spotify.com/track/74r7MXeF0CtyuPOTJmpwTl) | [Marshall](https://open.spotify.com/artist/3PVXeZI5d2zsKUDjmxOKtM), [Stranjah Miller](https://open.spotify.com/artist/4dUkMc4aMkg2r5JAEs82xS), [DJ MiMi](https://open.spotify.com/artist/0nM2p46IFFB8f3NQxspjG5) | [Turn It up Hard](https://open.spotify.com/album/12TYrKbKnaYn09zrpcECSL) | 3:32 | 2021-12-22 | 2022-01-07 |

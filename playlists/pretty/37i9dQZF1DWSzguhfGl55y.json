@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 565528,
+  "num_followers": 565657,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0MjYwOSwwMDAwMDAwMDhlYjk5ZTdiODFkOTMzZjY3YTU4MDJhYmRiODRlODk2",
+  "snapshot_id": "MTY1NzMyODI3MSwwMDAwMDAwMDA2NTk2OWY3MjljZmMwYmE3MDNmYmYzMDdmYmZhYzc4",
   "tracks": [
     {
       "added_at": "2022-06-13 12:38:13",
@@ -23,6 +23,42 @@
       "duration_ms": 204213,
       "name": "Schlechtes Vorbild",
       "url": "https://open.spotify.com/track/0LmfeuPjr6wdmh7jeXgKaI"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Curse EP: Famous Five (with Silbermond)",
+        "url": "https://open.spotify.com/album/6H3hW8IMnRN8ODHsG5uTTr"
+      },
+      "artists": [
+        {
+          "name": "Curse",
+          "url": "https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi"
+        },
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Widerstand (feat. Gentleman)",
+      "url": "https://open.spotify.com/track/3SREWQTntVkUDdhAqgOGy5"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Krieg und Frieden",
+        "url": "https://open.spotify.com/album/4wkIfpDrTWZeJPtgOEghH1"
+      },
+      "artists": [
+        {
+          "name": "Die Firma",
+          "url": "https://open.spotify.com/artist/32iYExttk1mlpOmY7gCqk3"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Die Eine 2005",
+      "url": "https://open.spotify.com/track/1eS7Dfb5pe27NOHYxLy7iS"
     },
     {
       "added_at": "2022-06-13 12:38:13",
@@ -127,18 +163,34 @@
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Krieg und Frieden",
-        "url": "https://open.spotify.com/album/4wkIfpDrTWZeJPtgOEghH1"
+        "name": "Ich & meine Maske (Premium Version)",
+        "url": "https://open.spotify.com/album/3NsFn8eVQaA9yhT3rbiqyz"
       },
       "artists": [
         {
-          "name": "Die Firma",
-          "url": "https://open.spotify.com/artist/32iYExttk1mlpOmY7gCqk3"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 206560,
-      "name": "Die Eine 2005",
-      "url": "https://open.spotify.com/track/1eS7Dfb5pe27NOHYxLy7iS"
+      "duration_ms": 230906,
+      "name": "Augen auf",
+      "url": "https://open.spotify.com/track/0Jdx7iAwxJkx0h32wZlrJ5"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Samy Deluxe",
+        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
+      },
+      "artists": [
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "duration_ms": 343226,
+      "name": "Weck mich auf",
+      "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
     },
     {
       "added_at": "2022-06-13 12:38:13",
@@ -163,50 +215,18 @@
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Ich & meine Maske (Premium Version)",
-        "url": "https://open.spotify.com/album/3NsFn8eVQaA9yhT3rbiqyz"
+        "name": "Curse EP: Famous Five (with Silbermond)",
+        "url": "https://open.spotify.com/album/6H3hW8IMnRN8ODHsG5uTTr"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Curse",
+          "url": "https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi"
         }
       ],
-      "duration_ms": 230906,
-      "name": "Augen auf",
-      "url": "https://open.spotify.com/track/0Jdx7iAwxJkx0h32wZlrJ5"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Chabos wissen wer der Babo ist",
-        "url": "https://open.spotify.com/album/3qUVVgfr2GzcDukgYVr10T"
-      },
-      "artists": [
-        {
-          "name": "Haftbefehl",
-          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
-        }
-      ],
-      "duration_ms": 139908,
-      "name": "Chabos wissen wer der Babo ist",
-      "url": "https://open.spotify.com/track/6kjBafSuYC8gClzfYu7T1t"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "0,9 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
-      },
-      "artists": [
-        {
-          "name": "SSIO",
-          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
-        }
-      ],
-      "duration_ms": 232434,
-      "name": "Nullkommaneun",
-      "url": "https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy"
+      "duration_ms": 253760,
+      "name": "Und was ist jetzt - Single Version",
+      "url": "https://open.spotify.com/track/3GBYS5utUTjLGhmiTKKeam"
     },
     {
       "added_at": "2022-06-13 12:38:13",
@@ -227,90 +247,18 @@
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/7trUmg86DFfcs1uRRiv8GY"
+        "name": "Raop +5",
+        "url": "https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN"
       },
       "artists": [
         {
-          "name": "MoTrip",
-          "url": "https://open.spotify.com/artist/69u5rPwWBKP7pJHpCGB9O5"
-        },
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo"
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
         }
       ],
-      "duration_ms": 268515,
-      "name": "So wie du bist",
-      "url": "https://open.spotify.com/track/12SH8NE1e17yItgsb2gitp"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/5MQigvNGbzeIAOAq1EOwYy"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "New Dubby Conquerors",
-        "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
-      },
-      "artists": [
-        {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
-        },
-        {
-          "name": "Black Kappa",
-          "url": "https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Dickes B (feat. Black Kappa)",
-      "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Samy Deluxe",
-        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
-      },
-      "artists": [
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 343226,
-      "name": "Weck mich auf",
-      "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "#Beste",
-        "url": "https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Bilder im Kopf",
-      "url": "https://open.spotify.com/track/3AzVdNe7tCYbjjRzQyVLbN"
+      "duration_ms": 173280,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
     },
     {
       "added_at": "2022-06-13 12:38:13",
@@ -327,38 +275,6 @@
       "duration_ms": 215800,
       "name": "Schwarz zu blau",
       "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Zeiten \u00e4ndern dich",
-        "url": "https://open.spotify.com/album/1Oz2G4HlbF8KFwnJ9jBB8I"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Alles wird gut",
-      "url": "https://open.spotify.com/track/40eME3oaBl3vfDgKDDhSlM"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
-      },
-      "artists": [
-        {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Cruisen",
-      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
     },
     {
       "added_at": "2022-06-13 12:38:13",
@@ -383,66 +299,54 @@
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Raop +5",
-        "url": "https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN"
+        "name": "#Beste",
+        "url": "https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE"
       },
       "artists": [
         {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 173280,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
+      "duration_ms": 238560,
+      "name": "Bilder im Kopf",
+      "url": "https://open.spotify.com/track/3AzVdNe7tCYbjjRzQyVLbN"
     },
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft II",
-        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
+        "name": "0,9 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
       },
       "artists": [
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
         }
       ],
-      "duration_ms": 229653,
-      "name": "OMG!",
-      "url": "https://open.spotify.com/track/6ngfhauAytTZsaQgZyJIeK"
+      "duration_ms": 232434,
+      "name": "Nullkommaneun",
+      "url": "https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy"
     },
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-        "url": "https://open.spotify.com/album/32QmMim9bP5fxhz2Iiknjm"
+        "name": "New Dubby Conquerors",
+        "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
       "artists": [
         {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 601000,
-      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-      "url": "https://open.spotify.com/track/5TaMg5ybrcgprrccG17r0q"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
+        },
         {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+          "name": "Black Kappa",
+          "url": "https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6"
         }
       ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+      "duration_ms": 284906,
+      "name": "Dickes B (feat. Black Kappa)",
+      "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
     },
     {
       "added_at": "2022-06-13 12:38:13",
@@ -467,34 +371,34 @@
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Ganz Oben (Mixtape)",
-        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
+        "name": "Zum Gl\u00fcck in die Zukunft II",
+        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
       },
       "artists": [
         {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
         }
       ],
-      "duration_ms": 225693,
-      "name": "Ein Affe und ein Pferd",
-      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
+      "duration_ms": 229573,
+      "name": "Kids (2 Finger an den Kopf)",
+      "url": "https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX"
     },
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Viel - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
+        "name": "Zeiten \u00e4ndern dich",
+        "url": "https://open.spotify.com/album/1Oz2G4HlbF8KFwnJ9jBB8I"
       },
       "artists": [
         {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 269840,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
+      "duration_ms": 218106,
+      "name": "Alles wird gut",
+      "url": "https://open.spotify.com/track/40eME3oaBl3vfDgKDDhSlM"
     },
     {
       "added_at": "2022-06-13 12:38:13",
@@ -515,44 +419,8 @@
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft II",
-        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Kids (2 Finger an den Kopf)",
-      "url": "https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Carlo Cokxxx Nutten II (Saad)",
-        "url": "https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Saad",
-          "url": "https://open.spotify.com/artist/4EkoggilVZnddJLs4mbW1e"
-        }
-      ],
-      "duration_ms": 242360,
-      "name": "Nie ein Rapper",
-      "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Demotape",
-        "url": "https://open.spotify.com/album/6QwV2M3WxXxapiLNJ7Vfx1"
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/5MQigvNGbzeIAOAq1EOwYy"
       },
       "artists": [
         {
@@ -560,53 +428,9 @@
           "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
         }
       ],
-      "duration_ms": 205293,
-      "name": "Schwule M\u00e4dchen",
-      "url": "https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Beat of Life, Vol. 1",
-        "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
-      },
-      "artists": [
-        {
-          "name": "DJ Tomekk",
-          "url": "https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "Trooper Da Don",
-          "url": "https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Kimnotyze",
-      "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "So perfekt",
-      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR"
     },
     {
       "added_at": "2022-06-13 12:38:13",
@@ -631,44 +455,60 @@
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Up2Date XXL",
-        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
-      },
-      "artists": [
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Poesie Album",
-      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Hurra die Welt geht unter",
-        "url": "https://open.spotify.com/album/7uclLfIIEvq0Bz46QP6FWY"
+        "name": "Ganz Oben (Mixtape)",
+        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
       },
       "artists": [
         {
           "name": "K.I.Z",
           "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        },
-        {
-          "name": "Henning May",
-          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
         }
       ],
-      "duration_ms": 284693,
-      "name": "Hurra die Welt geht unter",
-      "url": "https://open.spotify.com/track/3NIDOSThELMihLSOMZcL4k"
+      "duration_ms": 225693,
+      "name": "Ein Affe und ein Pferd",
+      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
     },
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "4:99 - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
+        "name": "Chabos wissen wer der Babo ist",
+        "url": "https://open.spotify.com/album/3qUVVgfr2GzcDukgYVr10T"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "duration_ms": 139908,
+      "name": "Chabos wissen wer der Babo ist",
+      "url": "https://open.spotify.com/track/6kjBafSuYC8gClzfYu7T1t"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/7trUmg86DFfcs1uRRiv8GY"
+      },
+      "artists": [
+        {
+          "name": "MoTrip",
+          "url": "https://open.spotify.com/artist/69u5rPwWBKP7pJHpCGB9O5"
+        },
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo"
+        }
+      ],
+      "duration_ms": 268515,
+      "name": "So wie du bist",
+      "url": "https://open.spotify.com/track/12SH8NE1e17yItgsb2gitp"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Viel - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
       },
       "artists": [
         {
@@ -676,35 +516,15 @@
           "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Mit freundlichen Gr\u00fc\u00dfen",
-      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+      "duration_ms": 269840,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
     },
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Irgendwie, Irgendwo, Irgendwann",
-        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        },
-        {
-          "name": "Dennis Dubplate",
-          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
-        }
-      ],
-      "duration_ms": 330409,
-      "name": "Irgendwie, Irgendwo, Irgendwann",
-      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1Pxhd6AwPog83Ad8kuBgad"
+        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+        "url": "https://open.spotify.com/album/32QmMim9bP5fxhz2Iiknjm"
       },
       "artists": [
         {
@@ -712,61 +532,9 @@
           "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 266346,
-      "name": "Alles verloren",
-      "url": "https://open.spotify.com/track/3rTyIZehMuV8fZDx3ZevRr"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Bitte ziehen sie durch",
-        "url": "https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW"
-      },
-      "artists": [
-        {
-          "name": "Deichkind",
-          "url": "https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs"
-        },
-        {
-          "name": "Nina Tenge",
-          "url": "https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Bon Voyage (feat. Nina)",
-      "url": "https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft",
-        "url": "https://open.spotify.com/album/6dJll3j2Ai1hfOkH866Qf5"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "Endboss",
-      "url": "https://open.spotify.com/track/2JGloz8S7kkUi57c892mnv"
-    },
-    {
-      "added_at": "2022-06-13 12:38:13",
-      "album": {
-        "name": "#Beste",
-        "url": "https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Hey Du!",
-      "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
+      "duration_ms": 601000,
+      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+      "url": "https://open.spotify.com/track/5TaMg5ybrcgprrccG17r0q"
     },
     {
       "added_at": "2022-06-13 12:38:13",
@@ -795,24 +563,240 @@
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
+        "name": "Ich & meine Maske - Trilogy",
+        "url": "https://open.spotify.com/album/0JefPAUJSKQyTTs67mtm4q"
       },
       "artists": [
         {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Du bist Boss",
-      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
+      "duration_ms": 227573,
+      "name": "Fuffies im Club",
+      "url": "https://open.spotify.com/track/65trjE7JXGj7NpjROLS6A0"
     },
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Best Of 1990 - 2005",
-        "url": "https://open.spotify.com/album/5Zf5Pf88OpcgLDYeHKxHJo"
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+      },
+      "artists": [
+        {
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft",
+        "url": "https://open.spotify.com/album/6dJll3j2Ai1hfOkH866Qf5"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 224080,
+      "name": "Endboss",
+      "url": "https://open.spotify.com/track/2JGloz8S7kkUi57c892mnv"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "3 Hamburger mit'm Monsterbass",
+        "url": "https://open.spotify.com/album/0KnCgOJCjWJFZ8Uy1BEaYf"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Da Draussen",
+      "url": "https://open.spotify.com/track/02BwWUWmyuH1hrMBxJVHVp"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Beat of Life, Vol. 1",
+        "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomekk",
+          "url": "https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "Trooper Da Don",
+          "url": "https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Kimnotyze",
+      "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 301173,
+      "name": "Walpurgisnacht",
+      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/0XlabCD2B7bH6QRT9FnHU5"
+      },
+      "artists": [
+        {
+          "name": "Azad",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        },
+        {
+          "name": "Cassandra Steen",
+          "url": "https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Eines Tages",
+      "url": "https://open.spotify.com/track/3PFjIAljdzO7uV1VDtedbU"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1Pxhd6AwPog83Ad8kuBgad"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Alles verloren",
+      "url": "https://open.spotify.com/track/3rTyIZehMuV8fZDx3ZevRr"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft II",
+        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "OMG!",
+      "url": "https://open.spotify.com/track/6ngfhauAytTZsaQgZyJIeK"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "#Beste",
+        "url": "https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Hey Du!",
+      "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Auf einem Auge bl\u00f6d",
+        "url": "https://open.spotify.com/album/57g3nxqJgXXQqm5j16VixL"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        },
+        {
+          "name": "Gaze Matratze",
+          "url": "https://open.spotify.com/artist/2ekDGDHSF3fJpTUHmhLH0m"
+        },
+        {
+          "name": "Der Tobi & Das Bo",
+          "url": "https://open.spotify.com/artist/6xfiSOFKj4SRWIzca5zk1i"
+        },
+        {
+          "name": "Ei\u00dffeldt",
+          "url": "https://open.spotify.com/artist/47YIzuFavy8feAsvkDNWrn"
+        },
+        {
+          "name": "Fischmob",
+          "url": "https://open.spotify.com/artist/6OqgIRmdNbYzWX1r3KeiB1"
+        },
+        {
+          "name": "Supermario",
+          "url": "https://open.spotify.com/artist/3OFA97voMgCPhswSrjsqPV"
+        },
+        {
+          "name": "Cram",
+          "url": "https://open.spotify.com/artist/7vl8T261DFmoIVSm9t9UX5"
+        },
+        {
+          "name": "Tabularasa",
+          "url": "https://open.spotify.com/artist/4ia1E4gtJfn3EWm9hlCJ4J"
+        }
+      ],
+      "duration_ms": 550706,
+      "name": "Nordisch by Nature (feat. Gaze Matratze, Der Tobi & Das Bo, Ei\u00dffeldt, Fischmob, Super Mario, Cram, Tabula Rasa)",
+      "url": "https://open.spotify.com/track/6NYZ0wmDmpMe8NBQcttXKY"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "4:99 - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
       },
       "artists": [
         {
@@ -820,9 +804,49 @@
           "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
         }
       ],
-      "duration_ms": 251466,
-      "name": "Die Da!?!",
-      "url": "https://open.spotify.com/track/1bSYWaCau3CbOUdfkBagGO"
+      "duration_ms": 215933,
+      "name": "Mit freundlichen Gr\u00fc\u00dfen",
+      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        },
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "duration_ms": 274640,
+      "name": "F\u00fcchse",
+      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
+    },
+    {
+      "added_at": "2022-06-13 12:38:13",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
     },
     {
       "added_at": "2022-06-13 12:38:13",
@@ -843,38 +867,38 @@
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Dis Wo Ich Herkomm",
-        "url": "https://open.spotify.com/album/22rhzumalcslUugg4P8oBT"
+        "name": "Mein Block Remix",
+        "url": "https://open.spotify.com/album/4jWszl7frUZyflSXaSNY3U"
       },
       "artists": [
         {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Bis die Sonne rauskommt",
-      "url": "https://open.spotify.com/track/3su7Zc3YwzJuzRRRlxXQYE"
+      "duration_ms": 300973,
+      "name": "Mein Block (Beathoavenz Video Rmx)",
+      "url": "https://open.spotify.com/track/3ChqYKTyYIpK3jYd6kfN4D"
     },
     {
       "added_at": "2022-06-13 12:38:13",
       "album": {
-        "name": "Russisch Roulette (Deluxe)",
-        "url": "https://open.spotify.com/album/3K6MF35dS8vhxKvkcocAHc"
+        "name": "Bitte ziehen sie durch",
+        "url": "https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW"
       },
       "artists": [
         {
-          "name": "Haftbefehl",
-          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+          "name": "Deichkind",
+          "url": "https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs"
         },
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+          "name": "Nina Tenge",
+          "url": "https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p"
         }
       ],
-      "duration_ms": 189280,
-      "name": "Ich rolle mit meim Besten - Babos Remix",
-      "url": "https://open.spotify.com/track/2AXOg2WMjJt8Os7M3b589T"
+      "duration_ms": 204000,
+      "name": "Bon Voyage (feat. Nina)",
+      "url": "https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z"
     },
     {
       "added_at": "2022-06-13 12:38:13",

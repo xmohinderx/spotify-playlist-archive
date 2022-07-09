@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,190 likes - 164 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,226 likes - 164 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 163 | [modern grooves](https://open.spotify.com/track/7eZLYuZNekoxGxjMBQ8ACl) | [slån](https://open.spotify.com/artist/3FtHbjWZC4p0XzS0qbaleC) | [modern grooves](https://open.spotify.com/album/0fOAKYEVrzvIGkWEs1fMfl) | 1:36 |
 | 164 | [Soul Kitchen](https://open.spotify.com/track/5rwkMQ0tfHdy7zIYDSoKAQ) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:24 |
 
-Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDAyZTAwMDAwMTgxZGIxYjJjYzAwMDAwMDE3NmRjNGNjZDU3`
+Snapshot ID: `MTY1NzI5MzM2MCwwMDAwMDAyZjAwMDAwMTgxZGU2MWNiZTYwMDAwMDE4MWRlNjFhZDI5`

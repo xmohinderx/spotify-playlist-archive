@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-159 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+160 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Back For You](https://open.spotify.com/track/24vB9KU0Js72mkIUehOLLy) | [Finding Aurora](https://open.spotify.com/artist/5cg6ycryqQJewFOqeffsC0) | [Back For You](https://open.spotify.com/album/6BegE1id4r7qCygofzNGTb) | 4:06 | 2022-04-07 |  |
 | [Bad Influence](https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Bad Influence](https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8) | 3:02 | 2022-03-29 | 2022-06-17 |
 | [Bash Out](https://open.spotify.com/track/1eEi76zQSIuNYTw2Zc62ZO) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Bash Out](https://open.spotify.com/album/1PpJI2AhT8IXSOmI98YF4d) | 3:00 | 2022-04-21 |  |
-| [Battlefield](https://open.spotify.com/track/3iMTJzVlT3yky8R8ynOqSK) | [Stare At The Sun](https://open.spotify.com/artist/2rvPQSpwqCXNxixP6I6BYi) | [Battlefield](https://open.spotify.com/album/7hj2LiJvvRZrvwhSWWzVMx) | 4:30 | 2022-04-28 |  |
+| [Battlefield](https://open.spotify.com/track/3iMTJzVlT3yky8R8ynOqSK) | [Stare At The Sun](https://open.spotify.com/artist/2rvPQSpwqCXNxixP6I6BYi) | [Battlefield](https://open.spotify.com/album/7hj2LiJvvRZrvwhSWWzVMx) | 4:30 | 2022-04-28 | 2022-07-09 |
 | [Beauty Salons](https://open.spotify.com/track/0AyrAZDGwV8UCRrlYz5wIH) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Beauty Salons](https://open.spotify.com/album/3cjhshhb6qXbX8mxiEVGYW) | 4:39 | 2022-05-26 | 2022-06-17 |
 | [belly aching beast \(feat\. Jamie Lenman\)](https://open.spotify.com/track/0z0SfVwuiI26AnrnDZNrto) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx), [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [belly aching beast \(feat\. Jamie Lenman\)](https://open.spotify.com/album/4uSJH3tbQHpYMCi9x599Hq) | 3:22 | 2022-02-10 | 2022-04-22 |
 | [Better Friend](https://open.spotify.com/track/6KfQ8vcjvMH87mrD96WFSC) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Better Friend](https://open.spotify.com/album/75XZVRTJTmmVIpicxZLRuL) | 4:17 | 2022-02-24 | 2022-07-01 |
@@ -136,6 +136,7 @@
 | [spiralling](https://open.spotify.com/track/310DWtC6vJzSPdexKb0Dnq) | [Exit Dream](https://open.spotify.com/artist/1vjClLSU7owOEFgBruZVWs) | [spiralling](https://open.spotify.com/album/1aHO2uXq0zKcauZi2NjcV4) | 3:53 | 2022-06-30 |  |
 | [Stay Sane](https://open.spotify.com/track/7IhqfL5O6ODzo3GvsJWfPp) | [Chlorine](https://open.spotify.com/artist/3JUz5tz4Whdo5kaW8uOKjF) | [Stay Sane](https://open.spotify.com/album/1bV5jcaO8VJ1axYqK77MTE) | 3:03 | 2022-06-09 | 2022-06-17 |
 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 | 2022-04-21 |  |
+| [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 |  |
 | [Stuck](https://open.spotify.com/track/5hkgZ6ihtsF6IZr0KaYeMd) | [Oceanator](https://open.spotify.com/artist/4XUljLhCjbV8Zc6IX14Yj6) | [Stuck](https://open.spotify.com/album/49SmbwW9P7GYiQUXimkcTJ) | 3:46 | 2022-03-10 |  |
 | [Summer Set Fire to the Rain](https://open.spotify.com/track/4vnPiUc0uJRHnm7vRsrDls) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Horizons / East](https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc) | 4:22 | 2022-02-24 | 2022-05-20 |
 | [Supernova](https://open.spotify.com/track/4qZSCfYTF2sJ2wiuQXYLHO) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Staircase Music](https://open.spotify.com/album/1kjJ7hY4eqtHNwvAcgEZxt) | 3:21 | 2022-02-17 | 2022-07-01 |

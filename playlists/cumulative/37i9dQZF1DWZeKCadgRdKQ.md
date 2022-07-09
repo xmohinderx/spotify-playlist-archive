@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-452 songs - 1 day 2 hr 24 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+456 songs - 1 day 2 hr 35 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,11 @@
 | [A Silver Lining](https://open.spotify.com/track/1f5neDqYLk7K0ocvlbbbWF) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:15 | 2019-05-26\* | 2020-08-07 |
 | [Adjustments](https://open.spotify.com/track/6w0vhPaZBYjhrDobs3QE14) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Adjustments](https://open.spotify.com/album/1YzQ1qTia4TW6Xs0gXuVgw) | 3:02 | 2020-04-13 | 2021-10-21 |
 | [Adrift](https://open.spotify.com/track/3TNNGjgOQ7O8vwAlvlD9Fg) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Adrift](https://open.spotify.com/album/3izDC00ayirR9iY92O5UUX) | 2:38 | 2019-06-19\* |  |
+| [aesthetics](https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [aesthetics](https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej) | 2:13 | 2022-07-08 |  |
 | [Alluvium](https://open.spotify.com/track/5II0aPh5uu5wL7MOt6z5VO) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Alluvium](https://open.spotify.com/album/5M4J7f0PV8AtDrYVkyPkV6) | 2:04 | 2019-06-27 | 2021-09-14 |
 | [alpha waves](https://open.spotify.com/track/5ZCW5CDwhfXJGL2MzxGwhx) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [alpha waves](https://open.spotify.com/album/1Qbsw57Avkq9ClGT3iUGqc) | 3:25 | 2019-12-31 | 2022-03-05 |
 | [An Old Peasant Like Me](https://open.spotify.com/track/78cbhgSNRUkyQ3YqN8fTtH) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p), [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Prince Avalanche: An Original Motion Picture Soundtrack](https://open.spotify.com/album/76OMD7932xvfFDuodAtfh4) | 3:47 | 2019-05-26\* | 2020-01-09 |
+| [Anagram](https://open.spotify.com/track/2XLdNfDhWJwViR3wiq8NrA) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Anagram](https://open.spotify.com/album/3EMafNmPdqTVmiESnJAwOp) | 2:28 | 2022-07-08 |  |
 | [Andromeda](https://open.spotify.com/track/2hjIqdLhL5qUtOA4HzMQeQ) | [ÆROSPHERE](https://open.spotify.com/artist/7Mfz9T76LrHFec8v9raCNW) | [Andromeda](https://open.spotify.com/album/0dcuQcOj1reIEGexif7Mj5) | 4:26 | 2019-06-19\* | 2021-11-19 |
 | [Anomaly](https://open.spotify.com/track/5UqCq6DWkMfFEFxNhQi8zZ) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Dear Avalanche](https://open.spotify.com/album/1Q4lWl84CNsZDDXQCm9VLe) | 2:54 | 2019-05-26\* | 2019-06-19 |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2019-12-07 | 2020-08-07 |
@@ -171,6 +173,7 @@
 | [He Needs Help](https://open.spotify.com/track/39hBYtqNwwl7v0gynAWyZj) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Brigsby Bear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cySEIjLUYaMv6y34i0N4H) | 3:10 | 2019-06-19\* | 2021-10-21 |
 | [heels to the heavens](https://open.spotify.com/track/4lcT08ARvK8cVjRLJbnKLh) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [heels to the heavens](https://open.spotify.com/album/6PGaWbrb1EUF54pqFZOBev) | 2:57 | 2021-11-11 |  |
 | [HEIR I](https://open.spotify.com/track/5rex1EYt4davYPo4igd2eH) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [HEIR](https://open.spotify.com/album/62J9QPjudiX5JlRXFPivbD) | 5:00 | 2019-05-26\* | 2019-06-19 |
+| [Heliosphere](https://open.spotify.com/track/1oCPeGIQ5TpDYKrS4KmSTr) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [Heliosphere](https://open.spotify.com/album/4EjWjpbSRORaGgEwoMoN09) | 3:08 | 2022-07-08 |  |
 | [Hello!](https://open.spotify.com/track/6SZtWGjKULlJUW9sD5guhk) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p), [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Manglehorn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nkRvjMyEwsBIteO0tnO4Y) | 3:38 | 2019-05-26\* | 2020-01-03 |
 | [Hibernation](https://open.spotify.com/track/2OuACwejkbRvb8vomGmak7) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Hibernation](https://open.spotify.com/album/1JLRPkXnnI9Gj5xrG8UAXl) | 5:06 | 2019-05-26\* | 2019-08-13 |
 | [Hidden Chambers](https://open.spotify.com/track/4iNlPrMJCvBjakWljscabH) | [Marlee Tuaine](https://open.spotify.com/artist/2qRSibliMCzMBIIUqMqaRB) | [Fragmented Thoughts](https://open.spotify.com/album/0aZWKOxr4JMCSIpVAmBR2T) | 2:49 | 2020-10-08 |  |
@@ -351,7 +354,7 @@
 | [Someone Else](https://open.spotify.com/track/1cR7s0ghhOj56nhTjwSIRO) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Someone Else](https://open.spotify.com/album/0lc2UIElzXydvM4NFtHbby) | 4:07 | 2019-06-19\* | 2020-12-02 |
 | [Song For Saul](https://open.spotify.com/track/4kNNXWML7vg2b4NXAGILdd) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Fields Of Moab](https://open.spotify.com/album/0koXNisSlKiZui2102JtVx) | 3:53 | 2019-06-19\* | 2020-01-09 |
 | [Sphere](https://open.spotify.com/track/07CcNtxvGbffdU6wrwmqKq) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:20 | 2019-06-19\* | 2021-06-16 |
-| [Squaric](https://open.spotify.com/track/5vUaPsEVEsmv5J11CTgjBA) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Squaric](https://open.spotify.com/album/3weidR9AlIh3zsaHcR5tzH) | 2:33 | 2020-09-17 |  |
+| [Squaric](https://open.spotify.com/track/5vUaPsEVEsmv5J11CTgjBA) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Squaric](https://open.spotify.com/album/3weidR9AlIh3zsaHcR5tzH) | 2:33 | 2020-09-17 | 2022-07-09 |
 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 | 2019-05-26\* | 2019-06-27 |
 | [Starlights](https://open.spotify.com/track/2tSlohCLetwQRpA71jbnrB) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 5:13 | 2019-05-26\* | 2019-06-19 |
 | [Stillness Within](https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Stillness Within](https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd) | 2:55 | 2021-12-17 |  |
@@ -362,6 +365,7 @@
 | [Sunrise](https://open.spotify.com/track/0tgMoWV59lNPjuenr5mqvt) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Sunrise](https://open.spotify.com/album/7wIxTaDBUvGwrHCMS2Effs) | 2:49 | 2019-06-19\* | 2021-09-14 |
 | [Supernovas](https://open.spotify.com/track/60pJo7veaWc8yLHYyFfnB2) | [William Roud](https://open.spotify.com/artist/0KhhuDNDaeL6SOVM6K6Lt1) | [Supernovas](https://open.spotify.com/album/6ue3ZpkjQ2A4IwCgeq4MJR) | 3:02 | 2019-05-26\* | 2020-08-07 |
 | [Suspended Belief](https://open.spotify.com/track/4MpFWA4sVQYVlEsZCWeHU3) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Expansion](https://open.spotify.com/album/2mCu9wgBh9IYpDrTwJVnse) | 2:58 | 2019-06-19\* | 2020-10-08 |
+| [synergy](https://open.spotify.com/track/1rpHkU5rHv0aPQwD65Ld1y) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Indigo](https://open.spotify.com/album/3VqCSYcMBzgKhWtlPVbjCN) | 3:04 | 2022-07-08 |  |
 | [Takeoff](https://open.spotify.com/track/4iKSrwTBu0vLSqmZUXSGXr) | [Silo Silo](https://open.spotify.com/artist/3boXA17PQlju7JHXMHO5xA) | [Takeoff](https://open.spotify.com/album/28DQzrwSKkeHBikKirM1Bh) | 3:14 | 2020-06-19 |  |
 | [taming the tiger](https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Under And Can't Roll](https://open.spotify.com/album/04IciDXb3cgCpsdfavYvom) | 2:17 | 2021-09-14 |  |
 | [Target](https://open.spotify.com/track/60tHXabTlAhzlkXRDWl9cp) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Target](https://open.spotify.com/album/3kI4ax7CduZsv6bqHvcbGK) | 3:03 | 2020-01-03 | 2020-10-27 |

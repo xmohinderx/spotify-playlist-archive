@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Lilyisthatyou
 
-386 songs - 20 hr 15 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+388 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Comfortable](https://open.spotify.com/track/5QyNMyfhBMIStzL07zQ9Hj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Comfortable](https://open.spotify.com/album/7jgQ0wQzBIWPeQOlrUYC1S) | 3:31 | 2022-07-06 |  |
 | [COMING IN DIFFERENT](https://open.spotify.com/track/2mMVuFeBmY319d4zERWLn1) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [COMING IN DIFFERENT](https://open.spotify.com/album/5WR2XQBrtovXiAneMZdvVs) | 2:01 | 2022-04-06 | 2022-04-13 |
 | [Common Ground](https://open.spotify.com/track/2894GpCbg23YHmtq16qguA) | [Kelly Prescott](https://open.spotify.com/artist/70skqWNNxbe1l0oVHVQB6O) | [Cloud 9](https://open.spotify.com/album/56h6xegUoqMGrFpEoc1CVS) | 3:23 | 2022-07-06 |  |
+| [Competition](https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Competition](https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK) | 3:06 | 2022-07-08 |  |
 | [Convince Me](https://open.spotify.com/track/0zujGHmFkevTMEwDbgtvRe) | [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Convince Me](https://open.spotify.com/album/4NQZi4XsULycm4thQi4bHe) | 2:45 | 2022-07-06 |  |
 | [Coolest fucking bitch in town](https://open.spotify.com/track/7oF49vbWvNZBSqPRzrqTrr) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Coolest fucking bitch in town](https://open.spotify.com/album/6473Bw0fbg01rEXirczRcs) | 4:56 | 2022-03-08 | 2022-04-07 |
 | [Counterfeit Love](https://open.spotify.com/track/0Mqt5UD2SCi8Qd6pvaJupU) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [Counterfeit Love](https://open.spotify.com/album/6EjWmcLTiMjVa57CxfyIBa) | 3:04 | 2022-05-04 | 2022-06-01 |
@@ -135,7 +136,7 @@
 | [Go Get It](https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Go Get It](https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV) | 2:21 | 2022-02-02 | 2022-03-09 |
 | [Go With It](https://open.spotify.com/track/6LYFnJ8KF1ZYlazdPr248h) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [Go With It](https://open.spotify.com/album/0yOXNwQA96IgKNgUez2O1U) | 2:37 | 2022-01-05 | 2022-02-03 |
 | [Good Life](https://open.spotify.com/track/0qllV0IlmVXSfyMYbw3f24) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm) | 3:35 | 2022-03-08 | 2022-04-07 |
-| [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-06-01 |  |
+| [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-06-01 | 2022-07-09 |
 | [Gossip](https://open.spotify.com/track/5GWE2impMFvY0oeRd1Xivt) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Gossip](https://open.spotify.com/album/2RBHpIgzKjrGmmkLPUcVI3) | 4:01 | 2022-04-06 | 2022-05-04 |
 | [GOT EM](https://open.spotify.com/track/0DNd9G0yzPVeE7szNAHvKS) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 3:46 | 2022-06-01 | 2022-06-09 |
 | [Gucci Store](https://open.spotify.com/track/1tQ6N1dQiXepKnjetWVsAc) | [Prado](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq) | [Gucci Store](https://open.spotify.com/album/3xxp6GqKMcwBT41XQmad9w) | 2:02 | 2022-06-01 | 2022-07-07 |
@@ -185,6 +186,7 @@
 | [Just Like That](https://open.spotify.com/track/5JmveZsPWCIkPMsgw3NHP5) | [Jennie Harluk](https://open.spotify.com/artist/2nik10Ty0mtiWMAL6bTFWw) | [Just Like That](https://open.spotify.com/album/6PZboDuZzAMFWWacFXauUW) | 2:31 | 2022-01-05 | 2022-02-03 |
 | [Keep Dancing](https://open.spotify.com/track/40MvWovKhWdX9jxbthw62T) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Keep Dancing](https://open.spotify.com/album/2g1V6cI8hGRPXiyVEDnXYN) | 2:59 | 2022-05-04 | 2022-06-01 |
 | [Kissed Me Like That](https://open.spotify.com/track/5ZUuLmIU1laEV2RMQCztIp) | [Megan Dawson](https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4) | [Kissed Me Like That](https://open.spotify.com/album/0OmmnPHYRa1qLmROhDUoPo) | 3:07 | 2022-05-04 | 2022-06-01 |
+| [Knock Off](https://open.spotify.com/track/4OFyzhB3z7NI9LHk1imE5E) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Knock Off](https://open.spotify.com/album/3lGl8LGBSvrLvv89wFpy6y) | 3:04 | 2022-07-08 |  |
 | [La fin](https://open.spotify.com/track/2GgyYB3Hstk8KrX6AsGemA) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [La rivière](https://open.spotify.com/album/72DZjGPRX4fd8rpHmvb3Vt) | 2:59 | 2022-03-08 | 2022-04-07 |
 | [Lajan](https://open.spotify.com/track/1xH4bzkXRMsLJ3OyYflr0w) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [Lajan](https://open.spotify.com/album/3LThUsrUigKPQuUsgdnCcl) | 2:39 | 2022-03-08 | 2022-04-07 |
 | [Last Night](https://open.spotify.com/track/4dFQjuEsCVlA59LB3diItC) | [Miss McLeod](https://open.spotify.com/artist/0JeXxvHfbLkoMHmS8WJymy) | [Last Night](https://open.spotify.com/album/0rV022QmTwdl476CVM68TS) | 2:36 | 2022-05-04 | 2022-06-01 |

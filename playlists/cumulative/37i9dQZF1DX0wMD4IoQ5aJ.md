@@ -2,7 +2,7 @@
 
 ### [Electronic Focus](https://open.spotify.com/playlist/37i9dQZF1DX0wMD4IoQ5aJ)
 
-> Focus to the sound of soft electronic music.
+> Work and study to the sound of soft electronic music.
 
 187 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 

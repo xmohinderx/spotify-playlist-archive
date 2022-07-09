@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: JID\)
 
-543 songs - 1 day 3 hr 21 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+544 songs - 1 day 3 hr 24 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-01-28 | 2022-03-11 |
 | [As you are](https://open.spotify.com/track/4h6WxofpPYdffSul9zgh5I) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [As you are](https://open.spotify.com/album/7lizwS91vA2vdPKGEZWTx1) | 3:07 | 2022-05-12 | 2022-06-18 |
 | [Ask God \(feat\. Yhung T.O.\)](https://open.spotify.com/track/2hIzrXh8H8Qkh4qmvPKCu7) | [Pacman da Gunman](https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Yhung T.O.](https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l) | [Bulletproof Soul](https://open.spotify.com/album/1fudRwKo3F3p7Qito2CaMA) | 2:04 | 2022-03-31 | 2022-04-22 |
+| [Ay Caramba](https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ay Caramba](https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv) | 2:44 | 2022-07-07 |  |
 | [B612](https://open.spotify.com/track/3LoAVHLT5JyWV9StEAtm0B) | [SeungHu](https://open.spotify.com/artist/1RFcUru7RPRBKd2C8Zb4VW) | [B612](https://open.spotify.com/album/4cbkOuaRDBGkji0XBKrNL6) | 2:36 | 2022-06-23 |  |
 | [Back It Up](https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D) | [Popp Hunna](https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I) | [Back It Up](https://open.spotify.com/album/1lIkzEoKntwg8tmg16xLXL) | 2:38 | 2022-01-20 | 2022-02-04 |
 | [Bad Loves Business](https://open.spotify.com/track/2uGQCa5K0fY146EdbNM2eN) | [Januarta The Goat](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc), [Keilandboi](https://open.spotify.com/artist/556Ux8bsLTnvZtm8ZjuAIT) | [Bad Loves Business](https://open.spotify.com/album/15cdywQYEmLfBYHf1XNApI) | 3:20 | 2022-01-27 | 2022-02-25 |

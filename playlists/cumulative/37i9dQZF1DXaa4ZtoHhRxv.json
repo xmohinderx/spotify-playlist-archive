@@ -986,6 +986,32 @@
     },
     {
       "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/5ECjElUCcGjURvHvdarOyz"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        },
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        },
+        {
+          "name": "Seth Ennis",
+          "url": "https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186961,
+      "name": "First Rodeo",
+      "url": "https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO"
+    },
+    {
+      "album": {
         "name": "Good as You",
         "url": "https://open.spotify.com/album/1shrUJ5iUnfkSW8LzEX8Ps"
       },

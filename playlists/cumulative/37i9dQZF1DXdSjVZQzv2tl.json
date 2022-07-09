@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Jorge & Mateus",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Matheus & Kauan",
   "name": "Esquenta Sertanejo",
   "published_playlist_ids": [
     "1QClRCShAKNcti565v7TOp"
@@ -1148,6 +1148,24 @@
     },
     {
       "album": {
+        "name": "LUAN CITY ALAMEDA BRUNA SANTANA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/49CJLfc1GJNjhMb7C7l9Ve"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201896,
+      "name": "PERIGO NOTURNO - Ao Vivo",
+      "url": "https://open.spotify.com/track/4IX43MpJlpxzRMLb9QayrJ"
+    },
+    {
+      "album": {
         "name": "Pino da Granada (Ao Vivo em Rio Preto)",
         "url": "https://open.spotify.com/album/60SAVsrvuAcIBAyqNxPOLP"
       },
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 144516,
       "name": "Vestido Coladinho",
       "url": "https://open.spotify.com/track/1d7AtPeraWVsvI4U1YTHt1"

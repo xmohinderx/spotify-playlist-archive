@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128470,
+  "num_followers": 128473,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzUwNiw5OTc0NjkwMjkzOTQwM2U2YTNkYmFlMGRkMTY4NmE3MjYxNGFiY2Vm",
+  "snapshot_id": "MzUxMCxjNjkyMzU1NGQ4ZWU3YWFhMGIyYmVkZWFhM2I1M2YwZmYxNDVmNTNi",
   "tracks": [
+    {
+      "added_at": "2022-07-08 16:49:30",
+      "album": {
+        "name": "Drive You Crazy",
+        "url": "https://open.spotify.com/album/1zetX8KIFc1L4WmDm23uxb"
+      },
+      "artists": [
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        },
+        {
+          "name": "Nitti Gritti",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Drive You Crazy",
+      "url": "https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH"
+    },
+    {
+      "added_at": "2022-07-08 16:48:50",
+      "album": {
+        "name": "Parhelion",
+        "url": "https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj"
+      },
+      "artists": [
+        {
+          "name": "Stendahl",
+          "url": "https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Parhelion",
+      "url": "https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A"
+    },
     {
       "added_at": "2022-07-07 16:37:29",
       "album": {
@@ -1079,42 +1115,6 @@
       "duration_ms": 174193,
       "name": "I Don't Really Care",
       "url": "https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd"
-    },
-    {
-      "added_at": "2022-04-29 16:10:28",
-      "album": {
-        "name": "The Intimate Space",
-        "url": "https://open.spotify.com/album/5AzkYIG5sDlEChKq7n93Kv"
-      },
-      "artists": [
-        {
-          "name": "Not Now Please",
-          "url": "https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "The Intimate Space",
-      "url": "https://open.spotify.com/track/1pJW9CkfDyV7wc1YJpK4g9"
-    },
-    {
-      "added_at": "2022-04-28 16:53:19",
-      "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT"
-      },
-      "artists": [
-        {
-          "name": "Annix",
-          "url": "https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR"
-        },
-        {
-          "name": "Elipsa",
-          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

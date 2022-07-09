@@ -198,6 +198,28 @@
     },
     {
       "album": {
+        "name": "Cosplay de Amor da Minha Vida",
+        "url": "https://open.spotify.com/album/3riQ42qoo9R4V7OSA9XoeU"
+      },
+      "artists": [
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        },
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181764,
+      "name": "Cosplay de Amor da Minha Vida",
+      "url": "https://open.spotify.com/track/7l8VsccVXfcUD6tYmiKxzI"
+    },
+    {
+      "album": {
         "name": "C\u00e9u Neon",
         "url": "https://open.spotify.com/album/0tOuA6nhzH5sUn3ZSLrvLM"
       },
@@ -611,7 +633,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 169000,
       "name": "Matcha",
       "url": "https://open.spotify.com/track/6ngy530qeyAJ78ucSAtM7c"

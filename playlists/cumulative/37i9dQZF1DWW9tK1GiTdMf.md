@@ -4,7 +4,7 @@
 
 > canzoni da gridare ed è iniziata anche questa summersad ❤️‍🩹🌦
 
-180 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+181 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [non mi BASTA](https://open.spotify.com/track/0HvbJLT8li56TnvC1zYwit) | [Aspettativa](https://open.spotify.com/artist/0FBFBr8Z7ZaTk8X7jevnRk) | [non mi BASTA](https://open.spotify.com/album/6VlqwSVCdMW2Q1tA5hEG6d) | 2:53 | 2022-07-07 |  |
 | [Non mi fa più effetto](https://open.spotify.com/track/6pThYLxwNWJqHwxDLaBoWw) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7) | [Non mi fa più effetto](https://open.spotify.com/album/76CYB1ZDOUawBhqQxlatiZ) | 3:04 | 2022-06-23 |  |
 | [Non voglio guai](https://open.spotify.com/track/2quAWiyJVoeV3Ots9gg2WZ) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Non voglio guai](https://open.spotify.com/album/3YX01kpzAqvgq2Qw8NFBXW) | 2:24 | 2022-05-06 |  |
+| [Non è facile](https://open.spotify.com/track/3H2WiDzrK0TPyANzwadVGs) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [Non è facile](https://open.spotify.com/album/0f78DOJtvjfSfez8fIiXCH) | 2:56 | 2022-07-08 |  |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2022-06-28 |  |
 | [NUOVE DUNK](https://open.spotify.com/track/54DQFPbhqJfJApFyEQe9CO) | [Sad Twins](https://open.spotify.com/artist/7IB0pjMcXuxaYe1QNSlO6P) | [NUOVE DUNK](https://open.spotify.com/album/7yZ7IFD3aFXR2dNYrJ6wxy) | 2:48 | 2022-05-19 | 2022-06-28 |
 | [occhi rossi](https://open.spotify.com/track/1l3555yanzfiCs9Hf6xhXF) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7), [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [occhi rossi](https://open.spotify.com/album/6OZzDSSyeSjcLV5mjZbhfd) | 2:51 | 2022-05-06 |  |

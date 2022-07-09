@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is WizKid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,155 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,201 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 45 | [Sponono](https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [I Am The King Of Amapiano: Sweet & Dust](https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE) | 6:35 |
 | 46 | [Eve Bounce \- Remix](https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v) | [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Eve Bounce](https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ) | 3:24 |
 | 47 | [Escape](https://open.spotify.com/track/0o5WUKlwttAkORRkVcOOqL) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Escape](https://open.spotify.com/album/3xnSra5dUSn71dn8xSKRLT) | 3:29 |
-| 48 | [African Bad Gyal \(feat\. Chris Brown\)](https://open.spotify.com/track/4FRKGdgOh9G5sub5GiknfS) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:25 |
+| 48 | [Dirty Wine \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/47AMYhY7w49L3rv6UZdlXV) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:01 |
 | 49 | [This Kind Luv](https://open.spotify.com/track/7iZUOZ4wEtpKEhR9ySgHp9) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [God Over Everything](https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR) | 3:49 |
 | 50 | [Love My Baby](https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:06 |
 
-Snapshot ID: `Mjc2MjAwNDAsMDAwMDAwMDAzYjRlNGUwOGQzY2E0NTNjYTMyZDFmYTczMzJlZWNmZQ==`
+Snapshot ID: `Mjc2MjE1MzIsMDAwMDAwMDAxM2YwNTgyNmY0NTIyYmJiYWVlNjExNDU1NTk0NzQ3OA==`

@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 140413,
       "name": "Kingdom Dance",
       "url": "https://open.spotify.com/track/0KbACwf5LFPSQqJJ3LNQXs"
@@ -896,6 +896,32 @@
     },
     {
       "album": {
+        "name": "Traditional: Simple Gifts (Arr. Recorder and Ensemble)",
+        "url": "https://open.spotify.com/album/2bGvmIpKf3832AfZ3w3CVD"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Lucie Horsch",
+          "url": "https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn"
+        },
+        {
+          "name": "LUDWIG Orchestra",
+          "url": "https://open.spotify.com/artist/3pAMpzxkvRNTXZZ6EpT41Q"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167426,
+      "name": "Simple Gifts (Arr. Recorder and Ensemble)",
+      "url": "https://open.spotify.com/track/7aqx8hsa0qrpkDYfDnQy54"
+    },
+    {
+      "album": {
         "name": "A Song of Divine Love",
         "url": "https://open.spotify.com/album/33CyyVhT9gvakVlEIPVpYQ"
       },
@@ -1029,6 +1055,32 @@
       "duration_ms": 204066,
       "name": "The Fairy Round (Galliard)",
       "url": "https://open.spotify.com/track/217B2aNAKMidvy7RDSfMaA"
+    },
+    {
+      "album": {
+        "name": "Ricercare E Canzoni",
+        "url": "https://open.spotify.com/album/5uquiT1PSQzhxkkTgB2U1Z"
+      },
+      "artists": [
+        {
+          "name": "Tobias Hume",
+          "url": "https://open.spotify.com/artist/1z5IeyRbd7iLgu1fpxFRLe"
+        },
+        {
+          "name": "Matteo Cicchitti",
+          "url": "https://open.spotify.com/artist/20GMDtM8hUo9RG5GGaUH5y"
+        },
+        {
+          "name": "Musica Elegentia",
+          "url": "https://open.spotify.com/artist/69Repx4UdPmARORAxg5OGN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70160,
+      "name": "The First Part of Ayres, French, Pollish and others together \u2026 with Pavines, Galliards, and Almaines (1605): I. A Galiard",
+      "url": "https://open.spotify.com/track/5RfAoa1gKK9IK6ld25FaDj"
     },
     {
       "album": {

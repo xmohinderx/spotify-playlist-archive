@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,361 likes - 205 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,372 likes - 205 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 204 | [Lime Express](https://open.spotify.com/track/6W1jElE8QnsHXvH1umc4VG) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:40 |
 | 205 | [new trees](https://open.spotify.com/track/79ZXRpT88I9x2SvsRCLe4S) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 1:50 |
 
-Snapshot ID: `MTY1NzIzODQwMCwwMDAwMDA0NTAwMDAwMTgxZGIxYjJjZDcwMDAwMDE3YTg2MjNiYThl`
+Snapshot ID: `MTY1NzI5MjUxMiwwMDAwMDA0NjAwMDAwMTgxZGU1NGRkMTgwMDAwMDE4MWRlNTRhNmZk`
