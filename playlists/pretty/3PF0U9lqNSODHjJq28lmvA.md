@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 1,985 likes - 25 songs - 1 hr 30 min
+[Record Union](https://open.spotify.com/user/recordunion) - 1,986 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 18 | [BRONTOZAUR](https://open.spotify.com/track/5cETBC3ugBQvPd69BLpnOT) | [739KG](https://open.spotify.com/artist/4FgWY90CCRMGkLKkjZXmF8) | [BRONTOZAUR](https://open.spotify.com/album/2YzkJW8UD7EIlGHw3noEDZ) | 4:56 |
 | 19 | [Chiammale ammore](https://open.spotify.com/track/0hwtkygLGf7D8aiVUTf7EW) | [Gcole](https://open.spotify.com/artist/6botR2zVbh0bihN72ULub3) | [Chiammale ammore](https://open.spotify.com/album/5vVFXtzYoF7nfATCHKRwfM) | 3:40 |
 | 20 | [Me faltas tú](https://open.spotify.com/track/7M5nQg2yHwFxoT3fCoKSft) | [Erick Nuñez Sanchez](https://open.spotify.com/artist/0wO2jTHuUtmLbw0HSCzVAH), [Luis Magallanes SR](https://open.spotify.com/artist/6hOxVhDYr1LpTzgi6z619Y) | [Me faltas tú](https://open.spotify.com/album/01yzrbX36ARF4q9Lehnyzn) | 4:13 |
-| 21 | [Milkweed](https://open.spotify.com/track/3QopMWvCXKAQ5Az7RKiYHe) | [Gilded Age](https://open.spotify.com/artist/1l2k0Kj8BIp3eiB7AW4NZP) | [Winter In A Mining Town](https://open.spotify.com/album/2FD1vf5XGZPsgEyI1TRm3S) | 2:32 |
+| 21 | [Milkweed](https://open.spotify.com/track/3QopMWvCXKAQ5Az7RKiYHe) | [Gilded Age](https://open.spotify.com/artist/41mqtnVZvTIMovccVoYBFn) | [Winter In A Mining Town](https://open.spotify.com/album/2FD1vf5XGZPsgEyI1TRm3S) | 2:32 |
 | 22 | [Parhaita Paloja](https://open.spotify.com/track/1d87ITRb4urHoV8GUJcO8h) | [Anni Luoma](https://open.spotify.com/artist/6msLxTlEfJRgRdQfwmOVfo) | [Parhaita Paloja](https://open.spotify.com/album/4hjTzQ0fHQPFV0RfcY1QgA) | 4:13 |
 | 23 | [\( Hello //](https://open.spotify.com/track/1nItUiubDwgwaY6M6YWjhV) | [Heavybird](https://open.spotify.com/artist/6gFsYFUAeguHNFVytwIBV1) | [Sigils & Glyphs](https://open.spotify.com/album/6HpPl5POiMV15ITUKeuXAR) | 3:52 |
 | 24 | [A Further Ontology](https://open.spotify.com/track/7ycXjMw5zTVDbIyfX8Yoxp) | [Wajsman Projects](https://open.spotify.com/artist/0cyBQHNkU9Pz5ZKZyWAiLS) | [The Piano Project, Vol\. 1](https://open.spotify.com/album/3pbxKHAxzSnR9i9CZZnpQJ) | 3:06 |

@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Break My Stride (Radio Edit)",
       "url": "https://open.spotify.com/track/0Glrnzlbv3sZ7DuWLFMNWq"
@@ -963,6 +963,28 @@
       "duration_ms": 233626,
       "name": "Don't Stop Movin'",
       "url": "https://open.spotify.com/track/4dzreTCcGVgeF1vCcd22AC"
+    },
+    {
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/3SqgvGJc7bXMvoycWfhQ8R"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219680,
+      "name": "Down - Jason Nevins Remix",
+      "url": "https://open.spotify.com/track/6BuD14tIOrXeRqeAAbqns3"
     },
     {
       "album": {
@@ -2091,7 +2113,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 204798,
       "name": "Love Generation - Radio Edit",
       "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
@@ -2269,7 +2291,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 270506,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
@@ -2359,7 +2381,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 320357,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
@@ -2587,7 +2609,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 291781,
       "name": "Ride Wit Me",
       "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
@@ -2693,7 +2715,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 236426,
       "name": "Round Round",
       "url": "https://open.spotify.com/track/5O2Ft5ENCfAh6JCgykJs76"
@@ -2733,7 +2755,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 195973,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/03N0ZpS5QaC9ga9i2xO9Vp"
@@ -2973,7 +2995,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 310093,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/0koYRm9MYr86fdKyaBuSiG"
@@ -3103,7 +3125,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 311866,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4fzsfWzRhPawzqhX8Qt9F3"
@@ -3287,7 +3309,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 310573,
       "name": "That's Not My Name",
       "url": "https://open.spotify.com/track/1i1OuCNhNf7JwrlWlFZFu1"
@@ -3323,7 +3345,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 213973,
       "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
       "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
@@ -3497,7 +3519,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 220960,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/1nThB5NAb6HgmmtxB1ANel"
@@ -3581,7 +3603,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 279800,
       "name": "Umbrella - Jody den Broeder Lush Radio Edit",
       "url": "https://open.spotify.com/track/2QYtXNABoSIyVXV2kaITS3"
@@ -3599,7 +3621,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 197386,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
@@ -3743,7 +3765,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 281906,
       "name": "Who's That Girl?",
       "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"

@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 272763,
       "name": "Anaesthetist",
       "url": "https://open.spotify.com/track/5Izi5lL265u2iPulLHOG8i"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 242758,
       "name": "Boom (feat. Tonn Piper)",
       "url": "https://open.spotify.com/track/51xVwKyFMgrKeeLePsomNI"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 254339,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0gagDJrA1Kdm1xmwOzNoSN"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 281379,
       "name": "Dying Light",
       "url": "https://open.spotify.com/track/5Lsr7AauyHMlMNjQzWb0uH"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 203071,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 270344,
       "name": "Fire & Water (feat. Marianna Ray)",
       "url": "https://open.spotify.com/track/3hv6PwiE4VGEaipmDuepdV"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 187857,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/515OfuSUlr2igB70C83M13"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 270339,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3DEOsCKFcseZtobrpOH2J7"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 225847,
       "name": "Infinite (Freedom)",
       "url": "https://open.spotify.com/track/0vN9DaL27w0EKhcgJBf7Bi"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 301395,
       "name": "Is Anybody out There? - S.P.Y. VIP",
       "url": "https://open.spotify.com/track/2qGhRZ2qGak5bWSXQ5Loh2"
@@ -1332,6 +1332,32 @@
     },
     {
       "album": {
+        "name": "Brighter Now EP",
+        "url": "https://open.spotify.com/album/5qcutD5yTDics4SDtHYDoE"
+      },
+      "artists": [
+        {
+          "name": "Missing",
+          "url": "https://open.spotify.com/artist/4B9sESZ5Lzsln4KM71YWf1"
+        },
+        {
+          "name": "Trex",
+          "url": "https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug"
+        },
+        {
+          "name": "Heidi Vogel",
+          "url": "https://open.spotify.com/artist/5H6KAuCOwgEpQXx6WKYCcN"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271271,
+      "name": "Less Than Zero",
+      "url": "https://open.spotify.com/track/4zjeq511EOtrdEYaedTfFc"
+    },
+    {
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/3NZAZ01r9Lg2J35gWVEnCC"
       },
@@ -1343,7 +1369,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 318171,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/5arVVJKESEOMXqJ41QUcVl"
@@ -1427,7 +1453,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 251684,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/3XPhsmIWEOHdBQnxZoJtx6"
@@ -1493,7 +1519,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 241379,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5TtFAmdGW48ebOkoZ6YSxn"
@@ -1731,7 +1757,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 224946,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/4kVpdy4mnZ8FLPw0hGV8hk"
@@ -1775,7 +1801,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 213252,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/3MD8JCmgBjJPcLHuTjbhkI"
@@ -1797,7 +1823,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 248720,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/6ZPpy9nlOq2xDw054bjoS9"
@@ -1929,7 +1955,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 281516,
       "name": "Our Love Will Grow",
       "url": "https://open.spotify.com/track/4m9IUdUUbnXrnvWvnOcNU8"
@@ -1969,7 +1995,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 231605,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
@@ -2119,7 +2145,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 200689,
       "name": "Remedy (feat. TS Graye)",
       "url": "https://open.spotify.com/track/1Ojk0XlwKxvqByaHq6Uviz"
@@ -2207,7 +2233,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 256551,
       "name": "Say It Loud",
       "url": "https://open.spotify.com/track/1ZTrdA4lyX7WJlvGju2lfR"
@@ -2269,7 +2295,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 290742,
       "name": "Sientelo",
       "url": "https://open.spotify.com/track/0VPtIe8j9wZMVTcYWURQGd"
@@ -2287,7 +2313,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 288000,
       "name": "Solar System",
       "url": "https://open.spotify.com/track/5cRDn5aGMLvWsldoRmOOz0"
@@ -2371,7 +2397,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 220689,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/5sPntn8ccDJdR5yUZ7rLiY"
@@ -2393,7 +2419,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 219428,
       "name": "Streetside",
       "url": "https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN"
@@ -2411,7 +2437,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 268955,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/3u787rFfUvg3kMK7tNyjiV"
@@ -2557,7 +2583,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 213942,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/3ZLQMBYxrdLIYw0HW00BVm"
@@ -2739,7 +2765,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 234827,
       "name": "We All Need Someone",
       "url": "https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP"
@@ -2761,7 +2787,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 226206,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5asj11vQ6VWmTJP8kQ2Lig"
@@ -2889,7 +2915,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 286896,
       "name": "You Keep Me High",
       "url": "https://open.spotify.com/track/3OW0tpzhvp6QUS4UyyUOLi"

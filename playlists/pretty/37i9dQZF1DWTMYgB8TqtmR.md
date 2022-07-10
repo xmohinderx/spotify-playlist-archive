@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – bästa och största hitsen just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,672 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,745 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 26 | [Komplicerat](https://open.spotify.com/track/3RCbGcSsPFNn6NbFbLc8QT) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Komplicerat](https://open.spotify.com/album/2okfqXMmvxEi0VlNupJENP) | 2:19 |
 | 27 | [Låt mig gå](https://open.spotify.com/track/0NXqhf7bDVLz8fGUVyzajw) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:06 |
 | 28 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
-| 29 | [New Money](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 |
+| 29 | [New Money \(with 21 Savage\)](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money \(with 21 Savage\)](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 |
 | 30 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 |
 | 31 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 | 32 | [Dancing On A Sunny Day](https://open.spotify.com/track/4QNxalh2dYirUjd7yGPlfu) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dancing On A Sunny Day](https://open.spotify.com/album/2o9Whn3LIpFQeD1f3vNZJJ) | 2:56 |

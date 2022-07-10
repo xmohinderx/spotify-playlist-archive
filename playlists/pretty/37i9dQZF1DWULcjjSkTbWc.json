@@ -1,12 +1,12 @@
 {
   "description": "Unos buenos riffs de guitarra para acompa\u00f1arte en el camino. ",
-  "num_followers": 94689,
+  "num_followers": 94957,
   "original_name": "Viaje en Carretera: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzMyODM3OCwwMDAwMDAwMDYyNGI0NjgzZWY2ODE4MjIxZDljMGM3ZjNjODc3ZTYy",
+  "snapshot_id": "MTY1NzQxNTQ5MywwMDAwMDAwMDA1NTRjMTM2YmQyMThlOTJlYzVmYThhYjI3YzdhYmMz",
   "tracks": [
     {
       "added_at": "2021-11-26 19:13:16",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Como T\u00fa (Magic Music Box)",
-      "url": "https://open.spotify.com/track/0E8qIw6KblOtDQYzzHQrxL"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
         "name": "Jaibol",
         "url": "https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM"
       },
@@ -59,18 +43,34 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+        "name": "Por Encima",
+        "url": "https://open.spotify.com/album/5zlSFpoGVWyxGBc76ye0L0"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
         }
       ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+      "duration_ms": 217703,
+      "name": "Por Siempre",
+      "url": "https://open.spotify.com/track/6FLSb8CJwrcfXfzfD4ySji"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Como T\u00fa (Magic Music Box)",
+      "url": "https://open.spotify.com/track/0E8qIw6KblOtDQYzzHQrxL"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -91,18 +91,82 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Por Encima",
-        "url": "https://open.spotify.com/album/5zlSFpoGVWyxGBc76ye0L0"
+        "name": "Flamingos",
+        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
       },
       "artists": [
         {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 217703,
-      "name": "Por Siempre",
-      "url": "https://open.spotify.com/track/6FLSb8CJwrcfXfzfD4ySji"
+      "duration_ms": 204026,
+      "name": "S\u00ed",
+      "url": "https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Caf\u00e9 Tacvba",
+        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Las batallas",
+      "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 224085,
+      "name": "Visita",
+      "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
+    },
+    {
+      "added_at": "2022-07-04 21:07:34",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 285706,
+      "name": "Dark Star",
+      "url": "https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -135,70 +199,6 @@
       "duration_ms": 239626,
       "name": "La Que Me Gusta",
       "url": "https://open.spotify.com/track/1TdaQqgKRbiFdO15q1kv6e"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "Bailar\u00edn Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 195580,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
-    },
-    {
-      "added_at": "2022-07-04 21:07:34",
-      "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 285706,
-      "name": "Dark Star",
-      "url": "https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 224085,
-      "name": "Visita",
-      "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "Visperas De Carnaval",
-        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
-      },
-      "artists": [
-        {
-          "name": "La Mosca Tse-Tse",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -239,34 +239,34 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Caf\u00e9 Tacvba",
-        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Nacha Pop",
+          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
         }
       ],
-      "duration_ms": 205026,
-      "name": "Las batallas",
-      "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
+      "duration_ms": 248373,
+      "name": "Lucha De Gigantes",
+      "url": "https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd"
     },
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Flamingos",
-        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 204026,
-      "name": "S\u00ed",
-      "url": "https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj"
+      "duration_ms": 195580,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -283,6 +283,54 @@
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Visperas De Carnaval",
+        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
+      },
+      "artists": [
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -319,70 +367,6 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Wow (87-04)",
-        "url": "https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 269880,
-      "name": "Hoy Tengo Miedo",
-      "url": "https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR"
-      },
-      "artists": [
-        {
-          "name": "Nacha Pop",
-          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "Lucha De Gigantes",
-      "url": "https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "Reina (Slidepac)",
-        "url": "https://open.spotify.com/album/6wqdR7r0cqBSSnsOsjZoLs"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "\u00bfA D\u00f3nde Van Los Muertos?",
-      "url": "https://open.spotify.com/track/7Kqu2qzklldYONlvrojo0t"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Venezia",
-      "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
         "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 282120,
       "name": "Pobre de Ti",
       "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "La Invasion De Los Blatidos",
+        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "El Son del Dolor",
+      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
     },
     {
       "added_at": "2022-07-04 21:09:12",
@@ -415,66 +415,34 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "Wow (87-04)",
+        "url": "https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+      "duration_ms": 269880,
+      "name": "Hoy Tengo Miedo",
+      "url": "https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h"
     },
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "La Invasion De Los Blatidos",
-        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+        "name": "Reina (Slidepac)",
+        "url": "https://open.spotify.com/album/6wqdR7r0cqBSSnsOsjZoLs"
       },
       "artists": [
         {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 240973,
-      "name": "El Son del Dolor",
-      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Here We Kum",
-      "url": "https://open.spotify.com/track/0SF8c9ir3zMxiypHXuvgYd"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "Libres Y Locos",
-        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 187493,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
+      "duration_ms": 257519,
+      "name": "\u00bfA D\u00f3nde Van Los Muertos?",
+      "url": "https://open.spotify.com/track/7Kqu2qzklldYONlvrojo0t"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -495,6 +463,38 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Here We Kum",
+      "url": "https://open.spotify.com/track/0SF8c9ir3zMxiypHXuvgYd"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
         "name": "Vida de perros",
         "url": "https://open.spotify.com/album/458KtFZXizDQb83WFOScaW"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 238422,
       "name": "Mientele",
       "url": "https://open.spotify.com/track/353rIx4k3T4kU1iLPE3Blx"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Like a Stone",
-      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -543,18 +527,18 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
         }
       ],
-      "duration_ms": 289946,
-      "name": "Fuerza Natural",
-      "url": "https://open.spotify.com/track/4nISKMNTbWKrZpGFI44pIz"
+      "duration_ms": 293960,
+      "name": "Like a Stone",
+      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -607,6 +591,22 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 289946,
+      "name": "Fuerza Natural",
+      "url": "https://open.spotify.com/track/4nISKMNTbWKrZpGFI44pIz"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/75878sUYPLJHQGHokmmlRi"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Happy Together",
-        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
+        "name": "D.D. Y Ponle Play",
+        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
       },
       "artists": [
         {
-          "name": "The Turtles",
-          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
         }
       ],
-      "duration_ms": 176293,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+      "duration_ms": 199640,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/5ZxtWh3TMslzFMVOmU2mGG"
     },
     {
       "added_at": "2022-07-04 21:12:24",
@@ -655,38 +655,6 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Another Brick in the Wall, Pt. 2",
-      "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
+      },
+      "artists": [
+        {
+          "name": "The Turtles",
+          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -719,22 +703,6 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -751,18 +719,18 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "D.D. Y Ponle Play",
-        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
       },
       "artists": [
         {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/5ZxtWh3TMslzFMVOmU2mGG"
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -779,6 +747,38 @@
       "duration_ms": 215106,
       "name": "One Way Or Another - Remastered",
       "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Another Brick in the Wall, Pt. 2",
+      "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -855,18 +855,18 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+      "duration_ms": 193506,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
         "name": "You Could Have It So Much Better",
         "url": "https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 215000,
       "name": "Do You Want To",
       "url": "https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto"
+    },
+    {
+      "added_at": "2022-04-06 18:54:12",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -949,20 +949,20 @@
       "url": "https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN"
     },
     {
-      "added_at": "2022-04-06 18:54:12",
+      "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
     },
     {
       "added_at": "2022-07-04 21:12:24",
@@ -981,20 +981,20 @@
       "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
     },
     {
-      "added_at": "2022-04-01 20:32:51",
+      "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Vendaval De Cristal",
-        "url": "https://open.spotify.com/album/7wQAo1qIV4da91vQkOIid8"
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
       "artists": [
         {
-          "name": "GENTE IMPROBABLE",
-          "url": "https://open.spotify.com/artist/3hYNnh9hNnCKiQK4onMEJr"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 246192,
-      "name": "Vendaval De Cristal",
-      "url": "https://open.spotify.com/track/1aSt45gruUPowYTAnmTHcw"
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -1015,34 +1015,34 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Starman - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+      "duration_ms": 166640,
+      "name": "About A Girl",
+      "url": "https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr"
     },
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
       },
       "artists": [
         {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+      "duration_ms": 238866,
+      "name": "Given to Fly",
+      "url": "https://open.spotify.com/track/3vL9lPWBuv0ZR3c5YmdhDl"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Kinks",
-        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
       "artists": [
         {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 134253,
-      "name": "You Really Got Me - Mono Mix",
-      "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -1111,66 +1111,34 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Yield",
-        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
+        "name": "Kinks",
+        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 238866,
-      "name": "Given to Fly",
-      "url": "https://open.spotify.com/track/3vL9lPWBuv0ZR3c5YmdhDl"
-    },
-    {
-      "added_at": "2022-02-16 18:55:26",
-      "album": {
-        "name": "Peace, Love, Rock N Roll",
-        "url": "https://open.spotify.com/album/1DJVdxZ0XtHtpFTAIdvtam"
-      },
-      "artists": [
-        {
-          "name": "Mrs. Henry",
-          "url": "https://open.spotify.com/artist/2eHOlyX9GEmBZw0X7uBiI0"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "Peace, Love, Rock N Roll",
-      "url": "https://open.spotify.com/track/32LKFnGmhSqDDHBlsqqaB4"
+      "duration_ms": 134253,
+      "name": "You Really Got Me - Mono Mix",
+      "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
     },
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
         }
       ],
-      "duration_ms": 166640,
-      "name": "About A Girl",
-      "url": "https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -1191,6 +1159,38 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
         "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
@@ -1205,20 +1205,20 @@
       "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
-      "added_at": "2021-11-26 19:13:16",
+      "added_at": "2022-03-17 15:41:09",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     }
   ],
   "unique_name": "Viaje en Carretera: Rock",

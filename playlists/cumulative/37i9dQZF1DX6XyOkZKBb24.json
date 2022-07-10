@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Good Love, Pt. 2",
+        "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        },
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213556,
+      "name": "A Good Love, Pt. 2",
+      "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
+    },
+    {
+      "album": {
         "name": "Dangerous Levels of Introspection",
         "url": "https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD"
       },
@@ -149,7 +171,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 269213,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/7oC2PFdQllzwRhsaTWQUAX"
@@ -167,7 +189,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 209800,
       "name": "At The End",
       "url": "https://open.spotify.com/track/5qCiHbz75DztXAKbtObIj1"
@@ -383,10 +405,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 173174,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
+    },
+    {
+      "album": {
+        "name": "come into my arms",
+        "url": "https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr"
+      },
+      "artists": [
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132284,
+      "name": "come into my arms",
+      "url": "https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z"
     },
     {
       "album": {
@@ -531,7 +571,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 208396,
       "name": "Electric Touch - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui"
@@ -665,7 +705,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 235746,
       "name": "Fallin' All In You",
       "url": "https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG"
@@ -863,7 +903,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "i <3 u",
       "url": "https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1"
@@ -1221,7 +1261,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 188323,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
@@ -1405,7 +1445,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 125694,
       "name": "People I Don't Know",
       "url": "https://open.spotify.com/track/67LVked2xWltlu5POH71gk"
@@ -1459,7 +1499,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 256893,
       "name": "Pony - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0exKMPo2iind68yWTaHCrr"
@@ -1567,7 +1607,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 182466,
       "name": "Sad Song",
       "url": "https://open.spotify.com/track/4BV9IIHko41sTgPyiMJ6Dv"
@@ -1783,7 +1823,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 250992,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/66c2mzrZst8gyTRibuwL9O"
@@ -1931,7 +1971,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 140178,
       "name": "We're Going to Be Friends",
       "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"

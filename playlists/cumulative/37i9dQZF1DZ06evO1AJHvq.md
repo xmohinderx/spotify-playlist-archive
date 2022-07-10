@@ -4,7 +4,7 @@
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-35 songs - 2 hr 3 min - [published](https://open.spotify.com/playlist/3Di30CIGdOBo3P7Zx2TUCT)
+36 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/3Di30CIGdOBo3P7Zx2TUCT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Edgar Guzman \- En Vivo](https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 3:07 | 2022-06-01 |  |
 | [El Corrido Del Cabe \- En Vivo](https://open.spotify.com/track/4GaPxH5d7cPBkWGXjiTZiA) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma) | 3:38 | 2022-06-01 |  |
 | [El del Tatuaje](https://open.spotify.com/track/3yUXO6dRyY2hzmnqCRBgSY) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 3:17 | 2022-06-01 |  |
+| [El Empanada](https://open.spotify.com/track/6LnzPOhhFghlgEm74aNqTG) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU) | 3:51 | 2022-07-09 |  |
 | [El Guero de Guamuchil](https://open.spotify.com/track/07Elm8YRCmlAZcz8YVA7dV) | [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Relatos de Jefes](https://open.spotify.com/album/4k2TGFs6r9LSWdDk86Wg6o) | 3:31 | 2022-06-01 |  |
 | [El Karma](https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:15 | 2022-06-01 |  |
 | [El Karma](https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 2:44 | 2022-06-01 |  |

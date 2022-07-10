@@ -1,28 +1,32 @@
 {
-  "description": "Groove to music from your Netflix Kids favorites, such as Waffles & Mochi.",
-  "num_followers": 1433,
+  "description": "Groove to music from your Netflix Kids favorites, such as The Sea Beast.",
+  "num_followers": 1438,
   "original_name": "Netflix Kids Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzMwMjI2MywwMDAwMDAwZTAwMDAwMTgxZGVlOWE4YjAwMDAwMDE4MWRlZTk0ZjA1",
+  "snapshot_id": "MTY1NzMzNzQ5OSwwMDAwMDAwZjAwMDAwMTgxZTEwMzRlMjQwMDAwMDE4MWRlZTk0ZjA1",
   "tracks": [
     {
-      "added_at": "2022-07-08 17:44:23",
+      "added_at": "2022-07-09 03:31:39",
       "album": {
         "name": "The Sea Beast (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx"
       },
       "artists": [
         {
-          "name": "Mark Mancina",
-          "url": "https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3"
+          "name": "Nell Benjamin",
+          "url": "https://open.spotify.com/artist/2zd6EMs4amJNjdq41ArIrJ"
+        },
+        {
+          "name": "Laurence O'Keefe",
+          "url": "https://open.spotify.com/artist/1DX6JkrHY2mbpWK4gntYhO"
         }
       ],
-      "duration_ms": 143760,
-      "name": "The Sea Beast",
-      "url": "https://open.spotify.com/track/3YhPDdcQ5kz0MW4vTKyX8t"
+      "duration_ms": 97546,
+      "name": "Captain Crow - from \"The Sea Beast\" Soundtrack",
+      "url": "https://open.spotify.com/track/7FPa79wpVMBvcw0p7SoB2V"
     },
     {
       "added_at": "2022-07-08 17:44:23",

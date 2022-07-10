@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > Maybe it's punk, maybe it's not\. Cover: Wu\-Lu
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,085 likes - 96 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,134 likes - 96 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Renegade](https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL) | 2:01 |
 | 2 | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi) | 2:05 |
-| 3 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 |
+| 3 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 |
 | 4 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
 | 5 | [Play The Greatest Hits](https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:27 |
 | 6 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 |

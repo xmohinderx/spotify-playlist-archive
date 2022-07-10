@@ -268,6 +268,24 @@
     },
     {
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189772,
+      "name": "Cry About It Later",
+      "url": "https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev"
+    },
+    {
+      "album": {
         "name": "Last Birthday",
         "url": "https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt"
       },
@@ -297,7 +315,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 195199,
       "name": "Dance For The Hell Of It",
       "url": "https://open.spotify.com/track/4dogRj7ByfvFBgVsYJcwA4"
@@ -333,7 +351,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 251733,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/4gmnXoFTFHKDZ4kYmLlR9e"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 178147,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM"
@@ -535,6 +553,24 @@
       "duration_ms": 199506,
       "name": "heart won't let me",
       "url": "https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp"
+    },
+    {
+      "album": {
+        "name": "Holding On To You",
+        "url": "https://open.spotify.com/album/6hqqoFfpyJdMlbwNbQmKws"
+      },
+      "artists": [
+        {
+          "name": "Shawn Hook",
+          "url": "https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186313,
+      "name": "Holding On To You",
+      "url": "https://open.spotify.com/track/367Qr3tFVMl2hpxAWDje6u"
     },
     {
       "album": {
@@ -621,7 +657,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 216107,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/0o58NWBiVXewJNfNDKQyjw"
@@ -693,7 +729,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 248335,
       "name": "It's Not Living (If It's Not With You)",
       "url": "https://open.spotify.com/track/0D4yVl9Pn45xW2s63MFCmT"
@@ -729,7 +765,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 230883,
       "name": "LDQ (Little Drama Queen)",
       "url": "https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3"
@@ -1013,7 +1049,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 211906,
       "name": "Radioactive Rain",
       "url": "https://open.spotify.com/track/2MPkM6BASRAxetDtmG9xHo"
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 186000,
       "name": "She\u2019s Nothing",
       "url": "https://open.spotify.com/track/06JZhG8kkmhan3G79nKnFY"
@@ -1389,7 +1425,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 193346,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/6WuVqsLi3eUp08vBgdEZmB"
@@ -1461,7 +1497,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"

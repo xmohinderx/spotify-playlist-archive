@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,474 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,593 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 50 | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/album/23u0FuhV3UGHXvMWD2h5ms) | 2:38 |
 | 51 | [DL4V](https://open.spotify.com/track/5FW38WD2dg30PgXsOv2ICm) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [DL4V](https://open.spotify.com/album/5zUdVfoMZZy3h5tIxLWYEv) | 2:11 |
 | 52 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 |
-| 53 | [New Money](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 |
+| 53 | [New Money \(with 21 Savage\)](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money \(with 21 Savage\)](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 |
 | 54 | [Balaclava](https://open.spotify.com/track/4udLzEOTiWfiiEWaycyaCe) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Balaclava](https://open.spotify.com/album/5aFxI4aRr04OSZeAIFNCKx) | 3:24 |
 | 55 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 |
 

@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 273240,
       "name": "Alas Rotas",
       "url": "https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "Amor Ausente (En Vivo) (with Abel Pintos)",
       "url": "https://open.spotify.com/track/1sD9vqr4ariNYWc4ifbpOi"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 212746,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 204920,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 256255,
       "name": "Del Olvido",
       "url": "https://open.spotify.com/track/6w7EejAq22cFNV5Yo4Vrlt"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 158815,
       "name": "Desconf\u00edo",
       "url": "https://open.spotify.com/track/4EcL6qWjlXADH370vm1X9G"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 311893,
       "name": "El amor despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
@@ -1038,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Otra Noche en la Luna (Episodio II)",
+        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Homero - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
+    },
+    {
+      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 160369,
       "name": "Josefina",
       "url": "https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P"
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 219414,
       "name": "La Izquierda de la Noche",
       "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
@@ -1251,6 +1269,24 @@
       "duration_ms": 253505,
       "name": "La Rama",
       "url": "https://open.spotify.com/track/0JWOMrDJ3oizqvlV1HZd5v"
+    },
+    {
+      "album": {
+        "name": "Devorando Intensidad",
+        "url": "https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252184,
+      "name": "La Vida Cura",
+      "url": "https://open.spotify.com/track/70H9KzJ3vy5655EHTpdiP4"
     },
     {
       "album": {
@@ -1359,7 +1395,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 277011,
       "name": "Los Calientes",
       "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
@@ -1377,7 +1413,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 191906,
       "name": "Los chicos",
       "url": "https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi"
@@ -1529,7 +1565,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 209893,
       "name": "Mi Caramelo - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
@@ -1609,7 +1645,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 178800,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
@@ -1645,7 +1681,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 206720,
       "name": "Nos Siguen Pegando Abajo",
       "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
@@ -1761,7 +1797,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 233839,
       "name": "Pensamientos",
       "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
@@ -2047,7 +2083,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 191530,
       "name": "Soy",
       "url": "https://open.spotify.com/track/2eucmvlETqs4wRhvvThfEm"
@@ -2069,6 +2105,28 @@
       "duration_ms": 212880,
       "name": "Spaghetti del Rock",
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "album": {
+        "name": "Suelto",
+        "url": "https://open.spotify.com/album/1Mb36xDeCUR5xmgIEt869k"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223182,
+      "name": "Suelto",
+      "url": "https://open.spotify.com/track/6pCeEWCyIlOuwG5J3q2pKP"
     },
     {
       "album": {
@@ -2177,7 +2235,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 240013,
       "name": "Tan Solo",
       "url": "https://open.spotify.com/track/6vNaGz1KH44XJ9zRyCE81I"
@@ -2195,7 +2253,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 246858,
       "name": "Tan Solo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2kXVg8VLdF3YXZ4NLSqsoz"
@@ -2231,7 +2289,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/4Y7nAGTGPq8jikscC0jIHy"
@@ -2257,6 +2315,24 @@
       "duration_ms": 220162,
       "name": "Te Robaste Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4rz1uz4tBkNIQzLqse6w9D"
+    },
+    {
+      "album": {
+        "name": "Tiempos Dorados",
+        "url": "https://open.spotify.com/album/5UUC7peO4i1izq9yUIcKKq"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195290,
+      "name": "Tiempos Dorados",
+      "url": "https://open.spotify.com/track/0X3Akev0ewpzsIDMTpnQnS"
     },
     {
       "album": {
@@ -2435,7 +2511,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/4bnGyB5G0Kau4rQB4Vnz0x"
@@ -2565,7 +2641,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 183882,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
@@ -2601,7 +2677,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 208764,
       "name": "Ya Lo Sab\u00e9s",
       "url": "https://open.spotify.com/track/5mMFnSDg8Jz0BDToHPahlg"
@@ -2619,7 +2695,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 262000,
       "name": "Zafar",
       "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"

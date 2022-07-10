@@ -2477,7 +2477,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 171555,
       "name": "Be Your USA",
       "url": "https://open.spotify.com/track/0JJ7yEvbPtv9HvFAqHQ5sK"
@@ -14514,6 +14514,24 @@
     },
     {
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/57FiXP5MECC5vtGTC3JuWC"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177902,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/5rtdjMt1W8eYgrvHnYaCZB"
+    },
+    {
+      "album": {
         "name": "lucifer",
         "url": "https://open.spotify.com/album/6uXAN6k5CtYcRrkkrqADWL"
       },
@@ -17045,7 +17063,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 237281,
       "name": "Okeanos",
       "url": "https://open.spotify.com/track/155TifjB3ls4nJiCab7sM8"
@@ -20109,6 +20127,24 @@
       "duration_ms": 140800,
       "name": "safe&sound",
       "url": "https://open.spotify.com/track/1zLAR1FrFqm9SidvVorUaq"
+    },
+    {
+      "album": {
+        "name": "safety",
+        "url": "https://open.spotify.com/album/16LIWGd3m65DQfwtKRpvn6"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148285,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/03kK8LS0pKlOpfaqJA5PsQ"
     },
     {
       "album": {

@@ -217,7 +217,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 274200,
       "name": "American Saturday Night",
       "url": "https://open.spotify.com/track/7xJqaCgeteqWPogqjjxkBl"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 247017,
       "name": "Boot Up",
       "url": "https://open.spotify.com/track/6UOA3IWQ3AIBVN8eg1fa7a"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 230586,
       "name": "Dirt",
       "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 228653,
       "name": "Free",
       "url": "https://open.spotify.com/track/4bWlAEbGHhPKQNjhTstN2p"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 252493,
       "name": "Give Me Back My Hometown",
       "url": "https://open.spotify.com/track/3MykNWa65IP2VN1Qa6B9yK"
@@ -1571,7 +1571,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 285586,
       "name": "My Town",
       "url": "https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD"
@@ -1658,6 +1658,28 @@
     },
     {
       "album": {
+        "name": "Out in the Middle",
+        "url": "https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "Out In The Middle",
+      "url": "https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp"
+    },
+    {
+      "album": {
         "name": "Doin' My Thing",
         "url": "https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF"
       },
@@ -1691,7 +1713,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 184946,
       "name": "Raise 'Em Up",
       "url": "https://open.spotify.com/track/3YimpODfNhxj3rN81v4WvE"
@@ -1871,7 +1893,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 162352,
       "name": "Small Town Crazy",
       "url": "https://open.spotify.com/track/4mj6yeYdQmwL6dvAj4w5XI"
@@ -1907,7 +1929,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 218853,
       "name": "Small Town USA",
       "url": "https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl"
@@ -1979,7 +2001,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 188840,
       "name": "Static",
       "url": "https://open.spotify.com/track/4om5pPxOixxpNPXmv9oM3h"
@@ -2159,7 +2181,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 208720,
       "name": "The Long Way",
       "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
@@ -2361,7 +2383,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 209746,
       "name": "Where I Am Today",
       "url": "https://open.spotify.com/track/2QOk1rpS1exoxLCbcQHGW8"
@@ -2379,7 +2401,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 201840,
       "name": "Where I Come From",
       "url": "https://open.spotify.com/track/10ps1I1sIMRNZW11eceN7W"

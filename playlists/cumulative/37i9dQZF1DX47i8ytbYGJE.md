@@ -4,7 +4,7 @@
 
 > Hillbilly and Rock music fusing together called Rockabilly!  Thankyouverymuch...
 
-204 songs - 7 hr 58 min - not published yet
+204 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/3GVV7z7IlOsMQHBFeVAJAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

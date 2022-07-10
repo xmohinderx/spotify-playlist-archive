@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: The Faim
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,473 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,602 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 22 | [FALLING FROM MY GRACE](https://open.spotify.com/track/6t3MI9dLi4DJOHz15bE0uJ) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [FALLING FROM MY GRACE](https://open.spotify.com/album/1Kt4pp8S77Lkr9fHv5BPfG) | 2:47 |
 | 23 | [LOSER](https://open.spotify.com/track/1JonXCpgTEu9n4YKSn7BsA) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [LOSER](https://open.spotify.com/album/04o5InXr8SKnB45OYvD1Tz) | 2:38 |
 | 24 | [Thick Skin](https://open.spotify.com/track/1Js7S5D1Ofd7sgb6dVahVZ) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Thick Skin](https://open.spotify.com/album/0k8Q9tvWcbEm4TRqEC0bKP) | 2:47 |
-| 25 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 |
+| 25 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 |
 | 26 | [brkdwn](https://open.spotify.com/track/6Shhq1xBZyafFLUvU8ghrH) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [brkdwn](https://open.spotify.com/album/7pkLbvZVOIfOd5e4C1N3t1) | 2:15 |
 | 27 | [EVERGREEN](https://open.spotify.com/track/3VdD9vEgBqfqI1PKnxNvQQ) | [PARTYOFØNE](https://open.spotify.com/artist/3bb8SEudKsfPJOU3PMBXut) | [EVERGREEN](https://open.spotify.com/album/3XSStpQ8821wCp4QnwKw8U) | 2:28 |
 | 28 | [Die Another Day](https://open.spotify.com/track/4iFwwFpFdOfZp7hup4IFq5) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Die Another Day](https://open.spotify.com/album/2w7IwyZjS7xme1EkE4ZfGj) | 3:41 |

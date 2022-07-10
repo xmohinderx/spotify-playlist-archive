@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,859 likes - 98 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,966 likes - 98 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 27 | [Hollywood](https://open.spotify.com/track/6feMlyAvbHdATEoY7Y3aXk) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Hollywood](https://open.spotify.com/album/7s17WGsNLykas9aE8F8FFH) | 2:45 |
 | 28 | [this might be our last december](https://open.spotify.com/track/0vKSOTSPy2SgcChNoBR77c) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [just in case the world ends](https://open.spotify.com/album/3X1H1Xq8rAcMQUE27sSSzi) | 3:26 |
 | 29 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 |
-| 30 | [ATOM BOMB](https://open.spotify.com/track/30KVYIxlUbmOUESoJL8Cbz) | [pretty havoc.](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [ATOM BOMB](https://open.spotify.com/album/1keTOQxhLIwJxNCTsvAxBF) | 2:34 |
+| 30 | [ATOM BOMB](https://open.spotify.com/track/30KVYIxlUbmOUESoJL8Cbz) | [pretty havoc.](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [ATOM BOMB](https://open.spotify.com/album/1keTOQxhLIwJxNCTsvAxBF) | 2:30 |
 | 31 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 |
 | 32 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 |
 | 33 | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 |

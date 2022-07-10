@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 247040,
       "name": "Beaumont Blues",
       "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 151533,
       "name": "Blue Because Of You",
       "url": "https://open.spotify.com/track/0dvTYGTfv30BCYbLCORKcb"
@@ -405,6 +405,24 @@
       "duration_ms": 349893,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/0YO5SB9ZBMEsIpVzXZNrE0"
+    },
+    {
+      "album": {
+        "name": "Bad Mouthin'",
+        "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih"
     },
     {
       "album": {
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 244000,
       "name": "Midnight Hour Blues",
       "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 292445,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/229PfulMeZPFcv2mzXfsCX"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 170493,
       "name": "Since I Fell For You",
       "url": "https://open.spotify.com/track/1OuJhCr6p1n5XYbaUNScvl"

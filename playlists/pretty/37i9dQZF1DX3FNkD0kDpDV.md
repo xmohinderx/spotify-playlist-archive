@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > An array of selects by Kx5, a collaboration over a decade and a half in the making by deadmau5 & Kaskade.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,707 likes - 36 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,733 likes - 36 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

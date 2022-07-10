@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,787 likes - 115 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,938 likes - 115 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

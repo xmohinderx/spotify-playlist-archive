@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: G\. Love
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,028 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,098 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 12 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 |
 | 13 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 |
 | 14 | [Tell It Like It Is](https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Neither Here Nor There](https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy) | 2:55 |
-| 15 | [Stay away from me](https://open.spotify.com/track/7EaZMdAtVy23yoa8HELJgF) | [Nathan Jubber](https://open.spotify.com/artist/2Ax0SEV5ct7Q3EOJDbxsJZ) | [Stay away from me](https://open.spotify.com/album/2B1YbPhjd2tp1KAcwM26Ra) | 2:42 |
+| 15 | [Stay away from me](https://open.spotify.com/track/7EaZMdAtVy23yoa8HELJgF) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/2B1YbPhjd2tp1KAcwM26Ra) | 2:42 |
 | 16 | [Workin' Man](https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts) | 3:52 |
 | 17 | [Hits Like Lightning](https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Hits Like Lightning](https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45) | 2:42 |
 | 18 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 |

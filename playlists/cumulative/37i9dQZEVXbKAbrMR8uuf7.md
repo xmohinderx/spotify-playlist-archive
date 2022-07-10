@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-508 songs - 1 day 5 hr 1 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+509 songs - 1 day 5 hr 4 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2021-07-18 | 2021-07-19 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-08-03 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-05-12 | 2021-06-27 |
-| [KLK](https://open.spotify.com/track/11TInlni5JFUinx9syKoXH) | [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [KLK](https://open.spotify.com/album/25ncHvJs8Ujvo7U6yeEBDb) | 3:01 | 2022-06-12 |  |
+| [KLK](https://open.spotify.com/track/11TInlni5JFUinx9syKoXH) | [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [KLK](https://open.spotify.com/album/25ncHvJs8Ujvo7U6yeEBDb) | 3:01 | 2022-06-12 | 2022-07-10 |
 | [KLK](https://open.spotify.com/track/3W5dmUe8zliUk6QjOqRGRp) | [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [KLK](https://open.spotify.com/album/4qoVZL8qlanh4r08v93Xj8) | 3:01 | 2022-05-31 | 2022-06-05 |
 | [La 70](https://open.spotify.com/track/2RNixswwiNxaNvL7FgUuYU) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [La 70](https://open.spotify.com/album/6IVRjLAXXrAZPnH57TomKC) | 2:30 | 2022-01-02 | 2022-01-04 |
 | [La Bachata](https://open.spotify.com/track/4fyh2gcq3nPrOi6ZSRoTAG) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 3:08 | 2022-04-09 | 2022-04-13 |
@@ -338,6 +338,7 @@
 | [No Spang](https://open.spotify.com/track/1HXTpsTUycGVExkP0O05Ie) | [Sherman Smith](https://open.spotify.com/artist/0AHS7Ls2S2SqYAruOvl9b0), [Gigi Tequila](https://open.spotify.com/artist/0NIFDhmpufkrkdw6lLwxZG) | [No Spang](https://open.spotify.com/album/5yR7Kgl0X4OhZECse9SaoT) | 2:49 | 2022-05-02 | 2022-05-24 |
 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 | 2021-12-05 |  |
 | [No Te Enamores \- Remix](https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [No Te Enamores \(Remix\)](https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk) | 4:49 | 2021-03-27\* | 2021-07-04 |
+| [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-09 |  |
 | [North Carolina](https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 2:56 | 2021-11-28 | 2022-04-04 |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-09-11 | 2022-05-08 |
 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 | 2022-05-22 | 2022-06-06 |

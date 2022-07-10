@@ -81,6 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 71 | [Fortune](https://open.spotify.com/track/0QqO1HXOG0wPiCkorNQFzQ) | [Dekat](https://open.spotify.com/artist/2cfeDiShASddu7VxhoG3ce) | [Fortune](https://open.spotify.com/album/4KjbgtCa7PIvHmbbHBsCMu) | 3:13 |
 | 72 | [Sand Castle](https://open.spotify.com/track/6NwnAbhHTFWJMffR44ociw) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF) | [Summer Ocean](https://open.spotify.com/album/6fDPr1L3151DEBjNmgV8AT) | 2:01 |
 | 73 | [Spaceship](https://open.spotify.com/track/7Kz8jS0iJ07JjWkN6gY0S6) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/4wc8biQw9TsUg8DdH6IU4s) | 3:23 |
-| 74 | [Devil Eyes](https://open.spotify.com/track/7eGgaxBDg13KBgZCCULIje) | [VORANAH](https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij), [Jasmine](https://open.spotify.com/artist/3MDKMKqn9uVYlVM3ZrMl4t) | [THE MASTERPIECE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77QhNf1KG1kCd6ecDhvnnn) | 2:35 |
+| 74 | [Devil Eyes](https://open.spotify.com/track/7eGgaxBDg13KBgZCCULIje) | [VORANAH](https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij), [Jasmine](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [THE MASTERPIECE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77QhNf1KG1kCd6ecDhvnnn) | 2:35 |
 
 Snapshot ID: `MTY1NzIxMTgyNCwwMDAwMDQ4YTAwMDAwMTgxZDk4NWE4YjAwMDAwMDE4MWQ5NTcxODBj`

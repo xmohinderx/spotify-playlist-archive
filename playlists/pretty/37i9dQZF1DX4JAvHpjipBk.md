@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Burna Boy & Ed Sheeran, The 1975, Brent Faiyaz, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,930,136 likes - 98 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,930,864 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 97 | [Don't Leave](https://open.spotify.com/track/4VRYn70kIv3ki10cSWFK13) | [Clara Lars](https://open.spotify.com/artist/49JmAjGLpf6BkXCvvLC2kY) | [Don't Leave](https://open.spotify.com/album/07PaqoFYXUXXmZF3rlZk6y) | 3:11 |
 | 98 | [The Kid](https://open.spotify.com/track/2sQ1usRC33NfoF9xEK52Mn) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [The Kid](https://open.spotify.com/album/3lXTfkiozriJgHGcxRRlD5) | 3:33 |
 
-Snapshot ID: `MTY1NzI5NjY5MywwMDAwMDNiYjAwMDAwMTgxZGU5NGE4M2QwMDAwMDE4MWRhNDcwZjNm`
+Snapshot ID: `MTY1NzM4NjUzNiwwMDAwMDNiYzAwMDAwMTgxZTNlZjhjYWQwMDAwMDE4MWRhNDcwZjNm`

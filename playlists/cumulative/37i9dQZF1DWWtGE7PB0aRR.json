@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 450000,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 166066,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/1LbYEPf6Qvjxx3adcMUtW5"
@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Medication Time",
+        "url": "https://open.spotify.com/album/2NLkkqOBsfu247XfAjhhns"
+      },
+      "artists": [
+        {
+          "name": "Todd Sharpville",
+          "url": "https://open.spotify.com/artist/4iOFTwfnN1WfcIGYRoa3vE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347200,
+      "name": "God Loves A Loser",
+      "url": "https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO"
+    },
+    {
+      "album": {
         "name": "Tons Of Sobs",
         "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
@@ -553,7 +571,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 230160,
       "name": "Highway (Killing Me) - 2016 Remaster",
       "url": "https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL"
@@ -661,7 +679,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 162360,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/6WIaTMyMrZSbM2Zlz3fTY6"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 217986,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/2IrQY3wh9iJWO0t8nRyE3p"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 240973,
       "name": "If That Ain't A Reason",
       "url": "https://open.spotify.com/track/4v26MY6oRGioIHvfCYFxMT"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 289960,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 169177,
       "name": "Rain Is Such a Lonesome Sound - Remastered",
       "url": "https://open.spotify.com/track/6J68zJQnXT7G1W2SJ48NcU"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 177306,
       "name": "Sittin' And Thinkin' - Mono Version",
       "url": "https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 187245,
       "name": "Who Do You Love?",
       "url": "https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 218163,
       "name": "Wild Women Don't Have the Blues",
       "url": "https://open.spotify.com/track/7FEKQ8ypfcwp970Bzgp7F3"

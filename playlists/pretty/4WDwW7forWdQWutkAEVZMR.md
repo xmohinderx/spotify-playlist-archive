@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Pharrell, Harry Styles &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,301 likes - 45 songs - 2 hr 21 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,304 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 | 7 | [6 ft deep \(feat\. Galvanic & Silent Child\)](https://open.spotify.com/track/52ZWNeOEBXdrVb2Im3Anht) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Galvanic](https://open.spotify.com/artist/3GQj08iHefTniyhHjCVBov), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [6 ft deep \(feat\. Galvanic & Silent Child\)](https://open.spotify.com/album/1zH2TTC79xj4B6RqxdDvCu) | 3:16 |
 | 8 | [\(N\) INE](https://open.spotify.com/track/7lC2H90qclM4JgyQz6H1ys) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [RELAPSED](https://open.spotify.com/album/05CtRgycYQtDaDo80zxeQF) | 2:46 |
 | 9 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 |
-| 10 | [New Money](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 |
+| 10 | [New Money \(with 21 Savage\)](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money \(with 21 Savage\)](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 |
 | 11 | [Why Can't You Wait](https://open.spotify.com/track/2qtryeKSrI7RgSBo1N3uXv) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [So Far So Good \(+ Why Can't You Wait\)](https://open.spotify.com/album/6lZXf2zysA8254dmpzvrhw) | 3:49 |
 | 12 | [Where I Belong](https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Where I Belong](https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0) | 3:08 |
 | 13 | [Getcha](https://open.spotify.com/track/30T3caX52HnPa04rmbqdMK) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Getcha](https://open.spotify.com/album/3x0xq7i4SVBQvnu1H1k2mb) | 2:50 |

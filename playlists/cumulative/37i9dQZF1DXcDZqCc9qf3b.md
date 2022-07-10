@@ -2,9 +2,9 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites, such as Waffles & Mochi.
+> Groove to music from your Netflix Kids favorites, such as The Sea Beast.
 
-69 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/4OwNQpd4CKtVZ6h2qFxFa1)
+70 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/4OwNQpd4CKtVZ6h2qFxFa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Beautiful Ugly \(feat\. Evie Irie\) \- from "Back to the Outback" soundtrack](https://open.spotify.com/track/5SIqvVcGc16MsnsVIw83aD) | [Tim Minchin](https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2), [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Beautiful Ugly \(feat\. Evie Irie\) \[from "Back to the Outback" soundtrack\]](https://open.spotify.com/album/6MWqVsBTfAcJ0WvzhPSvPw) | 2:44 | 2022-04-08 |  |
 | [Best Day Ever](https://open.spotify.com/track/4yYrFMKjLBVEXF7Psy36LB) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg) | [DreamWorks Trolls \- The Beat Goes On! \(Music From Season 1\)](https://open.spotify.com/album/74G7ktttrog53aefGFcf41) | 2:29 | 2022-04-08 |  |
 | [Breakout \(Theme From The Netflix Series "Battle Kitty"\)](https://open.spotify.com/track/1gSHxEgZI4rmvjUcQ0UUzy) | [Maxo](https://open.spotify.com/artist/069n4k5Ultxa6j838AJtGJ) | [Battle Kitty \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/5d6p6H0Y7R0VOAyZr2pwEA) | 1:39 | 2022-04-22 |  |
+| [Captain Crow \- from "The Sea Beast" Soundtrack](https://open.spotify.com/track/7FPa79wpVMBvcw0p7SoB2V) | [Nell Benjamin](https://open.spotify.com/artist/2zd6EMs4amJNjdq41ArIrJ), [Laurence O'Keefe](https://open.spotify.com/artist/1DX6JkrHY2mbpWK4gntYhO) | [The Sea Beast \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx) | 1:37 | 2022-07-09 |  |
 | [Chicken Bop](https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:03 | 2022-04-08 |  |
 | [Danger, Danger](https://open.spotify.com/track/090pfisth9XR8YT4I9XYYM) | [Alan Schmuckler](https://open.spotify.com/artist/4gQjvlYHRKVoeR9rb8iCJ5), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 2:11 | 2022-04-08 |  |
 | [Finger Family](https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:16 | 2022-04-08 |  |
@@ -66,7 +67,7 @@
 | [The Kid \(Kid Cosmic Theme\)](https://open.spotify.com/track/6i2A4dpAYVkIINr7ypBNJD) | [Dr\. Fang and The Gang](https://open.spotify.com/artist/3jXRb6lCRced5A1w4pikFh) | [Kid Cosmic and the Sonic Courage \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tTsRAyDRVi7NMqNSqxSbR) | 2:01 | 2022-04-08 |  |
 | [The Music In You \(From Gabby's Dollhouse\)](https://open.spotify.com/track/6dawwS9u34unKdN6GpecGT) | [Eduardo Franco](https://open.spotify.com/artist/1PpNXrIz5vq9XtTkTZN6gN) | [The Music In You \(From Gabby's Dollhouse\)](https://open.spotify.com/album/5dpKoCPEjVfPljzdyYruoK) | 2:24 | 2022-04-08 |  |
 | [The Power Is Ours](https://open.spotify.com/track/7jiLiLBb2UPYKiomQpNwTd) | [Ali Dee](https://open.spotify.com/artist/11Z6vwNiOdfaki04eL60tj) | [He\-Man and the Masters of the Universe, Vol\. 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/3gTyS9vXB0WQERPLu11WhP) | 2:54 | 2022-04-08 |  |
-| [The Sea Beast](https://open.spotify.com/track/3YhPDdcQ5kz0MW4vTKyX8t) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [The Sea Beast \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx) | 2:23 | 2022-07-08 |  |
+| [The Sea Beast](https://open.spotify.com/track/3YhPDdcQ5kz0MW4vTKyX8t) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [The Sea Beast \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx) | 2:23 | 2022-07-08 | 2022-07-10 |
 | [The Why Song](https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:31 | 2022-04-08 |  |
 | [This Day](https://open.spotify.com/track/2rZWWJNvLD2MRSIqjsLXpc) | [Justin Cornwell](https://open.spotify.com/artist/2A5eGxahQnw1LlZDMlzCWC), [Sharon Rose](https://open.spotify.com/artist/4eeDtE1DM9kHdHyHi668JQ) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:33 | 2022-04-08 |  |
 | [Tyrannosaurus Rex](https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK) | 1:22 | 2022-04-08 |  |

@@ -4,14 +4,14 @@
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/6u2iDNee0h9mQQPZozV8gU)
+55 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/6u2iDNee0h9mQQPZozV8gU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Deathless Song \(feat\. Jenna McDougall\)](https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo), [Jenna McDougall](https://open.spotify.com/artist/2GlLtFW2NFh16BFIxMvIYC) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 4:00 | 2022-05-30 |  |
 | [Absolute Power](https://open.spotify.com/track/3PBO2IOcxzIdDbpDwygejB) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:42 | 2022-05-30 |  |
-| [Anasasis \(Xenophontis\)](https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:31 | 2022-05-30 |  |
-| [Blue and the Grey](https://open.spotify.com/track/0e30YEyFE4Yv1XJcPqEY3n) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 5:47 | 2022-06-03 | 2022-07-07 |
+| [Anasasis \(Xenophontis\)](https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:31 | 2022-05-30 | 2022-07-10 |
+| [Blue and the Grey](https://open.spotify.com/track/0e30YEyFE4Yv1XJcPqEY3n) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 5:47 | 2022-06-03 |  |
 | [Boneyards](https://open.spotify.com/track/0TIef4jRYHONrw4BVvDGT0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:15 | 2022-06-06 | 2022-06-29 |
 | [Bottom Feeder](https://open.spotify.com/track/6jQu1YuisnFu36Sof5wjym) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:20 | 2022-05-30 |  |
 | [Breaking Point](https://open.spotify.com/track/7nhVZs10XVluL6RKtv86q9) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:38 | 2022-05-30 |  |
@@ -31,6 +31,7 @@
 | [Flesh, Bone and Weakness](https://open.spotify.com/track/0cu6AGJwPrVuwFn4Kub30A) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Don't Close Your Eyes](https://open.spotify.com/album/3eocTQ5CZzOg3TSWDdjdJn) | 5:13 | 2022-05-30 |  |
 | [Gimme AD](https://open.spotify.com/track/6aiL3ftGl86lXUWkYuN05E) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:31 | 2022-06-03 | 2022-07-05 |
 | [Glitch](https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Glitch](https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup) | 4:21 | 2022-06-09 |  |
+| [Guns For Show, Knives For A Pro](https://open.spotify.com/track/5oGajAwzolRHDD5QYEtqaU) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 2:43 | 2022-07-09 |  |
 | [Home Is For The Heartless](https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:08 | 2022-06-01 | 2022-07-04 |
 | [Horizons](https://open.spotify.com/track/2i5lnmaZ9tB8pom8Br4KS5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 5:39 | 2022-05-30 |  |
 | [Idols and Anchors](https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:48 | 2022-05-30 |  |
@@ -51,7 +52,7 @@
 | [Smoke 'Em If You Got 'Em](https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:40 | 2022-05-30 |  |
 | [Swing](https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 3:31 | 2022-05-30 |  |
 | [The Greatest Fear](https://open.spotify.com/track/4djFibnNhLYGcQra97W9N1) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [The Greatest Fear](https://open.spotify.com/album/7Jeto13iM7TeHsLhxeffb6) | 5:28 | 2022-07-08 |  |
-| [The River](https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 5:27 | 2022-05-31 |  |
+| [The River](https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 5:27 | 2022-05-31 | 2022-07-10 |
 | [The Siren's Song](https://open.spotify.com/track/6EhCOo20iD7JSvMP7fty7n) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:04 | 2022-05-30 |  |
 | [The Slow Surrender](https://open.spotify.com/track/18pix4twyWpotDwCBmdpsC) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:14 | 2022-05-30 | 2022-07-04 |
 | [The Sound of Violence](https://open.spotify.com/track/0M642wngTpDSoUTf6SYnSh) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:24 | 2022-05-30 |  |

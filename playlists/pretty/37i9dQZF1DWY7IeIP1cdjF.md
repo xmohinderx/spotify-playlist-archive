@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Chencho Corleone, Anuel AA, Chris Jedi, and Ñengo Flow.🔥🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,517,121 likes - 52 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,518,500 likes - 52 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

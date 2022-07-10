@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-381 songs - 21 hr 26 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
+382 songs - 21 hr 30 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-31 |  |
 | [Melancólicos Anónimos](https://open.spotify.com/track/1s4jVre4ZgBm3sVJP1NTrl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:19 | 2022-02-15 | 2022-02-26 |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-05-10 | 2022-05-28 |
+| [Mi Bebito Fiu Fiu](https://open.spotify.com/track/4KbSQQsRUGuwnwe6PDZB9v) | [Martín Vizcarra](https://open.spotify.com/artist/1cmcYJNbE5UsCnPn5jtfUe) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/6KuRgyWHYHcec0e3YUqLdg) | 3:39 | 2022-07-09 |  |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs) | [Tito Silva Music](https://open.spotify.com/artist/2IFOwmcGO4WH8r3qPOh1Y8) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/1Tc6UA5XQyaJzgCEZYS3p1) | 3:39 | 2022-06-26 | 2022-07-09 |
 | [Mi Corrido](https://open.spotify.com/track/0DNHxOl3fjt63bBS1jm6Vw) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:23 | 2022-06-22 | 2022-07-06 |
 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 | 2022-02-08 | 2022-03-30 |
@@ -303,7 +304,7 @@
 | [Shake](https://open.spotify.com/track/7eeno3ABQy6MMw8GlsZ7BO) | [Ishowsped](https://open.spotify.com/artist/6pagcowMoN3u2CNYuuf3Ne), [essential318](https://open.spotify.com/artist/4LZimrBneNMs74jf0xMwEr) | [Shake](https://open.spotify.com/album/4sBwRYyHM50cE3PWnZwRQe) | 2:36 | 2022-03-13 | 2022-03-16 |
 | [Shake \- Remastered](https://open.spotify.com/track/6DYM1F6kuLpa7vnmMLUS8k) | [Ishowsped](https://open.spotify.com/artist/6pagcowMoN3u2CNYuuf3Ne) | [Shake \(Remastered\)](https://open.spotify.com/album/3Akw69hwyc0YgbWjhnOVKJ) | 2:36 | 2022-03-15 | 2022-03-24 |
 | [Shillin'](https://open.spotify.com/track/2NYqx7lx6fSWv7LoxgONEL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:50 | 2022-04-19 | 2022-04-27 |
-| [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 | 2022-06-21 |  |
+| [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 | 2022-06-21 | 2022-07-10 |
 | [Si Supieras](https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 4:11 | 2022-03-23 | 2022-05-15 |
 | [Sigo Brillando](https://open.spotify.com/track/7jBt3v6vrPtiZoFMTYmeVa) | [Natanael Kong](https://open.spotify.com/artist/2a7qOWwPHcWQ46GNh4ixmg) | [Sigo Brillando](https://open.spotify.com/album/6B8dNxJ4LpBQDDG5MnsXLr) | 2:19 | 2022-04-05 | 2022-04-13 |
 | [Sirena](https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sirena](https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS) | 3:51 | 2022-02-15 | 2022-02-24 |

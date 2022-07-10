@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie songs by Dermot Kennedy, Conan Gray, and more! Chill out to these relaxing and calming indie, pop, and folk tracks, and discover new favorites! Cover: Lyn Lapid
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 115,091 likes - 57 songs - 3 hr 13 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 115,086 likes - 57 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

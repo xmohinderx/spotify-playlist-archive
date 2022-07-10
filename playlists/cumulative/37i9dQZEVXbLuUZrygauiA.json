@@ -4029,6 +4029,24 @@
     {
       "album": {
         "name": "Mi Bebito Fiu Fiu",
+        "url": "https://open.spotify.com/album/6KuRgyWHYHcec0e3YUqLdg"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Vizcarra",
+          "url": "https://open.spotify.com/artist/1cmcYJNbE5UsCnPn5jtfUe"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219707,
+      "name": "Mi Bebito Fiu Fiu",
+      "url": "https://open.spotify.com/track/4KbSQQsRUGuwnwe6PDZB9v"
+    },
+    {
+      "album": {
+        "name": "Mi Bebito Fiu Fiu",
         "url": "https://open.spotify.com/album/1Tc6UA5XQyaJzgCEZYS3p1"
       },
       "artists": [
@@ -6009,7 +6027,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-155 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/5hLQtJC5BnWg5s4UcxlKNP)
+156 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/5hLQtJC5BnWg5s4UcxlKNP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Ella Quiere Beber \- Remix](https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Ella Quiere Beber \(Remix\)](https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG) | 3:39 | 2022-06-04 |  |
 | [Embriágame](https://open.spotify.com/track/07YFRv1Rj2iTtA7NY3CTcY) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:39 | 2022-06-04 |  |
 | [ENERO](https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:35 | 2022-06-04 |  |
+| [Epapale](https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Epapale](https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u) | 2:00 | 2022-07-09 |  |
 | [Era Necesario](https://open.spotify.com/track/1fVN4Cv3vJ3KOXd6VY5o9U) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:07 | 2022-06-04 |  |
 | [Escape](https://open.spotify.com/track/1PPHqTL7IpYToKeIuA5pi9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:10 | 2022-06-04 |  |
 | [Espina](https://open.spotify.com/track/1jsFnIYH6MnEjMyvJn7HF1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:18 | 2022-06-04 |  |

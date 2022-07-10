@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Cobra
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,254 likes - 64 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,113 likes - 64 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

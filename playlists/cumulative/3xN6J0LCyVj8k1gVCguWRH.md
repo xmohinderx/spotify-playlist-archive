@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,509 songs - 3 day 15 hr 55 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,511 songs - 3 day 16 hr 4 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Angel Boy](https://open.spotify.com/track/0dQKlmok37veSI3FBGdoXs) | [William Bolton](https://open.spotify.com/artist/1NPkkY0RutjrXakIihpIiS) | [Highlights](https://open.spotify.com/album/7ApzmB6mx4hAVdX3ojEBl3) | 3:18 | 2020-04-22 | 2020-05-24 |
 | [Angles](https://open.spotify.com/track/04ItTyrafc0bPjKZM73iRi) | [Asa Rivera](https://open.spotify.com/artist/4CEkCkM3EXcNDhtjBDXAFO) | [The Prelude to Happiness](https://open.spotify.com/album/7yJBu4VY3V6NbJZVqTKaZ2) | 2:37 | 2021-03-26 | 2021-04-11 |
 | [Another Drink](https://open.spotify.com/track/190IjzLs01Y4BKiszBVSIk) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Another Drink](https://open.spotify.com/album/2mAeaskwXDpkHBpaEGqWor) | 3:06 | 2019-12-16 | 2021-06-20 |
+| [Another Star](https://open.spotify.com/track/31B3aXOVem4hH2bO45VkXl) | [Earthquake Lights](https://open.spotify.com/artist/1ZhXMVV5iZrnrKUIMEhuFW) | [Another Star](https://open.spotify.com/album/4de6UhKBrZmBacJKSV3J3B) | 4:54 | 2022-07-09 |  |
 | [ANTHEM](https://open.spotify.com/track/3cCfCaMqeAnTekr6sf2rX6) | [Not Who I Am](https://open.spotify.com/artist/4IRkyMgtRsmfmowSyl4OIX), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [ANTHEM](https://open.spotify.com/album/4AoeQekkgGdvWP7EWSboug) | 2:41 | 2020-01-14 | 2020-02-08 |
 | [ANTHEM \- Acoustic](https://open.spotify.com/track/0iS4eZ5VAPwDKNFbG29lOc) | [Not Who I Am](https://open.spotify.com/artist/4IRkyMgtRsmfmowSyl4OIX), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [ANTHEM \(Acoustic\)](https://open.spotify.com/album/5yF1ZRcO83UJFgSLKUSEQt) | 2:43 | 2020-03-11 | 2020-04-09 |
 | [Anxiety](https://open.spotify.com/track/3pIZabV5IIO1IORK2tysIk) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Anxiety](https://open.spotify.com/album/6QCfRde9kj4obpcSaitQFf) | 2:28 | 2020-06-08 | 2020-07-02 |
@@ -968,6 +969,7 @@
 | [Not Friends](https://open.spotify.com/track/4UblUBXSKAdFF64fKE39ll) | [Dan Perry](https://open.spotify.com/artist/0A5cbSUboEJjfllblEdIH6) | [Not Friends](https://open.spotify.com/album/4cZ0OfgCfVj00eTE74W87V) | 3:17 | 2020-11-20 | 2020-12-05 |
 | [Not Ready For Love \(feat\. Maya B\)](https://open.spotify.com/track/6srxWPSep6Jp5Xw0IHYWoy) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maya B](https://open.spotify.com/artist/1xcOqHjfEmCPz6C9qSPtOf) | [Not Ready For Love](https://open.spotify.com/album/1grGRTZhofqtqVPlDqSgVB) | 3:13 | 2020-02-27 | 2020-03-11 |
 | [Not The Same](https://open.spotify.com/track/2UjKRb9U9dmLCOd5d8kDah) | [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [Soundless Motion](https://open.spotify.com/album/3ncn7vbzU56hjVsrTmdXm1) | 3:07 | 2020-11-20 | 2020-12-05 |
+| [not to catch you by surprise](https://open.spotify.com/track/6OxZfLEPTdfMg3vo0Hb2oI) | [Portra](https://open.spotify.com/artist/6pkTpw086gZWWdx3guBUCe) | [not to catch you by surprise](https://open.spotify.com/album/66pqVTjXkiblOMQ45immiv) | 3:21 | 2022-07-09 |  |
 | [Nothing 101](https://open.spotify.com/track/5kVSDOmMPZWtVQanIzz3n9) | [The Most Art](https://open.spotify.com/artist/731kQoMBEUnqqi90pTCoQ0), [BOSCO](https://open.spotify.com/artist/1A4fV156Nn6rWIE8jk5ZpT) | [Nothing 101](https://open.spotify.com/album/0XQVXDEuBpDH8LLa4cIVEZ) | 4:21 | 2020-10-13 | 2020-10-30 |
 | [Nothing Else Mattered](https://open.spotify.com/track/0qN1Yxku0zHwfJU7kASYLj) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Nothing Else Mattered](https://open.spotify.com/album/1DW2BKBJEVD8zWMabr1Y2G) | 3:23 | 2021-12-18 | 2022-01-19 |
 | [Nothing New \(feat\. the Fame Riot\)](https://open.spotify.com/track/7yBlRDQym5EHJ64dgvynb5) | [Back Talk](https://open.spotify.com/artist/7rTfJoe4FkV7lkbS83vNdF), [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [The Fame Riot](https://open.spotify.com/artist/1BuJYwafbXyUE1sj1WY50f) | [Nothing New \(feat\. the Fame Riot\)](https://open.spotify.com/album/0aevdFoYYULtVZuxRTnKPD) | 3:32 | 2019-12-16 | 2019-12-27 |

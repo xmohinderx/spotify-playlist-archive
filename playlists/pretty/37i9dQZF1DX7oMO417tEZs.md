@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Emotional Oranges
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,245 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,059 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 7 | [Pull Up \(Aleqs Notal Remix\)](https://open.spotify.com/track/43VFaii69iTLH7fJw8e5Zk) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Aleqs Notal](https://open.spotify.com/artist/3NfDWSGUqHYSW4lAtRWlPF) | [Pull Up \(Aleqs Notal Remix\)](https://open.spotify.com/album/2NQMzZCOleYIXactxb2oIQ) | 5:31 |
 | 8 | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/album/23u0FuhV3UGHXvMWD2h5ms) | 2:38 |
 | 9 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 |
-| 10 | [New Money](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 |
+| 10 | [New Money \(with 21 Savage\)](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money \(with 21 Savage\)](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 |
 | 11 | [Happy Lonely Boy](https://open.spotify.com/track/5pEsbKaHJ0IrCiaGulBFBp) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Happy Lonely Boy](https://open.spotify.com/album/0E8tk6z5nzJUZAfKsC6Wck) | 2:15 |
 | 12 | [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [MC Azas](https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 |
 | 13 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 |

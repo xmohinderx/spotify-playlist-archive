@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 139523,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/5UA6rAsMTn0okgp95isGrl"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 182500,
       "name": "Dare Me",
       "url": "https://open.spotify.com/track/77BDJDKKWm11KXQh0Sv4Jf"
@@ -620,6 +620,32 @@
     },
     {
       "album": {
+        "name": "Discoteca (Benny Benassi Remix)",
+        "url": "https://open.spotify.com/album/5PPZwoCuUHoQxlhJzKDmHy"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246734,
+      "name": "Discoteca (Benny Benassi Remix)",
+      "url": "https://open.spotify.com/track/1HnTCmmIiojQIiW0tfvRcP"
+    },
+    {
+      "album": {
         "name": "Disturbia",
         "url": "https://open.spotify.com/album/46OrZMgVQvowBZsU6kI18r"
       },
@@ -635,7 +661,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 161280,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/37DVyKUzBMXu6HvMoGoYDk"
@@ -767,7 +793,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
@@ -1461,7 +1487,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 199764,
       "name": "In & Out",
       "url": "https://open.spotify.com/track/7HCXtYPQka5aa8DflAUZI2"
@@ -1637,7 +1663,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 180233,
       "name": "Makes Me Feel This Way",
       "url": "https://open.spotify.com/track/0d3aYLE4tPWtCDdM3ibmRY"
@@ -1731,7 +1757,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 206040,
       "name": "My Heart's Been Waiting for You (feat. Duvall)",
       "url": "https://open.spotify.com/track/5CDdnP62YjCVbp8epDMdLY"
@@ -1775,7 +1801,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 181741,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu"
@@ -2089,7 +2115,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 192656,
       "name": "Push the Feeling On",
       "url": "https://open.spotify.com/track/3LNlD2TAUQTq2CBOrOdQ7z"
@@ -2541,7 +2567,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 134442,
       "name": "That Feeling (feat. Hayley May)",
       "url": "https://open.spotify.com/track/7clsGP3ea7rhBaEK9ga898"
@@ -2637,7 +2663,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 156394,
       "name": "The Lion (feat. Sara Sangfelt)",
       "url": "https://open.spotify.com/track/4dilhWGYoBY6UJqAIyKMqm"
@@ -2703,7 +2729,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 189375,
       "name": "Tonight (In Your Arms)",
       "url": "https://open.spotify.com/track/5qHGJ1JN9N0cyhaSfQo9Bi"
@@ -2769,7 +2795,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 137460,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/0WFiohDUm3wbv1SRWlPFR3"

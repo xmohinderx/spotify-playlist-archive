@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 138426,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/3xoMRK8egNvtjrCEQieLko"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 203453,
       "name": "Down in Mississippi",
       "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 175800,
       "name": "Fishin' Blues",
       "url": "https://open.spotify.com/track/06ETJH5FcfTZRKQXyd2SYa"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 146266,
       "name": "Get out of My Life Woman",
       "url": "https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 188813,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 191840,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/0reXR4LnjbkmgJu5gNcF6t"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 175933,
       "name": "I'm Satisfied",
       "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 182508,
       "name": "Mojo Hand",
       "url": "https://open.spotify.com/track/1WE055A5d1019EAx79Rg8Q"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 247496,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 261000,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 316360,
       "name": "Preachin' Blues",
       "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 222199,
       "name": "Shake It for Me",
       "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
@@ -1081,6 +1081,24 @@
       "duration_ms": 252693,
       "name": "Six Blade Knife",
       "url": "https://open.spotify.com/track/7n13S0lBOEXLx6duwghCUM"
+    },
+    {
+      "album": {
+        "name": "Bad Mouthin'",
+        "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Stockholm Blues",
+      "url": "https://open.spotify.com/track/4cja0xX2ICFGLTm9T9m5BU"
     },
     {
       "album": {
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 206040,
       "name": "The World Can Be So Cold",
       "url": "https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG"

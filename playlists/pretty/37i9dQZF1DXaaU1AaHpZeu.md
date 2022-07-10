@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Cancamusa
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,461 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,495 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 33 | [2:22](https://open.spotify.com/track/7mgzohKzB75wL8lkjEhASo) | [Ela](https://open.spotify.com/artist/4M1vqmIoggb1ZuP9yW9mWM), [Amalia](https://open.spotify.com/artist/3a33bysPiMfgsNJj0D5ZHc) | [2:22](https://open.spotify.com/album/3yUxstmk4l7JbXOvvjSxS7) | 2:31 |
 | 34 | [8](https://open.spotify.com/track/1pKDvC1pTjzJuI1ps7i6ni) | [Don't Chase the Lizard](https://open.spotify.com/artist/0uC3fovB5pLGi48M5N3NEl) | [8](https://open.spotify.com/album/702xRpX3mzo5HXURP8zcUN) | 4:41 |
 | 35 | [Límite](https://open.spotify.com/track/6LBct1lCubyNMQPq7LgWEq) | [te quería mucho](https://open.spotify.com/artist/67aSH8n0Y4SeORd9DU9X6y) | [Límite](https://open.spotify.com/album/3uzSKlNYuN7gJUNnGCVrCZ) | 2:57 |
-| 36 | [GULA](https://open.spotify.com/track/0LPse67daGLaALSH1mWcMx) | [Madiba](https://open.spotify.com/artist/6BkNASSNLsbqrhDlpX2V6X), [Marki](https://open.spotify.com/artist/3aJYlc6A2uFmhyeAJXlxrO) | [GULA](https://open.spotify.com/album/2uYsAPcXA3NCB2V5xnWaGB) | 4:20 |
+| 36 | [GULA](https://open.spotify.com/track/0LPse67daGLaALSH1mWcMx) | [Madiba](https://open.spotify.com/artist/6BkNASSNLsbqrhDlpX2V6X), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [GULA](https://open.spotify.com/album/2uYsAPcXA3NCB2V5xnWaGB) | 4:20 |
 | 37 | [La Corriente](https://open.spotify.com/track/30hyQ2IgxsixPoMVkJIvBL) | [Sudeste Asiático](https://open.spotify.com/artist/364EWtqm8yhCdtDzL3MsxJ) | [La Corriente](https://open.spotify.com/album/3uwIZ6JGUNFx3xdNcQ0vHs) | 3:39 |
 | 38 | [Relieve](https://open.spotify.com/track/4KAWkrPuZ4bkpjS799ZHaw) | [Franco Masciarelli](https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c), [Delfina Mancardo](https://open.spotify.com/artist/7aCKt3m8guXnz3VYRgNO1q) | [Relieve](https://open.spotify.com/album/7i0jP7k6WFshAcXTVz8sNR) | 2:27 |
 | 39 | [Egnaro](https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV) | [Los Valses](https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47) | [Egnaro](https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,779 likes - 144 songs - 7 hr 42 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,780 likes - 144 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 132 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 |
 | 133 | [Shine A Light](https://open.spotify.com/track/2TKbUrwgNWfZ7shMZqvfZC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 5:56 |
 | 134 | [Feel It \- Mark Maxwell Remix](https://open.spotify.com/track/2RHan5mYxohE6ss9S8P2ou) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Mark Maxwell](https://open.spotify.com/artist/1yOjThq2IWrVGP3a2i0Ug7) | [Feel It \(Mark Maxwell Remix\)](https://open.spotify.com/album/5J4xdyjkRJN2gj4Mk9ERzK) | 3:06 |
-| 135 | [Slidin' \- BADDIES ONLY Remix](https://open.spotify.com/track/6Xi23f6UAZDcsMSGML8Tb6) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Slidin' \(BADDIES ONLY Remix\)](https://open.spotify.com/album/1vILcJFs6kxZmdiAxTWF3s) | 2:53 |
+| 135 | [Slidin' \- BADDIES ONLY Remix](https://open.spotify.com/track/6Xi23f6UAZDcsMSGML8Tb6) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Slidin' \(BADDIES ONLY Remix\)](https://open.spotify.com/album/1vILcJFs6kxZmdiAxTWF3s) | 2:53 |
 | 136 | [Since 91 \(feat\. $LUGG\)](https://open.spotify.com/track/3vsHHMdo734N08AcJ7bzrq) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL), [$lugg](https://open.spotify.com/artist/6qBEAm67lFVJIqPdWnLZA3) | [Since 91 \(feat\. $LUGG\)](https://open.spotify.com/album/1xNjebhLSg4XXs7iDT8Vgj) | 2:54 |
 | 137 | [improvisations](https://open.spotify.com/track/3qGpDDgmPTykqFyzMzCXKW) | [linanthem](https://open.spotify.com/artist/0HrxevJVGTEFBWFfAc88H3), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [improvisations](https://open.spotify.com/album/1GCFt2v3up4r5GviI7ddCM) | 2:13 |
 | 138 | [Julianne](https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:51 |

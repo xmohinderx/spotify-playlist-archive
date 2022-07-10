@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 237293,
       "name": "15 Step",
       "url": "https://open.spotify.com/track/6dsq7Nt5mIFzvm5kIYNORy"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 236733,
       "name": "Australia",
       "url": "https://open.spotify.com/track/1JQiZTI59vPKwXHaU0md7I"
@@ -660,6 +660,24 @@
     },
     {
       "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/3mreobGzuqYw5lVcUaAlG2"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195773,
+      "name": "Big Wheel",
+      "url": "https://open.spotify.com/track/0uVKVK06Eg7e74H36PbSZm"
+    },
+    {
+      "album": {
         "name": "Half-Light",
         "url": "https://open.spotify.com/album/2eVtqdI1qU02LHrPH72Omq"
       },
@@ -671,7 +689,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 201760,
       "name": "Bike Dream",
       "url": "https://open.spotify.com/track/1acb8u70kClk6NjITaZyuG"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 197480,
       "name": "Bunny Is A Rider",
       "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 269693,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/71cUqXJ3h1r0Ees6YdENLU"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 192960,
       "name": "Feels Like We Only Go Backwards",
       "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 280074,
       "name": "Gap in the Clouds",
       "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2"
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 190466,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/20CZyFEt1f9MAikYqM7vjU"
@@ -2551,7 +2569,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 259825,
       "name": "Gravity Rides Everything",
       "url": "https://open.spotify.com/track/4G2yqD7N1igPRafkvJb7S4"
@@ -3095,7 +3113,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 202346,
       "name": "In the Aeroplane Over the Sea",
       "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
@@ -3167,7 +3185,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 151333,
       "name": "Is This It",
       "url": "https://open.spotify.com/track/0jBE7Fn78EAvmIs3dCd6GO"
@@ -3369,7 +3387,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 301866,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY"
@@ -3765,7 +3783,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX"
@@ -3885,7 +3903,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/4q9w3UGW3utmeUruBLUoZZ"
@@ -3965,7 +3983,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
@@ -4019,7 +4037,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 225862,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1"
@@ -4577,7 +4595,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 225038,
       "name": "On the Floor - Edit",
       "url": "https://open.spotify.com/track/5vpiEyZAIpmyISHlfitNeD"
@@ -4725,6 +4743,24 @@
       "duration_ms": 203760,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1kusepF3AacIEtUTYrw4GV"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220316,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
     },
     {
       "album": {
@@ -5269,7 +5305,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 226952,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/1fWwxmWor6QbvBeLSV428F"
@@ -5413,7 +5449,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 298680,
       "name": "Silver Soul",
       "url": "https://open.spotify.com/track/2LZ2CNbcbJrwh53pitRgom"
@@ -5449,7 +5485,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 261000,
       "name": "Since I Left You",
       "url": "https://open.spotify.com/track/516V4vS25xnGdVgkBWO6Wf"
@@ -5755,7 +5791,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 217026,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN"
@@ -5935,7 +5971,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 157800,
       "name": "Swing Lo Magellan",
       "url": "https://open.spotify.com/track/37cKyb3sDEt5hRSpBdsrns"
@@ -6725,7 +6761,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 225973,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3pxw9Agh9VB9kyx79REpRQ"
@@ -6747,7 +6783,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 199320,
       "name": "Turn The Light",
       "url": "https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H"
@@ -7025,7 +7061,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 253346,
       "name": "waves - Tame Impala Remix",
       "url": "https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx"
@@ -7115,7 +7151,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 318186,
       "name": "Weird Fishes/ Arpeggi",
       "url": "https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci"
@@ -7299,7 +7335,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 252760,
       "name": "Wordless Chorus",
       "url": "https://open.spotify.com/track/2CRjfe8gLYosdjwT5m84KA"
@@ -7371,7 +7407,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 261360,
       "name": "You're Not Good Enough",
       "url": "https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps"

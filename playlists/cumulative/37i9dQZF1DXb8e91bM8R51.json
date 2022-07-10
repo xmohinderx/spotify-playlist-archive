@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 190533,
       "name": "89",
       "url": "https://open.spotify.com/track/5qIEf0IMDI9CvQTu9qDIc0"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 192417,
       "name": "ANOTHER ONE",
       "url": "https://open.spotify.com/track/2cO5gELmKXUeqliwT7DDvu"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 307595,
       "name": "Bed-Stuy is Burning",
       "url": "https://open.spotify.com/track/25m9STwUOibOP20tzgW646"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 315000,
       "name": "Concourse P - Remix",
       "url": "https://open.spotify.com/track/3B7eC6ucWdf6P4GA2c8Bnm"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 271883,
       "name": "DRILL MUSIC IN ZION",
       "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 135740,
       "name": "Expensive (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/0IAkpYTRomExXOUJonNMTR"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 203066,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 223352,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0dOdo7YAPCRueBT5bGHtQk"
@@ -2019,7 +2019,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 175040,
       "name": "Grinding All My Life",
       "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
@@ -2345,7 +2345,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 277666,
       "name": "It's a Party (feat. Zhane)",
       "url": "https://open.spotify.com/track/0Ml8PkxnlGUrrMPpJWPBc3"
@@ -2473,7 +2473,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 162462,
       "name": "Lane",
       "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
@@ -2671,7 +2671,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 216761,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/2CWQS8nDKjISOvFLasSXEh"
@@ -2871,7 +2871,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 248470,
       "name": "Majestic Accolades - North Sentinel Island Remix",
       "url": "https://open.spotify.com/track/2EADv7o86X1ulyj8uS5Fxu"
@@ -2937,7 +2937,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 229839,
       "name": "Menace",
       "url": "https://open.spotify.com/track/1xX6wr2lEHsDmR72AFN0Hx"
@@ -3303,7 +3303,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 152746,
       "name": "No Bark When I Bite (feat. Rick Ross & Cruel Youth)",
       "url": "https://open.spotify.com/track/1ab84pPNDrYToyqsYj9skD"
@@ -3372,6 +3372,40 @@
     },
     {
       "album": {
+        "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
+        "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196562,
+      "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
+      "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
+    },
+    {
+      "album": {
         "name": "King's Disease II",
         "url": "https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ"
       },
@@ -3435,7 +3469,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 239933,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/3tC8SJpOwJhDg8WGG1NKGR"
@@ -3535,7 +3569,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 115333,
       "name": "Paid my Dues",
       "url": "https://open.spotify.com/track/3fpAclMxGElhrXh8S3fyFc"
@@ -3571,7 +3605,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 251480,
       "name": "Pick It Up",
       "url": "https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz"
@@ -3663,7 +3697,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 125373,
       "name": "Pop Music (feat. Moneybagg Yo & Beatking)",
       "url": "https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour"
@@ -3699,7 +3733,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 223944,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj"
@@ -3761,7 +3795,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 153957,
       "name": "Razor's Edge (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/73smAdAEYK9xl8BbTjH1rg"
@@ -4453,6 +4487,24 @@
       "duration_ms": 177553,
       "name": "Super",
       "url": "https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz"
+    },
+    {
+      "album": {
+        "name": "Survivors Guilt",
+        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352613,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
     },
     {
       "album": {
@@ -5411,7 +5463,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 325733,
       "name": "Young G's (feat. The Notorious B.I.G. & Jay-Z)",
       "url": "https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z"

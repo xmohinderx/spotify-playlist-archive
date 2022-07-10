@@ -910,6 +910,24 @@
     },
     {
       "album": {
+        "name": "Epapale",
+        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120115,
+      "name": "Epapale",
+      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
+    },
+    {
+      "album": {
         "name": "Iluminatti",
         "url": "https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO"
       },

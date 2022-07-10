@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 353320,
       "name": "Always",
       "url": "https://open.spotify.com/track/0kish3Tobj6Wq0we74343q"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 243666,
       "name": "Brimful of Asha (Norman Cook Remix) (Single Version)",
       "url": "https://open.spotify.com/track/29capylmokCeuNAWqGitij"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 203066,
       "name": "Changes - Radio Mix",
       "url": "https://open.spotify.com/track/6blHgRFuUd4GVcz5NOdFPe"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 203266,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 244146,
       "name": "Cosmic Girl - Remastered",
       "url": "https://open.spotify.com/track/3nrVwwePAYIRzUNH9ig6mO"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 153391,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1eFMYrgKhHYycOKRaNfOfJ"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 248640,
       "name": "I Don't Feel Like Dancin' - Radio Edit",
       "url": "https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 149880,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 258800,
       "name": "Left Outside Alone",
       "url": "https://open.spotify.com/track/2uNq2hKb4X1S30hBgoywOF"
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 213266,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
@@ -1692,6 +1692,24 @@
     },
     {
       "album": {
+        "name": "Forever Delayed",
+        "url": "https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305706,
+      "name": "Motorcycle Emptiness",
+      "url": "https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY"
+    },
+    {
+      "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 272293,
       "name": "Mr. Jones",
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 244026,
       "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
       "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 212173,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/1F43XlPBiwAUUIhrUGzylO"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 217466,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF"
@@ -1963,7 +1981,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 224906,
       "name": "Personal Jesus - Original Single Version",
       "url": "https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 268746,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/6ZLGthToczpvnL5Eoy6yrY"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 204200,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "Sunday Bloody Sunday - Remastered 2008",
       "url": "https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW"
@@ -2439,7 +2457,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 202133,
       "name": "Sweet About Me",
       "url": "https://open.spotify.com/track/5wznxkB792LjSRdbZ1J1zo"
@@ -2457,7 +2475,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 225280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
@@ -2659,7 +2677,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 231333,
       "name": "Wake Me Up Before You Go-Go",
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
@@ -2807,7 +2825,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 200173,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp"
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 258906,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/3UNAMgNHKl0fWzbZaU0fDM"
@@ -2879,7 +2897,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"

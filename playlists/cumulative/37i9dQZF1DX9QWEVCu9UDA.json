@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "99' pollen",
+        "url": "https://open.spotify.com/album/6L1riIGws8qozuRQJ0rmZi"
+      },
+      "artists": [
+        {
+          "name": "keni can fly",
+          "url": "https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191627,
+      "name": "99' pollen",
+      "url": "https://open.spotify.com/track/5fFUfa9IruZpJfxaB5owcY"
+    },
+    {
+      "album": {
         "name": "A Rap About A Girl",
         "url": "https://open.spotify.com/album/044AJ9eoWgGuE71kPRVOjT"
       },
@@ -303,7 +321,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 112000,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5chWJTznLQVlRCVbwxaB5N"
@@ -463,7 +481,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
@@ -481,7 +499,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 206549,
       "name": "Children",
       "url": "https://open.spotify.com/track/0r5PcrvphHGO1LijkU4K4u"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 136216,
       "name": "COUPE",
       "url": "https://open.spotify.com/track/3PoxgiYoNlLLHACzM0uUep"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 192000,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/1Srhot8FUSbjrMiXT7ZPAp"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 158211,
       "name": "enough",
       "url": "https://open.spotify.com/track/4uoVYbhitSNdQoqnJneYTg"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 183915,
       "name": "Everybody Loves You",
       "url": "https://open.spotify.com/track/2Wp2IjSLARq1XaoIMaDgCp"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 348257,
       "name": "Family",
       "url": "https://open.spotify.com/track/59cp62rlitMBIUDvrKU4H4"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 166383,
       "name": "Foolie",
       "url": "https://open.spotify.com/track/6Up0zYrC158RxXWmXfOBeX"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 161076,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/33pkZ5JnVbzUGRdqWmpRef"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 226573,
       "name": "Kick Back (feat. Matt from Matt and Kim)",
       "url": "https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 118688,
       "name": "MAKE LOVE",
       "url": "https://open.spotify.com/track/263rp1fuSHHlnQRetm2LGm"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 103058,
       "name": "Money on Your Mind",
       "url": "https://open.spotify.com/track/2L3Is8ZtUJ48PIUJVO7Gvv"
@@ -2423,7 +2441,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 158334,
       "name": "On the Loose",
       "url": "https://open.spotify.com/track/5s8b9TuTp1omlmCDaKBI3W"
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 234893,
       "name": "Problem",
       "url": "https://open.spotify.com/track/04iBVeB7jBibYM07VxJc7C"
@@ -2673,7 +2691,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 164602,
       "name": "profile",
       "url": "https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC"
@@ -2887,7 +2905,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 153134,
       "name": "Sandbox",
       "url": "https://open.spotify.com/track/0OjHk6D6eZEEumdOr8HSp3"
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Shade of",
       "url": "https://open.spotify.com/track/4naqpH43qsh70sJRs4l7fd"
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 181522,
       "name": "Show Stop",
       "url": "https://open.spotify.com/track/779bZ6dEbYnVU7gMmEtgFP"
@@ -3025,7 +3043,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 167613,
       "name": "Smoke Hole - Edit",
       "url": "https://open.spotify.com/track/63ajBqgNVFVtkE7vhyBkny"
@@ -3047,7 +3065,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 160695,
       "name": "Smooth Boogie",
       "url": "https://open.spotify.com/track/6ioS9o6mALt95iHqEL1bZv"
@@ -3113,7 +3131,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 121500,
       "name": "Staring At J Dilla",
       "url": "https://open.spotify.com/track/0uSeqnV8EBPR73Et5IcMd4"
@@ -3131,7 +3149,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "SUN",
       "url": "https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy"
@@ -3149,7 +3167,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 151181,
       "name": "Suttin' Special",
       "url": "https://open.spotify.com/track/4fDgQUNG3851Wnc67aK1hO"
@@ -3743,7 +3761,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 159130,
       "name": "Wristbands",
       "url": "https://open.spotify.com/track/0nCX0RRS63xo9jWbG3ShwC"

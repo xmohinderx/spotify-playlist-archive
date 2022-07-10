@@ -1010,6 +1010,28 @@
     },
     {
       "album": {
+        "name": "AQUA",
+        "url": "https://open.spotify.com/album/3m7eqvX5vta22BqOYUDahn"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155389,
+      "name": "AQUA",
+      "url": "https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu"
+    },
+    {
+      "album": {
         "name": "No crari",
         "url": "https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5"
       },
@@ -1259,7 +1281,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 214613,
       "name": "Atasant\u00e9 (feat. Hamza)",
       "url": "https://open.spotify.com/track/1oXn8nhl44cH6HXqGQnOgY"
@@ -1811,7 +1833,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 138786,
       "name": "BECTE",
       "url": "https://open.spotify.com/track/0Fqpx84jq1cK3pDtPvTFyM"
@@ -3379,7 +3401,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -4815,7 +4837,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
@@ -6325,7 +6347,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -6819,6 +6841,24 @@
       "duration_ms": 200906,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/2P7fDeCiHjHAOECP7bJkpP"
+    },
+    {
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "album": {
@@ -7609,7 +7649,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 148866,
       "name": "JEUX DANGEREUX",
       "url": "https://open.spotify.com/track/5s4nWxnucgO7YPfoPGxR1e"
@@ -8619,7 +8659,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -9945,7 +9985,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 226680,
       "name": "M.A.L.A (feat. M Huncho)",
       "url": "https://open.spotify.com/track/63Rv4Exb1rc43qYL9AOXsa"
@@ -10521,7 +10561,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 240373,
       "name": "MAUVAIS 2X (feat. Ninho)",
       "url": "https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv"
@@ -10863,7 +10903,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 192920,
       "name": "Mode AV (feat. Niska & Gazo)",
       "url": "https://open.spotify.com/track/5b8HD1dJDuPawgS5FjSC2q"
@@ -12160,6 +12200,24 @@
     },
     {
       "album": {
+        "name": "Diamant",
+        "url": "https://open.spotify.com/album/3Bed6tESm55ctwZVLAQMNX"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185166,
+      "name": "Out\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/6hVOBUdubnXycTHmwBjkUO"
+    },
+    {
+      "album": {
         "name": "Fleur froide - Second \u00e9tat : la cristallisation",
         "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
       },
@@ -12241,6 +12299,24 @@
       "duration_ms": 161990,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/5ZoDjOBNGlXo6X66mm9TeQ"
+    },
+    {
+      "album": {
+        "name": "Papel",
+        "url": "https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190466,
+      "name": "Papel",
+      "url": "https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk"
     },
     {
       "album": {
@@ -13998,6 +14074,24 @@
     },
     {
       "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/1OE6h8eSPnIQckbCzVuufA"
+      },
+      "artists": [
+        {
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126656,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/6vW2DyesTMAmo3bl2JvQvM"
+    },
+    {
+      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
@@ -15475,6 +15569,28 @@
       "duration_ms": 154280,
       "name": "TDB",
       "url": "https://open.spotify.com/track/5YoDQgB4j7oBHWXH3DcwFD"
+    },
+    {
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "album": {

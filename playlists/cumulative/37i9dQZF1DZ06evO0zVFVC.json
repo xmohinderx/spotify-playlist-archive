@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 211393,
       "name": "Anasasis (Xenophontis)",
       "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 347400,
       "name": "Blue and the Grey",
       "url": "https://open.spotify.com/track/0e30YEyFE4Yv1XJcPqEY3n"
@@ -423,6 +423,24 @@
       "duration_ms": 261811,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB"
+    },
+    {
+      "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163946,
+      "name": "Guns For Show, Knives For A Pro",
+      "url": "https://open.spotify.com/track/5oGajAwzolRHDD5QYEtqaU"
     },
     {
       "album": {
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 327013,
       "name": "The River",
       "url": "https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY"

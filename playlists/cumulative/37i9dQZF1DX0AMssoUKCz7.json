@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 157685,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4eZiBjSsbi4ObiL8s5rzP7"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 209477,
       "name": "Are You Mine",
       "url": "https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 336000,
       "name": "Bottles & Bay",
       "url": "https://open.spotify.com/track/14c0GxZ4lot2bHSx9lZ0I6"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Breathin' (feat. Cara Hughes)",
       "url": "https://open.spotify.com/track/4QonXqjNiT2KXPkTkZy3tD"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 132270,
       "name": "California Nights",
       "url": "https://open.spotify.com/track/4ZmejwrgkNOowAPiIntRox"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 132330,
       "name": "Could've Been Us",
       "url": "https://open.spotify.com/track/1oNFTQO0z6PuRH1wOOQXPe"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 212813,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/6LHvM6g4TD9ugyYs4CKwyc"
@@ -1697,7 +1697,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 176640,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/7vniVkC7TKvLVMpAKMZ6Zz"
@@ -1759,7 +1759,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 195079,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/59VDjcpB2I8psQasslQpdK"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 211571,
       "name": "Fade Into Darkness",
       "url": "https://open.spotify.com/track/2MP2r9xNcvNmGCDJDCriu4"
@@ -2581,7 +2581,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 179478,
       "name": "Fresh Prince",
       "url": "https://open.spotify.com/track/2eqb2THAY8YgGXPEJasn0Z"
@@ -2665,7 +2665,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 170161,
       "name": "Give Me Your Summer",
       "url": "https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP"
@@ -2749,10 +2749,32 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 178514,
       "name": "Gonna Need Ya",
       "url": "https://open.spotify.com/track/1icgSRga7q37rC4eftEQG3"
+    },
+    {
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/0WIwvSVJ7kcFOsrjuzd2Lr"
+      },
+      "artists": [
+        {
+          "name": "Marcus James",
+          "url": "https://open.spotify.com/artist/3VEzgR55OpqT9SyPeOwrQ4"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159995,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/6tPYz05avJHydJ4gv8JAmn"
     },
     {
       "album": {
@@ -2937,7 +2959,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 160555,
       "name": "Happy Ever After",
       "url": "https://open.spotify.com/track/0BXCVKsjbKSjfNPGWPh5eo"
@@ -3453,7 +3475,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 121043,
       "name": "Hope",
       "url": "https://open.spotify.com/track/7o414PkGSOyexmhm7WGzSI"
@@ -3937,7 +3959,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 177812,
       "name": "Invisible Love",
       "url": "https://open.spotify.com/track/78wWcQkvGPOY7qXDTxENIt"
@@ -3989,6 +4011,36 @@
       "duration_ms": 205927,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/3v6BeiV6taiWj17N51lJ3M"
+    },
+    {
+      "album": {
+        "name": "It's On Me",
+        "url": "https://open.spotify.com/album/5WI0zfleo2iRFE0FNYpZHL"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        },
+        {
+          "name": "Alon",
+          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
+        },
+        {
+          "name": "Stef Classens",
+          "url": "https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144406,
+      "name": "It's On Me",
+      "url": "https://open.spotify.com/track/0ZjTWEc0eU7rm4XvO4coE6"
     },
     {
       "album": {
@@ -4141,7 +4193,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 220939,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx"
@@ -4167,6 +4219,32 @@
       "duration_ms": 213707,
       "name": "Land Down Under",
       "url": "https://open.spotify.com/track/5bAkVFcWMvxfgJ03rBn38s"
+    },
+    {
+      "album": {
+        "name": "Leave a Smile",
+        "url": "https://open.spotify.com/album/4PdWkqJdqKB3arKBSI3qkx"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Leave a Smile",
+      "url": "https://open.spotify.com/track/2Qp0s8Qr7CMynidI7925H2"
     },
     {
       "album": {
@@ -4265,7 +4343,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 166553,
       "name": "Like Heaven",
       "url": "https://open.spotify.com/track/1OtFo3W1yim0a67MlEkTEt"
@@ -4667,7 +4745,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 192786,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4"
@@ -6205,7 +6283,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 123750,
       "name": "Probably Paradise",
       "url": "https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS"
@@ -6227,7 +6305,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 168830,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/7vFdMady6yRx1qxCwselLU"
@@ -6727,6 +6805,28 @@
       "duration_ms": 174838,
       "name": "Running Out - Samuraii Remix",
       "url": "https://open.spotify.com/track/3bu38wOOaBOOf4OYi23R6a"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/4GA1fKDesvFoR4afbdpeFj"
+      },
+      "artists": [
+        {
+          "name": "Skye Holland",
+          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
+        },
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256665,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/0FEdfD2exlmizDE6z2uAoh"
     },
     {
       "album": {
@@ -7979,7 +8079,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 152439,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4wKyrBSIvZiNnGKGtAIwXc"
@@ -8253,7 +8353,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 138421,
       "name": "Use a Wish",
       "url": "https://open.spotify.com/track/1f6S0tKwClVilOhvE8gcsw"
@@ -8341,7 +8441,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 157201,
       "name": "Waiting For A Better Day",
       "url": "https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY"
@@ -8447,7 +8547,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 151525,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"
@@ -8473,7 +8573,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 167214,
       "name": "We Are Good",
       "url": "https://open.spotify.com/track/5VSiXBaSNxajxU4eF4Zl5b"
@@ -8545,7 +8645,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 112365,
       "name": "We'll Never Get Old",
       "url": "https://open.spotify.com/track/3UX9B5zX6wx7L9nH1PxT9a"
@@ -8607,7 +8707,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 124615,
       "name": "What I'm Looking For",
       "url": "https://open.spotify.com/track/6NrLhWohJARHxqQRW1cLGg"
@@ -8761,7 +8861,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 178588,
       "name": "Wide Angle",
       "url": "https://open.spotify.com/track/2g1TfW0E9Yr5sxxrvzW7g5"
@@ -8977,7 +9077,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 194612,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/2A7UykFa7IwEFCIsj9zMUX"

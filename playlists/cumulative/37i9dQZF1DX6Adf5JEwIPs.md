@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Ariel Camacho y Los Plebes Del Rancho
 
-428 songs - 22 hr 26 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+429 songs - 22 hr 29 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Contigo Quiero \(Banda\)](https://open.spotify.com/track/2R1Rnq9LmJmHTYGjzTklE5) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Banda Santa Cruz](https://open.spotify.com/artist/3sMDlPAtfqo3fup6O4oVEf) | [Contigo Quiero \(Banda\)](https://open.spotify.com/album/7xnf2QKxFAom5IYn8mwmbm) | 2:44 | 2022-06-10 | 2022-06-18 |
 | [Cortez](https://open.spotify.com/track/7kcphkKqrrXYRR6HYICI8u) | [Christian Leyva](https://open.spotify.com/artist/2xMDS0dQFrF7YXpUAP8e09) | [Cortez](https://open.spotify.com/album/28FUkUvCoxqQh2NSay3hpm) | 3:57 | 2022-06-24 | 2022-07-02 |
 | [Cuando Se Ama a Una Mujer](https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Cuando Se Ama a Una Mujer](https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw) | 3:36 | 2022-06-24 | 2022-07-02 |
-| [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí :white\_check\_mark: 1 Cuando Te Acuerdes De Mí :white\_check\_mark: 1 Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 | 2022-07-08 |  |
+| [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 | 2022-07-08 |  |
 | [Culpable O No \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/4rifkrIBqDnMW6QnSC3yNI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Culpable O No \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/3WM5m0HX4AhBbp1kOTcEbh) | 2:24 | 2022-06-10 | 2022-06-18 |
 | [Dame Tiempo](https://open.spotify.com/track/3KnoGC1gICaGFYmEAOWula) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Dame Tiempo](https://open.spotify.com/album/6U2dpNmeYLPq8bOhM01Wkq) | 2:38 | 2022-05-20 | 2022-05-28 |
 | [Darte Todo](https://open.spotify.com/track/71GxMOVQDOT2GSvp9mJddM) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Darte Todo](https://open.spotify.com/album/0P9fkEPK48Vr4kmSNmg1bq) | 2:53 | 2022-06-17 | 2022-06-25 |
@@ -369,6 +369,7 @@
 | [Sigo Con El Mando](https://open.spotify.com/track/4dWFikaZaPzlf3BBLuPJ8m) | [Dani Tapia](https://open.spotify.com/artist/0ODccomcktwx3B6hJVAF1C) | [Sigo Con El Mando](https://open.spotify.com/album/3lzIZUkDnrJZUmm4SIhSjp) | 3:06 | 2022-07-01 | 2022-07-09 |
 | [Sobran Motivos](https://open.spotify.com/track/3VjnYQbAVQLXbiR9gf1qnD) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Sobran Motivos](https://open.spotify.com/album/1XBhgrD9hTQXz53QxkwQxh) | 4:00 | 2022-06-17 | 2022-06-25 |
 | [Soldado Caído](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caído](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 | 2022-07-01 | 2022-07-09 |
+| [SOLO DE TI](https://open.spotify.com/track/6IOxy7kHT9pYmOIYcRgnoM) | [Infinito](https://open.spotify.com/artist/4UHgsEv6qlnUZz6ecKlwzE) | [No Creo En Amor](https://open.spotify.com/album/7wZ9VT6wHzUCRvL9eSNFm0) | 2:57 | 2022-07-08 |  |
 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 | 2022-07-08 |  |
 | [Soy De Mazatlán](https://open.spotify.com/track/4HpcsP5xTYDi0jCUNKXf56) | [El Cheyo](https://open.spotify.com/artist/03XyjRjUDXvoLdf68ak3Fy) | [Soy De Mazatlán](https://open.spotify.com/album/7oxwzWBi15Vq58kN1kG47H) | 3:34 | 2022-05-27 | 2022-06-04 |
 | [Stand By Me](https://open.spotify.com/track/1lctBYvNCptEvAHz7s1yLb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Stand By Me](https://open.spotify.com/album/2k3VR0pvO9KcfUm6wxC28P) | 2:47 | 2022-06-03 | 2022-06-11 |

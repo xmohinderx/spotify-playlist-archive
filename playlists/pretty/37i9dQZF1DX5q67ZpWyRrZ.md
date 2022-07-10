@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > 'Chaand Baaliyan' and other popular Indie hits! Cover \- Akanksha Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,556 likes - 85 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,386 likes - 85 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Nacimos para rodar en el asfalto.
 
-81 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/4ovE5dvEqCFHC12jjlnh1V)
+82 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4ovE5dvEqCFHC12jjlnh1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2021-07-02 | 2022-05-27 |
 | [Am I Evil?](https://open.spotify.com/track/7og9p3oxMOILD2hth9uz7t) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Lightning To The Nations \(The White Album\) \[Remastered 2011\]](https://open.spotify.com/album/65Kd49ZxFPxeO71Ic2diNi) | 7:40 | 2021-07-02 |  |
 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 | 2021-07-02 |  |
-| [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 | 2021-07-02 |  |
+| [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 | 2021-07-02 | 2022-07-10 |
 | [Bad Moon Rising](https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(40th Anniversary Edition\)](https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI) | 2:21 | 2021-07-02 |  |
 | [Bad To The Bone](https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [BAD TO THE BONE](https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj) | 4:52 | 2021-07-02 |  |
 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 | 2021-07-02 |  |
@@ -24,7 +24,7 @@
 | [Born To Be Wild](https://open.spotify.com/track/1nzcKrYRTWZJEwWzyAU8XM) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [20th Century Masters : The Millennium Collection: Best of Steppenwolf](https://open.spotify.com/album/3SCidZwNmGU6HQUDdnh3bI) | 3:30 | 2021-07-02 |  |
 | [Brown Sugar \- 2009 Remaster](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 | 2021-07-02 |  |
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2021-07-02 |  |
-| [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 | 2021-07-02 |  |
+| [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 | 2021-07-02 | 2022-07-10 |
 | [Come Out and Play](https://open.spotify.com/track/5AaIIXt2QEgDevuGoDC1je) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/5SLfrjQtPxbh5Cf1dukV7g) | 3:17 | 2021-07-02 |  |
 | [Cowboys from Hell \- 2003 Remaster](https://open.spotify.com/track/2rI3IDOwtKiELe0cZUg76U) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Rhino Hi\-Five: Pantera](https://open.spotify.com/album/4jfF46nFNSLzEOXTUbobTC) | 4:04 | 2021-07-02 |  |
 | [Crash Course In Brain Surgery](https://open.spotify.com/track/5y8aD8CDZUv8C605X3J6ha) | [Budgie](https://open.spotify.com/artist/42RbQv212uOjyfIXECLKfR) | [Crash Course In Brain Surgery \(2013 remaster\)](https://open.spotify.com/album/3dEN8nY7ut96GpU1BIhcvu) | 2:39 | 2021-07-02 |  |
@@ -51,6 +51,7 @@
 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 | 2021-07-02 |  |
 | [Leather Boyz With Electric Toyz](https://open.spotify.com/track/5FjNOCy01diVS2ikWHZ1Ik) | [Pretty Boy Floyd](https://open.spotify.com/artist/6wnbsasRwmhUld5BBDfbKa) | [80s Metal Essentials](https://open.spotify.com/album/2TVw53GtUSghMd1GJ1rYNU) | 4:08 | 2021-07-02 |  |
 | [Long Cool Woman \(In a Black Dress\) \- 1999 Remaster](https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Distant Light \(1999 Remaster\)](https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w) | 3:19 | 2021-07-02 |  |
+| [Magic Carpet Ride](https://open.spotify.com/track/6qnhXRedMi71TBYRc9jm4o) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Born To Be Wild: A Retrospective](https://open.spotify.com/album/4pFKV18Ioeiln9RORAXx99) | 4:20 | 2021-07-02 |  |
 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 | 2021-07-02 |  |
 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 | 2021-07-02 |  |
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2021-07-02 |  |
@@ -81,7 +82,7 @@
 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 | 2021-07-02 | 2022-05-30 |
 | [The Passenger](https://open.spotify.com/track/3yP0cohcr97BUNJcgvmSVg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/7ynKEunH8LSit4TR3foMVC) | 4:44 | 2021-07-02 |  |
 | [Too Fast For Love](https://open.spotify.com/track/4PDNOmMej8sc1mkiZfvW9w) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Too Fast For Love](https://open.spotify.com/album/6fhebW3x8DvrwbdL2aXCbo) | 3:22 | 2021-07-02 |  |
-| [Vibe Killer](https://open.spotify.com/track/3yim5Y7owft98oR89mcxKH) | [Endless Boogie](https://open.spotify.com/artist/4TxcjvZlQLya9wdPYrjxkc) | [Vibe Killer](https://open.spotify.com/album/5GPltiY4pz517np9dPTsnt) | 8:24 | 2021-07-02 | 2022-07-07 |
+| [Vibe Killer](https://open.spotify.com/track/3yim5Y7owft98oR89mcxKH) | [Endless Boogie](https://open.spotify.com/artist/4TxcjvZlQLya9wdPYrjxkc) | [Vibe Killer](https://open.spotify.com/album/5GPltiY4pz517np9dPTsnt) | 8:24 | 2021-07-02 |  |
 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2021-07-02 |  |
 | [Welcome To The Jungle](https://open.spotify.com/track/0eFvoRSTTaR2q8bSWVjwfp) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Greatest Hits](https://open.spotify.com/album/4a92B7gXZWKJopxs6gWgqb) | 4:31 | 2021-07-02 |  |
 | [White Room](https://open.spotify.com/track/5X76oXHcR5uCXali0gOyX5) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire \(Remastered\)](https://open.spotify.com/album/4M9csrFM1XVEpwMeYUBRmX) | 5:03 | 2021-07-02 |  |

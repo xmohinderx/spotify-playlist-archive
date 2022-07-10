@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Waterparks
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,245 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,364 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 7 | [Big Boy](https://open.spotify.com/track/37GcbhhPfBPy2uZnZ77bF9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Cave World](https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt) | 5:30 |
 | 8 | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi) | 2:05 |
 | 9 | [Fukstar](https://open.spotify.com/track/2sPZty2EZFubLWq43vnO2P) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Fukstar](https://open.spotify.com/album/6Onj8WCbrAt8xD9z21W7H6) | 3:36 |
-| 10 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 |
+| 10 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 |
 | 11 | [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 |
 | 12 | [Fix](https://open.spotify.com/track/6QlA3QgpyzuqnJfRDP8rir) | [SPILT](https://open.spotify.com/artist/3SLkj5s6rqaEUggvq8AwfA) | [Fix](https://open.spotify.com/album/1w2ysiK8nPjBXLXClAkeIM) | 2:59 |
 | 13 | [Misdirection](https://open.spotify.com/track/4D9bXvAjQ5F8ObhMlYX5ea) | [Bad Breeding](https://open.spotify.com/artist/781vvvQYKgDjg3i90b7vtV) | [Human Capital](https://open.spotify.com/album/50e9l0RpAg583vCVlUsCOm) | 2:18 |

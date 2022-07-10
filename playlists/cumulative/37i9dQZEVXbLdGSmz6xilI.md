@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-486 songs - 1 day 4 hr 54 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+487 songs - 1 day 4 hr 58 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-06-12 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-07-29 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
-| [At My Worst](https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:50 | 2021-03-27\* |  |
+| [At My Worst](https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:50 | 2021-03-27\* | 2022-07-10 |
 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 | 2021-12-28 | 2022-05-31 |
 | [BACK TO HOMETOWN \(TRỞ VỀ QUÊ NHÀ\) \[feat\. Sol7\]](https://open.spotify.com/track/66KCoeGPimoVR3FInucM9Q) | [RAP VIỆT](https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL), [Sol7](https://open.spotify.com/artist/4hksJgKaus2VEhQO2Umee9) | [Rap Việt Season 2 \- Tập 3](https://open.spotify.com/album/5fCHZXLUze6N0kDRYn9M8f) | 2:56 | 2021-11-04 | 2021-11-14 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2021-11-05 |
@@ -170,6 +170,7 @@
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/59bY27SZQ4r25o02vqOhgC) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:46 | 2022-04-26 | 2022-04-28 |
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/78D1UYKRWkVEZpYc5xZbbg) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons \(Extended Edition\)](https://open.spotify.com/album/7qFlJdLo0I0sQrphIweCvC) | 3:46 | 2022-03-10 | 2022-03-14 |
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-12 | 2022-01-15 |
+| [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-09 |  |
 | [Give It to Me](https://open.spotify.com/track/1Y84lXBGSuri3tDPUkFwXT) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 2:29 | 2022-03-09 | 2022-03-11 |
 | [Giữa Đại Lộ Đông Tây](https://open.spotify.com/track/1MQ97OxIEAMm5BUHbS6yHv) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Giữa Đại Lộ Đông Tây](https://open.spotify.com/album/3sd1Ni5crypjsq5VuVYaK1) | 3:46 | 2021-04-14 | 2021-07-28 |
 | [Giữa Đại Lộ Đông Tây \(Live at XHTĐRLX\)](https://open.spotify.com/track/0acdAdw5IXzurgC9DiugKy) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Giữa Đại Lộ Đông Tây \(Live at XHTĐRLX\)](https://open.spotify.com/album/28VK1hnCXCiY2ZwxxoR45Y) | 3:27 | 2021-03-31 | 2021-04-16 |

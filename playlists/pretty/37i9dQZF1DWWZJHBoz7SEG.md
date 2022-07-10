@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Piso 21 y Manuel Turizo; Ha\*Ash, Danny Ocean, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,144 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,258 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 44 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 |
 | 45 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 |
 | 46 | [NOSE](https://open.spotify.com/track/5xCCO1GYwnC0Pwt0CgNC2z) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [NOSE](https://open.spotify.com/album/2Bfs6ekarPGL93Rvtrjzkm) | 2:53 |
-| 47 | [6:AM](https://open.spotify.com/track/1yIj0nXMEDbLonfKwDFyEf) | [Fifty](https://open.spotify.com/artist/5AOS8bDPCHJnwWM6oohkYh) | [6:AM](https://open.spotify.com/album/18sqw5OLnSWm7Q03N3uvNF) | 2:27 |
+| 47 | [6:AM](https://open.spotify.com/track/1yIj0nXMEDbLonfKwDFyEf) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [6:AM](https://open.spotify.com/album/18sqw5OLnSWm7Q03N3uvNF) | 2:27 |
 | 48 | [MOOD](https://open.spotify.com/track/7sTylBrghRzKpTayE7W62J) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [MOOD](https://open.spotify.com/album/4GECxsGnRtPcoVdso44I7l) | 2:46 |
 | 49 | [Bien](https://open.spotify.com/track/2UvcINSxGYwCiChnyewm6y) | [Aaron Mercury](https://open.spotify.com/artist/5ims9nb3JSUlvmjKr8OXP8) | [Bien](https://open.spotify.com/album/3tnRRk29rpRUW154nZ3Rpq) | 2:05 |
 | 50 | [Knot of Spirit \- Synth Version](https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 10:19 |

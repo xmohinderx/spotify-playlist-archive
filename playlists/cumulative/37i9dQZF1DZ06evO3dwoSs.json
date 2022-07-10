@@ -762,6 +762,24 @@
     },
     {
       "album": {
+        "name": "Times Like These",
+        "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209976,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
+    },
+    {
+      "album": {
         "name": "And Justice for None (Deluxe)",
         "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
       },

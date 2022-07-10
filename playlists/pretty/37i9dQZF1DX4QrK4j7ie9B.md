@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for yoga, meditation and daily mindfulness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,026 likes - 54 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,049 likes - 54 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 20 | [Miniatures for Piano "A Whole in Twelve": No\. 2, The Lady Plays](https://open.spotify.com/track/7yoIfC6aoV6VRWZQPsA42S) | [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [Mikael Ayrapetyan: A Whole in Twelve](https://open.spotify.com/album/5WSD1JJ2w5DtTEizmK8rRX) | 5:06 |
 | 21 | [sans titre \- andante](https://open.spotify.com/track/7J0MD3GP9XcUkXKf8iwhPk) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [Dans ma main \(Deluxe\)](https://open.spotify.com/album/0RQNbTnRHuvCyPPHbZCcOk) | 4:26 |
 | 22 | [Musica callada I Angelico](https://open.spotify.com/track/659hxuqutVn4k51rgTJPxb) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos plays Mompou](https://open.spotify.com/album/5efnEJ4EPBnmC7WQAgCvVI) | 2:00 |
-| 23 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin \- Piano Works](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:19 |
+| 23 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:19 |
 | 24 | [Illuminations](https://open.spotify.com/track/1n1TxkLPI0xJFcCjhiZcnz) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [Illuminations](https://open.spotify.com/album/4lzihwUOXI2QYcwx2HQXN9) | 6:11 |
 | 25 | [Siete canciones populares españolas: 5\. Nana](https://open.spotify.com/track/1haBgdlDn0dEwvUU1G5y5h) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Daniel de Borah](https://open.spotify.com/artist/1R4AaEYuSoNK7cpCvW47Of) | [In Circles](https://open.spotify.com/album/0qvgD72QdYNDnoWtOk2e9y) | 2:37 |
 | 26 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 |

@@ -1,15 +1,107 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "num_followers": 126461,
+  "num_followers": 126539,
   "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEwNTk4Nzc3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEwNjg2MTIyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Chillaa veli",
+        "url": "https://open.spotify.com/album/7lHrsy9SvjKWr2Ca13Qv8d"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Chillaa veli",
+      "url": "https://open.spotify.com/track/1agD3NMqnpaejVler2S9xJ"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "M\u00e4 mietin sua",
+        "url": "https://open.spotify.com/album/6URw6504QGkC09wgbSwG4Q"
+      },
+      "artists": [
+        {
+          "name": "Ida Paul & Kalle Lindroth",
+          "url": "https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX"
+        },
+        {
+          "name": "Ida Paul",
+          "url": "https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0"
+        },
+        {
+          "name": "Kalle Lindroth",
+          "url": "https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi"
+        }
+      ],
+      "duration_ms": 190042,
+      "name": "M\u00e4 mietin sua",
+      "url": "https://open.spotify.com/track/2YBd7C5sNr8teXlOfQfMIO"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Amatimies / Viikonloppu",
+        "url": "https://open.spotify.com/album/55Em8NcAe3RwRTVHMX0vxS"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 121960,
+      "name": "Amatimies",
+      "url": "https://open.spotify.com/track/3UTyIQpogsEpo9IIY5wLS5"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Villiel\u00e4in",
+        "url": "https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC"
+      },
+      "artists": [
+        {
+          "name": "Ramses II",
+          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Villiel\u00e4in",
+      "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Shamppanjadieetill\u00e4",
+        "url": "https://open.spotify.com/album/4LmcLNXzZ3atEgqWm2qg3l"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        },
+        {
+          "name": "Van Hegen",
+          "url": "https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9"
+        }
+      ],
+      "duration_ms": 154572,
+      "name": "Shamppanjadieetill\u00e4",
+      "url": "https://open.spotify.com/track/22KSKT3mCbSiG4RT20ogxB"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "20min",
         "url": "https://open.spotify.com/album/0M2eY9R5eYfhyaYhrAfzh3"
@@ -33,39 +125,7 @@
       "url": "https://open.spotify.com/track/2u4aD9hjuT1UHDsmHVEOjr"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Amatimies / Viikonloppu",
-        "url": "https://open.spotify.com/album/55Em8NcAe3RwRTVHMX0vxS"
-      },
-      "artists": [
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 121960,
-      "name": "Amatimies",
-      "url": "https://open.spotify.com/track/3UTyIQpogsEpo9IIY5wLS5"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Villiel\u00e4in",
-        "url": "https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC"
-      },
-      "artists": [
-        {
-          "name": "Ramses II",
-          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Villiel\u00e4in",
-      "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Verkkareis / Mun tapa pelata",
         "url": "https://open.spotify.com/album/1xWBx1wufaMdwbJCjPecSF"
@@ -89,43 +149,43 @@
       "url": "https://open.spotify.com/track/0Nx44mzVtTyNnUypzRlu53"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
-        "name": "Shamppanjadieetill\u00e4",
-        "url": "https://open.spotify.com/album/4LmcLNXzZ3atEgqWm2qg3l"
+        "name": "GAY",
+        "url": "https://open.spotify.com/album/4MdiJIAjKoPTf2Qbn6J8rP"
       },
       "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "duration_ms": 172213,
+      "name": "GAY",
+      "url": "https://open.spotify.com/track/4Hy8NmXUsiHYhkrdXbP1ma"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Perus (feat. Gettomasa)",
+        "url": "https://open.spotify.com/album/2QDNZPP2C11wMchIRYjMw4"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        },
         {
           "name": "Gettomasa",
           "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        },
-        {
-          "name": "Van Hegen",
-          "url": "https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9"
         }
       ],
-      "duration_ms": 154572,
-      "name": "Shamppanjadieetill\u00e4",
-      "url": "https://open.spotify.com/track/22KSKT3mCbSiG4RT20ogxB"
+      "duration_ms": 156901,
+      "name": "Perus (feat. Gettomasa)",
+      "url": "https://open.spotify.com/track/3lsgWIzfsEajnM1Ecat2Bm"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Erilainen",
-        "url": "https://open.spotify.com/album/1RIcEkwfnfX86PFfxMEeuZ"
-      },
-      "artists": [
-        {
-          "name": "El Migu",
-          "url": "https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq"
-        }
-      ],
-      "duration_ms": 166125,
-      "name": "Erilainen",
-      "url": "https://open.spotify.com/track/5e7XVJJcGbecTB9N4asFsu"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Nautin el\u00e4m\u00e4st\u00e4",
         "url": "https://open.spotify.com/album/4jJKWaX4BFRRqT1AMftFVw"
@@ -145,23 +205,39 @@
       "url": "https://open.spotify.com/track/7dbbNqmww8vd8cPSvBs52o"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+        "name": "Erilainen",
+        "url": "https://open.spotify.com/album/1RIcEkwfnfX86PFfxMEeuZ"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "El Migu",
+          "url": "https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq"
         }
       ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+      "duration_ms": 166125,
+      "name": "Erilainen",
+      "url": "https://open.spotify.com/track/5e7XVJJcGbecTB9N4asFsu"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Rakastan en rakasta",
+        "url": "https://open.spotify.com/album/4obUUO0WC97Rzeqyq3TVu2"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 168101,
+      "name": "Rakastan en rakasta",
+      "url": "https://open.spotify.com/track/6CITvD2LkozBWMrsHExUFC"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Kylm\u00e4\u00e4",
         "url": "https://open.spotify.com/album/52OiMxalpZrQQVTeM7blMY"
@@ -177,7 +253,39 @@
       "url": "https://open.spotify.com/track/6mkIVmVRwXYKjgf5h2c8E2"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Ram pam pam",
+        "url": "https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 179878,
+      "name": "Ram pam pam",
+      "url": "https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "K\u00e4yt\u00f6stapoi (feat. william)",
         "url": "https://open.spotify.com/album/0bAWqhFMTLiZAsqQoZGE90"
@@ -197,7 +305,7 @@
       "url": "https://open.spotify.com/track/0JbfBxlJxSqjbI9vbzi4Vn"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -213,23 +321,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Ram pam pam",
-        "url": "https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 179878,
-      "name": "Ram pam pam",
-      "url": "https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "GRINDR MAYHEM (feat. BESS)",
         "url": "https://open.spotify.com/album/4FrHzKtnbUyn3QlEEgy9I8"
@@ -249,23 +341,23 @@
       "url": "https://open.spotify.com/track/4BdiKWwWtDZ3TA339ZgZnI"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
-        "name": "Mon Ami",
-        "url": "https://open.spotify.com/album/2iKWgs575U79EpqqbSs54N"
+        "name": "L\u00e4hemp\u00e4n\u00e4 jumalaa",
+        "url": "https://open.spotify.com/album/1XME9aJnHfuCz1Jc36RVla"
       },
       "artists": [
         {
-          "name": "T Swoop",
-          "url": "https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3"
+          "name": "costee",
+          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
         }
       ],
-      "duration_ms": 188630,
-      "name": "Mon Ami",
-      "url": "https://open.spotify.com/track/1SllLQv2tfIlgtYXO5edRM"
+      "duration_ms": 219572,
+      "name": "L\u00e4hemp\u00e4n\u00e4 jumalaa",
+      "url": "https://open.spotify.com/track/5Fb4VMdqlt0caq0BE9IsAF"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Suomen kes\u00e4",
         "url": "https://open.spotify.com/album/0Tgya6Is5oYM2ZA7AZ1dWG"
@@ -281,12 +373,48 @@
       "url": "https://open.spotify.com/track/67A13FUQH1vp3jmjwJKsA5"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
-        "name": "Mis oot ollu (feat. Fabe)",
-        "url": "https://open.spotify.com/album/6DV04dMOtA1NWe1zkv2TBV"
+        "name": "Mon Ami",
+        "url": "https://open.spotify.com/album/2iKWgs575U79EpqqbSs54N"
       },
       "artists": [
+        {
+          "name": "T Swoop",
+          "url": "https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3"
+        }
+      ],
+      "duration_ms": 188630,
+      "name": "Mon Ami",
+      "url": "https://open.spotify.com/track/1SllLQv2tfIlgtYXO5edRM"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Silloin",
+        "url": "https://open.spotify.com/album/0D8CMJvcN96hI3KOObVxIU"
+      },
+      "artists": [
+        {
+          "name": "YOUNGHEARTED",
+          "url": "https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX"
+        }
+      ],
+      "duration_ms": 202356,
+      "name": "Silloin",
+      "url": "https://open.spotify.com/track/2FLIbTweFFp5oAl2SKXyVT"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Kato Mua Nyt (feat. Cledos, Fabe)",
+        "url": "https://open.spotify.com/album/0lMmIdNzQhX5YVi8Gdy2Cr"
+      },
+      "artists": [
+        {
+          "name": "DAVI",
+          "url": "https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV"
+        },
         {
           "name": "Cledos",
           "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
@@ -296,12 +424,12 @@
           "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
         }
       ],
-      "duration_ms": 163184,
-      "name": "Mis oot ollu (feat. Fabe)",
-      "url": "https://open.spotify.com/track/6hXmqUGzA9caEH5F9vAPGe"
+      "duration_ms": 185765,
+      "name": "Kato Mua Nyt (feat. Cledos, Fabe)",
+      "url": "https://open.spotify.com/track/407JIY6MZOh7zBylX6pbIY"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
@@ -321,7 +449,7 @@
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Tulipalo",
         "url": "https://open.spotify.com/album/0xWe0flvzmTrZOZ7FztHCa"
@@ -337,7 +465,7 @@
       "url": "https://open.spotify.com/track/0lPrY8sXUen0bqga0BIeWa"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "UP",
         "url": "https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy"
@@ -357,7 +485,43 @@
       "url": "https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "El\u00e4m\u00e4n kova koulu",
+        "url": "https://open.spotify.com/album/5a9sMmVBt4c5yFRCOeKAO1"
+      },
+      "artists": [
+        {
+          "name": "Arttu Wiskari",
+          "url": "https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn"
+        }
+      ],
+      "duration_ms": 168153,
+      "name": "El\u00e4m\u00e4n kova koulu",
+      "url": "https://open.spotify.com/track/6r2pEYTnXsJ405pzUSvGxR"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Mis oot ollu (feat. Fabe)",
+        "url": "https://open.spotify.com/album/6DV04dMOtA1NWe1zkv2TBV"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "duration_ms": 163184,
+      "name": "Mis oot ollu (feat. Fabe)",
+      "url": "https://open.spotify.com/track/6hXmqUGzA9caEH5F9vAPGe"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Ei b\u00e4nd\u00e4reit - EP",
         "url": "https://open.spotify.com/album/5AnLKiKfsMLmAGAMAb18ut"
@@ -377,55 +541,47 @@
       "url": "https://open.spotify.com/track/3TC6Z4oLl3AYL1Vd7PtDr4"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
-        "name": "Kesken",
-        "url": "https://open.spotify.com/album/5QKHtTKjDhc6aDi7T7VFFC"
+        "name": "EESTI (On my Mind)",
+        "url": "https://open.spotify.com/album/0Y6Uu0K8E5oF2fP5rVA4H0"
       },
       "artists": [
         {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+          "name": "Teflon Brothers",
+          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
+        },
+        {
+          "name": "M\u00e4rk\u00e4-Simo",
+          "url": "https://open.spotify.com/artist/6L3yCtVL0UCdOFzD1DxRjs"
+        },
+        {
+          "name": "Juice Leskinen",
+          "url": "https://open.spotify.com/artist/4W6vvLzFQKixmJXSJK3wLp"
         }
       ],
-      "duration_ms": 196173,
-      "name": "Tyhm\u00e4",
-      "url": "https://open.spotify.com/track/4wNAkYHSouNrsMIZLzTibv"
+      "duration_ms": 189975,
+      "name": "EESTI (On my Mind)",
+      "url": "https://open.spotify.com/track/5EhaUNWw48KNkAHnjPUUZl"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
-        "name": "El\u00e4m\u00e4n kova koulu",
-        "url": "https://open.spotify.com/album/5a9sMmVBt4c5yFRCOeKAO1"
+        "name": "GoDdAmN",
+        "url": "https://open.spotify.com/album/35i8avpMLLHqG7RyjLdFQr"
       },
       "artists": [
         {
-          "name": "Arttu Wiskari",
-          "url": "https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn"
+          "name": "Nebi",
+          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
         }
       ],
-      "duration_ms": 168153,
-      "name": "El\u00e4m\u00e4n kova koulu",
-      "url": "https://open.spotify.com/track/6r2pEYTnXsJ405pzUSvGxR"
+      "duration_ms": 233218,
+      "name": "GoDdAmN",
+      "url": "https://open.spotify.com/track/4PvlDeYk2aAk2dZATFxBWO"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "40K",
-        "url": "https://open.spotify.com/album/23snaZbhW9jzET6wWtiEPk"
-      },
-      "artists": [
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        }
-      ],
-      "duration_ms": 154767,
-      "name": "40K",
-      "url": "https://open.spotify.com/track/48GrbwydcMUFPfKrSeq6K0"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Verkkareis / Mun tapa pelata",
         "url": "https://open.spotify.com/album/1xWBx1wufaMdwbJCjPecSF"
@@ -469,167 +625,7 @@
       "url": "https://open.spotify.com/track/2BDjNlf0ukH4Jy6JWnI8L1"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "GoDdAmN",
-        "url": "https://open.spotify.com/album/35i8avpMLLHqG7RyjLdFQr"
-      },
-      "artists": [
-        {
-          "name": "Nebi",
-          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
-        }
-      ],
-      "duration_ms": 233218,
-      "name": "GoDdAmN",
-      "url": "https://open.spotify.com/track/4PvlDeYk2aAk2dZATFxBWO"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "WYD",
-        "url": "https://open.spotify.com/album/5Lb3IWSoiqaVhwiJa4GyRP"
-      },
-      "artists": [
-        {
-          "name": "Fabe",
-          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
-        }
-      ],
-      "duration_ms": 161833,
-      "name": "WYD",
-      "url": "https://open.spotify.com/track/4nPf3a74YvdiZT9L9ILMly"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "EESTI (On my Mind)",
-        "url": "https://open.spotify.com/album/0Y6Uu0K8E5oF2fP5rVA4H0"
-      },
-      "artists": [
-        {
-          "name": "Teflon Brothers",
-          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
-        },
-        {
-          "name": "M\u00e4rk\u00e4-Simo",
-          "url": "https://open.spotify.com/artist/6L3yCtVL0UCdOFzD1DxRjs"
-        },
-        {
-          "name": "Juice Leskinen",
-          "url": "https://open.spotify.com/artist/4W6vvLzFQKixmJXSJK3wLp"
-        }
-      ],
-      "duration_ms": 189975,
-      "name": "EESTI (On my Mind)",
-      "url": "https://open.spotify.com/track/5EhaUNWw48KNkAHnjPUUZl"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Kompassi",
-        "url": "https://open.spotify.com/album/4WlBhDPRX2C3GTxmTwvla1"
-      },
-      "artists": [
-        {
-          "name": "Mikael Gabriel",
-          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
-        },
-        {
-          "name": "Juha Tapio",
-          "url": "https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM"
-        }
-      ],
-      "duration_ms": 214471,
-      "name": "Kompassi",
-      "url": "https://open.spotify.com/track/6XIZElq1WBJHYWtv9v8YYV"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "KiMi",
-        "url": "https://open.spotify.com/album/3gArW1RWVdKAf97uh522i1"
-      },
-      "artists": [
-        {
-          "name": "Nebi",
-          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
-        },
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "KiMi",
-      "url": "https://open.spotify.com/track/6TsLJhggpJxIdeNF7I7bbx"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "500 Hevosta",
-        "url": "https://open.spotify.com/album/3uqgxFvP6mLYSjzgKIpyeC"
-      },
-      "artists": [
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 234256,
-      "name": "500 Hevosta",
-      "url": "https://open.spotify.com/track/66ZiW1fgTaWZINhOLyDeLo"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Angelito",
-        "url": "https://open.spotify.com/album/5ppxmUR9iGaKld3k4ZLISH"
-      },
-      "artists": [
-        {
-          "name": "Joalin",
-          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
-        }
-      ],
-      "duration_ms": 203991,
-      "name": "Angelito",
-      "url": "https://open.spotify.com/track/7ozJ4D8Cy4DtoFRmoRZFVJ"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Pohjola",
-        "url": "https://open.spotify.com/album/03WPFkiChY7RCBG2OpCSlo"
-      },
-      "artists": [
-        {
-          "name": "Olli Halonen",
-          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
-        }
-      ],
-      "duration_ms": 175113,
-      "name": "Pohjola",
-      "url": "https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Vauhti kiihtyy (feat. Matti ja Teppo)",
         "url": "https://open.spotify.com/album/7ei29h30DRPF2N4stUBU3g"
@@ -649,7 +645,159 @@
       "url": "https://open.spotify.com/track/4N84bVnNycTXiuoKZFEXrD"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "500 Hevosta",
+        "url": "https://open.spotify.com/album/3uqgxFvP6mLYSjzgKIpyeC"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "duration_ms": 234256,
+      "name": "500 Hevosta",
+      "url": "https://open.spotify.com/track/66ZiW1fgTaWZINhOLyDeLo"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Kesken",
+        "url": "https://open.spotify.com/album/5QKHtTKjDhc6aDi7T7VFFC"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Tyhm\u00e4",
+      "url": "https://open.spotify.com/track/4wNAkYHSouNrsMIZLzTibv"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "40K",
+        "url": "https://open.spotify.com/album/23snaZbhW9jzET6wWtiEPk"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 154767,
+      "name": "40K",
+      "url": "https://open.spotify.com/track/48GrbwydcMUFPfKrSeq6K0"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "KiMi",
+        "url": "https://open.spotify.com/album/3gArW1RWVdKAf97uh522i1"
+      },
+      "artists": [
+        {
+          "name": "Nebi",
+          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
+        },
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "KiMi",
+      "url": "https://open.spotify.com/track/6TsLJhggpJxIdeNF7I7bbx"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Kompassi",
+        "url": "https://open.spotify.com/album/4WlBhDPRX2C3GTxmTwvla1"
+      },
+      "artists": [
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        },
+        {
+          "name": "Juha Tapio",
+          "url": "https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM"
+        }
+      ],
+      "duration_ms": 214471,
+      "name": "Kompassi",
+      "url": "https://open.spotify.com/track/6XIZElq1WBJHYWtv9v8YYV"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "WYD",
+        "url": "https://open.spotify.com/album/5Lb3IWSoiqaVhwiJa4GyRP"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "duration_ms": 161833,
+      "name": "WYD",
+      "url": "https://open.spotify.com/track/4nPf3a74YvdiZT9L9ILMly"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Milla Magia",
+        "url": "https://open.spotify.com/album/76s5lePjs8q3eKmsjbmsXd"
+      },
+      "artists": [
+        {
+          "name": "Faija",
+          "url": "https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k"
+        }
+      ],
+      "duration_ms": 200659,
+      "name": "Milla Magia",
+      "url": "https://open.spotify.com/track/1TN6MFzUFHXARl6eVzbtyf"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Pohjola",
+        "url": "https://open.spotify.com/album/03WPFkiChY7RCBG2OpCSlo"
+      },
+      "artists": [
+        {
+          "name": "Olli Halonen",
+          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
+        }
+      ],
+      "duration_ms": 175113,
+      "name": "Pohjola",
+      "url": "https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Kyl\u00e4baari",
+        "url": "https://open.spotify.com/album/06cvSKHIeSFxxb5TEUfXjW"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "duration_ms": 226996,
+      "name": "Kyl\u00e4baari",
+      "url": "https://open.spotify.com/track/0QO1QnI4tOXLwtgXQmVqPA"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Nonstop (feat. Sexmane & B.Baby)",
         "url": "https://open.spotify.com/album/1whyLxdmgza9nO22aEsW93"
@@ -673,187 +821,7 @@
       "url": "https://open.spotify.com/track/0nRssz1xxPRC6B22k5lG06"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Syd\u00e4n sulaa",
-        "url": "https://open.spotify.com/album/4oCy3xdoc8dk6GE21rkRJd"
-      },
-      "artists": [
-        {
-          "name": "Evelina",
-          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
-        }
-      ],
-      "duration_ms": 215132,
-      "name": "Syd\u00e4n sulaa",
-      "url": "https://open.spotify.com/track/3yGXUI2VY7HMpJpiIerO3H"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/3ZR6nOAnr91cgySvDCbTI4"
-      },
-      "artists": [
-        {
-          "name": "Madboiali",
-          "url": "https://open.spotify.com/artist/62cLJcsS4nppVmLCqIHAFU"
-        },
-        {
-          "name": "Stafa",
-          "url": "https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5"
-        }
-      ],
-      "duration_ms": 159432,
-      "name": "S\u00e4\u00e4nt\u00f6i (feat. Stafa)",
-      "url": "https://open.spotify.com/track/6BjYoI5TKTYEEZntqd13Ft"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "2step (The Remixes)",
-        "url": "https://open.spotify.com/album/1nqJFaKVTrCkCDaC2I1zM7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Ellinoora",
-          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
-        }
-      ],
-      "duration_ms": 153373,
-      "name": "2step (feat. Ellinoora)",
-      "url": "https://open.spotify.com/track/3Cem1dtq0bNVYQNqz9h0BY"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Kyl\u00e4baari",
-        "url": "https://open.spotify.com/album/06cvSKHIeSFxxb5TEUfXjW"
-      },
-      "artists": [
-        {
-          "name": "Portion Boys",
-          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
-        }
-      ],
-      "duration_ms": 226996,
-      "name": "Kyl\u00e4baari",
-      "url": "https://open.spotify.com/track/0QO1QnI4tOXLwtgXQmVqPA"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
-      },
-      "artists": [
-        {
-          "name": "Haloo Helsinki!",
-          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Reiviluola",
-      "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "El\u00e4m\u00e4n ABC",
-        "url": "https://open.spotify.com/album/7ruMtcNvujCUoOmEPfZIkZ"
-      },
-      "artists": [
-        {
-          "name": "Portion Boys",
-          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
-        }
-      ],
-      "duration_ms": 222578,
-      "name": "El\u00e4m\u00e4n ABC",
-      "url": "https://open.spotify.com/track/7ffZ0iPT1UQvgm4e1KsaDC"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Milla Magia",
-        "url": "https://open.spotify.com/album/76s5lePjs8q3eKmsjbmsXd"
-      },
-      "artists": [
-        {
-          "name": "Faija",
-          "url": "https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k"
-        }
-      ],
-      "duration_ms": 200659,
-      "name": "Milla Magia",
-      "url": "https://open.spotify.com/track/1TN6MFzUFHXARl6eVzbtyf"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Pakko relaa ennen kun m\u00e4 delaan",
-        "url": "https://open.spotify.com/album/18fak0J1Ia3iGgThlTOIAb"
-      },
-      "artists": [
-        {
-          "name": "Gasellit",
-          "url": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Pakko relaa ennen kun m\u00e4 delaan",
-      "url": "https://open.spotify.com/track/0510Z3QobhS1qOFEybAVaY"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
-      "album": {
-        "name": "Blitzkrieg 2022 - Drammen",
-        "url": "https://open.spotify.com/album/3GUUcR6YtDVmGPg5yEhFIf"
-      },
-      "artists": [
-        {
-          "name": "Kris Winther",
-          "url": "https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG"
-        },
-        {
-          "name": "SuperJonny",
-          "url": "https://open.spotify.com/artist/1qN9U0yBn6fvVbz0GXSCsc"
-        },
-        {
-          "name": "Rapposaurus Rex",
-          "url": "https://open.spotify.com/artist/3ghekvbJpcKDGyauENQfzT"
-        },
-        {
-          "name": "LamboLaz",
-          "url": "https://open.spotify.com/artist/65RF0CIG7aJEWRcdHIbdLN"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Blitzkrieg 2022 - Drammen",
-      "url": "https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k"
-    },
-    {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
         "name": "Amatimies / Viikonloppu",
         "url": "https://open.spotify.com/album/55Em8NcAe3RwRTVHMX0vxS"
@@ -869,72 +837,100 @@
       "url": "https://open.spotify.com/track/2uK2ecojfgD1HjSveRgie4"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
-        "name": "Everything Beautiful",
-        "url": "https://open.spotify.com/album/45QLNSxcsMm59D8KHDjj00"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 140066,
-      "name": "Everything Beautiful",
-      "url": "https://open.spotify.com/track/4J8fwjBs0k3KGHVMRJXgOV"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
-        "name": "Kaikki on satua",
-        "url": "https://open.spotify.com/album/0xfUl4dOtqRjK4kZrf1JQA"
+        "name": "El\u00e4m\u00e4n ABC",
+        "url": "https://open.spotify.com/album/7ruMtcNvujCUoOmEPfZIkZ"
       },
       "artists": [
         {
-          "name": "Pariisin Kev\u00e4t",
-          "url": "https://open.spotify.com/artist/2Bj3YsSKo7O5bj3Ku6z1Ny"
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
         }
       ],
-      "duration_ms": 237133,
-      "name": "Kes\u00e4y\u00f6",
-      "url": "https://open.spotify.com/track/4Q7NePRrh6S0WzKMz8CbCA"
+      "duration_ms": 222578,
+      "name": "El\u00e4m\u00e4n ABC",
+      "url": "https://open.spotify.com/track/7ffZ0iPT1UQvgm4e1KsaDC"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
-        "name": "jvg.fi",
-        "url": "https://open.spotify.com/album/7vfkONUIKza4cZEcRqO788"
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
       "artists": [
         {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        },
-        {
-          "name": "Raappana",
-          "url": "https://open.spotify.com/artist/7m7tqSW9C7alkliDAZYvF0"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Kran Turismo (feat. Raappana)",
-      "url": "https://open.spotify.com/track/2AdhIZdTeCulvMd9DVOVZ5"
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-07-08 12:32:57",
+      "added_at": "2022-07-09 12:48:42",
       "album": {
-        "name": "Juokse Beibi Juokse",
-        "url": "https://open.spotify.com/album/0m1InalAMuamy1gI1FppFh"
+        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
       },
       "artists": [
         {
-          "name": "Anna Puu",
-          "url": "https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3"
+          "name": "Haloo Helsinki!",
+          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
         }
       ],
-      "duration_ms": 187014,
-      "name": "Juokse Beibi Juokse",
-      "url": "https://open.spotify.com/track/5vx35J4nbvNc4bVqn3Ja7F"
+      "duration_ms": 247426,
+      "name": "Reiviluola",
+      "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Angelito",
+        "url": "https://open.spotify.com/album/5ppxmUR9iGaKld3k4ZLISH"
+      },
+      "artists": [
+        {
+          "name": "Joalin",
+          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
+        }
+      ],
+      "duration_ms": 203991,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/7ozJ4D8Cy4DtoFRmoRZFVJ"
+    },
+    {
+      "added_at": "2022-07-09 12:48:42",
+      "album": {
+        "name": "Syd\u00e4n sulaa",
+        "url": "https://open.spotify.com/album/4oCy3xdoc8dk6GE21rkRJd"
+      },
+      "artists": [
+        {
+          "name": "Evelina",
+          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+        }
+      ],
+      "duration_ms": 215132,
+      "name": "Syd\u00e4n sulaa",
+      "url": "https://open.spotify.com/track/3yGXUI2VY7HMpJpiIerO3H"
     }
   ],
   "unique_name": "Top 50 - Finland",

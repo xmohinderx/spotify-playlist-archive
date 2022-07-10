@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop featuring Ari Abdul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,490 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,967 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 27 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
 | 28 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 |
 | 29 | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0) | 2:44 |
-| 30 | [Shut Up And Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up And Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 |
+| 30 | [Shut Up and Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up and Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 |
 | 31 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 |
 | 32 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |
 | 33 | [Adrenaline](https://open.spotify.com/track/1XtKDLAUMpkP7d5As2tMdo) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Adrenaline](https://open.spotify.com/album/2XB9irMRwGVnLswejrbG0b) | 2:26 |

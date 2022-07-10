@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Loud Luxury
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,943 likes - 101 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,983 likes - 101 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 6 | [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 |
 | 7 | [Cardio](https://open.spotify.com/track/570IBDs5wg3IfbHLHOPJss) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Drew Ray Tanner](https://open.spotify.com/artist/1b8U8JnyaUcNpiaoBk80ue) | [Cardio](https://open.spotify.com/album/7xmRE7qmrVFb2as3VMAFlX) | 2:50 |
 | 8 | [Really Special](https://open.spotify.com/track/0UVY8JcLsmhjMd7hkqvX7j) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [Nick Fiorucci](https://open.spotify.com/artist/3YPMYCdGVCZz2xLDUbR3TY) | [Really Special](https://open.spotify.com/album/0FdnSC3UbA7fmNlJaDbBaT) | 4:51 |
-| 9 | [What You Waiting for?](https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [What You Waiting for?](https://open.spotify.com/album/122TcLx7ilK2T5Ri3mJ92C) | 3:51 |
+| 9 | [What You Waiting For?](https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [What You Waiting For?](https://open.spotify.com/album/122TcLx7ilK2T5Ri3mJ92C) | 3:51 |
 | 10 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 |
 | 11 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 |
 | 12 | [Missing You](https://open.spotify.com/track/0liLrRUJW0oTNwsZh8kPBx) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 3:42 |

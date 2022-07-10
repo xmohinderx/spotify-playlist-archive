@@ -4,7 +4,7 @@
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/0WK1R7cOtc6ojpQbtQbUnD)
+64 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/0WK1R7cOtc6ojpQbtQbUnD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,11 @@
 | [Canción a Mi Madre](https://open.spotify.com/track/2dNhQNwppNNwv4ptecPe4P) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Canción a Mi Madre](https://open.spotify.com/album/1E5fEYCsWr4syldHkD4PD2) | 3:04 | 2022-06-01 |  |
 | [Cazador de Asesinos](https://open.spotify.com/track/411L3G5Fym2P3aiMey6ATm) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Homero Guerrero y Lupe Tijerina](https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 3:03 | 2022-06-01 |  |
 | [Cielo Azul Cielo Nublado](https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [30 Cadetazos](https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8) | 2:00 | 2022-06-01 |  |
+| [Contrabando Por Amor](https://open.spotify.com/track/1NoPsquz9i9s8Ybo86u1Ku) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Señor de los Cielos](https://open.spotify.com/album/72h9sjxf1AtzemsvDifpGn) | 3:04 | 2022-07-09 |  |
 | [Corridos de los Perez](https://open.spotify.com/track/4vzCg8pdKm9b6IzVnUbIIa) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Jesus Malverde](https://open.spotify.com/album/6iQ9C4j0Esy5BPxfeC6lLo) | 3:29 | 2022-06-01 |  |
 | [Cosas del Ayer](https://open.spotify.com/track/19mX627iFZeXidj0akB9aT) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:52 | 2022-06-01 |  |
 | [Cruzando el Puente](https://open.spotify.com/track/1OtStUZIjQB3K14DbQKwcl) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:41 | 2022-06-01 |  |
-| [Descansa General](https://open.spotify.com/track/1pZB1cTeogCXkhWV0m98Eg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q) | 2:56 | 2022-06-17 |  |
+| [Descansa General](https://open.spotify.com/track/1pZB1cTeogCXkhWV0m98Eg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q) | 2:56 | 2022-06-17 | 2022-07-10 |
 | [Desprecio](https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:40 | 2022-06-02 | 2022-06-04 |
 | [Dimas de Leon](https://open.spotify.com/track/2D9mxadWpEHfaRlqV9m27i) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:52 | 2022-06-01 |  |
 | [Donde Estara Mi Caballo](https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiracion Nortena](https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR) | 2:48 | 2022-06-01 |  |
@@ -32,11 +33,11 @@
 | [El Regio Traficante](https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pueblito](https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh) | 3:21 | 2022-06-01 |  |
 | [El Retorno de Chito Cano](https://open.spotify.com/track/1na1Q8kP0MAC4K3CzFIQzF) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 3:08 | 2022-06-01 |  |
 | [El Rogón](https://open.spotify.com/track/3urP0J323Dt6wq239LZFmA) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Cadetes](https://open.spotify.com/album/6uNdrT63Utmcx3ISlBKYvf) | 2:49 | 2022-06-01 |  |
-| [Eleazar del Fierro](https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 3:10 | 2022-06-02 |  |
+| [Eleazar del Fierro](https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 3:10 | 2022-06-02 | 2022-07-10 |
 | [Estoy Pagando](https://open.spotify.com/track/0yBaPIxrvxLHmWAhFPewmW) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Pagina Mas](https://open.spotify.com/album/0ABbeJK5PIwDVTb5kiC28k) | 2:54 | 2022-06-01 |  |
 | [Ezequiel Rodriguez](https://open.spotify.com/track/49HTMbHr98K8GDok9CHHDR) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 3:02 | 2022-06-01 |  |
 | [Flor De Capomo](https://open.spotify.com/track/6nZWx1svsdUedHNwsrrkOi) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Coleccion De Oro, Vol\. 1](https://open.spotify.com/album/1wNMgnlVUPpHrdCMRqAf9y) | 3:03 | 2022-06-02 | 2022-06-28 |
-| [Generoso y Carmelita](https://open.spotify.com/track/1xlgtF686KI0a3JfQwPcbl) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:46 | 2022-06-01 | 2022-06-28 |
+| [Generoso y Carmelita](https://open.spotify.com/track/1xlgtF686KI0a3JfQwPcbl) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:46 | 2022-06-01 |  |
 | [Hierba Polvo y Plomo](https://open.spotify.com/track/5VJVZNPgD1H9e8Gj24YrU3) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:59 | 2022-06-01 |  |
 | [Jesus Malverde](https://open.spotify.com/track/17hw7UqbbBZrDhDlgXh5eK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:42 | 2022-06-01 |  |
 | [Jose Lopez](https://open.spotify.com/track/6DJrx5bu28lb4kBuus1oUI) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:20 | 2022-06-08 | 2022-06-30 |

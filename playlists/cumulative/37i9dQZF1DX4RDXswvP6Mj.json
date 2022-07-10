@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 202203,
       "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
       "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 210573,
       "name": "Alcohol-Free",
       "url": "https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 216771,
       "name": "BARCODE",
       "url": "https://open.spotify.com/track/1ZThXKcKkKkZRQGYGd8UU4"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "BOP BOP!",
       "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 219549,
       "name": "BTBT",
       "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 212687,
       "name": "BUT YOU",
       "url": "https://open.spotify.com/track/5cDNWykOJC5d9uFRKmqyND"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 181600,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 195546,
       "name": "Celebrity",
       "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
@@ -1700,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "Facade",
+        "url": "https://open.spotify.com/album/2xj3q7TVU0jrpyv6YVGzPc"
+      },
+      "artists": [
+        {
+          "name": "WONHO",
+          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3K4FUnNmfNrIipQey9OxDM"
+    },
+    {
+      "album": {
         "name": "Novella",
         "url": "https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9"
       },
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 204167,
       "name": "CRY FOR ME",
       "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 149446,
       "name": "DUMB DUMB",
       "url": "https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz"
@@ -2551,7 +2569,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 214197,
       "name": "EYES (from \u201cArmored Saurus\u201d)",
       "url": "https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5"
@@ -3311,7 +3329,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 159560,
       "name": "GYOPO HAIRSTYLE",
       "url": "https://open.spotify.com/track/4pAas7JMUikN9utv8ul14H"
@@ -3419,7 +3437,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
@@ -3741,7 +3759,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 166323,
       "name": "I Don't Know You Anymore",
       "url": "https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj"
@@ -4239,7 +4257,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy"
@@ -4657,7 +4675,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 177845,
       "name": "Lover Like Me",
       "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
@@ -5143,7 +5161,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
@@ -5165,7 +5183,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 212807,
       "name": "NAKKA (with IU)",
       "url": "https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr"
@@ -5263,7 +5281,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
@@ -5975,7 +5993,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 201122,
       "name": "Pretty Savage",
       "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
@@ -6281,7 +6299,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 185053,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm"
@@ -6425,7 +6443,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
@@ -6479,7 +6497,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f"
@@ -6761,7 +6779,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 173413,
       "name": "SMILEY(Feat. BIBI)",
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
@@ -7453,7 +7471,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 196333,
       "name": "THRILL RIDE",
       "url": "https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv"
@@ -7695,7 +7713,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 212990,
       "name": "TT",
       "url": "https://open.spotify.com/track/4ACeAntCpOxVeIcivmqG4S"
@@ -8373,7 +8391,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 193593,
       "name": "Yet To Come",
       "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
@@ -8485,7 +8503,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"

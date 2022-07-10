@@ -4,7 +4,7 @@
 
 > Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: Huh\(허성현\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-503 songs - 1 day 4 hr 41 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+504 songs - 1 day 4 hr 44 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Hollow Season \(Feat\. INE, C JAMM, YUNHWAY\)](https://open.spotify.com/track/19ED83SfC8QW8MJhy9Gxsh) | [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [INE](https://open.spotify.com/artist/2esZEOvnP8fACfmFZerWHy), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Hollow Season](https://open.spotify.com/album/3I01GZau9zdhKZrY2bcnIG) | 7:07 | 2022-04-07 | 2022-05-24 |
 | [home \(feat\. Hesper\)](https://open.spotify.com/track/464h8vrQbuDmTSijuP0CvO) | [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY), [Hesper](https://open.spotify.com/artist/7rOHC7zGWrPNUYrAQXviPs) | [space](https://open.spotify.com/album/2sZrEiT7qIJ07gEbldGjnB) | 4:25 | 2022-01-04 | 2022-05-12 |
 | [Hopefully \(Feat\. Jung In\) \(Prod\. TOIL\)](https://open.spotify.com/track/6zdgPI0zkt6xJSUoTLud8v) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:26 | 2021-12-29 | 2022-07-01 |
+| [how's your summer?](https://open.spotify.com/track/4d96YEbQXNqQsbBauaButp) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [how's your summer?](https://open.spotify.com/album/1zJfPqG84GCiB8H67Dsgtn) | 2:37 | 2022-07-09 |  |
 | [Howl \(Feat\. Yellowmane, Sahtyre, Junoflo, G2\)](https://open.spotify.com/track/24N9c3BdEQL2rrfJLggzka) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Yellowmane](https://open.spotify.com/artist/69DIWtgrZbIjorw3g1UqVy), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU), [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66) | [Howl](https://open.spotify.com/album/2DHChOTHjJzyY9RL0RKUlj) | 2:12 | 2022-06-03 |  |
 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 | 2021-12-18 | 2022-07-08 |
 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 | 2022-03-26 | 2022-04-18 |

@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 156144,
       "name": "5 minutes til dawn",
       "url": "https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5"
@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
+    },
+    {
+      "album": {
         "name": "BAD KIDS",
         "url": "https://open.spotify.com/album/3EN3hLzUkJuBTbu14HvZIz"
       },
@@ -535,7 +553,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 189405,
       "name": "BANDIT",
       "url": "https://open.spotify.com/track/4R0SPddrt2NeNPbm0iGzsX"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 174397,
       "name": "Bentley Coupe",
       "url": "https://open.spotify.com/track/7aksJRV1H0pCds7FSiZ8ZI"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 213914,
       "name": "C O O L Santa Ana",
       "url": "https://open.spotify.com/track/4EuHlO6U0SjsDUxdF4dJDy"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 228711,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 140921,
       "name": "Girls",
       "url": "https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU"
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 181894,
       "name": "Headsweat",
       "url": "https://open.spotify.com/track/4R0lJ8go7EFcqHYEJln0xz"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 199982,
       "name": "Heal My Head",
       "url": "https://open.spotify.com/track/16KPdkm1lwurY6KTwo7dJH"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 177440,
       "name": "Her Body Is Bible",
       "url": "https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz"
@@ -2473,7 +2491,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 231626,
       "name": "I Miss When I Smelled Like You",
       "url": "https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX"
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 185664,
       "name": "It Took A Lot To Get To This",
       "url": "https://open.spotify.com/track/1kLn3PxbnFzHV1kkXWpg4e"
@@ -2759,7 +2777,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 231202,
       "name": "Jimmy Neutron",
       "url": "https://open.spotify.com/track/0QQHnDejdUQbpnOhPgyYmE"
@@ -2903,7 +2921,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 243486,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7"
@@ -3225,7 +3243,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 162103,
       "name": "Make This Better",
       "url": "https://open.spotify.com/track/6AX6CNaVys5pYVjiuR9s5L"
@@ -3265,7 +3283,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 126142,
       "name": "Me and Your Boyfriend",
       "url": "https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV"
@@ -3711,7 +3729,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 142418,
       "name": "No Saving You",
       "url": "https://open.spotify.com/track/0q1lONbSdcZT6UthZNtt30"
@@ -4271,7 +4289,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 274386,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx"
@@ -4289,7 +4307,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 121724,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz"
@@ -5025,7 +5043,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 192970,
       "name": "Surfing",
       "url": "https://open.spotify.com/track/2bb3HjKjiTIIGXcM1YbKIy"
@@ -5043,7 +5061,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 164576,
       "name": "Synchronize",
       "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
@@ -5101,7 +5119,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 186600,
       "name": "Teenage Dirtbag \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
@@ -5177,6 +5195,24 @@
       "duration_ms": 252760,
       "name": "That's Where I Am",
       "url": "https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe"
     },
     {
       "album": {
@@ -5687,7 +5723,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 174120,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4lanb9IYNnwzlQd9XmTjju"
@@ -5745,7 +5781,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 256446,
       "name": "Way of Life (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
@@ -5781,7 +5817,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 172427,
       "name": "What Do I Do?",
       "url": "https://open.spotify.com/track/09jRXevXGLTtqsz5P13U1Z"

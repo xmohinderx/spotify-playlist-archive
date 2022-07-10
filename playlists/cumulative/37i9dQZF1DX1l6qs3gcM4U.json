@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Ar que eu Respiro",
+        "url": "https://open.spotify.com/album/3JL8oqCrugYHWSw72nSkOX"
+      },
+      "artists": [
+        {
+          "name": "The Nitrox",
+          "url": "https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188048,
+      "name": "Ar que eu Respiro",
+      "url": "https://open.spotify.com/track/5VNEmowzM1mq3aDXBHt0K8"
+    },
+    {
+      "album": {
         "name": "Arrepios",
         "url": "https://open.spotify.com/album/430jQV4UrweqvoV5osODxI"
       },
@@ -387,7 +405,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 204149,
       "name": "Arrepios",
       "url": "https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 206451,
       "name": "Comment vivre sans toi",
       "url": "https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 210424,
       "name": "Corno",
       "url": "https://open.spotify.com/track/35wFDFtEwQesgr9ppW9s57"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 217276,
       "name": "Dem\u00f3nio da Tarraxinha",
       "url": "https://open.spotify.com/track/1lynGSW6MMqxWXNXJIXPSu"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 193045,
       "name": "Do Teu Jeito",
       "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 204531,
       "name": "Escola",
       "url": "https://open.spotify.com/track/1WpDYqttO9wySpUvvk9tXG"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 233145,
       "name": "Evil Tarraxo",
       "url": "https://open.spotify.com/track/4jEswQpBN1ju5ioo12w3YF"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 240612,
       "name": "Faz De Mim",
       "url": "https://open.spotify.com/track/76rfT1Ff6qXWnTiOWrj4BL"
@@ -2421,7 +2439,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 198539,
       "name": "Meu Para\u00edso",
       "url": "https://open.spotify.com/track/6M73AhE63sGLhHxmqCnW9E"
@@ -2657,7 +2675,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 200115,
       "name": "Na Bo Mon",
       "url": "https://open.spotify.com/track/0AePxcA9kgGpXBO91QJqc3"
@@ -2785,7 +2803,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 226626,
       "name": "Nha Rainha (feat. Dino D'Santiago)",
       "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
@@ -2941,7 +2959,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 203138,
       "name": "N\u00e3o Custa Nada",
       "url": "https://open.spotify.com/track/1JJOK1OQcBfJ3Rmm7QlnbZ"
@@ -3363,7 +3381,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 218718,
       "name": "Perigosa (feat. Anselmo Ralph)",
       "url": "https://open.spotify.com/track/0r2ZBAHKX36U3do2a3E0Vd"
@@ -3553,7 +3571,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 205000,
       "name": "Pronto Para Te Dar - Saxo-Kizomba Remix",
       "url": "https://open.spotify.com/track/5eHQKIHxF3G9BW8qpKpk3k"
@@ -3607,7 +3625,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 199219,
       "name": "Quem \u00c9 ?",
       "url": "https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY"
@@ -3847,7 +3865,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 207640,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
@@ -3865,7 +3883,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 230559,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/4pZKBbkkV1PqWNGyWDE1RN"
@@ -3909,7 +3927,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 192702,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
@@ -3931,7 +3949,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 205785,
       "name": "Ser Feliz",
       "url": "https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I"
@@ -4001,7 +4019,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 159157,
       "name": "Si Ki Min Kr\u00e8",
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
@@ -4023,7 +4041,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 184093,
       "name": "Siguim",
       "url": "https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e"
@@ -4059,7 +4077,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 202397,
       "name": "Sinto Falta",
       "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
@@ -4077,7 +4095,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 201780,
       "name": "So Nos",
       "url": "https://open.spotify.com/track/1BYeVkjrSN7APBly0piieC"
@@ -4095,7 +4113,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 226363,
       "name": "So Observo",
       "url": "https://open.spotify.com/track/4DRvNUiiqMcAffIwUJ6iAl"
@@ -4183,7 +4201,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 231529,
       "name": "Sozinha Comigo",
       "url": "https://open.spotify.com/track/0Brl3FrVHMVQQWGenhMNgX"
@@ -4245,7 +4263,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 232421,
       "name": "Super Mulher",
       "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
@@ -4477,7 +4495,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 246413,
       "name": "True Love_Kizomba Remix USA",
       "url": "https://open.spotify.com/track/7wGFAdXmj2yauEi3lALthW"
@@ -4715,7 +4733,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 341518,
       "name": "Vai",
       "url": "https://open.spotify.com/track/2dn2cuVW6K4QXOFbCLzm9S"
@@ -4827,7 +4845,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 223895,
       "name": "Vou Arriscar",
       "url": "https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM"

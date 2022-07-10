@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Danzo, MC Igu
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,556 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,573 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 16 | [Atividade](https://open.spotify.com/track/5b8IQcHCo8AAmjtOiScUaH) | [Yah!](https://open.spotify.com/artist/3tSuCOfsKQtgiDtf8M4ihJ), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [Atividade](https://open.spotify.com/album/62QG5n2zTuBiWtiTR6pWd7) | 3:06 |
 | 17 | [Do Crime a Fama 2](https://open.spotify.com/track/263ZN0oePtTVUGS32QKZn1) | [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m) | [Do Crime a Fama 2](https://open.spotify.com/album/5M5ex3CUTmTfoeT26BkFK6) | 3:30 |
 | 18 | [Fé de Abraão](https://open.spotify.com/track/6rGOddAeZDBywYmeDYhJrQ) | [Mc Rodson](https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [Fé de Abraão](https://open.spotify.com/album/0U2O6FapO3vRWesdBey8rN) | 2:32 |
-| 19 | [Brilho](https://open.spotify.com/track/2bjFI7s7irTIzN4p2mvkeQ) | [MT Yudi](https://open.spotify.com/artist/0PU1gG410y7rDTkag2qnZx), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Brilho](https://open.spotify.com/album/3TPVDUyqxVMAw48HaVEFB6) | 2:42 |
+| 19 | [Brilho](https://open.spotify.com/track/2bjFI7s7irTIzN4p2mvkeQ) | [MT Yudi](https://open.spotify.com/artist/0PU1gG410y7rDTkag2qnZx) | [Brilho](https://open.spotify.com/album/3TPVDUyqxVMAw48HaVEFB6) | 2:42 |
 | 20 | [Amiga Talarica](https://open.spotify.com/track/0pCCkETY2IGljqYFvFESZR) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Amiga Talarica](https://open.spotify.com/album/68jNSLVXPmcN1lCDXxbw6b) | 3:24 |
 | 21 | [Rockstar](https://open.spotify.com/track/0z8Hb903tQzICkfsI56WB2) | [Uxie Kid](https://open.spotify.com/artist/04qByqUf8qEushGa1aQQ8V), [shots!](https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49) | [Rockstar](https://open.spotify.com/album/27OGyKWMcoVbt887WXIxk1) | 1:46 |
 | 22 | [Vou Falar o Que?](https://open.spotify.com/track/532c5QACGW10DFZWyNaMKL) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 3:03 |

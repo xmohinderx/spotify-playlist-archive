@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-441 songs - 1 day 1 hr 52 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
+442 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-08-05 | 2021-12-22 |
 | [Dale](https://open.spotify.com/track/0E2Z5bEriQ2V7Nq6Rwn17v) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:30 | 2022-03-12 | 2022-03-27 |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-07-08 | 2021-08-23 |
-| [Deja Que Tus Manos](https://open.spotify.com/track/1ONKgvfAhcbgHp4AKWAidI) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [Deja Que Tus Manos](https://open.spotify.com/album/2vjLUBzC5KJq7Fhgjzj5ju) | 2:40 | 2022-06-20 |  |
+| [Deja Que Tus Manos](https://open.spotify.com/track/1ONKgvfAhcbgHp4AKWAidI) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [Deja Que Tus Manos](https://open.spotify.com/album/2vjLUBzC5KJq7Fhgjzj5ju) | 2:40 | 2022-06-20 | 2022-07-10 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-06-20 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-03-03 | 2022-05-22 |
 | [Desde Mis Ojos \(Lo Mas Pegado\)](https://open.spotify.com/track/2VHqaQTtaTFkBRNbbghdRR) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Desde Mis Ojos \(Lo Mas Pegado\)](https://open.spotify.com/album/3aokBWzSw8bDbwG9x7jjQt) | 2:49 | 2022-03-16 | 2022-03-21 |
@@ -284,6 +284,7 @@
 | [No Te Enamores \- Remix](https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [No Te Enamores \(Remix\)](https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk) | 4:49 | 2021-03-27\* | 2021-07-04 |
 | [No Te Valore](https://open.spotify.com/track/5V2qD1MaHauZscxgOAyvUW) | [El Bird](https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q) | [Bajo 0°](https://open.spotify.com/album/3AqFa07ABa2gmVvJico0GR) | 4:05 | 2022-06-22 | 2022-06-30 |
 | [Noche de Teteo](https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Noche de Teteo](https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx) | 3:22 | 2022-05-21 |  |
+| [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-09 |  |
 | [North Carolina](https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 2:56 | 2021-11-28 | 2021-12-05 |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-09-11 | 2022-05-08 |
 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 | 2022-05-21 | 2022-05-28 |

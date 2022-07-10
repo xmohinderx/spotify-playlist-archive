@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 161880,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 157944,
       "name": "Agua (with J Balvin) - Music From \"Sponge On The Run\" Movie",
       "url": "https://open.spotify.com/track/1pqnQ41XbfKjaFu6M0eGJp"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 212840,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/3SDvcxPcU7BlV1dAne4dWM"
@@ -762,6 +762,28 @@
     },
     {
       "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206277,
+      "name": "Gata (feat. Chencho Corleone)",
+      "url": "https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr"
+    },
+    {
+      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/7hZUxZ6Sczpaj16YxAY3Or"
       },
@@ -843,7 +865,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "GOTA GOTA",
       "url": "https://open.spotify.com/track/1oBbet1xcWpWgOw2Ddzsaj"
@@ -1301,7 +1323,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 173231,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw"
@@ -1323,7 +1345,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 194892,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
@@ -1513,7 +1535,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
@@ -1573,7 +1595,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 187092,
       "name": "PAPI (feat. Babywine & Alberto Stylee)",
       "url": "https://open.spotify.com/track/2wQBzAZdsaqDBbtwBk5MhA"
@@ -1771,7 +1793,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 165176,
       "name": "QueLoQue",
       "url": "https://open.spotify.com/track/0v2wlFNQNaA5O1Q5avy9MA"
@@ -1935,7 +1957,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 216510,
       "name": "Sal y Perrea",
       "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
@@ -1979,7 +2001,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 168648,
       "name": "Selfish Love (with Selena Gomez)",
       "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
@@ -2145,7 +2167,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 171813,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
@@ -2271,7 +2293,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 166264,
       "name": "T\u00f3came (feat. Arcangel & De La Ghetto)",
       "url": "https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx"

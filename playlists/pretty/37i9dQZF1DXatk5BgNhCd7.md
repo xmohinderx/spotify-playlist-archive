@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Afrosound & Fruko y sus Tesos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,729 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,745 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 12 | [Échale Ganitas](https://open.spotify.com/track/37vHD4QTFokZ4qYA5FoNOw) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Échale Ganitas](https://open.spotify.com/album/4z6qNyp562i0D7bXjm0YTv) | 2:44 |
 | 13 | [Siento](https://open.spotify.com/track/7ANXw7xOAH6yKiePXGUQCm) | [LA CHISPA](https://open.spotify.com/artist/0q2zdnVTdj92ih63gKaCaj), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Siento](https://open.spotify.com/album/0N0EnK76x1LtHrqj5vl3KK) | 3:07 |
 | 14 | [Lo que sea por ti](https://open.spotify.com/track/7KQChK2qYAgC5gj10eEF78) | [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm) | [Lo que sea por ti](https://open.spotify.com/album/3XYbVd4C0cWCw7S5kC4bcW) | 3:24 |
-| 15 | [Desvelado](https://open.spotify.com/track/0FeMQb4f2SUjzvG9CTfRCZ) | [Los Ingobernables](https://open.spotify.com/artist/1LEApNclDhFu0VEfxqAbxb) | [Desvelado](https://open.spotify.com/album/0oxohombNTZzpYdkO8dnLh) | 4:00 |
+| 15 | [Desvelado](https://open.spotify.com/track/0FeMQb4f2SUjzvG9CTfRCZ) | [Los Ingobernables](https://open.spotify.com/artist/4gb8SD1ZbPlrfiAoQAtA1A) | [Desvelado](https://open.spotify.com/album/0oxohombNTZzpYdkO8dnLh) | 4:00 |
 | 16 | [Me Va Bien Sin Ti](https://open.spotify.com/track/2bblMFEQCjeFbzM4KqKBfr) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Me Va Bien Sin Ti](https://open.spotify.com/album/6tZZNZsTNHmOSrtGtzCtDy) | 3:01 |
 | 17 | [Si Te Preguntan...](https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Si Te Preguntan...](https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9) | 3:43 |
 | 18 | [Ven Devorame Otra Vez](https://open.spotify.com/track/29NWUpLCFaygR485pZz8Eo) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Ven Devorame Otra Vez](https://open.spotify.com/album/1D6kIZBbMXJQpNCI2f5v7w) | 3:21 |

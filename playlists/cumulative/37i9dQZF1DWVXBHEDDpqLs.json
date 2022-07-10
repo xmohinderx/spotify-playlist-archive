@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 289634,
       "name": "Are We There Yet?",
       "url": "https://open.spotify.com/track/1OAdujv6QdbdHH3fQiOXdi"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 148833,
       "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
       "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 387310,
       "name": "clown shit (up the wall) [SOPHIE Remix]",
       "url": "https://open.spotify.com/track/4RMtFI3hGFBnyDg9YIvLLs"
@@ -980,6 +980,28 @@
     },
     {
       "album": {
+        "name": "Drowning (Remixes)",
+        "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
+    },
+    {
+      "album": {
         "name": "ELASTIC",
         "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
       },
@@ -999,7 +1021,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 219508,
       "name": "ELASTIC",
       "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
@@ -1021,7 +1043,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 150929,
       "name": "Eyes On Me - Solardo Remix",
       "url": "https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U"
@@ -1061,7 +1083,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 95268,
       "name": "Fuck It up Challenge",
       "url": "https://open.spotify.com/track/0v2POEELhkbrIWVVrLKXft"
@@ -1153,7 +1175,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 178872,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
@@ -1183,7 +1205,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 120333,
       "name": "Give It 2 Em - Remix",
       "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
@@ -1223,7 +1245,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 178177,
       "name": "Gone Crazy",
       "url": "https://open.spotify.com/track/0nFWkJE6AnANyYuLOfJGqb"
@@ -1359,7 +1381,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 243720,
       "name": "Holding It Together",
       "url": "https://open.spotify.com/track/2I86S8Clb865nD6VTiMq6n"
@@ -1587,10 +1609,44 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 143399,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f"
+      },
+      "artists": [
+        {
+          "name": "KiaBHN",
+          "url": "https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk"
+        },
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        },
+        {
+          "name": "DJ BigO",
+          "url": "https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD"
+        },
+        {
+          "name": "Vivid The Producer",
+          "url": "https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192949,
+      "name": "Jersey Anniversary",
+      "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
     },
     {
       "album": {
@@ -1627,7 +1683,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Jump Out",
       "url": "https://open.spotify.com/track/7oJfSplYb4omWhFM5ttmcf"
@@ -1693,7 +1749,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 209076,
       "name": "Let Me Catch My Breath - Baltimega Remix",
       "url": "https://open.spotify.com/track/31szi24yMz41kl2oz87mlW"
@@ -1715,7 +1771,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 176572,
       "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
       "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
@@ -1759,7 +1815,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 129348,
       "name": "Money Mouth",
       "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
@@ -1851,7 +1907,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 187445,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/4gMyCZA8aerwcDk6g4kpT0"
@@ -1969,7 +2025,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 223636,
       "name": "Progression",
       "url": "https://open.spotify.com/track/4pnDR3Dbsn19PE7VRbI4ed"
@@ -2229,7 +2285,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 206093,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
@@ -2255,7 +2311,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 160975,
       "name": "Shake Dhat",
       "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
@@ -2317,7 +2373,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 348000,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A"
@@ -2343,7 +2399,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 116280,
       "name": "Sri Lanka",
       "url": "https://open.spotify.com/track/58oUv4YvqAthrjI0fMnYUI"
@@ -2489,7 +2545,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 166500,
       "name": "Switch",
       "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
@@ -2529,7 +2585,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 180952,
       "name": "Talkin' Drums",
       "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
@@ -2663,7 +2719,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 220560,
       "name": "Turn On the Bass",
       "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
@@ -2891,7 +2947,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 203636,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3EinJKmldBC1cQ9rVDiHEp"
@@ -2993,7 +3049,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 192000,
       "name": "WORK",
       "url": "https://open.spotify.com/track/3f6cQPVTkf8KuEni7b8bS6"

@@ -362,6 +362,24 @@
     },
     {
       "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/4xWKAZymvlhtBEmRgOJeHa"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167632,
+      "name": "9 Lives",
+      "url": "https://open.spotify.com/track/1Vr3W9A9wmlfdD1P4uVkzS"
+    },
+    {
+      "album": {
         "name": "9 to 5",
         "url": "https://open.spotify.com/album/6rSPXk0OKSmGkFzZgD8wHD"
       },
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 219026,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
@@ -3799,7 +3817,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 182146,
       "name": "cloudbathing",
       "url": "https://open.spotify.com/track/3SjBwAnJXh69mDAsAea3iu"
@@ -5313,7 +5331,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 193233,
       "name": "Don't Stay Too Long",
       "url": "https://open.spotify.com/track/6lxyJqgQwCO1HtOcy90vFj"
@@ -7059,7 +7077,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 167248,
       "name": "FU In My Head",
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
@@ -8089,6 +8107,24 @@
       "duration_ms": 174033,
       "name": "hate my favorite band",
       "url": "https://open.spotify.com/track/0skrS3ItclFdUYVZZeUy07"
+    },
+    {
+      "album": {
+        "name": "dear amelia",
+        "url": "https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173444,
+      "name": "hate the way you love me",
+      "url": "https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe"
     },
     {
       "album": {
@@ -10035,7 +10071,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 173105,
       "name": "Immature",
       "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
@@ -12149,7 +12185,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 206847,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/6IYyWCVQbWpuyifWOGDevP"
@@ -12305,7 +12341,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 192133,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs"
@@ -13265,7 +13301,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 171033,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO"
@@ -14479,6 +14515,28 @@
       "duration_ms": 224004,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/4YaxGF9ufb7pQrCQgYEW8m"
+    },
+    {
+      "album": {
+        "name": "OTT",
+        "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157817,
+      "name": "OTT",
+      "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
     },
     {
       "album": {
@@ -15817,7 +15875,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 191910,
       "name": "rest in peace",
       "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
@@ -17107,7 +17165,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 187200,
       "name": "sideways",
       "url": "https://open.spotify.com/track/13ioHTU2uplzpkkvTUqfp2"
@@ -19491,7 +19549,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 193702,
       "name": "The Devil\u2019s Still Down in Georgia",
       "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
@@ -20319,7 +20377,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 224747,
       "name": "Two Moons",
       "url": "https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC"
@@ -20849,6 +20907,24 @@
       "duration_ms": 192631,
       "name": "vivienne",
       "url": "https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS"
+    },
+    {
+      "album": {
+        "name": "W.I.T.C.H.",
+        "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132133,
+      "name": "W.I.T.C.H.",
+      "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
       "album": {

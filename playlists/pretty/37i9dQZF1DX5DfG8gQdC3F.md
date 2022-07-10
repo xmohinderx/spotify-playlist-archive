@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Murda Beatz, Anitta, Quavo, J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,403 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,625 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 27 | [Exquisite](https://open.spotify.com/track/2ck3poi9OAj25CcOWfr1QW) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Exquisite](https://open.spotify.com/album/4Rlp7ncaNEzgJVoWhpWFMo) | 2:42 |
 | 28 | [PHASES](https://open.spotify.com/track/1pbPndrjrHw113nlkuKVdp) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [PHASES](https://open.spotify.com/album/1FnUpzg5NHXldkenmBZIv7) | 2:24 |
 | 29 | [29 \(Freestyle\)](https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [29 \(Freestyle\)](https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf) | 2:22 |
-| 30 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:08 |
+| 30 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:11 |
 | 31 | [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 |
 | 32 | [Got Me Good](https://open.spotify.com/track/09S6z2BOILlj41DMEDogwK) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Got Me Good](https://open.spotify.com/album/7KoL9bx98E7ON3odg9nRuz) | 2:45 |
 | 33 | [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 41 | [Pharmacist](https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/64JNhi1z2dWvcvKY37z2BQ) | 2:04 |
 | 42 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
 | 43 | [The Devil Is Human](https://open.spotify.com/track/77IYP2HaF1FVdvkGatRhvB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Devil Is Human](https://open.spotify.com/album/6B9SQHcbfa7RUCCDJVnASd) | 3:00 |
-| 44 | [Shut Up And Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up And Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 |
+| 44 | [Shut Up and Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up and Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 |
 | 45 | [Girls](https://open.spotify.com/track/07fqC2Puj13frv9iYtlcri) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH) | 4:00 |
 | 46 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 47 | [Float](https://open.spotify.com/track/79X3dUeEnrYoJMQM3I8ZTG) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Float](https://open.spotify.com/album/5DCRR6UHRl5R3ZE4lcTwbD) | 3:34 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 62 | [Bounce](https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Bounce](https://open.spotify.com/album/0oZsVFFbw4qvK1m8KBlUel) | 2:52 |
 | 63 | [Spoon & Bang](https://open.spotify.com/track/2RkvnSmAzC49zlXmzKfisn) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Spoon & Bang](https://open.spotify.com/album/4lBjA3mBpNpZpYh52mtvjF) | 2:09 |
 | 64 | [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 |
-| 65 | [What You Waiting for?](https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [What You Waiting for?](https://open.spotify.com/album/122TcLx7ilK2T5Ri3mJ92C) | 3:51 |
+| 65 | [What You Waiting For?](https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [What You Waiting For?](https://open.spotify.com/album/122TcLx7ilK2T5Ri3mJ92C) | 3:51 |
 | 66 | [Missing You](https://open.spotify.com/track/0liLrRUJW0oTNwsZh8kPBx) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 3:42 |
 | 67 | [Die With You On My Mind](https://open.spotify.com/track/51b6TQqt6yontLue0m1NGP) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Die With You On My Mind](https://open.spotify.com/album/5vaMUqhcSaQrfHFNruCOtc) | 2:46 |
 | 68 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |

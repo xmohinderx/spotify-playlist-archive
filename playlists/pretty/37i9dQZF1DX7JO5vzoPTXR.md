@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL?si=lJDj7G4CQzGuSE9m9TLILg&nd=1">Kate Bush</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,494 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,532 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [if we lived on the moon](https://open.spotify.com/track/4Es7s4qHHonILWnqDkN7cA) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [if we lived on the moon](https://open.spotify.com/album/6vKGgTS4yEAm8DlnQd5c7P) | 2:31 |
 | 40 | [PROMISE](https://open.spotify.com/track/3vA8ZdIqvRARF2pVKlnAWD) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 4:19 |
 
-Snapshot ID: `MTY1NzMyOTI4NywwMDAwMDAwMDZlYjgxODhlYjNlOGM3ZmQ2ZWZmYmJiZTI0ZWI5ZDhm`
+Snapshot ID: `MTY1NzQxNjQ0NiwwMDAwMDAwMDZlYjgxODhlYjNlOGM3ZmQ2ZWZmYmJiZTI0ZWI5ZDhm`

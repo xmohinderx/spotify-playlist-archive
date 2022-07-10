@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 812562,
+  "num_followers": 812807,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzMyODgzOCwwMDAwMDAwMDE4NTc0ODIxZjIzNjMyZDhmMjI2Nzk1ODM2MmU3OTNl",
+  "snapshot_id": "MTY1NzQxNTk2OCwwMDAwMDAwMDkxMTBiMzdkNDcwY2MyNDlhYTdkNWMzMGZiMDg1MTE5",
   "tracks": [
     {
       "added_at": "2022-06-27 09:43:41",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
         "name": "Keep the Village Alive (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5S7SW1LDkaCz3zCJI3Cbhn"
       },
@@ -279,6 +263,38 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "This Is Acoustic",
+        "url": "https://open.spotify.com/album/6ivT2ATQqnTzLaUQM3Zjnv"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Radioactive - Live",
+      "url": "https://open.spotify.com/track/2YTdPCFxGx0t8Sw26dUKac"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
       },
@@ -291,6 +307,38 @@
       "duration_ms": 330840,
       "name": "Black - Live MTV Unplugged",
       "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Wish You Were Here (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 334743,
+      "name": "Wish You Were Here - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Control - Acoustic Version",
+      "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -343,70 +391,6 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "This Is Acoustic",
-        "url": "https://open.spotify.com/album/6ivT2ATQqnTzLaUQM3Zjnv"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Radioactive - Live",
-      "url": "https://open.spotify.com/track/2YTdPCFxGx0t8Sw26dUKac"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Control - Acoustic Version",
-      "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "Bored To Death (Acoustic)",
-      "url": "https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "Boxes (Acoustic)",
-        "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 262186,
-      "name": "Boxes - Acoustic",
-      "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
       },
@@ -419,22 +403,6 @@
       "duration_ms": 200840,
       "name": "Wherever You Will Go - Acoustic",
       "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "Wish You Were Here (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 334743,
-      "name": "Wish You Were Here - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -455,6 +423,22 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
+        "name": "Boxes (Acoustic)",
+        "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 262186,
+      "name": "Boxes - Acoustic",
+      "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
         "name": "Space (Acoustic Version)",
         "url": "https://open.spotify.com/album/4pJRwy4zFSevnxOcYPTXxV"
       },
@@ -467,22 +451,6 @@
       "duration_ms": 245426,
       "name": "Space - Acoustic Version",
       "url": "https://open.spotify.com/track/2QcsmywCAqaaBtPibf3QRb"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "...Like Cologne",
-        "url": "https://open.spotify.com/album/4JYG2AVtZGSVKREL8REdzu"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 275571,
-      "name": "I Sat By The Ocean (Live Acoustic)",
-      "url": "https://open.spotify.com/track/2un2p1mSIu4Tvt8pSuO9kw"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -519,70 +487,6 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "The Best Of - Volume One",
-        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
-      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "To Be Loved: The Best Of Papa Roach (Explicit Version)",
-        "url": "https://open.spotify.com/album/03n4EmWNweUARTWYtmlPqt"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Scars - Acoustic Version",
-      "url": "https://open.spotify.com/track/1yroKBwU3gJEeGq1qnxYJO"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "Order In Decline B-Sides",
-        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 240019,
-      "name": "Catching Fire (Acoustic)",
-      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "The Reason (Acoustic) / Right Before Your Eyes",
-        "url": "https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 234187,
-      "name": "The Reason - Acoustic",
-      "url": "https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
         "name": "Us and Them (Deluxe Edition)",
         "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
       },
@@ -595,38 +499,6 @@
       "duration_ms": 202080,
       "name": "Save Me - Acoustic",
       "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "Many of Horror (MTV Unplugged Live; Edit)",
-        "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 254510,
-      "name": "Many of Horror - MTV Unplugged Live; Edit",
-      "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "Vagabond - Acoustic Version",
-      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -647,66 +519,66 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "The Poison (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
+        "name": "The Best Of - Volume One",
+        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
         }
       ],
-      "duration_ms": 277533,
-      "name": "Tears Don't Fall - Acoustic Version",
-      "url": "https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p"
+      "duration_ms": 230666,
+      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
+      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
     },
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "I Will Follow You into the Dark",
-        "url": "https://open.spotify.com/album/51YRSuzr45Jue0ycibDLwa"
+        "name": "...Like Cologne",
+        "url": "https://open.spotify.com/album/4JYG2AVtZGSVKREL8REdzu"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 188466,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/60D6xokLERFpsLMW6RwIKy"
+      "duration_ms": 275571,
+      "name": "I Sat By The Ocean (Live Acoustic)",
+      "url": "https://open.spotify.com/track/2un2p1mSIu4Tvt8pSuO9kw"
     },
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Retro Active",
-        "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
+        "name": "The Reason (Acoustic) / Right Before Your Eyes",
+        "url": "https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
         }
       ],
-      "duration_ms": 256486,
-      "name": "Two Steps Behind - String / Acoustic Version",
-      "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
+      "duration_ms": 234187,
+      "name": "The Reason - Acoustic",
+      "url": "https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU"
     },
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Wrong Side Of Heaven (Acoustic)",
-        "url": "https://open.spotify.com/album/2p7EHDph1VrRTfgF9YpzCQ"
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 269787,
-      "name": "Wrong Side Of Heaven - Acoustic",
-      "url": "https://open.spotify.com/track/2pDUQD1PCN7nYNay2G22Qy"
+      "duration_ms": 235746,
+      "name": "Bored To Death (Acoustic)",
+      "url": "https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -727,18 +599,66 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/09LIRHoEUbWq9lTNTAPWgr"
+        "name": "Many of Horror (MTV Unplugged Live; Edit)",
+        "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
       },
       "artists": [
         {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
         }
       ],
-      "duration_ms": 372560,
-      "name": "Like Suicide - Acoustic Version",
-      "url": "https://open.spotify.com/track/7MmpOZoNldmCFKlvWAcFsd"
+      "duration_ms": 254510,
+      "name": "Many of Horror - MTV Unplugged Live; Edit",
+      "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "I Will Follow You into the Dark",
+        "url": "https://open.spotify.com/album/51YRSuzr45Jue0ycibDLwa"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/60D6xokLERFpsLMW6RwIKy"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "To Be Loved: The Best Of Papa Roach (Explicit Version)",
+        "url": "https://open.spotify.com/album/03n4EmWNweUARTWYtmlPqt"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Scars - Acoustic Version",
+      "url": "https://open.spotify.com/track/1yroKBwU3gJEeGq1qnxYJO"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Retro Active",
+        "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 256486,
+      "name": "Two Steps Behind - String / Acoustic Version",
+      "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -759,34 +679,130 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Punk Goes Acoustic",
-        "url": "https://open.spotify.com/album/4zwLMQG4BcM0FpoAthwOa9"
+        "name": "Order In Decline B-Sides",
+        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 146333,
-      "name": "Swing Life Away",
-      "url": "https://open.spotify.com/track/47rhzvn0ZOqmikVdebaWMe"
+      "duration_ms": 240019,
+      "name": "Catching Fire (Acoustic)",
+      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
     },
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+        "name": "Wrong Side Of Heaven (Acoustic)",
+        "url": "https://open.spotify.com/album/2p7EHDph1VrRTfgF9YpzCQ"
       },
       "artists": [
         {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+      "duration_ms": 269787,
+      "name": "Wrong Side Of Heaven - Acoustic",
+      "url": "https://open.spotify.com/track/2pDUQD1PCN7nYNay2G22Qy"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 269323,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Vagabond - Acoustic Version",
+      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Yonaka Stripped Back",
+        "url": "https://open.spotify.com/album/235WSzEtSoaINo0N2QMUb7"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 276106,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/35No5bL3i5Hcc0UpOr6MSc"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/09LIRHoEUbWq9lTNTAPWgr"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Like Suicide - Acoustic Version",
+      "url": "https://open.spotify.com/track/7MmpOZoNldmCFKlvWAcFsd"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "The Poison (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Tears Don't Fall - Acoustic Version",
+      "url": "https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -803,22 +819,6 @@
       "duration_ms": 252320,
       "name": "7 - Acoustic",
       "url": "https://open.spotify.com/track/0ZObDSV7QWyu0Zdinf61Mq"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "All I Want (Acoustic)",
-        "url": "https://open.spotify.com/album/2ZZhHEsfI4EZ1nSm7LA5Fm"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "All I Want - Acoustic",
-      "url": "https://open.spotify.com/track/2BEZkzfIWNFSNjZMAKhyAR"
     }
   ],
   "unique_name": "Acoustic Rock",

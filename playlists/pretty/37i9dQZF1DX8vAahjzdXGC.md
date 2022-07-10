@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,757 likes - 87 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,782 likes - 87 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,6 +94,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 84 | [WINE](https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [WINE](https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy) | 2:56 |
 | 85 | [Sand Castle](https://open.spotify.com/track/6NwnAbhHTFWJMffR44ociw) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF) | [Summer Ocean](https://open.spotify.com/album/6fDPr1L3151DEBjNmgV8AT) | 2:01 |
 | 86 | [Spaceship](https://open.spotify.com/track/7Kz8jS0iJ07JjWkN6gY0S6) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/4wc8biQw9TsUg8DdH6IU4s) | 3:23 |
-| 87 | [Devil Eyes](https://open.spotify.com/track/7eGgaxBDg13KBgZCCULIje) | [VORANAH](https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij), [Jasmine](https://open.spotify.com/artist/3MDKMKqn9uVYlVM3ZrMl4t) | [THE MASTERPIECE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77QhNf1KG1kCd6ecDhvnnn) | 2:35 |
+| 87 | [Devil Eyes](https://open.spotify.com/track/7eGgaxBDg13KBgZCCULIje) | [VORANAH](https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij), [Jasmine](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [THE MASTERPIECE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77QhNf1KG1kCd6ecDhvnnn) | 2:35 |
 
 Snapshot ID: `MTY1NzI2MTY1NSwwMDAwMDRkZDAwMDAwMTgxZGM3ZTA0MTcwMDAwMDE4MWQ5OTJlMzk1`

@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-982 songs - 2 day 2 hr 42 min - [published](https://open.spotify.com/playlist/5Tz3j6NeYOoWmHXBAGiazZ)
+983 songs - 2 day 2 hr 46 min - [published](https://open.spotify.com/playlist/5Tz3j6NeYOoWmHXBAGiazZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Alien Boy](https://open.spotify.com/track/1gGhqfs2pDTOI30AEXMXrn) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alien Boy EP](https://open.spotify.com/album/5AelTZUdahNA7besdaECfD) | 2:43 | 2019-07-27 | 2019-08-14 |
 | [ALL ABOUT ME](https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [ALL ABOUT ME](https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP) | 1:37 | 2022-04-12 | 2022-04-19 |
 | [All Around The World \(La La La\)](https://open.spotify.com/track/2xyIwHKujL7tSgkK2Waj2s) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around the World \(La La La\)](https://open.spotify.com/album/4ehMluxEHC7c7Lp4blCUkW) | 2:27 | 2019-05-30 | 2020-04-29 |
-| [All Day \(feat\. Nonô\)](https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [All Day \(feat\. Nonô\)](https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ) | 3:02 | 2022-07-01 |  |
+| [All Day \(feat\. Nonô\)](https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [All Day \(feat\. Nonô\)](https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ) | 3:02 | 2022-07-01 | 2022-07-10 |
 | [All Day And Night \- Jax Jones & Martin Solveig Present Europa](https://open.spotify.com/track/11o2y87vqODipLK98a1v34) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Snacks](https://open.spotify.com/album/1SJwQGcL8CpUz0SLbLWVS3) | 2:49 | 2019-05-26\* | 2019-06-26 |
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2019-08-10 | 2019-08-14 |
 | [All I Know](https://open.spotify.com/track/6lVzAJftbOM5Mnd3jw3otO) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Honest](https://open.spotify.com/album/4KDGs6PnBOFXBrRJ2y0yMe) | 2:30 | 2021-10-10 | 2021-10-13 |
@@ -583,6 +583,7 @@
 | [Mood Swings \(feat\. Lil Tjay\)](https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:33 | 2020-08-15 | 2021-04-30 |
 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 | 2020-04-29 | 2020-05-27 |
 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2022-04-12 | 2022-07-02 |
+| [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-07-08 |  |
 | [Mother's Daughter](https://open.spotify.com/track/2WyRfGeHo97VC5mP1BBSzr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/7M4YAXOOg1XbWx03jg7t62) | 3:39 | 2019-06-01 | 2019-07-03 |
 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 | 2019-08-17 | 2020-04-29 |
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-13 | 2021-10-16 |

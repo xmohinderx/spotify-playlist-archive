@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: City Fidelia, Shelley FKA DRAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,680 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,720 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 |
-| 2 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:08 |
+| 2 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:11 |
 | 3 | [Dwayne Carter Flow](https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Dwayne Carter Flow](https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d) | 2:10 |
 | 4 | [PHASES](https://open.spotify.com/track/1pbPndrjrHw113nlkuKVdp) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [PHASES](https://open.spotify.com/album/1FnUpzg5NHXldkenmBZIv7) | 2:24 |
 | 5 | [STICK](https://open.spotify.com/track/1dgTZLHXNTXhn0L9D3MNF9) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [I Am Nothing Without \(Deluxe\) \- Trench Baby](https://open.spotify.com/album/3C2MpfvoCw8qw7DpUbM7RW) | 2:12 |

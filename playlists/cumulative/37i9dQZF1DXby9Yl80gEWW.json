@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 240640,
       "name": "40 West",
       "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 153066,
       "name": "Back Up And Push",
       "url": "https://open.spotify.com/track/7au8g5pl9gJiivYFhua16z"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 189546,
       "name": "Because",
       "url": "https://open.spotify.com/track/7j3xgodkcgpvPTFzW5PD1b"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 198478,
       "name": "Crooked Mind",
       "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 218850,
       "name": "Cup & Porch",
       "url": "https://open.spotify.com/track/69IcY4RMhhYtxDv6JTP66k"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 222646,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 222127,
       "name": "Ecstasy (Instrumental Edit)",
       "url": "https://open.spotify.com/track/1H0j71i6U3LxLreTAMcP1C"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 264333,
       "name": "Fall Creek Falls",
       "url": "https://open.spotify.com/track/3oCvqK23kHOETKauiNz3rc"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 113506,
       "name": "First And Last Waltz",
       "url": "https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 217866,
       "name": "Good to Go",
       "url": "https://open.spotify.com/track/5K7AhhV2f94CfqUFZtlAMu"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 326266,
       "name": "Hangman's Reel",
       "url": "https://open.spotify.com/track/41bwKV2bvP1uYMRJ2nH5Nc"
@@ -1421,6 +1421,24 @@
       "duration_ms": 213894,
       "name": "Harefoot's Retreat",
       "url": "https://open.spotify.com/track/5KLsa6pymi48DUERMmEtfU"
+    },
+    {
+      "album": {
+        "name": "\u00bfBluegrass? Banjo",
+        "url": "https://open.spotify.com/album/3MFE2ve7XfFDoET0A3X9Qm"
+      },
+      "artists": [
+        {
+          "name": "Chris Roszell",
+          "url": "https://open.spotify.com/artist/7emUlzuf20A2ulPXc9uBst"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Huequito",
+      "url": "https://open.spotify.com/track/6KtJz9GDXBriwN94IKnbqu"
     },
     {
       "album": {
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 244706,
       "name": "If I Knew - Instrumental",
       "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 233000,
       "name": "It's A String Thing",
       "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 129173,
       "name": "Orange Blossom Special - Instrumental",
       "url": "https://open.spotify.com/track/4mA1uVt3TKkv4n3J2lKHLs"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 233093,
       "name": "Pastures New",
       "url": "https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 301786,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 159533,
       "name": "Road To Columbus",
       "url": "https://open.spotify.com/track/3mwenypVIMuSBJ1ta1u6cF"
@@ -2249,7 +2267,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 274200,
       "name": "Robin And Marian",
       "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
@@ -2331,7 +2349,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 243973,
       "name": "See Rock City",
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
@@ -2349,7 +2367,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 199365,
       "name": "Shallows - Single Version",
       "url": "https://open.spotify.com/track/0XfyWCu8jmidSYiCGSp1aN"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 289173,
       "name": "Slumber My Darling",
       "url": "https://open.spotify.com/track/2lzG6cW1IVSpDY5cWe4bXG"
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 265960,
       "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
       "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
@@ -2833,7 +2851,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 203520,
       "name": "The Road to Malvern",
       "url": "https://open.spotify.com/track/6McZUgikkzu7x5es9FazPA"
@@ -2891,7 +2909,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 251026,
       "name": "Tree King Creek",
       "url": "https://open.spotify.com/track/2eX598AcoEbR1KxPqVAKTP"
@@ -2983,7 +3001,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 246357,
       "name": "Waiting for Erin",
       "url": "https://open.spotify.com/track/3KcLU9b2efCbtexlwWPoJI"
@@ -3005,7 +3023,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 318200,
       "name": "Waiting on Vassar",
       "url": "https://open.spotify.com/track/2OgHEQQm0BMaA7pNzv7utB"

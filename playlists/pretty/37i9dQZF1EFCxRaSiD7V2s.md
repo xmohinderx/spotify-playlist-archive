@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388 likes - 220 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 220 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 57 | [Living Room](https://open.spotify.com/track/1bybP9hRFNSewsw6lDc1J6) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:39 |
 | 58 | [Baby Let's Pretend](https://open.spotify.com/track/1BmaIHgkvLvZWv1kPmH0mb) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:31 |
 | 59 | [Merry Go Round](https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Merry Go Round](https://open.spotify.com/album/2JDg4HHyjXlRBiXbLDh3dh) | 2:28 |
-| 60 | [No More Words](https://open.spotify.com/track/4VPOGo8kpUPxOfrfJwJQfm) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 6:29 |
-| 61 | [Temporary Goodbye](https://open.spotify.com/track/4xHsUjhBlg9qB7k5GUfHGm) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:29 |
+| 60 | [Temporary Goodbye](https://open.spotify.com/track/4xHsUjhBlg9qB7k5GUfHGm) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:29 |
+| 61 | [No More Words](https://open.spotify.com/track/4VPOGo8kpUPxOfrfJwJQfm) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 6:29 |
 | 62 | [Woodcut](https://open.spotify.com/track/2FVXoTWjF6yHlo73ekTgox) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 4:18 |
 | 63 | [Good Way](https://open.spotify.com/track/5H3xMfHwjjBoc6fkFkFBfO) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:39 |
-| 64 | [Prophecy Girl](https://open.spotify.com/track/51B16CRlR4CA2DKcDcT84X) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 3:06 |
-| 65 | [Cinnamon \(feat\. Genevieve Stokes\)](https://open.spotify.com/track/6aQXVBCsGYRSpUp9cRkz3f) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 2:54 |
+| 64 | [Cinnamon \(feat\. Genevieve Stokes\)](https://open.spotify.com/track/6aQXVBCsGYRSpUp9cRkz3f) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 2:54 |
+| 65 | [Prophecy Girl](https://open.spotify.com/track/51B16CRlR4CA2DKcDcT84X) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 3:06 |
 | 66 | [Over the Bow](https://open.spotify.com/track/1BIvM6fKRrfkoD5IsnYIfE) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Slack Tide](https://open.spotify.com/album/11MZQCQnyElUdoeuFTFbKA) | 4:40 |
 | 67 | [Skinny Dipping](https://open.spotify.com/track/3YrDgKnTujERLMSqCIX0wD) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 1:54 |
 | 68 | [Gravitron](https://open.spotify.com/track/6tHxTbhBFK3SkiqNQiExQu) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:36 |
@@ -187,8 +187,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 177 | [What in the Actual](https://open.spotify.com/track/6S8qXhoneWaJuasyX5IQoG) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:45 |
 | 178 | [Intervention](https://open.spotify.com/track/3GIUw3RUKbE2A8MRfSIix5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:47 |
 | 179 | [Red Light](https://open.spotify.com/track/07jUow1BuO6Iv7iPh5Rw55) | [Dan Wilson](https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M) | [Red Light](https://open.spotify.com/album/7l4gOyQINg8zoHWhlbVSOy) | 4:45 |
-| 180 | [Overture / Hello and Welcome](https://open.spotify.com/track/280quzw6my4DdN0AhFdyjv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:54 |
-| 181 | [Memory Palace](https://open.spotify.com/track/4GrNDsg8P5HTifFme7q6nI) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Rooms I Used to Call My Own](https://open.spotify.com/album/2LeDzfWieHtdO61gQhBYIj) | 3:05 |
+| 180 | [Memory Palace](https://open.spotify.com/track/4GrNDsg8P5HTifFme7q6nI) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Rooms I Used to Call My Own](https://open.spotify.com/album/2LeDzfWieHtdO61gQhBYIj) | 3:05 |
+| 181 | [Overture / Hello and Welcome](https://open.spotify.com/track/280quzw6my4DdN0AhFdyjv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:54 |
 | 182 | [Accidental Parental](https://open.spotify.com/track/7FJIGjZHUzY9FQHkInWqEB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:43 |
 | 183 | [As You Were](https://open.spotify.com/track/2tZU6gIgbJB1Ko4jEetbrj) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:05 |
 | 184 | [Blood Ties](https://open.spotify.com/track/02PFbfEtvQxLYFYpXh0bLv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:25 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 219 | [Wow Wow Wow](https://open.spotify.com/track/1LexMbAap7y77uKFMtRr53) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:22 |
 | 220 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc2MjIxNTAsMDAwMDAwMDA2NzdmNzNmZDZlNzUyNDdiZWQ2MTVmYzNlNDM2NmJjMA==`
+Snapshot ID: `Mjc2MjM1ODksMDAwMDAwMDA0ZWFiYzE0MjA0OGNiYjc0NGE1NDU0MmM0MWRmNGI4Mg==`

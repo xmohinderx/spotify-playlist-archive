@@ -1352,6 +1352,24 @@
     },
     {
       "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 219462,
       "name": "I Know (feat. AGA)",
       "url": "https://open.spotify.com/track/35bTq9CeIvJQTKrPuSoDv8"
@@ -4471,7 +4489,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 195424,
       "name": "\u4e00\u4eba\u4e4b\u5883 in C major",
       "url": "https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7"
@@ -4763,7 +4781,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 145911,
       "name": "\u4f60\u628a\u6211\u7684",
       "url": "https://open.spotify.com/track/6bJ4x48rEaF6brX20Ho3pY"
@@ -5171,6 +5189,24 @@
       "duration_ms": 138672,
       "name": "\u53ea\u6536\u4e00\u534a",
       "url": "https://open.spotify.com/track/4rtBWaUKppPfnOjH1sehyt"
+    },
+    {
+      "album": {
+        "name": "\u547c\u5438\u4e4b\u9593",
+        "url": "https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR"
+      },
+      "artists": [
+        {
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253994,
+      "name": "\u547c\u5438\u4e4b\u9593",
+      "url": "https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi"
     },
     {
       "album": {
@@ -5951,6 +5987,24 @@
       "duration_ms": 327804,
       "name": "\u6642\u9593\u7684\u521d\u8877 (\u96fb\u5f71\u300a\u4e00\u79d2\u62f3\u738b\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/014D4QX0zLjN25inbVf8SL"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244046,
+      "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+      "url": "https://open.spotify.com/track/6kbc35XZMhs9y9SEpAJKLJ"
     },
     {
       "album": {

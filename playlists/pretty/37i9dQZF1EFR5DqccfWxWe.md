@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141 likes - 150 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 142 likes - 150 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 45 | [Deeper](https://open.spotify.com/track/0PKnrl6CgIqNmupxNSj6qt) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Passion Like Fire](https://open.spotify.com/album/3XgBuJztzOQIdaT41cnC0Y) | 3:56 |
 | 46 | [El Camino De Los Sueños](https://open.spotify.com/track/1h4YSydyis2oSdQrBzQ4V3) | [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [De Noche](https://open.spotify.com/album/1D1wdYcrxkQuEpa4rPVoak) | 4:18 |
 | 47 | [Mumbai](https://open.spotify.com/track/2zPKBDhyjuGDaMxQY7JWIB) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 3:57 |
-| 48 | [La Marea](https://open.spotify.com/track/2oczZVvVk61DUKaKpzYFtQ) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [La Marea](https://open.spotify.com/album/6S8v7XTmfWjBuTzEgbxkj7) | 3:21 |
-| 49 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 |
+| 48 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 |
+| 49 | [La Marea](https://open.spotify.com/track/2oczZVvVk61DUKaKpzYFtQ) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [La Marea](https://open.spotify.com/album/6S8v7XTmfWjBuTzEgbxkj7) | 3:21 |
 | 50 | [Mucho Más Allá](https://open.spotify.com/track/3SRQ22azUM4vox3Japg2DZ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:15 |
 | 51 | [Cantaré](https://open.spotify.com/track/5DGWUY2D6VQ8aeQpp1VYMP) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 3:22 |
 | 52 | [Bandida](https://open.spotify.com/track/4GengTJ0IhkOctS5g3NOvN) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:05 |
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 65 | [Bailar Contigo](https://open.spotify.com/track/1VeJWYnGSbHVhQyhSVq4ge) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:28 |
 | 66 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:26 |
 | 67 | [Moon](https://open.spotify.com/track/1LnlDFJmxi3i7b5SQVC5n1) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 3:28 |
-| 68 | [Es Natural](https://open.spotify.com/track/6oh2qSjZeP7TPWp2Ehh5MM) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:55 |
-| 69 | [Las Cuentas](https://open.spotify.com/track/5R0QMYI3PJzXsDaSOyWtJO) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:06 |
+| 68 | [Las Cuentas](https://open.spotify.com/track/5R0QMYI3PJzXsDaSOyWtJO) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:06 |
+| 69 | [Es Natural](https://open.spotify.com/track/6oh2qSjZeP7TPWp2Ehh5MM) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:55 |
 | 70 | [Creo En América](https://open.spotify.com/track/4V239llAQgxynAqOUfuueJ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Distinto \- Edición Especial](https://open.spotify.com/album/63LMsZgYQTiIXszpxA9Q0S) | 2:53 |
-| 71 | [En Las Manos De Dios](https://open.spotify.com/track/0oOnIriN6B7BoQXgAR5n1c) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose \(Expanded Edition\)](https://open.spotify.com/album/3Ca2ChPMHogU1scVKSEprg) | 4:13 |
-| 72 | [Tanto Tanto](https://open.spotify.com/track/6crP0sQtEHyFFKHP2MsqJm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:08 |
-| 73 | [Demons](https://open.spotify.com/track/5YgbT8s9w7yRVabXJj6vv2) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:39 |
-| 74 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 |
-| 75 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 71 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 72 | [En Las Manos De Dios](https://open.spotify.com/track/0oOnIriN6B7BoQXgAR5n1c) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose \(Expanded Edition\)](https://open.spotify.com/album/3Ca2ChPMHogU1scVKSEprg) | 4:13 |
+| 73 | [Tanto Tanto](https://open.spotify.com/track/6crP0sQtEHyFFKHP2MsqJm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:08 |
+| 74 | [Demons](https://open.spotify.com/track/5YgbT8s9w7yRVabXJj6vv2) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:39 |
+| 75 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 |
 | 76 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 |
 | 77 | [Besos en la Frente](https://open.spotify.com/track/6vZUBvdWC0o9t21mt0q5vZ) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:52 |
 | 78 | [Encontrei](https://open.spotify.com/track/0IsDPloVKxEerfg2agbXdE) | [Marina Elali](https://open.spotify.com/artist/77Wl6L20WG41VO6pqpHrkL) | [Novelas](https://open.spotify.com/album/1W9H44bGFEzck4PlrmKq9q) | 4:13 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 149 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 150 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc2MjIxNDQsMDAwMDAwMDAzZjRhMjVlOTMwYTA5N2RjY2M0ZGYyNGY0N2JiYzI1MA==`
+Snapshot ID: `Mjc2MjM1ODQsMDAwMDAwMDBlOTRhMmNmNGY2ZWQ4NjAzMzRlYzVkZTUzN2ExYWY1OA==`

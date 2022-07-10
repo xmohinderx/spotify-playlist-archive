@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 186200,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/7AEEEVNZCENxzU4J2V6Ah9"
@@ -2783,7 +2783,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 224257,
       "name": "Fuel to the Soul",
       "url": "https://open.spotify.com/track/4GYbEoWXcdQIlyGVXdtIT6"
@@ -3074,6 +3074,32 @@
     },
     {
       "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4"
+      },
+      "artists": [
+        {
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252185,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc"
+    },
+    {
+      "album": {
         "name": "Happiest Man",
         "url": "https://open.spotify.com/album/37gx1ywaHPsA5UB0N1For7"
       },
@@ -3197,7 +3223,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 205201,
       "name": "Heat of the Moon",
       "url": "https://open.spotify.com/track/7GmSvY6pk87MO2GaMnXLLN"
@@ -3487,6 +3513,24 @@
       "duration_ms": 143040,
       "name": "Horsepower For The Streets",
       "url": "https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp"
+    },
+    {
+      "album": {
+        "name": "Art (2022 Remastered Deluxe)",
+        "url": "https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "How Can I Move On",
+      "url": "https://open.spotify.com/track/3p5dognDA6nIyHsBBU1qJq"
     },
     {
       "album": {
@@ -4135,7 +4179,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 173905,
       "name": "Jean Leon",
       "url": "https://open.spotify.com/track/4UvTu4SIHtRQl173OZbFRj"
@@ -4265,7 +4309,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 169971,
       "name": "Kiss Or Go Crazy",
       "url": "https://open.spotify.com/track/1fSuXOsllO02JXjcSsBw8A"
@@ -4399,7 +4443,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 209120,
       "name": "Lay Down",
       "url": "https://open.spotify.com/track/3kbY4SqxaeCKE9ulx71AS1"
@@ -7431,7 +7475,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 196235,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2"
@@ -9085,7 +9129,7 @@
       ],
       "date_added": "2021-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 180000,
       "name": "When a Man",
       "url": "https://open.spotify.com/track/6RJoHdqTT5OpIjGl4j3B32"

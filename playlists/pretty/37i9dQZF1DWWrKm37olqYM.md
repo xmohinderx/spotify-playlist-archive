@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Rican Da Menace
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,243 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,252 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

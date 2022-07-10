@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,798 likes - 94 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,938 likes - 94 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

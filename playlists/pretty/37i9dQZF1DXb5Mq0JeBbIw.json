@@ -1,12 +1,12 @@
 {
   "description": "Soft acoustic songs that gives you a gentle start of the day.",
-  "num_followers": 142410,
+  "num_followers": 142436,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzMyOTU0OSwwMDAwMDAwMDEyMmE1OGIyZDUwY2Q1MWRjMTRiOTcwMjUxZGQwNjE3",
+  "snapshot_id": "MTY1NzQxNjcyNiwwMDAwMDAwMDhjYmUzYmU3NWUyNjBlYjlmZTc2ZDBhMjdmY2Y5ZTI3",
   "tracks": [
     {
       "added_at": "2022-06-24 10:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/0BIuEAg3nDClb11R1SNTyM"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7dWHp7cExG7vL34i5v5hxC"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "I'll Buy a House (Acoustic)",
         "url": "https://open.spotify.com/album/6BtWRmzFx7OInkYziWbPJF"
       },
@@ -75,18 +59,34 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Bigger Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/0BIuEAg3nDClb11R1SNTyM"
       },
       "artists": [
         {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
         }
       ],
-      "duration_ms": 288731,
-      "name": "Bigger Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
+      "duration_ms": 212400,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7dWHp7cExG7vL34i5v5hxC"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/3rcKlt3Yh8TKM4LpTHEbrt"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4lGBYppTdnYP5ELFc13KOb"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -107,18 +107,34 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/3rcKlt3Yh8TKM4LpTHEbrt"
+        "name": "Pink (Live & Acoustic)",
+        "url": "https://open.spotify.com/album/3w1v9vCaFEd8qFzLFTGkTi"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4lGBYppTdnYP5ELFc13KOb"
+      "duration_ms": 227296,
+      "name": "Pink - Live & Acoustic",
+      "url": "https://open.spotify.com/track/3aMQ9BrSy2CgCblyimQFtm"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Bigger Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "Bigger Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -155,86 +171,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Pink (Live & Acoustic)",
-        "url": "https://open.spotify.com/album/3w1v9vCaFEd8qFzLFTGkTi"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 227296,
-      "name": "Pink - Live & Acoustic",
-      "url": "https://open.spotify.com/track/3aMQ9BrSy2CgCblyimQFtm"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Here With Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
-      },
-      "artists": [
-        {
-          "name": "Daniel Robinson",
-          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
-        }
-      ],
-      "duration_ms": 164478,
-      "name": "Here With Me - Acoustic",
-      "url": "https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
-      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Front Porch",
-      "url": "https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Me Without You",
-        "url": "https://open.spotify.com/album/6QsjK5YQbJ6uT2GIHnCId5"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Me Without You - Acoustic",
-      "url": "https://open.spotify.com/track/7gvVZifvmtzK2UkW3Ez0Gm"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "The Book Of Love (Acoustic)",
         "url": "https://open.spotify.com/album/40UacYFsNld2mzqYBkAqPX"
       },
@@ -247,198 +183,6 @@
       "duration_ms": 216176,
       "name": "The Book Of Love (Acoustic)",
       "url": "https://open.spotify.com/track/0PDcChQq3nr8MQ9tQV7jib"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Mirou",
-        "url": "https://open.spotify.com/album/54CEHp4lRYwCajjs74k14p"
-      },
-      "artists": [
-        {
-          "name": "Sumie",
-          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Mirou",
-      "url": "https://open.spotify.com/track/6tYjeVpoBagQoXWIcEaAzP"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "I'm on Fire",
-        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 140130,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/6SrXwW6kvlEruIztRYRE1p"
-      },
-      "artists": [
-        {
-          "name": "Keith McInally",
-          "url": "https://open.spotify.com/artist/5ZJI40RFLH8wwxWMSKQhL1"
-        }
-      ],
-      "duration_ms": 224020,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/7CJdCs4Rus5mzNHPGRP5Uy"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Heaven Knows, Right?",
-        "url": "https://open.spotify.com/album/4aSYt36QkZJP5fGV1rYt9C"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 256743,
-      "name": "Heaven Knows, Right?",
-      "url": "https://open.spotify.com/track/6ZxieV41UDyJEJhmPLFyPC"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "I Will Wait",
-        "url": "https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 216841,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/6bxgeOzdunifvN7foTYXK2"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Wait & See",
-      "url": "https://open.spotify.com/track/1gMtAgRAmwzA4TVbynaN79"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Alone - Acoustic",
-      "url": "https://open.spotify.com/track/2tCtgel3uat9YPL5givf5C"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/377tGSk9SCvV34DAhTqb0P"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/33ry67NZycIR011igWIFD3"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Wonderwall",
-        "url": "https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG"
-      },
-      "artists": [
-        {
-          "name": "Ryan Innes",
-          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
-        }
-      ],
-      "duration_ms": 236094,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Hailey (Acoustic)",
-        "url": "https://open.spotify.com/album/6YNhHN53ycLCcq0GjAfvsW"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 208723,
-      "name": "Hailey - Acoustic",
-      "url": "https://open.spotify.com/track/4n3aDnLk9qH1YCyWlzd50i"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Steel On The Strings",
-        "url": "https://open.spotify.com/album/0fb127d041XDaJdTC4k0Q9"
-      },
-      "artists": [
-        {
-          "name": "Thomas Oliver",
-          "url": "https://open.spotify.com/artist/5ZwD9tfnJ04kM0qgPSMzgy"
-        }
-      ],
-      "duration_ms": 267110,
-      "name": "Steel On The Strings",
-      "url": "https://open.spotify.com/track/4k8eCm7C1jps62PfTLLo0V"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -459,8 +203,136 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "I'm Doing Everything I Can",
-        "url": "https://open.spotify.com/album/73ZKq5NUiOAYbCUgb4Qqrd"
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
+      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Me Without You",
+        "url": "https://open.spotify.com/album/6QsjK5YQbJ6uT2GIHnCId5"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Me Without You - Acoustic",
+      "url": "https://open.spotify.com/track/7gvVZifvmtzK2UkW3Ez0Gm"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Mirou",
+        "url": "https://open.spotify.com/album/54CEHp4lRYwCajjs74k14p"
+      },
+      "artists": [
+        {
+          "name": "Sumie",
+          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Mirou",
+      "url": "https://open.spotify.com/track/6tYjeVpoBagQoXWIcEaAzP"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Here With Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
+        }
+      ],
+      "duration_ms": 164478,
+      "name": "Here With Me - Acoustic",
+      "url": "https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Heaven Knows, Right?",
+        "url": "https://open.spotify.com/album/4aSYt36QkZJP5fGV1rYt9C"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 256743,
+      "name": "Heaven Knows, Right?",
+      "url": "https://open.spotify.com/track/6ZxieV41UDyJEJhmPLFyPC"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Alone - Acoustic",
+      "url": "https://open.spotify.com/track/2tCtgel3uat9YPL5givf5C"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "I Will Wait",
+        "url": "https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 216841,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "I'm on Fire",
+        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
       },
       "artists": [
         {
@@ -468,93 +340,73 @@
           "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 180467,
-      "name": "I'm Doing Everything I Can",
-      "url": "https://open.spotify.com/track/4dnXWvzIOioHBd9X12ffz3"
+      "duration_ms": 140130,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
     },
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Please Keep Loving Me (Acoustic)",
-        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
         }
       ],
-      "duration_ms": 197626,
-      "name": "Please Keep Loving Me - Acoustic",
-      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
+      "duration_ms": 231813,
+      "name": "Front Porch",
+      "url": "https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU"
     },
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Planets",
-        "url": "https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O"
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/6bxgeOzdunifvN7foTYXK2"
       },
       "artists": [
         {
-          "name": "Nicklas Sahl",
-          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
-        },
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
         }
       ],
-      "duration_ms": 195737,
-      "name": "Cut Me Loose (feat. SKAAR) - Acoustic",
-      "url": "https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh"
+      "duration_ms": 174267,
+      "name": "Wait & See",
+      "url": "https://open.spotify.com/track/1gMtAgRAmwzA4TVbynaN79"
     },
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Hold On To Happiness",
-        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/377tGSk9SCvV34DAhTqb0P"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 217306,
-      "name": "Hold On To Happiness",
-      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+      "duration_ms": 192573,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/33ry67NZycIR011igWIFD3"
     },
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "In Hindsight",
-        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/6SrXwW6kvlEruIztRYRE1p"
       },
       "artists": [
         {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+          "name": "Keith McInally",
+          "url": "https://open.spotify.com/artist/5ZJI40RFLH8wwxWMSKQhL1"
         }
       ],
-      "duration_ms": 138220,
-      "name": "I don't mind if you don't mind (draft)",
-      "url": "https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/21rJkp3ysXGOSL7320EFTL"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 196067,
-      "name": "Easy Tiger",
-      "url": "https://open.spotify.com/track/2IbzYGcve6P1QV94UFxtik"
+      "duration_ms": 224020,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/7CJdCs4Rus5mzNHPGRP5Uy"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -595,22 +447,82 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "honest (feat. moon tang)",
-        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/1k7LEZPI6qI1ZDYfXMgpDv"
       },
       "artists": [
         {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        },
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 177818,
-      "name": "honest (feat. moon tang)",
-      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
+      "duration_ms": 163588,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3OujlPpq73NTAsy1JFFIRN"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Hold On To Happiness",
+        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Hold On To Happiness",
+      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        }
+      ],
+      "duration_ms": 236094,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Please Keep Loving Me (Acoustic)",
+        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Please Keep Loving Me - Acoustic",
+      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/21rJkp3ysXGOSL7320EFTL"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 196067,
+      "name": "Easy Tiger",
+      "url": "https://open.spotify.com/track/2IbzYGcve6P1QV94UFxtik"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -631,66 +543,34 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Let It Be",
-        "url": "https://open.spotify.com/album/2TcbCzhl0ksRRjOZ1yVqFs"
+        "name": "In Hindsight",
+        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
         }
       ],
-      "duration_ms": 148900,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/3KJ93VZJvSvIdlMa4eyKdX"
+      "duration_ms": 138220,
+      "name": "I don't mind if you don't mind (draft)",
+      "url": "https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr"
     },
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+        "name": "Steel On The Strings",
+        "url": "https://open.spotify.com/album/0fb127d041XDaJdTC4k0Q9"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Thomas Oliver",
+          "url": "https://open.spotify.com/artist/5ZwD9tfnJ04kM0qgPSMzgy"
         }
       ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Can I Be Him (Acoustic Live Version)",
-        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Can I Be Him - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Better Than Today",
-        "url": "https://open.spotify.com/album/0GPUPlsmyjRLwBKlWNPW3T"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 230353,
-      "name": "Better Than Today",
-      "url": "https://open.spotify.com/track/6MLHg35rlksBc5OBcdZvJi"
+      "duration_ms": 267110,
+      "name": "Steel On The Strings",
+      "url": "https://open.spotify.com/track/4k8eCm7C1jps62PfTLLo0V"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -711,34 +591,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7"
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/2TcbCzhl0ksRRjOZ1yVqFs"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 252681,
-      "name": "Modern Loneliness - acoustic",
-      "url": "https://open.spotify.com/track/21OihIGdTCAL856FOjcs3j"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Like I'm Gonna Lose You",
-        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 232338,
-      "name": "Like I'm Gonna Lose You",
-      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
+      "duration_ms": 148900,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/3KJ93VZJvSvIdlMa4eyKdX"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -759,50 +623,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Sometimes It's Something, Sometimes It's Nothing at All",
-        "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
+        "name": "Better Than Today",
+        "url": "https://open.spotify.com/album/0GPUPlsmyjRLwBKlWNPW3T"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 118826,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "I Still Haven't Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/1k7LEZPI6qI1ZDYfXMgpDv"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 163588,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/3OujlPpq73NTAsy1JFFIRN"
+      "duration_ms": 230353,
+      "name": "Better Than Today",
+      "url": "https://open.spotify.com/track/6MLHg35rlksBc5OBcdZvJi"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -823,18 +655,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -855,6 +687,270 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
+        "name": "Hailey (Acoustic)",
+        "url": "https://open.spotify.com/album/6YNhHN53ycLCcq0GjAfvsW"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 208723,
+      "name": "Hailey - Acoustic",
+      "url": "https://open.spotify.com/track/4n3aDnLk9qH1YCyWlzd50i"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 186128,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Can I Be Him (Acoustic Live Version)",
+        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Can I Be Him - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/21OihIGdTCAL856FOjcs3j"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "I'm Doing Everything I Can",
+        "url": "https://open.spotify.com/album/73ZKq5NUiOAYbCUgb4Qqrd"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 180467,
+      "name": "I'm Doing Everything I Can",
+      "url": "https://open.spotify.com/track/4dnXWvzIOioHBd9X12ffz3"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Like I'm Gonna Lose You",
+        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 232338,
+      "name": "Like I'm Gonna Lose You",
+      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Got Me Good (Acoustic)",
+        "url": "https://open.spotify.com/album/3KvRxAfCJYTIwVg0AHKdDu"
+      },
+      "artists": [
+        {
+          "name": "Moana",
+          "url": "https://open.spotify.com/artist/1AW9mFcwWTfglCcPelVsrD"
+        }
+      ],
+      "duration_ms": 196576,
+      "name": "Got Me Good - Acoustic",
+      "url": "https://open.spotify.com/track/0Bo7B9SM1A8w9mfxYNmVuB"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Planets",
+        "url": "https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O"
+      },
+      "artists": [
+        {
+          "name": "Nicklas Sahl",
+          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
+        },
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 195737,
+      "name": "Cut Me Loose (feat. SKAAR) - Acoustic",
+      "url": "https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "honest (feat. moon tang)",
+        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        },
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "honest (feat. moon tang)",
+      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Sending Light (For Lucas)",
+        "url": "https://open.spotify.com/album/5AUid2DhC3kqOsq0lnLqo0"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "duration_ms": 194094,
+      "name": "Sending Light (For Lucas)",
+      "url": "https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Best Of You (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5e0vB4IDPvySuTFp2Dxjpr"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Best Of You - Acoustic Version",
+      "url": "https://open.spotify.com/track/73MHuCErSYZW2Q55lL08cA"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "I Still Belong to You",
+        "url": "https://open.spotify.com/album/653b0i9WleCKEdAjsCuOkm"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 213740,
+      "name": "I Still Belong to You",
+      "url": "https://open.spotify.com/track/54KQjLzWVSWwWaQeYMytMU"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Bones (Acoustic)",
+        "url": "https://open.spotify.com/album/1UVGUP1HTAMxa79o2n4QMz"
+      },
+      "artists": [
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 201501,
+      "name": "Bones - Acoustic",
+      "url": "https://open.spotify.com/track/2Z9LGFJvS856wfl1RW28up"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Intentions of Gold (Ann-Ki & Her Son, Pt. 1)",
+        "url": "https://open.spotify.com/album/4xxunx1DdCq6Oxb5nENc4l"
+      },
+      "artists": [
+        {
+          "name": "Hush Forever",
+          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
+        }
+      ],
+      "duration_ms": 311250,
+      "name": "Intentions of Gold - Ann-Ki & Her Son, Pt. 1",
+      "url": "https://open.spotify.com/track/4kYZQLzbwrKHhIkZ8EEy1f"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
         "name": "Sorry For Writing All The Songs About You (Acoustic)",
         "url": "https://open.spotify.com/album/4jnlpvJbPBkI5MVPpTkuf8"
       },
@@ -867,70 +963,6 @@
       "duration_ms": 192338,
       "name": "Us - Acoustic",
       "url": "https://open.spotify.com/track/6vkGJCsMQc4HVZ1H8Yh2PH"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "No Right To Love You (Acoustic)",
-        "url": "https://open.spotify.com/album/2lt7XcZlOjyu6tEtrKs24z"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229557,
-      "name": "No Right To Love You - Acoustic",
-      "url": "https://open.spotify.com/track/5UqivtkoiPTXrJu6GIt1mh"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "We Are the Love We Give (Acoustic)",
-        "url": "https://open.spotify.com/album/7AAVYzYm120TfoLDRD8ZxQ"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "We Are the Love We Give - Acoustic",
-      "url": "https://open.spotify.com/track/2dNhPqkFFecOTdHM5DDdld"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Spiral Thinking",
-        "url": "https://open.spotify.com/album/7Ep2hsaXMZfxshejJBzRr6"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 213069,
-      "name": "Spiral Thinking",
-      "url": "https://open.spotify.com/track/2X2Lm8Cvu1bwKJhI01vGfw"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -955,178 +987,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Got Me Good (Acoustic)",
-        "url": "https://open.spotify.com/album/3KvRxAfCJYTIwVg0AHKdDu"
+        "name": "Sometimes It's Something, Sometimes It's Nothing at All",
+        "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
       },
       "artists": [
         {
-          "name": "Moana",
-          "url": "https://open.spotify.com/artist/1AW9mFcwWTfglCcPelVsrD"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 196576,
-      "name": "Got Me Good - Acoustic",
-      "url": "https://open.spotify.com/track/0Bo7B9SM1A8w9mfxYNmVuB"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Intentions of Gold (Ann-Ki & Her Son, Pt. 1)",
-        "url": "https://open.spotify.com/album/4xxunx1DdCq6Oxb5nENc4l"
-      },
-      "artists": [
-        {
-          "name": "Hush Forever",
-          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
-        }
-      ],
-      "duration_ms": 311250,
-      "name": "Intentions of Gold - Ann-Ki & Her Son, Pt. 1",
-      "url": "https://open.spotify.com/track/4kYZQLzbwrKHhIkZ8EEy1f"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Should I Stay or Should I Go",
-        "url": "https://open.spotify.com/album/1OzMgxZdiLlysjDNDQvb9P"
-      },
-      "artists": [
-        {
-          "name": "Ofelia",
-          "url": "https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "Should I Stay or Should I Go",
-      "url": "https://open.spotify.com/track/0ljFJVvG0WbqscLQANJ5no"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Best Of You (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5e0vB4IDPvySuTFp2Dxjpr"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Best Of You - Acoustic Version",
-      "url": "https://open.spotify.com/track/73MHuCErSYZW2Q55lL08cA"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Naked (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Naked - Acoustic Version",
-      "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Nervous (Acoustic)",
-        "url": "https://open.spotify.com/album/3xX56NcykV7DkotB9MH6kE"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Nervous - Acoustic",
-      "url": "https://open.spotify.com/track/21z2lehJWympNxaiUniWGf"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "I Still Belong to You",
-        "url": "https://open.spotify.com/album/653b0i9WleCKEdAjsCuOkm"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 213740,
-      "name": "I Still Belong to You",
-      "url": "https://open.spotify.com/track/54KQjLzWVSWwWaQeYMytMU"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Without Me (Acoustic)",
-        "url": "https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn"
-      },
-      "artists": [
-        {
-          "name": "Ben Woodward",
-          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
-        }
-      ],
-      "duration_ms": 193318,
-      "name": "Without Me (Acoustic)",
-      "url": "https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Never Never",
-        "url": "https://open.spotify.com/album/1W30Ge6YsaCqadPABeUdtr"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Never Never",
-      "url": "https://open.spotify.com/track/0oAtzDxq3bjQZz9QSWR0R1"
+      "duration_ms": 118826,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1147,34 +1019,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv"
+        "name": "Saint",
+        "url": "https://open.spotify.com/album/3wuwMu2GRL3DndY9upxRsK"
       },
       "artists": [
         {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
         }
       ],
-      "duration_ms": 186101,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Light Years",
-        "url": "https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "Light Years",
-      "url": "https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q"
+      "duration_ms": 212443,
+      "name": "Saint",
+      "url": "https://open.spotify.com/track/2yhCKiofDY2KHA8rMrQ5La"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1203,102 +1059,138 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Let Me Down Slow (Acoustic)",
-        "url": "https://open.spotify.com/album/46eyWTzXNAdBkt1JzUIOVz"
+        "name": "We Are the Love We Give (Acoustic)",
+        "url": "https://open.spotify.com/album/7AAVYzYm120TfoLDRD8ZxQ"
       },
       "artists": [
         {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 190373,
-      "name": "Let Me Down Slow - Acoustic",
-      "url": "https://open.spotify.com/track/67EbNY9iDrlwQ7h33jVb5E"
+      "duration_ms": 186845,
+      "name": "We Are the Love We Give - Acoustic",
+      "url": "https://open.spotify.com/track/2dNhPqkFFecOTdHM5DDdld"
     },
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "When The Party's Over",
-        "url": "https://open.spotify.com/album/7zsulBsG4hw2ZuQEFkztQF"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7iiIyG1WxODTBVH6h9Utzp"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 154732,
-      "name": "When The Party's Over",
-      "url": "https://open.spotify.com/track/6JZJ6ovrC4UNQMvkzKZmgZ"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Bones (Acoustic)",
-        "url": "https://open.spotify.com/album/1UVGUP1HTAMxa79o2n4QMz"
-      },
-      "artists": [
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 201501,
-      "name": "Bones - Acoustic",
-      "url": "https://open.spotify.com/track/2Z9LGFJvS856wfl1RW28up"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/38DMNbYurZ29qUd6KgqwnN"
-      },
-      "artists": [
-        {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
-        }
-      ],
-      "duration_ms": 243871,
-      "name": "Self Control - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/0ybk3fS0DTcHb7qXsuNW5D"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Saint",
-        "url": "https://open.spotify.com/album/3wuwMu2GRL3DndY9upxRsK"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 212443,
-      "name": "Saint",
-      "url": "https://open.spotify.com/track/2yhCKiofDY2KHA8rMrQ5La"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Dear You (Act III)",
-        "url": "https://open.spotify.com/album/56u1zlkOSdeqzWkkTgp75j"
-      },
-      "artists": [
-        {
-          "name": "shye.",
-          "url": "https://open.spotify.com/artist/5SBFpt9Gz53LckT9guA7AS"
+          "name": "quiet thrill",
+          "url": "https://open.spotify.com/artist/12RDiJVAG0NYcJPRVi6bRG"
         },
         {
-          "name": "Nikita Afonso",
-          "url": "https://open.spotify.com/artist/2C8TRvpR3834esUbCEHkqe"
+          "name": "Joel Ansett",
+          "url": "https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl"
+        },
+        {
+          "name": "Dan DeCristofaro",
+          "url": "https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Dear You (Act III)",
-      "url": "https://open.spotify.com/track/1Li7RAL8KcNUgLL2DdCuaN"
+      "duration_ms": 173240,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/7b4xy7sXBPAK9HjjvBDmuM"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "No Right To Love You (Acoustic)",
+        "url": "https://open.spotify.com/album/2lt7XcZlOjyu6tEtrKs24z"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 229557,
+      "name": "No Right To Love You - Acoustic",
+      "url": "https://open.spotify.com/track/5UqivtkoiPTXrJu6GIt1mh"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Without Me (Acoustic)",
+        "url": "https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn"
+      },
+      "artists": [
+        {
+          "name": "Ben Woodward",
+          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+        }
+      ],
+      "duration_ms": 193318,
+      "name": "Without Me (Acoustic)",
+      "url": "https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Should I Stay or Should I Go",
+        "url": "https://open.spotify.com/album/1OzMgxZdiLlysjDNDQvb9P"
+      },
+      "artists": [
+        {
+          "name": "Ofelia",
+          "url": "https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "Should I Stay or Should I Go",
+      "url": "https://open.spotify.com/track/0ljFJVvG0WbqscLQANJ5no"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1319,18 +1211,98 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Survivors (Acoustic)",
-        "url": "https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW"
+        "name": "Spiral Thinking",
+        "url": "https://open.spotify.com/album/7Ep2hsaXMZfxshejJBzRr6"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
         }
       ],
-      "duration_ms": 269015,
-      "name": "Survivors - Acoustic",
-      "url": "https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc"
+      "duration_ms": 213069,
+      "name": "Spiral Thinking",
+      "url": "https://open.spotify.com/track/2X2Lm8Cvu1bwKJhI01vGfw"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Naked (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Naked - Acoustic Version",
+      "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Light Years",
+        "url": "https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "Light Years",
+      "url": "https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "When The Party's Over",
+        "url": "https://open.spotify.com/album/7zsulBsG4hw2ZuQEFkztQF"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 154732,
+      "name": "When The Party's Over",
+      "url": "https://open.spotify.com/track/6JZJ6ovrC4UNQMvkzKZmgZ"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 186101,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Nervous (Acoustic)",
+        "url": "https://open.spotify.com/album/3xX56NcykV7DkotB9MH6kE"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Nervous - Acoustic",
+      "url": "https://open.spotify.com/track/21z2lehJWympNxaiUniWGf"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1351,54 +1323,66 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Leave a Light On",
-        "url": "https://open.spotify.com/album/6hJPKPpICYiBeaGt7iaTbU"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/38DMNbYurZ29qUd6KgqwnN"
       },
       "artists": [
         {
-          "name": "Conor Byrne",
-          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
-        },
-        {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
         }
       ],
-      "duration_ms": 213722,
-      "name": "Leave a Light On",
-      "url": "https://open.spotify.com/track/6TdQeYKGJSaM2rL4No2EBP"
+      "duration_ms": 243871,
+      "name": "Self Control - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/0ybk3fS0DTcHb7qXsuNW5D"
     },
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
+        "name": "Never Never",
+        "url": "https://open.spotify.com/album/1W30Ge6YsaCqadPABeUdtr"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
         }
       ],
-      "duration_ms": 186128,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
+      "duration_ms": 207514,
+      "name": "Never Never",
+      "url": "https://open.spotify.com/track/0oAtzDxq3bjQZz9QSWR0R1"
     },
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Too Good At Goodbyes (Acoustic)",
-        "url": "https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p"
+        "name": "Heartshaker (Acoustic)",
+        "url": "https://open.spotify.com/album/0ft0n5RqLYzLVYFr5AdW22"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
         }
       ],
-      "duration_ms": 220095,
-      "name": "Too Good At Goodbyes - Acoustic",
-      "url": "https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV"
+      "duration_ms": 176939,
+      "name": "Heartshaker - Acoustic",
+      "url": "https://open.spotify.com/track/6oWeMwp3olTA8zD3ExlNbH"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Let Me Down Slow (Acoustic)",
+        "url": "https://open.spotify.com/album/46eyWTzXNAdBkt1JzUIOVz"
+      },
+      "artists": [
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Let Me Down Slow - Acoustic",
+      "url": "https://open.spotify.com/track/67EbNY9iDrlwQ7h33jVb5E"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1419,6 +1403,38 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
+        "name": "Survivors (Acoustic)",
+        "url": "https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Survivors - Acoustic",
+      "url": "https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3Ft6PiCb5djpCjIvERVTER"
+      },
+      "artists": [
+        {
+          "name": "brodyn",
+          "url": "https://open.spotify.com/artist/5Atytc4w4HE9vlkPs4tBXj"
+        }
+      ],
+      "duration_ms": 218651,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3UyrU0pqcd2bOSe4nSOiAG"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
         "name": "Crazier",
         "url": "https://open.spotify.com/album/6VA0F9GSo9tASAQtUQkLmZ"
       },
@@ -1431,174 +1447,6 @@
       "duration_ms": 233351,
       "name": "Crazier",
       "url": "https://open.spotify.com/track/1KUZUkyEGDvWxT4l1D9gGF"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "I'll Follow You into the Dark",
-        "url": "https://open.spotify.com/album/4hwxB6K2T3u8Oh53qjgwgQ"
-      },
-      "artists": [
-        {
-          "name": "King Leer",
-          "url": "https://open.spotify.com/artist/73OeR5E9pYJ0zKU597trah"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "I'll Follow You into the Dark",
-      "url": "https://open.spotify.com/track/6dVkbvvcOpQ9tuGo7uSl10"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Darling Arithmetic",
-        "url": "https://open.spotify.com/album/1rwks602GtqNzZGjc62rIQ"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Everything I Am Is Yours",
-      "url": "https://open.spotify.com/track/6Kh2MA4vSjszWYiiWS1zZj"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Bizarre Love Triangle (Acoustic)",
-        "url": "https://open.spotify.com/album/0M4kiQhCTXuIYK37D5LpMa"
-      },
-      "artists": [
-        {
-          "name": "The Macarons Project",
-          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
-        }
-      ],
-      "duration_ms": 131644,
-      "name": "Bizarre Love Triangle - Acoustic",
-      "url": "https://open.spotify.com/track/59EFjPF4IB7BJAi1FGzdtY"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Cursed",
-        "url": "https://open.spotify.com/album/4UAYE2CieGFmNrEzJCQlri"
-      },
-      "artists": [
-        {
-          "name": "Chachi",
-          "url": "https://open.spotify.com/artist/7lb78m877P9dEjjyDjrv8S"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Cursed II",
-      "url": "https://open.spotify.com/track/38DSyUHQmyVKeUWnbn6dkG"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Little Victories",
-        "url": "https://open.spotify.com/album/69JkJ1P45sQIbeDLuv9oXe"
-      },
-      "artists": [
-        {
-          "name": "S. T. Manville",
-          "url": "https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Little Victories",
-      "url": "https://open.spotify.com/track/5SbYDzbgqFwoskAcM73WLl"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "#Covers",
-        "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "It Aint Me",
-      "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "find me wrong",
-        "url": "https://open.spotify.com/album/59wwhZPCWFcCJo7S7EUx4F"
-      },
-      "artists": [
-        {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/6OrtrrYAjzBNILMrtty09i"
-        }
-      ],
-      "duration_ms": 196660,
-      "name": "find me wrong",
-      "url": "https://open.spotify.com/track/51Ah5WLGqFapuowJaxKMQg"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
-        "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
-      },
-      "artists": [
-        {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        },
-        {
-          "name": "Keelan Donovan",
-          "url": "https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
-      "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1623,34 +1471,190 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Spring Slips Away",
-        "url": "https://open.spotify.com/album/3HiY4arOVguS9pBGoj0YFy"
+        "name": "Leave a Light On",
+        "url": "https://open.spotify.com/album/6hJPKPpICYiBeaGt7iaTbU"
       },
       "artists": [
         {
-          "name": "Chlara",
-          "url": "https://open.spotify.com/artist/39rKElzF7q6K4O2flycSEc"
+          "name": "Conor Byrne",
+          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
+        },
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Spring Slips Away",
-      "url": "https://open.spotify.com/track/6fbCGYKjzc4dGH2xU0CLsd"
+      "duration_ms": 213722,
+      "name": "Leave a Light On",
+      "url": "https://open.spotify.com/track/6TdQeYKGJSaM2rL4No2EBP"
     },
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Clean Eyes (Acoustic)",
-        "url": "https://open.spotify.com/album/2oyQ4TENwCMvwEWONbiuIS"
+        "name": "Dig Deep (Acoustic Version)",
+        "url": "https://open.spotify.com/album/7ay5jbQDxnf7Q8DsRue96u"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Lxandra",
+          "url": "https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW"
         }
       ],
-      "duration_ms": 222810,
-      "name": "Clean Eyes - Acoustic",
-      "url": "https://open.spotify.com/track/0SVYWwKsM3ln1k3xXNaeXE"
+      "duration_ms": 215538,
+      "name": "Dig Deep - Acoustic Version",
+      "url": "https://open.spotify.com/track/1L6rZhpvEMnNLPnUYEU6q4"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "I'll Follow You into the Dark",
+        "url": "https://open.spotify.com/album/4hwxB6K2T3u8Oh53qjgwgQ"
+      },
+      "artists": [
+        {
+          "name": "King Leer",
+          "url": "https://open.spotify.com/artist/73OeR5E9pYJ0zKU597trah"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "I'll Follow You into the Dark",
+      "url": "https://open.spotify.com/track/6dVkbvvcOpQ9tuGo7uSl10"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Too Good At Goodbyes (Acoustic)",
+        "url": "https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 220095,
+      "name": "Too Good At Goodbyes - Acoustic",
+      "url": "https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Paradise (with Olivia Holt) [Acoustic]",
+        "url": "https://open.spotify.com/album/4zV1v3OwcvWb13KSvq4Kbi"
+      },
+      "artists": [
+        {
+          "name": "Brandon Beal",
+          "url": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
+        },
+        {
+          "name": "Olivia Holt",
+          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
+        }
+      ],
+      "duration_ms": 229267,
+      "name": "Paradise (with Olivia Holt) - Acoustic",
+      "url": "https://open.spotify.com/track/1azIfG185DTR8QqLdYHcfY"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
+        "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        },
+        {
+          "name": "Keelan Donovan",
+          "url": "https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
+      "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "#Acoustic",
+        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "#Covers",
+        "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "It Aint Me",
+      "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Bizarre Love Triangle (Acoustic)",
+        "url": "https://open.spotify.com/album/0M4kiQhCTXuIYK37D5LpMa"
+      },
+      "artists": [
+        {
+          "name": "The Macarons Project",
+          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
+        }
+      ],
+      "duration_ms": 131644,
+      "name": "Bizarre Love Triangle - Acoustic",
+      "url": "https://open.spotify.com/track/59EFjPF4IB7BJAi1FGzdtY"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Bad Liar \u2013 Stripped",
+        "url": "https://open.spotify.com/album/58401eNNELkIVx3xiwzJFy"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 253227,
+      "name": "Bad Liar \u2013 Stripped",
+      "url": "https://open.spotify.com/track/6hFi0gXP8KItwMqfBgf44b"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Darling Arithmetic",
+        "url": "https://open.spotify.com/album/1rwks602GtqNzZGjc62rIQ"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Everything I Am Is Yours",
+      "url": "https://open.spotify.com/track/6Kh2MA4vSjszWYiiWS1zZj"
     }
   ],
   "unique_name": "Soft Morning",

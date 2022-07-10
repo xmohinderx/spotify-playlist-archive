@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 91786,
       "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
       "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
@@ -529,10 +529,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 296906,
       "name": "NIGHT PARADE",
       "url": "https://open.spotify.com/track/0z5V1ReQNK5Lkoz2ZADDHB"
+    },
+    {
+      "album": {
+        "name": "NOT ENOUGH",
+        "url": "https://open.spotify.com/album/59IL3p6UfwUsQ176vxluPm"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202483,
+      "name": "NOT ENOUGH",
+      "url": "https://open.spotify.com/track/2lZDS2nIZR1UCdbxJkeWEx"
     },
     {
       "album": {
@@ -565,7 +587,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 225506,
       "name": "PLANETARIUM",
       "url": "https://open.spotify.com/track/5euS1eMWE65z8q2UpL0mgB"
@@ -781,7 +803,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "\u30d6\u30e9\u30c3\u30af\u30de\u30fc\u30b1\u30c3\u30c8",
       "url": "https://open.spotify.com/track/4HeMwFVoInSamuTYudlgGm"
@@ -901,6 +923,24 @@
       "duration_ms": 242000,
       "name": "\u5149\u8ffd\u3044\u304b\u3051\u3066",
       "url": "https://open.spotify.com/track/6StfWg4HEWGZfuMcfmHoyg"
+    },
+    {
+      "album": {
+        "name": "#10",
+        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309626,
+      "name": "\u5149\u8ffd\u3044\u304b\u3051\u3066 -Crystal Lake mix -",
+      "url": "https://open.spotify.com/track/00GdiEOGDpetK1siwDMVq0"
     },
     {
       "album": {

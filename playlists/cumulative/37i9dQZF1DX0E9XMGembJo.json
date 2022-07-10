@@ -2147,7 +2147,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 218106,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
@@ -2421,7 +2421,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 108984,
       "name": "For A Minute",
       "url": "https://open.spotify.com/track/2zAKwUD7TVTt8qTxa9bnQJ"
@@ -3011,7 +3011,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 188546,
       "name": "hello!",
       "url": "https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0"
@@ -3803,7 +3803,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 183933,
       "name": "landline",
       "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
@@ -5749,7 +5749,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 297933,
       "name": "Seventeen Going Under",
       "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
@@ -5775,6 +5775,24 @@
       "duration_ms": 148846,
       "name": "Sheesh!",
       "url": "https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y"
+    },
+    {
+      "album": {
+        "name": "sheluvme",
+        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150840,
+      "name": "sheluvme",
+      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
     },
     {
       "album": {
@@ -6243,7 +6261,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 242847,
       "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
       "url": "https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy"
@@ -6605,7 +6623,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 201666,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/2nx6I5R9C8nfBofUdlXoRA"

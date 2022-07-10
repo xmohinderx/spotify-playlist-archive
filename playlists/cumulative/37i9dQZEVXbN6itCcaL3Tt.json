@@ -5521,7 +5521,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 209655,
       "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
       "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
@@ -12404,6 +12404,36 @@
     },
     {
       "album": {
+        "name": "Ratchet Business Class",
+        "url": "https://open.spotify.com/album/52Sk1JefeYNI9pGSg3mmB6"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Swizzy",
+          "url": "https://open.spotify.com/artist/0suD5l3wWM0EdjkhrBfUxk"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178857,
+      "name": "Ratchet Business Class",
+      "url": "https://open.spotify.com/track/5fukCaaofklUVZBfqgAvox"
+    },
+    {
+      "album": {
         "name": "Ratuj",
         "url": "https://open.spotify.com/album/4dcgq4s53OxOlHwZw40HU3"
       },
@@ -12798,6 +12828,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/5ysmXHXHU9MpRb0r6hDKhA"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153213,
+      "name": "Saint Tropez",
+      "url": "https://open.spotify.com/track/4WjLgoOVuJA85zbnyUb2xA"
+    },
+    {
+      "album": {
         "name": "Kylie Christmas",
         "url": "https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W"
       },
@@ -12947,7 +12995,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 114187,
       "name": "Self Made",
       "url": "https://open.spotify.com/track/4yRqjKmYzKutOFsQRaDAkV"
@@ -14667,7 +14715,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 199093,
       "name": "W cenie",
       "url": "https://open.spotify.com/track/276m46Zcnv9wAN0HL1alTu"
@@ -15857,7 +15905,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 204573,
       "name": "Zgon przy porodzie",
       "url": "https://open.spotify.com/track/3vg8Z3aNXo8zUFxPmJJGIv"

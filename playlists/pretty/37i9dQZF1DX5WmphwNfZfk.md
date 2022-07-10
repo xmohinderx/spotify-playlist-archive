@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,301 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,310 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 62 | [1 Four 7](https://open.spotify.com/track/5Y40ig9ntRQ5qrwe5CTuuu) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [1 Four 7](https://open.spotify.com/album/02JRm3BWSlGLKlg6b3qTZ3) | 3:17 |
 | 63 | [Garden](https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Garden](https://open.spotify.com/album/2AZjeSF9UHQkPhyjMXP9aa) | 2:28 |
 | 64 | [Run Away](https://open.spotify.com/track/4m5gEGYWyTVp6q3Is9T8ii) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [After the Head Rush](https://open.spotify.com/album/6m4YIZAfGgI1hCV1f2kFce) | 3:00 |
-| 65 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
+| 65 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
 | 66 | [LIFE LINE](https://open.spotify.com/track/7EN2BcGqnFQnWe4tPOGAJN) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd) | [LIFE LINE](https://open.spotify.com/album/0047wQlw6eUsYhOoNmWQa6) | 3:17 |
 | 67 | [Overtime](https://open.spotify.com/track/4qo3W1KJVmlUezl5dq0h9p) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Overtime](https://open.spotify.com/album/6Gvz56e2ZzNTVWK8vZkzni) | 2:44 |
 | 68 | [No Peace](https://open.spotify.com/track/33IoJtrePi4t2YmIfiCC23) | [The Burning Hell](https://open.spotify.com/artist/09kohMK0MSHgpmKWiQeQ5E) | [Garbage Island](https://open.spotify.com/album/3SCuN9tAktf8O2smtmPfPE) | 4:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 98 | [Balance](https://open.spotify.com/track/1oZ9JIyo9BHREjiJRH5Xky) | [Basha](https://open.spotify.com/artist/6ilDfUck7U8YWKaWRvhdHS) | [Logan Ave](https://open.spotify.com/album/4yNNbktP7OvACFpoqqk0Xz) | 3:08 |
 | 99 | [Run Off](https://open.spotify.com/track/4hacOsbThfn68iXRzWxFet) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Izuku 2.0](https://open.spotify.com/album/0ebFweEBDJCo4LySV87ARC) | 2:40 |
 
-Snapshot ID: `MTY1NzMyOTE3MSwwMDAwMDAwMGVjNmMxZWRhOThiODNiYzJkOWU2YjM4ZWY5NWRhZjRk`
+Snapshot ID: `MTY1NzQxNjMxOSwwMDAwMDAwMGVjNmMxZWRhOThiODNiYzJkOWU2YjM4ZWY5NWRhZjRk`

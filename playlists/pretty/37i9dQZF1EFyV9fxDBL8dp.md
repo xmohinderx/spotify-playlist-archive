@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 64 | [Confronto](https://open.spotify.com/track/5Y0N6iSEr3AgU06xamAZl8) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Fauzi Beydoun](https://open.spotify.com/artist/1vHuQfr8LwXBa17DPHRWaF) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:49 |
 | 65 | [Congo\-Bongo](https://open.spotify.com/track/3Sm6jw1y0TULKqECkoDq2w) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:05 |
 | 66 | [Mãe África](https://open.spotify.com/track/3mVzDuDlDN7J9qogCsC7f5) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 7:12 |
-| 67 | [Mundaú Pede Socorro](https://open.spotify.com/track/6l1B31s12kxhkEuova6scN) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:54 |
-| 68 | [Ruma de Ladrão](https://open.spotify.com/track/6gKmOoledFUFqVS7AfwFCe) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 2:43 |
+| 67 | [Ruma de Ladrão](https://open.spotify.com/track/6gKmOoledFUFqVS7AfwFCe) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 2:43 |
+| 68 | [Mundaú Pede Socorro](https://open.spotify.com/track/6l1B31s12kxhkEuova6scN) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:54 |
 | 69 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
 | 70 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 
-Snapshot ID: `Mjc2MjIxNDUsMDAwMDAwMDBhZDQ4MzZiOTBhNjAzMTQ0MjMzZjM2OWM5ZTI2ZjhkMQ==`
+Snapshot ID: `Mjc2MjM1ODUsMDAwMDAwMDAzM2YwOTFmZWQxYzliMWY4MjFlOGZhZTA1ZjQ5ZDc1Zg==`

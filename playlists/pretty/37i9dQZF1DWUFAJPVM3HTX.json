@@ -1,13 +1,45 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Yoshi T",
-  "num_followers": 156904,
+  "num_followers": 156989,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODAwMCwwMDAwMDBkZDAwMDAwMTgxYjdlYTYyYzkwMDAwMDE4MWI2Yjk0ZmUx",
+  "snapshot_id": "MTY1NzMzNjc3OSwwMDAwMDBkZTAwMDAwMTgxZTBmODUyNjcwMDAwMDE4MWI2Yjk0ZmUx",
   "tracks": [
+    {
+      "added_at": "2022-07-09 03:19:39",
+      "album": {
+        "name": "Creaming Soda",
+        "url": "https://open.spotify.com/album/3joGA0kAek2nPslFHD1WR1"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Creaming Soda",
+      "url": "https://open.spotify.com/track/4VoKlLD8ElWwd9kYN3erGD"
+    },
+    {
+      "added_at": "2022-07-09 03:19:39",
+      "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
@@ -25,6 +57,54 @@
       "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
     },
     {
+      "added_at": "2022-07-09 03:19:39",
+      "album": {
+        "name": "Worship Me Or Die",
+        "url": "https://open.spotify.com/album/1zQL9IeJdfkKiFiwr3nhg0"
+      },
+      "artists": [
+        {
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Worship Me Or Die",
+      "url": "https://open.spotify.com/track/71LDxxIDMvlS9Dm0Rt5ix5"
+    },
+    {
+      "added_at": "2022-07-09 03:19:39",
+      "album": {
+        "name": "A Rose Told Me About Love.",
+        "url": "https://open.spotify.com/album/3qXOObo6cYTq1nuwhiqe9x"
+      },
+      "artists": [
+        {
+          "name": "Mamadou.",
+          "url": "https://open.spotify.com/artist/2qlAceDoD1gfvRyVa7p5bK"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "A Rose Told Me About Love.",
+      "url": "https://open.spotify.com/track/4I8ObfCV7yU7noLhxdAOWx"
+    },
+    {
+      "added_at": "2022-07-09 03:19:39",
+      "album": {
+        "name": "DO YOU WRONG",
+        "url": "https://open.spotify.com/album/0MzCsXxcI40IFEKMjZJJpZ"
+      },
+      "artists": [
+        {
+          "name": "Ziya",
+          "url": "https://open.spotify.com/artist/3UH2qYLsb4HspgX5ad8XPy"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "DO YOU WRONG",
+      "url": "https://open.spotify.com/track/63pA0dr3ekrw5BgpbW5Cx0"
+    },
+    {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Tell Me",
@@ -39,6 +119,22 @@
       "duration_ms": 256308,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6HS2FQ2iVT12umo2L0mlgH"
+    },
+    {
+      "added_at": "2022-07-09 03:19:39",
+      "album": {
+        "name": "Riding",
+        "url": "https://open.spotify.com/album/502rAa5hIKBSQBEzzgu658"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "duration_ms": 172227,
+      "name": "Riding",
+      "url": "https://open.spotify.com/track/7FxcpthjDIN32mT0WEfkz5"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -71,6 +167,22 @@
       "duration_ms": 186685,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3"
+    },
+    {
+      "added_at": "2022-07-09 03:19:39",
+      "album": {
+        "name": "Old Flame",
+        "url": "https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw"
+      },
+      "artists": [
+        {
+          "name": "Rhita Nattah",
+          "url": "https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr"
+        }
+      ],
+      "duration_ms": 124428,
+      "name": "Old Flame",
+      "url": "https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1105,7 +1217,7 @@
       "artists": [
         {
           "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
         }
       ],
       "duration_ms": 198273,
@@ -1575,126 +1687,6 @@
       "duration_ms": 193852,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/5ByHwV4nCNLOr5FY2KXxgH"
-    },
-    {
-      "added_at": "2022-05-04 06:23:46",
-      "album": {
-        "name": "Shea Butter Baby",
-        "url": "https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt"
-      },
-      "artists": [
-        {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
-        }
-      ],
-      "duration_ms": 153551,
-      "name": "Shea Butter Baby",
-      "url": "https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL"
-    },
-    {
-      "added_at": "2022-05-20 06:39:13",
-      "album": {
-        "name": "Perfect Nature",
-        "url": "https://open.spotify.com/album/249AgQEmB6ZfgHHNL3AB1q"
-      },
-      "artists": [
-        {
-          "name": "SAUCITO",
-          "url": "https://open.spotify.com/artist/5haQqpRZ1ZqP8ZVcXDGzlK"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "Perfect Nature",
-      "url": "https://open.spotify.com/track/3FAWQ9ajByND1Ygb1LWqe4"
-    },
-    {
-      "added_at": "2022-04-27 16:00:00",
-      "album": {
-        "name": "alright",
-        "url": "https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 188396,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T"
-    },
-    {
-      "added_at": "2022-05-04 06:23:46",
-      "album": {
-        "name": "Keep It Private",
-        "url": "https://open.spotify.com/album/6K0Wi3DXpyOlWVfIMa2QEp"
-      },
-      "artists": [
-        {
-          "name": "2Tone",
-          "url": "https://open.spotify.com/artist/1XzKKmjRMw6ue1SL5pLzAp"
-        }
-      ],
-      "duration_ms": 146039,
-      "name": "Keep It Private",
-      "url": "https://open.spotify.com/track/14ActYOMcY8WBaTKFsaVWa"
-    },
-    {
-      "added_at": "2022-04-06 16:00:05",
-      "album": {
-        "name": "Get High, Get By",
-        "url": "https://open.spotify.com/album/54pyZZdBYpNGdHprxAqTOD"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 273011,
-      "name": "Get High, Get By",
-      "url": "https://open.spotify.com/track/1VjBUsTjfdSipjpihEPOhg"
-    },
-    {
-      "added_at": "2022-05-04 06:23:46",
-      "album": {
-        "name": "Galerie",
-        "url": "https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ"
-      },
-      "artists": [
-        {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
-        },
-        {
-          "name": "India Carney",
-          "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
-        }
-      ],
-      "duration_ms": 184728,
-      "name": "Untouchable",
-      "url": "https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m"
-    },
-    {
-      "added_at": "2022-04-27 16:00:00",
-      "album": {
-        "name": "Lounging",
-        "url": "https://open.spotify.com/album/5oTw1JRmvVryp1MSB72rKs"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 187767,
-      "name": "Lounging",
-      "url": "https://open.spotify.com/track/1YTEtjzUTEJbzhXgJ72T78"
     }
   ],
   "unique_name": "Fresh Finds R&B",

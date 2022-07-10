@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-164 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
+165 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Million Reasons](https://open.spotify.com/track/50PWlIBU7PlGGwzgN8TiFJ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/4JiY4JUvXdEA7UFIbiAyor) | 3:25 | 2021-10-26 |  |
 | [Mine](https://open.spotify.com/track/4xhDwG2mnp3YqgfV0JKYcD) | [Ivey Amour](https://open.spotify.com/artist/0i7kCKpYy3ewWFJ6yGh8aW) | [Mine](https://open.spotify.com/album/70MjaaGDN0HkvtxK1aHHGn) | 2:51 | 2022-03-28 |  |
 | [More Than Words](https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [The Best Of Extreme \(An Accidental Collication Of Atoms\)](https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI) | 5:35 | 2021-10-26 |  |
+| [Motion](https://open.spotify.com/track/2LDjdKQvwbubC9TTa43uVk) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7) | [Amari' SZN 1](https://open.spotify.com/album/1QKeTORudfi2r18VXdYM7P) | 3:02 | 2022-07-08 |  |
 | [My Forever](https://open.spotify.com/track/227G6rcO65LFq39h8yKBqS) | [Ajuki](https://open.spotify.com/artist/04Og4FnZhjF2p1kCwkUnIe) | [My Forever](https://open.spotify.com/album/3ZaJWZD6PWBwamO1m2Gfkb) | 3:37 | 2022-03-28 |  |
 | [Need Luv](https://open.spotify.com/track/3Jiwk6k8VfEyVreUDIJYre) | [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [Need Luv](https://open.spotify.com/album/4s2lpY7AB9lsOFCPPdEbWz) | 2:36 | 2022-05-11 |  |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/13LpVxAm6NZ3uaCYgPwi2M) | 3:23 | 2021-10-26 |  |
@@ -133,7 +134,7 @@
 | [Sam](https://open.spotify.com/track/7986f2lG0GDtADQ8IgMFuz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH) | 5:15 | 2021-10-26 |  |
 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 | 2021-10-26 |  |
 | [Say Less](https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Say Less](https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS) | 4:03 | 2022-03-08 |  |
-| [Send Nudes](https://open.spotify.com/track/4U5Hgk4yDeLklzJb8Ypy8Y) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Send Nudes](https://open.spotify.com/album/2m2vD5swUKoiHQvNVNcjoV) | 3:24 | 2022-06-17 |  |
+| [Send Nudes](https://open.spotify.com/track/4U5Hgk4yDeLklzJb8Ypy8Y) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Send Nudes](https://open.spotify.com/album/2m2vD5swUKoiHQvNVNcjoV) | 3:24 | 2022-06-17 | 2022-07-10 |
 | [Sex + Hennessy](https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor) | [Eimizah](https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM) | [Sex + Hennessy](https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK) | 2:35 | 2022-04-27 |  |
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2021-10-26 |  |
 | [She Will Be Loved](https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:17 | 2021-10-26 |  |

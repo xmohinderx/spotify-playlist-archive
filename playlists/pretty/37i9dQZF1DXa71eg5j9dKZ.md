@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover:  Låpsley
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,803 likes - 123 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,917 likes - 123 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Simi
 
-538 songs - 1 day 5 hr 38 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+539 songs - 1 day 5 hr 42 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [365](https://open.spotify.com/track/7j01rdHvXniCA8f1x0NTUG) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [365](https://open.spotify.com/album/66ATAuPBpHYXytPUXzCCwi) | 3:19 | 2021-12-11 | 2022-01-06 |
 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 | 2022-06-01 | 2022-07-07 |
 | [a dream i dream](https://open.spotify.com/track/4tt7M0Km4zaslJMDWrTUsJ) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [sake sake sake](https://open.spotify.com/album/4Tn27R8ceNNdsqSNbDHwiN) | 3:20 | 2022-06-01 | 2022-07-07 |
+| [A.O.U](https://open.spotify.com/track/6oyagq8m6zMSeIGmCXkceD) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [A.O.U](https://open.spotify.com/album/671xpFoPFWV4zfs8C5yuuv) | 4:18 | 2022-07-09 |  |
 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 | 2022-04-06 | 2022-05-05 |
 | [Adiós Mi Negrito](https://open.spotify.com/track/6MKjQsM77ioTbQ5idx3sLp) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Adiós Mi Negrito](https://open.spotify.com/album/58OYosg2fG9Ykdz68filu1) | 4:25 | 2022-06-01 | 2022-07-07 |
 | [African Fever](https://open.spotify.com/track/4AvCMabzghnW8gXLyrGUYu) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [River](https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD) | 3:27 | 2021-12-11 | 2022-01-06 |
@@ -423,7 +424,7 @@
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2021-12-11 | 2022-01-06 |
 | [Sweet Dream, Sweet Little Thing](https://open.spotify.com/track/27OuHuNDnWpmqmgd9ZKEZq) | [Meda Kawu](https://open.spotify.com/artist/2Fn8lD5ZQhmXzQOAmTEppr), [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Sweet Dream, Sweet Little Thing](https://open.spotify.com/album/1eOZAIj5bU0i3JtgW7U7Pt) | 4:21 | 2021-12-11 | 2022-01-06 |
 | [Swimming](https://open.spotify.com/track/0jf7Z8WEKagWMyIIqioial) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Swimming](https://open.spotify.com/album/4cmTN5VnKA4aMvsMv0IzTQ) | 3:23 | 2022-04-06 | 2022-05-05 |
-| [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-07-06 |  |
+| [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-07-06 | 2022-07-10 |
 | [Take A Chance](https://open.spotify.com/track/46d67vPhehiB0xlvfa7zn7) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Take A Chance](https://open.spotify.com/album/1RQS929sWdYKcsNMTuKjiQ) | 2:59 | 2022-02-02 | 2022-03-09 |
 | [Take It or Leave It](https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Take It or Leave It](https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe) | 2:28 | 2022-05-04 | 2022-06-01 |
 | [Tanging Dahilan](https://open.spotify.com/track/23sa0BogsmnZXkXT7bHDYK) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Daylight](https://open.spotify.com/album/0X7VQJn05fiB3BKGaxeI3M) | 3:08 | 2021-12-11 | 2022-01-06 |

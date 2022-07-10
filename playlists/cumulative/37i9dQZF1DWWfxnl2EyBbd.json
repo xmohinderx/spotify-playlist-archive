@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 434732,
       "name": "A Lost World",
       "url": "https://open.spotify.com/track/1cPIPseaUvsihFVIYh3Z4c"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 396320,
       "name": "Based On Gustav",
       "url": "https://open.spotify.com/track/03CuJU4nQBANkiHpRrazC9"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 446733,
       "name": "Central Park West",
       "url": "https://open.spotify.com/track/4HMx9XCTgwwbQELIfWN9b5"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/4Z1gZdDIGrnV7OvHdSyzJM"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 191518,
       "name": "Diane",
       "url": "https://open.spotify.com/track/77BESrsUN386SrjEA7siB5"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 284400,
       "name": "Elegant Flower",
       "url": "https://open.spotify.com/track/1SY8ygEeUjQd0A3Tupx4EI"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 342000,
       "name": "Glade",
       "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 533800,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/2W6JLNB4tOiP6dZBQE1ANE"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 289133,
       "name": "I've Grown Accustomed to Her Face",
       "url": "https://open.spotify.com/track/6nyRGbArV18zO6WozOBON2"
@@ -1453,7 +1453,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 338786,
       "name": "In the Days of Our Love",
       "url": "https://open.spotify.com/track/3UXWECtFUy4QyQzXeuxAK0"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 283800,
       "name": "In the Middle of a Kiss",
       "url": "https://open.spotify.com/track/507DfGB7ecKtGSi3IQArgx"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 316293,
       "name": "It's So Peaceful In The Country",
       "url": "https://open.spotify.com/track/6ntbjPkc9JckO4IlB0LeSg"
@@ -1861,10 +1861,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 324680,
       "name": "Life is a Beautiful Thing",
       "url": "https://open.spotify.com/track/5E2naT4wvGkEhYj9US26GQ"
+    },
+    {
+      "album": {
+        "name": "Links",
+        "url": "https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232559,
+      "name": "Links",
+      "url": "https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh"
     },
     {
       "album": {
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 371165,
       "name": "Liten Jazzballong Revisited",
       "url": "https://open.spotify.com/track/3Q8mDlDBHw5lPNvMcXgBoe"
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 473721,
       "name": "L\u00e5ngsamt",
       "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 344206,
       "name": "On a Misty Night",
       "url": "https://open.spotify.com/track/5ehmctMo8g8GbqQXlxP43W"
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 241320,
       "name": "Pray",
       "url": "https://open.spotify.com/track/6niHY50qraFaCfJ8azjMQ4"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 462824,
       "name": "Red Milk",
       "url": "https://open.spotify.com/track/4OpN1XOEwzNEGNALxwKcYR"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 199466,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/5f5I2cWttKiqXPCwu1bLTr"
@@ -2677,7 +2695,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 267773,
       "name": "Romance",
       "url": "https://open.spotify.com/track/0ods0YLLAp9ZaCzOEm6Srr"
@@ -2819,7 +2837,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 404306,
       "name": "She Was Too Good to Me",
       "url": "https://open.spotify.com/track/6kxKb8daYjHGP7BSLPP4Yw"
@@ -3139,7 +3157,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 394274,
       "name": "Sun Glimpse",
       "url": "https://open.spotify.com/track/0JQR5UNK8XrfdTeWt2Dfv5"
@@ -3285,7 +3303,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 443263,
       "name": "The End and The Beginning",
       "url": "https://open.spotify.com/track/2Sgr7Jsy8zwh2m23HpPOWE"
@@ -3321,7 +3339,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 300306,
       "name": "The Great Belonging",
       "url": "https://open.spotify.com/track/1s14p2tsaJ0Il91PIhBKd4"
@@ -3401,7 +3419,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 361566,
       "name": "The Lovely Image",
       "url": "https://open.spotify.com/track/4KXGGJ6NCYx8nQPE7RiD8y"
@@ -3427,7 +3445,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 325046,
       "name": "The Odd Couple",
       "url": "https://open.spotify.com/track/1eQjKq6FlYU7kJGm3J4FbR"
@@ -3547,7 +3565,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 439133,
       "name": "Transparence",
       "url": "https://open.spotify.com/track/5ab8HwacbJDpquK57MRhH2"
@@ -3637,7 +3655,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 288050,
       "name": "Waltz for Lee",
       "url": "https://open.spotify.com/track/5BYn6GKE2Yd0O0vUQNqBkp"
@@ -3819,7 +3837,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 535480,
       "name": "Yesterdays - Live",
       "url": "https://open.spotify.com/track/19x3hs8m84gCkXnxhSJLQu"
@@ -3841,7 +3859,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 420693,
       "name": "You Don't Know What Love Is - Live - Instrumental",
       "url": "https://open.spotify.com/track/3Yb8sBtpeVTLSWWRzZvcOh"
@@ -3877,7 +3895,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 222466,
       "name": "Your Nocturne",
       "url": "https://open.spotify.com/track/4z7bckrpC1Sw5AmqvF6I7f"

@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Cover: Alec Benjamin
 
-412 songs - 20 hr 59 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+413 songs - 21 hr 2 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 |  |
 | [Flowers Need Rain](https://open.spotify.com/track/079mntueS2KWjxVqOHjG70) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Flowers Need Rain](https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN) | 2:48 | 2022-04-08 |  |
 | [Fly Away](https://open.spotify.com/track/4fpUju0mKOQZcDKvrbREAu) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 2:58 | 2021-12-31 | 2022-02-05 |
+| [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-09 |  |
 | [FRAUD](https://open.spotify.com/track/584KjOfo1Now26v5m3bTRm) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FRAUD](https://open.spotify.com/album/78jOuuH40B0rTPFGheCaDQ) | 3:00 | 2022-06-24 | 2022-07-09 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-12-31 | 2022-05-07 |
 | [Gimme Spirit](https://open.spotify.com/track/3yugLVA1ewfpNtxzDCkD6Q) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Spirit](https://open.spotify.com/album/2cHEgxUAhTE0WcSC4QFvEm) | 3:22 | 2022-04-08 | 2022-06-04 |
@@ -228,7 +229,7 @@
 | [Love At First Song](https://open.spotify.com/track/5dsczwZSemU34OYuik2knd) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [Love At First Song](https://open.spotify.com/album/5lpdNa3vhbSdcgN2OrA4NC) | 3:23 | 2022-03-25 | 2022-06-04 |
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 | 2022-01-14 | 2022-02-26 |
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:25 | 2022-02-25 | 2022-06-25 |
-| [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-04-29 |  |
+| [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-04-29 | 2022-07-10 |
 | [Love Myself](https://open.spotify.com/track/4o4MwnE4OK3JNG4lCYFnwm) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Love Myself](https://open.spotify.com/album/3dWKxlG74AkudyddirBxuF) | 3:07 | 2021-12-31 | 2022-01-15 |
 | [Love Turns Lonely](https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Love Turns Lonely](https://open.spotify.com/album/73gPLcREEBeTaX81GEup7e) | 2:47 | 2021-12-31 |  |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 | 2022-02-18 |  |
@@ -321,7 +322,7 @@
 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 | 2022-05-27 | 2022-06-11 |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-12-31 | 2022-06-25 |
 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 | 2022-01-14 | 2022-02-05 |
-| [Shut Up And Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up And Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 | 2022-07-08 |  |
+| [Shut Up and Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up and Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 | 2022-07-08 |  |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-25 | 2022-04-29 |
 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 | 2022-04-22 | 2022-05-14 |
 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 | 2022-06-10 | 2022-07-02 |

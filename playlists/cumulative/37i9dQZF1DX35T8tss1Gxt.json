@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 184506,
       "name": "Be Ok",
       "url": "https://open.spotify.com/track/6BZhnWBf7nFsw7gC5Pam1c"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 191122,
       "name": "Belongs To You - R&B Remix",
       "url": "https://open.spotify.com/track/66pxUHORGhVzEjvzIAijcq"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
@@ -2173,7 +2173,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 160000,
       "name": "good morning",
       "url": "https://open.spotify.com/track/3v0Acj3Y5dbUgw2X3GoBqd"
@@ -3015,7 +3015,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 155898,
       "name": "It's Giving",
       "url": "https://open.spotify.com/track/2cOqrRTZKyhhPJgPeg3edl"
@@ -3335,7 +3335,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 203023,
       "name": "Let You In",
       "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
@@ -3445,7 +3445,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 200096,
       "name": "Love is King (Remix)",
       "url": "https://open.spotify.com/track/6Xu7TTrOHTGE7OIqxbYdbS"
@@ -3697,7 +3697,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 206746,
       "name": "Mercy Shores",
       "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
@@ -4081,7 +4081,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "No One's Gonna Save Me",
       "url": "https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV"
@@ -4125,6 +4125,24 @@
       "duration_ms": 212615,
       "name": "NO WORRIES",
       "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
+    },
+    {
+      "album": {
+        "name": "NONCHALANT",
+        "url": "https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh"
+      },
+      "artists": [
+        {
+          "name": "Marv",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179382,
+      "name": "NONCHALANT",
+      "url": "https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG"
     },
     {
       "album": {
@@ -4709,7 +4727,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 166943,
       "name": "Raise Me up",
       "url": "https://open.spotify.com/track/3lhwLzBFmGqt0gQ4iIExNy"
@@ -4947,7 +4965,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 172632,
       "name": "Save Saved",
       "url": "https://open.spotify.com/track/5ypKDUEAzx2SvAytFaW7lu"
@@ -5461,10 +5479,28 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 179840,
       "name": "Tell That (feat. Mr. Talkbox)",
       "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
+    },
+    {
+      "album": {
+        "name": "Temporary Tears",
+        "url": "https://open.spotify.com/album/71Fcsf90J0tawEweNNUHia"
+      },
+      "artists": [
+        {
+          "name": "JoJo Martin",
+          "url": "https://open.spotify.com/artist/7gyT3c9PhZWtGgJ43adxKU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158276,
+      "name": "Temporary Tears",
+      "url": "https://open.spotify.com/track/5eP7Mvhy9bQYA22ywsU3eP"
     },
     {
       "album": {

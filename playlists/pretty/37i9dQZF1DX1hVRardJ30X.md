@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Pitbull
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,300 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,397 likes - 58 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 7 | [Suelta](https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Suelta](https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe) | 4:03 |
 | 8 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 | 9 | [Epapale](https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Epapale](https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u) | 2:00 |
-| 10 | [I See \(feat\. Jon Z\)](https://open.spotify.com/track/2wQO2LWHXvATy1JB7CpEBu) | [Richard Orlinski](https://open.spotify.com/artist/70c6SFCKALLqSARCPu0Afz), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [I See \(feat\. Jon Z\)](https://open.spotify.com/album/2HUCT4rfFh5w6HC4oallJ9) | 3:10 |
+| 10 | [I See \(feat\. Jon Z, Preston Harris & Dawty Music\)](https://open.spotify.com/track/2wQO2LWHXvATy1JB7CpEBu) | [Richard Orlinski](https://open.spotify.com/artist/70c6SFCKALLqSARCPu0Afz), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Dawty Music](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [I See \(feat\. Jon Z, Preston Harris & Dawty Music\)](https://open.spotify.com/album/2HUCT4rfFh5w6HC4oallJ9) | 3:10 |
 | 11 | [Casa De Chapa](https://open.spotify.com/track/6cF2qsUsTxrgR3g9YGHT2u) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Casa De Chapa](https://open.spotify.com/album/5G6Lqh2CLIshQDsZ8RN9kD) | 2:33 |
 | 12 | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT) | 3:16 |
 | 13 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 54 | [Hippie](https://open.spotify.com/track/1liDNF7grg13aEoAuq3bnT) | [Entrelineas](https://open.spotify.com/artist/3mMfJELOQF6XvIreA3sZir) | [Hippie](https://open.spotify.com/album/68Aqq7MSTuH05h5LcneScE) | 3:14 |
 | 55 | [Sin Pena](https://open.spotify.com/track/1zyM7lBUZgGwZ4umEB5Pzk) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Sin Pena](https://open.spotify.com/album/4E8m3FYdXGNVB4mofcKtji) | 3:03 |
 | 56 | [Llama En Llamas](https://open.spotify.com/track/5TUCMa9p7VSyDHOHp5BGWs) | [Kike El Alto Mando](https://open.spotify.com/artist/3HUdS4bG5lFGwPIQYlcchH), [Dollar Baby](https://open.spotify.com/artist/4GYf5z6XmcUYvuX61r2SlI) | [Llama En Llamas](https://open.spotify.com/album/2LiLAFP7DDlBBMtAuTBEeq) | 3:28 |
-| 57 | [6:AM](https://open.spotify.com/track/1yIj0nXMEDbLonfKwDFyEf) | [Fifty](https://open.spotify.com/artist/5AOS8bDPCHJnwWM6oohkYh) | [6:AM](https://open.spotify.com/album/18sqw5OLnSWm7Q03N3uvNF) | 2:27 |
+| 57 | [6:AM](https://open.spotify.com/track/1yIj0nXMEDbLonfKwDFyEf) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [6:AM](https://open.spotify.com/album/18sqw5OLnSWm7Q03N3uvNF) | 2:27 |
 | 58 | [Suficiente](https://open.spotify.com/track/1JqWFmeeBkgMmQu7TSUdG9) | [Jairo Mexon](https://open.spotify.com/artist/5sC9XN49TtQRL46lBRY1nn) | [Suficiente](https://open.spotify.com/album/4oST2ADQuVSij3nDqbbLa6) | 3:46 |
 
 Snapshot ID: `MTY1NzI5MTgwOSwwMDAwMDNiMDAwMDAwMTgxZGU0YTI0NWYwMDAwMDE4MWQ1MjM5MjM1`

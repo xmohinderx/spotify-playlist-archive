@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites, such as Waffles & Mochi.
+> Groove to music from your Netflix Kids favorites, such as The Sea Beast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,433 likes - 68 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,438 likes - 68 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Sea Beast](https://open.spotify.com/track/3YhPDdcQ5kz0MW4vTKyX8t) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [The Sea Beast \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx) | 2:23 |
+| 1 | [Captain Crow \- from "The Sea Beast" Soundtrack](https://open.spotify.com/track/7FPa79wpVMBvcw0p7SoB2V) | [Nell Benjamin](https://open.spotify.com/artist/2zd6EMs4amJNjdq41ArIrJ), [Laurence O'Keefe](https://open.spotify.com/artist/1DX6JkrHY2mbpWK4gntYhO) | [The Sea Beast \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx) | 1:37 |
 | 2 | [Action Pack Theme Song \(Music from the Netflix Series\)](https://open.spotify.com/track/0cVykhtY5lkIZh4RlOQVdV) | [The Action Pack Cast](https://open.spotify.com/artist/23QdqFguNBL4XCEIoMDkoq) | [Action Pack Theme Song \(Music from the Netflix Series\)](https://open.spotify.com/album/5024rnCJURx7qI6ZSzEwsi) | 2:01 |
 | 3 | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/track/2iy3ZDCVJW2JAF2Jg69uk7) | [Kody Kavitha](https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj) | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/album/45JlKj9dEb3cHiEnrlk6XQ) | 2:36 |
 | 4 | [My Own Drum](https://open.spotify.com/track/2FmFDDnB387rOvN3hpcXuc) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:22 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 67 | [Make It Work](https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP) | [Forest Whitaker](https://open.spotify.com/artist/0zvQLEOu8PpOaR8wVS9FRz), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:50 |
 | 68 | [Grand Finale](https://open.spotify.com/track/5Zzxc9vyybINvDQyIaDyNG) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Bryan Tyree Henry](https://open.spotify.com/artist/185kmdtr8oX8JDTIfqGv5K), [Aneesa Folds](https://open.spotify.com/artist/4eoV9V5qRu2Vp5ZWDjnm3P), [Bri Holland](https://open.spotify.com/artist/4ux7y9idLvpo7EfwtStqol), [Alana de Fonseca](https://open.spotify.com/artist/5Na8w4vE4aj9v8vAD9w77l), [Jada Banks\-Mace](https://open.spotify.com/artist/2evQSV23UqGnRWAbWDQs5R), [Zoe Saldana](https://open.spotify.com/artist/0DrYjsSE82Jm1zbmoUUosu), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:06 |
 
-Snapshot ID: `MTY1NzMwMjI2MywwMDAwMDAwZTAwMDAwMTgxZGVlOWE4YjAwMDAwMDE4MWRlZTk0ZjA1`
+Snapshot ID: `MTY1NzMzNzQ5OSwwMDAwMDAwZjAwMDAwMTgxZTEwMzRlMjQwMDAwMDE4MWRlZTk0ZjA1`

@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 80757,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy"
@@ -1304,6 +1304,46 @@
     },
     {
       "album": {
+        "name": "I Don't Think About You (Remixes)",
+        "url": "https://open.spotify.com/album/2JMPMwjqeshIByUOk4KXDW"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Luca Schreiner",
+          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224366,
+      "name": "I Don't Think About You - Luca Schreiner Remix",
+      "url": "https://open.spotify.com/track/3XqZHsDUiOBGcbxSFJXemf"
+    },
+    {
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR"
       },
@@ -1373,7 +1413,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 162586,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw"
@@ -1565,6 +1605,24 @@
       "duration_ms": 218000,
       "name": "Julia",
       "url": "https://open.spotify.com/track/4Gyo5XZzmZawnpqaRRedKu"
+    },
+    {
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/7CtqQG5hfqtjh1MjF81WV5"
+      },
+      "artists": [
+        {
+          "name": "Without Shelter",
+          "url": "https://open.spotify.com/artist/2HNpxWTZNdh0lkSTquhmie"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212826,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/2ZJapIiYXKyTiy82xCn6x0"
     },
     {
       "album": {
@@ -2665,10 +2723,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 251424,
       "name": "So Will I",
       "url": "https://open.spotify.com/track/35hWvR2SVsWwzScQ4UEMED"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin Hastings",
+          "url": "https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
     },
     {
       "album": {
@@ -2963,6 +3043,24 @@
       "duration_ms": 208689,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/0nHeGy8AW70D8sGlXQ40D6"
+    },
+    {
+      "album": {
+        "name": "The Book of Samuel",
+        "url": "https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI"
+      },
+      "artists": [
+        {
+          "name": "Samuel Harrell",
+          "url": "https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322672,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d"
     },
     {
       "album": {

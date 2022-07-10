@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "All The Sudden",
       "url": "https://open.spotify.com/track/3cj95iGe8aqvL5iGl6o0R9"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 192417,
       "name": "ANOTHER ONE",
       "url": "https://open.spotify.com/track/2cO5gELmKXUeqliwT7DDvu"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 163876,
       "name": "Big League (with Yo Gotti, Moneybagg Yo, CMG The Label feat. Mozzy & Lil Poppa)",
       "url": "https://open.spotify.com/track/4i32zrLpygBg5Ruy1uqN78"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 185924,
       "name": "Black Iverson",
       "url": "https://open.spotify.com/track/3sLNEWdnPH6ML05Z8wFZhM"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 169245,
       "name": "Brazy (with YNW Melly)",
       "url": "https://open.spotify.com/track/6wVUIV8RvwlLJlK1DsgVdj"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 173269,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/3mVq27OXpmeldieDWOP2gx"
@@ -2170,6 +2170,24 @@
     },
     {
       "album": {
+        "name": "Don't Deserve Me",
+        "url": "https://open.spotify.com/album/6JkvvMIZZqXmZHlLhbN4Hf"
+      },
+      "artists": [
+        {
+          "name": "Anoyd",
+          "url": "https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160769,
+      "name": "Don't Deserve Me",
+      "url": "https://open.spotify.com/track/63yKdcTxH8RGhQhaZVnFkm"
+    },
+    {
+      "album": {
         "name": "Don't Miss",
         "url": "https://open.spotify.com/album/5STr775eXjmZqssJIYBQCd"
       },
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 121877,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ"
@@ -2695,7 +2713,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 206837,
       "name": "Flights",
       "url": "https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc"
@@ -2911,7 +2929,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 166840,
       "name": "Gang Signs (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
@@ -2969,7 +2987,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 140601,
       "name": "Goin Up",
       "url": "https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb"
@@ -3417,7 +3435,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 125498,
       "name": "Hit",
       "url": "https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ"
@@ -4932,6 +4950,24 @@
     },
     {
       "album": {
+        "name": "Mannequin",
+        "url": "https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234664,
+      "name": "Mannequin",
+      "url": "https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W"
+    },
+    {
+      "album": {
         "name": "FREELANCE",
         "url": "https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz"
       },
@@ -5201,7 +5237,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 142520,
       "name": "Money On Me",
       "url": "https://open.spotify.com/track/2OAZWC4eQR6b1DWrjmZldh"
@@ -5471,7 +5507,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 170400,
       "name": "NBA Jam",
       "url": "https://open.spotify.com/track/3YGeC8AIZi2XbnymOauGxc"
@@ -6107,7 +6143,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 157241,
       "name": "Point God",
       "url": "https://open.spotify.com/track/2GdalCMhRsci19qs8yjCZc"
@@ -6195,7 +6231,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 204528,
       "name": "Pose (feat. Wiz Khalifa & Curren$y)",
       "url": "https://open.spotify.com/track/1EaEXPXlb3Xp19Aj3Nw8v1"
@@ -6471,7 +6507,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 183186,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
@@ -7813,7 +7849,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 158000,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/5Unr6WoYvsnGYo3NazmkW4"
@@ -7831,7 +7867,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 140373,
       "name": "TALK2ME",
       "url": "https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz"
@@ -7889,7 +7925,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 124973,
       "name": "Tetris",
       "url": "https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ"
@@ -7943,7 +7979,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 132496,
       "name": "That's Ok",
       "url": "https://open.spotify.com/track/6bSKQMbPAJSRC6JuNbFT5g"
@@ -8045,7 +8081,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 205287,
       "name": "Through the Fire (feat. Quavo)",
       "url": "https://open.spotify.com/track/1PtD0GMcPogQvMAeYUW8QF"
@@ -8111,7 +8147,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 226362,
       "name": "Thump Shit",
       "url": "https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ"
@@ -8351,7 +8387,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 235500,
       "name": "U-Digg (feat. 42 Dugg & Veeze)",
       "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
@@ -8369,7 +8405,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 211687,
       "name": "UP",
       "url": "https://open.spotify.com/track/2yayJdN0THmDy3Cco1TZtI"
@@ -8423,7 +8459,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 170847,
       "name": "Van Hayden",
       "url": "https://open.spotify.com/track/3UfpqCUS9euaswAOot4irW"
@@ -8489,7 +8525,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 181540,
       "name": "Waddup (feat. Polo G)",
       "url": "https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U"
@@ -8537,7 +8573,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 146493,
       "name": "Waves",
       "url": "https://open.spotify.com/track/42Q71LGgYI4eBdebWn5m6D"
@@ -8983,7 +9019,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 143248,
       "name": "With The Villains",
       "url": "https://open.spotify.com/track/6NLT5ioKnvVuFLrumNlmvy"

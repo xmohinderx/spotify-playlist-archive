@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > eres mi bebé, mi bebito fiu fiu 💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,484 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,068 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 27 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 |
 | 28 | [Woo](https://open.spotify.com/track/3HQcsqRjRdruUjkbDSgmVF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:55 |
 | 29 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 |
-| 30 | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/track/3BkpvJpaE7LCrrCiusfhsj) | [Danny Ruszo](https://open.spotify.com/artist/5he4Z3gSBrqS8ioLEKGWQA) | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/album/6TQlpFMlpJgc7jw7cexz5R) | 2:17 |
+| 30 | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/track/3BkpvJpaE7LCrrCiusfhsj) | [Cupid Ruszo](https://open.spotify.com/artist/4ra8KaHMx0jp4rI5RICw3n) | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/album/6TQlpFMlpJgc7jw7cexz5R) | 2:17 |
 | 31 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 |
 | 32 | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/album/0PTGY2rz75YFy0H1jvibuD) | 3:35 |
 | 33 | [Sea Shanty Medley](https://open.spotify.com/track/5mkoR8mVrEwpDQc9y54sM2) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Sea Shanty Medley](https://open.spotify.com/album/3DXlflmRdEZIe0RqxZ6Czb) | 3:54 |

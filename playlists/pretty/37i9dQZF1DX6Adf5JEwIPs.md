@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Ariel Camacho y Los Plebes Del Rancho
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,785 likes - 53 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,917 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 4 | [Enamorado Y Feliz](https://open.spotify.com/track/5Tg3TbTftDrjmQORfsqw5m) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Enamorado Y Feliz](https://open.spotify.com/album/5I5kOgudPWEvImS3mcdlxd) | 2:44 |
 | 5 | [Hace Falta Alfredo \- En Vivo](https://open.spotify.com/track/17mMtevvz5ueyKAcRkY6UQ) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hace Falta Alfredo \(En Vivo\)](https://open.spotify.com/album/0ZdqcORRpgy7TohYvU8WUc) | 2:59 |
 | 6 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 |
-| 7 | [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí :white\_check\_mark: 1 Cuando Te Acuerdes De Mí :white\_check\_mark: 1 Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 |
+| 7 | [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 |
 | 8 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
 | 9 | [Todos la Boca Cerrada](https://open.spotify.com/track/39ZB7qdL39dEagUiIClS3O) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Todos la Boca Cerrada](https://open.spotify.com/album/4VnAqVnzmkrDpfAdjYmmeO) | 2:46 |
 | 10 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 |
@@ -52,14 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 42 | [Échale Ganitas](https://open.spotify.com/track/37vHD4QTFokZ4qYA5FoNOw) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Échale Ganitas](https://open.spotify.com/album/4z6qNyp562i0D7bXjm0YTv) | 2:44 |
 | 43 | [Que Se Me Acabe La Vida \- En Vivo](https://open.spotify.com/track/6jg8I6WZm56eHQvv68cJeW) | [Banda La Autentica](https://open.spotify.com/artist/7ccozMZJAeXJcXvwvo2kRT) | [Que Se Me Acabe La Vida \(En Vivo\)](https://open.spotify.com/album/3zebGwL9rVL5Pqtf8cQkDb) | 2:09 |
 | 44 | [Popurri \(En Vivo\)](https://open.spotify.com/track/4XKLsIsGZ0Nnn6t3xNl5oJ) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7) | [Popurri \(En Vivo\)](https://open.spotify.com/album/3Ex9dZ8XlRuYBqHr0eldAa) | 5:59 |
-| 45 | [Cada Amanecer](https://open.spotify.com/track/0yqrOEVkwDUQauwGiCKGIp) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Cada Amanecer](https://open.spotify.com/album/0u3rTaZUnG4FVZ7DFGtKos) | 2:42 |
-| 46 | [Por Andar Con Un Cabrón](https://open.spotify.com/track/0jMs0esC95rh848ldppFFF) | [Increibles](https://open.spotify.com/artist/0VKtCPMwNM0CrNoMyBLtu5) | [Por Andar Con Un Cabrón](https://open.spotify.com/album/3hpIYNvWiv0vx927QXgnB4) | 4:18 |
-| 47 | [Versaci](https://open.spotify.com/track/3io4JByoRElfacv61ulr0E) | [Grupo Nueva Sensacion](https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb) | [Versaci](https://open.spotify.com/album/6RyZd7QCleEPsG8YROucAQ) | 2:38 |
-| 48 | [El Consentido Del Viejo](https://open.spotify.com/track/5thLmsecSMKVROwDDVyPlR) | [Jony Ramírez](https://open.spotify.com/artist/2xccuJvlTVuMVsQT2wevDe) | [El Consentido Del Viejo](https://open.spotify.com/album/3fX77wkMUy68ZdCOL0OXZ2) | 2:34 |
-| 49 | [Mi Vida Mis Gustos](https://open.spotify.com/track/3XOdkEeTr3NBLyFwD4Kbya) | [Angel Sauceda](https://open.spotify.com/artist/7aeVRZsc7JRvt7QrMa3CJP) | [Mi Vida Mis Gustos](https://open.spotify.com/album/5HAFlblyEArfjdxWpCpcbQ) | 3:39 |
-| 50 | [Ley Seca](https://open.spotify.com/track/7fED70nhF2dQ7Mf8FikFnD) | [Jorge Almir](https://open.spotify.com/artist/1GKXviU5O6Yj7o8qobC869) | [Ley Seca](https://open.spotify.com/album/6HuHABrQHZcA8CUuR8oTfA) | 3:35 |
-| 51 | [Me Dijeron](https://open.spotify.com/track/3MLAh0E86s5MtDqLfZ2tZj) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Me Dijeron](https://open.spotify.com/album/1QjhLu4yYn0aPEX8suwjJZ) | 3:52 |
-| 52 | [Tu Desastre](https://open.spotify.com/track/5QVA8Jin6OaCej4xMhL7iJ) | [Conjunto Arroyero](https://open.spotify.com/artist/3t57wx00MMpK19IW7R3TUU) | [Tu Desastre](https://open.spotify.com/album/6ZZwm763dL38WUM2pIDDmp) | 3:04 |
-| 53 | [Iban A Intentarlo \- En Vivo](https://open.spotify.com/track/7KIcxt4kZT1HT3fFtFEfwk) | [Cristo Valenzuela](https://open.spotify.com/artist/6so6Y6StW5QYgbh8LYytwN) | [Iban A Intentarlo \(En Vivo\)](https://open.spotify.com/album/27fn3c2fOjOCxr6i0Z4WiM) | 2:29 |
+| 45 | [SOLO DE TI](https://open.spotify.com/track/6IOxy7kHT9pYmOIYcRgnoM) | [Infinito](https://open.spotify.com/artist/4UHgsEv6qlnUZz6ecKlwzE) | [No Creo En Amor](https://open.spotify.com/album/7wZ9VT6wHzUCRvL9eSNFm0) | 2:57 |
+| 46 | [Cada Amanecer](https://open.spotify.com/track/0yqrOEVkwDUQauwGiCKGIp) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Cada Amanecer](https://open.spotify.com/album/0u3rTaZUnG4FVZ7DFGtKos) | 2:42 |
+| 47 | [Por Andar Con Un Cabrón](https://open.spotify.com/track/0jMs0esC95rh848ldppFFF) | [Increibles](https://open.spotify.com/artist/0VKtCPMwNM0CrNoMyBLtu5) | [Por Andar Con Un Cabrón](https://open.spotify.com/album/3hpIYNvWiv0vx927QXgnB4) | 4:18 |
+| 48 | [Versaci](https://open.spotify.com/track/3io4JByoRElfacv61ulr0E) | [Grupo Nueva Sensacion](https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb) | [Versaci](https://open.spotify.com/album/6RyZd7QCleEPsG8YROucAQ) | 2:38 |
+| 49 | [El Consentido Del Viejo](https://open.spotify.com/track/5thLmsecSMKVROwDDVyPlR) | [Jony Ramírez](https://open.spotify.com/artist/2xccuJvlTVuMVsQT2wevDe) | [El Consentido Del Viejo](https://open.spotify.com/album/3fX77wkMUy68ZdCOL0OXZ2) | 2:34 |
+| 50 | [Mi Vida Mis Gustos](https://open.spotify.com/track/3XOdkEeTr3NBLyFwD4Kbya) | [Angel Sauceda](https://open.spotify.com/artist/7aeVRZsc7JRvt7QrMa3CJP) | [Mi Vida Mis Gustos](https://open.spotify.com/album/5HAFlblyEArfjdxWpCpcbQ) | 3:39 |
+| 51 | [Ley Seca](https://open.spotify.com/track/7fED70nhF2dQ7Mf8FikFnD) | [Jorge Almir](https://open.spotify.com/artist/1GKXviU5O6Yj7o8qobC869) | [Ley Seca](https://open.spotify.com/album/6HuHABrQHZcA8CUuR8oTfA) | 3:35 |
+| 52 | [Me Dijeron](https://open.spotify.com/track/3MLAh0E86s5MtDqLfZ2tZj) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Me Dijeron](https://open.spotify.com/album/1QjhLu4yYn0aPEX8suwjJZ) | 3:52 |
+| 53 | [Tu Desastre](https://open.spotify.com/track/5QVA8Jin6OaCej4xMhL7iJ) | [Conjunto Arroyero](https://open.spotify.com/artist/3t57wx00MMpK19IW7R3TUU) | [Tu Desastre](https://open.spotify.com/album/6ZZwm763dL38WUM2pIDDmp) | 3:04 |
+| 54 | [Iban A Intentarlo \- En Vivo](https://open.spotify.com/track/7KIcxt4kZT1HT3fFtFEfwk) | [Cristo Valenzuela](https://open.spotify.com/artist/6so6Y6StW5QYgbh8LYytwN) | [Iban A Intentarlo \(En Vivo\)](https://open.spotify.com/album/27fn3c2fOjOCxr6i0Z4WiM) | 2:29 |
 
 Snapshot ID: `MTY1NzI2NzM5MCwwMDAwMDE4YTAwMDAwMTgxZGNkNTg3Y2MwMDAwMDE4MWRhOWZkNGFh`

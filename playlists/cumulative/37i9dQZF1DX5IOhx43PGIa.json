@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 159104,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 204117,
       "name": "BAD DECISIONS",
       "url": "https://open.spotify.com/track/6DukD7rUREAMZV05R4QJj3"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 214691,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3t6NBoUIutK70vB2KZovVc"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 164174,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0Eo54xCp6agPUoddGv9Ta5"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 212187,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4chq9VXft5AQy5ytIjh9jE"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Cold Summer",
       "url": "https://open.spotify.com/track/0njTgAO37O9EWgSwbGAlym"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 168620,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/6CLeE3yafEuOSKbBJwO0mi"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 155142,
       "name": "Feels Like I'm Flying",
       "url": "https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p"
@@ -1765,7 +1765,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 176445,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL"
@@ -1985,6 +1985,28 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY"
+    },
+    {
+      "album": {
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/2tTZqMSUcxBmZ1NobJSZqX"
+      },
+      "artists": [
+        {
+          "name": "Diverseddie",
+          "url": "https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq"
+        },
+        {
+          "name": "Kyra Z",
+          "url": "https://open.spotify.com/artist/1igjPRdGajoTLco5Zn3sPz"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219847,
+      "name": "INSOMNIA",
+      "url": "https://open.spotify.com/track/1KfhDYbODqQoclom9Izd5u"
     },
     {
       "album": {
@@ -2282,6 +2304,32 @@
     },
     {
       "album": {
+        "name": "let's run away",
+        "url": "https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Orion Song",
+          "url": "https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205094,
+      "name": "let's run away",
+      "url": "https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0"
+    },
+    {
+      "album": {
         "name": "lofi // HYPHY",
         "url": "https://open.spotify.com/album/1Ht88W58vAoXNVGZ7ugpWu"
       },
@@ -2311,7 +2359,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 254800,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/1Mut1YA6ZxKZ7F6MKsMSQu"
@@ -2373,7 +2421,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
@@ -2805,7 +2853,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 181574,
       "name": "Old Her",
       "url": "https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl"
@@ -2889,7 +2937,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 228406,
       "name": "OOP! - Dipha Barus Remix",
       "url": "https://open.spotify.com/track/10w72K7l0yeR6gqyUX3mj8"
@@ -3559,7 +3607,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 140500,
       "name": "SPOILED BITCH",
       "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
@@ -3649,7 +3697,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 180893,
       "name": "Subliminal",
       "url": "https://open.spotify.com/track/1IPeE85kJknYfd3tHNdb95"
@@ -3729,7 +3777,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 159963,
       "name": "THAT'S ON YOU!",
       "url": "https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel"
@@ -4097,7 +4145,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 124987,
       "name": "WHO DIS?",
       "url": "https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM"
@@ -4155,7 +4203,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 164723,
       "name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO"

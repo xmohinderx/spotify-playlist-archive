@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,843 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,136 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 2 | [Competition](https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Competition](https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK) | 3:06 |
 | 3 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 |
 | 4 | [Bad Bitch](https://open.spotify.com/track/4BSv6txtXIBg44D9EHpifH) | [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Bad Bitch](https://open.spotify.com/album/6h9dGhDGp7IbnthobQ23xK) | 2:19 |
-| 5 | [Shut Up And Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up And Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 |
+| 5 | [Shut Up and Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up and Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 |
 | 6 | [Hot Killer](https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hot Killer](https://open.spotify.com/album/0as00WK8RwmFBwlvg3gmPy) | 2:18 |
 | 7 | [Greenroom](https://open.spotify.com/track/3O0fBwrKLBlCXEFgaT3U09) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Greenroom](https://open.spotify.com/album/5LMJdkvvdIW1TdwpNfwKsN) | 2:45 |
 | 8 | [temporary funeral](https://open.spotify.com/track/2o2Wgw4z8P4ZGaR0bMcvmj) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 2:59 |

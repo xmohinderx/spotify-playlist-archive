@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from Fivio Foreign ft\. The Kid Laroi, Murda Beatz and Key Glock is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,896 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,949 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 28 | [In The UK](https://open.spotify.com/track/7kWXW1tYyE2cOR11TPkKT7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [In The UK](https://open.spotify.com/album/7ueX2aPzPqbryfJKHnJPTh) | 3:03 |
 | 29 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 |
 | 30 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 |
-| 31 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:08 |
+| 31 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:11 |
 | 32 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
 | 33 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
 | 34 | [Riot](https://open.spotify.com/track/3WjZJKJGwO4xNAbTXdy5jS) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Riot](https://open.spotify.com/album/6JzElRQ0MHpuZ4UrzH1Poc) | 2:24 |

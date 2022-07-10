@@ -3075,7 +3075,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
@@ -3843,7 +3843,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
@@ -5265,7 +5265,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 172390,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf"
@@ -11067,7 +11067,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 157875,
       "name": "I Confess (feat. ROM\u00c9O)",
       "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
@@ -12883,6 +12883,24 @@
       "duration_ms": 204514,
       "name": "Juliet & Romeo",
       "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "album": {
@@ -20681,7 +20699,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 167500,
       "name": "Savage",
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
@@ -23479,7 +23497,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 275076,
       "name": "Talamanca - Carl Cox Remix",
       "url": "https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg"
@@ -23915,7 +23933,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"

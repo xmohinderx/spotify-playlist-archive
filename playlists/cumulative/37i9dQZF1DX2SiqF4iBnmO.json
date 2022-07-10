@@ -857,7 +857,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 270008,
       "name": "Probl\u00e8mes d'Amour",
       "url": "https://open.spotify.com/track/5BCD68l2CC8BdJB0ZGA3N9"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 303440,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 238600,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 415633,
       "name": "Sound Of Stereo - Original Mix",
       "url": "https://open.spotify.com/track/4ELquocA4R6CQNfMkCYCIZ"
@@ -1096,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4YzbdSB5YcnRq47rdY7dD4"
+    },
+    {
+      "album": {
         "name": "Selected Ambient Works 85-92",
         "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
       },
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"

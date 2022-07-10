@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 205250,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 205267,
       "name": "Chasing Fire",
       "url": "https://open.spotify.com/track/1xy4apMFecGGkgBeaHFZ2M"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 162857,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/2HS8VwU1QQMnH7mTylnW5I"
@@ -2207,7 +2207,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 246520,
       "name": "Heaven Is a Place On Earth",
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
@@ -2569,7 +2569,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 168823,
       "name": "How Did I Find You",
       "url": "https://open.spotify.com/track/7dhh5MGe898uMm7TrCUvwj"
@@ -3015,7 +3015,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/4wQD0djo6Id4fQLQeRKQ6e"
@@ -3205,7 +3205,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 198520,
       "name": "Last Time Love",
       "url": "https://open.spotify.com/track/2aBVR2kHDFocniQ0T1DUcG"
@@ -3227,7 +3227,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 172933,
       "name": "Let It Be Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc"
@@ -3281,10 +3281,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 200186,
       "name": "Live While We're Young",
       "url": "https://open.spotify.com/track/6aGjEZ7kq3YXgD0EDt80O5"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190240,
+      "name": "London Boy",
+      "url": "https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw"
     },
     {
       "album": {
@@ -3321,7 +3339,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 217493,
       "name": "Lost",
       "url": "https://open.spotify.com/track/7Lw5FXm8nhQPvezIpA6jK5"
@@ -3447,7 +3465,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 215265,
       "name": "Love You Right",
       "url": "https://open.spotify.com/track/0eOK06PrPsSJ9rswCHaC50"
@@ -3585,7 +3603,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 206373,
       "name": "Memorized",
       "url": "https://open.spotify.com/track/44T6aO6fh9MPX6CGSCCidX"
@@ -3621,7 +3639,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 178426,
       "name": "Move On",
       "url": "https://open.spotify.com/track/3KTVQGLS2np8dWe5s4F9EN"
@@ -3999,7 +4017,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 206040,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2"
@@ -4921,7 +4939,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 243933,
       "name": "Take A Chance On Me",
       "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
@@ -5037,7 +5055,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 229200,
       "name": "Tell Her About It",
       "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
@@ -5317,7 +5335,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 198156,
       "name": "Totally (feat. Jon Eyden)",
       "url": "https://open.spotify.com/track/3dY2OHsFFN0oWYgJbrxsxl"
@@ -5687,7 +5705,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 124592,
       "name": "What A Night",
       "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"

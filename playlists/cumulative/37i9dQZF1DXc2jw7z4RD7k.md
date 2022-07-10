@@ -4,7 +4,7 @@
 
 > It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.
 
-77 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/6nR9fObgGSerkhsDfjVzFd)
+79 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/6nR9fObgGSerkhsDfjVzFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 | 2022-05-13 |  |
 | [After All This Time](https://open.spotify.com/track/202Rv6z4W2aE0rxYwUfCq9) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 3:10 | 2022-05-13 |  |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 | 2022-05-13 |  |
-| [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2022-06-08 |  |
+| [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2022-06-08 | 2022-07-10 |
 | [As Time Goes By](https://open.spotify.com/track/7nX7JMnSP9XmLjgv6pzcyr) | [Jimmy Durante](https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v) | [Jimmy' Durante's Way Of Life](https://open.spotify.com/album/0kG2hzYNEZktAgA9v6Al7T) | 2:28 | 2022-05-13 |  |
 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 | 2022-06-06 |  |
 | [Begin the Beguine \(Volver a Empezar\)](https://open.spotify.com/track/3vSGGtjD7JLA9Q6I36sGve) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:44 | 2022-05-13 | 2022-07-01 |
@@ -28,7 +28,7 @@
 | [Dancing In The Moonlight](https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing In The Moonlight](https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s) | 2:58 | 2022-05-13 |  |
 | [Daybreak](https://open.spotify.com/track/4rNGcibLZv61RyXrhFTAGt) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [This One's For You](https://open.spotify.com/album/5PPTyMtlVFzMofIrFx9ApW) | 3:07 | 2022-05-13 |  |
 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 | 2022-05-13 |  |
-| [Do You Know the Way to San Jose](https://open.spotify.com/track/3ADQ9jGCJ6MfSbIZqtbVj2) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [The Dionne Warwick Collection: Her All\-Time Greatest Hits](https://open.spotify.com/album/6jt0AE3c2ZC5e9TJA2Duo2) | 2:57 | 2022-05-13 |  |
+| [Do You Know the Way to San Jose](https://open.spotify.com/track/3ADQ9jGCJ6MfSbIZqtbVj2) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [The Dionne Warwick Collection: Her All\-Time Greatest Hits](https://open.spotify.com/album/6jt0AE3c2ZC5e9TJA2Duo2) | 2:57 | 2022-05-13 | 2022-07-10 |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 | 2022-05-13 |  |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2022-05-13 |  |
 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 | 2022-05-13 |  |
@@ -61,6 +61,8 @@
 | [My Body Keeps Changing My Mind](https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA) | [Karen Carpenter](https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1) | [Karen Carpenter](https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ) | 3:45 | 2022-05-13 |  |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2022-06-06 |  |
 | [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 | 2022-05-13 |  |
+| [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 | 2022-07-09 |  |
+| [Our Last Summer](https://open.spotify.com/track/6hHXft1nFyvfVv6UoRToPZ) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:19 | 2022-07-09 |  |
 | [Quando Quando Quando](https://open.spotify.com/track/03MOcbkkoNLjP0G91iODSB) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:21 | 2022-05-13 |  |
 | [Right Back Where We Started From](https://open.spotify.com/track/0Ar1ynkK5zEqFsw2vgez4w) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Lost Hits Of The 70's \(All Original Artists & Versions\)](https://open.spotify.com/album/3AcwJqNT1LgZdTttHkoaZ0) | 3:18 | 2022-05-13 |  |
 | [Riptide](https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Riptide](https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz) | 3:24 | 2022-06-21 |  |

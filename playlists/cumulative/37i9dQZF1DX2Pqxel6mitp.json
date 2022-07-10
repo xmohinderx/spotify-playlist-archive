@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 184466,
       "name": "Black Angel Blues",
       "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "Smoke From The Chimney",
+        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "Boot Money",
+      "url": "https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh"
+    },
+    {
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
       },
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "C.C. Rider",
       "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 226333,
       "name": "Danger and Dread",
       "url": "https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 372440,
       "name": "Death Letter Blues",
       "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "Death Valley Blues",
       "url": "https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 230040,
       "name": "Going To Chicago",
       "url": "https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le"
@@ -749,7 +767,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 234473,
       "name": "Got to Go Back Home",
       "url": "https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 218864,
       "name": "Low Down Dog",
       "url": "https://open.spotify.com/track/1vlQWHt9RoGXUuBqPp0drZ"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 186429,
       "name": "Mississippi Phone Booth",
       "url": "https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 236182,
       "name": "Money Talks",
       "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 189986,
       "name": "Mr. Highway Man",
       "url": "https://open.spotify.com/track/2mGcByWICVJC9QHcmaagAe"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 198000,
       "name": "Newbury",
       "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 273573,
       "name": "Rollin' and Tumblin'",
       "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 160183,
       "name": "Sunshine Blue",
       "url": "https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 291295,
       "name": "T.B. Blues",
       "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 156465,
       "name": "The Sun is Shining",
       "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
@@ -1838,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "Hoodoo (Commentary Version)",
+        "url": "https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268946,
+      "name": "Who You Gonna Hoodoo Now?",
+      "url": "https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe"
+    },
+    {
+      "album": {
         "name": "Wild Country",
         "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
       },
@@ -1849,7 +1885,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 358133,
       "name": "Wild Country 2021",
       "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"

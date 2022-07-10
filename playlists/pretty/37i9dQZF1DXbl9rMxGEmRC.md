@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > A collection of recent tracks from the world of black and dark metal\. Cover: Behemoth
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,447 likes - 80 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,517 likes - 80 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

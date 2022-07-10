@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 112913,
+  "num_followers": 112986,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzMyOTcwNywwMDAwMDAwMDMyM2ZiMjIxYTE0ODA4NTkyNmIwM2RmMzUwM2U1NTM5",
+  "snapshot_id": "MTY1NzQxNjg5MSwwMDAwMDAwMDY1MzRmNTRkYzM2NDU3ZTEzYzI0ZTBlMTExNDZiYzZl",
   "tracks": [
     {
       "added_at": "2022-07-07 15:00:00",
@@ -95,18 +95,22 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "SEPTEMBER",
-        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
+        "name": "SANDIE",
+        "url": "https://open.spotify.com/album/2BsnkWZSqQsMHxz9zx915T"
       },
       "artists": [
         {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        },
+        {
+          "name": "Yu Sakai",
+          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
         }
       ],
-      "duration_ms": 275560,
-      "name": "SEPTEMBER",
-      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
+      "duration_ms": 287569,
+      "name": "SANDIE",
+      "url": "https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -143,22 +147,18 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
         }
       ],
-      "duration_ms": 275912,
-      "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
+        "name": "EP-3",
+        "url": "https://open.spotify.com/album/2abkuqj2lyCwE0dyQlnyMK"
       },
       "artists": [
         {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+          "name": "Deep Sea Diving Club",
+          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
         }
       ],
-      "duration_ms": 270133,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
+      "duration_ms": 245653,
+      "name": "CITY FLIGHT",
+      "url": "https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -207,110 +207,6 @@
       "duration_ms": 233974,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "SANDIE",
-        "url": "https://open.spotify.com/album/2BsnkWZSqQsMHxz9zx915T"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        },
-        {
-          "name": "Yu Sakai",
-          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
-        }
-      ],
-      "duration_ms": 287569,
-      "name": "SANDIE",
-      "url": "https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "LOVE/LIKE/HATE",
-        "url": "https://open.spotify.com/album/6o54CCBkUg46egcmBrHpIC"
-      },
-      "artists": [
-        {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
-        }
-      ],
-      "duration_ms": 227161,
-      "name": "\u8e0a\u3089\u305b\u306a\u3044\u3067",
-      "url": "https://open.spotify.com/track/6AA6bwyZpNlRpf3ii2la7e"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "\u7d42\u96fb\u3067\u5e30\u308a\u307e\u3059",
-        "url": "https://open.spotify.com/album/4ja62FoYYdfe7Ioao9A9Rr"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 244325,
-      "name": "\u7d42\u96fb\u3067\u5e30\u308a\u307e\u3059",
-      "url": "https://open.spotify.com/track/6D7eSKejjPAow87gnqH3YM"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "STARLIGHT",
-        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "STARLIGHT",
-      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
-        }
-      ],
-      "duration_ms": 226779,
-      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 223083,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -335,18 +231,18 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "STEP IT",
-        "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
+        "name": "LOVE/LIKE/HATE",
+        "url": "https://open.spotify.com/album/6o54CCBkUg46egcmBrHpIC"
       },
       "artists": [
         {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
         }
       ],
-      "duration_ms": 220000,
-      "name": "STEP IT",
-      "url": "https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP"
+      "duration_ms": 227161,
+      "name": "\u8e0a\u3089\u305b\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/6AA6bwyZpNlRpf3ii2la7e"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -367,58 +263,50 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "\u5618\u5bdd",
-        "url": "https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM"
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 227573,
-      "name": "\u5618\u5bdd",
-      "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
+      "duration_ms": 187557,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
     },
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "Midnight Pretenders (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/7iKiMZAlyXjlC3HGP9DKnI"
+        "name": "\u7d42\u96fb\u3067\u5e30\u308a\u307e\u3059",
+        "url": "https://open.spotify.com/album/4ja62FoYYdfe7Ioao9A9Rr"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
         }
       ],
-      "duration_ms": 347096,
-      "name": "Midnight Pretenders (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL"
+      "duration_ms": 244325,
+      "name": "\u7d42\u96fb\u3067\u5e30\u308a\u307e\u3059",
+      "url": "https://open.spotify.com/track/6D7eSKejjPAow87gnqH3YM"
     },
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "\u4f4e\u6c17\u5727\u30dc\u30fc\u30a4",
-        "url": "https://open.spotify.com/album/12wpyZQ1Y3JKoQPhUrECsW"
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
       "artists": [
         {
-          "name": "Natsu Summer",
-          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
-        },
-        {
-          "name": "\u6d41\u7dda\u5f62",
-          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 273000,
-      "name": "\u4f4e\u6c17\u5727\u30dc\u30fc\u30a4",
-      "url": "https://open.spotify.com/track/4vZMcTObOGq67qN6aiDgim"
+      "duration_ms": 223083,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -443,6 +331,114 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
+        "name": "STEP IT",
+        "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "STEP IT",
+      "url": "https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
+        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+        }
+      ],
+      "duration_ms": 226779,
+      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
+        "name": "\u5618\u5bdd",
+        "url": "https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "\u5618\u5bdd",
+      "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
+        "name": "\u591c\u884c\u6027 feat. \u8521\u5fe0\u6d69",
+        "url": "https://open.spotify.com/album/4HoFcdT9HoxRtv8iG2LfJO"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        },
+        {
+          "name": "\u8521\u5fe0\u6d69",
+          "url": "https://open.spotify.com/artist/5dzlMx9O5K2bhXxIrB2Ut3"
+        }
+      ],
+      "duration_ms": 251741,
+      "name": "\u591c\u884c\u6027 feat. \u8521\u5fe0\u6d69",
+      "url": "https://open.spotify.com/track/3NCWb3k382tplUsQdHUz6Y"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
+        "name": "\u4f4e\u6c17\u5727\u30dc\u30fc\u30a4",
+        "url": "https://open.spotify.com/album/12wpyZQ1Y3JKoQPhUrECsW"
+      },
+      "artists": [
+        {
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
+        },
+        {
+          "name": "\u6d41\u7dda\u5f62",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "\u4f4e\u6c17\u5727\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/4vZMcTObOGq67qN6aiDgim"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
+        "name": "\u30ca\u30a4\u30c8\u30c0\u30a4\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/2LC3a3j1xtw6bqFkRLBqWt"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "duration_ms": 228900,
+      "name": "\u30ca\u30a4\u30c8\u30c0\u30a4\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
         "name": "BITTER!",
         "url": "https://open.spotify.com/album/2l4vECEdLZGPbbRlDWdVXe"
       },
@@ -459,18 +455,22 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "AURORA TOKIO",
-        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
+        "name": "\u7d20\u3063\u9813\u72c2",
+        "url": "https://open.spotify.com/album/16TMPgNd10gTmWUH3Q7ycf"
       },
       "artists": [
         {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "YeYe",
+          "url": "https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
         }
       ],
-      "duration_ms": 215913,
-      "name": "AURORA TOKIO",
-      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+      "duration_ms": 307841,
+      "name": "\u7d20\u3063\u9813\u72c2",
+      "url": "https://open.spotify.com/track/4lPHtRs5tCsfhY1AzJJ1aw"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
       },
       "artists": [
         {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
+      "duration_ms": 201642,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "EP-3",
-        "url": "https://open.spotify.com/album/2abkuqj2lyCwE0dyQlnyMK"
+        "name": "You Are Right",
+        "url": "https://open.spotify.com/album/2CIh4fPlP3ReUCz4X3HA5y"
       },
       "artists": [
         {
-          "name": "Deep Sea Diving Club",
-          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
+          "name": "Cantaro Ihara",
+          "url": "https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe"
         }
       ],
-      "duration_ms": 245653,
-      "name": "CITY FLIGHT",
-      "url": "https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek"
+      "duration_ms": 227500,
+      "name": "You Are Right",
+      "url": "https://open.spotify.com/track/4SQZHCACaK0ND5eboX1Xgu"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -563,22 +563,22 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "\u967d\u306e\u5f53\u305f\u308b\u5927\u901a\u308a (feat. Phum Viphurit)",
-        "url": "https://open.spotify.com/album/5CAbx94HFbCDQXFP4F9bDx"
+        "name": "Midnight Pretenders (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/7iKiMZAlyXjlC3HGP9DKnI"
       },
       "artists": [
         {
-          "name": "Maki Nomiya",
-          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
         },
         {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
         }
       ],
-      "duration_ms": 252108,
-      "name": "\u967d\u306e\u5f53\u305f\u308b\u5927\u901a\u308a (feat. Phum Viphurit)",
-      "url": "https://open.spotify.com/track/7eM4bUjucfMv5GkM4gotZA"
+      "duration_ms": 347096,
+      "name": "Midnight Pretenders (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -599,22 +599,22 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw"
+        "name": "3\u53f7\u7dda (feat. \u5800\u8fbc\u6cf0\u884c)",
+        "url": "https://open.spotify.com/album/4k1iWmDoy7ivu3kOUs3Lyo"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+          "name": "\u6d41\u7dda\u5f62",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
         },
         {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "Yasuyuki Horigome",
+          "url": "https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj"
         }
       ],
-      "duration_ms": 238301,
-      "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM"
+      "duration_ms": 350721,
+      "name": "3\u53f7\u7dda",
+      "url": "https://open.spotify.com/track/300DoYpld1TAIHrAodgpnX"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -639,22 +639,18 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "\u305a\u308b\u304f\u306a\u3044?",
-        "url": "https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7"
+        "name": "pure",
+        "url": "https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA"
       },
       "artists": [
         {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
         }
       ],
-      "duration_ms": 208981,
-      "name": "\u305a\u308b\u304f\u306a\u3044?",
-      "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
+      "duration_ms": 225500,
+      "name": "pure",
+      "url": "https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -675,22 +671,18 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "Cry Now feat. Chiaki Sato",
-        "url": "https://open.spotify.com/album/0eaGXqRgtmSVu2Dxvj6Ob4"
+        "name": "MEBAE",
+        "url": "https://open.spotify.com/album/4lbg2191lwQjtdytyUuQfi"
       },
       "artists": [
         {
-          "name": "Ryohu",
-          "url": "https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U"
-        },
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+          "name": "CHiLi GiRL",
+          "url": "https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95"
         }
       ],
-      "duration_ms": 252662,
-      "name": "Cry Now feat. Chiaki Sato",
-      "url": "https://open.spotify.com/track/4c1wyYgYhN8ckz4eOccw7r"
+      "duration_ms": 277598,
+      "name": "\u90fd\u4f1a\u306e\u68ee",
+      "url": "https://open.spotify.com/track/3ZSqz0qiV7R2pPbL4HqCB3"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -715,18 +707,18 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "Rhythm of Your Heart",
-        "url": "https://open.spotify.com/album/7BYeCDSK87JZGz8O1DPG6e"
+        "name": "WINDORGAN",
+        "url": "https://open.spotify.com/album/6VPE2VxTeC984xRHTpRZR4"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
         }
       ],
-      "duration_ms": 224177,
-      "name": "Rhythm of Your Heart",
-      "url": "https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F"
+      "duration_ms": 310932,
+      "name": "Night Sliders",
+      "url": "https://open.spotify.com/track/7LLQXJLVsqvZVGzwY6veMW"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -743,98 +735,6 @@
       "duration_ms": 258838,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/09449DPrk7pUeshYrRsezL"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30bd\u30a6\u30eb\u30fb\u30ec\u30f4\u30e5\u30fc (duet with Rainych, feat. evening cinema)",
-        "url": "https://open.spotify.com/album/3spkvo7ENdH913rigIMaKI"
-      },
-      "artists": [
-        {
-          "name": "Maki Nomiya",
-          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
-        },
-        {
-          "name": "Rainych",
-          "url": "https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r"
-        },
-        {
-          "name": "evening cinema",
-          "url": "https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv"
-        }
-      ],
-      "duration_ms": 274587,
-      "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30bd\u30a6\u30eb\u30fb\u30ec\u30f4\u30e5\u30fc (duet with Rainych, feat. evening cinema)",
-      "url": "https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "CITY BOY",
-        "url": "https://open.spotify.com/album/1zxr2z8ge9WWFGYWX2rHpE"
-      },
-      "artists": [
-        {
-          "name": "higimidari",
-          "url": "https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b"
-        }
-      ],
-      "duration_ms": 243652,
-      "name": "CITY BOY",
-      "url": "https://open.spotify.com/track/1R9TGjQFP6MQYcF8g7zgnv"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "Smoky Valley",
-        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
-      },
-      "artists": [
-        {
-          "name": "I love you Orchestra Swing Style",
-          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
-        },
-        {
-          "name": "mahina",
-          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Night Distance",
-      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "yugi",
-        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 201617,
-      "name": "yugi",
-      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
-    },
-    {
-      "added_at": "2022-07-07 15:00:00",
-      "album": {
-        "name": "MEBAE",
-        "url": "https://open.spotify.com/album/4lbg2191lwQjtdytyUuQfi"
-      },
-      "artists": [
-        {
-          "name": "CHiLi GiRL",
-          "url": "https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95"
-        }
-      ],
-      "duration_ms": 277598,
-      "name": "\u90fd\u4f1a\u306e\u68ee",
-      "url": "https://open.spotify.com/track/3ZSqz0qiV7R2pPbL4HqCB3"
     },
     {
       "added_at": "2022-07-07 15:00:00",
@@ -859,8 +759,92 @@
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "\u30ca\u30a4\u30c8\u30c0\u30a4\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/2LC3a3j1xtw6bqFkRLBqWt"
+        "name": "CITY BOY",
+        "url": "https://open.spotify.com/album/1zxr2z8ge9WWFGYWX2rHpE"
+      },
+      "artists": [
+        {
+          "name": "higimidari",
+          "url": "https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b"
+        }
+      ],
+      "duration_ms": 243652,
+      "name": "CITY BOY",
+      "url": "https://open.spotify.com/track/1R9TGjQFP6MQYcF8g7zgnv"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
+        "name": "Just be Blue",
+        "url": "https://open.spotify.com/album/778O7vFyhlYuGXeQjpDfhV"
+      },
+      "artists": [
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+        }
+      ],
+      "duration_ms": 241450,
+      "name": "Just be Blue",
+      "url": "https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
+        "name": "yugi",
+        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 201617,
+      "name": "yugi",
+      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
+        "name": "One Way feat. YONCE",
+        "url": "https://open.spotify.com/album/7lIJNVESbT9N8qWr0INc97"
+      },
+      "artists": [
+        {
+          "name": "Ryohu",
+          "url": "https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U"
+        },
+        {
+          "name": "YONCE",
+          "url": "https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "One Way feat. YONCE",
+      "url": "https://open.spotify.com/track/4MurygBmG61XN24T1VbQQy"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
+        "name": "VARIETY (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 295453,
+      "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
+      "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
+    },
+    {
+      "added_at": "2022-07-07 15:00:00",
+      "album": {
+        "name": "BITTER!",
+        "url": "https://open.spotify.com/album/53VEqiQkkbIbRXr6JfLGW9"
       },
       "artists": [
         {
@@ -868,25 +852,29 @@
           "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
         }
       ],
-      "duration_ms": 228900,
-      "name": "\u30ca\u30a4\u30c8\u30c0\u30a4\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0"
+      "duration_ms": 204237,
+      "name": "\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx"
     },
     {
       "added_at": "2022-07-07 15:00:00",
       "album": {
-        "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/70EOTJ54prWfxlJiAlmu49"
+        "name": "MAO",
+        "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        },
+        {
+          "name": "Hayata Kosugi",
+          "url": "https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2"
         }
       ],
-      "duration_ms": 250880,
-      "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt"
+      "duration_ms": 267666,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

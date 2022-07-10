@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,950 likes - 104 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,961 likes - 104 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 2 | [Follow](https://open.spotify.com/track/2cg9zDi0rvj3HjKxvv2tvY) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Follow](https://open.spotify.com/album/7luOpgE6z2jUos0U6uVwc4) | 2:25 |
 | 3 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 |
 | 4 | [Kleiner Prinz](https://open.spotify.com/track/0y8lwLPXBsenbF5WAZhlbL) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Kleiner Prinz](https://open.spotify.com/album/4YITfxc90E7TGp1WSgWUAf) | 2:27 |
-| 5 | [I See \(feat\. Jon Z\)](https://open.spotify.com/track/2wQO2LWHXvATy1JB7CpEBu) | [Richard Orlinski](https://open.spotify.com/artist/70c6SFCKALLqSARCPu0Afz), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [I See \(feat\. Jon Z\)](https://open.spotify.com/album/2HUCT4rfFh5w6HC4oallJ9) | 3:10 |
+| 5 | [I See \(feat\. Jon Z, Preston Harris & Dawty Music\)](https://open.spotify.com/track/2wQO2LWHXvATy1JB7CpEBu) | [Richard Orlinski](https://open.spotify.com/artist/70c6SFCKALLqSARCPu0Afz), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Dawty Music](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [I See \(feat\. Jon Z, Preston Harris & Dawty Music\)](https://open.spotify.com/album/2HUCT4rfFh5w6HC4oallJ9) | 3:10 |
 | 6 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
 | 7 | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT) | 3:16 |
 | 8 | [Fick Dein Insta](https://open.spotify.com/track/5KpG5ymS3CjAzNqefeyB54) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Fick Dein Insta](https://open.spotify.com/album/6Tlmo9bMCQOyPLR1DIAU6p) | 3:00 |

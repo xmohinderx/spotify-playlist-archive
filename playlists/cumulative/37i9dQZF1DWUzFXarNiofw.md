@@ -4,7 +4,7 @@
 
 > The newest, freshest R&B tunes\.  Cover: SiR
 
-304 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
+306 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [ICED OUT SUMMER](https://open.spotify.com/track/1PpsJPjSge3JHkNYJImD08) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [MINIKINGZ](https://open.spotify.com/artist/6C3nOkdYuYvX3xXy4lJCa9) | [ICED OUT SUMMER](https://open.spotify.com/album/6xOEoNnvwiGdOX6Kr7WM5P) | 2:40 | 2022-07-08 |  |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-18 | 2022-04-09 |
 | [If I Don't](https://open.spotify.com/track/7BmAglakDUbREyCrbm9sFK) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [If I Don't](https://open.spotify.com/album/6xwHSZPhUEcocekQFoRiqq) | 4:05 | 2022-04-29 | 2022-05-21 |
+| [If You Want My Love](https://open.spotify.com/track/6muk6XM856ryXVRyv1m8yj) | [Jordan Occasionally](https://open.spotify.com/artist/7dV9Gu3qcrjyMkvPEHRsOX) | [If You Want My Love](https://open.spotify.com/album/7qUwQ0bUDNJnyZb8IWpglN) | 3:42 | 2022-07-09 |  |
 | [Iffy](https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Iffy](https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR) | 2:53 | 2022-01-14 | 2022-02-19 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-08 |  |
 | [In The Club](https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [In The Club](https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs) | 2:52 | 2022-04-29 | 2022-06-11 |
@@ -157,7 +158,7 @@
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-03-11 | 2022-04-09 |
 | [KMS](https://open.spotify.com/track/4ZKPZXtB2PabDQ1Rei2ElK) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [KMS](https://open.spotify.com/album/1Hi2mMUYpuLqN6WDTNmui5) | 2:25 | 2022-02-11 | 2022-03-18 |
 | [KMS \- A COLORS SHOW](https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [KMS \- A COLORS SHOW](https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt) | 2:26 | 2022-03-11 | 2022-04-09 |
-| [Know It's Wrong](https://open.spotify.com/track/4QEtedNdEUJSusAF0m1NOu) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [Know It's Wrong](https://open.spotify.com/album/39K9QGEVT1iQnTgf5czaZ8) | 3:23 | 2022-06-03 |  |
+| [Know It's Wrong](https://open.spotify.com/track/4QEtedNdEUJSusAF0m1NOu) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [Know It's Wrong](https://open.spotify.com/album/39K9QGEVT1iQnTgf5czaZ8) | 3:23 | 2022-06-03 | 2022-07-10 |
 | [Lap Dance \(feat\. Eric Bellinger\)](https://open.spotify.com/track/1UPokvS9erAqsj6X5DqheH) | [OFF TOP](https://open.spotify.com/artist/1qfVE7DbB6U9djizm6Qtsl), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Lap Dance \(feat\. Eric Bellinger\)](https://open.spotify.com/album/2s6fqn074gBXWLr6qviHsu) | 3:14 | 2022-07-01 |  |
 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 | 2022-03-04 | 2022-04-16 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-13 | 2022-07-09 |
@@ -245,6 +246,7 @@
 | [Rich Kids](https://open.spotify.com/track/7n7ZuzfTUJEvo7cZJVvCwd) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Rich Kids](https://open.spotify.com/album/7xKUg94LStzFMZzbVBlWkK) | 3:18 | 2021-12-17 | 2022-02-12 |
 | [Ridin' Shotgun](https://open.spotify.com/track/6akhN7c2f1pDq1cSv5MEym) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [Ridin' Shotgun](https://open.spotify.com/album/4ZSgLjI6LADrkJrCKbmR5K) | 1:53 | 2022-02-04 | 2022-03-22 |
 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-08 |  |
+| [Rollercoaster](https://open.spotify.com/track/4sciT4OOWK3iD41rtkrTYY) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/6bTIVYkJDjjsSakD5nfLNa) | 3:33 | 2022-07-09 |  |
 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 | 2022-02-11 | 2022-03-18 |
 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 | 2022-05-20 | 2022-06-25 |
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2021-12-17 | 2022-02-05 |

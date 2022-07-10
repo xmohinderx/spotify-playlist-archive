@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,186 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,253 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 53 | [Play Safe](https://open.spotify.com/track/7cPdCG3oXEAWSFyHiVulhL) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Play Safe](https://open.spotify.com/album/7AnvxoSu0ZjrVe6rFaC41H) | 2:32 |
 | 54 | [ARENA Y MAR](https://open.spotify.com/track/5j42bMuCeQHfQHC61QZEDO) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [ARENA Y MAR](https://open.spotify.com/album/10wlt2vpWYDy6XKDGvFYO4) | 2:33 |
 | 55 | [Sun Don't Set](https://open.spotify.com/track/2GSqoSLzsaTwCoKhl2Tcrk) | [LOKRE](https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho) | [Sun Don't Set](https://open.spotify.com/album/0xIk2POASLi4QGsnqoizfD) | 3:34 |
-| 56 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
+| 56 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
 | 57 | [Love In Atlanta](https://open.spotify.com/track/6K8qwbuUweQOdaErsNbdRc) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Figure It Out](https://open.spotify.com/album/3kAvLGkeU40IINgCQmkiUC) | 3:06 |
 | 58 | [Your Love](https://open.spotify.com/track/63asiN85mrvspPRZIqSLS2) | [Apartment205](https://open.spotify.com/artist/1QK0ynReqlRx2S4xqGZnb0) | [Your Love](https://open.spotify.com/album/5RQiVQxHqsQTWzoDSJJXm3) | 2:19 |
 | 59 | [Lullaby \(feat\. Syd\)](https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 2:31 |

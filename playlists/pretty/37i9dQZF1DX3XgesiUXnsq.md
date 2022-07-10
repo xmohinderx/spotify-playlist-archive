@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,115 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,346 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 3 | [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 |
 | 4 | [The Highs & The Lows](https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [The Highs & The Lows](https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a) | 4:15 |
 | 5 | [NAOMI](https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE) | 2:57 |
-| 6 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:08 |
+| 6 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:11 |
 | 7 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 |
 | 8 | [Death & Taxes](https://open.spotify.com/track/1weo83VRQa8RX6bKxWO90U) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Death & Taxes](https://open.spotify.com/album/0MHW2ruQWqTZT6R06j1BgT) | 3:10 |
 | 9 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |

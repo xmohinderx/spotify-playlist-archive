@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Groove to music from your Netflix Kids favorites, such as Waffles & Mochi.",
+  "description": "Groove to music from your Netflix Kids favorites, such as The Sea Beast.",
   "name": "Netflix Kids Official Playlist",
   "published_playlist_ids": [
     "4OwNQpd4CKtVZ6h2qFxFa1"
@@ -175,6 +175,28 @@
       "duration_ms": 99586,
       "name": "Breakout (Theme From The Netflix Series \"Battle Kitty\")",
       "url": "https://open.spotify.com/track/1gSHxEgZI4rmvjUcQ0UUzy"
+    },
+    {
+      "album": {
+        "name": "The Sea Beast (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx"
+      },
+      "artists": [
+        {
+          "name": "Nell Benjamin",
+          "url": "https://open.spotify.com/artist/2zd6EMs4amJNjdq41ArIrJ"
+        },
+        {
+          "name": "Laurence O'Keefe",
+          "url": "https://open.spotify.com/artist/1DX6JkrHY2mbpWK4gntYhO"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97546,
+      "name": "Captain Crow - from \"The Sea Beast\" Soundtrack",
+      "url": "https://open.spotify.com/track/7FPa79wpVMBvcw0p7SoB2V"
     },
     {
       "album": {
@@ -1267,7 +1289,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 143760,
       "name": "The Sea Beast",
       "url": "https://open.spotify.com/track/3YhPDdcQ5kz0MW4vTKyX8t"
