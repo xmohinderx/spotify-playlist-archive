@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 344535,
+  "num_followers": 344544,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEwNjkwNDQ1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEwNzc1MzcxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Sentadinha Diferente",
         "url": "https://open.spotify.com/album/3TN3L1SoMfzqVSnq5jcZJx"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/1XcmAgREOuJQb91sr68AAD"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "O Rei do Lambad\u00e3o",
+        "url": "https://open.spotify.com/album/4N3qXnzt4ZDCjdmvxGyBwd"
+      },
+      "artists": [
+        {
+          "name": "Nivaldo Marques",
+          "url": "https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH"
+        }
+      ],
+      "duration_ms": 213320,
+      "name": "Tem Cabar\u00e9 Essa Noite",
+      "url": "https://open.spotify.com/track/6i2EwqPMXGpqvvlzvNdzqQ"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Quer Fuder Com os Sem Amor Vs Beat Risada",
         "url": "https://open.spotify.com/album/6TYSu96eVsKo1RrVXf8deB"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/256rhfOQpQvN24CFJEWxQ8"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Pipoco",
         "url": "https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E"
@@ -89,23 +105,7 @@
       "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "O Rei do Lambad\u00e3o",
-        "url": "https://open.spotify.com/album/4N3qXnzt4ZDCjdmvxGyBwd"
-      },
-      "artists": [
-        {
-          "name": "Nivaldo Marques",
-          "url": "https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH"
-        }
-      ],
-      "duration_ms": 213320,
-      "name": "Tem Cabar\u00e9 Essa Noite",
-      "url": "https://open.spotify.com/track/6i2EwqPMXGpqvvlzvNdzqQ"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Hotel Caro",
         "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
@@ -157,23 +157,7 @@
       "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master Of Puppets",
-      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Ela Influ\u00eancia as Amiga (feat. MC Pedrinho SS & Mc Magrinho)",
         "url": "https://open.spotify.com/album/4KWnSnwCCOMpz7uHomgdVu"
@@ -201,7 +185,39 @@
       "url": "https://open.spotify.com/track/4Ltrul7JPwG42QyTkyPpRi"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "Virando o Olhinho",
+        "url": "https://open.spotify.com/album/4cvDlA9Wkz11INek2lPamN"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 142694,
+      "name": "Virando o Olhinho",
+      "url": "https://open.spotify.com/track/3lQnTQFBxk1HMsj8aa4syY"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Baile no Morro",
         "url": "https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg"
@@ -241,39 +257,7 @@
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "Virando o Olhinho",
-        "url": "https://open.spotify.com/album/4cvDlA9Wkz11INek2lPamN"
-      },
-      "artists": [
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 142694,
-      "name": "Virando o Olhinho",
-      "url": "https://open.spotify.com/track/3lQnTQFBxk1HMsj8aa4syY"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "ESSE \u00c9 O PIQUE DA COMUNIDADE",
-        "url": "https://open.spotify.com/album/5sm5rmVVq3LNYTNzPPXtas"
-      },
-      "artists": [
-        {
-          "name": "DJ ITIN DO PC",
-          "url": "https://open.spotify.com/artist/7CBjDWTTQp1vtSAygafCIo"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "ESSE \u00c9 O PIQUE DA COMUNIDADE",
-      "url": "https://open.spotify.com/track/0fWwUv810L5NYm0eg1oyuU"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Shut Up and Listen",
         "url": "https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc"
@@ -293,7 +277,23 @@
       "url": "https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "ESSE \u00c9 O PIQUE DA COMUNIDADE",
+        "url": "https://open.spotify.com/album/5sm5rmVVq3LNYTNzPPXtas"
+      },
+      "artists": [
+        {
+          "name": "DJ ITIN DO PC",
+          "url": "https://open.spotify.com/artist/7CBjDWTTQp1vtSAygafCIo"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "ESSE \u00c9 O PIQUE DA COMUNIDADE",
+      "url": "https://open.spotify.com/track/0fWwUv810L5NYm0eg1oyuU"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Amor de \u00cdndio",
         "url": "https://open.spotify.com/album/7JSiUZHkqYc6EnjRD5IBzp"
@@ -313,27 +313,7 @@
       "url": "https://open.spotify.com/track/7k2hmb2r5a5whkyf0N1nyC"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "Onde?",
-        "url": "https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        },
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 190592,
-      "name": "Ningue\u0301m",
-      "url": "https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Ai Preto",
         "url": "https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ"
@@ -357,7 +337,7 @@
       "url": "https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Bruna, Tu J\u00e1 Parou Pra Pensar",
         "url": "https://open.spotify.com/album/2PdQFCLtjCFubVPrQ6QKUM"
@@ -373,7 +353,7 @@
       "url": "https://open.spotify.com/track/7qq40cRIYNKZCDt1STfBqt"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Escolhe o Bandido",
         "url": "https://open.spotify.com/album/1Xdq2uHOP7p6NQ2RRPrAp7"
@@ -405,27 +385,27 @@
       "url": "https://open.spotify.com/track/3QxKHcpNt6CWNUYCLLBHeZ"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
-        "name": "Separate Ways (Worlds Apart) [Bryce Miller/Alloy Tracks Remix]",
-        "url": "https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K"
+        "name": "Onde?",
+        "url": "https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
         },
         {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
         }
       ],
-      "duration_ms": 165074,
-      "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
-      "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
+      "duration_ms": 190592,
+      "name": "Ningue\u0301m",
+      "url": "https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Ch\u00e1 de Sumi\u00e7o",
         "url": "https://open.spotify.com/album/5gZHI7YWiuCrvW1v861e0i"
@@ -453,7 +433,7 @@
       "url": "https://open.spotify.com/track/4NqXNw4el61UgqPMA3h0td"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Ploc Ploc",
         "url": "https://open.spotify.com/album/0CSOnStusPuQ545MDC96Km"
@@ -469,7 +449,7 @@
       "url": "https://open.spotify.com/track/0GdWRgFmO6ETUiN5E4OZQq"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Put0 & Cheiroso",
         "url": "https://open.spotify.com/album/1lpHrSd1HburI64wruD7gp"
@@ -501,7 +481,7 @@
       "url": "https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Regassa Pared\u00e3o",
         "url": "https://open.spotify.com/album/0bnKqitEqDT67tuf2ukYzx"
@@ -517,27 +497,27 @@
       "url": "https://open.spotify.com/track/5o2yt2GUKVx7vpNkcxPMPe"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
-        "name": "Conte\u00fado Expl\u00edcito, Pt. 1",
-        "url": "https://open.spotify.com/album/1WoPJwd3VWWp2BU0f8tFz3"
+        "name": "Separate Ways (Worlds Apart) [Bryce Miller/Alloy Tracks Remix]",
+        "url": "https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K"
       },
       "artists": [
         {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         },
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
         }
       ],
-      "duration_ms": 198805,
-      "name": "Vil\u00e3",
-      "url": "https://open.spotify.com/track/6u7Z4HEvyBO8r0wWhgFEho"
+      "duration_ms": 165074,
+      "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
+      "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "MTG Puxo seu cabelinho",
         "url": "https://open.spotify.com/album/4xADGh2E1U5hUCaBjWG7us"
@@ -561,23 +541,7 @@
       "url": "https://open.spotify.com/track/7qIGSe4spjZRaWGMzlLoks"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5lKuOSbSAVobXK4fAwRe0Q"
-      },
-      "artists": [
-        {
-          "name": "Wiulzin",
-          "url": "https://open.spotify.com/artist/7wRT7A9WNYbV8kZyo7fbfz"
-        }
-      ],
-      "duration_ms": 161889,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/55Sytdl0QwLXOgedPXt8B2"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Mil Coisas Invis\u00edveis",
         "url": "https://open.spotify.com/album/0icYpEwVxogZ6mCERLIVpa"
@@ -593,7 +557,59 @@
       "url": "https://open.spotify.com/track/5iNreMqjehoEgXBnzU2Y5k"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "Conte\u00fado Expl\u00edcito, Pt. 1",
+        "url": "https://open.spotify.com/album/1WoPJwd3VWWp2BU0f8tFz3"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Vil\u00e3",
+      "url": "https://open.spotify.com/track/6u7Z4HEvyBO8r0wWhgFEho"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5lKuOSbSAVobXK4fAwRe0Q"
+      },
+      "artists": [
+        {
+          "name": "Wiulzin",
+          "url": "https://open.spotify.com/artist/7wRT7A9WNYbV8kZyo7fbfz"
+        }
+      ],
+      "duration_ms": 161889,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/55Sytdl0QwLXOgedPXt8B2"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "212",
         "url": "https://open.spotify.com/album/3axYlUVDbCBBoUuCE4Ievc"
@@ -609,23 +625,7 @@
       "url": "https://open.spotify.com/track/7FZaXsJN94zPYloLIu0vAb"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "ROCK PESADO",
-        "url": "https://open.spotify.com/album/5PzizwiDjpYMYP2COEeViu"
-      },
-      "artists": [
-        {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        }
-      ],
-      "duration_ms": 143596,
-      "name": "AQUELA MINA DE VERMELHO - TACA ROLA - \u00c9 HOJE QUE EU BAGUN\u00c7O",
-      "url": "https://open.spotify.com/track/77RNsMdzYmJSdJ8XmquDBZ"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
@@ -641,7 +641,39 @@
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "ROCK PESADO",
+        "url": "https://open.spotify.com/album/5PzizwiDjpYMYP2COEeViu"
+      },
+      "artists": [
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "duration_ms": 143596,
+      "name": "AQUELA MINA DE VERMELHO - TACA ROLA - \u00c9 HOJE QUE EU BAGUN\u00c7O",
+      "url": "https://open.spotify.com/track/77RNsMdzYmJSdJ8XmquDBZ"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "Brown Sleep Noise",
+        "url": "https://open.spotify.com/album/2NEpp4wrvFoeL3isMKpyXr"
+      },
+      "artists": [
+        {
+          "name": "Sleep Miracle",
+          "url": "https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Brown Sleep Noise",
+      "url": "https://open.spotify.com/track/5UBonaClAZVfzxJNn8nnhh"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "A Verdadeira Magia",
         "url": "https://open.spotify.com/album/6wpYAYAxXAg8xl1DuIbrZQ"
@@ -665,23 +697,7 @@
       "url": "https://open.spotify.com/track/7JI1Xb6qXj1E9Usc5dBCQS"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "Girls - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "AUTOMOTIVO DE ANDROMEDA (feat. MC LCKaiique, DJ Mandrake 100% Original, DJ Sagaz)",
         "url": "https://open.spotify.com/album/63CpO51qBBJ6qXFPg6ItX6"
@@ -741,23 +757,23 @@
       "url": "https://open.spotify.com/track/0CUNf5qYkPP78SYVMSrBgy"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
-        "name": "Brown Sleep Noise",
-        "url": "https://open.spotify.com/album/2NEpp4wrvFoeL3isMKpyXr"
+        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
       },
       "artists": [
         {
-          "name": "Sleep Miracle",
-          "url": "https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS"
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Brown Sleep Noise",
-      "url": "https://open.spotify.com/track/5UBonaClAZVfzxJNn8nnhh"
+      "duration_ms": 232893,
+      "name": "Only Love Can Hurt Like This",
+      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Promessas (Promises) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6Bm010xs1prbkP2bVbKPFj"
@@ -777,39 +793,7 @@
       "url": "https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Only Love Can Hurt Like This",
-      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "N\u00c3O SE ESCONDE VOU TE COMER X VEM COM A TCHECA",
         "url": "https://open.spotify.com/album/0ev4cbtA2B4CcLVmJqYdM1"
@@ -833,7 +817,23 @@
       "url": "https://open.spotify.com/track/5rkFUsK8bYMsLOmRle0zMU"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Montagem - Silent Hills",
         "url": "https://open.spotify.com/album/1obtiW2f1gZvurBdXQqChU"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/0manxy5AM5dahJUR9uAevs"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -869,23 +869,7 @@
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 432560,
-      "name": "One More Hour",
-      "url": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Bucora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6rVOAh9pRP7MdbOKKS8eiB"
@@ -901,27 +885,23 @@
       "url": "https://open.spotify.com/track/7jrI4QqqC8UIOgzeUkkYnr"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
-        "name": "Montagem 2k800: O Teu Peito Nunca Foi Chupado",
-        "url": "https://open.spotify.com/album/7e9ljEf5DgqYNOSTK3p8CA"
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
       "artists": [
         {
-          "name": "Mc Vuk Vuk",
-          "url": "https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx"
-        },
-        {
-          "name": "DJ RD DA DZ7",
-          "url": "https://open.spotify.com/artist/0LwSj7oJtIyooMGm0PlCbj"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 165312,
-      "name": "Montagem 2k800: O Teu Peito Nunca Foi Chupado",
-      "url": "https://open.spotify.com/track/5s6h8gjUKZmoM4TJyKC25A"
+      "duration_ms": 432560,
+      "name": "One More Hour",
+      "url": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Vlife",
         "url": "https://open.spotify.com/album/47on59OkWHDwxyP2zBjhwd"
@@ -945,43 +925,27 @@
       "url": "https://open.spotify.com/track/2evcFxT2aW4FZznh6DyEwK"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
-        "name": "\u00c9 S\u00d3 UMA BOTADA NA NOVINHA",
-        "url": "https://open.spotify.com/album/0rNrJeQ2MOeWMyTV8TIbEo"
+        "name": "Montagem 2k800: O Teu Peito Nunca Foi Chupado",
+        "url": "https://open.spotify.com/album/7e9ljEf5DgqYNOSTK3p8CA"
       },
       "artists": [
         {
-          "name": "DJ GUSTAVO DO VIDIGAL",
-          "url": "https://open.spotify.com/artist/1H4SwLLieIEAulFc5CfZj6"
-        }
-      ],
-      "duration_ms": 131571,
-      "name": "\u00c9 S\u00d3 UMA BOTADA NA NOVINHA",
-      "url": "https://open.spotify.com/track/3z3lmicaEABOdu9PDvwRdv"
-    },
-    {
-      "added_at": "2022-07-09 14:00:45",
-      "album": {
-        "name": "Luq Speed Vision",
-        "url": "https://open.spotify.com/album/0LzgIBe7dwSJKPNmU4d1lh"
-      },
-      "artists": [
-        {
-          "name": "luqeta",
-          "url": "https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ"
+          "name": "Mc Vuk Vuk",
+          "url": "https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx"
         },
         {
-          "name": "deadpeace",
-          "url": "https://open.spotify.com/artist/5GtEbRUFQN7CXSH9yZWfgA"
+          "name": "DJ RD DA DZ7",
+          "url": "https://open.spotify.com/artist/0LwSj7oJtIyooMGm0PlCbj"
         }
       ],
-      "duration_ms": 102812,
-      "name": "Ta Tudo Bem Speedplug - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/6ciM89MmIJCgyJ3NKXm9Us"
+      "duration_ms": 165312,
+      "name": "Montagem 2k800: O Teu Peito Nunca Foi Chupado",
+      "url": "https://open.spotify.com/track/5s6h8gjUKZmoM4TJyKC25A"
     },
     {
-      "added_at": "2022-07-09 14:00:45",
+      "added_at": "2022-07-10 13:36:11",
       "album": {
         "name": "Vo Bota na Xota Vs na Xota Pock Pock",
         "url": "https://open.spotify.com/album/66iychj4LMfeNOLJeiMMQg"
@@ -1003,6 +967,38 @@
       "duration_ms": 137624,
       "name": "Vo Bota na Xota Vs na Xota Pock Pock",
       "url": "https://open.spotify.com/track/4QrDmsnAFp82A6CotCGoZx"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "\u00c9 S\u00d3 UMA BOTADA NA NOVINHA",
+        "url": "https://open.spotify.com/album/0rNrJeQ2MOeWMyTV8TIbEo"
+      },
+      "artists": [
+        {
+          "name": "DJ GUSTAVO DO VIDIGAL",
+          "url": "https://open.spotify.com/artist/1H4SwLLieIEAulFc5CfZj6"
+        }
+      ],
+      "duration_ms": 131571,
+      "name": "\u00c9 S\u00d3 UMA BOTADA NA NOVINHA",
+      "url": "https://open.spotify.com/track/3z3lmicaEABOdu9PDvwRdv"
+    },
+    {
+      "added_at": "2022-07-10 13:36:11",
+      "album": {
+        "name": "Olha os Vaqueiros Chegando Ai - Ao Vivo",
+        "url": "https://open.spotify.com/album/3oYPsAOCWLnW39FuQi2fqD"
+      },
+      "artists": [
+        {
+          "name": "Iguinho & Lulinha",
+          "url": "https://open.spotify.com/artist/5Z7NId4MlN7w3ZXjzS7YTg"
+        }
+      ],
+      "duration_ms": 138241,
+      "name": "Cora\u00e7\u00e3o Acelera",
+      "url": "https://open.spotify.com/track/7BeUHuLpYbJP6Q6OmfcplA"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

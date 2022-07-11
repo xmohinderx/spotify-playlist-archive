@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 598066,
       "name": "#10",
       "url": "https://open.spotify.com/track/70txB0RmsuMbo5Q1KOBGln"
@@ -91,10 +91,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 279666,
       "name": "#4",
       "url": "https://open.spotify.com/track/0FxUnU4EjDoDGRiFuVjyBH"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535266,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/4HBo946zIZAYhyzlZ7hfGo"
     },
     {
       "album": {
@@ -340,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Translucent Communion",
+        "url": "https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl"
+      },
+      "artists": [
+        {
+          "name": "Vestigial",
+          "url": "https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316840,
+      "name": "Anthropic Uncreation",
+      "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
+    },
+    {
+      "album": {
         "name": "The Word as Power",
         "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
       },
@@ -513,7 +549,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 256825,
       "name": "Disengaged",
       "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
@@ -567,7 +603,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 286869,
       "name": "Dollhouse",
       "url": "https://open.spotify.com/track/6M5gOnMgByhTfwv5KDIPm6"
@@ -607,6 +643,24 @@
       "duration_ms": 891874,
       "name": "ecol4",
       "url": "https://open.spotify.com/track/0Yjw3B7Tbml7Dtj7PQIv2i"
+    },
+    {
+      "album": {
+        "name": "Low-Life",
+        "url": "https://open.spotify.com/album/6ls958BLJbeFT3OqAYTvQB"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296080,
+      "name": "Elegia - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2Xs7CP4Gw8wJ8qX8fkrCAB"
     },
     {
       "album": {
@@ -729,7 +783,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 176254,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/3FrhNWIcRxrPFFcqFernIp"
@@ -765,10 +819,36 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 86570,
       "name": "I Like Presents Too",
       "url": "https://open.spotify.com/track/2Ei2bVyQr07EUW6tlj9CXf"
+    },
+    {
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
+      },
+      "artists": [
+        {
+          "name": "Apocryphos",
+          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
+        },
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        },
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333803,
+      "name": "Immemorial",
+      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
     },
     {
       "album": {
@@ -801,7 +881,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 252937,
       "name": "Inn Ohm the Lake",
       "url": "https://open.spotify.com/track/2GxRNTJIzqhzMwb5NTOoOR"
@@ -1119,7 +1199,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 337816,
       "name": "Ones Atop the Unknown",
       "url": "https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC"
@@ -1213,7 +1293,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 455593,
       "name": "Silent Messenger",
       "url": "https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF"
@@ -1361,7 +1441,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 146160,
       "name": "The First I love You",
       "url": "https://open.spotify.com/track/3CbiMpMzToJhNJWza98K22"
@@ -1397,7 +1477,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 624000,
       "name": "The Magi",
       "url": "https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq"
@@ -1433,7 +1513,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 381424,
       "name": "The Price of Failure",
       "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"

@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 174549,
       "name": "Alo Ya Albi",
       "url": "https://open.spotify.com/track/1x8DcXrICAz4tK96hOvHin"
@@ -2033,7 +2033,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 185840,
       "name": "Mesaykeb",
       "url": "https://open.spotify.com/track/30z7f3qOR40Cm8BbmLZUPK"
@@ -2648,6 +2648,24 @@
     },
     {
       "album": {
+        "name": "Tigi (\u062a\u064a\u062c\u064a)",
+        "url": "https://open.spotify.com/album/6PiXm749gSZpCyzyQ6O1Yi"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187602,
+      "name": "Tigi - \u062a\u064a\u062c\u064a",
+      "url": "https://open.spotify.com/track/49QGBrI182c8yb2ZG3ipoB"
+    },
+    {
+      "album": {
         "name": "Touba (Intro Of Touba Series)",
         "url": "https://open.spotify.com/album/50Bmb0N5qoDWY5H2FWXKiv"
       },
@@ -2778,6 +2796,24 @@
     },
     {
       "album": {
+        "name": "Wenta Be3eed (From \"Bhabak\" Movie)",
+        "url": "https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226190,
+      "name": "Wenta Be3eed - From \"Bhabak\" Movie",
+      "url": "https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc"
+    },
+    {
+      "album": {
         "name": "Wleeh",
         "url": "https://open.spotify.com/album/6Zuvzyj59U0Q1xKMSFo0xG"
       },
@@ -2789,7 +2825,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 230753,
       "name": "Wleeh",
       "url": "https://open.spotify.com/track/5QIatrUnbjkDqftJbfZo5B"

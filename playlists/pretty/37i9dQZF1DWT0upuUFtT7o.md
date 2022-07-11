@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Asiatica, Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,085 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,539 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 49 | [VIII\. Handle It](https://open.spotify.com/track/3dCEeEnpGK4IdYTEvpWyRp) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [VIII\. Handle It](https://open.spotify.com/album/5gQhsCFCKvNpWwXnReYMOV) | 2:32 |
 | 50 | [Settle Even](https://open.spotify.com/track/1PwUWKGmUgsw5fWZquE2Jm) | [Pet Fox](https://open.spotify.com/artist/1UoPectu9C3iciTtMZOz3q) | [A Face In Your Life](https://open.spotify.com/album/4ZpU6PoYIxBE2fePFXPw4W) | 5:07 |
 | 51 | [i hate this city](https://open.spotify.com/track/7obkHjtZHmdVWdDwaLsd93) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i hate this city](https://open.spotify.com/album/4prQxI1y4XRu6Oq8XdQUhr) | 3:15 |
-| 52 | [Figure It Out](https://open.spotify.com/track/5MJeaFPpTwo5APVTfWxSHV) | [Dina](https://open.spotify.com/artist/1uQe87XogdfYIUaAWax6D8), [COCO VANILLA](https://open.spotify.com/artist/4PfnpCHYjwslqNCvD849Bw) | [Figure It Out](https://open.spotify.com/album/2PFom5mnKmoKcp40kTwkSJ) | 3:57 |
+| 52 | [Figure It Out](https://open.spotify.com/track/5MJeaFPpTwo5APVTfWxSHV) | [DINA](https://open.spotify.com/artist/1uQe87XogdfYIUaAWax6D8), [COCO VANILLA](https://open.spotify.com/artist/4PfnpCHYjwslqNCvD849Bw) | [Figure It Out](https://open.spotify.com/album/2PFom5mnKmoKcp40kTwkSJ) | 3:57 |
 | 53 | [\*sigh\* Nevermind](https://open.spotify.com/track/3vHMtkPfqTmmciY9g4xz28) | [Asiatica](https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw) | [\*sigh\* Nevermind](https://open.spotify.com/album/0GZcu5Gt3CCy1bzUIXBjsD) | 2:59 |
 | 54 | [Young Love](https://open.spotify.com/track/7gpfYzC7zAaVSSKwIxoUjM) | [Peli Gene](https://open.spotify.com/artist/6f5GYmvxUbqwgeydOPN61A) | [Young Love](https://open.spotify.com/album/3Ev30OM7wT4xSQjnjCYikA) | 3:29 |
 | 55 | [23rd Street](https://open.spotify.com/track/2aaiBUwcWHkAgpn1UNNHFc) | [Companion](https://open.spotify.com/artist/3xsRxXPgnP6NdckQPo1doE) | [Second Day Of Spring](https://open.spotify.com/album/0z5stKBwZ19uFVrixkTbus) | 3:03 |

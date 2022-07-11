@@ -199,7 +199,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 226101,
       "name": "Bottomless Mimosas",
       "url": "https://open.spotify.com/track/1pAwto1TwLjGVC11CY6XS1"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 264038,
       "name": "Dusty Trails",
       "url": "https://open.spotify.com/track/4U9aINkQtATpGe9sDUfGx0"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 193306,
       "name": "Good As Gold",
       "url": "https://open.spotify.com/track/4LHvE4PjSvyOE0rInpU9C7"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 232186,
       "name": "Hands on You",
       "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 226373,
       "name": "Housebroken Man",
       "url": "https://open.spotify.com/track/1LqsC52W6xIfohpYXYyhYA"
@@ -996,6 +996,24 @@
     },
     {
       "album": {
+        "name": "Angeleno",
+        "url": "https://open.spotify.com/album/21mFmkJUHZJ8P6MXJgp8yp"
+      },
+      "artists": [
+        {
+          "name": "Sam Outlaw",
+          "url": "https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199830,
+      "name": "Jesus Take the Wheel (And Drive Me to a Bar)",
+      "url": "https://open.spotify.com/track/38JNh9FG7qH9cetlv1z3Al"
+    },
+    {
+      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 146106,
       "name": "Life of Sin",
       "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 145758,
       "name": "Million Dollar Secret",
       "url": "https://open.spotify.com/track/4p6PR5DSLxoWYiKyFuv1De"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 217556,
       "name": "Only Lonely",
       "url": "https://open.spotify.com/track/2BzYOfztRMaIVKTfYOGQgR"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 201666,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 242137,
       "name": "The Devil Is All Around",
       "url": "https://open.spotify.com/track/5zILnyMhgATe9WMFDMhTMe"
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 233921,
       "name": "Trinity Lane",
       "url": "https://open.spotify.com/track/3Q7dM70nAfpK7TWkdZnNE4"

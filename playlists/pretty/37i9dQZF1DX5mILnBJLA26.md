@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih?si=w1vLZCWDQh22Qn3NB5ekjQ">Mapara A Jazz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,700 likes - 79 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,083 likes - 79 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Adé
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,809 likes - 42 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,816 likes - 42 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 17 | [Sans amour](https://open.spotify.com/track/2Jd1r4PP15PTGavUXgl9LR) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Sans amour](https://open.spotify.com/album/3V3tfEAtWEm8j0Mm3zl4Rc) | 2:45 |
 | 18 | [Don't Speak](https://open.spotify.com/track/2KRvPbqgg9xMYhyFA1FfVb) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Moment in Time](https://open.spotify.com/album/6hMQzdzojlJyPYUeLI8Wyj) | 2:40 |
 | 19 | [Suffisamment](https://open.spotify.com/track/7jIsa1OvMZSWWmOxqekPCx) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/1xwjEIbQEqd9gFnUlm0SUb) | 3:46 |
-| 20 | [Folie vie](https://open.spotify.com/track/4zhHcAm3r018pgbWF31Ou9) | [Ali](https://open.spotify.com/artist/3mGNF0avcgm8aDyN2GexLC), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:41 |
+| 20 | [Folie vie](https://open.spotify.com/track/4zhHcAm3r018pgbWF31Ou9) | [Ali](https://open.spotify.com/artist/42TiSAW69Y0zs7mf9ApFmb), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:41 |
 | 21 | [Not Perfect](https://open.spotify.com/track/0vzcLX0DGpiaxNBtj0oC0f) | [Yorina](https://open.spotify.com/artist/3zrsuumoPW6KbZmBX2X7qC) | [Bliss & Grief](https://open.spotify.com/album/52pbSxDvOzMRnEoyPAJWSK) | 4:16 |
 | 22 | [Je t'aime à l'algérienne](https://open.spotify.com/track/7JtzNuaglZuxafRNfoAiG8) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je t'aime à l'algérienne](https://open.spotify.com/album/2SGmlK2zKgBTfTuZ9mRkny) | 3:32 |
 | 23 | [j'en fais mon arme](https://open.spotify.com/track/6BhQ6egOD5E8iAHHpQyt3j) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [j'en fais mon arme](https://open.spotify.com/album/21BczgxshVLtXEnaMM1tMf) | 3:43 |

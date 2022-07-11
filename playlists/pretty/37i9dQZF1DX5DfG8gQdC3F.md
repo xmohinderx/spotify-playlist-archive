@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Murda Beatz, Anitta, Quavo, J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,625 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,638 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 55 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 |
 | 56 | [Waves Break](https://open.spotify.com/track/6mUS9fWrw2KZ1xbHSemUVi) | [TITUS BANK](https://open.spotify.com/artist/6lO31QP9bo8C3ay6IxkIol) | [Hopeless & Romantic](https://open.spotify.com/album/1Xoq1m0xx3ZWEFLVm9epWz) | 2:57 |
 | 57 | [Water Sign \(with Jhené Aiko\)](https://open.spotify.com/track/62oXwEYWQd8tGZvF6WUOs9) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Water Sign](https://open.spotify.com/album/6oDU6I199wFU3UzVJB1k5f) | 4:20 |
-| 58 | [I Got A Feeling](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [T Dot](https://open.spotify.com/artist/4Lt8by3K29vseH2bTZNx0p) | [I Got A Feeling](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 3:48 |
+| 58 | [](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 0:00 |
 | 59 | [Tantale](https://open.spotify.com/track/011mlIOhqipYb0bttQZnuX) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Ra\*faelle](https://open.spotify.com/artist/1j3ssAVlxEXuW9zikS7gfO) | [Tantale](https://open.spotify.com/album/0KguNfeAVd9Jyv5p4m65ao) | 8:35 |
 | 60 | [Really Special](https://open.spotify.com/track/0UVY8JcLsmhjMd7hkqvX7j) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [Nick Fiorucci](https://open.spotify.com/artist/3YPMYCdGVCZz2xLDUbR3TY) | [Really Special](https://open.spotify.com/album/0FdnSC3UbA7fmNlJaDbBaT) | 4:51 |
 | 61 | [Bitch I'm Nice](https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bitch I'm Nice](https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg) | 1:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: MARF x Wulf
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,839 likes - 35 songs - 1 hr 40 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,850 likes - 35 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

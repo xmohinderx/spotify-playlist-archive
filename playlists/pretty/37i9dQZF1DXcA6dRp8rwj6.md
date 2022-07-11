@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: JID\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,937 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,991 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 8 | [Bows](https://open.spotify.com/track/4Xkk9RBSBgRBAFwPta5FlT) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Bows](https://open.spotify.com/album/6arekQAfjAS10TzMsgacOn) | 2:34 |
 | 9 | [EXS](https://open.spotify.com/track/6nu5TMQFH9CKVQV7l4t1DD) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [926](https://open.spotify.com/album/46UAhlKGdxGrdPaa65MsQK) | 2:34 |
 | 10 | [VROOM](https://open.spotify.com/track/2Wir99JCIqWwYZeqntECsp) | [R.I.C](https://open.spotify.com/artist/53eTc0Nlir9E3ezMBekpsU), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [VROOM](https://open.spotify.com/album/38azKeaxz2XXXoaFbW6soe) | 3:16 |
-| 11 | [I Got A Feeling](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [T Dot](https://open.spotify.com/artist/4Lt8by3K29vseH2bTZNx0p) | [I Got A Feeling](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 3:48 |
+| 11 | [](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 0:00 |
 | 12 | [Hate](https://open.spotify.com/track/0gYNMkxqYwKvUCvYfcRWLs) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Hate](https://open.spotify.com/album/4dW422TVEJ8xnLm5drc3He) | 4:04 |
 | 13 | [Colour Money](https://open.spotify.com/track/54KhIcTrJhvQjQNLEGFwzR) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Colour Money](https://open.spotify.com/album/4sHsJpq0phd94oguJ5lRAG) | 2:21 |
 | 14 | [PHASES](https://open.spotify.com/track/1pbPndrjrHw113nlkuKVdp) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [PHASES](https://open.spotify.com/album/1FnUpzg5NHXldkenmBZIv7) | 2:24 |

@@ -1,13 +1,49 @@
 {
   "description": "Tengan a la mano las m\u00e1scaras de lucha libre y la tabla de surf.",
-  "num_followers": 54607,
+  "num_followers": 54633,
   "original_name": "Rockabilly Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzQxNTU4MywwMDAwMDAwMDJlYTE0MDU2MWFhNDBmYTE4NTMzZDQ1M2Y2YzdkYjA4",
+  "snapshot_id": "MTY1NzUwMTc0MiwwMDAwMDAwMDExMmEwYmM5MWMxZTI4MDFiYTk0Nzc0ZWJhNjBiZjQ1",
   "tracks": [
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Fr\u00e1ncisco Familiar",
+          "url": "https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Hombre Lobo Adolescente",
+      "url": "https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Martinis & Bikinis",
+        "url": "https://open.spotify.com/album/05IVUYcH4LBJifRy3C0BBB"
+      },
+      "artists": [
+        {
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+        }
+      ],
+      "duration_ms": 137131,
+      "name": "El Beach Boy",
+      "url": "https://open.spotify.com/track/1P56hKJF93achBpRvllYcV"
+    },
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
@@ -23,22 +59,6 @@
       "duration_ms": 129773,
       "name": "Saca la Chela",
       "url": "https://open.spotify.com/track/3aZXqmXuF0lSmhV3AliJMc"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Guateque Estelar",
-        "url": "https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj"
-      },
-      "artists": [
-        {
-          "name": "Matorralman",
-          "url": "https://open.spotify.com/artist/4FAxuKuqbciGKSsTS5AgaB"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "Chicas Kamikaze",
-      "url": "https://open.spotify.com/track/72kbuWvm36guCtSreHM203"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -75,170 +95,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Daddy-O Grande In Mexico",
-        "url": "https://open.spotify.com/album/26eEerapTfJvphEBK0mks5"
+        "name": "Guateque Estelar",
+        "url": "https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj"
       },
       "artists": [
         {
-          "name": "Danny Amis with Lost Acapulco",
-          "url": "https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k"
+          "name": "Matorralman",
+          "url": "https://open.spotify.com/artist/4FAxuKuqbciGKSsTS5AgaB"
         }
       ],
-      "duration_ms": 178106,
-      "name": "Miradas de Amor",
-      "url": "https://open.spotify.com/track/69yUYFDZvdT31jTwWYG9XN"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Martinis & Bikinis",
-        "url": "https://open.spotify.com/album/05IVUYcH4LBJifRy3C0BBB"
-      },
-      "artists": [
-        {
-          "name": "Fenomeno Fuzz",
-          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
-        }
-      ],
-      "duration_ms": 137131,
-      "name": "El Beach Boy",
-      "url": "https://open.spotify.com/track/1P56hKJF93achBpRvllYcV"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        },
-        {
-          "name": "Fr\u00e1ncisco Familiar",
-          "url": "https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Hombre Lobo Adolescente",
-      "url": "https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Canten en Espanol",
-        "url": "https://open.spotify.com/album/4fP6yefBsMCraBXac208kD"
-      },
-      "artists": [
-        {
-          "name": "Wau y Los Arrrghs!!!",
-          "url": "https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh"
-        }
-      ],
-      "duration_ms": 155840,
-      "name": "Demolicion",
-      "url": "https://open.spotify.com/track/2y09VqX40HrMpd3skVobOa"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Tequila Connection 3",
-        "url": "https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/5RF2vr24R5pDRPcMFCqBCQ"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "El Garage de Gina Monster",
-      "url": "https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Garaje o Muerte",
-        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
-      },
-      "artists": [
-        {
-          "name": "Los Peyotes",
-          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
-        }
-      ],
-      "duration_ms": 186593,
-      "name": "Peyoteando Con Ayahuasca",
-      "url": "https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Agua Ardiente",
-        "url": "https://open.spotify.com/album/1U8NdMusp31P2BG59J1CEL"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 239680,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/7GNjqqUVttsZHrcbJ62e3J"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Los El\u00e1sticos",
-        "url": "https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD"
-      },
-      "artists": [
-        {
-          "name": "Los Elasticos",
-          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Pirakor",
-      "url": "https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Perfume de Violetas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/03663WodvoLxswAm8iHB4r"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 135440,
-      "name": "Olvidemos el Romance .. Cojamos Ya!",
-      "url": "https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        },
-        {
-          "name": "Daniel Gutierrez",
-          "url": "https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Shooby Doo Wop",
-      "url": "https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc"
+      "duration_ms": 311960,
+      "name": "Chicas Kamikaze",
+      "url": "https://open.spotify.com/track/72kbuWvm36guCtSreHM203"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -259,814 +127,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "\u00a1Puedes o No Puedes!",
-        "url": "https://open.spotify.com/album/2Sdc8wuXkFxcNyZ9jjdqNL"
-      },
-      "artists": [
-        {
-          "name": "Viernes de Hongos",
-          "url": "https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo"
-        }
-      ],
-      "duration_ms": 214173,
-      "name": "Mar de Caca",
-      "url": "https://open.spotify.com/track/5WxA2mR2wBnPXOvpRFkOXk"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Martinis & Bikinis",
-        "url": "https://open.spotify.com/album/05IVUYcH4LBJifRy3C0BBB"
-      },
-      "artists": [
-        {
-          "name": "Fenomeno Fuzz",
-          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
-        }
-      ],
-      "duration_ms": 141825,
-      "name": "El Bikini de la Chica Popof",
-      "url": "https://open.spotify.com/track/5v9qoKW6B0czgAEubebKJt"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Guadalupe Plata 2015",
-        "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Plata",
-          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
-        }
-      ],
-      "duration_ms": 194367,
-      "name": "Calle 24",
-      "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Canciones Basura",
-        "url": "https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO"
-      },
-      "artists": [
-        {
-          "name": "Yucat\u00e1n A Go-Go",
-          "url": "https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh"
-        }
-      ],
-      "duration_ms": 171080,
-      "name": "Abuela Zombie",
-      "url": "https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Las Mejores Olas",
-        "url": "https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt"
+        "name": "Tequila Connection 3",
+        "url": "https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC"
       },
       "artists": [
         {
           "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+          "url": "https://open.spotify.com/artist/5RF2vr24R5pDRPcMFCqBCQ"
         }
       ],
-      "duration_ms": 185813,
-      "name": "Spy Cam",
-      "url": "https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Ca\u00f1onazo Electrocumbiero",
-        "url": "https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 264254,
-      "name": "Bocanegra",
-      "url": "https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Inadaptado",
-        "url": "https://open.spotify.com/album/11bwG8tiRDt9haCo3yOxM1"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos Rockabilly",
-          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
-        }
-      ],
-      "duration_ms": 136740,
-      "name": "Inadaptado",
-      "url": "https://open.spotify.com/track/4ldtWKLmk9zDwTK8fujYt7"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Garaje o Muerte",
-        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
-      },
-      "artists": [
-        {
-          "name": "Los Peyotes",
-          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
-        }
-      ],
-      "duration_ms": 147331,
-      "name": "96 Lagrimas",
-      "url": "https://open.spotify.com/track/00KMOWuq9s94Nbv3PXKRUB"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        },
-        {
-          "name": "Luis Humberto Navejas",
-          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Cuando No Estoy Contigo",
-      "url": "https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Yo Fui una Adolescente Terrosat\u00e1nica",
-        "url": "https://open.spotify.com/album/3zMDMHmWNh5JvoMf9WEL1S"
-      },
-      "artists": [
-        {
-          "name": "Ultrasonicas",
-          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "Monstruo Verde",
-      "url": "https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Acapulco Golden",
-        "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 88253,
-      "name": "Tangatutanga",
-      "url": "https://open.spotify.com/track/4OxWepIRN3GXUxF7g4Kwvq"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "The Neanderthals In Space",
-        "url": "https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei"
-      },
-      "artists": [
-        {
-          "name": "The Neanderthals",
-          "url": "https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8"
-        },
-        {
-          "name": "Eddie Angel (Los Straitjackets)",
-          "url": "https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Space Oddity",
-      "url": "https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Rock En Espanol Vol. 1",
-        "url": "https://open.spotify.com/album/6gE8ol6OTdEFZ1N9UkEatE"
-      },
-      "artists": [
-        {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Hey Lupe",
-      "url": "https://open.spotify.com/track/6DvXacvfWJMQjbf7svgLKV"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Sonido Bestia",
-        "url": "https://open.spotify.com/album/2vhLgPbWmqdHaI0Fm9xRZ2"
-      },
-      "artists": [
-        {
-          "name": "Fenomeno Fuzz",
-          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
-        }
-      ],
-      "duration_ms": 186316,
-      "name": "La Viuda Negra",
-      "url": "https://open.spotify.com/track/6VQLwi3MRRSRgJojJmPH7E"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 139400,
-      "name": "Fuera Ropa",
-      "url": "https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Canten en Espanol",
-        "url": "https://open.spotify.com/album/4fP6yefBsMCraBXac208kD"
-      },
-      "artists": [
-        {
-          "name": "Wau y Los Arrrghs!!!",
-          "url": "https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh"
-        }
-      ],
-      "duration_ms": 163093,
-      "name": "Momia Twist",
-      "url": "https://open.spotify.com/track/3mUqECdAhiAj5UJEAlZRCy"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Organ Grinder",
-        "url": "https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR"
-      },
-      "artists": [
-        {
-          "name": "The Bomboras",
-          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
-        }
-      ],
-      "duration_ms": 120866,
-      "name": "Return Of The Death Ray",
-      "url": "https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Ecos de otro Mundo",
-        "url": "https://open.spotify.com/album/1VaU9NDP2QLG6q4QqzXiOp"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Chamula",
-      "url": "https://open.spotify.com/track/1yJPLN1XmG91wzceFXJurj"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Psiconauta",
-        "url": "https://open.spotify.com/album/5inj7YxYGtzjAkQIfxy6TN"
-      },
-      "artists": [
-        {
-          "name": "Los Granujas",
-          "url": "https://open.spotify.com/artist/2CRPNRXkUHbH0m3UY75GGT"
-        }
-      ],
-      "duration_ms": 145597,
-      "name": "Rev\u00f3lver Marciano",
-      "url": "https://open.spotify.com/track/1Y3gJSc7xsOS6bYBgRF17R"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Acapulco Golden",
-        "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 97200,
-      "name": "Surf Mongol",
-      "url": "https://open.spotify.com/track/48He8hwSetoMQPesFnnh6H"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Jet Set",
-        "url": "https://open.spotify.com/album/6cPEX5uD34EuPDZYisJu3w"
-      },
-      "artists": [
-        {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "New Siberia",
-      "url": "https://open.spotify.com/track/5LOvf3VYtuSqFsakw2WyFb"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 116013,
-      "name": "Tiki Surf",
-      "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Resurrection of the Blood Zombies from Beyond!",
-        "url": "https://open.spotify.com/album/3zosPfY4bKBfuBjPvHyiIH"
-      },
-      "artists": [
-        {
-          "name": "TELEKRIMEN",
-          "url": "https://open.spotify.com/artist/2KEmsfx3vYhlcs0nATaFkC"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "Mutantes",
-      "url": "https://open.spotify.com/track/0jqpnsBXWrGhf31HIJ6v8E"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Guadalupe Plata 2017",
-        "url": "https://open.spotify.com/album/1KhotXvIwJzIUmnWVt5d4H"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Plata",
-          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
-        }
-      ],
-      "duration_ms": 297942,
-      "name": "Qu\u00e9 He Sacado Con Quererte (aka Violeta Parra)",
-      "url": "https://open.spotify.com/track/2dyvq27rii2hF8sAZCGXf5"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "The Nebulas",
-        "url": "https://open.spotify.com/album/0sQaPVhkMbLaVtQuQu2eCk"
-      },
-      "artists": [
-        {
-          "name": "The Nebulas",
-          "url": "https://open.spotify.com/artist/1AT04gH0CP5RTSTFkJQCi1"
-        }
-      ],
-      "duration_ms": 177146,
-      "name": "Logan's Run",
-      "url": "https://open.spotify.com/track/1eBUpSGH2gLrrB2Wy2lwCZ"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Guitars In Orbit",
-        "url": "https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc"
-      },
-      "artists": [
-        {
-          "name": "Los Twang! Marvels",
-          "url": "https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL"
-        }
-      ],
-      "duration_ms": 123107,
-      "name": "Swan's Lake",
-      "url": "https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Relampagore",
-        "url": "https://open.spotify.com/album/4Ml1UTPT1hwxmo1loB8TnQ"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 165937,
-      "name": "Relampagore",
-      "url": "https://open.spotify.com/track/0eRIwJaZLI6zdks7BXcCma"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "La Dosis Perfecta",
-        "url": "https://open.spotify.com/album/6YCHADzZp1iYWHO1fpPjOn"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "La Dosis Perfecta",
-      "url": "https://open.spotify.com/track/3pTHO0Q5QlixCL2eGbx1kl"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Canten en Espanol",
-        "url": "https://open.spotify.com/album/4fP6yefBsMCraBXac208kD"
-      },
-      "artists": [
-        {
-          "name": "Wau y Los Arrrghs!!!",
-          "url": "https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh"
-        }
-      ],
-      "duration_ms": 126106,
-      "name": "Hey Monstruo Hey",
-      "url": "https://open.spotify.com/track/1hYC8B4sfO4Wyi7WFbB44P"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 126626,
-      "name": "Surfin Beer",
-      "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Mondo Zombie Boogaloo",
-        "url": "https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI"
-      },
-      "artists": [
-        {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "It's Monster Surfing Time",
-      "url": "https://open.spotify.com/track/60xQKEF7PVW14ITUCVC8ip"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Bestiario de Santa Lucia",
-        "url": "https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a"
-      },
-      "artists": [
-        {
-          "name": "Los Vaguens",
-          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
-        }
-      ],
-      "duration_ms": 209536,
-      "name": "Labios Carmin",
-      "url": "https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "The Octopus Incident? (This Was the Day That Engulfed the Space in Terror)",
-        "url": "https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0"
-      },
-      "artists": [
-        {
-          "name": "Hawaii Samurai",
-          "url": "https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Pintor",
-      "url": "https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Surf Quake!",
-        "url": "https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz"
-      },
-      "artists": [
-        {
-          "name": "The Volcanos",
-          "url": "https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i"
-        }
-      ],
-      "duration_ms": 127760,
-      "name": "The Last Wave",
-      "url": "https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Acapulco Golden",
-        "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 147240,
-      "name": "Acapulco Golden",
-      "url": "https://open.spotify.com/track/27ytIflM3JBuOEO8cz16XK"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Surf Vs The Flying Saucers",
-        "url": "https://open.spotify.com/album/1gwqaSqAt3klyYmbATSDNu"
-      },
-      "artists": [
-        {
-          "name": "Urban Surf Kings",
-          "url": "https://open.spotify.com/artist/2PibVUaJBzKOmP872xVQ02"
-        }
-      ],
-      "duration_ms": 159946,
-      "name": "Surf Vs. The Flying Saucers",
-      "url": "https://open.spotify.com/track/2M9DsKdenidJeWP1mqcfNq"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Daddy-O Grande In Mexico",
-        "url": "https://open.spotify.com/album/26eEerapTfJvphEBK0mks5"
-      },
-      "artists": [
-        {
-          "name": "Danny Amis with Lost Acapulco",
-          "url": "https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k"
-        }
-      ],
-      "duration_ms": 189853,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/57819d21abP6AB4L2jFgAy"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Taste the Blood of Guitaracula",
-        "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
-      },
-      "artists": [
-        {
-          "name": "Messer Chups",
-          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Surf De L'amour",
-      "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "El Ma\u00f1anero",
-        "url": "https://open.spotify.com/album/2yrePX50eH5qhaKH2bcFFQ"
-      },
-      "artists": [
-        {
-          "name": "Wau y Los Arrrghs!!!",
-          "url": "https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh"
-        }
-      ],
-      "duration_ms": 158847,
-      "name": "El Ma\u00f1anero",
-      "url": "https://open.spotify.com/track/5uHhRkcYM1m75a6D8z0QOR"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "El Fantastico Sonido Surf & Hot Rod de los Kahunas",
-        "url": "https://open.spotify.com/album/4AR2Ig1ZjyMxfyske9Ohak"
-      },
-      "artists": [
-        {
-          "name": "Los Kahunas",
-          "url": "https://open.spotify.com/artist/7BaYvs3P41031o3edkXrce"
-        }
-      ],
-      "duration_ms": 140613,
-      "name": "Another Summer Song",
-      "url": "https://open.spotify.com/track/7iruFdG3C7IrydGl57fWcU"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Never Mind The Bolsheviks - The Best Of\u2026",
-        "url": "https://open.spotify.com/album/6wz7bEL4keadApTdRTYy3z"
-      },
-      "artists": [
-        {
-          "name": "The Space Cossacks",
-          "url": "https://open.spotify.com/artist/1XhaaT9U8CACi8QQepcl3p"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Tsunami Tsurprise",
-      "url": "https://open.spotify.com/track/3wMrGuCEolLgMFwco9ZbMa"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Soy Pandillero",
-        "url": "https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84"
-      },
-      "artists": [
-        {
-          "name": "Los Pandilleros",
-          "url": "https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA"
-        }
-      ],
-      "duration_ms": 224151,
-      "name": "Soy Pandillero",
-      "url": "https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Acapulco Golden",
-        "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 179987,
-      "name": "Calaveras Del Justicio",
-      "url": "https://open.spotify.com/track/1PAikppNGtacY4JblDukir"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        },
-        {
-          "name": "Abulon",
-          "url": "https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6"
-        }
-      ],
-      "duration_ms": 115293,
-      "name": "La Chica Rockabilly",
-      "url": "https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Garaje o Muerte",
-        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
-      },
-      "artists": [
-        {
-          "name": "Los Peyotes",
-          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
-        }
-      ],
-      "duration_ms": 123612,
-      "name": "Garaje o Muerte",
-      "url": "https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Naci\u00f3n Apache",
-        "url": "https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp"
-      },
-      "artists": [
-        {
-          "name": "Twin Tones",
-          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
-        }
-      ],
-      "duration_ms": 125360,
-      "name": "Bandidos",
-      "url": "https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Satisfaction Woman",
-        "url": "https://open.spotify.com/album/0oyxJmhl031UC2aWktIhuV"
-      },
-      "artists": [
-        {
-          "name": "Los Explosivos",
-          "url": "https://open.spotify.com/artist/4pWmLxYkoUHNmsm1KGzS0d"
-        }
-      ],
-      "duration_ms": 218882,
-      "name": "Barracuda (Bonus Track)",
-      "url": "https://open.spotify.com/track/5wUVmLSKRLnn6JOC7NxTDt"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/3GYgCKeM5X33IflH762MAO"
-      },
-      "artists": [
-        {
-          "name": "The Madeira",
-          "url": "https://open.spotify.com/artist/0onb2OjHiGTxu5kylK1CXp"
-        }
-      ],
-      "duration_ms": 235680,
-      "name": "Intruder",
-      "url": "https://open.spotify.com/track/0WyAiymmsxOqoujctf8MrB"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Canten en Espanol",
-        "url": "https://open.spotify.com/album/4fP6yefBsMCraBXac208kD"
-      },
-      "artists": [
-        {
-          "name": "Wau y Los Arrrghs!!!",
-          "url": "https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Nina",
-      "url": "https://open.spotify.com/track/6gQYk680D0HbLMnSJEMaEe"
+      "duration_ms": 183306,
+      "name": "El Garage de Gina Monster",
+      "url": "https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1099,6 +171,430 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Naci\u00f3n Apache",
+        "url": "https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp"
+      },
+      "artists": [
+        {
+          "name": "Twin Tones",
+          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
+        }
+      ],
+      "duration_ms": 128453,
+      "name": "Naci\u00f3n Apache",
+      "url": "https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Daddy-O Grande In Mexico",
+        "url": "https://open.spotify.com/album/26eEerapTfJvphEBK0mks5"
+      },
+      "artists": [
+        {
+          "name": "Danny Amis with Lost Acapulco",
+          "url": "https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Miradas de Amor",
+      "url": "https://open.spotify.com/track/69yUYFDZvdT31jTwWYG9XN"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Acapulco Golden",
+        "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "Surf Mongol",
+      "url": "https://open.spotify.com/track/48He8hwSetoMQPesFnnh6H"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Canten en Espanol",
+        "url": "https://open.spotify.com/album/4fP6yefBsMCraBXac208kD"
+      },
+      "artists": [
+        {
+          "name": "Wau y Los Arrrghs!!!",
+          "url": "https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh"
+        }
+      ],
+      "duration_ms": 155840,
+      "name": "Demolicion",
+      "url": "https://open.spotify.com/track/2y09VqX40HrMpd3skVobOa"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Martinis & Bikinis",
+        "url": "https://open.spotify.com/album/05IVUYcH4LBJifRy3C0BBB"
+      },
+      "artists": [
+        {
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+        }
+      ],
+      "duration_ms": 141825,
+      "name": "El Bikini de la Chica Popof",
+      "url": "https://open.spotify.com/track/5v9qoKW6B0czgAEubebKJt"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Yo Fui una Adolescente Terrosat\u00e1nica",
+        "url": "https://open.spotify.com/album/3zMDMHmWNh5JvoMf9WEL1S"
+      },
+      "artists": [
+        {
+          "name": "Ultrasonicas",
+          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "Monstruo Verde",
+      "url": "https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "The Incredible Crocotiger",
+        "url": "https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P"
+      },
+      "artists": [
+        {
+          "name": "Messer Chups",
+          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Magneto",
+      "url": "https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Agua Ardiente",
+        "url": "https://open.spotify.com/album/1U8NdMusp31P2BG59J1CEL"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 239680,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/7GNjqqUVttsZHrcbJ62e3J"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Los Esquizitos Escuchese Bien Fuerte",
+        "url": "https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna"
+      },
+      "artists": [
+        {
+          "name": "Los Esquizitos",
+          "url": "https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Santo y Lunave",
+      "url": "https://open.spotify.com/track/2vgEo9N4GLVpFBHkTHFA2I"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Acapulco Golden",
+        "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 147240,
+      "name": "Acapulco Golden",
+      "url": "https://open.spotify.com/track/27ytIflM3JBuOEO8cz16XK"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Canten en Espanol",
+        "url": "https://open.spotify.com/album/4fP6yefBsMCraBXac208kD"
+      },
+      "artists": [
+        {
+          "name": "Wau y Los Arrrghs!!!",
+          "url": "https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/6gQYk680D0HbLMnSJEMaEe"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 139400,
+      "name": "Fuera Ropa",
+      "url": "https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Inadaptado",
+        "url": "https://open.spotify.com/album/11bwG8tiRDt9haCo3yOxM1"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Rockabilly",
+          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
+        }
+      ],
+      "duration_ms": 136740,
+      "name": "Inadaptado",
+      "url": "https://open.spotify.com/track/4ldtWKLmk9zDwTK8fujYt7"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "\u00a1Puedes o No Puedes!",
+        "url": "https://open.spotify.com/album/2Sdc8wuXkFxcNyZ9jjdqNL"
+      },
+      "artists": [
+        {
+          "name": "Viernes de Hongos",
+          "url": "https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo"
+        }
+      ],
+      "duration_ms": 214173,
+      "name": "Mar de Caca",
+      "url": "https://open.spotify.com/track/5WxA2mR2wBnPXOvpRFkOXk"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Acapulco Golden",
+        "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 88253,
+      "name": "Tangatutanga",
+      "url": "https://open.spotify.com/track/4OxWepIRN3GXUxF7g4Kwvq"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Rock En Espanol Vol. 1",
+        "url": "https://open.spotify.com/album/6gE8ol6OTdEFZ1N9UkEatE"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Hey Lupe",
+      "url": "https://open.spotify.com/track/6DvXacvfWJMQjbf7svgLKV"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Ca\u00f1onazo Electrocumbiero",
+        "url": "https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 264254,
+      "name": "Bocanegra",
+      "url": "https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Luis Humberto Navejas",
+          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Cuando No Estoy Contigo",
+      "url": "https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Guadalupe Plata 2015",
+        "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Plata",
+          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
+        }
+      ],
+      "duration_ms": 194367,
+      "name": "Calle 24",
+      "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "The Neanderthals In Space",
+        "url": "https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei"
+      },
+      "artists": [
+        {
+          "name": "The Neanderthals",
+          "url": "https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8"
+        },
+        {
+          "name": "Eddie Angel (Los Straitjackets)",
+          "url": "https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Space Oddity",
+      "url": "https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Naci\u00f3n Apache",
+        "url": "https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp"
+      },
+      "artists": [
+        {
+          "name": "Twin Tones",
+          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
+        }
+      ],
+      "duration_ms": 125360,
+      "name": "Bandidos",
+      "url": "https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Relampagore",
+        "url": "https://open.spotify.com/album/4Ml1UTPT1hwxmo1loB8TnQ"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 165937,
+      "name": "Relampagore",
+      "url": "https://open.spotify.com/track/0eRIwJaZLI6zdks7BXcCma"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Canten en Espanol",
+        "url": "https://open.spotify.com/album/4fP6yefBsMCraBXac208kD"
+      },
+      "artists": [
+        {
+          "name": "Wau y Los Arrrghs!!!",
+          "url": "https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh"
+        }
+      ],
+      "duration_ms": 126106,
+      "name": "Hey Monstruo Hey",
+      "url": "https://open.spotify.com/track/1hYC8B4sfO4Wyi7WFbB44P"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Daddy-O Grande In Mexico",
+        "url": "https://open.spotify.com/album/26eEerapTfJvphEBK0mks5"
+      },
+      "artists": [
+        {
+          "name": "Danny Amis with Lost Acapulco",
+          "url": "https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k"
+        }
+      ],
+      "duration_ms": 189853,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/57819d21abP6AB4L2jFgAy"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Sonido Bestia",
+        "url": "https://open.spotify.com/album/2vhLgPbWmqdHaI0Fm9xRZ2"
+      },
+      "artists": [
+        {
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "La Viuda Negra",
+      "url": "https://open.spotify.com/track/6VQLwi3MRRSRgJojJmPH7E"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Los El\u00e1sticos",
+        "url": "https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD"
+      },
+      "artists": [
+        {
+          "name": "Los Elasticos",
+          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Pirakor",
+      "url": "https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "From Mexico With Love",
         "url": "https://open.spotify.com/album/0TBkdI9lgfQNAnrPYqFeV1"
       },
@@ -1119,18 +615,410 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Cosmopolis",
-        "url": "https://open.spotify.com/album/5vTTXLIeYHZKOOnENLn2wB"
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
       "artists": [
         {
-          "name": "Laika & The Cosmonauts",
-          "url": "https://open.spotify.com/artist/6UmSNX1sClVl8rYnig3t9i"
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Abulon",
+          "url": "https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6"
         }
       ],
-      "duration_ms": 143746,
-      "name": "Psyko",
-      "url": "https://open.spotify.com/track/5xusdSugU3nWHnV8VMRv8W"
+      "duration_ms": 115293,
+      "name": "La Chica Rockabilly",
+      "url": "https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Acapulco Golden",
+        "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 179987,
+      "name": "Calaveras Del Justicio",
+      "url": "https://open.spotify.com/track/1PAikppNGtacY4JblDukir"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "I Wanna Believe",
+        "url": "https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8"
+      },
+      "artists": [
+        {
+          "name": "Corizonas",
+          "url": "https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Piangi Con Me",
+      "url": "https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Garaje o Muerte",
+        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
+      },
+      "artists": [
+        {
+          "name": "Los Peyotes",
+          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
+        }
+      ],
+      "duration_ms": 186593,
+      "name": "Peyoteando Con Ayahuasca",
+      "url": "https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Sangre en el Atl\u00e1ntico",
+        "url": "https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp"
+      },
+      "artists": [
+        {
+          "name": "The Cavernarios",
+          "url": "https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Twist Del Elefante",
+      "url": "https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Bomber Man",
+        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 134443,
+      "name": "Bomber Man",
+      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Resurrection of the Blood Zombies from Beyond!",
+        "url": "https://open.spotify.com/album/3zosPfY4bKBfuBjPvHyiIH"
+      },
+      "artists": [
+        {
+          "name": "TELEKRIMEN",
+          "url": "https://open.spotify.com/artist/2KEmsfx3vYhlcs0nATaFkC"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "Mutantes",
+      "url": "https://open.spotify.com/track/0jqpnsBXWrGhf31HIJ6v8E"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Bestiario de Santa Lucia",
+        "url": "https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a"
+      },
+      "artists": [
+        {
+          "name": "Los Vaguens",
+          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
+        }
+      ],
+      "duration_ms": 209536,
+      "name": "Labios Carmin",
+      "url": "https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Perfume de Violetas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/03663WodvoLxswAm8iHB4r"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 135440,
+      "name": "Olvidemos el Romance .. Cojamos Ya!",
+      "url": "https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Satisfaction Woman",
+        "url": "https://open.spotify.com/album/0oyxJmhl031UC2aWktIhuV"
+      },
+      "artists": [
+        {
+          "name": "Los Explosivos",
+          "url": "https://open.spotify.com/artist/4pWmLxYkoUHNmsm1KGzS0d"
+        }
+      ],
+      "duration_ms": 218882,
+      "name": "Barracuda (Bonus Track)",
+      "url": "https://open.spotify.com/track/5wUVmLSKRLnn6JOC7NxTDt"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Soy Pandillero",
+        "url": "https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84"
+      },
+      "artists": [
+        {
+          "name": "Los Pandilleros",
+          "url": "https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA"
+        }
+      ],
+      "duration_ms": 224151,
+      "name": "Soy Pandillero",
+      "url": "https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Garaje o Muerte",
+        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
+      },
+      "artists": [
+        {
+          "name": "Los Peyotes",
+          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
+        }
+      ],
+      "duration_ms": 147331,
+      "name": "96 Lagrimas",
+      "url": "https://open.spotify.com/track/00KMOWuq9s94Nbv3PXKRUB"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Taste the Blood of Guitaracula",
+        "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
+      },
+      "artists": [
+        {
+          "name": "Messer Chups",
+          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Surf De L'amour",
+      "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Ecos de otro Mundo",
+        "url": "https://open.spotify.com/album/1VaU9NDP2QLG6q4QqzXiOp"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "Chamula",
+      "url": "https://open.spotify.com/track/1yJPLN1XmG91wzceFXJurj"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Jet Set",
+        "url": "https://open.spotify.com/album/6cPEX5uD34EuPDZYisJu3w"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "New Siberia",
+      "url": "https://open.spotify.com/track/5LOvf3VYtuSqFsakw2WyFb"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/1mUWOkbtGj9oEMT20orpJW"
+      },
+      "artists": [
+        {
+          "name": "Los Infierno",
+          "url": "https://open.spotify.com/artist/2Ss3Q7aKxMNVX2z5vFUGXM"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "Brebaje de Amor No. 9",
+      "url": "https://open.spotify.com/track/3mGhpbgbsA9ntxCq7OTwsM"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Garaje o Muerte",
+        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
+      },
+      "artists": [
+        {
+          "name": "Los Peyotes",
+          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
+        }
+      ],
+      "duration_ms": 123612,
+      "name": "Garaje o Muerte",
+      "url": "https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Acapulco Golden",
+        "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Aqua Velva",
+      "url": "https://open.spotify.com/track/3tLQnUodu2YkdYcUJcmdQA"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 126626,
+      "name": "Surfin Beer",
+      "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Oh! Mi Nena",
+        "url": "https://open.spotify.com/album/1wGh6QOj8g36KJHQT3VnfQ"
+      },
+      "artists": [
+        {
+          "name": "Eddie y los Grasosos",
+          "url": "https://open.spotify.com/artist/38WzKEi8tjrcKZ7i5CPHkP"
+        }
+      ],
+      "duration_ms": 120933,
+      "name": "Cherry Bop",
+      "url": "https://open.spotify.com/track/1bczxaqjIpbTJR1UkKXirI"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/1GXzJea9SIMyWz6yds1rxI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Jean",
+          "url": "https://open.spotify.com/artist/4elV7QXSkvQNskYUEc5SFe"
+        }
+      ],
+      "duration_ms": 250694,
+      "name": "Jaan Pehechaan Ho",
+      "url": "https://open.spotify.com/track/1hyvt4Nz36V3HiiH2xlnVH"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Dos Bandas y un Destino",
+        "url": "https://open.spotify.com/album/3BmLh6ul8Rbj9LiabRcKQ1"
+      },
+      "artists": [
+        {
+          "name": "Arizona Baby",
+          "url": "https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV"
+        },
+        {
+          "name": "Los Coronas",
+          "url": "https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Guadalupe Plata 2017",
+        "url": "https://open.spotify.com/album/1KhotXvIwJzIUmnWVt5d4H"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Plata",
+          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
+        }
+      ],
+      "duration_ms": 297942,
+      "name": "Qu\u00e9 He Sacado Con Quererte (aka Violeta Parra)",
+      "url": "https://open.spotify.com/track/2dyvq27rii2hF8sAZCGXf5"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Canciones Basura",
+        "url": "https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO"
+      },
+      "artists": [
+        {
+          "name": "Yucat\u00e1n A Go-Go",
+          "url": "https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "Abuela Zombie",
+      "url": "https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1151,6 +1039,122 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Prueba de Fuego",
+        "url": "https://open.spotify.com/album/4B3X3FXinXFLV1h69mqVUE"
+      },
+      "artists": [
+        {
+          "name": "Los Twang! Marvels",
+          "url": "https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Phantom of the Highway",
+      "url": "https://open.spotify.com/track/61CMs0MZFO5Arpau5P4l3R"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Fuera Ropa: XX A\u00f1os",
+        "url": "https://open.spotify.com/album/2JzJfKk0jtO5JRmyRM4VRk"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 126336,
+      "name": "Fuera Ropa: XX A\u00f1os",
+      "url": "https://open.spotify.com/track/1Q5WdqThl9eOa7yfOiMEKY"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "El Rey de los Incendiarios",
+        "url": "https://open.spotify.com/album/63R60NQDS2z8fE4nwOVQRx"
+      },
+      "artists": [
+        {
+          "name": "TELEKRIMEN",
+          "url": "https://open.spotify.com/artist/2KEmsfx3vYhlcs0nATaFkC"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "Podridos",
+      "url": "https://open.spotify.com/track/6nTKlWJw7Ts3uCfxtkSFoy"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Mandira",
+        "url": "https://open.spotify.com/album/2q85XUveaYPO1PXsraljVv"
+      },
+      "artists": [
+        {
+          "name": "The Phantom Four",
+          "url": "https://open.spotify.com/artist/7r7H47Ms0R8Pv8FMEjRCUo"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Morphological Echo",
+      "url": "https://open.spotify.com/track/0Liygw28XGh0DP0EO5lt9D"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Cosmopolis",
+        "url": "https://open.spotify.com/album/5vTTXLIeYHZKOOnENLn2wB"
+      },
+      "artists": [
+        {
+          "name": "Laika & The Cosmonauts",
+          "url": "https://open.spotify.com/artist/6UmSNX1sClVl8rYnig3t9i"
+        }
+      ],
+      "duration_ms": 119760,
+      "name": "Surfs You Right",
+      "url": "https://open.spotify.com/track/4bvXLjqL3zgFAux0ZpXQQ0"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Daniel Gutierrez",
+          "url": "https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Shooby Doo Wop",
+      "url": "https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Surf Quake!",
+        "url": "https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz"
+      },
+      "artists": [
+        {
+          "name": "The Volcanos",
+          "url": "https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i"
+        }
+      ],
+      "duration_ms": 126026,
+      "name": "Whirlpool",
+      "url": "https://open.spotify.com/track/4uUyxCK28787qPada57VMI"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Beat Club",
         "url": "https://open.spotify.com/album/5zhpfTbKSM2wvjL4huzttG"
       },
@@ -1167,6 +1171,70 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Las Mejores Olas",
+        "url": "https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Spy Cam",
+      "url": "https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Swingin' Singles",
+        "url": "https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3"
+      },
+      "artists": [
+        {
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+        }
+      ],
+      "duration_ms": 115266,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "XV A\u00f1os en Vivo en el Alicia",
+        "url": "https://open.spotify.com/album/4o40FcuHxy20ryHeOhTmPe"
+      },
+      "artists": [
+        {
+          "name": "The Cavernarios",
+          "url": "https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "Fiesta en Mis Pantalones - En Vivo",
+      "url": "https://open.spotify.com/track/06tXdLN7VU9XU3jgnKWPWx"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Mondo Zombie Boogaloo",
+        "url": "https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "It's Monster Surfing Time",
+      "url": "https://open.spotify.com/track/60xQKEF7PVW14ITUCVC8ip"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Oh! Mi Nena",
         "url": "https://open.spotify.com/album/1wGh6QOj8g36KJHQT3VnfQ"
       },
@@ -1179,70 +1247,6 @@
       "duration_ms": 175853,
       "name": "Junto a Mi",
       "url": "https://open.spotify.com/track/1hHYV4GmMHkfYbM1EM9cGZ"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "The Lost Album",
-        "url": "https://open.spotify.com/album/7zaDIege7cTVCOkGyto9Bw"
-      },
-      "artists": [
-        {
-          "name": "The Meteors",
-          "url": "https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Psycho for Your Love",
-      "url": "https://open.spotify.com/track/45XtqGyKhOkkYIeOND0KF7"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Naci\u00f3n Apache",
-        "url": "https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp"
-      },
-      "artists": [
-        {
-          "name": "Twin Tones",
-          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
-        }
-      ],
-      "duration_ms": 128453,
-      "name": "Naci\u00f3n Apache",
-      "url": "https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "El Loco Mundo De Los Jovenes",
-        "url": "https://open.spotify.com/album/48P6nJlSaE2zMSSZvD4oSg"
-      },
-      "artists": [
-        {
-          "name": "Doctor Explosion",
-          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Eres Feo, Chaval",
-      "url": "https://open.spotify.com/track/5DXKOjEC1pDOcAwnYMz9uO"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Bomber Man",
-        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 134443,
-      "name": "Bomber Man",
-      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
     }
   ],
   "unique_name": "Rockabilly Surf",

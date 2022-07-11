@@ -4,10 +4,11 @@
 
 > Mode: Turnt
 
-276 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
+276 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 0:00 | 2022-07-08 |  |
 | [25 million](https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:24 | 2021-12-17 |  |
 | [25k jacket \(feat\. Lil Baby\)](https://open.spotify.com/track/0boodYr1uIpSVmGSP65Fmk) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:00 | 2022-01-07 |  |
 | [38 \(feat\. Pressa\)](https://open.spotify.com/track/1QNoq8VTijLPuVXqGAkMAp) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Buy or Bye 2](https://open.spotify.com/album/34dTMVQitxHQO7MXXI1MPf) | 2:37 | 2021-11-12 | 2022-03-08 |
@@ -117,7 +118,6 @@
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2022-05-20 |  |
 | [I Be](https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2 \(Deluxe\)](https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB) | 3:13 | 2022-03-25 |  |
 | [I Don't Really Care](https://open.spotify.com/track/7AFdKKY8VN6gijdxQJgQr4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [I Don't Really Care](https://open.spotify.com/album/4QpszijvM9A6JfeitbD0Ba) | 2:40 | 2021-11-03\* | 2021-11-20 |
-| [I Got A Feeling](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [T Dot](https://open.spotify.com/artist/4Lt8by3K29vseH2bTZNx0p) | [I Got A Feeling](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 3:48 | 2022-07-08 |  |
 | [I Really \(feat\. 42 Dugg & Moneybagg Yo\)](https://open.spotify.com/track/3HKBz579v0gkyUkANPsNFT) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Life Of A Hotboii](https://open.spotify.com/album/5MIneHJL5RBzBXz5qMIAj4) | 3:11 | 2021-12-10 | 2022-06-04 |
 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:56 | 2022-04-29 |  |
 | [I.Y.B.](https://open.spotify.com/track/2sU586qrQQhByPLqEF7pLX) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [I.Y.B.](https://open.spotify.com/album/0Okv5s6Eu9ADmNTMJWXpuL) | 1:33 | 2021-11-19 | 2022-04-29 |

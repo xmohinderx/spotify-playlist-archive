@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 155389,
       "name": "AQUA",
       "url": "https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu"
@@ -9321,7 +9321,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 178813,
       "name": "LETTRE \u00c0 UN OPPS",
       "url": "https://open.spotify.com/track/7LQxyZwcn4Ryq4Z0qllQd3"
@@ -10025,6 +10025,28 @@
       "duration_ms": 138906,
       "name": "M3lo",
       "url": "https://open.spotify.com/track/7ELft1cx8anhsXE405kckI"
+    },
+    {
+      "album": {
+        "name": "\u00c0 la bien (Summer edition)",
+        "url": "https://open.spotify.com/album/4Jf2V4Qj421rVG0d6BSPpW"
+      },
+      "artists": [
+        {
+          "name": "DJ Hamida",
+          "url": "https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3"
+        },
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149554,
+      "name": "Ma b\u00e9b\u00e9 (mi amor)",
+      "url": "https://open.spotify.com/track/1kQ1z3oqDi8qh4WTKSgo2v"
     },
     {
       "album": {
@@ -12621,7 +12643,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"

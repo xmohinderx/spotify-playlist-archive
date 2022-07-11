@@ -4,10 +4,11 @@
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: JID\)
 
-544 songs - 1 day 3 hr 24 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+544 songs - 1 day 3 hr 20 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 0:00 | 2022-07-07 |  |
 | [](https://open.spotify.com/track/34TZ4X0J2RSFKL4oocpIu8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6trzY0QXeydfFxDM8Ch7B6) | 3:55 | 2022-01-27 | 2022-02-25 |
 | [10/10](https://open.spotify.com/track/38Qc167nTyA5RKj1lNKLY5) | [Fakie Funk](https://open.spotify.com/artist/6kCQyhT8nJFl3RMtBhhO1I), [Januarta The Goat](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc), [Yanhe](https://open.spotify.com/artist/7GysfaBnDOKRnoggpPRKZk) | [10/10](https://open.spotify.com/album/7cwjIGxVr4DxLcJsh4TbUb) | 2:54 | 2022-01-20 | 2022-01-28 |
 | [100 Chicagos](https://open.spotify.com/track/2zg04XrOXZLIZGjDo2Z9qH) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [100 Chicagos](https://open.spotify.com/album/0ffO94MgQ8Ev3ZpQDHsYhV) | 2:46 | 2022-03-31 | 2022-04-29 |
@@ -230,7 +231,6 @@
 | [Houston Girls](https://open.spotify.com/track/4qUa545emxu38xVRTLSbCk) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Houston Girls](https://open.spotify.com/album/4OumaO3iZmxeuYRE49s2wu) | 2:20 | 2022-07-07 |  |
 | [Howl \(Feat\. Yellowmane, Sahtyre, Junoflo, G2\)](https://open.spotify.com/track/24N9c3BdEQL2rrfJLggzka) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Yellowmane](https://open.spotify.com/artist/69DIWtgrZbIjorw3g1UqVy), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU), [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66) | [Howl](https://open.spotify.com/album/2DHChOTHjJzyY9RL0RKUlj) | 2:12 | 2022-06-08 | 2022-06-24 |
 | [Hullabaloo](https://open.spotify.com/track/1zew16SiipS0aoEnnfyXtx) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hullabaloo](https://open.spotify.com/album/4WfAFQDRh8VNYDVp6H2wIf) | 1:42 | 2022-02-10 | 2022-03-11 |
-| [I Got A Feeling](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [T Dot](https://open.spotify.com/artist/4Lt8by3K29vseH2bTZNx0p) | [I Got A Feeling](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 3:48 | 2022-07-07 |  |
 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 | 2022-02-24 | 2022-03-18 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-02 |  |
 | [I'm Back](https://open.spotify.com/track/2Ia6RwgTNL8vEt3OPDug0Q) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [I'm Back](https://open.spotify.com/album/7CnPUrBLGflfryoy1PRoc6) | 2:08 | 2022-01-20 | 2022-02-04 |

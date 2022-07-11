@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Desarae Dee Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,106 likes - 95 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,105 likes - 95 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

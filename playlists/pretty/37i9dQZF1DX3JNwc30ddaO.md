@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 
 > Meditative crystal and Tibetan tones for clarity and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,270 likes - 68 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,348 likes - 68 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

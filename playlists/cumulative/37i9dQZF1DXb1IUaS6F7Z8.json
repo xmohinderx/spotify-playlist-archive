@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 210786,
       "name": "Botany Bay",
       "url": "https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 176788,
       "name": "Fearless and Brave",
       "url": "https://open.spotify.com/track/3FaqFP70AuvbV0EbOIqonQ"
@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Grace O'malley",
+        "url": "https://open.spotify.com/album/2ioktS4K96jpk7Q5McGouo"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216736,
+      "name": "Grace O'malley",
+      "url": "https://open.spotify.com/track/7BxuW1u779q9orjpmbNlxF"
+    },
+    {
+      "album": {
         "name": "3 Cheers for 30 Years",
         "url": "https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 201653,
       "name": "Haul Away, Joe",
       "url": "https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 193760,
       "name": "Katie Bar the Door",
       "url": "https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 160013,
       "name": "Mick Jones Nicked My Pudding",
       "url": "https://open.spotify.com/track/2iD8GXpQJlYEgWwiCyXoW2"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 155642,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6fKymBc5tF2uMbQhyRaezA"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 202040,
       "name": "My Darling Dopamine",
       "url": "https://open.spotify.com/track/6WVswDACrMjAkj1nRxYI3Z"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 183426,
       "name": "The Secret Set (Drowsy Maggie / The Star of Munster)",
       "url": "https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 160293,
       "name": "Walk the Plank Again",
       "url": "https://open.spotify.com/track/6EiQJaVP4JLBDVhKTG8tZ3"

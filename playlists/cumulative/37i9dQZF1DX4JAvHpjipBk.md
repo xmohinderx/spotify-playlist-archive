@@ -4,10 +4,11 @@
 
 > New music from Burna Boy & Ed Sheeran, The 1975, Brent Faiyaz, and more!
 
-13,957 songs - 30 day 13 hr 4 min - [published](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
+13,957 songs - 30 day 13 hr 0 min - [published](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 0:00 | 2022-07-08 |  |
 | ["BOP"](https://open.spotify.com/track/07VOlyshShGMYBPgjTIZoz) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | ["BOP"](https://open.spotify.com/album/4PqPRLbVtxL2aF1GZG8tJy) | 1:50 | 2021-01-29 | 2021-02-06 |
 | [\#BEENBALLIN](https://open.spotify.com/track/2gC7erdFPRnp9ZQ3AXgfCv) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [\#BEENBALLIN](https://open.spotify.com/album/0vbnWJigY2wPbWKUKU9Sq0) | 2:37 | 2020-11-20 | 2020-11-27 |
 | ['96 Bulls](https://open.spotify.com/track/0VtyqKSFeXrIVSbpxARxt4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | ['96 Bulls](https://open.spotify.com/album/01Do91GN0SpxAx2iyoJ59G) | 4:07 | 2021-09-04 | 2021-09-11 |
@@ -5791,7 +5792,6 @@
 | [I Give Everything](https://open.spotify.com/track/7dX7gCMEviiaH9YDb9RnCJ) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [I Give Everything](https://open.spotify.com/album/2ljtGIdS43Dx9caG9glR2z) | 2:52 | 2022-01-07 | 2022-01-15 |
 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 | 2021-07-10 | 2021-07-17 |
 | [I Got A Feeling](https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [I Got A Feeling](https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt) | 2:24 | 2021-08-21 | 2021-08-28 |
-| [I Got A Feeling](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [T Dot](https://open.spotify.com/artist/4Lt8by3K29vseH2bTZNx0p) | [I Got A Feeling](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 3:48 | 2022-07-08 |  |
 | [I Got a Truck](https://open.spotify.com/track/1wKxWZPp2yssOKdhT1IZux) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [I Got a Truck](https://open.spotify.com/album/5gxWAlKVsAKvPGuwQGig1I) | 3:43 | 2020-08-14 | 2020-08-21 |
 | [I Got Feelings](https://open.spotify.com/track/6jgVOTrTLEaBII7hnaXBpb) | [Kevo Muney](https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY) | [Lucille's Grandson](https://open.spotify.com/album/4ttqqM7R5dUWLNLBCrMjj9) | 3:03 | 2021-04-10 | 2021-04-17 |
 | [I Got Friends That Do \(feat\. Blake Shelton\)](https://open.spotify.com/track/1s2Vi3OgIbUJMUogVPx61p) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Good Day for Living](https://open.spotify.com/album/4lAQ4LkRAI0sFFEO3YGN6e) | 3:15 | 2022-02-11 | 2022-02-19 |

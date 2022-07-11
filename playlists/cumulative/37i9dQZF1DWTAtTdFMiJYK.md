@@ -2,7 +2,7 @@
 
 ### [Radar India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover : Akanksha Bhandari
+> Most exciting artists from the Indian Indie scene\. Cover : Himonshu Parikh
 
 157 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 

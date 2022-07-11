@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 263041,
       "name": "Bilitis",
       "url": "https://open.spotify.com/track/2oGF6uYbJedBfVFJlbOxaY"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 172201,
       "name": "Dreamin About You",
       "url": "https://open.spotify.com/track/1onjYykeSU1hzu5eH2BIJu"
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 206511,
       "name": "Fluffy Cloudy Day - Lounge Mix",
       "url": "https://open.spotify.com/track/2bD6il0TMcjouS5EaaqRbi"
@@ -2409,7 +2409,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 175010,
       "name": "Long",
       "url": "https://open.spotify.com/track/6WcQ9jSyQjQHF7FoPmkBAC"
@@ -2857,7 +2857,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 268800,
       "name": "Next To Me - And The Stars",
       "url": "https://open.spotify.com/track/1uDuGxGnwMiFYiId1CdlYs"
@@ -3991,7 +3991,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 425026,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/2V2KniBSfVfrmXGqzPvHrh"
@@ -4031,6 +4031,24 @@
       "duration_ms": 104525,
       "name": "Terra",
       "url": "https://open.spotify.com/track/4Zz9Uhk1VrEghNiuRpBQ3O"
+    },
+    {
+      "album": {
+        "name": "Little Pear",
+        "url": "https://open.spotify.com/album/3gDSGSwgXRpvo3TebePUBI"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "The Bishop",
+      "url": "https://open.spotify.com/track/6vA5yrKvNXzgykp5iefZe8"
     },
     {
       "album": {
@@ -4153,7 +4171,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 301968,
       "name": "Tiki Lounge",
       "url": "https://open.spotify.com/track/5UpIKnqCpjohHbYKrRRIko"

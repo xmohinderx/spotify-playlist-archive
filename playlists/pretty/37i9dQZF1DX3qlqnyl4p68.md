@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > Spooky sounds from your favorite horror features on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,391 likes - 39 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403 likes - 39 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

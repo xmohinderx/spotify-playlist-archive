@@ -4,10 +4,11 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-3,143 songs - 6 day 20 hr 43 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+3,143 songs - 6 day 20 hr 39 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 0:00 | 2022-07-08 |  |
 | [\#ImSippinTeaInYoHood](https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:53 | 2022-06-09 | 2022-06-17 |
 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 | 2022-01-27 | 2022-02-04 |
 | [070\-xxxx xxx](https://open.spotify.com/track/4O3yim026F1AwaPevgl9xs) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Höghusdrömmar/070\-xxxx xxx](https://open.spotify.com/album/6LH0TF7elitnmWQ5n0znPb) | 4:00 | 2022-03-17 | 2022-03-25 |
@@ -1307,7 +1308,6 @@
 | [i don't wanna love you](https://open.spotify.com/track/6HOqYYeJej8ubTZsaXUIGC) | [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF) | [i don't wanna love you](https://open.spotify.com/album/2vM7iOKB1H5clA6tUktHrW) | 3:12 | 2022-02-11 | 2022-02-18 |
 | [I ett case](https://open.spotify.com/track/69NpPwkjb1hPTCMvh03R2j) | [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2) | [I ett case](https://open.spotify.com/album/7C5xM9Vo6c3FHaIGLnL5xo) | 3:38 | 2022-05-26 | 2022-06-03 |
 | [I Get It](https://open.spotify.com/track/2WDEUZ3v7XuxjopaqXnJob) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR) | [I GET IT](https://open.spotify.com/album/5HdIwmLN4T7zOiDtbJPoIS) | 2:50 | 2022-04-14 | 2022-04-22 |
-| [I Got A Feeling](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [T Dot](https://open.spotify.com/artist/4Lt8by3K29vseH2bTZNx0p) | [I Got A Feeling](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 3:48 | 2022-07-08 |  |
 | [I Got U](https://open.spotify.com/track/0PCalP6nwulXl9bl2LgroI) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH), [Vicki Vox](https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ) | [I Got U](https://open.spotify.com/album/70enGrCy17DV0ROycwiPWp) | 2:59 | 2022-05-26 | 2022-06-03 |
 | [I Got You](https://open.spotify.com/track/0HAEfZVIMenQUqCiATalMF) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Moodygee](https://open.spotify.com/artist/324vg036DC5fiqiVK4eeto), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Zach Alwin](https://open.spotify.com/artist/3IhZL4dHVP35Hve25QBxU8) | [I Got You](https://open.spotify.com/album/2TGMynyNRUyr0SkFRTMEug) | 3:24 | 2022-03-10 | 2022-03-18 |
 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-03 | 2022-02-11 |

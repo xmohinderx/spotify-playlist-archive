@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 180226,
       "name": "Acapulco Dorado",
       "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 301139,
       "name": "Baby, Don't Let Me",
       "url": "https://open.spotify.com/track/3TAQxgTxSMaznFC1MHa0Xd"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 264672,
       "name": "Bajo el Sol y Frente a Dios",
       "url": "https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 154720,
       "name": "Boom! Boom! Boom!",
       "url": "https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 243466,
       "name": "Born Under a Bad Sign",
       "url": "https://open.spotify.com/track/4bsD4PDZklk1wb6l1IyfZ5"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 198666,
       "name": "Cambia, Cambia",
       "url": "https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 307408,
       "name": "Ciudad Hippie",
       "url": "https://open.spotify.com/track/5LdkkBK0i72xJku8NXkXcw"
@@ -329,6 +329,24 @@
       "duration_ms": 157617,
       "name": "Como Yo",
       "url": "https://open.spotify.com/track/5OLjJx0sqC7LraFH3k0PB9"
+    },
+    {
+      "album": {
+        "name": "Cosa Nostra",
+        "url": "https://open.spotify.com/album/0E2pdvJQkI37xy9A8FDGyG"
+      },
+      "artists": [
+        {
+          "name": "Cossa Nostra",
+          "url": "https://open.spotify.com/artist/3wLZEAt80jqCe3F2XJaSIT"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313527,
+      "name": "Cosa Nostra",
+      "url": "https://open.spotify.com/track/7At3CefKNTxcUAFeHgWFRO"
     },
     {
       "album": {
@@ -415,7 +433,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 162640,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/68Ta3hyeW5klPKqi0F4t5L"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 264161,
       "name": "Ella Fue",
       "url": "https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 169392,
       "name": "Es una Pena Nena",
       "url": "https://open.spotify.com/track/4dikOztsQAAtQdX33ccpAF"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 330328,
       "name": "Gente Tonta",
       "url": "https://open.spotify.com/track/5tVlYVcUdr3r0zF5ER5BK4"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 158528,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/4V12HHDMFBsa9M4vFw7C0d"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 235160,
       "name": "Insurgensex",
       "url": "https://open.spotify.com/track/5YfgBQqKkQOxrS6U0zfKgl"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 196372,
       "name": "It's Too Bad",
       "url": "https://open.spotify.com/track/18TQrAMqV0NsSatEnHrTRb"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 163359,
       "name": "Jenny My Love",
       "url": "https://open.spotify.com/track/2WYolGpDeO4oULo9FCu3Bd"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 233124,
       "name": "Lamentos de un Mico",
       "url": "https://open.spotify.com/track/1Uq3pL25m0UQ7ATYQAIdUb"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 192893,
       "name": "Nada Nos Detendr\u00e1",
       "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 283226,
       "name": "Nadie En Especial",
       "url": "https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 331333,
       "name": "No One to Depend On",
       "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 172043,
       "name": "No Te Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/4sivmBy111vgjs7Ke9Ltb1"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 188395,
       "name": "Preludio de la Felicidad",
       "url": "https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 187386,
       "name": "Roaming",
       "url": "https://open.spotify.com/track/1s5KYOR8PiPA55bxfhFvz3"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 194920,
       "name": "Stupid Things (Cosas Estupidas)",
       "url": "https://open.spotify.com/track/16aL9zzcK2j34tCe8jyWnW"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 229679,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/0G38FsYtQ76qHRsv6PKulj"
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 147930,
       "name": "Te Vas a Perder",
       "url": "https://open.spotify.com/track/55o3dwIn4noclOPF4kN3ic"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 359492,
       "name": "The Best I Can",
       "url": "https://open.spotify.com/track/5f20wNhDfUOkjFyemzVXuj"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 267082,
       "name": "The Train",
       "url": "https://open.spotify.com/track/2NIALKJKHJM2EhGl6gUceq"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 281773,
       "name": "Tiempo Perdido",
       "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 207346,
       "name": "T\u00fa Eres Mi Amor",
       "url": "https://open.spotify.com/track/6W1u2Gd9UfQABT3d2BToHi"

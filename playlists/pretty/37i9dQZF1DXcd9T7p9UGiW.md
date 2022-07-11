@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em?si=kYlrZPFkR2K7rUjO8eZZXg" > Guiltybeatz </a>, <a href="https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn?si=4rYTPrtpTBS7vGZWtl6diA" > Mr Hudson </a>  and <a href="https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go?si=U\-6UaZxDTPih\_z1MYXb6CQ" > Twitch4eva </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,087 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,100 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
