@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Foals
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,667 likes - 119 songs - 7 hr 16 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,666 likes - 119 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

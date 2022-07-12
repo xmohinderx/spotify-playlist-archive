@@ -4,7 +4,7 @@
 
 > Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more! Cover: Sam Feldt and Salem Ilese
 
-165 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
+166 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Forgive Me](https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Forgive Me](https://open.spotify.com/album/27JlVMNrOc1aaHmnaWmCRW) | 3:45 | 2022-06-03 |  |
 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 | 2022-06-03 |  |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-06-03 |  |
+| [Get To Know Me](https://open.spotify.com/track/6SmsuhxUTtgWQhK723xkDJ) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Get To Know Me](https://open.spotify.com/album/4s2SYi5i0nmWy3RlYWHGLW) | 3:01 | 2022-07-11 |  |
 | [Hallucination](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Hallucination](https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh) | 2:54 | 2022-06-03 |  |
 | [Hallucination \- Luude Remix](https://open.spotify.com/track/272Pe5QxPswPH6P1qLq05K) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg) | [Hallucination \(Luude Remix\)](https://open.spotify.com/album/5fTCc5pT3TuEFcfjGA7HHO) | 2:47 | 2022-06-03 |  |
 | [Hate Me](https://open.spotify.com/track/4UkpdfVqpn7aHlXWibsv5q) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Hate Me](https://open.spotify.com/album/0sJEjzcDY59OtCL5UbUmRA) | 2:34 | 2022-06-24 |  |

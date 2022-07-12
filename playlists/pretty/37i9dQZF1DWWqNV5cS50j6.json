@@ -1,13 +1,29 @@
 {
   "description": "Indie music antimatter. Cover: Groupthink",
-  "num_followers": 651183,
+  "num_followers": 651293,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzMxNjcyNCwwMDAwMzQ2NjAwMDAwMTgxZGZjNjRmMTYwMDAwMDE4MThjZDM0OGYx",
+  "snapshot_id": "MTY1NzU2OTgyNSwwMDAwMzQ2NzAwMDAwMTgxZWVkYzUzMTEwMDAwMDE4MThjZDM0OGYx",
   "tracks": [
+    {
+      "added_at": "2022-07-11 20:03:45",
+      "album": {
+        "name": "play pretend",
+        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        }
+      ],
+      "duration_ms": 117774,
+      "name": "play pretend",
+      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+    },
     {
       "added_at": "2022-07-08 06:52:00",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
-      "added_at": "2022-07-08 06:52:00",
+      "added_at": "2022-06-30 04:28:30",
       "album": {
-        "name": "Xeno",
-        "url": "https://open.spotify.com/album/3coE5Zmvd7zx2LYX6tIkOV"
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/5xf9dOicHkp1tRHzb4PFFg"
       },
       "artists": [
         {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
         }
       ],
-      "duration_ms": 155413,
-      "name": "Centauri",
-      "url": "https://open.spotify.com/track/2gRRFco9B1M912c7wX5Nhg"
+      "duration_ms": 163909,
+      "name": "Sex Is A Sport",
+      "url": "https://open.spotify.com/track/60KObg7fLDbnHmgmmG8X5m"
     },
     {
       "added_at": "2022-07-08 06:52:00",
@@ -61,20 +77,20 @@
       "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
     },
     {
-      "added_at": "2022-06-30 04:28:30",
+      "added_at": "2022-07-08 06:52:00",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/5xf9dOicHkp1tRHzb4PFFg"
+        "name": "Xeno",
+        "url": "https://open.spotify.com/album/3coE5Zmvd7zx2LYX6tIkOV"
       },
       "artists": [
         {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
         }
       ],
-      "duration_ms": 163909,
-      "name": "Sex Is A Sport",
-      "url": "https://open.spotify.com/track/60KObg7fLDbnHmgmmG8X5m"
+      "duration_ms": 155413,
+      "name": "Centauri",
+      "url": "https://open.spotify.com/track/2gRRFco9B1M912c7wX5Nhg"
     },
     {
       "added_at": "2022-06-30 04:28:30",
@@ -1607,26 +1623,6 @@
       "duration_ms": 150322,
       "name": "DITTO",
       "url": "https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF"
-    },
-    {
-      "added_at": "2022-06-30 04:28:30",
-      "album": {
-        "name": "Off The Drugs",
-        "url": "https://open.spotify.com/album/1NjXy9akXwlUfk74r2owE1"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 177273,
-      "name": "Off The Drugs",
-      "url": "https://open.spotify.com/track/3mal4dMlkVy42F7bEjU3Jy"
     },
     {
       "added_at": "2022-06-30 04:28:30",

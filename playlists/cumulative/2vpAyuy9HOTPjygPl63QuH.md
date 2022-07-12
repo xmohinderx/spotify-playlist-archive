@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-251 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+252 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bring It](https://open.spotify.com/track/1fSvb5qQ4iL8LNbpnpLubr) | [KMAND](https://open.spotify.com/artist/03QDZTSnkVSpAOVDTrqRo1) | [Bring It](https://open.spotify.com/album/0XOd60MvC6AT6Zgtb4y6Fw) | 2:53 | 2022-07-01 | 2022-07-10 |
 | [Bring the House](https://open.spotify.com/track/7Bko4vvm1aUdWZ54aQYDfx) | [Pocho](https://open.spotify.com/artist/3msil4wzL0HrW6O1HHV5F2) | [Bring the House](https://open.spotify.com/album/6trWlniWrPVr07sTbHuMe4) | 2:54 | 2022-05-29 | 2022-06-04 |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-03 | 2022-06-11 |
+| [Brujeria](https://open.spotify.com/track/4x0mCd7Z0MWn3tJ2QKWQSI) | [Gaba](https://open.spotify.com/artist/6uPDwlTytGAzI42bG23K5I) | [Brujeria](https://open.spotify.com/album/3T7ERtTWQNik5QhwpNhoX6) | 3:38 | 2022-07-11 |  |
 | [Bumpin'](https://open.spotify.com/track/2JSRHxHfbteGcueRhfKtm7) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Bumpin'](https://open.spotify.com/album/4BtfgqdJz0qKvr7hHXAAmo) | 2:50 | 2022-06-03 | 2022-06-11 |
 | [Burn This House](https://open.spotify.com/track/5HYOVRe3chMbHoFnGxdxWC) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Burn This House](https://open.spotify.com/album/54p2xfsHK8EbDCSLsEX956) | 3:35 | 2022-04-28 | 2022-05-14 |
 | [Can You Feel It](https://open.spotify.com/track/5FCzMiHrGRayOu12J65Syp) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Can You Feel It](https://open.spotify.com/album/7h4QbMGJ5KIsxVVjJIu8k7) | 3:44 | 2022-04-28 | 2022-05-14 |
@@ -256,7 +257,7 @@
 | [What You Waiting For?](https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [What You Waiting For?](https://open.spotify.com/album/122TcLx7ilK2T5Ri3mJ92C) | 3:51 | 2022-07-09 |  |
 | [Where's Your Head At \- Martin Ikin Remix](https://open.spotify.com/track/3wlcn9OqjAhBnX0Bw053VB) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Where's Your Head At \(Martin Ikin Remix\)](https://open.spotify.com/album/29ZUj3UKLquWqyoo1VeVxn) | 5:46 | 2022-05-29 | 2022-06-04 |
 | [Who U With](https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f), [rrotik](https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd), [Killa Kela](https://open.spotify.com/artist/6xus0aGb1MipQik7XcSX82) | [Who U With](https://open.spotify.com/album/1waUr0RXjEInyT5ogwL7no) | 2:41 | 2022-06-03 | 2022-06-11 |
-| [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fisher](https://open.spotify.com/artist/1KXyMrwf1RFipbVOKsrYyg), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-07-09 |  |
+| [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-07-09 |  |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-06-17 | 2022-06-25 |
 | [You Set Me Free](https://open.spotify.com/track/75HQDik0zGfqBjdqctuHqL) | [AISKA](https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [You Set Me Free](https://open.spotify.com/album/1GYS0TxlnkfulEtzqT4EU0) | 2:41 | 2022-05-18 | 2022-05-30 |
 

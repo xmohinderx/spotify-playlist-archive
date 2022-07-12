@@ -4,7 +4,7 @@
 
 > Welcome to the Hope World! 💜
 
-9 songs - 27 min 18 sec - not published yet
+9 songs - 27 min 18 sec - [published](https://open.spotify.com/playlist/31w8VNP0So8iNJRQRbTw5W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

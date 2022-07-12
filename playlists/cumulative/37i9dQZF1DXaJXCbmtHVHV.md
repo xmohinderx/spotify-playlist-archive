@@ -4,7 +4,7 @@
 
 > The top country hits of the week across America! Cover: Kane Brown
 
-102 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
+103 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 | 2021-12-28 | 2022-01-19 |
 | [Come Back As A Country Boy](https://open.spotify.com/track/5EDtmgwR1lDmDGLZraNpJg) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Come Back As A Country Boy](https://open.spotify.com/album/3gSuTyJGP9ZFnpXC1QHimc) | 3:41 | 2021-12-28 | 2022-05-04 |
 | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/track/6W8ip4419k9qTlOAkAU4uN) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/album/2dA4e6yg8TumkbOWZJYunN) | 3:07 | 2021-12-28 | 2022-04-05 |
+| [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 | 2022-07-11 |  |
 | [Country'd Look Good On You](https://open.spotify.com/track/6d7k8PoVEnBgwBsPvKsubp) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Country'd Look Good On You](https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO) | 3:22 | 2021-12-28 |  |
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2021-12-28 |  |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-05-16 | 2022-06-07 |
@@ -95,7 +96,7 @@
 | [Truth About You](https://open.spotify.com/track/4Qum1kECNQrpREev5fvAQ4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Truth About You](https://open.spotify.com/album/3XoK5Dz1cSeeRi5bbO2Gbt) | 3:23 | 2022-02-21 |  |
 | [Up](https://open.spotify.com/track/1GOMHxclGDvkcODCfYuuje) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:03 | 2021-12-28 | 2022-04-20 |
 | [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 | 2022-03-14 |  |
-| [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-07-05 |  |
+| [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-07-05 | 2022-07-12 |
 | [What A Song Can Do](https://open.spotify.com/track/2hRDjNbuoqxqHcXj29JJfZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Chapter One\)](https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb) | 3:41 | 2022-04-04 | 2022-06-22 |
 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 | 2022-07-05 |  |
 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2022-06-06 |  |

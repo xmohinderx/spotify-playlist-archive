@@ -4,7 +4,7 @@
 
 > Indie music antimatter\. Cover: Groupthink
 
-1,011 songs - 2 day 1 hr 13 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,012 songs - 2 day 1 hr 15 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,7 +632,7 @@
 | [Obvious Guy](https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:21 | 2020-12-29 | 2022-02-12 |
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2021-09-11 | 2021-10-16 |
 | [Ode To Soulja Girl \(feat\. AG Club\)](https://open.spotify.com/track/6TWDNh3Sc6zWB11RDZcKOV) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [House of P.U.K.E](https://open.spotify.com/album/4psxw5nnUF3m21uO9Wrtcq) | 3:53 | 2021-06-05 | 2021-10-16 |
-| [Off The Drugs](https://open.spotify.com/track/3mal4dMlkVy42F7bEjU3Jy) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Off The Drugs](https://open.spotify.com/album/1NjXy9akXwlUfk74r2owE1) | 2:57 | 2021-07-19 |  |
+| [Off The Drugs](https://open.spotify.com/track/3mal4dMlkVy42F7bEjU3Jy) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Off The Drugs](https://open.spotify.com/album/1NjXy9akXwlUfk74r2owE1) | 2:57 | 2021-07-19 | 2022-07-12 |
 | [Oh Yeah](https://open.spotify.com/track/00S56mM2szrRreAaglglag) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e), [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Oh Yeah](https://open.spotify.com/album/4NiLEk70DGFpYQBBUmpZvQ) | 2:55 | 2022-06-17 |  |
 | [On Me](https://open.spotify.com/track/6I50jyqSlDnzL74mIdsUc2) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Strict Face](https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq) | [Parallel World](https://open.spotify.com/album/1Mo1cqa1k11rCtSSm4iUhR) | 2:56 | 2021-05-08 | 2021-10-16 |
 | [On My Own](https://open.spotify.com/track/4g83PCfbuS7n8QqOGnhGTC) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [ERYS](https://open.spotify.com/album/63ipjhu8XSx8se8X3XYlJZ) | 4:04 | 2020-10-13\* | 2020-11-03 |
@@ -679,6 +679,7 @@
 | [Plant!](https://open.spotify.com/track/53oZXP24LECwD6YBybecvG) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Plant!](https://open.spotify.com/album/6M5YgjMimJs0qUBkDmXf3N) | 2:11 | 2021-10-13 | 2022-03-19 |
 | [plastic door//](https://open.spotify.com/track/0J6rNKi7ge3SMsuMuHfMw4) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [plastic door//](https://open.spotify.com/album/4FfoJ8P0LTi9w7gchTCimW) | 3:30 | 2020-10-13\* | 2020-11-03 |
 | [Play Ball](https://open.spotify.com/track/4AnzLupCec8JbTO8SoHGOQ) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Play Ball](https://open.spotify.com/album/0Hxv0nRUqLTCZBKmFm9sqx) | 2:40 | 2021-03-26 | 2021-05-15 |
+| [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 | 2022-07-11 |  |
 | [PNE](https://open.spotify.com/track/583BT5xWjMlnyJm6MuzK8h) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [PNE](https://open.spotify.com/album/5Pukj80wQycC1be8WTuLl4) | 3:11 | 2020-10-13\* | 2021-05-03 |
 | [poison](https://open.spotify.com/track/4E6RRv2D91G1P665WSBADB) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV), [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [junkie](https://open.spotify.com/album/3Rjox1mLxaJLl0P5RwjLnP) | 1:57 | 2022-03-25 | 2022-04-08 |
 | [Politics & Violence](https://open.spotify.com/track/24a9UsAbEK5jB49zZyae58) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Politics & Violence](https://open.spotify.com/album/17PZeiOFJ78sUMsquQYQYR) | 3:17 | 2020-10-13\* | 2021-05-29 |

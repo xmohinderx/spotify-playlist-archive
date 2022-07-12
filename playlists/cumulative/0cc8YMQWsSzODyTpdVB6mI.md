@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-62 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+63 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 | 2021-11-05 |  |
 | [Ecstasy \- Mixed](https://open.spotify.com/track/2PspwQLfDzLUOyaxQ7de5L) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 2:19 | 2021-11-05 |  |
 | [elevate in the village](https://open.spotify.com/track/0ZRKOmFI20AOF2XNKyL4kZ) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [elevate in the village](https://open.spotify.com/album/1hAzBTggPEPrDDVAq1Hktz) | 3:17 | 2021-11-05 |  |
-| [ENTROPY/](https://open.spotify.com/track/0RZS3qAGkztX8LuUSRYmpz) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [ENTROPY/](https://open.spotify.com/album/0A0F6DDqKOEFHXPdPX0ghm) | 3:37 | 2022-05-06 |  |
+| [ENTROPY/](https://open.spotify.com/track/0RZS3qAGkztX8LuUSRYmpz) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [ENTROPY/](https://open.spotify.com/album/0A0F6DDqKOEFHXPdPX0ghm) | 3:37 | 2022-05-06 | 2022-07-12 |
 | [Feel It Out](https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Feel It Out](https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9) | 3:16 | 2021-11-05 |  |
 | [Fire](https://open.spotify.com/track/7ey8VyqgIjVqXQWM2kWkZM) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 4:02 | 2021-11-05 |  |
 | [for the rest of my life](https://open.spotify.com/track/3PU3Ya7940NxSbEeYj8S7I) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [for the rest of my life](https://open.spotify.com/album/5we2bXIhFBbDo6RIp6dgCZ) | 3:29 | 2022-05-25 |  |
@@ -45,6 +45,7 @@
 | [On & On](https://open.spotify.com/track/4szdAoKiSXuatHbwwWRDDz) | [Rush Midnight](https://open.spotify.com/artist/7JhInRTK054LmqV3Ton1z4) | [On & On](https://open.spotify.com/album/2OmNDztyjPcH9yjZlBklbO) | 3:30 | 2022-05-13 |  |
 | [On E](https://open.spotify.com/track/4VozL4k5xPgFcFhH6Qr0zH) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Ivan Frey](https://open.spotify.com/artist/4ax987q4h5H5GBpUCeXnBg) | [A Blue Tesla Story](https://open.spotify.com/album/0drLi05JrFsXqzhnHmyOhp) | 3:46 | 2022-07-01 |  |
 | [Only One](https://open.spotify.com/track/3y8UYe62ldlvxRgAFGovZq) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Only One](https://open.spotify.com/album/2KMexrqmHK600SRQNJykVb) | 3:01 | 2021-11-05 |  |
+| [Opposites](https://open.spotify.com/track/3h3QqLaFYJR4XlIROuFkb1) | [Ade](https://open.spotify.com/artist/2QpgfGNDMwaugmjkVNEWtb) | [Opposites](https://open.spotify.com/album/2O7ykDuK6mv9nh4UQttmJW) | 3:39 | 2022-07-11 |  |
 | [OVERDOSE](https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/7Hg7lABFu1peV1dnG4nNJN) | 2:33 | 2021-11-05 |  |
 | [PALM SPRINGS](https://open.spotify.com/track/0KWDPINXq2YWsHjlC22flO) | [Distance Learning](https://open.spotify.com/artist/0QYMpYHo80SIAEdOJ70GPd) | [PALM SPRINGS](https://open.spotify.com/album/2TbX2nyWZdxlyMI9CgUmRn) | 2:51 | 2022-05-09 |  |
 | [Playboy](https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN) | [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Playboy](https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC) | 3:29 | 2022-06-20 |  |

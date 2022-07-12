@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: BRKN LOVE
 
-152 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
+153 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 | 2020-12-11 |  |
 | [I Can't Hear You](https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Sea of Cowards](https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu) | 3:35 | 2020-12-11 |  |
 | [I'm A King Bee](https://open.spotify.com/track/14vst2Dkr7OkYyzf1fftLu) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [I'm A King Bee](https://open.spotify.com/album/7Ih57vkBvpgCoL0Rd5Eq7q) | 3:19 | 2020-12-11 |  |
-| [I'm America](https://open.spotify.com/track/5HYEjfX8h3F82Qyb96PXg8) | [Cilver](https://open.spotify.com/artist/5fpD3Iuy3RvPzcbWiekX7h) | [I'm America](https://open.spotify.com/album/7fbGdV2SozDKmWAAmSY3fo) | 3:42 | 2020-12-11 |  |
+| [I'm America](https://open.spotify.com/track/5HYEjfX8h3F82Qyb96PXg8) | [Cilver](https://open.spotify.com/artist/5fpD3Iuy3RvPzcbWiekX7h) | [I'm America](https://open.spotify.com/album/7fbGdV2SozDKmWAAmSY3fo) | 3:42 | 2020-12-11 | 2022-07-12 |
 | [Icky Thump](https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU) | 4:14 | 2020-12-11 |  |
 | [Invincible](https://open.spotify.com/track/1r7PBed0nZQo31UU1g0aRA) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [Invincible](https://open.spotify.com/album/65pbAYp4nfHGSZknGgvbDy) | 3:21 | 2020-12-11 |  |
 | [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 | 2020-12-11 |  |
@@ -119,6 +119,7 @@
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-06-13 |  |
 | [Rolling With the Punches](https://open.spotify.com/track/4g00OB03RioIl1GnWZyZCi) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Rolling With the Punches](https://open.spotify.com/album/0c2sgvHBjX24p7uR6b1tLE) | 3:20 | 2020-12-11 | 2022-06-14 |
 | [Rumble And Sway](https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Rumble And Sway EP](https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH) | 3:05 | 2020-12-11 |  |
+| [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 | 2022-07-11 |  |
 | [Save Me Some Sunshine](https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Save Me Some Sunshine](https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q) | 3:37 | 2020-12-11 |  |
 | [Shadow of Your Love](https://open.spotify.com/track/1YCxiooVRFlMwIhbAhapkE) | [Cut Glass Kings](https://open.spotify.com/artist/6duFEnexUva5UMe40WbV4v) | [Shadow of Your Love](https://open.spotify.com/album/1fbixj23On0ICt9AdM0zsN) | 2:36 | 2020-12-11 |  |
 | [Shakin' Off The Rust](https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Shakin' Off The Rust](https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ) | 3:42 | 2020-12-11 |  |

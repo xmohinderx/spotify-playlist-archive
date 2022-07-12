@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -2347,7 +2347,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 180186,
       "name": "engravings",
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
@@ -3349,7 +3349,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 263870,
       "name": "Home",
       "url": "https://open.spotify.com/track/38O3WQ0SQykunIq3cbZIFb"
@@ -4763,7 +4763,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
@@ -8563,6 +8563,24 @@
       "duration_ms": 249333,
       "name": "Yonkers",
       "url": "https://open.spotify.com/track/3WQlJpaUUbGtUqAskvGA7c"
+    },
+    {
+      "album": {
+        "name": "6FEET",
+        "url": "https://open.spotify.com/album/7B4cnh3pIbU2CNeyQuu3yA"
+      },
+      "artists": [
+        {
+          "name": "Louyah",
+          "url": "https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233196,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0WSDEpEZZDffYfmK8Ssuxc"
     },
     {
       "album": {

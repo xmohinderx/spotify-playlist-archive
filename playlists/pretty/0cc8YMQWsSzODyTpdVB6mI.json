@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42300,
+  "num_followers": 42302,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjg3MCxjMDBhYzVmZmRiMDQ5MTQwYTJjMDM1NDY4NjMxMGUyZGY5ODIyMDVk",
+  "snapshot_id": "Mjg3MyxjNGI0ZDk1NTZjZDVlYjFmMmY0MmY5Nzk5NzEwMDYzY2NkYmYyMzky",
   "tracks": [
+    {
+      "added_at": "2022-07-11 08:29:21",
+      "album": {
+        "name": "Opposites",
+        "url": "https://open.spotify.com/album/2O7ykDuK6mv9nh4UQttmJW"
+      },
+      "artists": [
+        {
+          "name": "Ade",
+          "url": "https://open.spotify.com/artist/2QpgfGNDMwaugmjkVNEWtb"
+        }
+      ],
+      "duration_ms": 219081,
+      "name": "Opposites",
+      "url": "https://open.spotify.com/track/3h3QqLaFYJR4XlIROuFkb1"
+    },
     {
       "added_at": "2022-07-08 08:30:52",
       "album": {
@@ -407,22 +423,6 @@
       "duration_ms": 171666,
       "name": "PALM SPRINGS",
       "url": "https://open.spotify.com/track/0KWDPINXq2YWsHjlC22flO"
-    },
-    {
-      "added_at": "2022-05-06 08:36:17",
-      "album": {
-        "name": "ENTROPY/",
-        "url": "https://open.spotify.com/album/0A0F6DDqKOEFHXPdPX0ghm"
-      },
-      "artists": [
-        {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
-        }
-      ],
-      "duration_ms": 217082,
-      "name": "ENTROPY/",
-      "url": "https://open.spotify.com/track/0RZS3qAGkztX8LuUSRYmpz"
     },
     {
       "added_at": "2021-11-05 15:47:43",

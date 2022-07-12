@@ -4,7 +4,7 @@
 
 > el verano de las mamiiiis🥵 It's a hot girl summer.
 
-158 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/6cghO0Da93k5eTyAVNppYC)
+163 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/6cghO0Da93k5eTyAVNppYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-07-08 |  |
 | [Destino](https://open.spotify.com/track/27UVFLpWhu9aLIfDNWKbjB) | [MUSAS](https://open.spotify.com/artist/1HiS2zHzXOuNgyYeZXSRJ9), [Luis Eduardo Acústico](https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm) | [Destino](https://open.spotify.com/album/32JyYzPX0wW8H2D0Pb2hmi) | 2:37 | 2021-12-24 | 2022-01-05 |
 | [diario de vida](https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [diario de vida](https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3) | 3:04 | 2022-03-07 | 2022-05-12 |
+| [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2022-07-11 |  |
 | [Diva](https://open.spotify.com/track/3F5noAzNQwxdJbUyKg3koP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 2:52 | 2021-12-24 | 2022-05-12 |
 | [duermo sin pijama](https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [duermo sin pijama](https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y) | 2:33 | 2021-12-24 | 2022-07-09 |
 | [Dueño](https://open.spotify.com/track/6oPF5hSD6MmwITeL0CUvoO) | [Melissa Hermosillo](https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP) | [Blue](https://open.spotify.com/album/5lYNY7ahEWPIYtBvdxAoNV) | 2:13 | 2021-12-24 | 2022-04-29 |
@@ -65,6 +66,7 @@
 | [Ella Me Levanto](https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:29 | 2022-07-08 |  |
 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 | 2022-05-11 | 2022-07-09 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-07-08 |  |
+| [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2022-07-11 |  |
 | [Fantasía](https://open.spotify.com/track/14SBbAnAb9yLbVGnbFfra6) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Fantasía](https://open.spotify.com/album/0lGtyEUMscYKrIYoq6JSbP) | 2:53 | 2021-12-24 | 2022-07-09 |
 | [Feelings](https://open.spotify.com/track/4n1n6LadWODpql8E1QxxN6) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Feelings](https://open.spotify.com/album/1X7N9J7vljruYHfXuww2tv) | 3:02 | 2021-12-24 | 2022-05-24 |
 | [Fronte](https://open.spotify.com/track/0WyNyvb9kAyyBgUxkYDvO8) | [Kablito](https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm), [Ryan Roy](https://open.spotify.com/artist/1AOGBBCrfDl7hJ9HUVKXwq) | [Fronte](https://open.spotify.com/album/638qxCauHsr5h79ytOeRfB) | 2:52 | 2021-12-24 | 2022-07-09 |
@@ -135,8 +137,10 @@
 | [Sabaneta](https://open.spotify.com/track/0KRgPFcbGovOB8cXZ88Eee) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Sabaneta](https://open.spotify.com/album/1KmHeewbt3p4TwXQGknXyO) | 2:52 | 2021-12-24 | 2022-07-09 |
 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 | 2022-07-08 |  |
 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 | 2022-07-08 |  |
+| [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 | 2022-07-11 |  |
 | [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 | 2022-02-25 | 2022-05-24 |
 | [sed de ti](https://open.spotify.com/track/05cjfY52W42O47Y1kljg2c) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [sed de ti](https://open.spotify.com/album/2LkgT4vephhVSHnoAu5wr3) | 2:46 | 2022-05-23 | 2022-07-09 |
+| [Sexy Movimiento](https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 3:29 | 2022-07-11 |  |
 | [Señor](https://open.spotify.com/track/7JDJFIsPs8ir43qeH1WsrQ) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Señor](https://open.spotify.com/album/0MNEoUApUNkyOPAsxaCAni) | 2:30 | 2021-12-24 | 2022-07-09 |
 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 | 2022-07-08 |  |
 | [so called friends \- Duñe Remix](https://open.spotify.com/track/5j9LTk1zcmf0NHOVq4XPiN) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC) | [so called friends \(Duñe Remix\)](https://open.spotify.com/album/6zRs9EtzYzNeFAh608g49G) | 2:47 | 2021-12-24 | 2022-05-12 |
@@ -164,6 +168,7 @@
 | [Where Does The Love Go?](https://open.spotify.com/track/6AvpB3EobBINZu3NuA4fh1) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 | 2021-12-24 | 2022-05-08 |
 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2022-07-08 |  |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-07-08 |  |
+| [ZONA DEL PERREO](https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:11 | 2022-07-11 |  |
 | [Última Canción](https://open.spotify.com/track/1whUwusZ8nocx46wn3AM1h) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [A Veces Me Acuerdo de Ti](https://open.spotify.com/album/54b9OEE0j36dQuXE2XtTpb) | 2:55 | 2021-12-24 | 2022-05-08 |
 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2021-12-24 | 2022-07-09 |
 

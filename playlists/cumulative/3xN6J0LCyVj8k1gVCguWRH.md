@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,511 songs - 3 day 16 hr 4 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,512 songs - 3 day 16 hr 7 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1281,6 +1281,7 @@
 | [Talk](https://open.spotify.com/track/4CpVqZC1zlCjadqXFX6ZZj) | [H3LLO](https://open.spotify.com/artist/5pyl7zkTB8AdYXiUDSrLS8), [Apollo Mighty](https://open.spotify.com/artist/07whlQD2TtG2iBLzKEtsaq) | [Talk](https://open.spotify.com/album/3odjsmeS9v86fOfvpkesBC) | 2:14 | 2020-02-15 | 2020-02-24 |
 | [Talk](https://open.spotify.com/track/3RsZiNeholao7yWTx0t9Bt) | [Medii](https://open.spotify.com/artist/4tCRRxANqaE3qGSGLz0y3Q) | [Talk](https://open.spotify.com/album/4woIpCK5jFRyJgLzyR6l3B) | 3:18 | 2021-02-26 | 2021-06-06 |
 | [Talk About It](https://open.spotify.com/track/2mMbYe7kd4YnTDnwP28Ght) | [Miyamoto](https://open.spotify.com/artist/5CF46SR2u5iy00KXQRZqYt) | [Talk About It](https://open.spotify.com/album/5dIYPDaQpW7Iu1rZA9QoXK) | 3:02 | 2021-12-31 | 2022-01-15 |
+| [TALK2ME! \(feat\. pH\-1\)](https://open.spotify.com/track/0MZuE8BLzdXKMFj6aAGi9a) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [FAVORITE & TALK2ME!](https://open.spotify.com/album/6IRbzW5EOpn5uX3bhSejiV) | 3:25 | 2022-07-11 |  |
 | [Tanlines](https://open.spotify.com/track/41lC7nv0tVyRIyFn3d8mmg) | [charly haze](https://open.spotify.com/artist/38giuuDpP3ozqOkyIalx2X) | [Tanlines](https://open.spotify.com/album/35OiOGLJK5lHHdFPXdk1SN) | 3:42 | 2021-02-26 | 2021-03-14 |
 | [Tanya's Dolor](https://open.spotify.com/track/5jnDurMV9oN9DI4zMEFs4T) | [Carnatik](https://open.spotify.com/artist/1aRAI0lNspRYneg71WwN9N), [Tanya Ravi](https://open.spotify.com/artist/2JRm0DEVY49vT3x4v4raV9) | [Tanya's Dolor](https://open.spotify.com/album/2tDAwvkMQg8cE6hZM0trHi) | 2:21 | 2022-02-28 | 2022-03-17 |
 | [Tattooed](https://open.spotify.com/track/0tJa7lLgDHXxCJik8RoroX) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Tattooed](https://open.spotify.com/album/5KnuTfXK9myOebnuyhaoYW) | 3:30 | 2020-05-02 | 2020-05-24 |

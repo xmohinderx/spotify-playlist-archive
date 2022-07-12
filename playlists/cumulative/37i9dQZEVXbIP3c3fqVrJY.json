@@ -230,6 +230,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
+      },
+      "artists": [
+        {
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257147,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
+    },
+    {
+      "album": {
         "name": "Anarchia",
         "url": "https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW"
       },
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 204346,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
@@ -7019,7 +7037,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 204506,
       "name": "Mal\u00e1 d\u00e1ma",
       "url": "https://open.spotify.com/track/0nVCQoIiDjnZWXHMRCD2Ko"
@@ -7113,7 +7131,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 515386,
       "name": "Master Of Puppets",
       "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
@@ -8523,7 +8541,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 130520,
       "name": "Nikdy Nic Nebylo",
       "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
@@ -9203,7 +9221,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 163706,
       "name": "Plakala",
       "url": "https://open.spotify.com/track/3h9EMra1EG4oncHLPiEJce"

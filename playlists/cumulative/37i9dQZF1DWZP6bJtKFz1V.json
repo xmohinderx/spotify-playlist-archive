@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 156144,
       "name": "5 minutes til dawn",
       "url": "https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 182500,
       "name": "Apple Juice",
       "url": "https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 209489,
       "name": "Black Boys On The Radio",
       "url": "https://open.spotify.com/track/3sVKwJt9LzP0fiI0kVgNh4"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 224666,
       "name": "Bonnaroo",
       "url": "https://open.spotify.com/track/6FvpNbzHK6t0AZoPNJyFiQ"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 213914,
       "name": "C O O L Santa Ana",
       "url": "https://open.spotify.com/track/4EuHlO6U0SjsDUxdF4dJDy"
@@ -1537,7 +1537,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 147760,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/0aMwvMvuuAMXPFBijHiGZ3"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 165681,
       "name": "e-z (feat. UPSAHL & Blu DeTiger)",
       "url": "https://open.spotify.com/track/2FsHjcNkT4usTdV2b407Iq"
@@ -1777,7 +1777,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 240780,
       "name": "Everything Changes",
       "url": "https://open.spotify.com/track/5NW5GN3tlIbkAVDw9xg8qP"
@@ -2073,7 +2073,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 140921,
       "name": "Girls",
       "url": "https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU"
@@ -2683,7 +2683,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 185664,
       "name": "It Took A Lot To Get To This",
       "url": "https://open.spotify.com/track/1kLn3PxbnFzHV1kkXWpg4e"
@@ -2867,7 +2867,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 198913,
       "name": "Lady Lightyear",
       "url": "https://open.spotify.com/track/7rw1KkDHDbw38SGuZO31Uh"
@@ -2939,7 +2939,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 168253,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
@@ -3283,7 +3283,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 126142,
       "name": "Me and Your Boyfriend",
       "url": "https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV"
@@ -3479,10 +3479,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 196465,
       "name": "more than life (feat. glaive)",
       "url": "https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM"
+    },
+    {
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "album": {
@@ -4657,7 +4675,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 232653,
       "name": "See You When The End's Near",
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
@@ -4993,7 +5011,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 214754,
       "name": "Step Mom",
       "url": "https://open.spotify.com/track/33yL9mCGvvVCjLKCZsnm1w"
@@ -5101,7 +5119,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 192970,
       "name": "Surfing",
       "url": "https://open.spotify.com/track/2bb3HjKjiTIIGXcM1YbKIy"
@@ -5177,7 +5195,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 186600,
       "name": "Teenage Dirtbag \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
@@ -5451,7 +5469,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 203140,
       "name": "Things You Said",
       "url": "https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH"
@@ -5875,7 +5893,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 172427,
       "name": "What Do I Do?",
       "url": "https://open.spotify.com/track/09jRXevXGLTtqsz5P13U1Z"
@@ -5911,7 +5929,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 142345,
       "name": "When You\u2019re Sober",
       "url": "https://open.spotify.com/track/0aJcuvNNJh9ncKBqqfLiIG"

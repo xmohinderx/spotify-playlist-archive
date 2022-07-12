@@ -1,12 +1,12 @@
 {
   "description": "Los lanzamientos latinos m\u00e1s destacados. En portada: Danny Ocean",
-  "num_followers": 895704,
+  "num_followers": 895762,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1MjgwMCwwMDAwMDJjYjAwMDAwMTgxZGJmNmU3MjIwMDAwMDE4MWRhYmE4OGUx",
+  "snapshot_id": "MTY1NzU3MzM2OCwwMDAwMDJjZDAwMDAwMTgxZWYxMjYxMzUwMDAwMDE4MWRhYmE4OGUx",
   "tracks": [
     {
       "added_at": "2022-07-08 04:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -63,26 +83,6 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -103,22 +103,6 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Sincero",
-        "url": "https://open.spotify.com/album/3yMyOFcY81tTPRGNdaIdjx"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 220995,
-      "name": "Sincero - Versi\u00f3n Trap",
-      "url": "https://open.spotify.com/track/2qCBC4S6jBMBhutyq4i2Wa"
     },
     {
       "added_at": "2022-07-08 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,263 likes - 118 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,467 likes - 118 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 117 | [Faint Light](https://open.spotify.com/track/53kert0PPHlk8v0ZlKjr30) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/5ZRUr2HqVBVKeRfoN8rKQz) | 5:20 |
 | 118 | [Ripples \(36 After Dark Version\)](https://open.spotify.com/track/2gCzNknEvRclWSknkujPbp) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [The Other Side of Darkness](https://open.spotify.com/album/0Tdcm7f0lANH7EwD6p7c8k) | 5:25 |
 
-Snapshot ID: `MTY1NzI5OTA2MywwMDAwMDAxZTAwMDAwMTgxZGViOGQxOTIwMDAwMDE4MWFmYTVkZTk0`
+Snapshot ID: `MTY1NzU2MTQxMywwMDAwMDAxZjAwMDAwMTgxZWU1YmY2N2IwMDAwMDE4MWFmYTVkZTk0`

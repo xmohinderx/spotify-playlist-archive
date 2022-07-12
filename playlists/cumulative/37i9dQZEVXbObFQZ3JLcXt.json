@@ -852,6 +852,28 @@
     },
     {
       "album": {
+        "name": "CASABLANCA",
+        "url": "https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU"
+      },
+      "artists": [
+        {
+          "name": "Nuha Bahrin",
+          "url": "https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65"
+        },
+        {
+          "name": "Naufal Azrin",
+          "url": "https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD"
+    },
+    {
+      "album": {
         "name": "Celebrity",
         "url": "https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g"
       },
@@ -1847,7 +1869,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"

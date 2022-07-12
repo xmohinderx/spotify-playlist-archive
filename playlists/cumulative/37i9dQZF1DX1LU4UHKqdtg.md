@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: aespa
 
-257 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+258 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Be With You](https://open.spotify.com/track/2NTSWLUiZqrIBDGYbHUB6o) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:41 | 2021-12-23 | 2022-03-16 |
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-05-30 |  |
 | [Beautiful \(Part.3\)](https://open.spotify.com/track/3xQH4yPHm6qVmV0JH7iaT5) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [B\-Side](https://open.spotify.com/album/5BaFlgq8oi3I0ql6zj1gmu) | 3:54 | 2022-01-27 | 2022-04-06 |
-| [Better Spring](https://open.spotify.com/track/7095L2bmNhv139ccLIikAH) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Better Spring](https://open.spotify.com/album/0Hh9Zowcy88neSc4sv0S5b) | 3:25 | 2022-05-17 |  |
+| [Better Spring](https://open.spotify.com/track/7095L2bmNhv139ccLIikAH) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Better Spring](https://open.spotify.com/album/0Hh9Zowcy88neSc4sv0S5b) | 3:25 | 2022-05-17 | 2022-07-12 |
 | [Birthday Party](https://open.spotify.com/track/3FCDv2uvzQ7yEwusRn5k7L) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:18 | 2021-12-23 | 2022-03-30 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 | 2022-04-01 |
 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 | 2022-03-31 | 2022-06-29 |
@@ -198,6 +198,7 @@
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-18 | 2022-04-15 |
 | [SO GOOD](https://open.spotify.com/track/0fasNMnIi1u8tNMV9r5IEh) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [SO GOOD](https://open.spotify.com/album/09lXzBFEEydz06FInbZ6ub) | 3:27 | 2022-04-21 | 2022-07-07 |
 | [So Right \(feat\. Yuna\)](https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [So Right \(feat\. Yuna\)](https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk) | 3:08 | 2022-02-24 | 2022-04-22 |
+| [Sparkling](https://open.spotify.com/track/34lKiKHCKhMe9PAfGcdFNE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/5KLYmSbrtpo5pqjOMzDDLi) | 3:06 | 2022-07-11 |  |
 | [Stand up!](https://open.spotify.com/track/17zLOxvNG5ZFu5Z4v1hXUK) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/3HYPEGFRro4HjxFmwicYxA) | 3:30 | 2022-06-30 |  |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-11 | 2022-05-18 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-06-28 |  |

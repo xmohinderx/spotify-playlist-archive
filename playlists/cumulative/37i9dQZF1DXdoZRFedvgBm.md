@@ -4,7 +4,7 @@
 
 > This Is PSY\. The essential tracks, all in one playlist.
 
-106 songs - 6 hr 22 min - not published yet
+106 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/5l00ejnPMlXZae2NLadm52)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

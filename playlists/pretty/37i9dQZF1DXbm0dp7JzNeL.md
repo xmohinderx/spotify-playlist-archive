@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 
 > Take comfort in these melancholy masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,654 likes - 49 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,318 likes - 49 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 | 48 | [Les feuilles mortes](https://open.spotify.com/track/2mZzobMVnCqPKojqhmVEZw) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [Matthias & Maxime \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Ce8Lcbg7w6Kz1DJZfS4EZ) | 1:37 |
 | 49 | [La melancolie \(arr\. H\. Kraggerud\): La Melancolie \(arr\. H\. Kraggerud\)](https://open.spotify.com/track/7rurwR9jA7XDEj9cfnB1fz) | [Henning Kraggerud](https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb), [Ole Bull](https://open.spotify.com/artist/1cLnJI3RJwDH9Gt2CTM0zY), [Razumovsky Symphony Orchestra](https://open.spotify.com/artist/6lxAqIorVmYY2bzWr9kmCA), [Bjarte Engeset](https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d) | [Norwegian Violin Favourites](https://open.spotify.com/album/5dtYq2KwetYV4zr9v8qgv4) | 2:19 |
 
-Snapshot ID: `MTYzNDU1NjUzNywwMDAwMDAyNzAwMDAwMTdjOTMyOTY5ZDEwMDAwMDE3MGVlOWU0MTc3`
+Snapshot ID: `MTY1NzU2Mzc0NSwwMDAwMDAyODAwMDAwMTgxZWU3ZjhjMDUwMDAwMDE3MGVlOWU0MTc3`

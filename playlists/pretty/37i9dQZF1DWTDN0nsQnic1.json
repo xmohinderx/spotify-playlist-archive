@@ -1,12 +1,12 @@
 {
   "description": "Lush, shimmery guitars. Cover: Tom Misch",
-  "num_followers": 11643,
+  "num_followers": 11667,
   "original_name": "Shimmer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDAwYTAwMDAwMTgwNzM3YjkzMzMwMDAwMDE3ZDliNGUzOTA0",
+  "snapshot_id": "MTY1NzU3MDY3NSwwMDAwMDAwYzAwMDAwMTgxZWVlOTRiNDEwMDAwMDE4MWVlZTkyNWE0",
   "tracks": [
     {
       "added_at": "2022-04-29 04:02:00",
@@ -31,30 +31,6 @@
       "duration_ms": 223390,
       "name": "Worldwide",
       "url": "https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Could It Be U / Surface",
-        "url": "https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "INIMI",
-          "url": "https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL"
-        }
-      ],
-      "duration_ms": 187767,
-      "name": "Surface",
-      "url": "https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47"
     },
     {
       "added_at": "2021-09-08 16:21:45",
@@ -131,6 +107,30 @@
       "duration_ms": 279428,
       "name": "Where I Want to Be",
       "url": "https://open.spotify.com/track/5OJD3ceQHISjim2MVDUGkJ"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Could It Be U / Surface",
+        "url": "https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "INIMI",
+          "url": "https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL"
+        }
+      ],
+      "duration_ms": 187767,
+      "name": "Surface",
+      "url": "https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47"
     },
     {
       "added_at": "2021-09-08 16:21:45",

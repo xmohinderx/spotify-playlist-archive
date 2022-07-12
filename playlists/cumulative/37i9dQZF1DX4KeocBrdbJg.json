@@ -522,6 +522,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213744,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
+    },
+    {
+      "album": {
         "name": "Cyberpunk",
         "url": "https://open.spotify.com/album/5gh5pmkrqFscbkp3XumdHv"
       },
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 174517,
       "name": "Drowning - Sped Up Version",
       "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 140495,
       "name": "Duro 2 Horas",
       "url": "https://open.spotify.com/track/1tXPHKD791iwGJxvSKo8oc"
@@ -803,6 +821,28 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "album": {
+        "name": "Fall Guys (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT"
+      },
+      "artists": [
+        {
+          "name": "Jukio Kallio",
+          "url": "https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq"
+        },
+        {
+          "name": "Daniel Hagstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "Fall 'N' Roll",
+      "url": "https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL"
     },
     {
       "album": {
@@ -2376,6 +2416,24 @@
     },
     {
       "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+    },
+    {
+      "album": {
         "name": "Cipote Carnaval 2011",
         "url": "https://open.spotify.com/album/14zQ8tAtR4VKcFjIvxop3l"
       },
@@ -2391,7 +2449,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 189653,
       "name": "Solos (feat. Plan B)",
       "url": "https://open.spotify.com/track/0I1mau5VjFZGDmLCpMfTyP"

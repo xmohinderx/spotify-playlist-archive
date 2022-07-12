@@ -7650,6 +7650,28 @@
     },
     {
       "album": {
+        "name": "Groovy (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6Qa5jPHgdY6NW3P4tY7ej9"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214849,
+      "name": "Groovy (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/7Fp4m0ZcpES3hb99q4WQII"
+    },
+    {
+      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/7pKcJv0C0SCdst0Po3XIig"
       },
@@ -12658,6 +12680,28 @@
     },
     {
       "album": {
+        "name": "Switch Music",
+        "url": "https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174577,
+      "name": "Not Opps (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV"
+    },
+    {
+      "album": {
         "name": "Not Your Average",
         "url": "https://open.spotify.com/album/21aIepydJ8Y4gZTkG9P8Qx"
       },
@@ -16995,7 +17039,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 127715,
       "name": "Splurgin",
       "url": "https://open.spotify.com/track/1uawwGOTbcSO3BM7XsAeis"

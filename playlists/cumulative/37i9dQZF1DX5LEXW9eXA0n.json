@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: Soseo(\uc18c\uc11c)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: WSG WANNABE) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "K-Pop Ballad Hits (\ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -603,6 +603,24 @@
       "duration_ms": 240640,
       "name": "At Every Moment (Bunny and Guys X Kim Jae Hwan)",
       "url": "https://open.spotify.com/track/6fyKDf4FtlozjMNbE1LEe6"
+    },
+    {
+      "album": {
+        "name": "WSG WANNABE 1st Album",
+        "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
+      },
+      "artists": [
+        {
+          "name": "WSG WANNBE (Gaya-G)",
+          "url": "https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222933,
+      "name": "At That Moment",
+      "url": "https://open.spotify.com/track/0CB3B5ir8I2KbB3dkGVtWF"
     },
     {
       "album": {
@@ -3392,6 +3410,24 @@
     },
     {
       "album": {
+        "name": "WSG WANNABE 1st Album",
+        "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
+      },
+      "artists": [
+        {
+          "name": "WSG WANNABE (Sa-Fire)",
+          "url": "https://open.spotify.com/artist/6RbhPRkvqZ4YtziMIUVzeV"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207866,
+      "name": "I Missed You",
+      "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
+    },
+    {
+      "album": {
         "name": "I should not have loved you",
         "url": "https://open.spotify.com/album/5LpHtHXao9VkOGwci1aFLZ"
       },
@@ -6117,7 +6153,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 224140,
       "name": "See you in the evening",
       "url": "https://open.spotify.com/track/2lV347jDNzJz2OwCVaDhJi"
@@ -7125,7 +7161,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 217935,
       "name": "The name of the song we never knew",
       "url": "https://open.spotify.com/track/58xLgrmrBJIkttaf67KjgH"

@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 176720,
       "name": "Acrobatic",
       "url": "https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 197082,
       "name": "Aftertaste",
       "url": "https://open.spotify.com/track/6n0rhPWs1KpjnFg3WQRNZn"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 216125,
       "name": "All for You",
       "url": "https://open.spotify.com/track/710CuBhmbD8NuK2eZchxUh"
@@ -298,6 +298,32 @@
     },
     {
       "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "Justin Caruso",
+          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
+        },
+        {
+          "name": "Iselin",
+          "url": "https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
+    },
+    {
+      "album": {
         "name": "bitches",
         "url": "https://open.spotify.com/album/2leobyqQarqugCXzuEzTAY"
       },
@@ -349,7 +375,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 214634,
       "name": "Body Back (feat. Maia Wright)",
       "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
@@ -547,7 +573,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 176153,
       "name": "Closer (feat. Zagata)",
       "url": "https://open.spotify.com/track/1Bm65WCAFb39YWDGxt8zL4"
@@ -657,7 +683,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 164009,
       "name": "Dancing In The Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
@@ -797,7 +823,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 203245,
       "name": "Don't Be Afraid (feat. Jungle)",
       "url": "https://open.spotify.com/track/0zsD5I9yYEr4jNkj5SQn4k"
@@ -987,7 +1013,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 132682,
       "name": "Embers",
       "url": "https://open.spotify.com/track/40pPsAXyIJofY21GNe7r1Y"
@@ -1185,7 +1211,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY"
@@ -1273,7 +1299,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 169426,
       "name": "High Like This",
       "url": "https://open.spotify.com/track/38XcmJDV2pjjVcCvdpMpA2"
@@ -1313,7 +1339,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 186480,
       "name": "I Don't Wanna Go",
       "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
@@ -1423,7 +1449,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 188437,
       "name": "Impossible (feat. John Martin)",
       "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
@@ -1463,7 +1489,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 257984,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
@@ -1595,7 +1621,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 156612,
       "name": "Kush",
       "url": "https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu"
@@ -1731,7 +1757,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 167419,
       "name": "LIES",
       "url": "https://open.spotify.com/track/3Shi5fUIeuoNQWV0hjYXNs"
@@ -2021,7 +2047,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 200747,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0lPZ8UNB5bmvhn7ba8faJi"
@@ -2127,7 +2153,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
@@ -2207,7 +2233,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 264375,
       "name": "Never Be The Same",
       "url": "https://open.spotify.com/track/2N7Qm7YdgvWlg8ZoxLkOND"
@@ -2229,7 +2255,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 216538,
       "name": "Never Give Up On You (feat. Georgi Kay)",
       "url": "https://open.spotify.com/track/4UdUtaT88GgvpiqbqzSpgN"
@@ -2247,7 +2273,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 165853,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/2t7nM6kZZ3JTSheTwVlAAR"
@@ -2309,10 +2335,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 261001,
       "name": "On My Knees",
       "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
     },
     {
       "album": {
@@ -2331,7 +2379,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 145320,
       "name": "One More Dance (with Alida)",
       "url": "https://open.spotify.com/track/2aOK6TRYn4DneIBHJOAQ4r"
@@ -2827,7 +2875,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 228021,
       "name": "Siento Mi Destino",
       "url": "https://open.spotify.com/track/3pSfCBzoBZzQJVQUl3U06s"
@@ -2849,7 +2897,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 216000,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/2tuAEodIUe9sLiO705NqN9"
@@ -2867,7 +2915,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 159375,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
@@ -3043,7 +3091,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 161372,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/7DQUAo4V9aiysYv1RUm5dZ"
@@ -3101,7 +3149,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 161040,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
@@ -3149,7 +3197,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 170982,
       "name": "Teardrops (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC"
@@ -3189,7 +3237,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/3MqzqG6fij34pDxd29mikA"
@@ -3379,7 +3427,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 125714,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4m9HfhURlzkhM8kK4SqTqM"
@@ -3405,7 +3453,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 170087,
       "name": "Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA"
@@ -3475,7 +3523,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 183090,
       "name": "Unbreakable (with Sam Gray)",
       "url": "https://open.spotify.com/track/1ymsN94JMOSZncP5WETfSh"
@@ -3497,7 +3545,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 177597,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/3SXRZuCEGbbxsPiHyqwWuG"
@@ -3577,7 +3625,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 299274,
       "name": "Wanna Know",
       "url": "https://open.spotify.com/track/1r4YlDwpNpHBzUg34gG2aD"
@@ -3595,7 +3643,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 145293,
       "name": "Watcha Gonna Do",
       "url": "https://open.spotify.com/track/2mJ7jA9PV3SmQKGuv8QC9G"
@@ -3665,7 +3713,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 147540,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/12yj178KaJo8PrddT0StaL"
@@ -3757,7 +3805,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 136995,
       "name": "Where The Lights Are Low",
       "url": "https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJMkIS"
@@ -3809,7 +3857,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 173778,
       "name": "Wish You Were Here (feat. Brandyn Burnette)",
       "url": "https://open.spotify.com/track/0GevQZGBPYjfPzK8e3jxzl"
@@ -3835,7 +3883,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 196475,
       "name": "Woke Up Late (feat. Hailee Steinfeld) - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/4ciBIS83LHQpKf4noVKP51"
@@ -3975,7 +4023,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"

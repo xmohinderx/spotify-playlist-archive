@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 307493,
       "name": "American Woman",
       "url": "https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 228666,
       "name": "Brown Sugar - 2009 Remaster",
       "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 256360,
       "name": "Can't Get Enough - 2015 Remaster",
       "url": "https://open.spotify.com/track/6n5lHdpuBDdA7pYDpiKzEI"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 166266,
       "name": "Good Times Bad Times - 1993 Remaster",
       "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 517125,
       "name": "Kashmir - Remaster",
       "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 210133,
       "name": "Living After Midnight",
       "url": "https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4"
@@ -1301,6 +1301,24 @@
       "duration_ms": 265693,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
+    },
+    {
+      "album": {
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252693,
+      "name": "Rainbow In The Dark",
+      "url": "https://open.spotify.com/track/5qFxuUIAwJlzO60vqOiL7y"
     },
     {
       "album": {
@@ -1827,6 +1845,24 @@
     {
       "album": {
         "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272026,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
@@ -1837,7 +1873,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"

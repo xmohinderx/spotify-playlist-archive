@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 161748,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 148608,
       "name": "Besarnos de cero",
       "url": "https://open.spotify.com/track/20DSrtKmlJcC7kDruBl4Vr"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 181048,
       "name": "Bes\u00e1ndote",
       "url": "https://open.spotify.com/track/43jclIPKJv9iFiYWVyWqsb"
@@ -370,6 +370,36 @@
     },
     {
       "album": {
+        "name": "Confeti (feat. Ponyboy)",
+        "url": "https://open.spotify.com/album/7tEUXn4kwUZNoG8nQiftrS"
+      },
+      "artists": [
+        {
+          "name": "Typow",
+          "url": "https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw"
+        },
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Ponyboy",
+          "url": "https://open.spotify.com/artist/0P79KaL3K79XcMkRXYe1NC"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199897,
+      "name": "Confeti (feat. Ponyboy)",
+      "url": "https://open.spotify.com/track/77MfmEc1flYluidHvKS7Iu"
+    },
+    {
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -481,7 +511,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 171690,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
@@ -595,7 +625,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 165646,
       "name": "Fresa",
       "url": "https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM"
@@ -675,7 +705,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 198827,
       "name": "La Funka",
       "url": "https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn"
@@ -697,7 +727,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 222439,
       "name": "LAS OLAS",
       "url": "https://open.spotify.com/track/3DND8icCTDweO8yK80w85O"
@@ -719,7 +749,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 225072,
       "name": "Llegaste t\u00fa (feat. Reykon)",
       "url": "https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL"
@@ -865,7 +895,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 191489,
       "name": "Morir Juntos",
       "url": "https://open.spotify.com/track/4fIQZb61FlXSRbnGgIBSj8"
@@ -945,7 +975,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 162421,
       "name": "Ni\u00f1a de Mis Ojos",
       "url": "https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF"
@@ -1077,7 +1107,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 251106,
       "name": "Podemos Intentar",
       "url": "https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg"
@@ -1125,7 +1155,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 250836,
       "name": "Por Fin Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/2DAULesb1U4Qz4FSTZpEUJ"
@@ -1179,7 +1209,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 244360,
       "name": "Reina Pepiada",
       "url": "https://open.spotify.com/track/3yJ8buQlPzQtHyCicOGDJ0"
@@ -1227,7 +1257,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 146840,
       "name": "Se Siente Bien",
       "url": "https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ"
@@ -1245,7 +1275,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 170800,
       "name": "Sinton\u00eda",
       "url": "https://open.spotify.com/track/04XUVNDGZlQu4XcgzdD5GD"
@@ -1387,7 +1417,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 143308,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7npuLuI1b4NocURonjI1bB"

@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 262500,
       "name": "aunque quisiera, no podr\u00eda",
       "url": "https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG"
@@ -1004,6 +1004,24 @@
     },
     {
       "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
+    },
+    {
+      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy"
       },
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 205160,
       "name": "Match",
       "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
@@ -1522,6 +1540,24 @@
     },
     {
       "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/4GECxsGnRtPcoVdso44I7l"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166466,
+      "name": "MOOD",
+      "url": "https://open.spotify.com/track/7sTylBrghRzKpTayE7W62J"
+    },
+    {
+      "album": {
         "name": "Muchachitos Feat. Humbe",
         "url": "https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9"
       },
@@ -1727,7 +1763,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 209891,
       "name": "Noche en LA",
       "url": "https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS"
@@ -2021,6 +2057,24 @@
       "duration_ms": 142800,
       "name": "Plashera Frisky",
       "url": "https://open.spotify.com/track/4JvIo4GZ93CuIkOVTEFuz6"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5"
     },
     {
       "album": {
@@ -2333,6 +2387,24 @@
       "duration_ms": 247196,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "album": {
+        "name": "Sanal\u00f6",
+        "url": "https://open.spotify.com/album/18N5wazSsD3jkwYlT8AAem"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207403,
+      "name": "Sanal\u00f6",
+      "url": "https://open.spotify.com/track/4a3TYChLrUfnKgTjTxZYFB"
     },
     {
       "album": {
@@ -2977,7 +3049,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 181808,
       "name": "Vienen Y Van",
       "url": "https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8"

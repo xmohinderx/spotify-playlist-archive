@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-110 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
+111 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Lifted](https://open.spotify.com/track/0CQwD2KxIfQUAGz4WChZZw) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Book Of Calmness](https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4) | 3:56 | 2022-05-25 |  |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2022-05-25 |  |
 | [Long\-Horned Beetles](https://open.spotify.com/track/2Fi1BIoPwqLyFmi49IaIp5) | [Dominico Lucci](https://open.spotify.com/artist/2Oh8aUjFUfE8lFUF2fANyT) | [Dominico's Resting Hands](https://open.spotify.com/album/0LC6hCqk7mIKv2Ytt6CaaK) | 3:45 | 2022-05-25 |  |
+| [Mandala](https://open.spotify.com/track/5xe5oU9NJYyUTL2THo1TPy) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Mandala](https://open.spotify.com/album/4QCv678G6eTUG92CwBuwnA) | 3:02 | 2022-07-11 |  |
 | [Mirrors](https://open.spotify.com/track/4AxLkuDH6lAh4zfAqnMk1n) | [Tairata](https://open.spotify.com/artist/6S03l2FptTA5eeHeXo115b) | [Mirrors](https://open.spotify.com/album/31hZ1BCR6HrbzBu0dNehj5) | 2:18 | 2022-05-25 |  |
 | [Mollusca](https://open.spotify.com/track/63kG8LOsD5GLmjW62S2rBA) | [Ferndale](https://open.spotify.com/artist/3RXfYE9FOxd2Mgxf46ZMb9) | [Gabriel](https://open.spotify.com/album/6EKSmGzGQ7ODZmqdHVXpa1) | 3:28 | 2022-05-25 |  |
 | [Monrovia](https://open.spotify.com/track/7JYgex93ldydsVqr6Um2nD) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Heliotropism](https://open.spotify.com/album/3MsuLztSUCisSA2S92hlaw) | 3:30 | 2022-05-25 |  |

@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 307297,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/2YGALkTVMM2Lnp4dcCOUDy"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 245213,
       "name": "Battles",
       "url": "https://open.spotify.com/track/135BpkRmi9GG7HLhB6OK5m"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 220733,
       "name": "Be Still & Know",
       "url": "https://open.spotify.com/track/6c0EkhURXqbBVAcIegCF6u"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 232286,
       "name": "Burdens",
       "url": "https://open.spotify.com/track/4IlBnAZ3kT5rEbkjDrD89b"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 281177,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/2yDWexKaX2plvcDbomivOK"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 226666,
       "name": "Count on Me",
       "url": "https://open.spotify.com/track/2IQGuX6Tz6iuwLbfA3zk6Y"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 424373,
       "name": "Defender",
       "url": "https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 257390,
       "name": "Don't You Dare",
       "url": "https://open.spotify.com/track/41Yp3rSMdCjPIaDFb0LSa5"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 255160,
       "name": "Even If",
       "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
@@ -750,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/7ARtMK1EgWMgh3rwdmEylb"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284422,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/4HCsfA9kLHCG1Modb1RzQD"
+    },
+    {
+      "album": {
         "name": "Fear No More",
         "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
       },
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 229066,
       "name": "Fighting For Me",
       "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 162312,
       "name": "Find You",
       "url": "https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 203197,
       "name": "Hope Is Here (Do Not Fear)",
       "url": "https://open.spotify.com/track/6uJaKvuzBPNxGmKWj5sVqj"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 267773,
       "name": "Hymn Of Heaven",
       "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2ZdoV837W0KtfWoTUHmEt1"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 218159,
       "name": "I Still Believe You're Good",
       "url": "https://open.spotify.com/track/0pTBMOKMRZKa3gLbco27n6"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 241946,
       "name": "It's Always Been You",
       "url": "https://open.spotify.com/track/4vM708B1zJUObZEzwjZZZK"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 225560,
       "name": "Mercy Is A Song",
       "url": "https://open.spotify.com/track/5hEbWH2PJzc19N83i04WyQ"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 174438,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 231973,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/2Fu0gTnxT2qTPu2zevJNHW"
@@ -2541,7 +2559,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 211133,
       "name": "Source of Life",
       "url": "https://open.spotify.com/track/3tl8OtHXna5VWrb16okaLA"
@@ -2577,7 +2595,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 254106,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G"
@@ -2639,7 +2657,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 232333,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1B0kLftVGJsZqJZGdHbAWZ"
@@ -2867,7 +2885,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "Unstoppable God",
       "url": "https://open.spotify.com/track/5bZQwgrDwYHE1aWWTrjBdD"
@@ -2903,7 +2921,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/3dTVCb0537sxC1g9bhoFy1"

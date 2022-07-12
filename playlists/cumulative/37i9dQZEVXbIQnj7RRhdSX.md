@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-856 songs - 1 day 19 hr 58 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+857 songs - 1 day 20 hr 1 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 | 2021-12-03 |  |
 | [La Cosa](https://open.spotify.com/track/0KwQtWCqY1Ht42lqDlyB6J) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:09 | 2021-11-14 | 2021-11-21 |
 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 | 2021-05-20 | 2021-05-23 |
-| [LA DOLCE VITA](https://open.spotify.com/track/0I0b7uTFfHhBz5bMkSDouF) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [LA DOLCE VITA](https://open.spotify.com/album/53zvCqI9glWstTSC1WFwT7) | 3:07 | 2022-06-04 |  |
+| [LA DOLCE VITA](https://open.spotify.com/track/0I0b7uTFfHhBz5bMkSDouF) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [LA DOLCE VITA](https://open.spotify.com/album/53zvCqI9glWstTSC1WFwT7) | 3:07 | 2022-06-04 | 2022-07-12 |
+| [LA DOLCE VITA](https://open.spotify.com/track/1A2tINguEx8NRA8WHmpUJw) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [DISUMANO](https://open.spotify.com/album/0xOgC0a4a1TCShPLJfC3rG) | 3:07 | 2022-07-11 |  |
 | [La Famiglia \(feat\. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, Néza & Nabi\)](https://open.spotify.com/track/4fuCi43DogsknVxQtVpnx0) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5LWmFTJeHQmJsFzG4p1q6d) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 5:09 | 2022-06-11 | 2022-06-19 |
 | [La finestra di Greta](https://open.spotify.com/track/2DjXrJhzjNovvn74hP0OU6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Solo](https://open.spotify.com/album/1CKeSCEj384RQmAUhcDUlw) | 3:15 | 2021-10-23 | 2021-10-24 |
 | [La G La U La E pt.2](https://open.spotify.com/track/3PHUQDyGYZhRJFSwbTXnsG) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:25 | 2021-12-12 | 2021-12-20 |

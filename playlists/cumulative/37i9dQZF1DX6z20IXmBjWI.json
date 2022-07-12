@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 167164,
       "name": "Before You",
       "url": "https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 193013,
       "name": "Brave",
       "url": "https://open.spotify.com/track/3MKTh8Awrh9roJe0PV9BaI"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 212816,
       "name": "Call the Days",
       "url": "https://open.spotify.com/track/43zbl1HtPGmdXktjOzRFXX"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 232066,
       "name": "Cherokee Rose",
       "url": "https://open.spotify.com/track/50FakcsMM8aCyRJuNu5PSW"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 273893,
       "name": "Colder Heavens",
       "url": "https://open.spotify.com/track/15qtOgzv7mW3CQWQVgWIM6"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 279680,
       "name": "Elijah - Acoustic Version",
       "url": "https://open.spotify.com/track/5USnlTd40L2fKioMeNMOBJ"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 230520,
       "name": "Even The Darkness Has Arms",
       "url": "https://open.spotify.com/track/1NCAKlp1bFHYbSSDQxfbJ1"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 198586,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 214564,
       "name": "Green Lights - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 264150,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 168480,
       "name": "Honest",
       "url": "https://open.spotify.com/track/0WIzzUh0vzPHk58d3e8sXJ"
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 170864,
       "name": "How I Miss You",
       "url": "https://open.spotify.com/track/5QNxAH2pQLs8i7w6M9wH2x"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 182805,
       "name": "It'll Work Itself Out",
       "url": "https://open.spotify.com/track/1WvRxjDesc8qkTwYQO55gI"
@@ -2066,6 +2066,28 @@
     },
     {
       "album": {
+        "name": "Manly Man",
+        "url": "https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        },
+        {
+          "name": "Emily Weisband",
+          "url": "https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210963,
+      "name": "Manly Man",
+      "url": "https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI"
+    },
+    {
+      "album": {
         "name": "Dead & Born & Grown",
         "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
@@ -2077,7 +2099,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
@@ -2135,7 +2157,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 264452,
       "name": "Motion Sickness (Demo - Bonus Track)",
       "url": "https://open.spotify.com/track/2JxSX1MtCIAxHGlas7ysJs"
@@ -2225,7 +2247,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 152626,
       "name": "Naked As We Came",
       "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
@@ -3101,7 +3123,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 151172,
       "name": "Rust",
       "url": "https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U"
@@ -3249,7 +3271,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 222133,
       "name": "Silver Dagger - Solstice Version",
       "url": "https://open.spotify.com/track/7u3LJNd9Iv7KecnKmB3gxa"
@@ -3541,7 +3563,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 191606,
       "name": "Terms of Surrender",
       "url": "https://open.spotify.com/track/4bHIsdXLSWWONWKv15L5YT"
@@ -3635,7 +3657,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 211794,
       "name": "The Rains",
       "url": "https://open.spotify.com/track/5Wvf91821sBE8aErRtpfRN"
@@ -3935,7 +3957,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 185093,
       "name": "Torch",
       "url": "https://open.spotify.com/track/0q7yko1W5meYBjnXUv8nqz"
@@ -4043,7 +4065,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 252580,
       "name": "Unveiled",
       "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
@@ -4191,7 +4213,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 212706,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/2huz1HeHccvyRuxTQRDGKJ"
@@ -4231,7 +4253,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 157068,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/1qIktGpjJbiikPxFDbuh1L"
@@ -4303,7 +4325,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
@@ -4429,7 +4451,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 163973,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5"

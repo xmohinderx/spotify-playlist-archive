@@ -4,7 +4,7 @@
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: K\-OS
 
-75 songs - 4 hr 53 min - not published yet
+75 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

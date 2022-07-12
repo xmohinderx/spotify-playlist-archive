@@ -4,7 +4,7 @@
 
 > 125%
 
-50 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+51 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Pass The Dutchie \- Sped Up Version](https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Pass The Dutchie \(Sped Up Version\)](https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6) | 3:02 | 2022-06-24 |  |
 | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/track/3TK0rB4H4oKHjf1l3Dteop) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/album/5EJjM6oFkw0bdnCchn5BRV) | 2:00 | 2022-06-09 |  |
 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 | 2022-06-09 |  |
-| [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-07-08 |  |
+| [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-07-08 | 2022-07-12 |
+| [Shootout \(Sped Up\)](https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8) | [Shootout \(Sped Up\)](https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr) | 4:02 | 2022-07-11 |  |
 | [SNAP \- High and Fast](https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:15 | 2022-07-06 |  |
 | [soft spot](https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/5A3dh1CIsZwBTppyUsiBtV) | 3:39 | 2022-06-09 |  |
 | [Something Just Like This](https://open.spotify.com/track/2uEcJWvKnu205UxlYDuDMj) | [Fly By Nightcore](https://open.spotify.com/artist/5n0h7PGhxq6dC4LCWTEcMA) | [Goes Acoustic, Vol\. 1](https://open.spotify.com/album/4cg3lHoYjTEYQbsadgOFqf) | 2:38 | 2022-06-09 |  |

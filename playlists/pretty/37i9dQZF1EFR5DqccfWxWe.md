@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142 likes - 150 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 143 likes - 150 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 64 | [Amor en Stereo](https://open.spotify.com/track/3WYqZJn6mZP0ACZl2wbpZV) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Stereo](https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW) | 2:54 |
 | 65 | [Bailar Contigo](https://open.spotify.com/track/1VeJWYnGSbHVhQyhSVq4ge) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:28 |
 | 66 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:26 |
-| 67 | [Moon](https://open.spotify.com/track/1LnlDFJmxi3i7b5SQVC5n1) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 3:28 |
-| 68 | [Las Cuentas](https://open.spotify.com/track/5R0QMYI3PJzXsDaSOyWtJO) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:06 |
+| 67 | [Las Cuentas](https://open.spotify.com/track/5R0QMYI3PJzXsDaSOyWtJO) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:06 |
+| 68 | [Moon](https://open.spotify.com/track/1LnlDFJmxi3i7b5SQVC5n1) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 3:28 |
 | 69 | [Es Natural](https://open.spotify.com/track/6oh2qSjZeP7TPWp2Ehh5MM) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:55 |
-| 70 | [Creo En América](https://open.spotify.com/track/4V239llAQgxynAqOUfuueJ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Distinto \- Edición Especial](https://open.spotify.com/album/63LMsZgYQTiIXszpxA9Q0S) | 2:53 |
-| 71 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 70 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 71 | [Creo En América](https://open.spotify.com/track/4V239llAQgxynAqOUfuueJ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Distinto \- Edición Especial](https://open.spotify.com/album/63LMsZgYQTiIXszpxA9Q0S) | 2:53 |
 | 72 | [En Las Manos De Dios](https://open.spotify.com/track/0oOnIriN6B7BoQXgAR5n1c) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose \(Expanded Edition\)](https://open.spotify.com/album/3Ca2ChPMHogU1scVKSEprg) | 4:13 |
 | 73 | [Tanto Tanto](https://open.spotify.com/track/6crP0sQtEHyFFKHP2MsqJm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:08 |
 | 74 | [Demons](https://open.spotify.com/track/5YgbT8s9w7yRVabXJj6vv2) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:39 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 119 | [A Plena Luz](https://open.spotify.com/track/0H065bXKlwjfxR3YMnqsl2) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [A Plena Luz](https://open.spotify.com/album/7dBgL2M2CgZaNoAkc4ecPD) | 4:03 |
 | 120 | [El carnaval](https://open.spotify.com/track/3p449iXDlyrgDpy5ZfcfAL) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:43 |
 | 121 | [En El Teatro](https://open.spotify.com/track/2h5lbaq6Ge7rcJGrijc4UU) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 1:48 |
-| 122 | [Sin Desesperar](https://open.spotify.com/track/36QnGKXSouI4ZSm3bMqBOV) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 4:02 |
-| 123 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
+| 122 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
+| 123 | [Sin Desesperar](https://open.spotify.com/track/36QnGKXSouI4ZSm3bMqBOV) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 4:02 |
 | 124 | [A Las Puertas De La Iglesia](https://open.spotify.com/track/35Zpm55ZZI8qKdvACIBwBk) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:56 |
 | 125 | [Duele](https://open.spotify.com/track/0gHZUccB2wIEYfhHMUl5og) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 3:31 |
 | 126 | [Paris](https://open.spotify.com/track/5JVBQ9jsFf24QXfMfj6DIC) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 1:20 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 149 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 150 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc2MjUwMjQsMDAwMDAwMDA0ZmE4YTM5MjRhYTQ0N2FlYzFhYThmMGE3MTI4YmRjNg==`
+Snapshot ID: `Mjc2MjY0NjQsMDAwMDAwMDBjZjZhZGExMmNjZDk2MGZiYTI4NmQyNjJhZDJlNjJjNg==`

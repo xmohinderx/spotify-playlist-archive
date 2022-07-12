@@ -1,12 +1,12 @@
 {
   "description": "Bandas legendarias y canciones que hicieron historia. Foto: Los Prisioneros.",
-  "num_followers": 85661,
+  "num_followers": 85734,
   "original_name": "Cl\u00e1sicos del Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzUwMjYxOCwwMDAwMDAwMDg4OTU2MWE1YWU4MjhhZjlhNjgzYzUwM2Q5OWYwNGUy",
+  "snapshot_id": "MTY1NzU4OTM2NSwwMDAwMDAwMGM3NDVjOGRmMDZiMzBmZTNiNWNlOGMwOTkwYTI5OWRk",
   "tracks": [
     {
       "added_at": "2021-09-16 18:56:02",
@@ -27,6 +27,22 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 290786,
+      "name": "Persiana Americana",
+      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
         "name": "El Milagro Argentino",
         "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
@@ -39,38 +55,6 @@
       "duration_ms": 313000,
       "name": "Loco (Tu Forma De Ser)",
       "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
-        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Cuando Pase El Temblor - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/5BgRSqd7xAhEfWgA9opde9"
     },
     {
       "added_at": "2021-09-16 18:56:02",
@@ -91,6 +75,22 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
         "name": "Pateando Piedras",
         "url": "https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo"
       },
@@ -107,24 +107,8 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "Vida de perros",
-        "url": "https://open.spotify.com/album/458KtFZXizDQb83WFOScaW"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 217849,
-      "name": "Ven aqui",
-      "url": "https://open.spotify.com/track/0VyBSVzyZXXB4LnC4a4moo"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "Los Tres MTV Unplugged",
-        "url": "https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW"
+        "name": "Los Tres",
+        "url": "https://open.spotify.com/album/4hOrjJ97MQ7yXOiGvFbgDQ"
       },
       "artists": [
         {
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 249280,
-      "name": "Quien es la Que Viene Alli - Unplugged Version",
-      "url": "https://open.spotify.com/track/4131I9Y7U9QTLI4mAhpUTQ"
+      "duration_ms": 272520,
+      "name": "Un Amor Violento",
+      "url": "https://open.spotify.com/track/7zpNN01FLMP70EYGcxCCDY"
     },
     {
       "added_at": "2021-09-16 18:56:02",
@@ -155,6 +139,22 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
+        "name": "Vida de perros",
+        "url": "https://open.spotify.com/album/458KtFZXizDQb83WFOScaW"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 217849,
+      "name": "Ven aqui",
+      "url": "https://open.spotify.com/track/0VyBSVzyZXXB4LnC4a4moo"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
         "name": "Pateando Piedras",
         "url": "https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo"
       },
@@ -171,6 +171,54 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
+        "name": "Doble Opuesto",
+        "url": "https://open.spotify.com/album/6H8CwoHnvq3lDJ2luofi0a"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Doble Opuesto",
+      "url": "https://open.spotify.com/track/57gcHVTTVxY4LN84KpPDpf"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
+        "name": "Los Tres MTV Unplugged",
+        "url": "https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 249280,
+      "name": "Quien es la Que Viene Alli - Unplugged Version",
+      "url": "https://open.spotify.com/track/4131I9Y7U9QTLI4mAhpUTQ"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
+        "name": "Hijos De la Tierra",
+        "url": "https://open.spotify.com/album/0Wch49iSnY1V2XMSZqHdh4"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 294333,
+      "name": "Hijos de la Tierra",
+      "url": "https://open.spotify.com/track/5RQAt8vgEsDIjA2NlFngZ9"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
         "name": "El Le\u00f3n",
         "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
@@ -183,54 +231,6 @@
       "duration_ms": 291973,
       "name": "Siguiendo la Luna - Remasterizado 2008",
       "url": "https://open.spotify.com/track/1orgfjGJoycODSItcGVatE"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 290786,
-      "name": "Persiana Americana",
-      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "Canci\u00f3n De Lejos",
-        "url": "https://open.spotify.com/album/6mEv2ZSIvmq8hMtnBDPpCK"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Mi\u00f1o",
-      "url": "https://open.spotify.com/track/6As9jWGwGowXeSd2OiQzeg"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
-      },
-      "artists": [
-        {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Lobo-hombre en Par\u00eds",
-      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
     },
     {
       "added_at": "2021-09-16 18:56:02",
@@ -283,8 +283,24 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "Los Tres",
-        "url": "https://open.spotify.com/album/4hOrjJ97MQ7yXOiGvFbgDQ"
+        "name": "Ser H\u00fcmano!!",
+        "url": "https://open.spotify.com/album/3ncIAbJGUE2sQIu0J1TuE0"
+      },
+      "artists": [
+        {
+          "name": "Tiro De Gracia",
+          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "El Juego Verdadero",
+      "url": "https://open.spotify.com/track/74UB6CQRH9ykJEh9ma3XwD"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
+        "name": "La Espada & la Pared",
+        "url": "https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0"
       },
       "artists": [
         {
@@ -292,25 +308,9 @@
           "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 224600,
-      "name": "He Barrido el Sol",
-      "url": "https://open.spotify.com/track/0fbP8sQu1rEgT6RakeidoS"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "El Grito Del Tiempo",
-        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "En alg\u00fan lugar",
-      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
+      "duration_ms": 303160,
+      "name": "La Espada & la Pared",
+      "url": "https://open.spotify.com/track/3E5wpa4PEgtP6iHVzpIYS9"
     },
     {
       "added_at": "2021-09-16 18:56:02",
@@ -331,8 +331,40 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/4QK2ecV3jFeTPI9c2C5Zih"
+        "name": "Rindanse Terricolas",
+        "url": "https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Locura Espacial",
+      "url": "https://open.spotify.com/track/0FauDhvAuanceOTIGQZAl4"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
+        "name": "Canci\u00f3n De Lejos",
+        "url": "https://open.spotify.com/album/6mEv2ZSIvmq8hMtnBDPpCK"
       },
       "artists": [
         {
@@ -340,57 +372,25 @@
           "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 235000,
-      "name": "No Me Hables de sufrir",
-      "url": "https://open.spotify.com/track/60xIw1We9dC9yzqKrdC1EK"
+      "duration_ms": 244253,
+      "name": "Mi\u00f1o",
+      "url": "https://open.spotify.com/track/6As9jWGwGowXeSd2OiQzeg"
     },
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "Doble Opuesto",
-        "url": "https://open.spotify.com/album/6H8CwoHnvq3lDJ2luofi0a"
+        "name": "Fome",
+        "url": "https://open.spotify.com/album/0BP7icmUBO6wGRTtEGVDmY"
       },
       "artists": [
         {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 267306,
-      "name": "Doble Opuesto",
-      "url": "https://open.spotify.com/track/57gcHVTTVxY4LN84KpPDpf"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "Hijos De la Tierra",
-        "url": "https://open.spotify.com/album/0Wch49iSnY1V2XMSZqHdh4"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 294333,
-      "name": "Hijos de la Tierra",
-      "url": "https://open.spotify.com/track/5RQAt8vgEsDIjA2NlFngZ9"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "Ser H\u00fcmano!!",
-        "url": "https://open.spotify.com/album/3ncIAbJGUE2sQIu0J1TuE0"
-      },
-      "artists": [
-        {
-          "name": "Tiro De Gracia",
-          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "El Juego Verdadero",
-      "url": "https://open.spotify.com/track/74UB6CQRH9ykJEh9ma3XwD"
+      "duration_ms": 210653,
+      "name": "La Torre de Babel",
+      "url": "https://open.spotify.com/track/3AxtYZk8bA3LHaJ1WfYgjj"
     },
     {
       "added_at": "2021-09-16 18:56:02",
@@ -411,18 +411,50 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "Los Tres",
-        "url": "https://open.spotify.com/album/4hOrjJ97MQ7yXOiGvFbgDQ"
+        "name": "Ilusionismo",
+        "url": "https://open.spotify.com/album/4q2WVmz8CoYsHFKdrmrfq3"
       },
       "artists": [
         {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+          "name": "Difuntos Correa",
+          "url": "https://open.spotify.com/artist/2Ii5TVgcXETw3tFhpqJ6HH"
         }
       ],
-      "duration_ms": 272520,
-      "name": "Un Amor Violento",
-      "url": "https://open.spotify.com/track/7zpNN01FLMP70EYGcxCCDY"
+      "duration_ms": 193973,
+      "name": "El Tiempo En Las Bastillas",
+      "url": "https://open.spotify.com/track/4kdMRXEPC0f5zMvxhD7gNY"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7BXecKnsz8hGSHtQxZnm6V"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 256853,
+      "name": "Tejedores De Ilusion",
+      "url": "https://open.spotify.com/track/5sMZNkZlIDHwW4BR0MQyxt"
     },
     {
       "added_at": "2021-09-16 18:56:02",
@@ -459,66 +491,34 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+        "name": "Los Tres",
+        "url": "https://open.spotify.com/album/4hOrjJ97MQ7yXOiGvFbgDQ"
       },
       "artists": [
         {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 288066,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+      "duration_ms": 224600,
+      "name": "He Barrido el Sol",
+      "url": "https://open.spotify.com/track/0fbP8sQu1rEgT6RakeidoS"
     },
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "Amores Perros (Soundtrack)",
-        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
       "artists": [
         {
-          "name": "Nacha Pop",
-          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
         }
       ],
-      "duration_ms": 239800,
-      "name": "Lucha De Gigantes",
-      "url": "https://open.spotify.com/track/43GjYlBkIaEW2laq9D4Rr0"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "Upa!",
-        "url": "https://open.spotify.com/album/3WxenJrkcxJjmotucptgVf"
-      },
-      "artists": [
-        {
-          "name": "Upa!",
-          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "Cuando Vuelvas",
-      "url": "https://open.spotify.com/track/0bT09mbEB6Set7hRUXuEWb"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
-        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 377399,
-      "name": "Mujer Amante - Vivo",
-      "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
+      "duration_ms": 248225,
+      "name": "La Voz de los '80",
+      "url": "https://open.spotify.com/track/0VvwpKqD7cOYubrK030fGR"
     },
     {
       "added_at": "2021-09-16 18:56:02",
@@ -539,18 +539,50 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
-        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3063oQgZ7ngvUJIVSlXWUE"
       },
       "artists": [
         {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 248225,
-      "name": "La Voz de los '80",
-      "url": "https://open.spotify.com/track/0VvwpKqD7cOYubrK030fGR"
+      "duration_ms": 251000,
+      "name": "Nuestra se\u00f1al",
+      "url": "https://open.spotify.com/track/5Jd5oyexFT0JGWX17RAFXY"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
+        "name": "La Rue Morgue",
+        "url": "https://open.spotify.com/album/0NJN9pYxkzezlzjHbj7Qp4"
+      },
+      "artists": [
+        {
+          "name": "La Rue Morgue",
+          "url": "https://open.spotify.com/artist/26ZwTqwf87K05pQDOg3Tc3"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Blues A Dos Mujeres",
+      "url": "https://open.spotify.com/track/6W7c7B526zf3zAF3tptnyG"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
+        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 377399,
+      "name": "Mujer Amante - Vivo",
+      "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
     },
     {
       "added_at": "2021-09-16 18:56:02",
@@ -580,41 +612,57 @@
           "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 303160,
-      "name": "La Espada & la Pared",
-      "url": "https://open.spotify.com/track/3E5wpa4PEgtP6iHVzpIYS9"
+      "duration_ms": 202733,
+      "name": "D\u00e9jate Caer",
+      "url": "https://open.spotify.com/track/1xtBatmC1muBOY1RnUvP8Z"
     },
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "Glup",
-        "url": "https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9"
+        "name": "Amanece",
+        "url": "https://open.spotify.com/album/0jwxzmZ7LlCmTvCctglokp"
       },
       "artists": [
         {
-          "name": "Glup!",
-          "url": "https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE"
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
         }
       ],
-      "duration_ms": 205520,
-      "name": "Mi Destino",
-      "url": "https://open.spotify.com/track/01mNrMDaDseSKzrTmRfqKa"
+      "duration_ms": 179706,
+      "name": "Milagro",
+      "url": "https://open.spotify.com/track/4Ev1EbYD7rsCNoMnHTUhLz"
     },
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0"
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4QK2ecV3jFeTPI9c2C5Zih"
       },
       "artists": [
         {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 250293,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm"
+      "duration_ms": 235000,
+      "name": "No Me Hables de sufrir",
+      "url": "https://open.spotify.com/track/60xIw1We9dC9yzqKrdC1EK"
+    },
+    {
+      "added_at": "2021-09-16 18:56:02",
+      "album": {
+        "name": "El Grito Del Tiempo",
+        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "En alg\u00fan lugar",
+      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
     },
     {
       "added_at": "2021-09-16 18:56:02",
@@ -635,22 +683,6 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3063oQgZ7ngvUJIVSlXWUE"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Nuestra se\u00f1al",
-      "url": "https://open.spotify.com/track/5Jd5oyexFT0JGWX17RAFXY"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -667,66 +699,66 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        "name": "Upa!",
+        "url": "https://open.spotify.com/album/3WxenJrkcxJjmotucptgVf"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Upa!",
+          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
         }
       ],
-      "duration_ms": 293226,
-      "name": "Luz De Dia - En Vivo",
-      "url": "https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR"
+      "duration_ms": 201133,
+      "name": "Cuando Vuelvas",
+      "url": "https://open.spotify.com/track/0bT09mbEB6Set7hRUXuEWb"
     },
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "La Espada & la Pared",
-        "url": "https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0"
+        "name": "Glup",
+        "url": "https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9"
       },
       "artists": [
         {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+          "name": "Glup!",
+          "url": "https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE"
         }
       ],
-      "duration_ms": 202733,
-      "name": "D\u00e9jate Caer",
-      "url": "https://open.spotify.com/track/1xtBatmC1muBOY1RnUvP8Z"
+      "duration_ms": 205520,
+      "name": "Mi Destino",
+      "url": "https://open.spotify.com/track/01mNrMDaDseSKzrTmRfqKa"
     },
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "Grandes Exitos De Ayer y Oink!!",
-        "url": "https://open.spotify.com/album/20O8TO7ChJVElu7ncK2iCR"
+        "name": "Historias De La Calle",
+        "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
       },
       "artists": [
         {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 247640,
-      "name": "El Impostor",
-      "url": "https://open.spotify.com/track/0G1muZ0GZ2WnFO1SJenL3W"
+      "duration_ms": 208875,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/7IvHuh3TYgeQa3Wj3gMrAK"
     },
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "La Rue Morgue",
-        "url": "https://open.spotify.com/album/0NJN9pYxkzezlzjHbj7Qp4"
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
       "artists": [
         {
-          "name": "La Rue Morgue",
-          "url": "https://open.spotify.com/artist/26ZwTqwf87K05pQDOg3Tc3"
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Blues A Dos Mujeres",
-      "url": "https://open.spotify.com/track/6W7c7B526zf3zAF3tptnyG"
+      "duration_ms": 288066,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
     },
     {
       "added_at": "2021-09-16 18:56:02",
@@ -747,70 +779,34 @@
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "Glup",
-        "url": "https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9"
+        "name": "Fuimos Angeles",
+        "url": "https://open.spotify.com/album/26EikD1ZyaGujgijxnoC4u"
       },
       "artists": [
         {
-          "name": "Glup!",
-          "url": "https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE"
+          "name": "Nadie",
+          "url": "https://open.spotify.com/artist/5HLe3OeSpXQsXhC5RDuKF1"
         }
       ],
-      "duration_ms": 196106,
-      "name": "Puta Jefe",
-      "url": "https://open.spotify.com/track/3bKvtihPA72hDEHBJnmHjh"
+      "duration_ms": 287258,
+      "name": "Ausencia 2.0",
+      "url": "https://open.spotify.com/track/0sWUme5JoISh6RV1VcuhLw"
     },
     {
       "added_at": "2021-09-16 18:56:02",
       "album": {
-        "name": "La voz del pueblo",
-        "url": "https://open.spotify.com/album/5GakBgJyNaxLkmr7pHbuhM"
+        "name": "Peces",
+        "url": "https://open.spotify.com/album/4pvzTHkfxiiP6cCpePwSPm"
       },
       "artists": [
         {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
         }
       ],
-      "duration_ms": 164813,
-      "name": "Te doy una canci\u00f3n",
-      "url": "https://open.spotify.com/track/3jC9r8ehmpbp5fYnnRga4Q"
-    },
-    {
-      "added_at": "2022-07-04 19:23:06",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/7l3Yo2X2XX2A7AYyDESULC"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/3UBJRltEU6MFv7DkLs13Z1"
-    },
-    {
-      "added_at": "2021-09-16 18:56:02",
-      "album": {
-        "name": "Sin Condiciones",
-        "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
-      },
-      "artists": [
-        {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
-        },
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 230725,
-      "name": "Sin Condiciones",
-      "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
+      "duration_ms": 208693,
+      "name": "Cuando Respiro En Tu Boca",
+      "url": "https://open.spotify.com/track/5EhButiJbrrRbO3qguSKkg"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Rock",

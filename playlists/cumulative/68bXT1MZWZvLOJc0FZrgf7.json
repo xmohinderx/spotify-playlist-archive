@@ -1120,6 +1120,24 @@
     },
     {
       "album": {
+        "name": "Get To Know Me",
+        "url": "https://open.spotify.com/album/4s2SYi5i0nmWy3RlYWHGLW"
+      },
+      "artists": [
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "Get To Know Me",
+      "url": "https://open.spotify.com/track/6SmsuhxUTtgWQhK723xkDJ"
+    },
+    {
+      "album": {
         "name": "Hallucination",
         "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
       },

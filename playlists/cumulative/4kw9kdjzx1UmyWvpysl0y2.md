@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-206 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+207 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 | 2022-05-07 |
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-02-01 | 2022-04-13 |
 | [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 |  |
+| [Bad For You](https://open.spotify.com/track/0vWynZjfMnx8wtQx4CpwgS) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Hammerhead](https://open.spotify.com/artist/6sckmaSXwZnsOR3kB4Hk75), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Bad For You](https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS) | 4:03 | 2022-07-11 |  |
 | [Barcelona Nights](https://open.spotify.com/track/17vXZTcVsCJF1NBoaBQjm7) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Barcelona Nights](https://open.spotify.com/album/08tb3v7S80nm19wRGvhoDi) | 3:00 | 2022-06-17 |  |
 | [begin again](https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 1](https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM) | 3:53 | 2022-03-23 | 2022-06-04 |
 | [Behind Your Eyes](https://open.spotify.com/track/1hV1ZlD4WGJzBZ4ScGJKdy) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Juneau](https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34) | [Behind Your Eyes](https://open.spotify.com/album/21vde0XQf3KcIL3rbyb4mf) | 2:26 | 2021-11-19 | 2022-02-08 |
@@ -97,7 +98,7 @@
 | [Higher Peaks](https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Higher Peaks](https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv) | 5:07 | 2022-06-10 |  |
 | [Hold Up](https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Hold Up](https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ) | 2:59 | 2022-01-28 | 2022-04-13 |
 | [Horizon](https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Horizon](https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S) | 4:15 | 2022-02-11 | 2022-04-22 |
-| [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-04-29 |  |
+| [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-04-29 | 2022-07-12 |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
 | [In My Hands](https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [In My Hands](https://open.spotify.com/album/3U0Zx1JGLJF84QohhxArK6) | 4:14 | 2022-04-13 | 2022-06-23 |
 | [Jupiter & Saturn](https://open.spotify.com/track/5kihqmQ7LLDHK3nEbqyyqm) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Jupiter & Saturn](https://open.spotify.com/album/5RqTuhUL1aoro59s9CKyqW) | 3:13 | 2022-06-17 |  |

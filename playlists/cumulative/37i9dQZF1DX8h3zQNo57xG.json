@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Binaural Bliss",
+        "url": "https://open.spotify.com/album/76tMa9BWw3Ps71go8XdbYs"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Delta 73.9 Hz - 76 Hz",
+      "url": "https://open.spotify.com/track/72u4bNSbSYVmnxSD64U4ML"
+    },
+    {
+      "album": {
         "name": "Binaural Delta Sleep Songs",
         "url": "https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe"
       },

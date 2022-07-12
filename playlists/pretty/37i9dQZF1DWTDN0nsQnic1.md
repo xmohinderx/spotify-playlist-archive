@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,643 likes - 56 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,667 likes - 56 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Worldwide](https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR) | 3:43 |
-| 2 | [Surface](https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [INIMI](https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL) | [Could It Be U / Surface](https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt) | 3:07 |
-| 3 | [thinking of you](https://open.spotify.com/track/21ZVMmHXpt3Qht5pjVgBMS) | [Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [until the end](https://open.spotify.com/album/5PsSXT8MDeQtsGWaoOhajF) | 1:53 |
-| 4 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 |
-| 5 | [It's a Moot Point](https://open.spotify.com/track/5OP4i76ZTqEAk85tTAoYZO) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/0uYv4UurbEDyLsKe5O5dzJ) | 4:02 |
-| 6 | [Where I Want to Be](https://open.spotify.com/track/5OJD3ceQHISjim2MVDUGkJ) | [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3) | [Where I Want to Be](https://open.spotify.com/album/3C3oFWTYx44bZwlzh4ByjS) | 4:39 |
+| 2 | [thinking of you](https://open.spotify.com/track/21ZVMmHXpt3Qht5pjVgBMS) | [Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [until the end](https://open.spotify.com/album/5PsSXT8MDeQtsGWaoOhajF) | 1:53 |
+| 3 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 |
+| 4 | [It's a Moot Point](https://open.spotify.com/track/5OP4i76ZTqEAk85tTAoYZO) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/0uYv4UurbEDyLsKe5O5dzJ) | 4:02 |
+| 5 | [Where I Want to Be](https://open.spotify.com/track/5OJD3ceQHISjim2MVDUGkJ) | [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3) | [Where I Want to Be](https://open.spotify.com/album/3C3oFWTYx44bZwlzh4ByjS) | 4:39 |
+| 6 | [Surface](https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [INIMI](https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL) | [Could It Be U / Surface](https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt) | 3:07 |
 | 7 | [Sunn](https://open.spotify.com/track/4ZAA5ABChC3NtSGNvXsMGV) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Flutter](https://open.spotify.com/album/0AIhIiAotftWvQlP0qXyuu) | 2:36 |
 | 8 | [Pasta Shinjuku](https://open.spotify.com/track/3GaJtMgcVrxwoIanmLrYaL) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_2](https://open.spotify.com/album/3SFbd4P6g9jDfDBzNF17zH) | 1:46 |
 | 9 | [Suspended](https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Suspended](https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L) | 2:10 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 55 | [Buttermilk](https://open.spotify.com/track/4mqKn7ewOLvVTJvGMRB5cp) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Buttermilk](https://open.spotify.com/album/2fKkJ6Q0hte7h1OmkKx8kV) | 3:25 |
 | 56 | [Trip 5](https://open.spotify.com/track/6sVSbqlpbATtUEOGC4XNLh) | [Heavy Mellow](https://open.spotify.com/artist/59WT73GxJi40AmPXYvJEYx), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Acid R&B Vol\. 1](https://open.spotify.com/album/6I5PK3PCQhOQHRwBHgCVfQ) | 2:22 |
 
-Snapshot ID: `MTY1MTIwNDkyMCwwMDAwMDAwYTAwMDAwMTgwNzM3YjkzMzMwMDAwMDE3ZDliNGUzOTA0`
+Snapshot ID: `MTY1NzU3MDY3NSwwMDAwMDAwYzAwMDAwMTgxZWVlOTRiNDEwMDAwMDE4MWVlZTkyNWE0`

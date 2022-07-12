@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-10",
   "description": "you know the vibe \ud83e\udd65\ud83c\udf34\ud83d\udc59\ud83d\udc1a\ud83e\udd8b\ud83c\udf38",
   "name": "coconut girl vibes",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3czw7wtauWs6hidH4XblX8"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 89508,
       "name": "$10",
       "url": "https://open.spotify.com/track/3koAwrM1RO0TGMeQJ3qt9J"
@@ -187,7 +189,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 200013,
       "name": "baby blue (feat. Olivia O'Brien)",
       "url": "https://open.spotify.com/track/19ycym22ELrmEoXWV40py6"
@@ -209,6 +211,24 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
+        "name": "Backyard Boy (Stripped)",
+        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129240,
+      "name": "Backyard Boy",
+      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
     },
     {
       "album": {
@@ -547,7 +567,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 177280,
       "name": "Everybody Talks",
       "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
@@ -673,7 +693,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 144000,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
@@ -1035,6 +1055,24 @@
       "duration_ms": 175312,
       "name": "Morning Sex",
       "url": "https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb"
+    },
+    {
+      "album": {
+        "name": "Music Sounds Better with You",
+        "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198305,
+      "name": "Music Sounds Better with You",
+      "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
     },
     {
       "album": {

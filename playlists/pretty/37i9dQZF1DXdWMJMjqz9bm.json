@@ -1,60 +1,28 @@
 {
   "description": "A little bit of pop and a little bit of rap. Cover: Arden Jones",
-  "num_followers": 160281,
+  "num_followers": 160398,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzMxNTMxOSwwMDAwMDEzMjAwMDAwMTgxZGZiMGRmZWYwMDAwMDE4MTNhNjU2ZTVj",
+  "snapshot_id": "MTY1NzU1OTE4MiwwMDAwMDEzMzAwMDAwMTgxZWUzOWViMTYwMDAwMDE4MTNhNjU2ZTVj",
   "tracks": [
     {
-      "added_at": "2022-07-05 14:49:37",
+      "added_at": "2022-07-11 17:06:22",
       "album": {
-        "name": "profile",
-        "url": "https://open.spotify.com/album/3kYkDN4pfaTTTaNf80v0Z3"
+        "name": "good day",
+        "url": "https://open.spotify.com/album/4Yyn7HIrbeCp8tQuNAF3C4"
       },
       "artists": [
         {
-          "name": "Kinrose",
-          "url": "https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m"
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
         }
       ],
-      "duration_ms": 164602,
-      "name": "profile",
-      "url": "https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC"
-    },
-    {
-      "added_at": "2022-07-06 14:27:37",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 297404,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "ledge",
-        "url": "https://open.spotify.com/album/4ucXenIHafaLWozWJhLp6y"
-      },
-      "artists": [
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 156038,
-      "name": "ledge",
-      "url": "https://open.spotify.com/track/4qahEWQ9T4MlTFnDqbWtQU"
+      "duration_ms": 168292,
+      "name": "good day",
+      "url": "https://open.spotify.com/track/3QK8wVrYJD2C6DAIypaXW1"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -77,6 +45,22 @@
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "profile",
+        "url": "https://open.spotify.com/album/3kYkDN4pfaTTTaNf80v0Z3"
+      },
+      "artists": [
+        {
+          "name": "Kinrose",
+          "url": "https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m"
+        }
+      ],
+      "duration_ms": 164602,
+      "name": "profile",
+      "url": "https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC"
+    },
+    {
       "added_at": "2022-07-06 14:27:37",
       "album": {
         "name": "Twelve Carat Toothache",
@@ -95,6 +79,38 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2022-07-11 17:06:22",
+      "album": {
+        "name": "LYSA",
+        "url": "https://open.spotify.com/album/3Hl7Pv7T7qqTMUwErYu6uk"
+      },
+      "artists": [
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "duration_ms": 157047,
+      "name": "LYSA",
+      "url": "https://open.spotify.com/track/5FZsAaTNEEz5LNBO0bcIZv"
+    },
+    {
+      "added_at": "2022-07-11 17:06:22",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/1brWVptBNPxK6vokRsL3op"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 126316,
+      "name": "19",
+      "url": "https://open.spotify.com/track/6vsXEuQuTx6eCRcTFwSUix"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -129,28 +145,36 @@
       "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
     },
     {
-      "added_at": "2022-07-05 14:49:37",
+      "added_at": "2022-07-06 14:27:37",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4OCBrFbkWVm1CxNyOduQBO"
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
       },
       "artists": [
         {
-          "name": "Kyle Beats Collective",
-          "url": "https://open.spotify.com/artist/1jt0slkwCPorL4PeFoQtWZ"
-        },
-        {
-          "name": "Carter Cook",
-          "url": "https://open.spotify.com/artist/0KHc7N6EG0MPyIgJCsEGff"
-        },
-        {
-          "name": "Justin Starling",
-          "url": "https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 159724,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/5EuDiFKa6RYAKOUz9XznSv"
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2022-07-11 17:06:22",
+      "album": {
+        "name": "Loved You Since I Was Young",
+        "url": "https://open.spotify.com/album/6MyeUwv1VQJgxiIJBdWJoH"
+      },
+      "artists": [
+        {
+          "name": "good problem",
+          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
+        }
+      ],
+      "duration_ms": 183418,
+      "name": "Loved You Since I Was Young",
+      "url": "https://open.spotify.com/track/0JTEcPbg192uSL2j7UJasI"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -225,6 +249,22 @@
       "url": "https://open.spotify.com/track/10omO03JNpJwhjo538gdNc"
     },
     {
+      "added_at": "2022-07-11 17:06:22",
+      "album": {
+        "name": "Flat Tire",
+        "url": "https://open.spotify.com/album/1L1AthYINK9Shv4lgYxIEw"
+      },
+      "artists": [
+        {
+          "name": "Nate Good",
+          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
+        }
+      ],
+      "duration_ms": 136091,
+      "name": "Flat Tire",
+      "url": "https://open.spotify.com/track/592UtxyRpf6eOrjS6b2Jur"
+    },
+    {
       "added_at": "2022-07-05 14:49:37",
       "album": {
         "name": "Nail Tech",
@@ -275,6 +315,22 @@
       "duration_ms": 207813,
       "name": "Cigarettes On Patios",
       "url": "https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W"
+    },
+    {
+      "added_at": "2022-07-11 17:06:22",
+      "album": {
+        "name": "One Mistake",
+        "url": "https://open.spotify.com/album/2U47BWP4k3a4uWNAKA3fMu"
+      },
+      "artists": [
+        {
+          "name": "Kidd Snooze",
+          "url": "https://open.spotify.com/artist/6muTs32QJ0ZGYTJnhFit9Z"
+        }
+      ],
+      "duration_ms": 161766,
+      "name": "One Mistake",
+      "url": "https://open.spotify.com/track/4Issv5lPDAGvAAy2fE7EAX"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -347,6 +403,22 @@
       "duration_ms": 147000,
       "name": "Tucson",
       "url": "https://open.spotify.com/track/5mn1QrLBhEUI5XGmcn9HKT"
+    },
+    {
+      "added_at": "2022-07-11 17:06:22",
+      "album": {
+        "name": "Sad Baby",
+        "url": "https://open.spotify.com/album/1MMgsQcs2mV3XalOFcJIo9"
+      },
+      "artists": [
+        {
+          "name": "Mishaal",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 218130,
+      "name": "Sad Baby",
+      "url": "https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -449,6 +521,22 @@
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
     {
+      "added_at": "2022-07-11 17:06:22",
+      "album": {
+        "name": "I Can't Stop Talking to God",
+        "url": "https://open.spotify.com/album/4Xvq7y0cey3nUNUEJIj4GL"
+      },
+      "artists": [
+        {
+          "name": "Zack Cokas",
+          "url": "https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor"
+        }
+      ],
+      "duration_ms": 143658,
+      "name": "I Can't Stop Talking to God",
+      "url": "https://open.spotify.com/track/4wK4CFin4FpwfVq1tVHigg"
+    },
+    {
       "added_at": "2022-07-05 14:49:37",
       "album": {
         "name": "OH MY LORD (feat. 24kGoldn)",
@@ -467,6 +555,30 @@
       "duration_ms": 147022,
       "name": "OH MY LORD (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4OCBrFbkWVm1CxNyOduQBO"
+      },
+      "artists": [
+        {
+          "name": "Kyle Beats Collective",
+          "url": "https://open.spotify.com/artist/1jt0slkwCPorL4PeFoQtWZ"
+        },
+        {
+          "name": "Carter Cook",
+          "url": "https://open.spotify.com/artist/0KHc7N6EG0MPyIgJCsEGff"
+        },
+        {
+          "name": "Justin Starling",
+          "url": "https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0"
+        }
+      ],
+      "duration_ms": 159724,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/5EuDiFKa6RYAKOUz9XznSv"
     },
     {
       "added_at": "2022-07-05 14:49:37",

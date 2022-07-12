@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 112,053 likes - 100 songs - 9 hr 1 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 112,079 likes - 100 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 99 | [Come To Jesus \(Rest In Him\)](https://open.spotify.com/track/2Qg5fWJ1z176U0lVH8nY9O) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt), [Matt Merker](https://open.spotify.com/artist/4tV4kbUb5plcHKiGCPcvrX) | [Come To Jesus \(Rest In Him\)](https://open.spotify.com/album/4YuF1KBGzAG4QKQGlaqlGC) | 4:25 |
 | 100 | [Living Hope](https://open.spotify.com/track/7o24sKRAGXOfX2BWhO7oqU) | [Worship Solutions](https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI), [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Top 25 Praise Songs – The Blessing](https://open.spotify.com/album/3Ip0l3AjSDjpv6hn2THc3Z) | 5:18 |
 
-Snapshot ID: `NjU2NSw2NzM2Njk1Y2QwNWZjOTdmMTE4MWIzNzQyZTc4NTk2MGY0ZTRiZDcx`
+Snapshot ID: `NjU2Nyw0OTgwNGZlMTg1ZTIzNjE2MDZkYTcyNDNhZjIxOTA3YmY0ZTY0MGRk`

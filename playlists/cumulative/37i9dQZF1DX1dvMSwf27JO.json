@@ -302,6 +302,24 @@
     },
     {
       "album": {
+        "name": "dress up!",
+        "url": "https://open.spotify.com/album/65PEe4oqDISaoCia7jZ1jJ"
+      },
+      "artists": [
+        {
+          "name": "lil hero",
+          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129488,
+      "name": "BIG FLIRT",
+      "url": "https://open.spotify.com/track/21X8Gbc0ztQvD9uhX4WxUK"
+    },
+    {
+      "album": {
         "name": "BILLIE EILISH.",
         "url": "https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i"
       },
@@ -375,7 +393,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 288013,
       "name": "Brand New Guy (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/6haTrice1PU59Kd7esp3w1"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 131883,
       "name": "Charmander",
       "url": "https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4XoP1AkbOurU9CeZ2rMEz2"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 166613,
       "name": "help herself (with BENEE)",
       "url": "https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 187466,
       "name": "Krunk",
       "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 207927,
       "name": "Photo ID (with Dominic Fike)",
       "url": "https://open.spotify.com/track/0RW1UL8w8rjQkaIaljaFc5"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -2409,7 +2427,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 217026,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN"
@@ -2499,7 +2517,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 226986,
       "name": "Streets",
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
@@ -2867,10 +2885,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 220000,
       "name": "When I Get There",
       "url": "https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS"
+    },
+    {
+      "album": {
+        "name": "Where I Go",
+        "url": "https://open.spotify.com/album/1WgpfbEh8TfGeY9a8OaCng"
+      },
+      "artists": [
+        {
+          "name": "Self Tape",
+          "url": "https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248221,
+      "name": "Where I Go",
+      "url": "https://open.spotify.com/track/0vuErHWsHarpKnC21sQEu2"
     },
     {
       "album": {

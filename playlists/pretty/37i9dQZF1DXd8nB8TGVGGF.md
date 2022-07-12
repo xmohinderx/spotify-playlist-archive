@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,731 likes - 115 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,777 likes - 115 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,384 likes - 160 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,386 likes - 160 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,15 +129,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 119 | [Barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 |
 | 120 | [Odds \- Bonus Track](https://open.spotify.com/track/0ci6bL4OULrhspWhWcgwE3) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:13 |
 | 121 | [My Religion](https://open.spotify.com/track/7BK6xn13rJRZ4OCbvAszUk) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:05 |
-| 122 | [That's The Kind Of Woman](https://open.spotify.com/track/3LS7eIJfb4eajXcqbnlN2b) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:14 |
-| 123 | [already there](https://open.spotify.com/track/3ynlolAaLgMoa4A8HFm5bo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [already there](https://open.spotify.com/album/7q7zqYQbicds26NyRSuAk7) | 2:56 |
-| 124 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 |
+| 122 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 |
+| 123 | [That's The Kind Of Woman](https://open.spotify.com/track/3LS7eIJfb4eajXcqbnlN2b) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:14 |
+| 124 | [already there](https://open.spotify.com/track/3ynlolAaLgMoa4A8HFm5bo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [already there](https://open.spotify.com/album/7q7zqYQbicds26NyRSuAk7) | 2:56 |
 | 125 | [Every Time I Breathe](https://open.spotify.com/track/1IWHzZQuBidgATKd3itjoL) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Every Time I Breathe](https://open.spotify.com/album/0QIOGBUOtFj3DtO2W9qmiM) | 3:03 |
 | 126 | [childhood bedroom](https://open.spotify.com/track/3GndP4EReJb9DdA4ByUZeF) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:17 |
 | 127 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 |
 | 128 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 |
-| 129 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 |
-| 130 | [Alone Together](https://open.spotify.com/track/6WHlbk5H0JpeTV80zrjZVU) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Wild Dreams \(Deluxe Edition\)](https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev) | 3:28 |
+| 129 | [Alone Together](https://open.spotify.com/track/6WHlbk5H0JpeTV80zrjZVU) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Wild Dreams \(Deluxe Edition\)](https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev) | 3:28 |
+| 130 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 |
 | 131 | [12 Steps](https://open.spotify.com/track/4ekceoPLIy8EEMKBnjn1S8) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [12 Steps](https://open.spotify.com/album/2yZRspUdm5jezVoUwYkZY8) | 2:41 |
 | 132 | [dance with you](https://open.spotify.com/track/2NY14rxSByaLfPZY0OA78x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:19 |
 | 133 | [Up With It](https://open.spotify.com/track/2oPS0YX8XtxtPy3VRgkP1t) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:29 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 143 | [Lost at Sea](https://open.spotify.com/track/68BsUOVteRYSFRQK830ciG) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 3:07 |
 | 144 | [Break](https://open.spotify.com/track/3OGMwLZ5ZbPTgTZT22XjTd) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Break](https://open.spotify.com/album/3Sh8YKaGZ4tAYfBahniCaC) | 2:51 |
 | 145 | [Force Of Nature](https://open.spotify.com/track/1RzePFMMipUOKyUoXgM1Lg) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Powerslide \(Deluxe\)](https://open.spotify.com/album/5hJ7ytoXl9KIjn25N0GhYr) | 2:52 |
-| 146 | [Wonderland \(My Name Is Alice\)](https://open.spotify.com/track/1rhsSBqFquASX0hyihA2K2) | [Alice Chater](https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93) | [Wonderland \(My Name Is Alice\)](https://open.spotify.com/album/5mZ4QIoN4l2i1lYfKImgUx) | 2:39 |
-| 147 | [Mother](https://open.spotify.com/track/0breJW7kUS0qXn4tn2w7as) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:57 |
+| 146 | [Mother](https://open.spotify.com/track/0breJW7kUS0qXn4tn2w7as) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:57 |
+| 147 | [Wonderland \(My Name Is Alice\)](https://open.spotify.com/track/1rhsSBqFquASX0hyihA2K2) | [Alice Chater](https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93) | [Wonderland \(My Name Is Alice\)](https://open.spotify.com/album/5mZ4QIoN4l2i1lYfKImgUx) | 2:39 |
 | 148 | [the chase](https://open.spotify.com/track/7fmVgRV5pOAswl7HC2Z6P4) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 3:13 |
 | 149 | [The Other Side](https://open.spotify.com/track/0nHeGy8AW70D8sGlXQ40D6) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Chester See](https://open.spotify.com/artist/2iTiSaR023IikZDaOfEIRR) | [The Greatest Showman A Cappella](https://open.spotify.com/album/1jdS2Z2L7De7iyK68vLFeS) | 3:28 |
 | 150 | [on my way](https://open.spotify.com/track/5VrJrBAYUAEn3412GKfQEl) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:57 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 159 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 | 160 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 
-Snapshot ID: `Mjc2MjUwMjksMDAwMDAwMDA2YThjMWJjNWNlMmU1ZjJlMmVkZjQ5YWZlZTU1MzFiNQ==`
+Snapshot ID: `Mjc2MjY0NjksMDAwMDAwMDBiOTBjNTNmNWViYjE2M2ZjNmVkMTMxZDYyZjhmMDJhNA==`

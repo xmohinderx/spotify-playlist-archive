@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-129 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+130 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [CHINWI](https://open.spotify.com/track/2BfFsGilHsx0bOe8RdY3pJ) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:41 | 2022-06-16 | 2022-06-25 |
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2021-12-25 | 2022-02-15 |
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 | 2022-07-06 |  |
+| [Crushi](https://open.spotify.com/track/1o6J9yEGafI0rbKfksplwF) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Crushi](https://open.spotify.com/album/1JO7MjScs6ZjUad2lBzKgA) | 3:02 | 2022-07-11 |  |
 | [Daba Yhan Moulana Feat Mom](https://open.spotify.com/track/01W5D1N6caqRwfz348c46b) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Daba Yhan Moulana Feat Mom](https://open.spotify.com/album/6R3bqtQa9D4EnKIkFRuweA) | 3:41 | 2022-07-06 |  |
 | [De9at l9elb](https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [De9at l9elb](https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr) | 2:34 | 2022-01-15 |  |
 | [Dime Porque](https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dime Porque](https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v) | 3:01 | 2022-06-02 |  |
@@ -46,7 +47,7 @@
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-25 | 2022-03-15 |
 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 | 2021-12-25 | 2022-06-07 |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2022-05-10 |  |
-| [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-01-15 |  |
+| [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-01-15 | 2022-07-12 |
 | [Goulo Lhabibi](https://open.spotify.com/track/7ERaNCwzEUT8AOrFsKLWmm) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Goulo Lhabibi](https://open.spotify.com/album/0h2Uhhf98ZSqkcVensqc9y) | 2:41 | 2022-02-16 | 2022-06-12 |
 | [Hali](https://open.spotify.com/track/5URAcSsDPT49IKdX4yYoi0) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Hali](https://open.spotify.com/album/2ZyqDb5y7rvIRHA8KYcMt4) | 3:27 | 2022-03-24 |  |
 | [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-03-10 | 2022-06-28 |

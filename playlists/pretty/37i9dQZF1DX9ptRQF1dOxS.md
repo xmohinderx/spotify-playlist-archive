@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Women who define the past, present and future of music\. Listen at full volume\. Cover: Baby Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,050 likes - 45 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,054 likes - 45 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 203270,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/5yB7BgBbemoIBpfDSWtcBc"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 190022,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/0fULKQl6s5xzZvxbRswkWG"
@@ -296,6 +296,28 @@
     },
     {
       "album": {
+        "name": "Favorite Color, Rain",
+        "url": "https://open.spotify.com/album/422phFf7VHSdH6OXaKYM0c"
+      },
+      "artists": [
+        {
+          "name": "Joe Nora",
+          "url": "https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ"
+        },
+        {
+          "name": "Karavelo",
+          "url": "https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98566,
+      "name": "Cozy",
+      "url": "https://open.spotify.com/track/0fMFptikgwsDH8lGq9yh0b"
+    },
+    {
+      "album": {
         "name": "Parallel Space EP",
         "url": "https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5"
       },
@@ -307,7 +329,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 352947,
       "name": "Creation Dub",
       "url": "https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO"
@@ -433,7 +455,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 668720,
       "name": "Dune - Single Version",
       "url": "https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr"
@@ -647,7 +669,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 240000,
       "name": "Journey",
       "url": "https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u"
@@ -731,7 +753,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 337736,
       "name": "Liquid",
       "url": "https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb"
@@ -815,7 +837,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 303706,
       "name": "Meo - Jacques Greene Remix",
       "url": "https://open.spotify.com/track/4xoQ8jM9JvjWNNC6bk3VZC"
@@ -887,7 +909,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 267250,
       "name": "Nobody New Around You",
       "url": "https://open.spotify.com/track/33OTdf4l4rnrAMIc6FPjh1"
@@ -941,7 +963,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 136639,
       "name": "On to You",
       "url": "https://open.spotify.com/track/03RRcUicMGAzQR5UR0NK88"
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 259165,
       "name": "Pink & Blue",
       "url": "https://open.spotify.com/track/2XjRIFpALuD2lgQVxVUKwS"
@@ -1173,7 +1195,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 225506,
       "name": "Soft Yellow",
       "url": "https://open.spotify.com/track/7hwZbuE6lr35OLMqATaAUw"
@@ -1191,7 +1213,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 285572,
       "name": "Spiracles",
       "url": "https://open.spotify.com/track/2rOEnrtPIhfmNqqiSXXypK"
@@ -1325,7 +1347,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 254864,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/377mv3pv1Nday6pjadqEwr"
@@ -1343,7 +1365,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 355097,
       "name": "Walking In Circles",
       "url": "https://open.spotify.com/track/40m7Ext5J4Nxaky0rlXkNm"
@@ -1419,7 +1441,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/5IBdGT5kl3wNblGeCpVYrH"

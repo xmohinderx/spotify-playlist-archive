@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 223448,
       "name": "Dholna",
       "url": "https://open.spotify.com/track/0fFwmkrYS71wPfv2PYGd34"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 236955,
       "name": "Dil Diyan Baatan",
       "url": "https://open.spotify.com/track/7w7w36WlNUGOY1cdtksqRT"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 209875,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3pxKYqkCKgaGHVExK4BX2e"
@@ -2301,7 +2301,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 200930,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/27PrzcuYKRQbrEzn1U4bSp"
@@ -3067,7 +3067,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 215333,
       "name": "Ki Karde Je",
       "url": "https://open.spotify.com/track/5DnZcwhgXYlUxGOMk348Sz"
@@ -5666,6 +5666,24 @@
     },
     {
       "album": {
+        "name": "Reborn Heer",
+        "url": "https://open.spotify.com/album/7wjT78yuSQw2oIxupfA5Rr"
+      },
+      "artists": [
+        {
+          "name": "Rajvir Jawanda",
+          "url": "https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172311,
+      "name": "Reborn Heer",
+      "url": "https://open.spotify.com/track/6CFz2B5aYYEhlzUuAyDAix"
+    },
+    {
+      "album": {
         "name": "Reh Ni Hunda",
         "url": "https://open.spotify.com/album/2fmtzmBdtOzhTppeg2ruQs"
       },
@@ -6913,7 +6931,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 148571,
       "name": "Tareef",
       "url": "https://open.spotify.com/track/0S1Qsd33jxP2Q9TTuup4z6"

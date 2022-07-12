@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s francophones de la semaine. Photo: Gros Big",
-  "num_followers": 34605,
+  "num_followers": 34603,
   "original_name": "Nouveaut\u00e9s de la semaine Canada",
   "owner": {
     "name": "Spotify",
@@ -264,12 +264,12 @@
       },
       "artists": [
         {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        },
-        {
           "name": "Franglish",
           "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
         }
       ],
       "duration_ms": 168720,

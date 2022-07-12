@@ -4,7 +4,7 @@
 
 > Light water and love \- the keys to happy plants.
 
-22 songs - 1 hr 23 min - not published yet
+22 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/2XmqutWISnEftzOUUHX1LE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

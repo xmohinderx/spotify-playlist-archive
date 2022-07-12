@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 229187,
       "name": "180 Degree",
       "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 205800,
       "name": "A Walk",
       "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 195293,
       "name": "After Summer",
       "url": "https://open.spotify.com/track/5Po1aAY2C6FWCda85dvza6"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 214346,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 200000,
       "name": "Ending",
       "url": "https://open.spotify.com/track/43fbEuz1jtCnKji8WYxoeR"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 257920,
       "name": "Fade away",
       "url": "https://open.spotify.com/track/3a0OpXCAQlT7EkhSyVcniQ"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 160306,
       "name": "Gloomy Sunday",
       "url": "https://open.spotify.com/track/2mvZNCT457rEgTRvedTiJV"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/5BTRHDHNRDdFUYcbTeOacW"
@@ -1610,6 +1610,24 @@
     },
     {
       "album": {
+        "name": "haeyo (2022)",
+        "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
+      },
+      "artists": [
+        {
+          "name": "An Nyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238071,
+      "name": "haeyo (2022)",
+      "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
+    },
+    {
+      "album": {
         "name": "Happy Ending",
         "url": "https://open.spotify.com/album/7kbingImpbGPK2lz8G9c1p"
       },
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 260597,
       "name": "Happiness (feat. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun)",
       "url": "https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 251240,
       "name": "How could you",
       "url": "https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 285040,
       "name": "I See You (Feat. Dongha)",
       "url": "https://open.spotify.com/track/7ukwiVFOiH3Jh8ETip7qk9"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 238760,
       "name": "Letting go",
       "url": "https://open.spotify.com/track/710NqCm6L83EHgBM918bSt"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 239800,
       "name": "Like nothing happened",
       "url": "https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW"
@@ -2961,7 +2979,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 232586,
       "name": "Mother Nature (H\u2082O)",
       "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
@@ -3177,7 +3195,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 225560,
       "name": "Nobody else (Under the Oak Tree) - Original Soundtrack, Part. 3",
       "url": "https://open.spotify.com/track/41hJZwfHtGsr3MxQa6V7bv"
@@ -3423,7 +3441,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
@@ -3441,7 +3459,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 286013,
       "name": "Only you (The Moon during the Day X GB9)",
       "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
@@ -3607,7 +3625,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 272023,
       "name": "Rain & You",
       "url": "https://open.spotify.com/track/6wdPOrD3wXNq4WIUprJ7qi"
@@ -3647,7 +3665,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 217066,
       "name": "Repeatedly",
       "url": "https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9"
@@ -3723,7 +3741,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 369481,
       "name": "Run",
       "url": "https://open.spotify.com/track/0rqth7TKBij4qKmqI1h4Ts"
@@ -3857,7 +3875,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 216146,
       "name": "Solo Christmas",
       "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
@@ -3951,7 +3969,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 411713,
       "name": "Sound of Winter",
       "url": "https://open.spotify.com/track/6nhj2meaMrV4pGKk9Q65u2"
@@ -3969,7 +3987,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 273680,
       "name": "Space",
       "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
@@ -4171,7 +4189,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 301059,
       "name": "Sun And Moon",
       "url": "https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3"
@@ -4189,7 +4207,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 203269,
       "name": "SUNSET WITH YOU",
       "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
@@ -4369,7 +4387,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/5QBOylNG7y0dob40NZxF9p"
@@ -4405,7 +4423,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 228948,
       "name": "The Wind Blows",
       "url": "https://open.spotify.com/track/1PssUYQxZqXz673rilqMvZ"
@@ -4459,7 +4477,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 212608,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
@@ -4517,7 +4535,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
@@ -4813,7 +4831,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
@@ -4867,7 +4885,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 223546,
       "name": "Where Are We Now",
       "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
@@ -4997,7 +5015,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Words From The Wind",
       "url": "https://open.spotify.com/track/1pgLgR2J3uviJoZeyn3ZBQ"
@@ -5073,7 +5091,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 283906,
       "name": "YOU TOUCHED MY HEART",
       "url": "https://open.spotify.com/track/4TIRSAavwjGMWL8Rrzucx6"
@@ -5417,7 +5435,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 219106,
       "name": "\uc78a\uc5b4\ubc84\ub9ac\uc9c0\ub9c8 Don't Forget (feat. \ud0dc\uc5f0 Taeyeon)",
       "url": "https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB"

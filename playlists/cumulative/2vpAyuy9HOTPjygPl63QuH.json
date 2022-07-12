@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Brujeria",
+        "url": "https://open.spotify.com/album/3T7ERtTWQNik5QhwpNhoX6"
+      },
+      "artists": [
+        {
+          "name": "Gaba",
+          "url": "https://open.spotify.com/artist/6uPDwlTytGAzI42bG23K5I"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/4x0mCd7Z0MWn3tJ2QKWQSI"
+    },
+    {
+      "album": {
         "name": "Bumpin'",
         "url": "https://open.spotify.com/album/4BtfgqdJz0qKvr7hHXAAmo"
       },
@@ -4985,8 +5003,8 @@
           "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         },
         {
-          "name": "Fisher",
-          "url": "https://open.spotify.com/artist/1KXyMrwf1RFipbVOKsrYyg"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
           "name": "Steve Edwards",

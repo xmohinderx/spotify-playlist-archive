@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-126 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+127 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [First Love / Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2022-05-17 |  |
 | [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 | 2022-05-17 | 2022-06-02 |
 | [Fragile](https://open.spotify.com/track/1s4bn1Oi01ujaWZKL4DaRq) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Fragile](https://open.spotify.com/album/7CsiXsvAVntWacovB9G4uL) | 4:01 | 2022-06-03 | 2022-06-11 |
-| [Friends to Lovers](https://open.spotify.com/track/5ULZl3hedO1I4zMEjpZL3i) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Friends to Lovers](https://open.spotify.com/album/45lO8Bqhl9aA2AFWNuAg7e) | 2:23 | 2022-06-24 |  |
+| [Friends to Lovers](https://open.spotify.com/track/5ULZl3hedO1I4zMEjpZL3i) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Friends to Lovers](https://open.spotify.com/album/45lO8Bqhl9aA2AFWNuAg7e) | 2:23 | 2022-06-24 | 2022-07-12 |
 | [Fuck It](https://open.spotify.com/track/6n4dJjCThR7Gb9A5DXr1xj) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Fuck It](https://open.spotify.com/album/4JGzX9sAYsqg0mOp0pegoA) | 1:48 | 2022-05-17 |  |
 | [Fuck The Supreme Court \(Rant Song\)](https://open.spotify.com/track/4V2cyPgdRKrK2MxMsk5m5U) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Fuck The Supreme Court \(Rant Song\)](https://open.spotify.com/album/462TZxbkxvWlvQrxHk8iAN) | 2:50 | 2022-07-07 |  |
 | [Gambling Addiction](https://open.spotify.com/track/49K5DbnLuQ20IzlFe1uEhz) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Gambling Addiction](https://open.spotify.com/album/7FgOugktlsg4ODTM29jMzP) | 2:47 | 2022-05-17 |  |
@@ -108,6 +108,7 @@
 | [Smitten](https://open.spotify.com/track/4ECcVxvtmcKyemj7GLu8V0) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Smitten](https://open.spotify.com/album/1nBm5rHMr2g9dqIU98OmcT) | 2:29 | 2022-05-17 |  |
 | [Smitten / vulnerable](https://open.spotify.com/track/40BNw8gYwlfSp9eUsfzG8K) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 3:52 | 2022-05-17 |  |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-05-17 |  |
+| [Tapeworms](https://open.spotify.com/track/1tRqkzDbWCxDq2wBiI5vhm) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Tapeworms](https://open.spotify.com/album/1EfIsnaZOJ9FK6cWFg53J8) | 3:07 | 2022-07-11 |  |
 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 | 2022-05-17 |  |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2022-05-17 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-17 |  |

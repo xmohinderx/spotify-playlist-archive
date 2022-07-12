@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-232 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+234 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [alpha waves](https://open.spotify.com/track/5ZCW5CDwhfXJGL2MzxGwhx) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [alpha waves](https://open.spotify.com/album/1Qbsw57Avkq9ClGT3iUGqc) | 3:25 | 2021-09-06 |  |
 | [Altitude](https://open.spotify.com/track/4uVBqXnMHCwZ7GDyfhor86) | [Astral Roads](https://open.spotify.com/artist/65DssPNGbmHrLwyOITcUX5) | [Altitude](https://open.spotify.com/album/1vB2dUVRuBaavlc2Xa7sPq) | 3:48 | 2021-09-06 |  |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2021-09-06 |  |
+| [Aquarium](https://open.spotify.com/track/4FQIwSmM1RkrJoYo7ys5gP) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:40 | 2022-07-11 |  |
 | [Arise](https://open.spotify.com/track/6OdP3zH7YSP9gaDpQ2Pj5D) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Arise](https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft) | 3:36 | 2021-09-06 |  |
 | [As With The Night Sky](https://open.spotify.com/track/6nJUw7h8liQrCLhqlNTL59) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:27 | 2021-09-06 |  |
 | [Astral Projection](https://open.spotify.com/track/6E5PG5bexno2S1McK27EVg) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:41 | 2021-09-06 |  |
@@ -106,6 +107,7 @@
 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 | 2021-09-06 |  |
 | [Gentle Clouds](https://open.spotify.com/track/1IRR5rfYWEjE3EiWi9JVZQ) | [Antonin Luther](https://open.spotify.com/artist/11sHuBcPbj0dxzuNmKgXD9) | [Floating In Space](https://open.spotify.com/album/27lGmauzxbrtAdByJ209dT) | 3:06 | 2021-09-06 |  |
 | [Gentle Serenity](https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb) | [Perfect Shapes](https://open.spotify.com/artist/7rocivfP8tOkfNxT2jp9Fr) | [Horizon](https://open.spotify.com/album/3887UhI3G4vNcTefsBA5Zi) | 3:27 | 2021-09-06 |  |
+| [Gisteren](https://open.spotify.com/track/6VlkT2wNTiNCGiPS4pH3tO) | [Casper Wiersma](https://open.spotify.com/artist/2ZEbGQS7T0YnsUHidXUVUZ) | [Gisteren](https://open.spotify.com/album/46Epx3wYFdjZGIP6IFy1zm) | 2:23 | 2022-07-11 |  |
 | [glass house](https://open.spotify.com/track/5SP4NANOzKAzWDStzliHFk) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glass house](https://open.spotify.com/album/3dBYsUNY4YBYC07LFSAGjn) | 2:49 | 2021-09-06 |  |
 | [Gloaming](https://open.spotify.com/track/6oMUXEiKVDyaXdcJ2YVnuj) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Gloaming](https://open.spotify.com/album/6pSLgjMOClX8LgNDnAdK5J) | 2:15 | 2021-09-06 |  |
 | [Glorious Glow](https://open.spotify.com/track/60SnZrB33lIY2BEY553JFl) | [Soliviant](https://open.spotify.com/artist/3EwfkP9uSQ9xjiYydhiqNe) | [Glorious Glow](https://open.spotify.com/album/4evkT8PYzfeH8XchduYOik) | 3:26 | 2021-09-06 |  |

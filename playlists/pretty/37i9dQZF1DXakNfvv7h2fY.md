@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 
 > Rain keep a fallin’ round my window pane..\. Blues to warm the soul when there’s no point going outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,347 likes - 57 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,367 likes - 57 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

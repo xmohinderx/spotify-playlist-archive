@@ -4,7 +4,7 @@
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Chris Brown
 
-135 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/5s7fhvbutNcZHU1nvTcDIN)
+136 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/5s7fhvbutNcZHU1nvTcDIN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [I Can See The Future](https://open.spotify.com/track/0nmQwklag0P4BtyesFqstc) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 2:56 | 2022-03-04 | 2022-05-28 |
 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 | 2022-01-07 | 2022-06-11 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-03 |  |
+| [Immature](https://open.spotify.com/track/2AB3ZBErbY5P9PXIrTFAb9) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:53 | 2022-07-11 |  |
 | [In Motion](https://open.spotify.com/track/2IcHKhyhlaQRoZplICg17l) | [B Streezy](https://open.spotify.com/artist/05V5gzgkCFK7S6z5OeLwyk), [Hd4president](https://open.spotify.com/artist/1IRUBjX6bQWnwupD48ZRgc) | [In Motion](https://open.spotify.com/album/4tmrbSVvVfcfKPp9KTlWew) | 3:09 | 2021-12-17 | 2022-04-16 |
 | [In My Bag](https://open.spotify.com/track/5aKvdpWyjO14xB04CTEpEw) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Space and Time](https://open.spotify.com/album/3FsgJirEdTynPXLGvct53E) | 3:28 | 2021-12-17 | 2022-02-15 |
 | [In The Club](https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [In The Club](https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs) | 2:52 | 2022-04-29 | 2022-05-20 |

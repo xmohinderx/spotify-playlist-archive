@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 125%
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,093 likes - 49 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,550 likes - 49 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 4 | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c) | 2:45 |
 | 5 | [Lights \- Sped Up Version](https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Lights \(Sped Up Version\)](https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR) | 3:10 |
 | 6 | [Pass The Dutchie \- Sped Up Version](https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Pass The Dutchie \(Sped Up Version\)](https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6) | 3:02 |
-| 7 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 |
+| 7 | [Shootout \(Sped Up\)](https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8) | [Shootout \(Sped Up\)](https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr) | 4:02 |
 | 8 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 |
 | 9 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 |
 | 10 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 48 | [Something Just Like This](https://open.spotify.com/track/2uEcJWvKnu205UxlYDuDMj) | [Fly By Nightcore](https://open.spotify.com/artist/5n0h7PGhxq6dC4LCWTEcMA) | [Goes Acoustic, Vol\. 1](https://open.spotify.com/album/4cg3lHoYjTEYQbsadgOFqf) | 2:38 |
 | 49 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
 
-Snapshot ID: `MTY1NzI5Mzc5MCwwMDAwMDAwYjAwMDAwMTgxZGU2ODVjNDIwMDAwMDE4MTRhMzY1YWRm`
+Snapshot ID: `MTY1NzU1MDA5MCwwMDAwMDAwYzAwMDAwMTgxZWRhZjMwZTcwMDAwMDE4MTRhMzY1YWRm`

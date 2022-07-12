@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf"
+      },
+      "artists": [
+        {
+          "name": "Aquatic Dreamer",
+          "url": "https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160839,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4FQIwSmM1RkrJoYo7ys5gP"
+    },
+    {
+      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft"
       },
@@ -1773,6 +1791,24 @@
       "duration_ms": 207168,
       "name": "Gentle Serenity",
       "url": "https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb"
+    },
+    {
+      "album": {
+        "name": "Gisteren",
+        "url": "https://open.spotify.com/album/46Epx3wYFdjZGIP6IFy1zm"
+      },
+      "artists": [
+        {
+          "name": "Casper Wiersma",
+          "url": "https://open.spotify.com/artist/2ZEbGQS7T0YnsUHidXUVUZ"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143727,
+      "name": "Gisteren",
+      "url": "https://open.spotify.com/track/6VlkT2wNTiNCGiPS4pH3tO"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a Carlos Unger y Ferraz. \ud83c\udf0a\u2728 ",
-  "num_followers": 26949,
+  "num_followers": 26972,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk3Mjc3NiwwMDAwMDA1MjAwMDAwMTgxY2I0NjE0YzQwMDAwMDE4MWI3ZDgwZmY2",
+  "snapshot_id": "MTY1NzU0ODc4OSwwMDAwMDA1MzAwMDAwMTgxZWQ5YjU3Y2QwMDAwMDE4MWI3ZDgwZmY2",
   "tracks": [
     {
       "added_at": "2022-07-01 05:00:00",
@@ -53,6 +53,22 @@
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
     },
     {
+      "added_at": "2022-07-11 14:13:09",
+      "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
+    },
+    {
       "added_at": "2022-06-24 13:03:48",
       "album": {
         "name": "CHTM",
@@ -85,22 +101,6 @@
       "url": "https://open.spotify.com/track/4HpNEIfi16VenKhhSRKSeU"
     },
     {
-      "added_at": "2022-07-04 18:20:38",
-      "album": {
-        "name": "Pa'l Viento",
-        "url": "https://open.spotify.com/album/1Lq8u0fHqS6I52EaPHpn3O"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Pa'l Viento",
-      "url": "https://open.spotify.com/track/12q0LhDcpKvOjRxMpL9RfE"
-    },
-    {
       "added_at": "2022-06-27 16:57:55",
       "album": {
         "name": "como me encanta",
@@ -115,6 +115,22 @@
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+    },
+    {
+      "added_at": "2022-07-11 14:13:09",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5"
     },
     {
       "added_at": "2022-07-01 18:35:42",
@@ -139,6 +155,38 @@
     {
       "added_at": "2022-06-24 13:03:48",
       "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/7oLzFFlnvINd5OZmmZXu8L"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Monstruos (est\u00e1 bn estar mal)",
+      "url": "https://open.spotify.com/track/3vy6XKN0Tn07cldEYEyA5Z"
+    },
+    {
+      "added_at": "2022-07-11 14:13:09",
+      "album": {
+        "name": "Sanal\u00f6",
+        "url": "https://open.spotify.com/album/18N5wazSsD3jkwYlT8AAem"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 207403,
+      "name": "Sanal\u00f6",
+      "url": "https://open.spotify.com/track/4a3TYChLrUfnKgTjTxZYFB"
+    },
+    {
+      "added_at": "2022-06-24 13:03:48",
+      "album": {
         "name": "Chihiro",
         "url": "https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y"
       },
@@ -151,6 +199,22 @@
       "duration_ms": 219822,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m"
+    },
+    {
+      "added_at": "2022-07-11 14:13:09",
+      "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/4GECxsGnRtPcoVdso44I7l"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "MOOD",
+      "url": "https://open.spotify.com/track/7sTylBrghRzKpTayE7W62J"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -169,20 +233,36 @@
       "url": "https://open.spotify.com/track/206EbLmSB7o5WimiOCE5Va"
     },
     {
-      "added_at": "2022-06-24 13:03:48",
+      "added_at": "2022-07-01 18:35:42",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/7oLzFFlnvINd5OZmmZXu8L"
+        "name": "LA PUERTA",
+        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Steff",
+          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
         }
       ],
-      "duration_ms": 203076,
-      "name": "Monstruos (est\u00e1 bn estar mal)",
-      "url": "https://open.spotify.com/track/3vy6XKN0Tn07cldEYEyA5Z"
+      "duration_ms": 183225,
+      "name": "LA PUERTA",
+      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
+    },
+    {
+      "added_at": "2022-07-04 18:20:38",
+      "album": {
+        "name": "Pa'l Viento",
+        "url": "https://open.spotify.com/album/1Lq8u0fHqS6I52EaPHpn3O"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Pa'l Viento",
+      "url": "https://open.spotify.com/track/12q0LhDcpKvOjRxMpL9RfE"
     },
     {
       "added_at": "2022-06-24 13:03:48",
@@ -249,22 +329,6 @@
       "url": "https://open.spotify.com/track/5prM7f8gT8LNm8HlCdT7nl"
     },
     {
-      "added_at": "2022-07-01 18:35:42",
-      "album": {
-        "name": "LA PUERTA",
-        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
-      },
-      "artists": [
-        {
-          "name": "Steff",
-          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
-        }
-      ],
-      "duration_ms": 183225,
-      "name": "LA PUERTA",
-      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
-    },
-    {
       "added_at": "2022-07-01 05:00:00",
       "album": {
         "name": "Nostalgia",
@@ -299,22 +363,6 @@
       "duration_ms": 210562,
       "name": "Masoquista",
       "url": "https://open.spotify.com/track/0Zi2qTrntCAIgC93zjZRpC"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
-        "name": "Match",
-        "url": "https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Match",
-      "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
     },
     {
       "added_at": "2022-07-04 22:12:56",
@@ -543,22 +591,6 @@
     {
       "added_at": "2022-06-24 13:03:48",
       "album": {
-        "name": "Vienen Y Van",
-        "url": "https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 181808,
-      "name": "Vienen Y Van",
-      "url": "https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
         "name": "ojal\u00e1 </3",
         "url": "https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes"
       },
@@ -779,26 +811,6 @@
     {
       "added_at": "2022-06-24 13:03:48",
       "album": {
-        "name": "Noche en LA",
-        "url": "https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 209891,
-      "name": "Noche en LA",
-      "url": "https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O"
       },
@@ -967,22 +979,6 @@
       "duration_ms": 180236,
       "name": "2000nunca",
       "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
-        "name": "fuera de lugar",
-        "url": "https://open.spotify.com/album/6Z73rP80ugJPA7zEhCitar"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "aunque quisiera, no podr\u00eda",
-      "url": "https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG"
     },
     {
       "added_at": "2022-06-24 13:03:48",

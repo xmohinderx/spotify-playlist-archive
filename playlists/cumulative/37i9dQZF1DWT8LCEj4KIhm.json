@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-10",
   "description": "D\u00e9sormais, aucune raison de se faire ch**r au gym.",
   "name": "Donne-to\u00e9",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0U6BItUewcPTCkrT4zM3lw"
+  ],
   "tracks": [
     {
       "album": {
@@ -353,7 +355,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 194851,
       "name": "Des milliers de secondes - Realmind Remix",
       "url": "https://open.spotify.com/track/7DFoNEU5ZNsMFcpuwZjZQ9"
@@ -415,7 +417,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 274177,
       "name": "Don't Forget",
       "url": "https://open.spotify.com/track/2FuV8PGlvlJMVzpB9Fma1H"
@@ -649,7 +651,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 208505,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
@@ -759,7 +761,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 197760,
       "name": "Je suis \u00e0 toi (Moto Blanco Remix)",
       "url": "https://open.spotify.com/track/0rVUCy43dmcchGcOWvlgY0"
@@ -993,7 +995,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 199384,
       "name": "Miroir",
       "url": "https://open.spotify.com/track/0Eolm1QSRMxzaVS3w8JxW1"
@@ -1161,7 +1163,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 176933,
       "name": "Parle \u00e0 ta t\u00eate",
       "url": "https://open.spotify.com/track/3lTGqzJbMYDHXbqeV8pt7d"
@@ -1183,7 +1185,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 210625,
       "name": "Petite mort (Remix)",
       "url": "https://open.spotify.com/track/7Fds4txIukBaLpzODVAatU"
@@ -1314,6 +1316,28 @@
     },
     {
       "album": {
+        "name": "Run Run",
+        "url": "https://open.spotify.com/album/2GH8XRIknCWAUwLQKWSd3x"
+      },
+      "artists": [
+        {
+          "name": "CAZZETTE",
+          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+        },
+        {
+          "name": "Morgan Bosman",
+          "url": "https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223479,
+      "name": "Run Run",
+      "url": "https://open.spotify.com/track/3AykwqBMnpKvNwT9iMcJXj"
+    },
+    {
+      "album": {
         "name": "SAD (Imanbek xxx Remix)",
         "url": "https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF"
       },
@@ -1403,7 +1427,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 166170,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/6YvwtYk5zrGsMosUzG6GpZ"
@@ -1425,7 +1449,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 218616,
       "name": "Sous les rivi\u00e8res",
       "url": "https://open.spotify.com/track/3y9pU3vApshiVOJ5ngTZAB"
@@ -1671,7 +1695,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 176377,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/2UkF0EWfh0T90ScJzGqnD1"
@@ -1755,7 +1779,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 154217,
       "name": "You Do You",
       "url": "https://open.spotify.com/track/4cHDvM5zaKfabQaW2wAT1x"

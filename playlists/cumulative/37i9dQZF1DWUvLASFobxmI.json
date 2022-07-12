@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 159703,
       "name": "Armando Acertijos",
       "url": "https://open.spotify.com/track/76WKYewcP9Q3Hs72dTyDnR"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 190453,
       "name": "Aunque Sea En Silencio (Cuatro Paredes)",
       "url": "https://open.spotify.com/track/6tO7GuXst1F2L5Hppk8UgB"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 189789,
       "name": "Cuando Me Muera",
       "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 159347,
       "name": "De Rancho Soy",
       "url": "https://open.spotify.com/track/0OU7uk4jZKFJfp4o1xGhql"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 196816,
       "name": "El Canelo",
       "url": "https://open.spotify.com/track/7Dz034bA0pM21kTDqTW1jM"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 208212,
       "name": "El del Corvette",
       "url": "https://open.spotify.com/track/1Sc2tm7aeKp7HeP54metL0"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 165035,
       "name": "El Fracasado",
       "url": "https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 154978,
       "name": "El Seven",
       "url": "https://open.spotify.com/track/07y97kTaxDblALAqQyubsP"
@@ -751,10 +751,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 186866,
       "name": "Especial",
       "url": "https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK"
+    },
+    {
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187146,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
     },
     {
       "album": {
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 197146,
       "name": "Hoy Todo Bien",
       "url": "https://open.spotify.com/track/52YLbg0k9SzmW8R6EYWyyd"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 198675,
       "name": "Mi Padre (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/5PyKNGmzN7zyEEC61muPA8"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 150466,
       "name": "Perd\u00f3n Porque?",
       "url": "https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 170624,
       "name": "Pero Te Vas a Arrepentir",
       "url": "https://open.spotify.com/track/0BqupaTUKv80njcNbK0grX"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 194133,
       "name": "Que Me Extra\u00f1as",
       "url": "https://open.spotify.com/track/43MeRoZnKTXoLQlORolyNC"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 155909,
       "name": "S\u00ed Como No",
       "url": "https://open.spotify.com/track/5TOathKIZl0EoGUKUoLpdx"

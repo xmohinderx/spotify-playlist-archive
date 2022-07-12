@@ -4,7 +4,7 @@
 
 > It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.
 
-79 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/6nR9fObgGSerkhsDfjVzFd)
+80 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/6nR9fObgGSerkhsDfjVzFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2022-07-03 |  |
 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 | 2022-06-06 |  |
 | [Friends](https://open.spotify.com/track/25PKLYyEdsCnBAnvcah8VF) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [The Divine Miss M](https://open.spotify.com/album/0WCR1ZDrcXuNerUd6mbeiP) | 2:54 | 2022-05-13 |  |
+| [Goodbye To Love](https://open.spotify.com/track/1PLgQkmhgh6GHQnomQ50Rv) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [A Song For You](https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov) | 3:58 | 2022-07-11 |  |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-05-13 |  |
 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 | 2022-05-13 |  |
 | [Hey Baby](https://open.spotify.com/track/0R2wFVBSGE7elPxW582IWy) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 2:23 | 2022-05-13 |  |
@@ -78,7 +79,7 @@
 | [The Sweetest Taboo](https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:37 | 2022-05-13 | 2022-07-05 |
 | [The Way You Look Tonight](https://open.spotify.com/track/2VGfQPsdES5JBFINXMTD6r) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [Father Of The Bride \(Music From The Motion Picture\)](https://open.spotify.com/album/3cXfo1Qhssl2vgPaSzoJxa) | 3:06 | 2022-05-13 |  |
 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 | 2022-05-13 |  |
-| [Top Of The World](https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [A Song For You](https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov) | 2:59 | 2022-05-13 |  |
+| [Top Of The World](https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [A Song For You](https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov) | 2:59 | 2022-05-13 | 2022-07-12 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-06-21 |  |
 | [We Have all The Time in the World](https://open.spotify.com/track/5hCGkB74F2AC6bJSGoney3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [We Have All the Time in the World](https://open.spotify.com/album/0DbvKeLkdiN5XjUJinjF0s) | 3:12 | 2022-06-21 |  |
 | [What the World Needs Now \(Is Love\)](https://open.spotify.com/track/6QhJngmKqelOcCc3bUiKYY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Here Where There Is Love](https://open.spotify.com/album/1I5H0kXxePgiHJMFNhJws3) | 3:11 | 2022-05-13 | 2022-06-27 |

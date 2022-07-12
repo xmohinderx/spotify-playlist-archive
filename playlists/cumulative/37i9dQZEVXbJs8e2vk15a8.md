@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-235 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+236 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [I am happy](https://open.spotify.com/track/6I8HPcA3003gZgVSH4uGlT) | [Faraón Love Shady](https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn) | [I am happy](https://open.spotify.com/album/4OpP3ds9cnx886rVjnmAuw) | 2:15 | 2022-04-15 | 2022-04-28 |
 | [I Wanna Be Yours](https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR) | 3:03 | 2022-06-22 |  |
 | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c) | 2:45 | 2022-05-16 | 2022-06-01 |
+| [Illusion](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 3:15 | 2022-07-11 |  |
 | [Janguear](https://open.spotify.com/track/7fcRNpM5epqZpLDPzyqSw0) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Janguear](https://open.spotify.com/album/0avtDgptooU907C1WZKXKS) | 3:29 | 2022-07-05 | 2022-07-10 |
 | [Jiggle Jiggle](https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv) | [Jiggle Jiggle](https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT) | 1:37 | 2022-06-07 | 2022-06-29 |
 | [KAWAII](https://open.spotify.com/track/46AX8pgh331m7C7q2t9Jra) | [Tatarka](https://open.spotify.com/artist/6AskOVL13sRjMWnL45lxp0) | [GOLDEN FLOWER](https://open.spotify.com/album/7iUuXpOPDfKXT5DwelKQpz) | 2:07 | 2022-04-16 | 2022-05-03 |
@@ -199,7 +200,7 @@
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-04-19 | 2022-05-11 |
 | [Sufriendo](https://open.spotify.com/track/3afAUVkCzAtkjiDxrtq6K1) | [MYLØ](https://open.spotify.com/artist/5TpsDaHB9KPoIzkWpub8Zh), [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [Sufriendo](https://open.spotify.com/album/3N1bcRqm5JIAzST7cejp0g) | 2:44 | 2022-04-24 | 2022-06-26 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-31 | 2022-06-30 |
-| [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-17 |  |
+| [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-17 | 2022-07-12 |
 | [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2022-05-24 | 2022-06-01 |
 | [Te Quiero Chupar la Zorra](https://open.spotify.com/track/7i8wnYKRNyaHk0Hl7JWVkC) | [Finche La Movie](https://open.spotify.com/artist/49aftANiFAswtOV7ILkVJk) | [Te Quiero Chupar la Zorra](https://open.spotify.com/album/0WYecfUmwjC17rLtEe6D9B) | 2:52 | 2022-04-15 | 2022-06-10 |
 | [TE TENGO UNA PROPUESTA](https://open.spotify.com/track/1AvQZw6d3CpSE1AwPbLyug) | [Kiddbrevis](https://open.spotify.com/artist/2uc2B4TbqCMitU3eCBGp5U) | [TE TENGO UNA PROPUESTA](https://open.spotify.com/album/0E5AJHX0hPGsgMs16ZEu9d) | 2:59 | 2022-07-03 |  |

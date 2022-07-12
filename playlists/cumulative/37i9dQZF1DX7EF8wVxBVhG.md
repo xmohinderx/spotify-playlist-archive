@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-252 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
+253 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Garurasana \-Alpha Sinus](https://open.spotify.com/track/4ZS95DukI777txcfftpDF1) | [Gervais Boudon](https://open.spotify.com/artist/1Omr9uhscWkt8hmlA7pgiy) | [Natarajasana \- Alpha Sinus](https://open.spotify.com/album/3hToHqtwnUlcs2dDVnjAS7) | 1:56 | 2021-02-03 | 2021-08-05 |
 | [Gathering Strenght \(Alpha Waves\)](https://open.spotify.com/track/5LClC3g56RONSzKN7QG56c) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Deepest Dream \(Binaural Beats\)](https://open.spotify.com/album/6nv46CNtutXIqarQSn4XnR) | 2:46 | 2020-03-12 | 2021-06-18 |
 | [Healing Alpha Sinus 106Hz \- 113Hz](https://open.spotify.com/track/0SEvk8gI3L48Vtq1ZbUZNp) | [AEX8](https://open.spotify.com/artist/6YKzzuOtORw4h0XGtkQQGb) | [Sound Bath](https://open.spotify.com/album/0dTiPuAGoJ0fjUyXgblgRw) | 3:38 | 2021-04-22 |  |
+| [Hillsmiota \(Binaural Alpha 73.6 Hz \- 81 Hz\)](https://open.spotify.com/track/26DCohYR7X4PJGRQoEVn6c) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Hillsmiota](https://open.spotify.com/album/2fKzE71lVCPhSi7h9tnk6i) | 2:50 | 2022-07-11 |  |
 | [In The Zone Alpha Sinus 73Hz \- 81Hz](https://open.spotify.com/track/3FZYjhe4gkudKW3IWmsCtm) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:11 | 2021-09-02 |  |
 | [Intuition \(Alpha Waves\)](https://open.spotify.com/track/0iFgGETi7Pk5dVxWhR05BJ) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Your Soul Knows](https://open.spotify.com/album/0y2XYw9JVyuSGmbOPhjXvt) | 2:55 | 2021-05-06 |  |
 | [Limbo](https://open.spotify.com/track/5VPo4IXOerHSXbxfq1w4wL) | [The Monotone Droner](https://open.spotify.com/artist/4vUxpIpa1nlrpDaowdVqiQ) | [Meditation Binaural](https://open.spotify.com/album/1CcKoxeTXPm5DQDLWI3Dy1) | 3:24 | 2019-05-26\* | 2021-04-10 |

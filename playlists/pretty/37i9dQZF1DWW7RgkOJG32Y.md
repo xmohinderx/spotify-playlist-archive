@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending new and recent tracks from the last few months\. Cover: Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,742 likes - 95 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,985 likes - 95 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

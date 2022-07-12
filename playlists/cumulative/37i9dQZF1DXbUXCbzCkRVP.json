@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 173000,
       "name": "Ain't That Dandy",
       "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 161479,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 463400,
       "name": "Blues For Duke Robillard",
       "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
@@ -280,6 +280,24 @@
     },
     {
       "album": {
+        "name": "Boedo's Blues",
+        "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133088,
+      "name": "Boedo's Blues",
+      "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
+    },
+    {
+      "album": {
         "name": "Room To Move 1969 - 1974",
         "url": "https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL"
       },
@@ -309,7 +327,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 155146,
       "name": "Boogie In The Dark",
       "url": "https://open.spotify.com/track/0PpxyUPIuHD49fKe8gaXb7"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 158493,
       "name": "Extra Jimmies",
       "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
@@ -475,7 +493,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 139386,
       "name": "Hawaiian Boogie",
       "url": "https://open.spotify.com/track/50IAP78bUna2exWkQiGhrM"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 254133,
       "name": "Homesick's Shuffle",
       "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
@@ -547,7 +565,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 116173,
       "name": "Hot and Heavy",
       "url": "https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 393666,
       "name": "Little Johnny Lee",
       "url": "https://open.spotify.com/track/5xYNNVevngzChjz5l8vZsj"
@@ -655,7 +673,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 344266,
       "name": "Long gone",
       "url": "https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 259846,
       "name": "Part Time Blues",
       "url": "https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 111920,
       "name": "Scuttle Buttin'",
       "url": "https://open.spotify.com/track/18PhtDBBYxE0vN4YvsZnMy"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 144373,
       "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
       "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 279232,
       "name": "Smooth Night",
       "url": "https://open.spotify.com/track/2SSwokelCpWlRssUkFqd94"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 253733,
       "name": "The Creeper Returns",
       "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 188293,
       "name": "The Screwdriver",
       "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 158266,
       "name": "Whammer Jammer",
       "url": "https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF"

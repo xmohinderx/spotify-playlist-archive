@@ -4,7 +4,7 @@
 
 > Let us take care of your workday soundtrack.
 
-103 songs - 6 hr 10 min - not published yet
+104 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4mBxM3JJWtFgFyQKETemG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 | 2021-08-12 |  |
 | [Don't Think](https://open.spotify.com/track/43VHs3j5y5i2feqlhpzRqF) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 4:08 | 2021-08-12 |  |
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2021-08-12 |  |
-| [DOWNDOWNDOWN!](https://open.spotify.com/track/1Uyyua4fiFSnW3LlHFQ1rz) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Something To Feel Good About](https://open.spotify.com/album/4NmIlEuCTrJvOEJRKuLAYV) | 3:22 | 2021-08-12 |  |
+| [DOWNDOWNDOWN!](https://open.spotify.com/track/1Uyyua4fiFSnW3LlHFQ1rz) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Something To Feel Good About](https://open.spotify.com/album/4NmIlEuCTrJvOEJRKuLAYV) | 3:22 | 2021-08-12 | 2022-07-12 |
+| [Eighteen](https://open.spotify.com/track/1K8qJAFjNqmZo40CDPLvyl) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s) | [Eighteen](https://open.spotify.com/album/5Wh0cpgobVb6CUe4maIF1M) | 3:31 | 2021-08-12 |  |
 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 | 2021-08-12 |  |
 | [Faith Healer](https://open.spotify.com/track/2hNXb6IDn3CvvHjjwauEM3) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Faith Healer](https://open.spotify.com/album/4poKpzHqjS4Ak1usjjNvvz) | 2:54 | 2021-08-12 |  |
 | [Five and Dime](https://open.spotify.com/track/5Be3tBtk34xVl70TRmnXEz) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Five and Dime](https://open.spotify.com/album/2Qz2fR3LuxbbmT12U9ehys) | 2:53 | 2021-08-12 |  |

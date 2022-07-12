@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 427036,
       "name": "BAD (B\u00f6ser Als Du)",
       "url": "https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 395120,
       "name": "Bigger Than Prince - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 241889,
       "name": "Bouncer",
       "url": "https://open.spotify.com/track/2cPp9AOTQcVcZUklahBmab"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 171850,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6WMjfoQiJn7Bbs7Bv7G6rT"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 357230,
       "name": "D.N.C.",
       "url": "https://open.spotify.com/track/1eoPkDYe6hRTE0jLP2SITo"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 331642,
       "name": "Dangerous - Bailey Ibbs Remix",
       "url": "https://open.spotify.com/track/4LocLlqHWsmiS9GqaevYF0"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 195348,
       "name": "Highway Freedom",
       "url": "https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
@@ -496,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Kick It EP",
+        "url": "https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422250,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
+    },
+    {
+      "album": {
         "name": "Kill The Soundboy",
         "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
       },
@@ -507,7 +525,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 404000,
       "name": "Kill The Soundboy",
       "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 499838,
       "name": "Kilombito Mal (feat. Antonia Montero)",
       "url": "https://open.spotify.com/track/4KEyvTU5LmxxyXw08bhnJ1"
@@ -583,7 +601,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 378750,
       "name": "Lipid",
       "url": "https://open.spotify.com/track/3073MbpcoDvWkBe3xZXkio"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 282453,
       "name": "Love No Limit - ReFreak",
       "url": "https://open.spotify.com/track/23L2ACZRwd2ayCUH2DJra1"
@@ -663,7 +681,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 382278,
       "name": "Lovelee Dae",
       "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 404180,
       "name": "Miss B",
       "url": "https://open.spotify.com/track/25Gn1kR7JZRYYDY9VNFPxL"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 159374,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/63IGK3U44KfteaWjAdMm8Y"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 214595,
       "name": "Oh Really",
       "url": "https://open.spotify.com/track/1AhLqJ6z2aIV17F0ijJvJR"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 330233,
       "name": "Pasi De Dans",
       "url": "https://open.spotify.com/track/4pRKY2GJfRNH0Mytif1EZ1"
@@ -927,6 +945,24 @@
       "duration_ms": 232133,
       "name": "Really Really Hot",
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
+    },
+    {
+      "album": {
+        "name": "Rock Your Body",
+        "url": "https://open.spotify.com/album/1l0T2RCpVpDhfJV5jRbdpQ"
+      },
+      "artists": [
+        {
+          "name": "Scarda",
+          "url": "https://open.spotify.com/artist/0IDb0RLWCibAJ6hV7By04g"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417178,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/5EUwuAkfYwO25Yq9lJWjQO"
     },
     {
       "album": {
@@ -1013,7 +1049,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 358007,
       "name": "Sin City",
       "url": "https://open.spotify.com/track/2rdMlVRtuImJXZhUHQjjj9"
@@ -1129,7 +1165,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 341904,
       "name": "Summer Of Love",
       "url": "https://open.spotify.com/track/0HMWBMDhQiMcuBH8PQmZqq"
@@ -1165,7 +1201,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 197502,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
@@ -1201,7 +1237,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 358153,
       "name": "That's Right",
       "url": "https://open.spotify.com/track/4DQQw8ILU9DUpkXhfVJYtQ"
@@ -1285,7 +1321,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 474418,
       "name": "The Source",
       "url": "https://open.spotify.com/track/0IGSz0dzwfcon4rI6kyLTU"
@@ -1303,7 +1339,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 352500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
@@ -1357,7 +1393,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 353389,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/0zi1coACnVRJskyFHyLQje"

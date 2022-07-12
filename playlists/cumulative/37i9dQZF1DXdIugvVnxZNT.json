@@ -97,7 +97,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 205440,
       "name": "Calling (Lose My Mind) - Radio Edit",
       "url": "https://open.spotify.com/track/1trC8L8YpawkU553ymy2zC"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 208373,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 177637,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "I Want Your Love (feat. Sandy B)",
       "url": "https://open.spotify.com/track/5cKq4sXQyuks2ssbw7uMt3"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 192000,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/38R9EKh0VkTd3t0lRRF4Ed"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 154687,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 210967,
       "name": "Need You",
       "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 190680,
       "name": "New Love (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 262200,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 232000,
       "name": "Stay a While - Radio Edit",
       "url": "https://open.spotify.com/track/1Pfa1VsjnzFugWhUk42uuU"
@@ -1641,6 +1641,36 @@
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5"
+    },
+    {
+      "album": {
+        "name": "Skrillex and Diplo present Jack \u00dc",
+        "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
+      },
+      "artists": [
+        {
+          "name": "Jack \u00dc",
+          "url": "https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Where Are \u00dc Now (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
     },
     {
       "album": {

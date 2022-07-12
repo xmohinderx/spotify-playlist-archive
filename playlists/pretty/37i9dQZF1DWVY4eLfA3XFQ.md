@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Illyus & Barrientos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,268 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,373 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fisher](https://open.spotify.com/artist/1KXyMrwf1RFipbVOKsrYyg), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 |
+| 1 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 |
 | 2 | [Tuko Tuko](https://open.spotify.com/track/5YzoHnKF8AF4Ys76VPmpKR) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Tuko Tuko](https://open.spotify.com/album/6W3EQfiO498fLmBgCJNDwB) | 3:37 |
 | 3 | [What You Waiting For?](https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [What You Waiting For?](https://open.spotify.com/album/122TcLx7ilK2T5Ri3mJ92C) | 3:51 |
 | 4 | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/track/0oI9LJYGtAlT3m1D3hWqbA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [TELLER](https://open.spotify.com/artist/3hhmURITBjGyUKf4IuOCjt) | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/album/4ZiEHfXY1HiQTYBTTku6PE) | 4:32 |

@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 393986,
       "name": "Apart",
       "url": "https://open.spotify.com/track/6g5yxNUBisdqOqBLHeWQFc"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 271133,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4W5ZiER2saVe1uo7bNTWbE"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 284106,
       "name": "Blues From a Gun",
       "url": "https://open.spotify.com/track/74fLpgpdOHDz14DUQGfzwR"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 184040,
       "name": "Breed",
       "url": "https://open.spotify.com/track/6kA9cOS2QpUpeGJHGxSXe1"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 258466,
       "name": "Bullet With Butterfly Wings - Remastered 2012",
       "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 398933,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 253493,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 272200,
       "name": "Cross Bones Style",
       "url": "https://open.spotify.com/track/5Qhy5MYSkAMRVgTrABOlp7"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 194093,
       "name": "Cure for Pain",
       "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
@@ -768,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Pretty Hate Machine (Remastered)",
+        "url": "https://open.spotify.com/album/6IwZ3rIE9F6j1R1LyBrVXu"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300160,
+      "name": "Head Like A Hole",
+      "url": "https://open.spotify.com/track/6j0Q06QmlWdd8xlS8NrOhl"
+    },
+    {
+      "album": {
         "name": "Automatic (Expanded Version)",
         "url": "https://open.spotify.com/album/3W4GA8mOLJpARbJCxWWqFm"
       },
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 284600,
       "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
       "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 373333,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4pFnV6aV1bnEDqPDGBlrNp"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 321533,
       "name": "Hyper-ballad",
       "url": "https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 271866,
       "name": "I'll Fall with Your Knife",
       "url": "https://open.spotify.com/track/0QOjCnu2oBXmsS42lBWtTE"
@@ -1182,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "Anthology - The Phonogram Years",
+        "url": "https://open.spotify.com/album/1pwUg4ttlHgDM6UtC7Z6ov"
+      },
+      "artists": [
+        {
+          "name": "The Mission",
+          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218533,
+      "name": "Like A Child Again",
+      "url": "https://open.spotify.com/track/0dnKYTtT4zdqjlZvMbV3tV"
+    },
+    {
+      "album": {
         "name": "Brick By Brick",
         "url": "https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8"
       },
@@ -1229,7 +1265,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 428800,
       "name": "Love You to Death",
       "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
@@ -1247,7 +1283,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 381480,
       "name": "Loverman - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/6sOCmuWkp0anAqgfLqzNjH"
@@ -1409,7 +1445,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 236533,
       "name": "Only Happy When It Rains",
       "url": "https://open.spotify.com/track/2VUNvavGGOkewr5wB3WFJg"
@@ -1593,7 +1629,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 268826,
       "name": "Rid Of Me",
       "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
@@ -1611,7 +1647,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 303973,
       "name": "Roads",
       "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
@@ -1633,7 +1669,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 283266,
       "name": "Rockets",
       "url": "https://open.spotify.com/track/34jCVXBUlceDJJtqRDFT4N"
@@ -1651,7 +1687,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 190333,
       "name": "Romeo Had Juliette",
       "url": "https://open.spotify.com/track/6tM8cMX9S4AyRd5sDDrzhN"
@@ -1669,7 +1705,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 455853,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
@@ -1687,7 +1723,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 216906,
       "name": "Serve The Servants",
       "url": "https://open.spotify.com/track/0wxoXgSVZexJZ4FBqUohLS"
@@ -1723,7 +1759,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 257826,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/7vrPYq7VODzmv2CfCERCyF"
@@ -1777,7 +1813,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 258133,
       "name": "Stupid Girl",
       "url": "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
@@ -2076,6 +2112,24 @@
     },
     {
       "album": {
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315440,
+      "name": "The Perfect Drug",
+      "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
+    },
+    {
+      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/6NuVZbtcscN4RpgZd5UzQy"
       },
@@ -2087,7 +2141,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 173133,
       "name": "The Saddest Song",
       "url": "https://open.spotify.com/track/6vlbuXCnHFLV5H5vMoMmqR"
@@ -2105,7 +2159,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 314146,
       "name": "The Ship Song - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/3Ybl3DyPcWsz5ZCliEo3l1"
@@ -2285,7 +2339,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 436000,
       "name": "We're In This Together",
       "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
@@ -2321,7 +2375,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 238920,
       "name": "Where Did You Sleep Last Night",
       "url": "https://open.spotify.com/track/4j3AXs1NNx6zXFmm6ibYsI"

@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-82 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
+83 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Deep Peace Delta Waves](https://open.spotify.com/track/6Vy9dbj0T5rwSjHCJ2Qw5J) | [Swedish Sound Therapy](https://open.spotify.com/artist/0x1B4lDtMoPTU3VRSxQsUU) | [Deep Peace Delta Waves](https://open.spotify.com/album/1OT6hl83qmZsBQ2RzhIeCr) | 3:30 | 2021-12-22 |  |
 | [Deep Shelter \(2 Hz Delta Binaural Beat\)](https://open.spotify.com/track/5ce38nO7UuAYX7190FS0WD) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Binarual Beats Remixes](https://open.spotify.com/album/6fkdmxYgNXsRdOdloCJnCy) | 3:10 | 2021-12-22 |  |
 | [Delta 4 Hz Drone](https://open.spotify.com/track/4frZaw0LM9m8OpE9wbs8O3) | [Source Dimension](https://open.spotify.com/artist/3z3CegfPYP7ql4oU0pfCWf) | [Sinus Drones](https://open.spotify.com/album/6GleEVvhpKS2K8ftr68BIF) | 3:18 | 2021-12-22 |  |
+| [Delta 73.9 Hz \- 76 Hz](https://open.spotify.com/track/72u4bNSbSYVmnxSD64U4ML) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Binaural Bliss](https://open.spotify.com/album/76tMa9BWw3Ps71go8XdbYs) | 4:00 | 2022-07-11 |  |
 | [Delta 78.3\-80.8Hz](https://open.spotify.com/track/18lxuqcr3Dho1EZidOZeX4) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 3:56 | 2021-12-22 |  |
 | [Delta 98.7\-99.6Hz](https://open.spotify.com/track/2Gheo1PFDuVFA8RG1zCMKw) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 4:09 | 2021-12-22 |  |
 | [Delta Dream \(96Hz \- 99Hz\)](https://open.spotify.com/track/0SZxVJIE8Oz96g8njMMUg7) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 4:00 | 2021-12-22 |  |

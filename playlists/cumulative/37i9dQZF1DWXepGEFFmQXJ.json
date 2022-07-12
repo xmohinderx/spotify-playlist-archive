@@ -286,6 +286,32 @@
     },
     {
       "album": {
+        "name": "Beers On Me",
+        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174680,
+      "name": "Beers On Me",
+      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
@@ -1740,6 +1766,24 @@
     },
     {
       "album": {
+        "name": "Me On You",
+        "url": "https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167266,
+      "name": "Me On You",
+      "url": "https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22"
+    },
+    {
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5W9lqFf7aQ9T4NS4x4HmOf"
       },
@@ -2549,7 +2593,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 213207,
       "name": "Steady Heart",
       "url": "https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T"
@@ -2741,7 +2785,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 171210,
       "name": "This Night Forever",
       "url": "https://open.spotify.com/track/1n3xrPkzczwahhYRKLvBRj"

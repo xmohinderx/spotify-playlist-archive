@@ -4,13 +4,13 @@
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/6y5Mw75BnSeKG4v9YvKhmY)
+61 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/6y5Mw75BnSeKG4v9YvKhmY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0 GAME](https://open.spotify.com/track/0zqjHT5SlLl8ZVzVHhZPCR) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 4:03 | 2022-06-09 |  |
 | [16 And Life](https://open.spotify.com/track/5JmyKAYQsF3utDxgMmAjOp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:22 | 2022-07-02 | 2022-07-04 |
-| [All I Need](https://open.spotify.com/track/0V42vftKrkhKskoASUG13A) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [All I Need](https://open.spotify.com/album/463XqUTaykWu0IW906Ls6j) | 5:07 | 2022-06-09 |  |
+| [All I Need](https://open.spotify.com/track/0V42vftKrkhKskoASUG13A) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [All I Need](https://open.spotify.com/album/463XqUTaykWu0IW906Ls6j) | 5:07 | 2022-06-09 | 2022-07-12 |
 | [B\-THE ONE](https://open.spotify.com/track/0fRKHLnHPG8DcO7Gytr4sv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 4:03 | 2022-06-09 |  |
 | [Be with](https://open.spotify.com/track/15ED6FZUHGy0BbTlv7mYhA) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 5:33 | 2022-06-09 |  |
 | [BEAUTIFUL DAYS](https://open.spotify.com/track/22wg1cgcSSy8J9goZFXaNg) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 4:16 | 2022-06-09 |  |
@@ -18,8 +18,8 @@
 | [Born To Be Loud](https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST OF THE BEST](https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3) | 3:54 | 2022-06-09 |  |
 | [BRING IT ON 〜Battle of Rap〜](https://open.spotify.com/track/5l507Aa1hpzuGbivmeLYYl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:15 | 2022-06-11 | 2022-07-11 |
 | [COME IN SUMMER](https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:45 | 2022-06-09 |  |
-| [Come on](https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 3:36 | 2022-06-09 |  |
-| [Far away](https://open.spotify.com/track/0qqO2Z3PDWYXGtbXcnl76h) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 4:02 | 2022-06-12 | 2022-07-10 |
+| [Come on](https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 3:36 | 2022-06-09 | 2022-07-12 |
+| [Far away](https://open.spotify.com/track/0qqO2Z3PDWYXGtbXcnl76h) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 4:02 | 2022-06-12 |  |
 | [Get over it](https://open.spotify.com/track/0bd3mjHcB0y5NV3j0Qg1rl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:36 | 2022-06-09 |  |
 | [GLORY](https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:47 | 2022-06-09 |  |
 | [Goldship](https://open.spotify.com/track/0L55g6M5PIh8ljXPHRvpFJ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:06 | 2022-06-09 |  |
@@ -29,18 +29,19 @@
 | [iris](https://open.spotify.com/track/4j1IOXdAXQTjVKLKqJjMHX) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:42 | 2022-07-03 | 2022-07-11 |
 | [JUST LIKE THIS 2015](https://open.spotify.com/track/4UWWI3P2V989IdkZLcw0Ct) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [ファイアスターター](https://open.spotify.com/album/3K1KQ8g0A4jMpK10HupEgq) | 4:23 | 2022-06-22 | 2022-06-24 |
 | [JUST ONE LIFE](https://open.spotify.com/track/2vCumCEw0EKMj88IZ659cP) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:58 | 2022-06-09 |  |
-| [La la la...](https://open.spotify.com/track/1wQvj3pThSir8In5NhulMK) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 4:04 | 2022-06-09 | 2022-07-10 |
+| [La la la...](https://open.spotify.com/track/1wQvj3pThSir8In5NhulMK) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 4:04 | 2022-06-09 |  |
 | [Last Moment](https://open.spotify.com/track/3D8n3PE8BAEfji0q1lw75q) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:10 | 2022-06-09 |  |
 | [LIAR](https://open.spotify.com/track/5Pt3oFMcTVxcekKE9wAbx7) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:13 | 2022-06-09 |  |
 | [Little Summer](https://open.spotify.com/track/3VCel9SsPYeZMQvvz0pNQS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 4:00 | 2022-06-09 |  |
 | [MIDNIGHT](https://open.spotify.com/track/5KeU7MslMMU4NZcJ2GIJdK) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:56 | 2022-06-09 |  |
+| [MOVIN' ON](https://open.spotify.com/track/0PQJTbwPTgwqbCrREYxZnQ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 2:59 | 2022-07-11 |  |
 | [My Friend](https://open.spotify.com/track/6W4qYHGBNIeKJPwFq3neX1) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:51 | 2022-06-09 |  |
 | [My World](https://open.spotify.com/track/1UuBZ4Q6avTXQH1Kwe4uu8) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 3:35 | 2022-06-09 |  |
 | [Naked](https://open.spotify.com/track/5Nlre0NP8loKSz9uHA8YZX) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 3:49 | 2022-06-09 |  |
 | [NO\-ID](https://open.spotify.com/track/1V8zHDExMGLyqRJ8hQZk8m) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 | 2022-06-17 | 2022-07-08 |
 | [One Day](https://open.spotify.com/track/4VKImVpGSJ60yBqjiKDPvZ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [One Day](https://open.spotify.com/album/06vhdKdFBVOac6Vm96FFoB) | 3:22 | 2022-06-09 |  |
 | [OVERLOAD](https://open.spotify.com/track/3zJD8i4v5bM3D7uyxAVI4P) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:05 | 2022-06-09 |  |
-| [PRIDE OF LIONS](https://open.spotify.com/track/66CGPgISLBlzp7hxdgvMrS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:22 | 2022-06-11 |  |
+| [PRIDE OF LIONS](https://open.spotify.com/track/66CGPgISLBlzp7hxdgvMrS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:22 | 2022-06-11 | 2022-07-12 |
 | [Radio](https://open.spotify.com/track/4Li77YJ1PAvh1H3l3E6AiB) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [JUST ONE LIFE](https://open.spotify.com/album/5A7EqhnNTiZRwqkxbu25So) | 3:42 | 2022-06-09 |  |
 | [RAGE OF DUST](https://open.spotify.com/track/3HAVLN7wg1sLZlsFKsA7q0) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:22 | 2022-06-09 |  |
 | [ROCKIN' OUT](https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 | 2022-06-09 |  |

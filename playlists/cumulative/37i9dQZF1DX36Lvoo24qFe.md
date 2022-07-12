@@ -4,7 +4,7 @@
 
 > The ultimate playlist to water your plants to.
 
-27 songs - 1 hr 36 min - not published yet
+27 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/4qsoHkbHK7hopVKy8mBsRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Khalighraph Jones, Wakadinali, Kendrick Lamar and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,414 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,764 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
 | 50 | [A Bag In A Lexus](https://open.spotify.com/track/3DW8Z1gH89lDgEGjmi903q) | [Misee Billions](https://open.spotify.com/artist/5Lhx3MUyzocreEfyAlOWJ7) | [A Bag In A Lexus](https://open.spotify.com/album/0xQcWh9alDQZF8eAc0iFs6) | 2:54 |
 
-Snapshot ID: `MTY1NzIyNzU0MCwwMDAwMDAwNjAwMDAwMTgxZGE3NTc2OGIwMDAwMDE4MTZiZWY4ZTU1`
+Snapshot ID: `MTY1NzU0NjM3OSwwMDAwMDAwNzAwMDAwMTgxZWQ3NjkxMmYwMDAwMDE4MTZiZWY4ZTU1`

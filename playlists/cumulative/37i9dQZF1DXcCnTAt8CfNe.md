@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-218 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+219 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Silverstar](https://open.spotify.com/track/5Gcrk6EV2cErGfyBsz9sVF) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Silverstar](https://open.spotify.com/album/5bIFCJp1sNpoik82ui7CUE) | 2:08 | 2021-12-09 |  |
 | [Simple Gestures](https://open.spotify.com/track/0mDOLrtw3BiHeGfv4J0KA2) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:58 | 2021-12-09 |  |
 | [Simplicity](https://open.spotify.com/track/1BYHA0Mfycu07N6t8lQnpW) | [Beau Deval](https://open.spotify.com/artist/3a31qhW1nKIv7BCkNlmdMQ) | [The Gift](https://open.spotify.com/album/6vuNm2mA7rmAuiFC8Sj9pU) | 3:39 | 2021-12-09 |  |
+| [Simplistica](https://open.spotify.com/track/6ZOmpmAGA1nM53YEvq8eLk) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Simplistica](https://open.spotify.com/album/15GH2ZI0qwAeMTQdYI5VXx) | 2:07 | 2022-07-11 |  |
 | [Sintra \- Ambient Mix](https://open.spotify.com/track/6Jvp6beybIW9umUJkjkWXV) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2021-12-09 |  |
 | [Skylight Serenade](https://open.spotify.com/track/1cLSDdOaUDZyZ0mB0RSvYl) | [Eric de Joté](https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL) | [Skylight Serenade](https://open.spotify.com/album/4gLieePxzKIUqKSPiteKd0) | 2:32 | 2021-12-09 |  |
 | [Skymning](https://open.spotify.com/track/1nP7LJuu4QMet7xKll1gVh) | [Björnlandet](https://open.spotify.com/artist/5u5mZ8WatCUPXwXfFePPSz) | [Skymning](https://open.spotify.com/album/4FTompXigT36dvBOx8vU5J) | 2:11 | 2021-12-09 |  |

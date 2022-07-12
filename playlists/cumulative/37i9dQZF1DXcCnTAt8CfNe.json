@@ -2878,6 +2878,24 @@
     },
     {
       "album": {
+        "name": "Simplistica",
+        "url": "https://open.spotify.com/album/15GH2ZI0qwAeMTQdYI5VXx"
+      },
+      "artists": [
+        {
+          "name": "Celyn Awstin",
+          "url": "https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127728,
+      "name": "Simplistica",
+      "url": "https://open.spotify.com/track/6ZOmpmAGA1nM53YEvq8eLk"
+    },
+    {
+      "album": {
         "name": "Sintra",
         "url": "https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04"
       },

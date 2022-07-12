@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-100 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+102 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 | 2022-04-04 |  |
 | [Chennai Anthem](https://open.spotify.com/track/7ihw8cWsxvc3GqkoGp7JM4) | [Dolkar Gurung](https://open.spotify.com/artist/6kMFvbChvt6LSvBY4361ZR) | [Chennai Anthem](https://open.spotify.com/album/32ABJ1jAshHThHKanHTozL) | 3:47 | 2022-04-04 |  |
 | [Colors of Love](https://open.spotify.com/track/06qxVIUENc5A9YhR02onIF) | [Sudhir Din](https://open.spotify.com/artist/7Hfu3XWHwdd2PgF0CAxIAr) | [Colors of Love](https://open.spotify.com/album/0celRHv5GlfB3k5Xsj2eHw) | 3:51 | 2022-04-04 |  |
+| [Common Pierrot Paths](https://open.spotify.com/track/3Xm4iHDqUc7NS4PNNLxxP1) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Common Pierrot Paths](https://open.spotify.com/album/0WfnQuBv1xEqxvshcaaPe9) | 3:21 | 2022-07-11 |  |
 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 | 2022-04-04 |  |
 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 | 2022-04-04 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-04-04 |  |
@@ -44,6 +45,7 @@
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-04-04 |  |
 | [Indian Song](https://open.spotify.com/track/7yAAcErAnwMpDOlVYEaTpl) | [Fold The Sun](https://open.spotify.com/artist/5SOUv2efO5CO6gerIKJlQJ) | [Indian Song](https://open.spotify.com/album/2wGJAE9NZVHEai5PsbI8IB) | 3:30 | 2022-04-04 |  |
 | [Indigo Sky](https://open.spotify.com/track/4KzvtA2qC064UtkxRVsBeE) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Inhale Exhale](https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU) | 3:32 | 2022-06-24 |  |
+| [indriya](https://open.spotify.com/track/2kW2cm8R1FEukN8K2WMtiu) | [Dhani Bhagat](https://open.spotify.com/artist/4nJNF3n7utXCdvAJyEsPy6) | [phir milenge](https://open.spotify.com/album/5cIVE1dbRd4usP53KZYABL) | 3:20 | 2022-07-11 |  |
 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 | 2022-04-04 |  |
 | [Jal](https://open.spotify.com/track/4YpD0n0hC3Cw2As4jGaQ1z) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Jal](https://open.spotify.com/album/6sWGq5vGUPEPCxaIDm4gFb) | 4:43 | 2022-05-05 |  |
 | [Jodi Tare Nai Chini Go \- Instrumental](https://open.spotify.com/track/7cEZxN0bwOoJC61Bu2KLzn) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Tejas Vinchurkar](https://open.spotify.com/artist/0tg9ZOHpgLqgTeFgO843Y8) | [The Magic of Tagore \- Instrumentals](https://open.spotify.com/album/6gyzmR2nG9OM6mJRW07aXs) | 4:46 | 2022-04-04 |  |

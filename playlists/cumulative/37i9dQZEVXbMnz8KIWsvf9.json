@@ -3739,7 +3739,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 168106,
       "name": "POP!",
       "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
@@ -5407,7 +5407,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 182666,
       "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
       "url": "https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT"
@@ -6692,6 +6692,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 (Too Cute)",
+        "url": "https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
+      "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
+    },
+    {
+      "album": {
         "name": "Popstar",
         "url": "https://open.spotify.com/album/46bPZgDz1psyr7QOgu36lE"
       },
@@ -6855,6 +6873,24 @@
       "duration_ms": 189500,
       "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e2b\u0e23\u0e37\u0e2d\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08",
       "url": "https://open.spotify.com/track/0mt8i1U8mZsptqKxEc4ScO"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1e\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S"
+      },
+      "artists": [
+        {
+          "name": "The White Hair Cut",
+          "url": "https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278312,
+      "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1e\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh"
     },
     {
       "album": {
@@ -7296,6 +7332,42 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e14\u0e42\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e44\u0e02\u0e48\u0e14\u0e32\u0e27\u0e1b\u0e32\u0e08\u0e31\u0e07\u0e01\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI"
+      },
+      "artists": [
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "\u0e44\u0e14\u0e42\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e44\u0e02\u0e48\u0e14\u0e32\u0e27\u0e1b\u0e32\u0e08\u0e31\u0e07\u0e01\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG"
+    },
+    {
+      "album": {
+        "name": "Only Monday",
+        "url": "https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264762,
+      "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
+      "url": "https://open.spotify.com/track/3ewJNxY8tVHvX94CAUtg89"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
         "url": "https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof"
       },
@@ -7307,7 +7379,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 264762,
       "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
       "url": "https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF"
@@ -7387,7 +7459,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 233317,
       "name": "\u0e44\u0e21\u0e48\u0e22\u0e34\u0e19\u0e14\u0e35",
       "url": "https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3"

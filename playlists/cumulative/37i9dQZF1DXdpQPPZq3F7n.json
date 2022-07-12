@@ -484,6 +484,36 @@
     },
     {
       "album": {
+        "name": "Shamshera",
+        "url": "https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Karan Malhotra",
+          "url": "https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308459,
+      "name": "Fitoor",
+      "url": "https://open.spotify.com/track/7eNSk0grNnO7MqjLZzs6MM"
+    },
+    {
+      "album": {
         "name": "Galliyan Returns (From \"Ek Villain Returns\")",
         "url": "https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD"
       },

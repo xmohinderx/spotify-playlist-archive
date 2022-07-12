@@ -4,7 +4,7 @@
 
 > Our editorial picks for Indie's best of 2021 in Canada\. Cover: EKKSTACY
 
-100 songs - 5 hr 51 min - not published yet
+100 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/0rSmcrhhqMQpl4IftmXXUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

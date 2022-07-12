@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dibob
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,298 likes - 74 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,300 likes - 74 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67KMeDsV7oL.md) - [plain]
 
 > Check out the Official Spiderhead Playlist\. Watch now on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,860 likes - 21 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,910 likes - 21 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

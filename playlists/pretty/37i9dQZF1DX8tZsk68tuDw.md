@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Keinemusik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,988,327 likes - 101 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,988,419 likes - 101 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 8 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 |
 | 9 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 |
 | 10 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
-| 11 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fisher](https://open.spotify.com/artist/1KXyMrwf1RFipbVOKsrYyg), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 |
+| 11 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 |
 | 12 | [Adidas & Pearls](https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Adidas & Pearls](https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN) | 3:29 |
 | 13 | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b) | 2:37 |
 | 14 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 |

@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 193013,
       "name": "been",
       "url": "https://open.spotify.com/track/07sIlvEYyot9HZ4BoDqg6Z"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 306520,
       "name": "Bloo Story",
       "url": "https://open.spotify.com/track/32cm8XVJ89BUaPx9SMDMg4"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 230322,
       "name": "bother 2021 (feat. gamma)",
       "url": "https://open.spotify.com/track/3rF1DVw8yyoNiwhx6qyM5g"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 174286,
       "name": "Complex",
       "url": "https://open.spotify.com/track/6OidRmLtxs5eRwolIMGrFW"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 256121,
       "name": "Cozy's Call Back (Feat. Kid milli, Duggshak)",
       "url": "https://open.spotify.com/track/6aFG12JZBAz2guN7TyghNk"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 174103,
       "name": "Daily routine",
       "url": "https://open.spotify.com/track/65ASKiyGCIE4aJklOVrBXi"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 186666,
       "name": "Ddanddara",
       "url": "https://open.spotify.com/track/52DuC06qxMPfRjYJsDApEE"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 196000,
       "name": "Distance",
       "url": "https://open.spotify.com/track/3VArv6ytEMbiubvL067Mou"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 185204,
       "name": "Gyeongsan-si",
       "url": "https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 223392,
       "name": "Insta Crush",
       "url": "https://open.spotify.com/track/2l5FvesT4vjxSPNrBXQ2nE"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 178860,
       "name": "INSTANT (feat. SUMIN)",
       "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 134117,
       "name": "masta",
       "url": "https://open.spotify.com/track/1EAzW11fvl3TBkiOfUGb5p"
@@ -1411,6 +1411,24 @@
       "duration_ms": 212261,
       "name": "Matiz",
       "url": "https://open.spotify.com/track/1jJiTQO8coDycv92O2viOp"
+    },
+    {
+      "album": {
+        "name": "Maze Garden",
+        "url": "https://open.spotify.com/album/2zoYQaGw1afawZD4nAoAjk"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298974,
+      "name": "Maze Garden / Forked Road \ubbf8\ub85c\uc815\uc6d0 / \ub450 \uac08\ub798 \uae38",
+      "url": "https://open.spotify.com/track/0y9HhAp5BMt8tUMGa6mKUC"
     },
     {
       "album": {
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 220429,
       "name": "Money Serenade",
       "url": "https://open.spotify.com/track/6ihTPZHEJk83jNYr58dQL3"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 261818,
       "name": "No place to cry",
       "url": "https://open.spotify.com/track/4XCAFeuVGpN43Iw73NrbzP"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 172225,
       "name": "paris and tokyo",
       "url": "https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM"
@@ -1741,7 +1759,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 148860,
       "name": "PIPE DOWN (feat. BLNK)",
       "url": "https://open.spotify.com/track/57j59smACFt0QzJxkNCRvf"
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 221112,
       "name": "Price Tag (feat. Jessi, Ja Mezz)",
       "url": "https://open.spotify.com/track/3bOJ2oxgtl5XikXtdGVxUv"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 178933,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/5iijK4TfFqwh3nZYapZ33V"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 155060,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 191480,
       "name": "SOAP",
       "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 209205,
       "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
       "url": "https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz"
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 182760,
       "name": "SUMMER '21",
       "url": "https://open.spotify.com/track/2Rw5QLA8JRa8JyBGrjcyev"
@@ -2169,7 +2187,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 210337,
       "name": "Sunflower Dance (Feat. Kebee) (Prod. 216project)",
       "url": "https://open.spotify.com/track/526ORYv4twK8QIP18Z5156"
@@ -2205,7 +2223,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 239020,
       "name": "the best",
       "url": "https://open.spotify.com/track/14hv5oFtKi8YjyBFWEYb0f"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 248896,
       "name": "today also (feat. Paloalto & The Quiett)",
       "url": "https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 222120,
       "name": "under the ground",
       "url": "https://open.spotify.com/track/3916BVDlNYrxllaSbWcC4h"
@@ -2377,7 +2395,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 155806,
       "name": "Welcome to seoul",
       "url": "https://open.spotify.com/track/5StHhl2yfuqvYT0TcYXuiW"
@@ -2443,7 +2461,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 272293,
       "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"

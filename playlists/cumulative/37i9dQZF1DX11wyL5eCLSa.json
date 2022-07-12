@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 192416,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu"
@@ -734,6 +734,24 @@
     },
     {
       "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145086,
+      "name": "Ghost in the Machine",
+      "url": "https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT"
+    },
+    {
+      "album": {
         "name": "Bah\u00eda Santiago",
         "url": "https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY"
       },
@@ -817,7 +835,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 153065,
       "name": "Huracanes",
       "url": "https://open.spotify.com/track/1yZgpMuX3epcV1U6hjDAI1"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 196630,
       "name": "Lejos de M\u00ed",
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 207573,
       "name": "Lluvia de Fuego",
       "url": "https://open.spotify.com/track/0xcGGpruM3gbxMtZjyWp1E"
@@ -1055,6 +1073,24 @@
       "duration_ms": 218175,
       "name": "Los Imanes",
       "url": "https://open.spotify.com/track/1GuQa6m4AQZbGRK38iOC4D"
+    },
+    {
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266850,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/3wNcTAYdBGJgUtJ6HtBB5p"
     },
     {
       "album": {
@@ -1185,7 +1221,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 188181,
       "name": "Mi Canci\u00f3n",
       "url": "https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72"
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 224999,
       "name": "No",
       "url": "https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy"
@@ -1369,7 +1405,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 184533,
       "name": "Nunca te am\u00e9",
       "url": "https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R"
@@ -1557,7 +1593,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 193239,
       "name": "Punk",
       "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
@@ -1655,7 +1691,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 230725,
       "name": "Sin Condiciones",
       "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
@@ -1749,7 +1785,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 226853,
       "name": "Soluci\u00f3n",
       "url": "https://open.spotify.com/track/0Dw0cw0IlMcU93vBohfBQg"
@@ -1861,7 +1897,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 196923,
       "name": "S\u00f3lo Tu\u0301",
       "url": "https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj"

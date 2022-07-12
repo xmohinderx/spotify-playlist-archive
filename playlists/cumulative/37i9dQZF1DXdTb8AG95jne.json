@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 178555,
       "name": "#with_you",
       "url": "https://open.spotify.com/track/1D1laQvjRLunEs8XDO9sag"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 178266,
       "name": "3108",
       "url": "https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 224500,
       "name": "Answer",
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 190172,
       "name": "Blue & Lemonade (Feat. Choi Cello)",
       "url": "https://open.spotify.com/track/2YmnxhsvBJA08kyCAzQacz"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 194546,
       "name": "Closely Far Away",
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 192452,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 229210,
       "name": "Despite it all",
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 179160,
       "name": "Dream Store (feat. Ashley Alisha, Heyden)",
       "url": "https://open.spotify.com/track/0APhIOiHX4bnwf4VMVMmAd"
@@ -2067,7 +2067,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 236440,
       "name": "Eyes on you",
       "url": "https://open.spotify.com/track/1sdCoReUzXPLDIJ2i9ConA"
@@ -2121,7 +2121,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 191560,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW"
@@ -2139,7 +2139,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 243692,
       "name": "Falling Star",
       "url": "https://open.spotify.com/track/3Zfb4u1goGP0NQV08lxZ56"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 210581,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR"
@@ -2193,7 +2193,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 185986,
       "name": "Fighting! \uc751\uc6d0\ud574",
       "url": "https://open.spotify.com/track/6jD4BKw85zAOpK9DCx6uYm"
@@ -2754,6 +2754,24 @@
     },
     {
       "album": {
+        "name": "Green War",
+        "url": "https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187906,
+      "name": "Green War",
+      "url": "https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW"
+    },
+    {
+      "album": {
         "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
         "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
       },
@@ -2783,7 +2801,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 193558,
       "name": "Hanagae",
       "url": "https://open.spotify.com/track/4hnhipRrUg7yUCAqT9yvsR"
@@ -2899,7 +2917,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 239000,
       "name": "Here Comes Spring",
       "url": "https://open.spotify.com/track/0HoqKELIFy538h4oF7GxFT"
@@ -3279,7 +3297,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 222999,
       "name": "I Know Where The Rainbow has Fallen",
       "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
@@ -3659,7 +3677,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 194909,
       "name": "Indica (feat. Motte)",
       "url": "https://open.spotify.com/track/4lZTygIDDA87R9TWyJxXEc"
@@ -3681,7 +3699,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 210373,
       "name": "Insomnia (feat. YAYYOUNG)",
       "url": "https://open.spotify.com/track/3PWgyj5ae8qTqSrVRxG19k"
@@ -4259,7 +4277,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 249051,
       "name": "Love Wave",
       "url": "https://open.spotify.com/track/1Z5XuXbFW6dl8wlLnqxu6l"
@@ -4581,7 +4599,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 231137,
       "name": "Milky Way Love",
       "url": "https://open.spotify.com/track/4z9Xk5Yh7ZmA2lGPSrsG9n"
@@ -4599,7 +4617,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 207413,
       "name": "MIMI",
       "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
@@ -4733,7 +4751,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 149200,
       "name": "Moonlight (Feat. YooJeong)",
       "url": "https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6"
@@ -5087,7 +5105,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 223400,
       "name": "No One Told Me Why",
       "url": "https://open.spotify.com/track/4p2F176QbCzx8tyxwGmpym"
@@ -5303,7 +5321,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 206146,
       "name": "One another - 2020",
       "url": "https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh"
@@ -5639,7 +5657,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 235772,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/1wuZAvMhmqIecohHQYibED"
@@ -5679,7 +5697,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 233026,
       "name": "Pong Dang",
       "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
@@ -7133,7 +7151,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 207850,
       "name": "Swan",
       "url": "https://open.spotify.com/track/6G0Kl2Fi4DalbsfbzuzMcD"
@@ -7281,7 +7299,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 217453,
       "name": "THE",
       "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
@@ -7541,7 +7559,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 225333,
       "name": "Today's Mood",
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
@@ -7657,7 +7675,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 216510,
       "name": "Two Days",
       "url": "https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ"
@@ -8231,7 +8249,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 235746,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE"
@@ -8599,7 +8617,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 361426,
       "name": "Youth",
       "url": "https://open.spotify.com/track/2LT8gtraNXInH6DZdP6jrt"
@@ -8765,7 +8783,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 348445,
       "name": "\uc624\ud0a4\ub098\uc640 Okinawa",
       "url": "https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz"

@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Himonshu Parikh
 
-157 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+158 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 | 2022-07-01 |  |
 | [Khoya](https://open.spotify.com/track/042J1bbhYbWcal95ZPOuJe) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM) | [Khoya](https://open.spotify.com/album/2D8X4Z53wmX6LNs0SpBFV1) | 2:58 | 2022-05-06 |  |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2022-02-04 |  |
-| [Khwaab](https://open.spotify.com/track/7xOogdepAEsl16t7TFSJwA) | [The Lost Symbols](https://open.spotify.com/artist/5ABVMc7CPQJ9RZHoBFuXpa) | [The Diary](https://open.spotify.com/album/7DdCtXE6CQGdDXXbBXoin1) | 4:08 | 2021-12-06 |  |
+| [Khwaab](https://open.spotify.com/track/7xOogdepAEsl16t7TFSJwA) | [The Lost Symbols](https://open.spotify.com/artist/5ABVMc7CPQJ9RZHoBFuXpa) | [The Diary](https://open.spotify.com/album/7DdCtXE6CQGdDXXbBXoin1) | 4:08 | 2021-12-06 | 2022-07-12 |
 | [Khwaaish](https://open.spotify.com/track/3fCRkNn2uWBzMuRwi841pP) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [roshni](https://open.spotify.com/artist/5jdpVcss5rApltpJ53fwyW), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Shyam Renganathan](https://open.spotify.com/artist/6FhV9mVOAu3El9CJ5PJdf0) | [Khwaaish](https://open.spotify.com/album/0dftenaNNTJO61vGBrJdK7) | 3:49 | 2022-01-10 |  |
 | [Kitna hai pyaar](https://open.spotify.com/track/2HguBk9eKHGpEmRuo17Oz4) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Kitna hai pyaar](https://open.spotify.com/album/3yhuVkaGs7cJvHkKuQmoon) | 4:23 | 2021-12-06 | 2022-03-22 |
 | [Kitna Tarsey](https://open.spotify.com/track/1qPEaFTUb64NGcxM9QEK00) | [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Mahima Choudhary](https://open.spotify.com/artist/7y8aaSoQcEohBfCNpuGX6V) | [Kitna Tarsey](https://open.spotify.com/album/7m9PxUfmGeYbSXRYm0iizd) | 5:24 | 2021-12-06 | 2022-06-11 |
@@ -107,6 +107,7 @@
 | [Martbaan](https://open.spotify.com/track/3NyVaRd7ei6erCESpTQzDL) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN), [June](https://open.spotify.com/artist/0WSJQxpWnYJswHWehTfJnP), [Sarah Mehdi](https://open.spotify.com/artist/5hj5wOlAgSI6WM3YP1LOd4) | [Martbaan](https://open.spotify.com/album/4rhWPluu9U2NusNDQVdogO) | 5:30 | 2022-01-10 | 2022-03-26 |
 | [Miracle](https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Miracle](https://open.spotify.com/album/2OPof019rnmR6xThgEF71j) | 3:49 | 2022-01-27 |  |
 | [Motoliya 2.0](https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC) | [Sannidhya Bhuyan](https://open.spotify.com/artist/3up6Gqw9IAsQ9KqLzVkyTN), [Aarxslan](https://open.spotify.com/artist/67137rl2C1Z9kPUiLGqNXr) | [Motoliya 2.0](https://open.spotify.com/album/4aJmymmOUvOo1gZGz3TVvY) | 3:56 | 2022-01-10 | 2022-05-11 |
+| [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 | 2022-07-11 |  |
 | [Na Tum Saamne](https://open.spotify.com/track/1oCkc96iBiOiyydlbiHRGE) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Na Tum Saamne](https://open.spotify.com/album/5TACPWAxlXxjGPIKbHOYA9) | 3:00 | 2021-12-06 | 2022-01-11 |
 | [Nowhere to Stand](https://open.spotify.com/track/1pikKqZnF7anajMEEYn4Hf) | [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Nowhere to Stand](https://open.spotify.com/album/13jDAstKcOUTGO7YTYHtXT) | 3:52 | 2021-12-06 | 2022-01-11 |
 | [Obituary](https://open.spotify.com/track/3CWra93RrBwL4NIesLZ2yC) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Book of I](https://open.spotify.com/album/2Yz0NqYcoPvEcFPf7jwx1Z) | 3:36 | 2021-12-06 | 2022-02-09 |

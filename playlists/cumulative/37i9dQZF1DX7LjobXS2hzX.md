@@ -4,7 +4,7 @@
 
 > Voici les hits du moment\. Photo: Marshmello, Khalid
 
-75 songs - 3 hr 50 min - not published yet
+75 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

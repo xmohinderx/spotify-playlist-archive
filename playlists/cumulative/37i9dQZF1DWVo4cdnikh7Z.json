@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "Aariraaro (From \"Jothi\")",
+        "url": "https://open.spotify.com/album/1wFbIrsnjB7ehzg0WuOImC"
+      },
+      "artists": [
+        {
+          "name": "Harshavardhan Rameshwar",
+          "url": "https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU"
+        },
+        {
+          "name": "Balram",
+          "url": "https://open.spotify.com/artist/4CQ3OkjfQPYVQTM8Ekts7b"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317500,
+      "name": "Aariraaro - From \"Jothi\"",
+      "url": "https://open.spotify.com/track/0WFesxc8k8QmHywsTmW5vt"
+    },
+    {
+      "album": {
         "name": "Abbaca Daaru (From \"My Dear Bootham\")",
         "url": "https://open.spotify.com/album/6ek8XPzNl2Cbk1QFPTDTWP"
       },
@@ -167,10 +189,44 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 171069,
       "name": "Agilam Nee (From \"Kgf Chapter 2\")",
       "url": "https://open.spotify.com/track/6C9oDGZOChcREVUiu6kRcR"
+    },
+    {
+      "album": {
+        "name": "Akdi Pakdi (Tamil) [From \"Liger (Tamil)\"]",
+        "url": "https://open.spotify.com/album/3TyO0ZiBeUnaGiyGzHsvek"
+      },
+      "artists": [
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Sunil Kashyap",
+          "url": "https://open.spotify.com/artist/4ZTli8xiH8txCfWJtulNXQ"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Vaishnavi Kovvuri",
+          "url": "https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "Akdi Pakdi (Tamil) [From \"Liger (Tamil)\"]",
+      "url": "https://open.spotify.com/track/6NGhHNsNBccDjXCrLhBBgz"
     },
     {
       "album": {
@@ -331,7 +387,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 233945,
       "name": "Baby Nee Sugar",
       "url": "https://open.spotify.com/track/4nCkx9c5ctpOimGvXRHKDH"
@@ -856,6 +912,32 @@
     },
     {
       "album": {
+        "name": "Therkathi Veeran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/625FH6EhGITNimgVmG5VRc"
+      },
+      "artists": [
+        {
+          "name": "Srikanth Deva",
+          "url": "https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/3aQAjkRmPjXvM8Odeg3B99"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313753,
+      "name": "Enna Thavam",
+      "url": "https://open.spotify.com/track/1eap5z2ZcrCB01c8Rjfmyd"
+    },
+    {
+      "album": {
         "name": "Aalambana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/39KQ4Vr4myL0VV1c9IFUCR"
       },
@@ -971,6 +1053,28 @@
       "duration_ms": 209610,
       "name": "Imaikkariye (From \"Selfie\")",
       "url": "https://open.spotify.com/track/2IFfZMYB9QxEgPOkYE429O"
+    },
+    {
+      "album": {
+        "name": "Jail Kuthu (From \"Pattampoochi\")",
+        "url": "https://open.spotify.com/album/65yFOrYA8wpTtRtUyE7Pi8"
+      },
+      "artists": [
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "Jai",
+          "url": "https://open.spotify.com/artist/3uHnfXxUrnPq1XYw8t8Sz2"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214063,
+      "name": "Jail Kuthu (From \"Pattampoochi\")",
+      "url": "https://open.spotify.com/track/5uLyuXrxRce91PK9cSfQBQ"
     },
     {
       "album": {
@@ -1111,6 +1215,32 @@
       "duration_ms": 235000,
       "name": "Kaathu Vaakula Rendu (From \"Kaathuvaakula Rendu Kaadhal\")",
       "url": "https://open.spotify.com/track/7byhnsOjh1qCfhrRZwCJp7"
+    },
+    {
+      "album": {
+        "name": "Therkathi Veeran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/625FH6EhGITNimgVmG5VRc"
+      },
+      "artists": [
+        {
+          "name": "Srikanth Deva",
+          "url": "https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "Poovaiyar",
+          "url": "https://open.spotify.com/artist/0q1JpF3DMiVSsxzZHvlLaB"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260683,
+      "name": "Kadal Amma",
+      "url": "https://open.spotify.com/track/3iAw2YZGkeYjJo2QvMowUu"
     },
     {
       "album": {
@@ -1261,7 +1391,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 261048,
       "name": "Kithappunna Killadi - From \"Riyaa The Haunted House\"",
       "url": "https://open.spotify.com/track/2WExI6DtA4tQS9uIKUx4Yf"
@@ -1589,6 +1719,24 @@
       "duration_ms": 216029,
       "name": "Mallu Girl",
       "url": "https://open.spotify.com/track/66NuWfsMCksBsEOHK6wsCv"
+    },
+    {
+      "album": {
+        "name": "Marudhanayagam Title Track (From \"Marudhanayagam\")",
+        "url": "https://open.spotify.com/album/2FzSieA7ynF0lNs32NwMyt"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167575,
+      "name": "Marudhanayagam Title Track - From \"Marudhanayagam\"",
+      "url": "https://open.spotify.com/track/6ES2I4myj1E5RtpPMMZ9lQ"
     },
     {
       "album": {

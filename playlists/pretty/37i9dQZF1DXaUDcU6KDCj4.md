@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Watkins Family Hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,515 likes - 157 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,679 likes - 157 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

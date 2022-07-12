@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-10",
   "description": "Let us take care of your workday soundtrack.",
   "name": "Your Office Stereo",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4mBxM3JJWtFgFyQKETemG7"
+  ],
   "tracks": [
     {
       "album": {
@@ -577,10 +579,28 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 202431,
       "name": "DOWNDOWNDOWN!",
       "url": "https://open.spotify.com/track/1Uyyua4fiFSnW3LlHFQ1rz"
+    },
+    {
+      "album": {
+        "name": "Eighteen",
+        "url": "https://open.spotify.com/album/5Wh0cpgobVb6CUe4maIF1M"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Narby",
+          "url": "https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211086,
+      "name": "Eighteen",
+      "url": "https://open.spotify.com/track/1K8qJAFjNqmZo40CDPLvyl"
     },
     {
       "album": {

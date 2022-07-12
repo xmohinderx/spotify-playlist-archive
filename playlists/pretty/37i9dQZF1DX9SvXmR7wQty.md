@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Gros Big
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,605 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,603 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 12 | [Les joues roses](https://open.spotify.com/track/0eix8TU9fGFPiRJxTThFMr) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Les joues roses](https://open.spotify.com/album/6zx2zy35tNN7Db6LXpcbCq) | 4:05 |
 | 13 | [Sommeil pesant](https://open.spotify.com/track/7iPlZhBBjKJMgyof1FJETR) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Sommeil pesant](https://open.spotify.com/album/7I6qbi6qSOUuVUJ6AavicA) | 3:18 |
 | 14 | [Faya](https://open.spotify.com/track/4les0O6MtkBDgWlgrn3Q5j) | [J\-Ron](https://open.spotify.com/artist/2utc2XhGTLpg0RHMTtfQ9k) | [Faya](https://open.spotify.com/album/5GGK96cbzqshgbePSScGgs) | 3:05 |
-| 15 | [Billie Jeans](https://open.spotify.com/track/3nYRH42PPjz4igkYrtNoZK) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Game Over 3 \- Terminal 1](https://open.spotify.com/album/5PmWe5l9UriDhkRn4gClLG) | 2:48 |
+| 15 | [Billie Jeans](https://open.spotify.com/track/3nYRH42PPjz4igkYrtNoZK) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Game Over 3 \- Terminal 1](https://open.spotify.com/album/5PmWe5l9UriDhkRn4gClLG) | 2:48 |
 | 16 | [Les amourettes](https://open.spotify.com/track/30zwnPdJ9CIfebBZMpQC9s) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [Les amourettes](https://open.spotify.com/album/6qWbvCgV8X7p50mEgStUJO) | 4:03 |
 | 17 | [Palavé \(feat\. Tiakola\)](https://open.spotify.com/track/7AVgv2DjAjyybEEJLAnd29) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LMDB](https://open.spotify.com/album/7ywkrR5rlJ0Lj4jbsHVfU3) | 2:39 |
 | 18 | [Love Story](https://open.spotify.com/track/0XhBQ21xoheZsNI7PhYHLm) | [NoKliché](https://open.spotify.com/artist/4LqcQvo6HhY2bRVYF3RBih), [Sadandsolo](https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH), [Chris 2 Coeur](https://open.spotify.com/artist/3A0D0VTnNMZmpsmQBOUsBv) | [Love Story](https://open.spotify.com/album/45S14H7gmwDkT4AsK8tJpV) | 3:47 |

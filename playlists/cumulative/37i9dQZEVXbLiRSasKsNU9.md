@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-618 songs - 1 day 9 hr 48 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+619 songs - 1 day 9 hr 53 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,12 +238,13 @@
 | [Halden Anlamaz](https://open.spotify.com/track/5EcpTIo0rUWuTShfOUJEqb) | [Okan & Volkan](https://open.spotify.com/artist/5U2qYuO4KclXaQTqiGzqUV) | [Halden Anlamaz](https://open.spotify.com/album/06wYoYL8tx8HTo7i6IlyBx) | 3:19 | 2022-06-18 | 2022-07-10 |
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2021-12-27 | 2021-12-29 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-28 | 2022-01-15 |
+| [Har Har Shambhu Shiv Mahadeva](https://open.spotify.com/track/3ndbMiA9kQ3LJq1moyHAfM) | [Jeetu Sharma](https://open.spotify.com/artist/6UECKSYwQSyYDONQ84CiDW), [Abhilipsa Panda](https://open.spotify.com/artist/5ZYhwVkbSCFobQudgGR6Xo) | [Har Har Shambhu Shiv Mahadeva](https://open.spotify.com/album/4QwWjaY61kWmPa0GHv1Svt) | 5:54 | 2022-07-11 |  |
 | [Harnaś ice tea](https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35) | [Gawryle](https://open.spotify.com/artist/1IIrmj7nKJuaYXi47RZKGz) | [Harnaś ice tea](https://open.spotify.com/album/4hJjMqRyISzXiAd2eMS2tw) | 2:56 | 2021-12-27 | 2022-01-12 |
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-03-29 | 2022-05-04 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-22 | 2022-02-06 |
 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 | 2022-06-27 |  |
 | [Hell](https://open.spotify.com/track/309t7w6d1TDNKYHuKgddiN) | [flames](https://open.spotify.com/artist/10MWNjErfnYRQSF1B7wot7) | [Hell](https://open.spotify.com/album/71xuMnDURluXvcyguMbQB2) | 3:25 | 2022-04-12 | 2022-04-21 |
-| [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-06-06 |  |
+| [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-06-06 | 2022-07-12 |
 | [Hep Mi Ben](https://open.spotify.com/track/4eDT9NP6B0OJnd5nKuBseL) | [Ayaz Erdoğan](https://open.spotify.com/artist/2Y2hYlVGlZpTHAQ9UMaBCA) | [Hep Mi Ben](https://open.spotify.com/album/2Ry7nIEn65HRl8jlxJNP1G) | 3:38 | 2022-04-17 | 2022-04-23 |
 | [Hits 2021 \- Mashup](https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Hits 2021 \(Mashup\)](https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa) | 2:42 | 2022-03-07 | 2022-04-20 |
 | [Hiç İyi Değilim](https://open.spotify.com/track/2w5SV2BYwU4FVKBkFYlCU2) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Hiç İyi Değilim](https://open.spotify.com/album/44zFal7caQMugsHyXdUude) | 3:32 | 2022-04-05 | 2022-05-08 |

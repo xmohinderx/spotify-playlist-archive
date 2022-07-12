@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 885049,
+  "num_followers": 885184,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEwNzcxNjYxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEwODUyNzU2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 219401,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -41,47 +25,23 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
         }
       ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+      "duration_ms": 219401,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Amazin'",
-        "url": "https://open.spotify.com/album/59JKHPawXNcLr9exxNWdg5"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        }
-      ],
-      "duration_ms": 175265,
-      "name": "Amazin'",
-      "url": "https://open.spotify.com/track/0h09eYhmViqa1Uxkil7yza"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "El Cl\u00e1sico",
         "url": "https://open.spotify.com/album/1nXqMDx2qr0dwNFn96O0zA"
@@ -101,23 +61,47 @@
       "url": "https://open.spotify.com/track/60AXxYSSMIcULLhw3RO9yn"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
-        "name": "Boot",
-        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
       "artists": [
         {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
         }
       ],
-      "duration_ms": 197637,
-      "name": "Boot",
-      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Amazin'",
+        "url": "https://open.spotify.com/album/59JKHPawXNcLr9exxNWdg5"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "duration_ms": 175265,
+      "name": "Amazin'",
+      "url": "https://open.spotify.com/track/0h09eYhmViqa1Uxkil7yza"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Automatisch",
         "url": "https://open.spotify.com/album/1gr2uGne9hmcTVPCaadDX5"
@@ -133,7 +117,39 @@
       "url": "https://open.spotify.com/track/6mMVJJkpzL5r9OyqX7VzBk"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Boot",
+        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "duration_ms": 197637,
+      "name": "Boot",
+      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw"
@@ -149,7 +165,23 @@
       "url": "https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Vanavond (Uit M'n Bol)",
         "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
@@ -173,39 +205,7 @@
       "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -225,7 +225,23 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
@@ -245,23 +261,7 @@
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/0gQZCgw5OvWAUC2NZEKLKg"
@@ -277,23 +277,7 @@
       "url": "https://open.spotify.com/track/0iBWf9gz65kHxuQkZkrNUc"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Trompeta",
-        "url": "https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka"
-      },
-      "artists": [
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 168373,
-      "name": "Trompeta",
-      "url": "https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
@@ -309,7 +293,39 @@
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Trompeta",
+        "url": "https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Trompeta",
+      "url": "https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Naar De Maan",
         "url": "https://open.spotify.com/album/62JUsleEG1qBdO9TxdpSDN"
@@ -353,7 +369,23 @@
       "url": "https://open.spotify.com/track/7aDHKwBUUx7dmuuyCQygD4"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
@@ -377,43 +409,71 @@
       "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
-        "name": "Bieber Van De Kroeg",
-        "url": "https://open.spotify.com/album/5Iap2wOtZdD37ukTvfxlev"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Bieber Van De Kroeg",
-      "url": "https://open.spotify.com/track/0RRTQ89tQcyQG2hf54N8fz"
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Hallo",
+        "url": "https://open.spotify.com/album/4Y9JfQ6OhcS8toGxXrluvg"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
         }
       ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+      "duration_ms": 141068,
+      "name": "Hotelschool",
+      "url": "https://open.spotify.com/track/6yv54xH6fZONDqajlDynO1"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
@@ -433,10 +493,42 @@
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/7KHdVm9HMTNUfdeyUO1zeW"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7lP1zUASWfS5TLBdQDj3DA"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Hallo",
-        "url": "https://open.spotify.com/album/4Y9JfQ6OhcS8toGxXrluvg"
+        "url": "https://open.spotify.com/album/0LQQ5dNl5fW6mmsP9Fyk5r"
       },
       "artists": [
         {
@@ -444,60 +536,12 @@
           "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
         }
       ],
-      "duration_ms": 141068,
-      "name": "Hotelschool",
-      "url": "https://open.spotify.com/track/6yv54xH6fZONDqajlDynO1"
+      "duration_ms": 131250,
+      "name": "Hallo",
+      "url": "https://open.spotify.com/track/07wa4OYLExaJjgHWtdzniV"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw"
@@ -517,55 +561,27 @@
       "url": "https://open.spotify.com/track/7KRLuW6FGjcT0erRP4SLfW"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+        "name": "Bieber Van De Kroeg",
+        "url": "https://open.spotify.com/album/5Iap2wOtZdD37ukTvfxlev"
       },
       "artists": [
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Hallo",
-        "url": "https://open.spotify.com/album/0LQQ5dNl5fW6mmsP9Fyk5r"
-      },
-      "artists": [
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
         {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Hallo",
-      "url": "https://open.spotify.com/track/07wa4OYLExaJjgHWtdzniV"
+      "duration_ms": 186000,
+      "name": "Bieber Van De Kroeg",
+      "url": "https://open.spotify.com/track/0RRTQ89tQcyQG2hf54N8fz"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/7KHdVm9HMTNUfdeyUO1zeW"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7lP1zUASWfS5TLBdQDj3DA"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18"
@@ -601,7 +617,71 @@
       "url": "https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/1Aq9FlSr9KanZFljnUnl2m"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Multicolor",
+      "url": "https://open.spotify.com/track/2ExdbieQffMXpY7ygN2YN9"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
@@ -621,39 +701,7 @@
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/1Aq9FlSr9KanZFljnUnl2m"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Multicolor",
-      "url": "https://open.spotify.com/track/2ExdbieQffMXpY7ygN2YN9"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
@@ -673,23 +721,47 @@
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Als Je Bij Me Blijft",
         "url": "https://open.spotify.com/album/3xzPbtjtcGh53z4VUwbsgO"
@@ -721,63 +793,23 @@
       "url": "https://open.spotify.com/track/5R7KyW1qVi1CHzZiB4ALFs"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+        "name": "De Diepte",
+        "url": "https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+      "duration_ms": 176603,
+      "name": "De Diepte",
+      "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -797,7 +829,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
@@ -821,75 +853,23 @@
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+        "name": "Dat heb jij gedaan",
+        "url": "https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+      "duration_ms": 211174,
+      "name": "Dat heb jij gedaan",
+      "url": "https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "De Diepte",
-        "url": "https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o"
-      },
-      "artists": [
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 176603,
-      "name": "De Diepte",
-      "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Bon Gepakt",
-        "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        }
-      ],
-      "duration_ms": 173283,
-      "name": "Bon Gepakt",
-      "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
-      "album": {
-        "name": "Rainfall (Praise You)",
-        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 166569,
-      "name": "Rainfall (Praise You)",
-      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
-    },
-    {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
@@ -909,20 +889,40 @@
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
-      "added_at": "2022-07-10 12:34:21",
+      "added_at": "2022-07-11 11:05:56",
       "album": {
-        "name": "Dat heb jij gedaan",
-        "url": "https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1"
+        "name": "Rainfall (Praise You)",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
       "artists": [
         {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
         }
       ],
-      "duration_ms": 211174,
-      "name": "Dat heb jij gedaan",
-      "url": "https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g"
+      "duration_ms": 166569,
+      "name": "Rainfall (Praise You)",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+    },
+    {
+      "added_at": "2022-07-11 11:05:56",
+      "album": {
+        "name": "Bon Gepakt",
+        "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        }
+      ],
+      "duration_ms": 173283,
+      "name": "Bon Gepakt",
+      "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

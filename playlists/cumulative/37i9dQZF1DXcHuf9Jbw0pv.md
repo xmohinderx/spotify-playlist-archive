@@ -4,7 +4,7 @@
 
 > The ultimate garden concert!
 
-64 songs - 4 hr 15 min - not published yet
+64 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/2cNSvVMQCF10eXKYBDvGQX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

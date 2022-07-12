@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New collaboration from Eartheater &amp; LSDXOXO, plus the latest cuts from Joel Corry, Azzecca, TDJ, niina, Ayra Star, Noizu, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,525 likes - 165 songs - 10 hr 20 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,524 likes - 165 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

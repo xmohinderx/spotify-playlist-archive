@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: RMAND
 
-139 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+140 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,10 +109,11 @@
 | [Para La Wifey :\)](https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Why Do We Fear Still?](https://open.spotify.com/album/3f2OOXRi6RFjmDyFUxql8N) | 2:42 | 2022-06-28 |  |
 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 | 2022-03-29 | 2022-07-09 |
 | [Paz y Bendiciones](https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Proyecto Z](https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ) | 3:19 | 2022-07-01 |  |
-| [Perreito Under](https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Perreito Under](https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5) | 3:06 | 2022-04-29 |  |
+| [Perreito Under](https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Perreito Under](https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5) | 3:06 | 2022-04-29 | 2022-07-12 |
 | [PobreDiablo \- Interlude](https://open.spotify.com/track/6FHySSMAlWOPH2TbzKEzRS) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PobreDiablo \(Interlude\)](https://open.spotify.com/album/1RgNyfYRFkoMGW3hLusIf2) | 2:14 | 2022-03-21 | 2022-03-26 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-29 | 2022-07-09 |
 | [PROVOCAR](https://open.spotify.com/track/0bhuxEmgIoW4YztrCouCIt) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [MI FANTASY](https://open.spotify.com/album/3CkwnW8x114E68m2FvS9I0) | 2:46 | 2022-03-21 | 2022-06-04 |
+| [Que Raro](https://open.spotify.com/track/3ojvSojw2CF9fQDoAfAqJG) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [Que Raro](https://open.spotify.com/album/7dDFKnpDJYSKDLJ2941cgu) | 2:52 | 2022-07-11 |  |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-07-08 |  |
 | [Quien TV Remix](https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Quien TV Remix](https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL) | 2:43 | 2022-03-21 | 2022-06-04 |
 | [Qué Diablos](https://open.spotify.com/track/0euNA8UFnJB3TTyC9a4A7u) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO) | [Procedente](https://open.spotify.com/album/7EIkMp1lhoELiFfNmYZaxb) | 3:37 | 2022-05-13 | 2022-06-29 |

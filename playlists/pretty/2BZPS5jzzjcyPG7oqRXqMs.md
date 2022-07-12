@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,988 likes - 127 songs - 8 hr 2 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,996 likes - 127 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 126 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 |
 | 127 | [Without You](https://open.spotify.com/track/5gdiTtT4acVSQb092WK7BH) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 3:29 |
 
-Snapshot ID: `MzIwMCxiYjgyZWEwMTA3MzY4NmZhMTBjNmQyMmJhZDM3ZGY5ZGZkMDVmNjZi`
+Snapshot ID: `MzIwMixmMDUxNGRhODA4ZjAyOTRmYWE1M2M0Zjc1ODk3ODc4M2ExNzYyNDMy`

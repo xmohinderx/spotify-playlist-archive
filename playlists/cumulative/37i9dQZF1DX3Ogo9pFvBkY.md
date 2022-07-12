@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-656 songs - 1 day 10 hr 51 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+657 songs - 1 day 10 hr 54 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Astral Roar](https://open.spotify.com/track/48yKwM6nTNFrZm09Feix46) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Otherworld](https://open.spotify.com/album/4cripF2DCU1PGPqIxpRp2U) | 3:32 | 2020-05-09 |  |
 | [Astral Therapy](https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:17 | 2019-05-26\* | 2019-06-29 |
 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 | 2019-12-07 | 2021-11-26 |
-| [Atmos Eleven](https://open.spotify.com/track/0RIJAaogvQkeFuZVPhYlma) | [Atmos 11](https://open.spotify.com/artist/2dm3Qg6j7Y7Dl2yiFCT7MA) | [World of Wonders](https://open.spotify.com/album/2IofZvunariXmkfe7RYG45) | 3:47 | 2020-05-09 |  |
+| [Atmos Eleven](https://open.spotify.com/track/0RIJAaogvQkeFuZVPhYlma) | [Atmos 11](https://open.spotify.com/artist/2dm3Qg6j7Y7Dl2yiFCT7MA) | [World of Wonders](https://open.spotify.com/album/2IofZvunariXmkfe7RYG45) | 3:47 | 2020-05-09 | 2022-07-12 |
 | [Attends\-moi](https://open.spotify.com/track/5Tzz9ed8aqzEHMvBsYcwiN) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Attends\-moi](https://open.spotify.com/album/0OZA65EqED0lZ3cbGs73Bt) | 3:39 | 2021-02-18 |  |
 | [Attention Caller](https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Hyper Focus](https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am) | 3:23 | 2019-05-26\* | 2020-01-09 |
 | [Aura](https://open.spotify.com/track/2FkTdGg3QqJt8ufTTJWIwJ) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Peace of Mind](https://open.spotify.com/album/3CuQ15YmucUEejU8ZgcrfH) | 3:18 | 2020-05-18 | 2021-09-14 |
@@ -451,6 +451,7 @@
 | [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2020-01-03 |  |
 | [Polar Drone](https://open.spotify.com/track/6SxcRJNPDlwiciVkzxu0oC) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Drones](https://open.spotify.com/album/0aB0sdg1xr6Yr8K2AVhaYy) | 3:35 | 2019-05-26\* |  |
 | [Polaris](https://open.spotify.com/track/15Q4tq0gvEelMr40CeBClA) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Polaris](https://open.spotify.com/album/1O4hCDZOcxLITrYIocKgdt) | 3:28 | 2020-10-27 |  |
+| [Pompeiana](https://open.spotify.com/track/6aiNDJMuzHwomOHCjIxIgq) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Pompeiana](https://open.spotify.com/album/69U97EpbUG2vn9pAn0IoGH) | 2:55 | 2022-07-11 |  |
 | [Port of Call](https://open.spotify.com/track/3fD0a5xssaqShD258hJIUU) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Elba](https://open.spotify.com/album/2dQuhg8RoRK4tq1kRnlzQp) | 3:09 | 2020-01-03 | 2020-08-08 |
 | [Position Position \(Here\)](https://open.spotify.com/track/4Kjnj0ckdGqz2jazsNSGOH) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [When You Were Here](https://open.spotify.com/album/11cgTljXHTFtqcWfXYCLPd) | 1:40 | 2019-05-26\* | 2020-05-09 |
 | [Prarie Whisper](https://open.spotify.com/track/0qwKXExu6ZFmCVmuXS77Bd) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Lost Without Thoughts](https://open.spotify.com/album/7eSQYxXrvCdp2AWDlKGlyc) | 3:48 | 2020-01-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Yuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,958 likes - 74 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,952 likes - 74 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

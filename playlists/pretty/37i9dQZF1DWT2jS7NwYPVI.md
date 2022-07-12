@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: poutyface & K.Flay
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,899 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,024 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

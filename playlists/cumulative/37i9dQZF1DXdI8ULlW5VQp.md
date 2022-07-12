@@ -4,7 +4,7 @@
 
 > Lasso seleccionó sus canciones favoritas para decirle a esa persona lo que sientes <3
 
-145 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
+150 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Mares De Miel](https://open.spotify.com/track/1tJrLUcqjzQVZLFCV8lym0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Mares De Miel](https://open.spotify.com/album/3FpD9Rogk6RmMLvKMxT6ba) | 4:41 | 2022-02-04 | 2022-07-02 |
 | [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 | 2022-02-04 | 2022-07-02 |
 | [Me Fui](https://open.spotify.com/track/7xo0Cq0yX79sSaKfxq7Q5r) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Virgo](https://open.spotify.com/album/2hfztFKn9oM1Imy42FH1nX) | 4:45 | 2022-06-29 | 2022-07-02 |
+| [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-07-11 |  |
 | [Mi Imaginación](https://open.spotify.com/track/3nbeuVqNGFwCi3UqEdY3k2) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Mi Imaginación](https://open.spotify.com/album/5N0zV3M707G0WgKpiRT1yF) | 2:52 | 2022-02-04 | 2022-07-02 |
 | [Mi Lado Más Frío](https://open.spotify.com/track/0ttD1uGRzrRtTi3MACGnbZ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 1:38 | 2022-07-01 |  |
 | [Mi Reina Maya](https://open.spotify.com/track/76iqlo552kTjdm7iGZyM3g) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Mi Reina Maya](https://open.spotify.com/album/3AyHTv3EPqTN9eY7m7hS88) | 4:08 | 2022-02-04 | 2022-07-02 |
@@ -124,11 +125,13 @@
 | [Recuerdo](https://open.spotify.com/track/5nv8yhA2ySKUxofQ3Ei1er) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/0Yyill6hXJgajirOCDuGrT) | 3:29 | 2022-06-02 | 2022-07-02 |
 | [Respirar](https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Respirar](https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN) | 3:19 | 2022-02-04 | 2022-07-02 |
 | [Retrato](https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Retrato](https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A) | 2:41 | 2022-06-02 | 2022-07-02 |
+| [Sanalö](https://open.spotify.com/track/4a3TYChLrUfnKgTjTxZYFB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Sanalö](https://open.spotify.com/album/18N5wazSsD3jkwYlT8AAem) | 3:27 | 2022-07-11 |  |
 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 | 2022-02-04 | 2022-03-12 |
 | [Sayonara](https://open.spotify.com/track/3mbRkOQDQZSJobcvhYpvdT) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Sayonara](https://open.spotify.com/album/1gcaeZk3wr3ysqQFoXjp2r) | 3:55 | 2022-02-04 | 2022-07-02 |
 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 | 2022-02-04 | 2022-04-19 |
 | [Sexo Pudor y Lagrimas \- Banda Sonora De la Película](https://open.spotify.com/track/42MW4FhAIvSZLmzTk40SkM) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Sexo Pudor y Lagrimas 2 \(Música Original de la Película\)](https://open.spotify.com/album/021XWHKRxVNQmCP9B0g1qu) | 4:19 | 2022-02-04 | 2022-06-30 |
 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 | 2022-06-06 | 2022-07-02 |
+| [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 | 2022-07-11 |  |
 | [Soñar Contigo](https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 2:48 | 2022-02-04 | 2022-07-02 |
 | [Soñé](https://open.spotify.com/track/2d6R7kgl5nhJLn71ErZAtv) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Soñé](https://open.spotify.com/album/5Fq4RZOFCKPFWBete3tCJM) | 2:50 | 2022-02-25 | 2022-04-19 |
 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 | 2022-07-01 |  |
@@ -143,6 +146,7 @@
 | [Tus Ojitos](https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tus Ojitos](https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc) | 4:15 | 2022-02-04 | 2022-07-02 |
 | [Té de Limón](https://open.spotify.com/track/2HgVe0fYIRgcpXTGLLylty) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Té de Limón](https://open.spotify.com/album/3er7gD68l9Vuk5R3n1kyLo) | 2:37 | 2022-02-04 | 2022-07-02 |
 | [Un Velero Llamado Libertad](https://open.spotify.com/track/1aCjnwgnKGLZbOlikxfWRt) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Un Velero Llamado Libertad](https://open.spotify.com/album/5I8z2fN21JJ5RkmVXeRE1v) | 3:23 | 2022-02-04 | 2022-04-19 |
+| [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 | 2022-07-11 |  |
 | [Vencer el Pasado](https://open.spotify.com/track/21uAJbkOwnIs4JjHXR8cSO) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Vencer el Pasado](https://open.spotify.com/album/2g4n6T7P1LyUpiRtlArPiO) | 0:29 | 2022-02-04 | 2022-07-02 |
 | [Vete](https://open.spotify.com/track/6AKMuQv1aTGGdKfHO7kGF7) | [Fela Domínguez](https://open.spotify.com/artist/3vYvTD3vLMEQOQS2phjwkN) | [Con Todo Y Caos](https://open.spotify.com/album/6AM3sCEUAjLDOidAnyPZbb) | 3:22 | 2022-04-18 | 2022-07-02 |
 | [Vidas Pasadas](https://open.spotify.com/track/3Suw3wnyl5lMOVQchSqcCp) | [Daniela Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS) | [Vidas Pasadas](https://open.spotify.com/album/2q8FckqvIVNHfyB5w4W9Yz) | 4:02 | 2022-02-04 | 2022-04-19 |
@@ -152,6 +156,7 @@
 | [Ya Casi Te Olvido](https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/0vTenUdY3FK08gAmq1qZ4T) | 2:14 | 2022-03-11 | 2022-07-02 |
 | [Yo No Quiero Suerte](https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sanz](https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4) | 4:24 | 2022-02-04 | 2022-07-02 |
 | [Yo Te Espero](https://open.spotify.com/track/4KSlOvbkQTJPYlBBMMPrbW) | [Fehr Rivas](https://open.spotify.com/artist/37U8NRF583ABrv1mlYcxce) | [Rockmántico](https://open.spotify.com/album/58XRXCgqyjkKpNRgaLsIpy) | 3:25 | 2022-02-04 | 2022-03-12 |
+| [¿Tú Cómo Estás? \- Radio Edit](https://open.spotify.com/track/6RGhcwYMhKy3Sqn7hK4kaP) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Las Italianas](https://open.spotify.com/album/1Wfv0oIMRHCkU2ZI9uSDRi) | 3:47 | 2022-07-11 |  |
 | [Últimas Palabras](https://open.spotify.com/track/3wvIGzrff2fqsJ0js3Yj2a) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:32 | 2022-07-01 |  |
 
 \*This playlist was first scraped on 2022-02-10. Prior content cannot be recovered.

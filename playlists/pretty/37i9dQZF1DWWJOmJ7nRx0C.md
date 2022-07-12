@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,358 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,608 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

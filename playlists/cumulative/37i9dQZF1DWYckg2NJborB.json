@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "The Essential Lynyrd Skynyrd",
+        "url": "https://open.spotify.com/album/4zQRIyATzfm8RQ8ZOI47la"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262506,
+      "name": "All I Can Do Is Write About It",
+      "url": "https://open.spotify.com/track/2567RV7gyweQ2YOe93MZkG"
+    },
+    {
+      "album": {
         "name": "In Your Dreams",
         "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 141680,
       "name": "Banana Co.",
       "url": "https://open.spotify.com/track/0PNFruXOgV5Vsf3OjsiDYW"
@@ -127,7 +145,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 240066,
       "name": "Bernice Bobs Her Hair",
       "url": "https://open.spotify.com/track/3gsvu1V2VXGxgHxtmhkjG6"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 401101,
       "name": "Billy Liar - Live",
       "url": "https://open.spotify.com/track/5H84IgNRpdyqgCMLteZFfs"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 191080,
       "name": "Eveline",
       "url": "https://open.spotify.com/track/5rbB234M0EaapxiDqOUyby"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 112386,
       "name": "Hate the Villanelle",
       "url": "https://open.spotify.com/track/3fPSVnmmq2nOWM4VOmiKww"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 222773,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 263801,
       "name": "Jack Kerouac",
       "url": "https://open.spotify.com/track/5PNtTv39XP3MZsUwxzSv4S"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 169293,
       "name": "Jocasta",
       "url": "https://open.spotify.com/track/5R3JnfxKQYSH4Njj9ZtXqq"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 96506,
       "name": "Lady Chatterley (with Tommy Makem) - Live at Carnegie Hall, New York, NY - November 1962",
       "url": "https://open.spotify.com/track/6A18KBp0ve9SfbTmCHf5UD"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 785160,
       "name": "Man With The Movie Camera",
       "url": "https://open.spotify.com/track/0nkPQmRvzYMrbjtB8mRlyR"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 346386,
       "name": "Milton At Midnight",
       "url": "https://open.spotify.com/track/40fH8V7f8zQht6dz2wYuLC"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 222293,
       "name": "My Antonia",
       "url": "https://open.spotify.com/track/6yCwfs5qUdG8ySrLl2lgOh"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 196226,
       "name": "Oh, Mr. Darcy",
       "url": "https://open.spotify.com/track/5TJRMmxQW1WbLh5ZUMfYe0"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 224933,
       "name": "Open Book",
       "url": "https://open.spotify.com/track/3vmgOwQdZTbdT1W54eeEy0"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 208828,
       "name": "Paperback Writer - Live At Citi Field, NYC, 2009",
       "url": "https://open.spotify.com/track/66JNz0BxRKrno33Jha7i7R"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 392506,
       "name": "Pattern Recognition",
       "url": "https://open.spotify.com/track/5UaqCqloqMJN0tmHlnMpMy"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 244373,
       "name": "Shalott",
       "url": "https://open.spotify.com/track/3zqqk1rqSOX5P30blEoShn"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 169706,
       "name": "Sirens of Titan",
       "url": "https://open.spotify.com/track/395ZYCrLELWM3MtMzGskaF"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 586613,
       "name": "Steppenwolf",
       "url": "https://open.spotify.com/track/1e4Jqv43rf9NsvrQffelbn"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 188758,
       "name": "Sweet Ophelia",
       "url": "https://open.spotify.com/track/3hMVNsHKnApzCa6Lw6vlVj"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 299386,
       "name": "The Fisher King Blues",
       "url": "https://open.spotify.com/track/1zQY0eYND0ZPSFxw3gGupB"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 448013,
       "name": "The Tea Song",
       "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 181106,
       "name": "The Underwood Typewriter",
       "url": "https://open.spotify.com/track/4ccugwlZ3EWVmPgfsYjCSk"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 64825,
       "name": "Type Endlessly",
       "url": "https://open.spotify.com/track/1YnkKuOyXYQYIRg2YRZRfZ"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "Who Wrote Holden Caulfield?",
       "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"

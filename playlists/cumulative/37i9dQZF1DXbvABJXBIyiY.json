@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Time Without Consequence",
+        "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297120,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
+    },
+    {
+      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/1MyNz9qy24BF1VxpW2riZM"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 256346,
       "name": "Calling You Out",
       "url": "https://open.spotify.com/track/0RaWPCQLbjDWPVaL7KY8RA"
@@ -199,7 +217,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 237122,
       "name": "Dark Child - Single Edit",
       "url": "https://open.spotify.com/track/4puHB4a2PUyJViWnJcJEv0"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 207720,
       "name": "Each Coming Night",
       "url": "https://open.spotify.com/track/0mh7eTsBmQj29bkgpQKoPj"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 272760,
       "name": "Home",
       "url": "https://open.spotify.com/track/0eOPBCItAtCgtQZj5vxNRa"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 237160,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/2SnynjpKEEKBqNCLCsepjR"
@@ -943,7 +961,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 174255,
       "name": "Quiet, Heavy Dreams",
       "url": "https://open.spotify.com/track/3JGqdP88wrRe9QEVCDHQv9"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 343960,
       "name": "This Past Storm",
       "url": "https://open.spotify.com/track/4EOsTix8Jb4bugvRG1G7vx"

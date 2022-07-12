@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-156 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+157 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Long Distances](https://open.spotify.com/track/4hLRBySljQhnEhNBNNdspx) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Long Distances](https://open.spotify.com/album/7N1byR1DHYkdyyoQqbdf6f) | 2:52 | 2021-11-10 |  |
 | [Luminous](https://open.spotify.com/track/3KbmeqpwQMymXHdhzaAFms) | [Invisible Motion](https://open.spotify.com/artist/55kth4t5W6MGCPvW8ueDae) | [Luminous](https://open.spotify.com/album/7GcnCnJe3p1hOUE2lpgVHS) | 2:58 | 2021-11-10 |  |
 | [Lunar Expanse](https://open.spotify.com/track/6NdglslNy0Q9B5iVpTsaBh) | [Ambient Renaissance](https://open.spotify.com/artist/0QrVCAg5EvbIo1KfsKH25y) | [Lunar Expanse](https://open.spotify.com/album/3HjwoHERL1TKwkO750ZRnN) | 2:24 | 2021-11-10 |  |
+| [Mandala](https://open.spotify.com/track/5xe5oU9NJYyUTL2THo1TPy) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Mandala](https://open.spotify.com/album/4QCv678G6eTUG92CwBuwnA) | 3:02 | 2022-07-11 |  |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-03-03 |  |
 | [Mirrors](https://open.spotify.com/track/4AxLkuDH6lAh4zfAqnMk1n) | [Tairata](https://open.spotify.com/artist/6S03l2FptTA5eeHeXo115b) | [Mirrors](https://open.spotify.com/album/31hZ1BCR6HrbzBu0dNehj5) | 2:18 | 2021-11-10 |  |
 | [Mollusca](https://open.spotify.com/track/63kG8LOsD5GLmjW62S2rBA) | [Ferndale](https://open.spotify.com/artist/3RXfYE9FOxd2Mgxf46ZMb9) | [Gabriel](https://open.spotify.com/album/6EKSmGzGQ7ODZmqdHVXpa1) | 3:28 | 2021-11-10 |  |

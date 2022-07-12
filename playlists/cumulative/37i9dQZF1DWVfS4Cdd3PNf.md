@@ -2,7 +2,7 @@
 
 ### [Opera Classics](https://open.spotify.com/playlist/37i9dQZF1DWVfS4Cdd3PNf)
 
-> Masterpieces of baroque era, all the way to 20th century and contemporary classics.
+> Masterpieces from the world of opera.
 
 117 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/1eS4ov9tzJGrYFP4UAlnKI)
 

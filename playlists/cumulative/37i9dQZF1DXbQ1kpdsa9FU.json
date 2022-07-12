@@ -62,6 +62,32 @@
     },
     {
       "album": {
+        "name": "Whole Heart (Live)",
+        "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2020-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277920,
+      "name": "All My Hope - Live",
+      "url": "https://open.spotify.com/track/0vlrjt3fBV68KuXKLHN6lX"
+    },
+    {
+      "album": {
         "name": "Almost Home",
         "url": "https://open.spotify.com/album/4rqgmldtQPc2yPZWCrLyiw"
       },
@@ -91,7 +117,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 252257,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/5CjYgLyRgiIGiS9fQAyWaH"
@@ -427,7 +453,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 302780,
       "name": "Counting Every Blessing",
       "url": "https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG"
@@ -779,7 +805,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 350480,
       "name": "Gracefully Broken",
       "url": "https://open.spotify.com/track/3TMFxaCtDbBGi0UeGH2dzc"
@@ -1011,7 +1037,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 305426,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
@@ -1029,7 +1055,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 293986,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/2YtsgFOv3e2oAPvGg5iLBb"
@@ -1163,7 +1189,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 218133,
       "name": "In Awe",
       "url": "https://open.spotify.com/track/053yoApAqzVFYZQUcf60Zv"
@@ -1341,7 +1367,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 228800,
       "name": "Lead Me",
       "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
@@ -1471,7 +1497,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 340344,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/3psx3u5uPAG6BH3k6l8gre"
@@ -1507,7 +1533,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 229946,
       "name": "Mighty to Save",
       "url": "https://open.spotify.com/track/5l4kTQShA5kAOvjbGBTxBm"
@@ -1765,7 +1791,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 349586,
       "name": "O Come to the Altar (Live)",
       "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
@@ -2045,7 +2071,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 237338,
       "name": "Rescue Story",
       "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
@@ -2603,7 +2629,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 217586,
       "name": "With Lifted Hands",
       "url": "https://open.spotify.com/track/68246eHScV7Ay4sl9bsxIA"
@@ -2639,7 +2665,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 347461,
       "name": "World Needs Jesus",
       "url": "https://open.spotify.com/track/2v0uCwITNiWwuA8KdNUWL3"
@@ -2769,7 +2795,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
@@ -2787,7 +2813,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 226866,
       "name": "Your Love Defends Me",
       "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
