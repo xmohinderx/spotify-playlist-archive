@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aeons](https://open.spotify.com/track/7u0h3YWV24zGDMmmALRlzN) | [Chemtrails](https://open.spotify.com/artist/2AvNtsTKAOkaoD7aonyHHJ) | [Aeons](https://open.spotify.com/album/6iq57usboyGlSQMv9a6zaK) | 3:31 | 2021-04-09 | 2022-07-11 |
-| [Alone & Stoned](https://open.spotify.com/track/3gWXj0M91hORb7ZjSZpdHW) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [King Tuff](https://open.spotify.com/album/1aR5ucNgsjrtLMowsaMgcd) | 3:10 | 2021-04-09 |  |
+| [Alone & Stoned](https://open.spotify.com/track/3gWXj0M91hORb7ZjSZpdHW) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [King Tuff](https://open.spotify.com/album/1aR5ucNgsjrtLMowsaMgcd) | 3:10 | 2021-04-09 | 2022-07-13 |
 | [Anemone](https://open.spotify.com/track/5KaCn0CGbo2Mynq5VSgSya) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Their Satanic Majesties' Second Request](https://open.spotify.com/album/5KzWrpVIPOWzY42Tkl4XHz) | 5:34 | 2021-04-09 |  |
 | [Animal](https://open.spotify.com/track/1WQaL7NkTQUXHPaYuK8Gvw) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Shadow of the Sun](https://open.spotify.com/album/77EzjjcV0HtQPnLiAdRtmG) | 2:09 | 2021-04-09 | 2022-04-20 |
 | [Badillac](https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 2:27 | 2021-04-09 |  |
@@ -32,7 +32,7 @@
 | [Demon From Hell](https://open.spotify.com/track/3NaT4FM9fCu29Ep9DoVh0N) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/1D2eoTz82hmyArupokjyZ5) | 1:29 | 2021-04-09 |  |
 | [Doused](https://open.spotify.com/track/4QDbzpmRA6atTEEE2W7j7k) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1hSONHeTOofdeh2uoFBLgv) | 3:42 | 2021-04-09 |  |
 | [Drown](https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:30 | 2021-04-09 |  |
-| [DVP](https://open.spotify.com/track/0bq0YAWnc5HuE3AnYhITA5) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/7lelUe4aaCQmOMJKsQvirf) | 2:28 | 2021-04-09 | 2022-07-12 |
+| [DVP](https://open.spotify.com/track/0bq0YAWnc5HuE3AnYhITA5) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/7lelUe4aaCQmOMJKsQvirf) | 2:28 | 2021-04-09 |  |
 | [Evil Ways](https://open.spotify.com/track/6ZMdPNn2OjCkYGPHRjZfls) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [In The Future](https://open.spotify.com/album/3V6xuUxzUOLsmHtBhMl2i1) | 3:26 | 2021-04-09 | 2022-04-18 |
 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/6vTtMyCg96xwpoIBws9K0Q) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/76vY9yohh4kVwSKkyKbyEQ) | 3:12 | 2021-04-09 |  |
 | [Fine Again](https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:03 | 2022-03-23 | 2022-06-25 |

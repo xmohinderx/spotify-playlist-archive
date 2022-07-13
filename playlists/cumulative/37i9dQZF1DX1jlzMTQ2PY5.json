@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 283970,
       "name": "Beautiful Struggle",
       "url": "https://open.spotify.com/track/3RFHa6mL95pfX2gqdrUiWp"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 204173,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6YoCno4k5HHDJmTl7i8MAY"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 247506,
       "name": "Dream In Green",
       "url": "https://open.spotify.com/track/0zl5bHBTrmei9r2E7MydAt"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 165996,
       "name": "endcliffe blues",
       "url": "https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 408275,
       "name": "Here with Me",
       "url": "https://open.spotify.com/track/1Fl9fwHWWKewRf3n897kCE"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 323708,
       "name": "Just Words",
       "url": "https://open.spotify.com/track/4tPo56YuTnYEFOiuOyZWe5"
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 236609,
       "name": "Nautic",
       "url": "https://open.spotify.com/track/3Pevs0j3N02qNVFSqyyz0L"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 269921,
       "name": "Never Made It",
       "url": "https://open.spotify.com/track/348lckHV37myDPmuxztghP"
@@ -1249,6 +1249,24 @@
       "duration_ms": 274761,
       "name": "Only You",
       "url": "https://open.spotify.com/track/14wbsRn4dzYtLE4QVhI0qB"
+    },
+    {
+      "album": {
+        "name": "Other Life / Peyote",
+        "url": "https://open.spotify.com/album/57Q6AFmiPHaGrp5OW0HLmi"
+      },
+      "artists": [
+        {
+          "name": "Sl8r",
+          "url": "https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377413,
+      "name": "Other Life",
+      "url": "https://open.spotify.com/track/0O6QFPXg38fntRhV9NB8ij"
     },
     {
       "album": {
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 320000,
       "name": "Over Your Soul",
       "url": "https://open.spotify.com/track/0Fh466H56VQzcAvAuVG2qG"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 317180,
       "name": "Patience",
       "url": "https://open.spotify.com/track/0R49rmt982lsVFK3nDNJiP"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 300170,
       "name": "Station Six",
       "url": "https://open.spotify.com/track/4RUphASXlXEs8SJQvES7N0"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 188002,
       "name": "Tiptoeing - Tommy Villiers Remix",
       "url": "https://open.spotify.com/track/55FIIN6xVEjOIEheCmdV9K"
@@ -1995,7 +2013,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 270544,
       "name": "With Me",
       "url": "https://open.spotify.com/track/3XE248EzS2oKV2VfQD73VB"

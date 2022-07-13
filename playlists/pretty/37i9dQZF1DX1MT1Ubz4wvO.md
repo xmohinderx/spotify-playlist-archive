@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con El Cuarteto De Nos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,370 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,407 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 4 | [Le das Mal Nombre al Amor](https://open.spotify.com/track/4WsAsagj1GaQzS5QXJvwMd) | [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [Le das Mal Nombre al Amor](https://open.spotify.com/album/3F5kOZBSKHfGOldUWufqzw) | 3:36 |
 | 5 | [El Mundo Se Termina](https://open.spotify.com/track/232WwWYvBmxKNOLkxOW2bp) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Mundo Se Termina](https://open.spotify.com/album/29ISIbpi5qe3Hk33gZMMoF) | 4:12 |
 | 6 | [Veranillo de San Jorge](https://open.spotify.com/track/4LlQ8mOXteWPoA5AAJi9d8) | [Tigre y Diamante](https://open.spotify.com/artist/3r32x2k0DngV8Ef8AELQzf), [M.Ferrero](https://open.spotify.com/artist/4kn1L3CRGzgk5bp5N9qgZT) | [Veranillo de San Jorge](https://open.spotify.com/album/1rI9K56TQ4zGGA9PXTliRl) | 6:22 |
-| 7 | [TOMANDO COMO SIEMPRE](https://open.spotify.com/track/4Vv3ilAiuwXcPlJUhgGVNg) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [TOMANDO COMO SIEMPRE](https://open.spotify.com/album/6JRMgy0ojQyPKCWRcALCHY) | 3:29 |
+| 7 | [Tomando Como Siempre](https://open.spotify.com/track/4Vv3ilAiuwXcPlJUhgGVNg) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Tomando Como Siempre](https://open.spotify.com/album/6JRMgy0ojQyPKCWRcALCHY) | 3:29 |
 | 8 | [Ansiedad](https://open.spotify.com/track/2o1CGCiCn5NG8LXlDtaBWg) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Ansiedad](https://open.spotify.com/album/6P9hVVSqfrQIg5mIgTdvVK) | 4:05 |
 | 9 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
 | 10 | [Blue Monday \(Remasterizado 2022\)](https://open.spotify.com/track/0chf4BYmLahgPSnYW0KhmC) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Hablaban Con Frases Hechas \(Edición Deluxe\) \(Remasterizado 2022\)](https://open.spotify.com/album/6R8KNZWE1v7SIDFULHrLwc) | 4:23 |

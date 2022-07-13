@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,313 likes - 98 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,318 likes - 98 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 97 | [Balance](https://open.spotify.com/track/1oZ9JIyo9BHREjiJRH5Xky) | [Basha](https://open.spotify.com/artist/6ilDfUck7U8YWKaWRvhdHS) | [Logan Ave](https://open.spotify.com/album/4yNNbktP7OvACFpoqqk0Xz) | 3:08 |
 | 98 | [Run Off](https://open.spotify.com/track/4hacOsbThfn68iXRzWxFet) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Izuku 2.0](https://open.spotify.com/album/0ebFweEBDJCo4LySV87ARC) | 2:40 |
 
-Snapshot ID: `MTY1NzU4OTI1NiwwMDAwMDAwMDExZDc1ZDNmYzVkYWZlZTMxOWQ0MjM1ODI3MzdlZTIx`
+Snapshot ID: `MTY1NzY3NTE3OSwwMDAwMDAwMDExZDc1ZDNmYzVkYWZlZTMxOWQ0MjM1ODI3MzdlZTIx`

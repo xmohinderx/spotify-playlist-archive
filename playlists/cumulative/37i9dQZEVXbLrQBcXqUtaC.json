@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -3307,7 +3307,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 230587,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7crSbQ5sZmLWx9aKqdReXa"
@@ -9826,6 +9826,24 @@
     },
     {
       "album": {
+        "name": "TikTak \u062a\u064a\u0643 \u062a\u0627\u0643",
+        "url": "https://open.spotify.com/album/4LfRYMaDLEUu4FHbwi3VP0"
+      },
+      "artists": [
+        {
+          "name": "\u062d\u0633\u0648\u0646\u0648\u0641",
+          "url": "https://open.spotify.com/artist/7INQblcaQE14EWeyIltG0R"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130412,
+      "name": "\u0628\u0643\u0649 \u0648\u0627\u0634\u062a\u0643\u0649",
+      "url": "https://open.spotify.com/track/507jzrK1md4sHuziawZVaS"
+    },
+    {
+      "album": {
         "name": "\u062a\u062c\u0631\u062d\u0646\u064a \u0648\u0627\u062d\u0628\u0643",
         "url": "https://open.spotify.com/album/4taqcfVXu4Add08NFUVHvC"
       },
@@ -10553,6 +10571,24 @@
       "duration_ms": 219012,
       "name": "\u0648\u0635\u0644\u0646\u0627",
       "url": "https://open.spotify.com/track/5x30FoNuMhL1dzwrSbDpEm"
+    },
+    {
+      "album": {
+        "name": "\u0648\u0644\u0627 \u063a\u0644\u0637\u0629",
+        "url": "https://open.spotify.com/album/4BBuPUUSsT8qkatKvZJb33"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275306,
+      "name": "\u0648\u0644\u0627 \u063a\u0644\u0637\u0629",
+      "url": "https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK"
     },
     {
       "album": {

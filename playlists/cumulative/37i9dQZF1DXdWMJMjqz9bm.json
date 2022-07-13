@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop and a little bit of rap. Cover: Arden Jones",
+  "description": "A little bit of pop and a little bit of rap. Cover: Nicky Youre",
   "name": "Varsity Bars",
   "published_playlist_ids": [
     "2Nwo9aiDgjWV2FZ832hzzr"
@@ -113,6 +113,24 @@
       "duration_ms": 153065,
       "name": "24 48",
       "url": "https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy"
+    },
+    {
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131586,
+      "name": "3, 2, 1",
+      "url": "https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV"
     },
     {
       "album": {
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 151423,
       "name": "Bleed It",
       "url": "https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 197855,
       "name": "Compensating (feat. Young Thug)",
       "url": "https://open.spotify.com/track/61KoN6PlBhQD7sivCcf0hA"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 137000,
       "name": "did too much",
       "url": "https://open.spotify.com/track/6T01MjAHwJ0ULAcrLDPLnm"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 167243,
       "name": "Drowsy",
       "url": "https://open.spotify.com/track/3u6DVaD9jGvI6HNm1ODrMa"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 150612,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
@@ -2424,6 +2442,24 @@
     },
     {
       "album": {
+        "name": "High 4 U",
+        "url": "https://open.spotify.com/album/2eqnG7Avs0kQlpL3bN93so"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162793,
+      "name": "High 4 U",
+      "url": "https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge"
+    },
+    {
+      "album": {
         "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
         "url": "https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6"
       },
@@ -2866,6 +2902,24 @@
     },
     {
       "album": {
+        "name": "IMPATIENT",
+        "url": "https://open.spotify.com/album/6GH9V2pkHwDjCNWhDkGQM4"
+      },
+      "artists": [
+        {
+          "name": "SEBASTIAN PAUL",
+          "url": "https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189309,
+      "name": "IMPATIENT",
+      "url": "https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k"
+    },
+    {
+      "album": {
         "name": "misery lake",
         "url": "https://open.spotify.com/album/6vqNFOfIgqe0l2Ui47YSyO"
       },
@@ -3005,6 +3059,24 @@
       "duration_ms": 88163,
       "name": "la di da - acoustic",
       "url": "https://open.spotify.com/track/5bNjrg9hIcDqb2OLttzxlN"
+    },
+    {
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/1gTkvHFHZhcFMhpy0Ko2Ln"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "La La Land",
+      "url": "https://open.spotify.com/track/7taeV6Kz3xIgjx5QR0eG8p"
     },
     {
       "album": {
@@ -3741,7 +3813,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 171756,
       "name": "Nice to Meet Me (feat. Au/Ra)",
       "url": "https://open.spotify.com/track/62GuxZfDmTAnheXJqpbTVl"
@@ -3843,7 +3915,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 310933,
       "name": "No Tellin'",
       "url": "https://open.spotify.com/track/2durxb17bXcmQJHSt8JAdO"
@@ -4053,7 +4125,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 176507,
       "name": "Peanut Butter Cherry",
       "url": "https://open.spotify.com/track/76QHEenc8e1T3vydKzdg46"
@@ -4693,7 +4765,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 162162,
       "name": "Seen It All",
       "url": "https://open.spotify.com/track/6hB0cABPuWsH26D7nsVvCr"
@@ -4751,7 +4823,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 160697,
       "name": "Shalotto",
       "url": "https://open.spotify.com/track/0bPl4vRtF2gJlIUQ6revK1"
@@ -4773,6 +4845,24 @@
       "duration_ms": 152007,
       "name": "Shania Twain",
       "url": "https://open.spotify.com/track/7EwTWFcQCOfXGyu5suJOXC"
+    },
+    {
+      "album": {
+        "name": "sheluvme",
+        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150840,
+      "name": "sheluvme",
+      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
     },
     {
       "album": {
@@ -4841,7 +4931,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 137263,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/4fI6dj7tYo7THZE5EJwPHZ"
@@ -4935,7 +5025,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 91224,
       "name": "Star",
       "url": "https://open.spotify.com/track/46e8kngVlFjuDTCyyTbLfJ"

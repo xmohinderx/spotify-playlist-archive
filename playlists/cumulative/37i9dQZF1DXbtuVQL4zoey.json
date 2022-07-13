@@ -1750,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "gm baby",
+        "url": "https://open.spotify.com/album/3mYP9U7ew0gMDuehApbTDK"
+      },
+      "artists": [
+        {
+          "name": "wallyPDF",
+          "url": "https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "gm baby",
+      "url": "https://open.spotify.com/track/1HwtLXqKnJvKYrVRcXbdsl"
+    },
+    {
+      "album": {
         "name": "Golden Cat",
         "url": "https://open.spotify.com/album/7MT7vYU81W8E2Gff9muvfR"
       },

@@ -4,7 +4,7 @@
 
 > All E.L.F's go to playlist! A brand new album is here! Listen to The Renaissance!
 
-128 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/2UMJmYC8TKLWWGuzrB0lu5)
+133 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/2UMJmYC8TKLWWGuzrB0lu5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/7ufUUzddmfwitmCAFHsWr3) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [One More Time \- Special Mini Album](https://open.spotify.com/album/0vgV211bUsihsckzNaejxe) | 3:10 | 2022-03-01 |  |
 | [All Day Long](https://open.spotify.com/track/1EGggFwIQwciGlo803CQ83) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [When the Weather is fine OST Part.3](https://open.spotify.com/album/2HK3bKkHIAp1XcdKb1L5jI) | 4:48 | 2022-03-01 |  |
 | [Alright](https://open.spotify.com/track/6XcAiN3fb2YGgK4vW9wFnV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:55 | 2022-03-01 |  |
+| [Always](https://open.spotify.com/track/2nG6ZeHKpfTgowpzZs0frU) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:52 | 2022-07-12 |  |
 | [Analogue Radio](https://open.spotify.com/track/0ZQQUIm8sMewQQyRZxxX2a) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:25 | 2022-03-01 |  |
 | [Animals](https://open.spotify.com/track/6Pqc7nJCJcxfTMrmNMNTr6) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Animals](https://open.spotify.com/album/5wp7px1nVgtMiX6ZXnNkTh) | 3:31 | 2022-03-01 |  |
 | [B.A.D](https://open.spotify.com/track/3VJtASWPj2bu8aGL8cvtss) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD BLOOD \- The 4th Mini Album](https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta) | 3:20 | 2022-03-01 |  |
@@ -29,10 +30,12 @@
 | [Danger](https://open.spotify.com/track/75Wfq80T9FektQegttDOTs) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [DANGER \- The 3rd Mini Album](https://open.spotify.com/album/2lwfwVAKf0cB4Uc5qqhk2P) | 3:14 | 2022-03-01 |  |
 | [Daystar](https://open.spotify.com/track/6HcNz2K1JVXb1xgMAD93og) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Daystar](https://open.spotify.com/album/0EOLOmGmGxtLntJpB2SxMu) | 3:58 | 2022-03-01 |  |
 | [Devil](https://open.spotify.com/track/2jkZgKoNK8dKxs7FGb9c42) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:36 | 2022-03-01 |  |
+| [Don't Wait](https://open.spotify.com/track/1SXZfwwTzeL0nmEBEvlYzA) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 2:59 | 2022-07-12 |  |
 | [Don’t Wake Me Up \- sung by SUPER JUNIOR–D&E](https://open.spotify.com/track/6ZMt36jFrzimQrzAx93Xjv) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/4awzBhGBXXSZjTpy9fEtj3) | 3:08 | 2022-03-01 |  |
 | [Dreamer](https://open.spotify.com/track/7F9mjStmIHKakdhS2DtcQz) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [DANGER \- The 3rd Mini Album](https://open.spotify.com/album/2lwfwVAKf0cB4Uc5qqhk2P) | 3:58 | 2022-03-01 |  |
 | [Eat’s OK](https://open.spotify.com/track/2OEBexV35Zfa4B7BFF3pnB) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 3:27 | 2022-03-01 |  |
 | [Every day, Wait for us](https://open.spotify.com/track/7eCuPEuWwlifkYW818cQI7) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 3:50 | 2022-03-01 |  |
+| [Everyday](https://open.spotify.com/track/3mqJQ1zU9KY0tqSeX1Q6S6) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 2:59 | 2022-07-12 |  |
 | [Far away](https://open.spotify.com/track/6W0lWJgW9TbgQWDOynaLTo) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:14 | 2022-03-01 |  |
 | [Feel That Feelin’](https://open.spotify.com/track/2Nn04ZudidjcEE8w0LCoTO) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 2:59 | 2022-03-01 |  |
 | [Game](https://open.spotify.com/track/3cFSxRwSSdDcRdW9YmfXl0) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:37 | 2022-03-01 |  |
@@ -58,12 +61,14 @@
 | [Lovely Day](https://open.spotify.com/track/4ufRfVgfHPR6F4ZJUYq7BO) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [U](https://open.spotify.com/album/6X6VnoHTPm7Uywlqx0CUAk) | 3:01 | 2022-03-01 |  |
 | [Magic](https://open.spotify.com/track/3cIygnq7fUqtII8i4GByRY) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/4awzBhGBXXSZjTpy9fEtj3) | 3:35 | 2022-03-01 |  |
 | [Mamacita \(아야야\)](https://open.spotify.com/track/5kzFg2B9IcXt41Nwqmr9Eg) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [THE 7th Album 'MAMACITA'](https://open.spotify.com/album/5mE1OCMbv2kA1C8a1OnVfH) | 3:27 | 2022-03-01 |  |
+| [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 | 2022-07-12 |  |
 | [Marry U](https://open.spotify.com/track/4Aj7OPtF53nBkCKQcQYaLM) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [돈돈! Don't Don](https://open.spotify.com/album/3PvFCl2hY5HJkT1LT1bmI7) | 3:19 | 2022-03-01 |  |
 | [Midnight Story](https://open.spotify.com/track/6mvSl6ZE7rFjXFP8cQm64o) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [When We Were Us \- The 1st Mini Album](https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2) | 3:06 | 2022-03-01 |  |
 | [Miracle](https://open.spotify.com/track/2y3h3zy5BLUbkiFgIINGEL) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/2qW0mTACJdlknP1kPicN8B) | 2:56 | 2022-03-01 |  |
 | [More Days with You](https://open.spotify.com/track/4UcsdzPYKdfdateRyROTQM) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Renaissance \- The 10th Album](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) | 4:13 | 2022-03-01 |  |
 | [Mr\. Simple](https://open.spotify.com/track/1EBA71Up4r13q6ggBCwBdJ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Mr\. Simple](https://open.spotify.com/album/6RAdpy4EGAj6LyMoGi89hA) | 4:01 | 2022-03-01 |  |
 | [Muse](https://open.spotify.com/track/2qzzwrKDs41hYu4vJDhfAy) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:25 | 2022-03-01 |  |
+| [My Wish](https://open.spotify.com/track/3Bbpf9UyIHYJi2cZSxnbP5) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 4:06 | 2022-07-12 |  |
 | [Mystery](https://open.spotify.com/track/6Q0SX4Dunop7M5jzeiec5d) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Renaissance \- The 10th Album](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) | 2:57 | 2022-03-01 |  |
 | [Need U](https://open.spotify.com/track/0X6aEz0mOzdxz3kNf6Pyly) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Need U](https://open.spotify.com/album/7F4uRzCZEm3TbUXsMfYFe2) | 3:31 | 2022-03-01 |  |
 | [No Drama](https://open.spotify.com/track/2JvZ3DSbmNW8URmOc2nGQZ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:18 | 2022-03-01 |  |

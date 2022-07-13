@@ -1,12 +1,12 @@
 {
   "description": "Where jazz meets classical, and classical meets jazz. ",
-  "num_followers": 262330,
+  "num_followers": 262365,
   "original_name": "Jazz Meets Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIwNTI4MiwwMDAwMDAzMjAwMDAwMTgxZDkyMWQ2MzQwMDAwMDE4MWM4Nzg4NGZj",
+  "snapshot_id": "MTY1NzYzNjY1NiwwMDAwMDAzMzAwMDAwMTgxZjJkODE1ZjkwMDAwMDE4MWM4Nzg4NGZj",
   "tracks": [
     {
       "added_at": "2022-07-07 14:48:02",
@@ -179,34 +179,6 @@
     {
       "added_at": "2022-07-07 14:48:02",
       "album": {
-        "name": "My History of Jazz",
-        "url": "https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        },
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        }
-      ],
-      "duration_ms": 282853,
-      "name": "Aria / Goldberg Variation No. 1",
-      "url": "https://open.spotify.com/track/3JZCddd48NgLYgHvLkLylo"
-    },
-    {
-      "added_at": "2022-07-07 14:48:02",
-      "album": {
         "name": "Quando m'en vo [From the opera \"La Boheme\"]",
         "url": "https://open.spotify.com/album/4r7wCXTSeEs79fordibgeb"
       },
@@ -279,22 +251,6 @@
       "duration_ms": 237000,
       "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (On a G String)",
       "url": "https://open.spotify.com/track/4FsUPnXoCN6VSgkU6wXAwz"
-    },
-    {
-      "added_at": "2022-07-07 14:48:02",
-      "album": {
-        "name": "Impromptu",
-        "url": "https://open.spotify.com/album/1Tvn7vVEQu9RAaLgulrYBe"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "Moonlight Sonata",
-      "url": "https://open.spotify.com/track/6B7JRtfZCcZ9Ra2vISs08q"
     },
     {
       "added_at": "2022-07-07 14:48:02",
@@ -387,6 +343,34 @@
       "duration_ms": 80080,
       "name": "Bach \u00e0 la jazz",
       "url": "https://open.spotify.com/track/18mefzc19revZMMDVPxMPT"
+    },
+    {
+      "added_at": "2022-07-07 14:48:02",
+      "album": {
+        "name": "My History of Jazz",
+        "url": "https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        },
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 282853,
+      "name": "Aria / Goldberg Variation No. 1",
+      "url": "https://open.spotify.com/track/3JZCddd48NgLYgHvLkLylo"
     },
     {
       "added_at": "2022-07-07 14:48:02",
@@ -491,6 +475,22 @@
       "duration_ms": 399053,
       "name": "Intermezzo, Op. 118, No. 2 - Live",
       "url": "https://open.spotify.com/track/0Lf9AIOPZqprp67xBWbTG1"
+    },
+    {
+      "added_at": "2022-07-07 14:48:02",
+      "album": {
+        "name": "Impromptu",
+        "url": "https://open.spotify.com/album/1Tvn7vVEQu9RAaLgulrYBe"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Moonlight Sonata",
+      "url": "https://open.spotify.com/track/6B7JRtfZCcZ9Ra2vISs08q"
     },
     {
       "added_at": "2022-07-07 14:48:02",

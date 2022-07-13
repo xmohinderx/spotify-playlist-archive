@@ -1394,6 +1394,28 @@
     },
     {
       "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30c7\u30a3\u30b9\u30b3",
+        "url": "https://open.spotify.com/album/2Ui9xGGvuKFnTN0OJFTneK"
+      },
+      "artists": [
+        {
+          "name": "Shikao Suga",
+          "url": "https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj"
+        },
+        {
+          "name": "\u30d2\u30e3\u30c0\u30a4\u30f3",
+          "url": "https://open.spotify.com/artist/38ViTxLM3iCWNj27wXtYgF"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30c7\u30a3\u30b9\u30b3",
+      "url": "https://open.spotify.com/track/2ywX0NwXU9gEbMoK6x2sFn"
+    },
+    {
+      "album": {
         "name": "\u308c\u306b\u3061\u3083\u3093WORLD",
         "url": "https://open.spotify.com/album/1FOM4ocBJZgADGPIG55KUm"
       },

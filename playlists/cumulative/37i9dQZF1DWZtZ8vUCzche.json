@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 449480,
       "name": "3030",
       "url": "https://open.spotify.com/track/39GBFwBe4GGk7i3yr3F46P"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 73253,
       "name": "Big Sur Moon",
       "url": "https://open.spotify.com/track/3F7Z3u2gMiTFff8UoUSaFw"
@@ -549,10 +549,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 277240,
       "name": "Constant Craving",
       "url": "https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k"
+    },
+    {
+      "album": {
+        "name": "Under the Pink",
+        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305493,
+      "name": "Cornflake Girl",
+      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
     },
     {
       "album": {
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 360855,
       "name": "fountain",
       "url": "https://open.spotify.com/track/5A7fHZEbdmblQQcFrQzQHf"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 532560,
       "name": "I Love You... I'll Kill You",
       "url": "https://open.spotify.com/track/3E61ra5VUF6eu3tpfsXfou"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 411346,
       "name": "I Need Somebody To Love Tonight",
       "url": "https://open.spotify.com/track/6dC66ztLWiYp34KBd68E2b"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 293386,
       "name": "In My Secret Life",
       "url": "https://open.spotify.com/track/31TADh49q4s4jm6lGDeIrd"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 160720,
       "name": "Islands",
       "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 243400,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/1ph6Bncj7s3BmYp6FkIzP8"
@@ -1906,6 +1924,24 @@
     },
     {
       "album": {
+        "name": "Supernature",
+        "url": "https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp"
+    },
+    {
+      "album": {
         "name": "Flesh And Machine",
         "url": "https://open.spotify.com/album/5X6kYn3Uxzw3KVK4rD1OAw"
       },
@@ -1917,7 +1953,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 189413,
       "name": "Opera",
       "url": "https://open.spotify.com/track/4ngPZO9WdE1oElwP0zC4Vx"
@@ -2260,6 +2296,24 @@
     },
     {
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "album": {
         "name": "March 16-20, 1992",
         "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
       },
@@ -2531,7 +2585,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 179066,
       "name": "Spirits In The Material World - Remastered 2003",
       "url": "https://open.spotify.com/track/0h1wFiJEfkPsuJyPHL5j2H"
@@ -2592,6 +2646,24 @@
     },
     {
       "album": {
+        "name": "Black Cherry",
+        "url": "https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231453,
+      "name": "Strict Machine",
+      "url": "https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX"
+    },
+    {
+      "album": {
         "name": "Such Great Heights",
         "url": "https://open.spotify.com/album/0bskBaoSjjUmm8cPNphQcp"
       },
@@ -2603,7 +2675,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 267466,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/36Ae28qcIcoV3940YBBSxX"
@@ -2859,7 +2931,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 236333,
       "name": "This Must Be Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/2pkMt1GnVAbPaqGjV0FCQb"
@@ -2956,6 +3028,24 @@
     },
     {
       "album": {
+        "name": "The Fool (Deluxe)",
+        "url": "https://open.spotify.com/album/3vNQPnY0Dv8fyyN3gHBmBh"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353226,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/6gUISPCR7yMiCaN7sfM4m7"
+    },
+    {
+      "album": {
         "name": "Blue Lines (2012 Mix/Master)",
         "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
       },
@@ -3043,10 +3133,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 223866,
       "name": "What a Fool Believes",
       "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
+    },
+    {
+      "album": {
+        "name": "Fur and Gold",
+        "url": "https://open.spotify.com/album/0MBMbIshl7jfto6yWs8BFN"
+      },
+      "artists": [
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178680,
+      "name": "What's A Girl To Do?",
+      "url": "https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI"
     },
     {
       "album": {
@@ -3097,7 +3205,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 163066,
       "name": "You Keep Me Hangin' On - Stereo Version",
       "url": "https://open.spotify.com/track/5RZ2l6TkDgWdSbo5fZDKn4"

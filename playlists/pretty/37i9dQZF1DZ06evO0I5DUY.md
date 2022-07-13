@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,495 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,548 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [Tengo Un Amor Escondido](https://open.spotify.com/track/0jRHGnHLCS0d0uIEmwvfqN) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:42 |
 | 50 | [Generoso y Carmelita](https://open.spotify.com/track/1xlgtF686KI0a3JfQwPcbl) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:46 |
 
-Snapshot ID: `Mjc2MjU3NzAsMDAwMDAwMDAzY2ZkZDdkMWI1N2I3ZTI4ZmFlNmQyN2I5MjY4ZGM2ZA==`
+Snapshot ID: `Mjc2Mjc0NTUsMDAwMDAwMDBjODBjM2NlY2JhZDMxNzIyZmJkNWQ1YzYyMmFhMDhiNg==`

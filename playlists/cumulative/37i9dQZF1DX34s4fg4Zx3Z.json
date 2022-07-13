@@ -1030,6 +1030,32 @@
     },
     {
       "album": {
+        "name": "Call Me If You Can",
+        "url": "https://open.spotify.com/album/5jtjMdVKHndizrflmiEOOw"
+      },
+      "artists": [
+        {
+          "name": "Marr D",
+          "url": "https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE"
+        },
+        {
+          "name": "Kh\u1ea3i",
+          "url": "https://open.spotify.com/artist/2YJjdbWUlFUPMyveMVft5k"
+        },
+        {
+          "name": "Karrot",
+          "url": "https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230269,
+      "name": "Call Me If You Can",
+      "url": "https://open.spotify.com/track/5BncoFJCACHaBHCruQlc44"
+    },
+    {
+      "album": {
         "name": "Cam Bay",
         "url": "https://open.spotify.com/album/3QipyHVUimESzSK7IAMQxD"
       },
@@ -2466,6 +2492,24 @@
     },
     {
       "album": {
+        "name": "Em Ngh\u0129 Sao",
+        "url": "https://open.spotify.com/album/5tWk3GIfQ6MDwggtEWPkYO"
+      },
+      "artists": [
+        {
+          "name": "Lil Zpoet",
+          "url": "https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Em Ngh\u0129 Sao",
+      "url": "https://open.spotify.com/track/1naUzsMBOHs4hm15sTut0Q"
+    },
+    {
+      "album": {
         "name": "Em N\u00f3i V\u1edbi Ai? (feat. Trung Tr\u1ea7n)",
         "url": "https://open.spotify.com/album/48RHOBGUEXEZfnXhZLAhR4"
       },
@@ -3610,6 +3654,46 @@
     },
     {
       "album": {
+        "name": "It's Okay",
+        "url": "https://open.spotify.com/album/4RLJ2RUzs7ZBhxyGofZC6y"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u1ee9c Tr\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/4R2engiAed6QeIV63PDAz0"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223304,
+      "name": "It's Okay",
+      "url": "https://open.spotify.com/track/7tnQIXXjQBQxDs9VDH1jBC"
+    },
+    {
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/1yHSvBGH1TnUM8sQKEwzcN"
+      },
+      "artists": [
+        {
+          "name": "h0n",
+          "url": "https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262006,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/4Yvog1ClIG8NuYDuYTW2bO"
+    },
+    {
+      "album": {
         "name": "JayTiVa",
         "url": "https://open.spotify.com/album/2qaAF9hSMXx4AcoWSqzjPf"
       },
@@ -4032,24 +4116,6 @@
     },
     {
       "album": {
-        "name": "Loving Heart (Tr\u00e1i Tim Y\u00eau Th\u01b0\u01a1ng)",
-        "url": "https://open.spotify.com/album/4q874sblvWWTMWZrCfSgxL"
-      },
-      "artists": [
-        {
-          "name": "Thu\u00fd V\u00e2n",
-          "url": "https://open.spotify.com/artist/2WeprvQAXKGZmEUTNV49gB"
-        }
-      ],
-      "date_added": "2022-07-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205263,
-      "name": "Loving Heart (Tr\u00e1i Tim Y\u00eau Th\u01b0\u01a1ng)",
-      "url": "https://open.spotify.com/track/0ifCVz16ytCyMexaXXG39k"
-    },
-    {
-      "album": {
         "name": "Lying to myself",
         "url": "https://open.spotify.com/album/7gU4sYYG8bsvCCusUZGt5N"
       },
@@ -4241,7 +4307,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 222619,
       "name": "L\u1ea1c L\u1ed1i",
       "url": "https://open.spotify.com/track/3geh4BLqxAtv5DydmXNkqi"
@@ -4587,7 +4653,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 217048,
       "name": "Mu\u00f4n V\u00ec Sao",
       "url": "https://open.spotify.com/track/1aUxDAWeHp8k38nUfHnsS7"
@@ -6095,7 +6161,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 201422,
       "name": "Ph\u1ecfng L\u00e0i Em",
       "url": "https://open.spotify.com/track/3sXsa5QYbGMt5xbkP5xjjr"
@@ -6791,7 +6857,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 216500,
       "name": "Str4wb3rry shortc4k3",
       "url": "https://open.spotify.com/track/2rCDl6Laf9blXgGhc2e1KD"
@@ -7402,6 +7468,24 @@
     },
     {
       "album": {
+        "name": "Tr\u00e1i Tim Y\u00eau Th\u01b0\u01a1ng (Loving Heart)",
+        "url": "https://open.spotify.com/album/4q874sblvWWTMWZrCfSgxL"
+      },
+      "artists": [
+        {
+          "name": "Thu\u00fd V\u00e2n",
+          "url": "https://open.spotify.com/artist/2WeprvQAXKGZmEUTNV49gB"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205263,
+      "name": "Tr\u00e1i Tim Y\u00eau Th\u01b0\u01a1ng (Loving Heart)",
+      "url": "https://open.spotify.com/track/0ifCVz16ytCyMexaXXG39k"
+    },
+    {
+      "album": {
         "name": "Tr\u00f2 Chuy\u1ec7n C\u00f9ng K\u00fd \u1ee8c",
         "url": "https://open.spotify.com/album/0ipmbHJLM8ywnGzqYYsr3W"
       },
@@ -7929,6 +8013,28 @@
       "duration_ms": 197303,
       "name": "Vui V\u1ebb Kh\u00f4ng Qu\u1ea1o",
       "url": "https://open.spotify.com/track/2QQJncHuYFnZmMSYjhiQ6h"
+    },
+    {
+      "album": {
+        "name": "Xanh \u0110en",
+        "url": "https://open.spotify.com/album/5HoSfajPNK7xL84PqWzKdA"
+      },
+      "artists": [
+        {
+          "name": "HUY.",
+          "url": "https://open.spotify.com/artist/3bUZ1pYNFCXi63VIOG1jwS"
+        },
+        {
+          "name": "Minhuung",
+          "url": "https://open.spotify.com/artist/1KfcZ09oE39qrH4FJrgtfo"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "V\u00e0 Em \u0110\u00e3 T\u1eebng Y\u00eau Anh Ch\u01b0a",
+      "url": "https://open.spotify.com/track/1vhNswUSLvNvjLZMUDQLQ3"
     },
     {
       "album": {

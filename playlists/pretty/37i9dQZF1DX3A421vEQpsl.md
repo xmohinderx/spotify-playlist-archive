@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits repackaged just for you\. Cover\- Ayushmann Khurrana, Vani kapoor, & Guru Randhawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,089 likes - 71 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,140 likes - 71 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD) | 5:50 |
-| 2 | [Nikamma \(From "Nikamma"\)](https://open.spotify.com/track/3qgklso41KNlGppAwsJoLq) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Nikamma \(From "Nikamma"\)](https://open.spotify.com/album/2ryYKIFNRnysjT2YeeB50c) | 2:48 |
+| 2 | [Nikamma \(From "Nikamma"\)](https://open.spotify.com/track/3qgklso41KNlGppAwsJoLq) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Deane Sequeira](https://open.spotify.com/artist/1DjoNMVe0jYejgYoGegVzC) | [Nikamma \(From "Nikamma"\)](https://open.spotify.com/album/2ryYKIFNRnysjT2YeeB50c) | 2:48 |
 | 3 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 |
 | 4 | [Mangta Hai Kya](https://open.spotify.com/track/74a2u5OqEtJwFnF5FJFTDj) | [Aditya Narayan](https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206), [Deeksha Toor](https://open.spotify.com/artist/1vtqfNWgqE0nTEGXHr8dph) | [Mangta Hai Kya](https://open.spotify.com/album/7owXwsIYmZyqLZLc4bP9cn) | 3:14 |
 | 5 | [Whistle Baja 2.0](https://open.spotify.com/track/7MieBhyUfrFfagUdUXGl4q) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Whistle Baja 2.0 \- Heropanti 2](https://open.spotify.com/album/4smXV3zTl0wOB85RdjFra9) | 2:48 |

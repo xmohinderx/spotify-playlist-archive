@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias mulheres artistas portuguesas, como MARO, com o volume no máximo
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,182 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,188 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 9 | [Kwanza Sul](https://open.spotify.com/track/0q8gHw5aB1wmzd39ky5pOs) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Kwanza Sul](https://open.spotify.com/album/2RT1MPpnndasJbAv7zUkeo) | 3:57 |
 | 10 | [A Primeira Carta](https://open.spotify.com/track/2Tpgbc5ThpBtWF8m1sP4jW) | [Mayonezze](https://open.spotify.com/artist/5IihFK8bNjA7paKtVAdej9) | [A Primeira Carta](https://open.spotify.com/album/4RUvVf1COv2YcUWwAO0w2g) | 2:54 |
 | 11 | [Cura](https://open.spotify.com/track/65qS9nnzZApHbaXmgfRdIy) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Cura](https://open.spotify.com/album/3hQvIFMzmbiWE2RvX8Fu3F) | 2:47 |
-| 12 | [Querido Futuro...](https://open.spotify.com/track/4Jr8T5PEyi9yvahMTw1W4o) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Querido Futuro...](https://open.spotify.com/album/72SvQQWEG3ZE4iJS5n7jsE) | 4:19 |
+| 12 | [Querido Futuro Namorado](https://open.spotify.com/track/4Jr8T5PEyi9yvahMTw1W4o) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Querido Futuro Namorado](https://open.spotify.com/album/72SvQQWEG3ZE4iJS5n7jsE) | 4:19 |
 | 13 | [Como O Vento](https://open.spotify.com/track/0Pguh2USTnyVnaPK9oJJpB) | [Rita Guerra](https://open.spotify.com/artist/79CcwQyVLb6A4AHul0WNEw) | [Como O Vento](https://open.spotify.com/album/1BsQ8nRQTeA6D4GMEqzcu4) | 4:14 |
 | 14 | [Nuvem Negra](https://open.spotify.com/track/284WpL1jJFUPDRcJEdFvl4) | [Rita Borba](https://open.spotify.com/artist/5jI7gxfnNYGnyeyBADXzzb) | [Lá Fora](https://open.spotify.com/album/1Q6u8RaKEYgWPhhLxu5egU) | 3:55 |
 | 15 | [Vento](https://open.spotify.com/track/7sn5PxtRuPDS8HuWyWxOHr) | [Cora](https://open.spotify.com/artist/3ZC3YPJ5cPRz0CRjIcnUhB), [Jackie](https://open.spotify.com/artist/3DonXKWiwWaVZdaHuWXl4v) | [Vento](https://open.spotify.com/album/4QwnkhxCQEgVnmAvUSquRX) | 2:52 |

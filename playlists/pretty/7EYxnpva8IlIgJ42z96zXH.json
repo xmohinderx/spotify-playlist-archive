@@ -1,13 +1,33 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
-  "num_followers": 31194,
+  "num_followers": 31211,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MjMyMCw3MjdjOGFlODQwZGYzNzQxZjhlMDVhOTBlZWVhYjM5MGZjOGU1ZmJj",
+  "snapshot_id": "MjMyNyw5NTQ4M2Q0MzE2NWQ2NTE0MDg0YjgxNTZjZjk4YzllZDQ3MjcxODg4",
   "tracks": [
+    {
+      "added_at": "2022-07-08 05:02:13",
+      "album": {
+        "name": "Sway My Way (with Amy Shark)",
+        "url": "https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Sway My Way (with Amy Shark)",
+      "url": "https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey"
+    },
     {
       "added_at": "2022-07-08 05:02:13",
       "album": {
@@ -31,34 +51,22 @@
     {
       "added_at": "2022-07-08 05:02:13",
       "album": {
-        "name": "Drifted",
-        "url": "https://open.spotify.com/album/4AjR5OX2tuujj8KIBeNJuw"
+        "name": "Where Did You Go?",
+        "url": "https://open.spotify.com/album/10tU00gHCNHETG5QFxeeHv"
       },
       "artists": [
         {
-          "name": "Happiness is Wealth",
-          "url": "https://open.spotify.com/artist/1AebRqBS8ifo5gAF6z8poy"
-        }
-      ],
-      "duration_ms": 218683,
-      "name": "Drifted",
-      "url": "https://open.spotify.com/track/7IXpJCo6Tvizl4AY5lz1mc"
-    },
-    {
-      "added_at": "2022-07-08 05:02:13",
-      "album": {
-        "name": "Control Dem",
-        "url": "https://open.spotify.com/album/34pOYo2McKDiygDZgHoo6s"
-      },
-      "artists": [
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
         {
-          "name": "Club Angel",
-          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 229167,
-      "name": "Control Dem",
-      "url": "https://open.spotify.com/track/7CJj238MecPG1II1UgO1OJ"
+      "duration_ms": 177689,
+      "name": "Where Did You Go?",
+      "url": "https://open.spotify.com/track/22GCuIGPCDEh8izFovMD7N"
     },
     {
       "added_at": "2022-07-08 05:02:13",
@@ -75,26 +83,6 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2022-07-08 05:02:13",
-      "album": {
-        "name": "pogo",
-        "url": "https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "pogo",
-      "url": "https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f"
     },
     {
       "added_at": "2022-07-08 05:02:13",
@@ -123,22 +111,18 @@
     {
       "added_at": "2022-07-08 05:02:13",
       "album": {
-        "name": "Sway My Way (with Amy Shark)",
-        "url": "https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe"
+        "name": "Drifted",
+        "url": "https://open.spotify.com/album/4AjR5OX2tuujj8KIBeNJuw"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Happiness is Wealth",
+          "url": "https://open.spotify.com/artist/1AebRqBS8ifo5gAF6z8poy"
         }
       ],
-      "duration_ms": 136842,
-      "name": "Sway My Way (with Amy Shark)",
-      "url": "https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey"
+      "duration_ms": 218683,
+      "name": "Drifted",
+      "url": "https://open.spotify.com/track/7IXpJCo6Tvizl4AY5lz1mc"
     },
     {
       "added_at": "2022-07-08 05:02:13",
@@ -159,6 +143,42 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "added_at": "2022-07-08 05:02:13",
+      "album": {
+        "name": "Control Dem",
+        "url": "https://open.spotify.com/album/34pOYo2McKDiygDZgHoo6s"
+      },
+      "artists": [
+        {
+          "name": "Club Angel",
+          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
+        }
+      ],
+      "duration_ms": 229167,
+      "name": "Control Dem",
+      "url": "https://open.spotify.com/track/7CJj238MecPG1II1UgO1OJ"
+    },
+    {
+      "added_at": "2022-07-08 05:02:13",
+      "album": {
+        "name": "pogo",
+        "url": "https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "pogo",
+      "url": "https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f"
     },
     {
       "added_at": "2022-07-08 05:02:13",
@@ -195,6 +215,22 @@
       "duration_ms": 111074,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
+    },
+    {
+      "added_at": "2022-07-12 23:15:42",
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/4GZnxEVMdliCIS4fKUcYWa"
+      },
+      "artists": [
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/4dM5RiuTAMqpxMXUymNvom"
     },
     {
       "added_at": "2022-07-08 05:02:13",
@@ -899,26 +935,6 @@
     {
       "added_at": "2022-07-08 05:02:13",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
-    },
-    {
-      "added_at": "2022-07-08 05:02:13",
-      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
       },
@@ -935,26 +951,6 @@
       "duration_ms": 213435,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
-    },
-    {
-      "added_at": "2022-07-08 05:02:13",
-      "album": {
-        "name": "Where Did You Go?",
-        "url": "https://open.spotify.com/album/10tU00gHCNHETG5QFxeeHv"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go?",
-      "url": "https://open.spotify.com/track/22GCuIGPCDEh8izFovMD7N"
     },
     {
       "added_at": "2022-07-08 05:02:13",

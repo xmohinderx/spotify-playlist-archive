@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-84 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+86 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Double Lucifer](https://open.spotify.com/track/07GpYVF5N8XcX6rVO1oKD3) | [TVAM](https://open.spotify.com/artist/7aKv42QgcrCLQg37J4CkTM) | [Double Lucifer](https://open.spotify.com/album/2fligHhCBdYefRBXkvqjsK) | 3:34 | 2022-07-06 |  |
 | [Down \- Sworn Virgins Remix \- Edit](https://open.spotify.com/track/51TCXUklE2Ng2uJFHfBhHQ) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Sworn Virgins](https://open.spotify.com/artist/5xA3zslV2KbUIZR5QsuNgw) | [Down \(Remixes\)](https://open.spotify.com/album/3KXygHEZInk8tR7tGDUTh5) | 3:52 | 2022-06-20 |  |
 | [Effe](https://open.spotify.com/track/7pfBNYKSPD54GeKveA7XyS) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Kumoyo Island](https://open.spotify.com/album/4GaP8n1AGGUMUxhFkHIEsC) | 3:22 | 2022-06-08 | 2022-06-17 |
+| [Eleanor \- Edit](https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Eleanor](https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx) | 3:53 | 2022-07-12 |  |
 | [Elevation](https://open.spotify.com/track/0vTkJkiYQriLDzdmSt0zHr) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Elevation](https://open.spotify.com/album/5JREjQEjOHhHEreuSIGSud) | 3:34 | 2022-06-08 | 2022-06-30 |
 | [Exit Music](https://open.spotify.com/track/3WHGUZGrJiTzi6CTZxH7Dr) | [Martin Courtney](https://open.spotify.com/artist/4JuWruv1jBeWne0sJTUH3k) | [Magic Sign](https://open.spotify.com/album/3Zse3fkovui5xhEx1SQ7qQ) | 2:52 | 2022-06-29 |  |
 | [Feel Another Day](https://open.spotify.com/track/3QeDBrfHSMvJFKQd6ALYM2) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Feel Another Day](https://open.spotify.com/album/7HxBXjkzwT4hhb8THINZXA) | 4:01 | 2022-06-08 | 2022-06-23 |
@@ -53,6 +54,7 @@
 | [It's in Your Heart Now](https://open.spotify.com/track/5X1yiohWRv7RfGzjKz8XyN) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 6:55 | 2022-06-29 |  |
 | [Ivory](https://open.spotify.com/track/01lA7LzLNOtMugU03L6yiS) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Ivory](https://open.spotify.com/album/1v30M9fQVZntSi3Gz0eSUs) | 3:51 | 2022-06-08 | 2022-06-23 |
 | [Lay Down Your Roses](https://open.spotify.com/track/62TP94nFhtUIkXu2lhMKXM) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Two Beauties](https://open.spotify.com/album/6cTVO4cyNK7bFGFh2ivUHQ) | 3:05 | 2022-06-08 | 2022-06-23 |
+| [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 | 2022-07-12 |  |
 | [Lights \- A\. G\. Cook Remix](https://open.spotify.com/track/5lZjuVUB34aCKhhdZLA9C2) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Lights \(A\. G\. Cook Remix\)](https://open.spotify.com/album/0EQRviEK9W0ctBjGw5Li3S) | 2:41 | 2022-06-29 |  |
 | [Look at it in the Light](https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:46 | 2022-06-08 | 2022-06-17 |
 | [Macca The Mutt](https://open.spotify.com/track/2kpi8kAf9mrQwLKmdCxJ45) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Macca The Mutt](https://open.spotify.com/album/4f7VB6WcKvRfxepC6FgirJ) | 4:01 | 2022-06-16 |  |

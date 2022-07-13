@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,501 likes - 47 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,503 likes - 48 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 44 | [All I Want](https://open.spotify.com/track/0mDzUWzBdFU2qiALsa2JpM) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:20 |
 | 45 | [I'm a Woman Here](https://open.spotify.com/track/40nu0olcAY5Mkp7MIu6Mq9) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target](https://open.spotify.com/album/4zZWFsydY5jgzszx3HeYSq) | 4:13 |
 | 46 | [The More I Get To Know You](https://open.spotify.com/track/69VxpJEzI5FQnsMi9oKx4Y) | [Richard Anthony Davis](https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL), [Emmanuel](https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o), [Chris Ballin](https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W), [Dean Edwards](https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh), [Anthony Drakes](https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza), [Julianne](https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR), [The Sound Principle](https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw) | [Soul Central, Vol\. 1](https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya) | 4:31 |
-| 47 | [Coming Back](https://open.spotify.com/track/1w9yxpOLfpa5FKDgopj1p0) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:16 |
+| 47 | [My Own Special Way](https://open.spotify.com/track/1tg9bmIvnUnxyFSI1f1q05) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Soul On Fire \(The Detroit Soul Story 1957\-1977\)](https://open.spotify.com/album/0DouGS8KhNCjbs3wrjcrCT) | 3:08 |
+| 48 | [Coming Back](https://open.spotify.com/track/1w9yxpOLfpa5FKDgopj1p0) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:16 |
 
-Snapshot ID: `Mjc2MjU3NzAsMDAwMDAwMDA2MmUzNWQ5N2RmZGFkZTcwYzlmZjlmMmZmY2M0YTQwYw==`
+Snapshot ID: `Mjc2Mjc0NTUsMDAwMDAwMDA4Y2ZmZDY5MDc1OTM0ZDM3ZTUyYjdiMDkwNDdmYWZmYw==`

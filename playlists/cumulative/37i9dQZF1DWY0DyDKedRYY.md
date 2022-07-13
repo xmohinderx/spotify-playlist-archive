@@ -2,9 +2,9 @@
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> John Summit is our new RADAR Artist to Watch.
+> Montell Fish is our new RADAR Artist to Watch.
 
-229 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+230 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [LIVE FAST DIE SLOW \(feat\. Travis Barker\)](https://open.spotify.com/track/2IwvEYzqEhwfDBQe1d3R5Y) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [LIVE FAST DIE SLOW \(feat\. Travis Barker\)](https://open.spotify.com/album/37JxCFDZ2HZG3f7dRjzARQ) | 2:17 | 2022-06-14 |  |
 | [LLC \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blockchain](https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY) | 3:15 | 2021-12-01 | 2022-04-09 |
 | [Love Me Till U Hate Me](https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Love Me Till U Hate Me](https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB) | 3:32 | 2022-05-17 | 2022-06-15 |
+| [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 | 2022-07-12 |  |
 | [Lullaby](https://open.spotify.com/track/1J2Lndxqp2Xlp6OShqaZpH) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:42 | 2022-05-17 | 2022-06-15 |
 | [LUV](https://open.spotify.com/track/6YTVspd6HFgR7B2veOvMhT) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:04 | 2022-04-08 | 2022-05-18 |
 | [Luz Verde](https://open.spotify.com/track/1FsnkZCLrzsVwmRZqNHtFK) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Luz Verde](https://open.spotify.com/album/0jflkLEdl3VBUl1zxIzAul) | 2:23 | 2022-04-08 | 2022-05-18 |

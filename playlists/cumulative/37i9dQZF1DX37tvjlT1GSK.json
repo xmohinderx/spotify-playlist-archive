@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Virl\u00e1n Garc\u00eda en portada. ",
+  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Grupo Firme y Luis Mexia en portada. ",
   "name": "Sierre\u00f1o 2022",
   "published_playlist_ids": [
     "2ALAGcMDhkZpzbgbQ32l2h"
@@ -269,6 +269,28 @@
       "duration_ms": 130669,
       "name": "Cajas De Parke",
       "url": "https://open.spotify.com/track/2yIKNAZ0eXxTx3r3Emfmdk"
+    },
+    {
+      "album": {
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "album": {
@@ -765,7 +787,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Entre Las Estrellas",
       "url": "https://open.spotify.com/track/6PHm7h7jrkSAJrdIW93QT8"
@@ -913,7 +935,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 178857,
       "name": "Fuera De Servicio",
       "url": "https://open.spotify.com/track/2252ukIJHzlAv9VuJLjY53"
@@ -949,7 +971,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 169940,
       "name": "Hoy A Festejar",
       "url": "https://open.spotify.com/track/0mCsvOQbv1ikYEMpITNSeB"
@@ -967,7 +989,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 268951,
       "name": "Hoy toca y Ando Bien Pedo",
       "url": "https://open.spotify.com/track/0LrrEt7WBu4Xo5HmStgA6b"
@@ -1172,6 +1194,28 @@
     },
     {
       "album": {
+        "name": "Maldito Olvido",
+        "url": "https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS"
+      },
+      "artists": [
+        {
+          "name": "Diamante Perez",
+          "url": "https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF"
+        },
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/5HOOxSdjMwgdg5jKIzHAU9"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214804,
+      "name": "Maldito Olvido",
+      "url": "https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB"
+    },
+    {
+      "album": {
         "name": "Marcando La Diferencia",
         "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
       },
@@ -1237,7 +1281,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 193870,
       "name": "Mi Morenita",
       "url": "https://open.spotify.com/track/1ZvVinhAqHiK8YdjXu1Cnr"
@@ -1411,7 +1455,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 206000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj"

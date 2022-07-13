@@ -10284,6 +10284,24 @@
     },
     {
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/5RoKVcnsYZKjHMnK9TzsEL"
+      },
+      "artists": [
+        {
+          "name": "Roshi Ryu",
+          "url": "https://open.spotify.com/artist/6iq3PVBOY7wJGcpvAC0rxW"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139561,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/2vL8pK1by1bWBzsqEv5Tw6"
+    },
+    {
+      "album": {
         "name": "Clementine",
         "url": "https://open.spotify.com/album/4bNYz34i2RM9VRcQjPwQ8v"
       },
@@ -12259,7 +12277,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 143132,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t"
@@ -12281,7 +12299,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 143132,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/7oBjP02qAHgXYvFCVH9VIs"
@@ -21189,6 +21207,24 @@
       "duration_ms": 146000,
       "name": "Gl\u00fchen",
       "url": "https://open.spotify.com/track/1aI4TPwtXiXGm4rCvZ7C28"
+    },
+    {
+      "album": {
+        "name": "gm baby",
+        "url": "https://open.spotify.com/album/3mYP9U7ew0gMDuehApbTDK"
+      },
+      "artists": [
+        {
+          "name": "wallyPDF",
+          "url": "https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "gm baby",
+      "url": "https://open.spotify.com/track/1HwtLXqKnJvKYrVRcXbdsl"
     },
     {
       "album": {

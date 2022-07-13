@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > belive the hype Cover: Alice Longyu Gao & Oli Sykes
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,437 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,677 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 32 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 |
 | 33 | [dopamine](https://open.spotify.com/track/5C3uNuSKnkDwV2xUqFIiZp) | [dwilly](https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84) | [dopamine](https://open.spotify.com/album/7zAwmUBWwTIuRfzjcSj07T) | 2:20 |
 | 34 | [selective altruism](https://open.spotify.com/track/5t1L2Es0faTlZsAkfLTHVA) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [selective altruism](https://open.spotify.com/album/794UU4K5mVMCdraXNCSnvB) | 3:23 |
-| 35 | [masquerade \- BabySantana Remix](https://open.spotify.com/track/6U7aXej66xOtncZRzfKnFS) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr), [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [masquerade \(BabySantana Remix\)](https://open.spotify.com/album/4paXOAztOfbIz9Fwe1khee) | 2:12 |
+| 35 | [masquerade \- BabySantana Remix](https://open.spotify.com/track/6U7aXej66xOtncZRzfKnFS) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [masquerade \(BabySantana Remix\)](https://open.spotify.com/album/4paXOAztOfbIz9Fwe1khee) | 2:12 |
 | 36 | [sun](https://open.spotify.com/track/637eyFmoqPHMSuDk7mRYSa) | [Braden Ross](https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic) | [sun](https://open.spotify.com/album/38VnIqFWfQYKsTsjA6TEpZ) | 2:10 |
 | 37 | [sellout](https://open.spotify.com/track/082x0jRDbx8Zsme0enu32B) | [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf), [soupandreas](https://open.spotify.com/artist/5dPMuKQtWLLl1Thw1Bf8h9) | [sellout](https://open.spotify.com/album/4NXkykEZ2yDsCqgr1kAc9O) | 2:25 |
 | 38 | [i wanna slam my head against the wall](https://open.spotify.com/track/6mEMH5rbZ20ffSf4U9Ff37) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 1:56 |

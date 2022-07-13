@@ -3026,6 +3026,24 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3qsTUk003MZlWQ6zrRI8pO"
+      },
+      "artists": [
+        {
+          "name": "Erik Frank",
+          "url": "https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136441,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1xA3vbqRFEev7fL71zrpxf"
+    },
+    {
+      "album": {
         "name": "Better Distractions",
         "url": "https://open.spotify.com/album/1JskWQrQLVLDi6jpT7Nqcd"
       },

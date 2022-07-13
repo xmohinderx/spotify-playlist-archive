@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vikrant Rona",
-  "num_followers": 33640,
+  "num_followers": 33730,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU0MTE5OCwwMDAwMDFhNDAwMDAwMTgxZWQyNzgzY2UwMDAwMDE4MTEzMjM5YWY1",
+  "snapshot_id": "MTY1NzYzMTM4NiwwMDAwMDFhOTAwMDAwMTgxZjI4N2FhM2UwMDAwMDE4MTEzMjM5YWY1",
   "tracks": [
     {
       "added_at": "2022-05-24 03:49:40",
@@ -85,6 +85,34 @@
       "url": "https://open.spotify.com/track/58H1xLatriC2xieOvwWqnN"
     },
     {
+      "added_at": "2022-07-12 13:09:08",
+      "album": {
+        "name": "Hey Fakira (From \"Vikrant Rona\")",
+        "url": "https://open.spotify.com/album/64YmpCXj6doaZa7EW15zPZ"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Anup Bhandari",
+          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
+        }
+      ],
+      "duration_ms": 172206,
+      "name": "Hey Fakira (From \"Vikrant Rona\")",
+      "url": "https://open.spotify.com/track/71HXynGmLcg9br5GfS2Z8V"
+    },
+    {
       "added_at": "2022-07-04 06:47:15",
       "album": {
         "name": "Gaalipata 2",
@@ -119,6 +147,26 @@
       "duration_ms": 221000,
       "name": "Honey Bunny - From \"Trivikrama\"",
       "url": "https://open.spotify.com/track/68Ij3M9Ux9H2n5AXEDGPyj"
+    },
+    {
+      "added_at": "2022-07-12 13:09:46",
+      "album": {
+        "name": "Yathiri [From \"Gargi (Kannada)\"]",
+        "url": "https://open.spotify.com/album/60248ARkKJp39YtauhQIiW"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "duration_ms": 148061,
+      "name": "Yathiri (From \"Gargi (Kannada)\")",
+      "url": "https://open.spotify.com/track/6OMIAYTUGLOGtrRBDVo6Uc"
     },
     {
       "added_at": "2022-06-06 06:13:02",

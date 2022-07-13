@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,088 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,097 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 49 | [Lo Callaré](https://open.spotify.com/track/4aPwWL3NT874DRWqnsGP41) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mil Pedazos](https://open.spotify.com/album/4IsDmg2ktDjg3JemUKs14H) | 3:06 |
 | 50 | [De Nada Sirvió](https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:58 |
 
-Snapshot ID: `Mjc2MjU3NzAsMDAwMDAwMDAxNGJhZGI0MDI0YWRhYTg2NjMxZDRmYmIzOWE4MzY5Mg==`
+Snapshot ID: `Mjc2Mjc0NTUsMDAwMDAwMDBkZDc5NGM5NTFmZDQzODU4NDgzMjUzMmI5MzQ5YmQxMg==`

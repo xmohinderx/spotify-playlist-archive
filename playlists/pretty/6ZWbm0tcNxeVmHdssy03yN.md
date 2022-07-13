@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,498 likes - 100 songs - 5 hr 21 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,511 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 22 | [Fire](https://open.spotify.com/track/6Anl1oAweuy4lzamfOqlZ7) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy), [Kid AlpHa](https://open.spotify.com/artist/7GtACCFcngLtXQ7Po2xpmd) | [Fire](https://open.spotify.com/album/206wCPzugF0PnTNgSwEVZO) | 3:42 |
 | 23 | [Frozen](https://open.spotify.com/track/0gdXKfy7JOfvewWPBPWKgb) | [Robinho](https://open.spotify.com/artist/6dbTlAJDUXi8tD7glffoNb), [Mole](https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN), [Fulo El Yeyo](https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh) | [Frozen](https://open.spotify.com/album/6eyeEMBqxYIhDCrdgVOUML) | 2:53 |
 | 24 | [El Desmadre](https://open.spotify.com/track/6fA5Rw9rhO8OuvO2g6fWxs) | [io mx](https://open.spotify.com/artist/49bp6NXeeo2Lpmtwylk33a), [San](https://open.spotify.com/artist/4RT5IA547Brs5MXAWsT8bI) | [El Desmadre](https://open.spotify.com/album/59kvNqTG1ofeJTVYDckqTI) | 2:59 |
-| 25 | [Ven Acá](https://open.spotify.com/track/487yDeqBTz50ayISULgiEY) | [Jane](https://open.spotify.com/artist/70rfG9eTU6YWr07DBd5HIi) | [Ven Acá](https://open.spotify.com/album/0yShx3Y0Ra2fDCIgA3bYa7) | 2:31 |
+| 25 | [Ven Acá](https://open.spotify.com/track/487yDeqBTz50ayISULgiEY) | [Jane](https://open.spotify.com/artist/64e6mU51D8XU4V7KZxJ5m0) | [Ven Acá](https://open.spotify.com/album/0yShx3Y0Ra2fDCIgA3bYa7) | 2:31 |
 | 26 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
 | 27 | [Bitter Than Sweet](https://open.spotify.com/track/3V4zDb4DonsHySjOcwahBb) | [Lilli Queenb](https://open.spotify.com/artist/1fBBk0Qzy3fBnbt1R21nk3) | [Bitter Than Sweet](https://open.spotify.com/album/5GNS3s7mpg2TZY0pmdzl9s) | 4:11 |
 | 28 | [Whole Me](https://open.spotify.com/track/7g4bLcbxgzVlvenC1xbhlU) | [vōx](https://open.spotify.com/artist/4epdWRtuY7tFHyV7mIW7pE) | [Whole Me](https://open.spotify.com/album/0BPgSP8a1XU6Q9wVqpeA1w) | 3:27 |

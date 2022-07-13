@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,656 likes - 37 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,663 likes - 37 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 36 | [Iced Cooly](https://open.spotify.com/track/2puMrk8At4ws8Yo92320F7) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 2:22 |
 | 37 | [New Seeds](https://open.spotify.com/track/6s9nkWHybQAM2PMsp1MlOh) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 5:39 |
 
-Snapshot ID: `Mjc2MjU3NzAsMDAwMDAwMDBiYzAxNDI1NjkyNTMzMTUyNWZmMzU1ZDkzNDEzOTM5Yw==`
+Snapshot ID: `Mjc2Mjc0NTUsMDAwMDAwMDBjNzQ2ZDAzMGUzMDY1NGRhNGZiNGI0Yjg1OTkyMjM0ZQ==`

@@ -2770,6 +2770,24 @@
     },
     {
       "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh"
+      },
+      "artists": [
+        {
+          "name": "PLEEG",
+          "url": "https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175636,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B"
+    },
+    {
+      "album": {
         "name": "Station 2",
         "url": "https://open.spotify.com/album/4FjGUXNhRKcZl7ZoWUD24R"
       },

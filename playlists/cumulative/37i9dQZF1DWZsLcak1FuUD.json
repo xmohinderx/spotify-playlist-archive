@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 211040,
       "name": "Amor de Primavera",
       "url": "https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 184426,
       "name": "Completamente Nervioso - Remastered Version",
       "url": "https://open.spotify.com/track/3JO0HoztZFs5N3R8LZ9Agp"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 603400,
       "name": "Los Delirios del Mariscal",
       "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 172733,
       "name": "Ma\u00f1ana por la Noche",
       "url": "https://open.spotify.com/track/6gWplVwr7ta6vpp2DSCo96"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 230146,
       "name": "No Pibe",
       "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
@@ -1013,6 +1013,24 @@
       "duration_ms": 130080,
       "name": "Todas las Hojas Son del Viento",
       "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
+    },
+    {
+      "album": {
+        "name": "Crucis",
+        "url": "https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng"
+      },
+      "artists": [
+        {
+          "name": "Crucis",
+          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
+        }
+      ],
+      "date_added": "2020-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246960,
+      "name": "Todo Tiempo Posible",
+      "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
     },
     {
       "album": {

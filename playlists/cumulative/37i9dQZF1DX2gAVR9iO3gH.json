@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 169465,
       "name": "Dile",
       "url": "https://open.spotify.com/track/3GBFnb6hEgUD5zy3zfOSlf"
@@ -445,6 +445,32 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "album": {
+        "name": "D\u00edmelo",
+        "url": "https://open.spotify.com/album/59chl7fGmsBjN3KbUNg2JB"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        },
+        {
+          "name": "marcos g",
+          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
+        },
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162435,
+      "name": "D\u00edmelo",
+      "url": "https://open.spotify.com/track/0L2FkH5RUaRlkBajIhRpwK"
     },
     {
       "album": {
@@ -1173,7 +1199,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 207580,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4A0U6CTmhJYYvoZcTAIDli"
@@ -1217,7 +1243,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 214000,
       "name": "Millonario (Remix) [feat. Ozuna]",
       "url": "https://open.spotify.com/track/1KwMVzMArDnM5m2LNuzXAO"
@@ -1729,7 +1755,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 337841,
       "name": "Si Es Trucho Es Trucho",
       "url": "https://open.spotify.com/track/5FKWq8ppC9KeXZGwYTqsxS"
@@ -1915,7 +1941,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 148847,
       "name": "Tu Weekend",
       "url": "https://open.spotify.com/track/2cvXq5nN4hoUxIwIsnd9tv"
@@ -1941,7 +1967,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 205226,
       "name": "TULUM",
       "url": "https://open.spotify.com/track/5BDNqOGnjbbWcZRxexGV5r"

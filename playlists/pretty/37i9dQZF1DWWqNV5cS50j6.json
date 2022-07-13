@@ -1,29 +1,13 @@
 {
   "description": "Indie music antimatter. Cover: Groupthink",
-  "num_followers": 651293,
+  "num_followers": 651481,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU2OTgyNSwwMDAwMzQ2NzAwMDAwMTgxZWVkYzUzMTEwMDAwMDE4MThjZDM0OGYx",
+  "snapshot_id": "MTY1NzY0MjYxOSwwMDAwMzQ2ODAwMDAwMTgxZjMzMzExM2YwMDAwMDE4MThjZDM0OGYx",
   "tracks": [
-    {
-      "added_at": "2022-07-11 20:03:45",
-      "album": {
-        "name": "play pretend",
-        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
-      },
-      "artists": [
-        {
-          "name": "Cybertrash",
-          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
-        }
-      ],
-      "duration_ms": 117774,
-      "name": "play pretend",
-      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
-    },
     {
       "added_at": "2022-07-08 06:52:00",
       "album": {
@@ -125,6 +109,22 @@
       "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
     },
     {
+      "added_at": "2022-07-11 20:03:45",
+      "album": {
+        "name": "play pretend",
+        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        }
+      ],
+      "duration_ms": 117774,
+      "name": "play pretend",
+      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+    },
+    {
       "added_at": "2022-06-30 04:28:30",
       "album": {
         "name": "Cracker Island (feat. Thundercat)",
@@ -193,6 +193,30 @@
       "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
     },
     {
+      "added_at": "2022-07-01 07:31:00",
+      "album": {
+        "name": "It\u2019s Raining",
+        "url": "https://open.spotify.com/album/2Pk7fxkQyEAlQTQJxkWQ0V"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        },
+        {
+          "name": "Stephen Malkmus",
+          "url": "https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8"
+        },
+        {
+          "name": "Dylan Cartlidge",
+          "url": "https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z"
+        }
+      ],
+      "duration_ms": 192528,
+      "name": "It's Raining",
+      "url": "https://open.spotify.com/track/4B1ytqZbISBTSvTnZ0BxgD"
+    },
+    {
       "added_at": "2022-06-30 04:28:30",
       "album": {
         "name": "Forever",
@@ -259,30 +283,6 @@
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"
-    },
-    {
-      "added_at": "2022-07-01 07:31:00",
-      "album": {
-        "name": "It\u2019s Raining",
-        "url": "https://open.spotify.com/album/2Pk7fxkQyEAlQTQJxkWQ0V"
-      },
-      "artists": [
-        {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
-        },
-        {
-          "name": "Stephen Malkmus",
-          "url": "https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8"
-        },
-        {
-          "name": "Dylan Cartlidge",
-          "url": "https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z"
-        }
-      ],
-      "duration_ms": 192528,
-      "name": "It's Raining",
-      "url": "https://open.spotify.com/track/4B1ytqZbISBTSvTnZ0BxgD"
     },
     {
       "added_at": "2022-06-30 04:28:30",

@@ -11030,6 +11030,24 @@
     },
     {
       "album": {
+        "name": "When It Rains It Pours",
+        "url": "https://open.spotify.com/album/2wNdSPuphHn8QepF515wWV"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253236,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/6zQD47A7AYIz2iJJbpXDna"
+    },
+    {
+      "album": {
         "name": "when the lights go out",
         "url": "https://open.spotify.com/album/0H3Pt1vUisleTDw1gdkloN"
       },

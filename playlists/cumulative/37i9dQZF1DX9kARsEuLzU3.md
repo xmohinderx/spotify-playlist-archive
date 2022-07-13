@@ -4,7 +4,7 @@
 
 > Your queens are here Pink Panda!
 
-131 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/1onWEIUsTX0j63OpOE7Wos)
+134 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/1onWEIUsTX0j63OpOE7Wos)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Catch Me](https://open.spotify.com/track/6KvRD1du0VNenlHYaqXFL4) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Revolution](https://open.spotify.com/album/3YCECnHjS10KqHYeyEIVm6) | 3:42 | 2022-04-20 |  |
 | [Cause You're My Star](https://open.spotify.com/track/1432L5PElRfi7h1jM8Qinh) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Dear](https://open.spotify.com/album/6ZRDq9uKXQ9G0DmYfmSIjF) | 3:11 | 2022-04-20 |  |
 | [Cliche](https://open.spotify.com/track/1vUvWnuFJZPfawqPRgLNAB) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Dear](https://open.spotify.com/album/6ZRDq9uKXQ9G0DmYfmSIjF) | 3:44 | 2022-04-20 |  |
+| [Copycat](https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 3:24 | 2022-07-12 |  |
 | [Crystal](https://open.spotify.com/track/5y8bNJHT7KgeMom5Bh7pqr) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV + Blossom](https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb) | 3:24 | 2022-04-20 |  |
 | [Dejavu](https://open.spotify.com/track/0NfxxxU2tlcVCEDg1QsCXF) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink MEMORY](https://open.spotify.com/album/6ZfzXTFAbDdGfPpxrhLbr0) | 3:41 | 2022-04-20 |  |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-04-20 |  |
@@ -43,6 +44,7 @@
 | [Everybody Ready?](https://open.spotify.com/track/2hYMa6sJUlxSxabnx0fhoA) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Look](https://open.spotify.com/album/0mWs7UThGJG413FaTzPq9Y) | 3:21 | 2022-04-20 |  |
 | [Eyes](https://open.spotify.com/track/5NOHRK6feufxpTVxBCXAhE) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Up](https://open.spotify.com/album/2p4xK1mKnoZnPwtHUljelp) | 3:56 | 2022-04-20 |  |
 | [Fairy](https://open.spotify.com/track/6gbF2iprEWSzeew8HbFGEM) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Revolution](https://open.spotify.com/album/3YCECnHjS10KqHYeyEIVm6) | 4:11 | 2022-04-20 |  |
+| [Feel Something](https://open.spotify.com/track/3vNDzkMXWpW5SbM5y4fU7f) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 2:25 | 2022-07-12 |  |
 | [First Farewell](https://open.spotify.com/track/5RZtRudxchBXLcGtcKprNm) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [The Space](https://open.spotify.com/album/0h0LqI48dvBmdVGf5YNrwO) | 4:04 | 2022-04-20 |  |
 | [First Love](https://open.spotify.com/track/6r7gfAR7DWDX8ZqdqteUsD) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [The Space](https://open.spotify.com/album/0h0LqI48dvBmdVGf5YNrwO) | 3:37 | 2022-04-20 |  |
 | [FIVE](https://open.spotify.com/track/2x1d6tYlsTn9fydVzxXLY9) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Up](https://open.spotify.com/album/2p4xK1mKnoZnPwtHUljelp) | 3:12 | 2022-04-20 |  |
@@ -98,6 +100,7 @@
 | [Oh Yes](https://open.spotify.com/track/6YXA3DQuSE1aKAMvbSKFiz) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Revolution](https://open.spotify.com/album/3YCECnHjS10KqHYeyEIVm6) | 3:23 | 2022-04-20 |  |
 | [Once Upon A Time](https://open.spotify.com/track/76uX83SqP4XKQRhRF1GiIZ) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV + Blossom](https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb) | 3:52 | 2022-04-20 |  |
 | [Only One](https://open.spotify.com/track/5z8ZiuCCnxMbg7q74sz4zD) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Revolution](https://open.spotify.com/album/3YCECnHjS10KqHYeyEIVm6) | 3:12 | 2022-04-20 |  |
+| [Oscar](https://open.spotify.com/track/3T2UJrr9utfnb9OvNdIBlX) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 3:08 | 2022-07-12 |  |
 | [Overwrite](https://open.spotify.com/track/3WJgpLdDFnr7UVhh5nJwu1) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Look](https://open.spotify.com/album/0mWs7UThGJG413FaTzPq9Y) | 3:16 | 2022-04-20 |  |
 | [Perfume](https://open.spotify.com/track/1QdyUCfsjIttjoLsH9kFP5) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink MEMORY](https://open.spotify.com/album/6ZfzXTFAbDdGfPpxrhLbr0) | 3:03 | 2022-04-20 |  |
 | [Petal](https://open.spotify.com/track/4qIrfNMOKUn8ZJ1OvkEXxE) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink MEMORY](https://open.spotify.com/album/6ZfzXTFAbDdGfPpxrhLbr0) | 3:34 | 2022-04-20 |  |

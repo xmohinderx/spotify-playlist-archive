@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-431 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
+432 songs - 22 hr 25 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Run It Up](https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Run It Up](https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq) | 2:58 | 2021-06-11 | 2021-08-06 |
 | [Runaway](https://open.spotify.com/track/2oq76PlLCeqz3LWobv30JV) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Güs](https://open.spotify.com/artist/6QnViSF0a4uEhFwAnV2a4u) | [Runaway](https://open.spotify.com/album/0jYCQGco8C7ajzdOoQHzXw) | 3:24 | 2021-09-18 | 2021-10-26 |
 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 | 2021-09-11 | 2021-10-08 |
+| [Running Up That Hill](https://open.spotify.com/track/4dM5RiuTAMqpxMXUymNvom) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Running Up That Hill](https://open.spotify.com/album/4GZnxEVMdliCIS4fKUcYWa) | 2:38 | 2022-07-12 |  |
 | [Sacrificial](https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Sacrificial](https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS) | 3:02 | 2021-02-06 | 2021-02-26 |
 | [Safe With Me](https://open.spotify.com/track/7oJiVJr1OE6qbl2yiZprqy) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Safe With Me](https://open.spotify.com/album/4MALxUIxWon0CFwPaNguuN) | 2:29 | 2021-07-24 | 2021-08-14 |
 | [Santorini](https://open.spotify.com/track/3H8pwANqC5agV4KtNkUwCX) | [Mark Maxwell](https://open.spotify.com/artist/1yOjThq2IWrVGP3a2i0Ug7), [Asta](https://open.spotify.com/artist/3cmUhYaAl8ZVz3coS1T3VC) | [Santorini](https://open.spotify.com/album/7DmZkSZeAIqWrI9gWmukTF) | 2:41 | 2022-03-06 | 2022-03-11 |
@@ -398,7 +399,7 @@
 | [Wait for Me \- Draze Remix](https://open.spotify.com/track/0gN2wiSY89c8I0UfWL7JWG) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [Draze](https://open.spotify.com/artist/64MGkui6smX2VENoeh6D3Q) | [Wait for Me \(Draze Remix\)](https://open.spotify.com/album/59Uc61PbOplBUTltZEZsRa) | 2:22 | 2021-07-24 | 2021-07-31 |
 | [Wasted in Miami](https://open.spotify.com/track/0LOmv5FWLpmpyXiar9kcWd) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC) | [Wasted in Miami](https://open.spotify.com/album/5HdrPennzIrLUK5liorptd) | 2:41 | 2021-07-10 | 2021-08-06 |
 | [Water Deep](https://open.spotify.com/track/6V3CPyl40bVxm45Ucq3Zvj) | [Jaxon Viaan](https://open.spotify.com/artist/1WkghEWbFrJRAVusuxCktp), [Ace Vision](https://open.spotify.com/artist/5UqAbPnqimZD1NdHzEuCjP) | [Water Deep](https://open.spotify.com/album/0Hnb0GIXphxVeMzNlqi5fI) | 2:23 | 2021-07-13 | 2021-07-23 |
-| [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 | 2022-05-11 |  |
+| [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 | 2022-05-11 | 2022-07-13 |
 | [Way Back Home](https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Way Back Home](https://open.spotify.com/album/0uzdr4Q8ftYWdrAeej6M5F) | 2:55 | 2021-09-04 | 2022-02-04 |
 | [Way Back Home \(feat\. Kyra Mastro\)](https://open.spotify.com/track/5ZdAikqsPUJaPs9Ioqhlqp) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Way Back Home \(feat\. Kyra Mastro\)](https://open.spotify.com/album/5WzpEhm6xOfn6e47lFtpr2) | 2:46 | 2021-09-11 | 2021-11-25 |
 | [We Are One](https://open.spotify.com/track/3J3XaMhpQvDfJjCE38ow9x) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [We Are One](https://open.spotify.com/album/3lF2W0TPmVTLdB0SqzB4wE) | 3:48 | 2021-09-04 | 2021-11-12 |

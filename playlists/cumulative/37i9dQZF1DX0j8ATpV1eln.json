@@ -414,6 +414,24 @@
     },
     {
       "album": {
+        "name": "AIMI SOUND",
+        "url": "https://open.spotify.com/album/7MdsF6SQF5LIkZK82DhaDr"
+      },
+      "artists": [
+        {
+          "name": "Aimi",
+          "url": "https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212786,
+      "name": "\u304b\u304b\u3063\u305f\u9b54\u6cd5\u306f\u30a2\u30de\u30ce\u30b8\u30e3\u30af",
+      "url": "https://open.spotify.com/track/2tSjz7fRrvwTfQWaElC1xX"
+    },
+    {
+      "album": {
         "name": "\u3051\u30fb\u3082\u30fb\u306e\u30fb\u3060\u30fb\u3082\u30fb\u306e",
         "url": "https://open.spotify.com/album/4KRip6V782opXQRRndSgUO"
       },

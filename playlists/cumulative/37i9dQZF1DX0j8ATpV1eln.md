@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-73 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/1ClXmwh1TCTMLqrrjuRVQf)
+74 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/1ClXmwh1TCTMLqrrjuRVQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [UNION](https://open.spotify.com/track/2Op7ZaXB0Kt5zDhetTL0ZQ) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [SSSS.GRIDMANオープニング主題歌「UNION」](https://open.spotify.com/album/3dHQ6Kdva0TkCfydkLKpoh) | 3:46 | 2022-04-26 |  |
 | [あしたてんきになあれ](https://open.spotify.com/track/2EeAmGk0Q9LzCZQvm8Xeoj) | [Daisy×Daisy](https://open.spotify.com/artist/5wYga8lT3TNapDC8ciqarN) | [Dangerous×Dizzy×Daisy](https://open.spotify.com/album/4uAfCBodhPiHjU4Sd6bNYS) | 4:51 | 2022-04-26 |  |
 | [おばけずかんのうた](https://open.spotify.com/track/1TgvXxbnXszwGROJiqODZO) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [おばけずかんのうた](https://open.spotify.com/album/6lCRhA93rO04PNEXL6W9AN) | 3:13 | 2022-04-26 |  |
+| [かかった魔法はアマノジャク](https://open.spotify.com/track/2tSjz7fRrvwTfQWaElC1xX) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/7MdsF6SQF5LIkZK82DhaDr) | 3:32 | 2022-07-12 |  |
 | [け・も・の・だ・も・の](https://open.spotify.com/track/67q8caFftg7kStkERSsA91) | [Doubutsu Biscuits](https://open.spotify.com/artist/5S7SMGimbPWuPh2F0urDgE), [PPP](https://open.spotify.com/artist/2V17fC0iAXQ2MpOw4DPvBV) | [け・も・の・だ・も・の](https://open.spotify.com/album/4KRip6V782opXQRRndSgUO) | 3:23 | 2022-04-26 |  |
 | [さらばピニャコラーダ](https://open.spotify.com/track/6JJBDRvPAOmYehgUcB5CD9) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/2Cl3zwN0Bfzgzw1662zIXa) | 4:42 | 2022-04-26 |  |
 | [たとえ世界がそっぽ向いても](https://open.spotify.com/track/20O53DvXxXQomJGXqFicLG) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:27 | 2022-04-26 |  |

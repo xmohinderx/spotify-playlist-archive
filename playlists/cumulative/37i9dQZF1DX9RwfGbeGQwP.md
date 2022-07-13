@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-563 songs - 21 hr 35 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+564 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [City Life](https://open.spotify.com/track/2lxoLBUuzGVUw5VaTruvsr) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [City Life](https://open.spotify.com/album/3GItByWt7ziJPizeFQr51l) | 1:53 | 2022-01-27 | 2022-06-10 |
 | [City Lights](https://open.spotify.com/track/4YA6ev6o8aUv8oGVSlHaLY) | [Drive](https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1) | [City Lights](https://open.spotify.com/album/6FcBduPSJSOV25xOkgW3lS) | 2:16 | 2022-07-01 |  |
 | [City Lights Spell Your Name](https://open.spotify.com/track/7dsWVHW3noaS5KtlMmBwqQ) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [City Lights Spell Your Name](https://open.spotify.com/album/6FTZzaYfhOJV0sjLFBlv0R) | 3:30 | 2022-01-27 |  |
+| [Clarity](https://open.spotify.com/track/2vL8pK1by1bWBzsqEv5Tw6) | [Roshi Ryu](https://open.spotify.com/artist/6iq3PVBOY7wJGcpvAC0rxW) | [Clarity](https://open.spotify.com/album/5RoKVcnsYZKjHMnK9TzsEL) | 2:19 | 2022-07-12 |  |
 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 | 2022-01-27 |  |
 | [Cliffjumper](https://open.spotify.com/track/2kzoCKXaGINkfef5QJuruX) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Cliffjumper](https://open.spotify.com/album/1mGefacxktE8XRcFgF9b79) | 2:42 | 2022-01-27 | 2022-07-08 |
 | [Clogs And Pods](https://open.spotify.com/track/5tx1rwnQZEm5E2Bf01jGA8) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Clogs And Pods](https://open.spotify.com/album/2dfboLmJrWW1aRVQYwdlHn) | 2:28 | 2022-01-27 |  |

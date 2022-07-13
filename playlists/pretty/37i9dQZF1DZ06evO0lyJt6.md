@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,268 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,285 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 50 | [Te Prometo](https://open.spotify.com/track/52e9XXEgDuyQ1FYK5aJaYZ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Te Prometo](https://open.spotify.com/album/2LP0reDguNHlmKi0C1mS8V) | 3:58 |
 | 51 | [Un Año](https://open.spotify.com/track/3X8mWx1MFrCYNmzHq4rDex) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Un Año](https://open.spotify.com/album/2TMzjumn1diO7STR0XMHJx) | 3:10 |
 
-Snapshot ID: `Mjc2MjU3NzAsMDAwMDAwMDA5OGNmZDgzYTZmMzkyZDJjZGZlNTQ4NDE3MGY1MDNhNg==`
+Snapshot ID: `Mjc2Mjc0NTUsMDAwMDAwMDAwZDJlYzdmZjY0OGJlZmE2ZjA4ZTU5YmQ1MDQ3YTVkNg==`

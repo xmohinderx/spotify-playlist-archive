@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128463,
+  "num_followers": 128460,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzUxMixmMzE0MTRkNWQ5YjhiMWU3OWM1Yzc1ODI5OTQyMDdjOGI3ODQ0Y2Yx",
+  "snapshot_id": "MzUxNCxjZTBlYjQ1OTAwOTAwZWI0MDMwMTljZWI5MDU4ODA4YjNiNTMwMjQw",
   "tracks": [
+    {
+      "added_at": "2022-07-12 16:48:58",
+      "album": {
+        "name": "Happiness (Just A Pursuit)",
+        "url": "https://open.spotify.com/album/26llcMMM2WioNcKNlmrFIk"
+      },
+      "artists": [
+        {
+          "name": "Mick Mazoo",
+          "url": "https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve"
+        },
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "Happiness (Just A Pursuit)",
+      "url": "https://open.spotify.com/track/0yyH8JYSfGEDJRUyllg4CG"
+    },
     {
       "added_at": "2022-07-11 16:30:09",
       "album": {
@@ -1103,22 +1123,6 @@
       "duration_ms": 173040,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/2LSBuW3iZjxypcoTGVUp54"
-    },
-    {
-      "added_at": "2022-05-02 16:03:35",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT"
-      },
-      "artists": [
-        {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
-        }
-      ],
-      "duration_ms": 225967,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

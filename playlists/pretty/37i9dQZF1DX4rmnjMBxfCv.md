@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: Nancy Ajram & Marshmello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,323 likes - 54 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,347 likes - 54 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

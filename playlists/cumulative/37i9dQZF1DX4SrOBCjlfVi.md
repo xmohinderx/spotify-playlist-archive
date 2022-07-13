@@ -4,11 +4,11 @@
 
 > All the New Joints featuring Key Glock, CMG, NLE Choppa and more\. Cover: Fivio Foreign & The Kid Laroi
 
-1,028 songs - 2 day 0 hr 16 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,030 songs - 2 day 0 hr 21 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 0:00 | 2022-07-08 |  |
+| [](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 0:00 | 2022-07-08 | 2022-07-13 |
 | [\(N\) INE](https://open.spotify.com/track/7lC2H90qclM4JgyQz6H1ys) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [RELAPSED](https://open.spotify.com/album/05CtRgycYQtDaDo80zxeQF) | 2:46 | 2022-07-08 |  |
 | [1, 2, 3](https://open.spotify.com/track/56E8mH7zuZYS07DbqfeTvT) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [1, 2, 3](https://open.spotify.com/album/0wPE7s12vVWFVuwScFUDtb) | 2:15 | 2022-06-10 | 2022-06-18 |
 | [10 More Commandments \(feat\. Diddy\)](https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:58 | 2022-03-11 | 2022-03-18 |
@@ -256,6 +256,7 @@
 | [Do It Up](https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Do It Up](https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7) | 4:04 | 2022-02-25 | 2022-03-05 |
 | [Do No Wrong \(feat\. Trippie Redd & PnB Rock\)](https://open.spotify.com/track/7CxH1tODk6zn4VrqXmJ0MF) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Do No Wrong \(feat\. Trippie Redd & PnB Rock\)](https://open.spotify.com/album/3SEsdycdg76Mxjf6o3rAiB) | 2:59 | 2022-01-14 | 2022-01-22 |
 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 | 2022-05-13 | 2022-06-04 |
+| [Do Not Know You](https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Do Not Know You](https://open.spotify.com/album/5O4I4RUSGTurL6VKPCMeJJ) | 2:00 | 2022-07-12 |  |
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-04 | 2022-02-12 |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-10 | 2022-06-18 |
 | [Do Whatever to Survive](https://open.spotify.com/track/6RR2dOw3NE5pim5KGyNEYj) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi) | [Do Whatever to Survive](https://open.spotify.com/album/1OeC8jjhHEdm65M7p7NfyW) | 3:07 | 2022-02-25 | 2022-03-05 |
@@ -758,6 +759,7 @@
 | [Richer Than My Opps](https://open.spotify.com/track/7reqlXtBk0OJLtRkUABUYa) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Richer Than My Opps](https://open.spotify.com/album/69vDeG5sZIVWLy2pAuFzKF) | 2:59 | 2022-01-28 | 2022-02-05 |
 | [Rick and Morty](https://open.spotify.com/track/7HZFXrFwKITySCO81GbM48) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Rick and Morty](https://open.spotify.com/album/1eShOOohf9PmcZf2N5iphP) | 3:13 | 2022-04-29 | 2022-05-07 |
 | [riddle](https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [riddle](https://open.spotify.com/album/0z3Iiza1Fz3vbiHkMgi6RW) | 1:48 | 2022-02-04 | 2022-02-12 |
+| [Right Back Out](https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Right Back Out](https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP) | 3:24 | 2022-07-13 |  |
 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-04-08 | 2022-04-29 |
 | [Riot](https://open.spotify.com/track/1cnhCYf4m2moDg9SnABIOs) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Riot](https://open.spotify.com/album/7glR8qsTx6uTCheooEyubi) | 1:48 | 2022-06-10 | 2022-06-18 |
 | [Riot](https://open.spotify.com/track/3WjZJKJGwO4xNAbTXdy5jS) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Riot](https://open.spotify.com/album/6JzElRQ0MHpuZ4UrzH1Poc) | 2:24 | 2022-06-10 | 2022-06-18 |

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-157 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+158 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 |  |
 | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH) | 4:11 | 2022-02-03 |  |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 |  |
+| [Spirit](https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Spirit](https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh) | 2:55 | 2022-07-12 |  |
 | [Station 2](https://open.spotify.com/track/04SPo2Vjc1vmBl0oUs8GV5) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Station 2](https://open.spotify.com/album/4FjGUXNhRKcZl7ZoWUD24R) | 3:04 | 2022-02-03 |  |
 | [Stay](https://open.spotify.com/track/2DLAMyPI1bMMwA7ivt9f0F) | [SirensCeol](https://open.spotify.com/artist/4MLO0CjZZIw0FgBDGnj3K4) | [Stay](https://open.spotify.com/album/1p9OIoJ2weRDXxxrKEtdHi) | 2:52 | 2022-02-03 |  |
 | [Stay With Me \- Krys Talk Remix](https://open.spotify.com/track/1lGZ4rEgUHclwnH1F507pz) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg) | [Stay With Me \(Krys Talk Remix\)](https://open.spotify.com/album/3VyApZmu3LiVucSbGZH9TX) | 4:11 | 2022-02-03 |  |

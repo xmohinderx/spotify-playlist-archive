@@ -4,7 +4,7 @@
 
 > The best of UK Rap & Drill\.  Cover: Jimmy
 
-1,122 songs - 2 day 10 hr 7 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
+1,123 songs - 2 day 10 hr 9 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [F U Pay Me \(feat\. Ivorian Doll & Kenny Beats\)](https://open.spotify.com/track/3uHjh0uhRtP3EIySEBooRF) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 2:44 | 2020-10-10 | 2020-11-06 |
 | [Faces](https://open.spotify.com/track/16RXVFecy14hYAt0Siifk1) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J), [RomyJo](https://open.spotify.com/artist/4ZmZRlkHqEaQ5FC2m0lCVd) | [Faces](https://open.spotify.com/album/4pYboMbiKNLDRYSCvdYiRu) | 3:43 | 2020-05-22\* | 2020-06-19 |
 | [Facts](https://open.spotify.com/track/5RrFgWQVhKQVeLcWzz3Zvw) | [Pak\-Man](https://open.spotify.com/artist/1qnW4caArrhUby9bFCSpXf) | [Green Light](https://open.spotify.com/album/3dUXPfWEjw0oQTcfu02z4i) | 1:52 | 2020-05-22\* | 2020-06-13 |
+| [Fall in Love](https://open.spotify.com/track/2EygY7WmbwcawNSH5ssP3e) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Fall in Love](https://open.spotify.com/album/3U1SqGw3WFvk961ITm3YDC) | 1:55 | 2022-07-12 |  |
 | [Family](https://open.spotify.com/track/2FLT6LSzeTfrgNDaSxGpUY) | [98s](https://open.spotify.com/artist/6IzhPGZlb27v8HuOQvkiQk), [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v), [Billy Billions](https://open.spotify.com/artist/69qrun5V2jt5YOitlunPh8), [Alchubbino](https://open.spotify.com/artist/33oHR1Xi4O5sUl3iMo2VI4), [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Class of 98s](https://open.spotify.com/album/3fRRxwfSston1uuBEto129) | 4:30 | 2020-09-26 | 2020-10-10 |
 | [Fashion](https://open.spotify.com/track/6vkyfjrmR8MbWiTYWfXMuS) | [The Plug](https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Fashion](https://open.spotify.com/album/5E9DkM5znrKAvCr0ho1MoC) | 3:41 | 2021-01-15 | 2021-03-14 |
 | [Fast Life](https://open.spotify.com/track/6CwwsXfqpMATTM0Gy128oV) | [Ghostface600](https://open.spotify.com/artist/4zVBItdCNXEAMB5cZvtlw1) | [Fast Life](https://open.spotify.com/album/1QsJtYWa3caKTnL9b9Oo0h) | 2:46 | 2021-06-19 | 2021-08-06 |

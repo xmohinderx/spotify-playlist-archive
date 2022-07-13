@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 432941,
       "name": "Birds",
       "url": "https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 98566,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/0fMFptikgwsDH8lGq9yh0b"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 668720,
       "name": "Dune - Single Version",
       "url": "https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Journey",
       "url": "https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 337736,
       "name": "Liquid",
       "url": "https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb"
@@ -1086,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Primary Progressive",
+        "url": "https://open.spotify.com/album/6NWGbHxn3kHVxuwUcAzkmu"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mitch",
+          "url": "https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286332,
+      "name": "Restart",
+      "url": "https://open.spotify.com/track/4XZhLUhqohu9xK90ZMQxkF"
+    },
+    {
+      "album": {
         "name": "Graal (Prologue)",
         "url": "https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8"
       },
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 254864,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/377mv3pv1Nday6pjadqEwr"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 355097,
       "name": "Walking In Circles",
       "url": "https://open.spotify.com/track/40m7Ext5J4Nxaky0rlXkNm"

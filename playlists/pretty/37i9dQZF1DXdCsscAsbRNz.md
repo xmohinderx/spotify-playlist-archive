@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,033 likes - 276 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,044 likes - 276 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 275 | [Forget](https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:17 |
 | 276 | [Clear Sky](https://open.spotify.com/track/0sStz9SBt5DOF7CynqUUwa) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 3:10 |
 
-Snapshot ID: `MTY1NjA2ODczNCwwMDAwMDBiYzAwMDAwMTgxOTU2MzdkYWQwMDAwMDE2ZDE1NGQ3Mjhm`
+Snapshot ID: `MTY1NzYxNjMxMywwMDAwMDBiZDAwMDAwMTgxZjFhMWFkMTYwMDAwMDE4MWYxYTAzNTI5`

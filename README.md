@@ -2931,7 +2931,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sample School](/playlists/pretty/37i9dQZF1DX3KoYiZJ8DD4.md)
 - [Sand Between My Toes](/playlists/pretty/37i9dQZF1DX3ayfz12wpQs.md)
 - [Sang On Sunday](/playlists/pretty/37i9dQZF1DX4levbzTG2FX.md)
-- [Satang Mix](/playlists/pretty/37i9dQZF1DWTTHy0vndijk.md)
+- [Satang Mix \(사탕 믹스\)](/playlists/pretty/37i9dQZF1DWTTHy0vndijk.md)
 - [Sax and the City](/playlists/pretty/37i9dQZF1DWYgA6FKKHSd6.md)
 - [Saxophone Classics](/playlists/pretty/37i9dQZF1DWZodX1hXiq9y.md)
 - [Scary Stories](/playlists/pretty/37i9dQZF1DX0RGhgSIsFBm.md)

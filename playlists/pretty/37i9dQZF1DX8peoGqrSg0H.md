@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Praesun
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,693 likes - 95 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,775 likes - 95 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Carla Wehbe
 
-593 songs - 1 day 8 hr 1 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+594 songs - 1 day 8 hr 5 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-03-18 |  |
 | [Whatever Tomorrow](https://open.spotify.com/track/7hI6O280FAYYtNBOH2o8qM) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Whatever Tomorrow](https://open.spotify.com/album/5V3AIqbOWsO3rf0W3cQMpt) | 4:23 | 2021-04-16 |  |
 | [When A Girl](https://open.spotify.com/track/7jpcFYI4AEimC0kkFwMiJX) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [To Anyone Like Me](https://open.spotify.com/album/7G9XvrcExrKTwxMwGLa3W0) | 3:32 | 2020-10-02 | 2021-05-12 |
+| [When It Rains It Pours](https://open.spotify.com/track/6zQD47A7AYIz2iJJbpXDna) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [When It Rains It Pours](https://open.spotify.com/album/2wNdSPuphHn8QepF515wWV) | 4:13 | 2022-07-13 |  |
 | [when the lights go out](https://open.spotify.com/track/3yBDhW2BqKSYgeZWDUIFoF) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [when the lights go out](https://open.spotify.com/album/0H3Pt1vUisleTDw1gdkloN) | 3:42 | 2020-04-23 | 2021-05-12 |
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2021-02-26 |  |
 | [Who I Am](https://open.spotify.com/track/1ANsuCNluOIsq35MDRk8Hr) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Who I Am](https://open.spotify.com/album/2m5dpEbMwgMyiRVFZDzDTC) | 3:24 | 2019-08-27\* | 2019-11-11 |

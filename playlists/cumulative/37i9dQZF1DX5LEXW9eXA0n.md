@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: WSG WANNABE\) \(당신의 감성에 발라드, 려요\)
 
-465 songs - 1 day 6 hr 17 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+466 songs - 1 day 6 hr 21 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Don't Cry](https://open.spotify.com/track/4cGxjripxGYy1VrC9gzmlF) | [HOZIHO](https://open.spotify.com/artist/2gqOqOw4ubWLifktn8SVr7), [Choi Sung Ho](https://open.spotify.com/artist/78EyQiFtLfY1XWnD7UK7W2) | [Don't Cry](https://open.spotify.com/album/6SfLPPnrdzfhUrLpShNSxx) | 3:54 | 2022-07-07 |  |
 | [Don't Leave Me, My Love](https://open.spotify.com/track/2yqaOTRo1plpmNkbnZs2YY) | [AN DA EUN](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Tomorrow OST Part.2](https://open.spotify.com/album/2tpvs8W8KSOfRBgREj1sAh) | 3:46 | 2022-04-21 | 2022-05-02 |
 | [Don't treat me well](https://open.spotify.com/track/6gf5ELYMwGOYvihbp6NA0s) | [yeo eun](https://open.spotify.com/artist/00hyJ4Om3BEqgLwfqHSFxv) | [Don't treat me well](https://open.spotify.com/album/2FqhiCBwlQAuNW87paj41N) | 3:38 | 2022-03-24 | 2022-04-13 |
-| [Don't walk away](https://open.spotify.com/track/1V0fL8JcNB41j3Yj0FccKG) | [LISA](https://open.spotify.com/artist/78hGUmxF4YMnMOpemPsXIX) | [Don't walk away \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.8](https://open.spotify.com/album/1GgOw3kzlYxXcknuvOyA8v) | 3:28 | 2022-07-07 |  |
+| [Don't walk away](https://open.spotify.com/track/1V0fL8JcNB41j3Yj0FccKG) | [LISA](https://open.spotify.com/artist/78hGUmxF4YMnMOpemPsXIX) | [Don't walk away \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.8](https://open.spotify.com/album/1GgOw3kzlYxXcknuvOyA8v) | 3:28 | 2022-07-07 | 2022-07-13 |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-07-07 |  |
 | [Drawing Our Moments](https://open.spotify.com/track/0BiJCg7FLwWGTYLEsnaHcz) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 4:33 | 2021-12-20 | 2022-07-08 |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2021-12-20 | 2022-07-08 |
@@ -156,6 +156,7 @@
 | [Go Back](https://open.spotify.com/track/5BTRHDHNRDdFUYcbTeOacW) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Go Back](https://open.spotify.com/album/5LZW8K0fStxs9cq1n22dfc) | 4:48 | 2022-01-03 | 2022-06-07 |
 | [Good Night](https://open.spotify.com/track/4nuQczEO0ZmPW1cfKFS0Ap) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Good Night](https://open.spotify.com/album/0ka0zzPgwRPNZmI68vqf5k) | 4:18 | 2022-03-29 | 2022-04-20 |
 | [Good Night MY LOVE](https://open.spotify.com/track/08JrdECBp67G9IwipvxuBO) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Good Night MY LOVE](https://open.spotify.com/album/3LlVa0CZ3pzgZfK3Gdeljl) | 4:19 | 2021-12-20 | 2022-06-17 |
+| [Good Night My Princess](https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:52 | 2022-07-12 |  |
 | [Goodbye the days I loved](https://open.spotify.com/track/6rYTjMqLaNbAGsXzAF71ZJ) | [Lydia](https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6) | [Bravo, My Life OST Part.13](https://open.spotify.com/album/7bsu6IMlTFbT6jiLejhAz3) | 3:46 | 2022-07-07 |  |
 | [Gravity](https://open.spotify.com/track/5iflfzsLm8GwB8nXeglqbQ) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5bOcT4IKuy49u5nbDH3hnn) | 3:09 | 2022-03-24 | 2022-04-18 |
 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-06-18 |  |

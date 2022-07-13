@@ -1,12 +1,12 @@
 {
   "description": "The latest, greatest soundtracks from the big and small screen.",
-  "num_followers": 165051,
+  "num_followers": 165131,
   "original_name": "Soundtracked",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1Mjg2MCwwMDAwMDA4OTAwMDAwMTgxZGJmN2QxNTUwMDAwMDE3MGM0YjE4NWE1",
+  "snapshot_id": "MTY1NzYzNjkzMCwwMDAwMDA4YTAwMDAwMTgxZjJkYzQzODAwMDAwMDE3MGM0YjE4NWE1",
   "tracks": [
     {
       "added_at": "2022-07-08 04:01:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Mama's Got a Brand New Hammer (From \"Thor: Love and Thunder\")",
-        "url": "https://open.spotify.com/album/5aO8YZeagny83StfnND4jG"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 368346,
-      "name": "Mama's Got a Brand New Hammer - From \"Thor: Love and Thunder\"",
-      "url": "https://open.spotify.com/track/4SIfcQHmeKQ7F3K6Tbz5gK"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
         "name": "The Batman (from \"The Batman\")",
         "url": "https://open.spotify.com/album/17zHcTl1W5UB4G7kr6e838"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 407533,
       "name": "The Batman",
       "url": "https://open.spotify.com/track/0hs3unYvc0bFG2NgheFdkO"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Mama's Got a Brand New Hammer (From \"Thor: Love and Thunder\")",
+        "url": "https://open.spotify.com/album/5aO8YZeagny83StfnND4jG"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 368346,
+      "name": "Mama's Got a Brand New Hammer - From \"Thor: Love and Thunder\"",
+      "url": "https://open.spotify.com/track/4SIfcQHmeKQ7F3K6Tbz5gK"
     },
     {
       "added_at": "2022-07-08 04:01:00",

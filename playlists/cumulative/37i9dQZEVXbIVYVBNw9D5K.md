@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-465 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+466 songs - 1 day 0 hr 2 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [Istediğim Olucak](https://open.spotify.com/track/62N782Va609fZ9aDAVIgvN) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Istediğim Olucak](https://open.spotify.com/album/49kxsR1L47TCkRFi5AaPmB) | 2:11 | 2021-06-06 | 2021-08-15 |
 | [Istediğim Olucak](https://open.spotify.com/track/6pIVJRrlvECfYXfGFRNwVn) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Özlüce Trap Boys](https://open.spotify.com/album/6uDdqxLsmGmXVak2y4vreh) | 2:11 | 2021-08-15 | 2021-09-06 |
 | [ITACHI](https://open.spotify.com/track/2Xp7H2XVr1xxrWISiSRaUl) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [ITACHI](https://open.spotify.com/album/5XJ5D88oSg5VVjI4ANe2uW) | 2:12 | 2021-10-23 | 2021-10-26 |
-| [İllegale](https://open.spotify.com/track/0YypAwSTM49KfC5bgHKgZ6) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İllegale](https://open.spotify.com/album/3vg10Plw06OxHNh30mpvmx) | 1:59 | 2022-06-25 |  |
+| [İllegale](https://open.spotify.com/track/0YypAwSTM49KfC5bgHKgZ6) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İllegale](https://open.spotify.com/album/3vg10Plw06OxHNh30mpvmx) | 1:59 | 2022-06-25 | 2022-07-13 |
+| [İLLEGALE](https://open.spotify.com/track/47DaOS7pYYOAHi4yrvxKp3) | [EGW](https://open.spotify.com/artist/3VGogqQnpdVQh3ksssDqTK) | [İLLEGALE](https://open.spotify.com/album/5tSYHLnvdS8ouLz2Q5uhGI) | 2:00 | 2022-07-12 |  |
 | [İmdat](https://open.spotify.com/track/0SCtkG26IEKCKxJ7UmWZWa) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 2:16 | 2022-05-14 |  |
 | [İmdat](https://open.spotify.com/track/123hB20IVD2yw1NMIgrqb3) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [İmdat](https://open.spotify.com/album/5Gr7JLJXzZx0BlQHUCRSzl) | 2:16 | 2022-04-17 | 2022-05-15 |
 | [İMDAT](https://open.spotify.com/track/5Rqz2Jz07P73uEH9nBpWPr) | [Lucerina](https://open.spotify.com/artist/5dM81P7RcVcTvQhWKBhGa7), [Nufrain](https://open.spotify.com/artist/3UIBCL0QqPjEiolLMsLMJN), [Shanga](https://open.spotify.com/artist/2x80eqIoeRyIDnZnqNicSs) | [İMDAT](https://open.spotify.com/album/5p4hOjhukXZUS9hs9SLwsx) | 2:23 | 2022-04-14 | 2022-04-16 |

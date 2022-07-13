@@ -2,7 +2,7 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: Thyago
+> Fresh Latin pop on the rise\. Cover: Nani
 
 136 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
 

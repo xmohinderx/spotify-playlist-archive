@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Herbert Blomstedt
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,457 likes - 44 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,571 likes - 44 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

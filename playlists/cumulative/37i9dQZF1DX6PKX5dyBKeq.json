@@ -8136,6 +8136,24 @@
     },
     {
       "album": {
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/3U1SqGw3WFvk961ITm3YDC"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115744,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/2EygY7WmbwcawNSH5ssP3e"
+    },
+    {
+      "album": {
         "name": "Class of 98s",
         "url": "https://open.spotify.com/album/3fRRxwfSston1uuBEto129"
       },

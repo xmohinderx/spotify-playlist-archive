@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. New collaboration from Eartheater &amp; LSDXOXO, plus the latest cuts from Joel Corry, Azzecca, TDJ, niina, Ayra Star, Noizu, and more.
 
-165 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
+166 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Mek Money](https://open.spotify.com/track/3MVbaHUhFefg7RKjTXMoa9) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Mek Money](https://open.spotify.com/album/5Evsbapiw54PEtMa7tpSGe) | 2:13 | 2022-06-03 |  |
 | [miss me](https://open.spotify.com/track/6z0IGnMYKfbb6rDCCLE0lE) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [miss me](https://open.spotify.com/album/6QhP58dR15iuzAVxKQ6seG) | 3:33 | 2022-06-17 |  |
 | [Moon Groove](https://open.spotify.com/track/4ixljSkFedlTMtrG6BNnrG) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/2dhRWYUYiWrUjweff8C99R) | 2:49 | 2022-06-17 |  |
+| [Mosh O'Clock](https://open.spotify.com/track/5XKnUVBjVreAa44cZgqdzK) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [Mosh O'Clock](https://open.spotify.com/album/7leoTi3FriAmxsW5R3Hr6r) | 2:05 | 2022-07-12 |  |
 | [Music4TheMasses](https://open.spotify.com/track/40xhB0wBh7Kjyn2O1ZCxYM) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Music4TheMasses](https://open.spotify.com/album/0IetwS8HAxU9lu1Z5YHeNP) | 3:38 | 2022-06-03 |  |
 | [not yet.](https://open.spotify.com/track/3VIkfam8WA7bqt3gW81Ln3) | [penny p.](https://open.spotify.com/artist/0fiIHGSyHdIncaSJQAGbY9) | [not yet.](https://open.spotify.com/album/3jYtvtEuFu4cMaaZVUoWZM) | 2:36 | 2022-06-03 |  |
 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2022-06-03 |  |

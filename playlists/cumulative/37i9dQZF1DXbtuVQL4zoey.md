@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-304 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+305 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Geo](https://open.spotify.com/track/5TJsB662tbbbhACuLX5cji) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Dimma](https://open.spotify.com/album/0SN2uundRtIpY6YL8fvVib) | 2:04 | 2022-05-20 | 2022-05-27 |
 | [gin mood](https://open.spotify.com/track/5YAr1nEOeBQLsrqntj7Nyz) | [yori yoi hi](https://open.spotify.com/artist/0l5qxcD2fZRiXhbtJOkI5r) | [gin mood](https://open.spotify.com/album/6Taeo2fE2zaGNtHg7jTYVs) | 2:40 | 2022-05-20 |  |
 | [Give It Up](https://open.spotify.com/track/1SdXQbh3ypPM0uaXsm2eWS) | [Lo Fi Jack](https://open.spotify.com/artist/0kPdLQ90PR3ewNTTRSfOch) | [New Amsterdam](https://open.spotify.com/album/7iFtq9WQ4cAeBtsCydebMJ) | 2:26 | 2022-05-20 | 2022-06-03 |
+| [gm baby](https://open.spotify.com/track/1HwtLXqKnJvKYrVRcXbdsl) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [gm baby](https://open.spotify.com/album/3mYP9U7ew0gMDuehApbTDK) | 2:03 | 2022-07-12 |  |
 | [Golden Cat](https://open.spotify.com/track/1zvls0maQeLYZyIJwynbD1) | [Above the Mex](https://open.spotify.com/artist/2hH7uEbdBk31CRmcHj8Emh) | [Golden Cat](https://open.spotify.com/album/7MT7vYU81W8E2Gff9muvfR) | 3:46 | 2022-05-20 |  |
 | [gone](https://open.spotify.com/track/2yYbsgAPuvoFQyomzNvmB0) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [gone](https://open.spotify.com/album/1D96LEiV9fQKdaKqEgkbSj) | 2:01 | 2022-05-20 | 2022-06-03 |
 | [Good Dog](https://open.spotify.com/track/6EQhgTDwXZ4OudcdZzutM2) | [Luke Otwell](https://open.spotify.com/artist/6ScHfmBUYiNEKPzPKrlBPC), [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [London Fireplaces](https://open.spotify.com/artist/4QfbgKG0oryVqlqig8qFYK), [Pauliverse](https://open.spotify.com/artist/3kBAqfgZgV0gUW1aoFQL8W) | [Good Dog](https://open.spotify.com/album/3LWZ90d0SzE8e1cPOL5tl6) | 2:40 | 2022-05-20 | 2022-06-25 |

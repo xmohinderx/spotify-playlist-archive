@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 301200,
       "name": "*\u30cf\u30ed\u30fc\u3001\u30d7\u30e9\u30cd\u30c3\u30c8\u3002",
       "url": "https://open.spotify.com/track/7ik5ZgXgjOj09MgqoMPZGD"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Decade",
       "url": "https://open.spotify.com/track/0rh5OTy00ngziGgEgZQweu"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 238167,
       "name": "Starry Song",
       "url": "https://open.spotify.com/track/7GMODmnbyNNC8RETRSA78u"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 328946,
       "name": "WORLD'S END UMBRELLA - ORIGINAL",
       "url": "https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 195048,
       "name": "\u304b\u3089\u304f\u308a\u30d4\u30a8\u30ed -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/0f6Z1Kbo3PzA1sTtoaBbqK"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 271690,
       "name": "\u3053\u3061\u3089\u3001\u5e78\u798f\u5b89\u5fc3\u59d4\u54e1\u4f1a\u3067\u3059\u3002",
       "url": "https://open.spotify.com/track/3yphjYSP0G3gvCPQnuEDXu"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 263558,
       "name": "\u3072\u3068\u308a\u307c\u3063\u3061\u3068\u30b3\u30b3\u30ed\u306e\u672c\u3068",
       "url": "https://open.spotify.com/track/1PPRezyqvNamlg6rjNNA8u"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 287800,
       "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c4",
       "url": "https://open.spotify.com/track/75176ZjEhe9XqSNTfI9mIa"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 315095,
       "name": "\u30ad\u30e3\u30c3\u30c8\u30d5\u30fc\u30c9 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 277137,
       "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
       "url": "https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo"
@@ -959,6 +959,24 @@
       "duration_ms": 164309,
       "name": "\u30b9\u30ad\u30c3\u30d7",
       "url": "https://open.spotify.com/track/0Hr4ot6dxotFVwAKYXwSgr"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c6\u30e9",
+        "url": "https://open.spotify.com/album/1ALfRNqTGkC22jyEKSFDUT"
+      },
+      "artists": [
+        {
+          "name": "Kots Beirne",
+          "url": "https://open.spotify.com/artist/0bBNxdKfD4SOpqZfiUt9Bm"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "\u30b9\u30c6\u30e9",
+      "url": "https://open.spotify.com/track/5tamlA7xzYrYR3BteVynMr"
     },
     {
       "album": {
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 237800,
       "name": "\u30da\u30a4\u30f3\u30a4\u30ec\u30a4\u30b5\u30fc",
       "url": "https://open.spotify.com/track/601kCD8DOamMueSF0XZLer"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 284422,
       "name": "\u30e1\u30eb\u30c8 -MIKU EXPO 2014 in INDONESIA Live-",
       "url": "https://open.spotify.com/track/6nWONiqCJwFxKKfAJSKaev"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 192150,
       "name": "\u521d\u97f3\u30df\u30af\u306e\u6fc0\u5531 -MIKU EXPO 2014 in INDONESIA Live-",
       "url": "https://open.spotify.com/track/2Tpd2eHx7LT60o7BwZlqr3"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 272333,
       "name": "\u611b\u3055\u308c\u306a\u304f\u3066\u3082\u541b\u304c\u3044\u308b",
       "url": "https://open.spotify.com/track/5ID6qtywQZ2RppAttfJ7xN"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 203576,
       "name": "\u6c17\u307e\u3050\u308c\u30e1\u30eb\u30b7\u30a3",
       "url": "https://open.spotify.com/track/2nvR3T8wXynnDS7N6d81qv"
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 238390,
       "name": "\u6df1\u6d77\u5c11\u5973 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "\u79d8\u5bc6\u8b66\u5bdf",
       "url": "https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP"

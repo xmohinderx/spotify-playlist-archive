@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,135 songs - 2 day 8 hr 45 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,136 songs - 2 day 8 hr 47 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,7 +849,8 @@
 | [Realität](https://open.spotify.com/track/4aCtiux4NfWF0Kx88YAA5e) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 3:04 | 2021-07-18 | 2021-07-25 |
 | [Redlight](https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Redlight](https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e) | 2:57 | 2021-06-11 | 2021-08-22 |
 | [Regen](https://open.spotify.com/track/1gO12cFlEWwuLQMf94wzOB) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 2:57 | 2021-07-18 | 2021-07-19 |
-| [Remedy](https://open.spotify.com/track/2xSIcmvFQHs2CeS34Mgp62) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/2HpKiYKlnaDg6ou4CoFYzk) | 2:27 | 2022-02-24 |  |
+| [Remedy](https://open.spotify.com/track/2xSIcmvFQHs2CeS34Mgp62) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/2HpKiYKlnaDg6ou4CoFYzk) | 2:27 | 2022-02-24 | 2022-07-13 |
+| [Remedy](https://open.spotify.com/track/5C3J3C5nzBclrE8xuW5UQ7) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/5DkP7hUfhlC2lvvJ0d1jtz) | 2:27 | 2022-07-12 |  |
 | [RENN RENN](https://open.spotify.com/track/5dYA3DGibUvGlEmTmariSy) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [RENN RENN](https://open.spotify.com/album/3CYIlp65qThM8xkS97nbZR) | 3:19 | 2022-06-25 | 2022-07-03 |
 | [Riba](https://open.spotify.com/track/4qQCmTYrmTKLtIMTC4uSUI) | [KASIMIR1441](https://open.spotify.com/artist/7ADRm1oT7VmhRRZrZqycV6), [DILOMAN](https://open.spotify.com/artist/2innBaSmptmpGvov5kUIqW), [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq) | [Riba](https://open.spotify.com/album/6V80YarHDHc4FRYEuis31m) | 2:30 | 2021-06-27 | 2021-06-28 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-16 |
