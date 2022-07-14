@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 > 100 uplifting and happy songs to get you smiling, put a spring in your step &amp; lift your mood
 
-[Topsify](https://open.spotify.com/user/topsify) - 503,991 likes - 100 songs - 5 hr 47 min
+[Topsify](https://open.spotify.com/user/topsify) - 504,009 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 99 | [One Touch](https://open.spotify.com/track/3eS1VMcEmq2IUgpaeDysCb) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Always in Between \(Deluxe\)](https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN) | 3:17 |
 | 100 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
 
-Snapshot ID: `MTYyNywwOGQxNDc0OWZiMTdhNjc3MWQ1NWM0Mzc1Y2MzOWFiNDJhYjJjNWU0`
+Snapshot ID: `MTYyOCxkMWRmMTM2NjAxYzBhZjE4NWFmMDhmZDYyOTE0ODQ5OGIwYzQ1MzE1`

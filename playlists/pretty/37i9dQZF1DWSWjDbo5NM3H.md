@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Famous Singers\-Battle Again'\. \(JTBC  '유명가수전\-배틀 어게인'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538 likes - 202 songs - 12 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541 likes - 202 songs - 12 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 2 | [Heaven \- Live](https://open.spotify.com/track/2c8JV31UWvnTF8b1b7BRo3) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Famous Singers \- Battle Again Pt.11](https://open.spotify.com/album/0PiIqn5YjMfLaIh1a6aK6a) | 3:35 |
 | 3 | [Into the Memories \- Live](https://open.spotify.com/track/5l0c5QkBNRHvtJOykYJDzB) | [Yun Seong](https://open.spotify.com/artist/3scLPJnii9AmTztP7cO5UM) | [Famous Singers \- Battle Again Pt.11](https://open.spotify.com/album/0PiIqn5YjMfLaIh1a6aK6a) | 4:27 |
 | 4 | [I have a lover \- Live](https://open.spotify.com/track/5nnLmU7PVpstxSn9etAcaM) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK), [Bae In Hyuk](https://open.spotify.com/artist/54zhMFqa0Jnl0QDPnYMaFz) | [Famous Singers \- Battle Again Pt.11](https://open.spotify.com/album/0PiIqn5YjMfLaIh1a6aK6a) | 4:14 |
-| 5 | [I will show you \- Live](https://open.spotify.com/track/5NLT1NVcZsG7l1H2baKPL8) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn), [울랄라세션](https://open.spotify.com/artist/4r4f4hYXqvB1xGMxm6JcF7) | [Famous Singers \- Battle Again Pt.11](https://open.spotify.com/album/0PiIqn5YjMfLaIh1a6aK6a) | 3:25 |
+| 5 | [I will show you \- Live](https://open.spotify.com/track/5NLT1NVcZsG7l1H2baKPL8) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn), [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Famous Singers \- Battle Again Pt.11](https://open.spotify.com/album/0PiIqn5YjMfLaIh1a6aK6a) | 3:25 |
 | 6 | [I will go to you like the first snow \- Live](https://open.spotify.com/track/3nL44qA0sCSdVKqdXbUUmv) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Famous Singers \- Battle Again Pt.11](https://open.spotify.com/album/0PiIqn5YjMfLaIh1a6aK6a) | 4:06 |
 | 7 | [People Who Make Me Sad \- Live](https://open.spotify.com/track/3ANqW8SN10Tf1hp3Lg1NqC) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl), [Yun Seong](https://open.spotify.com/artist/3scLPJnii9AmTztP7cO5UM) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 4:10 |
 | 8 | [명동콜링 \- Live](https://open.spotify.com/track/4LvBXh4zNWZOfGv8lZa5w6) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 4:28 |

@@ -1,60 +1,28 @@
 {
-  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Mariangela",
-  "num_followers": 56791,
+  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Ricky Martin",
+  "num_followers": 56789,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzM2Niw0ODc2YWUzOThjMzg2ZDkyM2EyMDIxZjA0NWMzYWM0MDQxNWYyNzky",
+  "snapshot_id": "MzM3NywyMzE3MzBiYjVmMjA1N2FlYzZmMWJmY2I3OWE5NTVjMWMyYWM1OTlh",
   "tracks": [
     {
-      "added_at": "2022-07-01 04:06:51",
+      "added_at": "2022-07-13 16:06:23",
       "album": {
-        "name": "So\u00f1arte",
-        "url": "https://open.spotify.com/album/7DvbHY38S9h6wUfQftT2E6"
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
       },
       "artists": [
         {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 185253,
-      "name": "So\u00f1arte",
-      "url": "https://open.spotify.com/track/1UJbPo4QxQPrteYZdNY00H"
-    },
-    {
-      "added_at": "2022-06-30 22:02:51",
-      "album": {
-        "name": "Nicki Nicole (Live at NPR's Tiny Desk)",
-        "url": "https://open.spotify.com/album/56vHzz7py4Ki3p901P1Db5"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 197412,
-      "name": "Colocao - Tiny Desk",
-      "url": "https://open.spotify.com/track/1sdOQxBSDlGc922jSMhPVy"
-    },
-    {
-      "added_at": "2022-07-01 04:10:37",
-      "album": {
-        "name": "Camino al Sol",
-        "url": "https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Jugar a Vivir",
-      "url": "https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS"
+      "duration_ms": 210913,
+      "name": "\u00c1cido Sabor",
+      "url": "https://open.spotify.com/track/6KZRJUdgVT01xpzZG6RASc"
     },
     {
       "added_at": "2022-07-06 22:05:52",
@@ -101,6 +69,74 @@
       "url": "https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc"
     },
     {
+      "added_at": "2022-07-13 16:14:26",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 145783,
+      "name": "A Veces Bien Y A Veces Mal",
+      "url": "https://open.spotify.com/track/746DsKOI6KUjO50U4UIsM5"
+    },
+    {
+      "added_at": "2022-06-30 22:02:51",
+      "album": {
+        "name": "Nicki Nicole (Live at NPR's Tiny Desk)",
+        "url": "https://open.spotify.com/album/56vHzz7py4Ki3p901P1Db5"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 197412,
+      "name": "Colocao - Tiny Desk",
+      "url": "https://open.spotify.com/track/1sdOQxBSDlGc922jSMhPVy"
+    },
+    {
+      "added_at": "2022-07-01 04:10:37",
+      "album": {
+        "name": "Camino al Sol",
+        "url": "https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Jugar a Vivir",
+      "url": "https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS"
+    },
+    {
+      "added_at": "2022-07-01 04:06:51",
+      "album": {
+        "name": "So\u00f1arte",
+        "url": "https://open.spotify.com/album/7DvbHY38S9h6wUfQftT2E6"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 185253,
+      "name": "So\u00f1arte",
+      "url": "https://open.spotify.com/track/1UJbPo4QxQPrteYZdNY00H"
+    },
+    {
       "added_at": "2022-07-01 04:12:38",
       "album": {
         "name": "Te So\u00f1\u00e9",
@@ -119,6 +155,22 @@
       "duration_ms": 215709,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz"
+    },
+    {
+      "added_at": "2022-07-13 16:14:26",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 211474,
+      "name": "Otra Noche en L.A.",
+      "url": "https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD"
     },
     {
       "added_at": "2022-07-08 14:12:46",

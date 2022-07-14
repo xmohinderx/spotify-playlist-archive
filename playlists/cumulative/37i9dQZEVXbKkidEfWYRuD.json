@@ -3900,6 +3900,24 @@
     },
     {
       "album": {
+        "name": "QUEEN OF RAP",
+        "url": "https://open.spotify.com/album/4lvy6drxoogEkNehP9RLwR"
+      },
+      "artists": [
+        {
+          "name": "INSTASAMKA",
+          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136668,
+      "name": "MONEYKEN LOVE",
+      "url": "https://open.spotify.com/track/2DHX9faMGUQQTwD1Ot4ch2"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -6399,7 +6417,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 122125,
       "name": "Train Wreck",
       "url": "https://open.spotify.com/track/1U5HTINVvE7oSSscuD3Gjm"
@@ -6607,7 +6625,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 191133,
       "name": "Vasya OMG",
       "url": "https://open.spotify.com/track/4O32TwoybFtp2hLJI58adX"
@@ -12119,7 +12137,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 116404,
       "name": "\u043f\u043b\u0430\u0447\u044c",
       "url": "https://open.spotify.com/track/3yCKABoZU3FVFuyVBc5VlM"
@@ -12743,7 +12761,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 211583,
       "name": "\u0421\u0432\u043e\u0439 \u0434\u043e\u043c",
       "url": "https://open.spotify.com/track/6ovBMbqpAA8N1FtN1fa0Vq"
@@ -13825,6 +13843,36 @@
       "duration_ms": 173795,
       "name": "\u0423 \u043e\u043a\u043d\u0430",
       "url": "https://open.spotify.com/track/1MnwDuTK1m9AV3nV3kUVes"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0420\u0418\u042f\u0422\u041d\u041e \u041f\u041e\u0417\u041d\u0410\u041a\u041e\u041c\u0418\u0422\u042c\u0421\u042f",
+        "url": "https://open.spotify.com/album/3XOuPQNE5Svwy0y7Ef4kAy"
+      },
+      "artists": [
+        {
+          "name": "nkeeei",
+          "url": "https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7"
+        },
+        {
+          "name": "uniqe",
+          "url": "https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII"
+        },
+        {
+          "name": "ARTEM SHILOVETS",
+          "url": "https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032"
+        },
+        {
+          "name": "MAYOT",
+          "url": "https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157490,
+      "name": "\u0423 \u0423 \u0423",
+      "url": "https://open.spotify.com/track/5IHRFEEHSVd8Ks1joLjZDq"
     },
     {
       "album": {

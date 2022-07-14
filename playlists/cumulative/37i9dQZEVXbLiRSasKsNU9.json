@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6OEHTTAAZowKU7LLZmvj2D"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6wJavOotAd4bEeB9QusGcE"
+    },
+    {
+      "album": {
         "name": "#doyalike",
         "url": "https://open.spotify.com/album/0nnDPfom0EYbRYphovv0hu"
       },
@@ -171,6 +189,28 @@
       "duration_ms": 150610,
       "name": "212",
       "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
+    },
+    {
+      "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175472,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/2QDibAx72jveQXPBXOKjx2"
     },
     {
       "album": {
@@ -1836,6 +1876,24 @@
     },
     {
       "album": {
+        "name": "Bruna, Tu J\u00e1 Parou Pra Pensar",
+        "url": "https://open.spotify.com/album/2PdQFCLtjCFubVPrQ6QKUM"
+      },
+      "artists": [
+        {
+          "name": "Niack",
+          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162653,
+      "name": "Bruna, Tu J\u00e1 Parou Pra Pensar",
+      "url": "https://open.spotify.com/track/7qq40cRIYNKZCDt1STfBqt"
+    },
+    {
+      "album": {
         "name": "BTBT (feat. DeVita)",
         "url": "https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3"
       },
@@ -2001,6 +2059,28 @@
       "duration_ms": 138069,
       "name": "Casa Revirada",
       "url": "https://open.spotify.com/track/2NOLeQumoVoQlMOKOgOxRY"
+    },
+    {
+      "album": {
+        "name": "CASABLANCA",
+        "url": "https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU"
+      },
+      "artists": [
+        {
+          "name": "Nuha Bahrin",
+          "url": "https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65"
+        },
+        {
+          "name": "Naufal Azrin",
+          "url": "https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD"
     },
     {
       "album": {
@@ -3428,6 +3508,40 @@
     },
     {
       "album": {
+        "name": "Escolhe o Bandido",
+        "url": "https://open.spotify.com/album/1Xdq2uHOP7p6NQ2RRPrAp7"
+      },
+      "artists": [
+        {
+          "name": "MC CH da Z.O",
+          "url": "https://open.spotify.com/artist/5cPFz5IHZH7LE8h2DOuhDA"
+        },
+        {
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "name": "Danado do Recife",
+          "url": "https://open.spotify.com/artist/1m2ae8UiHCWhIARPw33Xhx"
+        },
+        {
+          "name": "eoo kendy",
+          "url": "https://open.spotify.com/artist/0p0wrJX8lQEIbxCHU7JzIA"
+        },
+        {
+          "name": "Deyvinho PL",
+          "url": "https://open.spotify.com/artist/6EjGbKRm2EruQW0ZAIKzoK"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144056,
+      "name": "Escolhe o Bandido",
+      "url": "https://open.spotify.com/track/3QxKHcpNt6CWNUYCLLBHeZ"
+    },
+    {
+      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -3868,24 +3982,6 @@
     },
     {
       "album": {
-        "name": "fire",
-        "url": "https://open.spotify.com/album/6OEHTTAAZowKU7LLZmvj2D"
-      },
-      "artists": [
-        {
-          "name": "Sikari",
-          "url": "https://open.spotify.com/artist/1h7RSBFfI6PwUH5tU3m5uP"
-        }
-      ],
-      "date_added": "2022-07-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149524,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/6wJavOotAd4bEeB9QusGcE"
-    },
-    {
-      "album": {
         "name": "Fire To The Rain (Hardstyle)",
         "url": "https://open.spotify.com/album/2Bdfm4YrVFi8MiZPtTHpqK"
       },
@@ -4035,7 +4131,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
@@ -6710,6 +6806,24 @@
     },
     {
       "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
+    },
+    {
+      "album": {
         "name": "FREELANCE",
         "url": "https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz"
       },
@@ -7027,10 +7141,28 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 219707,
       "name": "Mi Bebito Fiu Fiu",
       "url": "https://open.spotify.com/track/4KbSQQsRUGuwnwe6PDZB9v"
+    },
+    {
+      "album": {
+        "name": "Mi Bebito Fiu Fiu",
+        "url": "https://open.spotify.com/album/2K6BxWzcd239wPWr3SVURE"
+      },
+      "artists": [
+        {
+          "name": "Nimaru Sasuki",
+          "url": "https://open.spotify.com/artist/5UZD1JyyirR8AeaMaeQ0rs"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219689,
+      "name": "Mi Bebito Fiu Fiu",
+      "url": "https://open.spotify.com/track/7dT3NxlPsOIdM6dftDNM5K"
     },
     {
       "album": {
@@ -7103,7 +7235,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 186129,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq"
@@ -8081,7 +8213,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 169419,
       "name": "Olmazlara \u0130nat",
       "url": "https://open.spotify.com/track/11AkXmBdjwu4upt22GjJrG"
@@ -8183,6 +8315,24 @@
       "duration_ms": 153808,
       "name": "Own Brand Freestyle",
       "url": "https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x"
+    },
+    {
+      "album": {
+        "name": "P.S. I LOVE YOU",
+        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240903,
+      "name": "P.S. I LOVE YOU",
+      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
     },
     {
       "album": {
@@ -8557,7 +8707,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 315600,
       "name": "Porselen Kalbim",
       "url": "https://open.spotify.com/track/7z5rmdisSV8GmWCnrOd1HU"
@@ -9243,6 +9393,24 @@
       "duration_ms": 181226,
       "name": "saudade, saudade",
       "url": "https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+      },
+      "artists": [
+        {
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243053,
+      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
     },
     {
       "album": {
@@ -10305,7 +10473,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 171894,
       "name": "Su\u00e7lar\u0131mdan Biri",
       "url": "https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi"
@@ -10399,7 +10567,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 278500,
       "name": "Tak Ingin Usai",
       "url": "https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU"
@@ -10657,7 +10825,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 237640,
       "name": "Terrenal",
       "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
@@ -11904,6 +12072,24 @@
     },
     {
       "album": {
+        "name": "Wir sagen danke sch\u00f6n (HBz & Raphael Maier Remix)",
+        "url": "https://open.spotify.com/album/5qtSRxNSaDjPJCDTpVOxoW"
+      },
+      "artists": [
+        {
+          "name": "Die Flippers",
+          "url": "https://open.spotify.com/artist/043PrBIjao3PCKicMRvbgf"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205693,
+      "name": "Wir sagen danke sch\u00f6n - DAS ORIGINAL",
+      "url": "https://open.spotify.com/track/5oCCVPPduu3KNtf9wRo1eV"
+    },
+    {
+      "album": {
         "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
       },
@@ -11973,7 +12159,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 166200,
       "name": "Y As\u00ed Fue",
       "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"

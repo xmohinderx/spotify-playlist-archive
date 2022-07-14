@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: WSG WANNABE\) \(당신의 감성에 발라드, 려요\)
 
-466 songs - 1 day 6 hr 21 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+467 songs - 1 day 6 hr 25 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Blue Sky](https://open.spotify.com/track/4KHTeInKLpN83MtOenzyxn) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [Blue Sky](https://open.spotify.com/album/56pwxoS3n0wBSpDmBrOIVp) | 3:26 | 2022-06-18 |  |
 | [BORN TO LOVE YOU](https://open.spotify.com/track/3gOfgRZp9Cglmn2p0I68YP) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [BORN TO LOVE YOU](https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo) | 2:54 | 2022-03-14 | 2022-07-08 |
 | [Boy in time \- HUI Solo](https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:38 | 2022-01-17 | 2022-04-04 |
-| [Break Up In The Morning](https://open.spotify.com/track/58l89KaezgUggzE2c2ZQFU) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Break Up In The Morning](https://open.spotify.com/album/3WQPmJd4FvagVPGWYMjfNO) | 4:44 | 2022-05-11 |  |
+| [Break Up In The Morning](https://open.spotify.com/track/58l89KaezgUggzE2c2ZQFU) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Break Up In The Morning](https://open.spotify.com/album/3WQPmJd4FvagVPGWYMjfNO) | 4:44 | 2022-05-11 | 2022-07-14 |
 | [Breathing](https://open.spotify.com/track/7BOZXsXcOKbHMjbBVcT4R6) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [HIDEOUT: THE NEW DAY WE STEP INTO \- SEASON 2.](https://open.spotify.com/album/0XI2pmH6pUEjx0d9iOqx9x) | 3:38 | 2022-01-03 | 2022-01-13 |
 | [Burden](https://open.spotify.com/track/35wAnH3OfMXvPgJq6urVkG) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [My fuxxxxx romance 01](https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc) | 4:28 | 2022-03-31 | 2022-06-13 |
 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2022-07-07 |  |
@@ -95,6 +95,7 @@
 | [Dear H \(feat\. Lee Tae Kwon\)](https://open.spotify.com/track/4CwAfMWDfwe3MrhyHg4EAS) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Lee Tae Kwon](https://open.spotify.com/artist/0HYkV9ugwyR5INWE6BiCB3) | [The Legacy 08](https://open.spotify.com/album/0J9BcfUwJc47iNde0dCIBN) | 4:19 | 2022-07-07 |  |
 | [Dear My Love](https://open.spotify.com/track/6QdzLFR1l1GP4OoiJAZNtF) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [When the Weather is fine OST Part.4](https://open.spotify.com/album/2OMholRSxY7jILMGLWXuJD) | 4:45 | 2022-03-24 | 2022-04-17 |
 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 | 2022-06-20 | 2022-06-28 |
+| [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-13 |  |
 | [Departure from a Country](https://open.spotify.com/track/3FC6OK2Nvs35Y34fcRb1Ro) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/41rnXi6HnsKF5ueUEqr7uz) | 4:17 | 2022-07-07 |  |
 | [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 | 2022-04-12 | 2022-05-02 |
 | [didn't say anything](https://open.spotify.com/track/0GPtizf5j73g2KuHa4ZdRb) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [ONG SEONG WU](https://open.spotify.com/artist/01APAUkFb3XB5exrmi8tkQ) | [didn't say anything](https://open.spotify.com/album/3Gu1G42hDfGVVcHYZlawbt) | 3:43 | 2022-03-31 | 2022-04-21 |

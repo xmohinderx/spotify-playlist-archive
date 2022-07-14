@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Lecrae & 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,542 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,578 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 39 | [For God Is With Us](https://open.spotify.com/track/26rBcSMxKmv4GsBc2C9pgL) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [For God Is With Us](https://open.spotify.com/album/42WxNlvOhTx0xAEDPawjZh) | 2:09 |
 | 40 | [Everything About You \(feat\. Marlee\)](https://open.spotify.com/track/6WEJfyD3saydrkwaGEAYI5) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Marlee](https://open.spotify.com/artist/4NrOT7BZU0GjwOyw2P0Vmb) | [Everything About You](https://open.spotify.com/album/0cyH1iWX95Bpsp01sFGInX) | 3:27 |
 | 41 | [Don't Lose Heart](https://open.spotify.com/track/5ixUmWYbX1AVgt3SAjAc9T) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Don't Lose Heart](https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2) | 3:31 |
-| 42 | [Safe](https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey](https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ) | 4:37 |
+| 42 | [Safe](https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey](https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ) | 4:38 |
 | 43 | [Holy Ground](https://open.spotify.com/track/58xUB4HoZJmcUsc7h4xy4I) | [Caleb Carroll](https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf) | [The Word](https://open.spotify.com/album/3dQX4vUMkTnsUxWee3rZ4n) | 3:37 |
 | 44 | [Rapha](https://open.spotify.com/track/5OUMZMRUiLK6mHzQ6fkrVZ) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Rapha](https://open.spotify.com/album/0Bj1HbSjUKAI0ij4JJSQsY) | 5:20 |
 | 45 | [I Will Rejoice \(Radio Version\) \- Live](https://open.spotify.com/track/4fscwXnEdroTcfKJk1ORXy) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [I Will Rejoice \(Radio Version\) \[Live\]](https://open.spotify.com/album/3Zcy5sVRPniowWEvB2z3tf) | 4:04 |

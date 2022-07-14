@@ -2,7 +2,7 @@
 
 ### [Creative Writing](https://open.spotify.com/playlist/37i9dQZF1DX1ACGg8vzTNZ)
 
-> Electronic, orchestral and ambient music to awaken your imagination.
+> Instrumental, ambient music to awaken your imagination.
 
 53 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
 

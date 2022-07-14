@@ -378,6 +378,28 @@
     },
     {
       "album": {
+        "name": "Galangal",
+        "url": "https://open.spotify.com/album/3zpKgBawn2BAxkDnF6setV"
+      },
+      "artists": [
+        {
+          "name": "UOKAYE",
+          "url": "https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx"
+        },
+        {
+          "name": "Sei",
+          "url": "https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168507,
+      "name": "Galangal",
+      "url": "https://open.spotify.com/track/5OLRXDqHZqY00WcgwqnLYa"
+    },
+    {
+      "album": {
         "name": "Gypsy Woman (She's Homeless) [House Kitsun\u00e9 America]",
         "url": "https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF"
       },
@@ -683,8 +705,8 @@
           "url": "https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O"
         },
         {
-          "name": "Ivan Frey",
-          "url": "https://open.spotify.com/artist/4ax987q4h5H5GBpUCeXnBg"
+          "name": "\u00cdvan Frey",
+          "url": "https://open.spotify.com/artist/6WG66UQJB2RFMfEMr2SbXh"
         }
       ],
       "date_added": "2022-07-01",
@@ -761,7 +783,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 171666,
       "name": "PALM SPRINGS",
       "url": "https://open.spotify.com/track/0KWDPINXq2YWsHjlC22flO"

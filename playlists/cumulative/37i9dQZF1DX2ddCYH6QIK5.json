@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: The Komets, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Oberst & Buchner, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -45,6 +45,24 @@
       "duration_ms": 187391,
       "name": "2nd Floor",
       "url": "https://open.spotify.com/track/1Z5PMuV1AOBokmmEXupSpt"
+    },
+    {
+      "album": {
+        "name": "30h Amsterdam",
+        "url": "https://open.spotify.com/album/5snGSfi1rzUCx9R9u5U7qu"
+      },
+      "artists": [
+        {
+          "name": "Westhafen",
+          "url": "https://open.spotify.com/artist/6dHHSlyq4f5PqpA2z0uSyd"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233663,
+      "name": "30h Amsterdam",
+      "url": "https://open.spotify.com/track/19CHJ3mdskuC3R36pWNszz"
     },
     {
       "album": {
@@ -499,7 +517,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 163043,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/5qCIiZNPywXtfgw4EQRDPd"
@@ -784,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Boring Together",
+        "url": "https://open.spotify.com/album/2NAPEbVdLbxo0CZxZSUDBs"
+      },
+      "artists": [
+        {
+          "name": "Krankenwagens",
+          "url": "https://open.spotify.com/artist/7cbEY8XlXiZnNkgpzhDQm1"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137771,
+      "name": "Boring Together",
+      "url": "https://open.spotify.com/track/6J0ktPu6HxorYkSKhw5JSd"
+    },
+    {
+      "album": {
         "name": "Boy Boredom",
         "url": "https://open.spotify.com/album/4O7h43h05ToKPZJHrttKmo"
       },
@@ -983,7 +1019,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 183530,
       "name": "Can You Hear Me",
       "url": "https://open.spotify.com/track/63vvhVUCFoJhUPRbP2lVuc"
@@ -1099,6 +1135,24 @@
       "duration_ms": 252028,
       "name": "Cold",
       "url": "https://open.spotify.com/track/2xomYlwMv6QNYmgrIxGYu7"
+    },
+    {
+      "album": {
+        "name": "Cold Lanes",
+        "url": "https://open.spotify.com/album/0orn5KR31lVww3PBkZKujZ"
+      },
+      "artists": [
+        {
+          "name": "AUD SYN",
+          "url": "https://open.spotify.com/artist/0C3irqr3Tg70AyuYvEMAEO"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167942,
+      "name": "Cold Lanes",
+      "url": "https://open.spotify.com/track/4WMffiJmILOIg1gUlvOSgo"
     },
     {
       "album": {
@@ -1380,6 +1434,24 @@
     },
     {
       "album": {
+        "name": "Disco im Kopf",
+        "url": "https://open.spotify.com/album/0ARqT7wSTlGv0WL0U2DKN0"
+      },
+      "artists": [
+        {
+          "name": "Malonda",
+          "url": "https://open.spotify.com/artist/1tewN6ShJ93oDrhx4JRJ7p"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169125,
+      "name": "Disco im Kopf",
+      "url": "https://open.spotify.com/track/7ITzXFp8QFlij6rLWCvKfp"
+    },
+    {
+      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/7ltTbuGDpePm2ollgwOFws"
       },
@@ -1431,6 +1503,24 @@
       "duration_ms": 170653,
       "name": "Double Door",
       "url": "https://open.spotify.com/track/2jwQdjwp1KTOAVzZQUp0L6"
+    },
+    {
+      "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/2z7YuskJOQOLrT3DJIjyxF"
+      },
+      "artists": [
+        {
+          "name": "AYU",
+          "url": "https://open.spotify.com/artist/1sjcTXZESni2B5F8LERoSw"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212293,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/35gpDSDqmXHN3tJMhpyDpU"
     },
     {
       "album": {
@@ -1643,10 +1733,28 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 178787,
       "name": "Empty Pool",
       "url": "https://open.spotify.com/track/68gCdofdWusxhLkbd7uEZ8"
+    },
+    {
+      "album": {
+        "name": "Enough, Enough, Enough",
+        "url": "https://open.spotify.com/album/6FEnRvhnDVwqI3b30BSQeP"
+      },
+      "artists": [
+        {
+          "name": "Diaven",
+          "url": "https://open.spotify.com/artist/73lvMyBnQcxjGo2JRaDtLG"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Enough, Enough, Enough",
+      "url": "https://open.spotify.com/track/289OsHGMIsqHQJucL3BYVo"
     },
     {
       "album": {
@@ -1683,7 +1791,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 204250,
       "name": "Eveline",
       "url": "https://open.spotify.com/track/63qiS7oPpHa3TfC4y7poGq"
@@ -2019,7 +2127,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 213973,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
@@ -2798,6 +2906,24 @@
     },
     {
       "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2xzSt9luR3DuVUGyHOiQBK"
+      },
+      "artists": [
+        {
+          "name": "Dominic Donner",
+          "url": "https://open.spotify.com/artist/2azURZe6SsoMze6CQa4NSN"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/37S9ee9UHb59zl2QNggf9J"
+    },
+    {
+      "album": {
         "name": "In Love With Your Friend",
         "url": "https://open.spotify.com/album/5Y09R63prGdKutYUB4AMV5"
       },
@@ -3473,7 +3599,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 186446,
       "name": "Lost In The Night",
       "url": "https://open.spotify.com/track/6SX6LCm43tKDWg7F70iQB3"
@@ -3783,7 +3909,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 261120,
       "name": "More Than Just One You",
       "url": "https://open.spotify.com/track/0Bbv5RrIcxahL0Q7kgKUHV"
@@ -3859,6 +3985,24 @@
       "duration_ms": 202553,
       "name": "Moving Away",
       "url": "https://open.spotify.com/track/60T8WxijsBXKLrEv4xbXsS"
+    },
+    {
+      "album": {
+        "name": "Mutant Funk",
+        "url": "https://open.spotify.com/album/0K80ufbq3xDggUdFYCtjX6"
+      },
+      "artists": [
+        {
+          "name": "Nitsch",
+          "url": "https://open.spotify.com/artist/7EaaUYhflgfwejHv4DsaEb"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213228,
+      "name": "Mutant Funk",
+      "url": "https://open.spotify.com/track/7vQUPKLKSQpbQp3L1E89Wx"
     },
     {
       "album": {
@@ -4353,7 +4497,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 283426,
       "name": "Playing A Part In This Game",
       "url": "https://open.spotify.com/track/0e27fwAmrFcWdU6dfEBwdn"
@@ -4425,7 +4569,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 251029,
       "name": "Power",
       "url": "https://open.spotify.com/track/4X5Flo8xkXzpoYR4pvFQQu"
@@ -4804,6 +4948,24 @@
     },
     {
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/0W85CQJAEhmSEyJIfa6qA7"
+      },
+      "artists": [
+        {
+          "name": "CrySpy",
+          "url": "https://open.spotify.com/artist/2tGjpKdHRsdsCyas0COPyA"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125149,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/22MAzrKEG3KCnNUrCSOtKv"
+    },
+    {
+      "album": {
         "name": "running // circles",
         "url": "https://open.spotify.com/album/6Gz4ZWgqQ0zGLTOdunXpIP"
       },
@@ -5024,6 +5186,28 @@
     },
     {
       "album": {
+        "name": "Slot Machine feat. Aydo Abay",
+        "url": "https://open.spotify.com/album/51jZVIj9xOtiZUjhyvfna8"
+      },
+      "artists": [
+        {
+          "name": "Oberst & Buchner",
+          "url": "https://open.spotify.com/artist/6c6I6loLZeoagmF9nfAXJw"
+        },
+        {
+          "name": "Aydo Abay",
+          "url": "https://open.spotify.com/artist/7iJD1olupd6aCcjeIBfUkJ"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201413,
+      "name": "Slot Machine feat. Aydo Abay - Radio Edit",
+      "url": "https://open.spotify.com/track/37O0K5W1ruKPj2USQmRvbN"
+    },
+    {
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/68WXuBImJzicXgPZ7njGxA"
       },
@@ -5111,6 +5295,28 @@
       "duration_ms": 272858,
       "name": "somewhere we don't know",
       "url": "https://open.spotify.com/track/6E2fEoIq2lnX0d1clIOxq2"
+    },
+    {
+      "album": {
+        "name": "Sooner Than Later",
+        "url": "https://open.spotify.com/album/3glFPhwa6QQsX9ax3jzFjx"
+      },
+      "artists": [
+        {
+          "name": "Francos Pain",
+          "url": "https://open.spotify.com/artist/1piKeAiKzDQwvqwMqbQwPN"
+        },
+        {
+          "name": "Lucy 22",
+          "url": "https://open.spotify.com/artist/1Y2zpWghC2JzicNPGf4VMg"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249643,
+      "name": "Sooner Than Later",
+      "url": "https://open.spotify.com/track/5NG995z19A2ZcjzvkJdxjz"
     },
     {
       "album": {
@@ -5295,7 +5501,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 201392,
       "name": "Stronger Than Me",
       "url": "https://open.spotify.com/track/3GrEbeE8X4LoVwWv42y7ai"
@@ -5656,6 +5862,24 @@
     },
     {
       "album": {
+        "name": "The Summer We Need",
+        "url": "https://open.spotify.com/album/4e0i5Mw54VqLD3Lu5f2KqJ"
+      },
+      "artists": [
+        {
+          "name": "Oskar Haag",
+          "url": "https://open.spotify.com/artist/49vARgKsuzb4s19CB3hpOj"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "The Summer We Need - Single Version",
+      "url": "https://open.spotify.com/track/0Yl9dhAeeshhjNfEPTllHz"
+    },
+    {
+      "album": {
         "name": "The Weatherman",
         "url": "https://open.spotify.com/album/7mrpT7LGdiABOJ56j35G3y"
       },
@@ -5829,7 +6053,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 222440,
       "name": "Twentysomething",
       "url": "https://open.spotify.com/track/1On8jMKkD4O7RpiQymSrSo"
@@ -6085,7 +6309,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 163500,
       "name": "Where Are We Going",
       "url": "https://open.spotify.com/track/0efaZ3dCcrSjhyvGhxjJIM"

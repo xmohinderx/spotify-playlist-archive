@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-242 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+244 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-06-28 |  |
 | [Reach](https://open.spotify.com/track/616AZIQrnsA3jsCsBCFL7Y) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [Reach](https://open.spotify.com/album/0kl5oaz47bqBL4oSQEoeui) | 4:20 | 2022-01-14 | 2022-03-10 |
 | [Real Life \- Alex Preston Remix](https://open.spotify.com/track/7EpAUuSOOCOytPVjiBTllB) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Real Life \(Remixes\)](https://open.spotify.com/album/0bUx8416niknm1utNHSPvi) | 5:20 | 2022-07-01 |  |
+| [Really Lovers](https://open.spotify.com/track/3PA6lmrVi2QgS6Udt24Ynr) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Really Lovers](https://open.spotify.com/album/6ZXsnuY4P6ZuIW3W1EBxBN) | 2:51 | 2022-07-13 |  |
 | [Reckless \(with MØ\)](https://open.spotify.com/track/6FUHEGAHbt4DbUFp5dNwod) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Reckless](https://open.spotify.com/album/2Oy8FCMc08WhIBKRU9r79v) | 2:36 | 2022-06-29 |  |
 | [REDEEMED](https://open.spotify.com/track/2A2As8QMLjZ7e9r1MwOYsm) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1) | [REDEEMED](https://open.spotify.com/album/1USkfbi24Wh0VDk6nYEdgF) | 2:59 | 2021-12-07 | 2022-01-08 |
 | [Reflections \- il:lo Remix](https://open.spotify.com/track/2CRstAyBVOOD1nQKOt7kox) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Reflections \(il:lo Remix\)](https://open.spotify.com/album/3laEe6ZobS5JDM95kfP7GV) | 6:00 | 2022-01-14 | 2022-02-01 |
@@ -190,6 +191,7 @@
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-02-10 | 2022-03-10 |
 | [searching](https://open.spotify.com/track/6LNIPD5VhXOj8xO1uOryri) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [Ophelia Presents: Advent Volume 4](https://open.spotify.com/album/5qocn2lAsog53oZj9VoF03) | 3:40 | 2022-02-07 | 2022-03-10 |
 | [See You Go](https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r) | [UNIVERSE](https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso) | 4:05 | 2022-06-24 |  |
+| [Sexy Rave Boy](https://open.spotify.com/track/1m6iGcpFTtKTvsvukOL4Du) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [Sexy Rave Boy](https://open.spotify.com/album/3BH8U4Mht7RaoqeTY3GAyB) | 2:12 | 2022-07-13 |  |
 | [Silent Water](https://open.spotify.com/track/7xV2E7ImOGtmunBMiCWdHM) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi), [Sooski](https://open.spotify.com/artist/1GZJ0FyOSt0HTW5Zxxz78K) | [Unison](https://open.spotify.com/album/102nhWXRWFzwAKLqkVzMUX) | 4:18 | 2022-01-18 | 2022-02-05 |
 | [Since I Found You](https://open.spotify.com/track/0NyEvykxXpR7b7u81cyJuz) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [AMBUSH](https://open.spotify.com/album/4wwz78eGEjot2bqn2FAvZG) | 4:26 | 2022-06-25 |  |
 | [Snowfall](https://open.spotify.com/track/4bo2EJlAoJMnIKKGCI6RXf) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [Snowfall EP](https://open.spotify.com/album/3wMUrMNl2EjvQx78YEuW7Z) | 5:27 | 2022-03-25 | 2022-06-25 |

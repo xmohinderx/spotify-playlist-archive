@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jCqmsDQR1i.md) - [plain]
 
 > Metal tracks all the way from the birth of Metal to today\. Cover: Pantera
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,672 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,021 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jCqmsDQR1i.md) - [plain]
 | 99 | [Immortal Rites](https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo) | [Morbid Angel](https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw) | [Altars of Madness](https://open.spotify.com/album/2vWHACnDiSnFM52octEvY0) | 4:03 |
 | 100 | [Black Metal](https://open.spotify.com/track/118y6uwQUrxrhKnVJEAmNC) | [Venom](https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe) | [Black Metal](https://open.spotify.com/album/3USUYWiLEX5HLXF9VXo1MY) | 3:41 |
 
-Snapshot ID: `MTY1MDA0NjA4OCwwMDAwMDAxOTAwMDAwMTgwMmU2OTM0ZDIwMDAwMDE4MDJlNWYwNmEz`
+Snapshot ID: `MTY1Nzc0MDQ2NSwwMDAwMDAxYjAwMDAwMTgxZjkwODE0ODgwMDAwMDE4MDJlNWYwNmEz`

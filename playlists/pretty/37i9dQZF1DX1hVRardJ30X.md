@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Pitbull
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,670 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,780 likes - 58 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 14 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 |
 | 15 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 |
 | 16 | [Perro Negro \(with Totoy El Frio\)](https://open.spotify.com/track/3ePJUfW0ckP5XW2tc4yNgt) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Perro Negro \(with Totoy El Frio\)](https://open.spotify.com/album/2mSo5ky1DI8FZzCTJ8i5Ps) | 3:08 |
-| 17 | [Prendía](https://open.spotify.com/track/3FkIUK4YmiPmuQeiI2JBdm) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Prendía](https://open.spotify.com/album/1OyqhJhYzKHNa9su83b4DR) | 4:30 |
+| 17 | [Prendía](https://open.spotify.com/track/3FkIUK4YmiPmuQeiI2JBdm) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Prendía](https://open.spotify.com/album/1OyqhJhYzKHNa9su83b4DR) | 4:28 |
 | 18 | [La Falta](https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Falta](https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX) | 3:08 |
 | 19 | [Presidiario](https://open.spotify.com/track/25MFPFcbI5j5niGtPG6zxD) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Presidiario](https://open.spotify.com/album/1hcZXLWg11nwqtMN8wQa8F) | 3:35 |
 | 20 | [Mucho Tiempo](https://open.spotify.com/track/7xbl3FhdeRyiqTmaODqcgs) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Mucho Tiempo](https://open.spotify.com/album/4n389Azg6Vt7SqwqExvlbz) | 2:34 |

@@ -1502,6 +1502,24 @@
     },
     {
       "album": {
+        "name": "Le Chal",
+        "url": "https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn"
+      },
+      "artists": [
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196602,
+      "name": "Le Chal",
+      "url": "https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M"
+    },
+    {
+      "album": {
         "name": "Leftovers",
         "url": "https://open.spotify.com/album/2ahNr4xlqGaK106um9nayR"
       },
@@ -2275,7 +2293,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 205046,
       "name": "Sucks To Be Human",
       "url": "https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z"
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 272926,
       "name": "Tara",
       "url": "https://open.spotify.com/track/3DTmTgyV1iEzTbeboZTyJ7"
@@ -2471,6 +2489,24 @@
       "duration_ms": 235932,
       "name": "Tum Jab Paas",
       "url": "https://open.spotify.com/track/3FTRSa9mWB3kKx2jkhUAN3"
+    },
+    {
+      "album": {
+        "name": "Tuta Pull Wahan",
+        "url": "https://open.spotify.com/album/2gFMOqvZHiCwD6myI65Okz"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312701,
+      "name": "Tuta Pull Wahan",
+      "url": "https://open.spotify.com/track/4gCVaEUubhHmhsEe0GFRVx"
     },
     {
       "album": {

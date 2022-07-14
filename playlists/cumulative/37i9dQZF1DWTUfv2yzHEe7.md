@@ -2,14 +2,15 @@
 
 ### [Filmy Party](https://open.spotify.com/playlist/37i9dQZF1DWTUfv2yzHEe7)
 
-> Bollywood beats to keep you dancing all night\. Cover: Aalia Bhatt
+> Bollywood beats to keep you dancing all night\. Cover: Liger
 
-65 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/5HAFGxpwN32oLCPDEylxYw)
+66 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/5HAFGxpwN32oLCPDEylxYw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN) | 3:32 | 2021-12-24 |  |
 | [Aila Re Aillaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/6Aq6LN9pt3TxjkfAJmet5A) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Aila Re Aillaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/4eh49RMjtblXH3IKE98rps) | 2:36 | 2021-12-24 | 2022-01-06 |
+| [Akdi Pakdi \(From "Liger"\)](https://open.spotify.com/track/79xjw95DSvcl8sDtghDOGo) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Sunil Kashyap](https://open.spotify.com/artist/4ZTli8xiH8txCfWJtulNXQ), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Pawni Pandey](https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX) | [Akdi Pakdi \(From "Liger"\)](https://open.spotify.com/album/0sqF7xlWsmlPf3wVMvMf8n) | 3:50 | 2022-07-13 |  |
 | [Akh Lad Jaave \(From "Loveyatri"\)](https://open.spotify.com/track/554Jv8PaaIVAwOOpoJ4YCm) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Akh Lad Jaave \(From "Loveyatri"\)](https://open.spotify.com/album/3trJHtvXnczVVzAcXpbQiW) | 3:00 | 2021-12-24 |  |
 | [Bad Boy \(From "Saaho"\)](https://open.spotify.com/track/5I3Xih0C2ID3fqngBrBbGv) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bad Boy \(From "Saaho"\)](https://open.spotify.com/album/2LgAohVWfnSxwGjzswx6ES) | 2:58 | 2021-12-24 |  |
 | [Bang Bang](https://open.spotify.com/track/5R7HpWXej6SiCrd9YJsC5g) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zhx5FG1P3Rc9Ufbr9bIgF) | 5:20 | 2021-12-24 |  |

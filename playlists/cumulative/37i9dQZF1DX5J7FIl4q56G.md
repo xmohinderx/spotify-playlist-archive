@@ -2,7 +2,7 @@
 
 ### [All New Metal](https://open.spotify.com/playlist/37i9dQZF1DX5J7FIl4q56G)
 
-> The latest and greatest metal tracks\. Cover: Five Finger Death Punch
+> The latest and greatest metal tracks plus new bands you need to keep an eye on\. Cover: Five Finger Death Punch
 
 1,192 songs - 3 day 8 hr 38 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 

@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-144 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
+145 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Chasing Kites](https://open.spotify.com/track/0oK8bEVLkPPUvN3IIbxB6b) | [PARTYOFØNE](https://open.spotify.com/artist/3bb8SEudKsfPJOU3PMBXut) | [Chasing Kites](https://open.spotify.com/album/06e1MSR7uMU1RAqdNHKDmh) | 2:35 | 2022-05-06 |  |
 | [Classless Act \(feat\. Vince Neil of Motley Crue\)](https://open.spotify.com/track/05liOVVybQw3UyyrEOAcSw) | [Classless Act](https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Classless Act \(feat\. Vince Neil of Mötley Crüe\)](https://open.spotify.com/album/2TGWTcdEm3PydLgMmxBawv) | 3:14 | 2022-05-19 | 2022-06-10 |
 | [Comatose](https://open.spotify.com/track/78NXFhK5TfE7MCbdUHPu3i) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Comatose](https://open.spotify.com/album/4ewoGU67cjp00afCZRjRiY) | 3:10 | 2022-05-19 | 2022-06-03 |
-| [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-05-06 |  |
+| [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-05-06 | 2022-07-14 |
 | [Congratulations](https://open.spotify.com/track/4KegQTOlL9MRctg4JIeVUl) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Congratulations](https://open.spotify.com/album/2N32BE9xsjUyzQ2jfOPAyq) | 3:16 | 2022-05-06 | 2022-05-13 |
 | [CORALINE](https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 5:00 | 2022-05-06 |  |
 | [Daylight](https://open.spotify.com/track/6LleMnUceskUsmszoOlODl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Daylight](https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m) | 4:00 | 2022-06-02 |  |
@@ -91,6 +91,7 @@
 | [NO TURNING BACK](https://open.spotify.com/track/1GCXd0ZdUM5kbVSiOevtyf) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [NO TURNING BACK](https://open.spotify.com/album/69JdvkOnasmaWnVIvwMGd3) | 2:38 | 2022-05-06 | 2022-06-10 |
 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 | 2022-05-06 | 2022-05-27 |
 | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/track/7mYKxi4gqlSweFg2xigZ1w) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/album/4gG47LR7Xbk0E9k0zNCHZp) | 3:33 | 2022-05-06 | 2022-06-10 |
+| [Once Upon a Time](https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 2:23 | 2022-07-13 |  |
 | [One Last Time](https://open.spotify.com/track/5uRa4je68U6oSiPKTiX1MW) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [One Last Time](https://open.spotify.com/album/4xL0dVYk7SJYPhMlfFUXeS) | 3:13 | 2022-05-06 | 2022-06-03 |
 | [Opiate²](https://open.spotify.com/track/6iQDmWrbrMQ0vPfbKqqvKU) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate²](https://open.spotify.com/album/13sWe0tYKenwLd2t25bHIi) | 9:54 | 2022-05-06 |  |
 | [Overcast](https://open.spotify.com/track/4ylt9yahyuyNy5EIEUS7eE) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Mây Mù](https://open.spotify.com/album/4sXqEcYMZvBKCcwkasoinW) | 2:51 | 2022-06-23 |  |

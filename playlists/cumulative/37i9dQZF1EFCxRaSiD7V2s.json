@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "It's Dangerous To Go Alone",
+        "url": "https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164944,
+      "name": "Another Castle",
+      "url": "https://open.spotify.com/track/1HFIrt2wIRGBgxsiznHu8v"
+    },
+    {
+      "album": {
         "name": "Songs From Season Six",
         "url": "https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2"
       },
@@ -919,6 +937,28 @@
       "duration_ms": 164181,
       "name": "Doublemeat Palace",
       "url": "https://open.spotify.com/track/05qnEfWq4DDyGuqO0l8W5e"
+    },
+    {
+      "album": {
+        "name": "It's Dangerous To Go Alone",
+        "url": "https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262709,
+      "name": "Dragonborn",
+      "url": "https://open.spotify.com/track/0Xa5h31hcfDb04bmMGkf2e"
     },
     {
       "album": {
@@ -2377,6 +2417,24 @@
       "duration_ms": 143939,
       "name": "Long Long Gone - Demo",
       "url": "https://open.spotify.com/track/5yBKGfBKo62opt4uKOHiKP"
+    },
+    {
+      "album": {
+        "name": "It's Dangerous To Go Alone",
+        "url": "https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171239,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5D2EvPaFfJN3dZ92rj4Wov"
     },
     {
       "album": {

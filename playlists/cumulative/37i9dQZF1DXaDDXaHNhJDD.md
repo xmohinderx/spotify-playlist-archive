@@ -4,7 +4,7 @@
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: Aarattu
 
-61 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/10m0BYH7vx3vQP94cQIjSm)
+62 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/10m0BYH7vx3vQP94cQIjSm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Oru Dinam](https://open.spotify.com/track/7oHkzeHAJLYtlIxU9HPv1p) | [Anand Bhaskar](https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO) | [Big Brother \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14twkYYG73eJadLi9J16ej) | 4:19 | 2022-05-17 |  |
 | [Paalnilavin Poykayil \- Female Version](https://open.spotify.com/track/7Cx1yvoVthkzcLd7bcV8QL) | [Ranjin Raj](https://open.spotify.com/artist/4HhPs1nwYZNmP72fuE30BV), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Kaanekkaane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3324hakjFQpPrrghv4jxQ2) | 4:47 | 2022-06-13 |  |
 | [PakalIravukal](https://open.spotify.com/track/579c8Ak7lcrByDCbWS0ZYh) | [Neha Nair](https://open.spotify.com/artist/78NGdhTf5oKXObZbj278qk) | [Kurup \- Malayalam](https://open.spotify.com/album/68oC3KNi0m0C2DLU3YrNty) | 3:33 | 2022-05-17 |  |
+| [Pala Palli \- From "Kaduva"](https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR) | [Pala Palli \(From "Kaduva"\)](https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk) | 4:30 | 2022-07-13 |  |
 | [Parayuvaan \- From "Ishq"](https://open.spotify.com/track/4hTcGYU6uXZVCAfIMsxhlC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Parayuvaan \(From "Ishq"\)](https://open.spotify.com/album/0ZF2WvYiOVQwz2qnUUioTn) | 4:37 | 2022-05-17 |  |
 | [Parudeesa](https://open.spotify.com/track/7v9H4CsUcaoeXSCkhv0xHa) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Bheeshma Parvam](https://open.spotify.com/album/6ouJQmuaymffyfNxWlQGZT) | 4:02 | 2022-05-30 |  |
 | [Pavizha Mazha](https://open.spotify.com/track/36bYASwok7rBHAkrqiPdnu) | [P\. S\. Jayhari](https://open.spotify.com/artist/4cR7Pr8HL7eddm7Zm79gV4), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Athiran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GMlzCTaWknSK8sTnFm8KJ) | 3:53 | 2022-05-17 |  |

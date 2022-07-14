@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,658 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,796 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [First Impression \(feat\. Quavo & Yung Miami\)](https://open.spotify.com/track/605q55PSYbR26lHjamODIz) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 5:22 |
 | 100 | [Conceited](https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Conceited](https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV) | 2:26 |
 
-Snapshot ID: `MTY1NzY3NDQ1MSwwMDAwMDAwMGY2ODUyZDYxMWEwNDIyZmEyYWNlN2NkZDYwZjkzNWU4`
+Snapshot ID: `MTY1Nzc2MTE1NCwwMDAwMDAwMGY2ODUyZDYxMWEwNDIyZmEyYWNlN2NkZDYwZjkzNWU4`

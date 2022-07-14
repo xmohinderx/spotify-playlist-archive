@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHwQpcoF2cC.md) - [plain]
 
 > The best recent metal tracks\. Cover: Falling In Reverse
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,264 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,438 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHwQpcoF2cC.md) - [plain]
 | 49 | [The Skeleton Key](https://open.spotify.com/track/6IVKiq8Xxhvg03MUtu5smv) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:06 |
 | 50 | [Snowblood](https://open.spotify.com/track/3pkfVWPONcWQU5UAxWyALx) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [ERRA](https://open.spotify.com/album/3OuLJUIq1lBj8EUaoIQvWZ) | 4:13 |
 
-Snapshot ID: `MTY1NjQ5ODMwMiwwMDAwMDA5NjAwMDAwMTgxYWVmZTJlODEwMDAwMDE4MWFlZmQxMTM0`
+Snapshot ID: `MTY1NzcyNzAxOSwwMDAwMDA5NzAwMDAwMTgxZjgzYWU4ZjAwMDAwMDE4MWFlZmQxMTM0`

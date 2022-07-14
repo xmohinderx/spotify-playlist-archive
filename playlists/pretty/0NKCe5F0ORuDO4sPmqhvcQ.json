@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21323,
+  "num_followers": 21322,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTc4OCwwMWU5MzE5Y2Y4OWFiOWE0Y2MwNWJlNjEzNWU3ZTkzYzVlZThiMTk3",
+  "snapshot_id": "OTc5OSwwNThjMDAwZWRhM2Q3NWE4MDgwOTRkMTRiZTRhZGNmMmZmNWEyODhj",
   "tracks": [
     {
       "added_at": "2022-06-23 19:13:06",
@@ -159,6 +159,22 @@
       "duration_ms": 200872,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/2tinYknqBborA5kYv07aKX"
+    },
+    {
+      "added_at": "2022-07-13 15:37:47",
+      "album": {
+        "name": "Sexy Rave Boy",
+        "url": "https://open.spotify.com/album/3BH8U4Mht7RaoqeTY3GAyB"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        }
+      ],
+      "duration_ms": 132352,
+      "name": "Sexy Rave Boy",
+      "url": "https://open.spotify.com/track/1m6iGcpFTtKTvsvukOL4Du"
     },
     {
       "added_at": "2022-04-15 15:30:53",
@@ -1399,6 +1415,22 @@
       "duration_ms": 158181,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/4dM5RiuTAMqpxMXUymNvom"
+    },
+    {
+      "added_at": "2022-07-13 15:37:20",
+      "album": {
+        "name": "Really Lovers",
+        "url": "https://open.spotify.com/album/6ZXsnuY4P6ZuIW3W1EBxBN"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 171582,
+      "name": "Really Lovers",
+      "url": "https://open.spotify.com/track/3PA6lmrVi2QgS6Udt24Ynr"
     }
   ],
   "unique_name": "Moving Castle Monthly",

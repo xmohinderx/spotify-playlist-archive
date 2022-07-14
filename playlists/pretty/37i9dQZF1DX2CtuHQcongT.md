@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,952 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,007 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 32 | [Humming The Bassline](https://open.spotify.com/track/1udnWT8KqEZbSUS9T7j7LQ) | [Hideki Naganuma](https://open.spotify.com/artist/3ULvi5IjU8vjBJW3e8EPLz) | [Jet Set Radio SEGA Original Tracks](https://open.spotify.com/album/6X6DxlTL1BB50VLvEzRD7h) | 2:54 |
 | 33 | [Skyscraper Tokyo](https://open.spotify.com/track/2iLSmnj2JsViDmiZ88AxLq) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Kunoichi Original Soundtrack](https://open.spotify.com/album/3Pjqdn0SUjlcQWGAEYGU2A) | 4:00 |
 | 34 | [Live & Learn ...Main Theme of ”SONIC ADVENTURE 2”](https://open.spotify.com/track/46w4TwSYDFLlUNhsyz1JYt) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL) | [Sonic Adventure 2 Original Soundtrack \(vol.2\)](https://open.spotify.com/album/6PEhhbtJzY8l5Pt77d8PtP) | 4:28 |
-| 35 | [飛翔 〜Episode 1 \- Orchestra Version](https://open.spotify.com/track/4wiSnulrUoXUeKK4X0Kfnw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [パンツァードラグーン オリジナルサウンドトラック](https://open.spotify.com/album/6E2seCCR8Wp53s4cTl0gFV) | 3:46 |
+| 35 | [飛翔 \~Episode 1 \- Orchestra Version](https://open.spotify.com/track/4wiSnulrUoXUeKK4X0Kfnw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [パンツァードラグーン オリジナルサウンドトラック](https://open.spotify.com/album/6E2seCCR8Wp53s4cTl0gFV) | 3:46 |
 | 36 | [ルーヴル美術館侵入](https://open.spotify.com/track/2TjrM7ixQJRV47YsQsj75A) | [Naofumi Hataya](https://open.spotify.com/artist/16Zt0banJ38CasAMhXAqBm) | [リズム怪盗R 皇帝ナポレオンの遺産 オリジナル サウンドトラック \(Vol\. 1\)](https://open.spotify.com/album/2cjLwgvKJDcXxJD2jjv985) | 1:56 |
 | 37 | [ばかみたい \- Taxi Driver Edition](https://open.spotify.com/track/6z3Yfhf2btFUDBuG2s2yhW) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 4:51 |
 | 38 | [Xenophobia \(Alcatraz boss BGM\)](https://open.spotify.com/track/2C7j0b76togzq83GPItE0X) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [ガンブレードNY & L.A.マシンガンズ オリジナルサウンドトラック](https://open.spotify.com/album/1ZqwT1lddLVAskCvbYGjVs) | 2:57 |

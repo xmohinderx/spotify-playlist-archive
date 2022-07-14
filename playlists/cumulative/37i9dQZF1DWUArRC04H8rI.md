@@ -2,7 +2,7 @@
 
 ### [hot latina summer](https://open.spotify.com/playlist/37i9dQZF1DWUArRC04H8rI)
 
-> el verano de las mamiiiis🥵 It's a hot girl summer.
+> It's a hot girl summer\. 🥵
 
 164 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/6cghO0Da93k5eTyAVNppYC)
 
@@ -145,8 +145,8 @@
 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 | 2022-07-08 |  |
 | [so called friends \- Duñe Remix](https://open.spotify.com/track/5j9LTk1zcmf0NHOVq4XPiN) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC) | [so called friends \(Duñe Remix\)](https://open.spotify.com/album/6zRs9EtzYzNeFAh608g49G) | 2:47 | 2021-12-24 | 2022-05-12 |
 | [Sola](https://open.spotify.com/track/237dlPXLNIsatIRYKRbCWN) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/09Uf3mvkEMJZor5YsOP4dk) | 3:18 | 2021-12-24 | 2022-04-26 |
-| [Solo de Mi](https://open.spotify.com/track/4uP3pUP18ennmz0tb3GphR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:17 | 2022-07-08 | 2022-07-13 |
-| [Solo de Mi](https://open.spotify.com/track/5YOkA7qd2983FtBQnP8sYx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Solo de Mi](https://open.spotify.com/album/4tpexvNazI77pndY3LdOLX) | 3:17 | 2022-07-11 |  |
+| [Solo de Mi](https://open.spotify.com/track/4uP3pUP18ennmz0tb3GphR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:17 | 2022-07-08 |  |
+| [Solo de Mi](https://open.spotify.com/track/5YOkA7qd2983FtBQnP8sYx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Solo de Mi](https://open.spotify.com/album/4tpexvNazI77pndY3LdOLX) | 3:17 | 2022-07-11 | 2022-07-14 |
 | [Soltera \- Remix](https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 4:26 | 2022-07-08 |  |
 | [SORRY PAPI](https://open.spotify.com/track/5jZ32WOU7sqzDYbzINwMUk) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:43 | 2022-07-08 |  |
 | [Soñé Que Te Perdía](https://open.spotify.com/track/1lRdfGNjaSbz1ZobwU5Gig) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Soñé Que Te Perdía](https://open.spotify.com/album/45zhh8r9YUGApMnt6c6Yco) | 2:47 | 2021-12-24 | 2022-05-12 |

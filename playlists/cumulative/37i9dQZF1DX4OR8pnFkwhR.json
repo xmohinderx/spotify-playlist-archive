@@ -4964,6 +4964,24 @@
     },
     {
       "album": {
+        "name": "\u87f2\u7c60",
+        "url": "https://open.spotify.com/album/5GeYQsz4EGr6egvxMe01xV"
+      },
+      "artists": [
+        {
+          "name": "SUKEROQUE",
+          "url": "https://open.spotify.com/artist/6xpajOWpLOfAPzgvtjp8hW"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "\u87f2\u7c60",
+      "url": "https://open.spotify.com/track/54xHd0AXvVIu84SRjs543S"
+    },
+    {
+      "album": {
         "name": "\u8ab0\u3082\u805e\u304b\u306a\u3044\u30e9\u30b8\u30aa\u304b\u3089",
         "url": "https://open.spotify.com/album/5SR6hwOKKGjUJpCDIJ9kNf"
       },

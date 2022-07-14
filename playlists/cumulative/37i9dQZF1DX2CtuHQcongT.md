@@ -57,6 +57,6 @@
 | [深志桜 Deep Aim Blossoms](https://open.spotify.com/track/4YhSFtfEUc1Ad0YiYUrGII) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [戦国大戦 音曲集](https://open.spotify.com/album/0bJbkXLJ66m1DqJzXiLfOZ) | 3:37 | 2021-09-14 |  |
 | [混沌を越えし我らが神聖なる調律主を讃えよ](https://open.spotify.com/track/5VzxuWsc2z5713gOQQXvRY) | [穴山大輔](https://open.spotify.com/artist/6cHTgEdfg5TijcfDjWQIOc) | [Observe the Metaverse](https://open.spotify.com/album/1cnWJQyWvklMD1CnAhcyK9) | 2:32 | 2021-09-14 |  |
 | [焔](https://open.spotify.com/track/52fCPgku0gfy2RuimZyR84) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [ボーダーブレイク エアバースト オリジナル サウンドトラック](https://open.spotify.com/album/2psI73DzOKmWvZN0BdQnJl) | 3:26 | 2021-09-14 |  |
-| [飛翔 〜Episode 1 \- Orchestra Version](https://open.spotify.com/track/4wiSnulrUoXUeKK4X0Kfnw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [パンツァードラグーン オリジナルサウンドトラック](https://open.spotify.com/album/6E2seCCR8Wp53s4cTl0gFV) | 3:46 | 2021-09-14 |  |
+| [飛翔 \~Episode 1 \- Orchestra Version](https://open.spotify.com/track/4wiSnulrUoXUeKK4X0Kfnw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [パンツァードラグーン オリジナルサウンドトラック](https://open.spotify.com/album/6E2seCCR8Wp53s4cTl0gFV) | 3:46 | 2021-09-14 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

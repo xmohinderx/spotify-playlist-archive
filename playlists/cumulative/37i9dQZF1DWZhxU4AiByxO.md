@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-157 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+158 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [In My Blood](https://open.spotify.com/track/2nPRJ1sJLgUKSZrTo5Xd6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:17 | 2021-10-22 |  |
 | [Intentions](https://open.spotify.com/track/1w8WFf0FCkCNilBWGQVbUz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Intentions](https://open.spotify.com/album/4LyjoXBM9xPSRUQX8rdqkL) | 2:45 | 2021-10-22 |  |
 | [Into the Unknown](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:14 | 2021-10-22 |  |
+| [It's On \- From "High School Musical: The Musical: The Series \(Season 3\)"/Camp Rock 2: The Final Jam](https://open.spotify.com/track/0cUUqEzIs5KfFMMoUMQuGO) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [It's On \[From "High School Musical: The Musical: The Series \(Season 3\)"/Camp Rock 2: The Final Jam\]](https://open.spotify.com/album/5aAT0At7qA2oH2CkVN1Iy9) | 3:02 | 2022-07-13 |  |
 | [It's Only Love, Nobody Dies](https://open.spotify.com/track/4HBaBg9EzXkTspFJ3y3uE0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 3:04 | 2022-03-29 |  |
 | [It’s Alright \- From The Netflix Film My Little Pony: A New Generation](https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It's Alright \(From The Netflix Film My Little Pony: A New Generation\)](https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7) | 3:13 | 2021-10-22 |  |
 | [It’s Gonna Be A Lovely Day \(The Secret Life of Pets 2\)](https://open.spotify.com/track/4tZ44neYoPDYX16daNPTdb) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [The Secret Life of Pets 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1T0nc8HicExHdI8g8cF21a) | 3:51 | 2021-10-22 |  |

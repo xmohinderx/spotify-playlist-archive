@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAbM8agIbA.md) - [plain]
 
 > Take a journey through the heart of the blues \(with a couple of detours along the way\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,507 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,543 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAbM8agIbA.md) - [plain]
 | 54 | [Bo Diddley](https://open.spotify.com/track/1RB0enoqsqHElR3Pag8pzU) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/10zuf7RQluaQGrbrXtU4nW) | 2:48 |
 | 55 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 |
 
-Snapshot ID: `MTU2ODAxODE1OSwwMDAwMDAwNjAwMDAwMTZhMjYwMGRlMTgwMDAwMDE2ZDE1MmE1Nzlm`
+Snapshot ID: `MTY1NzcyNTkzMiwwMDAwMDAwNzAwMDAwMTgxZjgyYTU0MTcwMDAwMDE2ZDE1MmE1Nzlm`

@@ -2787,7 +2787,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 185379,
       "name": "GUCCI",
       "url": "https://open.spotify.com/track/72uWCXxhwYjonmZ4FHHSlo"
@@ -4291,7 +4291,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -6271,6 +6271,24 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2"
+    },
+    {
+      "album": {
+        "name": "Pezsg\u0151 Kavi\u00e1r Kurv\u00e1k",
+        "url": "https://open.spotify.com/album/52ib9wG7umi5TYHL3i4qj0"
+      },
+      "artists": [
+        {
+          "name": "Curtis",
+          "url": "https://open.spotify.com/artist/2cFK15y135mg47RIgsS43E"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163255,
+      "name": "Pezsg\u0151 Kavi\u00e1r Kurv\u00e1k",
+      "url": "https://open.spotify.com/track/6DPh0sUSj2Ml4CL3iJJSn1"
     },
     {
       "album": {
@@ -9175,7 +9193,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 183686,
       "name": "\u00c1lmatlan est\u00e9k",
       "url": "https://open.spotify.com/track/3JEYn4Ewai3sGkJl01v9Of"

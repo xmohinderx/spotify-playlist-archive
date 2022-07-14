@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-827 songs - 1 day 20 hr 50 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+828 songs - 1 day 20 hr 52 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Aima](https://open.spotify.com/track/7dbwdaU5belAQj5Qc0cFle) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [Aima](https://open.spotify.com/album/75xcQVgmDHtACY4ekzTQyL) | 3:28 | 2022-05-31 | 2022-06-04 |
 | [Air Max](https://open.spotify.com/track/3OGv5aAfxKGmkstUtsfFUC) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Metro](https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa) | 3:07 | 2022-05-13 |  |
 | [Ajax](https://open.spotify.com/track/7AZhm74e7vLOa1Aruw4WK7) | [Aias](https://open.spotify.com/artist/4EbZQsxETERs6T4mhtQVdn), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [222](https://open.spotify.com/album/6oheKO8wl0y0ubNQEFb0B7) | 2:57 | 2022-02-19 | 2022-02-24 |
+| [AKOMI](https://open.spotify.com/track/5dKi5wRWzTPWHmUxpq96Hf) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [AKOMI](https://open.spotify.com/album/22oawTZSHDtZmhKSESCxzE) | 2:57 | 2022-07-13 |  |
 | [Akropoli](https://open.spotify.com/track/1X96wYrlbgvTsdnMP0YzcR) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Nuki](https://open.spotify.com/artist/5VyuxeMadrk0YwzaSplggN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [Amantes Amentes](https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF) | 2:31 | 2022-06-11 | 2022-06-16 |
 | [Al Dente](https://open.spotify.com/track/4fgrbxZS3w4yFgxW6DHjF1) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Al Dente](https://open.spotify.com/album/0A1acmwAchEKTZ70kxt6M0) | 3:24 | 2021-05-28 | 2021-06-07 |
 | [Alania](https://open.spotify.com/track/4JbkrVUzjs9wUddxaBjsAA) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 3:23 | 2022-02-26 | 2022-02-28 |
@@ -346,7 +347,7 @@
 | [Interpol](https://open.spotify.com/track/1r8FtFFRvksF4iCjb52SsY) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Still Active](https://open.spotify.com/album/6yfbRFac4pSvmPOc2INxFe) | 3:20 | 2021-03-27\* | 2021-04-09 |
 | [Interrail](https://open.spotify.com/track/03u4CH8SP4davgdbacEL6W) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Electabaz](https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 3:53 | 2022-04-27 | 2022-04-30 |
 | [Intro](https://open.spotify.com/track/5NkREaWsEC6OKuCsUZmNFC) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 2:28 | 2022-04-27 | 2022-04-29 |
-| [Intro \(Apo Tous Yponomous\)](https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Metro](https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa) | 3:04 | 2022-05-13 |  |
+| [Intro \(Apo Tous Yponomous\)](https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Metro](https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa) | 3:04 | 2022-05-13 | 2022-07-14 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-25 | 2021-12-27 |
 | [It's Love](https://open.spotify.com/track/6bOAwlJ6V8oWqGOXeairhN) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It's Love](https://open.spotify.com/album/61fjiw7XzE91ldIpdf3iCz) | 2:51 | 2022-04-11 | 2022-04-16 |

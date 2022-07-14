@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain](/playlists/plain/37i9dQZF1DWXrVH01e3PIE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXrVH01e3PIE)
 
-### [Trapperz Argentina.](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
+### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
 > Bhavi en la casa del Trap de Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,288 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,359 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 99 | [Guchi Polo](https://open.spotify.com/track/7LogWJv62K2bdTtw12RHTb) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Guchi Polo](https://open.spotify.com/album/6geOVKHOwBGyQIMo9m8yR6) | 3:21 |
 | 100 | [DUDADE](https://open.spotify.com/track/1mjHyr9e7uP0QisX3y7a6T) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DUDADE](https://open.spotify.com/album/7FIFYG9XiHhS9b3J3ARn2M) | 2:03 |
 
-Snapshot ID: `MTY1NzIzMzQyNSwwMDAwMDE0YTAwMDAwMTgxZGFjZjQzYTgwMDAwMDE4MTZjYjEwZTZh`
+Snapshot ID: `MTY1Nzc0MTg4MCwwMDAwMDE0YjAwMDAwMTgxZjkxZGFiNTYwMDAwMDE4MTZjYjEwZTZh`

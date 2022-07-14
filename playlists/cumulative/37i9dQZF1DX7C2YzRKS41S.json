@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 327719,
       "name": "(T\u00e1)",
       "url": "https://open.spotify.com/track/1hjqF86jqqXVc9FzmoHFrK"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 182058,
       "name": "3 da Manh\u00e3",
       "url": "https://open.spotify.com/track/3NCpBBT9G5eIDQxTRMacBm"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 219735,
       "name": "A Voz de um Amigo",
       "url": "https://open.spotify.com/track/3F5cEFAYSXyfiBZn7IeQuq"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 179634,
       "name": "Admir\u00e1vel Estranho",
       "url": "https://open.spotify.com/track/1gvJoEoO0537OnQ0Pi9V47"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 232000,
       "name": "Alma \u00c1gua",
       "url": "https://open.spotify.com/track/1Zq9WeWtDFFlvZk4oDDeTK"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 198500,
       "name": "Amador Demais",
       "url": "https://open.spotify.com/track/6N53rACGAW7u96F5NYKgXW"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 159720,
       "name": "amores de ver\u00e3o",
       "url": "https://open.spotify.com/track/2DQmQrqo19ZG0fRdOqI9Hr"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 146375,
       "name": "Cheiro de Filho",
       "url": "https://open.spotify.com/track/6Ty26C5oLsOS68yA5ZCk6g"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 199019,
       "name": "Dama da Noite",
       "url": "https://open.spotify.com/track/4NnsR2Rw7iip84mtRlh7a7"
@@ -1699,7 +1699,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 207550,
       "name": "De Pouquinho em Pouquinho",
       "url": "https://open.spotify.com/track/7mK3JJcyPBfD1nR9D5Au45"
@@ -1717,7 +1717,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 198292,
       "name": "deixa que eu j\u00e1 vou",
       "url": "https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo"
@@ -2281,7 +2281,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 140493,
       "name": "Eu Te Amo Demais",
       "url": "https://open.spotify.com/track/3irykMj55KGyq0Y0ESPsnz"
@@ -2505,7 +2505,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 180242,
       "name": "Fortuna e Paz",
       "url": "https://open.spotify.com/track/76QfrFK7OiK82C51iqWNu7"
@@ -2685,7 +2685,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 141492,
       "name": "Haja Vista",
       "url": "https://open.spotify.com/track/2kIimz88xipoDtZsMhSlBp"
@@ -2962,6 +2962,24 @@
     },
     {
       "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
+    },
+    {
+      "album": {
         "name": "Kids - Single",
         "url": "https://open.spotify.com/album/43dppTgh3gnnO5oFOspAyv"
       },
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 268005,
       "name": "Lugar Comum",
       "url": "https://open.spotify.com/track/3u2HKohMV6GXsZ8EncTNBv"
@@ -3771,7 +3789,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 189565,
       "name": "Nossa Dan\u00e7a",
       "url": "https://open.spotify.com/track/6OpsskOwFTW8S2j0di6bRX"
@@ -3941,7 +3959,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 178899,
       "name": "O amor do mundo inteiro",
       "url": "https://open.spotify.com/track/4kv4NLf1F5KXAbcT1bKnim"
@@ -4387,7 +4405,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 202506,
       "name": "Pensando Bem",
       "url": "https://open.spotify.com/track/2vz5y776IIyrac1KkYuY75"
@@ -4709,7 +4727,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 394706,
       "name": "Quando Bate Aquela Saudade",
       "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
@@ -4781,7 +4799,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 154280,
       "name": "Quanto Tempo",
       "url": "https://open.spotify.com/track/4f2MvdVt8mhv91klmGlXFQ"
@@ -5693,7 +5711,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 243853,
       "name": "te procuro",
       "url": "https://open.spotify.com/track/6jd296Iqly0hU02QDJKFfi"
@@ -5977,7 +5995,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 245884,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/4svyWPcXznHkdtWspiKJaI"
@@ -6013,7 +6031,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 223192,
       "name": "Todas As Cores - Vers\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/4xiAj5nbQAcQhcqXiqNAg3"
@@ -6053,7 +6071,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 185083,
       "name": "Travessia",
       "url": "https://open.spotify.com/track/1CgWBmCV49s52zhkmlmDix"
@@ -6259,7 +6277,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 276870,
       "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
       "url": "https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1"
@@ -6277,7 +6295,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 233919,
       "name": "Vapor",
       "url": "https://open.spotify.com/track/0kteOf15gjOAWtyOwLFBL8"
@@ -6299,7 +6317,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "VEJA BABY - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"

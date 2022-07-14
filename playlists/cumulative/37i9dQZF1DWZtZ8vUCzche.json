@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 449480,
       "name": "3030",
       "url": "https://open.spotify.com/track/39GBFwBe4GGk7i3yr3F46P"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 277240,
       "name": "Constant Craving",
       "url": "https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k"
@@ -633,6 +633,24 @@
       "duration_ms": 206533,
       "name": "Dacoit Duel",
       "url": "https://open.spotify.com/track/4KT34MnZBuIgLKmzKr0e6V"
+    },
+    {
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Gainsbourg",
+          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364986,
+      "name": "Deadly Valentine",
+      "url": "https://open.spotify.com/track/0pfTlQJBOV4LUmF8qqrVy5"
     },
     {
       "album": {
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 293466,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/5iNtk3MiBsLHDUNFxEmxUy"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 293386,
       "name": "In My Secret Life",
       "url": "https://open.spotify.com/track/31TADh49q4s4jm6lGDeIrd"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 327946,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617"
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 243400,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/1ph6Bncj7s3BmYp6FkIzP8"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 204373,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 189413,
       "name": "Opera",
       "url": "https://open.spotify.com/track/4ngPZO9WdE1oElwP0zC4Vx"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 271933,
       "name": "Out on the Weekend - 2009 Remaster",
       "url": "https://open.spotify.com/track/7DqktFsRwJa0XDFPMjV1xJ"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 323866,
       "name": "Say Hello, Wave Goodbye - 7\" Single Version",
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
@@ -2585,7 +2603,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 179066,
       "name": "Spirits In The Material World - Remastered 2003",
       "url": "https://open.spotify.com/track/0h1wFiJEfkPsuJyPHL5j2H"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 208236,
       "name": "Square Feet",
       "url": "https://open.spotify.com/track/1CHJtrKc555sk95KB27YAM"
@@ -2657,7 +2675,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 231453,
       "name": "Strict Machine",
       "url": "https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX"
@@ -2675,7 +2693,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 267466,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/36Ae28qcIcoV3940YBBSxX"
@@ -3039,7 +3057,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 353226,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/6gUISPCR7yMiCaN7sfM4m7"
@@ -3133,7 +3151,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 223866,
       "name": "What a Fool Believes",
       "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
@@ -3151,7 +3169,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 178680,
       "name": "What's A Girl To Do?",
       "url": "https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI"
@@ -3205,7 +3223,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 163066,
       "name": "You Keep Me Hangin' On - Stereo Version",
       "url": "https://open.spotify.com/track/5RZ2l6TkDgWdSbo5fZDKn4"

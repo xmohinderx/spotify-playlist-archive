@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 157685,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4eZiBjSsbi4ObiL8s5rzP7"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 209477,
       "name": "Are You Mine",
       "url": "https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 186168,
       "name": "Backyard Stories",
       "url": "https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/72p4bX3wUsqySOtUBvVIXp"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 132270,
       "name": "California Nights",
       "url": "https://open.spotify.com/track/4ZmejwrgkNOowAPiIntRox"
@@ -1215,6 +1215,28 @@
       "duration_ms": 192000,
       "name": "Call On Me (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo"
+    },
+    {
+      "album": {
+        "name": "Called Home",
+        "url": "https://open.spotify.com/album/4Balkzz2ZZ57cvEmbEia1c"
+      },
+      "artists": [
+        {
+          "name": "Clay Pirinha",
+          "url": "https://open.spotify.com/artist/5p9Qtx5I4CJqr04ID07XXu"
+        },
+        {
+          "name": "JKW",
+          "url": "https://open.spotify.com/artist/0M89PD00gvmH7R30uowa8w"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138963,
+      "name": "Called Home",
+      "url": "https://open.spotify.com/track/53MCUyJ3sxf8YGaiYiC4G6"
     },
     {
       "album": {
@@ -1882,6 +1904,28 @@
     },
     {
       "album": {
+        "name": "BALANCE",
+        "url": "https://open.spotify.com/album/2KfW7kNn56L8sgZDf3Izqw"
+      },
+      "artists": [
+        {
+          "name": "Kenn Colt",
+          "url": "https://open.spotify.com/artist/0vSNFAo2h20zd3HOBcM8BX"
+        },
+        {
+          "name": "Adam Pickard",
+          "url": "https://open.spotify.com/artist/2yuL9DInzOPj4hYt4oJy5s"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202568,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2rY4Av7vaXEyw3yN8KIXPq"
+    },
+    {
+      "album": {
         "name": "Drifting Away",
         "url": "https://open.spotify.com/album/2fAYU2d1yLcv1jm2aJVBk6"
       },
@@ -1995,7 +2039,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 390649,
       "name": "Electric Feel (Kygo Remix)",
       "url": "https://open.spotify.com/track/0toJeVTW2hHX9qYVmdOpBs"
@@ -2131,7 +2175,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 211571,
       "name": "Fade Into Darkness",
       "url": "https://open.spotify.com/track/2MP2r9xNcvNmGCDJDCriu4"
@@ -2581,7 +2625,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 179478,
       "name": "Fresh Prince",
       "url": "https://open.spotify.com/track/2eqb2THAY8YgGXPEJasn0Z"
@@ -2683,7 +2727,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 289322,
       "name": "Glowing State",
       "url": "https://open.spotify.com/track/3mHAqQWWO4BWRME0sSFzEj"
@@ -2959,7 +3003,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 160555,
       "name": "Happy Ever After",
       "url": "https://open.spotify.com/track/0BXCVKsjbKSjfNPGWPh5eo"
@@ -3325,7 +3369,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 171429,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5INg5JgllhQn71YpEIrh2E"
@@ -3735,7 +3779,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 129642,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/69Kv84Y4IJhLbJyAvorwAy"
@@ -4037,7 +4081,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 144406,
       "name": "It's On Me",
       "url": "https://open.spotify.com/track/0ZjTWEc0eU7rm4XvO4coE6"
@@ -4343,7 +4387,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 166553,
       "name": "Like Heaven",
       "url": "https://open.spotify.com/track/1OtFo3W1yim0a67MlEkTEt"
@@ -4587,7 +4631,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 161727,
       "name": "Love Is In The Air",
       "url": "https://open.spotify.com/track/2hlcoDVWYEfoNspgPuUvvT"
@@ -5479,7 +5523,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 148615,
       "name": "New Guinea",
       "url": "https://open.spotify.com/track/2aOeoucXlw56zHNrbBwHWa"
@@ -5613,7 +5657,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 131886,
       "name": "Ocean Love",
       "url": "https://open.spotify.com/track/7z0FZXAedmPFsQhY1WnExz"
@@ -5759,7 +5803,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 144179,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/2OmBaJYDXL2ygMVVV4M7L0"
@@ -5905,7 +5949,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 163775,
       "name": "One More Summer Night",
       "url": "https://open.spotify.com/track/2tLkXhAiKtDG1ygrA7nAJK"
@@ -6283,7 +6327,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 123750,
       "name": "Probably Paradise",
       "url": "https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS"
@@ -6305,7 +6349,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 168830,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/7vFdMady6yRx1qxCwselLU"
@@ -6823,7 +6867,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 256665,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/0FEdfD2exlmizDE6z2uAoh"
@@ -7121,7 +7165,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 122678,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/3USDDlXk3S0u4xFnv3NeaX"
@@ -7413,7 +7457,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 144689,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/5ib4awXZhr3dUX1jgXp55G"
@@ -8573,7 +8617,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 167214,
       "name": "We Are Good",
       "url": "https://open.spotify.com/track/5VSiXBaSNxajxU4eF4Zl5b"
@@ -8667,10 +8711,36 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 179021,
       "name": "We're Done",
       "url": "https://open.spotify.com/track/6kwfG2qIV9MKrlxwiIjDlh"
+    },
+    {
+      "album": {
+        "name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+        "url": "https://open.spotify.com/album/00wAj9HNSj1vCaTY2LJ8sH"
+      },
+      "artists": [
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        },
+        {
+          "name": "Tyler Mann",
+          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+        },
+        {
+          "name": "DJ PRESS PLAY",
+          "url": "https://open.spotify.com/artist/33BNVBRNQM0M3X90E3VciT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+      "url": "https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX"
     },
     {
       "album": {
@@ -8861,7 +8931,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 178588,
       "name": "Wide Angle",
       "url": "https://open.spotify.com/track/2g1TfW0E9Yr5sxxrvzW7g5"
@@ -8941,7 +9011,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 163105,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4vN3YZKWDARkYVRjXaY4cx"
@@ -8985,7 +9055,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 136890,
       "name": "Won't Let Go",
       "url": "https://open.spotify.com/track/7GEgzRRim9jP7AyxSskHaZ"

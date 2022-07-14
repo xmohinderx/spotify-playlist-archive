@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 371134,
       "name": "1981",
       "url": "https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 320000,
       "name": "About My Dreams",
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 387807,
       "name": "Control - Original Mix",
       "url": "https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 390000,
       "name": "Cryptography",
       "url": "https://open.spotify.com/track/7l8T90bx7vHXgReTuCEJwk"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 374236,
       "name": "Divine",
       "url": "https://open.spotify.com/track/26MH4z7yzxzbyIXASQzgcE"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 231437,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 253242,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 402188,
       "name": "Endless",
       "url": "https://open.spotify.com/track/1P7gXbnZAqtAfRmW0R4Ovw"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 305538,
       "name": "Hela",
       "url": "https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 440454,
       "name": "Huys",
       "url": "https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 421846,
       "name": "Injection - Original Mix",
       "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
@@ -864,6 +864,28 @@
     },
     {
       "album": {
+        "name": "ME/AN",
+        "url": "https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR"
+      },
+      "artists": [
+        {
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+        },
+        {
+          "name": "Vision 20/20",
+          "url": "https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229545,
+      "name": "ME/AN",
+      "url": "https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy"
+    },
+    {
+      "album": {
         "name": "MNML",
         "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
       },
@@ -955,6 +977,24 @@
       "duration_ms": 385980,
       "name": "Nothingness - Original Mix",
       "url": "https://open.spotify.com/track/0pFes2owZmkuuYoUXWQ0pL"
+    },
+    {
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5KtMtbhmpG2mqjJepSttRA"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376615,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX"
     },
     {
       "album": {
@@ -1095,7 +1135,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 420923,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1"
@@ -1157,7 +1197,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 272221,
       "name": "Saw of Olympus",
       "url": "https://open.spotify.com/track/0VnV4QbuGplPbXsFBJpX8y"
@@ -1343,7 +1383,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 249375,
       "name": "The Arrival",
       "url": "https://open.spotify.com/track/4OP9HNd8yYK6pyQjApRPoX"
@@ -1386,6 +1426,28 @@
     },
     {
       "album": {
+        "name": "Time's Running Out",
+        "url": "https://open.spotify.com/album/09MjP8SWdgVxYnY6kuxI2A"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        },
+        {
+          "name": "Thomas Hoffknecht",
+          "url": "https://open.spotify.com/artist/5NZNUuAd9Z92Q4wAVRq3Cf"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353698,
+      "name": "Time's Running Out",
+      "url": "https://open.spotify.com/track/2oEmCUB7oJk18BIXphcK7J"
+    },
+    {
+      "album": {
         "name": "Timeless EP",
         "url": "https://open.spotify.com/album/6iutev2dbJ6dSkLunk50cG"
       },
@@ -1397,7 +1459,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 403308,
       "name": "Timeless - Original Mix",
       "url": "https://open.spotify.com/track/76P1a7VfRpxXqBUqcIi3Ub"
@@ -1437,7 +1499,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
@@ -1455,7 +1517,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 359250,
       "name": "Tribal Space",
       "url": "https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or"
@@ -1509,7 +1571,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 363171,
       "name": "Vesperi",
       "url": "https://open.spotify.com/track/5OBh7R8k3gEsG2o7clnPdQ"

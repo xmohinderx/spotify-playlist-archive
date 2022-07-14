@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Yoiker y las mejores batallas\. Descubre música original de los participantes, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,740 likes - 77 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,746 likes - 77 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 | 76 | [Bendito \(feat\. Lit Killah & Papatinho\)](https://open.spotify.com/track/0sb3TfCEIZ0mE7BYTlghEe) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Bendito \(feat\. Lit Killah & Papatinho\)](https://open.spotify.com/album/6hCgufIEKuVXxOGr9SG48t) | 2:20 |
 | 77 | [Edición Limitada](https://open.spotify.com/track/2H6O43eTlj6egjWasfsB13) | [aiSHO](https://open.spotify.com/artist/2vDJuQu4zg55P1XdbSl0cb), [Noult](https://open.spotify.com/artist/3pEg5A0xKzvlsLKLSOuN6K) | [Edición Limitada](https://open.spotify.com/album/7ifdi6VLROvvQp5PLN87pJ) | 3:14 |
 
-Snapshot ID: `MTY1NzY3NTc4MywwMDAwMDAwMDQzMzgxNTU3MTBhZTAyN2NkNmM1NmM3ZjliMDYyZmEz`
+Snapshot ID: `MTY1Nzc2MjUzMiwwMDAwMDAwMDQzMzgxNTU3MTBhZTAyN2NkNmM1NmM3ZjliMDYyZmEz`

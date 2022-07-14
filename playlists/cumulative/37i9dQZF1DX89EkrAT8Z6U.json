@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 75428,
       "name": "AirplaneMode",
       "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 128005,
       "name": "Alucard",
       "url": "https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 125100,
       "name": "Black Clover",
       "url": "https://open.spotify.com/track/40hSfhLVRH8Unwiwk16WIA"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 105176,
       "name": "E-GIRLS ARE RUINING MY LIFE!",
       "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 213391,
       "name": "Flashy (Tengen Uzui)",
       "url": "https://open.spotify.com/track/5jyezs0yT1ID8JiSHJQOvR"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 160666,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 146938,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
@@ -814,6 +814,24 @@
     },
     {
       "album": {
+        "name": "For the Fans",
+        "url": "https://open.spotify.com/album/1a1ljc6WvVpytVTNqzX8LV"
+      },
+      "artists": [
+        {
+          "name": "Diversify",
+          "url": "https://open.spotify.com/artist/356W28yEFY8MEeYNUOLzJq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Iceberg (Michael 2)",
+      "url": "https://open.spotify.com/track/6gU3XR7zZmbQAJZWSzUHB1"
+    },
+    {
+      "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 135122,
       "name": "ILoveUIHateU",
       "url": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 174745,
       "name": "IVE BEEN BAD",
       "url": "https://open.spotify.com/track/6eGyxt8xWFy2vZ5Fc6jc23"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 293640,
       "name": "Liar Mask",
       "url": "https://open.spotify.com/track/17gqkmWPppwlxIZLxTWzVy"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 254117,
       "name": "Nightmar3",
       "url": "https://open.spotify.com/track/4PMcBJPHgznWZsZL6bf9JV"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 181634,
       "name": "Quota",
       "url": "https://open.spotify.com/track/67RbbxXIv0TBavhIF5hy2N"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 198904,
       "name": "Sasuke",
       "url": "https://open.spotify.com/track/5q5t2C28uQdg2mk8HOfDWb"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 146291,
       "name": "SELL OUT",
       "url": "https://open.spotify.com/track/5zKzTGIpw4yZc21TzAe3HA"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 153428,
       "name": "SHARINGAN",
       "url": "https://open.spotify.com/track/2kJUNRihWFzZYfXE9SICgT"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 327240,
       "name": "Sorcery Fight!",
       "url": "https://open.spotify.com/track/3KHQQuZGyk1wve6SQwifwt"
@@ -1783,6 +1801,32 @@
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+    },
+    {
+      "album": {
+        "name": "TITAN TALK!",
+        "url": "https://open.spotify.com/album/53pU9XbUFPlcMp10DSgk50"
+      },
+      "artists": [
+        {
+          "name": "PE$O PETE",
+          "url": "https://open.spotify.com/artist/5B6civtd7qkaJGy3W5Q4M9"
+        },
+        {
+          "name": "Ty Wild",
+          "url": "https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm"
+        },
+        {
+          "name": "DizzyEight",
+          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138239,
+      "name": "TITAN TALK!",
+      "url": "https://open.spotify.com/track/7sSdcK2yahRPVsIn2oUoLs"
     },
     {
       "album": {

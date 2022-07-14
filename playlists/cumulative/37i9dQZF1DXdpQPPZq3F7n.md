@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Best Bollywood love songs from last 10 years\. Cover\- Kartik Aaryan & Kiara Advani
+> Best Bollywood love songs from last 10 years\. Cover\- Shamshera
 
 88 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
 

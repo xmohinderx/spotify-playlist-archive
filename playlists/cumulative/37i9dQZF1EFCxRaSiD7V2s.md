@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-232 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+235 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amends](https://open.spotify.com/track/1rX0Eg5DdVzrwmgeXr4p4I) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 3:06 | 2021-12-27 |  |
 | [Angel](https://open.spotify.com/track/1aCI3Kp5w1cj2nchSqhU3b) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 3:45 | 2021-12-27 |  |
 | [Anne](https://open.spotify.com/track/5v1ZICg4PMxuUhre8bJluB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 3:15 | 2021-12-27 |  |
+| [Another Castle](https://open.spotify.com/track/1HFIrt2wIRGBgxsiznHu8v) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 2:44 | 2022-07-13 |  |
 | [As You Were](https://open.spotify.com/track/2tZU6gIgbJB1Ko4jEetbrj) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:05 | 2021-12-27 |  |
 | [Baby Let's Pretend](https://open.spotify.com/track/1BmaIHgkvLvZWv1kPmH0mb) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:31 | 2021-12-27 |  |
 | [Bad Eggs](https://open.spotify.com/track/7rzmGfPzVm1ahc3vb5HmKa) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 0:36 | 2021-12-27 |  |
@@ -55,6 +56,7 @@
 | [Doomed](https://open.spotify.com/track/6hjmjdE9KeP4J9luZKGkPx) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:29 | 2021-12-27 |  |
 | [Doppelgängland](https://open.spotify.com/track/65RHg0MjX1bxYODqEKvW4W) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:32 | 2021-12-27 |  |
 | [Doublemeat Palace](https://open.spotify.com/track/05qnEfWq4DDyGuqO0l8W5e) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:44 | 2021-12-27 |  |
+| [Dragonborn](https://open.spotify.com/track/0Xa5h31hcfDb04bmMGkf2e) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 4:22 | 2022-07-13 |  |
 | [Dream Was About](https://open.spotify.com/track/5455TYyWAmmR8cHhBidoGc) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:35 | 2021-12-27 |  |
 | [Dreaming on the Bus \- Ra Ra Riot Remix](https://open.spotify.com/track/5I0GTKXNY5Cr5jBnNP7L8V) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 4:59 | 2021-12-27 |  |
 | [Drinking Song](https://open.spotify.com/track/2WGeLWpkAyR2E1scmPVXov) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/2IOf6WiBJxN68ZDIFZWncY) | 3:38 | 2021-12-27 | 2022-03-02 |
@@ -132,6 +134,7 @@
 | [Living Conditions](https://open.spotify.com/track/2Mf6rPpssafge1n6ejRRlj) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:27 | 2021-12-27 |  |
 | [Living Room](https://open.spotify.com/track/1bybP9hRFNSewsw6lDc1J6) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:39 | 2021-12-27 |  |
 | [Long Long Gone \- Demo](https://open.spotify.com/track/5yBKGfBKo62opt4uKOHiKP) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 2:23 | 2021-12-27 |  |
+| [Lost](https://open.spotify.com/track/5D2EvPaFfJN3dZ92rj4Wov) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 2:51 | 2022-07-13 |  |
 | [Love For Long](https://open.spotify.com/track/7xQxYu9ACcFBQNiQWJw3TL) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 2:53 | 2021-12-27 |  |
 | [Maybe Next Year](https://open.spotify.com/track/3xORAJaTECHOIW9Xquv5Ac) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Maybe Next Year](https://open.spotify.com/album/6hBLWo0O6GtMQAai5rggP1) | 3:08 | 2021-12-27 |  |
 | [Memory Palace](https://open.spotify.com/track/4GrNDsg8P5HTifFme7q6nI) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Rooms I Used to Call My Own](https://open.spotify.com/album/2LeDzfWieHtdO61gQhBYIj) | 3:05 | 2022-04-14 |  |

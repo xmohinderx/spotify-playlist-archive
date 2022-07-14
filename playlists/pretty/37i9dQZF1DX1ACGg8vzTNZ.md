@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 ### [Creative Writing](https://open.spotify.com/playlist/37i9dQZF1DX1ACGg8vzTNZ)
 
-> Electronic, orchestral and ambient music to awaken your imagination.
+> Instrumental, ambient music to awaken your imagination.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,312 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,363 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 39 | [Søndermarken \- Video Edit](https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX) | 4:10 |
 | 40 | [Meridian](https://open.spotify.com/track/2ioJiNmf15qbpAtkhHOgDo) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Meridian](https://open.spotify.com/album/1V4hDoIl6B2J7cScpBkLJu) | 3:33 |
 
-Snapshot ID: `MTY1NzU1Mjk1NSwwMDAwMDAwOTAwMDAwMTgxZWRkYWU2Y2UwMDAwMDE4MWRlMTgxNzQ3`
+Snapshot ID: `MTY1NzcwMDU3MiwwMDAwMDAwYTAwMDAwMTgxZjZhNzVlYzMwMDAwMDE4MWRlMTgxNzQ3`

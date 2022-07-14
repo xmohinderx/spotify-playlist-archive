@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-368 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+369 songs - 19 hr 59 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Not Letting Go](https://open.spotify.com/track/7ybW2xuOiUz7CNYn9BCJfQ) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Not Letting Go](https://open.spotify.com/album/3PmTpFfC6pLv98v8CJlUZV) | 3:03 | 2022-06-14 |  |
 | [nowhere else to go](https://open.spotify.com/track/4lpe6lJ5QhoxrQfdmMzF7w) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq) | [NOWHERE](https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ) | 4:00 | 2022-01-14 | 2022-02-17 |
 | [Ocean Avenue](https://open.spotify.com/track/00QY4pdQtNdftuKb2qbVeZ) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Ryan Scott Graham](https://open.spotify.com/artist/4goa0eLNaGxDcbhVcG7KM3) | [Ocean Avenue](https://open.spotify.com/album/09TZFz7nxP1mqIpeADnbxH) | 3:31 | 2022-01-14 |  |
+| [On A Dime](https://open.spotify.com/track/5Riszk0ZuaA6US8TyZZ9cT) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [On A Dime](https://open.spotify.com/album/2eVHIVMHeP3AycT6rfr91C) | 4:00 | 2022-07-13 |  |
 | [On That Road](https://open.spotify.com/track/6RlQs6QBeH1ip7TixxHOcr) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [BTWRKS](https://open.spotify.com/artist/7zDtXPaUt31v22tT6HeL4G), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [On That Road](https://open.spotify.com/album/5CClKdsZYA6DYNhLplBK0s) | 2:18 | 2022-01-24 | 2022-02-26 |
 | [On The Move](https://open.spotify.com/track/0APRF5wCuWPmODAnM953NU) | [Despotem](https://open.spotify.com/artist/6IJVzOcCM6c9C6YAJCjDi6), [Matt Rysen](https://open.spotify.com/artist/5V4HpfaBGZsfZhtLOG8LhZ), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [On The Move](https://open.spotify.com/album/0Qe9rtEYqd4Bzo8cIjTvqw) | 3:46 | 2022-01-30 | 2022-03-05 |
 | [Only One I Need](https://open.spotify.com/track/5tqjt07Jes01AokedrhRtQ) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Thomas Laurent](https://open.spotify.com/artist/5tIz2pifqzGGWEDKOrrmoE) | [Only One I Need](https://open.spotify.com/album/51zRMRepdEFgOELmZtUMIL) | 3:26 | 2022-01-14 | 2022-02-10 |

@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-102 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
+103 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [England \(The Industrial Era\)](https://open.spotify.com/track/697Keoq5gB7W3xui3vBpG4) | [Geoff Knorr](https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI) | [Sid Meier's Civilization VI \(Original Game Soundtrack\)](https://open.spotify.com/album/6ERIx2c5kFBBFj6CEI7BWd) | 3:58 | 2021-12-15 |  |
 | [Ezio's Family](https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) | 3:57 | 2021-12-15 |  |
 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 | 2021-12-15 |  |
+| [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 | 2022-07-13 |  |
 | [FFVII REMAKE: 闘う者達 \-なんでも屋の仕事\- \(Let the Battles Begin! \- A Merc's Job\)](https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:53 | 2021-12-15 |  |
 | [Finding the Pattern](https://open.spotify.com/track/4u2qyRFTBYm3Se02t0Ki7d) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 4:00 | 2021-12-15 |  |
 | [First Steps](https://open.spotify.com/track/03EyMyy76ZYLUh3lvGrNgE) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z) | [Celeste \(Original Soundtrack\)](https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO) | 3:38 | 2021-12-15 |  |

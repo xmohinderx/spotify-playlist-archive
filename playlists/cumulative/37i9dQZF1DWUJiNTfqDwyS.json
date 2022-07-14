@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/58GzWUcaglIQfdBZNu1hBa"
+      },
+      "artists": [
+        {
+          "name": "Flaw",
+          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234062,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/0idApYq2Eq8zqWwHz1NqdE"
+    },
+    {
+      "album": {
         "name": "ABCDEFU",
         "url": "https://open.spotify.com/album/2s4K3nbO6gYa5ZowXKkRH7"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 148032,
       "name": "ABCDEFU",
       "url": "https://open.spotify.com/track/1A7mKs7vWtQPg4E2c2WDH2"
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 310546,
       "name": "Battery",
       "url": "https://open.spotify.com/track/346RqFnNMtjaMneUEqrJaI"
@@ -175,7 +193,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 274615,
       "name": "Blue On Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",
       "url": "https://open.spotify.com/track/3lwpE0SEaQV5DWNjqMtYEk"
@@ -193,7 +211,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 202099,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/5eDJaMNW8uSayxhKBXhmUW"
@@ -215,7 +233,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 221052,
       "name": "Bulls on Parade",
       "url": "https://open.spotify.com/track/6gSfKul1glsUVY5MU7Kpgx"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 277040,
       "name": "Hunting High and Low",
       "url": "https://open.spotify.com/track/15W0PcvB3DWsgbvWLsYU5A"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 251034,
       "name": "Judas",
       "url": "https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 213813,
       "name": "Just Got Paid",
       "url": "https://open.spotify.com/track/2xzQKVwhsuVeGPbR7DHIWA"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 233472,
       "name": "Lay All Your Love on Me",
       "url": "https://open.spotify.com/track/7pQkSNKRQgaN9HdlMvf2NP"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 217600,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 210145,
       "name": "Mambo No. 5 - Cover",
       "url": "https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 314875,
       "name": "Raven's Flight",
       "url": "https://open.spotify.com/track/1Kjt2A5PjTSQO8n9wR7Nr9"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 243520,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/1jRJ6mZwtu6mBU0FK2LfjH"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 282978,
       "name": "Supernaut",
       "url": "https://open.spotify.com/track/3J9wENBvJiAv2YNtPRlKDf"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 242813,
       "name": "Symphony of Destruction - cover version",
       "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 208533,
       "name": "TNT",
       "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 435853,
       "name": "To Tame a Land",
       "url": "https://open.spotify.com/track/0OfFgbRGM8qMxDofN3lpdM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Make room for these R&B/Soul artists on the rise! Photo: Ciara
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,731 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,747 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 19 | [Tarantino](https://open.spotify.com/track/23ms6zeO6s63b7pLum9s87) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Tarantino](https://open.spotify.com/album/0gogCIBdXMS2ZR3FtWqAav) | 2:34 |
 | 20 | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/track/3uYl97CFQFl14149UuSJ78) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/album/5asMsphuwGm7xBjCsnQuZy) | 3:53 |
 | 21 | [Real Onez](https://open.spotify.com/track/3M7hnKHK5MQggNdRI6Auyo) | [Ej Jackson](https://open.spotify.com/artist/0fC3nAXn0jAPHn0rVMqxsw), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Real Onez](https://open.spotify.com/album/1JARn4qr09JepGPLoirw7L) | 3:39 |
-| 22 | [710 \(feat\. DW Flame\)](https://open.spotify.com/track/45MmWDUTfVvmThzuR3AVZF) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [DW FLAME](https://open.spotify.com/artist/1aQRe18EFgH0nxSm9bmo4v) | [710 \(feat\. DW Flame\)](https://open.spotify.com/album/5mSF3vaQ2RLhv1eK5jVwHG) | 3:05 |
+| 22 | [710](https://open.spotify.com/track/45MmWDUTfVvmThzuR3AVZF) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [DW FLAME](https://open.spotify.com/artist/1aQRe18EFgH0nxSm9bmo4v) | [710](https://open.spotify.com/album/5mSF3vaQ2RLhv1eK5jVwHG) | 3:05 |
 | 23 | [Feel Good](https://open.spotify.com/track/3JeZ3qlEKKuOccXYcm0ZDo) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Strawberry Moon](https://open.spotify.com/album/4MAZP6VqDLyDX9Qcyqe5Qq) | 4:16 |
 | 24 | [Call Me](https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Call Me](https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb) | 3:06 |
 | 25 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 |

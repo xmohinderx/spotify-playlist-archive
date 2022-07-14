@@ -614,6 +614,28 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/7MJquthUbT640r4lJ2VlmC"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "Balkan Bump",
+          "url": "https://open.spotify.com/artist/1TRyeXs6NXHSFqoXHR1w5e"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0FDJeSAhAjg2Lw1I3IqVCl"
+    },
+    {
+      "album": {
         "name": "Relentless Remixes",
         "url": "https://open.spotify.com/album/3orhfTzPffoNhrcpnjA54K"
       },

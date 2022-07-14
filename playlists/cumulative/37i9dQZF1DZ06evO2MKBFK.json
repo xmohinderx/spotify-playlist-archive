@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 206346,
       "name": "A Good Man",
       "url": "https://open.spotify.com/track/72NpoBNUwJFDHMbyV2iMYv"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 231600,
       "name": "My Girl (Taeyang Solo)",
       "url": "https://open.spotify.com/track/5MlW47ybnUooaDlfZk5RP0"
@@ -714,6 +714,28 @@
     },
     {
       "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "No Brain",
+          "url": "https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209920,
+      "name": "Oh My Friend",
+      "url": "https://open.spotify.com/track/3qtZyPlAqtNYVoN1ECWNJy"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
@@ -743,7 +765,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 198533,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2"

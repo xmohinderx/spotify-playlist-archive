@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Afrosound & Fruko y sus Tesos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,811 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,825 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 7 | [Amor Prohibido](https://open.spotify.com/track/4IM2IZYn2oYxHG8SmtgucC) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Amor Prohibido](https://open.spotify.com/album/4IFhdiHm7huoc7cI7SvN35) | 3:54 |
 | 8 | [Lo Quiero Todo](https://open.spotify.com/track/6B1J688S8XYptynyMfDGCi) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Lo Quiero Todo](https://open.spotify.com/album/6UdIrgqNTDyTDErdmtSuay) | 2:44 |
 | 9 | [El Drogón](https://open.spotify.com/track/7gTbMUGYZ7JQzA1Y1ajlWY) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [El Drogón](https://open.spotify.com/album/12ZecU3gzZckKDUwD6fEDw) | 2:53 |
-| 10 | [Amor de Cuarentena](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
+| 10 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
 | 11 | [Y Estaba Contentisimo](https://open.spotify.com/track/6hWDhJDJD7qklOsTZxkEp6) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Y Estaba Contentisimo](https://open.spotify.com/album/4J6A53rcquOu98qZUjM45C) | 4:05 |
 | 12 | [Échale Ganitas](https://open.spotify.com/track/37vHD4QTFokZ4qYA5FoNOw) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Échale Ganitas](https://open.spotify.com/album/4z6qNyp562i0D7bXjm0YTv) | 2:44 |
 | 13 | [Siento](https://open.spotify.com/track/7ANXw7xOAH6yKiePXGUQCm) | [LA CHISPA](https://open.spotify.com/artist/0q2zdnVTdj92ih63gKaCaj), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Siento](https://open.spotify.com/album/0N0EnK76x1LtHrqj5vl3KK) | 3:07 |

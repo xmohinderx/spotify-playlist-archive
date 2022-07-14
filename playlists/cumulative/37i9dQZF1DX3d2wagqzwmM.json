@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 248888,
       "name": "Acid Soul",
       "url": "https://open.spotify.com/track/5nQmCDsgTXUx9AlhKJPfY5"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 180937,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 185624,
       "name": "Criminal Minds",
       "url": "https://open.spotify.com/track/2rGv08UOtSl44xt7SC17zR"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
@@ -1394,6 +1394,28 @@
     },
     {
       "album": {
+        "name": "Harder Than Me",
+        "url": "https://open.spotify.com/album/36VergVZwBywJqHe9bcuo1"
+      },
+      "artists": [
+        {
+          "name": "KDDK",
+          "url": "https://open.spotify.com/artist/1793RNBnWXkl6iRbT196Nk"
+        },
+        {
+          "name": "Alexander Popov",
+          "url": "https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Harder Than Me",
+      "url": "https://open.spotify.com/track/1CDipETG5ve5puqbCukN3l"
+    },
+    {
+      "album": {
         "name": "Hasta La Vista",
         "url": "https://open.spotify.com/album/6LaIGzezV5snMxCCjqEfwo"
       },
@@ -1457,7 +1479,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 184687,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/6bKPbGoNajOURIcz6scBaO"
@@ -1505,7 +1527,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 154545,
       "name": "Huang",
       "url": "https://open.spotify.com/track/2LQNjxWyhEsFhVxnwLrmSB"
@@ -1647,7 +1669,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 208095,
       "name": "Kill Me Slow",
       "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 173830,
       "name": "Leave A Little Love - Club Mix",
       "url": "https://open.spotify.com/track/2SPZAzJWwy0IXTbmqdzsVM"
@@ -1731,7 +1753,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 150234,
       "name": "Liang",
       "url": "https://open.spotify.com/track/3IJbDajiJ4EUu1iGsNzrqU"
@@ -1789,7 +1811,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 200292,
       "name": "MAKI",
       "url": "https://open.spotify.com/track/49zTxpRczdi1GiWNIhkJ3A"
@@ -1843,7 +1865,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 248876,
       "name": "MIND CONTROL",
       "url": "https://open.spotify.com/track/1ijNLECKPfBExLWeq9MD74"
@@ -1913,7 +1935,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 200876,
       "name": "Mother & Father",
       "url": "https://open.spotify.com/track/74XoMDxaS0blbuxeVqdOyl"
@@ -2253,7 +2275,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 185952,
       "name": "Raindrops (feat. Chacel)",
       "url": "https://open.spotify.com/track/1HGJjjDGNT5uhoNRRGt8Z7"
@@ -2319,7 +2341,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 160888,
       "name": "Raptor",
       "url": "https://open.spotify.com/track/4rQWeoQSHpBFP4Qk6mlw0T"
@@ -2473,7 +2495,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/512MWs3jFUvUTdj2X4eM07"
@@ -2535,7 +2557,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 186777,
       "name": "Satisfying",
       "url": "https://open.spotify.com/track/7Hgh3H9RFSKOmmRtwzZUng"
@@ -2557,7 +2579,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 217142,
       "name": "She Movin'",
       "url": "https://open.spotify.com/track/2Mx93ho6F2ovN2FA4vs3Ud"
@@ -2973,7 +2995,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 162461,
       "name": "The Passenger (LaLaLa) [feat. MOKABY] - Gabry Ponte Festival Mix",
       "url": "https://open.spotify.com/track/0LpWBNqyyn81WnoILV9mxV"
@@ -3195,7 +3217,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 183750,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/3LG6AuCP9pYlRkuQv6k4TW"
@@ -3239,7 +3261,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 201904,
       "name": "We Got Love (feat. Mila Falls) - Medusa Festival Anthem",
       "url": "https://open.spotify.com/track/2s2zot1NFj9FVZFPvMtlIt"
@@ -3313,7 +3335,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 196521,
       "name": "Yama",
       "url": "https://open.spotify.com/track/6IDkdabcsyZmLQDCMtp6An"
