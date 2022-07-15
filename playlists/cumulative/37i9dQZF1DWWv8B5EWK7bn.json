@@ -1014,6 +1014,24 @@
     },
     {
       "album": {
+        "name": "Mapa",
+        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
+      },
+      "artists": [
+        {
+          "name": "Sundarbans",
+          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175849,
+      "name": "Mapa",
+      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
+    },
+    {
+      "album": {
         "name": "Marrow",
         "url": "https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff"
       },
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 252179,
       "name": "Quirk",
       "url": "https://open.spotify.com/track/326iKm66vm3bhCXAOxh3xK"

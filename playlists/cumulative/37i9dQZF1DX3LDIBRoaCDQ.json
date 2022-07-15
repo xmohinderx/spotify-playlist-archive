@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "The Crack",
+        "url": "https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq"
+      },
+      "artists": [
+        {
+          "name": "The Ruts",
+          "url": "https://open.spotify.com/artist/1uJKSAvQROYPgm7qhZkqd3"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155186,
+      "name": "Babylon's Burning",
+      "url": "https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa"
+    },
+    {
+      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
       },
@@ -1079,6 +1097,24 @@
     {
       "album": {
         "name": "Damned Damned Damned",
+        "url": "https://open.spotify.com/album/4zR9SJXjzity4diWzcudYx"
+      },
+      "artists": [
+        {
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163346,
+      "name": "Neat Neat Neat",
+      "url": "https://open.spotify.com/track/5GXPPOmtympg9ul3hNQqW4"
+    },
+    {
+      "album": {
+        "name": "Damned Damned Damned",
         "url": "https://open.spotify.com/album/5XK8FpKFOJVp65F9pkuIO9"
       },
       "artists": [
@@ -1143,7 +1179,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 171200,
       "name": "Oh Bondage! Up Yours!",
       "url": "https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp"
@@ -1161,7 +1197,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 208360,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/2utvK2CuAEXbUnPpV9ataH"
@@ -1582,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/6tpBWn2jPpA9eu2WpTgaQb"
+      },
+      "artists": [
+        {
+          "name": "The Dictators",
+          "url": "https://open.spotify.com/artist/2Ohpu0UE5PFDgfhUxEi0Fy"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250506,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/2ZbzrRPN0Sb72KbOw7jhXB"
+    },
+    {
+      "album": {
         "name": "First Two 7s",
         "url": "https://open.spotify.com/album/3OirN90yBh2bSaIHcWyGsV"
       },
@@ -1809,7 +1863,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 185266,
       "name": "We Must Bleed",
       "url": "https://open.spotify.com/track/4nl8srnmBGjY4fU6bEIDF9"

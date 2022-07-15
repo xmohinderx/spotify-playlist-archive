@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Its Natascha",
+  "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -111,6 +111,28 @@
       "duration_ms": 203636,
       "name": "Bad (Latin Remix)",
       "url": "https://open.spotify.com/track/5GoYi5Nx1ImQTjrCxVkwuk"
+    },
+    {
+      "album": {
+        "name": "Basshall Session #2",
+        "url": "https://open.spotify.com/album/0cdUaCVsElmye5dcLAc70P"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Eichem",
+          "url": "https://open.spotify.com/artist/7wqVyRmXhkLoe0CAMPtHMC"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Basshall Session #2",
+      "url": "https://open.spotify.com/track/3mgByL0PjK4sLv0Itqjb5b"
     },
     {
       "album": {
@@ -711,7 +733,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 135321,
       "name": "Genghis Khan",
       "url": "https://open.spotify.com/track/1TZZIVEkj2FgVkBGQCoVoa"
@@ -813,6 +835,28 @@
       "duration_ms": 206413,
       "name": "Gyal",
       "url": "https://open.spotify.com/track/2odt4OCv36oktmC8wknahJ"
+    },
+    {
+      "album": {
+        "name": "Dollybody Summa Riddim",
+        "url": "https://open.spotify.com/album/4oRqWHVZsbONAculYBkkRk"
+      },
+      "artists": [
+        {
+          "name": "Konsequence Muzik",
+          "url": "https://open.spotify.com/artist/4QURTqt2mFL6KBXkTPxjHM"
+        },
+        {
+          "name": "BADDA GENERAL",
+          "url": "https://open.spotify.com/artist/5JfefD2FuAWBB2gDSyfGUf"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173465,
+      "name": "Gyal Dem Sugar Daddy",
+      "url": "https://open.spotify.com/track/3QgZXXatEtMDSQvVLd5Bu0"
     },
     {
       "album": {
@@ -1338,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/2vxDwrcRdSzKfBFWuQA5pH"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/3DYcM56i1YQ410v8jv54pK"
+    },
+    {
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/2otvEt7cIxwIuCTDEb0qAU"
       },
@@ -1493,7 +1555,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 126302,
       "name": "MOB$TA#2",
       "url": "https://open.spotify.com/track/0quTcnm41SSv9fFCZALUMA"
@@ -2183,7 +2245,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 184315,
       "name": "Super Bae",
       "url": "https://open.spotify.com/track/5uiSL5KX6qdvNnaDvpAKHq"

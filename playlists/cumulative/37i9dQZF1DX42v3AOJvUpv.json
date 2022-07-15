@@ -181,7 +181,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 226946,
       "name": "Corazones Muertos",
       "url": "https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 238572,
       "name": "Exhibici\u00f3n Condicionada - Remastered 2017",
       "url": "https://open.spotify.com/track/1CJjSh11qRfVtlu291T8LO"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 253533,
       "name": "Hu Na Na",
       "url": "https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 225960,
       "name": "La Llama de Tu Amor",
       "url": "https://open.spotify.com/track/4UzckxebrukyreeLZGw6z9"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 203520,
       "name": "Ricardo Ruben",
       "url": "https://open.spotify.com/track/0vLaSLUZKz7piNFTTtXRy8"
@@ -948,6 +948,24 @@
     },
     {
       "album": {
+        "name": "Identikit",
+        "url": "https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy"
+      },
+      "artists": [
+        {
+          "name": "Identikit",
+          "url": "https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196977,
+      "name": "Solo En Una Noche De Jazz",
+      "url": "https://open.spotify.com/track/7nZvD8LeEV8S6LFvUPZjPW"
+    },
+    {
+      "album": {
         "name": "Fabiana Cantilo y Los Perros Calientes (Remastered)",
         "url": "https://open.spotify.com/album/3oa1nnrWDy6CfdZx7VooQt"
       },
@@ -959,7 +977,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 204800,
       "name": "S\u00f3lo Dame Un Poco",
       "url": "https://open.spotify.com/track/1Xfftlvik7GpI2mg9yn2jN"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 212120,
       "name": "V\u00eda M\u00e9xico",
       "url": "https://open.spotify.com/track/0fSeOXEDSRDlImjW2Cqkt5"

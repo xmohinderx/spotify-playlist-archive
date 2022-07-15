@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Mangrovia Twang",
+  "description": "Il meglio dell'R&B italiano. Cover: Martina May, Kuban",
   "name": "anima R&B",
   "published_playlist_ids": [
     "6baLMOVUAzKiyXO33cGiRz"
@@ -160,6 +160,28 @@
     },
     {
       "album": {
+        "name": "Brandy & Monica",
+        "url": "https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM"
+      },
+      "artists": [
+        {
+          "name": "Martina May",
+          "url": "https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR"
+        },
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160153,
+      "name": "Brandy & Monica",
+      "url": "https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou"
+    },
+    {
+      "album": {
         "name": "Britney",
         "url": "https://open.spotify.com/album/0Rw7Bax4tNc6CgJhRfy3vE"
       },
@@ -309,7 +331,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 125357,
       "name": "cento metri",
       "url": "https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO"
@@ -849,7 +871,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 185000,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/62AYmj3XkHN0fZGUVCTX44"
@@ -871,6 +893,24 @@
       "duration_ms": 165000,
       "name": "Felpa",
       "url": "https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk"
+    },
+    {
+      "album": {
+        "name": "Felpa Blu",
+        "url": "https://open.spotify.com/album/6eOwrCImdIYh5tHKFSZAME"
+      },
+      "artists": [
+        {
+          "name": "Sidea",
+          "url": "https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175194,
+      "name": "Felpa Blu",
+      "url": "https://open.spotify.com/track/7lUJXeZSVnPuv9ihy6Z5xC"
     },
     {
       "album": {
@@ -1496,6 +1536,24 @@
     },
     {
       "album": {
+        "name": "Luna piena",
+        "url": "https://open.spotify.com/album/4ZupD1U6aOIN46ZK8ocWVw"
+      },
+      "artists": [
+        {
+          "name": "Martina Difonte",
+          "url": "https://open.spotify.com/artist/3qiGojLCrw73AjXA4jqRyQ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150134,
+      "name": "Luna piena",
+      "url": "https://open.spotify.com/track/0HfcmSX7h8V988x2ik3FuN"
+    },
+    {
+      "album": {
         "name": "Lunatica",
         "url": "https://open.spotify.com/album/76Baf3jjsQ5NsoxQGPiim6"
       },
@@ -1543,7 +1601,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 167142,
       "name": "Monodose",
       "url": "https://open.spotify.com/track/4Doceb3PbB1O4Rdijrn2Qp"
@@ -1899,7 +1957,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 183674,
       "name": "Pesca Noche",
       "url": "https://open.spotify.com/track/4K8CrCx25sTLfexADXFboz"
@@ -1960,6 +2018,24 @@
     },
     {
       "album": {
+        "name": "FUTURO3",
+        "url": "https://open.spotify.com/album/2elscUEH1CWrdqLTyZGUxK"
+      },
+      "artists": [
+        {
+          "name": "Missey",
+          "url": "https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Questi rottami",
+      "url": "https://open.spotify.com/track/0Wx6wCWEEfPVS223ej9KWM"
+    },
+    {
+      "album": {
         "name": "R&DRILL",
         "url": "https://open.spotify.com/album/1bh96AtCfno8P6R3OBrudh"
       },
@@ -1979,6 +2055,28 @@
       "duration_ms": 152720,
       "name": "R&DRILL",
       "url": "https://open.spotify.com/track/7yicqzLOI8Cl2A8g60xzG9"
+    },
+    {
+      "album": {
+        "name": "Rasoi",
+        "url": "https://open.spotify.com/album/5enFPWsnL5gj4q66wPrWXf"
+      },
+      "artists": [
+        {
+          "name": "Andrea Blanc",
+          "url": "https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4"
+        },
+        {
+          "name": "TOMMY DALI",
+          "url": "https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Rasoi",
+      "url": "https://open.spotify.com/track/3zLbiZec8UhHGVue0K1mGy"
     },
     {
       "album": {
@@ -2037,6 +2135,28 @@
       "duration_ms": 197282,
       "name": "Rotterdam",
       "url": "https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ"
+    },
+    {
+      "album": {
+        "name": "Una",
+        "url": "https://open.spotify.com/album/79rdrnA3UclScuwb84ftLX"
+      },
+      "artists": [
+        {
+          "name": "Yorker",
+          "url": "https://open.spotify.com/artist/1DAM0oVo9LsvwegJRT6vI1"
+        },
+        {
+          "name": "Raphael Gualazzi",
+          "url": "https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "Salvami",
+      "url": "https://open.spotify.com/track/3VhkiNXHfpBD2WwYdtM8iO"
     },
     {
       "album": {
@@ -2315,6 +2435,24 @@
       "duration_ms": 202105,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI"
+      },
+      "artists": [
+        {
+          "name": "Martino",
+          "url": "https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme"
     },
     {
       "album": {

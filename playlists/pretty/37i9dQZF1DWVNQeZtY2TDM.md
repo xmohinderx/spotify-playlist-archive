@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: Gambler
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,625 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,644 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 15 | [當天空下起雨](https://open.spotify.com/track/4F6YcWE9iybEtd8BY7ht3x) | [小王子](https://open.spotify.com/artist/7fVfDPQNxwLJT9ryj2kMvI) | [當天空下起雨](https://open.spotify.com/album/2vfCEk9LphXqitbmOc9H0N) | 3:12 |
 | 16 | [FXCK IT, I LOVE YOU](https://open.spotify.com/track/6ykjpsBAJRJPXIZkzQNHtK) | [奎仔](https://open.spotify.com/artist/63JgN5Wcl7BGHSF6jWUpD4) | [FXCK IT, I LOVE YOU](https://open.spotify.com/album/00QHkIyGt9SO7r2HQvBLED) | 3:14 |
 | 17 | [音乐节](https://open.spotify.com/track/6RISgzJd4Rbv7ZJOV1uzYf) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b), [Nick.Y](https://open.spotify.com/artist/3PjAq5QmO9BwEZviqzs36f) | [音乐节](https://open.spotify.com/album/3G0RnJeFU5zdwBlGniZ3nE) | 2:23 |
-| 18 | [烏有](https://open.spotify.com/track/1jKJOUckSjJxQYf8Fdhxrf) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo) | [同理](https://open.spotify.com/album/4nT7s21AuoufYR4FcLqvKR) | 2:58 |
+| 18 | [Vanished](https://open.spotify.com/track/1jKJOUckSjJxQYf8Fdhxrf) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo) | [Zunya](https://open.spotify.com/album/4nT7s21AuoufYR4FcLqvKR) | 2:58 |
 | 19 | [歡迎光臨](https://open.spotify.com/track/3z1fDUPBQL43PrcmkQ7IY5) | [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL), [Macdella](https://open.spotify.com/artist/2jGajbF57J3EZGtAjeH3Q0), [EyeballRay](https://open.spotify.com/artist/363CQz6rPzByyhhWS1zUQq) | [枉少年](https://open.spotify.com/album/5oeCirhdu856CeS3S6O0Nv) | 3:36 |
 | 20 | [Be Alive](https://open.spotify.com/track/1SI4Jhz2pK8kEBXY6dgzGr) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC), [Keev](https://open.spotify.com/artist/2KS5HYsDqrlhrMDLcxWoAK) | [Be Alive](https://open.spotify.com/album/33SL2ccRH87zKgaZK9BDhF) | 3:44 |
 | 21 | [巷弄多情 \(Flossy\)](https://open.spotify.com/track/6OOvWj5yxBjIA8BLryy6Tq) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW), [Gil.G](https://open.spotify.com/artist/5djEKQT5LKhpOwtdB5Zcbq) | [巷弄多情 \(Flossy\)](https://open.spotify.com/album/7jGIO5vP9SBN1c2uSR6W8h) | 3:01 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 38 | [Butterfly](https://open.spotify.com/track/5fWINGOMaVqRCmcvkDMjGJ) | [Nick.Y](https://open.spotify.com/artist/3PjAq5QmO9BwEZviqzs36f), [A1Trip](https://open.spotify.com/artist/5F8Zm0E37mD0855TcK3jJq) | [Butterfly](https://open.spotify.com/album/4zbI521GRYqgcT9PczTM3j) | 2:16 |
 | 39 | [Ever Since](https://open.spotify.com/track/4mOLpJeL5zwo4BhvJY8ds8) | [Denzel Cheng](https://open.spotify.com/artist/6HdMvBWAXWnxX5LEWlgluN) | [Ever Since](https://open.spotify.com/album/3nN3EBWSQF3HcsRg94Mk2g) | 3:00 |
 | 40 | [指針](https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [指針](https://open.spotify.com/album/199fdqkmbpLutKUAshUUdQ) | 2:14 |
-| 41 | [不溫柔情歌](https://open.spotify.com/track/7i7vzZqlVGhi6PwuQehRY0) | [Barry Chen](https://open.spotify.com/artist/45sDYsh1i1bXB3IRi04MTz) | [不溫柔情歌](https://open.spotify.com/album/5lgdB3By4C4iIDoPyeOz8L) | 2:49 |
+| 41 | [Unusual Love Song](https://open.spotify.com/track/7i7vzZqlVGhi6PwuQehRY0) | [Barry Chen](https://open.spotify.com/artist/45sDYsh1i1bXB3IRi04MTz) | [Unusual Love Song](https://open.spotify.com/album/5lgdB3By4C4iIDoPyeOz8L) | 2:49 |
 | 42 | [Matters](https://open.spotify.com/track/2IGM8jCcofLS21rb470Dx3) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Matters](https://open.spotify.com/album/0rLL1nI6vFUxkp03DmpWre) | 2:40 |
 | 43 | [泪滴](https://open.spotify.com/track/7MUJed6wxjpvihLRdMknyv) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b), [xxxmiracle](https://open.spotify.com/artist/7xYZRDldU67u8GTyVYYLxQ) | [泪滴](https://open.spotify.com/album/3AIKtdToKusXLGGqoTQVjJ) | 3:24 |
 | 44 | [Overthink也許是我想太多](https://open.spotify.com/track/4Vielk4EfRIWU4ki8JeUog) | [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [Overthink也許是我想太多](https://open.spotify.com/album/0ZCGfusatDpgPxc4iYOt31) | 2:14 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 72 | [HOMESICK](https://open.spotify.com/track/14AHfTN3CXFiaLuilTjRIL) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [HOMESICK](https://open.spotify.com/album/6luQqRpyitjgUCIUd2jn5B) | 3:11 |
 | 73 | [馬兒](https://open.spotify.com/track/1tfxHCZ0Z98B3Zx577OJjH) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [馬兒](https://open.spotify.com/album/3uNDVAO1Yxr1ig7pRd9JDY) | 3:15 |
 | 74 | [baby怎麼還沒醒](https://open.spotify.com/track/6l6WhKATDXm9oIq3j3ZVel) | [WUYO](https://open.spotify.com/artist/2LfcWiJo5jT7cL5cmVbnnV) | [isn't it crazy?](https://open.spotify.com/album/3dvtaMg3uF2mlDOrT2y02q) | 2:35 |
-| 75 | [The Girls \(feat\. 安崎\)](https://open.spotify.com/track/6EUX5SSKPaPp4mtXvifQK6) | [VaVa](https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q), [安崎](https://open.spotify.com/artist/3lkWf9z5ce3DZCUY5U8zSS) | [V解之謎 \(Full Version\)](https://open.spotify.com/album/2sgtqv39DrvOMHFVNBPZxq) | 3:01 |
+| 75 | [The Girls \(feat\. An Qi\)](https://open.spotify.com/track/6EUX5SSKPaPp4mtXvifQK6) | [VaVa](https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q), [安崎](https://open.spotify.com/artist/3lkWf9z5ce3DZCUY5U8zSS) | [V\-Mystery \(Full Version\)](https://open.spotify.com/album/2sgtqv39DrvOMHFVNBPZxq) | 3:01 |
 
 Snapshot ID: `MTY1NzUyODI5OCwwMDAwMDExZTAwMDAwMTgxZWM2MmFhNTYwMDAwMDE4MWQ4NjFhODdj`

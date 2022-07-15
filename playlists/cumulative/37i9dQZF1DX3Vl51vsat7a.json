@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 180080,
       "name": "besonders",
       "url": "https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU"
@@ -752,6 +752,32 @@
     },
     {
       "album": {
+        "name": "Herz Klopft",
+        "url": "https://open.spotify.com/album/0PpvnPnQgnObHVKSUsnGrO"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "Lugatti",
+          "url": "https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg"
+        },
+        {
+          "name": "Cato",
+          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172546,
+      "name": "Herz Klopft",
+      "url": "https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu"
+    },
+    {
+      "album": {
         "name": "Golden Wings",
         "url": "https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk"
       },
@@ -799,7 +825,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 163649,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/3Ldae7O6YMFE7vxlTNocdQ"
@@ -1270,6 +1296,24 @@
     },
     {
       "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+    },
+    {
+      "album": {
         "name": "My Wife The Depression",
         "url": "https://open.spotify.com/album/6vhpoAT5KHbsE5pxv7Mp9O"
       },
@@ -1517,6 +1561,24 @@
       "duration_ms": 210839,
       "name": "School Friends",
       "url": "https://open.spotify.com/track/5QNmYUtAV91xj3LHePazkl"
+    },
+    {
+      "album": {
+        "name": "schwarzer Renault",
+        "url": "https://open.spotify.com/album/2H7oTzq7ciKgEGawrYVFEu"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173453,
+      "name": "schwarzer Renault",
+      "url": "https://open.spotify.com/track/20EdweAxnMgjJLnXJiJJYm"
     },
     {
       "album": {
@@ -2045,7 +2107,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 125506,
       "name": "WER, WENN NICHT WIR?",
       "url": "https://open.spotify.com/track/5v0oqncTY2wOweL6unFnbQ"

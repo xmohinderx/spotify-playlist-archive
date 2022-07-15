@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Cheap Week",
+        "url": "https://open.spotify.com/album/1GRm4CtpICVfP9ACydDVsi"
+      },
+      "artists": [
+        {
+          "name": "Lukall",
+          "url": "https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "Cheap Week",
+      "url": "https://open.spotify.com/track/6FApcHEMgIKjS59AJHQxth"
+    },
+    {
+      "album": {
         "name": "Clearance",
         "url": "https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW"
       },

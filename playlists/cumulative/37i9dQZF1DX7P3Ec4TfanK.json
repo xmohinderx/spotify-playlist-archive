@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 156960,
       "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG"
@@ -1177,6 +1177,28 @@
       "duration_ms": 180977,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO"
+    },
+    {
+      "album": {
+        "name": "Ritorno Al Futuro / Back To The Future",
+        "url": "https://open.spotify.com/album/5pRIJzzXRB5cgKcDviHMIk"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        },
+        {
+          "name": "Matilda De Angelis",
+          "url": "https://open.spotify.com/artist/1KmWMGs4c4gefrodKrV0g2"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213376,
+      "name": "Litoranea (con Matilda De Angelis)",
+      "url": "https://open.spotify.com/track/4nitQHpvx1XGehP3y5cIyd"
     },
     {
       "album": {
@@ -2135,7 +2157,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 231897,
       "name": "Vertigine (feat. Altarboy) [From Netflix Original Series Baby 3]",
       "url": "https://open.spotify.com/track/6r6YWM1TXM2WXZDhcwpx2z"

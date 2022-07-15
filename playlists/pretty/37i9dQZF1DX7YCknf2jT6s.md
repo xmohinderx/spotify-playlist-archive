@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Terence Etc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,511 likes - 85 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,675 likes - 85 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

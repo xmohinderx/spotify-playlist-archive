@@ -4,11 +4,12 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-161 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
+163 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A New Today](https://open.spotify.com/track/0lyY1EBW263LxVMtzrtp1o) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [A New Today](https://open.spotify.com/album/5Upe7WjVHgDtGZC6gDdJuR) | 3:10 | 2022-05-13 |  |
+| [Abby](https://open.spotify.com/track/0o8mGza0TMFgTf9E9DuZhs) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7fpYo14NmrothLMregmtyT) | 2:17 | 2022-07-15 |  |
 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-05-13 |  |
 | [Afterglow](https://open.spotify.com/track/4ZliE8PtQ1qgnPkFdOeqQ8) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Afterglow](https://open.spotify.com/album/4HGCzPumUHchGQpJJYHsPl) | 3:05 | 2022-05-13 |  |
 | [Alt Evolution](https://open.spotify.com/track/5X3Ghag14o3GUR3F0ljNWU) | [Nicole Ellis](https://open.spotify.com/artist/29i78ujvmrXRSFg9nZYaVK) | [Alt Evolution](https://open.spotify.com/album/4faddULwhKK0FTU1IrXCRL) | 3:11 | 2022-05-13 |  |
@@ -109,6 +110,7 @@
 | [Maleável](https://open.spotify.com/track/7oEpVZNFL99pAm9im2ddyl) | [Isabela Aurora](https://open.spotify.com/artist/7kIxjI1vgyk83H3494t0Uv) | [Maleável](https://open.spotify.com/album/3uQUPpvku3dUgBTtjmiFpb) | 2:43 | 2022-05-13 |  |
 | [Malgré le néant](https://open.spotify.com/track/5V03ziQJGHaoAJcfPIYWWZ) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Malgré le néant](https://open.spotify.com/album/325mLRmxCCHqycSkCCvOL5) | 2:46 | 2022-05-13 |  |
 | [Masodik](https://open.spotify.com/track/3K6esDtEDOfx9boe94z0Y2) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Masodik](https://open.spotify.com/album/1mImGcb3xJHoHFc9VmXT0I) | 3:07 | 2022-05-13 |  |
+| [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-07-08 |
 | [Minor Moments](https://open.spotify.com/track/5GWcVFVzwT4nJ1Ji1Fpjpm) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [Minor Moments](https://open.spotify.com/album/5amFPb8CfOuotX2lUhrTiq) | 3:01 | 2022-05-13 |  |
 | [Mulholland Drive](https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mulholland Drive](https://open.spotify.com/album/5KzdfPbNX3oTV87uK4Ownn) | 1:57 | 2022-05-13 |  |

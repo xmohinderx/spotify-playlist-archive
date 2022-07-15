@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 221322,
       "name": "FRIDAY",
       "url": "https://open.spotify.com/track/1qBbrjiU5ZWIA5NJUAV8b7"
@@ -2735,8 +2735,8 @@
           "url": "https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh"
         },
         {
-          "name": "Yeloboi Tommy",
-          "url": "https://open.spotify.com/artist/6sZgmrmf7pl9yez8UvGgJa"
+          "name": "Tommy Gunn",
+          "url": "https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu"
         }
       ],
       "date_added": "2022-03-31",
@@ -3296,6 +3296,32 @@
     },
     {
       "album": {
+        "name": "TIME N PLACE",
+        "url": "https://open.spotify.com/album/5cHsnbM0L71OsMQomHdSMq"
+      },
+      "artists": [
+        {
+          "name": "The GP",
+          "url": "https://open.spotify.com/artist/0gTh7DXw0XXoq067gagX3l"
+        },
+        {
+          "name": "DIBZ",
+          "url": "https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej"
+        },
+        {
+          "name": "Vicolo",
+          "url": "https://open.spotify.com/artist/0o81qxlmZuYNqSktshNDV3"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203990,
+      "name": "TIME N PLACE",
+      "url": "https://open.spotify.com/track/7GqYbc1Mxs2TTtjfcjXgZo"
+    },
+    {
+      "album": {
         "name": "TN's",
         "url": "https://open.spotify.com/album/3by2215TMTtgVkqonuyMGk"
       },
@@ -3373,10 +3399,48 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 137147,
       "name": "TopTen",
       "url": "https://open.spotify.com/track/37XFFtkFLlsQEgvgNcmHMn"
+    },
+    {
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/2oDAt5ppCdmPxX2FgDEO2Y"
+      },
+      "artists": [
+        {
+          "name": "B Wise",
+          "url": "https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg"
+        },
+        {
+          "name": "BBGB",
+          "url": "https://open.spotify.com/artist/24WPoEQFxZRu8ITQ7QPxpW"
+        },
+        {
+          "name": "Kwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        },
+        {
+          "name": "Manu Crooks",
+          "url": "https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh"
+        },
+        {
+          "name": "BLESSED",
+          "url": "https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq"
+        },
+        {
+          "name": "Lil Spacely",
+          "url": "https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122513,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/580M6DAWUqbm8Xen9hFzen"
     },
     {
       "album": {
@@ -3673,6 +3737,36 @@
       "duration_ms": 167172,
       "name": "We Them Boyz (feat. Jaecy)",
       "url": "https://open.spotify.com/track/05jey8nJnyBzV6FBtn4MIq"
+    },
+    {
+      "album": {
+        "name": "What We Saying?",
+        "url": "https://open.spotify.com/album/0aioFhC4M28NB1QYsQEsU2"
+      },
+      "artists": [
+        {
+          "name": "Imperial Collective",
+          "url": "https://open.spotify.com/artist/0d2VYzQHpvclvMtj0iPjNf"
+        },
+        {
+          "name": "Steez Malase",
+          "url": "https://open.spotify.com/artist/4TPrFPcmonEoLJse8dS8Eo"
+        },
+        {
+          "name": "Kei Leeza",
+          "url": "https://open.spotify.com/artist/5JRhaOlZVpXZfB6yx6YOe0"
+        },
+        {
+          "name": "Billz 90",
+          "url": "https://open.spotify.com/artist/2GAkIQ6pAg0O22r0KlVOh7"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "What We Saying?",
+      "url": "https://open.spotify.com/track/4MkcARWzqjSsoLe7vUBoZt"
     },
     {
       "album": {

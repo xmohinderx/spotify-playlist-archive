@@ -2,9 +2,9 @@
 
 ### [ragazzo triste](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
 
-> 🩹 \(in cover, ëgo\)
+> 🩹 \(in cover, fasma\)
 
-104 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+108 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [HAPPILY EVER AFTER](https://open.spotify.com/track/3A6wzTVEokDiEgDmAtd2gm) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT), [fil ricchiardi](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [HAPPILY EVER AFTER](https://open.spotify.com/album/1G9ntbAXm8uYI1KRPRfNUg) | 3:05 | 2022-06-02 |  |
 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 | 2022-06-13 |  |
 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 | 2022-05-24 |  |
+| [Indelebile](https://open.spotify.com/track/0FJUY6StrBltgLCSMuSAS4) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Indelebile](https://open.spotify.com/album/23jwySNWjs1wzqnbby5lX9) | 2:48 | 2022-07-14 |  |
 | [IO E TE](https://open.spotify.com/track/1jS9xU5AESvZSh1oDdtYDi) | [POLDOWG](https://open.spotify.com/artist/66jtpmf7aFU5KZXlAavqai), [GIOVXNE XNGELO](https://open.spotify.com/artist/1pdz43cnj0LpwSKD2z1NiA), [MXLVE](https://open.spotify.com/artist/2OEOLS6EFBBeiKgS58NsRh) | [IO E TE](https://open.spotify.com/album/7AZ5f357ol3fZtu83pR6st) | 2:49 | 2022-06-23 |  |
 | [Io non voglio più soffrire](https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Io non voglio più soffrire](https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1) | 2:36 | 2022-05-24 |  |
 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 | 2022-04-21 |  |
@@ -79,6 +80,7 @@
 | [Parole al vento](https://open.spotify.com/track/64xBkN33zcDvijtU7X0pkN) | [Maru](https://open.spotify.com/artist/3L5BWOU9ujyIpycmCweRan) | [Parole al vento](https://open.spotify.com/album/22vc0d22zRLd3rjicn67kJ) | 2:02 | 2022-04-21 |  |
 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 | 2022-04-21 |  |
 | [Per il mio bene](https://open.spotify.com/track/1j4rTqIygJuZsmfO04UqFT) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Per il mio bene](https://open.spotify.com/album/1Z8F4vFqjLEYOBqpgHBqto) | 2:35 | 2022-06-02 |  |
+| [personal](https://open.spotify.com/track/0iBWJzv9EysEh3wahsnPa8) | [trapstarsteezy](https://open.spotify.com/artist/0v0gXgl9lp0rJtACULKSO1), [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza) | [personal](https://open.spotify.com/album/5eXZORuOjZB3yTOf2Oebbd) | 3:30 | 2022-07-14 |  |
 | [Piangi mai \(domani\)](https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Piangi mai \(domani\)](https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev) | 2:32 | 2022-04-21 |  |
 | [Piano](https://open.spotify.com/track/5A27QGKlNBa9Uzr2XEaThl) | [I Dolori del Giovane Walter](https://open.spotify.com/artist/1yGEqWwG1niom92pU3ha4n) | [Piano](https://open.spotify.com/album/73OQyOxqChMh9SnPL6iUz6) | 2:51 | 2022-04-21 |  |
 | [Più del fuoco \(feat\. Shade & Yota Damore\)](https://open.spotify.com/track/3toYq1FSFwc7KNTv7Bg8WR) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [Yota Damore](https://open.spotify.com/artist/5F1YTUQDAFUPjuW4Vf2b6u) | [Magliette Che Diventano Pigiami \- EP](https://open.spotify.com/album/2HUAaHdSS9cmx8i0ZE0vvR) | 3:07 | 2022-04-21 |  |
@@ -87,10 +89,12 @@
 | [Punti di vista](https://open.spotify.com/track/5zi9PcOcGBQNbYGOquC4Lt) | [Mael+](https://open.spotify.com/artist/5WI9ughINoRS2iom1SU79n), [Puhf](https://open.spotify.com/artist/6Wg5mZaSksZatBkTApBsPj) | [Dove la luce non arriva](https://open.spotify.com/album/2nc0nFlQBDrqriStBtOEZs) | 2:43 | 2022-06-09 |  |
 | [Ragazzi tristi](https://open.spotify.com/track/1yL6WPvqXdgDbnHGsTtQ1z) | [Neediz](https://open.spotify.com/artist/0cKIYS5SG83ka3FZTLlj3m), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI), [VDN](https://open.spotify.com/artist/4aINMnSbwDnkR44YPqGqHx) | [Ragazzi tristi](https://open.spotify.com/album/77VRWDD2qWWhXDHFHUzVcm) | 3:16 | 2022-06-23 |  |
 | [Resta Vivo](https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Resta Vivo](https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp) | 2:56 | 2022-05-26 |  |
+| [Rottami](https://open.spotify.com/track/3Qwqat3qIk2JL8IcXVdnjl) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax), [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Rottami](https://open.spotify.com/album/6vrZwg5BfH2T7JbY1UDiqq) | 3:19 | 2022-07-14 |  |
 | [SadBoy](https://open.spotify.com/track/2DmvxboSu3mTzH3EAuH4Qb) | [GiorniTristi](https://open.spotify.com/artist/0KjmZKo6Rhw4m4MaFlVVUa) | [GiorniTristi](https://open.spotify.com/album/6YnvedyyHCeeS25arKSZo2) | 2:41 | 2022-06-02 |  |
 | [sai che...](https://open.spotify.com/track/1SIyOWhf9qKSWKqPhH1eDd) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/5bPdHI6oH0MCokMEYsYtsD) | 2:40 | 2022-04-21 |  |
 | [Scusa ma](https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Scusa ma](https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY) | 1:41 | 2022-04-21 |  |
 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/5wQQrl0Mk6QhcATNZqypux) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Sei stata la canzone più bella del mondo](https://open.spotify.com/album/4gKDciM57bbYTRYa9DHaU2) | 3:04 | 2022-04-21 |  |
+| [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 | 2022-07-14 |  |
 | [Settembre](https://open.spotify.com/track/4ABnknUDNQsm24C9ZhwlLG) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Settembre](https://open.spotify.com/album/1QQalKla8lTJZSLEoPBhir) | 2:11 | 2022-06-13 |  |
 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 | 2022-04-21 |  |
 | [Solita](https://open.spotify.com/track/40V5KOD49epmIjvEUWVFJ8) | [Edra](https://open.spotify.com/artist/3mxIKZRca9G3N1C1dfbBzY) | [Solita](https://open.spotify.com/album/5kK7COihWbhVwFllUuD8gx) | 2:58 | 2022-04-21 |  |

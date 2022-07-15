@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,826 likes - 63 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,978 likes - 63 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 59 | [Fenoh](https://open.spotify.com/track/6dzfREL5EwPZxPGIgKsieT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Gowa Fe Alby](https://open.spotify.com/album/27VrCWi59R8keOizrwJjGA) | 4:51 |
 | 60 | [Habeb Hayaty](https://open.spotify.com/track/4q8JLWV2F4a59csHoT99f9) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Hayaty](https://open.spotify.com/album/4qQIQlbIiyWWIiu8Jr6cVX) | 3:58 |
 | 61 | [Ma wa'adtek bi nijom al lail](https://open.spotify.com/track/03yVcFV4Aw6JnEs5Nec2ZT) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Wael Kafoury](https://open.spotify.com/album/4HDHX4mw0rAgcFEgcYWCSN) | 8:04 |
-| 62 | [اشوف فيك يوم](https://open.spotify.com/track/6XbcPZc1kZ1bbTmzI7Pqzw) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [يا خسارتك فى اليالى](https://open.spotify.com/album/3oUnSsugdYXbTwLOpjq7Sa) | 4:23 |
+| 62 | [Ashoof Feek Youm](https://open.spotify.com/track/6XbcPZc1kZ1bbTmzI7Pqzw) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Ya Khasartak Fil Layali](https://open.spotify.com/album/3oUnSsugdYXbTwLOpjq7Sa) | 4:23 |
 | 63 | [Haollak Eih](https://open.spotify.com/track/1uQfLicb1k25vIfPpfSmqk) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Monaya](https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX) | 3:33 |
 
 Snapshot ID: `MTYzODc3OTMyOCwwMDAwMDAyNDAwMDAwMTdkOGVkYzE2YjEwMDAwMDE3MjA5YzI0MDdm`

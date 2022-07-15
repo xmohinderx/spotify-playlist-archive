@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,570 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,573 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 32 | [Go Tight!](https://open.spotify.com/track/5sa9qL7gEN2CrL9BlN9rAO) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ Go Tight!](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 4:40 |
 | 33 | [lithium flower](https://open.spotify.com/track/6IouGBVgNIsrRko3llWdZ8) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.+](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 3:22 |
 | 34 | [エンジの雨 \- Remastered 2018](https://open.spotify.com/track/07lGod0aCGc78p3zlKW3jB) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [九段](https://open.spotify.com/album/5fb7PEDcJIQFflHh7tcbps) | 3:58 |
-| 35 | [雨あがりのステップ](https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z) | [新しい地図](https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL) | [雨あがりのステップ](https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I) | 5:20 |
+| 35 | [Ameagari No Step](https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z) | [新しい地図](https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL) | [Ameagari No Step](https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I) | 5:20 |
 | 36 | [愛の輪郭\(フィールド\)](https://open.spotify.com/track/2CVboKPHCJboLDyMprE2gQ) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [「ブレンパワード」オリジナルサウンドトラック](https://open.spotify.com/album/4JrmfJenBP8aed2cBoU0pu) | 4:18 |
 | 37 | [月の繭](https://open.spotify.com/track/6msxucVD54HLGHBjJX7o5z) | [Aki Okui](https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy) | [月の繭](https://open.spotify.com/album/6n0IhlU2aXm6dyaFk3HgIs) | 5:38 |
 | 38 | [Shine \-未来へかざす火のように\-](https://open.spotify.com/track/4yTLOJVd24fgt20yt0GyX3) | [Ayaka Hirahara](https://open.spotify.com/artist/0AzJGufY9eXWy5wHZWQ71H) | [What I am](https://open.spotify.com/album/4IGFw3TSI042ngF2gIZpuR) | 4:15 |

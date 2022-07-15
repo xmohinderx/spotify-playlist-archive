@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Tyler Rich, Marie\-Mai
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,053 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,183 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | [Can't Beat the View](https://open.spotify.com/track/0m93xjoJPC1oGkOEOG6H05) | [Chris Buck Band](https://open.spotify.com/artist/0ns82mvA25By3a6t2S2Lxr) | [Can't Beat the View](https://open.spotify.com/album/6ubtbBpXPmsZSSooitZsS3) | 2:50 |
 | 100 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 |
 
-Snapshot ID: `MTY1Nzc2MDg5MywwMDAwMDAwMDRhNDZlNDRiMTUzYmM1ZGI1NTZkZGU0OTg3NGM5YzU4`
+Snapshot ID: `MTY1Nzg0NzUzOCwwMDAwMDAwMDRhNDZlNDRiMTUzYmM1ZGI1NTZkZGU0OTg3NGM5YzU4`

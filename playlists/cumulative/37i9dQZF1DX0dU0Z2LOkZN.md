@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-150 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+152 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Keeping it Simple](https://open.spotify.com/track/2EroBxY4W8upCJjPw1BLgy) | [ps\-www](https://open.spotify.com/artist/6XVRxs1WvIk0T0h3pdhCyp) | [Keeping it Simple](https://open.spotify.com/album/4Ha7Uno2UwquGMGMoiy70r) | 2:38 | 2021-11-11 |  |
 | [Key Credit](https://open.spotify.com/track/0dcNLhcMbcFd1eduLDNuNT) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [Key Credit](https://open.spotify.com/album/3bcGQiLUIxSIWno3N42rMh) | 2:08 | 2021-11-11 |  |
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2021-11-11 |  |
+| [Liquirizia](https://open.spotify.com/track/0YHKwRUr738Xch3Wp851e0) | [ella diva conflict](https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux) | [Liquirizia](https://open.spotify.com/album/7L9abcrofGPcE9b2I1tSDJ) | 2:30 | 2022-07-15 |  |
 | [Lofi Personal Shrinkage](https://open.spotify.com/track/3BSCMoxZcrMjFm7w4F1F2E) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Personal Shrinkage](https://open.spotify.com/album/2lkaZfyeyLDB8sMtxmHwcd) | 1:54 | 2021-11-11 |  |
 | [Lost World](https://open.spotify.com/track/5up5Dz71Pju2BhK6NffTg8) | [Avatron](https://open.spotify.com/artist/0c1cREViIuF4oj5BtpHo6t) | [Lost World](https://open.spotify.com/album/5Ep9azVs5xJpLVANGBaH6b) | 2:40 | 2021-11-11 |  |
 | [Main Stage](https://open.spotify.com/track/3FGPjaDyaVXSpubOPwFV0Q) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Fake Business](https://open.spotify.com/album/79VlsORhx2r88yW7TRmDWW) | 2:18 | 2021-11-11 |  |
@@ -94,7 +95,7 @@
 | [Maze](https://open.spotify.com/track/22rN9B1hyxCkmqqbgi7ag4) | [The Samplers](https://open.spotify.com/artist/1Db3RMEbPReWKVLfsitK40) | [Moving Sidewalks](https://open.spotify.com/album/4w6kOiFn2YqnH22UwL5ivc) | 1:24 | 2022-07-01 | 2022-07-08 |
 | [McCoy](https://open.spotify.com/track/2go8ClPo7rUZiVwTYjslUO) | [Swans of London](https://open.spotify.com/artist/6dxwRzHWBjutEenT5gV6L8) | [In Rainbows](https://open.spotify.com/album/2WPUYjAwgoEHaHJvBARs2O) | 3:43 | 2021-11-11 |  |
 | [Mellotron](https://open.spotify.com/track/01MiVNDj1ezwyWbaElrcCw) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Mellotron](https://open.spotify.com/album/1aqFGL2Fcqbs0Db6wpzoNX) | 2:32 | 2022-06-24 |  |
-| [MidnightBlue](https://open.spotify.com/track/4E60U6cA2viUVDFK66QYwi) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [MidnightBlue](https://open.spotify.com/album/0KVB3GRu9vFgVzHYZydCuC) | 3:03 | 2021-11-11 |  |
+| [MidnightBlue](https://open.spotify.com/track/4E60U6cA2viUVDFK66QYwi) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [MidnightBlue](https://open.spotify.com/album/0KVB3GRu9vFgVzHYZydCuC) | 3:03 | 2021-11-11 | 2022-07-15 |
 | [Miles](https://open.spotify.com/track/15mn6DKfYvoLRnu89LFDXJ) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Translation EP](https://open.spotify.com/album/5Ze1hIBeHeRnmp6d52VwCR) | 2:12 | 2021-11-11 |  |
 | [Mobilize](https://open.spotify.com/track/5NuVAK4UqklSQMOQ1E5CJe) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Mobilize](https://open.spotify.com/album/1CBvh99afG08PolU6jVvyp) | 2:56 | 2021-11-11 |  |
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2021-11-11 |  |
@@ -129,7 +130,7 @@
 | [Slow Down](https://open.spotify.com/track/7m9L3LHhO1ALNXUJ7m9K04) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [Slow Down](https://open.spotify.com/album/2srbrMZXmGQskURfzFl3zx) | 3:07 | 2021-11-11 |  |
 | [Smeegoll](https://open.spotify.com/track/34G1g2Xo9Q9xbZMvsi2bBJ) | [Clush](https://open.spotify.com/artist/5tk5PQwf3VDXOuW2bDbbKj) | [Midnites](https://open.spotify.com/album/6Wg7fYktXfJoY87bwFBEn3) | 1:56 | 2021-11-11 | 2022-05-20 |
 | [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 | 2022-05-13 |  |
-| [Spin Cycle](https://open.spotify.com/track/7IRafpsoM8i4OirXU4olje) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Targets](https://open.spotify.com/album/2JTNVTUxl3Sf1UvdSw0pth) | 2:25 | 2021-11-11 |  |
+| [Spin Cycle](https://open.spotify.com/track/7IRafpsoM8i4OirXU4olje) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Targets](https://open.spotify.com/album/2JTNVTUxl3Sf1UvdSw0pth) | 2:25 | 2021-11-11 | 2022-07-15 |
 | [Square Pusher](https://open.spotify.com/track/5ky4WPvi6mxjRpoW0CNFxV) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:51 | 2021-11-11 |  |
 | [Stay](https://open.spotify.com/track/1n1WtbBkXFJNhskphoV05W) | [Dellasollounge](https://open.spotify.com/artist/55r17oOBrjjHLLXBC5BsE3) | [Stay](https://open.spotify.com/album/1fpKnA9khgdrwdOQCFfKbG) | 2:16 | 2022-04-22 | 2022-05-20 |
 | [Streuende Hunde](https://open.spotify.com/track/1XDqCTvcNdBlTInzddQ568) | [FLAME](https://open.spotify.com/artist/51p6dDt2ZdCX994xyeXdzu), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Streuende Hunde](https://open.spotify.com/album/4jnXu57WLZneXtBmdtRtUv) | 4:09 | 2021-11-11 |  |
@@ -143,6 +144,7 @@
 | [Tea For Three](https://open.spotify.com/track/7yemMdaZ7y9HS5vOkKBlUO) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Lo\-fi Addiction](https://open.spotify.com/album/2C0wFz5gPDjgQQIw0f6wuo) | 2:17 | 2021-11-11 |  |
 | [tenacity](https://open.spotify.com/track/4fyqvmE6wtNToLltodcUdk) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [tenacity](https://open.spotify.com/album/2ESfWemYIppncsc9JhFKqx) | 2:00 | 2022-02-28 |  |
 | [The All Good Important](https://open.spotify.com/track/5lYMGNXk3KnB53Pah8qDKp) | [King AL](https://open.spotify.com/artist/0d1g0XDfmW95OGEDuH8Pvk) | [Mugen Manga Melodies Vol\. 1 \(Reissue\)](https://open.spotify.com/album/2A6tRrnqZI0rSRwAJOWYSh) | 2:23 | 2021-11-11 |  |
+| [The Daily Grind](https://open.spotify.com/track/0nwIq9DvzxXgVP8ZpH2vxw) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [The Daily Grind](https://open.spotify.com/album/4klkzzBAkPZ3HetJv78Kc2) | 1:38 | 2022-07-15 |  |
 | [The Post](https://open.spotify.com/track/5qAMzYboDI67hvcB5MSXNz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Highway Robbery](https://open.spotify.com/album/6Vf6C3rTyuIYE8BGKbaKKz) | 2:10 | 2021-11-11 |  |
 | [The Realest](https://open.spotify.com/track/6cA7Gs5OK6TyZnmSMAJXwu) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [The Realest](https://open.spotify.com/album/2GyBr0pMUGDEBnCxWZQE5f) | 3:01 | 2022-05-13 | 2022-07-08 |
 | [The Séance \- Instrumental](https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [The Séance \(Instrumental\)](https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R) | 2:47 | 2022-05-20 |  |

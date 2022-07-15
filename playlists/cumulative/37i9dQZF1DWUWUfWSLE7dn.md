@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-90 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+91 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aléatoire](https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Aléatoire](https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ) | 2:58 | 2022-03-09 |  |
 | [Anticipation](https://open.spotify.com/track/7oXuNksbKMdkaBDDlTjOqT) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Anticipation](https://open.spotify.com/album/4pbZrweaQO1XxygeLeqFq7) | 2:11 | 2022-07-01 |  |
 | [Are We Safe Here?](https://open.spotify.com/track/5OeLXyhjckLq6w8l6skNcP) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:31 | 2022-03-09 |  |
+| [Autumn Angst](https://open.spotify.com/track/7Dcnv33fuJPwiHghh9Jkkx) | [Kris Johnson](https://open.spotify.com/artist/52Yoq0x7Eso0ZXRqucZBmc) | [Autumn Angst](https://open.spotify.com/album/1b7FBB65gv31cbk1DcaJrs) | 3:02 | 2022-07-15 |  |
 | [Awakened Dream](https://open.spotify.com/track/7LojpF7q06ijTdp1I4Bwvh) | [Franki Love](https://open.spotify.com/artist/5mDUumCBWXr3v5EXqTYwpY) | [The Moon](https://open.spotify.com/album/0oCRWE9MmAu1lLXtVP4rZi) | 3:02 | 2022-06-03 |  |
 | [Bad Signal](https://open.spotify.com/track/6FqAAz5ZcxuFfzBuzo4xHU) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Bad Signal](https://open.spotify.com/album/3kQTkKBCUSJQvl2C5j5w8o) | 3:28 | 2022-06-24 |  |
 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 | 2022-03-09 |  |

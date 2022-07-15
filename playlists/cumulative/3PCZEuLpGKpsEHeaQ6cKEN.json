@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Updated weekly on Friday | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Loud Luxury",
+  "description": "The biggest Armada tracks of the moment! | Updated weekly on Friday | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Armin van Buuren &amp; Maia Wright",
   "name": "Armada Today",
   "published_playlist_ids": [
     "2VKYZJ3lSyTEDXrKo18ci6"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
     {
       "album": {
         "name": "All I Want",
@@ -115,7 +133,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 181957,
       "name": "Cold Feet",
       "url": "https://open.spotify.com/track/08zt4rqVjqahvXaWAuEBbP"
@@ -853,10 +871,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 185661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
+    },
+    {
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "album": {
@@ -971,6 +1011,24 @@
       "duration_ms": 189047,
       "name": "Funkatron",
       "url": "https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj"
+    },
+    {
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/5UuLnQAm4eCs4fuagwTcnC"
+      },
+      "artists": [
+        {
+          "name": "Maurice West",
+          "url": "https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155994,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/3EQkyCvxrQyDvO9NPRBDMM"
     },
     {
       "album": {
@@ -1471,7 +1529,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 200028,
       "name": "It's A Killa",
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
@@ -1811,7 +1869,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 305078,
       "name": "LINE IN THE SAND",
       "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
@@ -2073,7 +2131,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 153719,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ"
@@ -2239,7 +2297,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 151865,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0zyp5pplCwRhWUxv686JIU"
@@ -2261,7 +2319,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 169548,
       "name": "Numb",
       "url": "https://open.spotify.com/track/4tey3ZOems3qlH1HN0QdoT"
@@ -2349,6 +2407,28 @@
       "duration_ms": 184000,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148095,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
     },
     {
       "album": {
@@ -2855,7 +2935,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 209760,
       "name": "Sete",
       "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
@@ -3045,7 +3125,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 167441,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/5WXcsy3zukT71jjQwA9sfE"
@@ -3288,6 +3368,28 @@
     },
     {
       "album": {
+        "name": "The Wicked",
+        "url": "https://open.spotify.com/album/4qRxBhtluW0Rid4rbVYmyw"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Nathaniel Hall",
+          "url": "https://open.spotify.com/artist/2jAjL68qs03Hkgy1YlygJv"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174828,
+      "name": "The Wicked",
+      "url": "https://open.spotify.com/track/2xvcoy8ryLLzSvEACdLZJL"
+    },
+    {
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
       },
@@ -3358,6 +3460,32 @@
     },
     {
       "album": {
+        "name": "Through The Night",
+        "url": "https://open.spotify.com/album/6KbSX67NzflxslEJ0eJFIW"
+      },
+      "artists": [
+        {
+          "name": "Nightlapse",
+          "url": "https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX"
+        },
+        {
+          "name": "Volaris",
+          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155062,
+      "name": "Through The Night",
+      "url": "https://open.spotify.com/track/0rV7CA1DL5KV4S2UO5B1tq"
+    },
+    {
+      "album": {
         "name": "Timeout",
         "url": "https://open.spotify.com/album/5hOwI5cNycciAnA0svapqi"
       },
@@ -3417,6 +3545,28 @@
       "duration_ms": 170028,
       "name": "Trust",
       "url": "https://open.spotify.com/track/5EbsnehSVc033qtcejTU4I"
+    },
+    {
+      "album": {
+        "name": "Truth Of The Mind",
+        "url": "https://open.spotify.com/album/71AHDPZo365Pkh78joyUH2"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "MC Roga",
+          "url": "https://open.spotify.com/artist/2ZghcB8YjDWv3KKQRB7pzy"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Truth Of The Mind",
+      "url": "https://open.spotify.com/track/4djSaItt4mG28ekfX62t7m"
     },
     {
       "album": {
@@ -3501,6 +3651,28 @@
       "duration_ms": 160378,
       "name": "Wait For Me (feat. Goody Grace & Ant Clemons)",
       "url": "https://open.spotify.com/track/5yTxd9MTDw2kuvc2U3aqN7"
+    },
+    {
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/3dg8q2ZoNMzTXVigUqkZql"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "WAV3POP",
+          "url": "https://open.spotify.com/artist/4xdLHkMBGSEsQq2VVftnWa"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5Q2lulGI9ZQbwf18skmtqw"
     },
     {
       "album": {
@@ -3633,6 +3805,24 @@
       "duration_ms": 167619,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/5XZXl7asBflC33KL5zaLXW"
+    },
+    {
+      "album": {
+        "name": "White Line (The One)",
+        "url": "https://open.spotify.com/album/15kaOwX2au2Ytwl21LjMfv"
+      },
+      "artists": [
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "White Line (The One)",
+      "url": "https://open.spotify.com/track/0z1jdTx4qNGg9DekUh35hB"
     },
     {
       "album": {

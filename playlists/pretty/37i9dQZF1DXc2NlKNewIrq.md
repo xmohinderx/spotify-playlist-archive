@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,068 likes - 74 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,151 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 23 | [The Stigma Of Childhood \(Kin\)](https://open.spotify.com/track/3tkinpOB2OpcA1q4P2JW3S) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Alchemy: An Index Of Possibilities \(Remastered 2003\)](https://open.spotify.com/album/5mSIlRgvPv4rmRiNVLBsYk) | 8:30 |
 | 24 | [Golden Cloud Layers](https://open.spotify.com/track/46doTykO7orQMvEZg58BCE) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 6:36 |
 | 25 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 3:47 |
-| 26 | [Colored Air](https://open.spotify.com/track/7teDfMIAWtfsPApTqcAJ6G) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:58 |
+| 26 | [Colored Air](https://open.spotify.com/track/7teDfMIAWtfsPApTqcAJ6G) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Hitotsubu No Umi](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:58 |
 | 27 | [Deep Sea](https://open.spotify.com/track/5qvn79E2Rf5NwbgkxzQ5lo) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Silent Echo Sounds of the Universe](https://open.spotify.com/album/67WXy9ua4d9T4ZdgxDbV5J) | 6:15 |
 | 28 | [Dressing The Wound](https://open.spotify.com/track/2WuUf2pbjKDt8aZgzOdB6y) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Birdy \(Music From The Film / Remastered\)](https://open.spotify.com/album/2Heal0ZoXnbgsKivM29wYR) | 4:11 |
 | 29 | [Ai Iro](https://open.spotify.com/track/4QjZbNMXfcTIjGLPr9gsQU) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 2](https://open.spotify.com/album/4h1Yp6ITa0R2ZAB9YTsuyL) | 5:56 |

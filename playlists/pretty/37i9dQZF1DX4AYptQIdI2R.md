@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Ahgases! 7 or nothing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,461 likes - 128 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,497 likes - 128 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 12 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
 | 13 | [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 |
 | 14 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 |
-| 15 | [王嘉爾](https://open.spotify.com/track/380m8wx1X9cSSSF5If2D9X) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [王嘉爾](https://open.spotify.com/album/1F4k2mAISGJFSKRvDUt1f1) | 4:33 |
+| 15 | [Jackson Wang](https://open.spotify.com/track/380m8wx1X9cSSSF5If2D9X) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Jackson Wang](https://open.spotify.com/album/1F4k2mAISGJFSKRvDUt1f1) | 4:33 |
 | 16 | [Who Are You \(Feat\. SEULGI of Red Velvet\)](https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Who Are You](https://open.spotify.com/album/7cvrTHkHU8UBnmhHLVUWnL) | 2:59 |
 | 17 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 | 18 | [Day by Day](https://open.spotify.com/track/7zo6QXVQfHlycm8dsxkRGv) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Love and Wish \(Original Soundtrack\)](https://open.spotify.com/album/64ZR0AoOV4VJ89QVvmwgEx) | 3:49 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 75 | [니가 하면 If You Do](https://open.spotify.com/track/3cXdDKg2KaUwtt6XZStNTE) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD](https://open.spotify.com/album/2IDflF7tLh4qEySNgH6Pp4) | 3:30 |
 | 76 | [A](https://open.spotify.com/track/0r3LYm9Wtj94WyOO3AchZ9) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT♡](https://open.spotify.com/album/71Wa5uY1X8SPiAzpoVzS04) | 3:02 |
 | 77 | [딱 좋아\(Just right\)](https://open.spotify.com/track/2zSwsJyjrP0G8wUm0eiSuw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Just right](https://open.spotify.com/album/1Rm8iq43biy7UQRfde5hwN) | 3:42 |
-| 78 | [I WON'T LET YOU GO](https://open.spotify.com/track/7MbapO3ZrXWMm4dCJDchlt) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 3:37 |
+| 78 | [I Won't Let You Go](https://open.spotify.com/track/7MbapO3ZrXWMm4dCJDchlt) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 3:37 |
 | 79 | [You Are](https://open.spotify.com/track/6NyPIDsbl4hEm9tFKcKzsU) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/3VofrXVCFsACXqdwzTVsNy) | 3:20 |
 | 80 | [Fly](https://open.spotify.com/track/60UEnuG7U7URpqGpUrXSsq) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : DEPARTURE](https://open.spotify.com/album/5EkihQrxaHCA90ySQsV8jl) | 3:11 |
 | 81 | [하지하지마 Stop stop it](https://open.spotify.com/track/7dgdLpjJZZmhmGrSo1eFCh) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Identify](https://open.spotify.com/album/4oCmvuYZnOnHKF1tgs5PNr) | 3:16 |
@@ -109,12 +109,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 99 | [TOUCH](https://open.spotify.com/track/5nOofjl5oaTWGeivGfNzDs) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:19 |
 | 100 | [DRUNK ON YOU](https://open.spotify.com/track/3py7jF8h0hJ0QiYoyqUBz5) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:46 |
 | 101 | [SENSES](https://open.spotify.com/track/3C7hRslMCduBjjDyfEYors) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:15 |
-| 102 | [ZERO](https://open.spotify.com/track/4IAXVS8vOGoY89nWAAe1OH) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 3:48 |
+| 102 | [Zero](https://open.spotify.com/track/4IAXVS8vOGoY89nWAAe1OH) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 3:48 |
 | 103 | [너 하나만 One And Only You](https://open.spotify.com/track/0ImOeRJIA9YL9gmSOeC544) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Eyes On You](https://open.spotify.com/album/2k15VazqnRuva8vbh1iZWA) | 3:20 |
 | 104 | [WOLO](https://open.spotify.com/track/3xGbos6JtVvcD8Y7kk3V57) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [<Present : YOU> &ME Edition](https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA) | 3:04 |
 | 105 | [LOVE TALK](https://open.spotify.com/track/5ukZlGN2l9WFC0kguXNMwv) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:53 |
 | 106 | [잘 지내야해 1:31AM](https://open.spotify.com/track/4pc7Opg9CeewptBRYxq1Xm) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [<Present : YOU> &ME Edition](https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA) | 3:51 |
-| 107 | [NEVER ENDING STORY](https://open.spotify.com/track/0GrJHL8wfU6TCS7iRhGlZM) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 4:06 |
+| 107 | [Never Ending Story](https://open.spotify.com/track/0GrJHL8wfU6TCS7iRhGlZM) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 4:06 |
 | 108 | [skyway](https://open.spotify.com/track/4b6WACfiB2h4SEXFWJdSXu) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2) | 3:37 |
 | 109 | [Made It](https://open.spotify.com/track/4xiRJ15zOnHS7AzbZ7ciJW) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL) | 2:36 |
 | 110 | [Party](https://open.spotify.com/track/5XO0LmpnGeKV5geZj2lbT1) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL) | 3:04 |
@@ -125,11 +125,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 115 | [25](https://open.spotify.com/track/2Ny6mqaPLEhCS1bJvo7YKE) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 3:25 |
 | 116 | [Lullaby \- Spanish Ver.](https://open.spotify.com/track/0WQwiIbBX6JaVw1w9awD6E) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL) | 3:37 |
 | 117 | [My Youth](https://open.spotify.com/track/6U5jQigohsLdToySCbQJUe) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL) | 3:32 |
-| 118 | [SEESAW](https://open.spotify.com/track/1jJrOj07b8AgaOVKxWX6rF) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 3:34 |
+| 118 | [Seesaw](https://open.spotify.com/track/1jJrOj07b8AgaOVKxWX6rF) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 3:34 |
 | 119 | [Prove It](https://open.spotify.com/track/4M540pqSgERNRFXRWDNW94) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2) | 2:54 |
-| 120 | [THE New Era](https://open.spotify.com/track/6gJJ3geKv7UkSxOD2JmTQC) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [The New Era \(Special Edition\)](https://open.spotify.com/album/5th9ym279qG6pjSklZNsCw) | 3:39 |
+| 120 | [The New Era](https://open.spotify.com/track/6gJJ3geKv7UkSxOD2JmTQC) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [The New Era \(Special Edition\)](https://open.spotify.com/album/5th9ym279qG6pjSklZNsCw) | 3:39 |
 | 121 | [Papillon](https://open.spotify.com/track/7Cy5lVtive8cM718xgr1TN) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Papillon](https://open.spotify.com/album/2LLTZRSzfiLDjIxHrcbmNW) | 3:15 |
-| 122 | [MY SWAGGER](https://open.spotify.com/track/31Q8Gbx4f6Pfv2fDaTLAFk) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [My Swagger](https://open.spotify.com/album/4Rr87CeS5NaWCWQWRKb1Ff) | 3:07 |
+| 122 | [My Swagger](https://open.spotify.com/track/31Q8Gbx4f6Pfv2fDaTLAFk) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [My Swagger](https://open.spotify.com/album/4Rr87CeS5NaWCWQWRKb1Ff) | 3:07 |
 | 123 | [Higher](https://open.spotify.com/track/30TN16O9f5KZaQRiWIQ5CI) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [<Present : YOU> &ME Edition](https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA) | 2:36 |
 | 124 | [Forever Young](https://open.spotify.com/track/6SElSsXjg8PqWQRTaxvKZX) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT♡](https://open.spotify.com/album/71Wa5uY1X8SPiAzpoVzS04) | 3:44 |
 | 125 | [Think About It](https://open.spotify.com/track/3lOyWo3j9qehSoNqoQdlXg) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [<Present : YOU> &ME Edition](https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA) | 3:08 |

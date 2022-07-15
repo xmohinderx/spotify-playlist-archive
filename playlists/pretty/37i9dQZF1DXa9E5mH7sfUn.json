@@ -1,12 +1,12 @@
 {
   "description": "Amigo, ven te invito una copa...",
-  "num_followers": 120985,
+  "num_followers": 121149,
   "original_name": "El Bar de la Soledad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYxMDQzMiwwMDAwMDAwNTAwMDAwMTgxYjVhZDI1MTYwMDAwMDE3NDdhM2Q0ODFh",
+  "snapshot_id": "MTY1NzgxNDc4NSwwMDAwMDAwNzAwMDAwMTgxZmQ3NjFkNDUwMDAwMDE3NDdhM2Q0ODFh",
   "tracks": [
     {
       "added_at": "2020-09-10 22:57:59",
@@ -119,6 +119,22 @@
       "duration_ms": 248000,
       "name": "\u00bfY c\u00f3mo es \u00e9l?",
       "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
+    },
+    {
+      "added_at": "2022-07-14 16:00:20",
+      "album": {
+        "name": "Myriam Hernandez",
+        "url": "https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr"
     },
     {
       "added_at": "2020-09-10 22:57:59",
@@ -375,6 +391,22 @@
       "duration_ms": 231773,
       "name": "Me Dediqu\u00e9 a Perderte",
       "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
+    },
+    {
+      "added_at": "2022-07-14 16:06:25",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Esta Noche La Paso Contigo",
+      "url": "https://open.spotify.com/track/7dMvCcXQ75EGhu5rOugYX2"
     },
     {
       "added_at": "2020-09-10 22:57:59",

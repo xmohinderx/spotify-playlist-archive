@@ -1,29 +1,13 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.\n",
-  "num_followers": 22007,
+  "num_followers": 22069,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzc2MTAxMCwwMDAwMDAwMGMwYWZlOTliNzdkN2YyNzE1ZWM1OTc1MWY3NWIxZDU5",
+  "snapshot_id": "MTY1Nzg0NzY1MSwwMDAwMDAwMGEyODQ1MzAyOGZlZDEzZjE2YzNlYWRmYTI4MmVlOGE1",
   "tracks": [
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "The Complete Vanguard Recordings",
-        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 536533,
-      "name": "Gonna Leave You",
-      "url": "https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7"
-    },
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "All Blues",
-        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
+        "name": "Man of the World: The Anthology 1968-1988",
+        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
       },
       "artists": [
         {
-          "name": "Peter Frampton Band",
-          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
         }
       ],
-      "duration_ms": 274088,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
     },
     {
       "added_at": "2022-07-08 14:38:33",
@@ -91,22 +75,6 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 339466,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
         "name": "Blues Deluxe",
         "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
@@ -119,22 +87,6 @@
       "duration_ms": 440200,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/7CrxQyz0pFkETwJFlXN7L8"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "By The Water",
-      "url": "https://open.spotify.com/track/2OWa4hkdlpxPrb2ZvOwWCv"
     },
     {
       "added_at": "2022-07-08 14:38:33",
@@ -155,82 +107,18 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
       },
       "artists": [
         {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 229200,
-      "name": "Ooh Baby",
-      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Cold Snap",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 412666,
-      "name": "Too Many Dirty Dishes",
-      "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Open Road",
-        "url": "https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV"
-      },
-      "artists": [
-        {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
-        }
-      ],
-      "duration_ms": 304868,
-      "name": "That's Why I'm Crying",
-      "url": "https://open.spotify.com/track/2oaHiYkuDjqbfMPZERPlKH"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Give In Kind",
-        "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
-      },
-      "artists": [
-        {
-          "name": "Guy Davis",
-          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Loneliest Road That I Know",
-      "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 255226,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
+      "duration_ms": 536533,
+      "name": "Gonna Leave You",
+      "url": "https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7"
     },
     {
       "added_at": "2022-07-08 14:38:33",
@@ -251,18 +139,98 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+        "name": "King Of The Blues",
+        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
       },
       "artists": [
         {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 224840,
-      "name": "I Shall Know Him",
-      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
+      "duration_ms": 223400,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/4LGB1Oo4LYCH3pmdaE94ce"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 255226,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 339466,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "All Blues",
+        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton Band",
+          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Live At The Regal",
+        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Help The Poor",
+      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/7CrxQyz0pFkETwJFlXN7L8"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "By The Water",
+      "url": "https://open.spotify.com/track/2OWa4hkdlpxPrb2ZvOwWCv"
     },
     {
       "added_at": "2022-07-08 14:38:33",
@@ -279,38 +247,6 @@
       "duration_ms": 166400,
       "name": "The Sky Is Crying",
       "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Man of the World: The Anthology 1968-1988",
-        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "King Of The Blues",
-        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/4LGB1Oo4LYCH3pmdaE94ce"
     },
     {
       "added_at": "2022-07-08 14:38:33",
@@ -335,90 +271,6 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 350520,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Live At The Regal",
-        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Help The Poor",
-      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "True To Yourself",
-        "url": "https://open.spotify.com/album/6djxMkLPDJdk3N1bIExPNV"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        },
-        {
-          "name": "Tommy Shannon",
-          "url": "https://open.spotify.com/artist/4L81vlq3wCkssFBK1UpPDN"
-        }
-      ],
-      "duration_ms": 456946,
-      "name": "Lonely Bed",
-      "url": "https://open.spotify.com/track/2glwN5raCeEn0EdjKrNw6i"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "Little Boy Blue",
-      "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
@@ -435,106 +287,66 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
-        "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
+        "name": "Cold Snap",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
       "artists": [
         {
-          "name": "Luther Johnson",
-          "url": "https://open.spotify.com/artist/1fgNJ5TmN4k8Kf1zdaSBoV"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 385600,
-      "name": "Lonesome In My Bedroom",
-      "url": "https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx"
+      "duration_ms": 412666,
+      "name": "Too Many Dirty Dishes",
+      "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
     },
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "Drown in My Own Tears",
-        "url": "https://open.spotify.com/album/5IfD3j9V2rI3uCNB4v2uvl"
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
       },
       "artists": [
         {
-          "name": "Joe Barr",
-          "url": "https://open.spotify.com/artist/18J8U6TlLOyAa58TlKdNVX"
-        },
-        {
-          "name": "Breezy Rodio",
-          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
         }
       ],
-      "duration_ms": 275973,
-      "name": "Drown in My Own Tears",
-      "url": "https://open.spotify.com/track/1uklRsmAQifWbymFxx74IZ"
+      "duration_ms": 229200,
+      "name": "Ooh Baby",
+      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
     },
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "Put In a Little Time",
-        "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
+        "name": "Give In Kind",
+        "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
       },
       "artists": [
         {
-          "name": "James Cooke",
-          "url": "https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U"
+          "name": "Guy Davis",
+          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
         }
       ],
-      "duration_ms": 280062,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+      "duration_ms": 257440,
+      "name": "Loneliest Road That I Know",
+      "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
     },
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "So Far so Good",
-        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
+        "name": "Good Luck Man",
+        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
       },
       "artists": [
         {
-          "name": "Peter Veteska & Blues Train",
-          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
         }
       ],
-      "duration_ms": 233706,
-      "name": "Low Down Dirty Blues",
-      "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 156653,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Slow Burning Love",
-        "url": "https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0"
-      },
-      "artists": [
-        {
-          "name": "Oscar LaDell",
-          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
-        },
-        {
-          "name": "Chris Armour",
-          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Slow Burning Love",
-      "url": "https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a"
+      "duration_ms": 428266,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
     },
     {
       "added_at": "2022-07-08 14:38:33",
@@ -555,6 +367,70 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
+        "name": "Open Road",
+        "url": "https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "duration_ms": 304868,
+      "name": "That's Why I'm Crying",
+      "url": "https://open.spotify.com/track/2oaHiYkuDjqbfMPZERPlKH"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "I Shall Know Him",
+      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
         "name": "Memphis Moonlight",
         "url": "https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8"
       },
@@ -567,6 +443,38 @@
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
+        "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
+      },
+      "artists": [
+        {
+          "name": "Luther Johnson",
+          "url": "https://open.spotify.com/artist/1fgNJ5TmN4k8Kf1zdaSBoV"
+        }
+      ],
+      "duration_ms": 385600,
+      "name": "Lonesome In My Bedroom",
+      "url": "https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2022-07-08 14:38:33",
@@ -595,114 +503,42 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "Hound Dog Taylor & The Houserockers",
-        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+        "name": "Slow Burning Love",
+        "url": "https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0"
       },
       "artists": [
         {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+          "name": "Oscar LaDell",
+          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
+        },
+        {
+          "name": "Chris Armour",
+          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
         }
       ],
-      "duration_ms": 231000,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m"
+      "duration_ms": 191129,
+      "name": "Slow Burning Love",
+      "url": "https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a"
     },
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+        "name": "Drown in My Own Tears",
+        "url": "https://open.spotify.com/album/5IfD3j9V2rI3uCNB4v2uvl"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 285200,
-      "name": "Tender Organs",
-      "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Good Luck Man",
-        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
-      },
-      "artists": [
+          "name": "Joe Barr",
+          "url": "https://open.spotify.com/artist/18J8U6TlLOyAa58TlKdNVX"
+        },
         {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+          "name": "Breezy Rodio",
+          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
         }
       ],
-      "duration_ms": 428266,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Mr. Wonderful",
-        "url": "https://open.spotify.com/album/2yBjm0Jb8d8Oaor7F6ivyN"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "I've Lost My Baby",
-      "url": "https://open.spotify.com/track/07R6piKyVzQlJzCk2Uhfk4"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 419306,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/3TBecWtWPePxMvoqNAEuDt"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells' Chicago Blues Band",
-          "url": "https://open.spotify.com/artist/3qhyjnRYQ1YprGjhvGQ8GP"
-        }
-      ],
-      "duration_ms": 247269,
-      "name": "Ships on the Ocean",
-      "url": "https://open.spotify.com/track/5qZkTvK2yktEtZ1BxJeGCr"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Waiting For Perfection",
-        "url": "https://open.spotify.com/album/3l6RCXBpentPUrP9AcrL5O"
-      },
-      "artists": [
-        {
-          "name": "Michael Hardie",
-          "url": "https://open.spotify.com/artist/0hoFPHvdknXhVTBp1nq17S"
-        }
-      ],
-      "duration_ms": 375946,
-      "name": "I Walk Alone",
-      "url": "https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS"
+      "duration_ms": 275973,
+      "name": "Drown in My Own Tears",
+      "url": "https://open.spotify.com/track/1uklRsmAQifWbymFxx74IZ"
     },
     {
       "added_at": "2022-07-08 14:38:33",
@@ -723,18 +559,70 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "Best of the Blues Years",
-        "url": "https://open.spotify.com/album/58HUwzH6Mpzdt3tAbmP0gR"
+        "name": "Waiting For Perfection",
+        "url": "https://open.spotify.com/album/3l6RCXBpentPUrP9AcrL5O"
       },
       "artists": [
         {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+          "name": "Michael Hardie",
+          "url": "https://open.spotify.com/artist/0hoFPHvdknXhVTBp1nq17S"
         }
       ],
-      "duration_ms": 185026,
-      "name": "Hard Living Alone",
-      "url": "https://open.spotify.com/track/0gUYU0eoW3fBqWiEvhxjvU"
+      "duration_ms": 375946,
+      "name": "I Walk Alone",
+      "url": "https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Mr. Wonderful",
+        "url": "https://open.spotify.com/album/2yBjm0Jb8d8Oaor7F6ivyN"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "I've Lost My Baby",
+      "url": "https://open.spotify.com/track/07R6piKyVzQlJzCk2Uhfk4"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "True To Yourself",
+        "url": "https://open.spotify.com/album/6djxMkLPDJdk3N1bIExPNV"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        },
+        {
+          "name": "Tommy Shannon",
+          "url": "https://open.spotify.com/artist/4L81vlq3wCkssFBK1UpPDN"
+        }
+      ],
+      "duration_ms": 456946,
+      "name": "Lonely Bed",
+      "url": "https://open.spotify.com/track/2glwN5raCeEn0EdjKrNw6i"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Pickin' the Blues",
+        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 205870,
+      "name": "Mistreated so Bad",
+      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
     },
     {
       "added_at": "2022-07-08 14:38:33",
@@ -755,54 +643,6 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
-        "name": "A Savage Life",
-        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 167330,
-      "name": "Blues On The Bay",
-      "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Bonnie",
-        "url": "https://open.spotify.com/album/6TpMAQZqwXrU5JbT7r57EF"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
-        "name": "Nothing But the Blues (Live)",
-        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 430106,
-      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
-      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
-    },
-    {
-      "added_at": "2022-07-08 14:38:33",
-      "album": {
         "name": "The Blues",
         "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
       },
@@ -819,6 +659,70 @@
     {
       "added_at": "2022-07-08 14:38:33",
       "album": {
+        "name": "So Far so Good",
+        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
+      },
+      "artists": [
+        {
+          "name": "Peter Veteska & Blues Train",
+          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "Low Down Dirty Blues",
+      "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "Little Boy Blue",
+      "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Put In a Little Time",
+        "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
+      },
+      "artists": [
+        {
+          "name": "James Cooke",
+          "url": "https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Hound Dog Taylor & The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
         "name": "The Chicago Way",
         "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
       },
@@ -831,6 +735,102 @@
       "duration_ms": 269560,
       "name": "When Will You Tell Him About Me?",
       "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "A Savage Life",
+        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 167330,
+      "name": "Blues On The Bay",
+      "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Tender Organs",
+      "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/3TBecWtWPePxMvoqNAEuDt"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells' Chicago Blues Band",
+          "url": "https://open.spotify.com/artist/3qhyjnRYQ1YprGjhvGQ8GP"
+        }
+      ],
+      "duration_ms": 247269,
+      "name": "Ships on the Ocean",
+      "url": "https://open.spotify.com/track/5qZkTvK2yktEtZ1BxJeGCr"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Pretty Baby",
+        "url": "https://open.spotify.com/album/1ck7nHDnXEfVJI1ee0IkuZ"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 135813,
+      "name": "Someone Broke This Heart of Mine",
+      "url": "https://open.spotify.com/track/1nAib0m89PRTuvauNATdOU"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 183120,
+      "name": "Lonesome Road Blues",
+      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
+    },
+    {
+      "added_at": "2022-07-08 14:38:33",
+      "album": {
+        "name": "The Essential Blue Archive: Why Should I Cry",
+        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Johnson",
+          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Friendless Blues",
+      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
     }
   ],
   "unique_name": "Just Me and the Blues",

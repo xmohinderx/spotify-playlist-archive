@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-280 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+284 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Cameo](https://open.spotify.com/track/30OXkzWR9otpCgUpAPrtPA) | [Jazzarama](https://open.spotify.com/artist/3yNVU8t50pOgeeaiEtGKMe) | [Vacation Plans](https://open.spotify.com/album/3ALLfEOHgPmkVrjehNyb9D) | 2:33 | 2021-11-11 |  |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2021-11-11 |  |
 | [Can We Just Vibe?](https://open.spotify.com/track/0wmr45zDNsSMy9cRgddm4E) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Can We Just Vibe?](https://open.spotify.com/album/5WsSwxseHP6HV4DVWl0CVn) | 2:44 | 2021-11-11 |  |
+| [carefree](https://open.spotify.com/track/0bPfSzjE7X5LUuvdJkv481) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [carefree](https://open.spotify.com/album/50IPTdTpfzN5xRncShypO9) | 3:07 | 2022-07-15 |  |
 | [Caribs](https://open.spotify.com/track/77IvFp174yhWdvqwBYkphA) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Caribs](https://open.spotify.com/album/26hrmwEdbhGyQSKcJ6nu1w) | 2:07 | 2021-11-11 | 2022-06-17 |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2021-11-11 |  |
 | [Celebrate You](https://open.spotify.com/track/5ZmTz0zMu1ENE9ksmNKuBi) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Celebrate You](https://open.spotify.com/album/6mur5z1CltJszyCwJFjLJx) | 2:22 | 2021-11-11 |  |
@@ -76,6 +77,7 @@
 | [Fifth Avenue](https://open.spotify.com/track/7LiU8KqXyhzNOKaEZQncG5) | [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO), [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor), [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Fifth Avenue](https://open.spotify.com/album/1INSdX2d0aneKaFqCsN4Rl) | 1:44 | 2021-11-11 |  |
 | [Flavors of Oro](https://open.spotify.com/track/4O7Tbtvbf1U25lMhkBa2wd) | [Aphid Friend](https://open.spotify.com/artist/6gQZaq3bhFr819MDPbmEso) | [Floaty Boi](https://open.spotify.com/album/6rxXyvP6xKjQJjBw27m3XB) | 2:48 | 2022-02-04 |  |
 | [Flor de Maga](https://open.spotify.com/track/6YUl5cWPcgEdKl4qtCNlsg) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Flora Vida](https://open.spotify.com/album/5XanZuVir9LIv3lsFAtlAG) | 2:32 | 2021-11-11 |  |
+| [Flow Downstream](https://open.spotify.com/track/493ggrfPQoWAiW3ewJBGRt) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Currents](https://open.spotify.com/album/5VlRaGpdL2hRWCsWQWIHlk) | 2:40 | 2022-07-15 |  |
 | [Flower Shop](https://open.spotify.com/track/0OSJchsd1chO0jAjgpfzvk) | [Trigober](https://open.spotify.com/artist/3lTDKq3jjunxMlB1ZIbscR) | [Flower Shop](https://open.spotify.com/album/6cu3w1o5GBBQPs9BOH5DZW) | 3:06 | 2021-11-11 |  |
 | [For My Lady](https://open.spotify.com/track/6xGgMpySXg8CfzxapgyBXF) | [Linkrust](https://open.spotify.com/artist/3W6MD03BtPEx7yJnj9jT2z) | [For My Lady](https://open.spotify.com/album/39WIrERkwZ0s3P3XG669Zb) | 2:42 | 2022-05-13 | 2022-07-01 |
 | [Fountain of Youth](https://open.spotify.com/track/6qV7mgZJ93bfPlECJ8cp8j) | [fwn.](https://open.spotify.com/artist/1Fqwbp1tTD8kx2CmB8j6tu), [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg) | [Fountain of Youth](https://open.spotify.com/album/6V8htjUIh2ovsKFHb5CbZn) | 2:13 | 2022-07-01 |  |
@@ -101,6 +103,7 @@
 | [Hectic As...](https://open.spotify.com/track/344yooLkCySLeDAluyw3aN) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr), [Aver](https://open.spotify.com/artist/0lBiVIJxGVqGyNkfjGuZKi), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ) | [Follow the Earworm / Hectic As...](https://open.spotify.com/album/1gUsAPJM3Q0JunaJzy95y4) | 3:19 | 2021-11-11 |  |
 | [HelloHello](https://open.spotify.com/track/65IGYjWJG1Esvl5vA8UTqA) | [DJ Grumble](https://open.spotify.com/artist/2oJgWr3LkpO9g9NyL8hiOJ) | [Ft2020](https://open.spotify.com/album/0p5mV0kuREHXYuE2YFDnZp) | 1:20 | 2021-11-11 | 2022-05-20 |
 | [Hi and Lo\(fi\)](https://open.spotify.com/track/5DBgbH2SxV3XNYanN82cKV) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Bonham Style](https://open.spotify.com/album/3FmlOBtlTIv3ShunS2b0T7) | 3:38 | 2021-11-11 |  |
+| [High Coast Beat](https://open.spotify.com/track/1uqbepnCPGf5eZZFKDKvQG) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Rhythmic Flows](https://open.spotify.com/album/5hRbJOC7CcZwjL6xhcFkNE) | 2:46 | 2022-07-15 |  |
 | [Holiday](https://open.spotify.com/track/3j7nBP1tUQq9ABXS02uZqD) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dang It](https://open.spotify.com/album/5kWRvFteI573uNGreILRUP) | 3:12 | 2021-11-11 | 2022-06-03 |
 | [Homebound](https://open.spotify.com/track/7bqqQzMnUGjrauxOWTbZnH) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Marie](https://open.spotify.com/album/2mmH6a8S7d07KX8gTJRX2Z) | 3:23 | 2021-11-11 | 2022-06-03 |
 | [honey](https://open.spotify.com/track/4Iru0dqCxenHmei8t6dTeN) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [honey](https://open.spotify.com/album/5E0Lm49e56zbWMwzke8nTj) | 1:40 | 2022-02-18 |  |
@@ -144,6 +147,7 @@
 | [Loose](https://open.spotify.com/track/2jL3urmIC1PepoT93Mskmm) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Loose](https://open.spotify.com/album/7pzAH2m3DrWbjgkMEBOQtB) | 2:39 | 2021-11-11 |  |
 | [Lost World](https://open.spotify.com/track/5up5Dz71Pju2BhK6NffTg8) | [Avatron](https://open.spotify.com/artist/0c1cREViIuF4oj5BtpHo6t) | [Lost World](https://open.spotify.com/album/5Ep9azVs5xJpLVANGBaH6b) | 2:40 | 2021-11-11 | 2022-06-10 |
 | [Low Key](https://open.spotify.com/track/2rdlNy8ioOeyHNzcgp5lRw) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Low Key](https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP) | 2:35 | 2021-11-11 |  |
+| [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 | 2022-07-15 |  |
 | [Lucy Dreamer](https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Luscious](https://open.spotify.com/album/1d5DMrZe0OUFwXOnpnZUQF) | 1:32 | 2021-11-11 | 2022-06-10 |
 | [Lush 002](https://open.spotify.com/track/1xdSbbuFi2g5bpe01pBgQc) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Lush 002](https://open.spotify.com/album/07sedSgl049zrehDvzA2Si) | 2:54 | 2021-11-11 |  |
 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 2:09 | 2021-11-11 |  |

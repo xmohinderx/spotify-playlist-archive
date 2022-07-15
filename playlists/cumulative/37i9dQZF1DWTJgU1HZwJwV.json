@@ -892,6 +892,24 @@
     },
     {
       "album": {
+        "name": "eye of the beholder",
+        "url": "https://open.spotify.com/album/6Ml03ImtzdZLRHmb2pa3Yn"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181428,
+      "name": "eye of the beholder",
+      "url": "https://open.spotify.com/track/5qj92VufB9JpS83gJh73up"
+    },
+    {
+      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh"
       },
@@ -2777,6 +2795,24 @@
       "duration_ms": 145728,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/0TACgDNHOuXWhcxAU3dKKz"
+    },
+    {
+      "album": {
+        "name": "Triste",
+        "url": "https://open.spotify.com/album/7FGCrHscT6y5OwLDIYKj3O"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/1sz5nK8klruuA3wyUilEKB"
     },
     {
       "album": {

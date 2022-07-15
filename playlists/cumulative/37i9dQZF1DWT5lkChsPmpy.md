@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-296 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+300 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,10 +145,12 @@
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2021-11-10 |  |
 | [La Espera](https://open.spotify.com/track/7gcrgp7kVXdkODv834Wnwp) | [Ralf Holiday](https://open.spotify.com/artist/2qRViSWmqF4ZGcxP2A2iWB) | [La Espera](https://open.spotify.com/album/6O6mNzfpUyK5b1cUklSAMv) | 2:24 | 2021-11-10 | 2022-07-08 |
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2021-11-10 |  |
+| [lament orange](https://open.spotify.com/track/1NsENCo25TvQKmBk9khtNA) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [lament orange](https://open.spotify.com/album/5XgmzbVgztvwlUb3n0XwiY) | 2:56 | 2022-07-15 |  |
 | [Las Vegas](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx) | [Spiral Solace](https://open.spotify.com/artist/2NNajlXb9VSrYlESf8AlKG) | [Las Vegas](https://open.spotify.com/album/18Pt5mnL3AsrQHiIVgeMUc) | 3:40 | 2021-11-10 | 2022-01-22 |
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2021-11-10 | 2022-06-10 |
 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 | 2022-01-21 |  |
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2021-11-10 | 2022-02-11 |
+| [Limoncello](https://open.spotify.com/track/3hiMfIXRuD4OAjD6F5VLQb) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Limoncello](https://open.spotify.com/album/1mUX9DSCKssZvL9SAJiaR3) | 2:26 | 2022-07-15 |  |
 | [lipshells](https://open.spotify.com/track/2nfYoMN2329hAlwbPhVJuf) | [cowa cowa](https://open.spotify.com/artist/0OslD5KMKoNQvrXv7DR5VC) | [lipshells](https://open.spotify.com/album/5noCjiE5k92zUycUGD0QVq) | 2:52 | 2021-11-10 | 2022-07-08 |
 | [lofiology](https://open.spotify.com/track/4eAY8ptmb2Nx9YNIK9PZss) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [lofiology](https://open.spotify.com/album/02GmJmun9UOWAeHKcjCKbd) | 2:19 | 2021-11-10 |  |
 | [Lonely and I like it](https://open.spotify.com/track/2aL54CY3OQEjTQ73Yj6DDK) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Lonely and I like it](https://open.spotify.com/album/1nPKqBuxMHZd8nO2L6WHG1) | 2:43 | 2022-06-03 |  |
@@ -218,6 +220,7 @@
 | [Real space](https://open.spotify.com/track/5vaFORH4cfFX5z3qerjAVk) | [Etherealz](https://open.spotify.com/artist/0aIHVgvyg6RLaXkbg52RN8) | [Real space](https://open.spotify.com/album/3y8sIzjrmZe2UEQ2QV3RRg) | 1:59 | 2021-11-10 | 2022-04-06 |
 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 | 2021-11-10 | 2022-07-08 |
 | [Reflect](https://open.spotify.com/track/6KoJqqoM9nwU9Gpo0mMPA9) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [Reflect](https://open.spotify.com/album/35Ho0LxFGqmkEfuiLVYHkp) | 3:09 | 2021-11-10 | 2022-02-11 |
+| [reflect](https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [reflect](https://open.spotify.com/album/3sla1YDETOdnRRrmyn5jDy) | 2:44 | 2022-07-15 |  |
 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 | 2021-11-10 |  |
 | [Remember that Thing?](https://open.spotify.com/track/6qrWKbbY97z18o3nGiquGn) | [HEH](https://open.spotify.com/artist/0TPeimMKCuW9cVVu4DUOz0) | [Heroes in Heartbreak](https://open.spotify.com/album/2GKm63re8wsbsaJKUihCmO) | 2:29 | 2021-11-10 | 2022-06-10 |
 | [Retrogress](https://open.spotify.com/track/6TGruVWFTGiEduDrQ5bY8I) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Flakes](https://open.spotify.com/album/45WTdqbH4bvvR8yZm5ykWL) | 2:42 | 2021-11-10 | 2022-06-03 |
@@ -244,6 +247,7 @@
 | [sleeping bird](https://open.spotify.com/track/4zH9TP3m7xkfltbL3Vlaix) | [Whatevr.](https://open.spotify.com/artist/2GwB8DnTnNMofcrjLo2Fd7), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [sleeping bird](https://open.spotify.com/album/3DbVYCIBprAMxZAXQ3HPB5) | 1:45 | 2022-05-10 |  |
 | [Sleepy](https://open.spotify.com/track/72lefppJV4GNMzknCilJzd) | [BoW](https://open.spotify.com/artist/0UYWqGl6QTZCJizQty7kFI) | [Night Sky](https://open.spotify.com/album/63ysIA8671nsKzVD90fFwa) | 2:01 | 2022-01-21 |  |
 | [Slow Burner](https://open.spotify.com/track/6Kfirj7YHcY1fvuibJd3Vf) | [Jack May](https://open.spotify.com/artist/0DjOM3p7J0A8ANeln1hjqn) | [Slow Burner](https://open.spotify.com/album/2vtz0imwdKGHlnGsQHN0O3) | 2:37 | 2022-01-21 |  |
+| [smoky quartz](https://open.spotify.com/track/2lofp2OVbcHtGsHwhQYsgM) | [!Noj](https://open.spotify.com/artist/4AC0ibnAApmxIw1MEFLKyW) | [gems](https://open.spotify.com/album/1vfTfuVTf3h0GUPTFfFLwl) | 2:06 | 2022-07-15 |  |
 | [Smooth Mind](https://open.spotify.com/track/3l0bF4yF0PyovHRFcWN7He) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Smooth Mind](https://open.spotify.com/album/5uQibIak3bvGti5AEvePm5) | 2:58 | 2021-11-10 |  |
 | [Snow](https://open.spotify.com/track/7Lr18ZoFCnzoR0MS5Gwd4D) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Snow](https://open.spotify.com/album/0nOV8jyTKhK35vBKCZSrSh) | 2:22 | 2021-11-10 | 2022-05-11 |
 | [So Be It](https://open.spotify.com/track/0W0nUfbrPMHfjx2W1rtmQR) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [So Be It](https://open.spotify.com/album/4hVT7AuO0urPieBLyJiZ9y) | 2:40 | 2021-11-10 |  |

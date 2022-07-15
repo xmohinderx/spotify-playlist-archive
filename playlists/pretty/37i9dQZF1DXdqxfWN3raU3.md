@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Ilse Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,941 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,967 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 95 | [la que calla](https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la que calla](https://open.spotify.com/album/5euZs2LCSSNhhgDOifldjU) | 3:30 |
 | 96 | [Desaparecer](https://open.spotify.com/track/5VA5vIIfllzd39yAqBCjC4) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Desaparecer](https://open.spotify.com/album/66JKhnhWqlvJkXD2EMuj4k) | 3:44 |
 | 97 | [Shorty](https://open.spotify.com/track/6nOKHS69nUyVHSlWbAkP6q) | [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Shorty](https://open.spotify.com/album/10Q4axLIttUjmSb026Svui) | 2:37 |
-| 98 | [Navegantes](https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ) | [Daniela Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Navegantes](https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC) | 4:03 |
+| 98 | [Navegantes](https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ) | [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Navegantes](https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC) | 4:03 |
 | 99 | [No la Paso Mal](https://open.spotify.com/track/1g3clLZY5J2EmPGBBssWVy) | [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [No la Paso Mal](https://open.spotify.com/album/0IXVKmFTGe7JkTT42JdylO) | 2:40 |
 | 100 | [No Voy a Dudar](https://open.spotify.com/track/2J6OGTVgvgipKATyti8QrL) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Karloz](https://open.spotify.com/artist/1K1pt9uJfTMyJYaoiz1fdJ), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [Sigma](https://open.spotify.com/album/5pKjEUByReFjFH8vwiQNgb) | 2:27 |
 

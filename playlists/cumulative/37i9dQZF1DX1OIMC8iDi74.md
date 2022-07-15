@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-213 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+214 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J) | 2:40 | 2021-11-19 | 2022-02-02 |
 | [NO TOMORROW](https://open.spotify.com/track/0dLHJRrBKfLM3OwLHvrmEd) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/4v7TAHvOlgbPlwojDlcyi3) | 2:54 | 2021-11-19 |  |
 | [Nothing Less](https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [futura](https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND) | 3:26 | 2021-11-19 |  |
+| [O.G.](https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [O.G.](https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv) | 2:50 | 2022-07-14 |  |
 | [Oblivion](https://open.spotify.com/track/1YbYFYLlJvqcuEnawPyxlD) | [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Oblivion](https://open.spotify.com/album/4ePrBbPSL2DoSyjqfH4aKX) | 2:55 | 2021-11-19 | 2022-01-24 |
 | [Octavia](https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Octavia](https://open.spotify.com/album/7pLF40nSHudOnKd0i4m30m) | 3:30 | 2021-11-19 | 2022-02-02 |
 | [One Day](https://open.spotify.com/track/0y9PU8ICc8ubLDjQ1kEjSH) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Sable Valley Summer Vol\. 2](https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5) | 3:56 | 2021-11-19 | 2022-02-02 |
@@ -215,7 +216,7 @@
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-18 |  |
 | [Us](https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Us](https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM) | 3:04 | 2022-02-01 |  |
 | [Used To Know Me](https://open.spotify.com/track/54qwl8mJQ45SmIeYKp6jZp) | [iSHi](https://open.spotify.com/artist/6Dy7Ex5zlTLgXbsB92rPji) | [iSHi Instrumentals Vol.1](https://open.spotify.com/album/1ErrsW3p5x3XUzXEdRN3Iv) | 2:20 | 2021-12-03 | 2022-01-31 |
-| [WARDOGZ](https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:34 | 2022-02-01 |  |
+| [WARDOGZ](https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:34 | 2022-02-01 | 2022-07-15 |
 | [Why Is It So Hard](https://open.spotify.com/track/6ovna0z2elvIqqfVw8p4z1) | [Santiago](https://open.spotify.com/artist/1nZ7JTJvYw7eGVECfF43hF) | [Why Is It So Hard](https://open.spotify.com/album/1u42tckI6ReuhdPIVgUxjW) | 3:23 | 2021-11-26 | 2022-01-28 |
 | [Windows 10 \- Trap Mix](https://open.spotify.com/track/14ZmWCuRUubceb4pEe8tUE) | [DJ30A](https://open.spotify.com/artist/65vvuazV1f4jvSBedvK47v), [Huda Hudia](https://open.spotify.com/artist/4I1riHiGHL0NLBQAzAyEdp) | [Windows 10 \(Trap Mix\)](https://open.spotify.com/album/10UCecyPtNSyIeBXDtssY1) | 4:06 | 2021-11-19 | 2022-02-01 |
 | [Wobble](https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Wobble](https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb) | 3:08 | 2022-02-01 |  |

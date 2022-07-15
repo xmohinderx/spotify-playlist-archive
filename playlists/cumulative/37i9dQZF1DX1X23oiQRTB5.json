@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Gazo au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Drama queen",
+        "url": "https://open.spotify.com/album/01mO9ZxpTUCroczjsauart"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159718,
+      "name": "Drama queen",
+      "url": "https://open.spotify.com/track/4RVPmkIVvzcWF27zfn3sap"
+    },
+    {
+      "album": {
         "name": "Stamina, Memento",
         "url": "https://open.spotify.com/album/2D5pAt1QO1tcuM8oe3O8T9"
       },
@@ -449,7 +467,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 186666,
       "name": "Elle veut",
       "url": "https://open.spotify.com/track/6YC6zgdJog4gw0y2IyfRmR"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 184960,
       "name": "Louis V",
       "url": "https://open.spotify.com/track/7r83PYx36835T5BQCbzrjc"
@@ -1175,6 +1193,24 @@
       "duration_ms": 151028,
       "name": "ONGBAK 2",
       "url": "https://open.spotify.com/track/1VOn2rRxe7JBweoK4SINHe"
+    },
+    {
+      "album": {
+        "name": "Papel",
+        "url": "https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190466,
+      "name": "Papel",
+      "url": "https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk"
     },
     {
       "album": {

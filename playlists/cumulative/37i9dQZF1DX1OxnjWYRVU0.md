@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-310 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
+311 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Poker Face](https://open.spotify.com/track/6vjzAsa2cz8tb3bpvg8PCx) | [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou), [JUDICI](https://open.spotify.com/artist/23fUEUs0jPTjutYWuj6CRA), [Molinoir](https://open.spotify.com/artist/33XY0TDbDWw7dbKycHq4dm) | [Poker Face](https://open.spotify.com/album/2JHCgIVG0UeGS99QQH5haF) | 2:48 | 2022-01-13 |  |
 | [Pompeii](https://open.spotify.com/track/6o5bXOAaufbxc3xVfYLjWb) | [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq), [Yusuf Alev](https://open.spotify.com/artist/14E6R9xyo9QwdEvMgIsihe), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Pompeii](https://open.spotify.com/album/1ZL4DBLcDPnyv6Qyen2Y2V) | 2:05 | 2022-01-13 |  |
 | [Pon De Replay](https://open.spotify.com/track/6lILoANJl01AN5ILMY8HPT) | [THYPONYX](https://open.spotify.com/artist/20GpdVRMnnsWZTd7PferiN), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Pon De Replay](https://open.spotify.com/album/0TUSUjCRVrI7R7OrFqGtVd) | 3:20 | 2022-01-13 |  |
+| [Princess](https://open.spotify.com/track/74CKJFSNNqnRFtPDzANljK) | [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b), [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH) | [Princess](https://open.spotify.com/album/0uL1LBlgAw2bbOOzkSGyFK) | 2:23 | 2022-06-30 |  |
 | [Put Your Records On](https://open.spotify.com/track/0fmxDbgbennJUWv8VTdJ5Z) | [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [Put Your Records On](https://open.spotify.com/album/7I03UvMqvPGhpdHUmmXN1S) | 2:43 | 2022-01-13 |  |
 | [Questa Notte](https://open.spotify.com/track/7EmQW7a2TiPenEmv6nYfvI) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r), [Purple Steel](https://open.spotify.com/artist/4TqiXlSz7ui1gwHeLyYRZt) | [Questa Notte](https://open.spotify.com/album/6zLyn4p0OlKbUhY7MKPY2r) | 2:54 | 2022-06-30 |  |
 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 | 2022-05-26 |  |

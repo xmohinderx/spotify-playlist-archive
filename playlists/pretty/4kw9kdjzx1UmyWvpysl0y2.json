@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128467,
+  "num_followers": 128473,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzUxNiwyOWZkZDQzZGMxNTAxMmJjNWRiOGJkODE4MDc2MDdkNmJlMjBkNGJm",
+  "snapshot_id": "MzUxOCw5ZDFhYTNlZDY4ZjgxMjUzZGJlOWQ5Y2VmZmFjOWY4ZmE1ZmY5ODQ0",
   "tracks": [
+    {
+      "added_at": "2022-07-14 17:06:46",
+      "album": {
+        "name": "PEW PEW",
+        "url": "https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "PEW PEW",
+      "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
+    },
     {
       "added_at": "2022-07-13 16:34:28",
       "album": {
@@ -1107,26 +1127,6 @@
       "duration_ms": 226895,
       "name": "Take It Away",
       "url": "https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq"
-    },
-    {
-      "added_at": "2022-05-04 16:18:39",
-      "album": {
-        "name": "Outlines",
-        "url": "https://open.spotify.com/album/1GKcEcDtOBsRRgJxNx765a"
-      },
-      "artists": [
-        {
-          "name": "Stendahl",
-          "url": "https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo"
-        },
-        {
-          "name": "Meeting Molly",
-          "url": "https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Outlines",
-      "url": "https://open.spotify.com/track/6u09isfip6hiPkOl0uobwy"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

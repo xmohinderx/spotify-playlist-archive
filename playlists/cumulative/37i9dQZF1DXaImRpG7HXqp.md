@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-287 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+292 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 | 2021-12-08 |  |
 | [Calme et Paisible](https://open.spotify.com/track/7yVRPYTBVg3h1TsPdzcr07) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Calme et Paisible](https://open.spotify.com/album/2E92OD1lGuIQEla85kYKvY) | 3:46 | 2021-12-08 | 2022-07-08 |
 | [Camille](https://open.spotify.com/track/4P54GDmbRxofEfNOqtB9on) | [Sara Gadshill](https://open.spotify.com/artist/22RQ7nqf0fvL5ThmEP0cyD) | [Camille](https://open.spotify.com/album/4J7PjAkkq39H6fsb6VAyc9) | 2:18 | 2022-07-08 |  |
+| [Carmel by the Sea](https://open.spotify.com/track/0cMFYGlDdLfCvrqQhx4ESk) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Carmel by the Sea](https://open.spotify.com/album/5fYNY8XJ9eKPFLcrhBvLCl) | 1:42 | 2022-07-15 |  |
 | [Cenizas](https://open.spotify.com/track/5lofKP3ukP8nV9ea0GDuUF) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Cuerda De Algodon](https://open.spotify.com/album/459rMVytLNW0fjDKzmOVzU) | 3:25 | 2021-12-08 | 2022-07-08 |
 | [Changing](https://open.spotify.com/track/15NNApdPhwATieZ9xwF6he) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Changing](https://open.spotify.com/album/5q6sharOnrKHoscFaZ9fXB) | 2:51 | 2021-12-08 | 2022-06-10 |
 | [Chapters](https://open.spotify.com/track/02kxDb12BNImueRyxxfZYs) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Chapters](https://open.spotify.com/album/0fqY4NYKhi3DcCpyFPoCDE) | 3:28 | 2021-12-08 |  |
@@ -59,11 +60,13 @@
 | [Crush](https://open.spotify.com/track/4aUK9c6yenNpRaW4vUpky5) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Crush](https://open.spotify.com/album/6M2iRJvWOyljL7eUMJk7bB) | 2:48 | 2021-12-08 | 2022-04-06 |
 | [Cuantas Amantes](https://open.spotify.com/track/009thiR2SWpG6jXqXYX2AT) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Cuantas Amantes](https://open.spotify.com/album/3YKLNFNyg3a1ZSYO9z3EHr) | 2:32 | 2021-12-08 | 2022-04-06 |
 | [Dallam](https://open.spotify.com/track/6vy89nxZGa7YVKExm62L3U) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [Gitar](https://open.spotify.com/album/3x7DCTbKzZhja9ELXtRzDK) | 2:48 | 2021-12-08 |  |
+| [Daniela's Dance](https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Daniela's Dance](https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW) | 1:55 | 2022-07-15 |  |
 | [Dark Blue Ocean](https://open.spotify.com/track/6p4f2BeZ6m6jn5AMAFvhYO) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [Dark Blue Ocean](https://open.spotify.com/album/5n7BwdAj4dmNmMZWb9E0Fm) | 3:11 | 2021-12-08 |  |
 | [Das Kaleidoskop](https://open.spotify.com/track/1Lpp0iLabE9C5J1aQJkYS9) | [Albert Kraus](https://open.spotify.com/artist/63ueGtFxRPWEhEqweSglrM) | [Romina](https://open.spotify.com/album/5cEsMVp5pTN5clLQYMj3sy) | 3:14 | 2021-12-08 |  |
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2021-12-08 | 2022-07-08 |
 | [Dayspring Dew](https://open.spotify.com/track/2B5MVIV4kzaS4ehtL1UWFB) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Dayspring Dew](https://open.spotify.com/album/6ZJOzTo1OgudWntdAVZLTN) | 2:54 | 2021-12-08 | 2022-06-10 |
 | [De Tu Mano](https://open.spotify.com/track/0dDo9FPktLTFMxQ5h1JdIP) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [De Tu Mano](https://open.spotify.com/album/4zNO2HO1luGa0Goo6TxQuf) | 2:41 | 2021-12-08 | 2022-07-01 |
+| [Del Ardos](https://open.spotify.com/track/74NuJEyZ5dvqJPdn3qyKOq) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [Del Ardos](https://open.spotify.com/album/1oDtj613b1e1mdZEYstanH) | 2:09 | 2022-07-15 |  |
 | [der Elch](https://open.spotify.com/track/4O13E1iUnn7rHagANfr69q) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [colored ocean](https://open.spotify.com/album/698szoxtS7pr3ur5Km4CaX) | 3:25 | 2021-12-08 |  |
 | [Die einsame Zypresse](https://open.spotify.com/track/56Bwb6U1AQVx56ml7I6ue1) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Die einsame Zypresse](https://open.spotify.com/album/3zwwYsKtZJHmwEUnolz0s0) | 3:23 | 2021-12-08 | 2022-06-10 |
 | [Die ersten Zugvögel](https://open.spotify.com/track/1HhYvBOIh1fWWI4fkguP8d) | [Carsten Meyer](https://open.spotify.com/artist/6je5sFIVVOMLNUeTVnx3v6) | [Zweiter Frühling](https://open.spotify.com/album/5wmlwdZTpNEFTheAEhl0nU) | 2:48 | 2021-12-08 | 2022-06-10 |
@@ -169,6 +172,7 @@
 | [Morning Dew](https://open.spotify.com/track/5MgDL4PZuc0lKdgpQCGjoX) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Morning Dew](https://open.spotify.com/album/3HXo20W8FF3Cmol4ZzeZFM) | 2:52 | 2021-12-08 |  |
 | [Mozzafiato](https://open.spotify.com/track/6d3696qgdzrKOr6vz3YrGA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Mozzafiato](https://open.spotify.com/album/3Jp2IlVVqic8H5Gm6U5Q6Q) | 2:08 | 2022-06-24 |  |
 | [My Favorite Things](https://open.spotify.com/track/0TtBiPsu7GgyZzxXfu0RmL) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [My Favorite Things](https://open.spotify.com/album/082H1AX20pgvG3SKe6psm7) | 1:52 | 2022-02-01 | 2022-07-08 |
+| [My Own Blue Sky](https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [My Own Blue Sky](https://open.spotify.com/album/1dATMrsJlfFyQebwsQqTYA) | 3:01 | 2022-07-15 |  |
 | [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2021-12-08 |  |
 | [Natsunoyo](https://open.spotify.com/track/177z4X3Na4sE1Hgf9IWfOH) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Natsunoyo](https://open.spotify.com/album/6XwKddDQoFjI9dO7AHo2Ar) | 2:03 | 2022-07-01 |  |
 | [Neverland](https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Neverland](https://open.spotify.com/album/6jJjT7skytiWDi4reLn9Gk) | 2:30 | 2021-12-08 | 2022-04-22 |
@@ -290,6 +294,7 @@
 | [Winterwald](https://open.spotify.com/track/0Wr13ftMBRS8yp4QA7WDF4) | [Dak Pietsch](https://open.spotify.com/artist/5pP8Whe87TtxEtv8zE2Lwj) | [Karwendel](https://open.spotify.com/album/3yYhCewxc24oSmkYmzVjIw) | 3:08 | 2021-12-08 | 2022-06-17 |
 | [With You](https://open.spotify.com/track/23GQbTtMN4A7cyA0xMOh9o) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [With You](https://open.spotify.com/album/3A5MxOjRq7IBka8wjQUdp6) | 3:09 | 2022-06-10 |  |
 | [Wonderland](https://open.spotify.com/track/5P3BsY0X3coRVobCcaDLRh) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [Venezia](https://open.spotify.com/album/3AwXe36NVPSvuhPPIZq7PH) | 3:05 | 2021-12-08 | 2022-06-10 |
+| [You Blossom](https://open.spotify.com/track/2SkUz2Ew7BzVCv5PNAMbeP) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [You Blossom](https://open.spotify.com/album/1WnsaCgD5Xbe8HdDyf9WP7) | 2:27 | 2022-07-15 |  |
 | [You Have My Blessing](https://open.spotify.com/track/1lgdO7zTcawmoXYIilHsyv) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [You Have My Blessing](https://open.spotify.com/album/3mlWPRNsIWaXb5yVki7LLj) | 4:27 | 2021-12-08 |  |
 | [Your Picture Is Still There](https://open.spotify.com/track/3AAkxI7ldvaZ4P9Vn3XTf9) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Your Picture Is Still There](https://open.spotify.com/album/7fPhXvEplJRwPqLrRF8ovS) | 3:47 | 2021-12-08 |  |
 | [Zanzibar](https://open.spotify.com/track/4eEltFAvLftzlLETebDlX7) | [Reynold Silva](https://open.spotify.com/artist/2REYOFNT6o4YPzD3HopPuG) | [Alexa](https://open.spotify.com/album/3abMftE4tiNEMRTPC0XfSB) | 2:59 | 2021-12-08 |  |

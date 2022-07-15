@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Chefin, Gusttavo Lima e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,759,976 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760,131 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 12 | [Grau & Corte](https://open.spotify.com/track/7Cmdk9PbZpG8kdY3y2avNZ) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS) | [Grau & Corte](https://open.spotify.com/album/1rGGyHnu4byllHhKYc59j2) | 4:34 |
 | 13 | [Não Vou](https://open.spotify.com/track/1GasfY7nBm54jGTBZPB4kc) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Não Vou](https://open.spotify.com/album/1M4z8bc5XsfnuqsshthtAD) | 2:01 |
 | 14 | [Deixa Ele pra Lá \- Ao Vivo](https://open.spotify.com/track/2JW5mcSYgdEsp1GaXlgPY9) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Deixa Ele pra Lá \(Ao Vivo\)](https://open.spotify.com/album/60iqFKijffgNjKUUFbDyI9) | 2:25 |
-| 15 | [Grude \- Ao Vivo](https://open.spotify.com/track/0YabrYlDHxAZVHID3JoYzE) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Grude](https://open.spotify.com/album/6EhDwza0Em4pnrMvzSHqgr) | 3:04 |
+| 15 | [Grude \- Ao Vivo](https://open.spotify.com/track/0YabrYlDHxAZVHID3JoYzE) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Grude \(Ao Vivo\)](https://open.spotify.com/album/6EhDwza0Em4pnrMvzSHqgr) | 3:04 |
 | 16 | [Trabalhada na Ladeira \- Live](https://open.spotify.com/track/4SbvbznTOmy5pUdLm4pAbM) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd) | [Trabalhada na Ladeira \(Live\)](https://open.spotify.com/album/5HjeWR1nkNCrsR2GnHYui0) | 3:19 |
 | 17 | [Eu vim pra Somar](https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Eu vim pra Somar](https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku) | 3:43 |
 | 18 | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT) | 3:16 |

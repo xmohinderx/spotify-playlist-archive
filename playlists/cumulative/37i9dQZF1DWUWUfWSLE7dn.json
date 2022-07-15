@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Autumn Angst",
+        "url": "https://open.spotify.com/album/1b7FBB65gv31cbk1DcaJrs"
+      },
+      "artists": [
+        {
+          "name": "Kris Johnson",
+          "url": "https://open.spotify.com/artist/52Yoq0x7Eso0ZXRqucZBmc"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Autumn Angst",
+      "url": "https://open.spotify.com/track/7Dcnv33fuJPwiHghh9Jkkx"
+    },
+    {
+      "album": {
         "name": "The Moon",
         "url": "https://open.spotify.com/album/0oCRWE9MmAu1lLXtVP4rZi"
       },

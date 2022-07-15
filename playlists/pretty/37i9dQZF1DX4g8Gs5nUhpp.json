@@ -1,12 +1,12 @@
 {
   "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: GREY D",
-  "num_followers": 118855,
+  "num_followers": 118980,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU4ODM0MywwMDAwMDIxNzAwMDAwMTgxZWZmNmU0YTUwMDAwMDE4MWQ2YzI4MDA5",
+  "snapshot_id": "MTY1Nzc5MzE3MCwwMDAwMDIxODAwMDAwMTgxZmMyYzRiMGEwMDAwMDE4MWQ2YzI4MDA5",
   "tracks": [
     {
       "added_at": "2022-07-12 01:12:23",
@@ -63,6 +63,42 @@
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
+    },
+    {
+      "added_at": "2022-07-12 01:12:23",
+      "album": {
+        "name": "B\u00ean Tr\u00ean T\u1ea7ng L\u1ea7u",
+        "url": "https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG"
+      },
+      "artists": [
+        {
+          "name": "T\u0103ng Duy T\u00e2n",
+          "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "B\u00ean Tr\u00ean T\u1ea7ng L\u1ea7u",
+      "url": "https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf"
+    },
+    {
+      "added_at": "2022-07-12 01:12:23",
+      "album": {
+        "name": "T\u00ecnh \u0110\u1eafng Nh\u01b0 Ly C\u00e0 Ph\u00ea",
+        "url": "https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci"
+      },
+      "artists": [
+        {
+          "name": "Ng\u01a1",
+          "url": "https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc"
+        },
+        {
+          "name": "n\u00e2n",
+          "url": "https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "T\u00ecnh \u0110\u1eafng Nh\u01b0 Ly C\u00e0 Ph\u00ea",
+      "url": "https://open.spotify.com/track/4JPJhbWVL1yWTU8DpYP2Vc"
     },
     {
       "added_at": "2022-07-12 01:12:23",
@@ -143,26 +179,6 @@
     {
       "added_at": "2022-07-12 01:12:23",
       "album": {
-        "name": "T\u00ecnh \u0110\u1eafng Nh\u01b0 Ly C\u00e0 Ph\u00ea",
-        "url": "https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci"
-      },
-      "artists": [
-        {
-          "name": "Ng\u01a1",
-          "url": "https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc"
-        },
-        {
-          "name": "n\u00e2n",
-          "url": "https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "T\u00ecnh \u0110\u1eafng Nh\u01b0 Ly C\u00e0 Ph\u00ea",
-      "url": "https://open.spotify.com/track/4JPJhbWVL1yWTU8DpYP2Vc"
-    },
-    {
-      "added_at": "2022-07-12 01:12:23",
-      "album": {
         "name": "B\u1eaft C\u00f3c Con Tim",
         "url": "https://open.spotify.com/album/538vBy7c27uatest2Eu58q"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 261999,
       "name": "V\u00ec M\u1eb9 Anh B\u1eaft Chia Tay",
       "url": "https://open.spotify.com/track/5mG5cQE6SEYxnGCX3I09IC"
-    },
-    {
-      "added_at": "2022-07-12 01:12:23",
-      "album": {
-        "name": "B\u00ean Tr\u00ean T\u1ea7ng L\u1ea7u",
-        "url": "https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG"
-      },
-      "artists": [
-        {
-          "name": "T\u0103ng Duy T\u00e2n",
-          "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "B\u00ean Tr\u00ean T\u1ea7ng L\u1ea7u",
-      "url": "https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf"
     },
     {
       "added_at": "2022-07-12 01:12:23",

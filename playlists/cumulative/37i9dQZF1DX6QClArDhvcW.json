@@ -2047,7 +2047,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 126067,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/7hbI6QqjMZ5vlcE7A9DcVF"
@@ -2827,7 +2827,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 135000,
       "name": "Sunshine In The Rain",
       "url": "https://open.spotify.com/track/5BT81IYxSte0ledyySYmWe"
@@ -3319,10 +3319,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 137278,
       "name": "Veil",
       "url": "https://open.spotify.com/track/28D9EaiySXKtyg37WFQqpT"
+    },
+    {
+      "album": {
+        "name": "Vestido Preto",
+        "url": "https://open.spotify.com/album/1PvAKedOsxn9MUjgCkJonV"
+      },
+      "artists": [
+        {
+          "name": "NeBULA Inc",
+          "url": "https://open.spotify.com/artist/2W5CBe1LVHarKciHGBH01E"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70000,
+      "name": "Vestido Preto",
+      "url": "https://open.spotify.com/track/3UZelzM1oKw3qI1mg8Qb3R"
     },
     {
       "album": {

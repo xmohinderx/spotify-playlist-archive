@@ -1524,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/2vxDwrcRdSzKfBFWuQA5pH"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/3DYcM56i1YQ410v8jv54pK"
+    },
+    {
+      "album": {
         "name": "Loketo",
         "url": "https://open.spotify.com/album/15JPyHGuRzm6g9gzYwWxvy"
       },

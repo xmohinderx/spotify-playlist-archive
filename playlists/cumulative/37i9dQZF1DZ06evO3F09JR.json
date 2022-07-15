@@ -617,6 +617,24 @@
     {
       "album": {
         "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308813,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/1jHZ8q4QPVHaxunYsrScnR"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
         "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
       },
       "artists": [

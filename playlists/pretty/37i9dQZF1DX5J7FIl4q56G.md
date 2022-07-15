@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks plus new bands you need to keep an eye on\. Cover: Five Finger Death Punch
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,573 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,789 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 48 | [Your Dystopian Hell](https://open.spotify.com/track/3OIPNMVmYZNBnGtUhGTmzV) | [Wormrot](https://open.spotify.com/artist/3vMnvW7u5207ATyxTQIxNz) | [Your Dystopian Hell](https://open.spotify.com/album/0A6EOCFVumHO4IyxbqYfQW) | 1:29 |
 | 49 | [Without Warning](https://open.spotify.com/track/0jPZiYiy8K94HmgXVbzuaa) | [Altaria](https://open.spotify.com/artist/5SSKKiFbZXZeXH40mv0fsS) | [Wisdom](https://open.spotify.com/album/7MJJ6PQVRhpbQ7KyltQFff) | 3:20 |
 
-Snapshot ID: `MTY1NzcyNzQ4NywwMDAwMDRmYzAwMDAwMTgxZjg0MjBkMjEwMDAwMDE4MWNlMmZkNTU0`
+Snapshot ID: `MTY1NzgyOTMxNiwwMDAwMDRmZDAwMDAwMTgxZmU1M2Q4YzMwMDAwMDE4MWNlMmZkNTU0`

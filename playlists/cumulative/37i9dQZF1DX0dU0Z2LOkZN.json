@@ -1490,6 +1490,24 @@
     },
     {
       "album": {
+        "name": "Liquirizia",
+        "url": "https://open.spotify.com/album/7L9abcrofGPcE9b2I1tSDJ"
+      },
+      "artists": [
+        {
+          "name": "ella diva conflict",
+          "url": "https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Liquirizia",
+      "url": "https://open.spotify.com/track/0YHKwRUr738Xch3Wp851e0"
+    },
+    {
+      "album": {
         "name": "Lofi Personal Shrinkage",
         "url": "https://open.spotify.com/album/2lkaZfyeyLDB8sMtxmHwcd"
       },
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 183000,
       "name": "MidnightBlue",
       "url": "https://open.spotify.com/track/4E60U6cA2viUVDFK66QYwi"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 145886,
       "name": "Spin Cycle",
       "url": "https://open.spotify.com/track/7IRafpsoM8i4OirXU4olje"
@@ -2551,6 +2569,24 @@
       "duration_ms": 143516,
       "name": "The All Good Important",
       "url": "https://open.spotify.com/track/5lYMGNXk3KnB53Pah8qDKp"
+    },
+    {
+      "album": {
+        "name": "The Daily Grind",
+        "url": "https://open.spotify.com/album/4klkzzBAkPZ3HetJv78Kc2"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Jo",
+          "url": "https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98833,
+      "name": "The Daily Grind",
+      "url": "https://open.spotify.com/track/0nwIq9DvzxXgVP8ZpH2vxw"
     },
     {
       "album": {

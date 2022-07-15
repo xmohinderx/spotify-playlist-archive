@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 75428,
       "name": "AirplaneMode",
       "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 125100,
       "name": "Black Clover",
       "url": "https://open.spotify.com/track/40hSfhLVRH8Unwiwk16WIA"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 120475,
       "name": "Blind Boy",
       "url": "https://open.spotify.com/track/0gqhiqBWmcXDrUiThfJmgf"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 105176,
       "name": "E-GIRLS ARE RUINING MY LIFE!",
       "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 213391,
       "name": "Flashy (Tengen Uzui)",
       "url": "https://open.spotify.com/track/5jyezs0yT1ID8JiSHJQOvR"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 160666,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
@@ -627,6 +627,24 @@
       "duration_ms": 120000,
       "name": "GOSHA",
       "url": "https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy"
+    },
+    {
+      "album": {
+        "name": "LEO-NiNE",
+        "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237586,
+      "name": "Gurenge",
+      "url": "https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre"
     },
     {
       "album": {
@@ -735,7 +753,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 61175,
       "name": "I'm Only a Fool for You",
       "url": "https://open.spotify.com/track/3OBVKgbxxSYtPm1YtGse58"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 115200,
       "name": "Iceberg (Michael 2)",
       "url": "https://open.spotify.com/track/6gU3XR7zZmbQAJZWSzUHB1"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 135122,
       "name": "ILoveUIHateU",
       "url": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 174745,
       "name": "IVE BEEN BAD",
       "url": "https://open.spotify.com/track/6eGyxt8xWFy2vZ5Fc6jc23"
@@ -1219,7 +1237,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192400,
-      "name": "MUKANJYO",
+      "name": "Mukanjyo",
       "url": "https://open.spotify.com/track/02846iBEHz7g1pFLvpRllW"
     },
     {
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 181634,
       "name": "Quota",
       "url": "https://open.spotify.com/track/67RbbxXIv0TBavhIF5hy2N"
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 146291,
       "name": "SELL OUT",
       "url": "https://open.spotify.com/track/5zKzTGIpw4yZc21TzAe3HA"
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 153428,
       "name": "SHARINGAN",
       "url": "https://open.spotify.com/track/2kJUNRihWFzZYfXE9SICgT"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 327240,
       "name": "Sorcery Fight!",
       "url": "https://open.spotify.com/track/3KHQQuZGyk1wve6SQwifwt"
@@ -1797,7 +1815,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 138239,
       "name": "TITAN TALK!",
       "url": "https://open.spotify.com/track/7sSdcK2yahRPVsIn2oUoLs"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 83947,
       "name": "uhh",
       "url": "https://open.spotify.com/track/73qtTW9MmYLc0PR5CQCTq5"
@@ -2091,24 +2109,6 @@
       "duration_ms": 206000,
       "name": "\u602a\u7269",
       "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
-    },
-    {
-      "album": {
-        "name": "LEO-NiNE",
-        "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "date_added": "2022-05-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237586,
-      "name": "\u7d05\u84ee\u83ef",
-      "url": "https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX89EkrAT8Z6U"

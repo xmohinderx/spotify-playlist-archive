@@ -1,13 +1,45 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk...",
-  "num_followers": 59370,
+  "num_followers": 59441,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzc2MjQ4MiwwMDAwMDAwMDI2NjQwMjM1ZDFmZDg5ZTA4YzE0YTJmNmMxYmJkM2Mw",
+  "snapshot_id": "MTY1Nzg0OTEzNywwMDAwMDAwMDQ0MGQxZWY5OGYyMTE0OWRkNDVhMjkzNGYxZTllNWZm",
   "tracks": [
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+      },
+      "artists": [
+        {
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Imaginational Anthem",
+      "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Deep Gap",
+      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
+    },
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 384000,
       "name": "In the Morning Twilight",
       "url": "https://open.spotify.com/track/228TVOD2uRnfzmHjn7bXkt"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Alberta",
+      "url": "https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -47,82 +95,18 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "The Legend Of Blind Joe Death",
-        "url": "https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8"
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/2S8ncEYiSq2bwsCpgbeb0F"
       },
       "artists": [
         {
-          "name": "John Fahey",
-          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
+          "name": "Danny Paul Grody",
+          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
         }
       ],
-      "duration_ms": 185400,
-      "name": "Sligo River Blues - Original Recording",
-      "url": "https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Deep Gap",
-      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
-      },
-      "artists": [
-        {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Imaginational Anthem",
-      "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Guitar Music",
-        "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
-      },
-      "artists": [
-        {
-          "name": "Leo Kottke",
-          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Blues In Mono",
-        "url": "https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Well Well Well",
-      "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
+      "duration_ms": 303946,
+      "name": "Natural West",
+      "url": "https://open.spotify.com/track/2REcTot6y6qEgp5uDQDW06"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -143,34 +127,50 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "Complete Studio Recordings",
-        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
+        "name": "Heavy Load",
+        "url": "https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1"
       },
       "artists": [
         {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
         }
       ],
-      "duration_ms": 208173,
-      "name": "Spike Driver Blues",
-      "url": "https://open.spotify.com/track/0QcYseQfUmZpjXGoXDT9z4"
+      "duration_ms": 438840,
+      "name": "Heavy Load",
+      "url": "https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW"
     },
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
       },
       "artists": [
         {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
         }
       ],
-      "duration_ms": 161266,
-      "name": "Alberta",
-      "url": "https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP"
+      "duration_ms": 142680,
+      "name": "Hesitation Theme and Variation Blues",
+      "url": "https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+      },
+      "artists": [
+        {
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+        }
+      ],
+      "duration_ms": 525080,
+      "name": "Ain't Nobody High Raga",
+      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -191,6 +191,38 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
+        "name": "The Legend Of Blind Joe Death",
+        "url": "https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8"
+      },
+      "artists": [
+        {
+          "name": "John Fahey",
+          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Sligo River Blues - Original Recording",
+      "url": "https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Guitar Music",
+        "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
+      },
+      "artists": [
+        {
+          "name": "Leo Kottke",
+          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
         "name": "Preachin' Blues",
         "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
       },
@@ -203,6 +235,54 @@
       "duration_ms": 316360,
       "name": "Preachin' Blues",
       "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/1aHOjEzsRAgR3AyDeDWOhZ"
+      },
+      "artists": [
+        {
+          "name": "DBH",
+          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
+        }
+      ],
+      "duration_ms": 154924,
+      "name": "New Anthem",
+      "url": "https://open.spotify.com/track/28Ekirkj9Tf0TwChnvcCWI"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Blues In Mono",
+        "url": "https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Well Well Well",
+      "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Jesus I'm a Sinner",
+        "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 412581,
+      "name": "Sarah Anne",
+      "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -239,18 +319,18 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "Imaginational Anthem",
-        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
       },
       "artists": [
         {
-          "name": "Harris Newman",
-          "url": "https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt"
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
         }
       ],
-      "duration_ms": 264386,
-      "name": "Lake Shore Drive (Slight Return)",
-      "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -271,34 +351,18 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "Jesus I'm a Sinner",
-        "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
+        "name": "Complete Studio Recordings",
+        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
       "artists": [
         {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 412581,
-      "name": "Sarah Anne",
-      "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "The Guitar Masters Collection: John Fahey",
-        "url": "https://open.spotify.com/album/2S8MEqzZMTVa48ZKp4Oayb"
-      },
-      "artists": [
-        {
-          "name": "John Fahey",
-          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "Sunflower Blues",
-      "url": "https://open.spotify.com/track/2gcs9yC8hTZA9Rlq8eIO4c"
+      "duration_ms": 208173,
+      "name": "Spike Driver Blues",
+      "url": "https://open.spotify.com/track/0QcYseQfUmZpjXGoXDT9z4"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -319,50 +383,66 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+        "name": "Orange Co. Serenade",
+        "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
       },
       "artists": [
         {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
         }
       ],
-      "duration_ms": 525080,
-      "name": "Ain't Nobody High Raga",
-      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
+      "duration_ms": 212000,
+      "name": "Orange County Serenade",
+      "url": "https://open.spotify.com/track/4jw7C3myL67kCqREaJ906E"
     },
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+        "name": "Imaginational Anthem",
+        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
       "artists": [
         {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+          "name": "Harris Newman",
+          "url": "https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt"
         }
       ],
-      "duration_ms": 142680,
-      "name": "Hesitation Theme and Variation Blues",
-      "url": "https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE"
+      "duration_ms": 264386,
+      "name": "Lake Shore Drive (Slight Return)",
+      "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
     },
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "Ionia",
-        "url": "https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ"
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
       },
       "artists": [
         {
-          "name": "Lindsay Lou & the Flatbellys",
-          "url": "https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3"
+          "name": "Will Stratton",
+          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
         }
       ],
-      "duration_ms": 31844,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/7qWRxZQ6YTNDxUV3MRuZiV"
+      "duration_ms": 229853,
+      "name": "Hemet Pine Singer",
+      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Black Myself",
+        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201193,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -383,6 +463,26 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
+        "name": "Seasonal Hire",
+        "url": "https://open.spotify.com/album/2pVnvwGjntOrt18JDtSokl"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        },
+        {
+          "name": "The Black Twig Pickers",
+          "url": "https://open.spotify.com/artist/5M49KBg6FogkxrK5NAGzpa"
+        }
+      ],
+      "duration_ms": 983850,
+      "name": "Seasonal Hire",
+      "url": "https://open.spotify.com/track/4F3TIQlYKTQO0kCyTsrTk3"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
         "name": "Orange Co. Serenade",
         "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
       },
@@ -395,54 +495,6 @@
       "duration_ms": 238000,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/2V9zMWtLds91PjE1KJ6qjL"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "The Birdcage Sessions",
-        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
-      },
-      "artists": [
-        {
-          "name": "Eddie Martin",
-          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
-        }
-      ],
-      "duration_ms": 256310,
-      "name": "Lazy Sunday",
-      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/1aHOjEzsRAgR3AyDeDWOhZ"
-      },
-      "artists": [
-        {
-          "name": "DBH",
-          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
-        }
-      ],
-      "duration_ms": 154924,
-      "name": "New Anthem",
-      "url": "https://open.spotify.com/track/28Ekirkj9Tf0TwChnvcCWI"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
-      },
-      "artists": [
-        {
-          "name": "Will Stratton",
-          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Hemet Pine Singer",
-      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -471,166 +523,18 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "Heavy Load",
-        "url": "https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1"
+        "name": "Ionia",
+        "url": "https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "Lindsay Lou & the Flatbellys",
+          "url": "https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3"
         }
       ],
-      "duration_ms": 438840,
-      "name": "Heavy Load",
-      "url": "https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Turn Me Loose: Outsiders of Old-Time Music",
-        "url": "https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y"
-      },
-      "artists": [
-        {
-          "name": "Lemuel Turner",
-          "url": "https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Way Down Yonder Blues",
-      "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Legs to Make us Longer",
-        "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
-      },
-      "artists": [
-        {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Can the Gwot Save Us?",
-      "url": "https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/2S8ncEYiSq2bwsCpgbeb0F"
-      },
-      "artists": [
-        {
-          "name": "Danny Paul Grody",
-          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
-        }
-      ],
-      "duration_ms": 303946,
-      "name": "Natural West",
-      "url": "https://open.spotify.com/track/2REcTot6y6qEgp5uDQDW06"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Seven Pines",
-        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 245026,
-      "name": "Long Nights I",
-      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Black Myself",
-        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201193,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Seasonal Hire",
-        "url": "https://open.spotify.com/album/2pVnvwGjntOrt18JDtSokl"
-      },
-      "artists": [
-        {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
-        },
-        {
-          "name": "The Black Twig Pickers",
-          "url": "https://open.spotify.com/artist/5M49KBg6FogkxrK5NAGzpa"
-        }
-      ],
-      "duration_ms": 983850,
-      "name": "Seasonal Hire",
-      "url": "https://open.spotify.com/track/4F3TIQlYKTQO0kCyTsrTk3"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "The Midnight Broadcast",
-        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
-      },
-      "artists": [
-        {
-          "name": "Peter Case",
-          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Butter and Eggs",
-      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
+      "duration_ms": 31844,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7qWRxZQ6YTNDxUV3MRuZiV"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -651,82 +555,18 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "Black Dog Blues",
-        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
+        "name": "The Guitar Masters Collection: John Fahey",
+        "url": "https://open.spotify.com/album/2S8MEqzZMTVa48ZKp4Oayb"
       },
       "artists": [
         {
-          "name": "Bayless Rose",
-          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
+          "name": "John Fahey",
+          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Frisco Blues",
-      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Orange Co. Serenade",
-        "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Orange County Serenade",
-      "url": "https://open.spotify.com/track/4jw7C3myL67kCqREaJ906E"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Let Your Light Shine on Me",
-      "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Guitar & Bass - Robert Johnson",
-        "url": "https://open.spotify.com/album/1tcgO7FxYVzOlPAzDfOE3a"
-      },
-      "artists": [
-        {
-          "name": "Robert Johnson",
-          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "They're Red Hot",
-      "url": "https://open.spotify.com/track/4AtJLGEdKSrhkncXGbF73S"
-    },
-    {
-      "added_at": "2022-07-12 10:07:49",
-      "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Lonely Days",
-      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
+      "duration_ms": 202933,
+      "name": "Sunflower Blues",
+      "url": "https://open.spotify.com/track/2gcs9yC8hTZA9Rlq8eIO4c"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -747,18 +587,130 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
       },
       "artists": [
         {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
         }
       ],
-      "duration_ms": 209400,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+      "duration_ms": 204000,
+      "name": "Butter and Eggs",
+      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Turn Me Loose: Outsiders of Old-Time Music",
+        "url": "https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y"
+      },
+      "artists": [
+        {
+          "name": "Lemuel Turner",
+          "url": "https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Way Down Yonder Blues",
+      "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Hurt Me",
+        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lynch",
+          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
+        }
+      ],
+      "duration_ms": 155319,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Legs to Make us Longer",
+        "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
+      },
+      "artists": [
+        {
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Can the Gwot Save Us?",
+      "url": "https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "The Birdcage Sessions",
+        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
+      },
+      "artists": [
+        {
+          "name": "Eddie Martin",
+          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
+        }
+      ],
+      "duration_ms": 256310,
+      "name": "Lazy Sunday",
+      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "Let Your Light Shine on Me",
+      "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Black Dog Blues",
+        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
+      },
+      "artists": [
+        {
+          "name": "Bayless Rose",
+          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frisco Blues",
+      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Colony of Bees",
+        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 55213,
+      "name": "Here Too Far",
+      "url": "https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -779,18 +731,34 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "Willow Witchin' (Hot Take)",
-        "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
         }
       ],
-      "duration_ms": 150941,
-      "name": "Willow Witchin' (Hot Take)",
-      "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
+      "duration_ms": 209400,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "The Slide Guitar: Bottles, Knives & Steel",
+        "url": "https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf"
+      },
+      "artists": [
+        {
+          "name": "Sylvester Weaver",
+          "url": "https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Guitar Rag",
+      "url": "https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq"
     },
     {
       "added_at": "2022-07-12 10:07:49",
@@ -811,18 +779,50 @@
     {
       "added_at": "2022-07-12 10:07:49",
       "album": {
-        "name": "The Slide Guitar: Bottles, Knives & Steel",
-        "url": "https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf"
+        "name": "Seven Pines",
+        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
       },
       "artists": [
         {
-          "name": "Sylvester Weaver",
-          "url": "https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb"
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Guitar Rag",
-      "url": "https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq"
+      "duration_ms": 245026,
+      "name": "Long Nights I",
+      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/2WAU3S7XbRV3DPSaC00woq"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/4QM6qrv9YWRW4RoXzKlE1X"
+    },
+    {
+      "added_at": "2022-07-12 10:07:49",
+      "album": {
+        "name": "Guitar & Bass - Robert Johnson",
+        "url": "https://open.spotify.com/album/1tcgO7FxYVzOlPAzDfOE3a"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "They're Red Hot",
+      "url": "https://open.spotify.com/track/4AtJLGEdKSrhkncXGbF73S"
     }
   ],
   "unique_name": "Backporch Blues",

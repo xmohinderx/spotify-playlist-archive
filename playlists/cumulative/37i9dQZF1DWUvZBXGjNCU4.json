@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 147268,
       "name": "Etude",
       "url": "https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx"
@@ -1816,6 +1816,24 @@
     },
     {
       "album": {
+        "name": "Matter Of Time",
+        "url": "https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi"
+      },
+      "artists": [
+        {
+          "name": "Miller & Bronx",
+          "url": "https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107624,
+      "name": "Matter Of Time",
+      "url": "https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl"
+    },
+    {
+      "album": {
         "name": "Melrose",
         "url": "https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj"
       },
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 161797,
       "name": "Palindrome",
       "url": "https://open.spotify.com/track/5LwVS7ZfA5n6uqkUJbwCUT"
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 168333,
       "name": "Saskatoon",
       "url": "https://open.spotify.com/track/4BIM2ib6mlidsvIN8wgy1O"
@@ -3069,7 +3087,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 178909,
       "name": "Violet Fog",
       "url": "https://open.spotify.com/track/3E5sK3kvpTuUBQDQ8fvIes"
@@ -3141,7 +3159,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 283596,
       "name": "waking up in a new world",
       "url": "https://open.spotify.com/track/3q0Nbk3V4XgpOXpS4IWHTJ"

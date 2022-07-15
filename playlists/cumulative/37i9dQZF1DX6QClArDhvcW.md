@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-188 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+189 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [nesh](https://open.spotify.com/track/0HOAVNvOCf0RMc9oZCIAVP) | [p!ke](https://open.spotify.com/artist/2kebQPXUtRBcFlYb8Zhb3j) | [goodfella](https://open.spotify.com/album/2EjvFoMuv8DtBGvEv3267g) | 1:47 | 2022-05-20 |  |
 | [Never On Sunday](https://open.spotify.com/track/2B8ftHLCfrsqdiwClpXzvY) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Never On Sunday](https://open.spotify.com/album/5RRa56SiNZRfCmyslYD0Vy) | 2:31 | 2022-07-08 |  |
 | [Night Light](https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Night Light](https://open.spotify.com/album/2JEp433mqNZaTYe6R0D1AY) | 2:09 | 2022-05-20 |  |
-| [Night Shift](https://open.spotify.com/track/7hbI6QqjMZ5vlcE7A9DcVF) | [Almo X](https://open.spotify.com/artist/77LNTMtPR18hlGEqqXMOgh) | [Night Shift](https://open.spotify.com/album/343iD7JhtgIQRP9ntuQ6Qn) | 2:06 | 2022-05-20 |  |
+| [Night Shift](https://open.spotify.com/track/7hbI6QqjMZ5vlcE7A9DcVF) | [Almo X](https://open.spotify.com/artist/77LNTMtPR18hlGEqqXMOgh) | [Night Shift](https://open.spotify.com/album/343iD7JhtgIQRP9ntuQ6Qn) | 2:06 | 2022-05-20 | 2022-07-15 |
 | [No Spice](https://open.spotify.com/track/4CXxhPs3BHYbw1zpCxOt7E) | [Eazy Chilly](https://open.spotify.com/artist/5U8CoE6n8Qk0CamwlGzvUJ) | [Blue Days](https://open.spotify.com/album/17vgAGk55ehVmJvllHC7J0) | 1:45 | 2022-05-20 |  |
 | [no.2](https://open.spotify.com/track/1OM8kCT4sIrBDU0mFU6cUm) | [Horushi K](https://open.spotify.com/artist/0pOfzllQvQIJCr1zmKppfc) | [Pachong](https://open.spotify.com/album/1OZw6Dvy5YGWsmXx0HtM9Q) | 1:49 | 2022-05-20 |  |
 | [Noites Tranquilas](https://open.spotify.com/track/4XkpCHu3yq9fG22sFpYrxF) | [Jazzavelha](https://open.spotify.com/artist/2Rif6F63hq2L9p8DWkFq4k) | [Noites Tranquilas](https://open.spotify.com/album/3o1FqhlwHaUJVU74gdMcPC) | 2:03 | 2022-05-20 |  |
@@ -158,7 +158,7 @@
 | [Sunday Vibe](https://open.spotify.com/track/2DkudyqbfyxWaHrsFVdcQg) | [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO) | [Sunday Vibe](https://open.spotify.com/album/7u2zSSqdcVSt7jW0IYSF8x) | 2:18 | 2022-05-20 |  |
 | [Sundets](https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Kanbina](https://open.spotify.com/album/6HZiWLomAqbJbt56oOiK34) | 2:02 | 2022-05-20 |  |
 | [Sunny Daze](https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Sunny Daze](https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI) | 1:57 | 2022-05-20 |  |
-| [Sunshine In The Rain](https://open.spotify.com/track/5BT81IYxSte0ledyySYmWe) | [Jazzavelha](https://open.spotify.com/artist/2Rif6F63hq2L9p8DWkFq4k) | [Sunshine In The Rain](https://open.spotify.com/album/2GH5th8g2YU8fiuxjMiqFj) | 2:15 | 2022-05-20 |  |
+| [Sunshine In The Rain](https://open.spotify.com/track/5BT81IYxSte0ledyySYmWe) | [Jazzavelha](https://open.spotify.com/artist/2Rif6F63hq2L9p8DWkFq4k) | [Sunshine In The Rain](https://open.spotify.com/album/2GH5th8g2YU8fiuxjMiqFj) | 2:15 | 2022-05-20 | 2022-07-15 |
 | [Swift Coasting](https://open.spotify.com/track/2M7KlFrPtccH6wNjTk4P87) | [Drift Crew](https://open.spotify.com/artist/1izsiM2GuR0dyNhBZ1HwXI) | [Swift Coasting](https://open.spotify.com/album/3zgpEvqf1mxy3ZWmp913R8) | 1:55 | 2022-05-20 | 2022-05-27 |
 | [Tall Grass](https://open.spotify.com/track/2EQkLsBElVQZU35xdsTr45) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Tall Grass](https://open.spotify.com/album/0693VKyfsOAqKY6MXJAPbn) | 2:06 | 2022-05-20 |  |
 | [Tea Tree](https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Tea Tree](https://open.spotify.com/album/1KHbsf2RfIBpoWAqLgudbU) | 2:04 | 2022-05-20 |  |
@@ -184,7 +184,8 @@
 | [Validation](https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [Validation](https://open.spotify.com/album/3wj5LEDuZj4EsshE0RzdtA) | 2:01 | 2022-05-20 |  |
 | [Vanilla](https://open.spotify.com/track/4ORT7AWNeQ34OL7uboB43c) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7), [Silvaa.beats](https://open.spotify.com/artist/3TpGusolSBzkwFqtj9Kwre) | [Vanilla](https://open.spotify.com/album/1Yuuyou4kxFrniqFbfgsLL) | 2:03 | 2022-05-20 |  |
 | [Vanilla Envelopes](https://open.spotify.com/track/6M9evzQ2VJWR9LQgRqQ0GH) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:43 | 2022-05-20 |  |
-| [Veil](https://open.spotify.com/track/28D9EaiySXKtyg37WFQqpT) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Veil](https://open.spotify.com/album/2ekQFQS4i8Jps7mEqN8Kjh) | 2:17 | 2022-05-20 |  |
+| [Veil](https://open.spotify.com/track/28D9EaiySXKtyg37WFQqpT) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Veil](https://open.spotify.com/album/2ekQFQS4i8Jps7mEqN8Kjh) | 2:17 | 2022-05-20 | 2022-07-15 |
+| [Vestido Preto](https://open.spotify.com/track/3UZelzM1oKw3qI1mg8Qb3R) | [NeBULA Inc](https://open.spotify.com/artist/2W5CBe1LVHarKciHGBH01E) | [Vestido Preto](https://open.spotify.com/album/1PvAKedOsxn9MUjgCkJonV) | 1:10 | 2022-07-15 |  |
 | [Walking On Water](https://open.spotify.com/track/5HuUJZsSfLzXepMKk2rii5) | [Cammie](https://open.spotify.com/artist/44r79Vc1hTjMlaDFfWE5aO), [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [The Journey Home](https://open.spotify.com/album/3g8GVtSM95YRtY50ZG7qYC) | 2:17 | 2022-05-20 |  |
 | [Wandering Spirits](https://open.spotify.com/track/76m67K7hbJPgW4rtsPKO6j) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Wandering Spirits](https://open.spotify.com/album/612IheuxPoqhGTVq3POXUM) | 2:45 | 2022-05-20 |  |
 | [wanna do nothing.](https://open.spotify.com/track/1rRXlVZUHhwigRtQn1w3Fm) | [bluemoon.music](https://open.spotify.com/artist/0UQaaL0eNaAMwnmcceqFj1) | [wanna do nothing.](https://open.spotify.com/album/2OqUSC9wGmXsmBvmubRwFN) | 1:36 | 2022-05-20 |  |

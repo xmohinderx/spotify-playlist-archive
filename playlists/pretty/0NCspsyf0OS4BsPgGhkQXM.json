@@ -1,13 +1,37 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2038249,
+  "num_followers": 2038186,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTE5NTIsZmZlNTM2ZWM3NzQyODk3NDIwMzhkY2U2ZmIyZGRjMjk2YTVjYTdkNQ==",
+  "snapshot_id": "MTE5NTUsZjY1NjE1Njc2ZDk4ZTljZWMzOWYzNjg1ZGNmODI4OTRlMDcyN2EwZQ==",
   "tracks": [
+    {
+      "added_at": "2022-07-08 18:37:44",
+      "album": {
+        "name": "Pieces (Remixes)",
+        "url": "https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        },
+        {
+          "name": "ODEA",
+          "url": "https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Eyes Closed - ODEA Remix",
+      "url": "https://open.spotify.com/track/1YVhZtNxJK4JEnvKLdKJrc"
+    },
     {
       "added_at": "2022-07-08 18:37:44",
       "album": {
@@ -175,30 +199,6 @@
       "duration_ms": 245828,
       "name": "See You Go",
       "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
-    },
-    {
-      "added_at": "2022-07-08 18:37:44",
-      "album": {
-        "name": "Pieces (Remixes)",
-        "url": "https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        },
-        {
-          "name": "ODEA",
-          "url": "https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Eyes Closed - ODEA Remix",
-      "url": "https://open.spotify.com/track/1YVhZtNxJK4JEnvKLdKJrc"
     },
     {
       "added_at": "2022-07-08 18:37:44",

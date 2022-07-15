@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: Burna Boy 🇳🇬
 
-148 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
+149 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Liki Tiki](https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Liki Tiki](https://open.spotify.com/album/3HOMvaJTUweoeIdDEGGdQv) | 3:15 | 2022-05-27 |  |
 | [Likkle Darling](https://open.spotify.com/track/4xf7vkvAhEmKXheEhLcVAp) | [Lady Leshurr](https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF) | [Likkle Darling](https://open.spotify.com/album/5aUIjtLeBvjJkaGt86K0C9) | 1:54 | 2022-05-27 |  |
 | [Location](https://open.spotify.com/track/4ViOwdjYrRj1dRhid30mvb) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Location](https://open.spotify.com/album/3uQcLuTdxCOxt4dAUj1yqM) | 2:32 | 2022-05-27 |  |
+| [Location](https://open.spotify.com/track/3DYcM56i1YQ410v8jv54pK) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Location](https://open.spotify.com/album/2vxDwrcRdSzKfBFWuQA5pH) | 2:36 | 2022-07-08 |  |
 | [Loketo](https://open.spotify.com/track/0x60ynvg0eu85HcWGtNJtX) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Jeekay](https://open.spotify.com/artist/38POyyW13rAIhFtElJXFwJ) | [Loketo](https://open.spotify.com/album/15JPyHGuRzm6g9gzYwWxvy) | 3:44 | 2022-07-01 |  |
 | [Look Hot](https://open.spotify.com/track/3TRSgpAwEKhLxfdcMYXYGL) | [Ynw stretch](https://open.spotify.com/artist/5gin56SfA0tondRKFzruZb) | [Look Hot](https://open.spotify.com/album/0pcaGZ0HNUBILlKfF6AiIc) | 2:03 | 2022-06-03 | 2022-07-02 |
 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 | 2022-06-10 |  |

@@ -1698,6 +1698,32 @@
     },
     {
       "album": {
+        "name": "Cold Nights (feat. Stan Walker & Larissa Lambert)",
+        "url": "https://open.spotify.com/album/3hgBfbjG4TGdfjoqQZLjQi"
+      },
+      "artists": [
+        {
+          "name": "Pacific Heights",
+          "url": "https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK"
+        },
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        },
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186358,
+      "name": "Cold Nights (feat. Stan Walker & Larissa Lambert)",
+      "url": "https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF"
+    },
+    {
+      "album": {
         "name": "Cold Summer",
         "url": "https://open.spotify.com/album/0Muy06qfQDJet1xcZXnIzE"
       },

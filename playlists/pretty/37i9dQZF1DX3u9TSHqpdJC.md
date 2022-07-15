@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: Brigetta Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,757 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,820 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 56 | [No One Is Safe](https://open.spotify.com/track/6X4a9ebR59X1LvoKdnLm1G) | [HØVDING](https://open.spotify.com/artist/1bHdDAbF5gbuKGgOa3APda) | [No One Is Safe](https://open.spotify.com/album/4H0J9Rn0VmbKyZ3MXBP3aZ) | 2:53 |
 | 57 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 |
 | 58 | [day off](https://open.spotify.com/track/0i47KKjA7DDbTOsgE1afSN) | [Zamir](https://open.spotify.com/artist/069X32ooT7djUGNCcIhKFq), [planet girl](https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv) | [day off](https://open.spotify.com/album/6bXQ7d0hchsEjpNAtRh2GF) | 2:51 |
-| 59 | [Jasmine](https://open.spotify.com/track/6QZVjuviBfpAgRNVApmszS) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [映画「20歳のソウル」オリジナル・サウンドトラック](https://open.spotify.com/album/3MwI0dyl2UqxbPPZtWnJBj) | 3:26 |
+| 59 | [Jasmine](https://open.spotify.com/track/6QZVjuviBfpAgRNVApmszS) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Soul At Twenty / Original Soundtrack](https://open.spotify.com/album/3MwI0dyl2UqxbPPZtWnJBj) | 3:26 |
 | 60 | [Lean Into Love](https://open.spotify.com/track/1ZySwPBp0cDspVCc2yxTiV) | [biz colletti](https://open.spotify.com/artist/32e20zdHxumYLsUQnODjMk) | [Lean Into Love](https://open.spotify.com/album/1JzdscmM9yi8EuxqihoqwH) | 3:56 |
 | 61 | [Benzos](https://open.spotify.com/track/4pTnwlfR8XtfJ6kAGirzed) | [Grace Blue](https://open.spotify.com/artist/4nlL7rZb9rorbJcKYltdLN) | [Benzos](https://open.spotify.com/album/2LT5S9Y4leh3EHhvpTkry8) | 3:10 |
 | 62 | [Line](https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K) | 3:16 |

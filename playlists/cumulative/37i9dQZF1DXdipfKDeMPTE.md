@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-272 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+277 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [After Hours](https://open.spotify.com/track/4xIA6rtVQukSRpcYjsUS9A) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 2:07 | 2022-05-20 |  |
 | [Alien Signals](https://open.spotify.com/track/3W2uAyn3ifuzD1r5ulraHM) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Simax](https://open.spotify.com/artist/5xvzwrBVjP32lf7rOuKPbB) | [Alien Signals](https://open.spotify.com/album/1KBMGiW3su49XLXY4NyjZB) | 2:21 | 2022-05-20 | 2022-06-10 |
 | [Alignment](https://open.spotify.com/track/459tqykAvuDfgPrWT1XsLn) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Sova](https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY) | 2:29 | 2022-05-20 | 2022-06-10 |
+| [ambar](https://open.spotify.com/track/0VOuTIdSvi1JdrbUA79hLs) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ambar](https://open.spotify.com/album/6nQPUOURWtXUUBqZpdKw9q) | 2:21 | 2022-07-15 |  |
 | [Amboise](https://open.spotify.com/track/1aIgoyzrFUzUwJGTlUy4kN) | [Jail Daon](https://open.spotify.com/artist/0n24oVAxK02KVRQLnYN2PK) | [Amboise](https://open.spotify.com/album/0RR86LIQ8WqyRDEh700gzi) | 3:16 | 2022-05-20 |  |
 | [an ordinary night](https://open.spotify.com/track/18b2tn5ZE4qocknxWP4XOU) | [Cold hands](https://open.spotify.com/artist/3e6Edrwl1C59W0yXPMJkwa) | [an ordinary night](https://open.spotify.com/album/5sA9Qwmsb2aBwMkbCJjy5g) | 2:46 | 2022-05-20 |  |
 | [analogue](https://open.spotify.com/track/6Nye92076r2T3EDvOGSDsL) | [r@ts](https://open.spotify.com/artist/7zREpSJAYjxSFNlOai38bU) | [analogue](https://open.spotify.com/album/1V5KCQUmOAj8UcoWMbij5G) | 2:37 | 2022-05-20 |  |
@@ -193,6 +194,8 @@
 | [Out In Space](https://open.spotify.com/track/43zpjvbcrFKFxqm4qpt32E) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Out In Space](https://open.spotify.com/album/7t4dWtgsbTC2LxXactChPS) | 2:07 | 2022-05-20 |  |
 | [Outskirts](https://open.spotify.com/track/3F5W1FTIeXerLXP1meorP5) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Wastelands](https://open.spotify.com/album/6xaljlJUGp13Qd06F3tFxa) | 2:34 | 2022-05-20 | 2022-05-27 |
 | [Over You](https://open.spotify.com/track/1CD4sl6Mb1x5ocbZMHPCVd) | [Grey Stylez](https://open.spotify.com/artist/3tap6ymRzGK3yyYRn9DZUO) | [Over You](https://open.spotify.com/album/07CQ8jv9Qsj0jfardA4IPi) | 1:58 | 2022-05-20 | 2022-06-10 |
+| [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 | 2022-07-15 |  |
+| [Paris](https://open.spotify.com/track/2BIArm6TEad2ZwZyvLUvU8) | [Klode Chill](https://open.spotify.com/artist/4ykT0z2VYMH0yh9NoVfzEo), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Paris](https://open.spotify.com/album/13k0hOh13pqtvYovQtpiLz) | 2:12 | 2022-07-15 |  |
 | [Particles](https://open.spotify.com/track/0vx7bNNgm1wIAkMK0CjloG) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Particles](https://open.spotify.com/album/39sDeMgW5U6mp52z3Ij1PU) | 1:38 | 2022-05-20 |  |
 | [path of the wind](https://open.spotify.com/track/5cQ3qAAaMsu0R3tTvCwuuV) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [path of the wind](https://open.spotify.com/album/3vai48VZOGUctdgeiaPIa4) | 2:41 | 2022-05-27 |  |
 | [phasing god](https://open.spotify.com/track/3lxR22HYuOOURW30anz4kV) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [phasing god](https://open.spotify.com/album/2r2WzXMGpAO6ze1gMO16u1) | 2:21 | 2022-05-20 |  |
@@ -207,6 +210,7 @@
 | [Pour the Blue](https://open.spotify.com/track/6b7oKYz6sfV90rMTG4Bkvu) | [Jackson Hacking](https://open.spotify.com/artist/220Ej7lTYoyJxdsbGwahB6) | [Pour The Blue](https://open.spotify.com/album/1TzJxGqIZ81oRWXdiEkisM) | 2:05 | 2022-05-20 |  |
 | [Prickly Pear](https://open.spotify.com/track/29ZE7tvn32CJskQ5QS8BKw) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Cactus Files](https://open.spotify.com/album/6LFKdb0RZhEl3GvVLvITuc) | 1:47 | 2022-05-20 | 2022-06-10 |
 | [Purple & Yellow](https://open.spotify.com/track/5Q4X6JGfoZM89iGSNGt2XR) | [Idyllik Beat](https://open.spotify.com/artist/2iIteXiNI5fVOATQamujmX) | [Purple & Yellow](https://open.spotify.com/album/2pUZ78mijQuuZSH6Tsb0xz) | 2:15 | 2022-05-20 |  |
+| [Quiet Corner](https://open.spotify.com/track/4DSlgCK59DficPnapF5kTE) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Quiet Corner](https://open.spotify.com/album/6mAljgRl93rNIkcDzUbFsF) | 2:48 | 2022-07-15 |  |
 | [Rainy Day](https://open.spotify.com/track/1yqAghmGXkcct0tQQCdS4w) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Rainy Day](https://open.spotify.com/album/1Nf5o3mcLP0TBOn53FYqY5) | 3:01 | 2022-05-20 |  |
 | [Recharged](https://open.spotify.com/track/2g6jTX11fvtm2i41UBIJ8B) | [Steve Blino](https://open.spotify.com/artist/24usk464uzsxYNFHCgagLj) | [Recharged](https://open.spotify.com/album/3T3QnyIKArgnarUJVbV7bR) | 2:22 | 2022-05-20 |  |
 | [Retina](https://open.spotify.com/track/5rAYpwq15rHsSMIjz7xAxj) | [Aykroyd](https://open.spotify.com/artist/6ptJ0me90iIz3OSsho69cm), [Venkman](https://open.spotify.com/artist/6fOoEqg9dvDnE18gnbHqTk) | [Retina](https://open.spotify.com/album/1vMBzjhmBN26ZNqWA8oVyD) | 2:27 | 2022-06-10 |  |
@@ -266,6 +270,7 @@
 | [tullio](https://open.spotify.com/track/6xcfCLiTvMlbjx6wIJK1cx) | [\_tillus](https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y) | [patterns](https://open.spotify.com/album/2T4Lh1znFQFCQTzozoO6aX) | 0:58 | 2022-07-01 |  |
 | [Union Station](https://open.spotify.com/track/4sW9IMneuWCFGj3bZDbDcM) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Astor Place](https://open.spotify.com/album/71nfxEIhkcqhV2oI7o14Ha) | 2:06 | 2022-05-20 |  |
 | [Ups and Downs](https://open.spotify.com/track/6yffhtipWCT2gWOXiVbCcU) | [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [Andrew Kyrmpatsos](https://open.spotify.com/artist/1PlxoLgN0m9punp5Ey6P7k), [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU) | [Ups and Downs](https://open.spotify.com/album/6ZuKr33qLPXNe1npyLCeXI) | 2:09 | 2022-05-20 |  |
+| [Urban Summer](https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Urban Summer](https://open.spotify.com/album/2WPP6XQR0P7DvlHbC3OcY2) | 2:42 | 2022-07-15 |  |
 | [Uzak](https://open.spotify.com/track/442yQKLo9FM12Qgv7AoZT3) | [HVMZA XI](https://open.spotify.com/artist/5mHaC40O8DtkjUmHBQCjeZ) | [Uzak](https://open.spotify.com/album/2Kx0ZeUqRZnVM7nUWvYVcS) | 2:29 | 2022-06-03 |  |
 | [Vaguely Familiar](https://open.spotify.com/track/6idquPxSFRAxjL8YZIuudz) | [Gloomi](https://open.spotify.com/artist/3M6KDspoVN5BoZYYURrvkt) | [Vaguely Familiar](https://open.spotify.com/album/4qSkBz77XobKTbhPfktVNs) | 2:33 | 2022-05-20 |  |
 | [Vanilla Envelopes](https://open.spotify.com/track/6M9evzQ2VJWR9LQgRqQ0GH) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:43 | 2022-05-20 | 2022-07-08 |

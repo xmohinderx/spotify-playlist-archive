@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: GMK
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,083 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,150 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AWKWARD FREESTYLE](https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [AWKWARD FREESTYLE](https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV) | 2:07 |
-| 2 | [Certified Dripper](https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Certified Dripper](https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM) | 2:32 |
-| 3 | [From Rags 2 Riches](https://open.spotify.com/track/4MsSQKCg2TVyvszBu3BbYq) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [From Rags 2 Riches](https://open.spotify.com/album/1NK6GHI9PEVb50IrTdEx7P) | 2:17 |
-| 4 | [Rap Niggas](https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Rap Niggas](https://open.spotify.com/album/4eqIEeiyBrDTAFNNnncsgu) | 2:44 |
-| 5 | [Rich Off Drugs](https://open.spotify.com/track/0Mtuq6nGBTZwRqs7ayDXj5) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Rich Off Drugs](https://open.spotify.com/album/0E3fNGmQH63xRSADi2CnrV) | 3:39 |
-| 6 | [Lets Play](https://open.spotify.com/track/7wEWnGFd5Ux7dwQhaLhKAi) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [Lets Play](https://open.spotify.com/album/3VW4YruQAZ1HOYLNvo8H8T) | 1:20 |
-| 7 | [Let's Go](https://open.spotify.com/track/7y1kQ8gmRikqLM5Zaos8vC) | [Casper Bluff](https://open.spotify.com/artist/1MT4LJ5B0wdgv6z932znLB), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Let's Go](https://open.spotify.com/album/6leGkaXuaSLggHgk5UTIrN) | 3:11 |
-| 8 | [Hold On](https://open.spotify.com/track/596etLASQapOGD4iOcYJOk) | [KUMBAYA](https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio) | [Hold On](https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK) | 2:26 |
-| 9 | [Rich and Raw](https://open.spotify.com/track/7ezc0ttQI1RdEdJXYk2OVg) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Rich and Raw](https://open.spotify.com/album/4IKZietJgrE6tBFwMGjPFf) | 2:12 |
-| 10 | [You Nasty](https://open.spotify.com/track/5z1kyPW0cB6clR3yKBj99n) | [Billionaire Burke](https://open.spotify.com/artist/56Oi0KJwWZ3x8gfRGfQLlC), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Lil Westside](https://open.spotify.com/artist/0FGgDrYzmG1b3QpDYCG9kC), [P Wright](https://open.spotify.com/artist/1Z3jfd5Eqm50W6uGGZnDSJ) | [You Nasty](https://open.spotify.com/album/7scqfcvD79FXSbiY5ot03n) | 2:41 |
-| 11 | [Under Ah Bridge](https://open.spotify.com/track/3aAIyI06USngji97AvvZzs) | [DeeYounginn](https://open.spotify.com/artist/7I6dm8ROwoMapo4ZaaulMK) | [Next 2 Blow](https://open.spotify.com/album/6ZhDrmktQ2AUQOVunPkY5y) | 2:10 |
-| 12 | [SIDEWAYS](https://open.spotify.com/track/7851KeFyRMfXN0Qux5dFRL) | [Aldeezy](https://open.spotify.com/artist/7JHZnBE9nSxBz9OLdBlmU1) | [SIDEWAYS](https://open.spotify.com/album/6xFfweLQOsikby2Q0epRas) | 2:20 |
+| 1 | [Rap Niggas](https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Rap Niggas](https://open.spotify.com/album/4eqIEeiyBrDTAFNNnncsgu) | 2:44 |
+| 2 | [Let's Go](https://open.spotify.com/track/7y1kQ8gmRikqLM5Zaos8vC) | [Casper Bluff](https://open.spotify.com/artist/1MT4LJ5B0wdgv6z932znLB), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Let's Go](https://open.spotify.com/album/6leGkaXuaSLggHgk5UTIrN) | 3:11 |
+| 3 | [Lets Play](https://open.spotify.com/track/7wEWnGFd5Ux7dwQhaLhKAi) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [Lets Play](https://open.spotify.com/album/3VW4YruQAZ1HOYLNvo8H8T) | 1:20 |
+| 4 | [Rich Off Drugs](https://open.spotify.com/track/0Mtuq6nGBTZwRqs7ayDXj5) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Rich Off Drugs](https://open.spotify.com/album/0E3fNGmQH63xRSADi2CnrV) | 3:39 |
+| 5 | [Certified Dripper](https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Certified Dripper](https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM) | 2:32 |
+| 6 | [From Rags 2 Riches](https://open.spotify.com/track/4MsSQKCg2TVyvszBu3BbYq) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [From Rags 2 Riches](https://open.spotify.com/album/1NK6GHI9PEVb50IrTdEx7P) | 2:17 |
+| 7 | [Hold On](https://open.spotify.com/track/596etLASQapOGD4iOcYJOk) | [KUMBAYA](https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio) | [Hold On](https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK) | 2:26 |
+| 8 | [Rich and Raw](https://open.spotify.com/track/7ezc0ttQI1RdEdJXYk2OVg) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Rich and Raw](https://open.spotify.com/album/4IKZietJgrE6tBFwMGjPFf) | 2:12 |
+| 9 | [You Nasty](https://open.spotify.com/track/5z1kyPW0cB6clR3yKBj99n) | [Billionaire Burke](https://open.spotify.com/artist/56Oi0KJwWZ3x8gfRGfQLlC), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Lil Westside](https://open.spotify.com/artist/0FGgDrYzmG1b3QpDYCG9kC), [P Wright](https://open.spotify.com/artist/1Z3jfd5Eqm50W6uGGZnDSJ) | [You Nasty](https://open.spotify.com/album/7scqfcvD79FXSbiY5ot03n) | 2:41 |
+| 10 | [Under Ah Bridge](https://open.spotify.com/track/3aAIyI06USngji97AvvZzs) | [DeeYounginn](https://open.spotify.com/artist/7I6dm8ROwoMapo4ZaaulMK) | [Next 2 Blow](https://open.spotify.com/album/6ZhDrmktQ2AUQOVunPkY5y) | 2:10 |
+| 11 | [SIDEWAYS](https://open.spotify.com/track/7851KeFyRMfXN0Qux5dFRL) | [Aldeezy](https://open.spotify.com/artist/7JHZnBE9nSxBz9OLdBlmU1) | [SIDEWAYS](https://open.spotify.com/album/6xFfweLQOsikby2Q0epRas) | 2:20 |
+| 12 | [AWKWARD FREESTYLE](https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [AWKWARD FREESTYLE](https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV) | 2:07 |
 | 13 | [More Than Music](https://open.spotify.com/track/4S0lieDpguInwIsUzWuPjJ) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [More Than Music](https://open.spotify.com/album/41WbpXYzqHoNwkTDYXOL4f) | 2:08 |
 | 14 | [Owee](https://open.spotify.com/track/0uWnVdGtYre58CfvsCCl5O) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [Owee](https://open.spotify.com/album/6MC9pGp7vdpCigU7pFiUvl) | 3:30 |
 | 15 | [Shine](https://open.spotify.com/track/30e0wOkzLTiTrksrajqerg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Shine](https://open.spotify.com/album/1LeQq38GvFYZRHMtCfRopA) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [365 \(Grime Riddim\)](https://open.spotify.com/track/7FCkssCnpkqWH2ozJmibAf) | [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [Xpress Riddim](https://open.spotify.com/album/35s3RpbqiS1ckImEHUwHMl) | 2:29 |
 | 50 | [Southside](https://open.spotify.com/track/6GXlvJMiAaO0lkBWCEb4o5) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv) | [Southside](https://open.spotify.com/album/2TDIvUGaIb9Tz1lgPSTcpa) | 2:51 |
 
-Snapshot ID: `MTY1NzE0NzQ4OCwwMDAwMDExNzAwMDAwMTgxZDVhZmY4MTUwMDAwMDE4MWI1ZTk3M2Qw`
+Snapshot ID: `MTY1NzgxMDA4MywwMDAwMDExODAwMDAwMTgxZmQyZTYwMTkwMDAwMDE4MWI1ZTk3M2Qw`

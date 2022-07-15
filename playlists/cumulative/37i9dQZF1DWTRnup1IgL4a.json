@@ -1182,6 +1182,24 @@
     },
     {
       "album": {
+        "name": "My Own Blue Sky",
+        "url": "https://open.spotify.com/album/1dATMrsJlfFyQebwsQqTYA"
+      },
+      "artists": [
+        {
+          "name": "Lo Larsen",
+          "url": "https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181665,
+      "name": "My Own Blue Sky",
+      "url": "https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB"
+    },
+    {
+      "album": {
         "name": "Nell'angolo",
         "url": "https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f"
       },

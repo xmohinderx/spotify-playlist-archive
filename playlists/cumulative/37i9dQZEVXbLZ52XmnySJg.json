@@ -2084,6 +2084,32 @@
     },
     {
       "album": {
+        "name": "Dil (From \"Ek Villain Returns\")",
+        "url": "https://open.spotify.com/album/5RFQhO7dqTjNfZt1Ei710x"
+      },
+      "artists": [
+        {
+          "name": "Kaushik-Guddu",
+          "url": "https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW"
+        },
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309149,
+      "name": "Dil (From \"Ek Villain Returns\")",
+      "url": "https://open.spotify.com/track/043SPVu75TXbs94ZfM9dfn"
+    },
+    {
+      "album": {
         "name": "Dil Galti Kar Baitha Hai",
         "url": "https://open.spotify.com/album/3IVKZaNM28VJVl74XDSKpR"
       },
@@ -7535,7 +7561,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 106495,
       "name": "Sandhanam Theme - Background Score",
       "url": "https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al"

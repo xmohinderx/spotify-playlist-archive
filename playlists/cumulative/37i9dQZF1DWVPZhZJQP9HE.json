@@ -27,7 +27,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 203356,
       "name": "Aasai (feat. Keerthana Vaidyanathan,EL F\u00e9)",
       "url": "https://open.spotify.com/track/2JbXWw4Vwp4l7uLgDfZcYX"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 210005,
       "name": "Adiye Kaantha",
       "url": "https://open.spotify.com/track/1fF4euXpLnQDb0cJx04AVC"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 59669,
       "name": "Amma Ponnu Rambha - 1 Min Music",
       "url": "https://open.spotify.com/track/6G7k6xe58N8JefYH5ORnj7"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 172384,
       "name": "Bandaid",
       "url": "https://open.spotify.com/track/3UQt4q2ewvcmpA4C95SO0s"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 286040,
       "name": "Chippi Kooptan",
       "url": "https://open.spotify.com/track/2axEkmBxTImc565wMJqw58"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 224768,
       "name": "Dei - From \"Think Specials\"",
       "url": "https://open.spotify.com/track/2MJVUEFXFiMFYjqLCnfxUo"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 251333,
       "name": "Kannadi Kannamma",
       "url": "https://open.spotify.com/track/4r7zOAAzRiL2keKpduBhmJ"
@@ -1141,6 +1141,24 @@
       "duration_ms": 224640,
       "name": "Love Loop",
       "url": "https://open.spotify.com/track/7ELwPXWWDZExDD29QpMKdL"
+    },
+    {
+      "album": {
+        "name": "Lovely Day",
+        "url": "https://open.spotify.com/album/1yuWiOPYk0AxPOIbe2IUrS"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/5oCuOrOwNeavcf5A3NLYnj"
     },
     {
       "album": {
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 260691,
       "name": "Muthu Pechi",
       "url": "https://open.spotify.com/track/2jb91mkPf0mA7ENeqZtVEN"
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 180195,
       "name": "Paravai",
       "url": "https://open.spotify.com/track/4FUI01mcRUsHyVtXq24tQm"
@@ -1869,6 +1887,32 @@
       "duration_ms": 240437,
       "name": "Payanam",
       "url": "https://open.spotify.com/track/1x9o5hD4CKb4xfnWoSnUAU"
+    },
+    {
+      "album": {
+        "name": "PENNE UN KANNAALA",
+        "url": "https://open.spotify.com/album/5GgMbPhVrH0r7eBV18zQf6"
+      },
+      "artists": [
+        {
+          "name": "Praveen Gunendran",
+          "url": "https://open.spotify.com/artist/1AXchzqueZFYKft4uSMMzC"
+        },
+        {
+          "name": "Praveen Ram",
+          "url": "https://open.spotify.com/artist/6HyAuuOnTQuz48aHvCAAa7"
+        },
+        {
+          "name": "Guillermo de la Torre",
+          "url": "https://open.spotify.com/artist/4U0LK6SVIw6sW4qOmVnTlO"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "PENNE UN KANNAALA",
+      "url": "https://open.spotify.com/track/5kVhEgkDxpTTAnAUqPaZKh"
     },
     {
       "album": {
@@ -1949,7 +1993,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 219000,
       "name": "Ponnunga Kaadhal",
       "url": "https://open.spotify.com/track/1f0TU9VhujvprNI7ULktR5"
@@ -2331,7 +2375,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 241200,
       "name": "Thanimai",
       "url": "https://open.spotify.com/track/7JEHMrljGhwHVUvOvuxRR1"
@@ -2433,7 +2477,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 204998,
       "name": "Thikki Thikki (feat. Sam Vishal)",
       "url": "https://open.spotify.com/track/132C9FKUMjowhus183wY21"
@@ -2529,7 +2573,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 269633,
       "name": "Un Ninaivugal - From \"In Your Memories\"",
       "url": "https://open.spotify.com/track/3ysjboigvFM7UKnDKPlm1D"

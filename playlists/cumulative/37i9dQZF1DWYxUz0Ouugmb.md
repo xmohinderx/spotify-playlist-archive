@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Warren Hue
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: raissa anggiani
 
-97 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+98 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [i don’t need u](https://open.spotify.com/track/3nrNlNub0uPSexmYXrbhHh) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 1:48 | 2022-01-27 | 2022-03-25 |
 | [i've always loved you](https://open.spotify.com/track/0zB7FqXYqlcjYy2Zclz5r4) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [i've always loved you](https://open.spotify.com/album/558Ysrewk0x3CMG2DozIkF) | 5:08 | 2022-03-24 |  |
 | [if i disappear](https://open.spotify.com/track/2UJHBTzpfndcT1gcfY5yjK) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [if i disappear](https://open.spotify.com/album/2XGKC9iOHdN8acgpM0ilnC) | 3:14 | 2022-03-24 |  |
+| [if u could see me cryin' in my room](https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [if u could see me cryin' in my room](https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ) | 4:16 | 2022-07-14 |  |
 | [In Situ](https://open.spotify.com/track/6pNdQ1iQsK2z3nJeWoU7Ba) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [In Situ](https://open.spotify.com/album/54ku7s6zlpt1KoTR8raxp6) | 3:45 | 2022-03-24 |  |
 | [Itu Kamu](https://open.spotify.com/track/3qGkwkxr7N2VfFf3fImq0x) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Itu Kamu](https://open.spotify.com/album/6Xl8CANrPQXIALJB1W2aNG) | 4:07 | 2022-03-24 |  |
 | [Journey on September](https://open.spotify.com/track/22PhxtknUvYnNNidP1cuGJ) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Journey on September](https://open.spotify.com/album/6Z7AkTjYkglyuDNEYXZd4h) | 3:58 | 2021-11-25 | 2022-03-25 |

@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 218915,
       "name": "Jigidi Killaadi (From \"Pattas\")",
       "url": "https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B"
@@ -603,6 +603,24 @@
       "duration_ms": 237558,
       "name": "Kanja Poovu Kannala (From \"Viruman\")",
       "url": "https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz"
+    },
+    {
+      "album": {
+        "name": "Kankoththi Paravaye (From \"Vattam\")",
+        "url": "https://open.spotify.com/album/0QEPSYBGO2izXOh7M6ciCi"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Kankoththi Paravaye (From \"Vattam\")",
+      "url": "https://open.spotify.com/track/4vweFWzWXPxQDgjs9j47Zu"
     },
     {
       "album": {
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 231708,
       "name": "Nethu (From \"Jagame Thandhiram\")",
       "url": "https://open.spotify.com/track/6O9Y7nRXMHOsYt5ALfMyeU"
@@ -1340,6 +1358,32 @@
     },
     {
       "album": {
+        "name": "Cobra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283929,
+      "name": "Thumbi Thullal",
+      "url": "https://open.spotify.com/track/7tvDj0JY0HBSikV4mR7VE9"
+    },
+    {
+      "album": {
         "name": "Thumbi Thullal (From \"Cobra\")",
         "url": "https://open.spotify.com/album/5y44O8p8DJC9dcZTBlIsoV"
       },
@@ -1359,7 +1403,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 283929,
       "name": "Thumbi Thullal (From \"Cobra\")",
       "url": "https://open.spotify.com/track/6RxPsQFgCHmjibKGS1QiRU"

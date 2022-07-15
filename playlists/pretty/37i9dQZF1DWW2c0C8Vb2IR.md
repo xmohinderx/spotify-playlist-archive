@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Camilla George
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,635 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,695 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 30 | [Milady](https://open.spotify.com/track/4zNgtrlePyLPyySRrasBJw) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [En clair\-obscur](https://open.spotify.com/album/0uzEYd4lilV0AH72REKKT6) | 2:54 |
 | 31 | [Flowing Rhyme](https://open.spotify.com/track/27R5CLTecHiNhM5BdghE1Z) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Flowing Rhyme](https://open.spotify.com/album/4gNAtde98C74XXWrJa5ntF) | 3:25 |
 | 32 | [For the Homies](https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [yuckgod](https://open.spotify.com/artist/53FJ7kvKR7Nk7nOo5yGRK7), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Thank You for Waiting](https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe) | 2:03 |
-| 33 | [Be Blessed](https://open.spotify.com/track/1ZWPy0xWFMW2jL39eKFaNd) | [Davide Pannozzo](https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T), [Steve Jordan](https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Clifford Carter](https://open.spotify.com/artist/4leUgqPn0NjDmWMBnOP5ud) | [Be Blessed](https://open.spotify.com/album/6g7AOtd94FFQq52geFt4Gx) | 5:19 |
+| 33 | [Be Blessed](https://open.spotify.com/track/1ZWPy0xWFMW2jL39eKFaNd) | [Davide Pannozzo](https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T), [Steve Jordan](https://open.spotify.com/artist/53XJ4BIv6iblv2Osdpp5ls), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Clifford Carter](https://open.spotify.com/artist/4leUgqPn0NjDmWMBnOP5ud) | [Be Blessed](https://open.spotify.com/album/6g7AOtd94FFQq52geFt4Gx) | 5:19 |
 | 34 | [Tre](https://open.spotify.com/track/5wdz0dfriChmHMn2ONGRK4) | [Collateral Nature](https://open.spotify.com/artist/6Fsgjn4j1ofzKUc8eN4qW3) | [Morning Mars](https://open.spotify.com/album/5edsU6ssaSkIk5dgAS0Hpz) | 3:09 |
 | 35 | [An Open Mind \(Transition\)](https://open.spotify.com/track/2MAHPNq5ECtaDfZKJNNRws) | [Midwest Duplex](https://open.spotify.com/artist/5GTHNd9U0FynHuCzV5078L) | [An Open Mind \(Transition\)](https://open.spotify.com/album/7BOC8LZiUtLWtFZJRM9B3i) | 3:48 |
 | 36 | [The Hike](https://open.spotify.com/track/1qGHxeaOI9cH3ayfxGTBqc) | [Rémi Cormier](https://open.spotify.com/artist/1ij0jiHOjNtH6lNBNaPgst) | [The Hike](https://open.spotify.com/album/3Yee0AjVnXRImRu4CSUTKr) | 5:08 |

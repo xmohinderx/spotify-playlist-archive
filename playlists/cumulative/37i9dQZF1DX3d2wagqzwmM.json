@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 161674,
       "name": "Beat Of My Heart",
       "url": "https://open.spotify.com/track/5lHKO6KzDJELesoxLFiASz"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 162869,
       "name": "Bring It Home",
       "url": "https://open.spotify.com/track/5psWU2jGCGr96IkgqHsHHs"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 185624,
       "name": "Criminal Minds",
       "url": "https://open.spotify.com/track/2rGv08UOtSl44xt7SC17zR"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 225000,
       "name": "DOPAMINE",
       "url": "https://open.spotify.com/track/151txDMLIDSM09ck9bzrXy"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 184687,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/6bKPbGoNajOURIcz6scBaO"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 231562,
       "name": "Hero - Dubvision Remix",
       "url": "https://open.spotify.com/track/1zz4r1u9x46gVmY5qZthEC"
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 200292,
       "name": "MAKI",
       "url": "https://open.spotify.com/track/49zTxpRczdi1GiWNIhkJ3A"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 248876,
       "name": "MIND CONTROL",
       "url": "https://open.spotify.com/track/1ijNLECKPfBExLWeq9MD74"
@@ -2147,7 +2147,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 232500,
       "name": "PACMAN",
       "url": "https://open.spotify.com/track/0V0FJBR8xhhMuirhRY15we"
@@ -2275,7 +2275,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 185952,
       "name": "Raindrops (feat. Chacel)",
       "url": "https://open.spotify.com/track/1HGJjjDGNT5uhoNRRGt8Z7"
@@ -2301,7 +2301,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 229565,
       "name": "Raindrops - Avao Remix",
       "url": "https://open.spotify.com/track/16b1sDaG65MWEBnRGLm9Gd"
@@ -2341,7 +2341,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 160888,
       "name": "Raptor",
       "url": "https://open.spotify.com/track/4rQWeoQSHpBFP4Qk6mlw0T"
@@ -3111,7 +3111,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 218076,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/1lvpoF24wJfyzITLOsLqpL"
@@ -3217,7 +3217,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 183750,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/3LG6AuCP9pYlRkuQv6k4TW"
@@ -3361,6 +3361,24 @@
       "duration_ms": 195562,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO"
+    },
+    {
+      "album": {
+        "name": "ZERO GRAVITY",
+        "url": "https://open.spotify.com/album/0p1PEsKxOIeffRO4vrbUT2"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272343,
+      "name": "ZERO GRAVITY",
+      "url": "https://open.spotify.com/track/4Xy6yqMF7qe4FUGehWNtap"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3d2wagqzwmM"

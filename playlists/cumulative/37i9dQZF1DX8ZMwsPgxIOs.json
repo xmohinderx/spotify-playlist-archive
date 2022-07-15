@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: jamesjamesjames",
+  "description": "Techno is a state of mind. Cover: Skin On Skin",
   "name": "Techno State",
   "published_playlist_ids": [
     "5s19c9YN7LAmpSImXIMXhT"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 237397,
       "name": "Contagion",
       "url": "https://open.spotify.com/track/6FohMf7tim4EKslVqCB4y1"
@@ -518,6 +518,24 @@
     },
     {
       "album": {
+        "name": "For Tha Shot",
+        "url": "https://open.spotify.com/album/29xMerDSgERnGqXyU4VX0T"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262055,
+      "name": "For Tha Shot",
+      "url": "https://open.spotify.com/track/4nkxVUmWW2sNVzSAmElsrp"
+    },
+    {
+      "album": {
         "name": "For The Same Man (Nic Fanciulli Remix)",
         "url": "https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4"
       },
@@ -609,6 +627,24 @@
       "duration_ms": 230670,
       "name": "Geopolitics",
       "url": "https://open.spotify.com/track/0q69KffAkWv5GtyAauTU8V"
+    },
+    {
+      "album": {
+        "name": "Icons",
+        "url": "https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353398,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND"
     },
     {
       "album": {
@@ -1038,6 +1074,24 @@
     },
     {
       "album": {
+        "name": "Mythrill",
+        "url": "https://open.spotify.com/album/5MpDGP60CBRz5auI2XmRRe"
+      },
+      "artists": [
+        {
+          "name": "Yazzus",
+          "url": "https://open.spotify.com/artist/0KWutsZ75Y4GvjcPTFnKXU"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372000,
+      "name": "Mythrill",
+      "url": "https://open.spotify.com/track/0PcrE1lcR3mvZqM8K4IUUj"
+    },
+    {
+      "album": {
         "name": "New Generation",
         "url": "https://open.spotify.com/album/1p5FZDd1nk6CqiL6Cpc26P"
       },
@@ -1223,7 +1277,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 306857,
       "name": "Real Hawt",
       "url": "https://open.spotify.com/track/7s12v8WY72vTwpbBGjCrN3"
@@ -1775,7 +1829,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 372238,
       "name": "Wait a Minute",
       "url": "https://open.spotify.com/track/5Inko76DSgc9Ls9sHFAfnl"

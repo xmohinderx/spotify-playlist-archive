@@ -1,12 +1,12 @@
 {
   "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Dharius.",
-  "num_followers": 554573,
+  "num_followers": 554965,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzE0MzQwNSwwMDAwMDQ5NjAwMDAwMTgxZDU3MWFjNzEwMDAwMDE4MWE2NTRhNGM4",
+  "snapshot_id": "MTY1NzgxNTMxNywwMDAwMDQ5ODAwMDAwMTgxZmQ3ZTNiNjcwMDAwMDE4MWE2NTRhNGM4",
   "tracks": [
     {
       "added_at": "2022-07-06 21:36:45",
@@ -117,6 +117,22 @@
       "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
     },
     {
+      "added_at": "2022-07-14 16:14:28",
+      "album": {
+        "name": "Afuera Que Tengan Miedo",
+        "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Afuera Que Tengan Miedo",
+      "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
+    },
+    {
       "added_at": "2022-07-06 21:36:45",
       "album": {
         "name": "Suficiente",
@@ -199,6 +215,26 @@
       "duration_ms": 202517,
       "name": "Requisito 420",
       "url": "https://open.spotify.com/track/5gBstAsizJCElj5GZiYaXO"
+    },
+    {
+      "added_at": "2022-07-14 16:15:17",
+      "album": {
+        "name": "Round 7",
+        "url": "https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 214864,
+      "name": "Round 7",
+      "url": "https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd"
     },
     {
       "added_at": "2022-07-06 21:36:45",

@@ -1,31 +1,63 @@
 {
-  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Palmaria",
-  "num_followers": 4186,
+  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Ama Dee",
+  "num_followers": 4188,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzMTI2MCwwMDAwMDA1ZjAwMDAwMTgxZGFhZTM5ZjYwMDAwMDE4MWQyZTExMjY0",
+  "snapshot_id": "MTY1NzgzNjA2MCwwMDAwMDA2MDAwMDAwMTgxZmViYWJlMDUwMDAwMDE4MWY3ODliYWQ1",
   "tracks": [
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21"
+        "name": "Stavolta",
+        "url": "https://open.spotify.com/album/10ztXShbbY1hSbQm32UwrS"
       },
       "artists": [
         {
-          "name": "Palmaria",
-          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV"
+      "duration_ms": 234000,
+      "name": "Stavolta",
+      "url": "https://open.spotify.com/track/0y9C4eT0lKJ0UWUtfrK6FR"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Tocco di Lusso",
+        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Tocco di Lusso",
+      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "STRESS",
+        "url": "https://open.spotify.com/album/65kkbupUXDk2YNaAV2GXTX"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rumore",
+          "url": "https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU"
+        }
+      ],
+      "duration_ms": 179391,
+      "name": "STRESS",
+      "url": "https://open.spotify.com/track/52FZgfDkjdGX1EwREBtKj6"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Stupido cielo",
         "url": "https://open.spotify.com/album/55eX2Z5Nm3Dv6uaS01NkXX"
@@ -45,23 +77,23 @@
       "url": "https://open.spotify.com/track/5BMtEGrwyx2FXnOPxm9CKA"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "CATRAME",
-        "url": "https://open.spotify.com/album/7hdFnnjccKNalbYJbnwO8i"
+        "name": "Che ce ne fotte",
+        "url": "https://open.spotify.com/album/513N1be9b9WpVgTT9crAet"
       },
       "artists": [
         {
-          "name": "Bobby Wanna",
-          "url": "https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH"
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
         }
       ],
-      "duration_ms": 186818,
-      "name": "ZERO PIANI",
-      "url": "https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF"
+      "duration_ms": 160236,
+      "name": "Che ce ne fotte",
+      "url": "https://open.spotify.com/track/2jXqI9XFWwGS735IF4VJy3"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "ANCORA",
         "url": "https://open.spotify.com/album/4LjYaprNELvWNeqE9hIszw"
@@ -77,7 +109,111 @@
       "url": "https://open.spotify.com/track/2XxrTkLS3YxDp0HRDPMlsM"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "KOrde",
+        "url": "https://open.spotify.com/album/3HsIuWLEEVBKKPZDmvIKfP"
+      },
+      "artists": [
+        {
+          "name": "Alisel",
+          "url": "https://open.spotify.com/artist/0iaWKbOQ29QzZOLEOCsNbj"
+        },
+        {
+          "name": "Void Amber",
+          "url": "https://open.spotify.com/artist/1699JCh2Hsis381RzohksS"
+        }
+      ],
+      "duration_ms": 144628,
+      "name": "KOrde",
+      "url": "https://open.spotify.com/track/0PHRVnh4XRpAplZpNI5vKk"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Qualcosa di speciale",
+        "url": "https://open.spotify.com/album/5nLD2f5T4GZ57wUwB9efde"
+      },
+      "artists": [
+        {
+          "name": "Subconscio",
+          "url": "https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh"
+        }
+      ],
+      "duration_ms": 173479,
+      "name": "Qualcosa di Speciale",
+      "url": "https://open.spotify.com/track/4o0fBO8aUszRidx4QAbnsf"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Che sera",
+        "url": "https://open.spotify.com/album/4VdWz9znOuVApJnqBcBcbl"
+      },
+      "artists": [
+        {
+          "name": "I Coccodrilli",
+          "url": "https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Che sera",
+      "url": "https://open.spotify.com/track/41JsNduRhAuFLEU7gy9ckf"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "CATRAME",
+        "url": "https://open.spotify.com/album/7hdFnnjccKNalbYJbnwO8i"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wanna",
+          "url": "https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "ZERO PIANI",
+      "url": "https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "buonanotte, testacoda",
+        "url": "https://open.spotify.com/album/1ekB54uglaS54Iw67CdeNZ"
+      },
+      "artists": [
+        {
+          "name": "testacoda",
+          "url": "https://open.spotify.com/artist/4TsxiXBrsmsrPmrZdSyJRp"
+        },
+        {
+          "name": "Brividee",
+          "url": "https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "blade runner",
+      "url": "https://open.spotify.com/track/2OJQyRSfwOtGKmYHJm86QY"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Heroin Chic",
         "url": "https://open.spotify.com/album/0piSxMtqsLKptzqTtfGQqb"
@@ -101,39 +237,23 @@
       "url": "https://open.spotify.com/track/2euyb7bOAP2flhP9N7NWnY"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Tocco di Lusso",
-        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
+        "name": "Aiutante magico",
+        "url": "https://open.spotify.com/album/77QSGHiRVKt68cQAQY5TLe"
       },
       "artists": [
         {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+          "name": "Paolo Schiamazzi",
+          "url": "https://open.spotify.com/artist/6xfsJIm7RMM0U0Ueuw9a4E"
         }
       ],
-      "duration_ms": 203684,
-      "name": "Tocco di Lusso",
-      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
+      "duration_ms": 165274,
+      "name": "L'aria",
+      "url": "https://open.spotify.com/track/0W7oTk0xAN6mCZUZd9hQPa"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Qualcosa di speciale",
-        "url": "https://open.spotify.com/album/5nLD2f5T4GZ57wUwB9efde"
-      },
-      "artists": [
-        {
-          "name": "Subconscio",
-          "url": "https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh"
-        }
-      ],
-      "duration_ms": 173479,
-      "name": "Qualcosa di Speciale",
-      "url": "https://open.spotify.com/track/4o0fBO8aUszRidx4QAbnsf"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Fantasmi",
         "url": "https://open.spotify.com/album/5QCFr0ADELohMoZZ97inu8"
@@ -153,43 +273,7 @@
       "url": "https://open.spotify.com/track/41jKeFW7GBJSG5d307hilw"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "buonanotte, testacoda",
-        "url": "https://open.spotify.com/album/1ekB54uglaS54Iw67CdeNZ"
-      },
-      "artists": [
-        {
-          "name": "testacoda",
-          "url": "https://open.spotify.com/artist/4TsxiXBrsmsrPmrZdSyJRp"
-        },
-        {
-          "name": "Brividee",
-          "url": "https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "blade runner",
-      "url": "https://open.spotify.com/track/2OJQyRSfwOtGKmYHJm86QY"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Stavolta",
-        "url": "https://open.spotify.com/album/10ztXShbbY1hSbQm32UwrS"
-      },
-      "artists": [
-        {
-          "name": "Ama Dee",
-          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Stavolta",
-      "url": "https://open.spotify.com/track/0y9C4eT0lKJ0UWUtfrK6FR"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Stanze d'hotel",
         "url": "https://open.spotify.com/album/53ifeDdwpGFxox0y2MfDzQ"
@@ -209,7 +293,23 @@
       "url": "https://open.spotify.com/track/4VqYtNokFMIOO8gJRtM6fx"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Squalo",
+        "url": "https://open.spotify.com/album/43bm7or26fcn5nLH0XHzzA"
+      },
+      "artists": [
+        {
+          "name": "elitre",
+          "url": "https://open.spotify.com/artist/1i42BwEeB2xpzrJnCLfNCr"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "Squalo",
+      "url": "https://open.spotify.com/track/6ZaBRCrdYYaY1UKb8eo418"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Delicatoni",
         "url": "https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA"
@@ -225,7 +325,7 @@
       "url": "https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Summertape",
         "url": "https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7"
@@ -249,7 +349,27 @@
       "url": "https://open.spotify.com/track/0Tm12YSJpAYcNPor6KLOeh"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "VUOTO",
+        "url": "https://open.spotify.com/album/6X4i00weCWwM5ooQ2FuPn2"
+      },
+      "artists": [
+        {
+          "name": "2VOLTE J",
+          "url": "https://open.spotify.com/artist/0uFDGOQnoYPN8XHqP5ONQx"
+        },
+        {
+          "name": "xchepiangi",
+          "url": "https://open.spotify.com/artist/2iWf5FTt1OA2hZPJvgNAT6"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "VUOTO",
+      "url": "https://open.spotify.com/track/5dg5MAxWLc2nxsUV6OLd5D"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "The Disorder of Appearances",
         "url": "https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x"
@@ -265,7 +385,7 @@
       "url": "https://open.spotify.com/track/43kunJHghKGr4PDeTi86Gr"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "In Fissa (feat. Moonet, Zo Vivaldi, Hank)",
         "url": "https://open.spotify.com/album/65pNuMCYZ9jpFdy3Z7mpsf"
@@ -293,27 +413,23 @@
       "url": "https://open.spotify.com/track/4xhCoCq3YTfp2Jzw4xjBfC"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "KOrde",
-        "url": "https://open.spotify.com/album/3HsIuWLEEVBKKPZDmvIKfP"
+        "name": "Casa mia",
+        "url": "https://open.spotify.com/album/4pV3zDpKUQ3Hd6rOhrzLJW"
       },
       "artists": [
         {
-          "name": "Alisel",
-          "url": "https://open.spotify.com/artist/0iaWKbOQ29QzZOLEOCsNbj"
-        },
-        {
-          "name": "Void Amber",
-          "url": "https://open.spotify.com/artist/1699JCh2Hsis381RzohksS"
+          "name": "Adam\u00f8ri",
+          "url": "https://open.spotify.com/artist/2Ad6OQ9lmQVn92p6I8c2gM"
         }
       ],
-      "duration_ms": 144628,
-      "name": "KOrde",
-      "url": "https://open.spotify.com/track/0PHRVnh4XRpAplZpNI5vKk"
+      "duration_ms": 201932,
+      "name": "Casa mia",
+      "url": "https://open.spotify.com/track/2cMZRv1RnudRuROYxmiOG8"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Baby stai con me",
         "url": "https://open.spotify.com/album/0qdIghkVBG0SB2iKAccsY7"
@@ -329,7 +445,7 @@
       "url": "https://open.spotify.com/track/1YRkrzo34kTUQq8jSfnSoA"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "QUEEN SIZE",
         "url": "https://open.spotify.com/album/6YlD2hx5rGqHGqhgZBVzeN"
@@ -345,7 +461,23 @@
       "url": "https://open.spotify.com/track/0nMCR75q4zfsEvkhIZxwbx"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Vieni con me",
+        "url": "https://open.spotify.com/album/69nM1PA0qgIGGJxPKoOEWe"
+      },
+      "artists": [
+        {
+          "name": "GYUNO",
+          "url": "https://open.spotify.com/artist/0WjdNpv7EHcPTSYcL2n3jc"
+        }
+      ],
+      "duration_ms": 141853,
+      "name": "Vieni con me",
+      "url": "https://open.spotify.com/track/6lJptxI4rRNBfQJOgdY5pg"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Sabbie Mobili",
         "url": "https://open.spotify.com/album/4yWnZRHF5k5IkpAPYIVpmN"
@@ -361,7 +493,7 @@
       "url": "https://open.spotify.com/track/3likyMOTU38plDlDhGCN66"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Love Will Take You from Behind",
         "url": "https://open.spotify.com/album/7ta4mTgSJ38tqR21MPHrWg"
@@ -377,7 +509,7 @@
       "url": "https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Tu/Albero",
         "url": "https://open.spotify.com/album/7nZjsJI66j01p4u8fODIzs"
@@ -393,7 +525,7 @@
       "url": "https://open.spotify.com/track/6OW4PdI0pF001ANUhDgBsf"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Archivio Futuro",
         "url": "https://open.spotify.com/album/3AKs0EVj9ZxWLlBQZSrAe4"
@@ -409,7 +541,7 @@
       "url": "https://open.spotify.com/track/0C8XbTUOPAq2KOCw2viGzT"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "DOVE VUOI CHE SIA",
         "url": "https://open.spotify.com/album/2jK9kS3Bab8L59jv0Yjkwc"
@@ -425,7 +557,7 @@
       "url": "https://open.spotify.com/track/0ZW5zLDwB5Tsc4Qqz2igIO"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Quando me ne sono andato",
         "url": "https://open.spotify.com/album/7u5QxpKwR4g6AKpAULCxkv"
@@ -445,7 +577,7 @@
       "url": "https://open.spotify.com/track/3ow2vKTlNCKiqdvgYQ0QCD"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/7GlSRm0BwDf9CBtXvvofJi"
@@ -461,7 +593,23 @@
       "url": "https://open.spotify.com/track/1ypk28iGe0k4xBlr1LPHH3"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Saint Tropez",
+        "url": "https://open.spotify.com/album/6BGKKH5av0M6MZk0I5f7fB"
+      },
+      "artists": [
+        {
+          "name": "Letizya",
+          "url": "https://open.spotify.com/artist/0SGqPFl7AJj1wopvJltvdv"
+        }
+      ],
+      "duration_ms": 216734,
+      "name": "Saint Tropez",
+      "url": "https://open.spotify.com/track/4mf6SddhIbCKE2mtLHVEDc"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Acquarelli",
         "url": "https://open.spotify.com/album/14aRNDl1Fudm9tjBajzPsN"
@@ -477,7 +625,7 @@
       "url": "https://open.spotify.com/track/6z9cJ5bi8pCDey2uGi4AvN"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "6teen",
         "url": "https://open.spotify.com/album/49jpXNA7BK8GAS2IDIvFB3"
@@ -493,7 +641,7 @@
       "url": "https://open.spotify.com/track/7AqNBuRRxSWRhuMMlB9gdf"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Via Vela",
         "url": "https://open.spotify.com/album/2GPDx9sVGkRxsdEWV2I7gq"
@@ -509,7 +657,7 @@
       "url": "https://open.spotify.com/track/3MAHPT4ly6WxmOLHU2gbTc"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Hyperpunk",
         "url": "https://open.spotify.com/album/3sBoXMMJ5Jfpy0rWIQCXUX"
@@ -525,7 +673,7 @@
       "url": "https://open.spotify.com/track/3aJqoxQ1LmgcH2jucTMIrz"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7JsVQygEmzZyT2uGMWz9ns"
@@ -545,7 +693,7 @@
       "url": "https://open.spotify.com/track/07Th2ElGsExUOs76F7Q2a0"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Letto",
         "url": "https://open.spotify.com/album/7d0hmcEyqTIhYLZkCEAys9"
@@ -565,7 +713,7 @@
       "url": "https://open.spotify.com/track/5TsWMpAiR44ZRk5Od3ThnB"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Ubriaca",
         "url": "https://open.spotify.com/album/4xWzCOWzO1QYLZHiUoidpS"
@@ -581,27 +729,7 @@
       "url": "https://open.spotify.com/track/4QmdX30DPcnVPnN2mJxxNz"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Politecnico Poliamore",
-        "url": "https://open.spotify.com/album/5rDxDO36cXKDuHo6kbw4aT"
-      },
-      "artists": [
-        {
-          "name": "Grill Boys",
-          "url": "https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h"
-        },
-        {
-          "name": "Aegeminus",
-          "url": "https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Politecnico Poliamore",
-      "url": "https://open.spotify.com/track/1yUM7puCgxMvx4xrNn9VCe"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "CASSA DRITTA :o",
         "url": "https://open.spotify.com/album/2nRirDvSwdvOhxCjIcd5gR"
@@ -625,7 +753,7 @@
       "url": "https://open.spotify.com/track/1D0PMmCjOzseoSWcHbDNTB"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Fiammifero (feat. Saint Abel)",
         "url": "https://open.spotify.com/album/5djlcgNK2Vpb48vuWE3D40"
@@ -653,7 +781,7 @@
       "url": "https://open.spotify.com/track/2fOIBo7mFG0bKNUMnGE8kU"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2tIsEywEdtGcrt5vj8hF8C"
@@ -669,7 +797,7 @@
       "url": "https://open.spotify.com/track/5Tr0ol7vcovoGqotDfvkwB"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "DUE PUNTI PARENTESI",
         "url": "https://open.spotify.com/album/1UzynnhgvD247VCKQFIkVL"
@@ -685,7 +813,7 @@
       "url": "https://open.spotify.com/track/2eHWYDuQtme0a0nBmJn286"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Amour Toujours",
         "url": "https://open.spotify.com/album/2fEHNNjj3a7Y1Y0A7soYOl"
@@ -701,7 +829,7 @@
       "url": "https://open.spotify.com/track/4X8ReyOn5r60uQ0KyDaRhw"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "T-RIP",
         "url": "https://open.spotify.com/album/3a1dHwhl6TJuiWQRsI0L7p"
@@ -717,7 +845,7 @@
       "url": "https://open.spotify.com/track/407xsMEzZSnm0wtYcBayXS"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Luned\u00ec",
         "url": "https://open.spotify.com/album/50d0mSA6TNMf7eq7vSUrNb"
@@ -733,59 +861,7 @@
       "url": "https://open.spotify.com/track/3jQUogw3M7Nq6JhSQgw4X8"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "in loop",
-        "url": "https://open.spotify.com/album/24BztsotMHiqpArEei5Y3f"
-      },
-      "artists": [
-        {
-          "name": "ALLE",
-          "url": "https://open.spotify.com/artist/31198cNlkvUbsM84iYyIdm"
-        }
-      ],
-      "duration_ms": 208673,
-      "name": "in loop",
-      "url": "https://open.spotify.com/track/2yfTs9jXTKNAxRZ9X3BlSU"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "The Trunk",
-        "url": "https://open.spotify.com/album/6dKi7duAQCHvOqpUQJ7Peo"
-      },
-      "artists": [
-        {
-          "name": "Olmo",
-          "url": "https://open.spotify.com/artist/1eeXVA2sTpR51UoCDfjzOW"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "25",
-      "url": "https://open.spotify.com/track/0fEoNh47MDDJjbUSE1Jrgk"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "DREAMLAND",
-        "url": "https://open.spotify.com/album/1tFzHNn0iy69H0mESMO0dG"
-      },
-      "artists": [
-        {
-          "name": "Esma",
-          "url": "https://open.spotify.com/artist/150z0GzBQU8W02VLhw1dCF"
-        },
-        {
-          "name": "BABILONIA",
-          "url": "https://open.spotify.com/artist/30YUVsrzLIs9w5ejdlquGm"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "DREAMLAND",
-      "url": "https://open.spotify.com/track/3iPO5c1yBL2YO7hvyA9oYq"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "il mio sole (sei tu)",
         "url": "https://open.spotify.com/album/37bVWsKCvQG1AytQXF2YaV"
@@ -805,7 +881,7 @@
       "url": "https://open.spotify.com/track/0U57nIxmj5WuoKI8B6883w"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Highway High Way Too High",
         "url": "https://open.spotify.com/album/4XyQa6nd1wqIZpXOhYtP16"
@@ -819,86 +895,6 @@
       "duration_ms": 376500,
       "name": "I Just Lost Marcel",
       "url": "https://open.spotify.com/track/3xiKxZGQEWanBehKjLXZIX"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "La Ruota",
-        "url": "https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG"
-      },
-      "artists": [
-        {
-          "name": "OIDA",
-          "url": "https://open.spotify.com/artist/4P0X1UyVaHhoe2lCHKQRef"
-        }
-      ],
-      "duration_ms": 204512,
-      "name": "La Ruota",
-      "url": "https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Montagne",
-        "url": "https://open.spotify.com/album/0CrxAt6D7bGDImfIBt9QI1"
-      },
-      "artists": [
-        {
-          "name": "Ters\u00f8",
-          "url": "https://open.spotify.com/artist/6dPkQ9H6GSNXJFe7ZnukoU"
-        }
-      ],
-      "duration_ms": 254210,
-      "name": "Montagne",
-      "url": "https://open.spotify.com/track/0LLIKdwjscg0HjdUEPwuKn"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Occhi Rossi",
-        "url": "https://open.spotify.com/album/0mT09gh54HypspgwwzWd0R"
-      },
-      "artists": [
-        {
-          "name": "I Dolori del Giovane Walter",
-          "url": "https://open.spotify.com/artist/1yGEqWwG1niom92pU3ha4n"
-        }
-      ],
-      "duration_ms": 179741,
-      "name": "Occhi Rossi",
-      "url": "https://open.spotify.com/track/5LBqJRTnM2ylpHIoZFlYNN"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "frantumi",
-        "url": "https://open.spotify.com/album/24x1yXLHqq5T8lNh78SbuU"
-      },
-      "artists": [
-        {
-          "name": "junksleep",
-          "url": "https://open.spotify.com/artist/7A34sA473n97mgts6lGL8m"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "frantumi",
-      "url": "https://open.spotify.com/track/3UvV9yZNhfhCyJ2vb99egC"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "L'invenzione della dance",
-        "url": "https://open.spotify.com/album/6bGoTJvrI6reJJG0S9o5qM"
-      },
-      "artists": [
-        {
-          "name": "Tiso",
-          "url": "https://open.spotify.com/artist/2o4EzEyBSByCnZwaVgh99h"
-        }
-      ],
-      "duration_ms": 206206,
-      "name": "L'invenzione della dance",
-      "url": "https://open.spotify.com/track/2x14trnSSKMrJS9Q5feHJF"
     }
   ],
   "unique_name": "Fresh Finds Italia",

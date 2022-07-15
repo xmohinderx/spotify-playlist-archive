@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Desarae Dee Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,109 likes - 95 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,130 likes - 95 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 13 | [Sweet Life \- Instrumental](https://open.spotify.com/track/5oxParhlFhy7jBUiB4TL8b) | [Lexsoul Dancemachine](https://open.spotify.com/artist/1sguzSLpSIfDxY95wn4Xsi) | [Lex On The Beach \(Instrumentals\)](https://open.spotify.com/album/6HThzJqha4wVzoMuzWfVLl) | 4:05 |
 | 14 | [Wadada](https://open.spotify.com/track/021dKUW3T1zcnCzuTcQ2MF) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/4bLUzO4dszMKwyzY4jXsXA) | 4:45 |
 | 15 | [Milady](https://open.spotify.com/track/4zNgtrlePyLPyySRrasBJw) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [En clair\-obscur](https://open.spotify.com/album/0uzEYd4lilV0AH72REKKT6) | 2:54 |
-| 16 | [Be Blessed](https://open.spotify.com/track/1ZWPy0xWFMW2jL39eKFaNd) | [Davide Pannozzo](https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T), [Steve Jordan](https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Clifford Carter](https://open.spotify.com/artist/4leUgqPn0NjDmWMBnOP5ud) | [Be Blessed](https://open.spotify.com/album/6g7AOtd94FFQq52geFt4Gx) | 5:19 |
+| 16 | [Be Blessed](https://open.spotify.com/track/1ZWPy0xWFMW2jL39eKFaNd) | [Davide Pannozzo](https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T), [Steve Jordan](https://open.spotify.com/artist/53XJ4BIv6iblv2Osdpp5ls), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Clifford Carter](https://open.spotify.com/artist/4leUgqPn0NjDmWMBnOP5ud) | [Be Blessed](https://open.spotify.com/album/6g7AOtd94FFQq52geFt4Gx) | 5:19 |
 | 17 | [An Open Mind \(Transition\)](https://open.spotify.com/track/2MAHPNq5ECtaDfZKJNNRws) | [Midwest Duplex](https://open.spotify.com/artist/5GTHNd9U0FynHuCzV5078L) | [An Open Mind \(Transition\)](https://open.spotify.com/album/7BOC8LZiUtLWtFZJRM9B3i) | 3:48 |
 | 18 | [The Hike](https://open.spotify.com/track/1qGHxeaOI9cH3ayfxGTBqc) | [Rémi Cormier](https://open.spotify.com/artist/1ij0jiHOjNtH6lNBNaPgst) | [The Hike](https://open.spotify.com/album/3Yee0AjVnXRImRu4CSUTKr) | 5:08 |
 | 19 | [Relaxing at the Underbelly](https://open.spotify.com/track/2LE0NkEYXutnOK7nHRyNUR) | [Emily Jane Roberts](https://open.spotify.com/artist/0oU7rg56Cbw8yGVfFToXbu) | [The Persistence of Memory EP](https://open.spotify.com/album/3RnKzIhgEAuoDYkpBE27eM) | 4:30 |

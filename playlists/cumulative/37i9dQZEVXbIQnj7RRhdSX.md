@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-857 songs - 1 day 20 hr 1 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+858 songs - 1 day 20 hr 4 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,7 +794,8 @@
 | [Tribale](https://open.spotify.com/track/6dMvLEipqRW6vh8Bt5PbOg) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Tribale](https://open.spotify.com/album/4riFp09J5vcQZbTHDwQ48D) | 2:42 | 2022-06-11 |  |
 | [Triste \(with Feid\)](https://open.spotify.com/track/1IovaNgcqPCJpJGd0V2eXl) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 3:22 | 2021-10-17 | 2021-11-21 |
 | [TROIA \(feat\. J Lord\)](https://open.spotify.com/track/7tZ3j6ftRvAWfuMLrOVEfr) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:34 | 2021-03-27 | 2021-04-01 |
-| [Tropicana \(feat\. Annalisa\)](https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Tropicana \(feat\. Annalisa\)](https://open.spotify.com/album/4vJhkz8fj06lW7TEoVmBKM) | 2:52 | 2022-06-11 |  |
+| [Tropicana](https://open.spotify.com/track/1oYswaSYOE8yk9XE7pIcli) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Estate Tropicana](https://open.spotify.com/album/5XMaxktZQEy4HrBaP6qx9B) | 2:52 | 2022-07-14 |  |
+| [Tropicana \(feat\. Annalisa\)](https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Tropicana \(feat\. Annalisa\)](https://open.spotify.com/album/4vJhkz8fj06lW7TEoVmBKM) | 2:52 | 2022-06-11 | 2022-07-15 |
 | [TU MI HAI CAPITO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MADAME](https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr) | 3:31 | 2021-09-05 | 2022-02-05 |
 | [Tuo padre, mia madre, Lucia](https://open.spotify.com/track/14FAAlZJ36VMPIF7yHV3mg) | [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m) | [Tuo padre, mia madre, Lucia](https://open.spotify.com/album/0CJaWuUBoQ8HeRj8S2ZKOH) | 3:48 | 2022-02-04 | 2022-02-06 |
 | [Tuo padre, mia madre, Lucia](https://open.spotify.com/track/4xOGo8ca9Ys8jyTVkdYoAz) | [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m) | [Tutto l’universo](https://open.spotify.com/album/1MKGxds0Jc3agqGvluN87N) | 3:48 | 2022-02-05 | 2022-02-11 |

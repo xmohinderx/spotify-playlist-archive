@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain](/playlists/plain/37i9dQZF1DX3bgBpcV2oGY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3bgBpcV2oGY)
 
-### [Sad Acoustic Guitar](https://open.spotify.com/playlist/37i9dQZF1DX3bgBpcV2oGY)
+### [Sad Guitar Instrumentals](https://open.spotify.com/playlist/37i9dQZF1DX3bgBpcV2oGY)
 
 > Instrumental guitar for rainy day contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,511 likes - 107 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,556 likes - 107 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 | 106 | [Choro de Saudade](https://open.spotify.com/track/3Kfd574iIrlhqnQeqtXKuv) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Choro de Saudade](https://open.spotify.com/album/2WrAWCGZQYtkDmAvvjHUJ6) | 5:05 |
 | 107 | [Behind the lines](https://open.spotify.com/track/7qDMgfVahRq3GfjRFmW4aI) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Behind the lines](https://open.spotify.com/album/2PzIJI6qTvSsEcBMxfACVC) | 2:17 |
 
-Snapshot ID: `MTY1NjYzMzYwMCwwMDAwMDAyMDAwMDAwMTgxYjcwZWE4YzMwMDAwMDE3ZjQ2NDhjNzRj`
+Snapshot ID: `MTY1Nzg0MzIwMCwwMDAwMDAyMTAwMDAwMTgxZmYyN2IwZTQwMDAwMDE4MWYxYTBjMzhh`

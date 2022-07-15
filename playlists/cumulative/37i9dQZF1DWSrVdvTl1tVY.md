@@ -2,7 +2,7 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: Eli & Fur
+> The biggest house bangers popping off in the UK, let's go! Cover: I.JORDAN
 
 260 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 

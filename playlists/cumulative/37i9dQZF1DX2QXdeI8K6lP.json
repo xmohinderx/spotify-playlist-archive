@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 174184,
       "name": "Alma Llanera",
       "url": "https://open.spotify.com/track/1W4uZ4K7q8ev1Q5KA6WI6x"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 186573,
       "name": "Cuando Me Vaya",
       "url": "https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI"
@@ -739,6 +739,24 @@
       "duration_ms": 191120,
       "name": "Cuidadito, Cuidadito",
       "url": "https://open.spotify.com/track/2eNyia284twoi86yKlDFxV"
+    },
+    {
+      "album": {
+        "name": "Culebra Venenosa",
+        "url": "https://open.spotify.com/album/4vIQ9x5umdJL8cySAdrQdq"
+      },
+      "artists": [
+        {
+          "name": "Segundo Rosero",
+          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "Culebra Venenosa",
+      "url": "https://open.spotify.com/track/1HYixaofJGQcDo837EZg1U"
     },
     {
       "album": {
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 153826,
       "name": "Espumas",
       "url": "https://open.spotify.com/track/3nSV1I5ZVv4vI8nU7Kl6zW"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 205480,
       "name": "Flor de Azalea",
       "url": "https://open.spotify.com/track/0TU7x7BKZSg71PuAzIFtzW"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 198146,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx"
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 173720,
       "name": "Poquita F\u00e9",
       "url": "https://open.spotify.com/track/1eU6j0ZAkWFlVmgmieZZ8u"
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 190933,
       "name": "Que Seas Feliz",
       "url": "https://open.spotify.com/track/0jm8gV7Dx2DqxUdb87T9xo"
@@ -2157,7 +2175,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 186133,
       "name": "Sabra Dios",
       "url": "https://open.spotify.com/track/7fcXNUtZSgh9VrKW58Bjuz"
@@ -2535,7 +2553,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 157493,
       "name": "Una Copa M\u00e1s",
       "url": "https://open.spotify.com/track/5dhelPVtMadkXASjPUmqO5"

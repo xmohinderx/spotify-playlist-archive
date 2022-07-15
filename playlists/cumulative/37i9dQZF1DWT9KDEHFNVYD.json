@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 330708,
       "name": "A Haze Of Patriotic Fervor",
       "url": "https://open.spotify.com/track/1Pwb0rGhxhnyxkwk3sbJ3E"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 310040,
       "name": "All Your Love Is Gone",
       "url": "https://open.spotify.com/track/3IkvqGZwGudLv1nJnxSc8b"
@@ -582,6 +582,24 @@
     },
     {
       "album": {
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+      },
+      "artists": [
+        {
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272840,
+      "name": "Cue",
+      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
+    },
+    {
+      "album": {
         "name": "Destination Tokyo",
         "url": "https://open.spotify.com/album/0SnOj7TjuJiZqDaaeHbt6K"
       },
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 184013,
       "name": "Final Weapon",
       "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 139162,
       "name": "irradiated dream mouth",
       "url": "https://open.spotify.com/track/54hLH64JLbIPAhD4E9o2vu"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 266120,
       "name": "No Spell",
       "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 438321,
       "name": "Novembergrey",
       "url": "https://open.spotify.com/track/3OYgSOOwiTnWNwwS9KTOsC"
@@ -3333,7 +3351,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 230613,
       "name": "Trimbornstra\u00dfe",
       "url": "https://open.spotify.com/track/5t6XSo7zCpAuSulPSNH66g"
@@ -3531,7 +3549,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 630946,
       "name": "War Sux",
       "url": "https://open.spotify.com/track/16PAjxSIrDv8QQ6ELcBIMZ"
@@ -3741,24 +3759,6 @@
       "duration_ms": 208784,
       "name": "\u00c9chale Campe\u00f3n",
       "url": "https://open.spotify.com/track/7dOgA9Lr12XHBs3djRUwbO"
-    },
-    {
-      "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
-      },
-      "artists": [
-        {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
-        }
-      ],
-      "date_added": "2021-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 272840,
-      "name": "\u30ad\u30e5\u30fc",
-      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT9KDEHFNVYD"

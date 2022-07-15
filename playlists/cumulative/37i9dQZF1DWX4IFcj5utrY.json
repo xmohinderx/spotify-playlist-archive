@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F?si=-RfkUrS5QnWvdiZdKMTbAg\">DJ Bongz</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR?si=l4aIn-LCT1WjrpA6ZqqR3A\">Dwson</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 531147,
       "name": "Afro Brotherz (Russian Weapon)",
       "url": "https://open.spotify.com/track/6WFeNRHnWyrCCx7WOT6W3h"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 343167,
       "name": "Agolo - Shimza Remix",
       "url": "https://open.spotify.com/track/4A0PF9HheeAoVHlAqEQVaV"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 410847,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/5E8FPWWhahklbfZW7TkJLg"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 401200,
       "name": "Ayikh' Indaw' Enjengekhaya (Henrik Schwarz Rework)",
       "url": "https://open.spotify.com/track/5GmYZKs60MPyyVySv6yQKF"
@@ -2070,6 +2070,28 @@
     },
     {
       "album": {
+        "name": "Dark Nights",
+        "url": "https://open.spotify.com/album/7oefeNYoUaoZtUd0QKVPZU"
+      },
+      "artists": [
+        {
+          "name": "Jagger",
+          "url": "https://open.spotify.com/artist/2h8jLud8m8iywGms5ANcRL"
+        },
+        {
+          "name": "5lowers",
+          "url": "https://open.spotify.com/artist/0AoKL5HGast5j8YgGRtDD6"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156937,
+      "name": "Dark Nights",
+      "url": "https://open.spotify.com/track/1Z1Tw2q0focggWz4djMhAb"
+    },
+    {
+      "album": {
         "name": "Dedi",
         "url": "https://open.spotify.com/album/0xj9c1S3ncac1wjpgxFiBn"
       },
@@ -2184,6 +2206,28 @@
     },
     {
       "album": {
+        "name": "Different Meanings",
+        "url": "https://open.spotify.com/album/71a1BLN9MDUiX6hpDX00Yv"
+      },
+      "artists": [
+        {
+          "name": "China Charmeleon",
+          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+        },
+        {
+          "name": "AndileAndy",
+          "url": "https://open.spotify.com/artist/6PcHusHP9ow3HrIvqRJDua"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356954,
+      "name": "Different Meanings",
+      "url": "https://open.spotify.com/track/6JYBQ0b0kj89U91vxBzD5C"
+    },
+    {
+      "album": {
         "name": "Different You",
         "url": "https://open.spotify.com/album/0EoAED2djxx2kPF6RgWk89"
       },
@@ -2203,7 +2247,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 419453,
       "name": "Different You",
       "url": "https://open.spotify.com/track/7DKC7x1wGVEhex4r5b0FDC"
@@ -2302,6 +2346,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Be Myself",
+        "url": "https://open.spotify.com/album/1ewQWghR0AV0TnBaMpT0Ml"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525124,
+      "name": "Don't Wanna Be Myself",
+      "url": "https://open.spotify.com/track/5jJFXPFguqo6fZqqGggwuq"
+    },
+    {
+      "album": {
         "name": "Virtuoso",
         "url": "https://open.spotify.com/album/1OOZE1qHZBXcsk5fkXyrWF"
       },
@@ -2389,10 +2451,32 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 433322,
       "name": "Dub Persuit",
       "url": "https://open.spotify.com/track/2mPfLhX920GLW2MYXX1aUK"
+    },
+    {
+      "album": {
+        "name": "Dumisani",
+        "url": "https://open.spotify.com/album/0b4bXrKwNRwGFrO610IH65"
+      },
+      "artists": [
+        {
+          "name": "Ian Kenzof",
+          "url": "https://open.spotify.com/artist/1uijT40SRsvnlbyFa2Zcfa"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424000,
+      "name": "Dumisani - Ethnic Mix",
+      "url": "https://open.spotify.com/track/5s0XtaxO8OlOPBYHyvLfXf"
     },
     {
       "album": {
@@ -2521,6 +2605,24 @@
       "duration_ms": 174581,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/2EM3bVWLU6uOStKrQCoGq7"
+    },
+    {
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/4gBfsymHc04X7eKgIAbuwz"
+      },
+      "artists": [
+        {
+          "name": "TiMO ODV",
+          "url": "https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210720,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/6nAvF4vmANRj76sNX1du0C"
     },
     {
       "album": {
@@ -2659,7 +2761,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 182124,
       "name": "Falling - Radio Mix",
       "url": "https://open.spotify.com/track/3RCSlLil6tsbwjydsBNZxf"
@@ -2907,7 +3009,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 366753,
       "name": "Geist Im Glas",
       "url": "https://open.spotify.com/track/0y8JZmzq8u2qTjyCiTPPvT"
@@ -2991,7 +3093,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 284163,
       "name": "Gonna Keep It",
       "url": "https://open.spotify.com/track/6vBUtiLnf5WcmbVnu0brjy"
@@ -3240,6 +3342,24 @@
     },
     {
       "album": {
+        "name": "Hopeless, Hoping",
+        "url": "https://open.spotify.com/album/3dXGOW99X4uvRWL0Laxt6u"
+      },
+      "artists": [
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228010,
+      "name": "Hopeless, Hoping",
+      "url": "https://open.spotify.com/track/0gjzwbwCfjwTkpXJgx5Zu3"
+    },
+    {
+      "album": {
         "name": "Aluku Records Various Compilation SA Edition, Pt. 3",
         "url": "https://open.spotify.com/album/4aZBSsefMwztLv6fT4XxHB"
       },
@@ -3373,7 +3493,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 168000,
       "name": "I Got What You Need",
       "url": "https://open.spotify.com/track/2FQMAFFoynYKyh6N2eSDf8"
@@ -3740,6 +3860,40 @@
     },
     {
       "album": {
+        "name": "The Ep Before The Album",
+        "url": "https://open.spotify.com/album/0UnYdoPl65YnI97JkAjvW2"
+      },
+      "artists": [
+        {
+          "name": "Soulfreakah",
+          "url": "https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn"
+        },
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/78QMvaGR1j7RSHe1sEnFcZ"
+        },
+        {
+          "name": "Ckenz Voucal",
+          "url": "https://open.spotify.com/artist/6uAnsPI0OwoP9gLqI7cCUm"
+        },
+        {
+          "name": "The Bless",
+          "url": "https://open.spotify.com/artist/0qsSRrzDISpuHOa0bU4pPZ"
+        },
+        {
+          "name": "Vusi Nhlapo",
+          "url": "https://open.spotify.com/artist/0lnG9Y0wMn1kxQbU4LIOsi"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223925,
+      "name": "In The Morning - Radio Edit",
+      "url": "https://open.spotify.com/track/5vU2SaAaNOLsQN2mOfkGwH"
+    },
+    {
+      "album": {
         "name": "Indoda Emadodeni",
         "url": "https://open.spotify.com/album/2CUiYRc6CXta2p1pLkia5p"
       },
@@ -3998,6 +4152,28 @@
     },
     {
       "album": {
+        "name": "Its Possible",
+        "url": "https://open.spotify.com/album/2bB7pKxLneo17ZT0fmrl6q"
+      },
+      "artists": [
+        {
+          "name": "Sediis",
+          "url": "https://open.spotify.com/artist/19t8pcz4HC33dy1MbAkZc9"
+        },
+        {
+          "name": "Shredder SA",
+          "url": "https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392016,
+      "name": "Its Possible",
+      "url": "https://open.spotify.com/track/2cUW4SwMThVmiVFoFVISV0"
+    },
+    {
+      "album": {
         "name": "Jaded (Hypaphonik Derived Mix)",
         "url": "https://open.spotify.com/album/5PPCSO8rXt6RqTslG9IrPl"
       },
@@ -4145,6 +4321,24 @@
       "duration_ms": 430564,
       "name": "Kandongueiro Voador - Extended Mix",
       "url": "https://open.spotify.com/track/7ITYhLCwizzy88TAvQijES"
+    },
+    {
+      "album": {
+        "name": "Keep On Pushin Mama",
+        "url": "https://open.spotify.com/album/0k9UNFvc1tzJ1oTriD7TSU"
+      },
+      "artists": [
+        {
+          "name": "Don Diego",
+          "url": "https://open.spotify.com/artist/4xsPF3eWcrzcFYtZnyuVtY"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326557,
+      "name": "Keep On Pushin Mama",
+      "url": "https://open.spotify.com/track/5TMnCyeexiVqudhDjemtmb"
     },
     {
       "album": {
@@ -4564,6 +4758,24 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/4VuVzSMAl0kgnEeXVtULMI"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286844,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/2QRsDF1kVtaK9iNFh2KthQ"
+    },
+    {
+      "album": {
         "name": "Like A Dream (Enoo Napa Remix)",
         "url": "https://open.spotify.com/album/3RnON1jDs8Gj8PaBNMIzif"
       },
@@ -4756,6 +4968,28 @@
     },
     {
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/01QoLhtw9fRGaQDkVtQdLR"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Jullian Gomes",
+          "url": "https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426398,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/6JMJPX4sm1QEmsKDp18rjZ"
+    },
+    {
+      "album": {
         "name": "Lutar",
         "url": "https://open.spotify.com/album/5bKM4dE8NKTYCg6bvWTYAl"
       },
@@ -4851,7 +5085,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 184776,
       "name": "Make You Go",
       "url": "https://open.spotify.com/track/5AVUynEPVWIi1Ugz9wVKwB"
@@ -4881,6 +5115,28 @@
       "duration_ms": 449491,
       "name": "Mama (Da Capo's Touch)",
       "url": "https://open.spotify.com/track/6BLMoJcHmJiYfFRPKWOaEw"
+    },
+    {
+      "album": {
+        "name": "Mambo Vedu",
+        "url": "https://open.spotify.com/album/2yEFJVnf5vaTn1ctNWUkmo"
+      },
+      "artists": [
+        {
+          "name": "Ele Producer",
+          "url": "https://open.spotify.com/artist/7rFSzvPw2Nfbn650BnJ2Tl"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443912,
+      "name": "Mambo Vedu",
+      "url": "https://open.spotify.com/track/1fRMO9J2tXqo6zlebiRZ9H"
     },
     {
       "album": {
@@ -4979,7 +5235,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 440135,
       "name": "Maybe More - Ralf GUM Main Mix",
       "url": "https://open.spotify.com/track/4AiQP8r6mRtuT8BIfaJabi"
@@ -5345,7 +5601,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 411905,
       "name": "Mount Kilimanjaro",
       "url": "https://open.spotify.com/track/4EFg9pFTJs2Pm2LTtM8k5v"
@@ -5481,6 +5737,28 @@
       "duration_ms": 343414,
       "name": "Muziki Tamu",
       "url": "https://open.spotify.com/track/2yejkesACbQlEGlzZQgpOy"
+    },
+    {
+      "album": {
+        "name": "Mvemvane",
+        "url": "https://open.spotify.com/album/457xvC7V7CIZ6cqAJgXVW2"
+      },
+      "artists": [
+        {
+          "name": "Gil Bokobza",
+          "url": "https://open.spotify.com/artist/61hqfFpaTu0oQO8lHYRBoW"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450581,
+      "name": "Mvemvane",
+      "url": "https://open.spotify.com/track/2bWiI4pTlIsn4pamtZKxoC"
     },
     {
       "album": {
@@ -6190,6 +6468,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/2PzIWsIe5yeZWzu1mMqaXu"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410900,
+      "name": "Pumua",
+      "url": "https://open.spotify.com/track/5Z3oL66VWQykaQCIKt8MzH"
+    },
+    {
+      "album": {
         "name": "Purple Pill",
         "url": "https://open.spotify.com/album/0xBENBp9yTkRO16mX8XlAf"
       },
@@ -6235,6 +6531,28 @@
       "duration_ms": 255121,
       "name": "Queen of Ice - Nora En Pure Club Mix",
       "url": "https://open.spotify.com/track/5VyVQuqtPkKZt1jaXKuQkR"
+    },
+    {
+      "album": {
+        "name": "Ready or Not",
+        "url": "https://open.spotify.com/album/5H6z0FgWv0SVbDfyBJXArg"
+      },
+      "artists": [
+        {
+          "name": "D-Malice",
+          "url": "https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT"
+        },
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Ready or Not",
+      "url": "https://open.spotify.com/track/45DLSAHy8zbrAsrAsKVUdm"
     },
     {
       "album": {
@@ -6443,7 +6761,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 347586,
       "name": "Running After You",
       "url": "https://open.spotify.com/track/1Gf3oteIiv9GN29890BAgO"
@@ -6667,7 +6985,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 340645,
       "name": "See What's Next",
       "url": "https://open.spotify.com/track/3HXEhmHvmq4eMpRiTrFpaj"
@@ -6853,7 +7171,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 172758,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/5Rk1ZtD7VeivnsNO3oKXkF"
@@ -7125,6 +7443,24 @@
       "duration_ms": 419522,
       "name": "Sky With No Stars - Original Mix",
       "url": "https://open.spotify.com/track/6FaYBld6de3GwlyqKfJ41z"
+    },
+    {
+      "album": {
+        "name": "Slide Through Silver",
+        "url": "https://open.spotify.com/album/4f002giozkoEjQONpBZW04"
+      },
+      "artists": [
+        {
+          "name": "Protoculture",
+          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238064,
+      "name": "Slide Through Silver",
+      "url": "https://open.spotify.com/track/0K3EZQ1ruPivNNy12bsG4x"
     },
     {
       "album": {
@@ -7909,7 +8245,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 386125,
       "name": "Time",
       "url": "https://open.spotify.com/track/4tdoRf2LIdhJ8YNwdxkF0K"
@@ -8011,7 +8347,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 434733,
       "name": "Tribal Drums",
       "url": "https://open.spotify.com/track/0IVgGcimUhHhQroMmy78Zn"
@@ -8297,7 +8633,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 370564,
       "name": "Umgido - Original Mix",
       "url": "https://open.spotify.com/track/4TuicKNvQaTEPvH9jrJl7J"
@@ -8720,6 +9056,28 @@
     },
     {
       "album": {
+        "name": "Weh Baba",
+        "url": "https://open.spotify.com/album/6AZ2kzZBVysJtcXIbmzjOg"
+      },
+      "artists": [
+        {
+          "name": "Jabzz Dimitri",
+          "url": "https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c"
+        },
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438442,
+      "name": "Weh Baba",
+      "url": "https://open.spotify.com/track/0ILcrL9V6bMD797mmWvej5"
+    },
+    {
+      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/1MPFnPHuqgkUASIVwOEvAA"
       },
@@ -8981,6 +9339,24 @@
       "duration_ms": 259306,
       "name": "Woza",
       "url": "https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/1IHtiEHCfnPr6VVu8xhezc"
+      },
+      "artists": [
+        {
+          "name": "Lou Wilson",
+          "url": "https://open.spotify.com/artist/1nsw4RdQv97K371J01JjDV"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143188,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/4Pd09YSAxozrd7cDb1hhMg"
     },
     {
       "album": {

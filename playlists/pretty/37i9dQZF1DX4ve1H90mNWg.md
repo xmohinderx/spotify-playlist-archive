@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, KenTheMan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,486 likes - 55 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,491 likes - 55 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 10 | [OVO](https://open.spotify.com/track/3kuZ5jxufyEfu2FmTPPYBw) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [OVO](https://open.spotify.com/album/7s2fJIv8kZhQFslVG5PEgW) | 2:41 |
 | 11 | [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 |
 | 12 | [Trick](https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:07 |
-| 13 | [Overseas](https://open.spotify.com/track/2MEVeSqIju2JRfz4BXv01m) | [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Overseas](https://open.spotify.com/album/0FQrUADkPoq2VDC6NDWpR1) | 3:06 |
+| 13 | [Overseas](https://open.spotify.com/track/2MEVeSqIju2JRfz4BXv01m) | [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Overseas](https://open.spotify.com/album/0FQrUADkPoq2VDC6NDWpR1) | 3:12 |
 | 14 | [Go](https://open.spotify.com/track/6RO5atAIBTNXtRNY9IY3vi) | [Young Vinchy](https://open.spotify.com/artist/5OMWgFiL7MlQ6yt3pC9nJG) | [Best Of Both Worlds](https://open.spotify.com/album/5XfSdIe5eQyLW4FCWFuOIn) | 2:18 |
 | 15 | [THICK \(P\-Valley Remix\)](https://open.spotify.com/track/09Zx4ISPmE9qM8xlOSiRNP) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG) | [P\-Valley: Season 2, Episode 2 \(Music From the Original TV Series\)](https://open.spotify.com/album/6RXp6o6JemzT4UmHlVJMXe) | 2:59 |
 | 16 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 |

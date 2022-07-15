@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 269026,
       "name": "Gardenia",
       "url": "https://open.spotify.com/track/6mWffFIkSHEJaJNSSFlvMR"
@@ -111,7 +111,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233626,
-      "name": "HOLD ME TIGHT",
+      "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/2DCwFuehgK6wiamF8ZjusQ"
     },
     {
@@ -129,7 +129,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193693,
-      "name": "I SAY WHO",
+      "name": "I Say Who",
       "url": "https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x"
     },
     {
@@ -152,6 +152,78 @@
     },
     {
       "album": {
+        "name": "Deadly Drive (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
+      },
+      "artists": [
+        {
+          "name": "Ginji Ito",
+          "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Kazeni Narerunara - Single Version",
+      "url": "https://open.spotify.com/track/6nk9e6hnN2pGJocWoWgE7f"
+    },
+    {
+      "album": {
+        "name": "TWILIGHT ZONE",
+        "url": "https://open.spotify.com/album/30f2PMk23fjPP9oBAILqGo"
+      },
+      "artists": [
+        {
+          "name": "Minako Yoshida",
+          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407400,
+      "name": "Koi Ha Ryusei",
+      "url": "https://open.spotify.com/track/2NGWAXh6sisNpVHIAAlME0"
+    },
+    {
+      "album": {
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/2TAs79aEFZQpGxYwpF7yAo"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u6bd4\u5948 \u30de\u30ea\u30a2",
+          "url": "https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Kokoro No Mama Ni",
+      "url": "https://open.spotify.com/track/5X0xhUWh5d1LltgEPnGl1I"
+    },
+    {
+      "album": {
+        "name": "Deadly Drive (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
+      },
+      "artists": [
+        {
+          "name": "Ginji Ito",
+          "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354746,
+      "name": "Konukaame",
+      "url": "https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0"
+    },
+    {
+      "album": {
         "name": "LAGOON (\u30ea\u30de\u30b9\u30bf\u30fc2017)",
         "url": "https://open.spotify.com/album/33zr4KaPWAo7XtvinSInsf"
       },
@@ -170,7 +242,7 @@
     },
     {
       "album": {
-        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
+        "name": "On The Move",
         "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
       },
       "artists": [
@@ -181,10 +253,46 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 299160,
-      "name": "LETTER TO NEW YORK",
+      "name": "Letter To New York",
       "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
+    },
+    {
+      "album": {
+        "name": "Memorial Rain",
+        "url": "https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW"
+      },
+      "artists": [
+        {
+          "name": "Tatsuhiko Yamamoto",
+          "url": "https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264040,
+      "name": "Misty Lady",
+      "url": "https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J"
+    },
+    {
+      "album": {
+        "name": "Beginning",
+        "url": "https://open.spotify.com/album/36BRn0ckMgu8ePVx2wnun8"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209053,
+      "name": "Modototte Oide Watashi No Jikan",
+      "url": "https://open.spotify.com/track/4D1keJOHZGqct7n3F8LA9G"
     },
     {
       "album": {
@@ -206,7 +314,7 @@
     },
     {
       "album": {
-        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
+        "name": "On The Move",
         "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
       },
       "artists": [
@@ -219,7 +327,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 351520,
-      "name": "ON THE MOVE",
+      "name": "On The Move",
       "url": "https://open.spotify.com/track/4n4x9tHhgUT4BoVhBWMqav"
     },
     {
@@ -235,10 +343,46 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 371226,
       "name": "ON THE SEASHORE",
       "url": "https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b"
+    },
+    {
+      "album": {
+        "name": "SOUTH OF THE BORDER",
+        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
+      },
+      "artists": [
+        {
+          "name": "Yoshitaka Minami",
+          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Pool Side",
+      "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
+    },
+    {
+      "album": {
+        "name": "HORO",
+        "url": "https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R"
+      },
+      "artists": [
+        {
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Ryusei Toshi",
+      "url": "https://open.spotify.com/track/5dcuJcdVq216AlN83S2c2b"
     },
     {
       "album": {
@@ -278,7 +422,7 @@
     },
     {
       "album": {
-        "name": "\u307b\u3046\u308d\u3046",
+        "name": "HORO",
         "url": "https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R"
       },
       "artists": [
@@ -343,7 +487,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 265946,
       "name": "Sunday Afternoon",
       "url": "https://open.spotify.com/track/4eq2ctEy7A37mQm5ao8IS1"
@@ -412,6 +556,24 @@
     },
     {
       "album": {
+        "name": "SOUTH OF THE BORDER",
+        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
+      },
+      "artists": [
+        {
+          "name": "Yoshitaka Minami",
+          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Yakanhikou",
+      "url": "https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T"
+    },
+    {
+      "album": {
         "name": "THRILL[Remaster]",
         "url": "https://open.spotify.com/album/0XzepsIs71Hzyu2FPgvp7A"
       },
@@ -430,24 +592,6 @@
     },
     {
       "album": {
-        "name": "\u30c7\u30c3\u30c9\u30ea\u30a4\u30fb\u30c9\u30e9\u30a4\u30d6 (40\u5468\u5e74\u8a18\u5ff5\u30c7\u30e9\u30c3\u30af\u30b9\u30fb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
-        "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
-      },
-      "artists": [
-        {
-          "name": "Ginji Ito",
-          "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
-        }
-      ],
-      "date_added": "2021-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 354746,
-      "name": "\u3053\u306c\u304b\u96e8",
-      "url": "https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0"
-    },
-    {
-      "album": {
         "name": "A COOL EVENING",
         "url": "https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3"
       },
@@ -459,7 +603,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 367000,
       "name": "\u3053\u306e\u8efd\u3044\u611f\u3058\u304c\u2026",
       "url": "https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE"
@@ -625,7 +769,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 209053,
       "name": "\u30bd\u30d0\u30ab\u30b9\u306e\u3042\u308b\u5c11\u5973",
       "url": "https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx"
@@ -643,7 +787,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 258226,
       "name": "\u30bf\u30d0\u30b3\u30ed\u30fc\u30c9 20",
       "url": "https://open.spotify.com/track/4nUSSxLYymxQo9a6xiYq5M"
@@ -686,24 +830,6 @@
     },
     {
       "album": {
-        "name": "SOUTH OF THE BORDER",
-        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
-      },
-      "artists": [
-        {
-          "name": "Yoshitaka Minami",
-          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
-        }
-      ],
-      "date_added": "2021-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234666,
-      "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
-    },
-    {
-      "album": {
         "name": "\u30e2\u30fc\u30cb\u30f3\u30b0",
         "url": "https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ"
       },
@@ -740,24 +866,6 @@
     },
     {
       "album": {
-        "name": "Memorial Rain",
-        "url": "https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW"
-      },
-      "artists": [
-        {
-          "name": "Tatsuhiko Yamamoto",
-          "url": "https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h"
-        }
-      ],
-      "date_added": "2021-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 264040,
-      "name": "\u30df\u30b9\u30c6\u30a3\u30fc\u30fb\u30ec\u30c7\u30a3\u30fc",
-      "url": "https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J"
-    },
-    {
-      "album": {
         "name": "\u30b9\u30fc\u30d1\u30fc\u30fb\u30de\u30fc\u30b1\u30c3\u30c8",
         "url": "https://open.spotify.com/album/0gL7jDFYfF6QzfEWdofTxF"
       },
@@ -787,7 +895,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 237160,
       "name": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30fb\u30b7\u30fc\u30fb\u30e9\u30a4\u30f3",
       "url": "https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d"
@@ -823,7 +931,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 322533,
       "name": "\u4eca\u9803\u541b\u306f\u30fb\u30fb\u30fb",
       "url": "https://open.spotify.com/track/3mMGulD9cNqpOvfuOMVQQU"
@@ -866,24 +974,6 @@
     },
     {
       "album": {
-        "name": "SOUTH OF THE BORDER",
-        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
-      },
-      "artists": [
-        {
-          "name": "Yoshitaka Minami",
-          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
-        }
-      ],
-      "date_added": "2021-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209040,
-      "name": "\u591c\u9593\u98db\u884c",
-      "url": "https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T"
-    },
-    {
-      "album": {
         "name": "\u60b2\u3057\u3044\u307b\u3069\u304a\u5929\u6c17",
         "url": "https://open.spotify.com/album/4vw5asIQkxqk9ctov9R55e"
       },
@@ -899,42 +989,6 @@
       "duration_ms": 332175,
       "name": "\u5f71\u306b\u306a\u3063\u3066",
       "url": "https://open.spotify.com/track/2iGrc21d7bfvLAdlNeNerI"
-    },
-    {
-      "album": {
-        "name": "MARIA",
-        "url": "https://open.spotify.com/album/2TAs79aEFZQpGxYwpF7yAo"
-      },
-      "artists": [
-        {
-          "name": "\u671d\u6bd4\u5948 \u30de\u30ea\u30a2",
-          "url": "https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM"
-        }
-      ],
-      "date_added": "2021-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229120,
-      "name": "\u5fc3\u306e\u307e\u307e\u306b",
-      "url": "https://open.spotify.com/track/5X0xhUWh5d1LltgEPnGl1I"
-    },
-    {
-      "album": {
-        "name": "TWILIGHT ZONE",
-        "url": "https://open.spotify.com/album/30f2PMk23fjPP9oBAILqGo"
-      },
-      "artists": [
-        {
-          "name": "Minako Yoshida",
-          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
-        }
-      ],
-      "date_added": "2021-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 407400,
-      "name": "\u604b\u306f\u6d41\u661f",
-      "url": "https://open.spotify.com/track/2NGWAXh6sisNpVHIAAlME0"
     },
     {
       "album": {
@@ -992,24 +1046,6 @@
     },
     {
       "album": {
-        "name": "BEGINNING",
-        "url": "https://open.spotify.com/album/36BRn0ckMgu8ePVx2wnun8"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "date_added": "2021-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209053,
-      "name": "\u623b\u3063\u3066\u304a\u3044\u3067\u30fb\u79c1\u306e\u6642\u9593",
-      "url": "https://open.spotify.com/track/4D1keJOHZGqct7n3F8LA9G"
-    },
-    {
-      "album": {
         "name": "SOUTH OF THE BORDER",
         "url": "https://open.spotify.com/album/3RSL6VVmIvyDUvPnCbnLwN"
       },
@@ -1050,24 +1086,6 @@
     },
     {
       "album": {
-        "name": "\u307b\u3046\u308d\u3046",
-        "url": "https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "date_added": "2021-08-21",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
-      "duration_ms": 236053,
-      "name": "\u6d41\u661f\u90fd\u5e02",
-      "url": "https://open.spotify.com/track/5dcuJcdVq216AlN83S2c2b"
-    },
-    {
-      "album": {
         "name": "POCKET PARK",
         "url": "https://open.spotify.com/album/2KdA0eZh5kenzjSKfPAriM"
       },
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 235853,
       "name": "\u7802\u306e\u5973",
       "url": "https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"
@@ -1141,24 +1159,6 @@
       "duration_ms": 310173,
       "name": "\u90fd\u4f1a",
       "url": "https://open.spotify.com/track/51udJYm1BsYbd4lgfK7ba2"
-    },
-    {
-      "album": {
-        "name": "\u30c7\u30c3\u30c9\u30ea\u30a4\u30fb\u30c9\u30e9\u30a4\u30d6 (40\u5468\u5e74\u8a18\u5ff5\u30c7\u30e9\u30c3\u30af\u30b9\u30fb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
-        "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
-      },
-      "artists": [
-        {
-          "name": "Ginji Ito",
-          "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
-        }
-      ],
-      "date_added": "2021-08-21",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
-      "duration_ms": 216000,
-      "name": "\u98a8\u306b\u306a\u308c\u308b\u306a\u3089 - Single Version",
-      "url": "https://open.spotify.com/track/6nk9e6hnN2pGJocWoWgE7f"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8zwfXO8sDE6"

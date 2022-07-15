@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-204 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+207 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Don Lemon](https://open.spotify.com/track/3MZM6vRRO8f459kxgEULg8) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/2Mcpr3klMbn0OOC5sslBUc) | 1:44 | 2022-05-27 |  |
 | [Dreaming](https://open.spotify.com/track/2sAueBql5AeZv5lbgIoCmw) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Dreaming](https://open.spotify.com/album/0OFCOApz7zlibihMfLmnyf) | 2:31 | 2021-12-07 | 2022-05-20 |
 | [Eden Garden](https://open.spotify.com/track/3DWCpXGvN3HdNdyl6pidSO) | [Dilai](https://open.spotify.com/artist/5vczEix1wnWLZ3FeFA6uX4) | [Eden Garden](https://open.spotify.com/album/1ISWQe58Is94DhLVmRZtJG) | 3:48 | 2022-05-20 | 2022-06-03 |
+| [Eden Summer](https://open.spotify.com/track/4ovCrCSU40yOKrvEeEoIL1) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Eden Summer](https://open.spotify.com/album/5T5tIzfq1WUKbNfZNq45fr) | 2:48 | 2022-07-15 |  |
 | [efímero](https://open.spotify.com/track/5SRg6ipwt6uYyAur2HARPe) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [efímero](https://open.spotify.com/album/4nZISHOozkmb87YDkpe5eO) | 3:18 | 2021-12-07 |  |
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-04-15 |  |
 | [Ender](https://open.spotify.com/track/0mE3vnX3Jl8lPrw616n3qY) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu) | [Goblin](https://open.spotify.com/album/5HuYg16CS7wK0qDa6Y1K7V) | 2:44 | 2021-12-07 | 2022-05-20 |
@@ -141,6 +142,7 @@
 | [Ohio](https://open.spotify.com/track/1yig3lUBlHAjXgDiFrjusj) | [TakeOff](https://open.spotify.com/artist/7byR68EzAwuOWkR0pwZ6DK) | [Ohio](https://open.spotify.com/album/5PFfLTv3qf8QEWcOjvT3hy) | 1:50 | 2021-12-07 | 2022-05-27 |
 | [On Repeat](https://open.spotify.com/track/3fY4AgYbIUJZvz7hl0326O) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [On Repeat](https://open.spotify.com/album/14CoxikyUkUvWAp9itXBjS) | 2:30 | 2021-12-07 |  |
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2021-12-07 |  |
+| [Open Skies](https://open.spotify.com/track/5lP90jpZwrWDr9KoFmNQux) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [muun](https://open.spotify.com/artist/6R0LlvMD1ig3Hplf2IyhRf) | [Open Skies](https://open.spotify.com/album/7GzoQgQRZiLz14ByYZOIPN) | 2:06 | 2022-07-15 |  |
 | [Orchards](https://open.spotify.com/track/4NNojnTmAd2ayvXOl13t6m) | [ghost talk](https://open.spotify.com/artist/63vxoykPG9d9640xdt86KB) | [Orchards](https://open.spotify.com/album/6Xjkk8rEdbP6LhrWp5uofy) | 2:13 | 2022-05-13 |  |
 | [overcast](https://open.spotify.com/track/5HhaJtn3ilA7rjQHctEI1y) | [Sophia Lopez](https://open.spotify.com/artist/6cgDJHmQSZ3o3jVAQA7lKp) | [overcast](https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF) | 2:00 | 2021-12-07 |  |
 | [Pacific Ave](https://open.spotify.com/track/6G0L1J6Vg2kY2HHjdvKJ8E) | [Peaches & Boo](https://open.spotify.com/artist/0jts2tk2AOzVPENYEBK4TT) | [Pacific Ave](https://open.spotify.com/album/0N8NoIShc8iKKuLeaIEeEc) | 1:26 | 2021-12-07 | 2022-05-20 |
@@ -196,6 +198,7 @@
 | [triton](https://open.spotify.com/track/6rDJ58SbxAL9cwBHOeid1w) | [mt\. koala](https://open.spotify.com/artist/5ryb7Zr3TEu4mGQ0Yhns9M) | [wilderness](https://open.spotify.com/album/3PIXBJReX3ZgenQVpO63Rl) | 1:55 | 2021-12-07 | 2022-05-27 |
 | [True Colors](https://open.spotify.com/track/3Xrw2bkSR6TmHs5xE57fRE) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 2:28 | 2021-12-07 |  |
 | [Tunnel](https://open.spotify.com/track/4yyYltMHYoVhOQAkBAc8bq) | [Dominic Mena](https://open.spotify.com/artist/6BL0Z3L7QxNmhbZAcYGH6q) | [Tunnel](https://open.spotify.com/album/0ROTvBg3yGoTf0FFcFxryc) | 2:07 | 2021-12-07 |  |
+| [Two worlds](https://open.spotify.com/track/2kUDtQi9zHrL9eOBaQ2Fqr) | [Pthalo](https://open.spotify.com/artist/1S5hT3KzW3A1BTCYH36btB), [Ntz Prod.](https://open.spotify.com/artist/1ccA0mpefambHcCa8DjZM9), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Two worlds](https://open.spotify.com/album/1gpac0V7dfztN4gZN3tTsF) | 2:12 | 2022-07-15 |  |
 | [Un Poco Más](https://open.spotify.com/track/3zfLOTXWuj9wbQADkr8EyB) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Un Poco Más](https://open.spotify.com/album/0hf7N5IDkilIrFy6bcM2Rn) | 2:25 | 2021-12-07 |  |
 | [Under The Waterfall Mist](https://open.spotify.com/track/4wewUPcd9IlG5kFuZ53PIR) | [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8), [Vannorte](https://open.spotify.com/artist/61ZwgexUIZqT7ymSPsCW0H) | [Under The Waterfall Mist](https://open.spotify.com/album/58l7zjlUwdeaUBlmLFDKtr) | 3:00 | 2022-06-17 |  |
 | [underneath the rain](https://open.spotify.com/track/6EruekpR534eGN50w9u8eF) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [wrongnumber](https://open.spotify.com/artist/3jU1KxwkbO4pQfJblgxUVi) | [underneath the rain](https://open.spotify.com/album/6yk5dT0SLFF74hn0PEI6j2) | 2:32 | 2022-05-20 | 2022-05-27 |

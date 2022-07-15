@@ -2389,7 +2389,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 213298,
       "name": "Better",
       "url": "https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K"
@@ -15692,6 +15692,28 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/15PdggN6xD2mtIE9odL5y2"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198125,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0rY4VH4Gztiwi6uLGaQcdP"
+    },
+    {
+      "album": {
         "name": "Milavain (African Skies) [with TRESOR & Sam Feldt]",
         "url": "https://open.spotify.com/album/3FuXaHXQvMQXMNWqHgo5Up"
       },
@@ -18401,6 +18423,24 @@
       "duration_ms": 149722,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/0Q4DIuuJWNTAcm5GAqN1GU"
+    },
+    {
+      "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/0E9PynupmO7ddqItC1Cy58"
+      },
+      "artists": [
+        {
+          "name": "Venteris",
+          "url": "https://open.spotify.com/artist/2pKmFxy1mDDIbBmZtKeQiu"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/343jexIm0ctg0kl2G2XDMC"
     },
     {
       "album": {
@@ -23541,7 +23581,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 180952,
       "name": "Talkin' Drums",
       "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"

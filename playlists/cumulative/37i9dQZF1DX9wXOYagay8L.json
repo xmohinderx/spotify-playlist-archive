@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy?si=OyCbibFvSnuWSmsrRUrLxQ\">Thandi Ntuli</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=oq2ijsCBQEy6ace2WNnU4A\">Nakhane</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -110,6 +110,24 @@
     },
     {
       "album": {
+        "name": "Andizenzi",
+        "url": "https://open.spotify.com/album/7ohfjw7a9nVzeMdadcX3yw"
+      },
+      "artists": [
+        {
+          "name": "Tee Tee",
+          "url": "https://open.spotify.com/artist/4aBFsMUKrFmmWErhjffHBW"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250512,
+      "name": "Andizenzi",
+      "url": "https://open.spotify.com/track/2ctMtVQcjzsSnMQAOCse9R"
+    },
+    {
+      "album": {
         "name": "Angsakhoni",
         "url": "https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO"
       },
@@ -147,6 +165,28 @@
       "duration_ms": 177594,
       "name": "Asambeni",
       "url": "https://open.spotify.com/track/7Lr10Tr4OI5SVin9D9VAhf"
+    },
+    {
+      "album": {
+        "name": "Backroom",
+        "url": "https://open.spotify.com/album/7I6PNSnQ2ScimsJGZ0GnSv"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250786,
+      "name": "Backroom",
+      "url": "https://open.spotify.com/track/1WBvbilb4UNMD8vxNbgZyp"
     },
     {
       "album": {
@@ -362,6 +402,32 @@
     },
     {
       "album": {
+        "name": "Dilika (feat. Ze2 and Vernotile)",
+        "url": "https://open.spotify.com/album/4HlXyQno7wf18yG01OgKqJ"
+      },
+      "artists": [
+        {
+          "name": "MBzet",
+          "url": "https://open.spotify.com/artist/2cyRBCjNeRLJTudAyD12aM"
+        },
+        {
+          "name": "Vernotile",
+          "url": "https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn"
+        },
+        {
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279733,
+      "name": "Dilika (feat. Ze2 and Vernotile)",
+      "url": "https://open.spotify.com/track/4wS2q6xZmNhkQVNHrRdQFn"
+    },
+    {
+      "album": {
         "name": "Dilikajele",
         "url": "https://open.spotify.com/album/7hPYzccCBmseUpYf9vW6Iz"
       },
@@ -501,7 +567,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 244374,
       "name": "Emakhaya (feat. Kwesta & Sino Msolo)",
       "url": "https://open.spotify.com/track/2Z78OHuELgILPW1k97rlsi"
@@ -625,6 +691,24 @@
       "duration_ms": 127111,
       "name": "Faith",
       "url": "https://open.spotify.com/track/2BdVXGDBqMBLF8PCEqfYrL"
+    },
+    {
+      "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/2IkncK5hJ3uwUEjEnkwS3b"
+      },
+      "artists": [
+        {
+          "name": "LAE",
+          "url": "https://open.spotify.com/artist/5tEuaS1APkI90VOicB8UR6"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259114,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/0bcBHB3JTd529JBubx2ZLr"
     },
     {
       "album": {
@@ -1794,6 +1878,24 @@
     },
     {
       "album": {
+        "name": "Lefase Ep",
+        "url": "https://open.spotify.com/album/2AqD6lldqfQoS1hdCtM6dJ"
+      },
+      "artists": [
+        {
+          "name": "Tshepang Ramoba",
+          "url": "https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256476,
+      "name": "Lerato",
+      "url": "https://open.spotify.com/track/4dFL47dfBoAbuvpu2SsKyi"
+    },
+    {
+      "album": {
         "name": "Lilizela",
         "url": "https://open.spotify.com/album/0ADNDen7YgetZ2TQCVFAZz"
       },
@@ -1947,7 +2049,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 421207,
       "name": "Mama",
       "url": "https://open.spotify.com/track/32EOILWXWu3WGo56PmM9UG"
@@ -2360,6 +2462,28 @@
     },
     {
       "album": {
+        "name": "Ngentombi (feat. Vernotile)",
+        "url": "https://open.spotify.com/album/0nA6dCfJ4ZqHjcyd3B97hB"
+      },
+      "artists": [
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Vernotile",
+          "url": "https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296750,
+      "name": "Ngentombi (feat. Vernotile)",
+      "url": "https://open.spotify.com/track/6uvWChTYALlp152oBW7Zq1"
+    },
+    {
+      "album": {
         "name": "Ngikhathele",
         "url": "https://open.spotify.com/album/15kzAx0NLMjHxBbQxgjk9Y"
       },
@@ -2575,7 +2699,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 273813,
       "name": "Nqaba Yam",
       "url": "https://open.spotify.com/track/3HGXtw26J6a1cRM9ZU1wq4"
@@ -3049,6 +3173,28 @@
       "duration_ms": 210180,
       "name": "Shiluba",
       "url": "https://open.spotify.com/track/7h9v1OoKXTlu7nba8HBhfv"
+    },
+    {
+      "album": {
+        "name": "Shining Star",
+        "url": "https://open.spotify.com/album/3YXKSpBvxqaLgw39mtV8gg"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Brothers",
+          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
+        },
+        {
+          "name": "Samthing Soweto",
+          "url": "https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261428,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/3hpWzp9KP0DWe1BprlE0bl"
     },
     {
       "album": {
@@ -3643,6 +3789,24 @@
       "duration_ms": 192024,
       "name": "Uyajola",
       "url": "https://open.spotify.com/track/6XhB177w4FLohKRYMNkjRA"
+    },
+    {
+      "album": {
+        "name": "Uyathandwa Ekhaya",
+        "url": "https://open.spotify.com/album/4idpQmG6ZJti26oOk5MrqJ"
+      },
+      "artists": [
+        {
+          "name": "Digital Sangoma",
+          "url": "https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321391,
+      "name": "Uyathandwa Ekhaya",
+      "url": "https://open.spotify.com/track/181yYlqAlC21owkcZzajGE"
     },
     {
       "album": {

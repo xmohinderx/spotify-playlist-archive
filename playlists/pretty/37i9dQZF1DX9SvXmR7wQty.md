@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Gros Big
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,601 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,603 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 27 | [Rowzin](https://open.spotify.com/track/0YhTHQ37vdhsNbienW9YTB) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [Jwles](https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8) | [Rowzin](https://open.spotify.com/album/15oSQFCbYUQ2Jgo9slqOOf) | 2:32 |
 | 28 | [RAPPEL](https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [RAPPEL](https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD) | 3:37 |
 | 29 | [Vertige](https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Vertige](https://open.spotify.com/album/2yoSmS2boP6CbLhUlZPciN) | 3:45 |
-| 30 | [Tipatshimushtunan](https://open.spotify.com/track/1KZZIDJ4DyS4dnhPyXdOw0) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Violent Ground](https://open.spotify.com/artist/4NggpgL0QyEmrdYQTrXUdy) | [Tipatshimushtunan](https://open.spotify.com/album/6N3926ij2Mfo7hZF41Rlca) | 3:40 |
+| 30 | [Tipatshimushtunan](https://open.spotify.com/track/1KZZIDJ4DyS4dnhPyXdOw0) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Allan Nabinacaboo](https://open.spotify.com/artist/18oZ6SjjkZ57N1kZZ6u2hT) | [Tipatshimushtunan](https://open.spotify.com/album/6N3926ij2Mfo7hZF41Rlca) | 3:40 |
 | 31 | [Automatique](https://open.spotify.com/track/7rmWv5msGQqUx51NL0V4zq) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Automatique](https://open.spotify.com/album/3Z9MecxynRTObHU0qm5ak0) | 2:21 |
 | 32 | [Vamos](https://open.spotify.com/track/5QowMIujytktMDC8pktNXH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [La TN \(Team Naps\)](https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI) | 4:01 |
 | 33 | [Bye Bye](https://open.spotify.com/track/3ym3QmdWVeugFq99ml1lt5) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb) | [Bye Bye](https://open.spotify.com/album/7jn4kEZDYWLmpHKy1IFF2A) | 2:52 |

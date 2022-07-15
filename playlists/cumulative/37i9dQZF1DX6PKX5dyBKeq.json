@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The best of UK Rap & Drill.  Cover: Jimmy ",
+  "description": "The best of UK Rap & Drill.  Cover: AJ Tracey",
   "name": "Rap UK",
   "published_playlist_ids": [
     "5FuQUpQ2GSOITS1tCcS7A2"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 137895,
       "name": "1989",
       "url": "https://open.spotify.com/track/5LgopqF6Rqfp8cWdj9XzCM"
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
@@ -2310,6 +2310,24 @@
     },
     {
       "album": {
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
+      },
+      "artists": [
+        {
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134142,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
+    },
+    {
+      "album": {
         "name": "Badnis",
         "url": "https://open.spotify.com/album/54UedcLI2rvaMEtWin2yzi"
       },
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 123932,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/1idQpK6A2SotHKjw2AotLS"
@@ -5151,7 +5169,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 187826,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/3BzUXih3wwnalV34k1arHj"
@@ -7757,7 +7775,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 145711,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0nmW4fvqTwUDjlz13MNpJU"
@@ -8799,6 +8817,32 @@
       "duration_ms": 207428,
       "name": "Freezing",
       "url": "https://open.spotify.com/track/5YhrmpMazRQuZ1OAmFUEIR"
+    },
+    {
+      "album": {
+        "name": "Frenches",
+        "url": "https://open.spotify.com/album/2GJsauhPIzgi871o1r1qK6"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        },
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        },
+        {
+          "name": "Art de rue",
+          "url": "https://open.spotify.com/artist/1b27lFoOmpecfaxZGgprtA"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180700,
+      "name": "Frenches",
+      "url": "https://open.spotify.com/track/6i9JtGfEJmQuz2aftQsgT1"
     },
     {
       "album": {
@@ -17712,6 +17756,46 @@
     },
     {
       "album": {
+        "name": "Rinse It",
+        "url": "https://open.spotify.com/album/0d1R8xZGWRuy2DYGlDEHzd"
+      },
+      "artists": [
+        {
+          "name": "Taze",
+          "url": "https://open.spotify.com/artist/4I3R4hvQktono9Cu8gfSig"
+        },
+        {
+          "name": "Horrid1",
+          "url": "https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149565,
+      "name": "Rinse It",
+      "url": "https://open.spotify.com/track/3TQqwd6os8FB4GA5DTfD4z"
+    },
+    {
+      "album": {
+        "name": "Rise & Grind",
+        "url": "https://open.spotify.com/album/07B0TaJKiDEFJP2WxVyH9b"
+      },
+      "artists": [
+        {
+          "name": "Temz",
+          "url": "https://open.spotify.com/artist/3ksrra1WHKgGrr7ss2BYYg"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Rise & Grind",
+      "url": "https://open.spotify.com/track/3DeSVEUDiHWb7IbZSO6WoH"
+    },
+    {
+      "album": {
         "name": "Rise & Prosper",
         "url": "https://open.spotify.com/album/6OtAqpn40leLHyV8wlZnDK"
       },
@@ -19035,7 +19119,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 132434,
       "name": "Skint Gang",
       "url": "https://open.spotify.com/track/0dDSjy24Khltc4vWfLSL1W"
@@ -19942,6 +20026,28 @@
     },
     {
       "album": {
+        "name": "Streets Don't Love You",
+        "url": "https://open.spotify.com/album/1qCoZgTDAAYFp0bBh1YpFh"
+      },
+      "artists": [
+        {
+          "name": "wewantwraiths",
+          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176227,
+      "name": "Streets Don't Love You",
+      "url": "https://open.spotify.com/track/6bhqJ5yX9hVb3S6teuds0p"
+    },
+    {
+      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/7yUEVGA5lqFZ5nTmZrcTAk"
       },
@@ -20415,7 +20521,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 177464,
       "name": "Talking Stage",
       "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"

@@ -1,31 +1,15 @@
 {
-  "description": "Les hits dancehall du moment. Photo : Its Natascha",
-  "num_followers": 103540,
+  "description": "Les hits dancehall du moment. Photo : Kalash",
+  "num_followers": 103624,
   "original_name": "Dancehall Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzMTI2MCwwMDAwMDBjOTAwMDAwMTgxZGFhZTM5ZTYwMDAwMDE4MWNmZDgyZjc2",
+  "snapshot_id": "MTY1NzgzNjA2MCwwMDAwMDBjYTAwMDAwMTgxZmViYWJkZmMwMDAwMDE4MWZjYzc0MWU5",
   "tracks": [
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Get Nasty",
-        "url": "https://open.spotify.com/album/60bAgobaL5KdkJ8tC0M7r0"
-      },
-      "artists": [
-        {
-          "name": "Its Natascha",
-          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
-        }
-      ],
-      "duration_ms": 137016,
-      "name": "Get Nasty",
-      "url": "https://open.spotify.com/track/2nmOykp8PBne3zvqRU3bkQ"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Tombolo",
         "url": "https://open.spotify.com/album/5x2zkoZogYhBNF6pYJIzk3"
@@ -45,51 +29,27 @@
       "url": "https://open.spotify.com/track/7e2vCAtcYXuM8JOUqIZ9GQ"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Bad (Latin Remix)",
-        "url": "https://open.spotify.com/album/4RYR5yNVhoYnCes9n949qP"
+        "name": "M\u00e9t\u00e9 Kow",
+        "url": "https://open.spotify.com/album/6BuJa09mSXh6yx9QpH55Ab"
       },
       "artists": [
         {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+          "name": "Lagess",
+          "url": "https://open.spotify.com/artist/5brOruoItuGUMISGRDOzNq"
         },
         {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        },
-        {
-          "name": "Kafu Banton",
-          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+          "name": "DJ Digital",
+          "url": "https://open.spotify.com/artist/66aQVAZJUg9c4ZNOQaxjvN"
         }
       ],
-      "duration_ms": 203636,
-      "name": "Bad (Latin Remix)",
-      "url": "https://open.spotify.com/track/5GoYi5Nx1ImQTjrCxVkwuk"
+      "duration_ms": 145000,
+      "name": "M\u00e9t\u00e9 Kow",
+      "url": "https://open.spotify.com/track/7BwfjietX7YEXECGi49z5M"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/2ByFERdFOCwLIyxXfz1an5"
-      },
-      "artists": [
-        {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/7dNKk2V4bD0MXdBhh1PLmR"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Roulman",
         "url": "https://open.spotify.com/album/1YsiqO5UH3bKIV37dwdcBS"
@@ -117,27 +77,67 @@
       "url": "https://open.spotify.com/track/6kuEgsXZ5KjidJfsq6hMFV"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "M\u00e9t\u00e9 Kow",
-        "url": "https://open.spotify.com/album/6BuJa09mSXh6yx9QpH55Ab"
+        "name": "Bad (Latin Remix)",
+        "url": "https://open.spotify.com/album/4RYR5yNVhoYnCes9n949qP"
       },
       "artists": [
         {
-          "name": "Lagess",
-          "url": "https://open.spotify.com/artist/5brOruoItuGUMISGRDOzNq"
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
         },
         {
-          "name": "DJ Digital",
-          "url": "https://open.spotify.com/artist/66aQVAZJUg9c4ZNOQaxjvN"
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
         }
       ],
-      "duration_ms": 145000,
-      "name": "M\u00e9t\u00e9 Kow",
-      "url": "https://open.spotify.com/track/7BwfjietX7YEXECGi49z5M"
+      "duration_ms": 203636,
+      "name": "Bad (Latin Remix)",
+      "url": "https://open.spotify.com/track/5GoYi5Nx1ImQTjrCxVkwuk"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Get Nasty",
+        "url": "https://open.spotify.com/album/60bAgobaL5KdkJ8tC0M7r0"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        }
+      ],
+      "duration_ms": 137016,
+      "name": "Get Nasty",
+      "url": "https://open.spotify.com/track/2nmOykp8PBne3zvqRU3bkQ"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/2vxDwrcRdSzKfBFWuQA5pH"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/3DYcM56i1YQ410v8jv54pK"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Miss & Mr",
         "url": "https://open.spotify.com/album/6prBtCqqHyInlikYG3XyUa"
@@ -157,87 +157,23 @@
       "url": "https://open.spotify.com/track/6gc4MOrOElugiJh2I1uL1N"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Gou (feat. Maurane Voyer)",
-        "url": "https://open.spotify.com/album/5y4H7p0msZzx5Q3Gh7tFny"
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/2ByFERdFOCwLIyxXfz1an5"
       },
       "artists": [
         {
-          "name": "Lu City",
-          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
-        },
-        {
-          "name": "Maurane Voyer",
-          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
         }
       ],
-      "duration_ms": 237647,
-      "name": "Gou (feat. Maurane Voyer)",
-      "url": "https://open.spotify.com/track/3NLhKzG3abdgcYYkcI3eK6"
+      "duration_ms": 122400,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/7dNKk2V4bD0MXdBhh1PLmR"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "She Knows",
-        "url": "https://open.spotify.com/album/5fQkj4PKq7ZbSrlCTLKsSH"
-      },
-      "artists": [
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Dj Glad",
-          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
-        }
-      ],
-      "duration_ms": 121269,
-      "name": "She Knows",
-      "url": "https://open.spotify.com/track/4dst3v9IrkOe59bywDmyNL"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Wordle Riddim",
-        "url": "https://open.spotify.com/album/5Qzyi64m3ak0GXtcd5bemz"
-      },
-      "artists": [
-        {
-          "name": "Pop Style",
-          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
-        },
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        }
-      ],
-      "duration_ms": 146181,
-      "name": "Dancehall",
-      "url": "https://open.spotify.com/track/2sCG5Iwv9GdYNViAs5b7Gy"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Slap",
-        "url": "https://open.spotify.com/album/7lieUHWGYUrAm8lC7BVhV5"
-      },
-      "artists": [
-        {
-          "name": "Its Natascha",
-          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
-        },
-        {
-          "name": "Joli Rouge Sound",
-          "url": "https://open.spotify.com/artist/6Pwx5SQ0bBlpMxgx7RHVyM"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Slap",
-      "url": "https://open.spotify.com/track/5CwSPRRv1pgwekI2OjT8D7"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Ya Skin Fit",
         "url": "https://open.spotify.com/album/7as7BKLUNomHcfn8ig0yXs"
@@ -257,7 +193,123 @@
       "url": "https://open.spotify.com/track/2atvj9otOqIen4CELIbaR0"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Dancehall Wine",
+        "url": "https://open.spotify.com/album/6wW1nEfVxqFVjJpeAXEKQO"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "Dancehall Wine",
+      "url": "https://open.spotify.com/track/6ra6I1zN1PXRhTocLdaIfo"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Basshall Session #2",
+        "url": "https://open.spotify.com/album/0cdUaCVsElmye5dcLAc70P"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Eichem",
+          "url": "https://open.spotify.com/artist/7wqVyRmXhkLoe0CAMPtHMC"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "Basshall Session #2",
+      "url": "https://open.spotify.com/track/3mgByL0PjK4sLv0Itqjb5b"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "She Knows",
+        "url": "https://open.spotify.com/album/5fQkj4PKq7ZbSrlCTLKsSH"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        }
+      ],
+      "duration_ms": 121269,
+      "name": "She Knows",
+      "url": "https://open.spotify.com/track/4dst3v9IrkOe59bywDmyNL"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Slap",
+        "url": "https://open.spotify.com/album/7lieUHWGYUrAm8lC7BVhV5"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        },
+        {
+          "name": "Joli Rouge Sound",
+          "url": "https://open.spotify.com/artist/6Pwx5SQ0bBlpMxgx7RHVyM"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Slap",
+      "url": "https://open.spotify.com/track/5CwSPRRv1pgwekI2OjT8D7"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Gou (feat. Maurane Voyer)",
+        "url": "https://open.spotify.com/album/5y4H7p0msZzx5Q3Gh7tFny"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        },
+        {
+          "name": "Maurane Voyer",
+          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
+        }
+      ],
+      "duration_ms": 237647,
+      "name": "Gou (feat. Maurane Voyer)",
+      "url": "https://open.spotify.com/track/3NLhKzG3abdgcYYkcI3eK6"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Dollybody Summa Riddim",
+        "url": "https://open.spotify.com/album/4oRqWHVZsbONAculYBkkRk"
+      },
+      "artists": [
+        {
+          "name": "Konsequence Muzik",
+          "url": "https://open.spotify.com/artist/4QURTqt2mFL6KBXkTPxjHM"
+        },
+        {
+          "name": "BADDA GENERAL",
+          "url": "https://open.spotify.com/artist/5JfefD2FuAWBB2gDSyfGUf"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "Gyal Dem Sugar Daddy",
+      "url": "https://open.spotify.com/track/3QgZXXatEtMDSQvVLd5Bu0"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Throwback (feat. Jnr Choi & Blackway)",
         "url": "https://open.spotify.com/album/1d4aZ0J5JQpUTCr9IH4xkk"
@@ -281,23 +333,7 @@
       "url": "https://open.spotify.com/track/5IGJfLJRtJ5GYlQuOi2pBy"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/232Cj6dreD65MStuTs1yIN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Aylies",
-          "url": "https://open.spotify.com/artist/5aqWI4xTCVhwGW1MmYEomT"
-        }
-      ],
-      "duration_ms": 187188,
-      "name": "Mojo",
-      "url": "https://open.spotify.com/track/6kPpbxAtg5QNDGkgvWR30I"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "World Whine",
         "url": "https://open.spotify.com/album/0dXwXUOqgIiPDuq6rgqyYi"
@@ -317,59 +353,23 @@
       "url": "https://open.spotify.com/track/7d04AeR7by0s0g8tA8P28T"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Dancehall Wine",
-        "url": "https://open.spotify.com/album/6wW1nEfVxqFVjJpeAXEKQO"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/232Cj6dreD65MStuTs1yIN"
       },
       "artists": [
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Alicia Aylies",
+          "url": "https://open.spotify.com/artist/5aqWI4xTCVhwGW1MmYEomT"
         }
       ],
-      "duration_ms": 209345,
-      "name": "Dancehall Wine",
-      "url": "https://open.spotify.com/track/6ra6I1zN1PXRhTocLdaIfo"
+      "duration_ms": 187188,
+      "name": "Mojo",
+      "url": "https://open.spotify.com/track/6kPpbxAtg5QNDGkgvWR30I"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Sweet Bounce",
-        "url": "https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3"
-      },
-      "artists": [
-        {
-          "name": "DJ Frass",
-          "url": "https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 96018,
-      "name": "Sweet Bounce",
-      "url": "https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/5EJsDFoL9jqVOsCS2UnXil"
-      },
-      "artists": [
-        {
-          "name": "Lamboginny",
-          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
-        }
-      ],
-      "duration_ms": 132310,
-      "name": "Count Your Blessings",
-      "url": "https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Para Bellum",
         "url": "https://open.spotify.com/album/4N2vTsNIB0calqg7UWXxxu"
@@ -389,7 +389,43 @@
       "url": "https://open.spotify.com/track/4nRBgPceAv04r19I9Xn3Tk"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Sweet Bounce",
+        "url": "https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3"
+      },
+      "artists": [
+        {
+          "name": "DJ Frass",
+          "url": "https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 96018,
+      "name": "Sweet Bounce",
+      "url": "https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Ki Manny\u00e9",
+        "url": "https://open.spotify.com/album/3FQFrBJp9mPskgLIX5TShG"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "Ki Manny\u00e9",
+      "url": "https://open.spotify.com/track/0v391pPJXysSBHuq94eKeS"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/1aUbkV0ro5B4f2HJMd2FMY"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/7gLBmiTRzVqJ9curo0dj1N"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Sos",
         "url": "https://open.spotify.com/album/7bgThdCTdoXHAIGsOgbmHq"
@@ -437,39 +473,23 @@
       "url": "https://open.spotify.com/track/0NvwdECwRxe8avnKphwO5o"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Ki Manny\u00e9",
-        "url": "https://open.spotify.com/album/3FQFrBJp9mPskgLIX5TShG"
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/5EJsDFoL9jqVOsCS2UnXil"
       },
       "artists": [
         {
-          "name": "Lu City",
-          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+          "name": "Lamboginny",
+          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
         }
       ],
-      "duration_ms": 173465,
-      "name": "Ki Manny\u00e9",
-      "url": "https://open.spotify.com/track/0v391pPJXysSBHuq94eKeS"
+      "duration_ms": 132310,
+      "name": "Count Your Blessings",
+      "url": "https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Super Bae",
-        "url": "https://open.spotify.com/album/1Snpt0fbUYC6A0q7HTYqfr"
-      },
-      "artists": [
-        {
-          "name": "X-Man",
-          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
-        }
-      ],
-      "duration_ms": 184315,
-      "name": "Super Bae",
-      "url": "https://open.spotify.com/track/5uiSL5KX6qdvNnaDvpAKHq"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Back Shot",
         "url": "https://open.spotify.com/album/6fnk7levEjdcpdkSNTfUis"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/76hdc5WUNauUx5xQkwLZUU"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Stand Firm",
         "url": "https://open.spotify.com/album/17OIKPVlA5sZ7GlIZ4mcCy"
@@ -505,183 +525,7 @@
       "url": "https://open.spotify.com/track/6nphDFw2CnNspvwyswNv69"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 155307,
-      "name": "Can't Anymore",
-      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 171092,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Govern",
-        "url": "https://open.spotify.com/album/33RN9MnEwqH0CwKyZgk1LD"
-      },
-      "artists": [
-        {
-          "name": "Prince Swanny",
-          "url": "https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm"
-        }
-      ],
-      "duration_ms": 181394,
-      "name": "Govern",
-      "url": "https://open.spotify.com/track/1Kmw6jCOBXFzJtZpELdNdd"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Hard & Strong",
-        "url": "https://open.spotify.com/album/5nm7V9dkjdXJOQf3mzwM3b"
-      },
-      "artists": [
-        {
-          "name": "Its Natascha",
-          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Hard & Strong",
-      "url": "https://open.spotify.com/track/4H6bayoWvTAzisSElY4XOO"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Buss Out",
-        "url": "https://open.spotify.com/album/5EDfw383RolFVbzUXCAVSm"
-      },
-      "artists": [
-        {
-          "name": "CRAAZY",
-          "url": "https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd"
-        },
-        {
-          "name": "WAH WAAH",
-          "url": "https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG"
-        }
-      ],
-      "duration_ms": 164787,
-      "name": "Buss Out",
-      "url": "https://open.spotify.com/track/2zr3g8dwrsRc30SXAYJjnv"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Empreinte",
-        "url": "https://open.spotify.com/album/2d3dlA16tR1IgxoJhkGrmv"
-      },
-      "artists": [
-        {
-          "name": "Pix'L",
-          "url": "https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA"
-        },
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "MOOV",
-      "url": "https://open.spotify.com/track/76koWWOne981lr5gxbzH2O"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Ina Dancehall",
-        "url": "https://open.spotify.com/album/1CXRgqPTB60bNC9AXtXzZX"
-      },
-      "artists": [
-        {
-          "name": "DJ Oneshot",
-          "url": "https://open.spotify.com/artist/5HftKAv6XJAKVtIZZ1ybf2"
-        },
-        {
-          "name": "Hayvee",
-          "url": "https://open.spotify.com/artist/4q2VTTo7isKeFWMgunj5mt"
-        },
-        {
-          "name": "WISHANN ASMA",
-          "url": "https://open.spotify.com/artist/3MvZWIRVvQa4tFGyTHi7pd"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Ina Dancehall",
-      "url": "https://open.spotify.com/track/6pihx7G891zvqQ3tUQ1tcP"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Section",
-        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Section",
-      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Ami + +",
-        "url": "https://open.spotify.com/album/6kGZVP8zR6tZGzz0QKVJJK"
-      },
-      "artists": [
-        {
-          "name": "Were-vana",
-          "url": "https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl"
-        }
-      ],
-      "duration_ms": 164092,
-      "name": "Ami + +",
-      "url": "https://open.spotify.com/track/1C8GLU188MZJGK2YKFVfbd"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Ah wa do dem",
-        "url": "https://open.spotify.com/album/2H6Si7tmU9EdlKxQl7AoGA"
-      },
-      "artists": [
-        {
-          "name": "Tiwony",
-          "url": "https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB"
-        }
-      ],
-      "duration_ms": 167902,
-      "name": "AH WA DO DEM",
-      "url": "https://open.spotify.com/track/0mjsPJT6SMwpQvIRHwvU3W"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Sunday to Sunday",
         "url": "https://open.spotify.com/album/3EKp2KBJynvkjkUd8horSE"
@@ -705,31 +549,151 @@
       "url": "https://open.spotify.com/track/2gk44xsMpggnkPY3TgvY19"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Genghis Khan",
-        "url": "https://open.spotify.com/album/0cnRZoKx2JmGyVftNlU5zF"
+        "name": "Govern",
+        "url": "https://open.spotify.com/album/33RN9MnEwqH0CwKyZgk1LD"
       },
       "artists": [
         {
-          "name": "Kalibwoy",
-          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
-        },
-        {
-          "name": "Vlado",
-          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
-        },
-        {
-          "name": "Rockywhereyoubeen",
-          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+          "name": "Prince Swanny",
+          "url": "https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm"
         }
       ],
-      "duration_ms": 135321,
-      "name": "Genghis Khan",
-      "url": "https://open.spotify.com/track/1TZZIVEkj2FgVkBGQCoVoa"
+      "duration_ms": 181394,
+      "name": "Govern",
+      "url": "https://open.spotify.com/track/1Kmw6jCOBXFzJtZpELdNdd"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "Can't Anymore",
+      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Hard & Strong",
+        "url": "https://open.spotify.com/album/5nm7V9dkjdXJOQf3mzwM3b"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Hard & Strong",
+      "url": "https://open.spotify.com/track/4H6bayoWvTAzisSElY4XOO"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Section",
+        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Buss Out",
+        "url": "https://open.spotify.com/album/5EDfw383RolFVbzUXCAVSm"
+      },
+      "artists": [
+        {
+          "name": "CRAAZY",
+          "url": "https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd"
+        },
+        {
+          "name": "WAH WAAH",
+          "url": "https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG"
+        }
+      ],
+      "duration_ms": 164787,
+      "name": "Buss Out",
+      "url": "https://open.spotify.com/track/2zr3g8dwrsRc30SXAYJjnv"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Empreinte",
+        "url": "https://open.spotify.com/album/2d3dlA16tR1IgxoJhkGrmv"
+      },
+      "artists": [
+        {
+          "name": "Pix'L",
+          "url": "https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "MOOV",
+      "url": "https://open.spotify.com/track/76koWWOne981lr5gxbzH2O"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Ina Dancehall",
+        "url": "https://open.spotify.com/album/1CXRgqPTB60bNC9AXtXzZX"
+      },
+      "artists": [
+        {
+          "name": "DJ Oneshot",
+          "url": "https://open.spotify.com/artist/5HftKAv6XJAKVtIZZ1ybf2"
+        },
+        {
+          "name": "Hayvee",
+          "url": "https://open.spotify.com/artist/4q2VTTo7isKeFWMgunj5mt"
+        },
+        {
+          "name": "WISHANN ASMA",
+          "url": "https://open.spotify.com/artist/3MvZWIRVvQa4tFGyTHi7pd"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Ina Dancehall",
+      "url": "https://open.spotify.com/track/6pihx7G891zvqQ3tUQ1tcP"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "P\u00e9tard",
         "url": "https://open.spotify.com/album/0Njs4KqG16zTcKuIaTF2ja"
@@ -745,23 +709,7 @@
       "url": "https://open.spotify.com/track/5BdYCKJnrPu5sWoarvOAuQ"
     },
     {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "MOB$TA#2",
-        "url": "https://open.spotify.com/album/02lvaqAYeBV4Lks5uIMJUR"
-      },
-      "artists": [
-        {
-          "name": "Kevni",
-          "url": "https://open.spotify.com/artist/02WdyNlw433XSxlOPC7FhA"
-        }
-      ],
-      "duration_ms": 126302,
-      "name": "MOB$TA#2",
-      "url": "https://open.spotify.com/track/0quTcnm41SSv9fFCZALUMA"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "New Motion",
         "url": "https://open.spotify.com/album/5tL7qwPbH3xoAXcLdPaHsf"
@@ -775,6 +723,58 @@
       "duration_ms": 144289,
       "name": "Fling It Back",
       "url": "https://open.spotify.com/track/5rKSO98bJ5fOBYNbpbiXQS"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Ami + +",
+        "url": "https://open.spotify.com/album/6kGZVP8zR6tZGzz0QKVJJK"
+      },
+      "artists": [
+        {
+          "name": "Were-vana",
+          "url": "https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl"
+        }
+      ],
+      "duration_ms": 164092,
+      "name": "Ami + +",
+      "url": "https://open.spotify.com/track/1C8GLU188MZJGK2YKFVfbd"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Ah wa do dem",
+        "url": "https://open.spotify.com/album/2H6Si7tmU9EdlKxQl7AoGA"
+      },
+      "artists": [
+        {
+          "name": "Tiwony",
+          "url": "https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB"
+        }
+      ],
+      "duration_ms": 167902,
+      "name": "AH WA DO DEM",
+      "url": "https://open.spotify.com/track/0mjsPJT6SMwpQvIRHwvU3W"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Wordle Riddim",
+        "url": "https://open.spotify.com/album/5Qzyi64m3ak0GXtcd5bemz"
+      },
+      "artists": [
+        {
+          "name": "Pop Style",
+          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "duration_ms": 146181,
+      "name": "Dancehall",
+      "url": "https://open.spotify.com/track/2sCG5Iwv9GdYNViAs5b7Gy"
     }
   ],
   "unique_name": "Dancehall Station",

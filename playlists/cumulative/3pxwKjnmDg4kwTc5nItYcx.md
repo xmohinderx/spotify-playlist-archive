@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Carla Wehbe
 
-594 songs - 1 day 8 hr 5 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+595 songs - 1 day 8 hr 8 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Cheap Queen](https://open.spotify.com/track/2U5Q0eGC03syuUie76vROa) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/3IbecwxaNaaP9lt5sDTxAH) | 2:41 | 2019-08-27\* | 2020-02-12 |
 | [Chemical X](https://open.spotify.com/track/6NndAdLoSF1fcFtbRlGMLt) | [UNDREAM](https://open.spotify.com/artist/0HODHLn6ujo4Zmu17oF4HF), [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Chemical X](https://open.spotify.com/album/14XsugJWmxVLrI4P0sZhh8) | 2:58 | 2021-04-13 |  |
 | [Chlorine \(Mexico City\)](https://open.spotify.com/track/4hhc1rMxhTFbTRf9gCFgyR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Mexico City\)](https://open.spotify.com/album/0aQZjurM8n5Fw7G55zDUyp) | 3:58 | 2019-08-27\* | 2019-11-11 |
+| [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/album/3hgBfbjG4TGdfjoqQZLjQi) | 3:06 | 2022-07-14 |  |
 | [Cold Summer](https://open.spotify.com/track/19itjIyWlRC8tzjRoHrsY2) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Cold Summer](https://open.spotify.com/album/0Muy06qfQDJet1xcZXnIzE) | 2:53 | 2019-08-27\* | 2019-11-11 |
 | [Coldhearted, Lately](https://open.spotify.com/track/36h4VQAWg8omwAOouJ98no) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [Strange Seasons](https://open.spotify.com/album/6x6FSsZcxOks9rCaaVJcyY) | 3:24 | 2020-01-28 | 2020-04-06 |
 | [Come Home](https://open.spotify.com/track/1Q8WGsRo2su7DQivhdoVQ2) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Come Home](https://open.spotify.com/album/2n7Zg5GgdqKjHvB46QE3fr) | 2:48 | 2020-04-24 | 2021-05-12 |

@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-68 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+70 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,12 @@
 | [A Fairy Tale](https://open.spotify.com/track/6B4k77H2FijwCLtkWnIsfI) | [Michaela Pandiz](https://open.spotify.com/artist/34sXIU22Yei4I4tBF7qk2m) | [A Fairy Tale](https://open.spotify.com/album/2iwDSQNjrmsettZSKbEtIr) | 2:08 | 2022-06-10 |  |
 | [A String in the Night](https://open.spotify.com/track/7dZ3v5DM5NvdviQ66NTcK4) | [Duo Romanza](https://open.spotify.com/artist/4c5bDKFZPlbp3EqDLyk4Hn) | [A String in the Night](https://open.spotify.com/album/2sMWuQaCwsvRsjhc5KIIfH) | 2:02 | 2022-06-10 |  |
 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 | 2022-06-10 |  |
+| [Andante Cantabile from String Quartet No\. 1](https://open.spotify.com/track/74TFN56lEopcgv4qliHdoY) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Artwinder Modern Quartet](https://open.spotify.com/artist/2ipPNWfa4u0WTh99vGxpQ6) | [Quartet Classics Series \- Pyotr Ilyich Tchaikovsky: Andante Cantabile from String Quartet No\. 1](https://open.spotify.com/album/5KlxEx79Sg65QjigB56iHj) | 6:38 | 2022-07-15 |  |
 | [Aurelian](https://open.spotify.com/track/0uddb7tRm6KmMGzh3wFMcH) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b), [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Aurelian](https://open.spotify.com/album/3HFnP1YvQvlyPbiK4nU4q9) | 2:28 | 2022-06-10 |  |
 | [Blossom Peak](https://open.spotify.com/track/5NRyda6chosK9GspXprHgK) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Blossom Peak & Warmcrest](https://open.spotify.com/album/5M8iB0dg3kg54ppszLVI9G) | 2:56 | 2022-06-10 |  |
 | [Breathing Softly](https://open.spotify.com/track/5fOXMCEaxYSAObSdJ7nvCV) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Breathing Softly](https://open.spotify.com/album/6W9cOGtIJZtT1J5ypPCcHR) | 2:43 | 2022-06-10 |  |
 | [Daydream](https://open.spotify.com/track/1WlaTc6LFDBrag4vKuiuRs) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:15 | 2022-06-10 |  |
+| [Daylight](https://open.spotify.com/track/1pJrauys2fPNopv4TuyltK) | [Karel Havlíček](https://open.spotify.com/artist/2Yuk4eHfD3UrJ1qnYCHmJl) | [Daylight](https://open.spotify.com/album/4I7VJg3F07ymbMiobj6yfP) | 2:59 | 2022-07-15 |  |
 | [Deasyn Moira \(Piano and Strings\)](https://open.spotify.com/track/0ebRVAx7crlZr9lkXK4cm3) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Piano and Strings](https://open.spotify.com/album/6L20li4JZ6jmRfwwts9CO4) | 2:26 | 2022-07-01 |  |
 | [Deep Forest \- Cello Version](https://open.spotify.com/track/7gi7v5tKoJ1R7yunvDeU5F) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest \(Strings Version\)](https://open.spotify.com/album/436RU3hjPms95JzFFDXPma) | 1:52 | 2022-06-10 |  |
 | [Desert Parade](https://open.spotify.com/track/4xOHne4S1xas4MI5qPs69D) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Breathing Like the Pastures](https://open.spotify.com/album/2rzImKEk1JZHAyC6dVGJ5t) | 3:08 | 2022-06-10 |  |

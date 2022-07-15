@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,593 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,679 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 10 | [VOYAGER\~日付のない墓標](https://open.spotify.com/track/6tbgYUwdwOCeCLJtHS3zKf) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION"](https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG) | 4:55 |
 | 11 | [Fate](https://open.spotify.com/track/4WtjcDiLaeYs35VBidzIf2) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "EVANGELION 2.0" YOU CAN \(NOT\) ADVANCE.](https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc) | 3:35 |
 | 12 | [3EM27\_Beethoven9\_Orch+Cho](https://open.spotify.com/track/72duu6sGxAj2avMcaOzJPg) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [ヱヴァンゲリヲン新劇場版:Q オリジナルサウンドトラック](https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ) | 2:44 |
-| 13 | [桜流し \- 2021 Remastered](https://open.spotify.com/track/6qXWOctgLJfiAFrmC9ogGE) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:42 |
+| 13 | [Sakura Nagashi \- 2021 Remastered](https://open.spotify.com/track/6qXWOctgLJfiAFrmC9ogGE) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:42 |
 | 14 | [hand of fate](https://open.spotify.com/track/2B6h28dvx420rSVsT305T7) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION"](https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG) | 4:44 |
 | 15 | [L'attaque des anges](https://open.spotify.com/track/3HtEVdzj5s2YJf9C2d5FQd) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion 1.0 You Are \(Not\) Alone \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh) | 2:33 |
 | 16 | [Angel of Doom](https://open.spotify.com/track/4UjudP9wSDuBoNBtCpSr9J) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion 1.0 You Are \(Not\) Alone \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh) | 3:50 |
@@ -103,6 +103,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 93 | [ふりむかないで](https://open.spotify.com/track/57PWxaO7DEnS4cf1bbZZAs) | [The Peanuts](https://open.spotify.com/artist/5BZgkvkTEBu0cXyM1MkvKl) | [ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック](https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP) | 2:55 |
 | 94 | [真実一路のマーチ](https://open.spotify.com/track/3kkXdezh9GjvZ0Gd20dhFy) | [Kiyoko Suizenji](https://open.spotify.com/artist/3v8X96lvVXfrwC4bMrM4On) | [水前寺清子全曲集 \~熊本城・三百六十五歩のマーチ\~](https://open.spotify.com/album/0A6Iw003J1zPSweeXw8YLk) | 3:32 |
 | 95 | [世界は二人のために](https://open.spotify.com/track/3R57Is4lByrwj7phOdEMXe) | [Naomi Sagara](https://open.spotify.com/artist/5hIYzEi9gBUCXOmrhV6M04) | [ゴールデンベスト 忘れ得ぬ名唱・佐良直美](https://open.spotify.com/album/6qR89dIKC16gVIAwSR3PbS) | 3:49 |
-| 96 | [人生を語らず](https://open.spotify.com/track/1zDPaZJxf4zbNPThFqjqu8) | [Takuro Yoshida](https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7) | [今はまだ人生を語らず\-1](https://open.spotify.com/album/2uhkQC2DTj5dtAM5wmi9t2) | 4:33 |
+| 96 | [Jinsei O Katarazu](https://open.spotify.com/track/1zDPaZJxf4zbNPThFqjqu8) | [Takuro Yoshida](https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7) | [Imawa Mada Jinseio Katarazu Minasu 1](https://open.spotify.com/album/2uhkQC2DTj5dtAM5wmi9t2) | 4:33 |
 
 Snapshot ID: `MTYzMDQyMjAwMCwwMDAwMDAxMTAwMDAwMTdiOWNiOTYyMmQwMDAwMDE3ODQ0ZjhjNTQ3`

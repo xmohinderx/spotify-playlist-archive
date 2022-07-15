@@ -4,10 +4,11 @@
 
 > Napoli e il meglio della scena campana\. Cover: SLF
 
-74 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
+75 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['O NOMME](https://open.spotify.com/track/7vTtjwKa63wPERKQ3B7mlE) | [Big Effe](https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm) | ['O NOMME](https://open.spotify.com/album/0PWAS2mH0qvRuT5Pos0Q5Q) | 2:00 | 2022-07-14 |  |
 | [Accussì](https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Accussì](https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi) | 3:09 | 2022-05-10 | 2022-05-13 |
 | [Aggio Perzo 'o Suonno \(feat\. Coez, prod\. TY1\)](https://open.spotify.com/track/2rfVX4zjVnfUOr1k3txKNG) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [Aggio Perzo 'o Suonno \(feat\. Coez, prod\. TY1\)](https://open.spotify.com/album/23GqccME4E9ej9vaBVzKSY) | 3:02 | 2022-05-10 |  |
 | [Amiezavj](https://open.spotify.com/track/4849FNFdAkoMPNq3CnP2gY) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Amiezavj](https://open.spotify.com/album/6VosHcDVPa48e8YhMC6l2x) | 3:19 | 2022-05-10 | 2022-06-10 |
@@ -37,7 +38,7 @@
 | [Hablan De Mi \- Italian Remix](https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Hablan De Mi \(Italian Remix\)](https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh) | 2:08 | 2022-05-16 |  |
 | [Homies](https://open.spotify.com/track/2nCS30N4UJk9zF4FVcJGPV) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh) | [Homies](https://open.spotify.com/album/66gwTXAR4CeE333WL38MJ0) | 2:04 | 2022-05-26 | 2022-06-10 |
 | [I Miss You](https://open.spotify.com/track/5yTqoZ6nhOv21jNHFfwsBV) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [I Miss You](https://open.spotify.com/album/3xNjmCh8NTA9WuO8EkHo1R) | 2:58 | 2022-05-10 |  |
-| [Imperativo](https://open.spotify.com/track/7erlznGZasHpA6d1wdRYe7) | [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [Imperativo](https://open.spotify.com/album/05J2YPEPokhVensBiDokWp) | 2:18 | 2022-06-30 |  |
+| [Imperativo](https://open.spotify.com/track/7erlznGZasHpA6d1wdRYe7) | [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [Imperativo](https://open.spotify.com/album/05J2YPEPokhVensBiDokWp) | 2:18 | 2022-06-30 | 2022-07-15 |
 | [Jump \(feat\. Lazza\)](https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:43 | 2022-05-26 |  |
 | [Love Song](https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W) | 3:24 | 2022-06-09 |  |
 | [ME STAJE APPENNENN' AMÒ](https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 5:06 | 2022-05-10 |  |

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'O NOMME",
+        "url": "https://open.spotify.com/album/0PWAS2mH0qvRuT5Pos0Q5Q"
+      },
+      "artists": [
+        {
+          "name": "Big Effe",
+          "url": "https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120121,
+      "name": "'O NOMME",
+      "url": "https://open.spotify.com/track/7vTtjwKa63wPERKQ3B7mlE"
+    },
+    {
+      "album": {
         "name": "Accuss\u00ec",
         "url": "https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi"
       },
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 138653,
       "name": "Imperativo",
       "url": "https://open.spotify.com/track/7erlznGZasHpA6d1wdRYe7"

@@ -4,12 +4,13 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-137 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/72Z7jqJ6lZpGwHfNeDkzti)
+138 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/72Z7jqJ6lZpGwHfNeDkzti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2DIE4](https://open.spotify.com/track/7EgLoUQHysIbRBal6S0cQn) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [ヒプノシスマイク \-D.R.B\- \(毒島メイソン理鶯\)](https://open.spotify.com/artist/1HgU7kZOYS995O1n9BSKGQ) | [MAD TRIGGER CREW \-Before The 2nd D.R.B\-](https://open.spotify.com/album/0fSy2HGWigmebFGtMvUTAk) | 2:57 | 2022-06-09 |  |
 | [2nd D.R.B NON\-STOP DIVISION MIX](https://open.spotify.com/track/50arxFEa4CsyvYfsj4MqcZ) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B Final Battle 『Buster Bros!!! VS 麻天狼 VS Fling Posse』](https://open.spotify.com/album/4sOGExLCKvW0ZVFqGVwjeQ) | 26:44 | 2022-06-09 |  |
+| [3 on Fleek!!!](https://open.spotify.com/track/4WOqc6GV7t3GuSUSxyNx60) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(Mix Tape1 All Cast\)](https://open.spotify.com/artist/1FhjpKbYh9ivmlzb6nkrJz) | [3 on Fleek!!!](https://open.spotify.com/album/2WOWzLaSIEy0H5RIR2fQvl) | 5:40 | 2022-07-14 |  |
 | [3 Seconds Killer](https://open.spotify.com/track/2QSddtVDcr0ljpiA2Opm52) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima\(Buster Bros!!!\)](https://open.spotify.com/artist/4kg2eBCJZwye0HdtB1EbPz) | [Straight Outta Rhyme Anima](https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV) | 3:33 | 2022-06-09 |  |
 | [3$EVEN](https://open.spotify.com/track/2k0vedTDTiF7LMxZ1rtiXF) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99), [ヒプノシスマイク \-D.R.B\- \(有栖川帝統\)](https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht) | [Fling Posse \-F.P.S.M\-](https://open.spotify.com/album/2JILUvLYmUPwVVWavanNIm) | 4:32 | 2022-06-09 |  |
 | [Bad Ass Temple Funky Sounds](https://open.spotify.com/track/7Ep4OCw8Ym9AbnrO8soHZj) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup) | [ヒプノシスマイク ナゴヤ・ディビジョン 「Bad Ass Temple Funky Sounds」](https://open.spotify.com/album/3Pg91xTkAqVwjyHn3qm8gt) | 4:29 | 2022-06-09 |  |

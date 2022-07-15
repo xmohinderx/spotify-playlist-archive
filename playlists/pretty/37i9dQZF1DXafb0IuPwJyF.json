@@ -1,12 +1,12 @@
 {
   "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: ONE OK ROCK",
-  "num_followers": 621114,
+  "num_followers": 621347,
   "original_name": "Tokyo Super Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzQ2NTIwMCwwMDAwMDMzMTAwMDAwMTgxZTg5ZmRlMmYwMDAwMDE4MWUwY2ZhZTcy",
+  "snapshot_id": "MTY1NzgwNzYyMSwwMDAwMDMzMjAwMDAwMTgxZmQwOGNlNDUwMDAwMDE4MWUwY2ZhZTcy",
   "tracks": [
     {
       "added_at": "2022-07-10 15:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u30cd\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "duration_ms": 193510,
-      "name": "\u30a8\u30b8\u30bd\u30f3",
-      "url": "https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU"
-    },
-    {
-      "added_at": "2022-07-10 15:00:00",
-      "album": {
         "name": "MASCARA",
         "url": "https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 191439,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv"
+    },
+    {
+      "added_at": "2022-07-10 15:00:00",
+      "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 193510,
+      "name": "Edison",
+      "url": "https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU"
     },
     {
       "added_at": "2022-07-10 15:00:00",
@@ -123,7 +123,7 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u30d4\u30a2\u30b9",
+        "name": "Pierce",
         "url": "https://open.spotify.com/album/29VASKJxI1IvAieKz3hqrU"
       },
       "artists": [
@@ -133,7 +133,7 @@
         }
       ],
       "duration_ms": 236753,
-      "name": "\u30d4\u30a2\u30b9",
+      "name": "Pierce",
       "url": "https://open.spotify.com/track/4q64nWPqTWIVHGHidRaSUm"
     },
     {
@@ -223,7 +223,7 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u6843\u6e90\u90f7",
+        "name": "togenkyo",
         "url": "https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE"
       },
       "artists": [
@@ -233,13 +233,13 @@
         }
       ],
       "duration_ms": 228000,
-      "name": "\u6843\u6e90\u90f7",
+      "name": "togenkyo",
       "url": "https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm"
     },
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u60d1\u3046\u7cf8",
+        "name": "Madou Ito",
         "url": "https://open.spotify.com/album/4HUzZrrySRzQKmHw6eca8C"
       },
       "artists": [
@@ -249,13 +249,13 @@
         }
       ],
       "duration_ms": 273613,
-      "name": "\u60d1\u3046\u7cf8",
+      "name": "Madou Ito",
       "url": "https://open.spotify.com/track/340zG7IKPHFjEFgzq9MFYx"
     },
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u305f\u307e\u3057\u3044\u306e\u5c45\u5834\u6240",
+        "name": "Tamashiinoibasyo",
         "url": "https://open.spotify.com/album/7Gy6jvTXkSgx5oEbaWBt1l"
       },
       "artists": [
@@ -265,24 +265,8 @@
         }
       ],
       "duration_ms": 201535,
-      "name": "\u305f\u307e\u3057\u3044\u306e\u5c45\u5834\u6240",
+      "name": "Tamashiinoibasyo",
       "url": "https://open.spotify.com/track/5D16E22MJJyKesh9PrJf2L"
-    },
-    {
-      "added_at": "2022-07-10 15:00:00",
-      "album": {
-        "name": "\u30da\u30f3\u30da\u30f3",
-        "url": "https://open.spotify.com/album/4KvWjVts1YRnAB3CrXVOyw"
-      },
-      "artists": [
-        {
-          "name": "go!go!vanillas",
-          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
-        }
-      ],
-      "duration_ms": 261999,
-      "name": "\u30da\u30f3\u30da\u30f3",
-      "url": "https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp"
     },
     {
       "added_at": "2022-07-10 15:00:00",
@@ -299,6 +283,22 @@
       "duration_ms": 238536,
       "name": "\u30ec\u30f3\u30ba",
       "url": "https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s"
+    },
+    {
+      "added_at": "2022-07-10 15:00:00",
+      "album": {
+        "name": "Daten",
+        "url": "https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 172948,
+      "name": "Daten",
+      "url": "https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq"
     },
     {
       "added_at": "2022-07-10 15:00:00",
@@ -335,7 +335,7 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u305d\u308c\u3092\u611b\u3068\u547c\u3076\u306a\u3089",
+        "name": "Soreo Aito Yobunara",
         "url": "https://open.spotify.com/album/5gdO6MiTK1Df7SGctJWtUs"
       },
       "artists": [
@@ -345,7 +345,7 @@
         }
       ],
       "duration_ms": 294666,
-      "name": "\u305d\u308c\u3092\u611b\u3068\u547c\u3076\u306a\u3089",
+      "name": "Soreo Aito Yobunara",
       "url": "https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL"
     },
     {
@@ -431,7 +431,7 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u611b\u5f4c\u3005",
+        "name": "Aiyaiya",
         "url": "https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv"
       },
       "artists": [
@@ -445,7 +445,7 @@
         }
       ],
       "duration_ms": 308809,
-      "name": "\u611b\u5f4c\u3005",
+      "name": "Aiyaiya",
       "url": "https://open.spotify.com/track/4BQR7j2Wg0lkwfPq9O14gZ"
     },
     {
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u559c\u5287",
-        "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "\u559c\u5287",
-      "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
-    },
-    {
-      "added_at": "2022-07-10 15:00:00",
-      "album": {
         "name": "\u604b\u98a8\u90aa\u306b\u306e\u305b\u3066",
         "url": "https://open.spotify.com/album/1Qkyl4it7jUIvXWOWD2k8g"
       },
@@ -531,18 +515,34 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u5815\u5929",
-        "url": "https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA"
+        "name": "\u559c\u5287",
+        "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
       },
       "artists": [
         {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
         }
       ],
-      "duration_ms": 172948,
-      "name": "\u5815\u5929",
-      "url": "https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq"
+      "duration_ms": 230666,
+      "name": "\u559c\u5287",
+      "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
+    },
+    {
+      "added_at": "2022-07-10 15:00:00",
+      "album": {
+        "name": "\u30da\u30f3\u30da\u30f3",
+        "url": "https://open.spotify.com/album/4KvWjVts1YRnAB3CrXVOyw"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "duration_ms": 261999,
+      "name": "\u30da\u30f3\u30da\u30f3",
+      "url": "https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp"
     },
     {
       "added_at": "2022-07-10 15:00:00",
@@ -563,7 +563,7 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u30d6\u30ec\u30b9",
+        "name": "Breath",
         "url": "https://open.spotify.com/album/7HuXwSDz8oPRxu7qralaeq"
       },
       "artists": [
@@ -573,7 +573,7 @@
         }
       ],
       "duration_ms": 264954,
-      "name": "\u30d6\u30ec\u30b9",
+      "name": "Breath",
       "url": "https://open.spotify.com/track/478aouesr5rNFHs1wU4BGC"
     },
     {
@@ -595,7 +595,7 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "M\u516b\u4e03",
+        "name": "M87",
         "url": "https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK"
       },
       "artists": [
@@ -605,7 +605,7 @@
         }
       ],
       "duration_ms": 263120,
-      "name": "M\u516b\u4e03",
+      "name": "M87",
       "url": "https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5"
     },
     {
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "\u71b1\u6d77",
-        "url": "https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua"
-      },
-      "artists": [
-        {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "\u71b1\u6d77",
-      "url": "https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN"
-    },
-    {
-      "added_at": "2022-07-10 15:00:00",
-      "album": {
         "name": "Bye-Good-Bye",
         "url": "https://open.spotify.com/album/6zlvNHkwGQESAwd8DQxAnq"
       },
@@ -707,22 +691,6 @@
       "duration_ms": 181013,
       "name": "Bye-Good-Bye",
       "url": "https://open.spotify.com/track/0rPrGZTtScNSRL2jZoooKO"
-    },
-    {
-      "added_at": "2022-07-10 15:00:00",
-      "album": {
-        "name": "HAVE A NICE DAY",
-        "url": "https://open.spotify.com/album/5cjxQHE6kZIlNtTf25caXq"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        }
-      ],
-      "duration_ms": 156900,
-      "name": "HAVE A NICE DAY",
-      "url": "https://open.spotify.com/track/5QW06boBm4TZ6VhPTQXSSk"
     },
     {
       "added_at": "2022-07-10 15:00:00",
@@ -779,46 +747,6 @@
     {
       "added_at": "2022-07-10 15:00:00",
       "album": {
-        "name": "IMA",
-        "url": "https://open.spotify.com/album/51N0mrjxiGdR2tmAugtCOl"
-      },
-      "artists": [
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
-        },
-        {
-          "name": "Ma-Nu",
-          "url": "https://open.spotify.com/artist/4fEFUz9XWCLMeBJ0JKjzYY"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "so so good",
-      "url": "https://open.spotify.com/track/5s1seRzFMfrx5ZTXKo5KEk"
-    },
-    {
-      "added_at": "2022-07-10 15:00:00",
-      "album": {
-        "name": "Crayon",
-        "url": "https://open.spotify.com/album/1VlDPGkPriiK2uj3bFxyHE"
-      },
-      "artists": [
-        {
-          "name": "ZOT on the WAVE",
-          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
-        },
-        {
-          "name": "Fuji Taito",
-          "url": "https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "Crayon",
-      "url": "https://open.spotify.com/track/3ZEdrRIGjFpXZSzfjwWmDQ"
-    },
-    {
-      "added_at": "2022-07-10 15:00:00",
-      "album": {
         "name": "\u30ea\u30c3\u30d7\u30eb",
         "url": "https://open.spotify.com/album/5OYTQcR3aufuIJZ9Z0AJJb"
       },
@@ -847,6 +775,78 @@
       "duration_ms": 211039,
       "name": "RAKUEN",
       "url": "https://open.spotify.com/track/01hIMNbONDHX9krqxc0RJj"
+    },
+    {
+      "added_at": "2022-07-10 15:00:00",
+      "album": {
+        "name": "Crayon",
+        "url": "https://open.spotify.com/album/1VlDPGkPriiK2uj3bFxyHE"
+      },
+      "artists": [
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        },
+        {
+          "name": "Fuji Taito",
+          "url": "https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "Crayon",
+      "url": "https://open.spotify.com/track/3ZEdrRIGjFpXZSzfjwWmDQ"
+    },
+    {
+      "added_at": "2022-07-10 15:00:00",
+      "album": {
+        "name": "IMA",
+        "url": "https://open.spotify.com/album/51N0mrjxiGdR2tmAugtCOl"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        },
+        {
+          "name": "Ma-Nu",
+          "url": "https://open.spotify.com/artist/4fEFUz9XWCLMeBJ0JKjzYY"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "so so good",
+      "url": "https://open.spotify.com/track/5s1seRzFMfrx5ZTXKo5KEk"
+    },
+    {
+      "added_at": "2022-07-10 15:00:00",
+      "album": {
+        "name": "HAVE A NICE DAY",
+        "url": "https://open.spotify.com/album/5cjxQHE6kZIlNtTf25caXq"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "duration_ms": 156900,
+      "name": "HAVE A NICE DAY",
+      "url": "https://open.spotify.com/track/5QW06boBm4TZ6VhPTQXSSk"
+    },
+    {
+      "added_at": "2022-07-10 15:00:00",
+      "album": {
+        "name": "\u71b1\u6d77",
+        "url": "https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "\u71b1\u6d77",
+      "url": "https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN"
     }
   ],
   "unique_name": "Tokyo Super Hits!",

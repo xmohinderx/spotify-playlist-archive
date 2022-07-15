@@ -226,6 +226,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0646\u0627 \u0648\u064a\u0627\u0643",
+        "url": "https://open.spotify.com/album/4y49FwQLBB611add8CodNd"
+      },
+      "artists": [
+        {
+          "name": "Mortadha Ftiti",
+          "url": "https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158015,
+      "name": "Ana Weyak",
+      "url": "https://open.spotify.com/track/5aqmJaDvhBRPKl7ouuLqiu"
+    },
+    {
+      "album": {
         "name": "Bad Love",
         "url": "https://open.spotify.com/album/4spBd91JN0Z6286LG86wDv"
       },

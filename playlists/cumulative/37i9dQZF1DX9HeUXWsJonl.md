@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-71 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+72 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amane Amane](https://open.spotify.com/track/32rgLBz7yrG7yBLI6BCNjQ) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Amane Amane](https://open.spotify.com/album/52qCnEXbx1KN0TZuX8oC9C) | 3:34 | 2021-12-10 | 2022-02-08 |
 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 | 2021-12-10 |  |
 | [Ana Li Bghit](https://open.spotify.com/track/4p1sxxbjtfhWQfyaF2mm5d) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ana Li Bghit](https://open.spotify.com/album/6iad05pe3Sb9HDP7ffVTJU) | 3:49 | 2021-12-10 |  |
+| [Ana Weyak](https://open.spotify.com/track/5aqmJaDvhBRPKl7ouuLqiu) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [أنا وياك](https://open.spotify.com/album/4y49FwQLBB611add8CodNd) | 2:38 | 2022-07-14 |  |
 | [Bad Love](https://open.spotify.com/track/3jI5FBlOWlKYglME1q48B4) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Bad Love](https://open.spotify.com/album/4spBd91JN0Z6286LG86wDv) | 3:48 | 2022-02-25 |  |
 | [Bannié](https://open.spotify.com/track/4kJBCP7CJLys6lWylczq6A) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Bannié](https://open.spotify.com/album/64xlqkinSkv9qeuW2Klb4V) | 2:54 | 2021-12-10 | 2022-01-15 |
 | [Barrani](https://open.spotify.com/track/3IycNypa7kCP0pHTCcW7cJ) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Barrani](https://open.spotify.com/album/5yDX6jEVnTgNHmUkT7PuxJ) | 3:03 | 2021-12-10 | 2022-05-14 |

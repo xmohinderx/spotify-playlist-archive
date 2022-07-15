@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,579 likes - 98 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,909 likes - 98 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 26 | [Promise of the West \(feat\. Julie Elven\)](https://open.spotify.com/track/4AXy57QDFmqdKAhvbM3yAP) | [Joris de Man](https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U), [Julie Elven](https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv) | [Promise of the West \("Horizon Forbidden West" Reveal Trailer Theme\)](https://open.spotify.com/album/7g2KZmy9miQS6uWY35H8kC) | 2:55 |
 | 27 | [A New Dawn \(feat\. Julie Seechuk\)](https://open.spotify.com/track/0gs2sDUTqsDaxY5BLxhpik) | [Ian Livingstone](https://open.spotify.com/artist/71wbvQyh0QbofdrRXCagLU), [Ethan Livingstone](https://open.spotify.com/artist/5SWVyhFS5ykl0LpJQNNL6H), [Julie Seechuk](https://open.spotify.com/artist/1R62hlOb9mHKh9sWyPvBGa) | [F1 22 \(Original Game Soundtrack\)](https://open.spotify.com/album/5hRhjXSgKKSlLX8ZFhxEqT) | 4:15 |
 | 28 | [Castlevania](https://open.spotify.com/track/664qR3uQQOlRVIr2bTzJQz) | [Michiru Yamane](https://open.spotify.com/artist/6yHzqH70UbRHmoTOcEBmRz), [Jun Irie](https://open.spotify.com/artist/5JqskDaiPYXK7suG5avAiC), [Play! Orchestra](https://open.spotify.com/artist/0GYcXLXJH56tMNErPW6Wfg) | [Castlevania](https://open.spotify.com/album/4RSVZeOGgBwv3z0l7lHpIT) | 6:50 |
-| 29 | [FFVII REMAKE: 闘う者達 \-なんでも屋の仕事\- \(Let the Battles Begin! \- A Merc's Job\)](https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:53 |
+| 29 | [FFVII REMAKE: Let the Battles Begin! \- A Merc's Job](https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:53 |
 | 30 | [Super Mario Bros: Theme](https://open.spotify.com/track/5sDx7tlKik6y6k2wfCnrxL) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 4:12 |
 | 31 | [Kingdom of Wessex](https://open.spotify.com/track/49Zre5VpuQk1GtH63JLm5B) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed Valhalla: Out of the North \(Original Soundtrack\)](https://open.spotify.com/album/5iDRB3mIvV9ceXZIkXA4KT) | 3:41 |
 | 32 | [Super Mario Galaxy: Gusty Garden Galaxy](https://open.spotify.com/track/05XPxcgHp4I4CFlOhMnskS) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Mahito Yokota](https://open.spotify.com/artist/3s9zTij1nIF3KY1G6BG1WZ), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 3:49 |

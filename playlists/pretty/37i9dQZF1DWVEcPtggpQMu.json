@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest in South African Hip Hop and R&B. Cover: <a href=\"https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE?si=YDtypf_iQ2KM0vD5dMKglw\">Sgi_Magalela</a> ",
-  "num_followers": 34918,
+  "num_followers": 34930,
   "original_name": "Aux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI2Njg5MCwwMDAwMDRkYTAwMDAwMTgxZGNjZGU3NmQwMDAwMDE4MGRkNGU5ODcx",
+  "snapshot_id": "MTY1NzgzODkxNywwMDAwMDRkYjAwMDAwMTgxZmVlNjU3MmEwMDAwMDE4MGRkNGU5ODcx",
   "tracks": [
     {
       "added_at": "2022-02-10 21:59:00",
@@ -23,6 +23,22 @@
       "duration_ms": 120115,
       "name": "Pirara",
       "url": "https://open.spotify.com/track/7bFqMWXwQk9NQ9KoRacTJW"
+    },
+    {
+      "added_at": "2022-04-22 05:51:38",
+      "album": {
+        "name": "Talk to Me Naace",
+        "url": "https://open.spotify.com/album/2yVW8fu5S5LomeioeSKPlE"
+      },
+      "artists": [
+        {
+          "name": "ZULO",
+          "url": "https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "SUPREME",
+      "url": "https://open.spotify.com/track/502pGwAEVBh8z59oOJY3N2"
     },
     {
       "added_at": "2022-02-03 21:59:00",
@@ -69,46 +85,6 @@
       "url": "https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti"
     },
     {
-      "added_at": "2022-07-08 07:54:50",
-      "album": {
-        "name": "Wolves of Africa (Part 1/2)",
-        "url": "https://open.spotify.com/album/221gN8YGCd9AvgolHsd2eC"
-      },
-      "artists": [
-        {
-          "name": "James BKS",
-          "url": "https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV"
-        },
-        {
-          "name": "The Big Hash",
-          "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
-        }
-      ],
-      "duration_ms": 159324,
-      "name": "High Level",
-      "url": "https://open.spotify.com/track/7kdDzuTex0Z84GMcH98l4E"
-    },
-    {
-      "added_at": "2021-01-25 08:10:23",
-      "album": {
-        "name": "Big Time Sh'lappa",
-        "url": "https://open.spotify.com/album/3eINTO6mHkWunFleBKFldZ"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Lucasraps",
-          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
-        }
-      ],
-      "duration_ms": 201326,
-      "name": "Big Time Sh'lappa",
-      "url": "https://open.spotify.com/track/6XAJRqHVGQ9F2w8BFOgMLK"
-    },
-    {
       "added_at": "2021-10-07 21:59:00",
       "album": {
         "name": "Why Me?",
@@ -133,20 +109,52 @@
       "url": "https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr"
     },
     {
-      "added_at": "2022-04-22 05:51:38",
+      "added_at": "2022-03-24 21:59:00",
       "album": {
-        "name": "Talk to Me Naace",
-        "url": "https://open.spotify.com/album/2yVW8fu5S5LomeioeSKPlE"
+        "name": "Durban King",
+        "url": "https://open.spotify.com/album/0RqU13p25jzu0bEwhEYFYP"
       },
       "artists": [
         {
-          "name": "ZULO",
-          "url": "https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp"
+          "name": "King-Mono",
+          "url": "https://open.spotify.com/artist/2R5nSmcYWwGBuIVk4FbA3z"
+        },
+        {
+          "name": "Mini808",
+          "url": "https://open.spotify.com/artist/68nyvLY9sDMtaQaq4FhDn1"
+        },
+        {
+          "name": "Lida Strat",
+          "url": "https://open.spotify.com/artist/2bCHGsA4kwT2ulpMxpBN0A"
+        },
+        {
+          "name": "Jay Mac",
+          "url": "https://open.spotify.com/artist/4i4jfEPGwj77ZnpigJDRMT"
         }
       ],
-      "duration_ms": 170250,
-      "name": "SUPREME",
-      "url": "https://open.spotify.com/track/502pGwAEVBh8z59oOJY3N2"
+      "duration_ms": 230562,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/7BkjucK9cOjyF8q1ecczf4"
+    },
+    {
+      "added_at": "2021-01-25 08:10:23",
+      "album": {
+        "name": "Big Time Sh'lappa",
+        "url": "https://open.spotify.com/album/3eINTO6mHkWunFleBKFldZ"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        }
+      ],
+      "duration_ms": 201326,
+      "name": "Big Time Sh'lappa",
+      "url": "https://open.spotify.com/track/6XAJRqHVGQ9F2w8BFOgMLK"
     },
     {
       "added_at": "2022-02-17 21:59:00",
@@ -217,38 +225,6 @@
       "url": "https://open.spotify.com/track/3z1WNViKcihcLGnqgzLwha"
     },
     {
-      "added_at": "2022-05-12 21:59:00",
-      "album": {
-        "name": "\"EHH Baby\" The Big Bang Theory",
-        "url": "https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo"
-      },
-      "artists": [
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        }
-      ],
-      "duration_ms": 128780,
-      "name": "Deposit",
-      "url": "https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw"
-    },
-    {
-      "added_at": "2022-07-08 07:54:50",
-      "album": {
-        "name": "Yiz'apha",
-        "url": "https://open.spotify.com/album/0xJg3XIKp6Punh0hUVFssu"
-      },
-      "artists": [
-        {
-          "name": "Lolli Native",
-          "url": "https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0"
-        }
-      ],
-      "duration_ms": 169650,
-      "name": "Yiz'apha",
-      "url": "https://open.spotify.com/track/54CJUvVd3PsBUyCiqzWL2e"
-    },
-    {
       "added_at": "2021-03-18 22:00:00",
       "album": {
         "name": "Mntase",
@@ -279,6 +255,54 @@
       "duration_ms": 170519,
       "name": "Mntase",
       "url": "https://open.spotify.com/track/5PnPIZLpLL8Ci9rbihFKDq"
+    },
+    {
+      "added_at": "2022-05-12 21:59:00",
+      "album": {
+        "name": "R.I.P. FAT CAT",
+        "url": "https://open.spotify.com/album/6RphDoUJ7mhQ5pDxTJ14Al"
+      },
+      "artists": [
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        }
+      ],
+      "duration_ms": 185320,
+      "name": "R.I.P. FAT CAT",
+      "url": "https://open.spotify.com/track/1B8c8s2kY6hUPnv3d7wdhS"
+    },
+    {
+      "added_at": "2022-05-12 21:59:00",
+      "album": {
+        "name": "\"EHH Baby\" The Big Bang Theory",
+        "url": "https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        }
+      ],
+      "duration_ms": 128780,
+      "name": "Deposit",
+      "url": "https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw"
+    },
+    {
+      "added_at": "2022-07-08 07:54:50",
+      "album": {
+        "name": "Yiz'apha",
+        "url": "https://open.spotify.com/album/0xJg3XIKp6Punh0hUVFssu"
+      },
+      "artists": [
+        {
+          "name": "Lolli Native",
+          "url": "https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0"
+        }
+      ],
+      "duration_ms": 169650,
+      "name": "Yiz'apha",
+      "url": "https://open.spotify.com/track/54CJUvVd3PsBUyCiqzWL2e"
     },
     {
       "added_at": "2022-05-19 21:59:00",
@@ -325,50 +349,6 @@
       "url": "https://open.spotify.com/track/30pEdKovWCPxRCoRjkfyv4"
     },
     {
-      "added_at": "2022-03-24 21:59:00",
-      "album": {
-        "name": "Durban King",
-        "url": "https://open.spotify.com/album/0RqU13p25jzu0bEwhEYFYP"
-      },
-      "artists": [
-        {
-          "name": "King-Mono",
-          "url": "https://open.spotify.com/artist/2R5nSmcYWwGBuIVk4FbA3z"
-        },
-        {
-          "name": "Mini808",
-          "url": "https://open.spotify.com/artist/68nyvLY9sDMtaQaq4FhDn1"
-        },
-        {
-          "name": "Lida Strat",
-          "url": "https://open.spotify.com/artist/2bCHGsA4kwT2ulpMxpBN0A"
-        },
-        {
-          "name": "Jay Mac",
-          "url": "https://open.spotify.com/artist/4i4jfEPGwj77ZnpigJDRMT"
-        }
-      ],
-      "duration_ms": 230562,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/7BkjucK9cOjyF8q1ecczf4"
-    },
-    {
-      "added_at": "2022-05-12 21:59:00",
-      "album": {
-        "name": "R.I.P. FAT CAT",
-        "url": "https://open.spotify.com/album/6RphDoUJ7mhQ5pDxTJ14Al"
-      },
-      "artists": [
-        {
-          "name": "Thato Saul",
-          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
-        }
-      ],
-      "duration_ms": 185320,
-      "name": "R.I.P. FAT CAT",
-      "url": "https://open.spotify.com/track/1B8c8s2kY6hUPnv3d7wdhS"
-    },
-    {
       "added_at": "2021-10-14 21:59:00",
       "album": {
         "name": "PLAYBACK",
@@ -405,22 +385,6 @@
       "url": "https://open.spotify.com/track/79ERAQP6BwL7qcSDcqR1RC"
     },
     {
-      "added_at": "2022-03-31 21:59:00",
-      "album": {
-        "name": "Couldn't Have Said It Better, Pt. 3",
-        "url": "https://open.spotify.com/album/6eNaDkgGcqayM2qDL019Ea"
-      },
-      "artists": [
-        {
-          "name": "A-Reece",
-          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Couldn't Have Said It Better, Pt. 3",
-      "url": "https://open.spotify.com/track/2707FUsKLBJHDznDXAM1ea"
-    },
-    {
       "added_at": "2021-10-04 12:50:44",
       "album": {
         "name": "Intentions (feat. Blxckie)",
@@ -439,6 +403,42 @@
       "duration_ms": 200000,
       "name": "Intentions (feat. Blxckie)",
       "url": "https://open.spotify.com/track/62YE2rQA0dkNmuNJCEB5Bu"
+    },
+    {
+      "added_at": "2022-07-08 07:54:50",
+      "album": {
+        "name": "Wolves of Africa (Part 1/2)",
+        "url": "https://open.spotify.com/album/221gN8YGCd9AvgolHsd2eC"
+      },
+      "artists": [
+        {
+          "name": "James BKS",
+          "url": "https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV"
+        },
+        {
+          "name": "The Big Hash",
+          "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
+        }
+      ],
+      "duration_ms": 159324,
+      "name": "High Level",
+      "url": "https://open.spotify.com/track/7kdDzuTex0Z84GMcH98l4E"
+    },
+    {
+      "added_at": "2022-03-31 21:59:00",
+      "album": {
+        "name": "Couldn't Have Said It Better, Pt. 3",
+        "url": "https://open.spotify.com/album/6eNaDkgGcqayM2qDL019Ea"
+      },
+      "artists": [
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Couldn't Have Said It Better, Pt. 3",
+      "url": "https://open.spotify.com/track/2707FUsKLBJHDznDXAM1ea"
     },
     {
       "added_at": "2022-06-27 09:53:08",
@@ -479,6 +479,46 @@
       "duration_ms": 309929,
       "name": "TALK SiKK",
       "url": "https://open.spotify.com/track/6MiROidErndwYe5sTt44EQ"
+    },
+    {
+      "added_at": "2022-07-14 22:48:37",
+      "album": {
+        "name": "Backroom",
+        "url": "https://open.spotify.com/album/7I6PNSnQ2ScimsJGZ0GnSv"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Backroom",
+      "url": "https://open.spotify.com/track/1WBvbilb4UNMD8vxNbgZyp"
+    },
+    {
+      "added_at": "2022-07-14 22:48:37",
+      "album": {
+        "name": "Don't Wait",
+        "url": "https://open.spotify.com/album/0bCc1To9O7lYZw8ahdpIdk"
+      },
+      "artists": [
+        {
+          "name": "Rudy Chalmers",
+          "url": "https://open.spotify.com/artist/7dP2IIbQgbUJaCZsTgY1dC"
+        },
+        {
+          "name": "MOONGA K.",
+          "url": "https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d"
+        }
+      ],
+      "duration_ms": 213342,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/5jKzBqrnuoF2qgzIP2EbQK"
     },
     {
       "added_at": "2022-07-08 07:54:50",
@@ -729,6 +769,22 @@
       "url": "https://open.spotify.com/track/7kqrDBm2gEIt1QZI5VwMR6"
     },
     {
+      "added_at": "2022-07-14 22:48:37",
+      "album": {
+        "name": "Themba",
+        "url": "https://open.spotify.com/album/55xOVjl8fVmhmTWPh5qXbb"
+      },
+      "artists": [
+        {
+          "name": "Benlay",
+          "url": "https://open.spotify.com/artist/33bcG30WfjE62cl3CJ7Pa4"
+        }
+      ],
+      "duration_ms": 262956,
+      "name": "Themba",
+      "url": "https://open.spotify.com/track/6nIIHgVc9RXMjPkEF4RRRw"
+    },
+    {
       "added_at": "2021-02-18 22:00:00",
       "album": {
         "name": "Mshimane 2.0",
@@ -909,22 +965,6 @@
       "url": "https://open.spotify.com/track/0qHseRiLUEkuXR6YCspJnn"
     },
     {
-      "added_at": "2022-06-27 09:53:08",
-      "album": {
-        "name": "Episode Blues",
-        "url": "https://open.spotify.com/album/1HsySL0ZPCMwMwWiXyhoHX"
-      },
-      "artists": [
-        {
-          "name": "Orchid MusiQ",
-          "url": "https://open.spotify.com/artist/6poHluhYcLIL6jomFHY5pD"
-        }
-      ],
-      "duration_ms": 196414,
-      "name": "Episode Blues",
-      "url": "https://open.spotify.com/track/2kK0ZSBxx3U3hvXFXCz97a"
-    },
-    {
       "added_at": "2021-10-29 07:40:50",
       "album": {
         "name": "The Pressure",
@@ -939,30 +979,6 @@
       "duration_ms": 261340,
       "name": "The Pressure",
       "url": "https://open.spotify.com/track/0MHnB8ECLzM4LEDjLLgdm8"
-    },
-    {
-      "added_at": "2022-04-22 05:35:40",
-      "album": {
-        "name": "Trapiano, Vol. 1",
-        "url": "https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw"
-      },
-      "artists": [
-        {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
-        },
-        {
-          "name": "Champuru Makhenzo",
-          "url": "https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw"
-        },
-        {
-          "name": "Sayfar",
-          "url": "https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u"
-        }
-      ],
-      "duration_ms": 190589,
-      "name": "Bula Sekele",
-      "url": "https://open.spotify.com/track/53zBbKEqPVgHk9t0xDPoE7"
     },
     {
       "added_at": "2022-02-24 21:59:00",
@@ -1051,42 +1067,6 @@
     {
       "added_at": "2022-07-08 07:54:50",
       "album": {
-        "name": "Kgalemela",
-        "url": "https://open.spotify.com/album/3WYqXfP4vIT8V8eOQVTDmc"
-      },
-      "artists": [
-        {
-          "name": "HashOne",
-          "url": "https://open.spotify.com/artist/0L32GfRTOoLDuJkxDFiQH6"
-        },
-        {
-          "name": "Veezo View",
-          "url": "https://open.spotify.com/artist/0r4THVpq24VrkfEj2QxQYI"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Kgalemela",
-      "url": "https://open.spotify.com/track/4Xtf2Q2LtxwigCd0HIYSPy"
-    },
-    {
-      "added_at": "2022-04-14 21:59:00",
-      "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/4yPNZAkwMDILF48C1jzXDo"
-      },
-      "artists": [
-        {
-          "name": "Eccentric King",
-          "url": "https://open.spotify.com/artist/5CYCc5XQbVPRC3kadV7dzp"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/3DTjqXoV7U9LxJr6nlDbaq"
-    },
-    {
-      "added_at": "2022-07-08 07:54:50",
-      "album": {
         "name": "Emakudeni",
         "url": "https://open.spotify.com/album/1kwD8PS1Dy4TIANzG5E3WH"
       },
@@ -1165,42 +1145,6 @@
       "url": "https://open.spotify.com/track/7oRxbtVNrwYLQVpuO4ajVV"
     },
     {
-      "added_at": "2022-02-24 21:59:00",
-      "album": {
-        "name": "Soaring",
-        "url": "https://open.spotify.com/album/3fuT6GFqDLZ0spey7ctE5Y"
-      },
-      "artists": [
-        {
-          "name": "J Molley",
-          "url": "https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T"
-        }
-      ],
-      "duration_ms": 135426,
-      "name": "Soaring",
-      "url": "https://open.spotify.com/track/5HEwz37ArQ5v5OHAyHwlGc"
-    },
-    {
-      "added_at": "2022-06-27 09:53:08",
-      "album": {
-        "name": "Tekky?",
-        "url": "https://open.spotify.com/album/2lUZyNwtlHN9rLiCV9zHyD"
-      },
-      "artists": [
-        {
-          "name": "RAF DON",
-          "url": "https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq"
-        },
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        }
-      ],
-      "duration_ms": 184087,
-      "name": "Tekky?",
-      "url": "https://open.spotify.com/track/69q9wUIcQAznSeMugywbAT"
-    },
-    {
       "added_at": "2022-03-17 21:59:00",
       "album": {
         "name": "Green",
@@ -1215,22 +1159,6 @@
       "duration_ms": 115685,
       "name": "Sistine Chapel",
       "url": "https://open.spotify.com/track/5wbu811arscgby6HcCDe5m"
-    },
-    {
-      "added_at": "2022-07-08 07:54:50",
-      "album": {
-        "name": "Breathing Room",
-        "url": "https://open.spotify.com/album/1aWvfjg1smVz7yyhqp6UGu"
-      },
-      "artists": [
-        {
-          "name": "Monelle",
-          "url": "https://open.spotify.com/artist/5eNlERDlCp6v9IF7BKw7Jz"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Inhale",
-      "url": "https://open.spotify.com/track/0JnS7hKdzPL9jD9HtT89Y9"
     },
     {
       "added_at": "2021-09-02 22:17:51",
@@ -1251,26 +1179,6 @@
       "duration_ms": 193629,
       "name": "Yesssir",
       "url": "https://open.spotify.com/track/4QubV2az3pY4MlaTAg47PQ"
-    },
-    {
-      "added_at": "2022-07-08 07:54:50",
-      "album": {
-        "name": "Aligned Starz",
-        "url": "https://open.spotify.com/album/4anUeeUSDHVnvTsXs4vUqQ"
-      },
-      "artists": [
-        {
-          "name": "HYPE1108",
-          "url": "https://open.spotify.com/artist/5immINU629aU0BHwmiRnnV"
-        },
-        {
-          "name": "Espiquet",
-          "url": "https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Aligned Starz",
-      "url": "https://open.spotify.com/track/3UfQIUoGvHWxWLgKpT9tqQ"
     },
     {
       "added_at": "2022-05-05 21:59:00",
@@ -1295,6 +1203,26 @@
       "duration_ms": 215040,
       "name": "Sijimile",
       "url": "https://open.spotify.com/track/1PY5vSBLfpIh79JFywPTlt"
+    },
+    {
+      "added_at": "2022-07-14 22:48:37",
+      "album": {
+        "name": "It Get Heavy",
+        "url": "https://open.spotify.com/album/1QaDBDsGVfWbB4vSu0DWs4"
+      },
+      "artists": [
+        {
+          "name": "Bambi",
+          "url": "https://open.spotify.com/artist/0Xb7fP5TfMhGEuRucG7etD"
+        },
+        {
+          "name": "Lone Steppa",
+          "url": "https://open.spotify.com/artist/0HKrZnHB7llFrvJwTRdih0"
+        }
+      ],
+      "duration_ms": 105510,
+      "name": "It Get Heavy",
+      "url": "https://open.spotify.com/track/1quShxByXlkNEWB5hlF1XE"
     },
     {
       "added_at": "2022-07-08 07:54:50",
@@ -1349,34 +1277,6 @@
       "url": "https://open.spotify.com/track/4QZgfpj5zXW5RAktrbUzLJ"
     },
     {
-      "added_at": "2021-12-09 21:59:00",
-      "album": {
-        "name": "heaveN caN waiT: thE narroW dooR (vol. 1)",
-        "url": "https://open.spotify.com/album/6wEjzLTreHIS9pOdZ1CUis"
-      },
-      "artists": [
-        {
-          "name": "A-Reece",
-          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
-        },
-        {
-          "name": "Jay Jody",
-          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
-        },
-        {
-          "name": "BLUE TAPE",
-          "url": "https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK"
-        },
-        {
-          "name": "Ayanda Jiya",
-          "url": "https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "morE thaN a nighT",
-      "url": "https://open.spotify.com/track/69oPVISiqchmjWAdDYsShj"
-    },
-    {
       "added_at": "2021-11-18 21:59:00",
       "album": {
         "name": "SUN / BABY BLUE 4\u2019s",
@@ -1413,52 +1313,20 @@
       "url": "https://open.spotify.com/track/58Tnb3VVqcXsAqiYzf4QgZ"
     },
     {
-      "added_at": "2022-07-08 07:54:50",
+      "added_at": "2022-07-14 22:48:37",
       "album": {
-        "name": "Respect Your Life",
-        "url": "https://open.spotify.com/album/0CEl1jHuBPmTIPLaea54Zr"
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/2F7Fr3sxenbwbAi9D2rOUH"
       },
       "artists": [
         {
-          "name": "Kb The Deacon",
-          "url": "https://open.spotify.com/artist/0bvCzrCu0Z53djr80N73gs"
-        },
-        {
-          "name": "SwissTha Duke",
-          "url": "https://open.spotify.com/artist/1yzmvLhUtYCQCGV5pJZDGq"
-        },
-        {
-          "name": "Shayne Jo",
-          "url": "https://open.spotify.com/artist/4M7Bu9aTmjhttq1FGEgzkr"
+          "name": "Gia Mayham",
+          "url": "https://open.spotify.com/artist/7A9CylAl5mdCXJNh8AAQp7"
         }
       ],
-      "duration_ms": 188287,
-      "name": "Respect Your Life",
-      "url": "https://open.spotify.com/track/7EJcBcy2dKraLWfFVeZ0KE"
-    },
-    {
-      "added_at": "2022-05-19 21:59:00",
-      "album": {
-        "name": "Haibo (feat. S1mba & Reason) [Remix]",
-        "url": "https://open.spotify.com/album/6y5QE68qjiuXSQ9d0XYpaJ"
-      },
-      "artists": [
-        {
-          "name": "Kiddo CSA",
-          "url": "https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW"
-        },
-        {
-          "name": "Reason",
-          "url": "https://open.spotify.com/artist/25LmW62LFKrcapOAnJWoNX"
-        },
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        }
-      ],
-      "duration_ms": 198449,
-      "name": "Haibo (feat. S1mba & Reason) - Remix",
-      "url": "https://open.spotify.com/track/5xO9vhE0odRSahw5oQOHwr"
+      "duration_ms": 167732,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/73AB392bUj4JnIR1vRVvwZ"
     },
     {
       "added_at": "2022-03-31 21:59:00",

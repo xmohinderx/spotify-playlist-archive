@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-108 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+109 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Lost Heads](https://open.spotify.com/track/3UweSSZc1r6z0DPQYEymb4) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are the Light](https://open.spotify.com/album/70nGjFdZKPyoYCtDhTlbqQ) | 6:26 | 2021-10-06 |  |
 | [Lothlórien](https://open.spotify.com/track/1qXJzwa3DJxVJT5Ql4T3mE) | [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw), [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [The Chronicles of a Caterpillar: The Egg](https://open.spotify.com/album/0FloeQdkj6meqVv3Hkncu8) | 2:37 | 2022-06-29 |  |
 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 | 2021-10-06 |  |
+| [Mapa](https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg) | [Sundarbans](https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82) | [Mapa](https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF) | 2:55 | 2022-07-14 |  |
 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 | 2022-02-25 |  |
 | [melody in high feedback tones](https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX) | 3:53 | 2021-10-06 |  |
 | [Mouth](https://open.spotify.com/track/05cL1sVT4MNyBqBw3ef5vb) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Mouth](https://open.spotify.com/album/6pgLIoWlqTwulgAFoZhjve) | 4:01 | 2021-10-06 |  |
@@ -73,7 +74,7 @@
 | [Peculiar Machine \- Georgia Anne Muldrow Remix](https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Peculiar Machine \(Georgia Anne Muldrow Remix\)](https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV) | 3:02 | 2021-10-06 |  |
 | [Phantom Throb](https://open.spotify.com/track/4HTssxgiSfzBgJz0OpGflP) | [Hymie's Basement](https://open.spotify.com/artist/13EcvIBumjgScGWRdX4z3b), [WHY?](https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH), [Fog](https://open.spotify.com/artist/07fCHWZAafI3Dd4T1svHhd) | [Phantom Throb](https://open.spotify.com/album/30nUHO4LbymjkGJLDM2QTq) | 3:54 | 2022-01-11 |  |
 | [Plans](https://open.spotify.com/track/08IFsxnFORrTeM1mz4EuvH) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/1GmdNCH9lvYzn0ZgtG8Mpa) | 5:38 | 2021-10-06 |  |
-| [Quirk](https://open.spotify.com/track/326iKm66vm3bhCXAOxh3xK) | [Really From](https://open.spotify.com/artist/1qTmg9Vib3GHabe1ygHW9y) | [Really From](https://open.spotify.com/album/06jgHnFcljRkBImNYTddpB) | 4:12 | 2021-10-06 |  |
+| [Quirk](https://open.spotify.com/track/326iKm66vm3bhCXAOxh3xK) | [Really From](https://open.spotify.com/artist/1qTmg9Vib3GHabe1ygHW9y) | [Really From](https://open.spotify.com/album/06jgHnFcljRkBImNYTddpB) | 4:12 | 2021-10-06 | 2022-07-15 |
 | [Rain Take Me Back Himalaya](https://open.spotify.com/track/4S2be7DT90dt19piW7wj8O) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Plexiglass](https://open.spotify.com/album/34vLOdj6NXH9oESFFJa9F1) | 4:27 | 2022-07-04 |  |
 | [Reverie](https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:18 | 2021-10-06 |  |
 | [Right Is Alright, Wrong Is To Belong](https://open.spotify.com/track/3MQ8tI1RbEj7SL0FVG9sTt) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [Moot!](https://open.spotify.com/album/4CBieA8DZ8kL8Dr49KvPFT) | 4:57 | 2021-10-06 |  |

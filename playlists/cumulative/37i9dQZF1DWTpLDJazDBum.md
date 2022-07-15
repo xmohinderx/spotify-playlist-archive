@@ -4,7 +4,7 @@
 
 > Find your flow with these instrumental trap and lofi beats.
 
-198 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+199 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Harvest](https://open.spotify.com/track/0GhNhefIBbZpoe3FQmVz2I) | [Minosour](https://open.spotify.com/artist/1cwzQoxtRJWvTDNQc6lc7a) | [Harvest](https://open.spotify.com/album/4NtVGPx6IoLyovOXtdjvHE) | 1:47 | 2022-04-08 |  |
 | [Hats Off](https://open.spotify.com/track/7M44Mj5Csy4IBWbWZUHaHV) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Hats Off](https://open.spotify.com/album/0M46HmldM8GjIqW5ZHpYsv) | 3:05 | 2022-05-26 |  |
 | [Have Your Fun](https://open.spotify.com/track/5CLTIJXyJ6xbK5lt7feH5y) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:17 | 2022-06-03 |  |
-| [Hontoni Tasukete](https://open.spotify.com/track/4Fq3pTVdkofsmLhCRnfgZN) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Hontoni Tasukete](https://open.spotify.com/album/772KGx3CGT2gAI7y4MiGpE) | 1:42 | 2022-05-26 |  |
+| [Hontoni Tasukete](https://open.spotify.com/track/4Fq3pTVdkofsmLhCRnfgZN) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Hontoni Tasukete](https://open.spotify.com/album/772KGx3CGT2gAI7y4MiGpE) | 1:42 | 2022-05-26 | 2022-07-15 |
 | [How Does It Feel](https://open.spotify.com/track/0xmPtIIpkzi0sqBXTqPYwj) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [How Does It Feel](https://open.spotify.com/album/7iBIMGsXdqSKVQHG7UPLwU) | 2:25 | 2022-04-08 |  |
 | [Hunter](https://open.spotify.com/track/4DjwdB1x3jgUk1alcouL3g) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Hunter](https://open.spotify.com/album/3lkCHgz92YIYwDVLkVGlQw) | 2:27 | 2022-06-24 |  |
 | [Hypocrisy](https://open.spotify.com/track/34Fimf5dcnJeuX8OfCTIZz) | [Amro Daly](https://open.spotify.com/artist/2fZLqmy1qsTrcQEeVmm0qj) | [Dark Catharsis](https://open.spotify.com/album/6FVhPiKboFptJyXNt7LBaR) | 3:05 | 2022-04-08 | 2022-05-27 |
@@ -141,6 +141,7 @@
 | [Past Whispers](https://open.spotify.com/track/1ZDq473IO8WKprljZerOvB) | [Long Tapes](https://open.spotify.com/artist/5eB6joIKmG260vSyI72D4V) | [Past Whispers](https://open.spotify.com/album/3dpqERtxNB38eE18PM5ZQ8) | 3:06 | 2022-04-08 | 2022-05-27 |
 | [Pink Pyramid](https://open.spotify.com/track/6QTId8qrM6PDpNPtGgvuKb) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Pink Pyramid](https://open.spotify.com/album/4rFwdylulSjJIzVYaSw3FD) | 2:52 | 2022-04-08 | 2022-05-27 |
 | [Play It](https://open.spotify.com/track/4doAGMAZc4m1WElRVXnzou) | [Bumper Karz](https://open.spotify.com/artist/3VrdRIt0zjUVIjwG465EZ8) | [Play It](https://open.spotify.com/album/1x51AdBTsjrrWtijgBqDy7) | 2:41 | 2022-04-08 | 2022-05-27 |
+| [Ransomware](https://open.spotify.com/track/0Xq3MbT0WU19vw6n3kw9CU) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Ransomware / Missed Out](https://open.spotify.com/album/5kwTPu2nX7XlMfU6NlwkG6) | 2:43 | 2022-07-15 |  |
 | [rebirth](https://open.spotify.com/track/77WS8I64J8YzD2E01yK26g) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [rebirth](https://open.spotify.com/album/5SGTgPU9cAKGGEsBIywpkj) | 2:21 | 2022-04-08 | 2022-05-27 |
 | [recollections](https://open.spotify.com/track/4XRmrU3tdwjrvqiHWEMcG7) | [Luvbird](https://open.spotify.com/artist/2vmQ4q3IQKzvHaHTJAh3Ph) | [recollections](https://open.spotify.com/album/4andu5rQAFEUIu3dmrNJBc) | 2:52 | 2022-04-08 | 2022-05-27 |
 | [Redefine](https://open.spotify.com/track/3myirb6fcmRT8eeSZV1poe) | [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Redefine](https://open.spotify.com/album/3I2ZTGS4Pqk6xPvN3MrN6Y) | 2:24 | 2022-04-08 | 2022-05-27 |

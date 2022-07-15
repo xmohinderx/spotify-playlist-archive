@@ -508,6 +508,24 @@
     },
     {
       "album": {
+        "name": "red",
+        "url": "https://open.spotify.com/album/23qrC1VsWOSP2USqSLHZ4m"
+      },
+      "artists": [
+        {
+          "name": "De Staat",
+          "url": "https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146799,
+      "name": "Head On The Block",
+      "url": "https://open.spotify.com/track/2pvSoA1HrhMnzFAmUvVLNN"
+    },
+    {
+      "album": {
         "name": "I'm not Pretty",
         "url": "https://open.spotify.com/album/7kpMsNJoM5X8kntRP4OzFg"
       },

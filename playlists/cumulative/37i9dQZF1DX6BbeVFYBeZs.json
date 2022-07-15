@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Antofagasta",
+        "url": "https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a"
+      },
+      "artists": [
+        {
+          "name": "Graciela Flores",
+          "url": "https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127875,
+      "name": "Antofagasta",
+      "url": "https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa"
+    },
+    {
+      "album": {
         "name": "Antoni",
         "url": "https://open.spotify.com/album/3lXB92uIKsnBNy9XLFzDqO"
       },
@@ -679,6 +697,24 @@
       "duration_ms": 167040,
       "name": "Eres Divina",
       "url": "https://open.spotify.com/track/2yv8w2ANzHumAGdN3fwLoK"
+    },
+    {
+      "album": {
+        "name": "Eu Sei Que Vou Te Amar",
+        "url": "https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Marc",
+          "url": "https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264080,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg"
     },
     {
       "album": {
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 203000,
       "name": "Path To The Mind",
       "url": "https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv"
@@ -1708,6 +1744,24 @@
     },
     {
       "album": {
+        "name": "Spanish Ballad",
+        "url": "https://open.spotify.com/album/6KiDH7Wp4lrFqiY8nnWFSz"
+      },
+      "artists": [
+        {
+          "name": "Benedict Larsen",
+          "url": "https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178632,
+      "name": "Spanish Ballad",
+      "url": "https://open.spotify.com/track/0pdKzWmhMFWcC2UQiFz2gY"
+    },
+    {
+      "album": {
         "name": "Speak Once More",
         "url": "https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb"
       },
@@ -2022,6 +2076,28 @@
     },
     {
       "album": {
+        "name": "Vals del Poniente",
+        "url": "https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE"
+      },
+      "artists": [
+        {
+          "name": "Pablo Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ"
+        },
+        {
+          "name": "Manuel Gal\u00e1n",
+          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122817,
+      "name": "Vals del Poniente",
+      "url": "https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0"
+    },
+    {
+      "album": {
         "name": "Venecia",
         "url": "https://open.spotify.com/album/3eo8sHVLrCyjaTLvS76qUh"
       },
@@ -2167,7 +2243,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 593000,
       "name": "\u00c1gua e Vinho",
       "url": "https://open.spotify.com/track/5xPqNq3Z58ZOHH75WHs4vi"

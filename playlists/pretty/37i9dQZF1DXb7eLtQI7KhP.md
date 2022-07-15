@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 
 > Soft and soothing piano music for meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,053 likes - 96 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,081 likes - 96 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
