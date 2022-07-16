@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-56 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+57 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Portland](https://open.spotify.com/track/7c4iU5qYbzvhcuyKCTHyFt) | [Zoology](https://open.spotify.com/artist/3V1zHjaKSXKbaOEGNHjuPO) | [Portland](https://open.spotify.com/album/04QDnLrtyxjXvcOxHGEwQz) | 3:19 | 2021-09-08 |  |
 | [Pure Imagination](https://open.spotify.com/track/3VtDoxZ7IztQVQAomuXqWC) | [Ruben Wan](https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5) | [Pure Imagination](https://open.spotify.com/album/2genDz0QoWigwoBg202foH) | 2:06 | 2021-09-08 |  |
 | [Runaway](https://open.spotify.com/track/1itgrD1BIDPArSA5bPiWEG) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Magnus Klausen](https://open.spotify.com/artist/0pTklYPGOTeu00nkkr5QeM) | [Runaway](https://open.spotify.com/album/1c0f27jKckR5MkaCjHVtxy) | 2:14 | 2021-09-08 |  |
+| [Saffron Sunset](https://open.spotify.com/track/5mpTv6Y3IDGKcGHZaXv2VI) | [Regressor](https://open.spotify.com/artist/0z8ShnIyctKoYwU68qKzRT) | [Crescent Spoon](https://open.spotify.com/album/2YFHOiLVwsKRRqck9EXA30) | 5:13 | 2022-07-15 |  |
 | [Second Wind](https://open.spotify.com/track/4u8JJlRQ4WF6XLH5geEiyL) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Second Wind](https://open.spotify.com/album/0N3uT3w0Bn1f6wlrtHTcfM) | 3:00 | 2021-09-08 |  |
 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 | 2022-03-11 |  |
 | [Something More](https://open.spotify.com/track/1WUenMBQLpOkvu1lc9AbFg) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Butcher Brown](https://open.spotify.com/artist/1EjwcoJN7uzJPuv1vbf2qk) | [Juicebox](https://open.spotify.com/album/7LkpnXXvh8x6EU4mRHgFQW) | 5:03 | 2021-09-08 |  |

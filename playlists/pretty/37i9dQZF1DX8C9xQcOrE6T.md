@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All of your favorite Disney hits, including songs from Turning Red\. Stream Disney and Pixar's Turning Red on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,435,140 likes - 110 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,437,261 likes - 110 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

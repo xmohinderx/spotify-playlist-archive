@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 130000,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7CwPDvjGUUyPSJK8HudIlO"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 150581,
       "name": "BAM! BAM! BAM!",
       "url": "https://open.spotify.com/track/0xVIt6qDM53X2VXdbw4j2o"
@@ -617,6 +617,28 @@
       "duration_ms": 142124,
       "name": "Benchmade Infidel",
       "url": "https://open.spotify.com/track/72v5b2l8MRF1DobVRCQTiO"
+    },
+    {
+      "album": {
+        "name": "BERMUDA 1399",
+        "url": "https://open.spotify.com/album/5tdMXvSCmrb73MZ6CzHRWV"
+      },
+      "artists": [
+        {
+          "name": "99zed",
+          "url": "https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9"
+        },
+        {
+          "name": "Blckbrd",
+          "url": "https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169201,
+      "name": "BERMUDA 1399",
+      "url": "https://open.spotify.com/track/4KgXSXgEVoFd5u6CbXjKPW"
     },
     {
       "album": {
@@ -1531,6 +1553,28 @@
       "duration_ms": 134257,
       "name": "DEAD TO ME",
       "url": "https://open.spotify.com/track/4x1K2NGxzutGeMJQwvTF7I"
+    },
+    {
+      "album": {
+        "name": "DEAD WAY",
+        "url": "https://open.spotify.com/album/2N2UUQf8anrLXpdCC9XWfD"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Playa",
+          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+        },
+        {
+          "name": "MC ORSEN",
+          "url": "https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "DEAD WAY",
+      "url": "https://open.spotify.com/track/4yj0HSSShmiH4wIk8rEWms"
     },
     {
       "album": {
@@ -2956,6 +3000,28 @@
     },
     {
       "album": {
+        "name": "KOTA",
+        "url": "https://open.spotify.com/album/2LgEcNjbm8JC8fL986lpBP"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "South Strip",
+          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195405,
+      "name": "KOTA",
+      "url": "https://open.spotify.com/track/0dy38Daud7yGJskbPcuHr4"
+    },
+    {
+      "album": {
         "name": "KUMBAYA",
         "url": "https://open.spotify.com/album/6Yds3Wxk3HxQY4WgJJHya7"
       },
@@ -3293,7 +3359,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
@@ -3816,6 +3882,28 @@
     },
     {
       "album": {
+        "name": "PENDULUM",
+        "url": "https://open.spotify.com/album/6MviSy3Z8ZAeioagWxg1KB"
+      },
+      "artists": [
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        },
+        {
+          "name": "V21",
+          "url": "https://open.spotify.com/artist/67ALWf0iCYJTWxLJEvUJwk"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115849,
+      "name": "PENDULUM",
+      "url": "https://open.spotify.com/track/0HcnpTfok7xFG9l0BtW2r8"
+    },
+    {
+      "album": {
         "name": "PIGGY BACK",
         "url": "https://open.spotify.com/album/3mHzVRTVO0wXn0En8DsaCJ"
       },
@@ -3845,7 +3933,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 129032,
       "name": "Pipe Down",
       "url": "https://open.spotify.com/track/1xw3s0E9MNtRftzYFQrdqt"
@@ -4181,6 +4269,24 @@
       "duration_ms": 121503,
       "name": "Shogun of Sorrow",
       "url": "https://open.spotify.com/track/4NOmB5C88WVlkjdfK3lQZV"
+    },
+    {
+      "album": {
+        "name": "shoot to kill",
+        "url": "https://open.spotify.com/album/15bCxxxtbnTvJmIL6NLeKA"
+      },
+      "artists": [
+        {
+          "name": "Stoopa",
+          "url": "https://open.spotify.com/artist/1Dvz7bquj2cSDyEUz1C8hx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87881,
+      "name": "shoot to kill",
+      "url": "https://open.spotify.com/track/6cWVyn26nB2UHorE0iyQ8g"
     },
     {
       "album": {
@@ -4948,6 +5054,28 @@
     },
     {
       "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "album": {
         "name": "VENOM",
         "url": "https://open.spotify.com/album/22fGL6GIk4K5kvQkkcQfik"
       },
@@ -5141,7 +5269,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 159414,
       "name": "WHOTFISSATAN!",
       "url": "https://open.spotify.com/track/4lycLzckejuXWnaPEnJvgj"
@@ -5189,6 +5317,24 @@
       "duration_ms": 174732,
       "name": "WITHOUT A TRACE",
       "url": "https://open.spotify.com/track/5dVkNuhvfRmNas8DMNRNHx"
+    },
+    {
+      "album": {
+        "name": "god complex",
+        "url": "https://open.spotify.com/album/4MCcSOMcdAnXqE0y2PORQD"
+      },
+      "artists": [
+        {
+          "name": "luvseat",
+          "url": "https://open.spotify.com/artist/7efjR9fsgGb2ZuhhEDYhqs"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125352,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/2vpHZfMYlJ98xwVo5NknQ5"
     },
     {
       "album": {
@@ -5261,6 +5407,28 @@
       "duration_ms": 130500,
       "name": "WTF!",
       "url": "https://open.spotify.com/track/5po4XqNwlBnXXAYLtRcvpT"
+    },
+    {
+      "album": {
+        "name": "Yagami",
+        "url": "https://open.spotify.com/album/0nTPiq0oNIWlgw7Mbqapy6"
+      },
+      "artists": [
+        {
+          "name": "Red Dot",
+          "url": "https://open.spotify.com/artist/3eSp3CUFfIsOQUGRfIVdSz"
+        },
+        {
+          "name": "III-SCAR",
+          "url": "https://open.spotify.com/artist/5rCZjgv80X6wi240xvkdjO"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "Yagami",
+      "url": "https://open.spotify.com/track/7kJ1useulEnBVk6BP0gqIL"
     },
     {
       "album": {

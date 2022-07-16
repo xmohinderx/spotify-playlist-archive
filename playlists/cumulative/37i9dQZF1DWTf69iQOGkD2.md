@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: 3030
 
-110 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
+111 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Foda Que Ela É Linda \- Ao Vivo](https://open.spotify.com/track/0FqxX09KVZLIPDKv5kjA1e) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0q3IIJ0dg3D6PnVrVTcPTx) | 3:03 | 2022-03-18 |  |
 | [Fui Eu](https://open.spotify.com/track/1fleF67U8sTqrCgbt58ujl) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [RESENHV](https://open.spotify.com/artist/7qvo2lIj7T6DUuIkTzs7Vm) | [Fui Eu](https://open.spotify.com/album/3qwj0K7CI3VH6j27jOukK4) | 1:41 | 2022-05-06 | 2022-05-28 |
 | [Geribá \(Papasessions \#8\) \[feat\. OIK\]](https://open.spotify.com/track/5b8A3MH3e2gD8RFEcNggAs) | [Papasessions](https://open.spotify.com/artist/1bzpK4GDoDGGXX9eqIkwFs), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Geribá \(Papasessions \#8\) \[feat\. OIK\]](https://open.spotify.com/album/7AqekLGMeEV8MnMmpeq7h1) | 3:42 | 2022-03-18 |  |
+| [Já Vou](https://open.spotify.com/track/6k64bJBuP0ae5jFcHn8DD7) | [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Já Vou](https://open.spotify.com/album/0wvlDy1UI32sSZ8xullKwo) | 2:57 | 2022-07-15 |  |
 | [Ligação 2](https://open.spotify.com/track/6tHfzjkhBzGEGUwIeryUG1) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [RESENHV](https://open.spotify.com/artist/7qvo2lIj7T6DUuIkTzs7Vm) | [Ligação 2](https://open.spotify.com/album/3UEhToRrWkb9tUrSZVmbfk) | 1:31 | 2022-03-25 | 2022-04-16 |
 | [Lucidez](https://open.spotify.com/track/6f8uBSVUTqXb19edn8K2cY) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lucidez](https://open.spotify.com/album/4C5BUEEM5Xa7GyHlBr8LED) | 3:45 | 2022-04-29 | 2022-06-18 |
 | [Mais Leve](https://open.spotify.com/track/10UcCPD9VWK5LQMfGLGPIN) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Mais Leve](https://open.spotify.com/album/5Sfp3XSUSMqnegYFfaQZaC) | 4:07 | 2022-04-15 |  |

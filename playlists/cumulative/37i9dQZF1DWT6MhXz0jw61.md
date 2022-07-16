@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Lupe Fiasco
 
-214 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
+217 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [FATHER'S DAY](https://open.spotify.com/track/6umZfXvscE1GxzTG2SDiol) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FATHER'S DAY](https://open.spotify.com/album/39gFwU1cBpRZK05zRRFGkD) | 4:13 | 2022-06-17 |  |
 | [Feels Like Killa Season](https://open.spotify.com/track/1QRsljjsJAcpEqB5MljdWC) | [Doley Bernays](https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch) | [Feels Like Killa Season](https://open.spotify.com/album/2X2kwcegoaiWfLR8HDRn9b) | 3:40 | 2021-07-09 | 2022-05-07 |
 | [Fly Away](https://open.spotify.com/track/4IBhWkipPxDhSRhMaA83FA) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Lil Black Jean Jacket 3](https://open.spotify.com/album/1mFoolgRsDNPx9aizPSYDn) | 3:12 | 2022-05-13 |  |
+| [FOOTBALL HEADS \(feat\. Benny The Butcher\)](https://open.spotify.com/track/5sSiwYy1FPH8pJVzbD1B5K) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [FOOTBALL HEADS \(feat\. Benny The Butcher\)](https://open.spotify.com/album/213xNC4Hq3tKhvCzXFVuKu) | 3:10 | 2022-07-15 |  |
 | [Forever](https://open.spotify.com/track/4NpGQqfAGuIkMVRgVD5VRX) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Forever](https://open.spotify.com/album/4DEBKvrM10SocqyACeW5wF) | 3:07 | 2021-10-07\* | 2021-12-11 |
 | [Friday Activities](https://open.spotify.com/track/4QxTfL8i7rAou5zZqyOWVE) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx) | [Friday Activities](https://open.spotify.com/album/6g5Ztk1usaEbRPNoW4kGDO) | 3:11 | 2021-09-10 |  |
 | [Fundamental](https://open.spotify.com/track/4DDyktt6vtpXU2Y5HOyCGl) | [Strangers of Necessity](https://open.spotify.com/artist/6nucIQfqlpcEg3BamEDvHW), [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4), [Fooch the MC](https://open.spotify.com/artist/5cCX1TeFXcExS8WJSuvPw1) | [Vibe Theory](https://open.spotify.com/album/2v66MEVeEprsxeXACVebXf) | 2:44 | 2021-10-07\* | 2021-12-04 |
@@ -164,6 +165,7 @@
 | [pg baby](https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [learn 2 swim](https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf) | 2:36 | 2022-04-22 |  |
 | [Piano Love](https://open.spotify.com/track/7AmNgsApCocCTh9wnajhsR) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Piano Love](https://open.spotify.com/album/5pHaJ5OVQwzww81I7A0DGl) | 4:00 | 2021-10-08 | 2022-06-11 |
 | [Pomegranate](https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 2](https://open.spotify.com/album/0nJ5saIxlohpcXqBR586pH) | 1:49 | 2021-10-07\* | 2021-11-13 |
+| [Private Valet](https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Private Valet](https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu) | 2:29 | 2022-07-15 |  |
 | [PROBLEMS](https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 3:10 | 2022-03-25 |  |
 | [Product Of My Environment \(feat\. Kota the Friend & Erick the Architect\)](https://open.spotify.com/track/7r1lqyEW3iyZ39TDFnzI4p) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Product Of My Environment \(feat\. Kota the Friend & Erick the Architect\)](https://open.spotify.com/album/2l4kHNpiVzIfvDhR77CCdX) | 3:07 | 2021-10-07\* | 2021-11-13 |
 | [Puerto Rico](https://open.spotify.com/track/3fHFpZGEnzkocwC1xKSoNY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [USEE4YOURSELF](https://open.spotify.com/album/1aOVW07qHIiMe3f3HKXo8r) | 3:17 | 2021-07-09 | 2022-05-14 |
@@ -222,5 +224,6 @@
 | [World On Silent](https://open.spotify.com/track/47SHWAPqS1k6GZmgouEPCE) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [World On Silent](https://open.spotify.com/album/0wsXqAbx6bnRtaBaO3xm3w) | 3:15 | 2021-10-07\* | 2021-10-23 |
 | [You Got It](https://open.spotify.com/track/4ds41ycY4UZaxApauzIg40) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [You Got It](https://open.spotify.com/album/4nJWzgMLcYpNdrjVDO5g81) | 4:12 | 2021-10-08 | 2022-06-18 |
 | [Young Harleezy](https://open.spotify.com/track/4CuZSJLlmUrEfcXUm6pQk9) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:44 | 2022-05-06 |  |
+| [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 | 2022-07-15 |  |
 
 \*This playlist was first scraped on 2021-10-07. Prior content cannot be recovered.

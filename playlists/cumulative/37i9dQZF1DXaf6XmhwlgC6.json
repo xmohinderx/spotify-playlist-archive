@@ -1180,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "summer silence",
+        "url": "https://open.spotify.com/album/2l1GqNZKHiPQxt4dMJr5Oq"
+      },
+      "artists": [
+        {
+          "name": "Niveous",
+          "url": "https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175776,
+      "name": "summer silence",
+      "url": "https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS"
+    },
+    {
+      "album": {
         "name": "Morning Breeze",
         "url": "https://open.spotify.com/album/6ixmeJsmJfMKdrrAChdc4g"
       },

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Phum Viphurit \(Thailand\)
 
-263 songs - 15 hr 40 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+264 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:56 | 2022-03-24 | 2022-04-29 |
 | [How](https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi) | [Wooly and the Uke](https://open.spotify.com/artist/1FykDoCf7IfkRKARKdnNV6), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [How](https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4) | 2:38 | 2022-03-31 | 2022-04-22 |
 | [Hum Kahan](https://open.spotify.com/track/4lU9mJtD01KknelD2W2jX8) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Hum Kahan](https://open.spotify.com/album/6de2uubuc6Oi51s8A7PPkV) | 3:09 | 2022-03-24 | 2022-05-13 |
-| [i hate this city](https://open.spotify.com/track/7obkHjtZHmdVWdDwaLsd93) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i hate this city](https://open.spotify.com/album/4prQxI1y4XRu6Oq8XdQUhr) | 3:15 | 2022-06-09 |  |
+| [i hate this city](https://open.spotify.com/track/7obkHjtZHmdVWdDwaLsd93) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i hate this city](https://open.spotify.com/album/4prQxI1y4XRu6Oq8XdQUhr) | 3:15 | 2022-06-09 | 2022-07-16 |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-02 |  |
 | [I Like Me Better Now](https://open.spotify.com/track/6jTqsb08gdgzHfnnQSHRsc) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D) | [I Like Me Better Now](https://open.spotify.com/album/4Nqv5gCSOIPSCmlxtoRqUR) | 3:56 | 2022-06-09 |  |
 | [i like u](https://open.spotify.com/track/5UHPob6XgbZw5CXOyHtMhD) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [i like u](https://open.spotify.com/album/0il3XZ7i2T01i0M4Ij9SVZ) | 2:27 | 2022-05-26 | 2022-07-08 |
@@ -226,6 +226,7 @@
 | [Trust Me With This \(Mama\)](https://open.spotify.com/track/68zHOxA7F3MU6ow3e2LfzL) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Trust Me With This \(Mama\)](https://open.spotify.com/album/1RqwlxPfColbEHt2hsQaZO) | 3:44 | 2022-03-24 | 2022-04-22 |
 | [Tsuki \- พระจันทร์](https://open.spotify.com/track/5ykMYZvOASxQrj756r9UXx) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Tsuki \(พระจันทร์\)](https://open.spotify.com/album/4rEDnBmCvEm0YksuClGr1x) | 3:36 | 2022-06-30 |  |
 | [Tu es mon amour](https://open.spotify.com/track/592llxk0B9WPICOjsnx4zl) | [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR) | [Tu es mon amour](https://open.spotify.com/album/5Rm7mSJ7q0dzTQ3GulFESu) | 3:21 | 2022-07-07 |  |
+| [Turn The Lights On](https://open.spotify.com/track/05wxO6vaz6J7ycXloB4qOs) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Turn The Lights On](https://open.spotify.com/album/3lA9TFTcgcKviBmx0k6Mk0) | 3:25 | 2022-07-15 |  |
 | [Tàu Biển](https://open.spotify.com/track/0Rb6t9HNbdIj41apUiN9wl) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Tàu Biển](https://open.spotify.com/album/1IuJCra9lGMb1U0FVcjMfM) | 3:24 | 2022-04-21 | 2022-06-10 |
 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-19 | 2022-07-01 |
 | [Undo \(feat\. Su\)](https://open.spotify.com/track/3PPw7f955j5emJDS4hrjbs) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz), [Su](https://open.spotify.com/artist/1l8xhC977AFxpN7QyDajbC) | [Casual Day](https://open.spotify.com/album/4SUl0HZ4PltGiBRmmqoMgq) | 3:19 | 2022-05-12 | 2022-07-08 |

@@ -26,6 +26,32 @@
     },
     {
       "album": {
+        "name": "[PNJ]",
+        "url": "https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh"
+      },
+      "artists": [
+        {
+          "name": "Kirouac",
+          "url": "https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt"
+        },
+        {
+          "name": "Kodakludo",
+          "url": "https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ"
+        },
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168228,
+      "name": "[PNJ]",
+      "url": "https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw"
+    },
+    {
+      "album": {
         "name": "Addictive/Predictive",
         "url": "https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF"
       },
@@ -495,7 +521,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 153890,
       "name": "Carr\u00e9 Saint-Louis",
       "url": "https://open.spotify.com/track/1YkNLHS0VUiLL9nKOID14Q"
@@ -967,7 +993,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 234102,
       "name": "East Angus 1998",
       "url": "https://open.spotify.com/track/7JJNsPiJyMNyRtZTx4qhMN"
@@ -1637,7 +1663,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 221120,
       "name": "La nuit",
       "url": "https://open.spotify.com/track/5qMGT6jepsNyROTcf3LpFu"
@@ -2046,6 +2072,24 @@
     },
     {
       "album": {
+        "name": "moving song",
+        "url": "https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165187,
+      "name": "moving song",
+      "url": "https://open.spotify.com/track/1PZl6YAnHPyR2wcloffA7R"
+    },
+    {
+      "album": {
         "name": "M\u00e9lodie / Rodeo",
         "url": "https://open.spotify.com/album/5y4jwPzUYpj75kbgcBt00j"
       },
@@ -2061,6 +2105,24 @@
       "duration_ms": 150047,
       "name": "M\u00e9lodie",
       "url": "https://open.spotify.com/track/5WtVhKKPkobhT9K1ddMBpH"
+    },
+    {
+      "album": {
+        "name": "Vie d'ange",
+        "url": "https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201811,
+      "name": "Neuf \u00e0 cinq",
+      "url": "https://open.spotify.com/track/5JCR88ZFSvTaackes4UtEX"
     },
     {
       "album": {
@@ -2305,6 +2367,24 @@
       "duration_ms": 230133,
       "name": "Papa Wemba",
       "url": "https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc"
+    },
+    {
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/7gG5mPrZPcu6TgIZcTxMpy"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241909,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/3rel28tkx8hBXHGeJaXtiJ"
     },
     {
       "album": {
@@ -3045,7 +3125,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 160332,
       "name": "Vie de r\u00eave",
       "url": "https://open.spotify.com/track/6YBZulvcw96qlkzg1Udzdk"

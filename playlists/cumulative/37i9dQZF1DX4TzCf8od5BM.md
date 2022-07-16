@@ -4,7 +4,7 @@
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Doc McStuffins in one playlist!
 
-145 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
+146 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Five Little Monkeys](https://open.spotify.com/track/31RQvb2z9GLs5XYCSXowZ4) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:23 | 2022-03-18 |  |
 | [Friends Like These](https://open.spotify.com/track/3BSeV1FOTwGZb7MXcRMTfV) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party Vol\. 2](https://open.spotify.com/album/5IECGUtko6AYAAYoCSG3HM) | 1:56 | 2022-03-18 |  |
 | [Gather Round](https://open.spotify.com/track/2aFIt5maVUkdDMkafHFW4b) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:55 | 2022-03-18 |  |
+| [Glow Webs Glow \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/29dZo6xmKqGCZsUNoiUGAh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Glow Webs Glow \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/2NZqBD53gQlVUuY2JnV9fN) | 2:24 | 2022-07-15 |  |
 | [Handy Manny Main Title Theme \- Soundtrack](https://open.spotify.com/track/2Z3M5vWVvf63VP6m0GEuUP) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Handy Manny](https://open.spotify.com/album/3IrqwFcSz8XWwiMmF0QDpU) | 0:51 | 2022-03-18 |  |
 | [Happy Helpers Theme Song](https://open.spotify.com/track/3LnFB820kv7aoMiSY7X4z7) | [Cast \- Mickey and the Roadster Racers](https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk) | [Mickey and The Roadster Racers: Disney Junior Music](https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH) | 1:20 | 2022-03-18 |  |
 | [Happy Thanks a Bunch Day](https://open.spotify.com/track/1Wv4xyM6kb46YJsA7BZ2WD) | [Mickey](https://open.spotify.com/artist/7sWkR5prBNPnBJ4iDmgfrh), [Minnie](https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Donald](https://open.spotify.com/artist/2Xx0gxHzqRTmRhSOPVF8tN), [Daisy](https://open.spotify.com/artist/0JWDwibeuQ4VutQqnyyAax), [Pluto](https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8), [Pete](https://open.spotify.com/artist/2KwrOBhFnyoNTuPG8Wb2ls) | [Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse](https://open.spotify.com/album/3RfXYhZGjcBVWAGxkP5i5L) | 1:54 | 2022-03-18 |  |

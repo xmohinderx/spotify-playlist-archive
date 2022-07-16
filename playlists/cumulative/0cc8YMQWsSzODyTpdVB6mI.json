@@ -1174,6 +1174,24 @@
     },
     {
       "album": {
+        "name": "We Are Shadows",
+        "url": "https://open.spotify.com/album/6f9UikQyxUq3sYTc6TY2aX"
+      },
+      "artists": [
+        {
+          "name": "PRESSYES",
+          "url": "https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219436,
+      "name": "We Are Shadows",
+      "url": "https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD"
+    },
+    {
+      "album": {
         "name": "Kitsun\u00e9: Weekend",
         "url": "https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp"
       },

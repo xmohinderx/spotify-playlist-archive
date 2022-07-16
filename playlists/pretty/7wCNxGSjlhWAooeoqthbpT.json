@@ -1,12 +1,12 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7765,
+  "num_followers": 7766,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MTgwMyxlNDdhZDRiYmI3NmY5M2MyOTUyYmJjYjhkNWViZDE3ZmVhMmU0MWQ2",
+  "snapshot_id": "MTgxNiw3NjgzYTdhN2FlYWQ2YzEwYjY5YzI5MzA1NWYzOGUyMzcwNzZiZDQ5",
   "tracks": [
     {
       "added_at": "2022-04-29 13:45:14",
@@ -171,6 +171,30 @@
       "duration_ms": 221538,
       "name": "Hold That Heat (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
+    },
+    {
+      "added_at": "2022-07-15 14:35:52",
+      "album": {
+        "name": "Rebel vs. Rowdy",
+        "url": "https://open.spotify.com/album/0zxvDMvFNW7h9JQb4oq2eS"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "New York (feat. A Boogie Wit Da Hoodie & Jadakiss)",
+      "url": "https://open.spotify.com/track/1HVVrtjLvEQx8oinUYI5Nv"
     },
     {
       "added_at": "2022-01-14 14:55:46",
@@ -401,6 +425,22 @@
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
+      "added_at": "2022-07-15 14:35:34",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/7uVVW3UQWcHg3o5X2vqd5R"
+      },
+      "artists": [
+        {
+          "name": "Lil 1 DTE",
+          "url": "https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn"
+        }
+      ],
+      "duration_ms": 131960,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/7ai0VlJiTZXqIKRlgrx7zi"
+    },
+    {
       "added_at": "2022-02-18 15:11:47",
       "album": {
         "name": "Elon Musk (feat. Gunna)",
@@ -565,22 +605,6 @@
       "url": "https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr"
     },
     {
-      "added_at": "2021-11-19 16:14:40",
-      "album": {
-        "name": "Table For One",
-        "url": "https://open.spotify.com/album/2D8w8m8eFaU92yI1iXlHiC"
-      },
-      "artists": [
-        {
-          "name": "Flipp Dinero",
-          "url": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "No Option",
-      "url": "https://open.spotify.com/track/2LNiTlYDSFntPkU3qvUc6Y"
-    },
-    {
       "added_at": "2022-07-08 14:17:37",
       "album": {
         "name": "In My Projects",
@@ -599,6 +623,26 @@
       "duration_ms": 197280,
       "name": "Show No Love (feat. Fredo Bang)",
       "url": "https://open.spotify.com/track/0B1kYE1ZJHVEtiYhmNPEda"
+    },
+    {
+      "added_at": "2022-07-15 14:36:12",
+      "album": {
+        "name": "Raised By Wolves",
+        "url": "https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz"
+      },
+      "artists": [
+        {
+          "name": "YoDogg",
+          "url": "https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        }
+      ],
+      "duration_ms": 101052,
+      "name": "Parlay",
+      "url": "https://open.spotify.com/track/6U2PnbAtPgaRfU6KafwaPF"
     },
     {
       "added_at": "2022-06-24 13:42:24",
@@ -683,22 +727,6 @@
       "duration_ms": 134780,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn"
-    },
-    {
-      "added_at": "2022-02-18 15:12:20",
-      "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq"
-      },
-      "artists": [
-        {
-          "name": "Eddie Benjamin",
-          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8"
     },
     {
       "added_at": "2022-03-11 15:08:11",
@@ -845,6 +873,22 @@
       "url": "https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a"
     },
     {
+      "added_at": "2022-07-15 14:36:44",
+      "album": {
+        "name": "Chi Kidd",
+        "url": "https://open.spotify.com/album/5Ozt1AdSyB8KLT3NAMtQJc"
+      },
+      "artists": [
+        {
+          "name": "Yung Divide",
+          "url": "https://open.spotify.com/artist/7Cm2kCQKXn57TxXdRmIzh1"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Full Throttle",
+      "url": "https://open.spotify.com/track/5jKlavWDPp4oEjvBx0VBMa"
+    },
+    {
       "added_at": "2022-07-08 14:17:25",
       "album": {
         "name": "Wishin (feat. B-Lovee)",
@@ -961,26 +1005,6 @@
       "url": "https://open.spotify.com/track/1lHPNdcjlgNFfuc9pYvwGi"
     },
     {
-      "added_at": "2021-09-10 15:46:42",
-      "album": {
-        "name": "Bradley Beal",
-        "url": "https://open.spotify.com/album/7gkje8lNZkA2Jaa30SYrPb"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9",
-          "url": "https://open.spotify.com/artist/5pDY9dgZO8O1yNZDARb62q"
-        },
-        {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bradley Beal",
-      "url": "https://open.spotify.com/track/0Nc9IKSP3I0e8NWuqJetKc"
-    },
-    {
       "added_at": "2021-10-08 14:00:30",
       "album": {
         "name": "SKYVIEW",
@@ -1027,26 +1051,6 @@
       "duration_ms": 203483,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
-    },
-    {
-      "added_at": "2022-06-10 13:33:33",
-      "album": {
-        "name": "Baccwood",
-        "url": "https://open.spotify.com/album/6XC3qtcbgl4Lq25cCAtw94"
-      },
-      "artists": [
-        {
-          "name": "YoDogg",
-          "url": "https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF"
-        },
-        {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Baccwood",
-      "url": "https://open.spotify.com/track/5If13CIfsTGrzOcT2FOa1t"
     },
     {
       "added_at": "2022-03-11 15:08:25",

@@ -1168,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "Reach The Creator",
+        "url": "https://open.spotify.com/album/1vWfZT1ara3oBSTUqGkSeU"
+      },
+      "artists": [
+        {
+          "name": "Pale Blue",
+          "url": "https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247739,
+      "name": "Reach The Creator",
+      "url": "https://open.spotify.com/track/6vA2G72W5805Bpl7RTQGDa"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr"
       },

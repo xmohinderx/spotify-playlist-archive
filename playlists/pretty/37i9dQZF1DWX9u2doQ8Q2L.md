@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,439 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,467 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 69 | [Do What U Love](https://open.spotify.com/track/1qn2VwBsPI0iF6uiqOylRD) | [Kaoru Tominaga](https://open.spotify.com/artist/7h8VFlFvY1tPKovx1mKTGE), [Sho Asano](https://open.spotify.com/artist/7oNLOW0qxiKDZnG9xkP6CX) | [Do What U Love](https://open.spotify.com/album/2IHKQdjkiFyCO1yqz5IcZI) | 3:37 |
 | 70 | [Step](https://open.spotify.com/track/49GUjKB2nBXKVrjwiwTnfZ) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [GAMA](https://open.spotify.com/album/2FUak4FlOqbNoPMQB2MiiV) | 4:14 |
 | 71 | [HAVE A NICE DAY](https://open.spotify.com/track/5QW06boBm4TZ6VhPTQXSSk) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [HAVE A NICE DAY](https://open.spotify.com/album/5cjxQHE6kZIlNtTf25caXq) | 2:36 |
-| 72 | [gadja](https://open.spotify.com/track/3WACxt3lwEqbY472GCnK34) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf), [環ROY](https://open.spotify.com/artist/6gX4R8FMQJKADMuutQ4TIq) | [gadja](https://open.spotify.com/album/7EdCjLHar1xl5sOaJ18l9f) | 2:26 |
+| 72 | [gadja](https://open.spotify.com/track/3WACxt3lwEqbY472GCnK34) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf), [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [gadja](https://open.spotify.com/album/7EdCjLHar1xl5sOaJ18l9f) | 2:26 |
 | 73 | [Little Lights](https://open.spotify.com/track/12YzPNCd83GVt8cCaw3JrL) | [Ayumi Nakamura](https://open.spotify.com/artist/5bsG93iJyOk4gCdaLFpHuR) | [Little Lights](https://open.spotify.com/album/47f3jgSzBpISM5RzKIMwGK) | 2:57 |
 | 74 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 |
 | 75 | [変身](https://open.spotify.com/track/1MjUD23Qfdvi9CRXgzeik9) | [Satoru Ono With Tenniscoats](https://open.spotify.com/artist/4Li2M8XCt1DOuwhzxAs0DA), [SATORU ONO](https://open.spotify.com/artist/5xBMRwFjjO2ymFLt97ymMg), [Tenniscoats](https://open.spotify.com/artist/1srUxd7Sj9tebPN1O8wEi8) | [ポケットシンフォニー EP](https://open.spotify.com/album/15oRbVjaf1jY6pOzsUPEh4) | 3:30 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 77 | [Tokyo on My Mind](https://open.spotify.com/track/29ESobGNliucNomS7MnqlN) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Tokyo on My Mind](https://open.spotify.com/album/2TG1nnIg6Hhp9oQrW55slW) | 4:16 |
 | 78 | [April](https://open.spotify.com/track/4p7hs6SCUxRXtcRxFHTdim) | [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY), [EUJIN KAWI](https://open.spotify.com/artist/0bQ58uhl7lh1bHcHQXLgqC), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H) | [April](https://open.spotify.com/album/5Isv8UUpEDt5gGLkmvW8Kt) | 3:34 |
 | 79 | [Remember The Audio](https://open.spotify.com/track/1ZHzFlhBTgO98VZv2iLcDx) | [Monkey House](https://open.spotify.com/artist/0yC3u4FxOb5RZ5J8ozi4EH) | [Remember The Audio](https://open.spotify.com/album/7HBOCq3p8ARpj8cwbttUSw) | 4:24 |
-| 80 | [a little question \- Shōtaro Aoyama Remix](https://open.spotify.com/track/32N789QPGczr0K0p5e9UvQ) | [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx), [どんぐりず](https://open.spotify.com/artist/1L7ebj3dwTKU8rp4anYJqV), [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR) | [a little question \(Shōtaro Aoyama Remix\)](https://open.spotify.com/album/2VEX1IbbXHa3iz1NG5hvZq) | 6:03 |
+| 80 | [a little question \- Shōtaro Aoyama Remix](https://open.spotify.com/track/32N789QPGczr0K0p5e9UvQ) | [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR) | [a little question \(Shōtaro Aoyama Remix\)](https://open.spotify.com/album/2VEX1IbbXHa3iz1NG5hvZq) | 6:03 |
 
 Snapshot ID: `MTY1NzYzODAwMCwwMDAwMDNkZDAwMDAwMTgxZjJlYzk2MTMwMDAwMDE3Y2VmMmFkYWFj`

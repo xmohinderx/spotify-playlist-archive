@@ -4,7 +4,7 @@
 
 > Check out the Official Spiderhead Playlist\. Watch now on Netflix
 
-21 songs - 1 hr 19 min - [published](https://open.spotify.com/playlist/69CD1AnUyA69Z8Q8iNNPom)
+22 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/69CD1AnUyA69Z8Q8iNNPom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 | 2022-06-17 |  |
 | [Double Dose](https://open.spotify.com/track/6ufiWSDtrSMSoZVF5gPmJf) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 1:24 | 2022-06-17 |  |
 | [Drip On](https://open.spotify.com/track/4hhFueieNdbLnYyHg0FHN9) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 1:13 | 2022-06-17 |  |
+| [Feelin' Like](https://open.spotify.com/track/0mx1gpysb3usa8UsG40icX) | [Bad Colours](https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX), [Jarv Dee](https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u) | [PINK](https://open.spotify.com/album/3GJYlM5Q1cD4I1G2MbIKyE) | 2:53 | 2022-07-15 |  |
 | [Feels So Good](https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy) | [Chuck Mangione](https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6) | [Feels So Good](https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD) | 9:42 | 2022-06-17 |  |
 | [Free Fridays](https://open.spotify.com/track/7rywJRCE0hIWh3VzkBHXVd) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 2:59 | 2022-06-17 |  |
 | [Holy F\*cking Sh\*t](https://open.spotify.com/track/4yzTjl4ty6k2KSQ9JCd2fc) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 2:11 | 2022-06-17 |  |

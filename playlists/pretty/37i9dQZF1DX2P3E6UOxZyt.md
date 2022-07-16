@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: KIRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,211 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,217 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 6 | [偽裝](https://open.spotify.com/track/4ys0CGJFqvaTONcGaOUST3) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4), [楊碧琪](https://open.spotify.com/artist/1q7gF9bMzxg1o1zpBrUEVV) | [偽裝](https://open.spotify.com/album/4I2LrNm0E4uctkNF3p4Orc) | 2:46 |
 | 7 | [Words Left Unsaid \- EBC drama "Bonus Trip" Theme Song](https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [Words Left Unsaid \(EBC drama "Bonus Trip" Theme Song\)](https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb) | 3:35 |
 | 8 | [Do This My Way](https://open.spotify.com/track/7BEip5XMHKVAc3xtvh7QXC) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Do This My Way](https://open.spotify.com/album/4YMcGg1PiVREPDFdDoYIYV) | 3:09 |
-| 9 | [說說](https://open.spotify.com/track/1fHXUVBB2Ue0m1ln7lTgBj) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [說說](https://open.spotify.com/album/0eDYivzT1VRbKfTyIycrQp) | 3:28 |
+| 9 | [說說](https://open.spotify.com/track/1fHXUVBB2Ue0m1ln7lTgBj) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [說說](https://open.spotify.com/album/0eDYivzT1VRbKfTyIycrQp) | 3:29 |
 | 10 | [Like That](https://open.spotify.com/track/4UqLJ5I3ErvzJVFG0JQ66w) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [Like That](https://open.spotify.com/album/7fsIJdDM2S39JCG2UsruLg) | 2:18 |
 | 11 | [Red Scarf](https://open.spotify.com/track/6pNoP0b0YbSaqt86nz0gtE) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [Red Scarf](https://open.spotify.com/album/2eNUGYzaHLgaAFKi4KgpIA) | 3:32 |
 | 12 | [多久才懂妳的心](https://open.spotify.com/track/3bKO2AM761yeB65LFdVcK4) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [多久才懂妳的心](https://open.spotify.com/album/1SGOcsiww6DSQj6OL6FA0U) | 4:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [Maybe It's you](https://open.spotify.com/track/5OzMV1pRoXRBVieR2eBo4m) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Rose Says](https://open.spotify.com/album/5iKqTkwEkWS6a8ZUdodUJY) | 3:59 |
 | 60 | [國王](https://open.spotify.com/track/4xKIzpn8Q2cRDU6UVq8FTn) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe), [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [Gambler](https://open.spotify.com/artist/1ZAYRafIkXuUA2YCMkxYbX) | [國王](https://open.spotify.com/album/1Wdon67ZOKTW7bAhQSNW2T) | 3:25 |
 
-Snapshot ID: `MTY1Nzg0ODMxMywwMDAwMDAwMDkxMjcwNjMwNGFlYjIyNmZjMjEwMTE2YjM4ZGYxMzZj`
+Snapshot ID: `MTY1NzkzNDM0MiwwMDAwMDAwMDkxMjcwNjMwNGFlYjIyNmZjMjEwMTE2YjM4ZGYxMzZj`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Giant Rooks",
+  "description": "make it pop! cover: Mark Ambor",
   "name": "soda",
   "published_playlist_ids": [
     "4WlZyLyAP1klcXFbRzSjzt"
@@ -41,6 +41,24 @@
       "duration_ms": 183055,
       "name": "1990something",
       "url": "https://open.spotify.com/track/1bC1bEPZSKxgZgBgEVn2yj"
+    },
+    {
+      "album": {
+        "name": "2 Tickets",
+        "url": "https://open.spotify.com/album/3WbCUUnQCxiWDCkAKpMIpF"
+      },
+      "artists": [
+        {
+          "name": "Corey Harper",
+          "url": "https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148596,
+      "name": "2 Tickets",
+      "url": "https://open.spotify.com/track/6YjaHh4wHcODkm1dcwlCj7"
     },
     {
       "album": {
@@ -213,7 +231,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 163902,
       "name": "AIRBNB",
       "url": "https://open.spotify.com/track/76ztGwXiBmW1dTAswuKE1m"
@@ -253,6 +271,24 @@
       "duration_ms": 266527,
       "name": "all about you!",
       "url": "https://open.spotify.com/track/6irxfK85zCwjuTgtj9Nemu"
+    },
+    {
+      "album": {
+        "name": "All These Nights",
+        "url": "https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154062,
+      "name": "All These Nights",
+      "url": "https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o"
     },
     {
       "album": {
@@ -721,7 +757,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 156679,
       "name": "Brand New Morning",
       "url": "https://open.spotify.com/track/6thkkefXGo4swLl5eN60W7"
@@ -1056,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Talking Dreams (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237626,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9"
+    },
+    {
+      "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/5L0YcnTzbGjQQ0AKX7GjtG"
       },
@@ -1361,6 +1415,24 @@
       "duration_ms": 175578,
       "name": "Don't Say That",
       "url": "https://open.spotify.com/track/6sVXCrb5Z4xCliIVP5UdAB"
+    },
+    {
+      "album": {
+        "name": "Don't You Worry",
+        "url": "https://open.spotify.com/album/7gIkct34Wk2H6rGuk9w7yV"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162172,
+      "name": "Don't You Worry",
+      "url": "https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ"
     },
     {
       "album": {
@@ -1894,6 +1966,24 @@
     },
     {
       "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/3DfEBa3sKvV4tYg0oP8Lr2"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201355,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/7cLhZY2sXnlL0Rd06p8MRW"
+    },
+    {
+      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/2MIWXHiODW5ERIJx7FZKj6"
       },
@@ -1981,6 +2071,28 @@
       "duration_ms": 137197,
       "name": "Have It All",
       "url": "https://open.spotify.com/track/4ku3lp8omK2wwYejbhff1l"
+    },
+    {
+      "album": {
+        "name": "Have You Ever Really Lived",
+        "url": "https://open.spotify.com/album/2inpPKTNpMmtitTciLHtVR"
+      },
+      "artists": [
+        {
+          "name": "Jack Shore",
+          "url": "https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P"
+        },
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197172,
+      "name": "Have You Ever Really Lived",
+      "url": "https://open.spotify.com/track/6UfOWl2K7ges1EWwJEpXpu"
     },
     {
       "album": {
@@ -2085,7 +2197,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 230558,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/1zeo9q1sdTGDSecA91EZPt"
@@ -2359,6 +2471,24 @@
       "duration_ms": 176475,
       "name": "Hurt My Feelings",
       "url": "https://open.spotify.com/track/5VuJUyQa6doN53RMjjNo65"
+    },
+    {
+      "album": {
+        "name": "I Could Do This All Night",
+        "url": "https://open.spotify.com/album/6TV5kVpf7hUVDhJ3lroF2V"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "I Could Do This All Night",
+      "url": "https://open.spotify.com/track/4MYVPz0rYU0jhT5HtFQni3"
     },
     {
       "album": {
@@ -2897,7 +3027,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 165773,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN"
@@ -3611,7 +3741,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 197035,
       "name": "no excuses",
       "url": "https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y"
@@ -5187,7 +5317,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 155840,
       "name": "That's What Makes Me Love You",
       "url": "https://open.spotify.com/track/2nbjwfE22P08oLHDQ11xzf"
@@ -5389,7 +5519,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 133912,
       "name": "This Time",
       "url": "https://open.spotify.com/track/1wMUAnJhrgVa2Q2CkMto4b"

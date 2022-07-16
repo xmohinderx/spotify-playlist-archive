@@ -4,7 +4,7 @@
 
 > Up & coming Indonesian producer <a href="spotify:artist:7kA4sEagpoNK91I7wr9tYr">Bleu Clair</a> brings his high\-powered energy to his mix.
 
-17 songs - 59 min 22 sec - not published yet
+17 songs - 59 min 22 sec - [published](https://open.spotify.com/playlist/0FhASOjU3fMrm21JQ8AcYJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

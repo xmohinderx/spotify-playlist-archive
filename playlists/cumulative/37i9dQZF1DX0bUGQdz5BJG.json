@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 206293,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/3VnFk87TXGjpfuStmK3mhu"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 181874,
       "name": "Beer Me",
       "url": "https://open.spotify.com/track/4seVoxjkAPDirc09rBui8F"
@@ -1853,7 +1853,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 188780,
       "name": "Couldn't Care Less",
       "url": "https://open.spotify.com/track/2wz6AeBog3TfuqQY9NXVII"
@@ -2751,7 +2751,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 196767,
       "name": "Drink Sometime",
       "url": "https://open.spotify.com/track/1k0XEGSF0timkI0I80ivPD"
@@ -3315,7 +3315,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 187749,
       "name": "Fix You Too",
       "url": "https://open.spotify.com/track/2dOz227iHvVgTiVDVHOicN"
@@ -3575,6 +3575,24 @@
       "duration_ms": 178819,
       "name": "Girl Back",
       "url": "https://open.spotify.com/track/3y5TlW1wRXvEMRHiiu4ImN"
+    },
+    {
+      "album": {
+        "name": "Girl in Love",
+        "url": "https://open.spotify.com/album/0vOGXcKTQEXmhVB7nMTHYy"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Girl in Love",
+      "url": "https://open.spotify.com/track/0XlbzugAOq7MectvIaOfZ4"
     },
     {
       "album": {
@@ -4063,7 +4081,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 165130,
       "name": "Hang My Hat",
       "url": "https://open.spotify.com/track/38b7vSHbb0wKcdtJKnQif8"
@@ -4495,7 +4513,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 190780,
       "name": "Heavy Eyes",
       "url": "https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX"
@@ -5252,6 +5270,24 @@
     },
     {
       "album": {
+        "name": "I Love Me",
+        "url": "https://open.spotify.com/album/64M2KhX64Qgcd4xBoVV3Gm"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190730,
+      "name": "I Love Me",
+      "url": "https://open.spotify.com/track/0OcqrGvV8xKtSxF3dFWDWJ"
+    },
+    {
+      "album": {
         "name": "I Love My Hometown",
         "url": "https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID"
       },
@@ -5573,6 +5609,24 @@
       "duration_ms": 183915,
       "name": "In Common",
       "url": "https://open.spotify.com/track/53MwsVDMpKMagKQFrpan7h"
+    },
+    {
+      "album": {
+        "name": "In My Drinks",
+        "url": "https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203605,
+      "name": "In My Drinks",
+      "url": "https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL"
     },
     {
       "album": {
@@ -8472,6 +8526,24 @@
     },
     {
       "album": {
+        "name": "Project",
+        "url": "https://open.spotify.com/album/3QnilTcHenhRgpyPYvBlab"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179901,
+      "name": "Project",
+      "url": "https://open.spotify.com/track/1UT47W7TfolzxAIjOcB8A8"
+    },
+    {
+      "album": {
         "name": "Queen of Daytona Beach",
         "url": "https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6"
       },
@@ -8491,6 +8563,42 @@
       "duration_ms": 214333,
       "name": "Queen of Daytona Beach",
       "url": "https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz"
+    },
+    {
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+    },
+    {
+      "album": {
+        "name": "Rain All Summer",
+        "url": "https://open.spotify.com/album/4F58GEAmbiilDf1ofonT33"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178649,
+      "name": "Rain All Summer",
+      "url": "https://open.spotify.com/track/1K854G9ymh1ubdoZLpERVJ"
     },
     {
       "album": {
@@ -9051,7 +9159,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 228413,
       "name": "Shared Walls (feat. BRELAND)",
       "url": "https://open.spotify.com/track/2ifqSgNUyKObO70UIorQ3z"
@@ -9199,6 +9307,24 @@
       "duration_ms": 193779,
       "name": "Silver and Gold",
       "url": "https://open.spotify.com/track/2TuAFr9dezkWzpRB1NY1Xt"
+    },
+    {
+      "album": {
+        "name": "Sink with the Sun",
+        "url": "https://open.spotify.com/album/5XDDYVaQ5YdwwQT9ITQXhN"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "Sink with the Sun",
+      "url": "https://open.spotify.com/track/7lqRRwPo08ycT5NkxjNIyF"
     },
     {
       "album": {
@@ -10378,6 +10504,24 @@
     },
     {
       "album": {
+        "name": "Sugar Spice",
+        "url": "https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME"
+      },
+      "artists": [
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221159,
+      "name": "The Only Problem Is",
+      "url": "https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq"
+    },
+    {
+      "album": {
         "name": "Every Hat Is a Cowboy Hat...",
         "url": "https://open.spotify.com/album/7HWuQHDHBKE2aHV2HYV7lc"
       },
@@ -10775,7 +10919,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 218528,
       "name": "Trailer Park",
       "url": "https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne"
@@ -11013,7 +11157,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 175752,
       "name": "USA",
       "url": "https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg"
@@ -11165,6 +11309,24 @@
       "duration_ms": 175329,
       "name": "Way Back When",
       "url": "https://open.spotify.com/track/0uBvPdcxfnHcr3UOx4viji"
+    },
+    {
+      "album": {
+        "name": "Way Home",
+        "url": "https://open.spotify.com/album/57bEdmDvPY66UIjq0Ot9w8"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189593,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/3rK8TFLvwfbEGBOP0G76T9"
     },
     {
       "album": {
@@ -11803,10 +11965,32 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 181621,
       "name": "Wild As Her",
       "url": "https://open.spotify.com/track/5ncSiIwRVHv4td9sPerF6N"
+    },
+    {
+      "album": {
+        "name": "Wild as Her (feat. Carter Faith) [Acoustic One-Take]",
+        "url": "https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Wild as Her (feat. Carter Faith) - Acoustic One-Take",
+      "url": "https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT"
     },
     {
       "album": {
@@ -11843,6 +12027,28 @@
       "duration_ms": 192046,
       "name": "Wild Horse - 717 Tapes",
       "url": "https://open.spotify.com/track/6UOMgYkLdIPsZlDJcUCBKS"
+    },
+    {
+      "album": {
+        "name": "Wild Palomino (feat. Cody Johnson)",
+        "url": "https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198514,
+      "name": "Wild Palomino (feat. Cody Johnson)",
+      "url": "https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0"
     },
     {
       "album": {

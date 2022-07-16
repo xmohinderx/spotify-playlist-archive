@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Calvin Harris, Justin Timberlake, Halsey, Pharrell Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,825 likes - 94 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,839 likes - 95 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,16 +91,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 81 | [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 |
 | 82 | [Horses](https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Horses](https://open.spotify.com/album/4eVDNftCpVDAzrh80ayq1D) | 5:05 |
 | 83 | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/track/0Ls2AaWYmU2LRzWAmFdlkc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/album/3E8eOi78N03MllCrjGGcVz) | 2:11 |
-| 84 | [Zeit fliegt](https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6) | [Zeit fliegt](https://open.spotify.com/album/0LwhqOEMSOYTYJs3HluHrQ) | 2:14 |
-| 85 | [Statements](https://open.spotify.com/track/48nOSplmqnbrIFM1xgIWuT) | [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Rhymezi Tunes](https://open.spotify.com/artist/048ymCLz7JkjYCy50Ba9yL) | [Statements](https://open.spotify.com/album/4GkUQtCGhpREMRltGhU3R3) | 3:01 |
-| 86 | [Klingelschild](https://open.spotify.com/track/0A9CN44SIv1t1qjUoH2hTG) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Klingelschild](https://open.spotify.com/album/56fXf9uxE8t7FKhAwoCZNv) | 3:53 |
-| 87 | [Fremd](https://open.spotify.com/track/1nJRv3a7qw225eV71zbuEU) | [Lyschko](https://open.spotify.com/artist/62v9ccNoIxNoPmosqCWpq6), [Drangsal](https://open.spotify.com/artist/16rfiZrUbpoIJKqvJjbOk1) | [Fremd](https://open.spotify.com/album/5AgzA7MS4DKZ67FiXcVl1o) | 3:46 |
-| 88 | [Keeps Me Going](https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Keeps Me Going](https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2) | 3:19 |
-| 89 | [Placeholder](https://open.spotify.com/track/2mZhWoguUqZTivAnSmlBUE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Placeholder](https://open.spotify.com/album/0fjn5aDzYjBnWctsHplKAG) | 2:39 |
-| 90 | [Herz Klopft](https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Herz Klopft](https://open.spotify.com/album/0PpvnPnQgnObHVKSUsnGrO) | 2:52 |
-| 91 | [Gran Hotel \- Edit](https://open.spotify.com/track/1PSsNgjS3WWRGpk4igwpTU) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Gran Hotel](https://open.spotify.com/album/5PtYVRHFCQw4EfVJ5JFGlJ) | 3:24 |
-| 92 | [Flugmodus](https://open.spotify.com/track/67MQnL2IGaEvkkYEUDwXQW) | [XAVER](https://open.spotify.com/artist/2XGaD0VuieQxr4zvfjDzmC), [KazOnDaBeat](https://open.spotify.com/artist/7mnmr8BPHhEEYFwIHlclFt) | [Flugmodus](https://open.spotify.com/album/7zMwqYlOcXYRig9yFWRQ1L) | 2:08 |
-| 93 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 |
-| 94 | [GIFT](https://open.spotify.com/track/3ExH2ZKN9YRPwcbdd52dT8) | [1000 Robota](https://open.spotify.com/artist/0b4b6mGCboX1d2PFrGFshE) | [GIFT](https://open.spotify.com/album/6E3cGbr6WlW4CHqlb1gz3U) | 3:06 |
+| 84 | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6) | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/album/0LwhqOEMSOYTYJs3HluHrQ) | 2:14 |
+| 85 | [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 |
+| 86 | [Statements](https://open.spotify.com/track/48nOSplmqnbrIFM1xgIWuT) | [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Rhymezi Tunes](https://open.spotify.com/artist/048ymCLz7JkjYCy50Ba9yL) | [Statements](https://open.spotify.com/album/4GkUQtCGhpREMRltGhU3R3) | 3:01 |
+| 87 | [Klingelschild](https://open.spotify.com/track/0A9CN44SIv1t1qjUoH2hTG) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Klingelschild](https://open.spotify.com/album/56fXf9uxE8t7FKhAwoCZNv) | 3:53 |
+| 88 | [Fremd](https://open.spotify.com/track/1nJRv3a7qw225eV71zbuEU) | [Lyschko](https://open.spotify.com/artist/62v9ccNoIxNoPmosqCWpq6), [Drangsal](https://open.spotify.com/artist/16rfiZrUbpoIJKqvJjbOk1) | [Fremd](https://open.spotify.com/album/5AgzA7MS4DKZ67FiXcVl1o) | 3:46 |
+| 89 | [Keeps Me Going](https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Keeps Me Going](https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2) | 3:19 |
+| 90 | [Placeholder](https://open.spotify.com/track/2mZhWoguUqZTivAnSmlBUE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Placeholder](https://open.spotify.com/album/0fjn5aDzYjBnWctsHplKAG) | 2:39 |
+| 91 | [Herz Klopft](https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Herz Klopft](https://open.spotify.com/album/0PpvnPnQgnObHVKSUsnGrO) | 2:52 |
+| 92 | [Gran Hotel \- Edit](https://open.spotify.com/track/1PSsNgjS3WWRGpk4igwpTU) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Gran Hotel](https://open.spotify.com/album/5PtYVRHFCQw4EfVJ5JFGlJ) | 3:24 |
+| 93 | [Flugmodus](https://open.spotify.com/track/67MQnL2IGaEvkkYEUDwXQW) | [XAVER](https://open.spotify.com/artist/2XGaD0VuieQxr4zvfjDzmC), [KazOnDaBeat](https://open.spotify.com/artist/7mnmr8BPHhEEYFwIHlclFt) | [Flugmodus](https://open.spotify.com/album/7zMwqYlOcXYRig9yFWRQ1L) | 2:08 |
+| 94 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 |
+| 95 | [GIFT](https://open.spotify.com/track/3ExH2ZKN9YRPwcbdd52dT8) | [1000 Robota](https://open.spotify.com/artist/0b4b6mGCboX1d2PFrGFshE) | [GIFT](https://open.spotify.com/album/6E3cGbr6WlW4CHqlb1gz3U) | 3:06 |
 
 Snapshot ID: `MTY1NzgzNjA2MCwwMDAwMDM1MDAwMDAwMTgxZmViYWJkZjIwMDAwMDE4MWZlN2JlZmEy`

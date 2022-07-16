@@ -424,6 +424,28 @@
     },
     {
       "album": {
+        "name": "Resident Evil (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4yFA6UYsl2PnSC8vHs35Cx"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289653,
+      "name": "My Heart Has Teeth (feat. Skylar Grey)",
+      "url": "https://open.spotify.com/track/5zIgxHl35DFqbWvUgr70tn"
+    },
+    {
+      "album": {
         "name": "Parallel Lines",
         "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
       },

@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-117 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+120 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Angel from Montgomery](https://open.spotify.com/track/2mKMIVcKPczPULJF13Ztvo) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Broken Hearts & Dirty Windows: Songs of John Prine](https://open.spotify.com/album/2L1Y2FRrjQ1jhGJ6d4MGnL) | 4:30 | 2022-01-21 |  |
 | [Be My Baby](https://open.spotify.com/track/0GTxA5Q5hNNStJ2OzRmMDI) | [Theo & Brenna](https://open.spotify.com/artist/3rCHqVq980Szd1JwmfK4uq) | [Be My Baby](https://open.spotify.com/album/70kx0fGbIMhdP1Y8bY58oK) | 2:37 | 2022-04-01 |  |
 | [Beat It](https://open.spotify.com/track/6lppKNQ2cJmxITiSRs2952) | [Honeywagon](https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx) | [Songs From Neverland](https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61) | 3:34 | 2021-08-20 |  |
+| [Believe](https://open.spotify.com/track/1WCr2LWff8IKCuz71tM0ta) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Under the Covers](https://open.spotify.com/album/6aJU6GmzDVVCyIt3K41cGn) | 4:26 | 2022-07-15 |  |
 | [Big Iron](https://open.spotify.com/track/7ykYzVrLJzL3TgWvLGHrnD) | [Southern Raised](https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH) | [Big Iron](https://open.spotify.com/album/47plHNfuDrN3zubm8Iy2MM) | 4:49 | 2022-03-18 |  |
 | [Billie Jean](https://open.spotify.com/track/5B4aDOvZnl4A9JYBYAksIl) | [Honeywagon](https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx) | [Songs From Neverland](https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61) | 4:45 | 2021-08-20 |  |
 | [Billie Jean](https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between The Bars \(EP\)](https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5) | 4:19 | 2021-08-20 |  |
@@ -78,6 +79,7 @@
 | [Low](https://open.spotify.com/track/777LkVsyeIirHbJUjm2JHf) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 4:14 | 2021-08-20 |  |
 | [Lucy in the Sky With Diamonds](https://open.spotify.com/track/4LOf8epMgZYgYJrt1CesTp) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [In Good Company](https://open.spotify.com/album/19tknRni9ciIV9pVGdZbTr) | 1:18 | 2021-08-20 |  |
 | [Me & Bobby McGee](https://open.spotify.com/track/4h6O4vjM9uxRi7otTQbFOk) | [Mac Wiseman](https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly) | [Legends of Bluegrass \( 1971\)](https://open.spotify.com/album/1hTzont8ul4NJtSqup8m2w) | 3:18 | 2022-04-29 |  |
+| [Misirlou](https://open.spotify.com/track/4xzE6PHaq9MQf2ZKTGBL9z) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Misirlou](https://open.spotify.com/album/3QjwvTaEt6WBksPrs00Mb7) | 2:25 | 2022-07-15 |  |
 | [More Heart, Less Attack](https://open.spotify.com/track/6ds7y7voWKUKwEhIK2W2uD) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Ned Luberecki](https://open.spotify.com/artist/7qg1UANHGQdwukeGN9YsRZ), [Dan Boner](https://open.spotify.com/artist/2rAHYozDbarVJA6GYEjJva), [Nate Lee](https://open.spotify.com/artist/76ivNMRvg7rGMKgtz9hYfG), [Daniel Hardin](https://open.spotify.com/artist/5CHholrccXiiujgTvZVUlJ) | [Distance and Time](https://open.spotify.com/album/797UYpfApMa598iaCNnSP5) | 4:08 | 2021-08-20 |  |
 | [My Love \(Live\)](https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw) | [Humming House](https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK) | [Humming House Party! \(Live\)](https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k) | 4:38 | 2021-08-20 |  |
 | [New Slang](https://open.spotify.com/track/2YcILFkmZHNi5qCqgP9F0R) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to The Shins](https://open.spotify.com/album/1Nl3ddmgHlbuFp1v7nCHIC) | 4:13 | 2021-08-20 |  |
@@ -125,5 +127,6 @@
 | [You Are My Sunshine](https://open.spotify.com/track/3gg5FHI5j0FjXrEk6jO71Y) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [You Are My Sunshine](https://open.spotify.com/album/7hyMzALTKSgT2XN2qc9lvD) | 3:20 | 2022-01-07 |  |
 | [You're Not Sorry](https://open.spotify.com/track/61XUS0rxs5k6H0mtgAWKnm) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin on Taylor Swift's You're Not Sorry](https://open.spotify.com/album/0yEX6GYCqi5Kfc6zxJbKLY) | 3:42 | 2021-08-20 |  |
 | [Young Folks](https://open.spotify.com/track/2Og7xHU8mVnIJqxQ5CFoyN) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Under The Covers](https://open.spotify.com/album/3H457QTSRwzamTOKMpazOn) | 3:25 | 2021-08-20 |  |
+| [You’ll Never Leave Harlan Alive](https://open.spotify.com/track/6L2HXRIVKkMbpzqjE8oYnW) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:55 | 2022-07-15 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

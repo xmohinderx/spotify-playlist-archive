@@ -1,6 +1,6 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Brent Faiyaz",
-  "num_followers": 837943,
+  "num_followers": 838070,
   "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
@@ -384,10 +384,6 @@
           "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         },
         {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        },
-        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         },
@@ -398,6 +394,10 @@
         {
           "name": "Blac Youngsta",
           "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
         }
       ],
       "duration_ms": 231085,

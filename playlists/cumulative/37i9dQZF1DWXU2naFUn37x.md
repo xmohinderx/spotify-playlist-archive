@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Shiva
 
-102 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+103 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [QATAR \(feat\. Baby Gang\)](https://open.spotify.com/track/52yqv38F8T4KbsGYieEg03) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Manny Troublez](https://open.spotify.com/artist/4zy1P09QNWgC7LvrAbYaDN), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [ERROR 442](https://open.spotify.com/album/7rolbQTXVgyGysKv9rX2eS) | 2:49 | 2022-05-11 | 2022-05-27 |
 | [RAP \(feat\. Rondodasosa, Sacky, Neima Ezza\)](https://open.spotify.com/track/4M8YEPfCBxN3fsZkatCCLz) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:35 | 2022-05-26 | 2022-06-17 |
 | [RapStar](https://open.spotify.com/track/3Emty7Nc9QUIuHRPcwopjA) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 2:47 | 2022-06-09 |  |
+| [Rozzi](https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Rozzi](https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok) | 2:43 | 2022-07-15 |  |
 | [Seignosse](https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Seignosse](https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg) | 2:56 | 2022-05-11 | 2022-06-10 |
 | [Senza Regole](https://open.spotify.com/track/6OmBXkYM9IJxNLn4Z4vKBs) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [Senza Regole](https://open.spotify.com/album/1ppC0wJWfC0XupPWLr7ErY) | 2:57 | 2022-05-11 | 2022-05-27 |
 | [Sezione \(feat\. 167 Gang\)](https://open.spotify.com/track/7zYYyZzKpGgQqN38tvd6ml) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Sezione \(feat\. 167 Gang\)](https://open.spotify.com/album/3xcKVGl5D7nZvC7MA4uGA9) | 3:14 | 2022-05-11 | 2022-05-20 |

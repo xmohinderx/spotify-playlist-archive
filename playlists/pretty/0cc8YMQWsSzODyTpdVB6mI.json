@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42321,
+  "num_followers": 42340,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjg3NiwwZmNmMGNlOWRhMDg0ZmE0YWI0NWE5NzMzMjkxNDIyMjZjZGFjZTA2",
+  "snapshot_id": "Mjg3OSwyMGNlMzk2NGM4NzA2NTg4NjlmZDAxODdiOGNiNmJiYWRlNmFhOTQ1",
   "tracks": [
+    {
+      "added_at": "2022-07-15 09:23:34",
+      "album": {
+        "name": "We Are Shadows",
+        "url": "https://open.spotify.com/album/6f9UikQyxUq3sYTc6TY2aX"
+      },
+      "artists": [
+        {
+          "name": "PRESSYES",
+          "url": "https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop"
+        }
+      ],
+      "duration_ms": 219436,
+      "name": "We Are Shadows",
+      "url": "https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD"
+    },
     {
       "added_at": "2022-07-13 08:24:20",
       "album": {

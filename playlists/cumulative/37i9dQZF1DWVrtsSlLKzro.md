@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-179 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+181 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Don't Wait For Me](https://open.spotify.com/track/1C6qilcpgci5bJSBB6qSK4) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Don't Wait For Me](https://open.spotify.com/album/6o1B9rcKo0eWEQ6yg2OSj2) | 2:50 | 2022-03-18 |  |
 | [Drown \(feat\. Au/Ra\)](https://open.spotify.com/track/3wDhRYT95uMrYId5wkrDbA) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [A World Away](https://open.spotify.com/album/4uMtvWQxnNxGDE9Cp28OOQ) | 3:01 | 2021-12-03 |  |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2021-12-03 |  |
+| [Electric](https://open.spotify.com/track/5H3cgV4jCdqXPxDtI78dCI) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [Electric](https://open.spotify.com/album/7uOy96yZhShwnQS2q4jkFt) | 2:37 | 2022-07-15 |  |
 | [Emotion](https://open.spotify.com/track/5Rnv9hVUuyc5Q7jiFRHRwm) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Lost \- EP](https://open.spotify.com/album/1U1CVrJeVjdt6eY13T34FY) | 3:24 | 2021-12-03 | 2022-05-07 |
 | [Empty Promise](https://open.spotify.com/track/086eJJvQUVNNDABt1bevJn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Empty Promise](https://open.spotify.com/album/7c1vkq6VrXtK7gdUOPy5ch) | 3:51 | 2022-04-01 |  |
 | [Equal in the Darkness](https://open.spotify.com/track/6zpW8dKlAei8kiPZuUthq7) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Equal in the Darkness](https://open.spotify.com/album/1eVHCjvrzVFc8TJuZLn4RJ) | 3:30 | 2021-12-03 | 2022-02-12 |
@@ -129,6 +130,7 @@
 | [Noticed I cried \- Flume Remix](https://open.spotify.com/track/2sA3V6IQVkdO8FhWh7ZCMN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 2:55 | 2022-01-28 |  |
 | [Oh, Miles](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Oh, Miles](https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu) | 5:33 | 2021-12-03 |  |
 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2021-12-03 |  |
+| [Once You Love Someone](https://open.spotify.com/track/3NDxc7r19AvChQiVOdUMoK) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Once You Love Someone](https://open.spotify.com/album/3VlWMpcZ2KpQib2mh44QZS) | 3:25 | 2022-07-15 |  |
 | [One Day I'll Fly Away \(A Song for Takis\)](https://open.spotify.com/track/6X21C26ab6ePgwt9ZuU22z) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [One Day I'll Fly Away \(a Song for Takis\)](https://open.spotify.com/album/2CL51OOoYKl3rd3Ro0nug7) | 3:51 | 2021-12-03 | 2022-05-07 |
 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 | 2022-02-18 |  |
 | [One More Day \(with Chandler Leighton\)](https://open.spotify.com/track/7hCZVX8ogwzgszIKtkD6Bv) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [One More Day \(with Chandler Leighton\)](https://open.spotify.com/album/20BQqiuNutjnDzWLSBZfWL) | 4:32 | 2021-12-03 |  |

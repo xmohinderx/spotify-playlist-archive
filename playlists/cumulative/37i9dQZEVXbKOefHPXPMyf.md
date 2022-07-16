@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-509 songs - 1 day 5 hr 28 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
+510 songs - 1 day 5 hr 31 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 | 2022-03-09 | 2022-03-19 |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-04-12 | 2022-04-20 |
 | [Cartago Vive](https://open.spotify.com/track/7xLk01lIa6MHSVYoC19IGU) | [Fuerza Azul \- Cartaginés](https://open.spotify.com/artist/1Vh7W88iSKpmKtMDFoX6Bz) | [Csc](https://open.spotify.com/album/5WND3hr66BkbLkdegbhAvo) | 1:49 | 2022-07-02 |  |
-| [Cartaguito Capeón](https://open.spotify.com/track/56neVF9IehShXSaMM3P6dK) | [Fuerza Azul \- Cartaginés](https://open.spotify.com/artist/1Vh7W88iSKpmKtMDFoX6Bz) | [Csc](https://open.spotify.com/album/5WND3hr66BkbLkdegbhAvo) | 2:50 | 2022-07-08 |  |
+| [Cartaguito Capeón](https://open.spotify.com/track/56neVF9IehShXSaMM3P6dK) | [Fuerza Azul \- Cartaginés](https://open.spotify.com/artist/1Vh7W88iSKpmKtMDFoX6Bz) | [Csc](https://open.spotify.com/album/5WND3hr66BkbLkdegbhAvo) | 2:50 | 2022-07-08 | 2022-07-16 |
 | [Cas Con Sal](https://open.spotify.com/track/3NyjT5iayyRhKt2aMPxx3A) | [Canina](https://open.spotify.com/artist/2qUVhNtHcm4EPbQe2VzrOz) | [Cas Con Sal](https://open.spotify.com/album/476F4oCLcyTbtDkxXfF98u) | 2:58 | 2022-02-19 | 2022-06-01 |
 | [Casi Algo \- Versión Mariachi](https://open.spotify.com/track/3vqwI4lIPPOSkGQ9b17BJh) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo](https://open.spotify.com/album/6xSYTJWevYBfj3ss9Jciuv) | 2:12 | 2022-07-05 |  |
 | [Cayo La Noche X Diles X Soy Peor](https://open.spotify.com/track/4rvcqtRGH7DODsK9H6J1sd) | [Santiago Novello](https://open.spotify.com/artist/3NjvXwncl7KsWx8Onw9oWB) | [Cayo La Noche X Diles X Soy Peor](https://open.spotify.com/album/3frhrxgFMkirkmLDu6okds) | 2:00 | 2022-03-15 | 2022-04-26 |
@@ -136,6 +136,7 @@
 | [El otro gol](https://open.spotify.com/track/5NinWNufUNq3qpOQYJPO6T) | [Gandhi](https://open.spotify.com/artist/31CkJVAc0cWxVDe8wrUJgE) | [BIOS \(live and studio 2\-CD set\)](https://open.spotify.com/album/1E2qqbOzSMIVjbVyU8UIPP) | 4:09 | 2022-06-15 | 2022-06-23 |
 | [El Sueño](https://open.spotify.com/track/5R6UXpQVSJfQX8R2iMyCUe) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [El Sueño](https://open.spotify.com/album/1WOkqpzgJHfWrAnRin5Hhq) | 6:37 | 2022-04-27 | 2022-05-08 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2022-01-09 | 2022-02-08 |
+| [Ella Busca](https://open.spotify.com/track/4aQ9uzqVuX6ynJQKAerBBn) | [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0), [Moises](https://open.spotify.com/artist/1r3PwU2H6ptub7lOF9RCpX) | [El Reggae Lo Merece](https://open.spotify.com/album/1dodoADEbrZXkViijZ9erP) | 3:20 | 2022-07-15 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-06-07 | 2022-07-12 |
 | [En lo profundo/Peso](https://open.spotify.com/track/4mEIqavz99DpHXxi3wK46I) | [Sugey Torres](https://open.spotify.com/artist/1ND1UzX6EmIrVxfsRowxIc) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:22 | 2022-01-09 | 2022-02-18 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2022-01-13 | 2022-01-17 |

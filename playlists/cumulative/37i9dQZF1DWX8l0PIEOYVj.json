@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-14",
   "description": "Future & melodic bass. Cover: Jason Ross.",
   "name": "Bass Lounge",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6p3tvkx6aJZVieMCGLl8nF"
+  ],
   "tracks": [
     {
       "album": {
@@ -169,7 +171,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 387200,
       "name": "Awaken",
       "url": "https://open.spotify.com/track/6cXUM8nvtbs9rsn1IPVtZB"
@@ -452,6 +454,24 @@
     },
     {
       "album": {
+        "name": "Coming Back To You",
+        "url": "https://open.spotify.com/album/6vcAf5aO6UjQKnVjkjZptX"
+      },
+      "artists": [
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213542,
+      "name": "Coming Back To You",
+      "url": "https://open.spotify.com/track/0eNZW0bb7bogNXoXwcJ0is"
+    },
+    {
+      "album": {
         "name": "CRACKS",
         "url": "https://open.spotify.com/album/1xl2Nj9aHqjB6J3AYvutqC"
       },
@@ -545,7 +565,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 275200,
       "name": "Diamond Heart (feat. RBBTS)",
       "url": "https://open.spotify.com/track/6r0ujrPdtJbwtgEteB2rkB"
@@ -1014,6 +1034,28 @@
     },
     {
       "album": {
+        "name": "Floating Through The Sky",
+        "url": "https://open.spotify.com/album/3bnBt9QTkHPu7KFZJeccTJ"
+      },
+      "artists": [
+        {
+          "name": "Awakend",
+          "url": "https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O"
+        },
+        {
+          "name": "TR\u00d8VES",
+          "url": "https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257872,
+      "name": "Floating Through The Sky",
+      "url": "https://open.spotify.com/track/1RurO5tWqos1i8Lg1ROZyI"
+    },
+    {
+      "album": {
         "name": "FLOW IN YOU",
         "url": "https://open.spotify.com/album/55BRp7ExsBopCMFVTSmElu"
       },
@@ -1051,7 +1093,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 186705,
       "name": "For The First Time",
       "url": "https://open.spotify.com/track/6y5Nl8wL8RAlcM1tlyWqoF"
@@ -1271,7 +1313,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 185032,
       "name": "Gone - N3WPORT Remix",
       "url": "https://open.spotify.com/track/16gJDi8MtCwhjTKsys9rB6"
@@ -1480,6 +1522,32 @@
     },
     {
       "album": {
+        "name": "High on Life",
+        "url": "https://open.spotify.com/album/1CSE2niI6bZxdFRxLoAg41"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        },
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "High on Life",
+      "url": "https://open.spotify.com/track/6ZX9CSWDRpf6C0aSP59pym"
+    },
+    {
+      "album": {
         "name": "Hologram Tears (feat. Monika Santucci)",
         "url": "https://open.spotify.com/album/2K0oDcNSg9KnyZL5jWrzr2"
       },
@@ -1655,7 +1723,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 219428,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/7650fasilpmWpFW7QX47pi"
@@ -1901,7 +1969,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 216410,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz"
@@ -2458,6 +2526,32 @@
     },
     {
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/4j8DfvJD5hJogQCObF6awi"
+      },
+      "artists": [
+        {
+          "name": "Awakend",
+          "url": "https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O"
+        },
+        {
+          "name": "DVRKCLOUD",
+          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
+        },
+        {
+          "name": "Julia Beaudoin",
+          "url": "https://open.spotify.com/artist/5J3uk2VATfEuD9iBmGp1Ac"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256551,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/7M1Qns5c9n6Gl008jvig8C"
+    },
+    {
+      "album": {
         "name": "Safe With Me (feat. Luma)",
         "url": "https://open.spotify.com/album/3c17SBEmVqOJdo0uzEiu6A"
       },
@@ -2547,7 +2641,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 240750,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/4MjqIuxDsPhxvB9O0xLO8d"
@@ -2595,7 +2689,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 211071,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/3sfYpzimgCeLiPIshgbIRn"
@@ -2639,7 +2733,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 166681,
       "name": "Say The Word (with Billy Lockett)",
       "url": "https://open.spotify.com/track/3CFwx3qdGNrgUIS16PnoXn"
@@ -2683,7 +2777,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 183000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/5keO6CNCGYsAlNs6qfN5AJ"
@@ -2805,7 +2899,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 210875,
       "name": "Silence",
       "url": "https://open.spotify.com/track/4QxPnild2hz6dk4Xjwx4jc"
@@ -2988,6 +3082,28 @@
     },
     {
       "album": {
+        "name": "Stepping Stone",
+        "url": "https://open.spotify.com/album/33X7rnQRpkNH21T1WLaNCr"
+      },
+      "artists": [
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        },
+        {
+          "name": "GLNNA",
+          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Stepping Stone",
+      "url": "https://open.spotify.com/track/1hiNxftJnpiiOgHEi1hMRu"
+    },
+    {
+      "album": {
         "name": "Stuck On You (feat. Donna Tella)",
         "url": "https://open.spotify.com/album/2cBjRVbv7Vvh0E4BVwZuai"
       },
@@ -3029,6 +3145,28 @@
       "duration_ms": 167741,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/6UEkaSqswLYnWRgVQFkHMs"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/070G3aCcs8BV5yCLsYmm9F"
+      },
+      "artists": [
+        {
+          "name": "Napa Cabbage",
+          "url": "https://open.spotify.com/artist/6yQkMw2cRF9RstGdKlva32"
+        },
+        {
+          "name": "Veronica Bravo",
+          "url": "https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218142,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/67hXwO5ry524QKakkllndZ"
     },
     {
       "album": {
@@ -3187,7 +3325,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 267433,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln"
@@ -3319,7 +3457,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 209571,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/4h9AqdgRkK8m7TxjqWWhmX"
@@ -3359,10 +3497,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 263200,
       "name": "We Fall Down",
       "url": "https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy"
+    },
+    {
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/1KJLNKwhf3IW9Im9i0Ut2Q"
+      },
+      "artists": [
+        {
+          "name": "Kerala",
+          "url": "https://open.spotify.com/artist/69WQTuZb5HA8XwqLyRL28N"
+        },
+        {
+          "name": "Marie Lang",
+          "url": "https://open.spotify.com/artist/4h08PzGTaAqN1uAhj4IHFW"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/2Ov2Ifb7w9QxQj7lRIZtj8"
     },
     {
       "album": {
@@ -3477,7 +3637,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 210000,
       "name": "With You",
       "url": "https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E"

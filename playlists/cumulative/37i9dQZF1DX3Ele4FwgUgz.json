@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-14",
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5pSagmd4Aria4oChx8qUQl"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,6 +23,24 @@
       "duration_ms": 238560,
       "name": "Beautiful Moonlight",
       "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "Break The System",
+      "url": "https://open.spotify.com/track/6U36bHRmKJaRHNpGQazdmF"
     },
     {
       "album": {
@@ -107,7 +127,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 243480,
       "name": "DIVE!",
       "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
@@ -125,7 +145,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 231840,
       "name": "Dream Land!Dream World!",
       "url": "https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b"
@@ -179,7 +199,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 253773,
       "name": "ENJOY IT!",
       "url": "https://open.spotify.com/track/0tgisyzU6IT2FRLtoTJuM7"
@@ -222,6 +242,24 @@
     },
     {
       "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295800,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH"
+    },
+    {
+      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -251,7 +289,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 265280,
       "name": "First Love Again",
       "url": "https://open.spotify.com/track/6dctHGnTOybspx1pFQL3E7"
@@ -269,7 +307,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 249000,
       "name": "Fly into the sky",
       "url": "https://open.spotify.com/track/13js1LWsNrTSUomm4bYblW"
@@ -287,7 +325,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 246626,
       "name": "I'm Still...",
       "url": "https://open.spotify.com/track/4HQa0dUK1ViBURwCB8U1r3"
@@ -305,7 +343,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 271106,
       "name": "Infinity! Our wings!!",
       "url": "https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO"
@@ -323,10 +361,28 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 245706,
       "name": "Just Believe!!!",
       "url": "https://open.spotify.com/track/0EIfyw7CQpOmIsV5CqnXLp"
+    },
+    {
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228213,
+      "name": "Koi suru Magic!!",
+      "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"
     },
     {
       "album": {
@@ -359,7 +415,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 261013,
       "name": "LIKE IT!LOVE IT!",
       "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
@@ -403,7 +459,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 253373,
       "name": "Love Triangle",
       "url": "https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw"
@@ -511,7 +567,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 280480,
       "name": "My Own Fairy-Tale",
       "url": "https://open.spotify.com/track/5TKgniNeHWwaH1pf5QV8nA"
@@ -529,7 +585,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 287893,
       "name": "M\u00e4rchen Star",
       "url": "https://open.spotify.com/track/7chCaPHPbAtQJ1ldS9gE6R"
@@ -716,6 +772,24 @@
     },
     {
       "album": {
+        "name": "Swinging!",
+        "url": "https://open.spotify.com/album/3m6u28D0IqjWvNFbazxH9K"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243906,
+      "name": "Swinging!",
+      "url": "https://open.spotify.com/track/2bNWGbLapdOVSrxozvwrl1"
+    },
+    {
+      "album": {
         "name": "THE SECRET NiGHT",
         "url": "https://open.spotify.com/album/0y0DKS9Ns0JS89ZbENujXd"
       },
@@ -745,7 +819,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 236520,
       "name": "TO BE YOURSELF",
       "url": "https://open.spotify.com/track/1t7lQCAZ7LjW6wrBtucToW"
@@ -799,7 +873,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "Turn it Up!",
       "url": "https://open.spotify.com/track/1YHNATVWupprBQBAnJ2HjV"
@@ -817,7 +891,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 254373,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/5UGgNLCawH8osXEAiZAo5G"
@@ -896,6 +970,24 @@
     },
     {
       "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326040,
+      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
+    },
+    {
+      "album": {
         "name": "L!L!L! (Love the Life We Live)",
         "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
       },
@@ -907,7 +999,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 240306,
       "name": "\u3044\u3064\u3060\u3063\u3066for you!",
       "url": "https://open.spotify.com/track/2RGnf6gCBZtUXDSG8Saes5"
@@ -929,6 +1021,24 @@
       "duration_ms": 260266,
       "name": "\u3084\u304c\u3066\u3072\u3068\u3064\u306e\u7269\u8a9e",
       "url": "https://open.spotify.com/track/0EoTGDUKh0Se9mChgBghmp"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280106,
+      "name": "\u30a2\u30ca\u30ed\u30b0\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn"
     },
     {
       "album": {
@@ -968,6 +1078,42 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
+        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252280,
+      "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233720,
+      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5929\u738b\u5bfa\u7483\u5948\u76e4)",
         "url": "https://open.spotify.com/album/7KjQ0RvxpgVELdpiIOkCSv"
       },
@@ -997,7 +1143,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 253320,
       "name": "\u30c6\u30ec\u30c6\u30ec\u30d1\u30b7\u30fc",
       "url": "https://open.spotify.com/track/1mMPqcCOJjvWOjBcgNZNdL"
@@ -1022,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "not ALONE not HITORI / \u30df\u30e9\u30af\u30eb STAY TUNE! / Shooting Voice!! (Liella!\u76e4)",
+        "url": "https://open.spotify.com/album/69O4f3996TWbFvSGqFL81P"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291080,
+      "name": "\u30df\u30e9\u30af\u30eb STAY TUNE!",
+      "url": "https://open.spotify.com/track/3Yy238rD3nb1xmFevP7pRu"
+    },
+    {
+      "album": {
         "name": "L!L!L! (Love the Life We Live)",
         "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
       },
@@ -1033,7 +1197,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 255280,
       "name": "\u30e4\u30bf\u3099!",
       "url": "https://open.spotify.com/track/6L8bDztOq8w5fWpED5b1Zb"
@@ -1069,7 +1233,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 221613,
       "name": "\u591c\u660e\u73e0",
       "url": "https://open.spotify.com/track/028AUKQ4fCTnm5oaoelN85"
@@ -1105,28 +1269,10 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 287626,
       "name": "\u5922\u3078\u306e\u4e00\u6b69",
       "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
-    },
-    {
-      "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
-      },
-      "artists": [
-        {
-          "name": "DiverDiva",
-          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
-        }
-      ],
-      "date_added": "2022-06-25",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
-      "duration_ms": 228213,
-      "name": "\u604b\u3059\u308bMagic!!",
-      "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"
     },
     {
       "album": {
@@ -1141,7 +1287,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 241306,
       "name": "\u697d\u3057\u3044\u306e\u5929\u624d",
       "url": "https://open.spotify.com/track/6BR9SPM7tKuD7wGOkx4CYd"
@@ -1177,7 +1323,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 244653,
       "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
@@ -1235,6 +1381,24 @@
       "duration_ms": 229333,
       "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
       "url": "https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8"
+    },
+    {
+      "album": {
+        "name": "\u8679\u8272Passions!",
+        "url": "https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255053,
+      "name": "\u8679\u8272Passions!",
+      "url": "https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC"
     },
     {
       "album": {

@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 126593,
       "name": "a walk in the park",
       "url": "https://open.spotify.com/track/6OlIEuyO5vY8INjdhN4xBG"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 110312,
       "name": "Aclima\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5ul4MZmzojMYEB6N8BWVF0"
@@ -7319,7 +7319,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3NA5xcNdbBmeKOP1HILB06"
@@ -8441,7 +8441,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 110060,
       "name": "Charming",
       "url": "https://open.spotify.com/track/1WJcb1GTnvyBHYhlnuLuBs"
@@ -10363,7 +10363,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 123116,
       "name": "Conjunction",
       "url": "https://open.spotify.com/track/3Z7kpiNOuQ1gFe0jTtN2r7"
@@ -12429,7 +12429,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 102518,
       "name": "Diamond In The Back",
       "url": "https://open.spotify.com/track/04emr6g1YI9iOjVvBM0qiQ"
@@ -19022,6 +19022,28 @@
     },
     {
       "album": {
+        "name": "Glissade",
+        "url": "https://open.spotify.com/album/3hr8SY2rU7UGqZMAcDpf4j"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Waywell",
+          "url": "https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147720,
+      "name": "Glissade",
+      "url": "https://open.spotify.com/track/7wckVgqFimHFAQA5GzGSGS"
+    },
+    {
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy"
       },
@@ -19809,6 +19831,32 @@
       "duration_ms": 190426,
       "name": "Green Heart",
       "url": "https://open.spotify.com/track/6sRdYxMkX8KXj35QWGP5Cl"
+    },
+    {
+      "album": {
+        "name": "Green Lagoon",
+        "url": "https://open.spotify.com/album/3kfi7ldws3iSUSARf4rOVC"
+      },
+      "artists": [
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        },
+        {
+          "name": "Sless Praismo",
+          "url": "https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127214,
+      "name": "Green Lagoon",
+      "url": "https://open.spotify.com/track/2umuDMxv9CPEcyxMjXka22"
     },
     {
       "album": {
@@ -21033,7 +21081,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 113618,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/3ko8fiPX0re8ZLhferPvLy"
@@ -21525,7 +21573,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 103636,
       "name": "Hold On To Me",
       "url": "https://open.spotify.com/track/7z2QlAHvgbotRygoHqAPDc"
@@ -22373,7 +22421,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 102857,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/3bFQS0uqG7zJ830fYLkKly"
@@ -31963,7 +32011,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 150361,
       "name": "Mixed Feelings",
       "url": "https://open.spotify.com/track/79RFM7SALr0Sv1qEd3iLBv"
@@ -34939,6 +34987,28 @@
     {
       "album": {
         "name": "Nightfall",
+        "url": "https://open.spotify.com/album/7IDbNx1VdTokt14OppLRhj"
+      },
+      "artists": [
+        {
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+        },
+        {
+          "name": "Wezt MAAD",
+          "url": "https://open.spotify.com/artist/1hwXiwb02GgcXPuAewKCmF"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/5p7nYKpEKnziLYyRugmSty"
+    },
+    {
+      "album": {
+        "name": "Nightfall",
         "url": "https://open.spotify.com/album/3odg75eIm8VTTKBhlwNS0P"
       },
       "artists": [
@@ -35569,6 +35639,28 @@
       "duration_ms": 73026,
       "name": "Noodle Soup",
       "url": "https://open.spotify.com/track/31pRixOWqVG7Gp1SpZj8mt"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1K0LekCXrnlYhzbc1HwGYj"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        },
+        {
+          "name": "Adrian Planitz",
+          "url": "https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91395,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/19NMCb0Ur6FPad3BU0ainP"
     },
     {
       "album": {
@@ -36319,6 +36411,28 @@
       "duration_ms": 144000,
       "name": "Olympian",
       "url": "https://open.spotify.com/track/27IZfin88wF3wIoEoKjHHv"
+    },
+    {
+      "album": {
+        "name": "Omaya Reprise / Underwaterday",
+        "url": "https://open.spotify.com/album/2z1YdQwWNzwd0RJ3uvvk4O"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        },
+        {
+          "name": "Twit One",
+          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191081,
+      "name": "Omaya Reprise",
+      "url": "https://open.spotify.com/track/1pqZj6L5via7EhLODnJlti"
     },
     {
       "album": {
@@ -38510,6 +38624,24 @@
     },
     {
       "album": {
+        "name": "Phantom Horns",
+        "url": "https://open.spotify.com/album/3bzAPFAGaL21A9Zpz8ntqY"
+      },
+      "artists": [
+        {
+          "name": "Konteks",
+          "url": "https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "Phantom Horns",
+      "url": "https://open.spotify.com/track/0iWEXPNt4S5zsGVGnHuaF8"
+    },
+    {
+      "album": {
         "name": "GISEKE (Instrumental Version)",
         "url": "https://open.spotify.com/album/0IX4zr8pwtrmCUnW5vc2VB"
       },
@@ -40383,7 +40515,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 158181,
       "name": "Raindrops & Jazz",
       "url": "https://open.spotify.com/track/5A8u4hhSSBG41GRIF93rQx"
@@ -41903,7 +42035,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 128338,
       "name": "rollin",
       "url": "https://open.spotify.com/track/2IleXsyPSlKjiegO8hlX7T"
@@ -47840,6 +47972,32 @@
     },
     {
       "album": {
+        "name": "Three Of A Kind",
+        "url": "https://open.spotify.com/album/26yV3lBXO2TDPZwfvs06ZZ"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        },
+        {
+          "name": "Mendeville",
+          "url": "https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD"
+        },
+        {
+          "name": "KaspaHauser",
+          "url": "https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Submerged",
+      "url": "https://open.spotify.com/track/6i1O2JaBte01FkyOJ9pfT7"
+    },
+    {
+      "album": {
         "name": "Submotions",
         "url": "https://open.spotify.com/album/1ihWxGTv9nkLBYEdDWTBcP"
       },
@@ -51119,7 +51277,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 148124,
       "name": "The News",
       "url": "https://open.spotify.com/track/74dl7BgtaxeIT6d3jtowxH"

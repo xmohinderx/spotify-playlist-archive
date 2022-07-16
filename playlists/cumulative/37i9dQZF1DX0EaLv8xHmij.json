@@ -466,6 +466,36 @@
     },
     {
       "album": {
+        "name": "Carnadrill",
+        "url": "https://open.spotify.com/album/7m8NH7IW9rIvyrdbMqym7s"
+      },
+      "artists": [
+        {
+          "name": "Nauta",
+          "url": "https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Cita OQ",
+          "url": "https://open.spotify.com/artist/2oJc2xV0N5Po2NFbWE3zXh"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115203,
+      "name": "Carnadrill",
+      "url": "https://open.spotify.com/track/6ZmYwR6Z4UajJ5LiPnN4n1"
+    },
+    {
+      "album": {
         "name": "Caro",
         "url": "https://open.spotify.com/album/0sPxkDg3IdEvXWQtlaDVF3"
       },

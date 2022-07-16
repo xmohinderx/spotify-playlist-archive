@@ -1921,6 +1921,32 @@
     {
       "album": {
         "name": "Beethoven: The Symphonies",
+        "url": "https://open.spotify.com/album/0wRVXS1MuIYWZG308KMoqF"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Chamber Orchestra of Europe",
+          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": IVa. Finale. Presto",
+      "url": "https://open.spotify.com/track/1bI07u4VsVOkZgqmdJFhm3"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Symphonies",
         "url": "https://open.spotify.com/album/0PAk3K7qPNlaUHemxJvSst"
       },
       "artists": [

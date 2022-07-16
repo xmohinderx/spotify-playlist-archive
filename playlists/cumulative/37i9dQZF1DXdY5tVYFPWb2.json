@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 277993,
       "name": "1989's",
       "url": "https://open.spotify.com/track/1maEK0VKEFEGpP1QXmZb1R"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 178546,
       "name": "A Rainy Night in NY",
       "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 272233,
       "name": "A. me too",
       "url": "https://open.spotify.com/track/29LFzfre93VpcGjj3BGvu3"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 272657,
       "name": "After Party",
       "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 245653,
       "name": "CITY FLIGHT",
       "url": "https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek"
@@ -612,6 +612,24 @@
     },
     {
       "album": {
+        "name": "Flannel",
+        "url": "https://open.spotify.com/album/52DpZlVpQrktxXRlM3X7f1"
+      },
+      "artists": [
+        {
+          "name": "Ghost like girlfriend",
+          "url": "https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211968,
+      "name": "Flannel",
+      "url": "https://open.spotify.com/track/6NIpHfEzWU9MGQddGBNGq1"
+    },
+    {
+      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/30GBzKSzQdpRrQaikOayeC"
       },
@@ -663,7 +681,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 211562,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN"
@@ -681,7 +699,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 197500,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 241450,
       "name": "Just be Blue",
       "url": "https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 246613,
       "name": "Midnight Dew",
       "url": "https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 207195,
       "name": "My Lost City",
       "url": "https://open.spotify.com/track/1YEGUAQz96PSwUL9FGAV1Z"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 209285,
       "name": "Rainy Talk",
       "url": "https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM"
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 249833,
       "name": "Summer Again",
       "url": "https://open.spotify.com/track/1TvZNdyMxCL6LcN5CZyCvC"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 278290,
       "name": "Talk",
       "url": "https://open.spotify.com/track/18AY2i3WVZFIHGl6JG4xKa"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 238301,
       "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM"
@@ -2221,7 +2239,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 303673,
       "name": "\u3044\u3064\u304b - SOMEDAY (feat. tonun) - 45s Edit",
       "url": "https://open.spotify.com/track/3rFpK78Cw2WmpQL1X18Pag"
@@ -2377,7 +2395,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 337894,
       "name": "\u3075\u305f\u308a\u306e\u30b7\u30eb\u30a8\u30c3\u30c8 (feat. \u5800\u8fbc\u6cf0\u884c)",
       "url": "https://open.spotify.com/track/4G1nLenBpqkbO2UehxVeZ1"
@@ -2685,7 +2703,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 228900,
       "name": "\u30ca\u30a4\u30c8\u30c0\u30a4\u30d0\u30fc",
       "url": "https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 204237,
       "name": "\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx"
@@ -2797,7 +2815,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 295296,
       "name": "\u30e2\u30ca\u30ea\u30b6\u306e\u6d99",
       "url": "https://open.spotify.com/track/3M4oUMwKZTewN85bBzZoOM"
@@ -2961,7 +2979,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 251741,
       "name": "\u591c\u884c\u6027 feat. \u8521\u5fe0\u6d69",
       "url": "https://open.spotify.com/track/3NCWb3k382tplUsQdHUz6Y"
@@ -3128,6 +3146,24 @@
     },
     {
       "album": {
+        "name": "\u61f2\u308a\u306a\u3044\u5973/\u6b32\u3057\u3044\u3082\u306e\u306f",
+        "url": "https://open.spotify.com/album/0E3TcWXreeMqinoTlMO8tT"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u306e\u30a2\u30ab\u30b7",
+          "url": "https://open.spotify.com/artist/1hpqhipNHGppDFuSDl2mpl"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272884,
+      "name": "\u61f2\u308a\u306a\u3044\u5973",
+      "url": "https://open.spotify.com/track/4bP5iCThQrD8iH0yanKlCZ"
+    },
+    {
+      "album": {
         "name": "\u6625",
         "url": "https://open.spotify.com/album/73YxeGPir2kRtW2welidV5"
       },
@@ -3233,7 +3269,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 239300,
       "name": "\u697d\u5712",
       "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"
@@ -3415,7 +3451,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 265040,
       "name": "\u8584\u660e",
       "url": "https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ"

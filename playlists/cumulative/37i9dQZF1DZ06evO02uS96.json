@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "hoshino kieta yoruni",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301200,
+      "name": "grace note",
+      "url": "https://open.spotify.com/track/6Cbj35JwbPVyBXfqtX17Jm"
+    },
+    {
+      "album": {
         "name": "Penny Rain",
         "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 305333,
       "name": "Kyoukara Omoide - Remaster for Hoshino Kieta Yoruni 2022",
       "url": "https://open.spotify.com/track/7bQuUcaIrP7i4u1xYnr8xy"
@@ -983,24 +1001,6 @@
       "duration_ms": 91000,
       "name": "Zankyosanka -TV version-",
       "url": "https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0"
-    },
-    {
-      "album": {
-        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
-        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
-      "duration_ms": 301200,
-      "name": "\u30b0\u30ec\u30fc\u30b9\u30ce\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/6Cbj35JwbPVyBXfqtX17Jm"
     },
     {
       "album": {

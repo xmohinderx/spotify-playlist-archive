@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: City Fidelia, Shelley FKA DRAM",
+  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Nate Husser",
   "name": "Northern Bars",
   "published_playlist_ids": [
     "42ubhhnACTiunpws137UPH"
@@ -269,6 +269,24 @@
       "duration_ms": 188686,
       "name": "A to B",
       "url": "https://open.spotify.com/track/7yqcgn9daXy8pFnB5CCgog"
+    },
+    {
+      "album": {
+        "name": "Abre La Boca",
+        "url": "https://open.spotify.com/album/6TvnC4o2fqiisHDDrpAzT4"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Wes",
+          "url": "https://open.spotify.com/artist/37E2JT09pO4YRFSAH1sHMu"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115744,
+      "name": "Abre La Boca",
+      "url": "https://open.spotify.com/track/6cXCcOcI3DKuyRgsaFIRTB"
     },
     {
       "album": {
@@ -862,6 +880,24 @@
     },
     {
       "album": {
+        "name": "Bankai",
+        "url": "https://open.spotify.com/album/0g31dMhnJxAFZUlslbTjG0"
+      },
+      "artists": [
+        {
+          "name": "Trae Gold",
+          "url": "https://open.spotify.com/artist/7annY00NYmdxtdkcmqN5s1"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106285,
+      "name": "Bankai",
+      "url": "https://open.spotify.com/track/3qXgW0B2xHlkzuQVPCQVq0"
+    },
+    {
+      "album": {
         "name": "Be That Guy",
         "url": "https://open.spotify.com/album/4jWhDa3Drers7DbgCNxhSP"
       },
@@ -1451,7 +1487,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 150535,
       "name": "Cartel",
       "url": "https://open.spotify.com/track/4DiUbW9gS8NAnPvAJLWvDL"
@@ -4455,10 +4491,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 195840,
       "name": "Kush In Motion",
       "url": "https://open.spotify.com/track/5TZAf2i5CQiSXVMiIOJ7w2"
+    },
+    {
+      "album": {
+        "name": "Pain In The City",
+        "url": "https://open.spotify.com/album/3DNyLS7YfWoYY4W8B1jKEb"
+      },
+      "artists": [
+        {
+          "name": "Realcityfame",
+          "url": "https://open.spotify.com/artist/5aGiv8WaosuW2FA3CQyul3"
+        },
+        {
+          "name": "RegSounds",
+          "url": "https://open.spotify.com/artist/7o4Xk7xOkXMYZsvecMu8Ej"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225436,
+      "name": "Last Call (Reg's Voicemail)",
+      "url": "https://open.spotify.com/track/7odhYEbktZ14tkDQabTiWX"
     },
     {
       "album": {
@@ -5509,7 +5567,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 169795,
       "name": "No Voy A Cambiar",
       "url": "https://open.spotify.com/track/5smT9id9hnZsFEpkr9Audd"
@@ -5643,6 +5701,24 @@
       "duration_ms": 194958,
       "name": "NOTHING LIKE IT",
       "url": "https://open.spotify.com/track/0ljEfxKkkHvc08Y7l3dmY0"
+    },
+    {
+      "album": {
+        "name": "NUMB",
+        "url": "https://open.spotify.com/album/7vijlWkIQCRpHdWyhmBG6R"
+      },
+      "artists": [
+        {
+          "name": "Adrian Dey",
+          "url": "https://open.spotify.com/artist/41TTSjdfiIV7sFPCgWwCzA"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/4usIhM5LlrFs7pulK0o668"
     },
     {
       "album": {
@@ -6875,7 +6951,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 160991,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/5fHZ0cDHAMZZhqp49RwDOS"
@@ -6981,7 +7057,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 150216,
       "name": "Something To Give",
       "url": "https://open.spotify.com/track/77zhP74iDo2ZTK8BezBZV0"
@@ -7185,6 +7261,24 @@
       "duration_ms": 176084,
       "name": "Stick Talk",
       "url": "https://open.spotify.com/track/1u0kMhsApPsAJgKcUTbfoq"
+    },
+    {
+      "album": {
+        "name": "Stones From Tema",
+        "url": "https://open.spotify.com/album/3yyoSTsX3B074gcnFSHPab"
+      },
+      "artists": [
+        {
+          "name": "Kordoroy Floyd",
+          "url": "https://open.spotify.com/artist/4NyYhyuLjlMkTKr4YacBw0"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147022,
+      "name": "Stones From Tema",
+      "url": "https://open.spotify.com/track/32PTU7y1GcqDNFpwW7MzXx"
     },
     {
       "album": {
@@ -7759,7 +7853,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 235102,
       "name": "TIME SPINNING",
       "url": "https://open.spotify.com/track/0UF6E1mX0vqqae005gs7bo"
@@ -8397,6 +8491,28 @@
       "duration_ms": 179751,
       "name": "WINNING",
       "url": "https://open.spotify.com/track/6bvnHnYqRJPHJ4gGegTGQm"
+    },
+    {
+      "album": {
+        "name": "WOESKI ( WINNERS UP ) [feat. Powers Pleasant]",
+        "url": "https://open.spotify.com/album/1JcsaZ70gZzHW0h6dW8y23"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        },
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/7MG39W8ndSBxWsVlIPTZpS"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "WOESKI ( WINNERS UP ) [feat. Powers Pleasant]",
+      "url": "https://open.spotify.com/track/3w3BMvXk7qhMA7IX3aOkM1"
     },
     {
       "album": {

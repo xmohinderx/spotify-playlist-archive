@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : VTK
 
-68 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+69 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/track/5TCmpwdXWcTvUvX52tHuOa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/album/5wGTuwwxCEhotwZpDTs6nL) | 3:01 | 2021-12-22 |  |
 | [Azhaikiradhae](https://open.spotify.com/track/1hsGje3u3fxklQlKXF39xY) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Samrat Prithviraj \- Tamil](https://open.spotify.com/album/7rFNqCSbDKvket5UXHyNw4) | 4:02 | 2022-05-19 | 2022-06-29 |
 | [Baby](https://open.spotify.com/track/4t14FoGOyLUyadT7RkzZNO) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Baby \(From "Madhil Mel Kaadhal"\)](https://open.spotify.com/album/1lbLfuJjIfjOMA21icZGzw) | 4:27 | 2022-06-20 |  |
+| [Baby Gurl \- From "Coffee With Kadhal"](https://open.spotify.com/track/4QMMw7v3KYc7lXFWqPXd8L) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Baby Gurl \(From "Coffee With Kadhal"\)](https://open.spotify.com/album/7yiREHekAr0JxfJRyjTRmL) | 3:40 | 2022-07-15 |  |
 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 | 2022-02-03 |  |
 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 | 2021-11-29 |  |
 | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3jTx8LYOYIO0cRZDlS1uPx) | 4:27 | 2021-11-29 | 2022-06-21 |

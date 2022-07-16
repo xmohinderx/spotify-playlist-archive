@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,718 likes - 51 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,338 likes - 51 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 50 | [Rêverie, L\. 68](https://open.spotify.com/track/6HNUntao7jCtKR2cGKgqn0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:29 |
 | 51 | [Nocturne No\. 1 in E Flat Major, H.24](https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Elizabeth Joy Roe](https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs) | [Field: Complete Nocturnes](https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub) | 3:41 |
 
-Snapshot ID: `MTY1NzI1MjkyMCwwMDAwMDAyOTAwMDAwMTgxZGJmOGJiNTcwMDAwMDE3ZDhmZmM0M2Ix`
+Snapshot ID: `MTY1Nzg5MzI3OCwwMDAwMDAyYTAwMDAwMTgyMDIyM2QxYWYwMDAwMDE3ZDhmZmM0M2Ix`

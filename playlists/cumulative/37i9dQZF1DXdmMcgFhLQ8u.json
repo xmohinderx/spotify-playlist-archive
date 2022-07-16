@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/4DkA3DNGcEAh5SztzpTxPh"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 193242,
       "name": "Better Than That",
       "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 204453,
       "name": "Catching Up With An Ol' Memory",
       "url": "https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 182173,
       "name": "Even Now",
       "url": "https://open.spotify.com/track/12qcFRHow2xBBaAa6LM3Qo"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 186233,
       "name": "Far Boy (with Austin Burke)",
       "url": "https://open.spotify.com/track/72IZFSjcDbtrtqn4sfrIjR"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 228115,
       "name": "No, Pedal Steel",
       "url": "https://open.spotify.com/track/0ijVRmoMHk1uNhM6YHvdhe"
@@ -1505,6 +1505,28 @@
       "duration_ms": 215281,
       "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254746,
+      "name": "Outrunnin' Your Memory",
+      "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
     },
     {
       "album": {
@@ -1555,7 +1577,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 217946,
       "name": "Probably Wouldn't Be This Way",
       "url": "https://open.spotify.com/track/6R56sVWQZMV03ZZ5Z4szGt"
@@ -2175,7 +2197,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 228373,
       "name": "When Someone Stops Loving You",
       "url": "https://open.spotify.com/track/7A55QoGK0vf8lGNtaWZm45"
@@ -2483,7 +2505,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 190173,
       "name": "You Should Be Here",
       "url": "https://open.spotify.com/track/63thx7OANplv4I4BQsanHk"

@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
+    },
+    {
+      "album": {
         "name": "If I'm The Devil...",
         "url": "https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg"
       },
@@ -931,7 +949,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 299533,
       "name": "Change (In the House of Flies)",
       "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
@@ -2749,7 +2767,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 223680,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm"
@@ -3027,7 +3045,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 177840,
       "name": "Kiss This",
       "url": "https://open.spotify.com/track/0cYrnLpz2drPo2aZWExpCl"
@@ -4256,6 +4274,24 @@
     },
     {
       "album": {
+        "name": "Placeholder",
+        "url": "https://open.spotify.com/album/0fjn5aDzYjBnWctsHplKAG"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159818,
+      "name": "Placeholder",
+      "url": "https://open.spotify.com/track/2mZhWoguUqZTivAnSmlBUE"
+    },
+    {
+      "album": {
         "name": "Everything Has to Fall Apart Eventually",
         "url": "https://open.spotify.com/album/0S05fLjM0QX7Stno2XkO63"
       },
@@ -4321,7 +4357,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 156946,
       "name": "Promise Everything",
       "url": "https://open.spotify.com/track/2KerlpO7VnoIiE69HUiiro"
@@ -4603,7 +4639,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 221666,
       "name": "Saint Cecilia",
       "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
@@ -5221,7 +5257,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 215293,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/2zk1COXk7NaAaDW1KWMuio"
@@ -6228,6 +6264,24 @@
     },
     {
       "album": {
+        "name": "Vampires (Occult Archives)",
+        "url": "https://open.spotify.com/album/1LVAJaCZc8WmvPSB5jaVu7"
+      },
+      "artists": [
+        {
+          "name": "Billy Martin",
+          "url": "https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Vampires (Occult Archives)",
+      "url": "https://open.spotify.com/track/2CzUJJ00WjBuwbcjorxfxg"
+    },
+    {
+      "album": {
         "name": "Waiting On A War",
         "url": "https://open.spotify.com/album/3BsK8KLf8uwzdHmWS051vT"
       },
@@ -6513,7 +6567,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 206773,
       "name": "Would?",
       "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"

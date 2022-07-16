@@ -1682,6 +1682,24 @@
     },
     {
       "album": {
+        "name": "L\u00e4tt",
+        "url": "https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf"
+      },
+      "artists": [
+        {
+          "name": "Soulgarden",
+          "url": "https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "L\u00e4tt",
+      "url": "https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3"
+    },
+    {
+      "album": {
         "name": "Magnificent",
         "url": "https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS"
       },

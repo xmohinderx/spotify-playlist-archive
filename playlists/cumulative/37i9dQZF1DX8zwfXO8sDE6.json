@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 223600,
       "name": "JOKER",
       "url": "https://open.spotify.com/track/3khSQSamXJGnuA3s2SiUis"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 264040,
       "name": "Misty Lady",
       "url": "https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 209053,
       "name": "Modototte Oide Watashi No Jikan",
       "url": "https://open.spotify.com/track/4D1keJOHZGqct7n3F8LA9G"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 351520,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/4n4x9tHhgUT4BoVhBWMqav"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 371226,
       "name": "ON THE SEASHORE",
       "url": "https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b"
@@ -365,6 +365,24 @@
       "duration_ms": 234666,
       "name": "Pool Side",
       "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
+    },
+    {
+      "album": {
+        "name": "MINAKO",
+        "url": "https://open.spotify.com/album/2c8zqoBf7oFJWKFqSbEjn8"
+      },
+      "artists": [
+        {
+          "name": "Minako Yoshida",
+          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237160,
+      "name": "Rainbow Sea Line",
+      "url": "https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d"
     },
     {
       "album": {
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 265946,
       "name": "Sunday Afternoon",
       "url": "https://open.spotify.com/track/4eq2ctEy7A37mQm5ao8IS1"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 279693,
       "name": "\u30ad\u30c3\u30b7\u30f3\u30b0\u30fb\u30d5\u30a3\u30c3\u30b7\u30e5 - 2017 \u30ea\u30de\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 194853,
       "name": "\u30b5\u30d6\u30bf\u30ec\u30cb\u30a2\u30f3\u4e8c\u4eba\u307c\u3063\u3061 - 2017 \u30ea\u30de\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 209053,
       "name": "\u30bd\u30d0\u30ab\u30b9\u306e\u3042\u308b\u5c11\u5973",
       "url": "https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx"
@@ -884,24 +902,6 @@
     },
     {
       "album": {
-        "name": "MINAKO",
-        "url": "https://open.spotify.com/album/2c8zqoBf7oFJWKFqSbEjn8"
-      },
-      "artists": [
-        {
-          "name": "Minako Yoshida",
-          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
-        }
-      ],
-      "date_added": "2021-08-21",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
-      "duration_ms": 237160,
-      "name": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30fb\u30b7\u30fc\u30fb\u30e9\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d"
-    },
-    {
-      "album": {
         "name": "14\u756a\u76ee\u306e\u6708",
         "url": "https://open.spotify.com/album/28VkIuu7LxHzMtfxkx4URs"
       },
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 322533,
       "name": "\u4eca\u9803\u541b\u306f\u30fb\u30fb\u30fb",
       "url": "https://open.spotify.com/track/3mMGulD9cNqpOvfuOMVQQU"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 235853,
       "name": "\u7802\u306e\u5973",
       "url": "https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"

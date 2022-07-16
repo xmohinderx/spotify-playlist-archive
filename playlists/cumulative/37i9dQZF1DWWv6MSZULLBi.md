@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Ten Kills the Pack
+> A laid\-back trip in the folk scene\. Cover: Noah Kahan
 
-138 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+139 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 | 2022-05-13 |  |
 | [Fast Car](https://open.spotify.com/track/6oSkiBsy0ruE8uhdBLybNB) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Fast Car](https://open.spotify.com/album/7tCmNKU1tMnDLNCqcfMvTD) | 2:15 | 2022-05-13 |  |
 | [Fatal Line](https://open.spotify.com/track/6JAQKyDivpPVulL0K6J6zo) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:01 | 2022-05-13 |  |
-| [Fault Lines](https://open.spotify.com/track/0IWAEtB2BD50eC874I9rHm) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Fault Lines](https://open.spotify.com/album/7odRJxbB9XE3zHt009Errk) | 3:50 | 2022-05-13 |  |
+| [Fault Lines](https://open.spotify.com/track/0IWAEtB2BD50eC874I9rHm) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Fault Lines](https://open.spotify.com/album/7odRJxbB9XE3zHt009Errk) | 3:50 | 2022-05-13 | 2022-07-16 |
 | [fetishizing struggle](https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [fetishizing struggle](https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV) | 2:55 | 2022-05-13 | 2022-06-04 |
 | [flowers in the garden](https://open.spotify.com/track/1HModMENiKhlpB1P16bKMk) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [flowers in the garden](https://open.spotify.com/album/1KQvHodSIwDWG6R2Oevl5L) | 2:54 | 2022-05-13 | 2022-07-09 |
 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 | 2022-05-13 |  |
@@ -123,6 +123,7 @@
 | [Talamanca](https://open.spotify.com/track/7oVQfidyQVhkxUT4Lg1foI) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Top Down](https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW) | 4:20 | 2022-05-13 |  |
 | [Telephone](https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Telephone](https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W) | 3:32 | 2022-05-13 | 2022-06-18 |
 | [The Crossing](https://open.spotify.com/track/4Vr0FUtn0pT6kCXFNK3zOJ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [The Crossing](https://open.spotify.com/album/3BfHBDbLtxtsBbkccQ4QnV) | 3:54 | 2022-05-13 |  |
+| [The Current](https://open.spotify.com/track/6uu7udcraPTdInoWMtcGka) | [Katherine Fischer](https://open.spotify.com/artist/4JeHckTNyuauGu638Tz6no) | [The Current](https://open.spotify.com/album/1Xqov9cUBzmDVU6LIMacjD) | 3:03 | 2022-07-15 |  |
 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 | 2022-06-24 |  |
 | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75) | 3:00 | 2022-05-20 |  |
 | [The Well Has Run Dry](https://open.spotify.com/track/4bdBLdV7zfd29ZdDvbUfkC) | [The Wilderness of Manitoba](https://open.spotify.com/artist/5iiDMOV4u4LhRMqbCAepUM) | [The Well Has Run Dry](https://open.spotify.com/album/5Op8BG0Ex8C3BHvRQvKE6H) | 5:17 | 2022-05-13 |  |

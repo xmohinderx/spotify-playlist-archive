@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-456 songs - 1 day 2 hr 35 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+457 songs - 1 day 2 hr 38 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Red Gold Yesterday](https://open.spotify.com/track/557iYakWWJQeKbJS3UYMxG) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:18 | 2019-05-26\* | 2020-08-07 |
 | [Requiem](https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Reanimation](https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy) | 2:12 | 2019-05-26\* | 2019-06-19 |
 | [Requiem On Frankfort Ave](https://open.spotify.com/track/5NbEwV4nzEcFUtsqpnCAaQ) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Copia](https://open.spotify.com/album/5nwgPZgkuVtiLal8Lbh8mz) | 2:41 | 2019-05-26\* | 2020-01-09 |
-| [Retrospectacular](https://open.spotify.com/track/58Z8R4KZPbfTc6KVYZLwTb) | [Domaine Blanc](https://open.spotify.com/artist/00G1N1QNkX5ejgmHukDKDN) | [Retrospectacular](https://open.spotify.com/album/4hAQWfWzj4uG96C5WRuccZ) | 3:20 | 2020-06-19 |  |
+| [Retrospectacular](https://open.spotify.com/track/58Z8R4KZPbfTc6KVYZLwTb) | [Domaine Blanc](https://open.spotify.com/artist/00G1N1QNkX5ejgmHukDKDN) | [Retrospectacular](https://open.spotify.com/album/4hAQWfWzj4uG96C5WRuccZ) | 3:20 | 2020-06-19 | 2022-07-16 |
 | [Revealing The Unreal](https://open.spotify.com/track/2zJmgxEcBUKtrfjfCn1UMM) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Suburban Call For Concrete Dreams](https://open.spotify.com/album/3kFtOGZWe1iJnIOw0Df37m) | 3:32 | 2019-06-19\* | 2021-09-03 |
 | [Revitalize](https://open.spotify.com/track/1sPC2IR2UwzYUrItFRE1H3) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Unification](https://open.spotify.com/album/2amvCJnF3F5sK6Bzooovgx) | 3:18 | 2020-08-07 | 2020-10-27 |
 | [River Deep](https://open.spotify.com/track/3KBoMRQ6EbCiTzOCzy4pvF) | [2am Fieldscape](https://open.spotify.com/artist/39IAu6WNe9KVJkgaA82Tjq) | [River Deep](https://open.spotify.com/album/7HGtWt7FICdlGLFVQbRAlv) | 3:27 | 2022-05-19 |  |
@@ -361,6 +361,7 @@
 | [Stormy Weather](https://open.spotify.com/track/7oXWUVH2t0UR11AvhhY8GQ) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Stormy Weather](https://open.spotify.com/album/1t7Ug7j82OYRPdvhzt1Ijg) | 2:30 | 2019-09-14 |  |
 | [Strangeworks](https://open.spotify.com/track/0ADfdoBwxcK2eUuOQciInH) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/0a2yGkTrEviUUZNBolAUXL) | 4:23 | 2019-05-26\* | 2019-06-19 |
 | [Suhpratti](https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J) | [Parazal](https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49) | [Hum](https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK) | 3:06 | 2020-08-07 |  |
+| [summer silence](https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [summer silence](https://open.spotify.com/album/2l1GqNZKHiPQxt4dMJr5Oq) | 2:55 | 2022-07-15 |  |
 | [Sunbleached Memory](https://open.spotify.com/track/6JVIfxPhQXAyPcA2Ro94HX) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sunbleached Memory](https://open.spotify.com/album/0uLlVkSLZIBxOgp5CxEU6A) | 2:35 | 2019-06-19\* |  |
 | [Sunrise](https://open.spotify.com/track/0tgMoWV59lNPjuenr5mqvt) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Sunrise](https://open.spotify.com/album/7wIxTaDBUvGwrHCMS2Effs) | 2:49 | 2019-06-19\* | 2021-09-14 |
 | [Supernovas](https://open.spotify.com/track/60pJo7veaWc8yLHYyFfnB2) | [William Roud](https://open.spotify.com/artist/0KhhuDNDaeL6SOVM6K6Lt1) | [Supernovas](https://open.spotify.com/album/6ue3ZpkjQ2A4IwCgeq4MJR) | 3:02 | 2019-05-26\* | 2020-08-07 |

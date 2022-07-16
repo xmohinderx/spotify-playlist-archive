@@ -766,6 +766,32 @@
     },
     {
       "album": {
+        "name": "MJ the Musical - Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/0u2tzDSc9SyWFe0M56b8UL"
+      },
+      "artists": [
+        {
+          "name": "Ayana George",
+          "url": "https://open.spotify.com/artist/6w5qGJnIsvDzLzNfGVndUF"
+        },
+        {
+          "name": "Christian Wilson",
+          "url": "https://open.spotify.com/artist/3FiLia4LP3EuA0p1DOJ77A"
+        },
+        {
+          "name": "Myles Frost",
+          "url": "https://open.spotify.com/artist/5g9XqLz7acHqpBjufaxIT6"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/0TvpgsUzGz2bcgv6Kmplpl"
+    },
+    {
+      "album": {
         "name": "RENT (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ"
       },
@@ -1831,6 +1857,24 @@
       "duration_ms": 363293,
       "name": "The American Dream",
       "url": "https://open.spotify.com/track/2P2jms3uC1jfg42WY5oFIY"
+    },
+    {
+      "album": {
+        "name": "Company (2018 London Cast Recording)",
+        "url": "https://open.spotify.com/album/6cVS8HE0DLAHwcT1e4qixE"
+      },
+      "artists": [
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249167,
+      "name": "The Ladies Who Lunch",
+      "url": "https://open.spotify.com/track/22Hnu6M7hvv6L7BWVhnFmx"
     },
     {
       "album": {

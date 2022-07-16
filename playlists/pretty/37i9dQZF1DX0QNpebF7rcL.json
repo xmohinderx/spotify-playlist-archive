@@ -1,13 +1,29 @@
 {
-  "description": "The best in blues right now. Cover: Fantastic Negrito",
-  "num_followers": 38603,
+  "description": "The best in blues right now. Cover: Kirk Fletcher",
+  "num_followers": 38620,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzY0NzQ5OCwwMDAwMDA1MjAwMDAwMTgxZjM3ZDg0MjEwMDAwMDE4MTFiN2I3YTAw",
+  "snapshot_id": "MTY1Nzg5MTkxMSwwMDAwMDA1NDAwMDAwMTgyMDIwZWY4MWYwMDAwMDE4MjAyMGVjZTA2",
   "tracks": [
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Heartache by the Pound",
+        "url": "https://open.spotify.com/album/29Zs8tvzNxlKHIHjqHAW1N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Heartache by the Pound",
+      "url": "https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu"
+    },
     {
       "added_at": "2022-06-24 04:02:00",
       "album": {
@@ -243,22 +259,6 @@
       "duration_ms": 231666,
       "name": "Through Being Blue Over You",
       "url": "https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "White Jesus Black Problems",
-        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 227274,
-      "name": "Nibbadip",
-      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
     },
     {
       "added_at": "2022-05-13 04:02:00",

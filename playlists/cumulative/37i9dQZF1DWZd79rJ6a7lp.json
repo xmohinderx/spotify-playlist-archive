@@ -4452,6 +4452,24 @@
     },
     {
       "album": {
+        "name": "Gisteren",
+        "url": "https://open.spotify.com/album/46Epx3wYFdjZGIP6IFy1zm"
+      },
+      "artists": [
+        {
+          "name": "Casper Wiersma",
+          "url": "https://open.spotify.com/artist/2ZEbGQS7T0YnsUHidXUVUZ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143727,
+      "name": "Gisteren",
+      "url": "https://open.spotify.com/track/6VlkT2wNTiNCGiPS4pH3tO"
+    },
+    {
+      "album": {
         "name": "Going Back",
         "url": "https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa"
       },
@@ -5579,7 +5597,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 189500,
       "name": "Ladybugs",
       "url": "https://open.spotify.com/track/0bPOqdsUdPCOayNdh0ERNW"
@@ -8708,6 +8726,24 @@
     },
     {
       "album": {
+        "name": "Simplistica",
+        "url": "https://open.spotify.com/album/15GH2ZI0qwAeMTQdYI5VXx"
+      },
+      "artists": [
+        {
+          "name": "Celyn Awstin",
+          "url": "https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127728,
+      "name": "Simplistica",
+      "url": "https://open.spotify.com/track/6ZOmpmAGA1nM53YEvq8eLk"
+    },
+    {
+      "album": {
         "name": "Solaris",
         "url": "https://open.spotify.com/album/2SM2Fd7D38oQ9Ul3Io4nfE"
       },
@@ -10667,6 +10703,24 @@
       "duration_ms": 110000,
       "name": "Underview",
       "url": "https://open.spotify.com/track/5xcgi9ta3wVzBFktltBLMo"
+    },
+    {
+      "album": {
+        "name": "Une autre fois",
+        "url": "https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf"
+      },
+      "artists": [
+        {
+          "name": "Emmeline Ralph",
+          "url": "https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193034,
+      "name": "Une autre fois",
+      "url": "https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn"
     },
     {
       "album": {

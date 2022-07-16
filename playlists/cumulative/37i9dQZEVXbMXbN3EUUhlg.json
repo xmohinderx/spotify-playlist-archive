@@ -6057,7 +6057,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 179031,
       "name": "Parada Louca",
       "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
@@ -8003,7 +8003,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Tu Tava Na Revoada - Ao Vivo",
       "url": "https://open.spotify.com/track/5etfNcFAD9M8uibXpYMxfQ"
@@ -8805,10 +8805,36 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 171409,
       "name": "\u00c1udio Que Te Entrega",
       "url": "https://open.spotify.com/track/5dFxhpYLOton7aawKsDeiS"
+    },
+    {
+      "album": {
+        "name": "GG Astral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dEcD3WxO3tZ3lLJusLFl1"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171409,
+      "name": "\u00c1udio Que Te Entrega - Faixa B\u00f4nus",
+      "url": "https://open.spotify.com/track/7HdWqZjUmIHK5B8zwPCRds"
     },
     {
       "album": {

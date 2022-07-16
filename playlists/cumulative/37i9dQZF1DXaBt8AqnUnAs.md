@@ -4,7 +4,7 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-91 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
+92 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Paradoxo Mítico](https://open.spotify.com/track/6DlsL19K0YdOzV3AEY1YWo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk) | 3:39 | 2022-03-07 |  |
 | [Paris](https://open.spotify.com/track/6elpDIHMkVz82eRatb9tsj) | [Gbzxda](https://open.spotify.com/artist/0FqJvK48dvsnQudqvrfix1) | [Paris](https://open.spotify.com/album/62XZI52lD7pUCTztlLrK44) | 3:18 | 2022-07-01 |  |
 | [Paris e Parties](https://open.spotify.com/track/3cG1bBwsyJMQdMW7fNb3Ka) | [Moldrin](https://open.spotify.com/artist/3r6zGJ8POTGaVYelmIc0jf), [Arthur MG](https://open.spotify.com/artist/6Ks26RiM8LOxHD2v9PqX4W) | [Por Ventura](https://open.spotify.com/album/1Vs3hUuzBTp3L6OlyWwT2A) | 1:42 | 2022-07-08 |  |
+| [Pensando Em Nós](https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Pensando Em Nós](https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd) | 3:12 | 2022-07-08 |  |
 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 | 2022-06-27 |  |
 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 | 2022-03-07 |  |
 | [Privê](https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Privê](https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO) | 3:06 | 2022-03-07 |  |

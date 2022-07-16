@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Jay's Fantasy",
+        "url": "https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334240,
+      "name": "An Jing",
+      "url": "https://open.spotify.com/track/4FOydQ5IdqmdeBgG9vFbPg"
+    },
+    {
+      "album": {
         "name": "Complete",
         "url": "https://open.spotify.com/album/6Wo1NcIVH1i6Is4yjgQU5E"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 256839,
       "name": "Complete",
       "url": "https://open.spotify.com/track/64M3PN41vi6HgitUJvSzrx"
@@ -120,6 +138,24 @@
     },
     {
       "album": {
+        "name": "What Love Has Taught Us",
+        "url": "https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287306,
+      "name": "How Have You Been? - Ending Theme Song of TVBS Series \"Life List\"",
+      "url": "https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS"
+    },
+    {
+      "album": {
         "name": "To Be Continued",
         "url": "https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry"
       },
@@ -174,7 +210,7 @@
     },
     {
       "album": {
-        "name": "\u5b78\u4e0d\u6703",
+        "name": "Lost N Found",
         "url": "https://open.spotify.com/album/1hTBgTLTxoaK9TJ8YmnYU5"
       },
       "artists": [
@@ -185,7 +221,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 219511,
       "name": "Love U U",
       "url": "https://open.spotify.com/track/16o2AmA4xxtE3vMGl3zi0W"
@@ -354,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Yi Hou Bie Zuo Peng You",
+        "url": "https://open.spotify.com/album/0jxlAxLFkWE1ihRJp27Lcl"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259054,
+      "name": "Yi Hou Bie Zuo Peng You",
+      "url": "https://open.spotify.com/track/3lfZCMECn27muRpluTuFWQ"
+    },
+    {
+      "album": {
         "name": "You Don't Belong to Me (\"More than Blue\" TV Series Theme Song)",
         "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
       },
@@ -516,24 +570,6 @@
     },
     {
       "album": {
-        "name": "\u4ee5\u5f8c\u5225\u505a\u670b\u53cb",
-        "url": "https://open.spotify.com/album/0jxlAxLFkWE1ihRJp27Lcl"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "date_added": "2022-06-01",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
-      "duration_ms": 259054,
-      "name": "\u4ee5\u5f8c\u5225\u505a\u670b\u53cb",
-      "url": "https://open.spotify.com/track/3lfZCMECn27muRpluTuFWQ"
-    },
-    {
-      "album": {
         "name": "\u4ef0\u671b",
         "url": "https://open.spotify.com/album/2MZ6k2CnZOEHdTnqUxUN4a"
       },
@@ -549,24 +585,6 @@
       "duration_ms": 274200,
       "name": "\u4ef0\u671b",
       "url": "https://open.spotify.com/track/3Khvly1hpdpbK1YHtqIRMO"
-    },
-    {
-      "album": {
-        "name": "\u611b,\u6559\u6703\u6211\u5011\u7684\u4e8b",
-        "url": "https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "date_added": "2022-06-01",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
-      "duration_ms": 287306,
-      "name": "\u4f60,\u597d\u4e0d\u597d? - TVBS\u9023\u7e8c\u5287\u3010\u907a\u61be\u62fc\u5716\u3011\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS"
     },
     {
       "album": {
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 256349,
       "name": "\u4f86\u65e5\u4e0d\u65b9\u9577",
       "url": "https://open.spotify.com/track/0cor9VJMzRZQmyQbV9INpK"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 311266,
       "name": "\u5230\u4e0d\u4e86",
       "url": "https://open.spotify.com/track/3o9DyQ8sDd94JEVM35udyS"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 281182,
       "name": "\u5730\u7403\u4e0a\u6700\u6d6a\u6f2b\u7684\u4e00\u9996\u6b4c",
       "url": "https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 330000,
       "name": "\u5929\u771f\u6709\u90aa",
       "url": "https://open.spotify.com/track/1MFmvIDW11eY3Y9nlFWS26"
@@ -948,24 +966,6 @@
     },
     {
       "album": {
-        "name": "\u8303\u7279\u897f",
-        "url": "https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "date_added": "2022-06-01",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
-      "duration_ms": 334240,
-      "name": "\u5b89\u975c",
-      "url": "https://open.spotify.com/track/4FOydQ5IdqmdeBgG9vFbPg"
-    },
-    {
-      "album": {
         "name": "\u7b2c\u4e8c\u5929\u5802",
         "url": "https://open.spotify.com/album/3Hl00RKpdMnWtOal6WBlGK"
       },
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 301666,
       "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
       "url": "https://open.spotify.com/track/5CaJqFrwwETLGQmPlev1Ie"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 260878,
       "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 352333,
       "name": "\u6211\u671f\u5f85",
       "url": "https://open.spotify.com/track/2QVgTr1m0cOoPftywjlWVc"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 211826,
       "name": "\u6211\u771f\u7684\u53d7\u50b7\u4e86",
       "url": "https://open.spotify.com/track/0gbSZhHZDVAoxtFzqxL4LD"
@@ -1435,7 +1435,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 307213,
       "name": "\u6d6a\u8cbb",
       "url": "https://open.spotify.com/track/6rvSliUoMf9GU9vxAR7nPH"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 287579,
       "name": "\u7537\u4e8c\u865f",
       "url": "https://open.spotify.com/track/1YTr9bx7g2JMwjApb72tes"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 237693,
       "name": "\u7576\u4f60\u96e2\u958b\u7684\u6642\u5019",
       "url": "https://open.spotify.com/track/1P43VyM78qYm10rlcQ9R5d"
@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 303745,
       "name": "\u8ff7\u8def\u5728\u96f2\u7aef",
       "url": "https://open.spotify.com/track/2MWEmVj30mIJDHTzj0mleS"
@@ -1745,7 +1745,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 261466,
       "name": "\u9000\u5f8c",
       "url": "https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS"
@@ -1781,7 +1781,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 312981,
       "name": "\u9060\u8ddd\u96e2\u7df4\u7fd2",
       "url": "https://open.spotify.com/track/3CKodSS2anFIvg55hd2hxe"
@@ -1925,7 +1925,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 227307,
       "name": "\u9858\u4f60\u5feb\u6a02\u8207\u6211\u6709\u95dc",
       "url": "https://open.spotify.com/track/5A8tNprmuwjPEVSkgCdoWz"

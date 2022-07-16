@@ -1088,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "call me when ur lonely",
+        "url": "https://open.spotify.com/album/6NmidioRUyQc1Bc14mXi5Q"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159906,
+      "name": "call me when ur lonely",
+      "url": "https://open.spotify.com/track/4k8xUKG3DpRKE5Vc7lRUOG"
+    },
+    {
+      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
       },
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 216179,
       "name": "Company",
       "url": "https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 283691,
       "name": "Dark Bird - St. Lucia Remix",
       "url": "https://open.spotify.com/track/45r1g9y7kmNRLADtFj8syb"
@@ -3588,6 +3606,24 @@
     },
     {
       "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
+      },
+      "artists": [
+        {
+          "name": "Grant Knoche",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155327,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
+    },
+    {
+      "album": {
         "name": "THE S(EX) TAPES",
         "url": "https://open.spotify.com/album/1cppTra3p7ByUGqNsv3Qla"
       },
@@ -4043,7 +4079,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 164956,
       "name": "Libre",
       "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
@@ -4819,7 +4855,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 204289,
       "name": "Night Games",
       "url": "https://open.spotify.com/track/62oPiG18vOZKgtmApR8SHZ"
@@ -5079,7 +5115,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 213946,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/73jwOBEHGhnsXTXlePzfLF"
@@ -5549,7 +5585,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 184250,
       "name": "Rude Girl",
       "url": "https://open.spotify.com/track/4aaFbuneAqTpAxSDzlwf5g"
@@ -6681,7 +6717,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
@@ -7049,7 +7085,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 188226,
       "name": "Treat Me Right",
       "url": "https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6"

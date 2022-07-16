@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop and a little bit of rap. Cover: Nicky Youre",
-  "num_followers": 160930,
+  "num_followers": 161115,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzY1NjUyOSwwMDAwMDEzNTAwMDAwMTgxZjQwNzUzMjEwMDAwMDE4MWYzZjQwY2Uz",
+  "snapshot_id": "MTY1NzkxMTg5NSwwMDAwMDEzOTAwMDAwMTgyMDMzZmU0OGMwMDAwMDE4MjAzM2YzMTNk",
   "tracks": [
+    {
+      "added_at": "2022-07-15 13:50:15",
+      "album": {
+        "name": "Zipcodes",
+        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Zipcodes",
+      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
+    },
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
@@ -27,6 +43,22 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "added_at": "2022-07-11 17:06:22",
+      "album": {
+        "name": "good day",
+        "url": "https://open.spotify.com/album/4Yyn7HIrbeCp8tQuNAF3C4"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "good day",
+      "url": "https://open.spotify.com/track/3QK8wVrYJD2C6DAIypaXW1"
     },
     {
       "added_at": "2022-07-06 14:27:37",
@@ -51,22 +83,6 @@
     {
       "added_at": "2022-07-11 17:06:22",
       "album": {
-        "name": "good day",
-        "url": "https://open.spotify.com/album/4Yyn7HIrbeCp8tQuNAF3C4"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "good day",
-      "url": "https://open.spotify.com/track/3QK8wVrYJD2C6DAIypaXW1"
-    },
-    {
-      "added_at": "2022-07-11 17:06:22",
-      "album": {
         "name": "LYSA",
         "url": "https://open.spotify.com/album/3Hl7Pv7T7qqTMUwErYu6uk"
       },
@@ -79,6 +95,22 @@
       "duration_ms": 157047,
       "name": "LYSA",
       "url": "https://open.spotify.com/track/5FZsAaTNEEz5LNBO0bcIZv"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Man On The Moon: The End Of Day (Deluxe)",
+        "url": "https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/78T9DulqSBWqkaxczcGBfk"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -129,6 +161,22 @@
       "url": "https://open.spotify.com/track/6vsXEuQuTx6eCRcTFwSUix"
     },
     {
+      "added_at": "2022-07-06 14:27:37",
+      "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
       "added_at": "2022-07-05 14:49:37",
       "album": {
         "name": "profile",
@@ -159,22 +207,6 @@
       "duration_ms": 121690,
       "name": "bedroom floor",
       "url": "https://open.spotify.com/track/2Xbvn1LoF0FpsW66SWieyZ"
-    },
-    {
-      "added_at": "2022-07-06 14:27:37",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 297404,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2022-07-11 17:06:22",
@@ -265,6 +297,22 @@
       "url": "https://open.spotify.com/track/10omO03JNpJwhjo538gdNc"
     },
     {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Never Slept Better",
+        "url": "https://open.spotify.com/album/1ff1wHohcN2BRac6Ke4K6C"
+      },
+      "artists": [
+        {
+          "name": "Travie McCoy",
+          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Full Monarch",
+      "url": "https://open.spotify.com/track/6eD15T3BUxlhPXF8jFofPB"
+    },
+    {
       "added_at": "2022-07-12 20:08:49",
       "album": {
         "name": "IMPATIENT",
@@ -343,6 +391,22 @@
       "duration_ms": 162793,
       "name": "High 4 U",
       "url": "https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Blueberry Biscotti",
+        "url": "https://open.spotify.com/album/26n48B6Svxy9Wsp5hzrmQ4"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 128785,
+      "name": "Blueberry Biscotti",
+      "url": "https://open.spotify.com/track/4Jdz6B3w69AHsWHBg80SZK"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -499,26 +563,6 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 140665,
-      "name": "IDGAF (with blackbear)",
-      "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
         "name": "I'D GIVE IT ALL UP",
         "url": "https://open.spotify.com/album/2bDitgjXkr1k4GWkUXCQxl"
       },
@@ -639,22 +683,6 @@
       "duration_ms": 159724,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/5EuDiFKa6RYAKOUz9XznSv"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -831,26 +859,6 @@
       "duration_ms": 135843,
       "name": "Freak Like That",
       "url": "https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "ay! (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 124188,
-      "name": "ay! (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/374EllG6WyKdKvklfanNZT"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -1303,26 +1311,6 @@
       "duration_ms": 74840,
       "name": "nothing to lose",
       "url": "https://open.spotify.com/track/1FjHCIhGZNXkuYQGziT3p4"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Disappointment (feat. Rxseboy)",
-        "url": "https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        },
-        {
-          "name": "Rxseboy",
-          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
-        }
-      ],
-      "duration_ms": 142092,
-      "name": "Disappointment (feat. Rxseboy)",
-      "url": "https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x"
     }
   ],
   "unique_name": "Varsity Bars",

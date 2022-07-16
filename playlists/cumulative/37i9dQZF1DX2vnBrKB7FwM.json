@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Alcolirykoz",
+  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: La Etnnia",
   "name": "RAP\u00fablica de Colombia",
   "published_playlist_ids": [
     "3zmU4gkPj0G6pq0uLvvBh3"
@@ -27,7 +27,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 194000,
       "name": "A Fin de Mes",
       "url": "https://open.spotify.com/track/3osFtfAjORbbkLzrs23D1N"
@@ -486,6 +486,72 @@
     },
     {
       "album": {
+        "name": "Inmortal",
+        "url": "https://open.spotify.com/album/48mbjAcpTZU7QWVHXlSiJj"
+      },
+      "artists": [
+        {
+          "name": "La Etnnia",
+          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
+        },
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203969,
+      "name": "From The Barrio",
+      "url": "https://open.spotify.com/track/6xkzTDLquDbRQcqVXRQVby"
+    },
+    {
+      "album": {
+        "name": "fruti\u00f1o",
+        "url": "https://open.spotify.com/album/3UfT1lFbmSdWQzMB8kLY9G"
+      },
+      "artists": [
+        {
+          "name": "ha$lopablito",
+          "url": "https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195164,
+      "name": "fruti\u00f1o",
+      "url": "https://open.spotify.com/track/4QP4LwWOI0ZptrJv0oG8xB"
+    },
+    {
+      "album": {
+        "name": "Garrafa",
+        "url": "https://open.spotify.com/album/7jABk4M5FCrLBAFDzYXDOx"
+      },
+      "artists": [
+        {
+          "name": "No Rules Clan",
+          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
+        },
+        {
+          "name": "AvenREC",
+          "url": "https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB"
+        },
+        {
+          "name": "Primo Profit",
+          "url": "https://open.spotify.com/artist/22Z9RXSVitsBB1pHoADHCB"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191858,
+      "name": "Garrafa",
+      "url": "https://open.spotify.com/track/2kcpfQD1eAENcjPdnnTWMw"
+    },
+    {
+      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/2M6GazyqUQ4jWudSJDZLA1"
       },
@@ -581,7 +647,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 178983,
       "name": "Inmortal",
       "url": "https://open.spotify.com/track/0SuDASVJre5ibvn7FWhr2f"
@@ -735,7 +801,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 265586,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/1tOcCdYflHbg6oHENPYTAu"
@@ -753,7 +819,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 190329,
       "name": "Me Duele",
       "url": "https://open.spotify.com/track/2srklBkaBf5cCIeVCmyZso"
@@ -841,6 +907,32 @@
       "duration_ms": 297100,
       "name": "Murderah",
       "url": "https://open.spotify.com/track/6YfyOu9K4PsbF32jM7w2CK"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/30iGdqlhISpy8JNbU4Yx9V"
+      },
+      "artists": [
+        {
+          "name": "Tsh Sudaca",
+          "url": "https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO"
+        },
+        {
+          "name": "Negro Valle",
+          "url": "https://open.spotify.com/artist/6cH5EvIk0wv5k0ye7buTdJ"
+        },
+        {
+          "name": "N.V Produce",
+          "url": "https://open.spotify.com/artist/2JquvTBl4NZAarOPN64wq5"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262097,
+      "name": "M\u00e1s Alto",
+      "url": "https://open.spotify.com/track/3xNPzVmKEcDufiPM11kvtH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Calvin Harris, Justin Timberlake, Halsey, Pharrell Williams
 
-2,312 songs - 4 day 22 hr 42 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+2,313 songs - 4 day 22 hr 45 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1831,6 +1831,7 @@
 | [Small Things](https://open.spotify.com/track/2kKGKGT7YySUdJ9s6SFzwD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Small Things](https://open.spotify.com/album/33WitbRUYLqnDU2EYxAY4Z) | 2:57 | 2022-03-18 | 2022-03-25 |
 | [Smile](https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Smile](https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr) | 3:42 | 2022-05-19 | 2022-05-27 |
 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 | 2022-03-18 | 2022-03-25 |
+| [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-14 |  |
 | [Snowblind](https://open.spotify.com/track/09LvPT7j0Wn9UrYGXEe3TF) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Snowblind](https://open.spotify.com/album/68Zg1Jm0hccaviLSMmWB5r) | 3:57 | 2022-07-14 |  |
 | [So Distant \(feat\. Tayc\)](https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [So Distant \(feat\. Tayc\)](https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA) | 2:54 | 2022-02-24 | 2022-03-04 |
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-09 | 2022-06-17 |
@@ -2303,7 +2304,7 @@
 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ) | 3:30 | 2022-02-24 | 2022-03-04 |
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-03-10 | 2022-03-18 |
 | [Zeit bleibt](https://open.spotify.com/track/1eVbHqbNPedeyydWUzH1zJ) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Vielleicht Irgendwann \(Deluxe Edition\)](https://open.spotify.com/album/7tQQXsZhZIDbI3GPeEGwMV) | 3:19 | 2022-03-10 | 2022-03-18 |
-| [Zeit fliegt](https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6) | [Zeit fliegt](https://open.spotify.com/album/0LwhqOEMSOYTYJs3HluHrQ) | 2:14 | 2022-07-14 |  |
+| [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6) | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/album/0LwhqOEMSOYTYJs3HluHrQ) | 2:14 | 2022-07-14 |  |
 | [Zeitgeist](https://open.spotify.com/track/0JkRyfzUgRDzAXWPUafuBw) | [Westernhagen](https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS) | [Zeitgeist](https://open.spotify.com/album/3iy6tfect8dRXE9Bhobdtu) | 4:41 | 2022-03-24 | 2022-04-01 |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-07 | 2022-04-15 |
 | [Ziit](https://open.spotify.com/track/08rpFMleGEQmNRhpp1nKcD) | [EMM](https://open.spotify.com/artist/5Krys0EWa2Jy2pg7zqTwLO), [Doobious](https://open.spotify.com/artist/4Si6bkuClXDbHbTTAH0xPC) | [Ziit](https://open.spotify.com/album/1HhJMka0RHuWJhSe7Asuxq) | 2:31 | 2022-03-10 | 2022-03-18 |

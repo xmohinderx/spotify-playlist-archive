@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 166254,
       "name": "Allora ciao",
       "url": "https://open.spotify.com/track/5mtMuoCiBExgzH8SOdXyNB"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 168490,
       "name": "Amami Adesso",
       "url": "https://open.spotify.com/track/5LHQzLToznZ4EZlERy9mAU"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 202400,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/4iceKk4reL0vg2yDwXxQNF"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 276066,
       "name": "Bella",
       "url": "https://open.spotify.com/track/525vzYkgrT8uerIzDe5Apx"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 200869,
       "name": "Bella e rovinata",
       "url": "https://open.spotify.com/track/5uPQRVuGquShCnqzuOTq4B"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 188181,
       "name": "Che Poi",
       "url": "https://open.spotify.com/track/55BfNKdOeu77gxPB0UGnAw"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 153157,
       "name": "Cuore amaro",
       "url": "https://open.spotify.com/track/1CQbBT3Wi9srD77fA6UM6A"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 201546,
       "name": "Domenica",
       "url": "https://open.spotify.com/track/2tVNMtgZ2CQpTx7vgcuTkL"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 206253,
       "name": "Fiamme negli occhi",
       "url": "https://open.spotify.com/track/60nw7bwqYjVsrccNjF6TMO"
@@ -1116,6 +1116,24 @@
     },
     {
       "album": {
+        "name": "Sono Solo Canzonette",
+        "url": "https://open.spotify.com/album/3Lcvtt3SosWrLFo47PxlJj"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Bennato",
+          "url": "https://open.spotify.com/artist/7AWtkwVftjGXkoCIEvI7fW"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240506,
+      "name": "L'isola che non c'\u00e8",
+      "url": "https://open.spotify.com/track/57qOMZrbvnYyPRLodmnQk8"
+    },
+    {
+      "album": {
         "name": "L'ultima notte",
         "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
       },
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 212640,
       "name": "La Mia Hit - feat. Max Pezzali",
       "url": "https://open.spotify.com/track/7weRU1RLH8sZDqLBQho082"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 190487,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 272746,
       "name": "Ma il cielo \u00e8 sempre pi\u00f9 blu",
       "url": "https://open.spotify.com/track/1L9m2l2lhXgQ3GwmmCx3OK"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "Nessun grado di separazione",
       "url": "https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 209347,
       "name": "Pensare Male (con Elodie)",
       "url": "https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt"
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 177880,
       "name": "Per sentirmi vivo",
       "url": "https://open.spotify.com/track/20v9X8TV0AgwNGFT71OX3w"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 202533,
       "name": "Se Piovesse Il Tuo Nome",
       "url": "https://open.spotify.com/track/7oETr2afFHIzjDIOpm4zPJ"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 170578,
       "name": "Sono un bravo ragazzo un po' fuori di testa",
       "url": "https://open.spotify.com/track/5EXLYWZGnmYC01H53WUAhi"
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 203133,
       "name": "Tikibombom",
       "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
@@ -2383,7 +2401,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 230666,
       "name": "Torna a casa",
       "url": "https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85"

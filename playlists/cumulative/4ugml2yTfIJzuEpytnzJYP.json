@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Bat Yam",
+        "url": "https://open.spotify.com/album/6xyZNSnPXJYOefPLbsDf3o"
+      },
+      "artists": [
+        {
+          "name": "Mat the Alien",
+          "url": "https://open.spotify.com/artist/6zQuKPa4iV1QD7pLYlLv21"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294857,
+      "name": "Bat Yam",
+      "url": "https://open.spotify.com/track/6UGvCwXeeCjQBqRRMHkag3"
+    },
+    {
+      "album": {
         "name": "Blur (feat. Dacy)",
         "url": "https://open.spotify.com/album/1v68aSVcFu6CvRz7P8dhnk"
       },
@@ -1579,6 +1597,28 @@
       "duration_ms": 266400,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/4UodxqRyzXEE4yg3Xf3D3V"
+    },
+    {
+      "album": {
+        "name": "Purification",
+        "url": "https://open.spotify.com/album/7tsmmO3HZXjqO9bu5q66J6"
+      },
+      "artists": [
+        {
+          "name": "Shades",
+          "url": "https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK"
+        },
+        {
+          "name": "The Gaslamp Killer",
+          "url": "https://open.spotify.com/artist/5dVua2HdrY1VlbPh6OM9KZ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234465,
+      "name": "Purification",
+      "url": "https://open.spotify.com/track/2Hfz4yZFhHYHcptngSZ3Bn"
     },
     {
       "album": {

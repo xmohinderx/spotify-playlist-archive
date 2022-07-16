@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Attera Totus Sanctus",
+        "url": "https://open.spotify.com/album/53m5q93sqZpTZ8NFtWHKuE"
+      },
+      "artists": [
+        {
+          "name": "Dark Funeral",
+          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "666 Voices Inside",
+      "url": "https://open.spotify.com/track/7AdA9vNvPC9xdH3l4pPzS5"
+    },
+    {
+      "album": {
         "name": "Blood Fire Death",
         "url": "https://open.spotify.com/album/2QVt9UZEloRJgYqE70ACPs"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 273026,
       "name": "Agnus Dei",
       "url": "https://open.spotify.com/track/0fGhJvH67AJzNbdmDI0VDc"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 497740,
       "name": "Am Rande der Dunkelheit",
       "url": "https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F"
@@ -206,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Demonoir",
+        "url": "https://open.spotify.com/album/6oJJJgHeX9b90lz7Vvkzu4"
+      },
+      "artists": [
+        {
+          "name": "1349",
+          "url": "https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384680,
+      "name": "Atomic Chapel",
+      "url": "https://open.spotify.com/track/5Ie3VqOrOkiBGy3jXmTUxC"
+    },
+    {
+      "album": {
         "name": "To Embrace the Corpses Bleeding",
         "url": "https://open.spotify.com/album/5aJR9XznroTV3CpKyhO8EQ"
       },
@@ -217,7 +253,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 201160,
       "name": "Bathed in Clouds of Blood",
       "url": "https://open.spotify.com/track/0Ms5AudGd4Umj3nOyXlzYk"
@@ -235,7 +271,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 251973,
       "name": "Battles in the North",
       "url": "https://open.spotify.com/track/64QlOYDUVsEi4IATvLvWMi"
@@ -350,6 +386,24 @@
     },
     {
       "album": {
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380773,
+      "name": "Black Flames March",
+      "url": "https://open.spotify.com/track/67NmAcOBbppWwqory0sYir"
+    },
+    {
+      "album": {
         "name": "Black Fog and Poison Wind",
         "url": "https://open.spotify.com/album/7L9L2M4znx70n1qBBBvtKl"
       },
@@ -361,7 +415,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 282119,
       "name": "Black Fog and Poison Wind",
       "url": "https://open.spotify.com/track/6cS2AAZePp2lSwYy1HrrRG"
@@ -386,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Battles in the North",
+        "url": "https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274586,
+      "name": "Blashyrkh - Mighty Ravendark",
+      "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
+    },
+    {
+      "album": {
         "name": "The Long Road North",
         "url": "https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB"
       },
@@ -401,6 +473,24 @@
       "duration_ms": 699313,
       "name": "Blood Upon Stone",
       "url": "https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP"
+    },
+    {
+      "album": {
+        "name": "The Satanist",
+        "url": "https://open.spotify.com/album/3KMD4mCBn8KS8bhtwn3cnq"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265440,
+      "name": "Blow Your Trumpets Gabriel",
+      "url": "https://open.spotify.com/track/07zQA8UkyxpmnRhPjHOVOB"
     },
     {
       "album": {
@@ -437,7 +527,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 287316,
       "name": "Burn the Witch",
       "url": "https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT"
@@ -509,7 +599,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 223604,
       "name": "Chapter III: Nest",
       "url": "https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj"
@@ -671,7 +761,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 438733,
       "name": "Cruelty Brought Thee Orchids",
       "url": "https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob"
@@ -689,7 +779,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 205856,
       "name": "Culture of Violence",
       "url": "https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB"
@@ -729,6 +819,24 @@
       "duration_ms": 411400,
       "name": "Damned In Black",
       "url": "https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL"
+    },
+    {
+      "album": {
+        "name": "Dark Medieval Times",
+        "url": "https://open.spotify.com/album/0xXdL2dhLdLfAgw9wAB6bC"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491560,
+      "name": "Dark Medieval Times",
+      "url": "https://open.spotify.com/track/3lVL1Jr6osIOLAbPHXUDkr"
     },
     {
       "album": {
@@ -783,7 +891,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 381853,
       "name": "De Mysteriis Dom Sathanas",
       "url": "https://open.spotify.com/track/3zjoCDlA31nt9s1QXsEqxr"
@@ -855,10 +963,28 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 296173,
       "name": "Demonon Vrosis",
       "url": "https://open.spotify.com/track/6YuVmHEXQU3Dgg3w3LSZnZ"
+    },
+    {
+      "album": {
+        "name": "Casus Luciferi (Remastered)",
+        "url": "https://open.spotify.com/album/56zmJY3VeoWpC2j71DbsOI"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354333,
+      "name": "Devil's Blood",
+      "url": "https://open.spotify.com/track/3YW1hcnwzRIjwBfXuxl99Q"
     },
     {
       "album": {
@@ -1161,7 +1287,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 324720,
       "name": "Fandens Trall",
       "url": "https://open.spotify.com/track/03UIzw1IUBXjTEOqx3oh1f"
@@ -1341,7 +1467,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 208000,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/11Vs5xEJo83ER1lA1ENODr"
@@ -1377,7 +1503,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 347253,
       "name": "Funeral Fog",
       "url": "https://open.spotify.com/track/2lXi7xN0MiTfLb2DW7H9UT"
@@ -1413,7 +1539,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 258680,
       "name": "God Is Wasted",
       "url": "https://open.spotify.com/track/3dX9IN7FSVn1fQZotgM0KU"
@@ -1582,6 +1708,24 @@
     },
     {
       "album": {
+        "name": "Midian",
+        "url": "https://open.spotify.com/album/1eqAIac48qUT6ks2hrccIJ"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384813,
+      "name": "Her Ghost in the Fog",
+      "url": "https://open.spotify.com/track/0IVdlBreRkZn0ftoUwB0T6"
+    },
+    {
+      "album": {
         "name": "Hide from the Sun",
         "url": "https://open.spotify.com/album/0lqXlSegDRpxttuqMFun9S"
       },
@@ -1633,7 +1777,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 313209,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U"
@@ -1687,7 +1831,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 463080,
       "name": "Hordalands Doedskvad part I",
       "url": "https://open.spotify.com/track/1iOCpO6tlqnrgMOG9epX8z"
@@ -1799,7 +1943,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 250506,
       "name": "I Am Abomination",
       "url": "https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd"
@@ -1817,7 +1961,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 360840,
       "name": "I Am The Black Wizards",
       "url": "https://open.spotify.com/track/2956v4MaiU78SkPpeTXxhq"
@@ -1853,7 +1997,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 471280,
       "name": "I Troldskog Faren Vild",
       "url": "https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj"
@@ -1871,7 +2015,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 342160,
       "name": "In Death's Embrace",
       "url": "https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL"
@@ -1889,7 +2033,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 421680,
       "name": "In the Shadow of the Horns",
       "url": "https://open.spotify.com/track/3OJNfu0G5Ooab1ZlNCdQyb"
@@ -1983,7 +2127,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 281733,
       "name": "It's Darker Than You Think",
       "url": "https://open.spotify.com/track/24rgd0Ex8aBpmctVJHbJSF"
@@ -2019,7 +2163,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 292880,
       "name": "Jean Grenier",
       "url": "https://open.spotify.com/track/0qPVLDSC4mqL0oUDMwJEqu"
@@ -2127,10 +2271,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 274126,
       "name": "Leviathan",
       "url": "https://open.spotify.com/track/4hnpgtGXHlsfQGHBAfYj4x"
+    },
+    {
+      "album": {
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366333,
+      "name": "Maha-Kali",
+      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
     },
     {
       "album": {
@@ -2488,6 +2650,24 @@
     },
     {
       "album": {
+        "name": "Rituale Satanum",
+        "url": "https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y"
+      },
+      "artists": [
+        {
+          "name": "Behexen",
+          "url": "https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Night of the Blasphemy",
+      "url": "https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi"
+    },
+    {
+      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/2hNLgB1zpWJV7jd45FYsqb"
       },
@@ -2517,7 +2697,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 306197,
       "name": "Noblesse Oblige Richesse Oblige",
       "url": "https://open.spotify.com/track/6tth0ovaLcEPtHasmjhYiv"
@@ -2643,7 +2823,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 253979,
       "name": "On the Shore of Eternity",
       "url": "https://open.spotify.com/track/6a8iR9C7Mi5Gkww7yOyoJE"
@@ -2661,7 +2841,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 298680,
       "name": "One by One",
       "url": "https://open.spotify.com/track/65sql5o05skwJ6frSq4exl"
@@ -2733,7 +2913,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 159226,
       "name": "Panzer Division Marduk",
       "url": "https://open.spotify.com/track/0jpsXRJG4654VySxM3UyB6"
@@ -2769,10 +2949,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 196017,
       "name": "Path to Paradise",
       "url": "https://open.spotify.com/track/6d1Hee07EoLcPAVkswj2i2"
+    },
+    {
+      "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
+      },
+      "artists": [
+        {
+          "name": "Absu",
+          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261693,
+      "name": "Pillars Of Mercy",
+      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
     },
     {
       "album": {
@@ -2787,7 +2985,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 245897,
       "name": "Pipe Dreams",
       "url": "https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y"
@@ -2913,7 +3111,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 488111,
       "name": "Reflection in Slow Time",
       "url": "https://open.spotify.com/track/0qS90byEur2fejdteseTO3"
@@ -2931,7 +3129,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 373013,
       "name": "Reign Of Fate",
       "url": "https://open.spotify.com/track/3wFqj9dM7GptoByndbI121"
@@ -3021,7 +3219,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 178623,
       "name": "Sadist",
       "url": "https://open.spotify.com/track/3Ne8ghFiincs3REg5M2Ygf"
@@ -3057,7 +3255,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 405866,
       "name": "Satan's Hunger",
       "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
@@ -3075,7 +3273,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 373906,
       "name": "Scars In The Landscape Of God",
       "url": "https://open.spotify.com/track/6gmMDrXjVOLZJXCxKdBl3w"
@@ -3093,7 +3291,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 246147,
       "name": "Scum",
       "url": "https://open.spotify.com/track/7fsMuMbwSdEhKSMpVR4QUc"
@@ -3129,7 +3327,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 397706,
       "name": "Seeds Of The Ancient Gods",
       "url": "https://open.spotify.com/track/1r9HG7xOQ2D51jYXuLWfwN"
@@ -3165,7 +3363,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "Serpent Sermon",
       "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
@@ -3219,7 +3417,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 229266,
       "name": "Shrines in Cinder",
       "url": "https://open.spotify.com/track/5iitxeQ3eMPteFo9EmSpyb"
@@ -3255,7 +3453,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 407106,
       "name": "Slaughterday (The Heathen Blood Of Ours)",
       "url": "https://open.spotify.com/track/1YIQen5eaBq0x0qvN4bKm7"
@@ -3345,7 +3543,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 372124,
       "name": "Spores of Gnosis",
       "url": "https://open.spotify.com/track/6mINTISPFFdQgHufJ4zzCu"
@@ -3381,7 +3579,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 484985,
       "name": "Strepitus Mundi",
       "url": "https://open.spotify.com/track/3f9GL4zy4NfKhIFePXofP0"
@@ -3435,7 +3633,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 275000,
       "name": "The Book of Breath",
       "url": "https://open.spotify.com/track/7hA0Cv3sWhKIjKbpnMcg1G"
@@ -3489,7 +3687,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 120437,
       "name": "The Dregs of Hades",
       "url": "https://open.spotify.com/track/03NK3EtH3txhiF6HiDH649"
@@ -3525,7 +3723,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 279473,
       "name": "The Entropic Queen",
       "url": "https://open.spotify.com/track/0lqpWwuvUWZeS9ItLGZMkk"
@@ -3547,6 +3745,24 @@
       "duration_ms": 242452,
       "name": "The Fall Of Jotunheim",
       "url": "https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg"
+    },
+    {
+      "album": {
+        "name": "Non Serviam (2006 Remastered)",
+        "url": "https://open.spotify.com/album/3fczhcYfPlYtdBSUw8SvRr"
+      },
+      "artists": [
+        {
+          "name": "Rotting Christ",
+          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334840,
+      "name": "The Fifth Illusion",
+      "url": "https://open.spotify.com/track/1DLxHchZ0ZEKZTGXpcTcth"
     },
     {
       "album": {
@@ -3651,7 +3867,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 239394,
       "name": "The Middlemist Red",
       "url": "https://open.spotify.com/track/5l7ad026Ev0NpUkldLY5az"
@@ -3741,7 +3957,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 177026,
       "name": "The Third of the Storms (Evoked Damnation)",
       "url": "https://open.spotify.com/track/3isS9hdnmyMePPrKm6qEQU"
@@ -3813,7 +4029,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 344400,
       "name": "Through the Broken Lens",
       "url": "https://open.spotify.com/track/43eTNu7zmkpkwIzSyPv5YV"
@@ -3921,7 +4137,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 455960,
       "name": "Urkraft",
       "url": "https://open.spotify.com/track/4bRajxPpQhnHYrNFFyHkyw"
@@ -3993,7 +4209,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 329142,
       "name": "Veter",
       "url": "https://open.spotify.com/track/1YuB9VNoHmGVtVxyZQ6dLB"
@@ -4144,6 +4360,24 @@
     },
     {
       "album": {
+        "name": "At The Heart Of Winter",
+        "url": "https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509640,
+      "name": "Withstand The Fall Of Time",
+      "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
+    },
+    {
+      "album": {
         "name": "Those of the Unlight",
         "url": "https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA"
       },
@@ -4209,7 +4443,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 219750,
       "name": "Worthless",
       "url": "https://open.spotify.com/track/0P9Eascqqk3l4rqw6kYF2z"
@@ -4227,7 +4461,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 314906,
       "name": "Ye Entrancemperium",
       "url": "https://open.spotify.com/track/7HmGwZ0HvZIsB90wt3AuDE"

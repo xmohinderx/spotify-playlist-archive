@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Meditative crystal and Tibetan tones for clarity and healing.",
-  "name": "Singing Bowls",
+  "description": "Meditative tones for clarity and healing.",
+  "name": "Tibetan Bowls",
   "published_playlist_ids": [
     "1wcoY7hOzprWoSsRPIyjVD"
   ],
@@ -23,6 +23,24 @@
       "duration_ms": 527386,
       "name": "3rd Jhana - Equanimity",
       "url": "https://open.spotify.com/track/13Q2mB6MXVlsSFFDjtwCxT"
+    },
+    {
+      "album": {
+        "name": "432 Hz Crystal Bowl",
+        "url": "https://open.spotify.com/album/4swun98t4e747mTtz4qkxg"
+      },
+      "artists": [
+        {
+          "name": "Tibetanian",
+          "url": "https://open.spotify.com/artist/2w4slIer7XY7fDEehJLONJ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "432 Hz Crystal Bowl",
+      "url": "https://open.spotify.com/track/77E3mdW9Yyw2SoSxod4UgG"
     },
     {
       "album": {
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 180000,
       "name": "Balanced",
       "url": "https://open.spotify.com/track/5egxXC02V6RtIUXS5E1S41"
@@ -242,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Crystal Bowl Dream",
+        "url": "https://open.spotify.com/album/6Bo4QllINweqhoOyn90NtA"
+      },
+      "artists": [
+        {
+          "name": "iD8",
+          "url": "https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Crystal Bowl Dream",
+      "url": "https://open.spotify.com/track/0f8DS6g7JIPQMzaONezO4g"
+    },
+    {
+      "album": {
         "name": "Gong Zone",
         "url": "https://open.spotify.com/album/1by9VUzQJ6RxtPpuFUR0WA"
       },
@@ -350,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Immortal Grounds (Tibetan Bowls)",
+        "url": "https://open.spotify.com/album/7mNJ2OhKnOiIuOAa61YzAb"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Tibetan Singing Bowls",
+          "url": "https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173610,
+      "name": "Immortal Grounds (Tibetan Bowls)",
+      "url": "https://open.spotify.com/track/6YnrlA0CTrkrjLVToXK0Eq"
+    },
+    {
+      "album": {
         "name": "Yoga Gong Karma",
         "url": "https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly"
       },
@@ -379,7 +433,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 308962,
       "name": "Lamrim",
       "url": "https://open.spotify.com/track/0x8k5gECEEFCJV5x29S8z3"
@@ -397,7 +451,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 167573,
       "name": "Mind Relaxation",
       "url": "https://open.spotify.com/track/0MISp1fN8x4x7nzLGHIc65"
@@ -613,7 +667,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 234000,
       "name": "Sati Bowl (Sound Bath)",
       "url": "https://open.spotify.com/track/6vLHv0thJ48yfEZ0hD2Hay"
@@ -653,6 +707,24 @@
       "duration_ms": 174944,
       "name": "Serene Singing Bowls",
       "url": "https://open.spotify.com/track/7kY7MRu1KpEbFMf0sJkIV5"
+    },
+    {
+      "album": {
+        "name": "Singing Bowl",
+        "url": "https://open.spotify.com/album/3l3bNnjvbsdNBYis4nlNsd"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Nirvana",
+          "url": "https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234793,
+      "name": "Singing Bowl",
+      "url": "https://open.spotify.com/track/5TM7Qwd4LintmavNF9Ps0d"
     },
     {
       "album": {
@@ -757,7 +829,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 300000,
       "name": "Spirit of Bliss",
       "url": "https://open.spotify.com/track/3KIDYgSYHgmfuCT6e6ehqw"
@@ -1215,6 +1287,24 @@
       "duration_ms": 193187,
       "name": "Zen",
       "url": "https://open.spotify.com/track/4bQ3PmIJwDaxbrB2zzI6Wm"
+    },
+    {
+      "album": {
+        "name": "Zen Tibetan Singing Bowls",
+        "url": "https://open.spotify.com/album/7fzlNnPVTaxRJSTnoo5UzM"
+      },
+      "artists": [
+        {
+          "name": "Tibetan Singing Bowl Sounds",
+          "url": "https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266837,
+      "name": "Zen Tibetan Singing Bowls III",
+      "url": "https://open.spotify.com/track/1t1JpR9dFGkoPaPemHT6My"
     },
     {
       "album": {

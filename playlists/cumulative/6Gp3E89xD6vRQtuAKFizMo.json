@@ -400,6 +400,24 @@
     },
     {
       "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/1sXFjmp3CPdtOCgyzd7Fve"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164765,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/4VyBfTg5LqHqB4tPLXbK0U"
+    },
+    {
+      "album": {
         "name": "AD INFINITUM",
         "url": "https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9"
       },
@@ -499,7 +517,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 128503,
       "name": "How I Do It",
       "url": "https://open.spotify.com/track/333fbxlbE3rVYSp0OCkabS"
@@ -1373,6 +1391,28 @@
       "duration_ms": 232800,
       "name": "Under Pressure (feat. Dani King)",
       "url": "https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9"
+    },
+    {
+      "album": {
+        "name": "Vamos a Beber",
+        "url": "https://open.spotify.com/album/1wNNIHN5hLmdxWIPUkoffz"
+      },
+      "artists": [
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194124,
+      "name": "Vamos a Beber",
+      "url": "https://open.spotify.com/track/6mc1TOxoCF9H4q7nvxjGyd"
     },
     {
       "album": {

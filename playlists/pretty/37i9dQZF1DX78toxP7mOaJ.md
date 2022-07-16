@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Benjamin Carter \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,165 likes - 106 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,156 likes - 106 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-106 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+107 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Angelic Harmony](https://open.spotify.com/track/5LfG3nuryC9SQ1KUtKSjUq) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 3:02 | 2022-05-25 |  |
 | [Atmospheric](https://open.spotify.com/track/4p5uqijQA8OV5DjyYKeVCD) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Atmospheric](https://open.spotify.com/album/0aawXx5LA6NQfE3a7BBbzj) | 1:36 | 2022-05-25 |  |
 | [Avenoir](https://open.spotify.com/track/2uAfciE7VqSEgakqkY5z0J) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Avenoir](https://open.spotify.com/album/3foIWfeetCI1u7WwKCQWyZ) | 2:54 | 2022-05-25 |  |
-| [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 | 2022-05-25 |  |
+| [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 | 2022-05-25 | 2022-07-16 |
 | [Bare Emotions](https://open.spotify.com/track/2xf1SylC7l0lRJw6FKdHQK) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Bare Emotions](https://open.spotify.com/album/1zE88uy4qJ276809FC7Nzm) | 2:33 | 2022-05-25 |  |
 | [Beautiful Path](https://open.spotify.com/track/1BIR1oNAcL7YmST5pnN8m4) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Beautiful Path](https://open.spotify.com/album/3OQt0hZHKA3cAbzfnwAiul) | 3:41 | 2022-06-16 |  |
 | [Binaural Alpha Sinus 147Hz \- 161Hz](https://open.spotify.com/track/2kCGylqSWKkXjLws0ZpQcK) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Calm](https://open.spotify.com/album/5PO9Rm0k6K1Yqg2EDO2h9E) | 3:07 | 2022-05-25 |  |
@@ -67,6 +67,7 @@
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2022-05-25 |  |
 | [Mineral](https://open.spotify.com/track/4H4gOh4e8OlTr64rHJ7saG) | [Solandi](https://open.spotify.com/artist/4RfwbThCpe3mDfPgZYLhSB) | [Mineral](https://open.spotify.com/album/1fHqqyNXSVcFqSi8D6VnL2) | 3:07 | 2022-05-25 |  |
 | [Miracle Sleep](https://open.spotify.com/track/2D0wO44Z2VUSMrAdryCa9I) | [Sleepy Depp](https://open.spotify.com/artist/58g2tnD4W0qx5WjTenATUh) | [Miracle Sleep](https://open.spotify.com/album/6c2udN2pA555wHEp3oaehQ) | 2:32 | 2022-05-25 |  |
+| [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 | 2022-07-15 |  |
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-05-25 |  |
 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 | 2022-05-25 |  |
 | [Night Waves](https://open.spotify.com/track/2Al8nAkIepCfSlWDJMSanz) | [Summer Sea](https://open.spotify.com/artist/1lmCmB56gK4BS9i1Y6lLhP) | [Night Waves](https://open.spotify.com/album/6yuXpqdYcXc8EPHikT59rD) | 3:40 | 2022-05-25 |  |

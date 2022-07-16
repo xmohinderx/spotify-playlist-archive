@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Madeline Edwards
 
-113 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+115 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Everybody Talks To God](https://open.spotify.com/track/78NoI7XWKDtir8JvnonJ2y) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Everybody Talks To God](https://open.spotify.com/album/3InfLUe6iHsB6bx05pg9dL) | 4:17 | 2022-01-14 |  |
 | [Finally Home \(feat\. Craig Morgan\)](https://open.spotify.com/track/0TBkgBR2VLYeTG9ynsoIkm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Finally Home \(feat\. Craig Morgan\)](https://open.spotify.com/album/3rxDjgnx1xHwImjgUFDctg) | 3:11 | 2021-12-10 |  |
 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 | 2022-03-18 |  |
+| [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/track/3oEUEyCzKwaBHBvzsJaiGJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/album/0KbCQCDOw4a73MkepkJ7ev) | 3:19 | 2022-07-15 |  |
 | [Forever Home \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/0qcVosiukBmgBS0eUDrwk6) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:27 | 2021-12-10 |  |
 | [God Is Good](https://open.spotify.com/track/2J201WXV1md702dEIkQ6wy) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Halfway To Houston](https://open.spotify.com/album/0Szi0bRjwXfF3c7U4bHD3Y) | 3:14 | 2021-12-10 |  |
 | [God Moves The Pen](https://open.spotify.com/track/5vGfLxG7TJ0rzKvTPvwwCL) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [God Moves The Pen](https://open.spotify.com/album/2tWnJPE54AM7uJiZHaHSfo) | 3:41 | 2021-12-10 |  |
@@ -110,6 +111,7 @@
 | [Three Wooden Crosses](https://open.spotify.com/track/3y1celx9jzjsbfI9T3hmvw) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Three Wooden Crosses: The Inspirational Hits of Randy Travis](https://open.spotify.com/album/17GFGc299gAbkJWoIu5eba) | 3:21 | 2021-12-10 |  |
 | [Today](https://open.spotify.com/track/1PB1crNoxv0Jezj0Y8LqO0) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Today](https://open.spotify.com/album/73oc4kEemraQEzKGcgtwOm) | 3:49 | 2021-12-10 |  |
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-12-10 |  |
+| [Way Home](https://open.spotify.com/track/3rK8TFLvwfbEGBOP0G76T9) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Way Home](https://open.spotify.com/album/57bEdmDvPY66UIjq0Ot9w8) | 3:09 | 2022-07-15 |  |
 | [We All Carry Something](https://open.spotify.com/track/6uEZirSx14Fo2WOqJCdE0c) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/7h9Y1JOLH3VJyeDfwbbKqQ) | 3:26 | 2021-12-10 |  |
 | [When I Get Where I'm Going \(feat\. Dolly Parton\)](https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:07 | 2021-12-10 |  |
 | [When I Meet My Maker](https://open.spotify.com/track/27AP9jXtfbNJ68atuOkvjc) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 3:32 | 2021-12-10 |  |

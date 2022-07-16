@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Ricky Martin
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,788 likes - 247 songs - 13 hr 40 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,789 likes - 247 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

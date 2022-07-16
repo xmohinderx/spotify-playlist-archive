@@ -4,7 +4,7 @@
 
 > Music from "Laid\-Back Camp"! /音楽で辿る「ゆるキャン△」の世界。©あfろ・芳文社／野外活動委員会
 
-40 songs - 2 hr 4 min - not published yet
+40 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/15Vn9vNRnJdb3zfxCLtYip)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

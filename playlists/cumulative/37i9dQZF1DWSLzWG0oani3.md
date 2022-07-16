@@ -2,13 +2,13 @@
 
 ### [Cumbia 420](https://open.spotify.com/playlist/37i9dQZF1DWSLzWG0oani3)
 
-> Suena en el barrio, suena acá\. Foto: L\-Gante.
+> Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-77 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
+78 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#XDTRA](https://open.spotify.com/track/6SxWrBMtvbeggpjEdLQp45) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [\#XDTRA](https://open.spotify.com/album/5SXqPdWxr2k6Wurrx009kW) | 4:11 | 2021-12-24 |  |
+| [\#XDTRA](https://open.spotify.com/track/6SxWrBMtvbeggpjEdLQp45) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [\#XDTRA](https://open.spotify.com/album/5SXqPdWxr2k6Wurrx009kW) | 4:11 | 2021-12-24 | 2022-07-16 |
 | [Adentro del Party](https://open.spotify.com/track/065RHd6Cdd0gO8L8Xtpdi5) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Adentro del Party](https://open.spotify.com/album/7fDjG3PGiARejwCs9pyuuV) | 3:00 | 2021-12-24 |  |
 | [ALLA](https://open.spotify.com/track/4rMs8KWAFaNDbRa0hk0TDo) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr) | [ALLA](https://open.spotify.com/album/3cB5act4NdvL6zZHWXg76w) | 2:10 | 2022-04-01 |  |
 | [Armando El Chipi Chipi](https://open.spotify.com/track/4UCRLEObUo5M0IssOoOtPz) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [Armando El Chipi Chipi](https://open.spotify.com/album/5myKtBg7PCrs5i9J5raXjl) | 3:12 | 2022-03-18 | 2022-06-07 |
@@ -45,6 +45,7 @@
 | [MECHA](https://open.spotify.com/track/7CIkIJtzCi50N7EcOL4XBx) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [MECHA](https://open.spotify.com/album/4Zj1zVjvxbCxnsdmN8gnfV) | 2:32 | 2021-12-24 |  |
 | [MI WOMAN](https://open.spotify.com/track/49vVap9BA2EbPuFer5uw9l) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [MI WOMAN](https://open.spotify.com/album/20VB81oLTLjAgXAguNcaNt) | 2:56 | 2022-06-24 |  |
 | [Music Trip \#1 – BLANCO, NEGRO](https://open.spotify.com/track/08szdmbF3I44GR4xnIBEOc) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Music Trip \#1 – BLANCO, NEGRO](https://open.spotify.com/album/1e1Ky4iqHHSCmdv1ONNgTW) | 3:16 | 2022-05-13 |  |
+| [Music Trip \#2 – Insomnio](https://open.spotify.com/track/2qofpJFLgNWHDwduslP5fm) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [Music Trip \#2 – Insomnio](https://open.spotify.com/album/1MBwhvZjwygkvqsIEYqWub) | 2:38 | 2022-07-15 |  |
 | [NATALIA](https://open.spotify.com/track/2aDPoUzGObJPHQvzwaabq4) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Juan FLP](https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [NATALIA](https://open.spotify.com/album/0LIBTbu2GkzaCOdiR9JjRT) | 2:39 | 2021-12-24 |  |
 | [Nueva Era](https://open.spotify.com/track/428ETEZ9q0ZMcvXQXeziMr) | [Anthony MM](https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8), [Nahuel one23](https://open.spotify.com/artist/7szpfJlobAlM8CDVXziu05), [Lucho23](https://open.spotify.com/artist/77GkTRXzckRvljR84wWvYh) | [Nueva Era](https://open.spotify.com/album/7jxvZI2YCGpKdr1x9VdtNK) | 3:14 | 2021-12-24 | 2022-03-12 |
 | [Pa Abajo](https://open.spotify.com/track/1OsoyX2TCicWp2xWBoXFrU) | [El Sobrino](https://open.spotify.com/artist/4ZFQYgdqBZqxUP0MAlswlJ), [Yamir antiman](https://open.spotify.com/artist/3inxgDqlKI4Feu0hPK7pU9) | [Pa Abajo](https://open.spotify.com/album/3HZZmyhilSKEdR0zzNJm2i) | 3:34 | 2021-12-24 | 2022-03-26 |

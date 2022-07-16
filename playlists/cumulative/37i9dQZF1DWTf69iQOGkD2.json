@@ -1012,6 +1012,32 @@
     },
     {
       "album": {
+        "name": "J\u00e1 Vou",
+        "url": "https://open.spotify.com/album/0wvlDy1UI32sSZ8xullKwo"
+      },
+      "artists": [
+        {
+          "name": "Cortesia Da Casa",
+          "url": "https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177015,
+      "name": "J\u00e1 Vou",
+      "url": "https://open.spotify.com/track/6k64bJBuP0ae5jFcHn8DD7"
+    },
+    {
+      "album": {
         "name": "Liga\u00e7\u00e3o 2",
         "url": "https://open.spotify.com/album/3UEhToRrWkb9tUrSZVmbfk"
       },

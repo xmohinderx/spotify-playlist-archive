@@ -1,12 +1,12 @@
 {
   "description": "Indie music antimatter. Cover: Groupthink",
-  "num_followers": 651828,
+  "num_followers": 651991,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzY0MjYxOSwwMDAwMzQ2ODAwMDAwMTgxZjMzMzExM2YwMDAwMDE4MThjZDM0OGYx",
+  "snapshot_id": "MTY1Nzg1NzY2MCwwMDAwMzQ2OTAwMDAwMTgyMDAwNDU0ZjcwMDAwMDE4MThjZDM0OGYx",
   "tracks": [
     {
       "added_at": "2022-07-08 06:52:00",
@@ -25,10 +25,30 @@
       "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
-      "added_at": "2022-06-30 04:28:30",
+      "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/5xf9dOicHkp1tRHzb4PFFg"
+        "name": "hang tight",
+        "url": "https://open.spotify.com/album/0bL4mhDPX5AXCXU9cTOK8j"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        },
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "hang tight",
+      "url": "https://open.spotify.com/track/5A18c8MxOe0trcRiZwhyvV"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Me and Your Boyfriend",
+        "url": "https://open.spotify.com/album/44HO5dHZ7GYmxDm7oMHHGu"
       },
       "artists": [
         {
@@ -36,9 +56,49 @@
           "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
         }
       ],
-      "duration_ms": 163909,
-      "name": "Sex Is A Sport",
-      "url": "https://open.spotify.com/track/60KObg7fLDbnHmgmmG8X5m"
+      "duration_ms": 126142,
+      "name": "Me and Your Boyfriend",
+      "url": "https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI"
+      },
+      "artists": [
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Terry Presume",
+          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
+        },
+        {
+          "name": "MIKE DEAN",
+          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
+        }
+      ],
+      "duration_ms": 185752,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "get yo bread",
+        "url": "https://open.spotify.com/album/4gV0AqHdzOwBuykylnF0lf"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "get yo bread",
+      "url": "https://open.spotify.com/track/1CbRf2PzsxscJKbzlngTyr"
     },
     {
       "added_at": "2022-07-08 06:52:00",
@@ -59,6 +119,34 @@
       "duration_ms": 125389,
       "name": "cyanide (feat. cryogeyser)",
       "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "World Wide Pop",
+        "url": "https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        },
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        },
+        {
+          "name": "Pi Ja Ma",
+          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
+        },
+        {
+          "name": "Boa Constrictors",
+          "url": "https://open.spotify.com/artist/5pF04WnpEzab0at7YVjixz"
+        }
+      ],
+      "duration_ms": 212763,
+      "name": "Solar System",
+      "url": "https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt"
     },
     {
       "added_at": "2022-07-08 06:52:00",
@@ -107,6 +195,22 @@
       "duration_ms": 148194,
       "name": "Hotline",
       "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Concrete Walls",
+        "url": "https://open.spotify.com/album/754wyHaNUpCJAVxuJMP65r"
+      },
+      "artists": [
+        {
+          "name": "Pace",
+          "url": "https://open.spotify.com/artist/7qem60JOzr0TKI9WOmkNaG"
+        }
+      ],
+      "duration_ms": 168912,
+      "name": "Concrete Walls",
+      "url": "https://open.spotify.com/track/4c3owU9UoRSbMr6obEAtsh"
     },
     {
       "added_at": "2022-07-11 20:03:45",
@@ -159,6 +263,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Themanwithtwofaces",
+        "url": "https://open.spotify.com/album/0Q9E2nWt9kadthLSxMydpU"
+      },
+      "artists": [
+        {
+          "name": "HEARTBREAKHOTEL",
+          "url": "https://open.spotify.com/artist/4uEVAZKe9bgB8Tb8skw7Tx"
+        }
+      ],
+      "duration_ms": 93667,
+      "name": "Themanwithtwofaces",
+      "url": "https://open.spotify.com/track/2nnWeyvnHG5SBq7hg1u1Jh"
     },
     {
       "added_at": "2022-07-08 06:52:00",
@@ -755,6 +875,22 @@
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
+    },
+    {
+      "added_at": "2022-06-30 04:28:30",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/5xf9dOicHkp1tRHzb4PFFg"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 163909,
+      "name": "Sex Is A Sport",
+      "url": "https://open.spotify.com/track/60KObg7fLDbnHmgmmG8X5m"
     },
     {
       "added_at": "2022-06-30 04:28:30",

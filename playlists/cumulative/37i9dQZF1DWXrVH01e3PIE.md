@@ -4,7 +4,7 @@
 
 > Bhavi en la casa del Trap de Argentino.
 
-133 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+134 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Cerca de tí \- Remix](https://open.spotify.com/track/51g3eI9dcemoeyk2mSe8wN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [Cerca de tí \(Remix\)](https://open.spotify.com/album/2pWtSzdh4ZYWDWOomBzaMr) | 4:01 | 2022-01-21 | 2022-07-08 |
 | [Chico Estrella](https://open.spotify.com/track/1VYaM9VSix6jth7nXiHvo2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Chico Estrella](https://open.spotify.com/album/05XZWDj3tPhgwD3zQw43X7) | 2:50 | 2022-01-21 |  |
 | [COACH](https://open.spotify.com/track/6YbzhSDVIz6zG9Hf7CoNUc) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:57 | 2022-05-09 | 2022-05-20 |
+| [Comando](https://open.spotify.com/track/13GNmtxaAHgSYvf03I76IC) | [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [Comando](https://open.spotify.com/album/4x5esQA7Po5dgWjRi2eovS) | 3:09 | 2022-07-15 |  |
 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 | 2022-01-21 |  |
 | [Corta](https://open.spotify.com/track/2Eien2rGtpBP8z8kBZszmZ) | [Bize 4r](https://open.spotify.com/artist/1BOreb2HnMed0s1z68eD4c), [Andrés Da Mommio](https://open.spotify.com/artist/39EpNL9a9HRBI9ffgOyVXe) | [Corta](https://open.spotify.com/album/5sx95OKsbaJiqeC1YOtDJr) | 2:56 | 2022-01-21 | 2022-07-06 |
 | [Criminal Mood](https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Rulits TMB](https://open.spotify.com/artist/0yS7QAEchrBFgVTQogvntW) | [Criminal Mood](https://open.spotify.com/album/62pIIvltFPUnUCEUsxLW2a) | 2:21 | 2022-03-04 |  |
@@ -74,7 +75,7 @@
 | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26](https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26](https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT) | 2:22 | 2022-01-21 | 2022-02-12 |
 | [Maldad](https://open.spotify.com/track/5zNBzzGYHiPX6KTfoQX7e2) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Maldad](https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf) | 2:20 | 2022-01-21 |  |
 | [Mami Lo Siento](https://open.spotify.com/track/3QI0dCmyNujFycD1le2zk4) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Mami Lo Siento](https://open.spotify.com/album/69OFUHi0ccQbkD6ArPJ4jX) | 2:53 | 2022-01-21 |  |
-| [Mariposas](https://open.spotify.com/track/2aZWcsjgk2qm6UBFXh6ic7) | [Kifykify](https://open.spotify.com/artist/1ZM3GOPFXwiy6yVeY1FM3I), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Mariposas](https://open.spotify.com/album/6qWcAaLQJXuh4ZEGzOqNCV) | 2:12 | 2022-06-17 |  |
+| [Mariposas](https://open.spotify.com/track/2aZWcsjgk2qm6UBFXh6ic7) | [Kifykify](https://open.spotify.com/artist/1ZM3GOPFXwiy6yVeY1FM3I), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Mariposas](https://open.spotify.com/album/6qWcAaLQJXuh4ZEGzOqNCV) | 2:12 | 2022-06-17 | 2022-07-16 |
 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 | 2022-01-21 |  |
 | [Meteoritos Vs Dinosaurios](https://open.spotify.com/track/5u1azLYFRISTVqC6FQWLYd) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [Meteoritos Vs Dinosaurios](https://open.spotify.com/album/77Fovy0iY1SyGS2OHgwJm7) | 2:45 | 2022-01-21 | 2022-05-28 |
 | [Michael Jackson](https://open.spotify.com/track/1LtLDhTfnPsnbxx6TsfY5q) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Buscándome](https://open.spotify.com/album/2q5fSdsR4ZNFFQHkrxWJmz) | 1:49 | 2022-06-17 |  |

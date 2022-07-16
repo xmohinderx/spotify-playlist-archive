@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-77 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+78 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Fim do Dia](https://open.spotify.com/track/1gIqYVNx0tKaKYf0LAZ2Mu) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Fim do Dia](https://open.spotify.com/album/1RvaZRpmC03BbhFaS6hGJa) | 2:39 | 2022-05-20 |  |
 | [Fragmentado](https://open.spotify.com/track/2rq3atuTm26XTjbnTDWtti) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Fragmentado](https://open.spotify.com/album/0fOi6D7J5ySn7S3NbB3SQN) | 2:00 | 2022-05-20 |  |
 | [Game Over](https://open.spotify.com/track/3K4ob6HwtPzya2X1uAi4vs) | [Preto & Branco](https://open.spotify.com/artist/0gozYYUszYsIkCyzGAOM9d), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Game Over](https://open.spotify.com/album/4Zn8bqwMPMU8Aeose3mnJt) | 2:57 | 2022-05-20 |  |
+| [História de Criança](https://open.spotify.com/track/0cq8MDW1cDoCFUah8J9dzZ) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [História de Criança](https://open.spotify.com/album/4XTrNXx57PEHtRvQG9Zk3J) | 2:00 | 2022-07-15 |  |
 | [Indecisão](https://open.spotify.com/track/3F1WYsocwVRRBg5z1So0Uj) | [K8TIE](https://open.spotify.com/artist/4E60gF2h5In3yPiP7actgA), [Najjuu](https://open.spotify.com/artist/44zNCSENkAVHJ5jZlmzMys) | [Indecisão](https://open.spotify.com/album/0Cxryz8Lzqe5Tnm0AwQ3En) | 2:38 | 2022-05-20 |  |
 | [Isso Não É um Desabafo](https://open.spotify.com/track/53jDwzRyOzxOncQGnraKcU) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Isso \(Não\) É um Desabafo](https://open.spotify.com/album/1Te6WZEIRuqHR2eukOnmr4) | 2:43 | 2022-05-20 |  |
 | [Juro](https://open.spotify.com/track/46CGL339JEgS7LPv7zscpA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz) | [Juro](https://open.spotify.com/album/007chL0LwceNlirR0nZVqO) | 3:39 | 2022-05-20 |  |

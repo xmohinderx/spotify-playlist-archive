@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Van Morrison
 
-63 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
+64 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Me Not Loving You](https://open.spotify.com/track/2A1DHo5MnoDHKpoXTDR0vi) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [The Body Remembers](https://open.spotify.com/album/5gqkg3QPLgnGQQIVOOupdY) | 4:27 | 2021-10-22 |  |
 | [Metal Water Wood](https://open.spotify.com/track/74xme6fG8qeC7BfwXiDa7j) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Ocean to Ocean](https://open.spotify.com/album/08dsnxebW6wZCu8NpmK3kn) | 4:00 | 2021-10-29 |  |
 | [Moon Over Wichita](https://open.spotify.com/track/2kWASdkm5BAA5kGJ4jN39D) | [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Moon Over Wichita/Heartbreak Storms](https://open.spotify.com/album/1gQZpefWws00Mglq7lv1oM) | 3:12 | 2022-04-01 |  |
-| [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 | 2021-10-22 |  |
+| [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 | 2021-10-22 | 2022-07-16 |
 | [Mr Haze](https://open.spotify.com/track/7G5WlOGP22EwQjb50il1ZZ) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Hi \(Deluxe\)](https://open.spotify.com/album/3vSFoYoiYD8ir8VYaGx6Vn) | 3:39 | 2021-10-22 |  |
 | [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 | 2022-01-28 | 2022-03-12 |
 | [Newspaper Pane](https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Hey Clockface](https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE) | 4:10 | 2021-10-22 |  |
@@ -53,6 +53,7 @@
 | [Pretending](https://open.spotify.com/track/3WYq8auGS8CFtRM7XLNxJn) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Pretending](https://open.spotify.com/album/5sHQpKS54EcEG784t7bJaO) | 6:47 | 2022-04-08 |  |
 | [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 | 2021-10-22 |  |
 | [Rushing Water](https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Rushing Water](https://open.spotify.com/album/4gqzoPUB5hRX7NC6r1uE5P) | 3:17 | 2021-10-22 |  |
+| [Same Heartbreak Different Day](https://open.spotify.com/track/5ZJPhXxYnaUM8i7C9oboqI) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Same Heartbreak Different Day](https://open.spotify.com/album/7iyIit99oHjCpa1ndnCJtU) | 3:08 | 2022-07-15 |  |
 | [Scream](https://open.spotify.com/track/1X8eckB81MHBEcixZkvJW9) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 2:11 | 2021-10-22 | 2022-02-12 |
 | [Show Them The Way](https://open.spotify.com/track/39K8KN3Jl5uLz2ykGsNflf) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Show Them The Way](https://open.spotify.com/album/2o90fgeg8x1NNc6TxhduLq) | 6:31 | 2021-10-22 |  |
 | [So Happy It Hurts](https://open.spotify.com/track/13rKI4xThtXQtlTBnuIXPj) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/6kTdIgZ2K6qbXZALyrO88K) | 3:35 | 2021-10-22 |  |

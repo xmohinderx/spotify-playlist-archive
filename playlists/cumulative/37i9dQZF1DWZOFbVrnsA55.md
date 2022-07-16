@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-281 songs - 4 day 6 hr 3 min - [published](https://open.spotify.com/playlist/4SP4Cy0AvsFCUHp75jyueu)
+282 songs - 4 day 6 hr 21 min - [published](https://open.spotify.com/playlist/4SP4Cy0AvsFCUHp75jyueu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Ceylon \- Remastered](https://open.spotify.com/track/5o044iIcJk99DBQYPvUlKl) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Ceylon \(Remastered\)](https://open.spotify.com/album/5z2vKjBJklrkU7liIaxLjk) | 55:30 | 2022-05-25 |  |
 | [Chapter 6, Shadow of Monstera Deliciosa](https://open.spotify.com/track/3qBqzalYBIrIIrcuD9WfxJ) | [Boris Acket](https://open.spotify.com/artist/36t4piUxo6FPMAYjgR1mvL) | [Home \(feat\. visual artist Vincent Rang\)](https://open.spotify.com/album/3zb7KbPIoZsPwOInTcYzZW) | 13:30 | 2022-05-25 |  |
 | [Charm \(Over "Burundi Cloud"\)](https://open.spotify.com/track/5V5NS2wWOiu9uOPDVOgwOT) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 21:30 | 2022-05-25 |  |
+| [Children Were Climbing The Old Tree in the Park](https://open.spotify.com/track/50WIWrt5sHs27j97IdhWoh) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [Flues of Forgotten Sands](https://open.spotify.com/album/7mXP8hv5XTR0PkY7J4gbOp) | 18:20 | 2022-07-15 |  |
 | [CHORDS for organ](https://open.spotify.com/track/55CEZ6ZLFR2XCAIihy7wc8) | [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [CHORDS](https://open.spotify.com/album/1bXICAmbx0gwDftFTk8raN) | 15:48 | 2022-05-25 |  |
 | [Clepsydra](https://open.spotify.com/track/6CXHMfKWiIGJIvIZkGRF6D) | [Tomoko Sauvage](https://open.spotify.com/artist/6j8vIUr5loVTkj8dY1CcDp) | [Musique Hydromantique](https://open.spotify.com/album/5E0k5vGQnBgo392vUclstZ) | 10:49 | 2022-05-25 |  |
 | [Clouds 1](https://open.spotify.com/track/0sBHVlBysBkOZPFecBTxCX) | [Norman Beede](https://open.spotify.com/artist/1QjdtCSzyQLBmtnoHyWmxn), [Kenny Sawhill](https://open.spotify.com/artist/1pxfFDVoeSLkqnlRkiCbHl), [Rolan Tripp](https://open.spotify.com/artist/6JYREywwsHIzxmSZ2Ie52Z), [Robert Mehren](https://open.spotify.com/artist/09y79wa9KKdBw96jCfRPIW), [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Clouds: Music for Relaxation](https://open.spotify.com/album/0jaAga0dbHYrVUjPFnVf0p) | 22:53 | 2022-05-25 |  |

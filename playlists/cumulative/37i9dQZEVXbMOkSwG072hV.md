@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-479 songs - 1 day 0 hr 42 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+480 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/track/5iNreMqjehoEgXBnzU2Y5k) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Mil Coisas Invisíveis](https://open.spotify.com/album/0icYpEwVxogZ6mCERLIVpa) | 2:46 | 2022-06-17 |  |
 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 | 2022-04-24 | 2022-05-06 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2022-03-22 | 2022-03-26 |
+| [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-15 |  |
 | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv) | 2:33 | 2022-01-18 | 2022-03-17 |
 | [Black Lança \(Catucando Gostosinho\) \- Ao Vivo](https://open.spotify.com/track/7sUvcwwxQM1PFQI4hngOS0) | [Breno Ferreira](https://open.spotify.com/artist/1ZPs71pxgkYzB0NHHdqaBk), [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1) | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/album/28pn6X07DiyPkrenU9Fx3X) | 3:05 | 2022-03-08 | 2022-03-16 |
 | [Bloqueado \- Ao Vivo](https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:48 | 2022-01-17 | 2022-01-20 |
@@ -314,7 +315,7 @@
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-31 | 2022-06-15 |
 | [Olhei Pra Ela Deu Match](https://open.spotify.com/track/0GESebPufL91nmnOYTGzWQ) | [Lacoste dos Fluxo](https://open.spotify.com/artist/7wN4nAbl83ZnhG6C5xZJkx) | [Olhei Pra Ela Deu Match](https://open.spotify.com/album/27t9Zjk68kHZjiB0NUgVFb) | 1:29 | 2022-01-18 | 2022-01-28 |
 | [ONDA DO BERIMBAU](https://open.spotify.com/track/7ypX1KnSLOXVykk0PnlUfV) | [dj eduardo da favela do pó](https://open.spotify.com/artist/0p95FDRp7XInSoqMSzu7G0), [MC MENOR MT](https://open.spotify.com/artist/3PmeaztIZK8SxIPsv6bQdI) | [ONDA DO BERIMBAU](https://open.spotify.com/album/5SEGtDxPUrAIbegNhKHljb) | 2:38 | 2022-01-17 | 2022-02-02 |
-| [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2022-06-25 |  |
+| [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2022-06-25 | 2022-07-16 |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-04-20 |  |
 | [Os Meninos do Urso](https://open.spotify.com/track/1WAg96QmdeflRDaZHdl1IO) | [RD da Penha](https://open.spotify.com/artist/4RlT9YruZO1OZZ5csHgJg8), [MC RF](https://open.spotify.com/artist/7nYIVfrKwfTLzIIlLpTyaq) | [Os Meninos do Urso](https://open.spotify.com/album/3koZ9Ccw4DB2NqcxJSzHs1) | 3:55 | 2022-03-06 | 2022-03-16 |
 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 | 2022-03-08 | 2022-03-23 |

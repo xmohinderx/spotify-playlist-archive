@@ -290,6 +290,32 @@
     },
     {
       "album": {
+        "name": "C\u00f4 Th\u1eafm Kh\u00f4ng V\u1ec1",
+        "url": "https://open.spotify.com/album/1r9489p9ZRlLMNj2qruAXG"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e1t H\u1ed3",
+          "url": "https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv"
+        },
+        {
+          "name": "JokeS Bii",
+          "url": "https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD"
+        },
+        {
+          "name": "Thi\u1ec7n",
+          "url": "https://open.spotify.com/artist/5Ey2QDV20TPGPcSdbOU3Gh"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245340,
+      "name": "C\u00f4 Th\u1eafm Kh\u00f4ng V\u1ec1",
+      "url": "https://open.spotify.com/track/1WdnyGs1uSntpCLgjwc3ps"
+    },
+    {
+      "album": {
         "name": "C\u1ea7u Tre K\u1ef7 Ni\u1ec7m",
         "url": "https://open.spotify.com/album/4O5yzxT8llSQxVgKcfiH8O"
       },
@@ -977,7 +1003,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 276421,
       "name": "Qu\u00ea",
       "url": "https://open.spotify.com/track/5Hvr8fz0rTIVLCKtSK4qlE"
@@ -1155,7 +1181,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 275957,
       "name": "T\u00ecnh L\u00faa Duy\u00ean Tr\u0103ng",
       "url": "https://open.spotify.com/track/4FtxhwPM6EnuAvWTfSh2zD"
@@ -1337,6 +1363,24 @@
       "duration_ms": 274500,
       "name": "V\u1ec1 Th\u0103m Qu\u00ea M\u1eb9",
       "url": "https://open.spotify.com/track/5UuB5YlnUR9s5KMeVi37Ml"
+    },
+    {
+      "album": {
+        "name": "Xin M\u00e1 R\u01b0\u1edbc D\u00e2u",
+        "url": "https://open.spotify.com/album/3tHEHhdnQ0dDBQRkA7ViRq"
+      },
+      "artists": [
+        {
+          "name": "Di\u1ec7u Ki\u00ean",
+          "url": "https://open.spotify.com/artist/3q7Fuv1HpyqegV9YpMXCp7"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189696,
+      "name": "Xin M\u00e1 R\u01b0\u1edbc D\u00e2u",
+      "url": "https://open.spotify.com/track/1QTCx7A0IKTjUMTqlCHfQr"
     },
     {
       "album": {

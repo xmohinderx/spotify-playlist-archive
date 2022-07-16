@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Fantastic Negrito
+> The best in blues right now\. Cover: Kirk Fletcher
 
-201 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+202 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Great Minds Drink Alike \- With Horns](https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Great Minds Drink Alike \(With Horns\)](https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt) | 3:57 | 2022-04-22 |  |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 |  |
 | [Healing Time](https://open.spotify.com/track/1TnboUz1hVeZvqubDBQcHM) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 4:35 | 2022-04-29 |  |
+| [Heartache by the Pound](https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Heartache by the Pound](https://open.spotify.com/album/29Zs8tvzNxlKHIHjqHAW1N) | 3:09 | 2022-07-15 |  |
 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 | 2022-03-18 |  |
 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 | 2022-03-18 | 2022-04-06 |
 | [Highest Bidder](https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Highest Bidder](https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb) | 3:34 | 2022-02-11 | 2022-06-04 |
@@ -114,7 +115,7 @@
 | [Never Get out of These Blues Alive](https://open.spotify.com/track/0o9xEUuJ5dd0zLT4n2PLTM) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Never Get out of These Blues Alive](https://open.spotify.com/album/1u0vvSVEFQhWll188GmMFY) | 5:43 | 2022-01-14 |  |
 | [Never Want To Be Kissed \(featuring William Bell\)](https://open.spotify.com/track/6S8C0XoJVULK6NNi1DcWHJ) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [Never Want To Be Kissed](https://open.spotify.com/album/1kx8gxNdXkMe7Dv8YTxDhR) | 3:42 | 2022-01-14 | 2022-01-29 |
 | [New Way of Walking](https://open.spotify.com/track/6pdn2fxWKwdRHrwqA3u4HV) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [New Way of Walking](https://open.spotify.com/album/0Agtzdkxg9yg1BhVO4Lbwd) | 5:15 | 2022-02-04 | 2022-02-26 |
-| [Nibbadip](https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:47 | 2022-06-03 |  |
+| [Nibbadip](https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:47 | 2022-06-03 | 2022-07-16 |
 | [No More Worlds to Conquer](https://open.spotify.com/track/2AHYMvycHP8KlxZjv11Hnm) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [No More Worlds to Conquer](https://open.spotify.com/album/3kMKDFdC0FV6s8rwPmRRrR) | 3:54 | 2022-02-18 | 2022-04-23 |
 | [Oh Betty](https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty](https://open.spotify.com/album/0K9R41oPagcN9NoH8dLq1o) | 3:56 | 2022-03-11 | 2022-06-04 |
 | [Oh Miss Carolina](https://open.spotify.com/track/2ebAPmQjP4GkGULOtisl5x) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Last Light on the Highway](https://open.spotify.com/album/4vEdVmsibS4TDTvdJ07Xae) | 4:12 | 2020-12-14 | 2022-02-26 |

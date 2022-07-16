@@ -1118,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/7uOy96yZhShwnQS2q4jkFt"
+      },
+      "artists": [
+        {
+          "name": "MOON",
+          "url": "https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157369,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/5H3cgV4jCdqXPxDtI78dCI"
+    },
+    {
+      "album": {
         "name": "Love Lost - EP",
         "url": "https://open.spotify.com/album/1U1CVrJeVjdt6eY13T34FY"
       },
@@ -2663,6 +2681,28 @@
       "duration_ms": 261001,
       "name": "On My Knees",
       "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+    },
+    {
+      "album": {
+        "name": "Once You Love Someone",
+        "url": "https://open.spotify.com/album/3VlWMpcZ2KpQib2mh44QZS"
+      },
+      "artists": [
+        {
+          "name": "Tep No",
+          "url": "https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8"
+        },
+        {
+          "name": "Tilsen",
+          "url": "https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205635,
+      "name": "Once You Love Someone",
+      "url": "https://open.spotify.com/track/3NDxc7r19AvChQiVOdUMoK"
     },
     {
       "album": {

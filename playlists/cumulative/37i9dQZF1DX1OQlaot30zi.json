@@ -223,15 +223,15 @@
           "url": "https://open.spotify.com/artist/6YPxPkokVFJmYS40V534S9"
         },
         {
-          "name": "XWOUND",
-          "url": "https://open.spotify.com/artist/3N1HlhKf3uwP6rFMAXAUpJ"
+          "name": "XWOND",
+          "url": "https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g"
         }
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201242,
-      "name": "40 METRI (feat. XWOUND)",
+      "name": "40 METRI (feat. XWOND)",
       "url": "https://open.spotify.com/track/3WpRt0rRaArvEp0OtrSKp7"
     },
     {
@@ -2993,10 +2993,32 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 178937,
       "name": "FERMO PER UN PO'",
       "url": "https://open.spotify.com/track/52sRAQiZTyIvw1fbTMhOv3"
+    },
+    {
+      "album": {
+        "name": "Fidarti di me",
+        "url": "https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA"
+      },
+      "artists": [
+        {
+          "name": "Louis Dee",
+          "url": "https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160454,
+      "name": "Fidarti di me",
+      "url": "https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw"
     },
     {
       "album": {
@@ -6467,6 +6489,24 @@
       "duration_ms": 165600,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/04fHNMMiEHtiOIhVXvq2TB"
+    },
+    {
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/5xCeFPWG0bYPUHXRvRtNL4"
+      },
+      "artists": [
+        {
+          "name": "Ill Rave",
+          "url": "https://open.spotify.com/artist/2UED7orH77Ei8kwVG4TNAJ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/3X07hlEHm3KqCBOCVuO1ga"
     },
     {
       "album": {

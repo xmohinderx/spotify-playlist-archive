@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-158 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+159 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Chasing Stars](https://open.spotify.com/track/3seg3AiX4HgzVXCZV1k0hB) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd) | [Chasing Stars](https://open.spotify.com/album/0IJrzqHMIRCKEXiYdwXCvo) | 3:05 | 2022-02-03 |  |
 | [Circus](https://open.spotify.com/track/2W0MEKDEFGf1efLD7Fgy0K) | [Isolated](https://open.spotify.com/artist/0RNjWQupfKxee7LJuWBk0S) | [Circus](https://open.spotify.com/album/7BvtESerCjcvKtvxETidqm) | 3:16 | 2022-02-03 | 2022-07-12 |
 | [Closer](https://open.spotify.com/track/4KZsB1EanBSHsN5zE8ZMf9) | [Todd Helder](https://open.spotify.com/artist/6nhsSK9KbToX3Brq0xeWbV), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Closer](https://open.spotify.com/album/0y2NOgjeL7Bn9nVls7znsc) | 3:26 | 2022-02-03 |  |
+| [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 |  |
 | [COME UP](https://open.spotify.com/track/38QHXAcAAt6flDWzZFRSUr) | [Dwonji](https://open.spotify.com/artist/3LPN9SczhFaeLnDmGEYW9F) | [COME UP](https://open.spotify.com/album/1X7PhPmeliA1DkbMjWJqct) | 3:31 | 2022-02-03 |  |
 | [Daydream](https://open.spotify.com/track/1hUp6I7PRARMZ0pCrXhE7s) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [blankfaces](https://open.spotify.com/artist/6E416eeGBMwMlH3FmlxOMS) | [Daydream](https://open.spotify.com/album/00VnMTJa80xTQFonoCksxo) | 2:49 | 2022-04-12 |  |
 | [Daydream](https://open.spotify.com/track/3o9NWxu4L3u22WBJTfq1Nj) | [Cream Blade](https://open.spotify.com/artist/5Px3CFPaLOQwOILnyQ5HwS), [romi](https://open.spotify.com/artist/03fWMFv4epXaib7b7PDP78) | [Daydream](https://open.spotify.com/album/7L0JggFuhaLrd4Qa9iJv6r) | 3:54 | 2022-02-03 |  |

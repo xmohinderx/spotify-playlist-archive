@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 195066,
       "name": "10:36",
       "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 177088,
       "name": "2young2die",
       "url": "https://open.spotify.com/track/7IcpaXgRxjwrF8ZHBgxIVd"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 218448,
       "name": "A.P.C.'s",
       "url": "https://open.spotify.com/track/3ioSmKkBscDzLiQ8HFRyYL"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 165852,
       "name": "Anotha 1",
       "url": "https://open.spotify.com/track/7A9JS7lgiGyB5dz7vVaq1a"
@@ -1065,6 +1065,24 @@
       "duration_ms": 227722,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/4Gy9i08hxSqDR5v2RPqXmu"
+    },
+    {
+      "album": {
+        "name": "Blurt",
+        "url": "https://open.spotify.com/album/47gfLPyw1oBCUn8joa93bA"
+      },
+      "artists": [
+        {
+          "name": "Mega Mango",
+          "url": "https://open.spotify.com/artist/4O2iP6l7paJ9tThXxFVZXJ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Blurt",
+      "url": "https://open.spotify.com/track/0hvSJQdd2eGR3VBMfKbZSs"
     },
     {
       "album": {
@@ -2420,6 +2438,24 @@
     },
     {
       "album": {
+        "name": "STAR STUFF",
+        "url": "https://open.spotify.com/album/5X9TPHbtJ6TOBQ11spB2MM"
+      },
+      "artists": [
+        {
+          "name": "IAN SWEET",
+          "url": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219506,
+      "name": "DIE A MILLION TIMES",
+      "url": "https://open.spotify.com/track/2IyoD78j9rD0TvYyvQnNgm"
+    },
+    {
+      "album": {
         "name": "Natural Part",
         "url": "https://open.spotify.com/album/0ozxNaOvwaEpFcQDd8kRHd"
       },
@@ -2683,7 +2719,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 227000,
       "name": "Empty Spaces",
       "url": "https://open.spotify.com/track/4JHCwcCEqwhN34m7qR1lNt"
@@ -2737,7 +2773,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 220573,
       "name": "Even If You're Gone",
       "url": "https://open.spotify.com/track/1g4XxdY1F5vivfgenJ5JVM"
@@ -4186,6 +4222,24 @@
     },
     {
       "album": {
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX"
+    },
+    {
+      "album": {
         "name": "NEGATIVE",
         "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
@@ -4845,7 +4899,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 165773,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN"
@@ -5177,6 +5231,24 @@
       "duration_ms": 215760,
       "name": "Lights",
       "url": "https://open.spotify.com/track/45BCN2ZnfUXXMff0uxxLFe"
+    },
+    {
+      "album": {
+        "name": "Liz (New York)",
+        "url": "https://open.spotify.com/album/1fv5jGrYUx7N8MWMLUGkNG"
+      },
+      "artists": [
+        {
+          "name": "Geskle",
+          "url": "https://open.spotify.com/artist/6vs7hYqS7v8KjGlZOv2DLN"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194797,
+      "name": "Liz (New York)",
+      "url": "https://open.spotify.com/track/1QrUVQTmRV2gOmg8tby37B"
     },
     {
       "album": {
@@ -5822,6 +5894,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286042,
+      "name": "More",
+      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
+    },
+    {
+      "album": {
         "name": "More Than It Hurts You",
         "url": "https://open.spotify.com/album/6qtUvdJ3U9u2UYIn6WR4JS"
       },
@@ -5923,7 +6013,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 215142,
       "name": "My Echo",
       "url": "https://open.spotify.com/track/5tFleO79RsHgXTqyDjoFWT"
@@ -6537,6 +6627,24 @@
       "duration_ms": 123428,
       "name": "Parade",
       "url": "https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
     },
     {
       "album": {
@@ -7586,6 +7694,24 @@
     },
     {
       "album": {
+        "name": "Shut Up and Show Me",
+        "url": "https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Shut Up and Show Me",
+      "url": "https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g"
+    },
+    {
+      "album": {
         "name": "sickk",
         "url": "https://open.spotify.com/album/76Rm4JtfarLiNj0BG06Ch3"
       },
@@ -8326,6 +8452,24 @@
     },
     {
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/6MUq7oII8rOSCaphVASuh8"
       },
@@ -8807,7 +8951,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 207662,
       "name": "They Don't Know",
       "url": "https://open.spotify.com/track/2y6ENcGCRfpH6Vbeu19GMq"
@@ -9193,6 +9337,24 @@
       "duration_ms": 291893,
       "name": "Try Try Try",
       "url": "https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg"
+    },
+    {
+      "album": {
+        "name": "TVI",
+        "url": "https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "TVI",
+      "url": "https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5"
     },
     {
       "album": {

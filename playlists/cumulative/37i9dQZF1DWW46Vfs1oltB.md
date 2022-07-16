@@ -2,9 +2,9 @@
 
 ### [K\-Hip\-Hop +82](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: Huh\(허성현\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
+> Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: j\-hope\(제이홉\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-509 songs - 1 day 4 hr 59 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+510 songs - 1 day 5 hr 2 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Alone \(Feat\. LeeHi\)](https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [ALONE](https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP) | 2:59 | 2022-06-27 |  |
 | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/5nt7HzeKaxAp6Gh4fZoqMm) | 3:01 | 2021-12-21 | 2022-07-04 |
 | [Antisocial \(Prod\. Mokyo\)](https://open.spotify.com/track/5FFWhDhJe9u9y4l8qkz4LR) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [bimil:ier vol.3 "Antisocial \(Prod\. Mokyo\)"](https://open.spotify.com/album/1nCv396FdEoEd2T5OSWPL6) | 3:35 | 2021-12-18 | 2022-07-08 |
+| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-15 |  |
 | [Astronaut In The Ocean \- Loopy, Owen & Bloo Remix](https://open.spotify.com/track/3cZZVwgrgQSS9m1yFIJ9Ea) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:51 | 2022-04-01 | 2022-04-21 |
 | [At Night](https://open.spotify.com/track/0da5hji35BCVb7nC8gRQzF) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [At Night](https://open.spotify.com/album/2zu8aSqeIOTL0db0YXyea3) | 3:02 | 2021-12-18 | 2022-07-05 |
 | [AURA \(feat\. pH\-1\) \(Prod\. GXXD\)](https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [AURA \(feat\. pH\-1\)](https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9) | 3:26 | 2021-12-18 | 2022-07-08 |
@@ -282,7 +283,7 @@
 | [Make You Mine \(Feat\. JUSTHIS\)](https://open.spotify.com/track/1cCxgHTmvfur5rlWGnG6aY) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [21 Last Mood](https://open.spotify.com/album/0gXCBEFb019iNr6YCyHwVh) | 3:53 | 2022-01-03 | 2022-07-03 |
 | [MAMA \(Feat\. sokodomo, ALT\)](https://open.spotify.com/track/3XwL5DV247CasyNjHNaUQt) | [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Alt](https://open.spotify.com/artist/3cgqGFgSiqcdcAmVP0RT48) | [The Pink Album](https://open.spotify.com/album/5EX7YEFFRZZVdnUiXG2Mz8) | 3:13 | 2021-12-21 | 2022-06-16 |
 | [Mansae \(Independence War Song\)](https://open.spotify.com/track/09YPDwLI0ocCPkBgBgfEo5) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Independence War Song 2022](https://open.spotify.com/album/1IrHAmAHmCR3k4XWNBal5K) | 4:06 | 2022-04-21 | 2022-06-30 |
-| [Marley \(feat\. Huckleberry P\)](https://open.spotify.com/track/2Vfab88uvIEuwa0YX9OLm9) | [Brown Tigger](https://open.spotify.com/artist/61IaAjWyHrAO5ZJdjp1YEH), [Huckleberry P](https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS) | [2022 Monthly Brown May](https://open.spotify.com/album/2fVWXrJnn03sknbjc3ZK9n) | 3:05 | 2022-06-20 |  |
+| [Marley \(feat\. Huckleberry P\)](https://open.spotify.com/track/2Vfab88uvIEuwa0YX9OLm9) | [Brown Tigger](https://open.spotify.com/artist/61IaAjWyHrAO5ZJdjp1YEH), [Huckleberry P](https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS) | [2022 Monthly Brown May](https://open.spotify.com/album/2fVWXrJnn03sknbjc3ZK9n) | 3:05 | 2022-06-20 | 2022-07-16 |
 | [Mart Invader](https://open.spotify.com/track/0dCKPWSmorx6OEW1PLcTF5) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mart Invader](https://open.spotify.com/album/7pRaiXDCEMFZxJKTL2Mjbj) | 2:42 | 2021-12-18 | 2022-07-05 |
 | [MBT](https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [MBT](https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4) | 2:22 | 2021-12-18 | 2022-07-08 |
 | [MBTI \(Feat\. Coogie & Loco\) \(Prod\. GRAY\)](https://open.spotify.com/track/3sMyDgDEGNCAOIvlEs6PR7) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:08 | 2021-12-18 | 2022-07-08 |

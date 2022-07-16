@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: LEA, Gustav, Zachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,948 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,289 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 24 | [Not Going Anywhere](https://open.spotify.com/track/7eFPDTz64mTPk6fTQGJYRj) | [lovesick by choice](https://open.spotify.com/artist/6hw8TaF4rsDgimKMCpOcR4) | [Not Going Anywhere](https://open.spotify.com/album/4kvec53u15HZQ7CCEqb983) | 2:18 |
 | 25 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 |
 | 26 | [Pass Nicht Rein \(feat\. Longus Mongus\)](https://open.spotify.com/track/4BJFxsT7mhUcAvwedWddEG) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [In Liebe, Ion](https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE) | 3:00 |
-| 27 | [Zeit fliegt](https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6) | [Zeit fliegt](https://open.spotify.com/album/0LwhqOEMSOYTYJs3HluHrQ) | 2:14 |
+| 27 | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6) | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/album/0LwhqOEMSOYTYJs3HluHrQ) | 2:14 |
 | 28 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 29 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 |
 | 30 | [Giftig](https://open.spotify.com/track/69hi7EaJMbzSnEFoWrzrKy) | [Tommyn](https://open.spotify.com/artist/4bKMWpArwutcuzKitMc4ug) | [Giftig](https://open.spotify.com/album/2oUgnNxtcPynysaTQKPkZw) | 2:32 |

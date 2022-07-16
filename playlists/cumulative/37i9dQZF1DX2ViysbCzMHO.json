@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 191980,
       "name": "Even In My Dreams - Acoustic",
       "url": "https://open.spotify.com/track/5WqhoP1sXe81DyB91q77aw"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 232706,
       "name": "First Goodbye",
       "url": "https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 233577,
       "name": "GIRL - Acoustic",
       "url": "https://open.spotify.com/track/611tozIA4qliEKm6puczXi"
@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 179908,
       "name": "I Didn't Love You",
       "url": "https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7"
@@ -1251,7 +1251,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 195966,
       "name": "I Hope You\u2019re Happy Now - Live",
       "url": "https://open.spotify.com/track/7dHIJjEVtekWBZr16Q2owe"
@@ -1847,7 +1847,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 208400,
       "name": "New Wings",
       "url": "https://open.spotify.com/track/5S74K9DFZmkMYhr32h7Ica"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 163774,
       "name": "Next Girl - Live",
       "url": "https://open.spotify.com/track/2ooUIGpVzp1ShWDUnc1CPa"
@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 255986,
       "name": "No Daylight",
       "url": "https://open.spotify.com/track/1TPLR8pO3aE6KnG2Wj7SmO"
@@ -1955,7 +1955,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 218653,
       "name": "One Of These Days - sad piano version",
       "url": "https://open.spotify.com/track/6y9Zf5yNGmLPOQhjUuAAP9"
@@ -1973,7 +1973,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 204900,
       "name": "One Percent (Acoustic)",
       "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
@@ -2067,6 +2067,24 @@
       "duration_ms": 167087,
       "name": "Relationship Goals - Acoustic Version",
       "url": "https://open.spotify.com/track/3TLF5siBrncY5Jm4NRDOEG"
+    },
+    {
+      "album": {
+        "name": "Rock and A Hard Place (Acoustic)",
+        "url": "https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place - Acoustic",
+      "url": "https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN"
     },
     {
       "album": {
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 198719,
       "name": "Sober & Skinny",
       "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
@@ -2315,7 +2333,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 198541,
       "name": "Something You Ain't Ever Had - Acoustic",
       "url": "https://open.spotify.com/track/0WdkuR9ZwleXI1MZH37ZCP"
@@ -2607,7 +2625,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 188571,
       "name": "Therapy (Rainy Days Version)",
       "url": "https://open.spotify.com/track/0V8s9vPRwAFxcImLRSjoGD"
@@ -2687,7 +2705,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 172663,
       "name": "Thought This Through",
       "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
@@ -2875,7 +2893,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 204639,
       "name": "What If I Never Get Over You - Piano Version",
       "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
@@ -2929,7 +2947,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 159315,
       "name": "Where Did We Go? - Acoustic",
       "url": "https://open.spotify.com/track/40SgaRxSRtapCUkpUAmQy6"
@@ -2987,6 +3005,28 @@
       "duration_ms": 207967,
       "name": "Whiskey And Rain - Acoustic",
       "url": "https://open.spotify.com/track/4hpWtPnZHX9xfb1fr8cVVw"
+    },
+    {
+      "album": {
+        "name": "Wild as Her (feat. Carter Faith) [Acoustic One-Take]",
+        "url": "https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Wild as Her (feat. Carter Faith) - Acoustic One-Take",
+      "url": "https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT"
     },
     {
       "album": {

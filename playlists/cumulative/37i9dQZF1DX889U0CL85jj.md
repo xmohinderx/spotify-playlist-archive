@@ -4,7 +4,7 @@
 
 > Just chill...
 
-264 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+265 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [homebody](https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [homebody](https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f) | 3:09 | 2020-03-30 |  |
 | [Hope You Are Okay](https://open.spotify.com/track/6vYbNeMUIMGRSX2OLhQQOk) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Hope You Are Okay](https://open.spotify.com/album/6T3wQsFNhRoYPbVB6mOd4T) | 1:55 | 2020-08-10 | 2022-01-22 |
 | [How It Was](https://open.spotify.com/track/2chYHCTlDhpNfZIPzgZ9dS) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [How It Was](https://open.spotify.com/album/0CgN4X2knXtH8trDKPVd5W) | 3:09 | 2020-06-12 |  |
-| [Human Nature](https://open.spotify.com/track/6vtgPYtS3TuQko4T4NCsc1) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Human Nature](https://open.spotify.com/album/6FwTL3AtmfzvHwSkX0QLDE) | 4:19 | 2020-06-12 |  |
+| [Human Nature](https://open.spotify.com/track/6vtgPYtS3TuQko4T4NCsc1) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Human Nature](https://open.spotify.com/album/6FwTL3AtmfzvHwSkX0QLDE) | 4:19 | 2020-06-12 | 2022-07-16 |
 | [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 2:12 | 2022-06-10 |  |
 | [I Can't Help \(with Sarcastic Sounds\)](https://open.spotify.com/track/1OdYu7mDO94ydUvfZPaPvP) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Can't Help \(with Sarcastic Sounds\)](https://open.spotify.com/album/0HfMtVtwcLY0hrZbIMc5X5) | 2:01 | 2020-02-28 |  |
 | [I Don't Wanna Be Nothin'](https://open.spotify.com/track/42y6YvuL1zbJEYTpGyJ4ut) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [I Don't Wanna Be Nothin'](https://open.spotify.com/album/1pNlh4Xx9a0y8EWEw6i5hx) | 4:30 | 2019-09-06 | 2022-01-22 |
@@ -182,6 +182,7 @@
 | [Phantom City](https://open.spotify.com/track/5jrgvMkg6ex5wKsxvFf8uh) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY), [Black + Creme](https://open.spotify.com/artist/61s8JbLZTkxIQ9DH7vXmz4) | [Phantom City](https://open.spotify.com/album/4bnXwSCn4y1hsaETrCPzQ6) | 3:54 | 2020-04-14 | 2022-01-22 |
 | [Picking Petals](https://open.spotify.com/track/6W8bH31M5N17teVILkTlfP) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Picking Petals](https://open.spotify.com/album/0rlOme34khDPN9Qvdk2ckg) | 3:49 | 2022-03-25 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2020-11-02 |  |
+| [Promise](https://open.spotify.com/track/42sMyIVgpVv9zFFQ2rdZ0P) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Promise](https://open.spotify.com/album/1vt3ZOyY1VodhBDoPZSlIi) | 3:23 | 2022-07-15 |  |
 | [Queen of Paisley](https://open.spotify.com/track/2YwDDVHflNhUKgu70WR7OH) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [Queen of Paisley](https://open.spotify.com/album/68YvD3abQk3tHk3blTVnRF) | 4:04 | 2021-08-27 |  |
 | [RADIO SILENCE](https://open.spotify.com/track/2XnKHgfNOJOMj2B7u5qiD4) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80) | [GARDENING](https://open.spotify.com/album/7geyON27pFNOLshvNKiYqk) | 4:15 | 2020-10-16 | 2022-01-22 |
 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 | 2020-09-15 |  |

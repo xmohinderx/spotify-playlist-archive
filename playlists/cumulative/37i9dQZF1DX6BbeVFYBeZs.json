@@ -394,6 +394,28 @@
     },
     {
       "album": {
+        "name": "Cradle Song",
+        "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Salinas",
+          "url": "https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse"
+        },
+        {
+          "name": "Andrew York",
+          "url": "https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227588,
+      "name": "Cradle Song",
+      "url": "https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz"
+    },
+    {
+      "album": {
         "name": "Crimson Heart",
         "url": "https://open.spotify.com/album/6NC3fHTp6RQ8n2oEOn3a0d"
       },

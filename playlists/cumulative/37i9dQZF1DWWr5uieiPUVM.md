@@ -4,7 +4,7 @@
 
 > 🚂  Aqui é só o trem caro do trap! Foto: Kawe, WIU
 
-115 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/2bZk5f2KVSoGqtFW20OKam)
+116 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/2bZk5f2KVSoGqtFW20OKam)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Paraíso Periférico](https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Paraíso Periférico](https://open.spotify.com/album/1TQdoLB4Ys0i4qCw693kZR) | 2:51 | 2022-03-25 | 2022-04-16 |
 | [Paypal](https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 2:46 | 2022-03-18 |  |
 | [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 | 2022-03-25 |  |
+| [Pixadão](https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Pixadão](https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq) | 5:10 | 2022-07-15 |  |
 | [Pra Cima Meu Sócio](https://open.spotify.com/track/14O5eC5Nv9pY2ILJOcBuqk) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mc G Talibã](https://open.spotify.com/artist/3WqjZ3slxmWPlsKxJcAPMc), [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq) | [Pra Cima Meu Sócio](https://open.spotify.com/album/7oWj9WdTSqfxEdV5eo01DQ) | 2:25 | 2022-05-20 | 2022-06-11 |
 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 | 2022-03-18 | 2022-06-07 |
 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 | 2022-03-18 |  |

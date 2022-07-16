@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: MARF x Wulf",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: D.T.E x Prezioso",
   "name": "Spinnin' Records Brand New",
   "published_playlist_ids": [
     "5y4MrJJ7gKnIUTSID8FBc6"
@@ -23,6 +23,24 @@
       "duration_ms": 159200,
       "name": "4Ever",
       "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
+    },
+    {
+      "album": {
+        "name": "About This",
+        "url": "https://open.spotify.com/album/2AFW3csXkeTUI8gyMN3aiz"
+      },
+      "artists": [
+        {
+          "name": "Levex",
+          "url": "https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154218,
+      "name": "About This",
+      "url": "https://open.spotify.com/track/4kqhRmXIDxQYARJ2fKLvzC"
     },
     {
       "album": {
@@ -81,7 +99,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 135000,
       "name": "Back Once More",
       "url": "https://open.spotify.com/track/2RRClVP1ldNEGKNtEChgA9"
@@ -154,6 +172,32 @@
     },
     {
       "album": {
+        "name": "Belly Dancer (Glockenbach Remix)",
+        "url": "https://open.spotify.com/album/0WWoojxeT5WVvH5uapiAMd"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140015,
+      "name": "Belly Dancer - Glockenbach Remix",
+      "url": "https://open.spotify.com/track/3AL7BDw989oJMQ8zrkEOyR"
+    },
+    {
+      "album": {
         "name": "Blind Side (feat. Patrik Jean)",
         "url": "https://open.spotify.com/album/2Leqdnq9lvfPRYIySIQBMo"
       },
@@ -173,7 +217,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 170322,
       "name": "Blind Side (feat. Patrik Jean)",
       "url": "https://open.spotify.com/track/3uyoqNVG9LUVBvaAmsdvZy"
@@ -195,6 +239,46 @@
       "duration_ms": 158095,
       "name": "Body Heat",
       "url": "https://open.spotify.com/track/6L8m03xqrhwyLZ5ptN28CE"
+    },
+    {
+      "album": {
+        "name": "Body To Body",
+        "url": "https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144677,
+      "name": "Body To Body",
+      "url": "https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/6RybNqYFHu5cxoOsGlo4yj"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221904,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1mlk3vLtVptfxRcnx3avyH"
     },
     {
       "album": {
@@ -235,7 +319,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 197419,
       "name": "Can't Stop Me",
       "url": "https://open.spotify.com/track/0sF4yvIa68jr4JnTFKWjF0"
@@ -286,6 +370,28 @@
     },
     {
       "album": {
+        "name": "Come Here",
+        "url": "https://open.spotify.com/album/20q2M4SSLJfV3SC11NpW3x"
+      },
+      "artists": [
+        {
+          "name": "Tim Baresko",
+          "url": "https://open.spotify.com/artist/6Uc1kxbiSTggT6cmqjrLdp"
+        },
+        {
+          "name": "G. Felix",
+          "url": "https://open.spotify.com/artist/0fKdJgSUpnWcOF4PyB1EYZ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Come Here",
+      "url": "https://open.spotify.com/track/5u4ppGydKCwN4IXqZQZUs7"
+    },
+    {
+      "album": {
         "name": "Do You Remember (Coopex Edit)",
         "url": "https://open.spotify.com/album/0drd6TmMoeqtqn365batK7"
       },
@@ -305,10 +411,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 214918,
       "name": "Do You Remember - Coopex Edit",
       "url": "https://open.spotify.com/track/3DSaaj5eRD4vL6FXSECjdQ"
+    },
+    {
+      "album": {
+        "name": "Don't Play by the Rules",
+        "url": "https://open.spotify.com/album/4U69qf0FGOA4nD95iiP4cz"
+      },
+      "artists": [
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163197,
+      "name": "Don't Play by the Rules",
+      "url": "https://open.spotify.com/track/58PyYwBXk5933MqJdmjQDn"
     },
     {
       "album": {
@@ -367,7 +495,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 162195,
       "name": "Dream Of Forever (feat. Rebecca Helena)",
       "url": "https://open.spotify.com/track/2IzHYxVPLvrE6oV7XGI8dw"
@@ -418,6 +546,28 @@
     },
     {
       "album": {
+        "name": "Every Day",
+        "url": "https://open.spotify.com/album/2ic8qpKW6f6VCcsYgUo6MN"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "CRCLE",
+          "url": "https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156480,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/01M7x4t9oymyXHxs3hxjF1"
+    },
+    {
+      "album": {
         "name": "Falling For Love",
         "url": "https://open.spotify.com/album/4HJ6TUjsiPycpHrVHdkKQA"
       },
@@ -429,7 +579,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 154761,
       "name": "Falling For Love",
       "url": "https://open.spotify.com/track/4MNFjzLwZK6Oa1nweO882r"
@@ -691,7 +841,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 201312,
       "name": "Hooked - Grafix Remix",
       "url": "https://open.spotify.com/track/3pRyzfeZ0wmgv7UcYMraAJ"
@@ -713,7 +863,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 129817,
       "name": "Hot In It",
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
@@ -838,6 +988,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/5gyDLfJrVi5VPLHk1vatKS"
+      },
+      "artists": [
+        {
+          "name": "Zen/it",
+          "url": "https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/2yAko7DTsKYC7gsFrqs8yh"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/6FbpmsXkcMmWm6zd8dnh5L"
       },
@@ -853,6 +1021,28 @@
       "duration_ms": 147360,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3THwIbFtoroiaFF96X7G1q"
+    },
+    {
+      "album": {
+        "name": "It Ain't Over",
+        "url": "https://open.spotify.com/album/6mnMEPmqeXNG5xRt2iP3oQ"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186006,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/3l6fS0OSfSmJ2uWhyQDWmG"
     },
     {
       "album": {
@@ -893,7 +1083,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 182654,
       "name": "iY-Yi (feat. Takunda)",
       "url": "https://open.spotify.com/track/5bVhd4sLxWGpx7twMqxr93"
@@ -997,6 +1187,24 @@
       "duration_ms": 126222,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/6UNuKc3xjT7h5ioP501DW3"
+    },
+    {
+      "album": {
+        "name": "Lean On Me",
+        "url": "https://open.spotify.com/album/7s0q6UVe9I9vof57x7dr2J"
+      },
+      "artists": [
+        {
+          "name": "Joe Stone",
+          "url": "https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/2fghWr45OPBVmRM6TyfRzL"
     },
     {
       "album": {
@@ -1113,7 +1321,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 148037,
       "name": "Load Up",
       "url": "https://open.spotify.com/track/2y2SZlRTIK4wyFDOLpPiff"
@@ -1333,7 +1541,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 175807,
       "name": "Music For Your Mind",
       "url": "https://open.spotify.com/track/2bHt5byWr3KS5a1cySfhxt"
@@ -1414,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Hide",
+        "url": "https://open.spotify.com/album/3sE3g4Y9iMjIXwKgaNkMCh"
+      },
+      "artists": [
+        {
+          "name": "Justus",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172615,
+      "name": "Nothing To Hide",
+      "url": "https://open.spotify.com/track/77sxPkkeynDqrKtHRryMq0"
+    },
+    {
+      "album": {
         "name": "Now Or Never",
         "url": "https://open.spotify.com/album/4nSCsBcIjnPmBi9v6JslOU"
       },
@@ -1429,7 +1655,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 163124,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/2b52Uwe8z4FjlMeHhFpOrP"
@@ -1535,7 +1761,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 141428,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/0tqDVpsdkoqpsyCv0w8G4F"
@@ -1714,6 +1940,24 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5dBqstmpc8iFubg3KjEF2J"
+      },
+      "artists": [
+        {
+          "name": "Robbie Mendez",
+          "url": "https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177385,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/4nBYQdZuNW5JH1KHUTf7jE"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/3Ynln568kc4fBU1BnRnmwO"
       },
@@ -1831,7 +2075,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 199069,
       "name": "So What (feat. Lorin Logue)",
       "url": "https://open.spotify.com/track/4VK9wGhZUZGPtDh3fKvd4v"
@@ -1875,7 +2119,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 143658,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/1mlpEwnlkfSRU9ZSzn98Bz"
@@ -1897,6 +2141,32 @@
       "duration_ms": 223384,
       "name": "Speed",
       "url": "https://open.spotify.com/track/2djrfJoMcMkeclcALeYHit"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/34b8pEfw6Cu5PLLSAY4dMb"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5IeFO7aWhkpFmaHKr3QyJV"
     },
     {
       "album": {
@@ -1937,7 +2207,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 156908,
       "name": "Summer Love (feat. Erich Lennig)",
       "url": "https://open.spotify.com/track/7DG7wIZsVJKeQcaWNuhstl"
@@ -1959,7 +2229,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 140640,
       "name": "Sunshine (Brighten Up My Days) [Summer Tech Mix]",
       "url": "https://open.spotify.com/track/3KKEzQQEf6QP9LEEsIDDJE"
@@ -2043,7 +2313,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 181875,
       "name": "Tantra",
       "url": "https://open.spotify.com/track/3P8NQesyynKrci0dwb0cHl"
@@ -2061,7 +2331,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 181875,
       "name": "Tantra",
       "url": "https://open.spotify.com/track/6MYUF9KJr8hwguMtyhmtLP"
@@ -2148,6 +2418,28 @@
     },
     {
       "album": {
+        "name": "Tik Tok",
+        "url": "https://open.spotify.com/album/0nSKyft93SbTOp5JTE8RkQ"
+      },
+      "artists": [
+        {
+          "name": "DJ SODA",
+          "url": "https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107578,
+      "name": "Tik Tok",
+      "url": "https://open.spotify.com/track/2WAkfwSq4jNpSHZFSt8zDN"
+    },
+    {
+      "album": {
         "name": "Time (Sevek Remix)",
         "url": "https://open.spotify.com/album/58AZcrMLTjgrsHrTByNX5L"
       },
@@ -2167,7 +2459,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 145941,
       "name": "Time - Sevek Remix",
       "url": "https://open.spotify.com/track/5grzVCT8ZFzWGBLZQs5dkH"
@@ -2185,7 +2477,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 208615,
       "name": "Toca's Miracle",
       "url": "https://open.spotify.com/track/7hMlGTuvLYTilQ3MFHmxDy"
@@ -2207,6 +2499,28 @@
       "duration_ms": 168182,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/37WojeNKqWZYDcOhzRsZx2"
+    },
+    {
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/0njFQTnCxfqVFWJh14Ptfd"
+      },
+      "artists": [
+        {
+          "name": "NXNJAS",
+          "url": "https://open.spotify.com/artist/3NiiV7QNgurciXVAmr2C7o"
+        },
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/2aYs0Kg0Mt9XbmzPml3pND"
     },
     {
       "album": {
@@ -2343,7 +2657,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 223255,
       "name": "We Don\u2019t Need - Piero Pirupa, Ben Kim & Samuele Scelfo present After Mars Remix",
       "url": "https://open.spotify.com/track/5zYA2NZHuv7yo4Y8k6Dt1D"

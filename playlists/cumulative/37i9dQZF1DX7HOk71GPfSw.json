@@ -1356,6 +1356,24 @@
     },
     {
       "album": {
+        "name": "All of My Role Models",
+        "url": "https://open.spotify.com/album/4WfsGPEKUiUybbgMbwDJif"
+      },
+      "artists": [
+        {
+          "name": "Cooked Sushi",
+          "url": "https://open.spotify.com/artist/4PJ74ABEX53RBSngKMBH7A"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187671,
+      "name": "All of My Role Models",
+      "url": "https://open.spotify.com/track/1HJHslXeZGOIcJqDJr2LqR"
+    },
+    {
+      "album": {
         "name": "BACK IN ACTION",
         "url": "https://open.spotify.com/album/4BAcHH4t5j24fRD5Nvz7YU"
       },
@@ -6399,7 +6417,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 143369,
       "name": "DOZO",
       "url": "https://open.spotify.com/track/7nhyXNAngH1yIMIxps3CDM"
@@ -6421,6 +6439,24 @@
       "duration_ms": 259049,
       "name": "Dracodraco",
       "url": "https://open.spotify.com/track/1989YquYFYsPa4PutqJunf"
+    },
+    {
+      "album": {
+        "name": "sleepwalking / dragging",
+        "url": "https://open.spotify.com/album/1QpLeV8MhsMbOu0XfiWltP"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "dragging",
+      "url": "https://open.spotify.com/track/5fkcpy3dkfXhMmSyAzCh4h"
     },
     {
       "album": {
@@ -6801,7 +6837,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 123446,
       "name": "edward lied",
       "url": "https://open.spotify.com/track/4wRQZJImPDv9TvRXihyQAu"
@@ -8235,7 +8271,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 150769,
       "name": "FOX BOP",
       "url": "https://open.spotify.com/track/4bDK6GxLWO8b6cBUsscXZp"
@@ -10803,7 +10839,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 145183,
       "name": "homeswitcher",
       "url": "https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy"
@@ -14565,7 +14601,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 142567,
       "name": "lucky business",
       "url": "https://open.spotify.com/track/4eXOvo8u46jOnAE9qVDbcf"
@@ -15771,7 +15807,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 196465,
       "name": "more than life (feat. glaive)",
       "url": "https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM"
@@ -22711,7 +22747,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 182375,
       "name": "SummerTime Blood",
       "url": "https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO"
@@ -24355,6 +24391,28 @@
       "duration_ms": 215641,
       "name": "Toy Car",
       "url": "https://open.spotify.com/track/2l46WbxHBP34NUbmHDFFyZ"
+    },
+    {
+      "album": {
+        "name": "Tramal",
+        "url": "https://open.spotify.com/album/0iUZrL7KopTaRJo5KcEZn0"
+      },
+      "artists": [
+        {
+          "name": "Colm",
+          "url": "https://open.spotify.com/artist/78l4EfrLQMmhAvNxoGQ2UW"
+        },
+        {
+          "name": "Hello Hannes",
+          "url": "https://open.spotify.com/artist/0NUCZzalRW9dNTTBzP19pi"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187124,
+      "name": "Tramal",
+      "url": "https://open.spotify.com/track/1xYstYDswMkdSHDswY4x7D"
     },
     {
       "album": {
@@ -26171,6 +26229,24 @@
       "duration_ms": 151875,
       "name": "where do we go?",
       "url": "https://open.spotify.com/track/4JAeE0Uo7a2KKykYrHTtRe"
+    },
+    {
+      "album": {
+        "name": "where you roam",
+        "url": "https://open.spotify.com/album/1dR610UAAU3W5zg9K1AcUT"
+      },
+      "artists": [
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "where you roam",
+      "url": "https://open.spotify.com/track/50QOhLLgb8BhwjysN3XLQN"
     },
     {
       "album": {

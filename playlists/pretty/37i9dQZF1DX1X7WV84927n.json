@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full volume lovers. Cover: Ozzy Osbourne",
-  "num_followers": 260487,
+  "num_followers": 260612,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzODQwMCwwMDAwMDFiMTAwMDAwMTgxZGIxYjJjY2EwMDAwMDE4MThmNDExMDQy",
+  "snapshot_id": "MTY1Nzg5MDAwMCwwMDAwMDFiMjAwMDAwMTgyMDFmMWNjZTIwMDAwMDE4MThmNDExMDQy",
   "tracks": [
     {
       "added_at": "2022-07-08 00:00:00",
@@ -27,6 +27,22 @@
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
+    },
+    {
+      "added_at": "2022-07-15 13:00:00",
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 268481,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -63,22 +79,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 348333,
-      "name": "Watcher In The Sky",
-      "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/6UqHgUnm9v6EoaJhduSkmt"
       },
@@ -107,6 +107,22 @@
       "duration_ms": 184146,
       "name": "Ready for a Good Time",
       "url": "https://open.spotify.com/track/5rX16XklyqZnUBM9fF59qc"
+    },
+    {
+      "added_at": "2022-07-15 13:00:00",
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 284266,
+      "name": "Call Me Little Sunshine",
+      "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -205,6 +221,22 @@
       "url": "https://open.spotify.com/track/2rHM0Z7AOHN4FiDMfvpqwW"
     },
     {
+      "added_at": "2022-07-15 13:00:00",
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 191414,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT"
+    },
+    {
       "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Hollywood",
@@ -219,22 +251,6 @@
       "duration_ms": 212413,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/4cLCbUjCGAo6Ln1dhnTwxT"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/2ulQy55tAU204XtJqddoTU"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 189736,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/1IXHEW37OZl7EBajKupTg0"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -309,6 +325,22 @@
       "url": "https://open.spotify.com/track/0WVSpqEmsVyVs64i8Mkn3a"
     },
     {
+      "added_at": "2022-07-15 13:00:00",
+      "album": {
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/7qpwjm2QJOXh4Rfh844z13"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 237291,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/1gb6XmjKLsdILbHNiDzrtV"
+    },
+    {
       "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "That Ain't Livin'",
@@ -325,20 +357,24 @@
       "url": "https://open.spotify.com/track/2aZeP8gOHxZuDyYh2FSLcy"
     },
     {
-      "added_at": "2022-07-08 00:00:00",
+      "added_at": "2022-07-15 13:00:00",
       "album": {
-        "name": "Surviving the Law",
-        "url": "https://open.spotify.com/album/3Z5yXM2AoHoIUMqNXtZjYI"
+        "name": "Faded Out (feat. Within Temptation)",
+        "url": "https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW"
       },
       "artists": [
         {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 167314,
-      "name": "Waiting for the World to End",
-      "url": "https://open.spotify.com/track/4gNzAlHWjr73HycnkCcGSs"
+      "duration_ms": 185542,
+      "name": "Faded Out (feat. Within Temptation)",
+      "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -407,22 +443,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "The Gang's All Here",
-        "url": "https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "The Gang's All Here",
-      "url": "https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Natural Born Killer",
         "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
       },
@@ -439,22 +459,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Fire It Up",
-        "url": "https://open.spotify.com/album/5BDAPbqXoXGOy8lwur9SxF"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 199532,
-      "name": "Fire It Up",
-      "url": "https://open.spotify.com/track/2NtTPFydPxZnZ3p6wlkYdq"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/2oAnV3Zd5txIhmfUGX5fu2"
       },
@@ -467,22 +471,6 @@
       "duration_ms": 219299,
       "name": "SOS",
       "url": "https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "EAT IT UP SPIT IT OUT",
-        "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
-      },
-      "artists": [
-        {
-          "name": "Holy Wars",
-          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
-        }
-      ],
-      "duration_ms": 177354,
-      "name": "BOLT TO THE HEAD",
-      "url": "https://open.spotify.com/track/5Hv8s5ts2YW4oYF6hTKKB3"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -663,6 +651,22 @@
       "duration_ms": 338155,
       "name": "Abrakadabra",
       "url": "https://open.spotify.com/track/2htPaFATsHA9oCTbpGHx9r"
+    },
+    {
+      "added_at": "2022-07-15 13:00:00",
+      "album": {
+        "name": "sTraNgeRs",
+        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 195747,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
       "added_at": "2022-07-08 00:00:00",

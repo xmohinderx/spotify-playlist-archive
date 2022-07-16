@@ -4,7 +4,7 @@
 
 > Italian superstar producer & DJ <a href ="spotify:artist:5ENS85nZShljwNgg4wFD7D">Gabry Ponte</a> promises a good time with his mix featuring recent hits!
 
-19 songs - 58 min 25 sec - not published yet
+19 songs - 58 min 25 sec - [published](https://open.spotify.com/playlist/3NhyGSpBHs9LDf8bcwD3dt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

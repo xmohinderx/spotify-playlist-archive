@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dibob
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Titãs
 
-178 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+181 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bucket List](https://open.spotify.com/track/3PK0Lww2PbK9K808Pd3vJx) | [Long Past Overdue](https://open.spotify.com/artist/0epGwikvhwBH94d18WBMgb) | [Bucket List](https://open.spotify.com/album/0n1EoMUN7d1ZrNvAjQIvH0) | 3:43 | 2022-01-14 |  |
 | [Calma](https://open.spotify.com/track/4FrSJW2JJsojY7rHn3d122) | [Sea Smile](https://open.spotify.com/artist/3ct3zDqakyuMxobcowQhQv) | [Calma](https://open.spotify.com/album/6wNhe6Elxu9ln8639pGb20) | 3:46 | 2022-04-22 | 2022-05-28 |
 | [Caminha \(Que Aqui é da Osvaldo\)](https://open.spotify.com/track/67jEIIt6rLIqUpgmeUZ35P) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Caminha \(Que Aqui é da Osvaldo\)](https://open.spotify.com/album/0rXumMZpub1Mff5xYaTsJr) | 2:32 | 2022-04-22 | 2022-05-28 |
+| [Caos](https://open.spotify.com/track/5MJmQ49C7xzUo9wqZON1Gb) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Caos](https://open.spotify.com/album/5h6gunYAsVRDcoLOHh7CI4) | 3:13 | 2022-07-15 |  |
 | [Carpinteiro do Universo](https://open.spotify.com/track/55uRggGWgM5G2gmqYaIKHn) | [Johnny Boy Chaves](https://open.spotify.com/artist/6w3YbjU7kppRphB5Fub70D), [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF), [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Carpinteiro do Universo](https://open.spotify.com/album/5oFj0TPT5k1ZG0ytG0lrH7) | 4:11 | 2022-04-29 | 2022-05-20 |
 | [Carta pro Futuro](https://open.spotify.com/track/2Tq3XVQ3iWVVxX2hDZhNyn) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy) | [Cartas](https://open.spotify.com/album/1pBoUcfZM0WaiOlAEb7TRb) | 3:32 | 2022-05-27 |  |
 | [Chá](https://open.spotify.com/track/4GaUS9fESqZsMdk7aqnexu) | [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [iceboy999](https://open.spotify.com/artist/1PK0jb0W4nrxZItuuCUwXK), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Chá](https://open.spotify.com/album/4gSJ0HsE10n2Ci2nDfg9kg) | 3:17 | 2022-01-14 |  |
@@ -79,6 +80,7 @@
 | [Fogo e Não Fagulha](https://open.spotify.com/track/4h6GdLcFT8JvmUMUrfaCsr) | [Genomma](https://open.spotify.com/artist/5r5pqAi92RZNyAcmiEccjv) | [Fogo e Não Fagulha](https://open.spotify.com/album/4Mj69iXq7ghsdv4pBSsiHX) | 4:36 | 2022-01-14 | 2022-06-04 |
 | [Fogo no Rancho](https://open.spotify.com/track/48DWFQPut6tB0z0p3l0GJN) | [Griswolds](https://open.spotify.com/artist/5DHCS2m6sGdaRtX7Qdwdw1) | [Griswolds e o Jeca](https://open.spotify.com/album/6WgFpZi2Xsx4Hq56kJfE2s) | 2:05 | 2022-04-08 | 2022-04-23 |
 | [Fábula de uma Granada](https://open.spotify.com/track/4OdsxenDbioHIBtVH0jNow) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin) | [Fábula de uma Granada](https://open.spotify.com/album/3TX34giAZUWsHL3rQOMPtK) | 3:49 | 2022-01-14 |  |
+| [Grão](https://open.spotify.com/track/6Q9qlZBRJlBEEaZkbDwsDa) | [Balara](https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp) | [Aponte para o Amor](https://open.spotify.com/album/6L57HZXTfINznVAuKzC9DQ) | 3:15 | 2022-07-15 |  |
 | [Herói Made In Brazil](https://open.spotify.com/track/52liB1QyL7lMJ9MuaxFTG7) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Herói Made In Brazil](https://open.spotify.com/album/4EZKHk2601rGKn8zeRhWbz) | 4:20 | 2022-03-25 | 2022-04-02 |
 | [Heróis](https://open.spotify.com/track/01OpgNtN21P2nqUMTkRwN0) | [Lemak](https://open.spotify.com/artist/1DCcKAbUBRbTURZ6x8A7qx), [Rádio Moscou](https://open.spotify.com/artist/31VICQtQGiuRd39wIJTHPH) | [Heróis](https://open.spotify.com/album/1zruPtXvZdq143cxRar34i) | 3:26 | 2022-01-14 |  |
 | [Hey, Babe](https://open.spotify.com/track/1TUv8ap6Kr4ilS1nKBAH4l) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Hey, Babe](https://open.spotify.com/album/2EeHe5LaOe1diWalr9K4iT) | 3:42 | 2022-05-20 | 2022-06-04 |
@@ -125,7 +127,7 @@
 | [Não Mudaria Nada](https://open.spotify.com/track/3hveh8lEmqaYjVoQAxpARe) | [Sebastianismos](https://open.spotify.com/artist/2L5ae8GHw7eJ0u4f331o4R), [Badaui CPM22](https://open.spotify.com/artist/3Qv5O95hn0ZxnBrshQCEZ5) | [Não Mudaria Nada](https://open.spotify.com/album/7fojJw1mlHS6wFLUg5mEF3) | 1:49 | 2022-01-14 |  |
 | [não sei se eu tô legal](https://open.spotify.com/track/0XqbOyc2hkSmrrrgo2SHsF) | [Manifeste](https://open.spotify.com/artist/0n7mf2UgleldV4ShP6VY7f) | [Não Sei Se Eu Tô Legal](https://open.spotify.com/album/0xjeqZlmUkzixDMvXvU6RD) | 3:56 | 2022-04-01 | 2022-04-23 |
 | [Não É Só Existir](https://open.spotify.com/track/2yqqf8Xa2oEPnRemRS5jsD) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY) | [Não É Só Existir](https://open.spotify.com/album/5o4HjtKdN8PXhdfMAJOFcn) | 3:49 | 2022-01-14 |  |
-| [Nó](https://open.spotify.com/track/2NsoozYK2yr62Y9HoN1Hfk) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Nó](https://open.spotify.com/album/4gKgBctqVjoHhBbI7BK83t) | 3:11 | 2022-05-20 |  |
+| [Nó](https://open.spotify.com/track/2NsoozYK2yr62Y9HoN1Hfk) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Nó](https://open.spotify.com/album/4gKgBctqVjoHhBbI7BK83t) | 3:11 | 2022-05-20 | 2022-07-16 |
 | [Nóias Normais](https://open.spotify.com/track/152RBkawH7f1tYkMaHZ5Ac) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Nóias Normais](https://open.spotify.com/album/5LEpx272eqxABbGxbYDLxL) | 3:28 | 2022-01-14 | 2022-02-05 |
 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 | 2022-01-14 |  |
 | [O Deserto](https://open.spotify.com/track/0jY5AGKcDDZrxMM0Qhc5Y9) | [Tom Stracke](https://open.spotify.com/artist/01amAKKi7P0TRAf0tC0Ert) | [O Deserto](https://open.spotify.com/album/6M6p08pN0zbXQO03GrIEXh) | 4:24 | 2022-01-14 | 2022-05-14 |
@@ -162,7 +164,7 @@
 | [Selva de Concreto](https://open.spotify.com/track/2ZHLPehoFYRKLwJCxotHYw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Selva de Concreto](https://open.spotify.com/album/3kgRDWQ5lPQcJZqQV4YO2n) | 3:32 | 2022-05-20 |  |
 | [Sem Pensar \- Ao Vivo](https://open.spotify.com/track/4B8ZYIPUh7YKNrYpzb8TLo) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Sem Pensar \(Ao Vivo\)](https://open.spotify.com/album/6MOUKlQW1Qslv0uTPIn9fX) | 3:32 | 2022-01-14 | 2022-02-05 |
 | [sem rumo](https://open.spotify.com/track/5dK4KjIqd60Y0W3rivvSgP) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sem rumo](https://open.spotify.com/album/4Y9ZIUWf8hnvsMi5GAyUVf) | 4:27 | 2022-01-14 | 2022-02-05 |
-| [Sexo Animal](https://open.spotify.com/track/3Ori3rp369Md0VHHtIOx2k) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Sexo Animal](https://open.spotify.com/album/3eBQfsPXJ0B84A2eNcV6KO) | 2:32 | 2022-06-24 |  |
+| [Sexo Animal](https://open.spotify.com/track/3Ori3rp369Md0VHHtIOx2k) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Sexo Animal](https://open.spotify.com/album/3eBQfsPXJ0B84A2eNcV6KO) | 2:32 | 2022-06-24 | 2022-07-16 |
 | [Sonho Médio](https://open.spotify.com/track/5DyIhtiRFqZMn4MTdgxUT5) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 1](https://open.spotify.com/album/0CecY6LCUP61MGvefKOtdq) | 2:19 | 2022-06-17 | 2022-07-02 |
 | [Spoilers](https://open.spotify.com/track/1dvutwpbpitL6z4RzYDygC) | [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z), [Os Spoilers](https://open.spotify.com/artist/1k6BAtf7c3dMFNOVQxFTAA) | [Spoilers](https://open.spotify.com/album/0JeLSp5jmrzrpjQgO5QJ8D) | 2:49 | 2022-01-14 | 2022-01-29 |
 | [SUCKERPUNCH](https://open.spotify.com/track/2rQHFSh3RDxjgAPv5Iiv8M) | [Seventeen Sunsets](https://open.spotify.com/artist/6AcY1a52SmTceyc9D5THcT) | [falling down \(falling out\)](https://open.spotify.com/album/5ngaI9j92OqREwOl6QglzT) | 3:45 | 2022-01-14 |  |
@@ -176,6 +178,7 @@
 | [Todo Mundo Quer Pirar](https://open.spotify.com/track/1XW7bclMViizNKpTaCEN8V) | [Sem Hora NA GO](https://open.spotify.com/artist/1qR9fwjTlE4Sn29AJaLbFZ) | [Todo Mundo Quer Pirar](https://open.spotify.com/album/7nxU4nxZPodejcGUCUsAcd) | 3:12 | 2022-03-18 | 2022-05-20 |
 | [Trem](https://open.spotify.com/track/1nRjROWexBREzWAMz0KgEu) | [Cervelet](https://open.spotify.com/artist/3Gv0vk0aGh74t85STB90ak) | [Trem](https://open.spotify.com/album/6DUBL8znMB5eXC9NVbZ04t) | 5:10 | 2022-01-14 | 2022-04-23 |
 | [Tudo Destruído](https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [Tudo Destruído](https://open.spotify.com/album/4m8NyqdTP1zcSEKHZiHzVp) | 3:09 | 2022-05-27 |  |
+| [Tudo Vale A Pena?](https://open.spotify.com/track/7z2BlOn5mRJiRaXQb6e8Ef) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP), [Sérgio Britto](https://open.spotify.com/artist/1cyHhFmWDK80pd2IOK02QI) | [Tudo Vale A Pena?](https://open.spotify.com/album/5MTUG2PWhhgLcN22r6Y4kV) | 3:26 | 2022-07-15 |  |
 | [UM CUPIDO ME FLECHOU](https://open.spotify.com/track/2oebIxdd8SZpGmdRsU90Bd) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [UM CUPIDO ME FLECHOU](https://open.spotify.com/album/3MqwDkJ5JdvYrKNzaTINia) | 2:22 | 2022-07-01 |  |
 | [Um Segundo a +](https://open.spotify.com/track/73JqxNvW3ZHv2TcTI1kh6q) | [Estação 77](https://open.spotify.com/artist/3upWS8cr9YTI656ZTuwUem) | [Um Segundo a +](https://open.spotify.com/album/6eNgn576a5qQmsMMGXssL2) | 2:42 | 2022-01-14 |  |
 | [Um Tempo](https://open.spotify.com/track/4ILAax50Qp9kwcwBM0NBkO) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Um Tempo](https://open.spotify.com/album/05aOvLoWx7xOIrnomiqCeV) | 3:30 | 2022-01-14 | 2022-04-02 |

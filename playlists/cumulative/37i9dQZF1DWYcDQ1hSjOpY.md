@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-297 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+298 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Turndown Service](https://open.spotify.com/track/56y8h73SZXnIzR0fGSQlca) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Turndown Service](https://open.spotify.com/album/1b9QKWx1CGfZ610vf6GHnj) | 1:55 | 2021-11-10 |  |
 | [Uitblinken](https://open.spotify.com/track/5b0EbWEsagMNqlSPRk8FXb) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Uitblinken](https://open.spotify.com/album/4yVuz7QUvFIji1f7ImUS3p) | 2:59 | 2021-11-10 |  |
 | [Universo](https://open.spotify.com/track/48mOMNLnlbok3W6anP7sTS) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Universo](https://open.spotify.com/album/3LMaJaRCGdEpxeYRKr7zEv) | 2:56 | 2021-11-10 |  |
+| [Upon a Painted Ocean](https://open.spotify.com/track/3Iv7EalVhriKHE8uHVJmsS) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:53 | 2022-07-15 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2021-11-10 |  |
 | [Vie Tafare](https://open.spotify.com/track/5KUm8UcbneePgumCqM7KKJ) | [Lahasara](https://open.spotify.com/artist/2e0jbFLa4g3PR9lpXv9kAB) | [Vie Tafare](https://open.spotify.com/album/0QPRNkpCzDPMjbCwQCgMSM) | 2:48 | 2021-11-10 |  |
 | [Viento Estelar](https://open.spotify.com/track/0f5IlhiVWUUq4SGHyrRxIt) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Galaxia](https://open.spotify.com/album/5ILrjJzxzyn3h8CCdRQszR) | 3:05 | 2021-11-10 |  |

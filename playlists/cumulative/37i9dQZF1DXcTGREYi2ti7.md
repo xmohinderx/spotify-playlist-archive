@@ -4,7 +4,7 @@
 
 > A heart\-pumping, bass\-filled DJ mix from <a href ="spotify:artist:3UCbp6D1lvILlxRJT9LnFa">Koven</a>.
 
-37 songs - 1 hr 2 min - not published yet
+37 songs - 1 hr 2 min - [published](https://open.spotify.com/playlist/2Zvx9gKKjSsUrS8iDzAEvb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

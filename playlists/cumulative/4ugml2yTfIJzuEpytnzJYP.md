@@ -4,7 +4,7 @@
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-114 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+116 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [August Star](https://open.spotify.com/track/0tbfLdtT9HonTEskKkaLuN) | [Kaipora](https://open.spotify.com/artist/3IXNmZ5mxr0M1BzOuLfFgY) | [August Star](https://open.spotify.com/album/1x4kCOTzh3E2Z8grHXfyhj) | 2:00 | 2021-11-10 | 2022-02-28 |
 | [Back in the Mix](https://open.spotify.com/track/03F2ojTzplOO36V7cmiM0L) | [Dredlok](https://open.spotify.com/artist/1KBcLRftIZBoT2idLxrrC1) | [Back in the Mix](https://open.spotify.com/album/47I7XdZYlEbfcbL7XTblPM) | 2:51 | 2022-01-22 | 2022-02-28 |
 | [Bad Things \- 11th Hour Remix](https://open.spotify.com/track/0aGLQnuOBPHqpHW61xbrya) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8), [11th Hour](https://open.spotify.com/artist/2KizYftxFxLHLqsudT07bf) | [Bad Things \(11th Hour Remix\)](https://open.spotify.com/album/6mXh0aonbjxgzm9oXWPSEa) | 4:14 | 2022-04-26 |  |
+| [Bat Yam](https://open.spotify.com/track/6UGvCwXeeCjQBqRRMHkag3) | [Mat the Alien](https://open.spotify.com/artist/6zQuKPa4iV1QD7pLYlLv21) | [Bat Yam](https://open.spotify.com/album/6xyZNSnPXJYOefPLbsDf3o) | 4:54 | 2022-07-15 |  |
 | [Blur \(feat\. Dacy\)](https://open.spotify.com/track/0ZttcfFpXraHVv00visCOK) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Dacy](https://open.spotify.com/artist/7fgYuoYmdlHrGWM3mRZJMp) | [Blur \(feat\. Dacy\)](https://open.spotify.com/album/1v68aSVcFu6CvRz7P8dhnk) | 4:15 | 2022-01-22 | 2022-02-28 |
 | [Break Away](https://open.spotify.com/track/63dPSCJ26JPNmbFf62bZcH) | [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF), [Marvel Years](https://open.spotify.com/artist/6X2cD6Y4zRNwn8ZkYPHKe6) | [Break Away](https://open.spotify.com/album/51c29JC1iFF8aLvuVX3QTh) | 3:53 | 2022-04-15 |  |
 | [Bubble Skunker](https://open.spotify.com/track/4pzNR41ncCKYu211lIGGex) | [kLL Bill](https://open.spotify.com/artist/55yeFqdWLSKgOdF6QEOhOr), [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [kLL sMTH](https://open.spotify.com/artist/5vKYp6eOOHPKfb8UX5nUXK) | [kLL Bill](https://open.spotify.com/album/5ZqhrzXrsU8U8INCUihJZq) | 3:15 | 2022-04-15 |  |
@@ -87,6 +88,7 @@
 | [Progenitor](https://open.spotify.com/track/7GbYFaJS5suiQCV9G771AX) | [Daggz](https://open.spotify.com/artist/3S5aXjH9pDeyD7BDMkLbiF) | [Progenitor](https://open.spotify.com/album/0CPzjmC9UovlGvUd4w8OQK) | 3:03 | 2022-01-12 | 2022-02-13 |
 | [Pulse](https://open.spotify.com/track/6UQhXFGhrsqoQC9VzgBads) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Pulse](https://open.spotify.com/album/2pP8FP2pWfb94qCJrHhy7f) | 3:29 | 2022-04-25 |  |
 | [Pura Vida](https://open.spotify.com/track/4UodxqRyzXEE4yg3Xf3D3V) | [Mystic Grizzly](https://open.spotify.com/artist/5KBp5tw7buUpJT7WxNrezV) | [Jaguar Medicine](https://open.spotify.com/album/5SCx6fGwAMtFCz12sEY7Vv) | 4:26 | 2022-04-25 |  |
+| [Purification](https://open.spotify.com/track/2Hfz4yZFhHYHcptngSZ3Bn) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [The Gaslamp Killer](https://open.spotify.com/artist/5dVua2HdrY1VlbPh6OM9KZ) | [Purification](https://open.spotify.com/album/7tsmmO3HZXjqO9bu5q66J6) | 3:54 | 2022-07-15 |  |
 | [Qualify](https://open.spotify.com/track/5kAj8k3iB7qo5mAAerdor4) | [Supertask](https://open.spotify.com/artist/47qa2xx9Xlw1oGkKbMq8Zt) | [Captcha](https://open.spotify.com/album/0LzozfJOt9UMSmklMDsvgM) | 3:12 | 2021-09-25 | 2022-04-16 |
 | [Raptor](https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [Raptor](https://open.spotify.com/album/023fZD6uYgvFdGOqG2HTli) | 3:17 | 2021-12-08 | 2021-12-12 |
 | [Revel](https://open.spotify.com/track/31OzkljjiMk2xJzZBg23F8) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Cycles In Flux](https://open.spotify.com/album/3UXTCoH6FHAefHY03xApls) | 4:44 | 2022-01-21 | 2022-02-28 |

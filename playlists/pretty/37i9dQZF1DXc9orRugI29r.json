@@ -1,13 +1,29 @@
 {
   "description": "\u00a1No busques m\u00e1s! La m\u00fasica del momento est\u00e1 aqu\u00ed.",
-  "num_followers": 273825,
-  "original_name": "HOT NOW: Ricky Martin - \u00c1cido Sabor",
+  "num_followers": 273945,
+  "original_name": "HOT NOW: Lizzo - 2 Be Loved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzczMDA4MiwwMDAwMDJiNjAwMDAwMTgxZjg2OWE2ZjYwMDAwMDE4MWY0ZDY1MThl",
+  "snapshot_id": "MTY1Nzg2MTIwMCwwMDAwMDJiNzAwMDAwMTgyMDAzYTU4ZmEwMDAwMDE4MWY1MTBjYTQx",
   "tracks": [
+    {
+      "added_at": "2022-07-15 05:00:00",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
+    },
     {
       "added_at": "2022-07-13 16:00:00",
       "album": {
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-07-13 16:00:00",
       "album": {
-        "name": "Vegas (I Wanna Ride)",
-        "url": "https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa"
-      },
-      "artists": [
-        {
-          "name": "Joseline Hernandez",
-          "url": "https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn"
-        }
-      ],
-      "duration_ms": 220551,
-      "name": "Vegas (I Wanna Ride)",
-      "url": "https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5"
-    },
-    {
-      "added_at": "2022-07-13 16:00:00",
-      "album": {
         "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
       },
@@ -913,6 +913,6 @@
       "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
     }
   ],
-  "unique_name": "HOT NOW: Ricky Martin - \u00c1cido Sabor",
+  "unique_name": "HOT NOW: Lizzo - 2 Be Loved",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r"
 }

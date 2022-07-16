@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,166 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,175 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [What I Like About You \(feat\. Babyface\)](https://open.spotify.com/track/6dXihKQBlA4CxPJaoBycPk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Stronger Everyday](https://open.spotify.com/album/3jiSl9MNlxpIXoVN2gsCcA) | 4:25 |
 | 50 | [Tender Lover](https://open.spotify.com/track/00GfGwzlSB8DoA0cDP2Eit) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 4:19 |
 
-Snapshot ID: `Mjc2MzAyMzMsMDAwMDAwMDA5MjgzZWE4NzJhZGRiODFmM2ZmMzI3ZjEyYzVmMjAwMg==`
+Snapshot ID: `Mjc2MzE1ODMsMDAwMDAwMDBjMmYzNGU0Y2VlMjA3MTU3NjY0MWI2OWVhNmRkNmNmMg==`

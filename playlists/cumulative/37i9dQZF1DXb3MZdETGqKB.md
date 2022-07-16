@@ -2,9 +2,9 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: G\. Love
+> All new, all blues\. Cover: Dylan Triplett
 
-125 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+128 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,13 @@
 | [3AM in Chicago](https://open.spotify.com/track/5ojFJM8fhqK1Ktg69bPmPt) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [3AM in Chicago](https://open.spotify.com/album/23VUe5ASQwqXtLWhMQgTpe) | 3:36 | 2021-05-07 | 2022-05-07 |
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-03-25 |  |
 | [Alafia Moon](https://open.spotify.com/track/70E86POsODghwNfyN2Rgh4) | [Damon Fowler](https://open.spotify.com/artist/6dsP618YZjWbcMvxhvW1ug) | [Alafia Moon](https://open.spotify.com/album/1WGCbDWr7aLtgzursVE3pK) | 4:34 | 2021-03-12 | 2022-03-26 |
+| [All Night](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 | 2022-07-15 |  |
 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 | 2021-04-23 | 2022-05-07 |
 | [All Roads Are Good](https://open.spotify.com/track/5p0K8BNmVIBBycmUpIQ3bb) | [OPLIAM](https://open.spotify.com/artist/4vx5pLklP1r4WOGo1SA0DE) | [All Roads Are Good](https://open.spotify.com/album/7GeAo0kFkaE1Xm4S4FwCWj) | 3:02 | 2022-05-06 | 2022-06-19 |
 | [All She Said](https://open.spotify.com/track/2TxsGefsQkZlzHNh51jtUy) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [All She Said](https://open.spotify.com/album/0rJS9XfsgwXoJoMHNGiQp2) | 3:51 | 2022-03-04 |  |
 | [Angels](https://open.spotify.com/track/3aZpkDDCKbu9WqvnyuNGyn) | [Félix Rabin](https://open.spotify.com/artist/0xzQonoJ1bGbnjLLk26Xgu) | [Pogboy](https://open.spotify.com/album/0iqAkwpiPwem6AXPAAvGev) | 3:26 | 2021-02-05 | 2022-03-26 |
 | [Bad Habit](https://open.spotify.com/track/2aoIgKX0dPG0vHpxGlH8EM) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Bad Habit](https://open.spotify.com/album/246eXjbl54SNgcRACS4Ezb) | 2:44 | 2022-04-01 | 2022-06-19 |
+| [Barnyard Blues](https://open.spotify.com/track/6uHLEJBCQU5IQmjcWJcZcf) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/7aLKd7sUTw84sDLTTPpNs6) | 3:38 | 2022-07-15 |  |
 | [Be The Love You Want](https://open.spotify.com/track/5UAYqhxCxhZIL6A667eYBV) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Be The Love You Want](https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH) | 3:16 | 2021-08-30 | 2022-06-19 |
 | [Better Be Lonely](https://open.spotify.com/track/70EjHDvkFck4j5LZvVzt1Z) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Better Be Lonely](https://open.spotify.com/album/2k4PfJnRc2kv6o0V7i4J6P) | 3:40 | 2021-08-30 |  |
 | [Better Days](https://open.spotify.com/track/4XW0ZZJ2avabVMuHUkwonG) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Better Days](https://open.spotify.com/album/4cKtG81r37U4b3vDHxPxRo) | 4:34 | 2021-07-02 | 2022-06-25 |
@@ -89,6 +91,7 @@
 | [Please Take My Hand](https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Please Take My Hand](https://open.spotify.com/album/5Jc0eVKVekTtHt5rvZhVxv) | 3:03 | 2022-01-14 |  |
 | [Po'Boy](https://open.spotify.com/track/04ibCVdEfOcScBSwmAWAAN) | [Downsyde](https://open.spotify.com/artist/5IYhAFrGFVMdr7KONm9dy4), [Flewnt](https://open.spotify.com/artist/1Z7NTJcWCg7WUuVLVxK9SW), [Harts](https://open.spotify.com/artist/59l7wEof90AF2qIrpuQlLp) | [Po'Boy](https://open.spotify.com/album/3fsDoBxHUFylgxmNNNtzC3) | 3:55 | 2022-03-25 | 2022-06-19 |
 | [Practice What You Preach](https://open.spotify.com/track/1daAFUaK1bU26fuRSyQfs3) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Practice What You Preach](https://open.spotify.com/album/5FtVDZRzGwWzBqcsC0bmXf) | 2:45 | 2022-02-25 |  |
+| [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-15 |  |
 | [Rain Gonna Fall](https://open.spotify.com/track/2aRbqrv0y95UlmSFwE9832) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Rain Gonna Fall](https://open.spotify.com/album/2Zc0N5hjKfYTecNWMollgM) | 3:50 | 2021-02-05 | 2022-03-26 |
 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-02-18 | 2022-02-26 |
 | [Rollin' On](https://open.spotify.com/track/6ol3k9BqQi7tOX98KPnVPa) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Rollin' On](https://open.spotify.com/album/4MREwsWckfOXSbAjNd1c3N) | 5:08 | 2021-08-20 |  |

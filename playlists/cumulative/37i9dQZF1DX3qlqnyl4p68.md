@@ -4,7 +4,7 @@
 
 > Spooky sounds from your favorite horror features on Netflix.
 
-39 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
+40 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Locke & Key \- Main Titles](https://open.spotify.com/track/1Zjd1tlVgJQqauMsiyk3an) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/70imhSWOEIsbf9HREtSVbB) | 1:04 | 2021-10-25 |  |
 | [Looking for a Way Out](https://open.spotify.com/track/1yFypxjZLnu1ERv7kH5LFH) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:36 | 2021-10-25 |  |
 | [Main Titles](https://open.spotify.com/track/2JLs1ZuQ6htOgUdbPkG6X6) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Marcus Trumpp](https://open.spotify.com/artist/1O20rSPKDFrFpebGumaJ4k) | [Fear Street Part One: 1994 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/14lDfNBwgsWmU50wBXgeTM) | 2:07 | 2021-10-25 |  |
+| [My Heart Has Teeth \(feat\. Skylar Grey\)](https://open.spotify.com/track/5zIgxHl35DFqbWvUgr70tn) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Resident Evil \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4yFA6UYsl2PnSC8vHs35Cx) | 4:49 | 2022-07-15 |  |
 | [One Way Or Another](https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:37 | 2021-10-25 |  |
 | [Pink Soldiers](https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 0:38 | 2021-10-25 |  |
 | [Planck's Constant](https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:19 | 2021-10-25 |  |

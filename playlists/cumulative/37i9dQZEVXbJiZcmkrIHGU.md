@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,137 songs - 2 day 8 hr 50 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,138 songs - 2 day 8 hr 53 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-11-28 | 2021-12-29 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-06-02 |  |
 | [Feuer](https://open.spotify.com/track/6ael3WYGBlAi2IdVPdGNyc) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Feuer](https://open.spotify.com/album/3oo37C8cXWZDukRUrLKcNO) | 2:32 | 2021-10-03 | 2021-10-04 |
-| [Fick Dein Insta](https://open.spotify.com/track/5KpG5ymS3CjAzNqefeyB54) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Fick Dein Insta](https://open.spotify.com/album/6Tlmo9bMCQOyPLR1DIAU6p) | 3:00 | 2022-07-09 |  |
+| [Fick Dein Insta](https://open.spotify.com/track/5KpG5ymS3CjAzNqefeyB54) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Fick Dein Insta](https://open.spotify.com/album/6Tlmo9bMCQOyPLR1DIAU6p) | 3:00 | 2022-07-09 | 2022-07-16 |
 | [Filet Mignon](https://open.spotify.com/track/2ppyU1JWnDDYd6jV98swkI) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Filet Mignon](https://open.spotify.com/album/26RHnjJLKbsMhRlFZS8V7e) | 2:22 | 2021-08-08 | 2021-08-16 |
 | [Filmriss](https://open.spotify.com/track/1b3thE0t0BxzLqCuRkqKZE) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Rap über Hass](https://open.spotify.com/album/12MOBAZ9tzCaJpJbFYhqiy) | 2:35 | 2021-05-30 | 2021-06-01 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-08 | 2022-01-15 |
@@ -552,6 +552,7 @@
 | [Keine Pause](https://open.spotify.com/track/0BbXvSdwgIqXdz0PIol1w7) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Keine Pause](https://open.spotify.com/album/46R6dVN1hNeJov4F5X4hlj) | 2:49 | 2021-10-10 | 2021-10-17 |
 | [Keine Politik](https://open.spotify.com/track/4VTeWXkWwat94aeubbII0d) | [Kalazh44](https://open.spotify.com/artist/5sRQkVexJlax2iISuqL8cV), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [District 13](https://open.spotify.com/album/2csecWKo6xGgbDQYsiSpRz) | 2:23 | 2022-04-23 | 2022-04-25 |
 | [Keiner kann mich ficken!](https://open.spotify.com/track/0k0mscf6Wz9O9rIS3S42MX) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Sampler 5](https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG) | 2:11 | 2021-05-16 | 2021-05-17 |
+| [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-07-15 |  |
 | [KIDS FROM THE BLOCK](https://open.spotify.com/track/26hbmLeqiz8loWjFshsegF) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [KIDS FROM THE BLOCK](https://open.spotify.com/album/29usCRl97IbEQACNshGC5A) | 2:56 | 2021-04-11 | 2021-06-13 |
 | [KIDS FROM THE BLOCK](https://open.spotify.com/track/1PA74X8eXACUS8WnUF5IqI) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [AQUA](https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G) | 2:56 | 2021-07-04 | 2021-07-11 |
 | [KILL KILL](https://open.spotify.com/track/7o3GaH0I5jwxnb0fb3qMQU) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU), [Hell Yes](https://open.spotify.com/artist/3aIp7H1YPzCy4rvdi5Q7ez) | [KILL KILL](https://open.spotify.com/album/6Q94mC4PVr4xboHvegOXkx) | 2:15 | 2021-07-25 | 2021-07-27 |

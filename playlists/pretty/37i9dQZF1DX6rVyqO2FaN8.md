@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rVyqO2FaN8.md) - [plain]
 
 > Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Midland
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,748 likes - 117 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,881 likes - 117 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rVyqO2FaN8.md) - [plain]
 | 116 | [Cross Country](https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4) | 3:26 |
 | 117 | [I Bet You Think About Me \(feat\. Chris Stapleton\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:45 |
 
-Snapshot ID: `MTY1NzI1MjgwMCwwMDAwMDBiNjAwMDAwMTgxZGJmNmU2ZGIwMDAwMDE4MTFjMGMwZDRj`
+Snapshot ID: `MTY1Nzg1MjM3OSwwMDAwMDBiNzAwMDAwMTgxZmZiM2MxNzUwMDAwMDE4MTFjMGMwZDRj`

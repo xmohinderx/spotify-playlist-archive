@@ -2052,6 +2052,28 @@
     },
     {
       "album": {
+        "name": "Scream!",
+        "url": "https://open.spotify.com/album/0pQVnkYcd792GtHHAeHGwq"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Alison Limerick",
+          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274764,
+      "name": "Scream!",
+      "url": "https://open.spotify.com/track/1axoce2ootnHZJexnvtZlR"
+    },
+    {
+      "album": {
         "name": "Strawberry Mansion",
         "url": "https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt"
       },

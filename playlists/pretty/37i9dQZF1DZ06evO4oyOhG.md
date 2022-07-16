@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,688 likes - 39 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,701 likes - 39 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 38 | [Bibitto Love \-CHiCO bocchi version\-](https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Bibitto Love \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:54 |
 | 39 | [BGM \- Instrumental](https://open.spotify.com/track/0czSVq9GkW0rcghTgLaeDs) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Kessen Spirit](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
 
-Snapshot ID: `Mjc2MzAyMzMsMDAwMDAwMDBiNjVlODc1ZWU3OTg2MDVjY2Q5NDE4ZGUxYjc0OTdlNQ==`
+Snapshot ID: `Mjc2MzE1ODMsMDAwMDAwMDAyN2I1YzRjNjQ1YjE4M2ZkMmI0ZmMxMjc5OTM0M2ExNg==`

@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44488,
+  "num_followers": 44494,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTgxMyw3NDhkMmQ5NjQ1ZmQwNWI5N2Q3NjhjOThiY2U2Y2MzYmRjMDU0NzA1",
+  "snapshot_id": "NTgyMCwzOTljYzlhNTVmMGEyM2M0YjY1ZGM0NTNjODljOTZjYmYxZDYxOTE3",
   "tracks": [
+    {
+      "added_at": "2022-07-15 18:35:06",
+      "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/1sXFjmp3CPdtOCgyzd7Fve"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "duration_ms": 164765,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/4VyBfTg5LqHqB4tPLXbK0U"
+    },
+    {
+      "added_at": "2022-07-15 18:35:29",
+      "album": {
+        "name": "Vamos a Beber",
+        "url": "https://open.spotify.com/album/1wNNIHN5hLmdxWIPUkoffz"
+      },
+      "artists": [
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 194124,
+      "name": "Vamos a Beber",
+      "url": "https://open.spotify.com/track/6mc1TOxoCF9H4q7nvxjGyd"
+    },
     {
       "added_at": "2022-07-08 20:11:32",
       "album": {
@@ -147,22 +183,6 @@
       "duration_ms": 140701,
       "name": "Move It",
       "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
-    },
-    {
-      "added_at": "2022-06-09 00:34:41",
-      "album": {
-        "name": "How I Do It",
-        "url": "https://open.spotify.com/album/1M9bBhw0L43VhmhwksYYFo"
-      },
-      "artists": [
-        {
-          "name": "Ailow",
-          "url": "https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB"
-        }
-      ],
-      "duration_ms": 128503,
-      "name": "How I Do It",
-      "url": "https://open.spotify.com/track/333fbxlbE3rVYSp0OCkabS"
     },
     {
       "added_at": "2022-05-20 18:33:06",

@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Dabeull",
-  "num_followers": 260121,
+  "num_followers": 260351,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDA4NzAwMDAwMTgxYjdlYzM3NGQwMDAwMDE4MThiZjBmMTll",
+  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDA4ODAwMDAwMTgyMDAwNTNmMWQwMDAwMDE4MThiZjBmMTll",
   "tracks": [
     {
       "added_at": "2022-06-24 04:02:00",
@@ -27,6 +27,22 @@
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Operation Funk",
+        "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 276401,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -69,6 +85,22 @@
       "url": "https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6"
     },
     {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/14X6uVSMTSRi5k0SPTTkhw"
+      },
+      "artists": [
+        {
+          "name": "AJ McLean",
+          "url": "https://open.spotify.com/artist/5RFf1gyPc9lMOtCq2k6tLl"
+        }
+      ],
+      "duration_ms": 118857,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/3ksB5r2RBez5pI8ze6weIz"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Fly Like an Eagle (From 'Minions: The Rise of Gru' Soundtrack)",
@@ -83,6 +115,22 @@
       "duration_ms": 178309,
       "name": "Fly Like An Eagle - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/5hGbVwHALNW6aqlY6HmSDb"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Boys Don't Sob",
+        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
+      },
+      "artists": [
+        {
+          "name": "The Free Label",
+          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+        }
+      ],
+      "duration_ms": 176017,
+      "name": "Boys Don't Sob",
+      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -115,6 +163,22 @@
       "duration_ms": 222272,
       "name": "GOODTIME",
       "url": "https://open.spotify.com/track/34nfyP7ueTwzo08p1ALm31"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/0fOPYWlHgWRi8caKaiy30y"
+      },
+      "artists": [
+        {
+          "name": "Brian Robert Jones",
+          "url": "https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/40zIrmsbbjNBLm8s2bCUx3"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -343,26 +407,6 @@
       "duration_ms": 261402,
       "name": "Keep That Funk Alive",
       "url": "https://open.spotify.com/track/4Mt0kcLdmf349K7AiYREHo"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/5PZqmQFWD4UjHcBk27jA06"
-      },
-      "artists": [
-        {
-          "name": "Numb Tongues",
-          "url": "https://open.spotify.com/artist/4GjV45j15wL0sHVDNt3MO7"
-        },
-        {
-          "name": "Alexandra Willett",
-          "url": "https://open.spotify.com/artist/2Ch4UuvEp3AOtdISvdHjFX"
-        }
-      ],
-      "duration_ms": 265467,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/0MkeWj9a2eIdyEspwnCm1U"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1565,22 +1609,6 @@
       "url": "https://open.spotify.com/track/22G3GGfNEx4LMv5BYLkXad"
     },
     {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Best of Me",
-        "url": "https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 256989,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0654qpngLbRcjdIvgkhFhO"
-    },
-    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "Backstroke",
@@ -1667,22 +1695,6 @@
       "duration_ms": 254700,
       "name": "ooeeooeeoo",
       "url": "https://open.spotify.com/track/2MNeT5RzegP7L6yyzodOVs"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Shoot My Shot",
-        "url": "https://open.spotify.com/album/6XZimSaFBcnGbhKjBVm3vF"
-      },
-      "artists": [
-        {
-          "name": "The Philharmonik",
-          "url": "https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi"
-        }
-      ],
-      "duration_ms": 258055,
-      "name": "Shoot My Shot",
-      "url": "https://open.spotify.com/track/3GMh9TOiMjsojknjG9V2SJ"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1815,30 +1827,6 @@
       "duration_ms": 198783,
       "name": "July",
       "url": "https://open.spotify.com/track/0foMdHRYktOIfkmQ4LNcWq"
-    },
-    {
-      "added_at": "2021-05-07 04:01:00",
-      "album": {
-        "name": "Weekend Love",
-        "url": "https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Mike Nasa",
-          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
-        },
-        {
-          "name": "Dana Williams",
-          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "Weekend Love",
-      "url": "https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE"
     },
     {
       "added_at": "2021-03-05 05:01:00",

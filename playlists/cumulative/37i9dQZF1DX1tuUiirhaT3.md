@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-197 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+199 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Meditation: By The Stream](https://open.spotify.com/track/1XQ0gGJiVhKqdLf9uhO571) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Meditation Relaxation](https://open.spotify.com/album/0DC493rP2yoV43EMGaxnux) | 2:57 | 2021-12-17 |  |
 | [Meditation: Waves Pads](https://open.spotify.com/track/0giLrtDJbkxXJSqe6Xdo1v) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Spiritual Healing](https://open.spotify.com/album/09AjC4yhv87os7DbSAWlfL) | 2:40 | 2021-12-17 |  |
 | [Moments](https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Moments](https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs) | 3:24 | 2021-12-17 |  |
+| [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 | 2022-07-15 |  |
 | [Moonlight](https://open.spotify.com/track/6SG0JKsZDBmvzsTIREYqT3) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [Catalogue of Emotions](https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i) | 4:36 | 2021-12-17 |  |
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-03-18 |  |
 | [Morning Dove](https://open.spotify.com/track/20an22hQymQpGUXAc2liBS) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Songs in the Key of Earth, Vol\. 1](https://open.spotify.com/album/0TSj3QARPm9cNkEd6GyjbD) | 2:12 | 2021-12-17 |  |
@@ -159,6 +160,7 @@
 | [Second Stage](https://open.spotify.com/track/4vAjS0UPBAiWHziMB8lxuV) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [The Stages of Sleep](https://open.spotify.com/album/28lhpUZERoreJwS9KXI9Os) | 3:42 | 2021-12-17 |  |
 | [Secret Garden](https://open.spotify.com/track/5J3JVWp8y6lQxVvBZTuh1p) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Secret Garden](https://open.spotify.com/album/6s3bRbsI8pjlH5kEemB1FS) | 3:28 | 2021-12-17 |  |
 | [Selcouth](https://open.spotify.com/track/5NJqnJDQV6lFBeNfRu7Buq) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Selcouth](https://open.spotify.com/album/5sl7oD9uD1yWLzGjxVrnal) | 2:27 | 2021-12-17 |  |
+| [Self\-Healing, Vol\. 2 \- Pt\. 13 \(subliminal\)](https://open.spotify.com/track/26IT74ZDpOmplNGd68E1de) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Self\-Healing, Vol\. 2 \(42nd Anniversary Edition\)](https://open.spotify.com/album/1o4kAe5qOn2GXIOZ6vLZjD) | 4:31 | 2022-07-15 |  |
 | [Shiny Drops](https://open.spotify.com/track/4sv4mSEO8uVdXrkm8tErXL) | [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Vibrational States](https://open.spotify.com/album/2zxejdOhHvXcY832gLyU6L) | 2:03 | 2021-12-17 |  |
 | [Shoreline Waves](https://open.spotify.com/track/1AvYFqAsQjo2ZTg4S2GBA8) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Break Of Day](https://open.spotify.com/album/1xWwVHZmuwV9DJCRbR2Hlc) | 4:00 | 2021-12-17 |  |
 | [Silver Lining](https://open.spotify.com/track/18ASLynW0wviGgoxqceQNB) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Silver Lining](https://open.spotify.com/album/4xvs942AlHntixf72xQeSs) | 3:30 | 2021-12-17 |  |

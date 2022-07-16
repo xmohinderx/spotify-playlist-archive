@@ -4,12 +4,13 @@
 
 > ITZY? 있지! It'z ITZY Time!
 
-52 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/76GcwIMslZVncU8rkXyYVE)
+59 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/76GcwIMslZVncU8rkXyYVE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Twenty](https://open.spotify.com/track/3CTZlHDyGpbzNyRCsPbdMK) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 2:54 | 2022-04-20 |  |
 | [24HRS](https://open.spotify.com/track/14TxLhdCi8gfO49n7RT2W6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 2:07 | 2022-04-20 |  |
+| [365](https://open.spotify.com/track/0nV75BOrSyRuU11DtIhv0U) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 3:05 | 2022-07-15 |  |
 | [Always be your star](https://open.spotify.com/track/04uLMJFa1x21WX9J4QYF83) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Red Sleeve OST Part.9](https://open.spotify.com/album/5iPfEIz0ZnUL62v4ZkuizS) | 3:46 | 2022-04-20 |  |
 | [B\[OO\]M\-BOXX](https://open.spotify.com/track/7vf8wdpqIyBgbUd0We65hS) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:13 | 2022-04-20 |  |
 | [Be In Love](https://open.spotify.com/track/4arN86u5stNI1axzs27pAr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 3:20 | 2022-04-20 |  |
@@ -19,7 +20,9 @@
 | [DALLA DALLA \- DallasK Remix](https://open.spotify.com/track/2jqfCjRRmqaTBgiJpwCAV3) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:10 | 2022-04-20 |  |
 | [DALLA DALLA \- English Ver.](https://open.spotify.com/track/77QE9S59GeSHtkU7GRE5PV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/3cNffd0CRxT7nxYuq7PHfL) | 3:19 | 2022-04-20 |  |
 | [DALLA DALLA \- Japanese ver.](https://open.spotify.com/track/0OvHs9ccBYfv0447jwWTxr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 3:19 | 2022-04-20 |  |
+| [DOMINO](https://open.spotify.com/track/7smzqb09g7J735QwRb6WUp) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 3:06 | 2022-07-15 |  |
 | [Don’t Give A What](https://open.spotify.com/track/3tdKcnxykcmJcssYDGxoC2) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 3:16 | 2022-04-20 |  |
+| [Free Fall](https://open.spotify.com/track/0i9lsYuXfm13smNgSRmhFx) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 |  |
 | [Gas Me Up](https://open.spotify.com/track/6UcfMqiOGeA3koBW01SsFs) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 2:29 | 2022-04-20 |  |
 | [I DON’T WANNA DANCE](https://open.spotify.com/track/427ztPo5YDc2TgebnaFtgW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:09 | 2022-04-20 |  |
 | [ICY](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:11 | 2022-04-20 |  |
@@ -40,7 +43,10 @@
 | [Not Shy](https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 2:57 | 2022-04-20 |  |
 | [Not Shy \- English Ver.](https://open.spotify.com/track/7tEE2ICgZzdrCblRl7eLdV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/3cNffd0CRxT7nxYuq7PHfL) | 2:57 | 2022-04-20 |  |
 | [Not Shy \- Japanese ver.](https://open.spotify.com/track/0odXyiHUGaXGewarou0KV6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 2:57 | 2022-04-20 |  |
+| [RACER](https://open.spotify.com/track/7cY0T2qBQU9gKKD47lqpI0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 3:12 | 2022-07-15 |  |
 | [SHOOT!](https://open.spotify.com/track/11RRkvXd7FvwxLWvtuBIR1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:19 | 2022-04-20 |  |
+| [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 |  |
+| [SNEAKERS \- English Ver.](https://open.spotify.com/track/4JtAmFcrtdyYpruYS3tuv0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 |  |
 | [Sooo LUCKY](https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:22 | 2022-04-20 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/5QaqP49NaSt1geAPNgDxYE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 3:09 | 2022-04-20 |  |
 | [Spice](https://open.spotify.com/track/4mFwA8AtXjuriVlQiRyeWr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/6BhKPFeQDaBldGMl1vd28h) | 3:11 | 2022-04-20 |  |
@@ -57,6 +63,7 @@
 | [WANT IT?](https://open.spotify.com/track/2DvBbpZ9MjOQZs2HtN5Ake) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) | 3:20 | 2022-04-20 |  |
 | [WANT IT? \- Imad Royal Remix](https://open.spotify.com/track/56g54pCBLSGyjhAviQ6WWY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:27 | 2022-04-20 |  |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-04-20 |  |
+| [WHAT I WANT](https://open.spotify.com/track/2zs9JUIjwWkveqL7el19Aq) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:23 | 2022-07-15 |  |
 | [Wild Wild West](https://open.spotify.com/track/6oN3gPWl6ULGgq8EkslcBk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 3:23 | 2022-04-20 |  |
 | [YOU MAKE ME](https://open.spotify.com/track/5Hvr3JCRoAIKXDnXyg02OU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:03 | 2022-04-20 |  |
 | [달라달라 \(DALLA DALLA\)](https://open.spotify.com/track/0GU5GuJQQEnnREO2FxnVPT) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) | 3:19 | 2022-04-20 |  |

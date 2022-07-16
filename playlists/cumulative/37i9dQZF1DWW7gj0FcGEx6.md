@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-144 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+146 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Can People Change?](https://open.spotify.com/track/3AYs78JSa3FgmQxTtNyrQi) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 3:11 | 2022-06-17 | 2022-06-28 |
 | [Captain Jefferson](https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [News Of The World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc) | 2:06 | 2021-12-20 | 2022-07-09 |
 | [Caught By A Wave](https://open.spotify.com/track/54dPWaHFt8Vmxt4IA11Cos) | [Yakamoto Kotzuga](https://open.spotify.com/artist/22qhpajwD1PWjCwIuZcien) | [Caught By A Wave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02kfXQ7hVbDvavFDgX26di) | 2:32 | 2021-12-20 |  |
+| [Clothes From Miss Mabel \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/0rfaeL0QdlX5xMUjlPVTeD) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Where The Crawdads Sing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lQ5wsZNHhqbj3yZJ9wzD0) | 1:38 | 2022-07-15 |  |
 | [Come Back to Us](https://open.spotify.com/track/44sVQfPdCTGM5JLBRHUngc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 5:39 | 2021-12-20 | 2022-07-09 |
 | [Connection](https://open.spotify.com/track/083Q6YlKA2ncxHz8Wj2erS) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [All Together Now \(Music from the Netflix Film\)](https://open.spotify.com/album/7gEnFs5ctc7GewthNwU5hJ) | 2:19 | 2021-12-20 | 2022-07-09 |
 | [Crimes of the Future](https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Crimes of the Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KKkhpn8G1lPj6bmb1qMhe) | 2:10 | 2022-06-10 |  |
@@ -148,6 +149,7 @@
 | [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/2zFhqeicX665k6vGPeTeDW) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Video Games \(from "Westworld: Season 4"\)](https://open.spotify.com/album/6Cv0IrQKQ7DQdl7PuykFdk) | 3:52 | 2022-07-01 |  |
 | [Waltz In F Major](https://open.spotify.com/track/28WUfHlQ8KRdcsKVufwa3Z) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Wolfgang Köhler](https://open.spotify.com/artist/1trugwgFZZlth3e6joLLNa), [Bene Aperdannier](https://open.spotify.com/artist/4Fng7TS6u0rz389XQciiQY) | [Pieces Of A Woman \(Music From The Netflix Film\)](https://open.spotify.com/album/4J7BlA688EifZvL91Dl5zs) | 2:11 | 2021-12-20 | 2022-07-09 |
 | [We Have a Voice Now](https://open.spotify.com/track/5Pw9LANvY864RneyP8uBUj) | [Jeff Beal](https://open.spotify.com/artist/4J71DltC2dxSTBO9kq14zS) | [Athlete A \(Music from the Netflix Documentary\)](https://open.spotify.com/album/6E1Of02DeUErt3qhGikmK1) | 3:05 | 2021-12-20 | 2022-07-09 |
+| [We Will Heal](https://open.spotify.com/track/0602EuPn3xAfSaX0Mz2IAE) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [She Will \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42OuXan0cgtOZsYZlFSXD5) | 3:27 | 2022-07-15 |  |
 | [Wedding Day](https://open.spotify.com/track/6FdZa2ipXEDOd6Hw3wE3r6) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Windfall \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/69e7XDQqWy86rMvK7dkBi1) | 2:02 | 2022-06-10 |  |
 | [Wicked Games](https://open.spotify.com/track/0FXSdzre3I9GaBB444umzh) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Wicked Games \(From Westworld: Season 3\)](https://open.spotify.com/album/1raeE4103hULnR9XjAUhzF) | 5:31 | 2021-12-20 | 2022-07-09 |
 | [Xu Shang\-Chi](https://open.spotify.com/track/0U1X5zc0wvbT6C3YQEpK0q) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 2:55 | 2021-12-20 |  |

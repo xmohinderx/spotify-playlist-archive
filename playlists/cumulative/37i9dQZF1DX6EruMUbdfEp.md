@@ -4,7 +4,7 @@
 
 > Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! / 音楽で辿る、2009年放送開始のアニメ「鋼の錬金術師 FULLMETAL ALCHEMIST」の世界。<a href="https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv?si=476b380d14f24147">鋼の錬金術師</a>\(2003年放送開始\)はこちら\(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
 
-107 songs - 4 hr 26 min - not published yet
+107 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/56q2JkbxLF9bSOmHBm1GJS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

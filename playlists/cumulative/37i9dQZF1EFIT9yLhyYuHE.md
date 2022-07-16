@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
+51 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [All Your Kisses](https://open.spotify.com/track/0WnqVkeUxgbi8A1DchJx9o) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses](https://open.spotify.com/album/7AEzkVcSRLqyDwC2m39sPx) | 2:41 | 2022-05-29 |  |
 | [Amplify](https://open.spotify.com/track/5I0esgCIo8V9qHamLPOErr) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [Amplify](https://open.spotify.com/album/1inKeG9SJ3NX8KZE1dpQVT) | 3:51 | 2022-05-29 | 2022-07-07 |
 | [Amplify](https://open.spotify.com/track/1NPMjz6Dmg5kQZU5FM8hLI) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [A Fool for Love](https://open.spotify.com/album/2Sn0PHXNQ1Lt50QU8LdIKw) | 4:02 | 2022-07-06 |  |
-| [Antibodies](https://open.spotify.com/track/2kEvC6w9wRf96llW9sJrRU) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [L.A.](https://open.spotify.com/album/3IoL5TIdSTdVrZTPZ6OjVM) | 3:20 | 2022-05-29 |  |
+| [Antibodies](https://open.spotify.com/track/2kEvC6w9wRf96llW9sJrRU) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [L.A.](https://open.spotify.com/album/3IoL5TIdSTdVrZTPZ6OjVM) | 3:20 | 2022-05-29 | 2022-07-16 |
+| [Antibodies \- LP Giobbi Remix](https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Antibodies](https://open.spotify.com/album/4hAoKf5xkhdK0myoWXKQgS) | 5:12 | 2022-07-15 |  |
 | [Bad Habit](https://open.spotify.com/track/0CEr4FjLrq3rXGOX3QpL2O) | [Michael Amani](https://open.spotify.com/artist/2NXXWnN62QbWBGoHCyKrTn) | [Bad Habit](https://open.spotify.com/album/5fLCMpxPwZk9au9gtZbqmf) | 2:28 | 2022-05-29 |  |
 | [Beautiful Day](https://open.spotify.com/track/66wc1L7gytArP1Djm4AHfB) | [Navarra](https://open.spotify.com/artist/0sicYxfFEHrVTYM4BjOvFA), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Beautiful Day](https://open.spotify.com/album/4SlcKMw18CQGyMAUPvQ00t) | 3:38 | 2022-05-29 |  |
 | [Change For The Better](https://open.spotify.com/track/0X0gfZVgyKJfAn1RUAEwOR) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8), [Jonas Brøg](https://open.spotify.com/artist/1xm9hG6S5fxyaUIhyGcEw3) | [Change For The Better](https://open.spotify.com/album/0KLp4ga9TmVQgYHxCIIk7P) | 2:18 | 2022-05-29 |  |

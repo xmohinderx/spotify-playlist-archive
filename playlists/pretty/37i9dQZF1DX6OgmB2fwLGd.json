@@ -1,13 +1,37 @@
 {
   "description": "\"Hey bel, la bastichi. La papaya, du la potato\" Cover: Minions",
-  "num_followers": 1153950,
+  "num_followers": 1155350,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzY1MzM5OSwwMDAwMDM0ZDAwMDAwMTgxZjNkNzhlNTgwMDAwMDE4MWQ5MGVhNTRj",
+  "snapshot_id": "MTY1Nzg1NzY2MCwwMDAwMDM0ZTAwMDAwMTgyMDAwNDU1MjYwMDAwMDE4MWQ5MGVhNTRj",
   "tracks": [
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Abhi Vs Kato",
+        "url": "https://open.spotify.com/album/7x2mennGJ74CsnR6YMyZqy"
+      },
+      "artists": [
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        },
+        {
+          "name": "Kato On The Track",
+          "url": "https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "Boppin",
+      "url": "https://open.spotify.com/track/1ZDP9FNfY3we4AzOxMj3vZ"
+    },
     {
       "added_at": "2022-06-29 19:04:13",
       "album": {
@@ -25,20 +49,40 @@
       "url": "https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b"
     },
     {
-      "added_at": "2022-07-07 19:53:43",
+      "added_at": "2022-06-28 15:26:13",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8"
+        "name": "Bustdown Rollie Avalanche",
+        "url": "https://open.spotify.com/album/4q1uibZPEdwaj7Ha9F5lOJ"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Kai Cenat",
+          "url": "https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 135419,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl"
+      "duration_ms": 165743,
+      "name": "Bustdown Rollie Avalanche",
+      "url": "https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Lil Boat",
+        "url": "https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 243269,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip"
     },
     {
       "added_at": "2022-06-17 17:10:01",
@@ -93,26 +137,6 @@
       "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
     },
     {
-      "added_at": "2022-06-28 15:26:13",
-      "album": {
-        "name": "Bustdown Rollie Avalanche",
-        "url": "https://open.spotify.com/album/4q1uibZPEdwaj7Ha9F5lOJ"
-      },
-      "artists": [
-        {
-          "name": "Kai Cenat",
-          "url": "https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 165743,
-      "name": "Bustdown Rollie Avalanche",
-      "url": "https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA"
-    },
-    {
       "added_at": "2022-06-17 17:10:01",
       "album": {
         "name": "Betty (Get Money)",
@@ -127,6 +151,22 @@
       "duration_ms": 146470,
       "name": "Betty (Get Money)",
       "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Cap Freestyle",
+        "url": "https://open.spotify.com/album/7fweiD7TX7zUeIA88eaaEX"
+      },
+      "artists": [
+        {
+          "name": "Lil Man J",
+          "url": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H"
+        }
+      ],
+      "duration_ms": 153155,
+      "name": "Cap Freestyle",
+      "url": "https://open.spotify.com/track/6ye5dPKpw2OZz0IRUuMbc4"
     },
     {
       "added_at": "2022-07-12 19:16:39",
@@ -297,6 +337,22 @@
       "url": "https://open.spotify.com/track/4NwPP9NVYwY5jc66hnaOls"
     },
     {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 193234,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
+    },
+    {
       "added_at": "2022-06-24 05:22:00",
       "album": {
         "name": "THROUGH 2 U",
@@ -315,6 +371,22 @@
       "duration_ms": 161963,
       "name": "THROUGH 2 U",
       "url": "https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP"
+    },
+    {
+      "added_at": "2022-07-07 19:53:43",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 135419,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl"
     },
     {
       "added_at": "2022-06-17 17:10:01",
@@ -383,6 +455,22 @@
       "duration_ms": 177731,
       "name": "Step 1 (with Offset)",
       "url": "https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "DO NOT KNOW YOU",
+        "url": "https://open.spotify.com/album/5O4I4RUSGTurL6VKPCMeJJ"
+      },
+      "artists": [
+        {
+          "name": "lil Shordie Scott",
+          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
+        }
+      ],
+      "duration_ms": 120053,
+      "name": "DO NOT KNOW YOU",
+      "url": "https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc"
     },
     {
       "added_at": "2022-07-01 09:18:00",
@@ -1099,22 +1187,6 @@
     {
       "added_at": "2022-06-17 17:10:01",
       "album": {
-        "name": "FREELANCE",
-        "url": "https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz"
-      },
-      "artists": [
-        {
-          "name": "Ben Reilly",
-          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
-        }
-      ],
-      "duration_ms": 165550,
-      "name": "Maytag (Tax Free)",
-      "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
         "name": "Fly By",
         "url": "https://open.spotify.com/album/3YrxOKDzXJnDdevVIgnEJ3"
       },
@@ -1127,22 +1199,6 @@
       "duration_ms": 96839,
       "name": "Fly By",
       "url": "https://open.spotify.com/track/6MtKPVlt0AKVj3ZdQFHkqJ"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "Everything!",
-        "url": "https://open.spotify.com/album/6NMTe06b37vGpok8LGT0Rd"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Everything!",
-      "url": "https://open.spotify.com/track/31NiKq79oMhpyjc2R9Ggbg"
     },
     {
       "added_at": "2022-06-17 17:10:01",
@@ -1623,26 +1679,6 @@
     {
       "added_at": "2022-06-17 17:10:01",
       "album": {
-        "name": "Daytona",
-        "url": "https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa"
-      },
-      "artists": [
-        {
-          "name": "Barely Legal",
-          "url": "https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol"
-        },
-        {
-          "name": "Jay Browne",
-          "url": "https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Dat Way",
-      "url": "https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
         "name": "IN DIMES WE TRUST",
         "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
       },
@@ -1711,22 +1747,6 @@
     {
       "added_at": "2022-06-17 17:10:01",
       "album": {
-        "name": "Succubus",
-        "url": "https://open.spotify.com/album/4jFHzc3Tv8JKuTeCOr6vlQ"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Succubus",
-      "url": "https://open.spotify.com/track/2genk7x5jA1HtrEZFTkeNZ"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
         "name": "Megatron",
         "url": "https://open.spotify.com/album/02OJapNdO1Dd4sGCbKVSiX"
       },
@@ -1755,22 +1775,6 @@
       "duration_ms": 174915,
       "name": "HOME",
       "url": "https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "middle",
-        "url": "https://open.spotify.com/album/1C8prJTb4QpG6J5Vjr9li6"
-      },
-      "artists": [
-        {
-          "name": "dashie",
-          "url": "https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl"
-        }
-      ],
-      "duration_ms": 142329,
-      "name": "middle",
-      "url": "https://open.spotify.com/track/2F8YuzhSMZHq1rKv3VgnRb"
     }
   ],
   "unique_name": "Internet People",

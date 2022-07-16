@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/7ghv2N51bQG2GegOqLwjpm"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231526,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/6YdoHXpaoC41PACP5q6VSu"
+    },
+    {
+      "album": {
         "name": "How Far Will I Go",
         "url": "https://open.spotify.com/album/01dPukYevifXCAoCg1iLP3"
       },

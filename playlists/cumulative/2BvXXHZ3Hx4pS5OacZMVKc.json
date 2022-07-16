@@ -422,6 +422,28 @@
     },
     {
       "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH"
+      },
+      "artists": [
+        {
+          "name": "RDLS",
+          "url": "https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H"
+        },
+        {
+          "name": "Facading",
+          "url": "https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam"
+    },
+    {
+      "album": {
         "name": "COME UP",
         "url": "https://open.spotify.com/album/1X7PhPmeliA1DkbMjWJqct"
       },

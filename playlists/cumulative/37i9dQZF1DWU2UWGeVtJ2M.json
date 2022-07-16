@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 207781,
       "name": "1000 Scars",
       "url": "https://open.spotify.com/track/0Sf4rStnY3H87N9kD1jFaD"
@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Break Me.",
+        "url": "https://open.spotify.com/album/7uuSPVQe5FKPQruNG9sClB"
+      },
+      "artists": [
+        {
+          "name": "Mood.",
+          "url": "https://open.spotify.com/artist/3C6yGCM7b8QAjs1fTrEguw"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185609,
+      "name": "Break Me.",
+      "url": "https://open.spotify.com/track/3XmIJ09BsBdqeDPxYcu3m3"
+    },
+    {
+      "album": {
         "name": "Breakup Season (feat. Samm Henshaw)",
         "url": "https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz"
       },
@@ -521,7 +539,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 183222,
       "name": "circle of feelings",
       "url": "https://open.spotify.com/track/0Zr57tyrXXfbnjejbNWwfg"
@@ -609,10 +627,28 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 143076,
       "name": "Cold (2 AM)",
       "url": "https://open.spotify.com/track/56ZMz7ERZ7NwLOqDtdsTlq"
+    },
+    {
+      "album": {
+        "name": "Complexion",
+        "url": "https://open.spotify.com/album/6mLbfA9FOK4gnbcdXD0Mr6"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189038,
+      "name": "Complexion",
+      "url": "https://open.spotify.com/track/2nQtfIkK3eE4SQiaUfAgd5"
     },
     {
       "album": {
@@ -699,7 +735,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 149678,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/1ZD9gnpU4yex0ZLSpcG1Ub"
@@ -949,7 +985,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 245840,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/1eoC1H5GBM9IikwdHxsdhJ"
@@ -1087,7 +1123,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 203482,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/4Ee6U7RE2UlASqfb2s4MDv"
@@ -1123,7 +1159,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 171701,
       "name": "Heart of Mine",
       "url": "https://open.spotify.com/track/4HJwDpcBcr8CcuPED5UunP"
@@ -1403,7 +1439,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 214010,
       "name": "Inconclusive",
       "url": "https://open.spotify.com/track/36eL5WspHbKllchxJNyA6B"
@@ -1421,7 +1457,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 168906,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
@@ -1457,7 +1493,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 115119,
       "name": "Late (Again)",
       "url": "https://open.spotify.com/track/0aj8PtJlkBz7Dbp1Yx0w9f"
@@ -1515,7 +1551,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "letsnotcallitlove",
       "url": "https://open.spotify.com/track/0XwKXTgwaoh9Tr41AAm4kh"
@@ -1569,7 +1605,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 220577,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/13RpoUelvsqdFyUUqZfxwo"
@@ -1623,7 +1659,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 172941,
       "name": "lucid dreaming",
       "url": "https://open.spotify.com/track/152hTttqi4LSGHUZK5Q0qS"
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 214210,
       "name": "Medicate",
       "url": "https://open.spotify.com/track/3tDkSfjREVdnz1pXMUo2jK"
@@ -1753,7 +1789,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 169386,
       "name": "Moments",
       "url": "https://open.spotify.com/track/1AVL7qGcVJUOcfUdzpKbWa"
@@ -1801,7 +1837,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "More",
       "url": "https://open.spotify.com/track/6tsmt6CZClKqODnIhhl9Rb"
@@ -2023,7 +2059,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "One Conversation",
       "url": "https://open.spotify.com/track/0SGZVoQsEuOeEeKaeQpoZt"
@@ -2095,7 +2131,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 145333,
       "name": "Precious",
       "url": "https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F"
@@ -2283,7 +2319,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 213600,
       "name": "Say It",
       "url": "https://open.spotify.com/track/1ZbH2WzZhjiODZfsX2raPz"
@@ -2395,7 +2431,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 197098,
       "name": "The Space Between Us",
       "url": "https://open.spotify.com/track/6OLWjfBXWoGS5ft8IFzcjq"
@@ -2471,7 +2507,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 133611,
       "name": "Tied Up",
       "url": "https://open.spotify.com/track/0e5HHaTo0FUJM1Kef2F5b5"
@@ -2511,7 +2547,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey"
@@ -2733,7 +2769,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 207157,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/4jIa3kabSPNY0oOy3Hs9P6"
@@ -2769,7 +2805,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 226113,
       "name": "Wrong Place, Wrong Time",
       "url": "https://open.spotify.com/track/4aMcU2HPB7pBQxdBCMReSt"
@@ -2787,7 +2823,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 72741,
       "name": "yellow",
       "url": "https://open.spotify.com/track/0qstnaL14EV0e8TDgHA0kL"
@@ -2839,7 +2875,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 186352,
       "name": "Youth",
       "url": "https://open.spotify.com/track/5Q2GxbKxY3tTdTg6T3yVJB"

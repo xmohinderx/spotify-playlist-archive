@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist.
 
-211 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+212 songs - 14 hr 36 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Concrete and Sand](https://open.spotify.com/track/4vkPlw019TRBdV0aPsTz4E) | [JumpCircus](https://open.spotify.com/artist/7d9bjvv9XpbR6qewAWcP4v), [Kita Klane](https://open.spotify.com/artist/0Tlkht07qHq3A0QeI3TerA) | [Concrete and Sand](https://open.spotify.com/album/35W96deAET0orM2AjFOdgG) | 4:05 | 2019-09-29\* | 2020-01-17 |
 | [Cooperstown](https://open.spotify.com/track/0qqVJpwWzbNQzg1GyMqCX3) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [Yonder Is The Clock](https://open.spotify.com/album/4XLwMmgcC0cGQ2lDziGaDa) | 6:13 | 2020-08-30 | 2020-09-11 |
 | [Corpses](https://open.spotify.com/track/1xfSkmFILeXIXalVyFU5OB) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Shape of Silence](https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W) | 4:30 | 2019-09-29\* | 2022-04-10 |
-| [dad](https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [dad](https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ) | 3:12 | 2022-04-01 |  |
+| [dad](https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [dad](https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ) | 3:12 | 2022-04-01 | 2022-07-16 |
 | [Demand It](https://open.spotify.com/track/2AuugcWwwlDCjUU5JcbDcD) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Wildly Idle \(Humble Before the Void\)](https://open.spotify.com/album/6U8MP9A9MF2fTdFRf0RTr1) | 5:01 | 2020-08-30 | 2020-09-11 |
 | [Devil That I Know](https://open.spotify.com/track/7bkxJOCyc7dQyQQrOcwXdF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Devil That I Know](https://open.spotify.com/album/3OR56niCd9ULFGRhBsZBn3) | 2:50 | 2020-10-14 | 2022-04-10 |
 | [Dick Cheney](https://open.spotify.com/track/1WXWUnvXJreNdQjydRoD7H) | [Vic Chesnutt](https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H) | [Skitter On Take\-Off](https://open.spotify.com/album/0mIKLkym8IE6zoJmuk4Y9N) | 3:18 | 2020-08-30 | 2020-09-11 |
@@ -194,6 +194,7 @@
 | [Tomb](https://open.spotify.com/track/6ZYy5Z5E03reWlt3hZuvXn) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/5OaRF9FbwGlSeAO5QZBBOa) | 4:18 | 2019-09-29\* |  |
 | [Touch](https://open.spotify.com/track/1VXm7mZBHT9PYav9LGWQlQ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/1DBhAwtUFlYxCI5U4NQI6i) | 4:52 | 2019-10-26 |  |
 | [Trouble In Mind](https://open.spotify.com/track/6lBgS6zFG9SwtsFG0Og1uV) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Here He Comes Again!](https://open.spotify.com/album/5z8pAIltT7S7aH4r4Tpq2d) | 2:32 | 2020-08-30 | 2020-09-11 |
+| [Twilight](https://open.spotify.com/track/5YoR2agiVdBpuAuW9PvgKD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:29 | 2022-07-15 |  |
 | [Two Weeks Since You've Gone](https://open.spotify.com/track/5ljpyeiIsS4jox4B0CiJb6) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 2:44 | 2020-08-30 | 2020-09-11 |
 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 | 2020-07-01 | 2022-05-03 |
 | [Used To Be Lonely](https://open.spotify.com/track/0jWKeM9GbmR1tG6yLP2wX2) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/2tEnM0jAnGCfNvrhVVVZ3h) | 3:48 | 2019-09-29\* | 2020-03-07 |

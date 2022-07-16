@@ -48,6 +48,28 @@
     },
     {
       "album": {
+        "name": "Ahl Aleshg",
+        "url": "https://open.spotify.com/album/5RBewkiAhunvGKOaqvl6t2"
+      },
+      "artists": [
+        {
+          "name": "Kadim Al Sahir",
+          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
+        },
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348794,
+      "name": "Ahl Aleshg",
+      "url": "https://open.spotify.com/track/44tJDmoFxmtbbZFiTyJ63a"
+    },
+    {
+      "album": {
         "name": "Ahla Watan",
         "url": "https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2"
       },
@@ -395,7 +417,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 253676,
       "name": "Kheira",
       "url": "https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS"

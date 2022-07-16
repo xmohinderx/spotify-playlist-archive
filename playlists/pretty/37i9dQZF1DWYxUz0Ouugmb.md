@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: raissa anggiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,806 likes - 33 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,812 likes - 33 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 10 | [W \(with yvngxchris\)](https://open.spotify.com/track/4pFkivUXTiGcEQS4dfcVc6) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [W \(with yvngxchris\)](https://open.spotify.com/album/6wWt12ueB7BwQJS0OcuoHZ) | 2:31 |
 | 11 | [I Beg](https://open.spotify.com/track/48r2oRtw3RSOZHnuQFWZWb) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [I Beg](https://open.spotify.com/album/4GskNwqLX1y2uHhL73JH9j) | 2:52 |
 | 12 | [Terlalu Sayang](https://open.spotify.com/track/4shyP6S00jyjHZZz9oRs7b) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Terlalu Sayang](https://open.spotify.com/album/4BvjQGyatE1Y4jmNgwAn3A) | 4:04 |
-| 13 | [goodbye \(but i love you so\)](https://open.spotify.com/track/11m4b4pLPkjREaA4p9CQGR) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [goodbye \(but i love you so\)](https://open.spotify.com/album/7cPgBJ1xi3QLgeLNtcDsmu) | 3:21 |
+| 13 | [goodbye \(but i love you so\)](https://open.spotify.com/track/11m4b4pLPkjREaA4p9CQGR) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [goodbye \(but i love you so\)](https://open.spotify.com/album/7cPgBJ1xi3QLgeLNtcDsmu) | 3:22 |
 | 14 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 |
 | 15 | [Semoga Sembuh](https://open.spotify.com/track/4xEcTICXVeJMelJJya2IXR) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq), [Ezra Mandira](https://open.spotify.com/artist/65TmVa8KZPj1UgvqZUuHqJ) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 3:55 |
 | 16 | [Itu Kamu](https://open.spotify.com/track/3qGkwkxr7N2VfFf3fImq0x) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Itu Kamu](https://open.spotify.com/album/6Xl8CANrPQXIALJB1W2aNG) | 4:07 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 19 | [RUNAWAY W ME](https://open.spotify.com/track/7pzfaLBUK9WvVT2ageCLZ5) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [RUNAWAY W ME](https://open.spotify.com/album/0e5zw8a0EjqapZqc7Fkmv4) | 3:01 |
 | 20 | [In Situ](https://open.spotify.com/track/6pNdQ1iQsK2z3nJeWoU7Ba) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [In Situ](https://open.spotify.com/album/54ku7s6zlpt1KoTR8raxp6) | 3:45 |
 | 21 | [Rela](https://open.spotify.com/track/1azXDEz0VyJzPUfjq3dxJZ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Rela](https://open.spotify.com/album/3pAIePTL43Po9BwgPJn2m0) | 3:59 |
-| 22 | [i've always loved you](https://open.spotify.com/track/0zB7FqXYqlcjYy2Zclz5r4) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [i've always loved you](https://open.spotify.com/album/558Ysrewk0x3CMG2DozIkF) | 5:08 |
+| 22 | [i've always loved you](https://open.spotify.com/track/0zB7FqXYqlcjYy2Zclz5r4) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [i've always loved you](https://open.spotify.com/album/558Ysrewk0x3CMG2DozIkF) | 5:12 |
 | 23 | [Tarik Ulur](https://open.spotify.com/track/7HBnW7E26egSo7p7DWs9XH) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Tarik Ulur](https://open.spotify.com/album/3nOtvP5lymtIrN6UT4M3kC) | 3:41 |
 | 24 | [Berlagak Bahagia](https://open.spotify.com/track/2H3Cb56ZSByWF0bX9LyTqI) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 4:00 |
 | 25 | [Aku Kamu Yang Lain](https://open.spotify.com/track/2v3asiNSERjr0e9N37O62z) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/7tWVynEyRLO8eGVrkXl64l) | 3:35 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 32 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 |
 | 33 | [everytime we fall](https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [everytime we fall](https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ) | 3:09 |
 
-Snapshot ID: `MTY1Nzg0ODA0MCwwMDAwMDAwMGY4YzlkMzkyZTU0MDIzY2Y3MzJlOGZlN2ZhZWJlZGRl`
+Snapshot ID: `MTY1NzkzNDA2NCwwMDAwMDAwMGY4YzlkMzkyZTU0MDIzY2Y3MzJlOGZlN2ZhZWJlZGRl`

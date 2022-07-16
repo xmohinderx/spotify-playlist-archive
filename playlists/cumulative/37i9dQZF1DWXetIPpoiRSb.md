@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Ellie Goulding
 
-782 songs - 1 day 15 hr 35 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
+783 songs - 1 day 15 hr 37 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Anybody But You](https://open.spotify.com/track/67SY2X4lUKzFhVbE1TONiE) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Anybody But You](https://open.spotify.com/album/6qqrYgpBQyY3THNdWdAqSh) | 2:36 | 2021-04-03 | 2021-06-05 |
 | [Apricots](https://open.spotify.com/track/4x8WXoZxlAF5EOCLLcTKQ3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw) | 3:12 | 2020-10-13\* | 2021-02-06 |
 | [Arcade \(feat\. FLETCHER\)](https://open.spotify.com/track/1LaSuvCbVB87ANKGfjUTbh) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Arcade \(feat\. FLETCHER\)](https://open.spotify.com/album/6bm9QRIdbRMjsrSNVzj9E0) | 3:07 | 2020-11-28 | 2021-02-26 |
+| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-14 |  |
 | [as long as i have you](https://open.spotify.com/track/01TtrmZEiYitpwDUcPQ6dj) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [as long as i have you](https://open.spotify.com/album/2cSD5WNOxWrEBzfTQUFsh9) | 2:42 | 2021-06-05 | 2021-07-10 |
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-08 | 2021-07-17 |
 | [At My Worst](https://open.spotify.com/track/2tI4WyzqOOwC23S5m0kqcB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [At My Worst \(Joel Corry Remix\)](https://open.spotify.com/album/3dygrCny9zRwSODkRGXV8U) | 2:50 | 2021-01-09 | 2021-04-17 |

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 271741,
       "name": "1984",
       "url": "https://open.spotify.com/track/3fj0DAZAGzvwG1Qj59Q8eO"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 188182,
       "name": "Between Me and the Devil",
       "url": "https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 190893,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Catch Me If You Can (feat. Chris Robertson)",
       "url": "https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be"
@@ -326,6 +326,24 @@
     },
     {
       "album": {
+        "name": "Corner Store",
+        "url": "https://open.spotify.com/album/1CvLJhUtVluGc4ujgPbEQb"
+      },
+      "artists": [
+        {
+          "name": "Ries Brothers",
+          "url": "https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163317,
+      "name": "Corner Store",
+      "url": "https://open.spotify.com/track/5IwNIDv4zcC3jCbVIOFYvU"
+    },
+    {
+      "album": {
         "name": "Crawling Kingsnake",
         "url": "https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL"
       },
@@ -373,7 +391,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
@@ -481,7 +499,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 375240,
       "name": "Go Away Satan",
       "url": "https://open.spotify.com/track/1mdLQR5E86HLziKr6gHV96"
@@ -661,7 +679,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 191903,
       "name": "I Know Who You Are",
       "url": "https://open.spotify.com/track/0VIcEmhGQ13EnZoIKlw89a"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 193986,
       "name": "Light Of The Moon",
       "url": "https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 203720,
       "name": "Love and Devotion",
       "url": "https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 243697,
       "name": "One Way Out",
       "url": "https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 221733,
       "name": "Roll Bones",
       "url": "https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 218016,
       "name": "Rubberband",
       "url": "https://open.spotify.com/track/597NMs0QRqHKrkj5e8pvHH"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 131015,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 217124,
       "name": "Still Alive and Well",
       "url": "https://open.spotify.com/track/72sihXI4EcZjbbnoo2yyHQ"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"

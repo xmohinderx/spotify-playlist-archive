@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Terence Etc.",
+  "description": "New jazz for open minds. Cover: Katalyst",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 392733,
       "name": "1000 Miles",
       "url": "https://open.spotify.com/track/3zHj95jG2nq5803pblKcnJ"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 268626,
       "name": "Auditorium",
       "url": "https://open.spotify.com/track/2DPEXrjPvhTMD30TqMOzRs"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 356291,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/4DFUpuRIkE3BjXdLuzK9mY"
@@ -1587,6 +1587,28 @@
       "duration_ms": 447053,
       "name": "Deep Dive Down",
       "url": "https://open.spotify.com/track/7JI4thi0ETxiNzVPlBAZXg"
+    },
+    {
+      "album": {
+        "name": "Dervish Remixed",
+        "url": "https://open.spotify.com/album/0y6312h2vco5VN3C7Z2BTb"
+      },
+      "artists": [
+        {
+          "name": "Ill Considered",
+          "url": "https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO"
+        },
+        {
+          "name": "Julia Biel",
+          "url": "https://open.spotify.com/artist/0yVDB69ZMFp6w9iSKXz4J9"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "Dervish - Idris & Julia Remix",
+      "url": "https://open.spotify.com/track/6CKBpYKyff5HwENH5hdXEZ"
     },
     {
       "album": {
@@ -1679,6 +1701,36 @@
       "duration_ms": 545719,
       "name": "Dirty Mindz (feat. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock)",
       "url": "https://open.spotify.com/track/2LPvgbWHHy7evKFvqGh1yI"
+    },
+    {
+      "album": {
+        "name": "Disco Ears (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+        "url": "https://open.spotify.com/album/7Ap2OaWDDDCUNDSPQ896b1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381160,
+      "name": "Disco Ears",
+      "url": "https://open.spotify.com/track/1gV8QrtNcbTpOim6EE6qza"
     },
     {
       "album": {
@@ -2019,6 +2071,24 @@
       "duration_ms": 205928,
       "name": "Epoca",
       "url": "https://open.spotify.com/track/2BkAmulEiKR12DmygIv1Wq"
+    },
+    {
+      "album": {
+        "name": "Moons of Jupiter",
+        "url": "https://open.spotify.com/album/7IAifMkFqPcZQCXlWVoZr8"
+      },
+      "artists": [
+        {
+          "name": "Daylight Robbery!",
+          "url": "https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227226,
+      "name": "Ersa",
+      "url": "https://open.spotify.com/track/58uJDaRq9rbHONQWIeBOTr"
     },
     {
       "album": {
@@ -3199,7 +3269,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 367146,
       "name": "In Tense",
       "url": "https://open.spotify.com/track/2qpyrz2kv2VawTwTHmV2iO"
@@ -4766,6 +4836,24 @@
     },
     {
       "album": {
+        "name": "Older But Not Less Confused",
+        "url": "https://open.spotify.com/album/6rq3RffrdedPxCNYpoKdjt"
+      },
+      "artists": [
+        {
+          "name": "Rich Ruth",
+          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303066,
+      "name": "Older But Not Less Confused",
+      "url": "https://open.spotify.com/track/1N2zt93hkfw01OeWQuSj2x"
+    },
+    {
+      "album": {
         "name": "One for the Money",
         "url": "https://open.spotify.com/album/3D0pPbHhzQmiQtvMHkChPN"
       },
@@ -5176,6 +5264,32 @@
     },
     {
       "album": {
+        "name": "Katalyst JID013",
+        "url": "https://open.spotify.com/album/09Rbp9ndzM5LBhJO7qNgBN"
+      },
+      "artists": [
+        {
+          "name": "Katalyst",
+          "url": "https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422498,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/1w8R8ktBN372wpT5UOCZzT"
+    },
+    {
+      "album": {
         "name": "Refractions",
         "url": "https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe"
       },
@@ -5371,7 +5485,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 392942,
       "name": "Ruby Dance",
       "url": "https://open.spotify.com/track/4jVJyn1mluD7WzJIHR4Nf0"
@@ -5495,6 +5609,24 @@
       "duration_ms": 218559,
       "name": "Scorpion",
       "url": "https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ"
+    },
+    {
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
+      },
+      "artists": [
+        {
+          "name": "Ugolino",
+          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
     },
     {
       "album": {
@@ -5829,7 +5961,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 420213,
       "name": "Spain",
       "url": "https://open.spotify.com/track/4FPguTz5ZJ7rZZ2qzMPJHW"
@@ -5916,6 +6048,32 @@
     },
     {
       "album": {
+        "name": "Story Untold",
+        "url": "https://open.spotify.com/album/1HC0YtWVIFdKMBmYNEMGuK"
+      },
+      "artists": [
+        {
+          "name": "Axian",
+          "url": "https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6"
+        },
+        {
+          "name": "Alberto Droguett",
+          "url": "https://open.spotify.com/artist/4T90xdfrulR6Kr4dm4XnrC"
+        },
+        {
+          "name": "9ICK",
+          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "Story Untold",
+      "url": "https://open.spotify.com/track/2aPuwZ75xhRQjCWfvDzLxZ"
+    },
+    {
+      "album": {
         "name": "Strange Times",
         "url": "https://open.spotify.com/album/7A8te8zdWaHSd2trq0OqWY"
       },
@@ -5971,6 +6129,24 @@
       "duration_ms": 225600,
       "name": "Sun of June",
       "url": "https://open.spotify.com/track/6ql8UeREHiP4vcTbbZXDyC"
+    },
+    {
+      "album": {
+        "name": "Broken Flowers / Sun Spiral",
+        "url": "https://open.spotify.com/album/29uZUKbZ4UO30kEBlhtJ8a"
+      },
+      "artists": [
+        {
+          "name": "The Shaolin Afronauts",
+          "url": "https://open.spotify.com/artist/5zcJp5jvssOgZXcxI1wuWe"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384132,
+      "name": "Sun Spiral",
+      "url": "https://open.spotify.com/track/6C08ia2OnXfoMjZ0afZx9F"
     },
     {
       "album": {
@@ -6094,6 +6270,36 @@
     },
     {
       "album": {
+        "name": "Sweet Tomato",
+        "url": "https://open.spotify.com/album/4e2vpLJDa2I7R5M2Wd0631"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285969,
+      "name": "Sweet Tomato",
+      "url": "https://open.spotify.com/track/5NkCUWy7CL8qEbdZWFLqD9"
+    },
+    {
+      "album": {
         "name": "Synchronized Swigging",
         "url": "https://open.spotify.com/album/2XWqGPWSN4EI4PQfGfhPB7"
       },
@@ -6195,7 +6401,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 190217,
       "name": "Tarko Tarkon",
       "url": "https://open.spotify.com/track/3NwCg4GsBth90P5TC3amCr"
@@ -6722,6 +6928,24 @@
     },
     {
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/36ViqkFmLJGdZuBVq9euD0"
+      },
+      "artists": [
+        {
+          "name": "DoomCannon",
+          "url": "https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "This Too",
+      "url": "https://open.spotify.com/track/287T0cB8b0UQiYk0gv8hyP"
+    },
+    {
+      "album": {
         "name": "Times (feat. Lex Amor)",
         "url": "https://open.spotify.com/album/3WV8Wbjfb3VROt5l5kSRoz"
       },
@@ -6947,7 +7171,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 163350,
       "name": "Two-Tone",
       "url": "https://open.spotify.com/track/53GzYKDzQbVxZLPv1LLg66"
@@ -6965,7 +7189,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 135133,
       "name": "Ultimate Formation",
       "url": "https://open.spotify.com/track/4Y3ytn0XtqAE6PiJDT2cPb"
@@ -7005,6 +7229,24 @@
       "duration_ms": 248562,
       "name": "Unrest II",
       "url": "https://open.spotify.com/track/5n2ungarkfmrpDS5VhKja6"
+    },
+    {
+      "album": {
+        "name": "Uroko (\u9c57, fish scales)",
+        "url": "https://open.spotify.com/album/0y0tPd6JuHEbOjMJMSBaB7"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174722,
+      "name": "Uroko (\u9c57, fish scales)",
+      "url": "https://open.spotify.com/track/7ajPicmeH7wSks9TpjC19g"
     },
     {
       "album": {
@@ -7220,6 +7462,36 @@
     },
     {
       "album": {
+        "name": "We The People Of The Myths",
+        "url": "https://open.spotify.com/album/0kScUUwQyv0enTDkSF91T7"
+      },
+      "artists": [
+        {
+          "name": "Meditations on Crime",
+          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
+        },
+        {
+          "name": "King Khan",
+          "url": "https://open.spotify.com/artist/5zExg5Z9MmcUh2B2K93bbs"
+        },
+        {
+          "name": "Marshall Allen",
+          "url": "https://open.spotify.com/artist/32QaUUUSNwRfshZ10Zxp58"
+        },
+        {
+          "name": "Sun Ra Arkestra",
+          "url": "https://open.spotify.com/artist/5V5vvh5MgM7vDuPp4lJYkh"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314723,
+      "name": "We The People Of The Myths",
+      "url": "https://open.spotify.com/track/6QPZ2Aph9zvFxAAVOXJpjD"
+    },
+    {
+      "album": {
         "name": "What Happens Next?",
         "url": "https://open.spotify.com/album/3lw981bFN4nTdJXWJbhJvG"
       },
@@ -7231,7 +7503,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 277000,
       "name": "What Happens Next?",
       "url": "https://open.spotify.com/track/55sg7XJ6nyfOv1VM1OHdHD"
@@ -7336,6 +7608,24 @@
     },
     {
       "album": {
+        "name": "Word For Word",
+        "url": "https://open.spotify.com/album/3BdwxmZEqylbFNhlHdXJ7Z"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195853,
+      "name": "Word For Word",
+      "url": "https://open.spotify.com/track/5gS2IxkC4s2PQkYuGbT0vc"
+    },
+    {
+      "album": {
         "name": "Word of mouth",
         "url": "https://open.spotify.com/album/2LYeegWgDAF2dnyITyASOF"
       },
@@ -7355,6 +7645,50 @@
       "duration_ms": 207431,
       "name": "Word of mouth",
       "url": "https://open.spotify.com/track/0TVdv9t7nx36wbWXTGcnIT"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400800,
+      "name": "Words Left Unspoken",
+      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
+    },
+    {
+      "album": {
+        "name": "XPBTTMS.MMBL",
+        "url": "https://open.spotify.com/album/4UzayOSjHT3mYjBw44s725"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Damon Soulful Samurai Poole",
+          "url": "https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136716,
+      "name": "XPBTTMS.MMBL",
+      "url": "https://open.spotify.com/track/5glJ3oP3FC2KQbQHQ9nqLE"
     },
     {
       "album": {

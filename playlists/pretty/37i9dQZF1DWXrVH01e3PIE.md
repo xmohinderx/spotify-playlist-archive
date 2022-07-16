@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Bhavi en la casa del Trap de Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,433 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,512 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,17 +19,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 9 | [Michael Jackson](https://open.spotify.com/track/1LtLDhTfnPsnbxx6TsfY5q) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Buscándome](https://open.spotify.com/album/2q5fSdsR4ZNFFQHkrxWJmz) | 1:49 |
 | 10 | [She Don't Give a Fo](https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [She Don't Give a Fo](https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM) | 3:29 |
 | 11 | [Rompediscoteka](https://open.spotify.com/track/5IdLmgNH1r8QQbELC1GueB) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Rompediscoteka](https://open.spotify.com/album/22pOSKsw95pibnK4OZq2Om) | 3:02 |
-| 12 | [Tamo Loco](https://open.spotify.com/track/3EsXS6UlpHtJvopnLTbsiT) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Antezana 247 \(Deluxe Edition\)](https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH) | 3:36 |
-| 13 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 |
-| 14 | [Jefa](https://open.spotify.com/track/5p3UrngKJuewvX42AqBBNe) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Jefa](https://open.spotify.com/album/1Sg6umTTHxbHrTveLYsA2q) | 2:15 |
-| 15 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 |
-| 16 | [Bipolar](https://open.spotify.com/track/2QSTNCW51cpgyFqahUxNGe) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Bipolar](https://open.spotify.com/album/02RWaSaZZUXVeVH5MqDQ7i) | 3:01 |
-| 17 | [no twin](https://open.spotify.com/track/2phdLu86u9OXfmRCrZ2Dur) | [Ill Quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [no twin](https://open.spotify.com/album/4ot7HHE3CQz8aKSpkB7j6b) | 2:34 |
-| 18 | [QUÉ LOCO](https://open.spotify.com/track/5gvKZfC4fZ4P4B8qvqCeRo) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:31 |
-| 19 | [Se Que No](https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:33 |
-| 20 | [GRR PAW](https://open.spotify.com/track/38MEJAGU5Ks6gEHdKG9Q3v) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [GRR PAW](https://open.spotify.com/album/58niEuot4EYfEHcsukrvvj) | 2:47 |
-| 21 | [G\-Class](https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Ess](https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es) | [G\-Class](https://open.spotify.com/album/4x8c78mU51FjjpI2A1Tdc0) | 2:15 |
-| 22 | [Mariposas](https://open.spotify.com/track/2aZWcsjgk2qm6UBFXh6ic7) | [Kifykify](https://open.spotify.com/artist/1ZM3GOPFXwiy6yVeY1FM3I), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Mariposas](https://open.spotify.com/album/6qWcAaLQJXuh4ZEGzOqNCV) | 2:12 |
+| 12 | [Comando](https://open.spotify.com/track/13GNmtxaAHgSYvf03I76IC) | [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [Comando](https://open.spotify.com/album/4x5esQA7Po5dgWjRi2eovS) | 3:09 |
+| 13 | [Tamo Loco](https://open.spotify.com/track/3EsXS6UlpHtJvopnLTbsiT) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Antezana 247 \(Deluxe Edition\)](https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH) | 3:36 |
+| 14 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 |
+| 15 | [Jefa](https://open.spotify.com/track/5p3UrngKJuewvX42AqBBNe) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Jefa](https://open.spotify.com/album/1Sg6umTTHxbHrTveLYsA2q) | 2:15 |
+| 16 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 |
+| 17 | [Bipolar](https://open.spotify.com/track/2QSTNCW51cpgyFqahUxNGe) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Bipolar](https://open.spotify.com/album/02RWaSaZZUXVeVH5MqDQ7i) | 3:01 |
+| 18 | [no twin](https://open.spotify.com/track/2phdLu86u9OXfmRCrZ2Dur) | [Ill Quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [no twin](https://open.spotify.com/album/4ot7HHE3CQz8aKSpkB7j6b) | 2:34 |
+| 19 | [QUÉ LOCO](https://open.spotify.com/track/5gvKZfC4fZ4P4B8qvqCeRo) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:31 |
+| 20 | [Se Que No](https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:33 |
+| 21 | [GRR PAW](https://open.spotify.com/track/38MEJAGU5Ks6gEHdKG9Q3v) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [GRR PAW](https://open.spotify.com/album/58niEuot4EYfEHcsukrvvj) | 2:47 |
+| 22 | [G\-Class](https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Ess](https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es) | [G\-Class](https://open.spotify.com/album/4x8c78mU51FjjpI2A1Tdc0) | 2:15 |
 | 23 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 |
 | 24 | [Mormón](https://open.spotify.com/track/2jj7yjwj3fAHfErv5CCshj) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [XLAB](https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6), [TAILS](https://open.spotify.com/artist/0LCbbe7pXn19Ecz0jLJkl2) | [MTPMJ](https://open.spotify.com/album/0H52PXoDvuOz8EbI88hTXE) | 1:48 |
 | 25 | [Humilde pero Cotizado](https://open.spotify.com/track/4K8LtrJP6kxbwuTvSqpQCf) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv) | [Humilde pero Cotizado](https://open.spotify.com/album/7jw0BTiz0RRFnjUomw562e) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 99 | [Guchi Polo](https://open.spotify.com/track/7LogWJv62K2bdTtw12RHTb) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Guchi Polo](https://open.spotify.com/album/6geOVKHOwBGyQIMo9m8yR6) | 3:21 |
 | 100 | [DUDADE](https://open.spotify.com/track/1mjHyr9e7uP0QisX3y7a6T) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DUDADE](https://open.spotify.com/album/7FIFYG9XiHhS9b3J3ARn2M) | 2:03 |
 
-Snapshot ID: `MTY1Nzc0MTg4MCwwMDAwMDE0YjAwMDAwMTgxZjkxZGFiNTYwMDAwMDE4MTZjYjEwZTZh`
+Snapshot ID: `MTY1Nzg1NDAwMCwwMDAwMDE0YzAwMDAwMTgxZmZjYzdjNDQwMDAwMDE4MTZjYjEwZTZh`

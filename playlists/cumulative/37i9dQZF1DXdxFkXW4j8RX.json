@@ -1038,6 +1038,46 @@
     },
     {
       "album": {
+        "name": "III Figura",
+        "url": "https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d"
+      },
+      "artists": [
+        {
+          "name": "Como Asesinar a Felipes",
+          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212936,
+      "name": "III Figura",
+      "url": "https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN"
+    },
+    {
+      "album": {
+        "name": "La Paz",
+        "url": "https://open.spotify.com/album/1AmCrlFO3hFVQRyq522mzH"
+      },
+      "artists": [
+        {
+          "name": "Aerstame",
+          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173710,
+      "name": "La Paz",
+      "url": "https://open.spotify.com/track/7H17GmZdbHIMolga9CEfBG"
+    },
+    {
+      "album": {
         "name": "DA KNOWLEDGE",
         "url": "https://open.spotify.com/album/2VwBIqWTKUGuuCkvipiRw7"
       },
@@ -1471,7 +1511,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 93795,
       "name": "PEGAJOSA",
       "url": "https://open.spotify.com/track/4dbofhaRxUn04twBfQWtXk"
@@ -2213,7 +2253,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 188917,
       "name": "Un D\u00eda a la Vez",
       "url": "https://open.spotify.com/track/6XIc1J8ydiUWsanMCdC7EM"

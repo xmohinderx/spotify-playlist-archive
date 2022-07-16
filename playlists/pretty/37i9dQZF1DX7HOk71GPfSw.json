@@ -1,12 +1,12 @@
 {
   "description": "belive the hype Cover: Alice Longyu Gao & Oli Sykes",
-  "num_followers": 337062,
+  "num_followers": 337260,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzM5MDI5MCwwMDAwMDE3ZDAwMDAwMTgxZTQyOGQ3NWQwMDAwMDE4MWI1ZjAwYzM4",
+  "snapshot_id": "MTY1NzkwOTc3NiwwMDAwMDE4MTAwMDAwMTgyMDMxZjhlZTQwMDAwMDE4MWI1ZjAwYzM4",
   "tracks": [
     {
       "added_at": "2022-07-08 04:45:00",
@@ -25,20 +25,52 @@
       "url": "https://open.spotify.com/track/17Mi8KWXkEUhGRJbR5tqwS"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
+      "added_at": "2022-07-15 17:24:45",
       "album": {
-        "name": "minnesota is a place that exists",
-        "url": "https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q"
+        "name": "sleepwalking / dragging",
+        "url": "https://open.spotify.com/album/1QpLeV8MhsMbOu0XfiWltP"
       },
       "artists": [
         {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
         }
       ],
-      "duration_ms": 138000,
-      "name": "minnesota is a place that exists",
-      "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
+      "duration_ms": 179666,
+      "name": "dragging",
+      "url": "https://open.spotify.com/track/5fkcpy3dkfXhMmSyAzCh4h"
+    },
+    {
+      "added_at": "2022-01-14 18:09:29",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2022-07-15 17:24:45",
+      "album": {
+        "name": "where you roam",
+        "url": "https://open.spotify.com/album/1dR610UAAU3W5zg9K1AcUT"
+      },
+      "artists": [
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "where you roam",
+      "url": "https://open.spotify.com/track/50QOhLLgb8BhwjysN3XLQN"
     },
     {
       "added_at": "2022-07-09 18:06:03",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/1tjJoYTGWaITkvlD37L4QY"
     },
     {
+      "added_at": "2022-07-06 01:09:47",
+      "album": {
+        "name": "SWAMP SKONSTER",
+        "url": "https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU"
+      },
+      "artists": [
+        {
+          "name": "Skest",
+          "url": "https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q"
+        }
+      ],
+      "duration_ms": 74357,
+      "name": "SWAMP SKONSTER",
+      "url": "https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z"
+    },
+    {
       "added_at": "2022-07-09 18:11:30",
       "album": {
         "name": "Lovesick",
@@ -105,6 +153,42 @@
       "url": "https://open.spotify.com/track/5rtdjMt1W8eYgrvHnYaCZB"
     },
     {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "minnesota is a place that exists",
+        "url": "https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "minnesota is a place that exists",
+      "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
+    },
+    {
+      "added_at": "2022-07-15 17:24:45",
+      "album": {
+        "name": "Tramal",
+        "url": "https://open.spotify.com/album/0iUZrL7KopTaRJo5KcEZn0"
+      },
+      "artists": [
+        {
+          "name": "Colm",
+          "url": "https://open.spotify.com/artist/78l4EfrLQMmhAvNxoGQ2UW"
+        },
+        {
+          "name": "Hello Hannes",
+          "url": "https://open.spotify.com/artist/0NUCZzalRW9dNTTBzP19pi"
+        }
+      ],
+      "duration_ms": 187124,
+      "name": "Tramal",
+      "url": "https://open.spotify.com/track/1xYstYDswMkdSHDswY4x7D"
+    },
+    {
       "added_at": "2022-07-08 04:45:00",
       "album": {
         "name": "480",
@@ -119,22 +203,6 @@
       "duration_ms": 212505,
       "name": "480",
       "url": "https://open.spotify.com/track/3UWLOdQnXEVK4CNikztTsp"
-    },
-    {
-      "added_at": "2022-01-14 18:09:29",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2022-06-10 15:02:05",
@@ -167,6 +235,22 @@
       "duration_ms": 154885,
       "name": "broken",
       "url": "https://open.spotify.com/track/2glnsTtO3HOwZ1iUMiMKja"
+    },
+    {
+      "added_at": "2022-07-15 17:24:45",
+      "album": {
+        "name": "All of My Role Models",
+        "url": "https://open.spotify.com/album/4WfsGPEKUiUybbgMbwDJif"
+      },
+      "artists": [
+        {
+          "name": "Cooked Sushi",
+          "url": "https://open.spotify.com/artist/4PJ74ABEX53RBSngKMBH7A"
+        }
+      ],
+      "duration_ms": 187671,
+      "name": "All of My Role Models",
+      "url": "https://open.spotify.com/track/1HJHslXeZGOIcJqDJr2LqR"
     },
     {
       "added_at": "2022-07-08 04:45:00",
@@ -235,22 +319,6 @@
       "duration_ms": 115138,
       "name": "#miles",
       "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
-    },
-    {
-      "added_at": "2022-07-06 01:09:47",
-      "album": {
-        "name": "SWAMP SKONSTER",
-        "url": "https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU"
-      },
-      "artists": [
-        {
-          "name": "Skest",
-          "url": "https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q"
-        }
-      ],
-      "duration_ms": 74357,
-      "name": "SWAMP SKONSTER",
-      "url": "https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z"
     },
     {
       "added_at": "2022-06-30 15:40:23",
@@ -509,6 +577,30 @@
       "url": "https://open.spotify.com/track/6EgL79TqpoUIT3aGJcTKKP"
     },
     {
+      "added_at": "2022-04-29 06:17:00",
+      "album": {
+        "name": "MISA & LIGHT",
+        "url": "https://open.spotify.com/album/3VuoJuyQGrWF3r1X3zZHLY"
+      },
+      "artists": [
+        {
+          "name": "NXFEIT",
+          "url": "https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k"
+        },
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        },
+        {
+          "name": "Hen848",
+          "url": "https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo"
+        }
+      ],
+      "duration_ms": 170860,
+      "name": "MISA & LIGHT",
+      "url": "https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr"
+    },
+    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "none",
@@ -737,46 +829,6 @@
       "url": "https://open.spotify.com/track/00odJu934oc0N1IKHu5A0c"
     },
     {
-      "added_at": "2022-07-02 21:00:44",
-      "album": {
-        "name": "lucky business",
-        "url": "https://open.spotify.com/album/30FYNvjA6566iCnoE8Gb7n"
-      },
-      "artists": [
-        {
-          "name": "FINLINCE!",
-          "url": "https://open.spotify.com/artist/6QBAsmqSEXHYH3ES6AppN8"
-        },
-        {
-          "name": "d0llywood1",
-          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
-        }
-      ],
-      "duration_ms": 142567,
-      "name": "lucky business",
-      "url": "https://open.spotify.com/track/4eXOvo8u46jOnAE9qVDbcf"
-    },
-    {
-      "added_at": "2022-06-10 15:02:05",
-      "album": {
-        "name": "more than life (feat. glaive)",
-        "url": "https://open.spotify.com/album/4muxcqXXIZKuxmrDJQnvNN"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 196465,
-      "name": "more than life (feat. glaive)",
-      "url": "https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM"
-    },
-    {
       "added_at": "2022-06-17 07:42:00",
       "album": {
         "name": "breaking promises whilst shaking hands",
@@ -975,26 +1027,6 @@
       "duration_ms": 105937,
       "name": "4MOODss",
       "url": "https://open.spotify.com/track/6pFS1Q3ahb61zbdpDjh0va"
-    },
-    {
-      "added_at": "2022-07-01 06:27:00",
-      "album": {
-        "name": "edward lied",
-        "url": "https://open.spotify.com/album/0EFgPbr1Qidm9XXQGLgbCn"
-      },
-      "artists": [
-        {
-          "name": "Nosgov",
-          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
-        },
-        {
-          "name": "Mixed Matches",
-          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
-        }
-      ],
-      "duration_ms": 123446,
-      "name": "edward lied",
-      "url": "https://open.spotify.com/track/4wRQZJImPDv9TvRXihyQAu"
     },
     {
       "added_at": "2022-06-03 13:00:00",
@@ -1257,26 +1289,6 @@
       "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
     },
     {
-      "added_at": "2022-03-22 17:41:37",
-      "album": {
-        "name": "Teen Week",
-        "url": "https://open.spotify.com/album/0I4Mj0o5tw56sHVYkS6pm3"
-      },
-      "artists": [
-        {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        },
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 145183,
-      "name": "homeswitcher",
-      "url": "https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "reaper / zombie (remixes)",
@@ -1297,34 +1309,6 @@
       "url": "https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd"
     },
     {
-      "added_at": "2022-04-12 15:33:30",
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        },
-        {
-          "name": "Ecco2k",
-          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
-        }
-      ],
-      "duration_ms": 182375,
-      "name": "SummerTime Blood",
-      "url": "https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO"
-    },
-    {
       "added_at": "2022-05-06 06:31:00",
       "album": {
         "name": "WANNABE",
@@ -1339,30 +1323,6 @@
       "duration_ms": 142105,
       "name": "WANNABE",
       "url": "https://open.spotify.com/track/3Wdf1ZrqRDZDXf81KsRpXY"
-    },
-    {
-      "added_at": "2022-04-29 06:17:00",
-      "album": {
-        "name": "MISA & LIGHT",
-        "url": "https://open.spotify.com/album/3VuoJuyQGrWF3r1X3zZHLY"
-      },
-      "artists": [
-        {
-          "name": "NXFEIT",
-          "url": "https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k"
-        },
-        {
-          "name": "Sillyelly",
-          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
-        },
-        {
-          "name": "Hen848",
-          "url": "https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo"
-        }
-      ],
-      "duration_ms": 170860,
-      "name": "MISA & LIGHT",
-      "url": "https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr"
     },
     {
       "added_at": "2022-05-27 07:02:00",
@@ -1459,22 +1419,6 @@
       "duration_ms": 152764,
       "name": "back to basics",
       "url": "https://open.spotify.com/track/62NqnOOnBPwVEvhAYJC02K"
-    },
-    {
-      "added_at": "2022-04-06 04:08:00",
-      "album": {
-        "name": "FOX BOP",
-        "url": "https://open.spotify.com/album/5oPaBnxvKHPcgHpKwR5QMm"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "FOX BOP",
-      "url": "https://open.spotify.com/track/4bDK6GxLWO8b6cBUsscXZp"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -1627,22 +1571,6 @@
       "duration_ms": 136950,
       "name": "#IAmDelusional",
       "url": "https://open.spotify.com/track/1F9skTtRwFWQNyFk5kWTbn"
-    },
-    {
-      "added_at": "2022-04-08 04:05:00",
-      "album": {
-        "name": "DOZO",
-        "url": "https://open.spotify.com/album/6zp4m8mXT5m6a0SH7vhhQS"
-      },
-      "artists": [
-        {
-          "name": "WHOKILLEDXIX",
-          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
-        }
-      ],
-      "duration_ms": 143369,
-      "name": "DOZO",
-      "url": "https://open.spotify.com/track/7nhyXNAngH1yIMIxps3CDM"
     },
     {
       "added_at": "2022-05-27 07:02:00",

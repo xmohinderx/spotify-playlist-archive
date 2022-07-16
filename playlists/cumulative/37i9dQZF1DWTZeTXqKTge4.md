@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Izzy\-S
+> Le meilleur du hip\-hop québécois\. Photo: Gros Big
 
-220 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
+221 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [5 Boutes](https://open.spotify.com/track/162EqB8realRZyj7OEa4IW) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [5 Boutes](https://open.spotify.com/album/1krhIqOQSjNmLEOAfRf6jP) | 2:24 | 2022-01-07 | 2022-02-12 |
 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 | 2022-01-21 | 2022-05-14 |
 | [6 PIASSES](https://open.spotify.com/track/3SbpvwK2XsmWl4P42iCT1x) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [6 PIASSES](https://open.spotify.com/album/3AuQMxeIkx7vuTxh37ZLKI) | 2:55 | 2022-06-24 |  |
-| [ADN](https://open.spotify.com/track/5uXJ37ol7W82PLhOkP1ieu) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [ADN](https://open.spotify.com/album/6INAaVDM3kioiEmSLBczMe) | 2:55 | 2022-03-18 |  |
+| [ADN](https://open.spotify.com/track/5uXJ37ol7W82PLhOkP1ieu) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [ADN](https://open.spotify.com/album/6INAaVDM3kioiEmSLBczMe) | 2:55 | 2022-03-18 | 2022-07-16 |
 | [Aléatoire](https://open.spotify.com/track/4WnPcLYxgBuJvDUnYKFC5K) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Back 2 Back](https://open.spotify.com/album/3wpjTc9qVKp3m9BOn9Pc0A) | 2:42 | 2022-03-11 | 2022-05-20 |
 | [Ange de la mort](https://open.spotify.com/track/30Dn5bDh5M00zRpy5L1VJj) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Ange de la mort](https://open.spotify.com/album/3io81YwkhXGzJOkTZhx6Sy) | 3:13 | 2022-01-07 | 2022-03-18 |
 | [Astronef](https://open.spotify.com/track/5nu3PJOyMRQft0xLkz4UDN) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 2:41 | 2022-04-01 |  |
@@ -110,6 +110,7 @@
 | [I Forgot, What Is Love ?](https://open.spotify.com/track/5HXqPlCwHoLWRGyCFI15UP) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [I Forgot, What Is Love ?](https://open.spotify.com/album/3FuZaR9VAM3rYKtIG3OCUZ) | 3:14 | 2022-03-04 |  |
 | [I Know](https://open.spotify.com/track/2jGNku60yFeo2QWtAA8wyo) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [I Know](https://open.spotify.com/album/6KdplOyPOT0OYGSJuEDsSf) | 4:10 | 2022-01-07 | 2022-01-22 |
 | [Ice](https://open.spotify.com/track/4WlJtmZCEGD1L0Vr3d9Wcl) | [JMB Drippy](https://open.spotify.com/artist/2OOYpKIQBA2hPkXvk2fJDI) | [Ice](https://open.spotify.com/album/5usSKujmkrRewaP5IOX1cx) | 2:42 | 2022-01-07 | 2022-01-29 |
+| [Ice](https://open.spotify.com/track/5tGZXgLK1nPDF6U8Velfl3) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Ice](https://open.spotify.com/album/3hEqMe7QYkSZlUPrk5LrUs) | 3:23 | 2022-07-15 |  |
 | [IDGAF](https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES), [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [IDGAF](https://open.spotify.com/album/38m4T8X8yQJJ788BM2yJVx) | 2:21 | 2022-06-10 |  |
 | [Intemporel](https://open.spotify.com/track/14OiYmRva1c3B3mISSC7Qq) | [Le Snake](https://open.spotify.com/artist/3TRNKLRrNrZlb4HGNwgOUL) | [Intemporel](https://open.spotify.com/album/4ZA0qt6TJpYKgEJ5lxVgsi) | 2:24 | 2022-01-07 | 2022-03-05 |
 | [J'ai mon blick](https://open.spotify.com/track/59DFpv1yqfIb32uz8swkqL) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [J'ai mon blick](https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150) | 3:32 | 2022-05-20 |  |

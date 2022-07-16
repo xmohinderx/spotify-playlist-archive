@@ -2125,7 +2125,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 242286,
       "name": "Outside the City of God (Augustine wept)",
       "url": "https://open.spotify.com/track/3V6whOlDWNecNbvxi31HaT"
@@ -2395,6 +2395,24 @@
       "duration_ms": 215520,
       "name": "Ser\u00eda",
       "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
+    },
+    {
+      "album": {
+        "name": "Shadow Cycle",
+        "url": "https://open.spotify.com/album/0r19TL77QBNYoZEjUNK67Y"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164580,
+      "name": "Shadow Cycle",
+      "url": "https://open.spotify.com/track/0FuqGfurGPnDQmmXBPbac6"
     },
     {
       "album": {
@@ -2789,7 +2807,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 143556,
       "name": "That's How Horses Are",
       "url": "https://open.spotify.com/track/4DyfOU0eiwkHIbUT0bU2DX"
@@ -3039,6 +3057,24 @@
       "duration_ms": 349000,
       "name": "Watching It Unfold",
       "url": "https://open.spotify.com/track/7uWVu34XKqTFbQOmnRkver"
+    },
+    {
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/2IP4Jtybqn9yhijp7edZik"
+      },
+      "artists": [
+        {
+          "name": "Liam Thomas",
+          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/2m4CoBXFU89fVREZQeq8CW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-297 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+298 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Ava](https://open.spotify.com/track/2ZOcIBtmGkwQeL1ZQxhCEy) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Ava](https://open.spotify.com/album/7v48jyII9Nshy8uhsFSiMX) | 2:48 | 2020-10-20\* |  |
 | [Beautiful Wave](https://open.spotify.com/track/2MG1XEnVM6rq63IDiOrdIN) | [Patterns In Everything](https://open.spotify.com/artist/2mgIQPmnKgc7jOQgq8JDDl) | [Beautiful Wave](https://open.spotify.com/album/3og8lAbTWBCejbKVa0O6Vh) | 3:58 | 2020-10-20\* |  |
 | [Bedtime Roses](https://open.spotify.com/track/78p1VT3WakXX97qnnRqQGD) | [Enlightment Spirits](https://open.spotify.com/artist/0OLeckavC2DOpjGiVUTqTF) | [Bedtime Roses](https://open.spotify.com/album/1D1pF0jmc7dIiqltajtMPr) | 2:24 | 2020-10-20\* |  |
+| [Bergamot](https://open.spotify.com/track/7E5pn3FakM4zKk7CpbK6hI) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Bergamot](https://open.spotify.com/album/2qI2lDAkfUH8nBKszazYRs) | 3:15 | 2022-07-15 |  |
 | [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2020-10-20\* |  |
 | [Big Sky](https://open.spotify.com/track/0Km4RigFVzZCLcqMXOH5jp) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:35 | 2020-10-20\* |  |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2021-07-04 |  |
@@ -264,7 +265,7 @@
 | [The Grass](https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv) | [Brandon Cason](https://open.spotify.com/artist/2HOrmW7Jd402Exqju0Bttt) | [The Grass](https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX) | 2:37 | 2021-07-16 |  |
 | [The Hermod](https://open.spotify.com/track/7drTYp9dKioyAQYDTLtzbR) | [Levandau](https://open.spotify.com/artist/4i8dFLIE5uXyj0y8mX8Ngo) | [The Hermod](https://open.spotify.com/album/0qwe4xq1aqAt75YR1lPiRi) | 2:44 | 2020-10-20\* |  |
 | [The Leaves](https://open.spotify.com/track/12aqk9J5v3zqoMolpAB3ZQ) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [The Leaves](https://open.spotify.com/album/7H0KuKgpChynqWsA7kmnnU) | 2:40 | 2021-11-17 |  |
-| [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2020-10-20\* |  |
+| [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2020-10-20\* | 2022-07-16 |
 | [The Quiet Hours](https://open.spotify.com/track/40M4T2bzYllLK4DzSPCGPy) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [The Quiet Hours](https://open.spotify.com/album/05MirPFXPGeqG59lLaHGyN) | 2:10 | 2021-09-08 |  |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2020-10-20\* | 2022-02-04 |
 | [These Steady Hands](https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 2:45 | 2020-10-20\* |  |

@@ -4,11 +4,11 @@
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/40rNjx0M8iAB9kwQB3h1oI?si=rs2hX30KQr6mZhjnnYIPUA">Dinky Kunene</a>
 
-460 songs - 1 day 23 hr 7 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
+460 songs - 1 day 23 hr 6 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10K Ye McDonald's](https://open.spotify.com/track/6Ddx4EYk19iPeo98doohCf) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Mdoovar](https://open.spotify.com/artist/1G4Rnei7H9xEN8jG4CwsgX), [9umba](https://open.spotify.com/artist/1roTzbKGDx7ZFBA5oibNPW) | [10K Ye McDonald's](https://open.spotify.com/album/1ultZV4Vf7ShgG1SA642jR) | 8:30 | 2022-07-14 |  |
+| [10K Ye McDonald's](https://open.spotify.com/track/6Ddx4EYk19iPeo98doohCf) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Mdoovar](https://open.spotify.com/artist/1G4Rnei7H9xEN8jG4CwsgX), [9umba](https://open.spotify.com/artist/1roTzbKGDx7ZFBA5oibNPW) | [10K Ye McDonald's](https://open.spotify.com/album/1ultZV4Vf7ShgG1SA642jR) | 7:21 | 2022-07-14 |  |
 | [14 P.G\. \(Original Mix\)](https://open.spotify.com/track/0v1rgEY90MJn1aO79RkpzR) | [MaFruits](https://open.spotify.com/artist/2hE5FPed2TkT78edV73wUx) | [14 P.G\. \(Original Mix\)](https://open.spotify.com/album/2vdQmTSwlEDITkK1lles8G) | 8:08 | 2022-06-02 | 2022-06-10 |
 | [1st Park](https://open.spotify.com/track/48rMy7l3vE44f4engB0GA1) | [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte) | [Sounds Of Gomora](https://open.spotify.com/album/5NBuO8ofRuaHprVvfl8XFg) | 5:42 | 2022-01-27 | 2022-02-11 |
 | [2.0 Bambelela](https://open.spotify.com/track/6TJl8V4LbxQYad6K4US947) | [Caltonic SA](https://open.spotify.com/artist/17GosBGcjmcVVy4M6NBwQ9), [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l), [Sax](https://open.spotify.com/artist/0Mw1chFsvpRJpWEXZS0Ez5) | [Terminator 2 \(The Rise Of The Machine\)](https://open.spotify.com/album/3s25Ensp5VHmTWFXXNM04W) | 5:01 | 2021-12-08 | 2022-01-12 |

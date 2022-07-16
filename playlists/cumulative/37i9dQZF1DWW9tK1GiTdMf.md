@@ -4,7 +4,7 @@
 
 > canzoni da gridare in questa summersad ❤️‍🩹🌦 in cover, sami river
 
-193 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+194 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cose mie](https://open.spotify.com/track/2F7ztT5LyCYKKtPmrSPAV1) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [Cose mie](https://open.spotify.com/album/2OVk88faWDtLC4FyTDpfDC) | 2:50 | 2022-05-06 | 2022-05-27 |
 | [Cuore Aperto](https://open.spotify.com/track/5YRl41LTDFEARMtUlFbwDh) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [Cuore Aperto](https://open.spotify.com/album/1RRxrEGIXA6A2E204QWPmA) | 2:20 | 2022-06-16 | 2022-07-14 |
 | [Del Piero](https://open.spotify.com/track/0Axh6ej9aNdMkK6KeKwyAJ) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Del Piero](https://open.spotify.com/album/1h3W8H838heqzLcAMS7VHd) | 2:34 | 2022-07-14 |  |
+| [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 | 2022-07-15 |  |
 | [Dolcenera](https://open.spotify.com/track/4D7axaCfgqurmoT96BiXOs) | [Nanni](https://open.spotify.com/artist/6WeAmtj2IWvUmgV5b9Sqln), [Laso](https://open.spotify.com/artist/3FKugTSCRpQW38ZOQ6g3TF), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dolcenera](https://open.spotify.com/album/5Bep1pqSUJwQOecYyGoR9N) | 2:55 | 2022-05-06 | 2022-06-03 |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-05-26 |  |
 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-06-30 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Djavan",
+  "description": "As belas novidades da MPB. Foto: Rachel Reis",
   "name": "Divina MPB",
   "published_playlist_ids": [
     "01cf54AteUmLGb18bFZOzr"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 273033,
       "name": "Abrigo",
       "url": "https://open.spotify.com/track/5nhJ79B02fCLIHIIQaybev"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 205986,
       "name": "Ana Luiza",
       "url": "https://open.spotify.com/track/1arzdlHWPNjLd1CoCr5KTp"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 194496,
       "name": "Anja",
       "url": "https://open.spotify.com/track/3NveB9CxR2bDwiCvOrkuEs"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 223799,
       "name": "Aprendi a Ser Feliz",
       "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
@@ -619,6 +619,24 @@
       "duration_ms": 234570,
       "name": "Barato Total",
       "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
+    },
+    {
+      "album": {
+        "name": "Bate Folha",
+        "url": "https://open.spotify.com/album/6nN1gMK31AKWMf974PHkIV"
+      },
+      "artists": [
+        {
+          "name": "Neila Kadh\u00ed",
+          "url": "https://open.spotify.com/artist/47HGZbxX41Scp2vCevPIwP"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Bate Folha",
+      "url": "https://open.spotify.com/track/1IpGf2o9ltmwBCmoZIAHjM"
     },
     {
       "album": {
@@ -989,6 +1007,32 @@
       "duration_ms": 195000,
       "name": "Cheia de Dobras",
       "url": "https://open.spotify.com/track/0ELWsJBhMIdIUhjM0zzx39"
+    },
+    {
+      "album": {
+        "name": "Choro Sim",
+        "url": "https://open.spotify.com/album/0SSYpwr8nf4ZWFNbNaW31P"
+      },
+      "artists": [
+        {
+          "name": "Matheus VK",
+          "url": "https://open.spotify.com/artist/4agPByDLehnJiSLBWK1Csl"
+        },
+        {
+          "name": "Caio Prado",
+          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
+        },
+        {
+          "name": "Jo\u00e3o Cavalcanti",
+          "url": "https://open.spotify.com/artist/746fEpKVwkqLnRi6g7qubK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204214,
+      "name": "Choro Sim",
+      "url": "https://open.spotify.com/track/7c9dHMvFEGcAy8293IsYp5"
     },
     {
       "album": {
@@ -1595,7 +1639,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 258023,
       "name": "Fases",
       "url": "https://open.spotify.com/track/21clkKJbVa4RIguk7OPbZH"
@@ -1936,6 +1980,28 @@
     },
     {
       "album": {
+        "name": "Ponto Final",
+        "url": "https://open.spotify.com/album/64w7v5Ms2bRrUOgVkm2mJG"
+      },
+      "artists": [
+        {
+          "name": "Remob\u00edlia",
+          "url": "https://open.spotify.com/artist/4nOaA6GGdv2JlRKMj1flxl"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235876,
+      "name": "Janeiro",
+      "url": "https://open.spotify.com/track/1J4TSOd2N8QtHcyi9s2bgn"
+    },
+    {
+      "album": {
         "name": "Elza Soares & Jo\u00e3o de Aquino",
         "url": "https://open.spotify.com/album/4sxsOQFTDRQZJFSe5mC6HD"
       },
@@ -2079,6 +2145,24 @@
       "duration_ms": 222186,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
+    },
+    {
+      "album": {
+        "name": "Lovezinho",
+        "url": "https://open.spotify.com/album/45ZGYnkdwckTtdr8qmFxn0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159202,
+      "name": "Lovezinho",
+      "url": "https://open.spotify.com/track/7iHXEw8MixfAK0PGTcihAN"
     },
     {
       "album": {
@@ -2827,7 +2911,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 261410,
       "name": "O Homem do Leme - Deluxe Edition",
       "url": "https://open.spotify.com/track/6pg3mVH6MY7GMoykTuytyl"
@@ -3728,6 +3812,28 @@
     },
     {
       "album": {
+        "name": "Naus",
+        "url": "https://open.spotify.com/album/1k7LgDqaoILTETnXSnVtah"
+      },
+      "artists": [
+        {
+          "name": "Vinicius Cantuaria",
+          "url": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202744,
+      "name": "Relento",
+      "url": "https://open.spotify.com/track/7CfAxW1xfqGsfuP191HATo"
+    },
+    {
+      "album": {
         "name": "Renascer",
         "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
       },
@@ -3739,7 +3845,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 294693,
       "name": "Renascer",
       "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
@@ -3761,6 +3867,28 @@
       "duration_ms": 271440,
       "name": "Retr\u00f3picos",
       "url": "https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj"
+    },
+    {
+      "album": {
+        "name": "Chico Chico Ao Vivo na Macaco Gordo",
+        "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Macaco Gordo",
+          "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226949,
+      "name": "Ribanceira - Ao Vivo",
+      "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
     },
     {
       "album": {
@@ -3793,7 +3921,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 200926,
       "name": "Rosa Camale\u00e3o",
       "url": "https://open.spotify.com/track/21BP4WnSXtGLKjaePYeh8F"
@@ -4468,6 +4596,24 @@
     },
     {
       "album": {
+        "name": "Tr\u00eas",
+        "url": "https://open.spotify.com/album/2rs1t4jW9OQB4ESpTs8tMV"
+      },
+      "artists": [
+        {
+          "name": "Jussara Silveira",
+          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222309,
+      "name": "Tr\u00eas",
+      "url": "https://open.spotify.com/track/5NkFAh88iCq7PULpgNoBuv"
+    },
+    {
+      "album": {
         "name": "Tudo Bateu",
         "url": "https://open.spotify.com/album/2JPBsl0RmL0koMHG8hzE3Z"
       },
@@ -4763,6 +4909,24 @@
       "duration_ms": 167061,
       "name": "\u00c1rvore - Ao Vivo no Rio",
       "url": "https://open.spotify.com/track/6ck63Hkr6XAuLdOioWyAjQ"
+    },
+    {
+      "album": {
+        "name": "Viol\u00e3o \u00c9 no Fundo do Quintal 2",
+        "url": "https://open.spotify.com/album/07GwgunZwIdv7JbGYBudkh"
+      },
+      "artists": [
+        {
+          "name": "Leandro Lehart",
+          "url": "https://open.spotify.com/artist/5jnbP9Tp4rXCLhYHsDfqtw"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190166,
+      "name": "\u00c9 Tanta",
+      "url": "https://open.spotify.com/track/680Qr1d3HRhVHN2A66aHHT"
     },
     {
       "album": {
