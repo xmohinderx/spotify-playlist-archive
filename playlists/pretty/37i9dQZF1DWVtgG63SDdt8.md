@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Cody Carnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,719 likes - 98 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,773 likes - 97 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,19 +92,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 82 | [My Soul Sings](https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [My Soul Sings](https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3) | 6:00 |
 | 83 | [My Confidence](https://open.spotify.com/track/24Ora79ZmkUuT59kWwjKuS) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [My Confidence](https://open.spotify.com/album/4XwfqvPvtWQgxVQKNSwhmn) | 5:34 |
 | 84 | [Better Story](https://open.spotify.com/track/4OzgEUHkfZrOfyxwS6eVZa) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Better Story](https://open.spotify.com/album/0OcQK6sjZVKLK10cxRD59O) | 6:13 |
-| 85 | [Perspective \- Live](https://open.spotify.com/track/16mew40qfmMWtF9J9QQoog) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective \(Live\)](https://open.spotify.com/album/3DsoxG9roTz6lHa4mufrgF) | 5:54 |
-| 86 | [Coming Back \- Single Version](https://open.spotify.com/track/222SOVWEMjTk8pMNaGXpGB) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Coming Back](https://open.spotify.com/album/1kyE3wqm3ncqNyTBkRHlmP) | 3:11 |
-| 87 | [Belong to You \- Live](https://open.spotify.com/track/56ivwf6wQr7Fpg9dLv2ZzF) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Belong to You \(Live\)](https://open.spotify.com/album/1m7GbGuzeeoPrCccDUswW2) | 5:52 |
-| 88 | [This Is My Hope \- Live](https://open.spotify.com/track/4b17bRWTn3SZK5mkYThYBj) | [Eagle Brook Music](https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI) | [This Is My Hope \(Live\)](https://open.spotify.com/album/2n7OBfGvqCIbnStWalYGGi) | 4:12 |
-| 89 | [I Will Boast \- Live](https://open.spotify.com/track/0z5UPABRsjp7G8ZIKMNwiJ) | [Bayside Worship](https://open.spotify.com/artist/2GRCJ5E9CeDrSHeEWWqxSC) | [I Will Boast \(Live\)](https://open.spotify.com/album/2Gnhzi93vaRM7uDg6ARDx1) | 11:13 |
-| 90 | [Fall Afresh](https://open.spotify.com/track/7N2y4URYFzeoON8IJPiVse) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [Fall Afresh](https://open.spotify.com/album/41FngW0FFs9zqIp2oeEzCI) | 6:07 |
-| 91 | [Breakthrough](https://open.spotify.com/track/0DfGEVldnTBGXYqczufXmP) | [Grace Union](https://open.spotify.com/artist/0lRL7dkIjpgZSrhQg1r6In) | [Rising](https://open.spotify.com/album/392NjgjyP7MEmrHTg1iykZ) | 5:20 |
-| 92 | [Room At the Table](https://open.spotify.com/track/1cWSJHExNtDnBzJQWiSNXf) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Olu Meduoye](https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0) | [Room At the Table](https://open.spotify.com/album/41ywbWUU3NjO5cWXHmL7CW) | 6:02 |
-| 93 | [I Saved It All](https://open.spotify.com/track/4qeFc80x9QZgGFZJP1oRf8) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [I Saved It All](https://open.spotify.com/album/60xrbPNw8IIuYHEH3USksh) | 4:35 |
-| 94 | [Count Me In](https://open.spotify.com/track/2cAgJbXbxDIsTctxn07o0C) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Nineteen](https://open.spotify.com/album/0r36cPAXCAL10YPsyeKmcp) | 4:50 |
-| 95 | [For God Is With Us](https://open.spotify.com/track/26rBcSMxKmv4GsBc2C9pgL) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [For God Is With Us](https://open.spotify.com/album/42WxNlvOhTx0xAEDPawjZh) | 2:09 |
-| 96 | [Everything About You \(feat\. Marlee\)](https://open.spotify.com/track/6WEJfyD3saydrkwaGEAYI5) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Marlee](https://open.spotify.com/artist/4NrOT7BZU0GjwOyw2P0Vmb) | [Everything About You](https://open.spotify.com/album/0cyH1iWX95Bpsp01sFGInX) | 3:27 |
-| 97 | [Don't Lose Heart](https://open.spotify.com/track/5ixUmWYbX1AVgt3SAjAc9T) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Don't Lose Heart](https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2) | 3:31 |
-| 98 | [Safe](https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey](https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ) | 4:38 |
+| 85 | [Coming Back \- Single Version](https://open.spotify.com/track/222SOVWEMjTk8pMNaGXpGB) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Coming Back](https://open.spotify.com/album/1kyE3wqm3ncqNyTBkRHlmP) | 3:11 |
+| 86 | [Belong to You \- Live](https://open.spotify.com/track/56ivwf6wQr7Fpg9dLv2ZzF) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Belong to You \(Live\)](https://open.spotify.com/album/1m7GbGuzeeoPrCccDUswW2) | 5:52 |
+| 87 | [This Is My Hope \- Live](https://open.spotify.com/track/4b17bRWTn3SZK5mkYThYBj) | [Eagle Brook Music](https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI) | [This Is My Hope \(Live\)](https://open.spotify.com/album/2n7OBfGvqCIbnStWalYGGi) | 4:12 |
+| 88 | [I Will Boast \- Live](https://open.spotify.com/track/0z5UPABRsjp7G8ZIKMNwiJ) | [Bayside Worship](https://open.spotify.com/artist/2GRCJ5E9CeDrSHeEWWqxSC) | [I Will Boast \(Live\)](https://open.spotify.com/album/2Gnhzi93vaRM7uDg6ARDx1) | 11:13 |
+| 89 | [Fall Afresh](https://open.spotify.com/track/7N2y4URYFzeoON8IJPiVse) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [Fall Afresh](https://open.spotify.com/album/41FngW0FFs9zqIp2oeEzCI) | 6:07 |
+| 90 | [Breakthrough](https://open.spotify.com/track/0DfGEVldnTBGXYqczufXmP) | [Grace Union](https://open.spotify.com/artist/0lRL7dkIjpgZSrhQg1r6In) | [Rising](https://open.spotify.com/album/392NjgjyP7MEmrHTg1iykZ) | 5:20 |
+| 91 | [Room At the Table](https://open.spotify.com/track/1cWSJHExNtDnBzJQWiSNXf) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Olu Meduoye](https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0) | [Room At the Table](https://open.spotify.com/album/41ywbWUU3NjO5cWXHmL7CW) | 6:02 |
+| 92 | [I Saved It All](https://open.spotify.com/track/4qeFc80x9QZgGFZJP1oRf8) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [I Saved It All](https://open.spotify.com/album/60xrbPNw8IIuYHEH3USksh) | 4:35 |
+| 93 | [Count Me In](https://open.spotify.com/track/2cAgJbXbxDIsTctxn07o0C) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Nineteen](https://open.spotify.com/album/0r36cPAXCAL10YPsyeKmcp) | 4:50 |
+| 94 | [For God Is With Us](https://open.spotify.com/track/26rBcSMxKmv4GsBc2C9pgL) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [For God Is With Us](https://open.spotify.com/album/42WxNlvOhTx0xAEDPawjZh) | 2:09 |
+| 95 | [Everything About You \(feat\. Marlee\)](https://open.spotify.com/track/6WEJfyD3saydrkwaGEAYI5) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Marlee](https://open.spotify.com/artist/4NrOT7BZU0GjwOyw2P0Vmb) | [Everything About You](https://open.spotify.com/album/0cyH1iWX95Bpsp01sFGInX) | 3:27 |
+| 96 | [Don't Lose Heart](https://open.spotify.com/track/5ixUmWYbX1AVgt3SAjAc9T) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Don't Lose Heart](https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2) | 3:31 |
+| 97 | [Safe](https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey](https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ) | 4:38 |
 
-Snapshot ID: `MTY1Nzg2NDkxNiwwMDAwMDUzNjAwMDAwMTgyMDA3MzBlNDQwMDAwMDE4MWZmZjA4ZGRh`
+Snapshot ID: `MTY1ODAxMTQyOCwwMDAwMDUzNzAwMDAwMTgyMDkyZWE2YWMwMDAwMDE4MWZmZjA4ZGRh`

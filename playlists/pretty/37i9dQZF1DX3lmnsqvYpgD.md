@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,548 likes - 74 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,554 likes - 74 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 2 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 |
 | 3 | [詩歌舞街](https://open.spotify.com/track/45rZ0CtRR470rAOFiWJNeM) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:11 |
 | 4 | [Don't Text Him](https://open.spotify.com/track/3pSWo5ebAl4xiXXqym6rEo) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him](https://open.spotify.com/album/1E5h69F88qemJq7si8rLrW) | 4:34 |
-| 5 | [Zao Chen \(feat\. Eric Kot\)](https://open.spotify.com/track/27sNF04M9kZJ5hO9b6aSws) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy), [葛民輝](https://open.spotify.com/artist/11lwiMBYOFjrom9mwWNK1K) | [Ya Shui](https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO) | 4:07 |
+| 5 | [早晨 \(feat\. Eric Kot\)](https://open.spotify.com/track/27sNF04M9kZJ5hO9b6aSws) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy), [葛民輝](https://open.spotify.com/artist/11lwiMBYOFjrom9mwWNK1K) | [亞水](https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO) | 4:07 |
 | 6 | [Night Ride](https://open.spotify.com/track/6NVzSfKT7uyHP9uAIZtpqz) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Night Ride](https://open.spotify.com/album/06GigS9fa2Q9ZbbFjtrIkB) | 5:44 |
 | 7 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 |
 | 8 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 18 | [土瓜灣情歌](https://open.spotify.com/track/1hnWusq6OGMuRsKvcmFLl8) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [適婚的年齡](https://open.spotify.com/album/0YTUFA16bs1qLVYtp3fGL0) | 2:23 |
 | 19 | [陽光燦爛的日子](https://open.spotify.com/track/1oswnM5CTaRxVOSa4nZYQT) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [This Is Not The End Is The Beginning](https://open.spotify.com/album/487SVY50aH2F8KRSTyrV3g) | 3:37 |
 | 20 | [Simple Love Song](https://open.spotify.com/track/2kTzTs8tbJgkYAKzHG8szb) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Connected](https://open.spotify.com/album/6JWjPJ5XMlH9YBAFHx5ajY) | 5:04 |
-| 21 | [Yan Jing Bu Neng Mei Yan Lei](https://open.spotify.com/track/5EPLxu9q3RXTnRjXofzmNc) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ) | [Guitar Fever](https://open.spotify.com/album/0prFuv04VjAH6r311SIU3n) | 4:17 |
+| 21 | [眼睛不能沒眼淚](https://open.spotify.com/track/5EPLxu9q3RXTnRjXofzmNc) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ) | [Guitar Fever](https://open.spotify.com/album/0prFuv04VjAH6r311SIU3n) | 4:17 |
 | 22 | [大半生愛人 \(feat\. K&H\)](https://open.spotify.com/track/3iJYQNrMshaXV3nteeeEyY) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [大半生愛人 \(feat\. K&H\)](https://open.spotify.com/album/3Ke9WHCmMs9QVSxjT2c90g) | 3:41 |
 | 23 | [聽海浪](https://open.spotify.com/track/31GEWTEfwsNDnA3LhQda3v) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Bluesea](https://open.spotify.com/album/4B5yYqMcjvvKYiVV1l9jZP) | 3:32 |
 | 24 | [We Could Have Been](https://open.spotify.com/track/2d31lGHYH404EKp4NIsR91) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [Ten](https://open.spotify.com/album/7JyOHAvl2oB2UJXTv2eN5o) | 4:45 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 27 | [The Best Is Yet to Come](https://open.spotify.com/track/04Wqlpuu7SasLagDEwyzi2) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [床頭歌 \(Pillow Songs\)](https://open.spotify.com/album/4x2tdyPUkI06utAAB3ZtWh) | 2:50 |
 | 28 | [今天只做一件事](https://open.spotify.com/track/7cUrqt1Uqb9OEWvog8xIrB) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [H3M \(Remastered 2019\)](https://open.spotify.com/album/4tPgavx8TzhK03utfMCgHL) | 3:49 |
 | 29 | [Ta Ji Ta \(feat\. Sim C\)](https://open.spotify.com/track/7tbyJDW4764U1bjhQWx8g9) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D), [Sim C](https://open.spotify.com/artist/43mINwNeqvKw1ehYmXbZPP) | [Ta Ji Ta \(feat\. Sim C\)](https://open.spotify.com/album/7GVRmWqZCbRksO8U1chyHa) | 4:20 |
-| 30 | [Zhe Gan Jue](https://open.spotify.com/track/26d7Y553lu5nlYwndg73jd) | [Lil’ Ashes](https://open.spotify.com/artist/61JmerIHrcyWpHtih0adVh) | [Be Little](https://open.spotify.com/album/3QUqnUrXs3d0XBkEwvrtZw) | 3:20 |
+| 30 | [這感覺](https://open.spotify.com/track/26d7Y553lu5nlYwndg73jd) | [Lil’ Ashes](https://open.spotify.com/artist/61JmerIHrcyWpHtih0adVh) | [Be Little](https://open.spotify.com/album/3QUqnUrXs3d0XBkEwvrtZw) | 3:20 |
 | 31 | [今天我不想做嘢](https://open.spotify.com/track/1D1yUvHaleWGiwGODww5Bt) | [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [今天我不想做嘢](https://open.spotify.com/album/0Bcu0LjXgHT5LONotBjIke) | 3:54 |
 | 32 | [他和她的事情](https://open.spotify.com/track/1aMZI7tr6wygYe5kW3SzIX) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Meow Meow Meow](https://open.spotify.com/album/4z4we28hj4pkFZYWCbOjDY) | 3:03 |
 | 33 | [19](https://open.spotify.com/track/3co96BRiHMDnBp3Z0JkVYe) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [家課 \(Homework\)](https://open.spotify.com/album/3ocwtNG8XlymH8xyfMTL15) | 3:03 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 39 | [Feelings](https://open.spotify.com/track/0WkAHpwITTLqlhYVoxMOYp) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Feelings](https://open.spotify.com/album/0fze6yVFkk6MrYRcneUrZq) | 3:33 |
 | 40 | [寂寞的星期五](https://open.spotify.com/track/6BNIr9tmuut9nP895ByjOB) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [寂寞的星期五](https://open.spotify.com/album/49MdV5EejhiQ1B4jygA17g) | 2:16 |
 | 41 | [Forever Friends](https://open.spotify.com/track/0iKCBpNIIdDj15XvaVq81n) | [曲奇](https://open.spotify.com/artist/1sY4rzR1wpEYef57boBcPO) | [Happy Birthday](https://open.spotify.com/album/0a483d1NL71v7TfeybhFRo) | 4:02 |
-| 42 | [Feng Jian Zhi Lang](https://open.spotify.com/track/63BmyHGriuoXWKmBxJDHCZ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Ten Days in the Madhouse](https://open.spotify.com/album/3m1ICo6YYBwPxCLjWx5CI0) | 3:40 |
+| 42 | [風見志郎](https://open.spotify.com/track/63BmyHGriuoXWKmBxJDHCZ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Ten Days in the Madhouse](https://open.spotify.com/album/3m1ICo6YYBwPxCLjWx5CI0) | 3:40 |
 | 43 | [燕尾蝶](https://open.spotify.com/track/2SLwPaJTN6B6zwcIwsuQAK) | [Shine](https://open.spotify.com/artist/4NtDRhFDqdfyTiahAuBbCt) | [The Best Of Shine](https://open.spotify.com/album/342p3f9MbhdfZZa7OdnbMI) | 3:48 |
 | 44 | [向孩子說愛情](https://open.spotify.com/track/3kupd39uh2YL7uAVsCIwXP) | [Supper Moment](https://open.spotify.com/artist/29Ukw6Kx8IyOABZFklKpaX) | [再次心跳](https://open.spotify.com/album/1aU3bXT5CzYZzQcN9Fjxo5) | 3:47 |
 | 45 | [心亂如麻](https://open.spotify.com/track/7xHHCahHre8K3vHpMd7ql0) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [My Love](https://open.spotify.com/album/3oAVjAtOmjrOlNOC5cwk3r) | 4:06 |
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 50 | [巴士光年](https://open.spotify.com/track/0ub1bABgM7pZkqermYUrNp) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [巴士光年](https://open.spotify.com/album/0oX8oESb390yb5b7vKvTUK) | 3:50 |
 | 51 | [邊一個發明了返工](https://open.spotify.com/track/2QlHbeBKT1CvNc6WH89f8N) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [介乎法國與旺角的詩意](https://open.spotify.com/album/60xo1x3awwTPu5JLu458oN) | 2:58 |
 | 52 | [我的日記](https://open.spotify.com/track/2h16JePtYmFmTFHpecFS7F) | [野仔](https://open.spotify.com/artist/6Nt2UPCCDXsFlY3lEZ3zpx) | [Rock 'n' Wild Never Die](https://open.spotify.com/album/6XGM6IxoqeErG8w0rUH69V) | 4:30 |
-| 53 | [Zui Nan Chang De Qing Ge](https://open.spotify.com/track/6LMRfMFk97tM79lWJYTdAW) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Threesome](https://open.spotify.com/album/4Bn7uXDjOqkHZ1atMprNF0) | 3:24 |
+| 53 | [最難唱的情歌](https://open.spotify.com/track/6LMRfMFk97tM79lWJYTdAW) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Threesome](https://open.spotify.com/album/4Bn7uXDjOqkHZ1atMprNF0) | 3:24 |
 | 54 | [Best Position](https://open.spotify.com/track/6nyZs944tlz4TtYeJ2OEMr) | [Bondy Chiu](https://open.spotify.com/artist/0JI4jLIt8LAfUID400KRl7) | [Absolute Voices](https://open.spotify.com/album/6RjVCJ4qHoeeIj8I94HEDY) | 3:52 |
 | 55 | [我們](https://open.spotify.com/track/6S7tXAJedWz5cF2EA3si8G) | [黃靖](https://open.spotify.com/artist/3Vxgf9AI0pdXrpDi7NLKi1) | [生活的小偷](https://open.spotify.com/album/2JNM0XS3rMQGynO06jriY3) | 4:28 |
 | 56 | [隨風](https://open.spotify.com/track/5AGW3yn6JO3uq03iALUVcJ) | [新青年理髮廳](https://open.spotify.com/artist/41r9gkPKkgcWFHnPuFbAtP) | [隨風](https://open.spotify.com/album/3n3k7kMWANOTX1XhnHMO8W) | 4:27 |
-| 57 | [You Che He](https://open.spotify.com/track/3VNfgcfFgvJQ7byYzcK0Q1) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Apollo 18](https://open.spotify.com/album/0m6rmsKUotNnNpcwk7FdW6) | 4:21 |
+| 57 | [遊車河](https://open.spotify.com/track/3VNfgcfFgvJQ7byYzcK0Q1) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Apollo 18](https://open.spotify.com/album/0m6rmsKUotNnNpcwk7FdW6) | 4:21 |
 | 58 | [愛似林一峰 \(feat\. 林一峰\)](https://open.spotify.com/track/0dCdhnzeyaASb77LI2Su7T) | [Fama](https://open.spotify.com/artist/7BcyMcADGhD6WB6XFAJFEa) | [音樂大亨](https://open.spotify.com/album/71BfmUF7Fd1D7rglHm3x8e) | 3:18 |
 | 59 | [3/8](https://open.spotify.com/track/5emoT8XtfpK4hXBCIqjZyD) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [最好的時刻 2006\-2012](https://open.spotify.com/album/6Z1pu2Zg8BfwLCxvMTpLdw) | 3:47 |
 | 60 | [難查字](https://open.spotify.com/track/5yyHR5rWWzhBUrpZ2WDe06) | [Subyub Lee](https://open.spotify.com/artist/4dH9LSAJfj9mB1hXxUaMJx) | [小人物語](https://open.spotify.com/album/4P75o6czVyA5OhBKtnyzB4) | 4:20 |
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 63 | [香港傑出廢青](https://open.spotify.com/track/3sNUN1u8suNbxVCcQi25k6) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [上上下下左右左右 B A Start](https://open.spotify.com/album/38S43x73XDmOq58hNQqfek) | 3:44 |
 | 64 | [Sam歌 \(feat\. 咖啡因公園@Coffee&Tea\)](https://open.spotify.com/track/1adMsTSdkrzVWog4x7QiEm) | [Fama](https://open.spotify.com/artist/7BcyMcADGhD6WB6XFAJFEa) | [你而家無,但係將來會有 \(上\)](https://open.spotify.com/album/6MhbcBShiQos6kbcPMDRVm) | 3:25 |
 | 65 | [我歌...故我在](https://open.spotify.com/track/3pruLLJGqp1kptGJkpy4U4) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [Kay One](https://open.spotify.com/album/1LDyfgkBcAMRIzKGUfiDoF) | 4:15 |
-| 66 | [Na Shui \- 2012 Live Version](https://open.spotify.com/track/1NnmM3eCjvcAZWnPtzjQ7X) | [Ellen Loo](https://open.spotify.com/artist/3fzkQF4hAwDkHQhzp5G2uC) | [This Land Was Made For You And Me Live 2012](https://open.spotify.com/album/6L8Vtb4XWqhuLi0yN69VlX) | 3:58 |
-| 67 | [Zong You Li Kai De Shi Hou](https://open.spotify.com/track/0anXf81WN0HvzNoW5VNEML) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [Shi Ri Ru Fei C AllCollection](https://open.spotify.com/album/5FwJ5Bl4uLi1ShVacAw9Dr) | 3:12 |
-| 68 | [Fei Ba! Du Jiau Xian](https://open.spotify.com/track/3CyyYNm2fxxuzFOMjQohij) | [Lil’ Ashes](https://open.spotify.com/artist/61JmerIHrcyWpHtih0adVh) | [A Little Louder](https://open.spotify.com/album/37zUENlHk8MGCZuJaNLhaM) | 3:20 |
+| 66 | [那誰 \- 2012 Live Version](https://open.spotify.com/track/1NnmM3eCjvcAZWnPtzjQ7X) | [Ellen Loo](https://open.spotify.com/artist/3fzkQF4hAwDkHQhzp5G2uC) | [This Land Was Made For You And Me Live 2012](https://open.spotify.com/album/6L8Vtb4XWqhuLi0yN69VlX) | 3:58 |
+| 67 | [總有離開的時候](https://open.spotify.com/track/0anXf81WN0HvzNoW5VNEML) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [時日如飛 C AllCollection](https://open.spotify.com/album/5FwJ5Bl4uLi1ShVacAw9Dr) | 3:12 |
+| 68 | [飛吧! 獨角仙](https://open.spotify.com/track/3CyyYNm2fxxuzFOMjQohij) | [Lil’ Ashes](https://open.spotify.com/artist/61JmerIHrcyWpHtih0adVh) | [A Little Louder](https://open.spotify.com/album/37zUENlHk8MGCZuJaNLhaM) | 3:20 |
 | 69 | [未來](https://open.spotify.com/track/4vZQRFmvaVuZ5yXiN5inrd) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 3:39 |
 | 70 | [小說伴咖啡](https://open.spotify.com/track/2qciewHSQWcbUJPInq02Yx) | [Robynn & Kendy](https://open.spotify.com/artist/3NFZHFNSDK0Q8k3k38ysTp) | [CURATIONS](https://open.spotify.com/album/0Hxhz3uR4niGUnu3Y1mhWs) | 4:19 |
 | 71 | [生活與生存](https://open.spotify.com/track/4XAsHwu1AWmh6psScMWd5v) | [Robynn & Kendy](https://open.spotify.com/artist/3NFZHFNSDK0Q8k3k38ysTp) | [CURATIONS](https://open.spotify.com/album/0Hxhz3uR4niGUnu3Y1mhWs) | 3:44 |
-| 72 | [Ru He Cong Xia Tian Huo Guo Lai](https://open.spotify.com/track/53eahOq9YNDuppsBiH2BZf) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [Ru He Cong Xia Tian Huo Guo Lai](https://open.spotify.com/album/7KRr78j2FrTDyR21fsz7f3) | 2:36 |
+| 72 | [如何從夏天活過來](https://open.spotify.com/track/53eahOq9YNDuppsBiH2BZf) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [如何從夏天活過來](https://open.spotify.com/album/7KRr78j2FrTDyR21fsz7f3) | 2:36 |
 | 73 | [Walk On](https://open.spotify.com/track/30ZDOmEwAfijYVCHiNXhxU) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Walk On](https://open.spotify.com/album/3zrNfBfkmLxrOgNktr70em) | 5:18 |
 | 74 | [I Will Be Alright](https://open.spotify.com/track/2EBZ815zoE0He8Bae7ygyy) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [I Will Be Alright](https://open.spotify.com/album/0sD2ptJBBX6aoivZWu3m03) | 3:28 |
 

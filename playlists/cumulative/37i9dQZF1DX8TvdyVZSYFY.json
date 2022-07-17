@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 234213,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/4t03qcATBoSFWGDDCo29v3"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 245555,
       "name": "Breathe - Acoustic",
       "url": "https://open.spotify.com/track/4F1J6Ne5nUZ3YN8wqDJWEY"
@@ -1356,6 +1356,24 @@
     },
     {
       "album": {
+        "name": "Dye My Hair",
+        "url": "https://open.spotify.com/album/0k7raGYOx98ogiwvjeeeXF"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196735,
+      "name": "Dye My Hair - Acoustic Version",
+      "url": "https://open.spotify.com/track/5m2w90coBqSleD39GduE7h"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
       },
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 188605,
       "name": "Get Lucky - Acoustic",
       "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 219221,
       "name": "Human - Jim Eno Sessions",
       "url": "https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm"
@@ -2525,7 +2543,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 243573,
       "name": "King - Acoustic",
       "url": "https://open.spotify.com/track/2yybvAviPcX43UHomvHbu8"
@@ -3385,7 +3403,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 205375,
       "name": "Omen - Acoustic",
       "url": "https://open.spotify.com/track/0G7zUWU575zYyHCrOy14yz"
@@ -3743,7 +3761,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 247626,
       "name": "Pride (In the Name of Love)",
       "url": "https://open.spotify.com/track/2C1jkbtYDs3BQG4H7gAnYn"
@@ -4771,7 +4789,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 189614,
       "name": "Swan Song - Acoustic",
       "url": "https://open.spotify.com/track/5vj7xvilPeCv3DQgpy9auU"
@@ -4847,7 +4865,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 226379,
       "name": "Taped up Heart (feat. Clara Mae) - Acoustic",
       "url": "https://open.spotify.com/track/1JO2oS5Gv04NoUQsR2GtZc"

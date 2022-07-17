@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Taiwan.",
-  "num_followers": 192564,
+  "num_followers": 192617,
   "original_name": "Top 50 - Taiwan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzExMjAyMzE3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzExMjg4NTIxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 265813,
+      "name": "Still Wandering",
+      "url": "https://open.spotify.com/track/35xilew5nalcetOeytaDFj"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "Greatest Works of Art",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
@@ -25,7 +41,107 @@
       "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 257105,
+      "name": "Cold Hearted",
+      "url": "https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Won't Cry",
+      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 257838,
+      "name": "You Are The Firework I Missed",
+      "url": "https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5Hkj927A3CCy6Xymg9Z2Br"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 186813,
+      "name": "Pink Ocean",
+      "url": "https://open.spotify.com/track/0w8p2STLgLE2VIVYUzAszZ"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "If You Don't Love Me, It's Fine",
+      "url": "https://open.spotify.com/track/4oeHo4sQtR0hMaLAdxYNGy"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "Red Scarf (\"Till We Meet Again\" Movie Theme Song)",
         "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
@@ -41,7 +157,59 @@
       "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 265013,
+      "name": "I Truly Believe",
+      "url": "https://open.spotify.com/track/3BpiSlF0Z4CZQxcObv7erK"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Gary Yang",
+          "url": "https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Waiting For You (with Gary Yang)",
+      "url": "https://open.spotify.com/track/3j2O0gUZaIT5SSpC9F4Emw"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "\u611b\u60c5\u4f60\u6bd4\u6211\u60f3\u7684\u95a3\u8f03\u5049\u5927 -\u300a\u7576\u7537\u4eba\u6200\u611b\u6642\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
         "url": "https://open.spotify.com/album/0VqgheMWJatfAl6njk2DL8"
@@ -57,7 +225,7 @@
       "url": "https://open.spotify.com/track/4fJlSLYLiu5trFCMZdSQDC"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "\u95a3\u611b\u59b3\u4e00\u64fa",
         "url": "https://open.spotify.com/album/3qpPxu0v6G5fNYe8OfslFt"
@@ -73,7 +241,23 @@
       "url": "https://open.spotify.com/track/07plVccQ0N6FTTTonk3c2M"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
+        "url": "https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 240753,
+      "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
+      "url": "https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -89,7 +273,55 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "\u597d\u4e0d\u5bb9\u6613",
+        "url": "https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg"
+      },
+      "artists": [
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "\u597d\u4e0d\u5bb9\u6613 (\u300a\u83ef\u71c8\u521d\u4e0a\u300b\u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "\u5b64\u52c7\u8005 (\u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "\u5b64\u52c7\u8005 - \u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Ren\u7136",
+        "url": "https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT"
+      },
+      "artists": [
+        {
+          "name": "Ren Ran",
+          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
+        }
+      ],
+      "duration_ms": 296006,
+      "name": "\u98de\u9e1f\u548c\u8749",
+      "url": "https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
@@ -113,71 +345,7 @@
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 265813,
-      "name": "Still Wandering",
-      "url": "https://open.spotify.com/track/35xilew5nalcetOeytaDFj"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "\u597d\u4e0d\u5bb9\u6613",
-        "url": "https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg"
-      },
-      "artists": [
-        {
-          "name": "\u544a\u4e94\u4eba",
-          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "\u597d\u4e0d\u5bb9\u6613 (\u300a\u83ef\u71c8\u521d\u4e0a\u300b\u7247\u5c3e\u66f2)",
-      "url": "https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
-        "url": "https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 240753,
-      "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
-      "url": "https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "\u5b64\u52c7\u8005 (\u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "\u5b64\u52c7\u8005 - \u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "MEmento\u00b7MORI",
         "url": "https://open.spotify.com/album/4RVhGD6w71DjGdXJDifFGn"
@@ -193,23 +361,7 @@
       "url": "https://open.spotify.com/track/5Wyq70ysHQp0jaMhPKrza4"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "Ren\u7136",
-        "url": "https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT"
-      },
-      "artists": [
-        {
-          "name": "Ren Ran",
-          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
-        }
-      ],
-      "duration_ms": 296006,
-      "name": "\u98de\u9e1f\u548c\u8749",
-      "url": "https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -229,7 +381,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "\u5609\u5bbe",
         "url": "https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta"
@@ -245,23 +397,7 @@
       "url": "https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "Girls - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "\u4ece\u524d\u8bf4",
         "url": "https://open.spotify.com/album/0abB0JEwzX23OwKnv97VBb"
@@ -277,7 +413,23 @@
       "url": "https://open.spotify.com/track/1GpbSYjurHKlxhcxCZ1Bqa"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
@@ -293,27 +445,7 @@
       "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        },
-        {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Won't Cry",
-      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "\u7d66",
         "url": "https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa"
@@ -329,23 +461,7 @@
       "url": "https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 257105,
-      "name": "Cold Hearted",
-      "url": "https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "\u5c31\u5fd8\u4e86\u5427",
         "url": "https://open.spotify.com/album/2i3Y97GZZj6pH1DTYyyrRt"
@@ -361,7 +477,7 @@
       "url": "https://open.spotify.com/track/0l6w3GsvjJWdZHs3eXTjuL"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
         "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
@@ -377,7 +493,7 @@
       "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "\u90fd\u662f\u56e0\u70ba\u611b",
         "url": "https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg"
@@ -393,7 +509,7 @@
       "url": "https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "Top Gun: Maverick (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz"
@@ -409,23 +525,7 @@
       "url": "https://open.spotify.com/track/1c2hJSwcCfoPEw1su83Sw0"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -441,7 +541,23 @@
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "Holy Trip!",
         "url": "https://open.spotify.com/album/4xI5LoEWLxoTm4DNa4fSUn"
@@ -457,151 +573,7 @@
       "url": "https://open.spotify.com/track/53yiHIP3ptxWtT4ambRcgb"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "REAL LIFE",
-        "url": "https://open.spotify.com/album/61lJ7RLdtuMb8vxZB47W4i"
-      },
-      "artists": [
-        {
-          "name": "NICKTHEREAL",
-          "url": "https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70"
-        }
-      ],
-      "duration_ms": 250941,
-      "name": "\u611b\u4e0a\u4f60\u7b97\u6211\u8ce4",
-      "url": "https://open.spotify.com/track/3jdy4aOla1dwYIqwp69JJN"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "\u95f4\u8ddd",
-        "url": "https://open.spotify.com/album/1wccrWdon60UC49GbPvCyO"
-      },
-      "artists": [
-        {
-          "name": "en",
-          "url": "https://open.spotify.com/artist/1Gv7r0FAYOhJF8Dzi6MebN"
-        }
-      ],
-      "duration_ms": 283969,
-      "name": "\u95f4\u8ddd",
-      "url": "https://open.spotify.com/track/4U0bL1ouvksMgvXU2aKq4O"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "LINK",
-        "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 318938,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f"
-      },
-      "artists": [
-        {
-          "name": "\u827e\u8587",
-          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
-        }
-      ],
-      "duration_ms": 220962,
-      "name": "\u5931\u91cd\u524d\u5e78\u798f",
-      "url": "https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
-      "album": {
-        "name": "You Don't Belong to Me (\"More than Blue\" TV Series Theme Song)",
-        "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 322266,
-      "name": "You Don't Belong to Me - \"More than Blue\" TV Series Theme Song",
-      "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
-    },
-    {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "\u52c7\u6c14",
         "url": "https://open.spotify.com/album/0CVoVI7UnycE7lcKcKqoeU"
@@ -617,151 +589,151 @@
       "url": "https://open.spotify.com/track/5rY7xc2h5Imj6iFn97h8Qj"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+        "name": "REAL LIFE",
+        "url": "https://open.spotify.com/album/61lJ7RLdtuMb8vxZB47W4i"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "NICKTHEREAL",
+          "url": "https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70"
         }
       ],
-      "duration_ms": 174386,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
+      "duration_ms": 250941,
+      "name": "\u611b\u4e0a\u4f60\u7b97\u6211\u8ce4",
+      "url": "https://open.spotify.com/track/3jdy4aOla1dwYIqwp69JJN"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "\u6211\u80af\u5b9a\u5728\u5e7e\u767e\u5e74\u524d\u5c31\u8aaa\u904e\u611b\u4f60",
-        "url": "https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i"
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
       },
       "artists": [
         {
-          "name": "\u544a\u4e94\u4eba",
-          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
         }
       ],
-      "duration_ms": 349773,
-      "name": "\u62ab\u661f\u6234\u6708\u7684\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m"
+      "duration_ms": 318938,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "What's on Your Mind (\"My Best Friend's Breakfast\" Theme Song)",
-        "url": "https://open.spotify.com/album/0bk4Iwkx4kZ66ldOfJGQFn"
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
       "artists": [
         {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 294026,
-      "name": "What's on Your Mind - \"My Best Friend's Breakfast\" Theme Song",
-      "url": "https://open.spotify.com/track/6whxKQ0Ocn1FmzpDc7lTHq"
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
         }
       ],
-      "duration_ms": 234226,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5Hkj927A3CCy6Xymg9Z2Br"
+      "duration_ms": 180022,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 257838,
-      "name": "You Are The Firework I Missed",
-      "url": "https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6"
+      "duration_ms": 179453,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "DEPART",
-        "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
+        "name": "\u95f4\u8ddd",
+        "url": "https://open.spotify.com/album/1wccrWdon60UC49GbPvCyO"
       },
       "artists": [
         {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+          "name": "en",
+          "url": "https://open.spotify.com/artist/1Gv7r0FAYOhJF8Dzi6MebN"
         }
       ],
-      "duration_ms": 250898,
-      "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
-      "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"
+      "duration_ms": 283969,
+      "name": "\u95f4\u8ddd",
+      "url": "https://open.spotify.com/track/4U0bL1ouvksMgvXU2aKq4O"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "\u904b\u6c23\u4f86\u5f97\u82e5\u6709\u4f3c\u7121",
-        "url": "https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
       "artists": [
         {
-          "name": "\u544a\u4e94\u4eba",
-          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 357093,
-      "name": "\u5728\u9019\u5ea7\u57ce\u5e02\u907a\u5931\u4e86\u4f60 (\u6232\u5287\u300a\u4ed6\u5011\u5275\u696d\u7684\u90a3\u4e9b\u9ce5\u4e8b\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/1Ytgo9ipdlTsf6wlg6sXf3"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "500\u5929",
-        "url": "https://open.spotify.com/album/4qayKoVULYGmEcyTZNhHqY"
+        "name": "I",
+        "url": "https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f"
       },
       "artists": [
         {
-          "name": "Sophie Chen",
-          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+          "name": "\u827e\u8587",
+          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
         }
       ],
-      "duration_ms": 240217,
-      "name": "500\u5929",
-      "url": "https://open.spotify.com/track/3tHqubDUl1OHGgGz87YreF"
+      "duration_ms": 220962,
+      "name": "\u5931\u91cd\u524d\u5e78\u798f",
+      "url": "https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "\u904b\u6c23\u4f86\u5f97\u82e5\u6709\u4f3c\u7121",
-        "url": "https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5"
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
       },
       "artists": [
         {
-          "name": "\u544a\u4e94\u4eba",
-          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 270760,
-      "name": "\u552f\u4e00 (\u4e09\u7acb/\u53f0\u8996\u6232\u5287\u300a\u6200\u611b\u662f\u79d1\u5b78\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb"
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
         "name": "\u5931\u7720\u75c7\u5019\u7fa4",
         "url": "https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN"
@@ -777,52 +749,84 @@
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "FEARLESS",
-        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+        "name": "You Don't Belong to Me (\"More than Blue\" TV Series Theme Song)",
+        "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 168437,
-      "name": "FEARLESS",
-      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+      "duration_ms": 322266,
+      "name": "You Don't Belong to Me - \"More than Blue\" TV Series Theme Song",
+      "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
     },
     {
-      "added_at": "2022-07-15 12:11:57",
+      "added_at": "2022-07-16 12:08:41",
       "album": {
-        "name": "\u72c2\u4eba",
-        "url": "https://open.spotify.com/album/0fJuIuYXDPonlFi7gUe3ol"
+        "name": "\u6211\u80af\u5b9a\u5728\u5e7e\u767e\u5e74\u524d\u5c31\u8aaa\u904e\u611b\u4f60",
+        "url": "https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i"
       },
       "artists": [
         {
-          "name": "\u856d\u79c9\u6cbb",
-          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
         }
       ],
-      "duration_ms": 205218,
-      "name": "\u6bd2\u85e5",
-      "url": "https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk"
+      "duration_ms": 349773,
+      "name": "\u62ab\u661f\u6234\u6708\u7684\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
+    },
+    {
+      "added_at": "2022-07-16 12:08:41",
+      "album": {
+        "name": "What's on Your Mind (\"My Best Friend's Breakfast\" Theme Song)",
+        "url": "https://open.spotify.com/album/0bk4Iwkx4kZ66ldOfJGQFn"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 294026,
+      "name": "What's on Your Mind - \"My Best Friend's Breakfast\" Theme Song",
+      "url": "https://open.spotify.com/track/6whxKQ0Ocn1FmzpDc7lTHq"
     }
   ],
   "unique_name": "Top 50 - Taiwan",

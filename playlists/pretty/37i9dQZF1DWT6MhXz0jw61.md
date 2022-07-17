@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Lupe Fiasco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,894 likes - 103 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,326 likes - 103 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 7 | [Private Valet](https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Private Valet](https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu) | 2:29 |
 | 8 | [Violence](https://open.spotify.com/track/06r4k5ncgrDmgrf9mlncR4) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Violence](https://open.spotify.com/album/0fwBR8BraCZRRlmX8sS4H3) | 3:54 |
 | 9 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
-| 10 | [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 4:39 |
+| 10 | [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 |
 | 11 | [Dontplaydat \(feat\. Buddy\)](https://open.spotify.com/track/5AwF7f9aYqOsIbiLOZHCjf) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [From The District To The World](https://open.spotify.com/album/03q8PTeivBkbtmpm1GkYtS) | 4:10 |
 | 12 | [FOOTBALL HEADS \(feat\. Benny The Butcher\)](https://open.spotify.com/track/5sSiwYy1FPH8pJVzbD1B5K) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [FOOTBALL HEADS \(feat\. Benny The Butcher\)](https://open.spotify.com/album/213xNC4Hq3tKhvCzXFVuKu) | 3:10 |
 | 13 | [Purple Hearts](https://open.spotify.com/track/401160izncPtca3CmX3dvM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:29 |

@@ -258,24 +258,6 @@
     },
     {
       "album": {
-        "name": "Bu Ke Jiu Yao De...",
-        "url": "https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5"
-      },
-      "artists": [
-        {
-          "name": "WHIZZ",
-          "url": "https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe"
-        }
-      ],
-      "date_added": "2022-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183008,
-      "name": "Bu Ke Jiu Yao De...",
-      "url": "https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF"
-    },
-    {
-      "album": {
         "name": "Bunker Song",
         "url": "https://open.spotify.com/album/36Tug4vZn1tvyBvcszvrbf"
       },
@@ -1009,6 +991,24 @@
       "duration_ms": 134166,
       "name": "Lights Camera Action",
       "url": "https://open.spotify.com/track/0AnwtaDOeEOGfG5WPA3H8Y"
+    },
+    {
+      "album": {
+        "name": "LILITH",
+        "url": "https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j"
+      },
+      "artists": [
+        {
+          "name": "LilithQueenB",
+          "url": "https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195929,
+      "name": "LILITH",
+      "url": "https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn"
     },
     {
       "album": {
@@ -2155,6 +2155,24 @@
       "duration_ms": 238250,
       "name": "\u4e00\u5708",
       "url": "https://open.spotify.com/track/0euVgrqM2KLX4MF3AI3OR9"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u53ef\u6551\u85e5\u7684...",
+        "url": "https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5"
+      },
+      "artists": [
+        {
+          "name": "WHIZZ",
+          "url": "https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183008,
+      "name": "\u4e0d\u53ef\u6551\u85e5\u7684...",
+      "url": "https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF"
     },
     {
       "album": {

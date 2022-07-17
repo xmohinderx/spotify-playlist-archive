@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 203425,
       "name": "All Along",
       "url": "https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 231157,
       "name": "Back on the Fence",
       "url": "https://open.spotify.com/track/4l9ySYsdTRMiUZdNfI0iLR"
@@ -2333,7 +2333,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 192360,
       "name": "Cherry Ice Cream Sundae",
       "url": "https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq"
@@ -2587,7 +2587,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 262466,
       "name": "Compassion (feat. Chiiild)",
       "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
@@ -3793,7 +3793,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
@@ -4105,7 +4105,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 239555,
       "name": "Feral - letherette Remix",
       "url": "https://open.spotify.com/track/7j8IuM0nkPSCcunpMeTXBu"
@@ -4863,7 +4863,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 272221,
       "name": "Gone",
       "url": "https://open.spotify.com/track/69BhPwanJ4VB5lin3lIQ2a"
@@ -4987,7 +4987,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 172643,
       "name": "Good Omen",
       "url": "https://open.spotify.com/track/4wy9BD5OqFNPs5wjhiKdEo"
@@ -5333,7 +5333,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 210853,
       "name": "High Beams",
       "url": "https://open.spotify.com/track/33aO3exOKzz0EtN1Web9oN"
@@ -5653,7 +5653,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 275660,
       "name": "Hope You're Doin' Better",
       "url": "https://open.spotify.com/track/3P4VcP4EN2WmadJeoFalgJ"
@@ -5725,7 +5725,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 187426,
       "name": "How Many Years",
       "url": "https://open.spotify.com/track/4u7hPfDnZX5vTO0u5hltt9"
@@ -5783,7 +5783,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 203240,
       "name": "Hu Man",
       "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
@@ -5925,7 +5925,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 165858,
       "name": "I luve it",
       "url": "https://open.spotify.com/track/3ALa7H3VEkgIn0qFKBY66h"
@@ -5991,7 +5991,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 148004,
       "name": "I Still Need Love",
       "url": "https://open.spotify.com/track/0Kxzo7sUXDDlJoWiLkBucY"
@@ -7516,6 +7516,24 @@
     },
     {
       "album": {
+        "name": "Message (Better Days)",
+        "url": "https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214504,
+      "name": "Message (Better Days)",
+      "url": "https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw"
+    },
+    {
+      "album": {
         "name": "Met at the River",
         "url": "https://open.spotify.com/album/1syDBafjciFbCWgxm9zzP2"
       },
@@ -8077,7 +8095,7 @@
       ],
       "date_added": "2021-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 189333,
       "name": "My Sunrise",
       "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
@@ -8353,7 +8371,7 @@
       ],
       "date_added": "2021-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 177653,
       "name": "No Reply",
       "url": "https://open.spotify.com/track/2VbNBhOi7n7WX1yCVfy77I"
@@ -8685,7 +8703,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 226629,
       "name": "One More Kiss",
       "url": "https://open.spotify.com/track/5Tfhu1RyUKxxkrurEBGPuj"
@@ -9649,7 +9667,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/6CbKL3P77jcUC9CJjpoTlW"
@@ -9923,7 +9941,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 156270,
       "name": "Run",
       "url": "https://open.spotify.com/track/4xpuvoBYwMnUlISll0Jpmb"
@@ -9967,7 +9985,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 242973,
       "name": "Running (feat. Ghetts)",
       "url": "https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI"
@@ -10069,7 +10087,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 174065,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/1vf8YxG1eBOulIZ7dvXRGk"
@@ -10149,7 +10167,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 205384,
       "name": "Searchin",
       "url": "https://open.spotify.com/track/7cBSVs9B6y8Wv623caGmyy"
@@ -10451,7 +10469,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 131546,
       "name": "Siempre Palante",
       "url": "https://open.spotify.com/track/0GEEcuW0obPmq9LbhqXaHN"
@@ -10661,7 +10679,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 143715,
       "name": "So Long",
       "url": "https://open.spotify.com/track/0IgEhBc28DrqMaFCSWrSew"
@@ -10971,7 +10989,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 186947,
       "name": "Spacey Love",
       "url": "https://open.spotify.com/track/6DnlwDcVM1o96ZpAdScdxZ"
@@ -11721,7 +11739,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 188200,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r"
@@ -13193,7 +13211,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 160250,
       "name": "When It's Sweet",
       "url": "https://open.spotify.com/track/3b54cV4Vim1d4YhlDPkVj2"

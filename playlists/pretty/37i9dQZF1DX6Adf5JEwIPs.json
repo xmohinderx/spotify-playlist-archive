@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo de la M\u00fasica Mexicana. Cover: Lluvia Ar\u00e1mbula & Tony Loya",
-  "num_followers": 320300,
+  "num_followers": 320324,
   "original_name": "New M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2022-07-15 17:53:29",
       "album": {
+        "name": "El Gato",
+        "url": "https://open.spotify.com/album/0V5A71CYmZ7OLHkTSdVUdq"
+      },
+      "artists": [
+        {
+          "name": "Los K-Bros",
+          "url": "https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f"
+        },
+        {
+          "name": "Banda Pe\u00f1asco De Zacatecas",
+          "url": "https://open.spotify.com/artist/2RlM0O6BxNXM35gxZsxuPP"
+        }
+      ],
+      "duration_ms": 159770,
+      "name": "El Gato",
+      "url": "https://open.spotify.com/track/2wUgpu6QD4VmC4GSyKBbmv"
+    },
+    {
+      "added_at": "2022-07-15 17:53:29",
+      "album": {
         "name": "Picando Piedra",
         "url": "https://open.spotify.com/album/6aR8QV3de8oCJBviA3DdwL"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 163145,
       "name": "Mi Turno Lleg\u00f3",
       "url": "https://open.spotify.com/track/0AKfvRQTxopwOdgA4UsjIg"
-    },
-    {
-      "added_at": "2022-07-15 17:53:29",
-      "album": {
-        "name": "En El Calor (En Vivo)",
-        "url": "https://open.spotify.com/album/4kvTDRuaG3ekAUm23T1kaV"
-      },
-      "artists": [
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        }
-      ],
-      "duration_ms": 181738,
-      "name": "En El Calor (En Vivo)",
-      "url": "https://open.spotify.com/track/5NzatoVLRk8DNxqAt76uwC"
     },
     {
       "added_at": "2022-07-15 17:53:29",

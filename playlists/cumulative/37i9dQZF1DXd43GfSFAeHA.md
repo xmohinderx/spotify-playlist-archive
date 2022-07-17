@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Marwan Moussa
 
-111 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+112 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [WalGz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 | 2022-05-08 |  |
 | [Rigle Bihum](https://open.spotify.com/track/0EKwe45yFDdC93exb5wYbU) | [Jlove Rap](https://open.spotify.com/artist/1aegd4kIEUFStpypq1OVMW) | [Rigle Bihum](https://open.spotify.com/album/1JXLXotTfpNY59BUnX4IjW) | 2:37 | 2022-05-08 |  |
 | [Rio](https://open.spotify.com/track/3Nmka6ycOZm2jiHyCJCjcc) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Florida](https://open.spotify.com/album/4bSsYSyiKLlP36LA1sY94N) | 3:15 | 2022-05-08 | 2022-07-05 |
+| [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-16 |  |
 | [Satan](https://open.spotify.com/track/7IYweO5tWUkuOstmGEjZEF) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [Satan](https://open.spotify.com/album/6f7EvfMo0wuGvlcz87trL4) | 2:23 | 2022-05-08 |  |
 | [SAWWAN](https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [SAWWAN](https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF) | 2:26 | 2022-06-20 |  |
 | [Sebyan](https://open.spotify.com/track/60apwPsgBtySOwFxnEbu4h) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:06 | 2022-05-08 |  |

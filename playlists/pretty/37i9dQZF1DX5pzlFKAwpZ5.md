@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,835 likes - 99 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,901 likes - 99 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 3 | [Fog](https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Book of Life](https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR) | 4:24 |
 | 4 | [Postcards](https://open.spotify.com/track/6PiGxd8jyfWCGPojb4tpf5) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 5:36 |
 | 5 | [森のざわめき](https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [メンタルトレーナーがすすめる不安解消、安眠ヒーリング 〜自然とつながる音楽〜](https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17) | 5:12 |
-| 6 | [Kokyo](https://open.spotify.com/track/4ZsDYS4F4ilZIsNwnpUrx1) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [My Story, The Buraku Story \(An Original Soundtrack\)](https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP) | 2:31 |
+| 6 | [Kokyo](https://open.spotify.com/track/4ZsDYS4F4ilZIsNwnpUrx1) | [MONO](https://open.spotify.com/artist/70jglQB3DhSl1SLP0RedzJ) | [My Story, The Buraku Story \(An Original Soundtrack\)](https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP) | 2:31 |
 | 7 | [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 |
 | 8 | [193193 Sleep](https://open.spotify.com/track/6XCzzYdNBLpHMHelYHVJoK) | [Chino Yoshio](https://open.spotify.com/artist/6oY3qWxcj7thT8q0zogH8m) | [193193](https://open.spotify.com/album/1fF1ghrobgXFDvlzqyRPRm) | 3:14 |
 | 9 | [Simple](https://open.spotify.com/track/3NycsY2xkMtw46D7rlUs3v) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 3:12 |

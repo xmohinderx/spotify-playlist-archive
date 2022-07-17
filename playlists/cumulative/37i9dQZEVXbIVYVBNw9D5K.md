@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-466 songs - 1 day 0 hr 2 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+467 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Glock](https://open.spotify.com/track/1m5zdKxtqhzg3S4WdiHJeo) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Glock](https://open.spotify.com/album/7Dsuv4908ZXkROMTvaxj0R) | 2:14 | 2021-03-27\* | 2021-05-29 |
 | [Glock 2.0](https://open.spotify.com/track/7erewxPiw8aRERq1sQunA4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Furkan Karakılıç](https://open.spotify.com/artist/419dPBqnjp9M1SPNlne291), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [TEMPZ72](https://open.spotify.com/artist/5u3pCSkmkWnwJ3LLEkfccG), [J2LASTEU](https://open.spotify.com/artist/3uTKNyY4f6vNaedgmLZcHc) | [Glock 2.0](https://open.spotify.com/album/7ss36PjQa9UfQKYMbUM14V) | 5:02 | 2021-05-16 | 2021-05-17 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-26 | 2021-07-11 |
-| [Gostoso](https://open.spotify.com/track/6ALp9AUG6KFmya8JGmOxjt) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 2:37 | 2022-05-14 |  |
+| [Gostoso](https://open.spotify.com/track/6ALp9AUG6KFmya8JGmOxjt) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 2:37 | 2022-05-14 | 2022-07-17 |
 | [Göklerde Süzülürken](https://open.spotify.com/track/1OGVpaGlCnrjrR9UtlWMeP) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Göklerde Süzülürken](https://open.spotify.com/album/1SKF2eZTWPF2MamWPbliE9) | 3:10 | 2021-12-12 | 2022-01-08 |
 | [Gökyüzü Limit](https://open.spotify.com/track/0M32M4AGy7cSa9hk0PE6Rc) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gökyüzü Limit](https://open.spotify.com/album/391uE8gkkv8IrAAHHhEoV5) | 3:00 | 2022-01-29 | 2022-01-31 |
 | [Gökyüzünü Tutamam](https://open.spotify.com/track/4O9hcXs1ohtbw4xnMU8wfo) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Gökyüzünü Tutamam](https://open.spotify.com/album/37iuuRYc7PaOzwN8pWfE8M) | 3:15 | 2022-03-23 |  |
@@ -229,6 +229,7 @@
 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 | 2022-07-02 |  |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-08-18 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2021-12-27 |
+| [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2022-07-16 |  |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-10 |
 | [ISABELLE](https://open.spotify.com/track/3iz0BamLeB8AngNYpjbC6E) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [ISABELLE](https://open.spotify.com/album/11rFmZYfVqcPfpXgyY0tHZ) | 2:16 | 2022-06-16 |  |
 | [Istediğim Olucak](https://open.spotify.com/track/62N782Va609fZ9aDAVIgvN) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Istediğim Olucak](https://open.spotify.com/album/49kxsR1L47TCkRFi5AaPmB) | 2:11 | 2021-06-06 | 2021-08-15 |

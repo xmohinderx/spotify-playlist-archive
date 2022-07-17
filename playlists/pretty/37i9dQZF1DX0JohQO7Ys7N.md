@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H?si=tZIm\-URPTKyf26\-EclPQDQ">Maya Amolo</a> and <a href="https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk?si=JTXiok0RR6OyG9hUKjqwAA">Kalibwani</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,634 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,648 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

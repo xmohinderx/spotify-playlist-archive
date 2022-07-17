@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/40rNjx0M8iAB9kwQB3h1oI?si=rs2hX30KQr6mZhjnnYIPUA">Dinky Kunene</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,880 likes - 80 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,418 likes - 80 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

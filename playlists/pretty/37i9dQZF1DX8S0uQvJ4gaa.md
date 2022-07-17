@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,299 likes - 117 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,709 likes - 117 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

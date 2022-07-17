@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 232200,
       "name": "!Pum-!Pum, Bang-Bang!",
       "url": "https://open.spotify.com/track/5UDoPAgMsSQ4giy3sl2ssa"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 227346,
       "name": "1,2,3,4 - Los Cogelones Remix",
       "url": "https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 157386,
       "name": "Alfa Orionis",
       "url": "https://open.spotify.com/track/0nWJxE0bYCVUbJA4AAtwem"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 169240,
       "name": "Andr\u00f3meda",
       "url": "https://open.spotify.com/track/0mQxxhASHDdQLSWRQLv7Hh"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 145200,
       "name": "Aqua Velva",
       "url": "https://open.spotify.com/track/3tLQnUodu2YkdYcUJcmdQA"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 121480,
       "name": "Atlantida",
       "url": "https://open.spotify.com/track/0DlOs6XlfBdI5kEWBK8zh3"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 171226,
       "name": "Azteca a Go-Go",
       "url": "https://open.spotify.com/track/4ydLoE8RpZv1AVqvDocfsv"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 283097,
       "name": "Bleserone",
       "url": "https://open.spotify.com/track/1uRvMBHQEXqAsoPmxR4VBN"
@@ -498,6 +498,24 @@
     },
     {
       "album": {
+        "name": "Buena Vibra Social Sound, Vol. 1",
+        "url": "https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu"
+      },
+      "artists": [
+        {
+          "name": "Buena Vibra Social Sound",
+          "url": "https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233299,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3"
+    },
+    {
+      "album": {
         "name": "Acapulco Golden",
         "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
       },
@@ -531,6 +549,24 @@
       "duration_ms": 194367,
       "name": "Calle 24",
       "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
+    },
+    {
+      "album": {
+        "name": "Cayo Diablo",
+        "url": "https://open.spotify.com/album/26b8MK6qY5vIu8iDTcuBIG"
+      },
+      "artists": [
+        {
+          "name": "Los Mambo Jambo",
+          "url": "https://open.spotify.com/artist/4k1oj4XphotyHhFeQ4tWld"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202411,
+      "name": "Cayo Diablo",
+      "url": "https://open.spotify.com/track/6ExDJ26kdkBI6wLMhkyYg0"
     },
     {
       "album": {
@@ -711,7 +747,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 166680,
       "name": "Destino Cruel",
       "url": "https://open.spotify.com/track/7ByLKqJCBIoAJ3q0fOSvWp"
@@ -751,7 +787,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 189196,
       "name": "Dia de Muertos",
       "url": "https://open.spotify.com/track/6ttuYNmBq53CdtX75ia3Dw"
@@ -773,7 +809,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 156546,
       "name": "Double Indemnity",
       "url": "https://open.spotify.com/track/6ESu10WjCs4lKFaBWQOWPb"
@@ -863,7 +899,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 141825,
       "name": "El Bikini de la Chica Popof",
       "url": "https://open.spotify.com/track/5v9qoKW6B0czgAEubebKJt"
@@ -881,7 +917,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 145986,
       "name": "El Exorsista",
       "url": "https://open.spotify.com/track/2uEbPvG2mUuDuvwN3JhPiu"
@@ -917,7 +953,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 250133,
       "name": "El Gran Sur",
       "url": "https://open.spotify.com/track/6yA543x9Q4ayk9nMOBpJ1C"
@@ -935,7 +971,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 158847,
       "name": "El Ma\u00f1anero",
       "url": "https://open.spotify.com/track/5uHhRkcYM1m75a6D8z0QOR"
@@ -1029,7 +1065,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 128000,
       "name": "Eres Feo, Chaval",
       "url": "https://open.spotify.com/track/5DXKOjEC1pDOcAwnYMz9uO"
@@ -1155,7 +1191,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 126336,
       "name": "Fuera Ropa: XX A\u00f1os",
       "url": "https://open.spotify.com/track/1Q5WdqThl9eOa7yfOiMEKY"
@@ -1173,7 +1209,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 123612,
       "name": "Garaje o Muerte",
       "url": "https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ"
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 203320,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/6HwDrDj6wqgw5zsMQJp1cR"
@@ -1245,7 +1281,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 310853,
       "name": "Go Go Girl",
       "url": "https://open.spotify.com/track/5iwUPjhcV5e077W0gR0gJn"
@@ -1281,7 +1317,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 169732,
       "name": "Guitarras de medianoche",
       "url": "https://open.spotify.com/track/7CfehvgXjwgDl3RRxwAvFk"
@@ -1555,7 +1591,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 175853,
       "name": "Junto a Mi",
       "url": "https://open.spotify.com/track/1hHYV4GmMHkfYbM1EM9cGZ"
@@ -1577,7 +1613,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 115293,
       "name": "La Chica Rockabilly",
       "url": "https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv"
@@ -1595,7 +1631,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 201133,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/3pTHO0Q5QlixCL2eGbx1kl"
@@ -1685,7 +1721,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 115266,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
@@ -1739,7 +1775,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 142578,
       "name": "Love Special Delivery",
       "url": "https://open.spotify.com/track/1FAM8gwc0xTtsgIza7JlFs"
@@ -1775,7 +1811,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 170160,
       "name": "Magneto",
       "url": "https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl"
@@ -1805,7 +1841,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 207720,
       "name": "Mala Influencia",
       "url": "https://open.spotify.com/track/1yzoFk7CkO01YSC3GWi5Z1"
@@ -1953,7 +1989,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 251694,
       "name": "Morphological Echo",
       "url": "https://open.spotify.com/track/0Liygw28XGh0DP0EO5lt9D"
@@ -1971,7 +2007,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 174066,
       "name": "Mutantes",
       "url": "https://open.spotify.com/track/0jqpnsBXWrGhf31HIJ6v8E"
@@ -2025,7 +2061,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 117000,
       "name": "Nina",
       "url": "https://open.spotify.com/track/6gQYk680D0HbLMnSJEMaEe"
@@ -2115,7 +2151,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 186144,
       "name": "Persecuci\u00f3n Intergal\u00e1ctica",
       "url": "https://open.spotify.com/track/2Hsmog5eDTnMHlWQuDq7jj"
@@ -2151,7 +2187,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 166440,
       "name": "Phantom of the Highway",
       "url": "https://open.spotify.com/track/61CMs0MZFO5Arpau5P4l3R"
@@ -2169,7 +2205,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "Piangi Con Me",
       "url": "https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB"
@@ -2187,7 +2223,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 158386,
       "name": "Pintor",
       "url": "https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad"
@@ -2205,7 +2241,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 193946,
       "name": "Pirakor",
       "url": "https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE"
@@ -2241,7 +2277,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 239933,
       "name": "Podridos",
       "url": "https://open.spotify.com/track/6nTKlWJw7Ts3uCfxtkSFoy"
@@ -2277,7 +2313,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 173106,
       "name": "Psycho for Your Love",
       "url": "https://open.spotify.com/track/45XtqGyKhOkkYIeOND0KF7"
@@ -2349,7 +2385,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 165937,
       "name": "Relampagore",
       "url": "https://open.spotify.com/track/0eRIwJaZLI6zdks7BXcCma"
@@ -2425,7 +2461,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 183760,
       "name": "Runaway - En Directo",
       "url": "https://open.spotify.com/track/6n9lXiZ7ncFaTQyGV9RaAy"
@@ -2609,7 +2645,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 176831,
       "name": "Space Junket",
       "url": "https://open.spotify.com/track/1yKaipER1IDZhK7xlkG19G"
@@ -2667,7 +2703,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 165720,
       "name": "Surf De L'amour",
       "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
@@ -2739,7 +2775,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 126626,
       "name": "Surfin Beer",
       "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
@@ -2793,7 +2829,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 142914,
       "name": "Tablas",
       "url": "https://open.spotify.com/track/5jb4RcGMQHZFhjXRaXekCI"
@@ -3067,7 +3103,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 126026,
       "name": "Whirlpool",
       "url": "https://open.spotify.com/track/4uUyxCK28787qPada57VMI"
@@ -3089,7 +3125,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 229213,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O"

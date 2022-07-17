@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 劉若英 \(Rene Liu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,496 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,504 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,18 +37,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 27 | [你敢不敢](https://open.spotify.com/track/2bkrZWJ7JRXPOal7pWiyDO) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [理想人生](https://open.spotify.com/album/7dKLZlMYgc3Cz6f0e49gbn) | 3:55 |
 | 28 | [Honey](https://open.spotify.com/track/0nxFhlwYHCYVhvOncvW3Pn) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Honey](https://open.spotify.com/album/77Mqv81S8GxDvP74IRtmFu) | 3:34 |
 | 29 | [原來你什麼都不要](https://open.spotify.com/track/6zwxo8EQqCf9jV3i710vFf) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [姊妹](https://open.spotify.com/album/1jmU2MogimLAfQyAL4QYNn) | 4:48 |
-| 30 | [Dao Dai](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Cheng Bao \(Castle\)](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:26 |
+| 30 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:26 |
 | 31 | [今晚你想念的人是不是我](https://open.spotify.com/track/3TdzZHoQATO9XlGFzGUv9k) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [天生歌姬](https://open.spotify.com/album/2V5Kj9W4gcN44senRcoCAV) | 4:06 |
 | 32 | [猜](https://open.spotify.com/track/515jKw39039ufXjQ8ZiEsN) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [猜](https://open.spotify.com/album/0XyUjHgykrME24vWhD1DL3) | 2:58 |
 | 33 | [你就不要想起我](https://open.spotify.com/track/6AQNQq12X7SkN2VEdYhruE) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [渺小](https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu) | 4:40 |
 | 34 | [少一點天份](https://open.spotify.com/track/0CWgq4gAbT0oB6GSJPwoq5) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [俏摩女搶頭婚 \(電視原聲帶\)](https://open.spotify.com/album/1rn4Jm7LtZ7oqlT2CtZont) | 4:34 |
 | 35 | [底線](https://open.spotify.com/track/4LoJO7TJUdTeJouVIY39ZX) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [底線](https://open.spotify.com/album/7x8AmUq6ICyhqF8ulf0Uui) | 3:08 |
 | 36 | [一起去旅行](https://open.spotify.com/track/1CNj7nG5DtmEJNvM2jyxfY) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [甜蜜生活](https://open.spotify.com/album/4iA19cH9lMSxckaaWb8J8l) | 3:43 |
-| 37 | [Yu Shang Ai](https://open.spotify.com/track/33Qa9FMlFCbWHGaJCcnpEt) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [Meeting Love](https://open.spotify.com/album/50xBfOCnFW58MOYmxljZiJ) | 3:51 |
+| 37 | [遇上愛](https://open.spotify.com/track/33Qa9FMlFCbWHGaJCcnpEt) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [遇上愛](https://open.spotify.com/album/50xBfOCnFW58MOYmxljZiJ) | 3:51 |
 | 38 | [Hotels of Sorrow](https://open.spotify.com/track/1M07r7zZdZE8xyS2lwqGUT) | [Jody Chiang](https://open.spotify.com/artist/3jPL2UtbCi2DuvuK2dolR6), [施文彬](https://open.spotify.com/artist/1haVncLMK8OWph58XceCbG) | [Love Put Aside](https://open.spotify.com/album/0cdxaOT52JQ5c09gP5WQsl) | 4:05 |
 | 39 | [遺失的美好](https://open.spotify.com/track/3kcnCi8MfkMqFKeznqEEOE) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [Over The Rainbow](https://open.spotify.com/album/5pIMneTJoyhQMS9nVPsmcT) | 4:21 |
 | 40 | [什麼幸福](https://open.spotify.com/track/465KVFJoROjvyuPMuoD1Yd) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [什麼幸福](https://open.spotify.com/album/3UdeD3FwDwuR9y1OFaKW5e) | 3:02 |
-| 41 | [Bie Shou Shou Chu](https://open.spotify.com/track/5hl59K5L9dH4ofLs554zrH) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [If You Luv Me](https://open.spotify.com/album/4xfN5uchL7U9aV56ggo8WH) | 4:31 |
+| 41 | [別說出](https://open.spotify.com/track/5hl59K5L9dH4ofLs554zrH) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [如果你愛我](https://open.spotify.com/album/4xfN5uchL7U9aV56ggo8WH) | 4:31 |
 | 42 | [如果有如果](https://open.spotify.com/track/2R6JuT1bLvC8ciqpYeqBz2) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [原來如此!!](https://open.spotify.com/album/7d13UhcqIboxcCDDQShRvN) | 4:59 |
 | 43 | [告訴我](https://open.spotify.com/track/1kI0cGvTPqcEXvwrYidjXg) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [還是會寂寞](https://open.spotify.com/album/6QoQSkyOklbAKOdmHvgRuu) | 5:13 |
 | 44 | [一個人還是想著一個人 \- 《終極一班3》片尾曲](https://open.spotify.com/track/6jStVWa7OfddLSVdAxEyxR) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我是曾沛慈](https://open.spotify.com/album/428cg3yMWFKwXMIg1HGaVd) | 4:52 |

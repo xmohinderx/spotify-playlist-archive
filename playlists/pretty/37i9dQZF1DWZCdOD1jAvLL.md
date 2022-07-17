@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,190 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,463 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 74 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 |
 | 75 | [Burnin'](https://open.spotify.com/track/7hlKyOcn8npRpIl1SGsgOG) | [Marzetti](https://open.spotify.com/artist/2nB7Ws9EvumfMMm6E6YbGA), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Burnin'](https://open.spotify.com/album/36MXx1SbuFEpfGR6C9XVgH) | 4:05 |
 
-Snapshot ID: `MTY1NzkwMzA5NCwwMDAwMDIwOTAwMDAwMTgyMDJiOTljOWYwMDAwMDE4MWZmODhiODA5`
+Snapshot ID: `MTY1Nzk4ODYxMiwwMDAwMDIwYTAwMDAwMTgyMDdkMjdmZjQwMDAwMDE4MjA3ZDI1ZGVk`

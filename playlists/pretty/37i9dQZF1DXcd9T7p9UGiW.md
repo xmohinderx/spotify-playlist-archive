@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y?si=qOtdzjOAQWuX2cYKo1Egpg" > Kojey Radical </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,212 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,232 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 2 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 3 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 |
 | 4 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 |
-| 5 | [how to luv](https://open.spotify.com/track/5ShZiaLJWVt4jRqlqGTTFj) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Isaiah Precious](https://open.spotify.com/artist/0mwsZVjN6cGTH22FEjBC24) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:29 |
+| 5 | [how to luv](https://open.spotify.com/track/5ShZiaLJWVt4jRqlqGTTFj) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:29 |
 | 6 | [Champion](https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:59 |
 | 7 | [Time N Affection](https://open.spotify.com/track/1KapwhqF90mrl8aIlagtQR) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th) | 3:50 |
 | 8 | [Born \(Remix\) \[feat\. Cashh & King Promise\]](https://open.spotify.com/track/6ztz7MysNjHec8CHmigWDp) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Born \(Remix\) \[feat\. Cashh & King Promise\]](https://open.spotify.com/album/5c2opaEOTa8gn5Ufinm3H1) | 2:47 |

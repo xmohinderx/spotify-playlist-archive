@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Bratislava
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,445 likes - 85 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,516 likes - 85 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 11 | [Última Vez](https://open.spotify.com/track/4215lJTemWhVIkb47BMTwZ) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Última Vez](https://open.spotify.com/album/1IYWQ7VreE5z8uWCgbH59A) | 5:22 |
 | 12 | [Eles](https://open.spotify.com/track/1VQJ6RjHsOSFhFvDpzNWOB) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Eles](https://open.spotify.com/album/5N5p9h37jMOiysf0bf3OWy) | 3:19 |
 | 13 | [Bateria Social](https://open.spotify.com/track/1sz0sqdm8bUMLXrTfR5gEE) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/698LkunOLkOj80zdayoiHa) | 2:59 |
-| 14 | [Salvador](https://open.spotify.com/track/40620QtxFau2xe1C7cgMaO) | [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf), [Tangolos Mangos](https://open.spotify.com/artist/6cRf4YyP1I3CSU5NtnYlw6) | [Salvador](https://open.spotify.com/album/5CWkjnsK6xhjsv6ZQ8OlSC) | 6:28 |
+| 14 | [Salvador](https://open.spotify.com/track/40620QtxFau2xe1C7cgMaO) | [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf), [Tangolo Mangos](https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o) | [Salvador](https://open.spotify.com/album/5CWkjnsK6xhjsv6ZQ8OlSC) | 6:28 |
 | 15 | [Ímpar](https://open.spotify.com/track/4Qo4YT6wQz4EkguY7KAINQ) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [ÍMPAR 60](https://open.spotify.com/album/4zqy15IdFuUcqBO1jEEuLN) | 3:00 |
 | 16 | [Aqueles Homens](https://open.spotify.com/track/546dLtXOOsyvEN6jBJSqYz) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL) | [Aqueles Homens](https://open.spotify.com/album/3UHBNu5gqCpsLJsKG6J7gH) | 4:43 |
 | 17 | [Dias da Juventude](https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Dias da Juventude](https://open.spotify.com/album/2Mw5D7bDq20kHVHawd2ovC) | 2:55 |

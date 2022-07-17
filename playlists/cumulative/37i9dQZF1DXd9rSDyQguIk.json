@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "date_added": "2020-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Ain't Got Nobody",
+      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 233560,
       "name": "Ain't No Love In The Heart Of The City - Single Version",
       "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
@@ -113,7 +131,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 216200,
       "name": "All Your Love - Stereo Album Version",
       "url": "https://open.spotify.com/track/6LNgMe8d3Y8xxzJWFqpcRN"
@@ -257,7 +275,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 167040,
       "name": "Born Under A Bad Sign",
       "url": "https://open.spotify.com/track/01UTGeKaSANZCXxkAu6vPY"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 183026,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 215800,
       "name": "Give Me Back My Wig",
       "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 214520,
       "name": "Give Me Back My Wig - Remastered",
       "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 412960,
       "name": "Have You Ever Loved A Woman?",
       "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"

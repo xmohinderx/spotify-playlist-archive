@@ -436,6 +436,24 @@
     },
     {
       "album": {
+        "name": "A.P.T.A",
+        "url": "https://open.spotify.com/album/05fMUIt5I3brgdau91tMR3"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110476,
+      "name": "A.P.T.A",
+      "url": "https://open.spotify.com/track/1FxCzkOYYoILkg3QDqQnwM"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
@@ -5747,7 +5765,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 178064,
       "name": "GET THE POINT",
       "url": "https://open.spotify.com/track/3CgP1CxtvZgIYomCNuP5jG"
@@ -6882,6 +6900,24 @@
     },
     {
       "album": {
+        "name": "HIT",
+        "url": "https://open.spotify.com/album/5H1qCWg1kaLodR8GAPlhkr"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "HIT",
+      "url": "https://open.spotify.com/track/6cxsZBG6pyWdwFvsuvRLcN"
+    },
+    {
+      "album": {
         "name": "Barn av v\u00e5r tid",
         "url": "https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm"
       },
@@ -7357,7 +7393,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
@@ -8223,7 +8259,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 234293,
       "name": "Jag ska f\u00e5nga en \u00e4ngel",
       "url": "https://open.spotify.com/track/3No0idjeViPyWDP4gh1YGo"
@@ -10233,7 +10269,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 179047,
       "name": "MARIA",
       "url": "https://open.spotify.com/track/5D1UkQaChtBhqt3rpeV2DI"
@@ -13296,6 +13332,24 @@
     },
     {
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/5V0EcF3NlXeYoMDB9kWTz2"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131270,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/2XmTl3CSWGHauyjArJMMIT"
+    },
+    {
+      "album": {
         "name": "Say Oui",
         "url": "https://open.spotify.com/album/1YCtHrTMT1tv8hAzYUJDja"
       },
@@ -14457,6 +14511,36 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "album": {
+        "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
+        "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229282,
+      "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
+      "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
     },
     {
       "album": {
@@ -15834,6 +15918,24 @@
     },
     {
       "album": {
+        "name": "Trap",
+        "url": "https://open.spotify.com/album/2BrSwCJGDVzRqnPV6T3ZR6"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Trap",
+      "url": "https://open.spotify.com/track/52Rfxgs43UCT1Y0zeLXtcS"
+    },
+    {
+      "album": {
         "name": "Trapper Of The Year (Intro)",
         "url": "https://open.spotify.com/album/65DP4VYecvLUlUVfCsXPLF"
       },
@@ -16169,7 +16271,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 137400,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/2NxGqx9mDpTzXQJtbYguwi"
@@ -16369,6 +16471,24 @@
       "duration_ms": 146250,
       "name": "v4 (freeslaktish)",
       "url": "https://open.spotify.com/track/3nXc9DDqsY2Y840KbbN8h8"
+    },
+    {
+      "album": {
+        "name": "VAD E DE H\u00c4R?",
+        "url": "https://open.spotify.com/album/7c5UGlBUaND72lQ8lMesHv"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161281,
+      "name": "VAD E DE H\u00c4R?",
+      "url": "https://open.spotify.com/track/30wWZkgDfUCugZlBiaDCax"
     },
     {
       "album": {

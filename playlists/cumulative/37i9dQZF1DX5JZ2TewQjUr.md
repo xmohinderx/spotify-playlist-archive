@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: kiyu
 
-156 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+157 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,6 @@
 | [Blue Moon Day \(feat\. Ashi\)](https://open.spotify.com/track/1rYE5DmMBfJd3TfXJw0cOI) | [Charming Way](https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb), [Ashi](https://open.spotify.com/artist/78J4tTMn2yVUt7k9jwMzCz) | [Blue Moon Day \(feat\. Ashi\)](https://open.spotify.com/album/75lZIFMke0aE5SWjYOtziA) | 3:57 | 2022-05-26 | 2022-06-10 |
 | [Blue Whale](https://open.spotify.com/track/2Fh3qfHQJu8gv95RtDkNML) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Goodbye Tragic Manga](https://open.spotify.com/album/1Mp4lHLibyhbI7ylUdCS8b) | 3:28 | 2022-05-26 |  |
 | [Broken Promise](https://open.spotify.com/track/4q8H4RpARg1R2CQYt4jukc) | [Tang.](https://open.spotify.com/artist/4Mfts7DF4fV8MgUJQIwVLx) | [Broken Promise](https://open.spotify.com/album/7oas2rVf2wUa6tur5mezAf) | 4:20 | 2022-05-26 | 2022-06-10 |
-| [Bu Ke Jiu Yao De...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Bu Ke Jiu Yao De...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 |  |
 | [Bunker Song](https://open.spotify.com/track/6SmLKD0TYw99C9qQvBKhYt) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Bunker Song](https://open.spotify.com/album/36Tug4vZn1tvyBvcszvrbf) | 5:22 | 2022-05-26 | 2022-06-10 |
 | [butterfly girl](https://open.spotify.com/track/2KmTq1OXdZIcEaHaNV1zUp) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [butterfly girl](https://open.spotify.com/album/3GL0FlvXkCofjH2HQUMzrU) | 4:04 | 2022-07-14 |  |
 | [By the Time](https://open.spotify.com/track/4V8pj7EUdmgTZwia2jyODJ) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [By the Time](https://open.spotify.com/album/34yWZHYLkQw6KWa1gHyqGe) | 3:12 | 2022-05-26 | 2022-06-10 |
@@ -60,6 +59,7 @@
 | [L.over Remix](https://open.spotify.com/track/5WTAyEu3w3YIjHN2q8eb61) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [L.over Remix](https://open.spotify.com/album/6gBgfP26HuP5JE2SjFZ0uc) | 3:18 | 2022-05-26 |  |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-05-26 |  |
 | [Lights Camera Action](https://open.spotify.com/track/0AnwtaDOeEOGfG5WPA3H8Y) | [Haysen Cheng](https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK), [Harikiri](https://open.spotify.com/artist/6l8D5mZvv6wusxpawsw1t6) | [Lights Camera Action](https://open.spotify.com/album/5sZg0L4un96F5ed8x2g3XG) | 2:14 | 2022-06-02 |  |
+| [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2022-07-16 |  |
 | [lost you twice](https://open.spotify.com/track/3s5c0uvwMLkFe1f7ow9B0Z) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [lost you twice](https://open.spotify.com/album/4MhFlHb9GRJoHBoLq1d8tx) | 4:28 | 2022-05-26 | 2022-06-10 |
 | [Love, \_\_](https://open.spotify.com/track/3gjKiyC6z1nz81x0PazMb7) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Love, \_\_](https://open.spotify.com/album/6Wz5W6ZiIMHS6i2hyVqtF1) | 6:47 | 2022-05-26 |  |
 | [lover boy](https://open.spotify.com/track/5JgivrabhjmhNhT6JYkwrZ) | [Jud Flores](https://open.spotify.com/artist/5qmT05y59RBZzSGFmgGOV2) | [lover boy](https://open.spotify.com/album/5gd0orG7lr0NceVcjgUxh9) | 3:04 | 2022-05-26 |  |
@@ -121,6 +121,7 @@
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-05-26 |  |
 | [Zi Jork Yip](https://open.spotify.com/track/0ALHyLLnWdAt4i160NlmqU) | [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Zi Jork Yip](https://open.spotify.com/album/1KC3yzxSiXWbA1hlEGQDRq) | 2:48 | 2022-05-26 |  |
 | [一圈](https://open.spotify.com/track/0euVgrqM2KLX4MF3AI3OR9) | [HLau](https://open.spotify.com/artist/7qLp47GBWXHfOnXFhVBMiJ) | [一圈](https://open.spotify.com/album/04v5MzEvR5kcChMMClQHkY) | 3:58 | 2022-05-26 | 2022-06-10 |
+| [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 |  |
 | [二話都說](https://open.spotify.com/track/6cpqG1kjoSbe9wgaSlvMEW) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [二話都說](https://open.spotify.com/album/4qzCwbSnrKcsJHfoPT6Lx1) | 4:44 | 2022-05-26 | 2022-06-10 |
 | [人](https://open.spotify.com/track/0S0kOIu1c594H7nV6B2ttS) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [人](https://open.spotify.com/album/1K3lYhwpjsjnbDplT3euXy) | 4:00 | 2022-05-26 |  |
 | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/track/3jfn6a5nJ1Arc0xWuvsYmi) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/album/2QL7B3R6G4TWXHWOyHHOLd) | 3:38 | 2022-05-26 |  |

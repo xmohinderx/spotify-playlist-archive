@@ -1,6 +1,6 @@
 {
   "description": "Los lanzamientos latinos m\u00e1s destacados. En portada: Tiago PZK y Myke Towers",
-  "num_followers": 896007,
+  "num_followers": 896123,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,26 @@
       "duration_ms": 255363,
       "name": "Malo",
       "url": "https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "NOS ENTENDEMOS",
+        "url": "https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "HIT$ MUSIC",
+          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
+        }
+      ],
+      "duration_ms": 205729,
+      "name": "NOS ENTENDEMOS",
+      "url": "https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -835,7 +855,7 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "DAMALEONA VOL. 1",
+        "name": "DAMALEONA, VOL. 1",
         "url": "https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Rachel Bobbitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,382 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,438 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 19 | [Grocery Store](https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Grocery Store](https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd) | 2:14 |
 | 20 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
 | 21 | [The Devil Is Human](https://open.spotify.com/track/77IYP2HaF1FVdvkGatRhvB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Devil Is Human](https://open.spotify.com/album/6B9SQHcbfa7RUCCDJVnASd) | 3:00 |
-| 22 | [Move Me \- feat\. Carly Rae Jepsen](https://open.spotify.com/track/7hLvlEgz9LoAuWcIoxxVCm) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Move Me](https://open.spotify.com/album/5xDEpaaXahmBHthMV414GK) | 3:59 |
+| 22 | [Move Me](https://open.spotify.com/track/7hLvlEgz9LoAuWcIoxxVCm) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Move Me](https://open.spotify.com/album/5xDEpaaXahmBHthMV414GK) | 3:59 |
 | 23 | [We're Not In Orbit Yet…](https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [We're Not In Orbit Yet…](https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT) | 5:10 |
 | 24 | [Cold Heart \- Single Edit](https://open.spotify.com/track/3mfGUbO81k7NKpoJV6avFk) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Cold Heart](https://open.spotify.com/album/1dRUZa28DglRjudS4GQ9Zz) | 3:30 |
 | 25 | [Don't Come Back](https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt) | 3:37 |

@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Lluvia Arámbula & Tony Loya
 
-478 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+479 songs - 1 day 1 hr 6 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [El Fendi](https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Fendi](https://open.spotify.com/album/1aNlJwycEVQsdsRgHNaHsE) | 3:15 | 2022-06-17 | 2022-06-25 |
 | [El Franki](https://open.spotify.com/track/3BYZ4Vbdlz36gtoPpRDHt0) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [El Franki](https://open.spotify.com/album/0sCrvu5hU6PtOKPYiuecjD) | 3:03 | 2022-05-27 | 2022-06-04 |
 | [El Gatillo](https://open.spotify.com/track/1wxHAiPu0x9JfBqdAsU8F8) | [Lalo Carmona](https://open.spotify.com/artist/0tFTSkJ2ToBALUfpEC8VUP), [Los Mayitos De Sinaloa](https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R) | [El Gatillo](https://open.spotify.com/album/40nHyEbqQuaIUgYQQewp3b) | 3:45 | 2022-07-01 | 2022-07-09 |
+| [El Gato](https://open.spotify.com/track/2wUgpu6QD4VmC4GSyKBbmv) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f), [Banda Peñasco De Zacatecas](https://open.spotify.com/artist/2RlM0O6BxNXM35gxZsxuPP) | [El Gato](https://open.spotify.com/album/0V5A71CYmZ7OLHkTSdVUdq) | 2:39 | 2022-07-15 |  |
 | [El Gucci \(En Vivo\)](https://open.spotify.com/track/1GYgWRnEmggyY0LcyXH8CC) | [Miguel Gonzalez](https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Gucci \(En Vivo\)](https://open.spotify.com/album/5nQ52DxbePaKViVUyPUcGj) | 3:56 | 2022-07-08 | 2022-07-16 |
 | [El Guerito](https://open.spotify.com/track/0Crky4SH1cmhrXdyzTY0t3) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [El Guerito](https://open.spotify.com/album/2nPw3BJ3QoPyfG58lOMiYB) | 2:48 | 2022-06-10 | 2022-06-18 |
 | [El Hijo Ausente](https://open.spotify.com/track/38dv7huCLcCokLZSLW3cFD) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [El Hijo Ausente](https://open.spotify.com/album/2IbLLOWrPszIqTRaHrP1eG) | 2:12 | 2022-05-20 | 2022-05-28 |
@@ -184,7 +185,7 @@
 | [El Wuero](https://open.spotify.com/track/0iLsWAP6fiQOXch1zytHF1) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [El Wuero](https://open.spotify.com/album/6XNLq4gaKARhZWvj1ki26K) | 3:22 | 2022-06-10 | 2022-06-18 |
 | [Ella](https://open.spotify.com/track/1Aj7AsjnQbTJ1advcn25ER) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Ella](https://open.spotify.com/album/50oYSRX2A62t4VLlHr9nFq) | 3:05 | 2022-06-24 | 2022-07-02 |
 | [En Busca Del Amor](https://open.spotify.com/track/71j7pKCwVoXQX2U2addBn8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Busca Del Amor](https://open.spotify.com/album/6OyuwCArxeXhjquo17WHhH) | 2:43 | 2022-06-24 | 2022-07-02 |
-| [En El Calor \(En Vivo\)](https://open.spotify.com/track/5NzatoVLRk8DNxqAt76uwC) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Calor \(En Vivo\)](https://open.spotify.com/album/4kvTDRuaG3ekAUm23T1kaV) | 3:01 | 2022-07-15 |  |
+| [En El Calor \(En Vivo\)](https://open.spotify.com/track/5NzatoVLRk8DNxqAt76uwC) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Calor \(En Vivo\)](https://open.spotify.com/album/4kvTDRuaG3ekAUm23T1kaV) | 3:01 | 2022-07-15 | 2022-07-17 |
 | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1) | 3:35 | 2022-06-10 | 2022-06-18 |
 | [En La Ciudad \- En Vivo](https://open.spotify.com/track/5vsyBiTQ70fEmH2lxZZ4xG) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW) | [En Vivo Desde Garage MQ](https://open.spotify.com/album/2yapkuQw2TPW4y6uOf3ein) | 2:25 | 2022-06-24 | 2022-07-02 |
 | [En Mi Copa](https://open.spotify.com/track/5yNNVEefB9IsAAqo3f0BPc) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Guapo Mafioso](https://open.spotify.com/artist/6qtQo5MNDq83A1EFwV9c7a) | [En Mi Copa](https://open.spotify.com/album/5tDK7VykqM3GdONG50l8dl) | 3:30 | 2022-07-01 | 2022-07-09 |

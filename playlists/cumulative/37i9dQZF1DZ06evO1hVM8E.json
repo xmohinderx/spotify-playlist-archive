@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 170586,
       "name": "El 24 de Junio",
       "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 210666,
       "name": "El Gato Negro",
       "url": "https://open.spotify.com/track/7qQNloY3tLiCjjuXOMhA9O"
@@ -506,6 +506,24 @@
     },
     {
       "album": {
+        "name": "Para Estar a Mano",
+        "url": "https://open.spotify.com/album/1LLGxwtJvzHAGslbUrVPn8"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151053,
+      "name": "La Chica Fresa",
+      "url": "https://open.spotify.com/track/4CLffwkFj6NNeB3i9sEBrT"
+    },
+    {
+      "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
@@ -517,7 +535,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 166112,
       "name": "La Feria de San Marcos",
       "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 213640,
       "name": "Los Traficantes",
       "url": "https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 191533,
       "name": "Ma\u00f1ana Se Lo Digo",
       "url": "https://open.spotify.com/track/0MxxcP0LDkam6gHgFFerOX"
@@ -888,6 +906,28 @@
     },
     {
       "album": {
+        "name": "Pelotero a la Bola",
+        "url": "https://open.spotify.com/album/60ImhtY4GfPH2J3gX0kCoR"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Su Majestad Mi Banda el Mexicano de Casimiro Zamudio",
+          "url": "https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179777,
+      "name": "Pelotero a la Bola",
+      "url": "https://open.spotify.com/track/4tftetgzdzAkomjDyI65eK"
+    },
+    {
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -1033,7 +1073,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 165040,
       "name": "Se Me Hizo Vicio",
       "url": "https://open.spotify.com/track/5ojaAFtMvJuDzN2hCFy1aX"

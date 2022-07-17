@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Interpol
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,568 likes - 55 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,787 likes - 55 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 23 | [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 |
 | 24 | [American Bollywood](https://open.spotify.com/track/2qbKL3HbAu4H7YkJvCCqAz) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT I: ORIGINS](https://open.spotify.com/album/68azlgNVhA5BdkZlMtF1z8) | 4:44 |
 | 25 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 |
-| 26 | [The Art Of Advertising](https://open.spotify.com/track/615AQYplkUK14IWZr25wfU) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment \(Xtra Equipment\)](https://open.spotify.com/album/4OQdkUmauEtIBzKAzbwacz) | 3:35 |
+| 26 | [The Art Of Advertising](https://open.spotify.com/track/615AQYplkUK14IWZr25wfU) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Xtra Equipment](https://open.spotify.com/album/4OQdkUmauEtIBzKAzbwacz) | 3:35 |
 | 27 | [Loose Talk](https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Loose Talk](https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ) | 3:26 |
 | 28 | [Alter Ego](https://open.spotify.com/track/1miBcqjGpcoTBcdjnFjJrG) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Alter Ego](https://open.spotify.com/album/0vC6K5RFvqdE2CSpYZQXIz) | 2:20 |
 | 29 | [Hell is in Your Head](https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:03 |

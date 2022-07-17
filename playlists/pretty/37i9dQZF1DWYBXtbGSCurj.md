@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: PL Quest
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,588 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,877 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 31 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
 | 32 | [Considerado](https://open.spotify.com/track/79TKqtwDFzthT5vbQePR8u) | [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [PTK](https://open.spotify.com/artist/4M7XfX7J0sw520nrZXkbpL), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei) | [Considerado](https://open.spotify.com/album/0coXGofohikvMkpWSLBzum) | 2:24 |
 | 33 | [Cardi B](https://open.spotify.com/track/2MQuJ8rFdgKfdGzIagXD0G) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Cardi B](https://open.spotify.com/album/7zsFILh0l5ht7V9OqDpqHM) | 2:23 |
-| 34 | [AGIOTA](https://open.spotify.com/track/0CnVn6ujo9knn8uAzmXlmc) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv), [Turtle Flame](https://open.spotify.com/artist/2HHCU5N6OLMXvb3xXKKesI) | [AGIOTA](https://open.spotify.com/album/5iCu2Lq6KcunbUSqKsP6hT) | 2:34 |
+| 34 | [AGIOTA](https://open.spotify.com/track/0CnVn6ujo9knn8uAzmXlmc) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv), [Turtle Flame](https://open.spotify.com/artist/2HHCU5N6OLMXvb3xXKKesI) | [AGIOTA](https://open.spotify.com/album/5iCu2Lq6KcunbUSqKsP6hT) | 2:31 |
 | 35 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 |
 | 36 | [Proposta](https://open.spotify.com/track/73MNsAhT4NItKH19z9B1KR) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Proposta](https://open.spotify.com/album/5DnJ8Qq6S8sQxkoZ2ItdaQ) | 2:38 |
 | 37 | [Tava Bom](https://open.spotify.com/track/78vcgnlsXbztZDZC9R5FUp) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mateca x Teto](https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7) | 3:46 |

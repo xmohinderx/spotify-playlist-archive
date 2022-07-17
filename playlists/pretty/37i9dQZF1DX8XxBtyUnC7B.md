@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XxBtyUnC7B.md) - [plain]
 
 > Relax and transport yourself to a tranquil sojourn in France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,155 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,195 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

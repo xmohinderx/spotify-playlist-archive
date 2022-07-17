@@ -982,6 +982,32 @@
     },
     {
       "album": {
+        "name": "Summertape",
+        "url": "https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7"
+      },
+      "artists": [
+        {
+          "name": "Pseudospettri",
+          "url": "https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE"
+        },
+        {
+          "name": "Koaku",
+          "url": "https://open.spotify.com/artist/4Izpu8sOW1lH8u82uK6BDK"
+        },
+        {
+          "name": "Lanyard",
+          "url": "https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198370,
+      "name": "Le Tue Insicurezze",
+      "url": "https://open.spotify.com/track/3CiAz5liYGnMMMsdappkTu"
+    },
+    {
+      "album": {
         "name": "Letto grande",
         "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
@@ -1001,6 +1027,32 @@
       "duration_ms": 211500,
       "name": "Letto grande",
       "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+    },
+    {
+      "album": {
+        "name": "Summertape",
+        "url": "https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7"
+      },
+      "artists": [
+        {
+          "name": "Pseudospettri",
+          "url": "https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE"
+        },
+        {
+          "name": "Drew Seele",
+          "url": "https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ"
+        },
+        {
+          "name": "Keith Blond",
+          "url": "https://open.spotify.com/artist/6UqFlbiCYRrMnEmzmlArju"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213151,
+      "name": "Luglio",
+      "url": "https://open.spotify.com/track/3UEq7NSWicVkITbVoV1qvM"
     },
     {
       "album": {

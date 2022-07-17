@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Stefflondon
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,693 likes - 63 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,903 likes - 63 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

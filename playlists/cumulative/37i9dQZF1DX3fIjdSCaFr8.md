@@ -4,7 +4,7 @@
 
 > Enjoy the drama 'YUMI's Cells,' OSTs in a different way with the lines in the drama\. You can watch this drama on TVING as well\. \(드라마 '유미의 세포들'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. TVING에서도 유미의 세포들을 감상하실 수 있습니다.\)
 
-35 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/5cEbykvXLczJRI8HuX8poy)
+39 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/5cEbykvXLczJRI8HuX8poy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,8 @@
 | [Belief \- Instrumental](https://open.spotify.com/track/5YDp8W9WA2La8q2gYLAriq) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [YUMI's Cells, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5JkMl7krtBb2P8QmwR7ua2) | 4:53 | 2022-07-08 |  |
 | [Between Hearts](https://open.spotify.com/track/50U4WOkgKP22u7zSIYHNyH) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [YUMI's Cells 2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/534HOS8qvZkczfMp1zI1cy) | 3:26 | 2022-07-08 |  |
 | [Between Hearts \- Instrumental](https://open.spotify.com/track/4a8Yr17U4C4mUlMX8QHAQb) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [YUMI's Cells 2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/534HOS8qvZkczfMp1zI1cy) | 3:26 | 2022-07-08 |  |
+| [Dark Hearts Will Pass Away Tonight \(Prod\. by OKDAL\)](https://open.spotify.com/track/6bUUMau43KRkNpYmhkG9qW) | [KIM GO EUN](https://open.spotify.com/artist/4G0khHYSAyq05njsT39Vp5) | [YUMI's Cells 2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5uAxDKhSbh4cxPnvUX5fRf) | 3:20 | 2022-07-16 |  |
+| [Dark Hearts Will Pass Away Tonight \(Prod\. by OKDAL\) \- Instrumental](https://open.spotify.com/track/64GKANQq79jU9ibf2J9FdA) | [KIM GO EUN](https://open.spotify.com/artist/4G0khHYSAyq05njsT39Vp5) | [YUMI's Cells 2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5uAxDKhSbh4cxPnvUX5fRf) | 3:20 | 2022-07-16 |  |
 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 | 2022-07-08 |  |
 | [Everyday \- Instrumental](https://open.spotify.com/track/0lXfJz2uaTzyXiyKlSKQkt) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 | 2022-07-08 |  |
 | [HELLO FROM KIM GO EUN](https://open.spotify.com/track/5QXW6qJDDRb04w5vrh2EQB) | [KIM GO EUN](https://open.spotify.com/artist/4G0khHYSAyq05njsT39Vp5) | [<YUMI's Cells> OST PLAYLIST](https://open.spotify.com/album/4QqAlwb2SXhCzDbxHSB3hd) | 0:13 | 2022-07-08 |  |
@@ -39,6 +41,8 @@
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-08 |  |
 | [Shining on Your Night \- Instrumental](https://open.spotify.com/track/3GSs2AyDzsScsxcZTslmk2) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:41 | 2022-07-08 |  |
 | [Spotlight](https://open.spotify.com/track/6LPOb5pIzrUCIBHOIaQU9b) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [YUMI's Cells, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q2z3imJ8bbrXqeV7y7wEx) | 4:00 | 2022-07-08 |  |
+| [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 | 2022-07-16 |  |
+| [The Island \- Instrumental](https://open.spotify.com/track/7j59ug8RDP3IMtWWFghyID) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 | 2022-07-16 |  |
 | [Timing](https://open.spotify.com/track/2EptbHUwcWTCWcZhOBpatM) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [YUMI's Cells, Pt\. 11 \(Original Television Soundtrack\)](https://open.spotify.com/album/1BiZYg0Af6JnUeFbUI5ckl) | 3:52 | 2022-07-08 |  |
 | [Timing \- Instrumental](https://open.spotify.com/track/4M0m3ud0fML2o1lDWAG0dx) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [YUMI's Cells, Pt\. 11 \(Original Television Soundtrack\)](https://open.spotify.com/album/1BiZYg0Af6JnUeFbUI5ckl) | 3:52 | 2022-07-08 |  |
 | [Where My Heart Falls](https://open.spotify.com/track/2MCa5ktV8zkr7RU5SXUZuR) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [YUMI's Cells 2, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1nlFZlSFC4KRRZLoUMiCYz) | 4:08 | 2022-07-08 |  |

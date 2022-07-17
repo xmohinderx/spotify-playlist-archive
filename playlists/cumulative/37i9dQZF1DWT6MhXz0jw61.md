@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Lupe Fiasco
 
-217 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
+217 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Cut](https://open.spotify.com/track/4VlO4Z7oZIjQRIPWOj4Qc0) | [Jesse Boone](https://open.spotify.com/artist/6aQVqPrSgYTlUKGI5lD5NO) | [Cut](https://open.spotify.com/album/23voq9b1N3vrMgg7ZA643f) | 2:11 | 2021-08-13 | 2022-04-16 |
 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-05-06 |  |
 | [Damaged](https://open.spotify.com/track/1ZXIe812rP3Wja2FRzw8LA) | [Harriis](https://open.spotify.com/artist/1xyRJdB60PqyBuTl5eQxwu) | [Damaged](https://open.spotify.com/album/5s7WAcvW7eIOme2nMrNe2F) | 2:32 | 2021-07-09 | 2022-04-23 |
-| [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 4:39 | 2022-07-08 |  |
+| [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 | 2022-07-08 |  |
 | [Distant](https://open.spotify.com/track/3mDaCneJoPlAexIC7cXCFV) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Mirrors In A Dark Room](https://open.spotify.com/album/3BK4u957KIbGWwCei94bgO) | 2:55 | 2021-05-21 | 2022-02-12 |
 | [diving board](https://open.spotify.com/track/04npC3La37wuGbnjn4F4W1) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [diving board](https://open.spotify.com/album/0MhNRDBlvakoAVEZ4WLwlz) | 2:45 | 2022-03-11 |  |
 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:04 | 2022-05-06 |  |

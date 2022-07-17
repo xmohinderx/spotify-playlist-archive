@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > belive the hype Cover: Alice Longyu Gao & Oli Sykes
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,260 likes - 97 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,467 likes - 97 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

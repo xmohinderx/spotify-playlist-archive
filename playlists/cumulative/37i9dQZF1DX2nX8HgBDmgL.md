@@ -4,7 +4,7 @@
 
 > Desi music across borders and genres\. Cover: Twinjabi
 
-90 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
+91 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Daily](https://open.spotify.com/track/1YHQk3mvPu3CJediWgaiNa) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Daily](https://open.spotify.com/album/19ENjuaSWREwNmdVuP7ddA) | 2:58 | 2022-05-10 |  |
 | [Dance](https://open.spotify.com/track/7fWMvmH2YLxabiHfxH03CO) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK), [Juggy D](https://open.spotify.com/artist/5Lt1YtQ7PK7ANlfAM9vqVj) | [Dance](https://open.spotify.com/album/4iVZa6nsYDb5XYA3gwBg1v) | 3:29 | 2021-11-11 |  |
 | [Dark Knight](https://open.spotify.com/track/5flPNCDnZuil33Bpav6iFl) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Dark Knight](https://open.spotify.com/album/3VuCQ8Yj7HjGODQTePfvQq) | 2:21 | 2021-11-11 |  |
+| [Dime Dime](https://open.spotify.com/track/4kNTujhP4ZNfK2W93XyOma) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Dime Dime](https://open.spotify.com/album/68AtbgSozP9VW7NYQs9OJB) | 2:54 | 2022-07-16 |  |
 | [Divas](https://open.spotify.com/track/4qwOtfS2I6pPSt3CKq9TSz) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Divas](https://open.spotify.com/album/4ji38NmCuB2K32ZV3V7N6B) | 3:07 | 2021-11-11 |  |
 | [Drunk on You \(feat\. Hard Bazy\)](https://open.spotify.com/track/1EJsnnM8Mc4jzUfXOQ67hr) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR), [Hard Bazy](https://open.spotify.com/artist/31YGqpZ2ca5sPjbbzM5qcl) | [Drunk on You \(feat\. Hard Bazy\)](https://open.spotify.com/album/0lZYBzfgWDsvovkfAesZqO) | 2:48 | 2021-11-11 |  |
 | [Dudh Chaa](https://open.spotify.com/track/0GOM1Lr482a5XGjOhzfvma) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK) | [29 Summers](https://open.spotify.com/album/2nU4RgpGtF6rnSzcx9EJuC) | 2:43 | 2021-11-11 |  |

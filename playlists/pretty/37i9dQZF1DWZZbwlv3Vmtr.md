@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,504 likes - 314 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,563 likes - 314 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 138 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 |
 | 139 | [Lakeview Hotel](https://open.spotify.com/track/64KLZ6ghwEzRH6yAoNfEj2) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Charlie Young](https://open.spotify.com/artist/5HPpufL8VIMnpG7423YMmH) | [Lakeview Hotel](https://open.spotify.com/album/0e5iO95x8kua0wwFU0H3qe) | 2:33 |
 | 140 | [Wisps Of Mist](https://open.spotify.com/track/2kfrKI1L3INqbbTY7zDWZ5) | [Kosibeats](https://open.spotify.com/artist/2Yrmz6F0FhNkIVOt2Lfco3), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Wisps Of Mist](https://open.spotify.com/album/3ojY79JiyqFY39CIwmZ5oD) | 2:26 |
-| 141 | [Breathe](https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/2vHqShXWbUg96vQLLyhXCG) | [Breathe](https://open.spotify.com/album/5ZUdrgtFWsHUlKf1y0QF7Z) | 2:14 |
+| 141 | [Breathe](https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/5ZUdrgtFWsHUlKf1y0QF7Z) | 2:14 |
 | 142 | [new apartment](https://open.spotify.com/track/1BN4HXxjwBf5cUUh5eJPyo) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [new apartment](https://open.spotify.com/album/4osMRsytBGU8nfZZexrK2E) | 2:07 |
 | 143 | [Elysian Fields](https://open.spotify.com/track/7MtTVOpbquSu8SCiNQY0fS) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [DJ Lagoa](https://open.spotify.com/artist/4YFewOTyrU36fR7k3LkIY4) | [Elysian Fields](https://open.spotify.com/album/4KM1V8eVOymeKDI64aInfM) | 2:30 |
 | 144 | [Reflections](https://open.spotify.com/track/1IFvlYEQQJ3MYveHXCFdtH) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Reflections](https://open.spotify.com/album/5nOykl9d6B5R8UF8f7OGBU) | 2:20 |

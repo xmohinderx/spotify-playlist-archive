@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 240640,
       "name": "40 West",
       "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 236280,
       "name": "Ashland Breakdown",
       "url": "https://open.spotify.com/track/416qnXql5nHfTuj7le2jzC"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 114133,
       "name": "Banjo in the Hollow",
       "url": "https://open.spotify.com/track/3aJtHHAiq4HGM1FPtMDbLy"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 257939,
       "name": "Battersea Skillet Liquor",
       "url": "https://open.spotify.com/track/0Ca4WeIIiJrgapaPF1j2WK"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 211640,
       "name": "Black Rock",
       "url": "https://open.spotify.com/track/1LR2pHbA2MpfC6CGo0Yaxq"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 212533,
       "name": "Bluegrass Boogie",
       "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
@@ -756,6 +756,28 @@
     },
     {
       "album": {
+        "name": "Chasin' Skies",
+        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
+      },
+      "artists": [
+        {
+          "name": "Tessa Lark",
+          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158693,
+      "name": "Chasin' Skies",
+      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
+    },
+    {
+      "album": {
         "name": "58957: The Bluegrass Guitar Collection",
         "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
       },
@@ -785,7 +807,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 205293,
       "name": "Choctaw Hayride - Live",
       "url": "https://open.spotify.com/track/1gdcr3HD7QGSWZF81hUPjb"
@@ -853,7 +875,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 186333,
       "name": "Clinch Mountain Backstep",
       "url": "https://open.spotify.com/track/4xrjA0w7N1YkheJWzVb32P"
@@ -969,7 +991,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 68725,
       "name": "Cumberland Gap",
       "url": "https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs"
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 218850,
       "name": "Cup & Porch",
       "url": "https://open.spotify.com/track/69IcY4RMhhYtxDv6JTP66k"
@@ -1157,7 +1179,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 264333,
       "name": "Fall Creek Falls",
       "url": "https://open.spotify.com/track/3oCvqK23kHOETKauiNz3rc"
@@ -1287,7 +1309,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 172040,
       "name": "Foggy Mountain Chimes",
       "url": "https://open.spotify.com/track/1g5DnrFCr1Qc4aqAT4JdaE"
@@ -1305,7 +1327,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 159130,
       "name": "From Sea To Sky",
       "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
@@ -1417,7 +1439,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 326266,
       "name": "Hangman's Reel",
       "url": "https://open.spotify.com/track/41bwKV2bvP1uYMRJ2nH5Nc"
@@ -1539,7 +1561,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 244706,
       "name": "If I Knew - Instrumental",
       "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
@@ -1611,7 +1633,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 157826,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/4Pr6UyUObaYpRoljvPIlIU"
@@ -1737,7 +1759,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 77493,
       "name": "Little Sadie",
       "url": "https://open.spotify.com/track/1VkBsbIRNgkpj0cLd6xz5k"
@@ -1861,7 +1883,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 180666,
       "name": "Monroe's Hornpipe",
       "url": "https://open.spotify.com/track/0uVLFiXalgRPbVLLmt8FBO"
@@ -2155,7 +2177,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 154946,
       "name": "Peace Behind the Bridge",
       "url": "https://open.spotify.com/track/0Fv9j3J5uPbYaiiWiEJNvC"
@@ -2217,7 +2239,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 213626,
       "name": "Rainbow Bridge",
       "url": "https://open.spotify.com/track/7iGwt0pkSxGRo5u5yHE5fn"
@@ -2325,7 +2347,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 274760,
       "name": "Rolling Blackout",
       "url": "https://open.spotify.com/track/4649eRcX3LkZ8HU49VnWK2"
@@ -2659,7 +2681,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 179000,
       "name": "Southern Flavor",
       "url": "https://open.spotify.com/track/09t823b4wbpbWRQ4TmQTJ2"
@@ -2793,7 +2815,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 265960,
       "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
       "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
@@ -2891,7 +2913,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 203520,
       "name": "The Road to Malvern",
       "url": "https://open.spotify.com/track/6McZUgikkzu7x5es9FazPA"
@@ -2913,7 +2935,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 206106,
       "name": "Town's End",
       "url": "https://open.spotify.com/track/6fpL9QnornxpYhhWw6aWyM"
@@ -2949,7 +2971,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 251026,
       "name": "Tree King Creek",
       "url": "https://open.spotify.com/track/2eX598AcoEbR1KxPqVAKTP"
@@ -3041,7 +3063,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 246357,
       "name": "Waiting for Erin",
       "url": "https://open.spotify.com/track/3KcLU9b2efCbtexlwWPoJI"
@@ -3081,7 +3103,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 254226,
       "name": "Watch 'At Breakdown",
       "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
@@ -3239,7 +3261,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 257161,
       "name": "Wild Rag",
       "url": "https://open.spotify.com/track/1d7ckfsUqNHIDj77uuOx1r"
@@ -3297,7 +3319,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 273586,
       "name": "Winnipeg",
       "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
@@ -3315,7 +3337,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 174093,
       "name": "Wolf Moon",
       "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"

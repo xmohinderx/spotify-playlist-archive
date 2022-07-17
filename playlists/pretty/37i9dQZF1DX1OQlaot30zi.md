@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, thasupreme, Sfera, Lazza, Taxi B e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,176 likes - 90 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,219 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 33 | [Dope Muzik](https://open.spotify.com/track/2fAN7KM9QkJgzc9owV2u9Q) | [Lil Fabris](https://open.spotify.com/artist/6Pdf29AAm1uzY3ad2v546s), [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq) | [Dope Muzik](https://open.spotify.com/album/4lVxQ7QPrKySYoNP6MmCMD) | 3:03 |
 | 34 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4dNo8BDY0ZU7fJhiTQZuIq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3KdmwHZ4sZ3IClfMmjs1DL) | 3:17 |
 | 35 | [Vibes](https://open.spotify.com/track/52EmmCQpz0wmzsHzXQQvSF) | [Tommy Kuti](https://open.spotify.com/artist/2mWX0Nkrgzr94V6KDxGzzA), [Yves the Male](https://open.spotify.com/artist/2zZPSIDFYkEJrylVe06YLE), [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Vibes](https://open.spotify.com/album/6aqMgkqzSZ6FWy74SGLsoN) | 3:28 |
-| 36 | [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 3:31 |
+| 36 | [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 2:17 |
 | 37 | [Brutti voti](https://open.spotify.com/track/3Jzl923l0SaQksMeLgJr0X) | [Vago](https://open.spotify.com/artist/02HjKECtF08ZgloUOOyWHo) | [Brutti voti](https://open.spotify.com/album/1yyNwp1HEGtF8GiA8itFum) | 3:28 |
 | 38 | [Origami](https://open.spotify.com/track/3X07hlEHm3KqCBOCVuO1ga) | [Ill Rave](https://open.spotify.com/artist/2UED7orH77Ei8kwVG4TNAJ) | [Origami](https://open.spotify.com/album/5xCeFPWG0bYPUHXRvRtNL4) | 2:39 |
 | 39 | [Casa a Paris](https://open.spotify.com/track/1Pq9nvcC0y4zLm00KUSS9e) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC) | [Casa a Paris](https://open.spotify.com/album/7499rzqlco9yLcxYXh3vNK) | 3:30 |

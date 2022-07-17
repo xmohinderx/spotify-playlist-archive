@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 313840,
       "name": "Es Por Amor",
       "url": "https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "Frijolero",
       "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 257440,
       "name": "La Vida Gacha",
       "url": "https://open.spotify.com/track/2YUv7bKZMxCIESQkaPH67Z"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 269813,
       "name": "Llamame, Si Me Necesitas",
       "url": "https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 194226,
       "name": "Lunes Por La Madrugada",
       "url": "https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 208800,
       "name": "Nos Siguen Pegando Abajo",
       "url": "https://open.spotify.com/track/3cQjYe9lW3LNWGR52yyZJ3"
@@ -1875,7 +1875,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 207186,
       "name": "Ojal\u00e1 que llueva caf\u00e9",
       "url": "https://open.spotify.com/track/7dDDsr1cMbpkE5MZLy8eHA"
@@ -2325,7 +2325,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
@@ -2404,6 +2404,28 @@
     },
     {
       "album": {
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
+    },
+    {
+      "album": {
         "name": "El Amor Despu\u00e9s del Amor",
         "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
@@ -2433,7 +2455,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 272520,
       "name": "Un Amor Violento",
       "url": "https://open.spotify.com/track/7zpNN01FLMP70EYGcxCCDY"
@@ -2451,7 +2473,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 250693,
       "name": "Un Gran Circo",
       "url": "https://open.spotify.com/track/5BwVAAJzAuzpDHeWuKdFsN"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 187304,
       "name": "Above The Tide",
       "url": "https://open.spotify.com/track/6LKpiaIF8jCAGj8W96WNQr"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 135600,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 265465,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/0YLqnkxAp7Bwbi9V1X93xL"
@@ -451,6 +451,32 @@
       "duration_ms": 205484,
       "name": "Come & Go (with Marshmello)",
       "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
+    },
+    {
+      "album": {
+        "name": "Love // Chaos",
+        "url": "https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Prince Fox",
+          "url": "https://open.spotify.com/artist/1nf5yEVCfMbqm1OCYpntBT"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Come Clean (feat. Justin Jesso)",
+      "url": "https://open.spotify.com/track/4PyEdtiTEPNvsNSXPDQDDL"
     },
     {
       "album": {
@@ -607,7 +633,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "CyberVision",
       "url": "https://open.spotify.com/track/3C2dteh67QFxver3O8wIFm"
@@ -643,7 +669,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 168000,
       "name": "DARKSIDE",
       "url": "https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j"
@@ -745,7 +771,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Do It To It - Andrew Rayel Remix",
       "url": "https://open.spotify.com/track/47FkgO7LWJD8rBovCn41oI"
@@ -763,7 +789,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 254400,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/5ieyP4fDwxueOeQ6kwUnwm"
@@ -1019,7 +1045,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 179067,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/49eccJME4fYJnOwCmJMXfV"
@@ -1257,7 +1283,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 228562,
       "name": "Finally Find You",
       "url": "https://open.spotify.com/track/0fEg3weP8yuyHlcPpb8fKm"
@@ -1319,7 +1345,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 194267,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1"
@@ -1531,7 +1557,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 189202,
       "name": "HEATSEEKER",
       "url": "https://open.spotify.com/track/7EhYmAKbytY0alehtds3Ie"
@@ -1561,6 +1587,28 @@
       "duration_ms": 203370,
       "name": "Heavenly Side - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/4cU3Hs8L9JyN5m37jmIQx2"
+    },
+    {
+      "album": {
+        "name": "Here We Go",
+        "url": "https://open.spotify.com/album/3TSMxxaSmqfteJ08NVpPfi"
+      },
+      "artists": [
+        {
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/1v85j98q0mYn4zCLc7VEc0"
     },
     {
       "album": {
@@ -1645,7 +1693,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 169833,
       "name": "Home",
       "url": "https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21"
@@ -1697,7 +1745,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 292524,
       "name": "Hypnocurrency",
       "url": "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
@@ -1715,7 +1763,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 232968,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2ywx0zy4Nj7aQ9jXZL3Mlh"
@@ -1869,7 +1917,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/7Ji2sHw2oScKQ14W956LUL"
@@ -1971,7 +2019,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 231200,
       "name": "Just Don't Mind",
       "url": "https://open.spotify.com/track/2kE1aWe2416BnVYqPQlMzS"
@@ -2011,7 +2059,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 142258,
       "name": "KILLKA",
       "url": "https://open.spotify.com/track/3SQV31uJMStclklmwxQHe1"
@@ -2063,7 +2111,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 211200,
       "name": "Know You Better",
       "url": "https://open.spotify.com/track/7bOgK9FbNtsUt34etD1MnD"
@@ -2159,7 +2207,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 198684,
       "name": "Let Love Win",
       "url": "https://open.spotify.com/track/5jB0IkgKoNeHcCObpZuPXP"
@@ -2425,7 +2473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 196000,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI"
@@ -2465,10 +2513,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 219818,
       "name": "Mercenary",
       "url": "https://open.spotify.com/track/6I7FFkcXS58luQoYLzPHi3"
+    },
+    {
+      "album": {
+        "name": "METAN\u00d6IA (feat. ero808)",
+        "url": "https://open.spotify.com/album/4lnm8kMnIpEC7XI8BI6oKq"
+      },
+      "artists": [
+        {
+          "name": "Sh\u00f6ckface",
+          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163953,
+      "name": "METAN\u00d6IA (feat. ero808)",
+      "url": "https://open.spotify.com/track/5NGBpnkXvvC1iOLByxVsRG"
     },
     {
       "album": {
@@ -2519,7 +2589,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 233048,
       "name": "My Wicked",
       "url": "https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK"
@@ -2567,7 +2637,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 261658,
       "name": "Never Let You Go (feat. Sofia Reyes) - EVE Re-Imagination",
       "url": "https://open.spotify.com/track/03KkCDcl9URL2PBvFYHKnK"
@@ -2651,7 +2721,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 179047,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6oS9qKdkN1VMRR2e8BbKvM"
@@ -2695,7 +2765,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 221757,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ihpDP7D2ZK769grmaGjlO"
@@ -2837,7 +2907,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 189285,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/7vZ4hhtin95EJQww9ChelB"
@@ -3079,7 +3149,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 156709,
       "name": "Run em Down",
       "url": "https://open.spotify.com/track/6p2qoyg0qauFKy84UMjbmu"
@@ -3201,7 +3271,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Seduce / Destroy",
       "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
@@ -3307,7 +3377,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 188800,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6b6HudhUkFIvlDjyuhiEBE"
@@ -3553,7 +3623,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 182765,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
@@ -3571,7 +3641,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 214216,
       "name": "Tell Me How to Love",
       "url": "https://open.spotify.com/track/1e4xuwzSRHr6agxwXMEg16"
@@ -3593,7 +3663,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 184629,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/7D3KNbOAbyR7dYLX0BZuyU"
@@ -3901,7 +3971,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 267433,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln"
@@ -3945,7 +4015,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 158464,
       "name": "Too Bizarre (with Swae Lee & Siiickbrain)",
       "url": "https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS"
@@ -4351,7 +4421,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 197485,
       "name": "Why We Lose",
       "url": "https://open.spotify.com/track/5NmENli4oodYuWrI0vSGK4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,620 likes - 81 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,649 likes - 81 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

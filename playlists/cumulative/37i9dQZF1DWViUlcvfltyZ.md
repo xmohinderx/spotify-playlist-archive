@@ -4,7 +4,7 @@
 
 > Chitarre più o meno distorte \(e, in cover, Manuel Agnelli\)
 
-122 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+123 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Silos](https://open.spotify.com/track/6N3eJ5VbK7wNpfDZNNJFuE) | [GALASSIA CLUB](https://open.spotify.com/artist/2VzEF2YjUANGcI4R16XNll) | [Silos](https://open.spotify.com/album/6H7Dm09Q1rwlhkNqXpWGgt) | 2:19 | 2022-05-09 | 2022-06-03 |
 | [Speak Loud](https://open.spotify.com/track/6irQlJurQFK1OqKun57XUq) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [Speak Loud](https://open.spotify.com/album/7IPQgTmojnOGuVESJbNwny) | 4:23 | 2022-05-09 | 2022-05-13 |
 | [Spiegami La Strada](https://open.spotify.com/track/5oZnLTJ9oX78dq21WTMa8G) | [Labissodeigiorniavenire](https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd) | [Spiegami La Strada](https://open.spotify.com/album/3iGU9NCxmQDQQsliddxRYm) | 2:35 | 2022-05-09 | 2022-05-27 |
+| [Spina Centrale](https://open.spotify.com/track/6KxPAdjK7n1Sp3czdnzkSc) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Kxrine](https://open.spotify.com/artist/6KeuOiKje8kElLvaLSYYR4) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:06 | 2022-07-16 |  |
 | [Stare sveglio](https://open.spotify.com/track/1ERgcJITJ5bcd9eRWxnQMa) | [sonosem](https://open.spotify.com/artist/6krFvHoGuJyMjcjeFZRc0P) | [Da così lontano](https://open.spotify.com/album/77h73NDhSPBayfCsKrVs75) | 3:16 | 2022-05-09 | 2022-05-27 |
 | [Stati di agitazione](https://open.spotify.com/track/7bTraSxvK6F3beRP5vL17h) | [Blindur](https://open.spotify.com/artist/7LUvRhMok52Bi5G2gmQzGc), [Rodrigo D'Erasmo](https://open.spotify.com/artist/6eeTkJg6QLQ34VbYXdqpBX) | [Stati di agitazione](https://open.spotify.com/album/54BgILjJKbhtYkbpLN3Jiv) | 3:07 | 2022-06-23 |  |
 | [Still Got My Time](https://open.spotify.com/track/1niBgFt03sHUfrBrqmZbrw) | [Westfalia](https://open.spotify.com/artist/1xMsdujnDYoi3k6C26k3Uh) | [We're Not Just Good at Playing](https://open.spotify.com/album/4FoyUZkBrkRdHxnAvuH0T8) | 3:16 | 2022-05-09 | 2022-06-24 |

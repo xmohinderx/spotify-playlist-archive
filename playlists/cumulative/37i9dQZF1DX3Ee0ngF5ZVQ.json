@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 200720,
       "name": "30 Miles",
       "url": "https://open.spotify.com/track/7JVEogoLQNWMQlIxTj0Lqw"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 227226,
       "name": "A Song Can't Fix Everything (feat. Paul Cauthen)",
       "url": "https://open.spotify.com/track/77nza5LdjuD35bjguHP0le"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 218560,
       "name": "All In This Together",
       "url": "https://open.spotify.com/track/7gvpJ3YIEBOcgpjgP9v8hW"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 184800,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5WJoZ1lqSdbs3zXn6nqVOW"
@@ -852,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Boy Like Me",
+        "url": "https://open.spotify.com/album/183gKXKQgy0tncVwiK7kJi"
+      },
+      "artists": [
+        {
+          "name": "Chris Colston",
+          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232589,
+      "name": "Boy Like Me",
+      "url": "https://open.spotify.com/track/0L3hzWLPVgBCfg19H0dcIR"
+    },
+    {
+      "album": {
         "name": "Break Up In A Bar",
         "url": "https://open.spotify.com/album/2Z7T8o2cJVPN8xMUsh2kc5"
       },
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 266556,
       "name": "Buzzed Brain",
       "url": "https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 187370,
       "name": "Chisholm Trail",
       "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 211693,
       "name": "Cowboys & Tequila",
       "url": "https://open.spotify.com/track/0R4SGCi7wBvjhnZvuWEXkI"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 193406,
       "name": "Cuz I'm Country",
       "url": "https://open.spotify.com/track/3djfobOj71XBOhb8eQaCzS"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 201333,
       "name": "El Paso",
       "url": "https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 191333,
       "name": "Fly Tonight",
       "url": "https://open.spotify.com/track/3soZJPbNtUIrgBYc9CsPWe"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 162160,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/5bKQyXy47sy7xzcVZsMX8f"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 194346,
       "name": "Girls Just Wanna Have Fun - Duet",
       "url": "https://open.spotify.com/track/0Z7mIPT4ULM9SJkWX9dH0i"
@@ -2191,10 +2209,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 165128,
       "name": "Goodbye Gasoline",
       "url": "https://open.spotify.com/track/30mjMeBQmodiVVWfrpFhPM"
+    },
+    {
+      "album": {
+        "name": "Grain of Salt",
+        "url": "https://open.spotify.com/album/11fYmLaOYK0KKoj77tliqj"
+      },
+      "artists": [
+        {
+          "name": "Kin Faux",
+          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229360,
+      "name": "Grain of Salt",
+      "url": "https://open.spotify.com/track/0Kv4Y5oOn41W93IFXsvcpY"
     },
     {
       "album": {
@@ -2769,7 +2805,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 195882,
       "name": "I'm Not Him",
       "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
@@ -3339,7 +3375,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 241116,
       "name": "Loves Got A Hold On You",
       "url": "https://open.spotify.com/track/4Mxtx2WAbax4WzXrPjRv49"
@@ -3393,7 +3429,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 248547,
       "name": "Mama's Song",
       "url": "https://open.spotify.com/track/0Dcb7g7m5Ou4mh4fbUT2w3"
@@ -3469,7 +3505,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 241026,
       "name": "Miles and Miles of You",
       "url": "https://open.spotify.com/track/4pkdRtBzxstB8Li7iuLZtz"
@@ -3671,7 +3707,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 213866,
       "name": "Only Need One",
       "url": "https://open.spotify.com/track/6xjVFA6jmSIuQEH108s6V2"
@@ -3887,7 +3923,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 210566,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/1ZdUYbLbavoymKh89vrQQ6"
@@ -3981,7 +4017,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 245888,
       "name": "Regret",
       "url": "https://open.spotify.com/track/2qo3jf4Q534hikGPA1HDY8"
@@ -4017,7 +4053,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 208095,
       "name": "Rest of Texas",
       "url": "https://open.spotify.com/track/6kyteAG65BjF6KH1eCht7r"
@@ -4057,7 +4093,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 224468,
       "name": "Rhinestoned",
       "url": "https://open.spotify.com/track/7m5sOfZ6VmMbKyrccgPEDN"
@@ -4237,7 +4273,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
@@ -4399,7 +4435,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 200547,
       "name": "Stay Tuned",
       "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
@@ -4417,7 +4453,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 227360,
       "name": "Steady",
       "url": "https://open.spotify.com/track/3o0MDTv8SNnkbX09k7Ae8R"
@@ -4775,7 +4811,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 220066,
       "name": "The One You Know",
       "url": "https://open.spotify.com/track/1x3pjQoyhtctVe7NsTVeAU"
@@ -5045,7 +5081,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 231100,
       "name": "Under The Lights On Friday Night",
       "url": "https://open.spotify.com/track/43Qg7oEHfIprD4jBj54Xs2"
@@ -5117,7 +5153,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 252020,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/4x2AKf7AxbsdfKFAGZWDbQ"
@@ -5135,7 +5171,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 202383,
       "name": "Varsity Type",
       "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
@@ -5211,7 +5247,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 224841,
       "name": "Washington Street - Classen Sessions",
       "url": "https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN"
@@ -5543,7 +5579,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 232267,
       "name": "Who Am I to Judge",
       "url": "https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR"

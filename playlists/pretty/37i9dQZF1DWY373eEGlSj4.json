@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 70s.",
-  "num_followers": 1126340,
+  "num_followers": 1126921,
   "original_name": "70s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkzMzk5NywwMDAwMDAwMGI1NjBmNTM4NWU1NWNiZTE5ZmRlZGJhZjZjNjAxNjJk",
+  "snapshot_id": "MTY1ODAyMDc2MSwwMDAwMDAwMDkzZTEwMmNlZjI0NjU1Y2YxNDk0N2I4YTQ5MWUzZTgx",
   "tracks": [
     {
       "added_at": "2022-07-11 08:33:06",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/7LolR1vd0KTozbF1an0SlW"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 255040,
-      "name": "When I Need You",
-      "url": "https://open.spotify.com/track/2YwiE0KVhqwIiT4OfT0SFk"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
         "name": "Barry Manilow II",
         "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 213333,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/7LolR1vd0KTozbF1an0SlW"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 255040,
+      "name": "When I Need You",
+      "url": "https://open.spotify.com/track/2YwiE0KVhqwIiT4OfT0SFk"
     },
     {
       "added_at": "2022-07-11 08:33:06",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
+        "name": "Warmer",
+        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
+      },
+      "artists": [
+        {
+          "name": "Randy VanWarmer",
+          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Just When I Needed You Most",
+      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/7GnMeBxDvE6wJ4Iu6Xdb2a"
       },
@@ -107,18 +123,18 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Warmer",
-        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
+        "name": "Classics (Vol.4)",
+        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
       },
       "artists": [
         {
-          "name": "Randy VanWarmer",
-          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 241746,
-      "name": "Just When I Needed You Most",
-      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
+      "duration_ms": 162973,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
     },
     {
       "added_at": "2022-07-11 08:33:06",
@@ -139,22 +155,6 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Anytime... Anywhere",
-        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
-      },
-      "artists": [
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
         "name": "Make Your Move",
         "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 256666,
       "name": "Do That To Me One More Time",
       "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 265973,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
     },
     {
       "added_at": "2022-07-11 08:33:06",
@@ -203,22 +219,6 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Classics (Vol.4)",
-        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 162973,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
         "name": "The Best of Bread",
         "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
       },
@@ -231,6 +231,38 @@
       "duration_ms": 155773,
       "name": "If",
       "url": "https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
+        "name": "Anytime... Anywhere",
+        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
+      },
+      "artists": [
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2022-07-11 08:33:06",
@@ -251,6 +283,38 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
+        "name": "Favourites In Originals",
+        "url": "https://open.spotify.com/album/0Zkdg8GH6pthI7sXlmwlFZ"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/7baEqeZB8yuAqhMqG6qepN"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -263,54 +327,6 @@
       "duration_ms": 308973,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
-        "name": "You Light Up My Life",
-        "url": "https://open.spotify.com/album/0lKPC6pyYjRxi2vexd0Zua"
-      },
-      "artists": [
-        {
-          "name": "Debby Boone",
-          "url": "https://open.spotify.com/artist/1UkHCANZmdkKyVNvTLMrcJ"
-        }
-      ],
-      "duration_ms": 216286,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/3dFR132gzO8jxD57R2gid3"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2022-07-11 08:33:06",
@@ -347,34 +363,18 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Dionne (Expanded Edition)",
-        "url": "https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9"
+        "name": "You Light Up My Life",
+        "url": "https://open.spotify.com/album/0lKPC6pyYjRxi2vexd0Zua"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Debby Boone",
+          "url": "https://open.spotify.com/artist/1UkHCANZmdkKyVNvTLMrcJ"
         }
       ],
-      "duration_ms": 211920,
-      "name": "I'll Never Love This Way Again",
-      "url": "https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
-        "name": "Favourites In Originals",
-        "url": "https://open.spotify.com/album/0Zkdg8GH6pthI7sXlmwlFZ"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/7baEqeZB8yuAqhMqG6qepN"
+      "duration_ms": 216286,
+      "name": "You Light Up My Life",
+      "url": "https://open.spotify.com/track/3dFR132gzO8jxD57R2gid3"
     },
     {
       "added_at": "2022-07-11 08:33:06",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/33KGuaxYmTlMgauIxfovy6"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
         "name": "Nights Are Forever",
         "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
       },
@@ -411,66 +427,18 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/2yhzRrIyT4X3rGZKE0MrCv"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
         }
       ],
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
-        "name": "Nilsson Schmilsson",
-        "url": "https://open.spotify.com/album/4s2hhmQizU4FHtRU7dDzHP"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Without You - Remastered",
-      "url": "https://open.spotify.com/track/02gV5Zc9ctbZxD1uTNIok5"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
-        "name": "On the Border (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 274891,
-      "name": "The Best of My Love - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+      "duration_ms": 233533,
+      "name": "Yesterday Once More",
+      "url": "https://open.spotify.com/track/24Qo0pcx4gjBNQNp1cTOVw"
     },
     {
       "added_at": "2022-07-11 08:33:06",
@@ -491,22 +459,6 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/33KGuaxYmTlMgauIxfovy6"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Annie's Song",
-      "url": "https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
         "name": "Closeup",
         "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
       },
@@ -523,54 +475,66 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Of A Simple Man",
-        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
+        "name": "Dionne (Expanded Edition)",
+        "url": "https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9"
       },
       "artists": [
         {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 247640,
-      "name": "I'd Love You to Want Me",
-      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
+      "duration_ms": 211920,
+      "name": "I'll Never Love This Way Again",
+      "url": "https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB"
     },
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+        "name": "The Way We Were",
+        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
         }
       ],
-      "duration_ms": 293120,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+      "duration_ms": 211093,
+      "name": "The Way We Were",
+      "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
     },
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        },
-        {
-          "name": "George Martin",
-          "url": "https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 183186,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/4Anh5Ti55P6SXG3H94QLqV"
+      "duration_ms": 274891,
+      "name": "The Best of My Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
+        "name": "Nilsson Schmilsson",
+        "url": "https://open.spotify.com/album/4s2hhmQizU4FHtRU7dDzHP"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Without You - Remastered",
+      "url": "https://open.spotify.com/track/02gV5Zc9ctbZxD1uTNIok5"
     },
     {
       "added_at": "2022-07-11 08:33:06",
@@ -607,34 +571,34 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "The Way We Were",
-        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
+        "name": "Of A Simple Man",
+        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
       },
       "artists": [
         {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
         }
       ],
-      "duration_ms": 211093,
-      "name": "The Way We Were",
-      "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
+      "duration_ms": 247640,
+      "name": "I'd Love You to Want Me",
+      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
     },
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Essential Memories Of Love",
-        "url": "https://open.spotify.com/album/1EQEIZIv1DAyo62wmQlDhY"
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
       "artists": [
         {
-          "name": "Mary MacGregor",
-          "url": "https://open.spotify.com/artist/6GlDsAkQHOmNgtUZdJ4Amq"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 230426,
-      "name": "Torn Between Two Lovers",
-      "url": "https://open.spotify.com/track/4VIpspaQ1frWWzTj8suyHR"
+      "duration_ms": 293120,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
     },
     {
       "added_at": "2022-07-11 08:33:06",
@@ -655,82 +619,34 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/2Up3szvumEB8A2Yk9ZBZPX"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/1IDf3VUbfPPduW6bIfkIPQ"
     },
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/2yhzRrIyT4X3rGZKE0MrCv"
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
       "artists": [
         {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Yesterday Once More",
-      "url": "https://open.spotify.com/track/24Qo0pcx4gjBNQNp1cTOVw"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
-        "name": "Eric Carmen",
-        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 430000,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
-        "name": "Hopelessly Devoted: The Hits",
-        "url": "https://open.spotify.com/album/4LZhAy9UsJ0EiqqeKyrlts"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 217665,
-      "name": "I Honestly Love You",
-      "url": "https://open.spotify.com/track/2iTpAjIM15wHKpV36xKG1e"
-    },
-    {
-      "added_at": "2022-07-11 08:33:06",
-      "album": {
-        "name": "Simple Dreams",
-        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 239399,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
     },
     {
       "added_at": "2022-07-11 08:33:06",
@@ -751,6 +667,22 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
         "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/7wb65kxx7K5nEweUPiWw5N"
       },
@@ -767,18 +699,86 @@
     {
       "added_at": "2022-07-11 08:33:06",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
+        "name": "America",
+        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
       "artists": [
         {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU"
         }
       ],
-      "duration_ms": 273933,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
+      "duration_ms": 183186,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/4Anh5Ti55P6SXG3H94QLqV"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
+        "name": "Hopelessly Devoted: The Hits",
+        "url": "https://open.spotify.com/album/4LZhAy9UsJ0EiqqeKyrlts"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 217665,
+      "name": "I Honestly Love You",
+      "url": "https://open.spotify.com/track/2iTpAjIM15wHKpV36xKG1e"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
+        "name": "Essential Memories Of Love",
+        "url": "https://open.spotify.com/album/1EQEIZIv1DAyo62wmQlDhY"
+      },
+      "artists": [
+        {
+          "name": "Mary MacGregor",
+          "url": "https://open.spotify.com/artist/6GlDsAkQHOmNgtUZdJ4Amq"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Torn Between Two Lovers",
+      "url": "https://open.spotify.com/track/4VIpspaQ1frWWzTj8suyHR"
+    },
+    {
+      "added_at": "2022-07-11 08:33:06",
+      "album": {
+        "name": "Eric Carmen",
+        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
     },
     {
       "added_at": "2022-07-11 08:33:06",

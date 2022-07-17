@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Marshmello & Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,487,510 likes - 96 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,488,640 likes - 96 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

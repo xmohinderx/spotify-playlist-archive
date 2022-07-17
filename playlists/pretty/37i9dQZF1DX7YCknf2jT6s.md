@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Katalyst
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,885 likes - 90 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,176 likes - 90 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 4 | [Disco Ears](https://open.spotify.com/track/1gV8QrtNcbTpOim6EE6qza) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Disco Ears \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/album/7Ap2OaWDDDCUNDSPQ896b1) | 6:21 |
 | 5 | [Word For Word](https://open.spotify.com/track/5gS2IxkC4s2PQkYuGbT0vc) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Word For Word](https://open.spotify.com/album/3BdwxmZEqylbFNhlHdXJ7Z) | 3:15 |
 | 6 | [Liquid Light](https://open.spotify.com/track/7MQNPz3Ba1CfogtjwOzRUl) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Liquid Light](https://open.spotify.com/album/7AXptA5O5IPuofF2hrEVS4) | 4:16 |
-| 7 | [Sweet Tomato](https://open.spotify.com/track/5NkCUWy7CL8qEbdZWFLqD9) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sweet Tomato](https://open.spotify.com/album/4e2vpLJDa2I7R5M2Wd0631) | 4:45 |
+| 7 | [Sweet Tomato](https://open.spotify.com/track/5NkCUWy7CL8qEbdZWFLqD9) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sweet Tomato](https://open.spotify.com/album/4e2vpLJDa2I7R5M2Wd0631) | 4:43 |
 | 8 | [Ersa](https://open.spotify.com/track/58uJDaRq9rbHONQWIeBOTr) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Moons of Jupiter](https://open.spotify.com/album/7IAifMkFqPcZQCXlWVoZr8) | 3:47 |
 | 9 | [Uroko \(鱗, fish scales\)](https://open.spotify.com/track/7ajPicmeH7wSks9TpjC19g) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Uroko \(鱗, fish scales\)](https://open.spotify.com/album/0y0tPd6JuHEbOjMJMSBaB7) | 2:54 |
 | 10 | [Dervish \- Idris & Julia Remix](https://open.spotify.com/track/6CKBpYKyff5HwENH5hdXEZ) | [Ill Considered](https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO), [Julia Biel](https://open.spotify.com/artist/0yVDB69ZMFp6w9iSKXz4J9) | [Dervish Remixed](https://open.spotify.com/album/0y6312h2vco5VN3C7Z2BTb) | 5:07 |

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Phum Viphurit \(Thailand\)
 
-264 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+265 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,6 @@
 | [BOYFRIEND \- Chinese ver.](https://open.spotify.com/track/2e5wdfOVbFMtMiFg7n2mkQ) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [BOYFRIEND \(Chinese ver.\)](https://open.spotify.com/album/1qWQtefX62aeppgwWdTYXW) | 3:42 | 2022-03-24 | 2022-04-01 |
 | [Break Sebat](https://open.spotify.com/track/4AsPc7kIYnhhC8UGJSpNiQ) | [FLEUR!](https://open.spotify.com/artist/2lVJzL8loA2pOMdQxFRqCB), [Adra Karim](https://open.spotify.com/artist/2pzCwdgrmGdDfFdb6EKr0u) | [Fleur Fleur FLEUR!](https://open.spotify.com/album/14uKzVSzaJFwfruYEtGceb) | 4:14 | 2022-06-23 | 2022-07-15 |
 | [Breathin'](https://open.spotify.com/track/6EG4S3nKfrl0YmkFQsgh4T) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Breathin'](https://open.spotify.com/album/0Hm3oVjg0dVFvgbYXIbnsq) | 2:33 | 2022-05-06 | 2022-06-24 |
-| [Bu Ke Jiu Yao De...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Bu Ke Jiu Yao De...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 |  |
 | [Bullseye](https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Bullseye](https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C) | 4:05 | 2022-06-30 |  |
 | [Cadillac](https://open.spotify.com/track/1UfBoOR19ZMYASHCu60yfl) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [Cadillac](https://open.spotify.com/album/4fhBoDPPc6EXjQvKuMfHbm) | 2:27 | 2022-06-30 |  |
 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 | 2022-03-24 | 2022-05-13 |
@@ -62,7 +61,7 @@
 | [cntrl:](https://open.spotify.com/track/1TAbrJpDjryYqi0CktMyho) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [cntrl:](https://open.spotify.com/album/1fHutJ5XpLudEcSzleTZmy) | 3:04 | 2022-07-07 |  |
 | [Coeur Kamikaze 心與海](https://open.spotify.com/track/1xut6DzmmqwYixQ5xRskZ1) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw), [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [Coeur Kamikaze 心與海](https://open.spotify.com/album/1Wnwt7wHqrZ5nHI9Xa6QyZ) | 3:31 | 2022-03-24 | 2022-04-02 |
 | [CRAY CRAY](https://open.spotify.com/track/4TWfqCndoNB9iXs9PNZ4qS) | [The Sulis Club](https://open.spotify.com/artist/27vU0dOcGeurMc8VYTSfsQ) | [CRAY CRAY](https://open.spotify.com/album/6N5p0VTqHdBmeQKgumUyx5) | 3:15 | 2022-06-30 |  |
-| [Cá Đuối](https://open.spotify.com/track/7mXhhwuJSi7ymaHhp4HFag) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Cá Đuối](https://open.spotify.com/album/2bAlCgGwk13Mv164quGunk) | 4:03 | 2022-06-02 |  |
+| [Cá Đuối](https://open.spotify.com/track/7mXhhwuJSi7ymaHhp4HFag) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Cá Đuối](https://open.spotify.com/album/2bAlCgGwk13Mv164quGunk) | 4:03 | 2022-06-02 | 2022-07-17 |
 | [Dan Terang](https://open.spotify.com/track/6w8sK1XIs2sYC8zuZCtWkQ) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a) | [Dan Terang](https://open.spotify.com/album/2ZyGhjDcQsy5JRD6tAqgMY) | 10:15 | 2022-07-14 |  |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-09 |  |
 | [Dancing Flowers](https://open.spotify.com/track/0ipGt7HnFJHhDaA5kQGGWh) | [tie a tie](https://open.spotify.com/artist/7v9fLn8ZcdEdqzF1vX80n5) | [Dancing Flowers](https://open.spotify.com/album/0O1LXrV3c4gQt1dIgAWlh6) | 2:51 | 2022-07-14 |  |
@@ -130,6 +129,7 @@
 | [Let's Just](https://open.spotify.com/track/6UcoNdWZiTkV13VYENFP9V) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Let's Just](https://open.spotify.com/album/45ughHI0FcfZT3B1SCzZWl) | 2:28 | 2022-07-07 |  |
 | [Life 4 You](https://open.spotify.com/track/4QgmBsLjmbrSPdkduDXutZ) | [Jiwhan Kim](https://open.spotify.com/artist/5iuodxEu3skXjt8pTbImO1), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [Life 4 You](https://open.spotify.com/album/0y8AqUHFyZX5e8A0qBKKAh) | 2:55 | 2022-04-01 | 2022-05-13 |
 | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/track/1oeGqU7j0HEyK19gty0SUY) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4), [HENG](https://open.spotify.com/artist/2P47IsuTElx3uXm1vKWh2N) | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/album/5EIwnlCXNwajZpFC6o0tJ8) | 3:28 | 2022-04-28 | 2022-07-08 |
+| [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2022-07-16 |  |
 | [Little Balcony](https://open.spotify.com/track/2DvYI7HNzX3n9Ng20PBBQM) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Little Balcony](https://open.spotify.com/album/75zUQz0Ak8fUlhreq72tor) | 3:15 | 2022-07-14 |  |
 | [Little Balcony](https://open.spotify.com/track/0ALdUxWVaIDeuPjP78hgIe) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Little Balcony](https://open.spotify.com/album/75zUQz0Ak8fUlhreq72tor) | 2:34 | 2022-07-14 |  |
 | [Lonestar](https://open.spotify.com/track/0y3skHpU8JN23aFHgvya6t) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Lonestar](https://open.spotify.com/album/0NWEZ50wiCMLP2SiFXyMEv) | 4:28 | 2022-03-24 | 2022-05-27 |
@@ -258,6 +258,7 @@
 | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/track/2b8mCK6lkTlaFLXwEfhxyv) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/album/75cxwoKlB11QNon32KVYyU) | 3:04 | 2022-03-24 | 2022-05-07 |
 | [เวลาที่เราพบกัน](https://open.spotify.com/track/6hnbGLKPcXARQWsskL5Jm5) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [เวลาที่เราพบกัน](https://open.spotify.com/album/40CmwSfgz4OiDO9rRS5UCV) | 4:11 | 2022-05-06 | 2022-06-17 |
 | [わたしたちへ](https://open.spotify.com/track/78XrrMFIEGU8yOUdkn5umM) | [Ayano Kaneko](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [わたしたちへ](https://open.spotify.com/album/6bi87bNy6rch5PTXdjW1I6) | 4:05 | 2022-04-14 | 2022-04-29 |
+| [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 |  |
 | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/track/1ybhaEBjWHBWzXyZO8Wtay) | [沈安](https://open.spotify.com/artist/2tT4arcwVKQK6wfZV23vTt) | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/album/4dFxr1czYW41LhmWo6LbRg) | 3:29 | 2022-04-21 | 2022-05-13 |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 | 2022-06-03 |
 | [午後迷茫2021](https://open.spotify.com/track/3owVY1qeMZJxEMRVs0POkj) | [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [午後迷茫2021](https://open.spotify.com/album/0zLsqb2rZ5nm4loxFTJkIL) | 5:15 | 2022-06-09 | 2022-07-01 |

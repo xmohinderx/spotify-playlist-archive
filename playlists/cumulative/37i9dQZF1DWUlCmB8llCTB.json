@@ -3574,6 +3574,28 @@
     },
     {
       "album": {
+        "name": "NOS ENTENDEMOS",
+        "url": "https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "HIT$ MUSIC",
+          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205729,
+      "name": "NOS ENTENDEMOS",
+      "url": "https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb"
+    },
+    {
+      "album": {
         "name": "Nos Fuimos",
         "url": "https://open.spotify.com/album/2fXE6ksRYKH0DmHz83MUXe"
       },

@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Dougie B
 
-262 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
+262 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Decades](https://open.spotify.com/track/0O0KRECOas7Pab3qAu1fYW) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Decades](https://open.spotify.com/album/1PGgnnG9W1xM0zhUThKJjL) | 2:28 | 2022-04-22 | 2022-05-20 |
 | [Decisions](https://open.spotify.com/track/4Q67qRlkLStbxuuHsCGCDe) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Decisions](https://open.spotify.com/album/4PRL3MHDIs9P72UOSs6Skr) | 3:20 | 2022-06-24 |  |
 | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 | 2022-06-03 | 2022-06-25 |
-| [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 4:39 | 2022-07-08 |  |
+| [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 | 2022-07-08 |  |
 | [Die Young](https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Die Young](https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O) | 2:14 | 2021-12-17 | 2022-03-12 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-31 |  |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-08 | 2022-04-23 |

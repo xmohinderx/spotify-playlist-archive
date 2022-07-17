@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 190453,
       "name": "Aunque Sea En Silencio (Cuatro Paredes)",
       "url": "https://open.spotify.com/track/6tO7GuXst1F2L5Hppk8UgB"
@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Cuando Me Besas",
+        "url": "https://open.spotify.com/album/3iy4zgwoDyLZ9kLRza45nx"
+      },
+      "artists": [
+        {
+          "name": "La Fe Norte\u00f1a De To\u00f1o Aranda",
+          "url": "https://open.spotify.com/artist/6MMoDGT2Mm3lz5sfVcd3Ck"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Cuando Me Besas",
+      "url": "https://open.spotify.com/track/6ZdXJXmzxsKFB4nKfpne5D"
+    },
+    {
+      "album": {
         "name": "Cuando Me Importabas",
         "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
       },
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 189789,
       "name": "Cuando Me Muera",
       "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 241484,
       "name": "Llama por Favor",
       "url": "https://open.spotify.com/track/6jpMzPfvWQkbWaURpGSIDM"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 191094,
       "name": "Me Sigue Calando",
       "url": "https://open.spotify.com/track/3nDuiLZyyMDIN65BovPoOW"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 198675,
       "name": "Mi Padre (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/5PyKNGmzN7zyEEC61muPA8"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 167866,
       "name": "Nuestra Profec\u00eda",
       "url": "https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 150466,
       "name": "Perd\u00f3n Porque?",
       "url": "https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 155909,
       "name": "S\u00ed Como No",
       "url": "https://open.spotify.com/track/5TOathKIZl0EoGUKUoLpdx"
@@ -2217,7 +2235,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 198388,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/7wEu9ssXquiC6OKt1GNtnW"

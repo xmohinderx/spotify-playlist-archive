@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, thasupreme, Sfera, Lazza, Taxi B e tanti altri!
 
-439 songs - 20 hr 27 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+439 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [SUITE HOTEL](https://open.spotify.com/track/1NRnu8LjiJM3cHcPYy6rs9) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [CRIMI](https://open.spotify.com/album/0A6H9ZeitwXVP5FpsY8Vud) | 2:19 | 2022-05-17 | 2022-06-10 |
 | [SUL IJ E TE](https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SUL IJ E TE](https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS) | 2:16 | 2022-06-09 | 2022-06-23 |
 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 | 2022-06-02 | 2022-06-21 |
-| [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 3:31 | 2022-07-14 |  |
+| [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 2:17 | 2022-07-14 |  |
 | [SWAG! \(Drip Margiela\)](https://open.spotify.com/track/4iaC4nwpOz6WXOKcuGzhWr) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [SWAG! \(Drip Margiela\)](https://open.spotify.com/album/0GFSvxiK8TUQCkiFHmHFo6) | 2:37 | 2022-06-09 | 2022-06-24 |
 | [SWITCH](https://open.spotify.com/track/3oxKox8nnFat8SoXTIaUnH) | [Velenox](https://open.spotify.com/artist/5GdWavVfe82UZFCUb8UKNz) | [SWITCH](https://open.spotify.com/album/3OY4LtZGRTmsMUZsnatCd6) | 2:34 | 2022-06-02 | 2022-06-21 |
 | [TANGA \(feat\. Kaydy Cain\)](https://open.spotify.com/track/0yri1TFpgo8UV4Hvh5WSNu) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Armageddon](https://open.spotify.com/album/1EIX7SM9G5apJAPLAyjiAq) | 2:09 | 2022-06-02 | 2022-06-23 |

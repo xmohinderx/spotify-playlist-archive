@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,190 likes - 500 songs - 19 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,252 likes - 500 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 183 | [As a friend](https://open.spotify.com/track/7bFqZel7uUPao8OU2SxazG) | [Boho Scottish](https://open.spotify.com/artist/0TudjISZ7XuF3WDYBYxXqx) | [Let´s Make A Wish](https://open.spotify.com/album/3AzgtFCVkJTL00DVJ8nujl) | 1:35 |
 | 184 | [Substance](https://open.spotify.com/track/341POrHqTpGFPGywCKy9Tk) | [brokebwoy](https://open.spotify.com/artist/6W5OElrV4G52kaVSV0CLXv) | [Psyche](https://open.spotify.com/album/3S6cmiz60kdbon1Bj8BMRI) | 1:45 |
 | 185 | [Amsterdam](https://open.spotify.com/track/5mH8y8JKcR4EFnjE0gptQv) | [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [Lynde](https://open.spotify.com/artist/6TstGTgiRM3jW0LaUeG61d), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Amsterdam](https://open.spotify.com/album/3SPkCiHZqB0ULe0aU133vd) | 1:39 |
-| 186 | [Track 1](https://open.spotify.com/track/1ft2SofZgoOUES7BDdgKun) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Track 1](https://open.spotify.com/album/2OiLMI7DmmVPt60kkKjEvt) | 4:00 |
+| 186 | [Track 1](https://open.spotify.com/track/1ft2SofZgoOUES7BDdgKun) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Track 1](https://open.spotify.com/album/2OiLMI7DmmVPt60kkKjEvt) | 3:51 |
 | 187 | [i'm fine](https://open.spotify.com/track/5nyCgKqcA6KhSRHeC0Qicu) | [Cafune](https://open.spotify.com/artist/07jJECbFecl5DmNw2lEtGR), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [i'm fine](https://open.spotify.com/album/4mFPvD3XNMun4srlJw6nzU) | 2:13 |
 | 188 | [Textures](https://open.spotify.com/track/7M1kcElpSjJe28fUC3UGXq) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Textures](https://open.spotify.com/album/6eRV6jqU3EWIFSAAtWGyJv) | 1:28 |
 | 189 | [Melting](https://open.spotify.com/track/27Y8SVpM3t1Ni8nbnKsaRW) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Melting](https://open.spotify.com/album/0h4nSIq7YwurSAqTruXNh4) | 1:50 |

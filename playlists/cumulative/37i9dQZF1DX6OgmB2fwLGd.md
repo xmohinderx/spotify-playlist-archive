@@ -4,7 +4,7 @@
 
 > "Hey bel, la bastichi\. La papaya, du la potato" Cover: Minions
 
-329 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+330 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Dumb Crasy](https://open.spotify.com/track/1K6UrHkBFRaPTZl1AYPn7p) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Supa So Trash](https://open.spotify.com/album/2zsV0NJHgCSMQ8EcNXRV3e) | 2:25 | 2022-01-06 | 2022-03-30 |
 | [Dumb Crasy](https://open.spotify.com/track/6GEz4RqQuNIOFXV2ghs1on) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Dumb Crasy](https://open.spotify.com/album/6p6JeAnOpD69znFynUDoj0) | 2:25 | 2022-03-24 | 2022-07-02 |
 | [Dumb Enough](https://open.spotify.com/track/10FZrLxIGfMSDYlgplLzkg) | [Feni](https://open.spotify.com/artist/0BG5GHRIOk3B6SCBOBBAAB) | [FeniWorld](https://open.spotify.com/album/7huRWNu1t17ACh7wKff326) | 3:10 | 2022-01-06 | 2022-05-17 |
-| [EA \(feat\. 21 Savage\)](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [SlimeBall 2](https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t) | 3:47 | 2022-04-03 |  |
+| [EA \(feat\. 21 Savage\)](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [SlimeBall 2](https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t) | 3:47 | 2022-04-03 | 2022-07-17 |
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-02-18 | 2022-04-20 |
 | [Escape From BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape From BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 | 2022-07-08 |  |
 | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/album/6aZ1P0WWtwVCRRW8tjyPfP) | 3:19 | 2022-03-24 |  |
@@ -216,6 +216,7 @@
 | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op) | 2:30 | 2022-05-06 |  |
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2022-01-21 | 2022-05-21 |
 | [No Smoke \(feat\. DC The Don\)](https://open.spotify.com/track/5TqAWu0AhiQ7rPne0JMhxq) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [BACK IN ACTION 2.0](https://open.spotify.com/album/3ShlqDCnYpRdcJxA9wlkpE) | 3:26 | 2021-12-16 | 2022-02-05 |
+| [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui) | 2:40 | 2022-07-16 |  |
 | [NO TRENDS](https://open.spotify.com/track/7oAN2D1k9Qz8qh2JaNcZrj) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [NO TRENDS](https://open.spotify.com/album/2KVi5YBlC0Gh0NiMKDZSpK) | 2:31 | 2021-11-04 | 2022-04-27 |
 | [nyc](https://open.spotify.com/track/5Z2TdpE5zqC7BN0bwtlWM1) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [nyc](https://open.spotify.com/album/710cqlMWoL0vFYNP2T7l9N) | 1:15 | 2022-02-25 | 2022-04-27 |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2021-09-13 | 2022-03-25 |

@@ -66,24 +66,6 @@
     },
     {
       "album": {
-        "name": "If You Luv Me",
-        "url": "https://open.spotify.com/album/4xfN5uchL7U9aV56ggo8WH"
-      },
-      "artists": [
-        {
-          "name": "Eve Ai",
-          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
-        }
-      ],
-      "date_added": "2022-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 271280,
-      "name": "Bie Shou Shou Chu",
-      "url": "https://open.spotify.com/track/5hl59K5L9dH4ofLs554zrH"
-    },
-    {
-      "album": {
         "name": "L\u00dcCY",
         "url": "https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p"
       },
@@ -135,24 +117,6 @@
       "duration_ms": 245823,
       "name": "Cazzo",
       "url": "https://open.spotify.com/track/4pJQMN5De2I6ztA5bGZwCL"
-    },
-    {
-      "album": {
-        "name": "Cheng Bao (Castle)",
-        "url": "https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV"
-      },
-      "artists": [
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        }
-      ],
-      "date_added": "2022-07-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 266146,
-      "name": "Dao Dai",
-      "url": "https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG"
     },
     {
       "album": {
@@ -559,24 +523,6 @@
       "duration_ms": 180208,
       "name": "You Like Me",
       "url": "https://open.spotify.com/track/7x6lPvge2DmUzODEWkYYam"
-    },
-    {
-      "album": {
-        "name": "Meeting Love",
-        "url": "https://open.spotify.com/album/50xBfOCnFW58MOYmxljZiJ"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "date_added": "2022-07-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231426,
-      "name": "Yu Shang Ai",
-      "url": "https://open.spotify.com/track/33Qa9FMlFCbWHGaJCcnpEt"
     },
     {
       "album": {
@@ -1016,6 +962,24 @@
     },
     {
       "album": {
+        "name": "\u57ce\u5821",
+        "url": "https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV"
+      },
+      "artists": [
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266146,
+      "name": "\u5012\u5e36",
+      "url": "https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG"
+    },
+    {
+      "album": {
         "name": "\u4f86\u8005\u4f55\u4eba{}",
         "url": "https://open.spotify.com/album/6R4H2E718SWgo9grF9SPyB"
       },
@@ -1075,6 +1039,24 @@
       "duration_ms": 257726,
       "name": "\u5206\u624b\u5f8c\u4e0d\u8981\u505a\u670b\u53cb",
       "url": "https://open.spotify.com/track/0QYWNTnsFxCBJF7Ns3xLbz"
+    },
+    {
+      "album": {
+        "name": "\u5982\u679c\u4f60\u611b\u6211",
+        "url": "https://open.spotify.com/album/4xfN5uchL7U9aV56ggo8WH"
+      },
+      "artists": [
+        {
+          "name": "Eve Ai",
+          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271280,
+      "name": "\u5225\u8aaa\u51fa",
+      "url": "https://open.spotify.com/track/5hl59K5L9dH4ofLs554zrH"
     },
     {
       "album": {
@@ -3083,6 +3065,24 @@
       "duration_ms": 333549,
       "name": "\u9023\u540d\u5e36\u59d3",
       "url": "https://open.spotify.com/track/4a5FvWpFaCs3YOzEnnpgR0"
+    },
+    {
+      "album": {
+        "name": "\u9047\u4e0a\u611b",
+        "url": "https://open.spotify.com/album/50xBfOCnFW58MOYmxljZiJ"
+      },
+      "artists": [
+        {
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231426,
+      "name": "\u9047\u4e0a\u611b",
+      "url": "https://open.spotify.com/track/33Qa9FMlFCbWHGaJCcnpEt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie songs by James Bay, Cuco, and more! Chill out to these relaxing and calming indie, pop, and folk tracks, and discover new favorites! Cover: Lyn Lapid
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 115,057 likes - 50 songs - 2 hr 46 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 115,055 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

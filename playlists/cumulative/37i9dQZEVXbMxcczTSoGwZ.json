@@ -1500,6 +1500,24 @@
     },
     {
       "album": {
+        "name": "Blondi",
+        "url": "https://open.spotify.com/album/0nRlvRR8PiArrQzoTA4mkH"
+      },
+      "artists": [
+        {
+          "name": "LAVAREDO",
+          "url": "https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152382,
+      "name": "Blondi",
+      "url": "https://open.spotify.com/track/1bDGyHQ0GC8zg8nIpEIhG0"
+    },
+    {
+      "album": {
         "name": "Elvis' Christmas Album",
         "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
       },
@@ -3120,6 +3138,46 @@
     },
     {
       "album": {
+        "name": "Ei kukaan muu",
+        "url": "https://open.spotify.com/album/2Cwhc4CrHipYpHvODSEjlj"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205082,
+      "name": "Ei kukaan muu",
+      "url": "https://open.spotify.com/track/2Yp3dcDxBQByH3yPIy7Zyf"
+    },
+    {
+      "album": {
+        "name": "ei nabbaa (feat. VilleGalle)",
+        "url": "https://open.spotify.com/album/71dfFtaPbodBMhoaJX7ABh"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        },
+        {
+          "name": "VilleGalle",
+          "url": "https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166786,
+      "name": "ei nabbaa (feat. VilleGalle)",
+      "url": "https://open.spotify.com/track/7F37IqJr4Cn5rTvpwBN61I"
+    },
+    {
+      "album": {
         "name": "BOY WONDER",
         "url": "https://open.spotify.com/album/17NNoDhQk1jYRWeVTuoPSB"
       },
@@ -4671,6 +4729,24 @@
       "duration_ms": 129295,
       "name": "Gunshit",
       "url": "https://open.spotify.com/track/1IkpXyhRn31NG6VOIsARqj"
+    },
+    {
+      "album": {
+        "name": "Haamuna",
+        "url": "https://open.spotify.com/album/54rASXLZdLkgpwkTD91NBp"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186553,
+      "name": "Haamuna",
+      "url": "https://open.spotify.com/track/5SAAdQghKMepFbqKJ6Qs0h"
     },
     {
       "album": {
@@ -7317,7 +7393,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 185765,
       "name": "Kato Mua Nyt (feat. Cledos, Fabe)",
       "url": "https://open.spotify.com/track/407JIY6MZOh7zBylX6pbIY"
@@ -9881,7 +9957,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 200659,
       "name": "Milla Magia",
       "url": "https://open.spotify.com/track/1TN6MFzUFHXARl6eVzbtyf"
@@ -10399,7 +10475,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 331200,
       "name": "Mun tapa pelata (feat. Gasellit, Gracias, Juno, Kube, Paperi T, Stepa, S\u00e4rre)",
       "url": "https://open.spotify.com/track/2BDjNlf0ukH4Jy6JWnI8L1"
@@ -13849,7 +13925,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 202356,
       "name": "Silloin",
       "url": "https://open.spotify.com/track/2FLIbTweFFp5oAl2SKXyVT"

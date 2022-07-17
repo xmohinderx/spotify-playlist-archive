@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 135253,
       "name": "(Sitting On) The Dock Of The Bay - Live",
       "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 304373,
       "name": "4evermore (Feat Algebra) (Live)",
       "url": "https://open.spotify.com/track/5IMQYqPWULjYx1cQSFwJSn"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 348240,
       "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
       "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 342066,
       "name": "Angel (Live)",
       "url": "https://open.spotify.com/track/0QmLbWOTGnaMgUCL8xfWiw"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 244973,
       "name": "Apple Tree",
       "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 192600,
       "name": "At Last - Live",
       "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 645040,
       "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
       "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 366773,
       "name": "California Dreamin' - Live In Hollywood / 1968",
       "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 252906,
       "name": "Dr. Feelgood (Love Is Serious Business) - Live at the Olympia Theatre, Paris, May 7, 1968",
       "url": "https://open.spotify.com/track/1wNTVn4fnAd5Iyt1eT2Wy8"
@@ -738,6 +738,28 @@
     },
     {
       "album": {
+        "name": "For The Mighty Dollar (RNZ Live Sessions)",
+        "url": "https://open.spotify.com/album/05yZ3A7Dsw9DiPOCrtCczf"
+      },
+      "artists": [
+        {
+          "name": "Sola Rosa",
+          "url": "https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52"
+        },
+        {
+          "name": "Bella Kalolo",
+          "url": "https://open.spotify.com/artist/2HUeRU0S48xajUs7hUoRKR"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302218,
+      "name": "For The Mighty Dollar - RNZ Live Sessions",
+      "url": "https://open.spotify.com/track/3f69vVEtvLDMgaC4xm18MP"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf"
       },
@@ -749,7 +771,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 396554,
       "name": "Friday Morning - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2f5OAOdaYeFj5mwyganOjD"
@@ -807,7 +829,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 182117,
       "name": "Grow - Live",
       "url": "https://open.spotify.com/track/6pIka0SZY51UfSPnxuuBps"
@@ -879,7 +901,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 427493,
       "name": "I Believe in You - BBC Radio 1 Live",
       "url": "https://open.spotify.com/track/2X2DJ4Bu4avTNJVrJDVmoa"
@@ -915,7 +937,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 317333,
       "name": "I Get Out - Live",
       "url": "https://open.spotify.com/track/6klUdQXRj4RuNy1FPmysWa"
@@ -969,7 +991,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 273933,
       "name": "I Keep Forgettin' - Live",
       "url": "https://open.spotify.com/track/3lLdweMPFav5srRwselDyG"
@@ -1023,7 +1045,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 196040,
       "name": "I Plan to Stay a Believer - Live at The Bitter End, NYC",
       "url": "https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS"
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 235357,
       "name": "Inner City Blues (Make Me Wanna Holler) - Live At Oakland Coliseum, CA/1974",
       "url": "https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm"
@@ -1167,7 +1189,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 456240,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/5Q4UyRkhN85ZrNNzrVLxqu"
@@ -1203,7 +1225,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "Keep the Home Fire Burnin'",
       "url": "https://open.spotify.com/track/6itiPbBWNVGUDNTEjiKFtH"
@@ -1477,7 +1499,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 333577,
       "name": "No Love Dying - Live At The Royal Albert Hall / 02 April 2018",
       "url": "https://open.spotify.com/track/5zqOcGH3Is5EvPoMG9rBtx"
@@ -1925,7 +1947,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 385266,
       "name": "Tell Me A Tale - Live At Carre, Amsterdam",
       "url": "https://open.spotify.com/track/1dIaKsw8LPs2gYLlFP523h"
@@ -2033,7 +2055,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 191466,
       "name": "The Tracks Of My Tears - Live At The Carter Barron Amphitheatre/1972",
       "url": "https://open.spotify.com/track/5p6k8E8I3U5MFC2LkNXJZV"
@@ -2051,7 +2073,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 191611,
       "name": "The World (Is Going up in Flames) - Live from Spotify House SXSW '16",
       "url": "https://open.spotify.com/track/3Hy45zVyIpdk9BozbS4PU3"
@@ -2109,7 +2131,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 158533,
       "name": "Time Is On My Side - Live At Slim's, San Francisco, CA / 8-30-1990 & 8-31-1990",
       "url": "https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU"
@@ -2127,7 +2149,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 317560,
       "name": "Tired of Being Alone - Live",
       "url": "https://open.spotify.com/track/4ZEP6AlYmtx43qQdr5cwcx"
@@ -2199,7 +2221,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 548378,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy"
@@ -2307,7 +2329,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 394973,
       "name": "What Is Hip? - Live Version",
       "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
@@ -2455,7 +2477,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 530866,
       "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
       "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"

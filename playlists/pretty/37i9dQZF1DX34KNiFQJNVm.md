@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lizzo, Tierry com Wesley Safadão, Orochi e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,760,299 likes - 96 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760,307 likes - 96 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 5 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 |
 | 6 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 |
 | 7 | [Tá Acontecendo](https://open.spotify.com/track/6A8grsCpzFDoPsYIl7RvOa) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [World, Vol\. 2](https://open.spotify.com/album/6B4MoJhi1qqJs1OyU9Fg2J) | 2:18 |
-| 8 | [Entre Todas](https://open.spotify.com/track/0Ix9kyJ5sOGi35oW83AFs6) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Entre Todas](https://open.spotify.com/album/7L39y9XC8peYaLk4y6YQcn) | 2:23 |
+| 8 | [Entre Todas](https://open.spotify.com/track/0Ix9kyJ5sOGi35oW83AFs6) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [Entre Todas](https://open.spotify.com/album/7L39y9XC8peYaLk4y6YQcn) | 2:23 |
 | 9 | [Scratch](https://open.spotify.com/track/7efvn82rJjUO1sJznnW37R) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [DJ Will22](https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Scratch](https://open.spotify.com/album/0w53ewV4BUzLBrvN9pCYqs) | 2:36 |
 | 10 | [Mentira](https://open.spotify.com/track/3m0silpHftwId2IpGrIm5I) | [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Mentira](https://open.spotify.com/album/5EwmZ0vJ5Yaort0SrbIua7) | 2:41 |
 | 11 | [Coincidência ou Castigo](https://open.spotify.com/track/3DOHnvzGZU2BdHZMrIqxcu) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Coincidência ou Castigo](https://open.spotify.com/album/44ooxZXYczfJEqVW9MrJnB) | 2:59 |
@@ -103,6 +103,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 93 | [Born For This Moment](https://open.spotify.com/track/15c0ImmLjlXgSnTyE8dDjJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Born For This Moment](https://open.spotify.com/album/4Z9XtIhyzMbnB9xTE89tzr) | 4:50 |
 | 94 | [Same Heartbreak Different Day](https://open.spotify.com/track/5ZJPhXxYnaUM8i7C9oboqI) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Same Heartbreak Different Day](https://open.spotify.com/album/7iyIit99oHjCpa1ndnCJtU) | 3:08 |
 | 95 | [Despedida](https://open.spotify.com/track/5Hzlkmqlv338xY7Yq2xhM5) | [DOM7NICO](https://open.spotify.com/artist/620szMALjTzToFTwfdGlFc) | [Despedida](https://open.spotify.com/album/0oP7zHOyYzj6Bu1sOdJ7FC) | 2:50 |
-| 96 | [Salvador](https://open.spotify.com/track/40620QtxFau2xe1C7cgMaO) | [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf), [Tangolos Mangos](https://open.spotify.com/artist/6cRf4YyP1I3CSU5NtnYlw6) | [Salvador](https://open.spotify.com/album/5CWkjnsK6xhjsv6ZQ8OlSC) | 6:28 |
+| 96 | [Salvador](https://open.spotify.com/track/40620QtxFau2xe1C7cgMaO) | [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf), [Tangolo Mangos](https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o) | [Salvador](https://open.spotify.com/album/5CWkjnsK6xhjsv6ZQ8OlSC) | 6:28 |
 
 Snapshot ID: `MTY1Nzg1ODM5NywwMDAwMDU3NTAwMDAwMTgyMDAwZjk0ZDkwMDAwMDE4MjAwMGY0NTkw`

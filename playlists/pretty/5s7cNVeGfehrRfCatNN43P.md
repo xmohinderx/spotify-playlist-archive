@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,359 likes - 22 songs - 1 hr 6 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,363 likes - 22 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 16 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 |
 | 17 | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 |
 | 18 | [All These Nights](https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [All These Nights](https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6) | 2:34 |
-| 19 | [I Don’t Want To Fall Asleep Yet](https://open.spotify.com/track/4U2KEbB5CXEWFBET33uUtU) | [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [I Don’t Want To Fall Asleep Yet](https://open.spotify.com/album/16HFUFXqNVk0pZkAkIPZIn) | 2:39 |
+| 19 | [I Don’t Wanna Fall Asleep Yet](https://open.spotify.com/track/4U2KEbB5CXEWFBET33uUtU) | [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [I Don’t Wanna Fall Asleep Yet](https://open.spotify.com/album/16HFUFXqNVk0pZkAkIPZIn) | 2:39 |
 | 20 | [Recycled Paper Planes](https://open.spotify.com/track/6wkX09KjNFiWHGbTPAeE4E) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Recycled Paper Planes](https://open.spotify.com/album/1RSACvq07Xh3o3Qdbo4Izx) | 3:33 |
 | 21 | [call me when ur lonely](https://open.spotify.com/track/4k8xUKG3DpRKE5Vc7lRUOG) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/6NmidioRUyQc1Bc14mXi5Q) | 2:39 |
 | 22 | [River Rival](https://open.spotify.com/track/4wlv0FYmTRF3G2Hbev2H9r) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [River Rival](https://open.spotify.com/album/1xdBAJHkVJiaS6EZQLjpYc) | 2:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,004 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,084 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 11 | [แกน่ารักมาตลอด \- All Kill](https://open.spotify.com/track/16F2kMvP3sJ9aqtL5ubZt2) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [แกน่ารักมาตลอด \(All Kill\)](https://open.spotify.com/album/6j1Vn1TozowU0s8AswD8dp) | 3:06 |
 | 12 | [ใช่รึเปล่า \(Question\)](https://open.spotify.com/track/3SNQ3vBykjNe6WSAXca5g4) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad) | [ใช่รึเปล่า \(Question\)](https://open.spotify.com/album/3GI4Jph1srduTFm8yKqYHe) | 3:53 |
 | 13 | [โต๊ะริม \(Melt\)](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม \(Melt\)](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 |
-| 14 | [สลักจิต](https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv) | [Pop Pongkool](https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx), [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [สลักจิต \(feat\. Da Endorphine\)](https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v) | 4:24 |
-| 15 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 |
-| 16 | [คนไม่น่ารัก](https://open.spotify.com/track/6pfGrakHsgPI8MPssDISPB) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [คนไม่น่ารัก](https://open.spotify.com/album/3WtbzeNwhOqF0lYFn2WQuk) | 3:13 |
-| 17 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
-| 18 | [เจ้าใจ \- Liar](https://open.spotify.com/track/2KovoeIzjao7ZVNvjsWigW) | [Marc Tatchapon](https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs) | [เจ้าใจ \(Liar\)](https://open.spotify.com/album/7gJJuBiAKIXqTHQyo8JGaE) | 3:21 |
-| 19 | [WINK](https://open.spotify.com/track/1c3J4LNuNvUUnXmk8moHHv) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [WINK](https://open.spotify.com/album/17K46xu9e8ZwLfYXsOQBeY) | 3:27 |
-| 20 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 |
-| 21 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 |
-| 22 | [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 |
-| 23 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 |
-| 24 | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/track/5iDTtBDNjC1FBeLdgyF0LC) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/album/41piugn0SZiKzpmovdNDQw) | 3:26 |
+| 14 | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/track/5iDTtBDNjC1FBeLdgyF0LC) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/album/41piugn0SZiKzpmovdNDQw) | 3:26 |
+| 15 | [สลักจิต](https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv) | [Pop Pongkool](https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx), [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [สลักจิต \(feat\. Da Endorphine\)](https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v) | 4:24 |
+| 16 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 |
+| 17 | [คนไม่น่ารัก](https://open.spotify.com/track/6pfGrakHsgPI8MPssDISPB) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [คนไม่น่ารัก](https://open.spotify.com/album/3WtbzeNwhOqF0lYFn2WQuk) | 3:13 |
+| 18 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
+| 19 | [เจ้าใจ \- Liar](https://open.spotify.com/track/2KovoeIzjao7ZVNvjsWigW) | [Marc Tatchapon](https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs) | [เจ้าใจ \(Liar\)](https://open.spotify.com/album/7gJJuBiAKIXqTHQyo8JGaE) | 3:21 |
+| 20 | [WINK](https://open.spotify.com/track/1c3J4LNuNvUUnXmk8moHHv) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [WINK](https://open.spotify.com/album/17K46xu9e8ZwLfYXsOQBeY) | 3:27 |
+| 21 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 |
+| 22 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 |
+| 23 | [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 |
+| 24 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 |
 | 25 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 |
 | 26 | [ทักครับ](https://open.spotify.com/track/70DE8f3cq3auql4JMrF0Qg) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ทักครับ](https://open.spotify.com/album/5JQ7Bn6uJX2Ed94W8gvvJK) | 3:11 |
 | 27 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 99 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 |
 | 100 | [กอดได้ไหม](https://open.spotify.com/track/4hccrJgNG1BwPa3CWw4NNg) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:29 |
 
-Snapshot ID: `MTY1NzgyMjM3NCwwMDAwMDE2YTAwMDAwMTgxZmRlOWU4YjYwMDAwMDE4MWZkM2E5ZTU0`
+Snapshot ID: `MTY1Nzk4NjU0MCwwMDAwMDE2YjAwMDAwMTgyMDdiMmUzYzUwMDAwMDE4MWZkM2E5ZTU0`

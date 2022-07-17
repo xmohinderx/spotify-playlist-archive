@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR?si=l4aIn\-LCT1WjrpA6ZqqR3A">Dwson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,984 likes - 79 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,008 likes - 79 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,6 +86,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 76 | [Dark Nights](https://open.spotify.com/track/1Z1Tw2q0focggWz4djMhAb) | [Jagger](https://open.spotify.com/artist/2h8jLud8m8iywGms5ANcRL), [5lowers](https://open.spotify.com/artist/0AoKL5HGast5j8YgGRtDD6) | [Dark Nights](https://open.spotify.com/album/7oefeNYoUaoZtUd0QKVPZU) | 2:36 |
 | 77 | [Hopeless, Hoping](https://open.spotify.com/track/0gjzwbwCfjwTkpXJgx5Zu3) | [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Hopeless, Hoping](https://open.spotify.com/album/3dXGOW99X4uvRWL0Laxt6u) | 3:48 |
 | 78 | [Wind Up](https://open.spotify.com/track/6c1lqiDy10LpvHOJbjRP3W) | [Cinimin](https://open.spotify.com/artist/7x5rKYGYaTOSjr5B3EBAkC) | [Wind Up](https://open.spotify.com/album/6NgHOYBNrefZ9u7wzbfOba) | 5:16 |
-| 79 | [Light](https://open.spotify.com/track/2QRsDF1kVtaK9iNFh2KthQ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Light](https://open.spotify.com/album/4VuVzSMAl0kgnEeXVtULMI) | 4:46 |
+| 79 | [Light](https://open.spotify.com/track/2QRsDF1kVtaK9iNFh2KthQ) | [Shimza](https://open.spotify.com/artist/35FVMF3IRm3merB7xgvwH2) | [Light](https://open.spotify.com/album/4VuVzSMAl0kgnEeXVtULMI) | 4:46 |
 
 Snapshot ID: `MTY1NzgzODE3NywwMDAwMDM0OTAwMDAwMTgxZmVkYjBjMTkwMDAwMDE4MWZlZGFlMjkx`

@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Katalyst
 
-355 songs - 1 day 5 hr 18 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
+355 songs - 1 day 5 hr 17 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 | 2022-02-18 | 2022-04-02 |
 | [Sus Jawn \- Bunker Sesh](https://open.spotify.com/track/17v2YhIU3p6FwChewyPKun) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Bunker Sesh](https://open.spotify.com/album/414wzbZlf4V7Qst0ShXNiS) | 6:35 | 2022-05-20 | 2022-07-02 |
 | [Sweet Isolation \(Metropole Orkest\)](https://open.spotify.com/track/3jNdydQGl08mlbmd2Xceal) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Sweet Isolation \(Metropole Orkest\)](https://open.spotify.com/album/1Bfdlb132DDKkNK946T9rC) | 5:32 | 2022-06-10 |  |
-| [Sweet Tomato](https://open.spotify.com/track/5NkCUWy7CL8qEbdZWFLqD9) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sweet Tomato](https://open.spotify.com/album/4e2vpLJDa2I7R5M2Wd0631) | 4:45 | 2022-07-15 |  |
+| [Sweet Tomato](https://open.spotify.com/track/5NkCUWy7CL8qEbdZWFLqD9) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sweet Tomato](https://open.spotify.com/album/4e2vpLJDa2I7R5M2Wd0631) | 4:43 | 2022-07-15 |  |
 | [Synchronized Swigging](https://open.spotify.com/track/3akI3Xo8cyRrPbKAALJENF) | [ALEXANDER](https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor) | [Synchronized Swigging](https://open.spotify.com/album/2XWqGPWSN4EI4PQfGfhPB7) | 3:51 | 2022-02-10 | 2022-02-19 |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2022-04-29 | 2022-06-11 |
 | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm) | 4:24 | 2022-07-08 |  |

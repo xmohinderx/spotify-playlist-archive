@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: Collar
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,826 likes - 38 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,832 likes - 38 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 6 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 |
 | 7 | [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 |
 | 8 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 |
-| 9 | [Zhui Luo \(Novel Fergus Remix\)](https://open.spotify.com/track/39dOryTx3VzlSwmzEDdf7O) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [Zhui Luo \(Novel Fergus Remix\)](https://open.spotify.com/album/15nzETgvAOJeGMhqmcDGAR) | 2:52 |
+| 9 | [墜落 \(Novel Fergus Remix\)](https://open.spotify.com/track/39dOryTx3VzlSwmzEDdf7O) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [墜落 \(Novel Fergus Remix\)](https://open.spotify.com/album/15nzETgvAOJeGMhqmcDGAR) | 2:52 |
 | 10 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 |
 | 11 | [無恙](https://open.spotify.com/track/26iJfJ442rlJQuZIAxBDPt) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [無恙](https://open.spotify.com/album/5xeX4hzucOx2sh7BNWxN0S) | 3:35 |
 | 12 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 16 | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/track/4KJi1DpJcn8sYANFF9qZBa) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/album/6pIDMCqVB0GNi3b8GV3gjZ) | 3:47 |
 | 17 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 |
 | 18 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 |
-| 19 | [Zhui Luo](https://open.spotify.com/track/5kj1ATksYuR9lsvJT4mKh5) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [Zhui Luo](https://open.spotify.com/album/0s820jSGRWkb6fdcrNkBGb) | 3:17 |
+| 19 | [墜落](https://open.spotify.com/track/5kj1ATksYuR9lsvJT4mKh5) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [墜落](https://open.spotify.com/album/0s820jSGRWkb6fdcrNkBGb) | 3:17 |
 | 20 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 | 21 | [Now You See Me](https://open.spotify.com/track/6Oex5FIRjSH56Q1e3Z5JFA) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/2QUtniCVdNz7EEZHx8M0Od) | 2:54 |
 | 22 | [列車](https://open.spotify.com/track/16VxP8nA8hfedGcO6qQufW) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [列車](https://open.spotify.com/album/2pYtIJDaTsExRe9XPIIOpK) | 4:40 |

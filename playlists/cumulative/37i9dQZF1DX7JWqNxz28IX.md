@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, fasma\)
 
-108 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+110 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,9 @@
 | [Io non voglio più soffrire](https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Io non voglio più soffrire](https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1) | 2:36 | 2022-05-24 |  |
 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 | 2022-04-21 |  |
 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 | 2022-04-21 |  |
+| [Le Tue Insicurezze](https://open.spotify.com/track/3CiAz5liYGnMMMsdappkTu) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Koaku](https://open.spotify.com/artist/4Izpu8sOW1lH8u82uK6BDK), [Lanyard](https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:18 | 2022-07-16 |  |
 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 | 2022-04-21 |  |
+| [Luglio](https://open.spotify.com/track/3UEq7NSWicVkITbVoV1qvM) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Drew Seele](https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ), [Keith Blond](https://open.spotify.com/artist/6UqFlbiCYRrMnEmzmlArju) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:33 | 2022-07-16 |  |
 | [Lulu \- Acoustic Version](https://open.spotify.com/track/4qfhJANVbltHdayStVa2lg) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/4GYQvU9WiBi4NkA0ZpPpsp) | [Un bacio \(Deluxe Edition\)](https://open.spotify.com/album/6yrXXxGeHilQRiiNPXuPYh) | 3:26 | 2022-05-30 |  |
 | [Maggio](https://open.spotify.com/track/54B28PJ8y0wcQ5Smqje08Q) | [DAG](https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0) | [Maggio](https://open.spotify.com/album/4rvdMC64itUXS5zy35ymnJ) | 2:26 | 2022-05-24 |  |
 | [Mancati](https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Mancati](https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT) | 1:52 | 2022-04-21 |  |

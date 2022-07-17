@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 120000,
       "name": "AM",
       "url": "https://open.spotify.com/track/4qJrt8L4gNJpUKXYZdunwW"
@@ -3005,7 +3005,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -4110,6 +4110,24 @@
     },
     {
       "album": {
+        "name": "Boys Do Cry",
+        "url": "https://open.spotify.com/album/1lIjKOmyguCKZFuPyDZp6h"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111146,
+      "name": "Commitment Issues",
+      "url": "https://open.spotify.com/track/3tjoq1CMR4YtSUegC5sbU8"
+    },
+    {
+      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
       },
@@ -4315,7 +4333,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
@@ -5925,6 +5943,36 @@
       "duration_ms": 145764,
       "name": "Egal wie hoch",
       "url": "https://open.spotify.com/track/158x2q6kkau2zOK8IzjO0d"
+    },
+    {
+      "album": {
+        "name": "Eigentlich",
+        "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158895,
+      "name": "Eigentlich",
+      "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
     },
     {
       "album": {
@@ -8160,6 +8208,28 @@
     },
     {
       "album": {
+        "name": "DEUTSCHRAP BRANDNEU",
+        "url": "https://open.spotify.com/album/2hNYc9qNIUtV4R8WbQ24de"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181226,
+      "name": "HALT DIE ZEIT AN",
+      "url": "https://open.spotify.com/track/16IND5RBSnuBlH08ngUHD5"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -10207,6 +10277,28 @@
     {
       "album": {
         "name": "Karussell",
+        "url": "https://open.spotify.com/album/3Dfx1KFbOkFXBWQGL7U0MD"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Karussell",
+      "url": "https://open.spotify.com/track/1YcuhTZfBHeyo9wVdNRiRR"
+    },
+    {
+      "album": {
+        "name": "Karussell",
         "url": "https://open.spotify.com/album/7j3alBkBX6MaPfGZsPDdv9"
       },
       "artists": [
@@ -10235,7 +10327,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 133000,
       "name": "Katile",
       "url": "https://open.spotify.com/track/4HfDBd5PjA0eSlmHibO6Dg"
@@ -11282,6 +11374,28 @@
     },
     {
       "album": {
+        "name": "Letztes Mal",
+        "url": "https://open.spotify.com/album/0R5Kegf7xSgEDNiW6kswoE"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165781,
+      "name": "Letztes Mal",
+      "url": "https://open.spotify.com/track/7k6aVgrtJqNTMVqk5yMWKD"
+    },
+    {
+      "album": {
         "name": "Leuchtreklame",
         "url": "https://open.spotify.com/album/0UEdsxO1eKaJwbgA9yjTmc"
       },
@@ -11667,6 +11781,24 @@
       "duration_ms": 344720,
       "name": "Loi de la calle",
       "url": "https://open.spotify.com/track/4Fp9Nwi6lTpMC63igc9U0Z"
+    },
+    {
+      "album": {
+        "name": "Boys Do Cry",
+        "url": "https://open.spotify.com/album/1lIjKOmyguCKZFuPyDZp6h"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "Lola rennt",
+      "url": "https://open.spotify.com/track/4rNlJBQ0elqgGU1XD3RQ01"
     },
     {
       "album": {
@@ -12553,7 +12685,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 144621,
       "name": "Manila",
       "url": "https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP"
@@ -12933,6 +13065,28 @@
       "duration_ms": 204631,
       "name": "Met Him Last Night (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/4yyX2Iu4xJjW9xMvBZKSBi"
+    },
+    {
+      "album": {
+        "name": "MI AMOR (feat. Ben\u00e9)",
+        "url": "https://open.spotify.com/album/5vuKF4n37vGxHIiuAMnE15"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Ben\u00e9",
+          "url": "https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169666,
+      "name": "MI AMOR (feat. Ben\u00e9)",
+      "url": "https://open.spotify.com/track/5L59u8dP3sgVnpp4f41vX0"
     },
     {
       "album": {
@@ -14025,7 +14179,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 178973,
       "name": "Nachts wach",
       "url": "https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe"
@@ -16721,7 +16875,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 147410,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5C3J3C5nzBclrE8xuW5UQ7"
@@ -18923,7 +19077,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
@@ -20355,6 +20509,24 @@
       "duration_ms": 161388,
       "name": "UNTER VERDACHT",
       "url": "https://open.spotify.com/track/54AnAMobwJ5ElDCTcPFJk5"
+    },
+    {
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/6TWKnFXOEU0AOXe8pSUnS8"
+      },
+      "artists": [
+        {
+          "name": "Theo Junior",
+          "url": "https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/53g6tgjn3Ex6o3Q8hcIxkG"
     },
     {
       "album": {

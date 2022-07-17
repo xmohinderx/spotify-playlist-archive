@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Alex Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,313 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,429 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 68 | [Dulce Compañía](https://open.spotify.com/track/0grJmN960jlAECmg8iDXKd) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI), [Omar Herrera](https://open.spotify.com/artist/4xYi3BaHkw5QR854GqM626) | [Dulce Compañía](https://open.spotify.com/album/1HAj6KJN3twwpvXteQBjhl) | 3:10 |
 | 69 | [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 |
 | 70 | [Abba](https://open.spotify.com/track/5weYrPdlyU60nNnaxebYL2) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Abba](https://open.spotify.com/album/4eZ6JwW8bnsZRnNVUV3IJ4) | 3:33 |
-| 71 | [Fórmula 1](https://open.spotify.com/track/7d6nTbzPaYTY8ZoclH7lQ8) | [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [GabrielRodriguezEMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Formula 1](https://open.spotify.com/album/1Uc6lMxxI20pdTFG5GiJg2) | 3:29 |
+| 71 | [Fórmula 1](https://open.spotify.com/track/7d6nTbzPaYTY8ZoclH7lQ8) | [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Formula 1](https://open.spotify.com/album/1Uc6lMxxI20pdTFG5GiJg2) | 3:29 |
 | 72 | [Me Encontraste feat\. Alex Zurdo](https://open.spotify.com/track/6yZas5dhLsCOsLywd36CeG) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Teofanía](https://open.spotify.com/album/1zJ8e098APus3go5oy8YPF) | 3:49 |
 | 73 | [Si Me Acompañas](https://open.spotify.com/track/5uKaFXdVaMJPsukmGmJxCY) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Laberinto](https://open.spotify.com/album/0NRKIMglPhOoWZPfWVkGpl) | 3:40 |
 | 74 | [Replay](https://open.spotify.com/track/190VbNhQCHxeZYGLRvZd0M) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be) | [Replay](https://open.spotify.com/album/6BuLQ2he4aH0yStDvscbXx) | 3:47 |
 | 75 | [Luna](https://open.spotify.com/track/3rEFHkpVayHvY6wx5Fb7a1) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Luna](https://open.spotify.com/album/6jLDlv6qLUjwVgvcq8h3NB) | 3:20 |
-| 76 | [Sigo Aquí](https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA) | [GabrielRodriguezEMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Sigo Aqui](https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV) | 3:14 |
+| 76 | [Sigo Aquí](https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Sigo Aqui](https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV) | 3:14 |
 | 77 | [Alante Alante](https://open.spotify.com/track/1rUOIYt3UFEPyNl2uygFgS) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [DTOX](https://open.spotify.com/album/7flUaA2ScuRWL78LJbGAEw) | 2:48 |
 | 78 | [Nada Incierto](https://open.spotify.com/track/5x0HWiFyJbi0NywHfcXtBW) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Nada Incierto](https://open.spotify.com/album/77xEGnWdaZouqBYcGa1ax9) | 3:24 |
 | 79 | [Me Has Sostenido](https://open.spotify.com/track/6GY4wfvIwp846nBcZCKSKJ) | [Locuaz](https://open.spotify.com/artist/0pV61JxkqvjPzRvyVAmCVk), [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Me Has Sostenido](https://open.spotify.com/album/1ac4tiokv7D0R2KyFAu5iV) | 3:02 |

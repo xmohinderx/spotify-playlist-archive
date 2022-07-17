@@ -4,13 +4,13 @@
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/6y5Mw75BnSeKG4v9YvKhmY)
+62 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/6y5Mw75BnSeKG4v9YvKhmY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0 Game](https://open.spotify.com/track/0zqjHT5SlLl8ZVzVHhZPCR) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 4:03 | 2022-06-09 |  |
 | [16 And Life](https://open.spotify.com/track/5JmyKAYQsF3utDxgMmAjOp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:22 | 2022-07-02 | 2022-07-04 |
-| [All I Need](https://open.spotify.com/track/0V42vftKrkhKskoASUG13A) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [All I Need](https://open.spotify.com/album/463XqUTaykWu0IW906Ls6j) | 5:07 | 2022-06-09 |  |
+| [All I Need](https://open.spotify.com/track/0V42vftKrkhKskoASUG13A) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [All I Need](https://open.spotify.com/album/463XqUTaykWu0IW906Ls6j) | 5:07 | 2022-06-09 | 2022-07-17 |
 | [Ameagarinisakuhana](https://open.spotify.com/track/2riW4PnBZZgy4lNvq5UV76) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Millon](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:43 | 2022-06-09 |  |
 | [Anokoro Bokurawa Onajimiraiwo](https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 4:56 | 2022-06-09 |  |
 | [B\-the One](https://open.spotify.com/track/0fRKHLnHPG8DcO7Gytr4sv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 4:03 | 2022-06-09 |  |
@@ -59,6 +59,7 @@
 | [Some Like It Hot!!](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' The World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 | 2022-06-09 |  |
 | [Star](https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Naked](https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9) | 3:49 | 2022-06-09 |  |
 | [STORY](https://open.spotify.com/track/3HXOjRUWG9aIFLj6OiLREp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:34 | 2022-06-09 |  |
+| [The Way of My Life](https://open.spotify.com/track/54VtH0KYGp5jFMa4TbM2r1) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Midnight](https://open.spotify.com/album/2sqD7W4DVj6ndCNeTPH7PV) | 3:19 | 2022-07-16 |  |
 | [The World Is Mine](https://open.spotify.com/track/6zWHWe63mEaiqwb1BeMsAw) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Kingdom](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 4:06 | 2022-06-09 |  |
 | [This Is How We Rock](https://open.spotify.com/track/3BNlW6QAR8xiONRS0wRmPE) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Kingdom](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:56 | 2022-06-09 |  |
 | [To](https://open.spotify.com/track/5ZB7Y0zNKrJCg5Mq3qXW3x) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 4:03 | 2022-06-09 |  |

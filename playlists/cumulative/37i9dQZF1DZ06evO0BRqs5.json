@@ -206,7 +206,7 @@
     },
     {
       "album": {
-        "name": "INNOCENCE",
+        "name": "Innocence",
         "url": "https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI"
       },
       "artists": [
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 279080,
       "name": "dear brightness",
       "url": "https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 279866,
       "name": "Hitori To Hitori",
       "url": "https://open.spotify.com/track/26YNGudhBMxEGkB8RluCHC"

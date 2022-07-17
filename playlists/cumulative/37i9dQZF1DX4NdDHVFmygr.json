@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 242000,
       "name": "Kasseta",
       "url": "https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw"
@@ -1760,6 +1760,28 @@
     },
     {
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/2EDejl89ZrQ0kZ9hXewf4d"
+      },
+      "artists": [
+        {
+          "name": "Jewlz",
+          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
+        },
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154250,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2F8aPLJiDwIfK0w4hH2AU2"
+    },
+    {
+      "album": {
         "name": "Ntiya",
         "url": "https://open.spotify.com/album/5tiCtx89m9IROn2MOsGRFq"
       },
@@ -1789,7 +1811,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 204000,
       "name": "Ntiya Lm3alma",
       "url": "https://open.spotify.com/track/5IlkjrCw2DmkH8klRfa9Dt"
@@ -1869,7 +1891,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 176414,
       "name": "S7aba",
       "url": "https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf"

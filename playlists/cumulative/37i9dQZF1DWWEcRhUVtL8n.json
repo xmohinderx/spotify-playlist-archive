@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 196683,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/11dudYRtXcIapaSWEC2d9b"
@@ -2601,7 +2601,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 188307,
       "name": "Blue Spirits",
       "url": "https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B"
@@ -4163,7 +4163,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 197559,
       "name": "Clueless In Suburbia",
       "url": "https://open.spotify.com/track/36Q7tpoLycNGNivepuUFxT"
@@ -5033,7 +5033,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 172204,
       "name": "Dance When You Cry",
       "url": "https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T"
@@ -5315,7 +5315,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 215507,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/61KpQadow081I2AsbeLcsb"
@@ -5583,7 +5583,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 149666,
       "name": "Does It Feel Real",
       "url": "https://open.spotify.com/track/44f9F8DdO8URqNBOVBaW7U"
@@ -6297,7 +6297,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 197459,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2QZIrVL1RnFFrl3YuP6DiP"
@@ -6333,7 +6333,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 226781,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3gwoz4xZuye0agjYgrC2je"
@@ -7434,6 +7434,28 @@
     },
     {
       "album": {
+        "name": "Frames",
+        "url": "https://open.spotify.com/album/2KJ11IB3LpFbFyjCeQw194"
+      },
+      "artists": [
+        {
+          "name": "Julietta",
+          "url": "https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV"
+        },
+        {
+          "name": "Raphael Futura",
+          "url": "https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Frames",
+      "url": "https://open.spotify.com/track/2yJI5G0UdRudAIZkqredck"
+    },
+    {
+      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
       },
@@ -7791,7 +7813,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 198139,
       "name": "gentle",
       "url": "https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds"
@@ -8047,7 +8069,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 161673,
       "name": "Go Home!",
       "url": "https://open.spotify.com/track/5lMMj6wp1O5POGMrrJLjzy"
@@ -8375,7 +8397,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 255808,
       "name": "Guess I'm Going To Hell",
       "url": "https://open.spotify.com/track/4TETZ56lnLvEpFZmVjsQM1"
@@ -8559,7 +8581,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 145324,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
@@ -9097,7 +9119,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 162560,
       "name": "Hey Lover!",
       "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
@@ -9429,7 +9451,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 198818,
       "name": "HONEYMOON",
       "url": "https://open.spotify.com/track/3pBVQynngYmTMnAsXnFXcF"
@@ -9483,7 +9505,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 164403,
       "name": "Hope You're Not Happy",
       "url": "https://open.spotify.com/track/6hPY9GJkHWjeIyGWGV9dyN"
@@ -10943,7 +10965,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 226213,
       "name": "In Time",
       "url": "https://open.spotify.com/track/2fFfZSl0faCTDNXZ2Lo2KE"
@@ -11481,7 +11503,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 197466,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq"
@@ -11589,7 +11611,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 200768,
       "name": "Kids Who Stole The World",
       "url": "https://open.spotify.com/track/5Sv2qboXJ3GZUuLMVaZtie"
@@ -12451,7 +12473,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 207880,
       "name": "London Is Lonely - Edit",
       "url": "https://open.spotify.com/track/06Tr79i53ihD4KUKYIyyjq"
@@ -12849,7 +12871,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 192133,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs"
@@ -13291,7 +13313,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 178500,
       "name": "Massive Escape - Arlie Remix",
       "url": "https://open.spotify.com/track/68rtq5ugG2ac3CQJRkVOKm"
@@ -14293,7 +14315,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 254826,
       "name": "Nervous At Night",
       "url": "https://open.spotify.com/track/6ubkQOWywS3qVRyJeMpexQ"
@@ -15825,7 +15847,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 166480,
       "name": "Pager",
       "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
@@ -16237,7 +16259,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
@@ -18597,7 +18619,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 154000,
       "name": "Sober",
       "url": "https://open.spotify.com/track/6F3ZGAp9M9Nub4cSCpY5tW"
@@ -19571,7 +19593,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 230200,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq"
@@ -19785,7 +19807,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 160058,
       "name": "sugarcane",
       "url": "https://open.spotify.com/track/4IKKOmbPQOHyUm1VX6dpzV"
@@ -20995,7 +21017,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 152313,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/4AmW5yhWe6CcQp5s80Ysdk"
@@ -21305,7 +21327,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 228823,
       "name": "Time On",
       "url": "https://open.spotify.com/track/6hwlAQ9DSZlXOWqdIEtevQ"
@@ -22411,7 +22433,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 194639,
       "name": "What Was Mine",
       "url": "https://open.spotify.com/track/1zHmxDTalWGHuQfhabEYhM"
@@ -23433,7 +23455,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 214377,
       "name": "YOU'RE MY KIND",
       "url": "https://open.spotify.com/track/0g4a4Lsu9RUw8CPnRzCQZa"

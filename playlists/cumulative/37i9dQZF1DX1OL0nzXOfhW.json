@@ -464,46 +464,6 @@
     },
     {
       "album": {
-        "name": "Zhui Luo",
-        "url": "https://open.spotify.com/album/0s820jSGRWkb6fdcrNkBGb"
-      },
-      "artists": [
-        {
-          "name": "Jason Chan",
-          "url": "https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc"
-        },
-        {
-          "name": "Novel Fergus",
-          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
-        }
-      ],
-      "date_added": "2022-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197525,
-      "name": "Zhui Luo",
-      "url": "https://open.spotify.com/track/5kj1ATksYuR9lsvJT4mKh5"
-    },
-    {
-      "album": {
-        "name": "Zhui Luo (Novel Fergus Remix)",
-        "url": "https://open.spotify.com/album/15nzETgvAOJeGMhqmcDGAR"
-      },
-      "artists": [
-        {
-          "name": "Jason Chan",
-          "url": "https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172961,
-      "name": "Zhui Luo (Novel Fergus Remix)",
-      "url": "https://open.spotify.com/track/39dOryTx3VzlSwmzEDdf7O"
-    },
-    {
-      "album": {
         "name": "\u4fc2\u5481\u5148\u5566 (feat. Kayan9896)",
         "url": "https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of"
       },
@@ -573,6 +533,46 @@
       "duration_ms": 231176,
       "name": "\u540c\u6b65\u821e\u66f2",
       "url": "https://open.spotify.com/track/6NLX0sK1uP6hAmPoRiDhGp"
+    },
+    {
+      "album": {
+        "name": "\u589c\u843d",
+        "url": "https://open.spotify.com/album/0s820jSGRWkb6fdcrNkBGb"
+      },
+      "artists": [
+        {
+          "name": "Jason Chan",
+          "url": "https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc"
+        },
+        {
+          "name": "Novel Fergus",
+          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197525,
+      "name": "\u589c\u843d",
+      "url": "https://open.spotify.com/track/5kj1ATksYuR9lsvJT4mKh5"
+    },
+    {
+      "album": {
+        "name": "\u589c\u843d (Novel Fergus Remix)",
+        "url": "https://open.spotify.com/album/15nzETgvAOJeGMhqmcDGAR"
+      },
+      "artists": [
+        {
+          "name": "Jason Chan",
+          "url": "https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172961,
+      "name": "\u589c\u843d (Novel Fergus Remix)",
+      "url": "https://open.spotify.com/track/39dOryTx3VzlSwmzEDdf7O"
     },
     {
       "album": {

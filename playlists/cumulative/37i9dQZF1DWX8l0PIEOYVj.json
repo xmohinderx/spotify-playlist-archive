@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 221793,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/3JVKIh9857foxHkg7BzS3R"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 213542,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/0eNZW0bb7bogNXoXwcJ0is"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 275200,
       "name": "Diamond Heart (feat. RBBTS)",
       "url": "https://open.spotify.com/track/6r0ujrPdtJbwtgEteB2rkB"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 190546,
       "name": "Flare",
       "url": "https://open.spotify.com/track/030SJMnWzEaAE7979A3NcW"
@@ -1317,6 +1317,28 @@
       "duration_ms": 185032,
       "name": "Gone - N3WPORT Remix",
       "url": "https://open.spotify.com/track/16gJDi8MtCwhjTKsys9rB6"
+    },
+    {
+      "album": {
+        "name": "Good News (feat. Kyle Reynolds)",
+        "url": "https://open.spotify.com/album/7bysGI4l7mf0ctxnjOf9lv"
+      },
+      "artists": [
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Good News (feat. Kyle Reynolds)",
+      "url": "https://open.spotify.com/track/2odfdqASFlXQc7vmEwpWir"
     },
     {
       "album": {
@@ -1625,7 +1647,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 151014,
       "name": "I Can Feel",
       "url": "https://open.spotify.com/track/6vAghAitNFHoGUEbhJPI6n"
@@ -1793,7 +1815,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 213994,
       "name": "Just Be Honest",
       "url": "https://open.spotify.com/track/71KO4zAbFDtx8oDQx7qtka"
@@ -2152,6 +2174,24 @@
     },
     {
       "album": {
+        "name": "Best Part Of Me EP",
+        "url": "https://open.spotify.com/album/163FJeoQmdoWpqDFqV5TiB"
+      },
+      "artists": [
+        {
+          "name": "N3WPORT",
+          "url": "https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185571,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2fHznHYgWJ2nwk16rAA6gv"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8"
       },
@@ -2339,7 +2379,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 226285,
       "name": "Out of Love",
       "url": "https://open.spotify.com/track/6w2qrr2ir08VtisKOh8n4P"
@@ -2453,7 +2493,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 204369,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv"
@@ -2493,7 +2533,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 187792,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3kouAggxGgCP6xqAsztwrA"
@@ -2641,7 +2681,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 240750,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/4MjqIuxDsPhxvB9O0xLO8d"
@@ -2733,7 +2773,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 166681,
       "name": "Say The Word (with Billy Lockett)",
       "url": "https://open.spotify.com/track/3CFwx3qdGNrgUIS16PnoXn"
@@ -2777,7 +2817,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/5keO6CNCGYsAlNs6qfN5AJ"
@@ -3097,7 +3137,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 232000,
       "name": "Stepping Stone",
       "url": "https://open.spotify.com/track/1hiNxftJnpiiOgHEi1hMRu"
@@ -3148,6 +3188,24 @@
     },
     {
       "album": {
+        "name": "sunlight",
+        "url": "https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171710,
+      "name": "sunlight",
+      "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/070G3aCcs8BV5yCLsYmm9F"
       },
@@ -3163,7 +3221,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 218142,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/67hXwO5ry524QKakkllndZ"
@@ -3277,7 +3335,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 280000,
       "name": "The Paper Owl (feat. Arehlai)",
       "url": "https://open.spotify.com/track/0VphdXeFyozaVgPxUKOaWp"
@@ -3325,7 +3383,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 267433,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln"
@@ -3497,7 +3555,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 263200,
       "name": "We Fall Down",
       "url": "https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy"
@@ -3519,7 +3577,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 204000,
       "name": "What If",
       "url": "https://open.spotify.com/track/2Ov2Ifb7w9QxQj7lRIZtj8"
@@ -3637,7 +3695,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "With You",
       "url": "https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E"

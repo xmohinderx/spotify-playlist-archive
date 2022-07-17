@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Lilli QueenB  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,731 likes - 59 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,736 likes - 59 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 34 | [Percayalah](https://open.spotify.com/track/4ixIfr5NkzV2dS1jkVtXA1) | [FLAVI](https://open.spotify.com/artist/5r8TrEZRutYWF8BKrZFVRL) | [Percayalah](https://open.spotify.com/album/4jPuSTqw0ct0R40jyxzoND) | 4:58 |
 | 35 | [Oh Kasih](https://open.spotify.com/track/1Hn0WTSUfw5CpFmUTxQuVV) | [overstrings](https://open.spotify.com/artist/1o6DoqxSiH4hwFrAD1H3Zj) | [Oh Kasih](https://open.spotify.com/album/0mcXPZO5lnczaEI3VkAhDG) | 4:51 |
 | 36 | [Afraid](https://open.spotify.com/track/2B4LbA1ARtGOtwUWolKv1G) | [Hellcat Killers](https://open.spotify.com/artist/3x29a7yXmmcTD1qhooJ8Ut) | [Afraid](https://open.spotify.com/album/6ciTvoh19OJp6r0e2MgFSU) | 4:20 |
-| 37 | [DEJA VU](https://open.spotify.com/track/54uGhbPxHvcwaYpwkDAnL4) | [Chintana Jo](https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [Tintin](https://open.spotify.com/artist/79dBBbf22bLsxtklqr9x6y), [Victor Kong](https://open.spotify.com/artist/1wRDUXp3D3beKAcE5XxYdm), [Kitut](https://open.spotify.com/artist/0sARNVxRbF1f7xBM8OMP5q) | [DEJA VU](https://open.spotify.com/album/7uXQmMAkEPKSSXz36dqRim) | 4:04 |
+| 37 | [DEJA VU](https://open.spotify.com/track/54uGhbPxHvcwaYpwkDAnL4) | [Chintana Jo](https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [Tintin](https://open.spotify.com/artist/79dBBbf22bLsxtklqr9x6y), [Victor Kong](https://open.spotify.com/artist/1wRDUXp3D3beKAcE5XxYdm), [Kitut](https://open.spotify.com/artist/0sARNVxRbF1f7xBM8OMP5q) | [Deja Vu](https://open.spotify.com/album/7uXQmMAkEPKSSXz36dqRim) | 4:04 |
 | 38 | [Stars](https://open.spotify.com/track/4TgJR3oO2zlZKD9XHLL9RH) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Stars](https://open.spotify.com/album/5frOzhqkmWQHMSx6dDG8TR) | 3:04 |
 | 39 | [Cemas](https://open.spotify.com/track/6EyrIy71F8iLvlyLeu5MVx) | [Amira Karin](https://open.spotify.com/artist/3rCwi62vIXjO26qeTbDtKp) | [Cemas](https://open.spotify.com/album/5tFw3xFreyS9zIJbD9Kwww) | 2:04 |
 | 40 | [Affectionate Affair](https://open.spotify.com/track/33563e4XMpBs9OBYpBQG16) | [Roadtrip to Antarctica](https://open.spotify.com/artist/6Wr42eApWX8mSqh75AIFDg) | [Affectionate Affair](https://open.spotify.com/album/477qasaxfv5rDkpgIhERFi) | 4:27 |

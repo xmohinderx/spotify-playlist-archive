@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-49 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
+50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Ikk Kudi \- Reprised Version](https://open.spotify.com/track/0gPW9v2NYGnWzhz5I06ajD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Udta Punjab](https://open.spotify.com/album/6FfNmnl6x2AURdIRKJj925) | 4:07 | 2021-11-03 |  |
 | [Jugni](https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Jugni](https://open.spotify.com/album/3D783nXYZzw8b0snc5dz9e) | 5:01 | 2022-03-03 |  |
 | [Jugni 2.0](https://open.spotify.com/track/7rNFiL6NGvaXkFkemj91Tg) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Iyan Rose](https://open.spotify.com/artist/7ysTASyLV8jrYJHPfrUPzA) | [Jugni 2.0](https://open.spotify.com/album/0QAZxuGZxtJ4hcCJaMGBkB) | 3:04 | 2021-11-03 |  |
+| [Jutti Kasuri](https://open.spotify.com/track/6FYMT994PoloaFGnSIXLMG) | [Navneet Kaur](https://open.spotify.com/artist/5gumadhR2oUOnFkZsiV5W9) | [Jutti Kasuri](https://open.spotify.com/album/6Be19hOUDqXvOqGWtzCqXd) | 3:26 | 2022-07-16 |  |
 | [Jutti Kasuri](https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jutti Kasuri](https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD) | 3:16 | 2021-11-03 |  |
 | [Jutti Meri \(Live\)](https://open.spotify.com/track/4RXpYrUS1ARaN3euvGHpTj) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Jutti Meri \(Live\) \- Single](https://open.spotify.com/album/1T18aurspe5ouDMzg9Xaas) | 3:28 | 2021-11-03 |  |
 | [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 | 2021-11-03 |  |

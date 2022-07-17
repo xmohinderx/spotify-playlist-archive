@@ -8,7 +8,7 @@
   "tracks": [
     {
       "album": {
-        "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "name": "Sekai Ha i Ni Michiteiru",
         "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
       },
       "artists": [
@@ -19,9 +19,9 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 321733,
-      "name": "11\u6708\u306e\u96e8",
+      "name": "11gatsuno Ame",
       "url": "https://open.spotify.com/track/1yWV04HUCesq5NbuhYkRwA"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 247373,
       "name": "Canele",
       "url": "https://open.spotify.com/track/0xdYMLOVH0DPNNg1zPofzO"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 282533,
       "name": "Koino Code",
       "url": "https://open.spotify.com/track/41DwwsezbdbyXoqq9KK5k5"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 221773,
       "name": "Love Whistle",
       "url": "https://open.spotify.com/track/1d0Drv3qKZWEZiUhh563HC"
@@ -735,6 +735,42 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237706,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/03NKMpabqVFe6hy5UUcs5j"
+    },
+    {
+      "album": {
+        "name": "Watashio Someru Aino Uta",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267173,
+      "name": "Watashi Idol Sengen",
+      "url": "https://open.spotify.com/track/7HVJK5NcZTQGvWB1yWHyAB"
+    },
+    {
+      "album": {
+        "name": "Watashio Someru Aino Uta",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -852,24 +888,6 @@
     },
     {
       "album": {
-        "name": "\u79c1\u3092\u67d3\u3081\u308bi\u306e\u6b4c",
-        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "date_added": "2022-06-11",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
-      "duration_ms": 237706,
-      "name": "\u30c4\u30a4\u30f3\u30ba",
-      "url": "https://open.spotify.com/track/03NKMpabqVFe6hy5UUcs5j"
-    },
-    {
-      "album": {
         "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb \u3010TVsize\u3011",
         "url": "https://open.spotify.com/album/15DJ4J10gLGb4eELHikgB1"
       },
@@ -957,24 +975,6 @@
       "duration_ms": 195600,
       "name": "\u5927\u4eba\u306b\u306a\u3063\u305f\u306d",
       "url": "https://open.spotify.com/track/0u2Y4PQ5hTZuQ3m5Qd2FIm"
-    },
-    {
-      "album": {
-        "name": "\u79c1\u3092\u67d3\u3081\u308bi\u306e\u6b4c",
-        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
-      "duration_ms": 267173,
-      "name": "\u79c1\u3001\u30a2\u30a4\u30c9\u30eb\u5ba3\u8a00",
-      "url": "https://open.spotify.com/track/7HVJK5NcZTQGvWB1yWHyAB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4oyOhG"

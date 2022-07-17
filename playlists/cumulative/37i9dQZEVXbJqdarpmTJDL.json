@@ -887,7 +887,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 161432,
       "name": "Alitisa",
       "url": "https://open.spotify.com/track/2Q9BOwAeBObjeacLITrmYf"
@@ -2049,7 +2049,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 203281,
       "name": "Bentayga",
       "url": "https://open.spotify.com/track/3no6Kq6CvDpMtQW3DDlW6e"
@@ -2337,6 +2337,28 @@
       "duration_ms": 184800,
       "name": "Block",
       "url": "https://open.spotify.com/track/2j4EZlzum9PZXiZBySurpt"
+    },
+    {
+      "album": {
+        "name": "RACKATTACK 2",
+        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202304,
+      "name": "BLOCK",
+      "url": "https://open.spotify.com/track/4jfFyoq2SWpzMwdTVkT0wT"
     },
     {
       "album": {
@@ -4926,6 +4948,32 @@
     },
     {
       "album": {
+        "name": "RACKATTACK 2",
+        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "ZEN",
+          "url": "https://open.spotify.com/artist/4feorXuRwMimj0XFf24gUe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "ELLADA",
+      "url": "https://open.spotify.com/track/4gIrrbZWOT4zqx8V7yvHem"
+    },
+    {
+      "album": {
         "name": "Super Trapper II",
         "url": "https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV"
       },
@@ -5659,7 +5707,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 175437,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/3b2ClUHzIqdvq1RToD4WVF"
@@ -6526,6 +6574,28 @@
     },
     {
       "album": {
+        "name": "RACKATTACK 2",
+        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190381,
+      "name": "GUNAIKES",
+      "url": "https://open.spotify.com/track/4T0tIX6y3Lo8uKIUkwPSqw"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/0YjJuXJlkF0Al7355W6BXU"
       },
@@ -7019,7 +7089,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 159677,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/5kl3mR1jZFE4y17rk2pzz6"
@@ -7667,7 +7737,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 165000,
       "name": "Jodeci",
       "url": "https://open.spotify.com/track/6Sj9Fkq2uxfiF2258T2Ifa"
@@ -11837,10 +11907,36 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 216931,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/6ueP6ccf6H5h63WL9kfu23"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/3HX0kjaTKaBiwaBhlZbGNc"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216931,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/29kTgA9pGo9RYwhED65ZrS"
     },
     {
       "album": {
@@ -13414,6 +13510,24 @@
     },
     {
       "album": {
+        "name": "RACKATTACK 2",
+        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207652,
+      "name": "PROVLIMATA",
+      "url": "https://open.spotify.com/track/3mFp9xedXeyDrvnEW3CAiC"
+    },
+    {
+      "album": {
         "name": "PULL UP",
         "url": "https://open.spotify.com/album/764wuci2T1E24TKz1zo0Lk"
       },
@@ -13905,7 +14019,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
@@ -15493,6 +15607,28 @@
       "duration_ms": 207073,
       "name": "Tameio",
       "url": "https://open.spotify.com/track/5OPQQfeFTdMJIxPdFcUDGq"
+    },
+    {
+      "album": {
+        "name": "RACKATTACK 2",
+        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "TAMELE",
+      "url": "https://open.spotify.com/track/61gDSnwKCFMtftXQiVAAes"
     },
     {
       "album": {
@@ -17719,6 +17855,32 @@
       "duration_ms": 153895,
       "name": "YEEZY",
       "url": "https://open.spotify.com/track/3W746nqh3LubksIyn92lHa"
+    },
+    {
+      "album": {
+        "name": "RACKATTACK 2",
+        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192518,
+      "name": "YELAY",
+      "url": "https://open.spotify.com/track/5SHAByPIcK8CSv8szeP8GH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-406 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+409 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aadi Ve](https://open.spotify.com/track/0aQCAqdET216JkGFOwZ0NL) | [Runbir](https://open.spotify.com/artist/5noqLj1lBL60sqwh4ydVch) | [Walking Alone](https://open.spotify.com/album/1n6rmODHCXkbTcHyg6HOXI) | 2:38 | 2022-02-04 | 2022-02-12 |
 | [Aakad](https://open.spotify.com/track/5LpaK0acRyI2s10rBQg7Gk) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi) | [Aakad](https://open.spotify.com/album/1vrZ966dlxBaZf3xC5tzzW) | 3:48 | 2022-02-04 | 2022-02-12 |
 | [Adore You](https://open.spotify.com/track/6O0tJTjpI99TQD8bvtM6HM) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Adore You](https://open.spotify.com/album/3XgsHoifkQL6F6K3kMwnYJ) | 2:59 | 2022-05-20 | 2022-07-06 |
+| [Adore You \- 1 Min Music](https://open.spotify.com/track/1pFOGFtQyqdlFgzmSVJ2fz) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Adore You \- 1 Min Music](https://open.spotify.com/album/52P5TmTNdXKwmOhy18cmrZ) | 1:00 | 2022-07-16 |  |
 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 | 2021-12-02 |  |
 | [Allah Ve \(From "Main Te Bapu"\)](https://open.spotify.com/track/2azVU3xtSf7l59lEPIzdEi) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Nik D](https://open.spotify.com/artist/5nC2tf6FpiYafqUEh7eoSe) | [Allah Ve \(From "Main Te Bapu"\)](https://open.spotify.com/album/3DVwPdGcDpEGpKFgxI0YX4) | 4:00 | 2022-04-18 | 2022-05-20 |
 | [Amanat](https://open.spotify.com/track/0TeUlCl92AjyCXdfdU5C4M) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ) | [Amanat](https://open.spotify.com/album/1B8j6mD6LY9wH13HJdWyEF) | 3:15 | 2022-02-04 | 2022-04-06 |
@@ -263,6 +264,7 @@
 | [Password](https://open.spotify.com/track/1rM0PeiGbNxzCZ1ilf71d8) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Password](https://open.spotify.com/album/0lxZ4cOQs3JYsii2lyKacl) | 3:57 | 2022-03-22 | 2022-04-06 |
 | [Pata Ni Haan Diye \(From "Television"\)](https://open.spotify.com/track/2jdZazdnpGdk64W2BXVKYo) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Pata Ni Haan Diye \(From "Television"\)](https://open.spotify.com/album/39S5tGdSOUDIh21ELB7QZE) | 3:08 | 2022-06-16 | 2022-07-06 |
 | [Peg Patiala](https://open.spotify.com/track/1T2zltv44cifAqZIbG3D2N) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Arash Chhina](https://open.spotify.com/artist/6Sy6FzlKYR4MeDoTgfMyom) | [Peg Patiala](https://open.spotify.com/album/5avTKrtiB7J3HbUWYGStQB) | 3:06 | 2022-02-28 | 2022-04-06 |
+| [Pehli Dafa \- 1 Min Music](https://open.spotify.com/track/4vzzHfg6hG6idqFGJoAmi9) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Pehli Dafa \- 1 Min Music](https://open.spotify.com/album/2BlXa2QjqpMA3If5DGhRJN) | 0:59 | 2022-07-16 |  |
 | [Pehli Mulaqat](https://open.spotify.com/track/6KulvwatdDaRJ0CCGiKeXP) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Pehli Mulaqat](https://open.spotify.com/album/52l5tIJYvJUCiTOn1OSjOu) | 3:01 | 2022-05-24 |  |
 | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/track/2WzzdfuJuo5SayCuDn7Qoz) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/album/3kXYgc782J3ItogKA3db6n) | 2:51 | 2022-04-12 | 2022-04-29 |
 | [Perfect](https://open.spotify.com/track/31XW6duAPURc4PBLFD3hUu) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Perfect](https://open.spotify.com/album/3azqNOHGjcHr3ONccmxHDO) | 2:46 | 2021-12-02 | 2022-04-06 |
@@ -376,6 +378,7 @@
 | [Tu Hi Das De](https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy) | [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Simar Panag](https://open.spotify.com/artist/17wXdpGNHQ2vJ1ccoToqGC), [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Tu Hi Das De](https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW) | 2:52 | 2021-12-02 |  |
 | [Tu Jaanda Ae](https://open.spotify.com/track/68inwrhs0ggPlJhlqVHuCM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Tu Jaanda Ae](https://open.spotify.com/album/1LD9gtlHV6Mh4aeke1ebOw) | 4:10 | 2022-03-29 | 2022-04-06 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-02-24 | 2022-04-06 |
+| [Tu Jinna Karda Ae](https://open.spotify.com/track/4wiu5uT2WqCR3WjKMOHQq3) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Tu Jinna Karda Ae](https://open.spotify.com/album/5c7kkBmbDJRcR6F8KuKzlF) | 3:58 | 2022-07-16 |  |
 | [Tu Na Jaa](https://open.spotify.com/track/09aNHM2d7Hs6lKuCZgj4sw) | [Mansimran Sandhu](https://open.spotify.com/artist/0tt4DcVo2HdxkNOTpiUsOn) | [Tu Na Jaa](https://open.spotify.com/album/6fFZlo1ltq25MrF6GxGlKc) | 2:26 | 2022-03-14 | 2022-04-06 |
 | [Uche Uche Paunche](https://open.spotify.com/track/2GRerbOFlewgeat5rubxWk) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Uche Uche Paunche](https://open.spotify.com/album/4ZRHTGDeYYTgdVc2lAIN1d) | 3:22 | 2022-01-13 | 2022-02-01 |
 | [Uchiyaan Dewaraan](https://open.spotify.com/track/1CYn0jiSz0gubTpYJbuTMS) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Uchiyaan Dewaraan](https://open.spotify.com/album/6MyTdWlbXDZcpGDXDBGW0G) | 3:47 | 2021-12-02 | 2022-04-06 |

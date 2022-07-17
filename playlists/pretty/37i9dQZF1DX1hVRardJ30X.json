@@ -1,6 +1,6 @@
 {
   "description": "All-new releases by Latin artists! Cover: Tiago PZK, Myke Towers",
-  "num_followers": 503021,
+  "num_followers": 503084,
   "original_name": "New Music Friday Latin",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2022-07-15 15:58:56",
       "album": {
+        "name": "NOS ENTENDEMOS",
+        "url": "https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "HIT$ MUSIC",
+          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
+        }
+      ],
+      "duration_ms": 205729,
+      "name": "NOS ENTENDEMOS",
+      "url": "https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb"
+    },
+    {
+      "added_at": "2022-07-15 15:58:56",
+      "album": {
         "name": "El D\u00eda Que Te Fuiste",
         "url": "https://open.spotify.com/album/4jNZTWsgOpv4rejGsqn0jy"
       },
@@ -499,7 +519,7 @@
     {
       "added_at": "2022-07-15 15:58:56",
       "album": {
-        "name": "DAMALEONA VOL. 1",
+        "name": "DAMALEONA, VOL. 1",
         "url": "https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi"
       },
       "artists": [
@@ -1024,8 +1044,8 @@
           "url": "https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL"
         }
       ],
-      "duration_ms": 164280,
-      "name": "Yippie Khayo - Radio Edit",
+      "duration_ms": 164210,
+      "name": "Yippie Khayo - radio edit",
       "url": "https://open.spotify.com/track/6EC4XrfDjEt74XidztJ8RE"
     }
   ],

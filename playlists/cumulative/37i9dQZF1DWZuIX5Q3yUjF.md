@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Martina May, Kuban
 
-144 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+144 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Stormi](https://open.spotify.com/track/0PUo4n2UQlevX5nFfxSAgU) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Stormi](https://open.spotify.com/album/6lMCnq8ZNV1BNE4fAtNGpd) | 2:51 | 2022-05-05 | 2022-05-27 |
 | [Sul fondo](https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Sul fondo](https://open.spotify.com/album/2MKGwFKpeTYvcCqbUtwLzo) | 2:50 | 2022-05-05 |  |
 | [Sunflower](https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Sunflower](https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21) | 3:22 | 2022-07-07 |  |
-| [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 3:31 | 2022-07-14 |  |
+| [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 2:17 | 2022-07-14 |  |
 | [Tabasco](https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Tabasco](https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe) | 2:24 | 2022-06-16 |  |
 | [Tell Me Why](https://open.spotify.com/track/5JiVlyEvnZj6D3fZEhS9M8) | [Giusi Barone](https://open.spotify.com/artist/7pM35OnnDSSLU6alsc13Tn), [MISSILE](https://open.spotify.com/artist/7Jid1qynsHeXSNftV0jR2Q) | [Tell Me Why](https://open.spotify.com/album/6cUx83dXwKcmjER80iUAWy) | 2:03 | 2022-06-02 |  |
 | [Tra Mille](https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Tra Mille](https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC) | 2:35 | 2022-06-23 |  |

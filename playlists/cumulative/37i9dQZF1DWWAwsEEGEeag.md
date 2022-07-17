@@ -4,7 +4,7 @@
 
 > On se retrouve au parc?
 
-101 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+102 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Good Thing \(feat\. A\-Sho\)](https://open.spotify.com/track/7E1zd4pKf1VkWrbyO8jzwO) | [Heartstreets](https://open.spotify.com/artist/4e4lcwPxcGOe7k5gxGiS1a), [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz) | [Why Make Sense](https://open.spotify.com/album/4Ky4NOOAsfW8pIna26QR3f) | 3:28 | 2022-06-24 |  |
 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 | 2022-06-24 |  |
 | [Hot Slush Puppie](https://open.spotify.com/track/4tTVuHQ7YmdquY0ds4O181) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn), [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7), [AG Kone](https://open.spotify.com/artist/69MNJSQ5jYSmYDrQwURImA) | [CIEL](https://open.spotify.com/album/0e4POgMcYBEFomuUoE2uq6) | 4:01 | 2022-06-24 |  |
+| [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 | 2022-07-16 |  |
 | [Jamais \(j'aurais pensé\)](https://open.spotify.com/track/52zPlH7KmcY1B97sAm7TC6) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:55 | 2022-06-24 |  |
 | [Jean\-Talon](https://open.spotify.com/track/4iyjztJtT9o5N6ka7grAdq) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ), [Liamliamliam](https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw) | [Jean\-Talon](https://open.spotify.com/album/7EOTPOGsZYkBpKmqSTwYfE) | 2:55 | 2022-06-24 |  |
 | [Jeanne\-Mance](https://open.spotify.com/track/0kE9iw4bjbli8ViwVboNc5) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Summer Pack!](https://open.spotify.com/album/05Y8cMVteSJRy1kLNRXQGy) | 3:02 | 2022-06-24 |  |
@@ -82,7 +83,7 @@
 | [Peaches](https://open.spotify.com/track/7yndlXlrUV0dA01TBMvxuY) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Peaches](https://open.spotify.com/album/4hyB3TXvwJuvBgXMbOFBeH) | 3:30 | 2022-06-24 |  |
 | [Permis b bébé](https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:09 | 2022-06-24 |  |
 | [Peur des filles](https://open.spotify.com/track/00mO8JKk2wQ7VqdPcY1r4O) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo](https://open.spotify.com/album/7gE23KRzNbXeB6nZmQVqa3) | 3:28 | 2022-06-24 |  |
-| [Photo souvenir](https://open.spotify.com/track/0ySd5x9f74pco3ZWReyYKw) | [Titelaine](https://open.spotify.com/artist/4nOSClD4ihq1iOVNShATHR) | [On veut vivre notre vie en vacances](https://open.spotify.com/album/0RIXCgC8ug9TLuvfeyVUXY) | 3:11 | 2022-06-24 |  |
+| [Photo souvenir](https://open.spotify.com/track/0ySd5x9f74pco3ZWReyYKw) | [Titelaine](https://open.spotify.com/artist/4nOSClD4ihq1iOVNShATHR) | [On veut vivre notre vie en vacances](https://open.spotify.com/album/0RIXCgC8ug9TLuvfeyVUXY) | 3:11 | 2022-06-24 | 2022-07-17 |
 | [PLS \- sunset version](https://open.spotify.com/track/4lJEaKy001HuFKCwQYqK6S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [SEUM](https://open.spotify.com/album/33CZjzTw0EWuESPByXMyJL) | 3:28 | 2022-06-24 |  |
 | [Point sensible](https://open.spotify.com/track/0YmYBHDSRT2rr5uvnDWPWg) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF), [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Troie](https://open.spotify.com/album/2qVuFxNnL4daaUtPZLnVtG) | 2:25 | 2022-06-24 |  |
 | [Potager \- Mmmmmathias Remix](https://open.spotify.com/track/4C5C9qLtRZKfM9if5c0l8V) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8), [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Mmmmmathias](https://open.spotify.com/artist/6sturD2FFaJwfstxm4u59X) | [Potager \(Mmmmmathias Remix\)](https://open.spotify.com/album/09FYKTqO9IU41osm552L5z) | 3:37 | 2022-06-24 |  |
@@ -97,7 +98,7 @@
 | [Si je pleure](https://open.spotify.com/track/4KcBeLXAO66WKw40p06KBE) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE) | 3:45 | 2022-06-24 |  |
 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-06-24 |  |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2022-06-24 |  |
-| [Surface](https://open.spotify.com/track/0pYE7AScjJGhUMJef6EUII) | [Moussa](https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS) | [Surface](https://open.spotify.com/album/7GFsC4bDEEw3rFgP3dRZZ9) | 3:13 | 2022-06-24 |  |
+| [Surface](https://open.spotify.com/track/0pYE7AScjJGhUMJef6EUII) | [Moussa](https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS) | [Surface](https://open.spotify.com/album/7GFsC4bDEEw3rFgP3dRZZ9) | 3:13 | 2022-06-24 | 2022-07-17 |
 | [Ta main](https://open.spotify.com/track/6VbVuMbEi9LhL5GTHqpkBx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Ta main](https://open.spotify.com/album/23cFhtNMnvM3aXnQoJ2f3C) | 4:05 | 2022-06-24 |  |
 | [Tata](https://open.spotify.com/track/5toHaNWeaCf5cw9Jfn6yK4) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Tata](https://open.spotify.com/album/6D2bRl9q3zF2Rt3hcSQaRu) | 3:58 | 2022-06-24 |  |
 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2022-06-24 |  |

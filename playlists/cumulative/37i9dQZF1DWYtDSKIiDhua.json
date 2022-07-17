@@ -1044,6 +1044,24 @@
     },
     {
       "album": {
+        "name": "LILITH",
+        "url": "https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j"
+      },
+      "artists": [
+        {
+          "name": "LilithQueenB",
+          "url": "https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195929,
+      "name": "LILITH",
+      "url": "https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn"
+    },
+    {
+      "album": {
         "name": "little story",
         "url": "https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam"
       },

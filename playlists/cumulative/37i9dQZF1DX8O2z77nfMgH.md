@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados\. En portada: Tiago PZK y Myke Towers
 
-1,711 songs - 3 day 21 hr 47 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+1,712 songs - 3 day 21 hr 51 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1072,6 +1072,7 @@
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-08 | 2022-07-16 |
 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 | 2022-06-03 | 2022-06-11 |
 | [Nos Comemos Vivos](https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Nos Comemos Vivos](https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww) | 3:45 | 2022-06-10 | 2022-06-18 |
+| [NOS ENTENDEMOS](https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [NOS ENTENDEMOS](https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3) | 3:25 | 2022-07-15 |  |
 | [Nos perderemos en Marte](https://open.spotify.com/track/53SfTp0FV9j9GiJ1xP0vrZ) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Nos perderemos en Marte](https://open.spotify.com/album/0Gx3hYsAlnd1mNuonIon75) | 4:11 | 2022-02-11 | 2022-02-19 |
 | [NOSE](https://open.spotify.com/track/5xCCO1GYwnC0Pwt0CgNC2z) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [NOSE](https://open.spotify.com/album/2Bfs6ekarPGL93Rvtrjzkm) | 2:53 | 2022-07-08 | 2022-07-16 |
 | [Nossa Vida Parou \- Ao Vivo](https://open.spotify.com/track/2vvgWPzuuADSx3CNLRjQtL) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Ferrugem em Casa 2 \(Bloco 2\) \[Ao Vivo\]](https://open.spotify.com/album/4iLrvvqO8xUqZIglV27RM7) | 2:47 | 2022-02-11 | 2022-02-19 |
@@ -1553,7 +1554,7 @@
 | [TRANQUI](https://open.spotify.com/track/4U4oLQbcoVOGspDsl2bhsL) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [TRANQUI](https://open.spotify.com/album/6Z4FU5oHSdpK3YXedod4iO) | 3:27 | 2022-01-14 | 2022-01-22 |
 | [Tranquila](https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Tranquila](https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj) | 3:03 | 2022-01-14 | 2022-01-22 |
 | [Tranquilon](https://open.spotify.com/track/2ph8TXRreGS79zOhAa7hIZ) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Tranquilon](https://open.spotify.com/album/63FkxruRfZsFuNZMqmPrCJ) | 3:00 | 2022-07-08 | 2022-07-16 |
-| [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 | 2022-07-15 |  |
+| [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 | 2022-07-15 |  |
 | [Travesura](https://open.spotify.com/track/2TfHDb0DEQq2mScQWT8pa7) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Travesura](https://open.spotify.com/album/3GsJSVshPmihFKP6SG40dG) | 3:09 | 2022-06-17 | 2022-06-25 |
 | [Tremendo](https://open.spotify.com/track/7chWH8wyWLd7yfTKVqIBfH) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Tremendo](https://open.spotify.com/album/3QO24LTYxN7Q5Clp9qi5Rf) | 3:40 | 2021-12-31 | 2022-01-15 |
 | [Tremendo Culón](https://open.spotify.com/track/1AW667mty3vPYS8niQFCYo) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Tremendo Culón](https://open.spotify.com/album/6tbSlpWCnjq57F93UsBKFP) | 2:17 | 2022-06-17 | 2022-06-25 |

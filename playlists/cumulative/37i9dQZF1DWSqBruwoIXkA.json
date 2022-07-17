@@ -1396,6 +1396,24 @@
     },
     {
       "album": {
+        "name": "Get Your Attention",
+        "url": "https://open.spotify.com/album/43am42UyYn68HuCzv16WDg"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197260,
+      "name": "Get Your Attention",
+      "url": "https://open.spotify.com/track/4MCJB2N8KBptcmd1fmo7XY"
+    },
+    {
+      "album": {
         "name": "GHOST TOWN",
         "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 180363,
       "name": "Her",
       "url": "https://open.spotify.com/track/5czDKqPioLGfqZUERYxVZC"
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 291796,
       "name": "i love you",
       "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
@@ -2691,7 +2709,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/7HWetAoWK9qkFM575HONAY"
@@ -3019,7 +3037,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 178024,
       "name": "Missing You Sucks",
       "url": "https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA"
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 214100,
       "name": "Movies",
       "url": "https://open.spotify.com/track/3x7YsMwPnlXe51XWrwjo7g"
@@ -3343,7 +3361,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 122831,
       "name": "Not Used To Normal",
       "url": "https://open.spotify.com/track/7hOCTGGlJBfdenJDrjduht"
@@ -4061,7 +4079,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 171713,
       "name": "Something I Hate",
       "url": "https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd"
@@ -4285,7 +4303,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 163636,
       "name": "the reason i hate home",
       "url": "https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj"
@@ -4505,7 +4523,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 198439,
       "name": "unbreak",
       "url": "https://open.spotify.com/track/64QMCHiZCgKIq29dHhMScU"

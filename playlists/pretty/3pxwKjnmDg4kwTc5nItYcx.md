@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Carla Wehbe
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,540 likes - 263 songs - 14 hr 16 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,537 likes - 263 songs - 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 120 | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/track/27Mp1HAFIhnLBsGXdFcGXG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/album/1BLMrCc9WNdafvEVXxdOab) | 3:30 |
 | 121 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 |
 | 122 | [Zombie](https://open.spotify.com/track/4QmTyWBkweHWUCyrBl8n7l) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD), [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY) | [Zombie](https://open.spotify.com/album/0g0KAy1S6lLxbL84HL6C6V) | 2:38 |
-| 123 | [Some Type Of Way](https://open.spotify.com/track/36kx8fhVUnIkzMWatFPQob) | [MADAM3EMPRESS](https://open.spotify.com/artist/2adQUbouv2rghpbus8Zx73) | [Some Type Of Way](https://open.spotify.com/album/2Egeyjj4DTH0EpOQxv4osP) | 2:58 |
+| 123 | [Some Type Of Way](https://open.spotify.com/track/36kx8fhVUnIkzMWatFPQob) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Some Type Of Way](https://open.spotify.com/album/2Egeyjj4DTH0EpOQxv4osP) | 2:58 |
 | 124 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 |
 | 125 | [Mood Ring](https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Mood Ring](https://open.spotify.com/album/4ww2orXklptrpHj4M8xdvy) | 3:45 |
 | 126 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 |
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 165 | [Luv On U](https://open.spotify.com/track/0pi21pNHgOVtmZRGLd3oOI) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Emelia](https://open.spotify.com/album/7u3ev6IYmFZ97pZP5o1HSr) | 3:09 |
 | 166 | [John Hughes Movie](https://open.spotify.com/track/4NzoEowcMzDs9ELjzlOvW5) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [John Hughes Movie](https://open.spotify.com/album/0hkUCfDTq7ATw6j0MZn9oc) | 3:36 |
 | 167 | [Feel Something](https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Feel Something](https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI) | 2:43 |
-| 168 | [Locking Eyes](https://open.spotify.com/track/7dSIUPVTTqUkdy6GOaWxzZ) | [MADAM3EMPRESS](https://open.spotify.com/artist/2adQUbouv2rghpbus8Zx73) | [Locking Eyes](https://open.spotify.com/album/4cyuiSDnfjOX7RESklzpFu) | 2:49 |
+| 168 | [Locking Eyes](https://open.spotify.com/track/7dSIUPVTTqUkdy6GOaWxzZ) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Locking Eyes](https://open.spotify.com/album/4cyuiSDnfjOX7RESklzpFu) | 2:49 |
 | 169 | [Selfish](https://open.spotify.com/track/3fTd1AN7VM33g7OElNPJGb) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Selfish](https://open.spotify.com/album/3oM3S7CSJPRHjQxPoZs31a) | 2:57 |
 | 170 | [Let’s Go Home Together](https://open.spotify.com/track/35VGAYKzC4YxjDQQ8zxBPw) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Stripped\)](https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf) | 3:28 |
 | 171 | [running in place](https://open.spotify.com/track/3bGJaTfUpcbSNeJgFdxI9s) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [running in place](https://open.spotify.com/album/5WohdQVT7eFimhNjlMeXt3) | 2:45 |
@@ -212,7 +212,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 202 | [Body Do The Talking](https://open.spotify.com/track/0lk1rpA7KZ4usOL8OE6G5r) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better In Blak \(Anniversary Edition\)](https://open.spotify.com/album/1UMdaDTbCfAdOXGazG4ZNO) | 2:26 |
 | 203 | [Missing You](https://open.spotify.com/track/33bLbd9tzj6mvJUFlMJoyI) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Missing You](https://open.spotify.com/album/0wpBK3Vb5UZPLV7eKJbcwA) | 3:28 |
 | 204 | [Damn Bean](https://open.spotify.com/track/3eZReaCGyJoXQvXCN9HuG9) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Damn Bean](https://open.spotify.com/album/0L6Wmjz8QhjXqKn8ZNaTtl) | 2:54 |
-| 205 | [Come On Over](https://open.spotify.com/track/2LWpBjeKLT2EPeaZQmRaIL) | [MADAM3EMPRESS](https://open.spotify.com/artist/2adQUbouv2rghpbus8Zx73) | [Come On Over](https://open.spotify.com/album/2nYCfxDSwk3FaH2uB4IAov) | 3:20 |
+| 205 | [Come On Over](https://open.spotify.com/track/2LWpBjeKLT2EPeaZQmRaIL) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Come On Over](https://open.spotify.com/album/2nYCfxDSwk3FaH2uB4IAov) | 3:20 |
 | 206 | [IRL](https://open.spotify.com/track/2hTm4MljABGm013AzKCxN6) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [IRL](https://open.spotify.com/album/1GoynDFX8zhqqBaM3mFoJo) | 3:18 |
 | 207 | [Hide and Seek](https://open.spotify.com/track/4FgBUh8huqyoADFZehpcA3) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hide and Seek](https://open.spotify.com/album/1DVlm76hYqYnAGtiK2QstP) | 3:05 |
 | 208 | [Partners In Crime](https://open.spotify.com/track/156zwzmARLb5lGbhI3LiNB) | [Tim Gallagher](https://open.spotify.com/artist/6o48etq0sWdCaAjVq1i9Fb) | [Partners In Crime](https://open.spotify.com/album/6CmxmAViic57Dhmi0JH2ps) | 3:27 |

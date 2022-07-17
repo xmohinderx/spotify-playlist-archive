@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-396 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
+397 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-08 | 2022-03-16 |
 | [Pongámonos De Acuerdo](https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:41 | 2022-06-21 |  |
 | [Pongámonos de Acuerdo](https://open.spotify.com/track/6rLVgaupR7U8uOWxAMkjAX) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/5gQ0QNs8Qn1XAJ6jjyoK8X) | 2:42 | 2022-06-16 | 2022-06-18 |
+| [Por Clave el 13](https://open.spotify.com/track/61vEls8FiPl53hu6947W27) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/4LCQCWFTDGmbl93Y9LuXJF) | 3:10 | 2022-07-16 |  |
 | [Por Ti](https://open.spotify.com/track/3pSUfxKILry0ym2NPTf8Ta) | [Natanael Kong](https://open.spotify.com/artist/2a7qOWwPHcWQ46GNh4ixmg) | [Por Ti](https://open.spotify.com/album/0g7eXC0EmnEshMIWSP7Lpw) | 3:28 | 2022-03-08 | 2022-03-12 |
 | [Por Ti](https://open.spotify.com/track/4WMC4GglT4SCnrupyJSVET) | [Natatyson](https://open.spotify.com/artist/0tjSjBKrPfx0evG3Egh374) | [Por Ti](https://open.spotify.com/album/5YRZPfvDOflX4Z4BZPXd7Q) | 3:30 | 2022-06-13 | 2022-07-14 |
 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 | 2022-02-08 | 2022-02-28 |
@@ -334,7 +335,7 @@
 | [Sufriendo](https://open.spotify.com/track/3afAUVkCzAtkjiDxrtq6K1) | [MYLØ](https://open.spotify.com/artist/5TpsDaHB9KPoIzkWpub8Zh), [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [Sufriendo](https://open.spotify.com/album/3N1bcRqm5JIAzST7cejp0g) | 2:44 | 2022-04-22 | 2022-06-23 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 | 2022-03-29 | 2022-04-13 |
 | [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-02-08 | 2022-03-22 |
-| [Tarot](https://open.spotify.com/track/4TzDoPgZyO9SJLkaxVlvUQ) | [Pau Glez](https://open.spotify.com/artist/4pKMu7o0OoRDVho8c4CRTs) | [Tarot](https://open.spotify.com/album/4MHp0p9LkyaRFJWjMbAk3A) | 3:04 | 2022-07-13 |  |
+| [Tarot](https://open.spotify.com/track/4TzDoPgZyO9SJLkaxVlvUQ) | [Pau Glez](https://open.spotify.com/artist/4pKMu7o0OoRDVho8c4CRTs) | [Tarot](https://open.spotify.com/album/4MHp0p9LkyaRFJWjMbAk3A) | 3:04 | 2022-07-13 | 2022-07-17 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-17 | 2022-06-25 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:11 | 2022-06-22 |  |
 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 | 2022-03-22 | 2022-03-27 |

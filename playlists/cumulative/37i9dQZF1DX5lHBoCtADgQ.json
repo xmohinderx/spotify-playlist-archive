@@ -505,6 +505,24 @@
     {
       "album": {
         "name": "Jutti Kasuri",
+        "url": "https://open.spotify.com/album/6Be19hOUDqXvOqGWtzCqXd"
+      },
+      "artists": [
+        {
+          "name": "Navneet Kaur",
+          "url": "https://open.spotify.com/artist/5gumadhR2oUOnFkZsiV5W9"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206086,
+      "name": "Jutti Kasuri",
+      "url": "https://open.spotify.com/track/6FYMT994PoloaFGnSIXLMG"
+    },
+    {
+      "album": {
+        "name": "Jutti Kasuri",
         "url": "https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD"
       },
       "artists": [

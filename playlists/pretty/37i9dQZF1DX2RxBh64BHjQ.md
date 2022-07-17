@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: SleazyWorld Go
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,659,155 likes - 99 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,659,577 likes - 99 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 91 | [New Money](https://open.spotify.com/track/6C6POicX3pT7wV46f3NY2I) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [New Money](https://open.spotify.com/album/1GdhvK867o2TFnt1rVnFJp) | 3:22 |
 | 92 | [waY bacK wheN](https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [wheN iT rainS iT pourS](https://open.spotify.com/album/53zUIw0vdPLw5YhMwFBeWU) | 2:57 |
 | 93 | [MVP](https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [MVP](https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx) | 2:26 |
-| 94 | [SOON \(feat\. Arabian\)](https://open.spotify.com/track/312YwRTzTE526nmuCaONji) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Arabian](https://open.spotify.com/artist/3CVIomosotXKy9Zrc7S6YB) | [SOON \(feat\. Arabian\)](https://open.spotify.com/album/3k4S1TseIIgV3X1KE3GeDw) | 2:39 |
+| 94 | [SOON \(feat\. Arabian\)](https://open.spotify.com/track/312YwRTzTE526nmuCaONji) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [Arabian](https://open.spotify.com/artist/3CVIomosotXKy9Zrc7S6YB) | [SOON \(feat\. Arabian\)](https://open.spotify.com/album/3k4S1TseIIgV3X1KE3GeDw) | 2:39 |
 | 95 | [Don't Condone 2](https://open.spotify.com/track/5o8cjOJw2TYCAYWL39BCwh) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Don't Condone 2](https://open.spotify.com/album/4hb0mt3XZ4gbUePCMoPYeQ) | 4:24 |
 | 96 | [Naked \(feat\. Latto\)](https://open.spotify.com/track/4aQNaW6LKNMa0FEToHWSmc) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Naked \(feat\. Latto\)](https://open.spotify.com/album/28TW8LGKtoq5vu9h8UYcLM) | 2:54 |
 | 97 | [Hoppin Out](https://open.spotify.com/track/2qD5hkBGI47Pr1a2SnikZc) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Hoppin Out](https://open.spotify.com/album/6Ab3Hqoowg6OjsWpAgxcwf) | 2:41 |

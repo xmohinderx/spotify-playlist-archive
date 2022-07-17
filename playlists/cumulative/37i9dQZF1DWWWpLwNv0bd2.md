@@ -2,9 +2,9 @@
 
 ### [Latest Romance Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Love Tunes.<br/>Cover : VTK
+> Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
 
-69 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+70 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Little Little](https://open.spotify.com/track/6Crs0KY6mHL9e1YEKNYUAl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Galatta Kalyaanam](https://open.spotify.com/album/4gAUrEjPH7kC6Hwtnx5uhj) | 4:17 | 2021-12-13 |  |
 | [Maayakari](https://open.spotify.com/track/7sKeH5mCZs8JhHA22PHqfD) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 4:42 | 2022-05-31 | 2022-06-29 |
 | [Mayakirriye](https://open.spotify.com/track/5Xm4pHOZjks21F81pIdAba) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakirriye](https://open.spotify.com/album/5do7NqMxzn5MD3HWYdjDGy) | 3:09 | 2022-02-21 |  |
+| [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 | 2022-07-16 |  |
 | [Mehabooba](https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:32 | 2022-04-22 |  |
 | [Meherezylaa \- From "Maanaadu"](https://open.spotify.com/track/2kAZP4MIGCitpBHn358pgU) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4), [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5) | [Meherezylaa \(From "Maanaadu"\)](https://open.spotify.com/album/7sZ0rgDMsrmo98UY0z98c9) | 4:19 | 2021-11-29 |  |
 | [Menmayaay](https://open.spotify.com/track/5HVrUNujrjrn7Ewfk018S2) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chinmayi Sripada](https://open.spotify.com/artist/3MB1ePz3FVSQzFfI9v6KgD), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Samrat Prithviraj \- Tamil](https://open.spotify.com/album/7rFNqCSbDKvket5UXHyNw4) | 4:04 | 2022-05-19 | 2022-06-29 |

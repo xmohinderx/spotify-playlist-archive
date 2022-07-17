@@ -5442,6 +5442,24 @@
     },
     {
       "album": {
+        "name": "Seguimos Irremediables",
+        "url": "https://open.spotify.com/album/4LCQCWFTDGmbl93Y9LuXJF"
+      },
+      "artists": [
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190798,
+      "name": "Por Clave el 13",
+      "url": "https://open.spotify.com/track/61vEls8FiPl53hu6947W27"
+    },
+    {
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/0g7eXC0EmnEshMIWSP7Lpw"
       },
@@ -6599,7 +6617,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 184218,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/4TzDoPgZyO9SJLkaxVlvUQ"

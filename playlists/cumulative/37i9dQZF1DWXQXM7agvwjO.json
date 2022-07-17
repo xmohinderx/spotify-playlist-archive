@@ -670,24 +670,6 @@
     },
     {
       "album": {
-        "name": "Bu Ke Jiu Yao De...",
-        "url": "https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5"
-      },
-      "artists": [
-        {
-          "name": "WHIZZ",
-          "url": "https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe"
-        }
-      ],
-      "date_added": "2022-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183008,
-      "name": "Bu Ke Jiu Yao De...",
-      "url": "https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF"
-    },
-    {
-      "album": {
         "name": "Bullseye",
         "url": "https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C"
       },
@@ -1047,7 +1029,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 243444,
       "name": "C\u00e1 \u0110u\u1ed1i",
       "url": "https://open.spotify.com/track/7mXhhwuJSi7ymaHhp4HFag"
@@ -2377,6 +2359,24 @@
       "duration_ms": 208566,
       "name": "Like Lovers (feat. Seol Hoseung (SURL) & HENG)",
       "url": "https://open.spotify.com/track/1oeGqU7j0HEyK19gty0SUY"
+    },
+    {
+      "album": {
+        "name": "LILITH",
+        "url": "https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j"
+      },
+      "artists": [
+        {
+          "name": "LilithQueenB",
+          "url": "https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195929,
+      "name": "LILITH",
+      "url": "https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn"
     },
     {
       "album": {
@@ -4785,6 +4785,24 @@
       "duration_ms": 245868,
       "name": "\u308f\u305f\u3057\u305f\u3061\u3078",
       "url": "https://open.spotify.com/track/78XrrMFIEGU8yOUdkn5umM"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u53ef\u6551\u85e5\u7684...",
+        "url": "https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5"
+      },
+      "artists": [
+        {
+          "name": "WHIZZ",
+          "url": "https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183008,
+      "name": "\u4e0d\u53ef\u6551\u85e5\u7684...",
+      "url": "https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF"
     },
     {
       "album": {

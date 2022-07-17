@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Martina May, Kuban
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,785 likes - 120 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,796 likes - 120 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 18 | [Luna piena](https://open.spotify.com/track/0HfcmSX7h8V988x2ik3FuN) | [Martina Difonte](https://open.spotify.com/artist/3qiGojLCrw73AjXA4jqRyQ) | [Luna piena](https://open.spotify.com/album/4ZupD1U6aOIN46ZK8ocWVw) | 2:30 |
 | 19 | [Sunflower](https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Sunflower](https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21) | 3:22 |
 | 20 | [Lama d'argento](https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb) | [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Lama d'argento](https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2) | 3:29 |
-| 21 | [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 3:31 |
+| 21 | [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 2:17 |
 | 22 | [Jeans Appeal](https://open.spotify.com/track/0SnJuW9iXV3s2nTgGN31Nb) | [Merrick](https://open.spotify.com/artist/5msEesooT4udZUDKyp8SPe) | [Jeans Appeal](https://open.spotify.com/album/78dWDklJ4ITsnQ14SIEojh) | 3:05 |
 | 23 | [Fossi nato gemelli](https://open.spotify.com/track/6RQaetUr5u5u6X90JeTPIy) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V) | [Fossi nato gemelli](https://open.spotify.com/album/3W6F44q3hafFKita7WTWpB) | 3:33 |
 | 24 | [Niente da dirti](https://open.spotify.com/track/6y2eneVA3eWA3WBADJjyBl) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/1EL0DnhlJFQudSGdAwsHEl) | 4:01 |

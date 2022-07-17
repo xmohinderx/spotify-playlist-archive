@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 301733,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/32zna5FLT8EQboEzpWzV76"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 250358,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/4FruIj8XF7TVGD2eiZEFMS"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 275680,
       "name": "Another Day In Paradise",
       "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 310480,
       "name": "Another Part of Me",
       "url": "https://open.spotify.com/track/2uroSt9vhH1KFV9g4s0MOS"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 254642,
       "name": "Around the World",
       "url": "https://open.spotify.com/track/4KgBh87uOAEKc7Qff1uL2q"
@@ -342,6 +342,28 @@
     },
     {
       "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/5ehU6ep0HbBgBD0tWVysYu"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Dontae Winslow",
+          "url": "https://open.spotify.com/artist/7eyDpUsaGy4plNy33ahyca"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "Bring It Back [Feat. Dontae Winslow]",
+      "url": "https://open.spotify.com/track/7sKn66UsPHo0zFnZbYwr2K"
+    },
+    {
+      "album": {
         "name": "Send One Your Love",
         "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
       },
@@ -353,7 +375,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 304360,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6QEGpwc5mH2tB1TOMYtr7L"
@@ -371,7 +393,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 243146,
       "name": "Cachaca",
       "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
@@ -573,7 +595,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 284093,
       "name": "City Vibe",
       "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
@@ -693,7 +715,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 261092,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr"
@@ -733,7 +755,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 212325,
       "name": "Espresso Shot",
       "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
@@ -751,7 +773,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 259019,
       "name": "Essence",
       "url": "https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I"
@@ -849,7 +871,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 296875,
       "name": "Fonk In The City - Live Performance",
       "url": "https://open.spotify.com/track/5E2LE2CWlbEc4kcttbmVfn"
@@ -907,7 +929,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 202129,
       "name": "Frobidden Fruit",
       "url": "https://open.spotify.com/track/1YYtVHoUXAs5QmUhNhaHFV"
@@ -961,7 +983,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 197489,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/4vNMy68DUVib0AtOrUNbba"
@@ -1037,7 +1059,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 296475,
       "name": "Got to Be Real",
       "url": "https://open.spotify.com/track/1dNB7cpCB5SlHHfwpCbYrs"
@@ -1117,7 +1139,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 252946,
       "name": "Hard Work (feat. Michael O'Hara)",
       "url": "https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x"
@@ -1179,7 +1201,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 241240,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/5JjpJpnQRjYjlRh1FJCkVm"
@@ -1407,7 +1429,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 248071,
       "name": "Kiss and Tell",
       "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
@@ -1465,7 +1487,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 312800,
       "name": "Lasting Impression",
       "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
@@ -1595,7 +1617,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 233920,
       "name": "Limitless - Radio Edit",
       "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
@@ -1631,7 +1653,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 227920,
       "name": "Livin' The Life",
       "url": "https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43"
@@ -1649,7 +1671,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 316377,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/6kRGkRQHf8vWPAJ791dEgq"
@@ -1685,7 +1707,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 243882,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4dIm1mKNrPj8zzADhw7BTq"
@@ -1707,7 +1729,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 240553,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/1ebtnoXkPEF1wIUythB6ee"
@@ -1831,7 +1853,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 241146,
       "name": "On the Uptown",
       "url": "https://open.spotify.com/track/7063cn4EtVAdrnMP4RzpDT"
@@ -2051,7 +2073,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 289586,
       "name": "Right Back Atcha",
       "url": "https://open.spotify.com/track/6P9nJUyMQ8UaMrYwsuyqvw"
@@ -2087,7 +2109,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 255034,
       "name": "Room 143",
       "url": "https://open.spotify.com/track/451nSdShMhPPmJ6OUTzOfC"
@@ -2217,7 +2239,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 251142,
       "name": "Sharon's Groove",
       "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
@@ -2253,7 +2275,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 304600,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
@@ -2289,7 +2311,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 280106,
       "name": "Slam Dunk",
       "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
@@ -2325,7 +2347,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 259164,
       "name": "So Into You",
       "url": "https://open.spotify.com/track/6DCHiBPhfiOm4qg8BrmfmE"
@@ -2391,7 +2413,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 230696,
       "name": "Soul City (feat. Norman Brown & Joey Sommerville)",
       "url": "https://open.spotify.com/track/7pezUdpxJA1GIll9xhuVNV"
@@ -2409,7 +2431,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 296360,
       "name": "Speak Easy",
       "url": "https://open.spotify.com/track/64iI0xWTsFNb647B6suOmv"
@@ -2427,7 +2449,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 285506,
       "name": "Stone Groove",
       "url": "https://open.spotify.com/track/2yrXGvn1lnySUjrniThAWS"
@@ -2521,7 +2543,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 260040,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5d7Ma0QYFGk5WDGAN1wXUE"
@@ -2601,7 +2623,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 244600,
       "name": "Taking Control",
       "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
@@ -2619,7 +2641,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 255773,
       "name": "Tale of Two Cities",
       "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
@@ -2677,7 +2699,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 246458,
       "name": "The Goddess",
       "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
@@ -2879,7 +2901,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 258706,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
@@ -2897,7 +2919,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 275680,
       "name": "Warm - Album Mix",
       "url": "https://open.spotify.com/track/6QvJtPAuUWtPzC87raT6x3"
@@ -2995,7 +3017,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 270133,
       "name": "Wild Tales (feat. Russ Freeman)",
       "url": "https://open.spotify.com/track/463sMWdEGB9NTvu988dd2R"

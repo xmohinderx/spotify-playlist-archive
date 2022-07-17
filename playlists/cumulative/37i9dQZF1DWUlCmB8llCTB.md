@@ -4,7 +4,7 @@
 
 > Esto es un perreo a lo Zion, Anuel AA & Randy.
 
-243 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
+244 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-08 |  |
 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 | 2022-06-03 |  |
 | [Nos Comemos Vivos](https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Nos Comemos Vivos](https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww) | 3:45 | 2022-06-10 |  |
+| [NOS ENTENDEMOS](https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [NOS ENTENDEMOS](https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3) | 3:25 | 2022-07-15 |  |
 | [Nos Fuimos](https://open.spotify.com/track/4zL9rfF33n0kq7Q2JGot5a) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Nos Fuimos](https://open.spotify.com/album/2fXE6ksRYKH0DmHz83MUXe) | 2:39 | 2021-12-24 | 2022-03-12 |
 | [Nos Robamos la Movie](https://open.spotify.com/track/43Pa6T68pFnIs8DrtPHxPr) | [Fat Broka](https://open.spotify.com/artist/3gbf617lW6MVtNKzBK5BBp), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Nos Robamos la Movie](https://open.spotify.com/album/0pG1liXeE2bMnpXVP6vADj) | 4:09 | 2021-12-24 | 2022-01-15 |
 | [Nunca Me Enchulo](https://open.spotify.com/track/3omUdcIbdhegrhrFQ0G017) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Nunca Me Enchulo](https://open.spotify.com/album/3XfK2AGPbjW1pNtMtw2sg6) | 3:15 | 2022-04-22 | 2022-06-24 |

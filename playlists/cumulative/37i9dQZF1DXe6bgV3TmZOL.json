@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 244677,
       "name": "11:11",
       "url": "https://open.spotify.com/track/2Uz3IrR8c3ay9mnk3IPk4B"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 190826,
       "name": "Always Southern California",
       "url": "https://open.spotify.com/track/1QUF9KoHtU4ZzFp13XalSR"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 216625,
       "name": "Balboa Son",
       "url": "https://open.spotify.com/track/7Lbd9uhPYTnMHwxRTIUPbU"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 201960,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
@@ -686,6 +686,24 @@
     },
     {
       "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206146,
+      "name": "Breaking Down",
+      "url": "https://open.spotify.com/track/4bE3cBcwAe7T5SklvbkiYZ"
+    },
+    {
+      "album": {
         "name": "Breaking Skin",
         "url": "https://open.spotify.com/album/6AREv57v8nBZFdpPok7o9M"
       },
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 174546,
       "name": "Breaking Skin",
       "url": "https://open.spotify.com/track/4sCvTmUx2f1FC6Qds5GKIm"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 225133,
       "name": "Chaos And Earthquakes",
       "url": "https://open.spotify.com/track/2imkodSyg1hOZwZuE2fJdU"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 231773,
       "name": "Deceiver, Deceiver",
       "url": "https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 207986,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 235522,
       "name": "Do you really wanna know?",
       "url": "https://open.spotify.com/track/0dlKqhMDG7z87ZQsPMqZ5J"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 217720,
       "name": "Dumptruck",
       "url": "https://open.spotify.com/track/3a0xTF3rUKUcUbzsz7A2oM"
@@ -2397,7 +2415,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 267238,
       "name": "MANIFEST",
       "url": "https://open.spotify.com/track/5CxHzMIN3ZOH8f18RdNYwO"
@@ -2509,7 +2527,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 315177,
       "name": "Nero Forte",
       "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
@@ -2527,7 +2545,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 396634,
       "name": "New Found",
       "url": "https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6"
@@ -2545,7 +2563,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 194575,
       "name": "Nightmares Are Dreams Too",
       "url": "https://open.spotify.com/track/7mpQkVZV55bocA712tKkRF"
@@ -2790,6 +2808,24 @@
     },
     {
       "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+    },
+    {
+      "album": {
         "name": "Paradigm",
         "url": "https://open.spotify.com/album/1Ml5MQeO2VVNBgvexIA9Ff"
       },
@@ -2823,6 +2859,24 @@
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
+    },
+    {
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/5wJDlY1ydJyfu66a7B1AEO"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/7gYL9E5WN7Nd8l2ZQ1rkKI"
     },
     {
       "album": {
@@ -2927,7 +2981,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
@@ -3042,6 +3096,24 @@
     },
     {
       "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1T3CqW6EYKmimsv2aWtzRa"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214986,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/3YJFW63JqYWDkHIm0fAhn5"
+    },
+    {
+      "album": {
         "name": "READY TO DIE",
         "url": "https://open.spotify.com/album/45uDqpJtxEdoiQFDkmYnjM"
       },
@@ -3089,7 +3161,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 225263,
       "name": "Remember We Die",
       "url": "https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL"
@@ -3533,7 +3605,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
@@ -3713,7 +3785,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 217099,
       "name": "The End",
       "url": "https://open.spotify.com/track/6CRSmqVeFPd4zwvlHhgFrj"
@@ -3735,7 +3807,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 223357,
       "name": "The Hunted (feat. Sully Erna)",
       "url": "https://open.spotify.com/track/08vJxMYhmZu6YTWqVmLgrA"
@@ -4331,7 +4403,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 183437,
       "name": "You Never Know",
       "url": "https://open.spotify.com/track/2KJwci3DPtYbfg7pxczvWf"

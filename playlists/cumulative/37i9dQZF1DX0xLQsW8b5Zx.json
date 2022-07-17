@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 140196,
       "name": "Bless My Soul With Rock'n'Roll",
       "url": "https://open.spotify.com/track/47Kzl2db8dVG89s4P4RNMZ"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 142560,
       "name": "Bluejean Bop",
       "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 183573,
       "name": "Born to Rock",
       "url": "https://open.spotify.com/track/6YT4nf1aNlJrKiTSsrqaaz"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 175679,
       "name": "Chevy 55",
       "url": "https://open.spotify.com/track/2ZIRhZgebost1ImAJfk5Fh"
@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Rockabilly Greats",
+        "url": "https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU"
+      },
+      "artists": [
+        {
+          "name": "Pat Cupp",
+          "url": "https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Do Me No Wrong",
+      "url": "https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S"
+    },
+    {
+      "album": {
         "name": "Don't Come Knocking on My Door",
         "url": "https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h"
       },
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 132400,
       "name": "Drinking Wine Spo-Dee-O-Dee - Single Version",
       "url": "https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 154680,
       "name": "Evelina",
       "url": "https://open.spotify.com/track/4Lz9MQ6Je5niOfsT6xLVKO"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 149053,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/3KB1Z1mQulL4SdJTmrbTyO"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 129493,
       "name": "Hip Shakin' Baby",
       "url": "https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 135373,
       "name": "Hold Me, Hug Me, Rock Me - 2002 Digital Remaster",
       "url": "https://open.spotify.com/track/07dubfnUuwhOfV84rJ5EuO"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 121760,
       "name": "I'm Coming Home",
       "url": "https://open.spotify.com/track/1m1p15XpCQLXkq04yym3xu"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 118512,
       "name": "I'm Gonna Get You",
       "url": "https://open.spotify.com/track/1GgwGCiITPzjzziSVLQK0H"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 129610,
       "name": "Pretty Bad Blues",
       "url": "https://open.spotify.com/track/52wE6uoCiiMGApFVqKy2JY"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 149705,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/024xjVutLFgK3gInQCJxGj"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 154680,
       "name": "Red Hot Car",
       "url": "https://open.spotify.com/track/4HoMuhnMw4ATOpfoI1gIym"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 121253,
       "name": "Rock-a-Cha",
       "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 207040,
       "name": "Rocky Road Blues",
       "url": "https://open.spotify.com/track/42hJcIKQ1OEeriwE9ERDJr"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 217853,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w"
@@ -2145,7 +2163,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 188480,
       "name": "Welcome to My Hell",
       "url": "https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D"

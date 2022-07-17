@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ardhito Pramono
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,882 likes - 105 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,895 likes - 105 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 34 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
 | 35 | [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 |
 | 36 | [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 |
-| 37 | [Move Me \- feat\. Carly Rae Jepsen](https://open.spotify.com/track/7hLvlEgz9LoAuWcIoxxVCm) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Move Me](https://open.spotify.com/album/5xDEpaaXahmBHthMV414GK) | 3:59 |
+| 37 | [Move Me](https://open.spotify.com/track/7hLvlEgz9LoAuWcIoxxVCm) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Move Me](https://open.spotify.com/album/5xDEpaaXahmBHthMV414GK) | 3:59 |
 | 38 | [You’re Not There](https://open.spotify.com/track/4hcd8unXkTmz0NnROS1h0S) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [You’re Not There](https://open.spotify.com/album/2jZ0GGFMViQP0KEzXAXP5C) | 2:59 |
 | 39 | [On These Days](https://open.spotify.com/track/50tg0MhVYLYLlUIRkZMtlr) | [Chriselda](https://open.spotify.com/artist/2U9rPOlR5Osiq6sRuL0dSr) | [On These Days](https://open.spotify.com/album/24daMuc7N7ATgrxs1ABsdt) | 3:30 |
 | 40 | [I Love You, Even When You Hate Yourself.](https://open.spotify.com/track/56Ts7vcuIEUP86yHufXQMg) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [I Love You, Even When You Hate Yourself.](https://open.spotify.com/album/17jSPoo8UeD596IwL13xig) | 4:46 |
