@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Skin On Skin\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,736 likes - 102 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,727 likes - 102 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

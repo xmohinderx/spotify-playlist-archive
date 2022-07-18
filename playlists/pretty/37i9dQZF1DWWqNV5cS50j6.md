@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Indie music antimatter\. Cover: Groupthink
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,169 likes - 107 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,351 likes - 107 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 2 | [hang tight](https://open.spotify.com/track/5A18c8MxOe0trcRiZwhyvV) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV) | [hang tight](https://open.spotify.com/album/0bL4mhDPX5AXCXU9cTOK8j) | 2:09 |
 | 3 | [Me and Your Boyfriend](https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Me and Your Boyfriend](https://open.spotify.com/album/44HO5dHZ7GYmxDm7oMHHGu) | 2:06 |
 | 4 | [Loner](https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Loner](https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI) | 3:05 |
-| 5 | [get yo bread](https://open.spotify.com/track/1CbRf2PzsxscJKbzlngTyr) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [get yo bread](https://open.spotify.com/album/4gV0AqHdzOwBuykylnF0lf) | 3:44 |
-| 6 | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi) | 2:05 |
+| 5 | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi) | 2:05 |
+| 6 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 |
 | 7 | [Solar System](https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Boa Constrictors](https://open.spotify.com/artist/5pF04WnpEzab0at7YVjixz) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 3:32 |
 | 8 | [Centauri](https://open.spotify.com/track/2gRRFco9B1M912c7wX5Nhg) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/3coE5Zmvd7zx2LYX6tIkOV) | 2:35 |
 | 9 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 |
 | 10 | [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 |
-| 11 | [Concrete Walls](https://open.spotify.com/track/4c3owU9UoRSbMr6obEAtsh) | [Pace](https://open.spotify.com/artist/7qem60JOzr0TKI9WOmkNaG) | [Concrete Walls](https://open.spotify.com/album/754wyHaNUpCJAVxuJMP65r) | 2:48 |
-| 12 | [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 |
-| 13 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 |
+| 11 | [get yo bread](https://open.spotify.com/track/1CbRf2PzsxscJKbzlngTyr) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [get yo bread](https://open.spotify.com/album/4gV0AqHdzOwBuykylnF0lf) | 3:44 |
+| 12 | [Concrete Walls](https://open.spotify.com/track/4c3owU9UoRSbMr6obEAtsh) | [Pace](https://open.spotify.com/artist/7qem60JOzr0TKI9WOmkNaG) | [Concrete Walls](https://open.spotify.com/album/754wyHaNUpCJAVxuJMP65r) | 2:48 |
+| 13 | [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 |
 | 14 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 15 | [Themanwithtwofaces](https://open.spotify.com/track/2nnWeyvnHG5SBq7hg1u1Jh) | [HEARTBREAKHOTEL](https://open.spotify.com/artist/4uEVAZKe9bgB8Tb8skw7Tx) | [Themanwithtwofaces](https://open.spotify.com/album/0Q9E2nWt9kadthLSxMydpU) | 1:33 |
 | 16 | [You the One Fish in the Sea](https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu) | 2:32 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 106 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 |
 | 107 | [whitegold](https://open.spotify.com/track/1xqLOYIMiNoCduM983ibjk) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [whitegold](https://open.spotify.com/album/1XRIpP2HiwRx1XjEM6CJGx) | 2:33 |
 
-Snapshot ID: `MTY1Nzg1NzY2MCwwMDAwMzQ2OTAwMDAwMTgyMDAwNDU0ZjcwMDAwMDE4MThjZDM0OGYx`
+Snapshot ID: `MTY1ODA3ODYxMiwwMDAwMzQ2YTAwMDAwMTgyMGQyZmNkOTAwMDAwMDE4MThjZDM0OGYx`

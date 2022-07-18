@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 
 > This is Selena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,273 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,398 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 13 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 |
 | 14 | [Tú, Solo Tú](https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:12 |
 | 15 | [Buenos Amigos](https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Alvaro Torres](https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 4:44 |
-| 16 | [Ya Ves](https://open.spotify.com/track/799cauivpw59tpLgcV4RWK) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 3:16 |
+| 16 | [Si Una Vez \- Live](https://open.spotify.com/track/2GFC4Zo3Qz1AF2cmVZkxZh) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 3:25 |
 | 17 | [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 |
-| 18 | [Si Una Vez \- Live](https://open.spotify.com/track/2GFC4Zo3Qz1AF2cmVZkxZh) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 3:25 |
+| 18 | [Ya Ves](https://open.spotify.com/track/799cauivpw59tpLgcV4RWK) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 3:16 |
 | 19 | [Que Creías](https://open.spotify.com/track/2db2QrUOQsVawxaQmgcmeG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:34 |
 | 20 | [Besitos](https://open.spotify.com/track/7AbqXy9RdTfrKkk5FdJSa5) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Mejores Canciones: 17 Super Exitos](https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95) | 2:24 |
 | 21 | [Bidi Bidi Bom Bom \- 1994 Version](https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:30 |
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 28 | [Yo Te Sigo Queriendo](https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:10 |
 | 29 | [No Llores Mas Corazon \(Re\-Recorded\)](https://open.spotify.com/track/7eSbVDA7cYhXuEEKxETUpA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Momentos Intimos](https://open.spotify.com/album/3yDmzoiBE8DTSkmg2cczxn) | 3:51 |
 | 30 | [Amor Prohibido \- Live](https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 2:05 |
-| 31 | [Yo Te Amo](https://open.spotify.com/track/32ze3uxp07OPbNNzT15ZQ0) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 3:41 |
+| 31 | [Acuérdate De Mí](https://open.spotify.com/track/0vxIbUDge0shviEdnakzkx) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:40 |
 | 32 | [Where Did The Feeling Go?](https://open.spotify.com/track/6E7Lm2PoUP4lAPN4UzOCoR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:44 |
-| 33 | [Acuérdate De Mí](https://open.spotify.com/track/0vxIbUDge0shviEdnakzkx) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:40 |
+| 33 | [Yo Te Amo](https://open.spotify.com/track/32ze3uxp07OPbNNzT15ZQ0) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 3:41 |
 | 34 | [El Chico Del Apartamento 512 \- Live](https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 3:15 |
-| 35 | [Yo Me Voy](https://open.spotify.com/track/7FG0sxuZd6palqjVdgfMBg) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 3:30 |
-| 36 | [Only Love](https://open.spotify.com/track/4YzawOSOsc5Os4t47eiuRX) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:10 |
-| 37 | [Sentimientos](https://open.spotify.com/track/7EkzuMmrpskKf03GmixXQi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:12 |
+| 35 | [Only Love](https://open.spotify.com/track/4YzawOSOsc5Os4t47eiuRX) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:10 |
+| 36 | [Sentimientos](https://open.spotify.com/track/7EkzuMmrpskKf03GmixXQi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:12 |
+| 37 | [Yo Me Voy](https://open.spotify.com/track/7FG0sxuZd6palqjVdgfMBg) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 3:30 |
 | 38 | [Yo Fui Aquella \- .](https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 3:03 |
-| 39 | [Enamorada De Ti](https://open.spotify.com/track/3eHbKczzbh0zH5olpTgfW8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 4:07 |
-| 40 | [I Could Fall In Love](https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 4:50 |
-| 41 | [Estoy Contigo](https://open.spotify.com/track/3540QsaCUoHcGLPxQAwbzm) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:17 |
+| 39 | [I Could Fall In Love](https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 4:50 |
+| 40 | [Estoy Contigo](https://open.spotify.com/track/3540QsaCUoHcGLPxQAwbzm) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:17 |
+| 41 | [Enamorada De Ti](https://open.spotify.com/track/3eHbKczzbh0zH5olpTgfW8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 4:07 |
 | 42 | [La Carcacha/Besitos \- Live](https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 6:53 |
-| 43 | [Ven Conmigo](https://open.spotify.com/track/1zp6nac2R9OT9pV5UJA3jo) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 2:28 |
-| 44 | [Captive Heart](https://open.spotify.com/track/7btQwPwo5ML6RRtrELNWio) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:23 |
-| 45 | [Cien Años](https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:11 |
+| 43 | [Captive Heart](https://open.spotify.com/track/7btQwPwo5ML6RRtrELNWio) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:23 |
+| 44 | [Cien Años](https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:11 |
+| 45 | [Ven Conmigo](https://open.spotify.com/track/1zp6nac2R9OT9pV5UJA3jo) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 2:28 |
 | 46 | [Terco Corazón](https://open.spotify.com/track/22w7BkUcfKfhPklT1qL8dr) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 2:49 |
 | 47 | [Con Tanto Amor \- Medley](https://open.spotify.com/track/10VHKov9SwMTXh9JBeJt0x) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 7:06 |
 | 48 | [Missing My Baby](https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:51 |
 | 49 | [Siempre Hace Frio](https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:13 |
 | 50 | [No Quiero Saber \- 1990 Version](https://open.spotify.com/track/3a1aPPcAA7HRgV3d0BPRlR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 2:57 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBkZGExMDBhMjlkZThkMGFiNmVjZDA3ZmJhMTI5MDYyYw==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDAxMzM2OTczYzU0MWQ3NDJmMDZhNDZlZjIwMjEzMTIxMg==`

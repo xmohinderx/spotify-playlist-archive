@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AX8gioxrnN.md) - [plain]
 
 > for a first class pre, press play
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AX8gioxrnN.md) - [plain]
 | 85 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 |
 | 86 | [Like A G6](https://open.spotify.com/track/2s5YN9O8Qv25BjQobPHWVZ) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Dirty Bass \(Deluxe\)](https://open.spotify.com/album/78ysj0YXG9moP8Gv9izzm4) | 3:39 |
 | 87 | [My Humps](https://open.spotify.com/track/19JdbdEwQI7bCxefMokZO8) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf) | 5:26 |
-| 88 | [This Is What You Came For \(feat\. Rihanna\)](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For \(feat\. Rihanna\)](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:42 |
+| 88 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:42 |
 | 89 | [Body \(feat\. Brando\)](https://open.spotify.com/track/5FXNtC1tLueMAs0V2UdvRx) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Body \(feat\. Brando\)](https://open.spotify.com/album/3E5075tKiMmjSHjiaY0XLg) | 2:43 |
 | 90 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
 | 91 | [Dynamite](https://open.spotify.com/track/1DqdF42leyFIzqNDv9CjId) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr](https://open.spotify.com/album/159jpldDCgsgH6KGgjy63c) | 3:23 |

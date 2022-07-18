@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 393986,
       "name": "Apart",
       "url": "https://open.spotify.com/track/6g5yxNUBisdqOqBLHeWQFc"
@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Been Caught Stealing",
+      "url": "https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM"
+    },
+    {
+      "album": {
         "name": "American Caesar",
         "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 236640,
       "name": "Big Time Sensuality",
       "url": "https://open.spotify.com/track/6K0g7J6sKHwvDF6b2KGN3t"
@@ -257,7 +275,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 271133,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4W5ZiER2saVe1uo7bNTWbE"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 284106,
       "name": "Blues From a Gun",
       "url": "https://open.spotify.com/track/74fLpgpdOHDz14DUQGfzwR"
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 183346,
       "name": "Bone Machine - Remastered",
       "url": "https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 298253,
       "name": "Cherub Rock - Remastered 2011",
       "url": "https://open.spotify.com/track/0F2LiyHp9E0pAanpfnzHNp"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 209266,
       "name": "Dirty Blvd.",
       "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 194506,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 200240,
       "name": "Goin' Out West",
       "url": "https://open.spotify.com/track/141XsxpUkbj7AkQKT8vySq"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 251480,
       "name": "Head On",
       "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 271840,
       "name": "I Love You in Your Tragic Beauty",
       "url": "https://open.spotify.com/track/67FafimpgcFgaPYsq8cVil"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 218733,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/3CMVjlbvNJMHDfYPX7xCpi"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 366706,
       "name": "Love Will Save You",
       "url": "https://open.spotify.com/track/3A0SkCmMGvE5nYz15GREmW"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 202320,
       "name": "Luna - Remastered",
       "url": "https://open.spotify.com/track/2SRBtj64W0Wbs7YMbmxFBw"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 296800,
       "name": "No Big Deal",
       "url": "https://open.spotify.com/track/0iCpRcqgoDM1mX74kufIvK"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 263400,
       "name": "Nude As the News",
       "url": "https://open.spotify.com/track/6cu0DiairWxhGUujhhcorj"
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 236533,
       "name": "Only Happy When It Rains",
       "url": "https://open.spotify.com/track/2VUNvavGGOkewr5wB3WFJg"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 264573,
       "name": "Piggy",
       "url": "https://open.spotify.com/track/5BVFE2iCwnhQTn2CBq8eEz"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 220693,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/3h9zXYA0hMZi9bt6DG8sEo"
@@ -1683,7 +1701,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 268826,
       "name": "Rid Of Me",
       "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 303973,
       "name": "Roads",
       "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 455853,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
@@ -1813,7 +1831,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 222506,
       "name": "Snakedriver",
       "url": "https://open.spotify.com/track/5jka0hrgjJz4uMy57mi6Js"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 252266,
       "name": "Sour Times",
       "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 254839,
       "name": "Stop",
       "url": "https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 357693,
       "name": "Sugar Kane",
       "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 251213,
       "name": "Summer Cannibals",
       "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "Sword of Damocles (Externally)",
       "url": "https://open.spotify.com/track/31vN3W1IAaqpB06ULQXr4I"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 315440,
       "name": "The Perfect Drug",
       "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 173133,
       "name": "The Saddest Song",
       "url": "https://open.spotify.com/track/6vlbuXCnHFLV5H5vMoMmqR"

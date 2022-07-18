@@ -1,13 +1,29 @@
 {
   "description": "belive the hype Cover: Alice Longyu Gao & Oli Sykes",
-  "num_followers": 337467,
+  "num_followers": 337671,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwOTc3NiwwMDAwMDE4MTAwMDAwMTgyMDMxZjhlZTQwMDAwMDE4MWI1ZjAwYzM4",
+  "snapshot_id": "MTY1ODA3ODE5OSwwMDAwMDE4MjAwMDAwMTgyMGQyOTgwNGYwMDAwMDE4MWI1ZjAwYzM4",
   "tracks": [
+    {
+      "added_at": "2022-07-17 17:16:39",
+      "album": {
+        "name": "Royal Blue Walls",
+        "url": "https://open.spotify.com/album/1O9lX0T7wx1JvE0Wu3Vstw"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 362373,
+      "name": "Royal Blue Walls",
+      "url": "https://open.spotify.com/track/4AwEBnyhdSFQqPGRRJ3Ph1"
+    },
     {
       "added_at": "2022-07-08 04:45:00",
       "album": {

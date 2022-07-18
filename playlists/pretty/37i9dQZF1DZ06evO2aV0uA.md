@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,591 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,656 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 49 | [To The End](https://open.spotify.com/track/3o0nAblw2F6RMKoehHtPcJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 3:49 |
 | 50 | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/6BJrJlkffGEpipjY9OFq6t) | 3:43 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBjNzlmNzljYzNjMDBlODFlNzVlYjliZjY3YjQyZDVhOA==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDAzNTI5N2E5OWRlMzQxMTZjOTYxNmRmNmEzODcwNWNhOA==`

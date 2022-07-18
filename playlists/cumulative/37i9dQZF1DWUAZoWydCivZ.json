@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 232120,
       "name": "22",
       "url": "https://open.spotify.com/track/6ce41JVa6KFaryfmC2bu2W"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/2aFiaMXmWsM3Vj72F9ksBl"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/2zFF6jG5hQArbzcXz3KUWk"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 202533,
       "name": "Hall of Fame (feat. will.i.am)",
       "url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "If You're Over Me",
       "url": "https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 201200,
       "name": "Lost In Japan",
       "url": "https://open.spotify.com/track/79esEXlqqmq0GPz0xQSZTV"
@@ -747,6 +747,24 @@
       "duration_ms": 218773,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x"
+    },
+    {
+      "album": {
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258826,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
     },
     {
       "album": {
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 220290,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 188174,
       "name": "Slow Hands",
       "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"

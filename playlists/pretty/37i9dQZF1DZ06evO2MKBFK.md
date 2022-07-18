@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,259 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,290 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 26 | [Lollipop Part.2](https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Lollipop Pt.2](https://open.spotify.com/album/4VPoZSOEnpfUu36fILrqA1) | 3:20 |
 | 27 | [What Is Right](https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:44 |
 | 28 | [Wings \(날개\) \[Daesung Solo\]](https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
-| 29 | [Tell Me Goodbye](https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tell Me Goodbye](https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX) | 4:05 |
-| 30 | [Bingle Bingle \(빙글빙글\)](https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:00 |
+| 29 | [Bingle Bingle \(빙글빙글\)](https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:00 |
+| 30 | [Tell Me Goodbye](https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tell Me Goodbye](https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX) | 4:05 |
 | 31 | [La La La](https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol\. 1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 2:59 |
 | 32 | [Ain't No Fun \(재미없어\)](https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
 | 33 | [Somebody To Love](https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 50 | [Oh My Friend](https://open.spotify.com/track/3qtZyPlAqtNYVoN1ECWNJy) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [No Brain](https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:29 |
 | 51 | [Forever With U \(Feat\. Park Bom\)](https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [Bigbang 03](https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH) | 3:38 |
 
-Snapshot ID: `Mjc2MzMwMjgsMDAwMDAwMDBiMmIzNjRhMDc0ZTJjMTBiYWE3MTQzNGU1ZjU2MjMwNQ==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDBiZDExMDcwY2RmNmY2OGZiN2I1Y2JhYTE2ZjA5NmUzNw==`

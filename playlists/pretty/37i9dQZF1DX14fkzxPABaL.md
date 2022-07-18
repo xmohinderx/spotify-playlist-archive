@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Danny Ocean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,825 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,951 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

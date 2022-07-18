@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 
 > Sitar, flute, and sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,397 likes - 99 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,551 likes - 99 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

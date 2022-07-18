@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
@@ -254,6 +254,24 @@
     },
     {
       "album": {
+        "name": "La Historia De Los Exitos-Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/5Uf2WDa2hsegJclQx61tG8"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "D\u00e9jame Vac\u00edo",
+      "url": "https://open.spotify.com/track/0v0ErfXljJyjfIKYQLokHP"
+    },
+    {
+      "album": {
         "name": "Super Estrellas Idolos",
         "url": "https://open.spotify.com/album/3Gb84B3Zwo9RFh8xQgCTzQ"
       },
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 198293,
       "name": "D\u00e9jame Vac\u00edo",
       "url": "https://open.spotify.com/track/5A4ZBuH15Sm6Ys2EWnqXrV"
@@ -681,6 +699,24 @@
       "duration_ms": 187533,
       "name": "El Poderoso",
       "url": "https://open.spotify.com/track/4UnBHHZPlCrQrLWR3D4g3F"
+    },
+    {
+      "album": {
+        "name": "Hay Nomas Pa Las Cocas (En Vivo)",
+        "url": "https://open.spotify.com/album/1SAx628iadybUFrkkYqkQD"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "El Ratero (En Vivo)",
+      "url": "https://open.spotify.com/track/4Ye296cc1AsutMvLUOcBOS"
     },
     {
       "album": {

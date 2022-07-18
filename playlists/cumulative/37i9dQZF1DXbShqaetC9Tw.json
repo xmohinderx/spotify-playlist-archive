@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 261705,
       "name": "bath",
       "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 241765,
       "name": "Cigarette (Feat. Tablo, MISO)",
       "url": "https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Far Away (Feat. H:SEAN, SWRY) (Prod. Liam K)",
       "url": "https://open.spotify.com/track/4y3zwYdCDCRUnRsXP9gBLI"
@@ -995,10 +995,32 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 240094,
       "name": "Girl in New York (jazz)",
       "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
+    },
+    {
+      "album": {
+        "name": "Life+unconsciousness",
+        "url": "https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx"
+      },
+      "artists": [
+        {
+          "name": "2xxx",
+          "url": "https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180972,
+      "name": "Girl, Interrupted",
+      "url": "https://open.spotify.com/track/5hpJwLiUV02mx6aZQW0aUu"
     },
     {
       "album": {
@@ -1075,7 +1097,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 192628,
       "name": "I Said",
       "url": "https://open.spotify.com/track/0wV4K0cM78MbIk0B6b6Y4t"
@@ -1285,7 +1307,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 165946,
       "name": "Little bit of you",
       "url": "https://open.spotify.com/track/2MeUjL6j0yAJHAhUraIfdn"
@@ -1339,7 +1361,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 202120,
       "name": "Love is alone",
       "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
@@ -2169,7 +2191,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 124913,
       "name": "the day we first met",
       "url": "https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg"
@@ -2277,7 +2299,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 164601,
       "name": "Understand Me",
       "url": "https://open.spotify.com/track/2XyO0c7PxtoDypkVj4sWMu"

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 238813,
       "name": "99",
       "url": "https://open.spotify.com/track/5otXJIeiF43SPz7R7ov8GX"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 227986,
       "name": "American Witch",
       "url": "https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC"
@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Dead Heart In a Dead World",
+        "url": "https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD"
+      },
+      "artists": [
+        {
+          "name": "Nevermore",
+          "url": "https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261986,
+      "name": "Believe in Nothing",
+      "url": "https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8"
+    },
+    {
+      "album": {
         "name": "Rosenrot",
         "url": "https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 376920,
       "name": "Blacklist",
       "url": "https://open.spotify.com/track/2K2aRJUaQl3CKKHELRqGZ6"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 275133,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 159253,
       "name": "Determined",
       "url": "https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ"
@@ -926,6 +944,24 @@
     },
     {
       "album": {
+        "name": "Enemy of God",
+        "url": "https://open.spotify.com/album/0ptBYyTqgQs1l375JdmaXN"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343920,
+      "name": "Enemy of God",
+      "url": "https://open.spotify.com/track/66SvhAHu1tggvj5wwOwxDR"
+    },
+    {
+      "album": {
         "name": "Karmacode",
         "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
@@ -1045,7 +1081,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 180066,
       "name": "Fiend",
       "url": "https://open.spotify.com/track/4Jcz9DveYMyNgDxuspZv3r"
@@ -1117,7 +1153,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 222813,
       "name": "Free",
       "url": "https://open.spotify.com/track/6G3waRixEIXegXfbRTaIqJ"
@@ -1135,7 +1171,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 274400,
       "name": "Freya",
       "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
@@ -1153,7 +1189,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 176600,
       "name": "Get Up Again",
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 231386,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
@@ -1643,7 +1679,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 276306,
       "name": "King Of Pain",
       "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
@@ -1751,7 +1787,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 203186,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf"
@@ -2201,7 +2237,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 218933,
       "name": "Praise",
       "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
@@ -2493,7 +2529,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 234706,
       "name": "Rosenrot",
       "url": "https://open.spotify.com/track/50LmbBKCBeDRKYvpR7ApjG"
@@ -2691,7 +2727,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 147333,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4AaZtoVREGSOTMzdzLoCGK"
@@ -2713,6 +2749,24 @@
       "duration_ms": 272440,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F"
+    },
+    {
+      "album": {
+        "name": "...An Education In Rebellion",
+        "url": "https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76"
+      },
+      "artists": [
+        {
+          "name": "The Union Underground",
+          "url": "https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "South Texas Deathride",
+      "url": "https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD"
     },
     {
       "album": {
@@ -2979,7 +3033,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 594213,
       "name": "The art of dying",
       "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
@@ -3091,6 +3145,24 @@
       "duration_ms": 171106,
       "name": "The Only",
       "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
+    },
+    {
+      "album": {
+        "name": "Fate of Norns",
+        "url": "https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270253,
+      "name": "The Pursuit Of Vikings",
+      "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
     },
     {
       "album": {
@@ -3303,7 +3375,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 213000,
       "name": "Wait",
       "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
@@ -3357,7 +3429,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 353133,
       "name": "World Painted Blood",
       "url": "https://open.spotify.com/track/4WFYHBYhFA6tmCRYKng2MB"

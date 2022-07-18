@@ -4,7 +4,7 @@
 
 > Best Bollywood love songs from last 10 years\. Cover\- Shamshera
 
-89 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
+90 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 | 2022-05-19 |  |
 | [Kaise Hua](https://open.spotify.com/track/5w0Xpt2YHT2Y3z3e4UUJP7) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:54 | 2022-05-19 |  |
 | [Kalle Kalle \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/5o6q9gQXi5umBrUczroW79) | [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Kalle Kalle \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/6QJUBLyhuSfrrXsdxvbHT5) | 3:47 | 2022-05-19 |  |
+| [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 | 2022-07-17 |  |
 | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/track/46NYX9zIml71qtfYYjakTI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/album/715BUKTdGdNjePHLhRltCT) | 0:44 | 2022-05-19 |  |
 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 | 2022-05-19 |  |
 | [Kitni Haseen Hogi \(From "Hit \- The First Case"\)](https://open.spotify.com/track/6h6kOAlIeWdsqNopumppU5) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Kitni Haseen Hogi \(From "Hit \- The First Case"\)](https://open.spotify.com/album/1okf7DbIC5vVPmU0p7dsQb) | 5:30 | 2022-07-08 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-272 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/2lP2CDczVbZlPskXLA0bqJ)
+273 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/2lP2CDczVbZlPskXLA0bqJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 | 2022-06-15 | 2022-06-26 |
 | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c) | 3:21 | 2021-11-06 | 2021-11-24 |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-08 | 2022-05-08 |
-| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 |  |
+| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 | 2022-07-18 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-22 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 | 2021-03-27 | 2021-04-04 |
@@ -133,6 +133,7 @@
 | [La Llevo Al Cielo](https://open.spotify.com/track/1vaEeP4Su6M4ItEPW51Ll5) | [Yung Caza](https://open.spotify.com/artist/77Q8RFg6cpavZLKvlmRsAy), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [La Llevo Al Cielo](https://open.spotify.com/album/1HfjLQTdx9tVZAu0cM39a4) | 3:43 | 2021-04-04 | 2021-04-11 |
 | [La Llevo Al Cielo](https://open.spotify.com/track/7KilcNRCjgNOOBP7a6HsLz) | [Yung Caza](https://open.spotify.com/artist/77Q8RFg6cpavZLKvlmRsAy), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [La Llevo Al Cielo](https://open.spotify.com/album/2DsYswFTc8xNS0iLpz2UJw) | 3:43 | 2021-04-07 | 2021-04-09 |
 | [La Llevo Al Cielo \(Ft\. Ñengo Flow\)](https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La Llevo Al Cielo \(Ft\. Ñengo Flow\)](https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2) | 4:14 | 2022-05-29 |  |
+| [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 | 2022-07-17 |  |
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2021-03-27\* | 2022-02-08 |
 | [La Nota](https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:36 | 2021-04-11 | 2021-07-29 |
 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2021-03-27\* | 2021-04-11 |

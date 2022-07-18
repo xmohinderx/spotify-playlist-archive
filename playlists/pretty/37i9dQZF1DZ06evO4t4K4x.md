@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621 likes - 33 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 625 likes - 33 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 28 | [Doctor Who Closing Title Theme \- 53" Version](https://open.spotify.com/track/0423txeQ20yYT91cnKYzLI) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- the Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/5CI2PWZGvmov9hh1PFh4j3) | 0:55 |
 | 29 | [Doctor Who \(Closing Theme\)](https://open.spotify.com/track/12eaGTQ57QR7E1XhAevAXo) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [Doctor Who \- The Caves of Androzani \(Original Television Soundtrack\)](https://open.spotify.com/album/4b80quImIGtQGnlNuDUlqm) | 1:20 |
 | 30 | [Know Your Car \(Get out and Get Under\)](https://open.spotify.com/track/5mFAUxtxUKV8HbNjhyqoGd) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:59 |
-| 31 | [Science and Health](https://open.spotify.com/track/4lWoCNmwIINJd79g59LZIC) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:57 |
-| 32 | [A New View of Politics](https://open.spotify.com/track/2tLBAVvLREIyKdHClrtXkK) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:41 |
+| 31 | [A New View of Politics](https://open.spotify.com/track/2tLBAVvLREIyKdHClrtXkK) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:41 |
+| 32 | [Science and Health](https://open.spotify.com/track/4lWoCNmwIINJd79g59LZIC) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:57 |
 | 33 | [Environmental Studies](https://open.spotify.com/track/6SH4xRo7J9eGtzZTvUIM2w) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:31 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDAxNjdkZTRhYzVmMTdlNDVhODZjNDkxYWMzOTExZDNhYw==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDA0OGQ5YTA3YjZkMWQ3MWNiZjNmYWFhMmU3MjhmNDg1Zg==`

@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods.
 
-389 songs - 22 hr 29 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
+389 songs - 22 hr 28 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Sweet Insomnia \(feat\. 6LACK\)](https://open.spotify.com/track/7iGPqNL9iJjd6e998NqPYo) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sweet Insomnia \(feat\. 6LACK\)](https://open.spotify.com/album/76iyntb7xq3d9tnAXiak17) | 2:43 | 2019-10-30 | 2020-05-15 |
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 | 2020-09-23 | 2021-05-04 |
 | [Take Me Serious](https://open.spotify.com/track/1UtOZvY0yiVYtCFsct3kMY) | [Devvon Terrell](https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH) | [Take Me Serious](https://open.spotify.com/album/5W4WJo46sK7SEbeQxsfGsZ) | 2:57 | 2019-07-10\* | 2019-09-13 |
-| [TALK TO ME](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 3:07 | 2022-07-15 |  |
+| [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 | 2022-07-15 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-02-26 | 2021-06-26 |
 | [That's What Love Can Do](https://open.spotify.com/track/5hVAAy6wwyvxPiFaJPNzzV) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [That's What Love Can Do](https://open.spotify.com/album/2bIkHdrFeItpFefHpq72He) | 4:17 | 2019-07-10\* | 2019-10-11 |
 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-01-05 | 2021-11-13 |

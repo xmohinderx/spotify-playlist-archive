@@ -292,6 +292,24 @@
     },
     {
       "album": {
+        "name": "SPLITS 003",
+        "url": "https://open.spotify.com/album/7lVv0ud2nfn2nihXoui8MV"
+      },
+      "artists": [
+        {
+          "name": "Sampson.",
+          "url": "https://open.spotify.com/artist/2kuBYXNzauzqVYmAUID2W9"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342864,
+      "name": "At The Club",
+      "url": "https://open.spotify.com/track/3uZNgxv6kHuOK3XimZx6IT"
+    },
+    {
+      "album": {
         "name": "Away (NuKey Remix)",
         "url": "https://open.spotify.com/album/0HVfuo2ZlhKP1gTLWRcmn6"
       },

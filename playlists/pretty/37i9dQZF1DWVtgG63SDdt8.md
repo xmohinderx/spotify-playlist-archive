@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Cody Carnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,773 likes - 97 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,824 likes - 97 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 14 | [First Things First](https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP) | 4:11 |
 | 15 | [Too Grateful](https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [You Find a Way](https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN) | 4:55 |
 | 16 | [Human](https://open.spotify.com/track/7BfqknY0CKHdvL2OjrWXRS) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Human](https://open.spotify.com/album/5KuNPScgBdGK7shIMeJFGI) | 3:05 |
-| 17 | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/track/3oEUEyCzKwaBHBvzsJaiGJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/album/0KbCQCDOw4a73MkepkJ7ev) | 3:19 |
+| 17 | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/track/3oEUEyCzKwaBHBvzsJaiGJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/album/0KbCQCDOw4a73MkepkJ7ev) | 3:19 |
 | 18 | [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 |
 | 19 | [A Little Fire \(Burn Brighter\)](https://open.spotify.com/track/6ZX7RjHUnow6oFfJcCszjA) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [A Little Fire \(Burn Brighter\)](https://open.spotify.com/album/4bR83WeKkJUeX9xoCHQK0o) | 7:09 |
 | 20 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |

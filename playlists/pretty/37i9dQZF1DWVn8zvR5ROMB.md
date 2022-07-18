@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Cover: Walker Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,288 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,409 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 6 | [History of Breaking Up](https://open.spotify.com/track/1I2RwCtpRc3s2pRWUocHKb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 3:28 |
 | 7 | [Girl in Love](https://open.spotify.com/track/0XlbzugAOq7MectvIaOfZ4) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Girl in Love](https://open.spotify.com/album/0vOGXcKTQEXmhVB7nMTHYy) | 3:18 |
 | 8 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 |
-| 9 | [Wild Palomino \(feat\. Cody Johnson\)](https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Wild Palomino \(feat\. Cody Johnson\)](https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv) | 3:18 |
+| 9 | [Wild Palomino](https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Wild Palomino](https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv) | 3:18 |
 | 10 | [Wild as Her \(feat\. Carter Faith\) \- Acoustic One\-Take](https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Wild as Her \(feat\. Carter Faith\) \[Acoustic One\-Take\]](https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf) | 3:33 |
 | 11 | [I Love Me](https://open.spotify.com/track/0OcqrGvV8xKtSxF3dFWDWJ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I Love Me](https://open.spotify.com/album/64M2KhX64Qgcd4xBoVV3Gm) | 3:10 |
 | 12 | [The Only Problem Is](https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Sugar Spice](https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME) | 3:41 |

@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 494000,
       "name": "Aries",
       "url": "https://open.spotify.com/track/5MsFJ9mEsa9kcdXqusl866"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 528959,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 506434,
       "name": "Doppler",
       "url": "https://open.spotify.com/track/6uZqlAYVkF3hduXyjsK8QW"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 251803,
       "name": "Give It 2 Me",
       "url": "https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 238080,
       "name": "Haute Definition",
       "url": "https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B"
@@ -1777,7 +1777,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 342027,
       "name": "Lady Cherry",
       "url": "https://open.spotify.com/track/5Aub2PCLAJi4QuMnN5g5d3"
@@ -1817,7 +1817,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 492175,
       "name": "Let's Pretend - Tube & Berger Remix",
       "url": "https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC"
@@ -1871,7 +1871,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 386506,
       "name": "Libertas",
       "url": "https://open.spotify.com/track/4hiKwWocPmJe06qhGHemgI"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 384761,
       "name": "Magic Nights - Tube & Berger Remix",
       "url": "https://open.spotify.com/track/4ff0BdLgicfCTBRpIt3jd4"
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 448750,
       "name": "Nosara",
       "url": "https://open.spotify.com/track/0cAarkhbKeI6z0YnpwjyLP"
@@ -2449,7 +2449,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 238462,
       "name": "Owl",
       "url": "https://open.spotify.com/track/6eDMGMqRXJCBJ4TSSupPV1"
@@ -2601,7 +2601,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 365200,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/7wKU8AGAkOTzECbGRKBlNQ"
@@ -2637,7 +2637,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 300967,
       "name": "Raaaw",
       "url": "https://open.spotify.com/track/3rURdGhiVS3rcRQM4NPoz4"
@@ -2949,7 +2949,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 483962,
       "name": "Shinsetsu",
       "url": "https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV"
@@ -3153,6 +3153,28 @@
       "duration_ms": 303596,
       "name": "Speak Up",
       "url": "https://open.spotify.com/track/4fO0HqjTcWidMX1Im1six5"
+    },
+    {
+      "album": {
+        "name": "Life Signs Remixes",
+        "url": "https://open.spotify.com/album/0dSVByJ7AcaQcwXX55G7Bv"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216057,
+      "name": "Static - Cinthie Remix Radio Edit",
+      "url": "https://open.spotify.com/track/4ehyxfrCHC7NrB3FnWtwjo"
     },
     {
       "album": {
@@ -3395,7 +3417,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 398563,
       "name": "The Key",
       "url": "https://open.spotify.com/track/0EJ2QK50aalqkMgARQIb5y"
@@ -3471,7 +3493,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 416502,
       "name": "The World Beyond",
       "url": "https://open.spotify.com/track/5zb4897baRg1VyAWz8Eza6"
@@ -3501,7 +3523,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 469512,
       "name": "Time Is On My Side - Anja Schneider Remix",
       "url": "https://open.spotify.com/track/6GwbK9nwsC1x6DkXym5HF1"
@@ -3549,7 +3571,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6RCT4geaXTmDmtiwFLJv8j"
@@ -3691,7 +3713,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 432000,
       "name": "Up Down Jumper",
       "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
@@ -3753,7 +3775,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 409390,
       "name": "Visionaire",
       "url": "https://open.spotify.com/track/080Ta6y45xccSK0q9Hct9d"
@@ -3815,7 +3837,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 232379,
       "name": "Vommuli",
       "url": "https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU"
@@ -3927,7 +3949,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 230945,
       "name": "Won't Forget You - Edit",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
@@ -3989,7 +4011,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"

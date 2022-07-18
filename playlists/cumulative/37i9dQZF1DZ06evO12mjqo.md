@@ -4,7 +4,7 @@
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-46 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/0EtQG6YP53d23Aucg19flz)
+47 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/0EtQG6YP53d23Aucg19flz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [See The Light](https://open.spotify.com/track/7HbyELpx9fepfB4Flz20CG) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 4:05 | 2022-05-30 |  |
 | [Spillways](https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 | 2022-05-30 |  |
 | [Spirit](https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:15 | 2022-05-30 |  |
-| [Square Hammer](https://open.spotify.com/track/5TNhjanmvwvmjCz2WYwSAv) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 3:59 | 2022-05-30 |  |
+| [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 | 2022-07-17 |  |
+| [Square Hammer](https://open.spotify.com/track/5TNhjanmvwvmjCz2WYwSAv) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 3:59 | 2022-05-30 | 2022-07-18 |
 | [Stand by Him](https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:56 | 2022-05-30 |  |
 | [Waiting For The Night](https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:37 | 2022-05-30 |  |
 | [Watcher In The Sky](https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:48 | 2022-05-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 
 > Los hits de ahora en la playlist más grande de México, con Bizarrap y Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,391,689 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,392,997 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

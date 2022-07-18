@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Desi music across borders and genres\. Cover: Twinjabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,992 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,004 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

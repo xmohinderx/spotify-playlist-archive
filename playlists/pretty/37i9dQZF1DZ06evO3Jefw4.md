@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,963 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,202 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 48 | [International Smile](https://open.spotify.com/track/5OzIe9IL95B23n4rN59JZ3) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:47 |
 | 49 | [Walking On Air](https://open.spotify.com/track/0RCsGhR44nFVAd5WiZZcGq) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:42 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA2MTI1N2QxMDc0OTNlMjY1Yjg0NWRmNGVhZWRhZTBmYQ==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDA0ZDZjMTJiNjI0YmQ5MjE0MTljMmEzOGE4NDBhYzAxMQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,339 likes - 53 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,846 likes - 53 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [OBSESSED](https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h)
 
-> Screaming, crying, throwing up\.  Like this, you'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover: Tiësto & Charli
+> Welcome to my museum of brutality\. Like this, you'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover: Tiësto & Charli
 
-196 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+198 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 | 2022-05-06 |  |
 | [Abracadabra](https://open.spotify.com/track/6afv05TNOInabonuY1OkbU) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [Halloqveen](https://open.spotify.com/album/3g3P8dofBdBkEioDroTO2H) | 2:26 | 2022-02-15 | 2022-06-25 |
 | [Ain't Seen Nothing Yet](https://open.spotify.com/track/1eBBnwbleqZvZjfCAbRlkn) | [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Ain't Seen Nothing Yet](https://open.spotify.com/album/3LcVbnZA14ci52Oc7yzyQH) | 2:26 | 2022-05-20 | 2022-07-09 |
+| [Alice](https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:57 | 2022-07-18 |  |
 | [Am I Gay? \(feat\. Jen Goma\)](https://open.spotify.com/track/60plBCQE49eGPVtHrhQhR3) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Jen Goma](https://open.spotify.com/artist/5k82r3hAQ8j4CEpnbQHNS6) | [Am I Gay? \- Single](https://open.spotify.com/album/1HTFFIR6wPWMuvQ1AEAVLX) | 2:36 | 2022-07-01 |  |
 | [Ancient Dreams In A Modern Land](https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:26 | 2022-02-15 |  |
 | [Animal](https://open.spotify.com/track/3WdijbYmphZ8N0MYblXDnF) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:01 | 2022-07-15 |  |
@@ -32,7 +33,7 @@
 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 | 2022-04-22 | 2022-06-11 |
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-02-25 | 2022-05-28 |
 | [Blow Out My Candle](https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blow Out My Candle](https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk) | 2:59 | 2022-06-03 |  |
-| [Blur](https://open.spotify.com/track/3OGH7oTsxIrpBfmmh0PV8q) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Blur](https://open.spotify.com/album/7qP3UBU0m3yjcFoL9Ar84a) | 2:52 | 2022-06-24 |  |
+| [Blur](https://open.spotify.com/track/3OGH7oTsxIrpBfmmh0PV8q) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Blur](https://open.spotify.com/album/7qP3UBU0m3yjcFoL9Ar84a) | 2:52 | 2022-06-24 | 2022-07-18 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-15 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:16 | 2022-02-15 | 2022-06-25 |
 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 | 2022-06-24 |  |
@@ -55,6 +56,7 @@
 | [Cruella](https://open.spotify.com/track/1vxP3QNNkGCnq6PiVk6z6Z) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [MAD QVEEN](https://open.spotify.com/album/62pwckcs1q7P3vMMrou7Js) | 2:35 | 2022-04-01 | 2022-06-18 |
 | [Cryo](https://open.spotify.com/track/4iLavMOMViSouoJ5TY0ga5) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH2](https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip) | 2:38 | 2022-03-11 | 2022-05-17 |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2022-02-15 | 2022-07-16 |
+| [Cupid](https://open.spotify.com/track/4eCERVpRjClw6Ni2jEkmFQ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Synchronicity](https://open.spotify.com/album/5H94Ia6oEGuXih6DKjbhrV) | 4:03 | 2022-07-18 |  |
 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 | 2022-05-13 |  |
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 |  |
 | [Dance Forever](https://open.spotify.com/track/5YdI0PKFDkrVyjzH6OFmXA) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Dance Forever](https://open.spotify.com/album/20MjX7BdygnjgtQSSUKdqG) | 3:32 | 2022-04-15 | 2022-04-29 |
@@ -69,7 +71,7 @@
 | [Extra Agenda](https://open.spotify.com/track/6VdxXCKrjYafM3qAbtwMSA) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6P4LnWcuO5p08cetdZtPaX) | 3:40 | 2022-03-25 | 2022-05-07 |
 | [Fading Like A Flower](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Fading Like A Flower](https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT) | 2:25 | 2022-04-22 | 2022-06-04 |
 | [FCKN IN LOVE](https://open.spotify.com/track/509rrXeQLsxcBC8VPBV5Pn) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6UEK6qZZvECvMVaKk6DHtk) | 3:14 | 2022-02-25 | 2022-05-28 |
-| [Follow Me](https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V) | 2:57 | 2022-04-01 |  |
+| [Follow Me](https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V) | 2:57 | 2022-04-01 | 2022-07-18 |
 | [Fool Me Once](https://open.spotify.com/track/2ceMvjyfDeGVFmscZY438U) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Fool Me Once](https://open.spotify.com/album/698iFXTopBZ2T9TRQnh0hV) | 3:15 | 2022-06-03 |  |
 | [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:37 | 2022-05-20 |  |
 | [Fuck Boy](https://open.spotify.com/track/2FqWoR5iRLBgkiNKYWVebd) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Fuck Boy](https://open.spotify.com/album/7fjtP6kHOwQWLTSwBqyF5w) | 3:06 | 2022-05-20 |  |

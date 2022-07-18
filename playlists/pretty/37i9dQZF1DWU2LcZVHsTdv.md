@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Madeline Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,058 likes - 114 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,109 likes - 114 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 |
 | 2 | [Dear Jesus](https://open.spotify.com/track/2VjYbrcNOqPM8VfckFsCi0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The Low Light Sessions](https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC) | 3:43 |
 | 3 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 |
-| 4 | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/track/3oEUEyCzKwaBHBvzsJaiGJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/album/0KbCQCDOw4a73MkepkJ7ev) | 3:19 |
+| 4 | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/track/3oEUEyCzKwaBHBvzsJaiGJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/album/0KbCQCDOw4a73MkepkJ7ev) | 3:19 |
 | 5 | [Prayin' For You](https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Prayin' For You](https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8) | 3:49 |
 | 6 | [The Other Side](https://open.spotify.com/track/4QpTG5bffatmfaW04SZH16) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [The Other Side](https://open.spotify.com/album/0X38hMX0JsisGGQjBRSNNz) | 3:26 |
 | 7 | [The Struggle](https://open.spotify.com/track/0IH6d4yjydoocRdMxaiJpY) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [The Struggle](https://open.spotify.com/album/3YC3za841d6jr4Gkgi3Dx4) | 3:43 |

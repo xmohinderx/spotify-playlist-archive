@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,139 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,231 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Freewheel Burning](https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 4:24 |
 | 50 | [Blood Red Skies](https://open.spotify.com/track/7g796noAmjjQOibxStn85a) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 7:50 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA3NmY2ZmJiNGY4Y2VjMGUzZjM3Yjg4OWY5MDFmMDExMQ==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDAyMmVjMWIyODlkNzJhZDNlYmQ2NWUzMDEzNzRhOTRmNg==`

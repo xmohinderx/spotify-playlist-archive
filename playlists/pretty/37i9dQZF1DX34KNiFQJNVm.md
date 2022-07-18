@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lizzo, Tierry com Wesley Safadão, Orochi e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,760,307 likes - 96 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760,311 likes - 96 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

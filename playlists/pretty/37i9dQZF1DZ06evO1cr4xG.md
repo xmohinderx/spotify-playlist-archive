@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,443 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,464 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 49 | [Through Blood and Dirt and Bone](https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:26 |
 | 50 | [Dead and Gone](https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:46 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA5Njc0N2ExYTVlMTJlZDk0MzhiNDI0MmMxNDYzMDViYg==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDBlZDMyMjhjN2I1YjhlM2Q0OTJlMmFhOTRmZmE3MzdjNQ==`

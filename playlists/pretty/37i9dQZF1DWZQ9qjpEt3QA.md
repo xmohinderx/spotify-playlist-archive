@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,258 likes - 68 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,292 likes - 68 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

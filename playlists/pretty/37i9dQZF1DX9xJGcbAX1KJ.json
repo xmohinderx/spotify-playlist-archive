@@ -1,61 +1,13 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 8818,
+  "num_followers": 8821,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAyMTcyNCwwMDAwMDAwMDNmMTljNDU4ZDA0NzRkYzA5MzkzNjI2ZDljNWU3MTk1",
+  "snapshot_id": "MTY1ODEwNzc1NiwwMDAwMDAwMGZmZDFkNTg4YzE3NWQ4M2ZkNTQ1YWUwYWQ4NTg1MmIx",
   "tracks": [
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Say My Name - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 250836,
-      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 168849,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
-    },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
@@ -75,18 +27,66 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "La Vie En Rose",
-        "url": "https://open.spotify.com/album/238gzyCPHIjz1GxXqdOY6T"
+        "name": "That Don't Impress Me Much (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/1FUq5cHUqKxQZQZ5xhB8O9"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 170504,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/0d4qCmNoQ7D8Hv0azn7Ozu"
+      "duration_ms": 244026,
+      "name": "That Don't Impress Me Much - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1ZOK8VkScTdXrccs7hkUPq"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 268566,
+      "name": "Walking on Broken Glass - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "NUDES",
+        "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 235871,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -108,161 +108,49 @@
       "added_at": "2019-02-22 20:19:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 346373,
-      "name": "Harvest Moon - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
+      "duration_ms": 267413,
+      "name": "Say My Name - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "That Don't Impress Me Much (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/1FUq5cHUqKxQZQZ5xhB8O9"
+        "name": "The Loved Ones",
+        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 244026,
-      "name": "That Don't Impress Me Much - triple j Like A Version",
-      "url": "https://open.spotify.com/track/1ZOK8VkScTdXrccs7hkUPq"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 199118,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Pink Strat",
-        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "Whole Wide World",
-      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+      "duration_ms": 149637,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/0rcwROyUguj5RQa5pPKajI"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P"
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Lean on Me",
-        "url": "https://open.spotify.com/album/5p1GT6Wdd1DERIG5oTTACX"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 184849,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "If I Ain\u2019t Got You - James Bay Spotify Session 2015 \"Alicia Keys Cover\"",
-      "url": "https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 268566,
-      "name": "Walking on Broken Glass - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 346397,
-      "name": "Hallelujah - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx"
+      "duration_ms": 273506,
+      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -283,6 +171,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "To Emmylou",
         "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
       },
@@ -295,6 +199,298 @@
       "duration_ms": 173714,
       "name": "Prayer in Open D",
       "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 346397,
+      "name": "Hallelujah - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "La Vie En Rose",
+        "url": "https://open.spotify.com/album/238gzyCPHIjz1GxXqdOY6T"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 170504,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/0d4qCmNoQ7D8Hv0azn7Ozu"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Lean on Me",
+        "url": "https://open.spotify.com/album/5p1GT6Wdd1DERIG5oTTACX"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 184849,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "You Make My Dreams",
+        "url": "https://open.spotify.com/album/386qU1PAeUdXv5pJR5OMzK"
+      },
+      "artists": [
+        {
+          "name": "Tim Halperin",
+          "url": "https://open.spotify.com/artist/3nVeK8gQChVtVCCjGreal2"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "You Make My Dreams",
+      "url": "https://open.spotify.com/track/2deq1xyHGJgSgoOJcjx5yH"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp"
+      },
+      "artists": [
+        {
+          "name": "Run River North",
+          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "The Bridge School Concerts 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "What The World Needs Now",
+        "url": "https://open.spotify.com/album/5OUM0sfRz3zGucUOCfhvJD"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 146735,
+      "name": "What The World Needs Now",
+      "url": "https://open.spotify.com/track/0x7EvWqUCbSspdAmYocBOs"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "The Essential The Chicks",
+        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "This Must Be The Place",
+        "url": "https://open.spotify.com/album/36GkOSZ11diC92mBGJBRrQ"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Ben Bridwell",
+          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
+        }
+      ],
+      "duration_ms": 212486,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6nRenEga4WTc8Da7kigrBO"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 183052,
+      "name": "Stand by Me - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Can\u2019t Help Falling in Love",
+      "url": "https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Shut up and Dance",
+        "url": "https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0"
+      },
+      "artists": [
+        {
+          "name": "Anchor + Bell",
+          "url": "https://open.spotify.com/artist/1mjqymUKo7KbLtvfYD386t"
+        }
+      ],
+      "duration_ms": 176182,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Pine Hollow (Live)",
+        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Jolene - Live",
+      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 187823,
+      "name": "September - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Waiting For Love - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/3j7z8hX2MtfUcv6Ebfgs45"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6KzL8s8GdRbd5Mal8yLz6R"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
+      },
+      "artists": [
+        {
+          "name": "The Hound + The Fox",
+          "url": "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
+        }
+      ],
+      "duration_ms": 221712,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -316,81 +512,129 @@
       "added_at": "2019-02-22 20:19:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO"
+        "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
       },
       "artists": [
         {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 183052,
-      "name": "Stand by Me - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya"
+      "duration_ms": 246701,
+      "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Nothing Compares 2 U",
-        "url": "https://open.spotify.com/album/6E2uXissCsJ8HEh3ytJdOz"
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/24a1xuBGgOqj62qlBR1eZR"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "Katie Herzig",
+          "url": "https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3"
         }
       ],
-      "duration_ms": 193505,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/54OkZltlupE2xB0i0lAfzi"
+      "duration_ms": 193090,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/7cNNiZYPFtWyojppe2MK8J"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/2kVYjc8G4UFWWc9QfLuFU8"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 225767,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/010gJrV78swYwVNAWjmWAb"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Taylor Swift 1989 Medley",
+        "url": "https://open.spotify.com/album/6db7iWQUXALMDTVzRcOGpy"
+      },
+      "artists": [
+        {
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+        }
+      ],
+      "duration_ms": 179880,
+      "name": "Taylor Swift 1989 Medley",
+      "url": "https://open.spotify.com/track/4Pt2aOG6KETMQp5mukYhD3"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Blood & Rust",
+        "url": "https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+        "url": "https://open.spotify.com/album/3R31GRbf0XVpBTfIzpkBHa"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
         }
       ],
-      "duration_ms": 187823,
-      "name": "September - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Everlasting Light",
-        "url": "https://open.spotify.com/album/0DBdj53b2HJSfb66PQelX9"
-      },
-      "artists": [
-        {
-          "name": "Diamond Thug",
-          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
-        }
-      ],
-      "duration_ms": 164823,
-      "name": "Everlasting Light",
-      "url": "https://open.spotify.com/track/4btqwzSNvAcOi2cryL3Not"
+      "duration_ms": 281247,
+      "name": "Baby - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/51tCjB9xqCJyoe0KdqbdLr"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH"
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
       "artists": [
         {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 190392,
-      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI"
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 197540,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -411,186 +655,50 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Jess Delgado RAWsession - 5.25.10",
-        "url": "https://open.spotify.com/album/0ECa20b3UM57SWWLc9MTLV"
+        "name": "The City Holds My Heart",
+        "url": "https://open.spotify.com/album/6VqpduiWt7ODKTCm03RZJf"
       },
       "artists": [
         {
-          "name": "Jess Delgado",
-          "url": "https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5"
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
         }
       ],
-      "duration_ms": 266793,
-      "name": "Why Georgia (RAWsession) [originally by John Mayer]",
-      "url": "https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q"
+      "duration_ms": 202657,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5F0oU6oawDaAdNAaRX0I8z"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
+        "name": "The Music Is You: A Tribute To John Denver",
+        "url": "https://open.spotify.com/album/1DaPfLzGwKVRhqtE4uxpQ5"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
         }
       ],
-      "duration_ms": 201136,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
+      "duration_ms": 236546,
+      "name": "Leaving On A Jet Plane",
+      "url": "https://open.spotify.com/track/1iCCjJPh0rxvmI1rbElYN4"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/29zRwYNrzdVkRra1P9aRix"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Sye Elaine Spence",
+          "url": "https://open.spotify.com/artist/0q1FB8NHOQ6hWMwMPxnf66"
         }
       ],
-      "duration_ms": 246701,
-      "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
-        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 198777,
-      "name": "Candle In The Wind - 2018 Version",
-      "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
-      },
-      "artists": [
-        {
-          "name": "The Hound + The Fox",
-          "url": "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Sign of the Times [Acoustic Cover]",
-        "url": "https://open.spotify.com/album/3KPk7vVX1VPVfEwIhI0Pmc"
-      },
-      "artists": [
-        {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        },
-        {
-          "name": "Jaclyn Davies",
-          "url": "https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Sign of the Times [Acoustic Cover]",
-      "url": "https://open.spotify.com/track/3IuZkOwna8fITHHJaEZMBm"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 234917,
-      "name": "Lakes of Pontchartrain - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/774yLThHwXXqrrH2bgF912"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193671,
-      "name": "Amsterdam - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Send My Love (To Your New Lover) [Live]",
-        "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        },
-        {
-          "name": "Paul Kowert",
-          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
-        }
-      ],
-      "duration_ms": 225033,
-      "name": "Send My Love (To Your New Lover) - Live",
-      "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Whippoorwill",
-        "url": "https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 245844,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2xq0fx3i99PG6VRc4EDc7B"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Now That I've Found You: A Collection",
-        "url": "https://open.spotify.com/album/1yt29znD6KxC2ayfnT1Cqk"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 244066,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/3ei99dge15PXGB99SCSA4y"
+      "duration_ms": 223920,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/68mzU8iAvNnF3PCidY66K0"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -615,230 +723,98 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "NUDES",
-        "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
+        "name": "Rocket Man",
+        "url": "https://open.spotify.com/album/1HzRK0ZodVtlnZUoYeDENq"
       },
       "artists": [
         {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        },
-        {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 208088,
-      "name": "Goodnight, Irene",
-      "url": "https://open.spotify.com/track/3oMwfp5g3fNYyy2Ifw7h6J"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "As Long as You Love Me",
-        "url": "https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1"
-      },
-      "artists": [
-        {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
-        },
-        {
-          "name": "Charlotte Almgren",
-          "url": "https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua"
-        }
-      ],
-      "duration_ms": 151618,
-      "name": "As Long as You Love Me",
-      "url": "https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "You Make My Dreams",
-        "url": "https://open.spotify.com/album/386qU1PAeUdXv5pJR5OMzK"
-      },
-      "artists": [
-        {
-          "name": "Tim Halperin",
-          "url": "https://open.spotify.com/artist/3nVeK8gQChVtVCCjGreal2"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "You Make My Dreams",
-      "url": "https://open.spotify.com/track/2deq1xyHGJgSgoOJcjx5yH"
+      "duration_ms": 287586,
+      "name": "Rocket Man",
+      "url": "https://open.spotify.com/track/1okfEMGJlkIgguDlkebSKr"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4vL7Dk1tzpksoDl6ZKJ8H9"
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 221237,
-      "name": "What a Wonderful World - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/60WpbrUWeXDBQlSrs8haWi"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "You Can Call Me Al",
-        "url": "https://open.spotify.com/album/2cfSqRUVoq2Q8Ds0upCXM4"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/5ByfgksA7N2f70dnuFABTE"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Southern Family",
-        "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
-      },
-      "artists": [
-        {
-          "name": "Morgane Stapleton",
-          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Southern Family",
-          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
-        }
-      ],
-      "duration_ms": 373266,
-      "name": "You Are My Sunshine (with Chris Stapleton)",
-      "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Deaf Heat EP",
-        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 166762,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Ignition / Do You... (Mashup)",
-        "url": "https://open.spotify.com/album/26yU4nFnBQrZ9z7fYetGcc"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Ryan",
-          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
-        }
-      ],
-      "duration_ms": 221836,
-      "name": "Ignition / Do You... (Mashup)",
-      "url": "https://open.spotify.com/track/0onyaPj0bXrPJPBxzuOWM1"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/2AQ1kijYhdcBmnPastkz3g"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 198205,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/0lXWPos2llF0n0zveBcBeR"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "I'm Gonna Be (500 Miles)",
-        "url": "https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 212044,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p"
+      "duration_ms": 205583,
+      "name": "For You - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW"
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 143966,
-      "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
-      "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/5tT6uMrOHLmZWam8b4LEwr"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
       },
       "artists": [
         {
-          "name": "The Darcys",
-          "url": "https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH"
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
         }
       ],
-      "duration_ms": 200191,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx"
+      "duration_ms": 179386,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
     },
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "All or Nothing / Fast Car",
-        "url": "https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV"
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
       "artists": [
         {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        },
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
-      "duration_ms": 272966,
-      "name": "Fast Car (feat. Tall Heights)",
-      "url": "https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ"
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/5mUcf2xoimLPlyMgxc3qoM"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mitchell",
+          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+        }
+      ],
+      "duration_ms": 167094,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4cveQqVIfVu4TRpvJNCGWV"
     }
   ],
   "unique_name": "Under the Covers",

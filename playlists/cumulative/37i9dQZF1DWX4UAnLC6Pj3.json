@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "A La Inversa",
       "url": "https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 226978,
       "name": "Como Duele Equivocarse",
       "url": "https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 186233,
       "name": "Conflicto de quererte - Banda",
       "url": "https://open.spotify.com/track/5qwV4ONmc2UlO1GNTMzpcl"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 188933,
       "name": "Consejo de Compas",
       "url": "https://open.spotify.com/track/4xBRZ6a6zcmYcEmPepXGGT"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 174693,
       "name": "Eso Es La Riqueza",
       "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
@@ -1061,10 +1061,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 201465,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4dWNUUDkYKSnB5HFfgw05S"
+    },
+    {
+      "album": {
+        "name": "Me Equivoqu\u00e9 en Amarte",
+        "url": "https://open.spotify.com/album/59EiA4FLSz1szxHSIbMNZ8"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Emilio Garra",
+          "url": "https://open.spotify.com/artist/5EgezdXajH2FAf79KHmrah"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177631,
+      "name": "Me Equivoqu\u00e9 en Amarte",
+      "url": "https://open.spotify.com/track/46i0h9eAuaj4cMCDKUYF2P"
     },
     {
       "album": {
@@ -1083,7 +1105,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 177631,
       "name": "Me equivoqu\u00e9 en amarte",
       "url": "https://open.spotify.com/track/6qa5GVhxSmDsoJF5o8dnrt"
@@ -1255,7 +1277,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 128513,
       "name": "Modo Crudo",
       "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
@@ -1375,7 +1397,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 202160,
       "name": "No Es Lo Que Dices",
       "url": "https://open.spotify.com/track/2YGOwVow3IMJAOwVGAZeQW"
@@ -1633,7 +1655,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 204200,
       "name": "Por Si Me Adelanto - Banda",
       "url": "https://open.spotify.com/track/58fd41sZyZGnyS0XXwj8AO"
@@ -1687,7 +1709,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 198160,
       "name": "Psic\u00f3logo Privado",
       "url": "https://open.spotify.com/track/0mGNQ1AEqzeGARUkbUeGAK"
@@ -1985,7 +2007,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 175829,
       "name": "Una Julio 70",
       "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
@@ -2079,10 +2101,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 171266,
       "name": "Y T\u00fa - Ranchera",
       "url": "https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL"
+    },
+    {
+      "album": {
+        "name": "Ya Llor\u00e9",
+        "url": "https://open.spotify.com/album/7FtNiGin9XZ0TwHINvfIzq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177320,
+      "name": "Ya Llor\u00e9",
+      "url": "https://open.spotify.com/track/7phuvtEYRNpvtJ9jntPI1S"
     },
     {
       "album": {
@@ -2213,7 +2253,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 179000,
       "name": "\u00bfQu\u00e9 Tienen Tus Palabras?",
       "url": "https://open.spotify.com/track/3fO7qqgw1dcP2MANXW0QXi"

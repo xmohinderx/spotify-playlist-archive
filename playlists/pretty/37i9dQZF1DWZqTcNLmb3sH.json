@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vikrant Rona",
-  "num_followers": 34099,
+  "num_followers": 34237,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MTMzMywwMDAwMDFhYjAwMDAwMTgyMDIwNjI1NmQwMDAwMDE4MTEzMjM5YWY1",
+  "snapshot_id": "MTY1ODA0NDc0OSwwMDAwMDFhYzAwMDAwMTgyMGIyYjE1YTkwMDAwMDE4MTEzMjM5YWY1",
   "tracks": [
     {
       "added_at": "2022-05-24 03:49:40",
@@ -31,6 +31,30 @@
       "duration_ms": 218343,
       "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
       "url": "https://open.spotify.com/track/0stbF4C1ACmIvx0aW81ZXa"
+    },
+    {
+      "added_at": "2022-07-17 07:59:09",
+      "album": {
+        "name": "Kesariya Rangu [From \"Brahmastra (Kannada)\"]",
+        "url": "https://open.spotify.com/album/0St5fP672OHd31twjogATZ"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 278377,
+      "name": "Kesariya Rangu (From \"Brahmastra (Kannada)\")",
+      "url": "https://open.spotify.com/track/1F0i0Ynrv28aAvycSLsugZ"
     },
     {
       "added_at": "2022-07-11 12:06:38",

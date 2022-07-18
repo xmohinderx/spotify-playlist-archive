@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 242163,
       "name": "Blind Curve",
       "url": "https://open.spotify.com/track/6UU3qMXteOLTo49eoyo4dp"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 273220,
       "name": "First Light - 2018 Remaster",
       "url": "https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 243480,
       "name": "Ippon No Ongaku - 2020 Remaster",
       "url": "https://open.spotify.com/track/5iFkWXTQadweNDIl6U3xMT"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 222880,
       "name": "It's So Creamy",
       "url": "https://open.spotify.com/track/2WY5fw5RRAdNnTMV1KGr5M"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 189213,
       "name": "Just A Joke",
       "url": "https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 299680,
       "name": "Last Summer Whisper",
       "url": "https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 283000,
       "name": "Midnight Cruisin'",
       "url": "https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 308000,
       "name": "Mystical Composer",
       "url": "https://open.spotify.com/track/1SMO3yVhfUaCgVZ8Tj4j5a"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 254666,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2"
@@ -820,6 +820,24 @@
     },
     {
       "album": {
+        "name": "ROMANTIQUE",
+        "url": "https://open.spotify.com/album/5Lw48018tCfnF1vxXNCNVD"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169160,
+      "name": "Shinkiro No Machi",
+      "url": "https://open.spotify.com/track/1SUVQE0KqqMUbeAGMadKN7"
+    },
+    {
+      "album": {
         "name": "PAINTED WOMAN",
         "url": "https://open.spotify.com/album/1UDKqGvP4GaiNEcuUMyUpo"
       },
@@ -849,7 +867,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 223733,
       "name": "Slow Nights",
       "url": "https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 258706,
       "name": "Summer Beach",
       "url": "https://open.spotify.com/track/3CpI6Cqup7J36JblqaJJaX"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 253586,
       "name": "\u30ab\u30e9\u30d1\u30ca\u30fb\u30d6\u30e9\u30c3\u30af\u30fb\u30b5\u30f3\u30c9\u30fb\u30d3\u30fc\u30c1",
       "url": "https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO"
@@ -1429,28 +1447,10 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 214240,
       "name": "\u8272\u5f69\u90fd\u5e02",
       "url": "https://open.spotify.com/track/31YhtFGjhGIwHc7Wwy2TGP"
-    },
-    {
-      "album": {
-        "name": "ROMANTIQUE",
-        "url": "https://open.spotify.com/album/5Lw48018tCfnF1vxXNCNVD"
-      },
-      "artists": [
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
-        }
-      ],
-      "date_added": "2022-05-24",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
-      "duration_ms": 169160,
-      "name": "\u8703\u6c17\u697c\u306e\u8857",
-      "url": "https://open.spotify.com/track/1SUVQE0KqqMUbeAGMadKN7"
     },
     {
       "album": {

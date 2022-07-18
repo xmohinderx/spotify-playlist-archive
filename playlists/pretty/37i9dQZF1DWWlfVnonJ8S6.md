@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,346 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,447 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

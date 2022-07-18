@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Fabri Fibra
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,532 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,567 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 30 | [La G La U La E pt.2](https://open.spotify.com/track/3PHUQDyGYZhRJFSwbTXnsG) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:25 |
 | 31 | [Vita sbagliata](https://open.spotify.com/track/46k6vPzXj1JYKFqJNghNHA) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:13 |
 | 32 | [Smith & Wesson Freestyle \(feat\. Marracash\)](https://open.spotify.com/track/596fQREtpVHWRl3xCmVhEM) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:10 |
-| 33 | [Se Rinasco](https://open.spotify.com/track/4bTgVYbTDdBaJRHLtecSoX) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:05 |
+| 33 | [Se Rinasco \(feat\. Massimo Pericolo & Crookers\)](https://open.spotify.com/track/4bTgVYbTDdBaJRHLtecSoX) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:05 |
 | 34 | [Guess Who's Back](https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Guess Who's Back](https://open.spotify.com/album/2G9p4nrpfNHzjg1QLEaxTr) | 3:13 |
 | 35 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 |
 | 36 | [S.A.L.M.O.](https://open.spotify.com/track/4kpAz34vx3pPPGaKdD3j6Q) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:55 |

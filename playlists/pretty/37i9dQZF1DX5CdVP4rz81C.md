@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Rosa Linn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,025 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,487 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

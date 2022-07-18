@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: Gambler
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,651 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,660 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

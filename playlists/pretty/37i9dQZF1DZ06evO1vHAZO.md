@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,776 likes - 40 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,992 likes - 40 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 26 | [Listen Up](https://open.spotify.com/track/7IN0xNq5UxvsJXTqZ3rdSE) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 6:21 |
 | 27 | [Stay Young \- Remastered](https://open.spotify.com/track/41nttXLEzPouvKuXRbjDyq) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:07 |
 | 28 | [The Hindu Times](https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:46 |
-| 29 | [Gas Panic!](https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:08 |
-| 30 | [I'm Outta Time](https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:10 |
+| 29 | [I'm Outta Time](https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:10 |
+| 30 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 |
 | 31 | [It's Gettin' Better \(Man!!\) \(Live at Knebworth, 11 August '96\)](https://open.spotify.com/track/19r7EyyRHEzagsDFZxQBmH) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:56 |
 | 32 | [She Is Love](https://open.spotify.com/track/01uctxky5IDj8UQvdmcLIv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:09 |
-| 33 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 |
-| 34 | [Be Here Now \- Remastered](https://open.spotify.com/track/1WKQuEgQnvvgVxj5B7ptwl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:12 |
+| 33 | [Be Here Now \- Remastered](https://open.spotify.com/track/1WKQuEgQnvvgVxj5B7ptwl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:12 |
+| 34 | [Don't Stop… \- Demo](https://open.spotify.com/track/6lwWNrZ5nufGhTu5JQg0Hv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Stop… \(Demo\)](https://open.spotify.com/album/40aKKEG4XwBNjVSW5zSA6h) | 4:56 |
 | 35 | [Round Are Way \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/4eVPDhFRLO4X3NZXTHV47x) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 4:47 |
-| 36 | [Don't Stop… \- Demo](https://open.spotify.com/track/6lwWNrZ5nufGhTu5JQg0Hv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Stop… \(Demo\)](https://open.spotify.com/album/40aKKEG4XwBNjVSW5zSA6h) | 4:56 |
-| 37 | [Falling Down](https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:20 |
-| 38 | [Heroes](https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [D'You Know What I Mean?](https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk) | 4:09 |
-| 39 | [I Am The Walrus \(Live at Knebworth, 11 August '96\)](https://open.spotify.com/track/1vvlQgoUYdBICnqzuREVnI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 6:40 |
+| 36 | [Falling Down](https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:20 |
+| 37 | [Heroes](https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [D'You Know What I Mean?](https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk) | 4:09 |
+| 38 | [I Am The Walrus \(Live at Knebworth, 11 August '96\)](https://open.spotify.com/track/1vvlQgoUYdBICnqzuREVnI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 6:40 |
+| 39 | [Bag It Up](https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:40 |
 | 40 | [My Big Mouth \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:10 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA4ZWNlZTNhZDdmMDE5NzA3ZTA4Y2M0YzdjNGQ3ZjhjOQ==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDBmZDU0MDNlMjU2NzM5YWNlYzI0YTdiZGM3OGRjZmEwYQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhBhYl3ZMvY.md) - [plain]
 
 > Catch all the essential tracks by the multitalented Rihanna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,441,540 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,441,998 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhBhYl3ZMvY.md) - [plain]
 | 12 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
 | 13 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 |
 | 14 | [Needed Me](https://open.spotify.com/track/3kfxarilcBr81mb2hmZLeh) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI](https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc) | 3:11 |
-| 15 | [This Is What You Came For \(feat\. Rihanna\)](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For \(feat\. Rihanna\)](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:42 |
+| 15 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:42 |
 | 16 | [Man Down](https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:27 |
 | 17 | [Pon de Replay](https://open.spotify.com/track/6GC6lcKgjCdsdIz5OiCUw5) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/2Pr6XAzfBObBUTgiSXmr3n) | 4:06 |
 | 18 | [What's My Name?](https://open.spotify.com/track/5FTCKvxzqy72ceS4Ujux4N) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:23 |

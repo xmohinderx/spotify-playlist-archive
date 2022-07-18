@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > welcome to mixtape \#008, turn up with Chencho Corleone\. 🔥 Find a new mixtape every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,748,838 likes - 26 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749,333 likes - 26 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

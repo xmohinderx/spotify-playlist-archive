@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Julian Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,554 likes - 101 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,563 likes - 101 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

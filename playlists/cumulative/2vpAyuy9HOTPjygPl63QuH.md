@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-275 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+276 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Amor](https://open.spotify.com/track/1fbXwrDcDsPaX3tC3yqjbE) | [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi), [Eauxmy](https://open.spotify.com/artist/2l0IWVB3IHJeFQqiVccgxt) | [Amor](https://open.spotify.com/album/4McRCrzAKIcpyxQp9NwmwT) | 3:23 | 2022-06-10 | 2022-06-25 |
 | [Ancestors of House](https://open.spotify.com/track/66Mb70z6ksWZRxWHW8Ze7V) | [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Ancestors of House](https://open.spotify.com/album/3NTBO7vW5fEWCrFL82XRTO) | 3:20 | 2022-05-29 | 2022-06-04 |
 | [Answer Me \- Ranger Trucco Remix](https://open.spotify.com/track/7cCBhdkqXHORXDjrJFXTaf) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Answer Me \(Ranger Trucco Remix\)](https://open.spotify.com/album/4EqlKPi1s31N9Q2D086W9r) | 3:30 | 2022-07-09 | 2022-07-16 |
+| [At The Club](https://open.spotify.com/track/3uZNgxv6kHuOK3XimZx6IT) | [Sampson.](https://open.spotify.com/artist/2kuBYXNzauzqVYmAUID2W9) | [SPLITS 003](https://open.spotify.com/album/7lVv0ud2nfn2nihXoui8MV) | 5:42 | 2022-07-17 |  |
 | [Away \- NuKey Extended Remix](https://open.spotify.com/track/1T9JOtUpav6PH3BOVbsuep) | [Valy Mo](https://open.spotify.com/artist/2GOqvtSlw1DetJcV3p0fYH), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Away \(NuKey Remix\)](https://open.spotify.com/album/0HVfuo2ZlhKP1gTLWRcmn6) | 3:25 | 2022-04-28 | 2022-05-14 |
 | [Bad Decisions](https://open.spotify.com/track/6Z5qHLhQDnQD23aLXaPsmG) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions EP](https://open.spotify.com/album/2ZaZRpXCPGt2vuyoJNiS3I) | 3:04 | 2021-06-03 |  |
 | [Bailar](https://open.spotify.com/track/6WG7JANcbQbVVwGSIGLhpK) | [Get Bad](https://open.spotify.com/artist/0nLBrW1pQ3RlAJw5tB8PMN) | [Litterbox 12](https://open.spotify.com/album/6XSqMd6HwTAreAKbHMKan2) | 3:01 | 2022-06-03 | 2022-06-11 |

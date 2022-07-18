@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-118 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3BP8AJXn7JtSS0hniQgsgr)
+119 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/3BP8AJXn7JtSS0hniQgsgr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [Haunted House](https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 2:13 | 2021-12-27 |  |
 | [Head Away](https://open.spotify.com/track/6Pq3iabH7bmUzsLW3Ql51G) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [HOPE](https://open.spotify.com/album/5xDFzFfY4gWoTVUfc2JoRB) | 3:56 | 2021-12-27 |  |
 | [Headlights](https://open.spotify.com/track/03RiXjAkoaqNHi5Vknk9aE) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Bangers & Ballads](https://open.spotify.com/album/6CjL7n64C2bnhjPIN9fvgw) | 3:27 | 2021-12-27 |  |
+| [High](https://open.spotify.com/track/77Ts8iO0YyjgXrRJdwNMTC) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Musicas para Fuder](https://open.spotify.com/album/3i2OgGH7zU9uv16Z9zECgP) | 3:16 | 2022-07-17 |  |
 | [High](https://open.spotify.com/track/7m4uS0EfgbfhwQCA0IVJT6) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Música Para Meter](https://open.spotify.com/album/1VOY4mcn2XGiukf9Sc5iNf) | 3:16 | 2022-05-04 | 2022-05-29 |
-| [High \(& Dua Lipa\)](https://open.spotify.com/track/3dD9yyYTQ73SZvyOygyKva) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:16 | 2021-12-27 |  |
+| [High \(& Dua Lipa\)](https://open.spotify.com/track/3dD9yyYTQ73SZvyOygyKva) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:16 | 2021-12-27 | 2022-07-18 |
 | [History](https://open.spotify.com/track/7rIfPMmf3h0JO2GT1C2m2z) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 3:28 | 2021-12-27 |  |
 | [House](https://open.spotify.com/track/1dqQSYy1Hny4okA5GABysg) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Endless](https://open.spotify.com/album/4cY2oRQAxm4TgstWzhIBWl) | 3:21 | 2021-12-27 |  |
 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 | 2021-12-27 |  |

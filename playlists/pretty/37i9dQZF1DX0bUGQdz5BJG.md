@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kylie Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,320 likes - 150 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,420 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 32 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 |
 | 33 | [Girl in Love](https://open.spotify.com/track/0XlbzugAOq7MectvIaOfZ4) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Girl in Love](https://open.spotify.com/album/0vOGXcKTQEXmhVB7nMTHYy) | 3:18 |
 | 34 | [Nothing With You](https://open.spotify.com/track/7FqCz4O6B7YGAyktlp5PpJ) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Grace Leer](https://open.spotify.com/artist/2zaXxMpZKyNK075LXZ3wDG) | [Nothing With You](https://open.spotify.com/album/7IqrqtlOGGPeBMRjBaRlWj) | 3:36 |
-| 35 | [Wild Palomino \(feat\. Cody Johnson\)](https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Wild Palomino \(feat\. Cody Johnson\)](https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv) | 3:18 |
+| 35 | [Wild Palomino](https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Wild Palomino](https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv) | 3:18 |
 | 36 | [Somewhere In Austin](https://open.spotify.com/track/7BI5tTJ34MgOLv2cd2NECa) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Planes Don't Wait](https://open.spotify.com/album/7k6j5je7kqcbz1rGTPbU9z) | 2:53 |
 | 37 | [Wild as Her \(feat\. Carter Faith\) \- Acoustic One\-Take](https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Wild as Her \(feat\. Carter Faith\) \[Acoustic One\-Take\]](https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf) | 3:33 |
 | 38 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 |

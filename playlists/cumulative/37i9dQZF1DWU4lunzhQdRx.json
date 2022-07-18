@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 293026,
       "name": "Back To December",
       "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 187749,
       "name": "Fix You Too",
       "url": "https://open.spotify.com/track/2dOz227iHvVgTiVDVHOicN"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 193517,
       "name": "Girls In My Hometown",
       "url": "https://open.spotify.com/track/79Mc3PPC4D5TxqyTt6KRbU"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 189442,
       "name": "Greener Pasture",
       "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 231560,
       "name": "Happier For You",
       "url": "https://open.spotify.com/track/0yEN5OTnUDJpDLTjI51v2Q"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 153186,
       "name": "Narcissist - Piano Version",
       "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
@@ -993,6 +993,24 @@
       "duration_ms": 214416,
       "name": "Never Wanted To Be That Girl",
       "url": "https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT"
+    },
+    {
+      "album": {
+        "name": "New Number",
+        "url": "https://open.spotify.com/album/19SNvJPZrqu3U8GE08xZMV"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "New Number",
+      "url": "https://open.spotify.com/track/1hs5bD6cBoPlu2pNUySUSF"
     },
     {
       "album": {
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 203089,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 214106,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"

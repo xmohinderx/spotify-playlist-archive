@@ -1,12 +1,12 @@
 {
   "description": "Listen to easy songs from your favorite artists! Cover: Lady Gaga",
-  "num_followers": 6116679,
+  "num_followers": 6118944,
   "original_name": "Soft Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAyMDQ1MSwwMDAwMDAwMDA0MjllMGYyMDc5NTI2ODBhMTY3NzhlYmFjYzg3Mzlj",
+  "snapshot_id": "MTY1ODEwNjQzMywwMDAwMDAwMGJjOWNmMWFjZjgwYjJiOWMzOTE4YjFjZTA5Y2QyNzI5",
   "tracks": [
     {
       "added_at": "2022-06-17 04:01:00",
@@ -43,18 +43,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+        "name": "September",
+        "url": "https://open.spotify.com/album/6omZGefN53iRMtrJjCWTBg"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 214706,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+      "duration_ms": 220891,
+      "name": "September",
+      "url": "https://open.spotify.com/track/22eqegdVyWgAQAwLkm7L9b"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -75,18 +75,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/6omZGefN53iRMtrJjCWTBg"
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 220891,
-      "name": "September",
-      "url": "https://open.spotify.com/track/22eqegdVyWgAQAwLkm7L9b"
+      "duration_ms": 214706,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/70zIL23Ro6CSxuFYL3dKn0"
       },
@@ -159,34 +175,22 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+        "name": "The Greatest Showman: Reimagined",
+        "url": "https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
+      "duration_ms": 218293,
+      "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
+      "url": "https://open.spotify.com/track/78nplE9X2ZGvQh3TKgvldE"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -227,38 +231,34 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+      "duration_ms": 167065,
+      "name": "Like I Can",
+      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
     },
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "The Greatest Showman: Reimagined",
-        "url": "https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0"
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 218293,
-      "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
-      "url": "https://open.spotify.com/track/78nplE9X2ZGvQh3TKgvldE"
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -279,34 +279,50 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "Falling Like The Stars",
+        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+      "duration_ms": 212720,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 167065,
-      "name": "Like I Can",
-      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
+      "duration_ms": 245493,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 164202,
+      "name": "imagine",
+      "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -331,34 +347,34 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 164202,
-      "name": "imagine",
-      "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Falling Like The Stars",
-        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 212720,
-      "name": "Falling Like The Stars",
-      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
+      "duration_ms": 187888,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -379,34 +395,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 187888,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
+      "duration_ms": 211466,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
       "artists": [
         {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 285120,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN"
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -467,42 +467,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Title (Deluxe)",
-        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Like I'm Gonna Lose You (feat. John Legend)",
-      "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 206458,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },
@@ -523,34 +487,22 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+      "duration_ms": 186552,
+      "name": "Someone Like You (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -571,22 +523,70 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
         }
       ],
-      "duration_ms": 186552,
-      "name": "Someone Like You (feat. Joy Oladokun)",
-      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
+      "duration_ms": 285120,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Like I'm Gonna Lose You (feat. John Legend)",
+      "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "GHOST TOWN",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "GHOST TOWN",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "GHOST TOWN",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
+        "name": "Love Yourself",
+        "url": "https://open.spotify.com/album/0UrC6yz9of1vd3HHD6h2W2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 233746,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/4qug3gWrzeTNm0GhOkugJV"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
         "name": "Too Good At Goodbyes",
         "url": "https://open.spotify.com/album/6D5ic12r3twNk7EjwEYFIP"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Love Yourself",
-        "url": "https://open.spotify.com/album/0UrC6yz9of1vd3HHD6h2W2"
+        "name": "I Should Probably Go To Bed",
+        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 233746,
-      "name": "Love Yourself",
-      "url": "https://open.spotify.com/track/4qug3gWrzeTNm0GhOkugJV"
+      "duration_ms": 171826,
+      "name": "I Should Probably Go To Bed",
+      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -815,54 +831,6 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "I Should Probably Go To Bed",
-        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "I Should Probably Go To Bed",
-      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Can't Help Falling In Love",
-      "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -899,18 +867,34 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
+        "name": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
         }
       ],
-      "duration_ms": 215229,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz"
+      "duration_ms": 201933,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -931,18 +915,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Hold Me While You Wait",
-        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 205686,
-      "name": "Hold Me While You Wait",
-      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
+      "duration_ms": 215229,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -967,6 +951,38 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
+        "name": "Hold Me While You Wait",
+        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205686,
+      "name": "Hold Me While You Wait",
+      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Little Bit of Love",
+        "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 226268,
+      "name": "Little Bit of Love",
+      "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -987,50 +1003,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2IAyprsfyoPBGDvbLjgsN5"
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 213869,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285040,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
+      "duration_ms": 269560,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1051,18 +1035,82 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Little Bit of Love",
-        "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
       },
       "artists": [
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
         }
       ],
-      "duration_ms": 226268,
-      "name": "Little Bit of Love",
-      "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2IAyprsfyoPBGDvbLjgsN5"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 213869,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1099,50 +1147,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+        "name": "if we never met",
+        "url": "https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
         }
       ],
-      "duration_ms": 269560,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169265,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+      "duration_ms": 144426,
+      "name": "if we never met",
+      "url": "https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 213826,
-      "name": "When I Was Your Man",
-      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1207,38 +1223,6 @@
       "duration_ms": 241693,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/3CKCZ9pfwAfoMZlMncA1Nc"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "if we never met",
-        "url": "https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "if we never met",
-      "url": "https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
       "artists": [
         {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 230880,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
+      "duration_ms": 206880,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
         "name": "I Won't Give Up",
         "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
       },
@@ -1327,34 +1327,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 230880,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 198370,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1423,18 +1407,34 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
       "artists": [
         {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
       "artists": [
         {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1495,34 +1495,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/2Jg7JZ0ZXOGje1bkq7CVgK"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Db9VIdDsN5yu3Eu7CT0i4"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1543,22 +1527,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/2Jg7JZ0ZXOGje1bkq7CVgK"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Db9VIdDsN5yu3Eu7CT0i4"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "One Too Many",
         "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
       },
@@ -1575,6 +1543,42 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Unapologetic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4HsLpiXxuq5kxvMEALLyrh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2QTcJmSgeLRtG1c82ZYHQc"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1615,22 +1619,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Unapologetic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4HsLpiXxuq5kxvMEALLyrh"
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2QTcJmSgeLRtG1c82ZYHQc"
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "The Pains Of Growing",
-        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
+        "name": "Damn It Feels Good To Be Me",
+        "url": "https://open.spotify.com/album/4gi9J69znig8ZUb9OhdUCs"
       },
       "artists": [
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
+      "duration_ms": 138306,
+      "name": "Damn It Feels Good To Be Me",
+      "url": "https://open.spotify.com/track/3LymIBUSWRoxxm7W5UQlXl"
     }
   ],
   "unique_name": "Soft Pop Hits",

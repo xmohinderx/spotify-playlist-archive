@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 
 > This is Gojira\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,587 likes - 41 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,665 likes - 41 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 | 40 | [Death of me](https://open.spotify.com/track/1xgChyPxsSp3jgY61zmJyc) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 5:47 |
 | 41 | [Deliverance](https://open.spotify.com/track/537CmK97BafGLCgelxK0fS) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:54 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBmYmZjMDE5ZGY4MzdlNjc4YzYzY2U3N2RhMjRkN2FiZQ==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDBhZjIxY2I0MTljYzM3NTg0MjQ0NTVjMWM4MDQ1ZjRlNg==`

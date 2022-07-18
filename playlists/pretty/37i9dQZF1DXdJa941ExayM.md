@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > Maybe it's punk, maybe it's not\. Cover: Wu\-Lu
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,405 likes - 96 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,447 likes - 96 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -914,6 +914,28 @@
     },
     {
       "album": {
+        "name": "Fidarti di me",
+        "url": "https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA"
+      },
+      "artists": [
+        {
+          "name": "Louis Dee",
+          "url": "https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160454,
+      "name": "Fidarti di me",
+      "url": "https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw"
+    },
+    {
+      "album": {
         "name": "Fior di glicine",
         "url": "https://open.spotify.com/album/3KTYT0lzuD9WSaMah6hU55"
       },
@@ -1921,6 +1943,32 @@
       "duration_ms": 167272,
       "name": "Passatempo",
       "url": "https://open.spotify.com/track/70URplGTkPeSuAEISU5SxS"
+    },
+    {
+      "album": {
+        "name": "Paura",
+        "url": "https://open.spotify.com/album/5bJsrcAEowEmZ9Od83S9Cp"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        },
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70"
+        },
+        {
+          "name": "Raffaele Sperati",
+          "url": "https://open.spotify.com/artist/7MuokJ3qy2kSdX4WLGNKEW"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194332,
+      "name": "Paura",
+      "url": "https://open.spotify.com/track/4j3Z9XCFxx24lj4v8Dzbea"
     },
     {
       "album": {

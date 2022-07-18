@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,411 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,936 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 26 | [En Phoenix Ruleteamos](https://open.spotify.com/track/4u5OPcN6zuLd9hJGB1PPjM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Phoenix Ruleteamos](https://open.spotify.com/album/2Kjrnq2AqljOmHQPTzwT4t) | 3:55 |
 | 27 | [Yo Fui El Choki](https://open.spotify.com/track/1k7BcLftj6rmgBDRuK3bpc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 3:22 |
 | 28 | [El Menon](https://open.spotify.com/track/3F9XBs8RPNylnwllVddzt1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos 2019 Vol\. 2](https://open.spotify.com/album/7qWQtf7ia2Bf8q22TPMn8D) | 4:05 |
-| 29 | [Por Clave El Chino](https://open.spotify.com/track/7MH1vx6qW9AUHk3sRriH7K) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:59 |
+| 29 | [El De La P](https://open.spotify.com/track/3iFhFNQ1TC3OmkPGEb4bwB) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 3:16 |
 | 30 | [Dejate De Cosas](https://open.spotify.com/track/3as1oPfPMw6Dj4r0T8wRDF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Dejate De Cosas \(En Vivo\)](https://open.spotify.com/album/15Agp87LSD2IlX96CKQ3ZD) | 2:05 |
 | 31 | [Por Clave El 02](https://open.spotify.com/track/66gge7FSp4QFJs5usnSvJm) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:46 |
 | 32 | [El Comandante](https://open.spotify.com/track/5ZZIduUosHfi5GQQsbhGGu) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comandante](https://open.spotify.com/album/0vumH1IfChTf4mBo9iJtOM) | 2:14 |
-| 33 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
-| 34 | [Paz En Este Amor \(En Vivo\)](https://open.spotify.com/track/559TDjQpWrtOnZXdFnRfYj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Desde La Oficina \(En Vivo\)](https://open.spotify.com/album/6Ze9Ja5wGsNBu6igmWWBNy) | 3:26 |
-| 35 | [El De La P](https://open.spotify.com/track/3iFhFNQ1TC3OmkPGEb4bwB) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 3:16 |
+| 33 | [Por Clave El Chino](https://open.spotify.com/track/7MH1vx6qW9AUHk3sRriH7K) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:59 |
+| 34 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
+| 35 | [Paz En Este Amor \(En Vivo\)](https://open.spotify.com/track/559TDjQpWrtOnZXdFnRfYj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Desde La Oficina \(En Vivo\)](https://open.spotify.com/album/6Ze9Ja5wGsNBu6igmWWBNy) | 3:26 |
 | 36 | [Por Clave 9\-1](https://open.spotify.com/track/0TnUV2vPKYf0TSgKuchTXU) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 3:17 |
 | 37 | [El 8](https://open.spotify.com/track/3MlwQd4W9ySCi505CK5N26) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El 8](https://open.spotify.com/album/7qfb8kvm6smyCu5HXefnME) | 2:45 |
 | 38 | [No Se Vallan Por Los Mitotes](https://open.spotify.com/track/1sQJkxf5nPTs2gEcr7YaUl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [El Gordo](https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gordo](https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA) | 2:46 |
 | 50 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA4YzlhNDBiYjBjMzNkZTI3MGRmYjM4NTJmMmVmZWJiMA==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDAyNGJiNjZmZTY3OTc2N2E5ZTE0YTFiNjBhYjQ3NWM0ZA==`

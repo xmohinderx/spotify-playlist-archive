@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,762 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,788 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Se Termino](https://open.spotify.com/track/7pZarDLH0d0ZKaj31PnPUC) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:40 |
 | 51 | [Todo Cambio \(En Vivo\)](https://open.spotify.com/track/3seNEk7YiBY7y4GBpcX8hA) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Todo Cambio \(En Vivo\)](https://open.spotify.com/album/694JNI13itntLDegX7cvYn) | 3:51 |
 
-Snapshot ID: `Mjc2MzMwMjgsMDAwMDAwMDA0ZWI5ZjI0ZGY4OTdhMjMyNWM4MTNkNThjMGI4NjVhMA==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDBhOTE4ZGY0OTRmMTVmYmMwNjQzYjAzYTI2ZmI0OWYzOA==`

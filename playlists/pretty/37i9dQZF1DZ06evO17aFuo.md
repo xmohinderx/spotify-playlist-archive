@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,704 likes - 51 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,916 likes - 51 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 50 | [Victory \- Remastered 2004](https://open.spotify.com/track/4kPF8KNfCkQQkL22YoOJir) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:29 |
 | 51 | [Duke Nukem](https://open.spotify.com/track/3VowFZMqNlHzSIa2MA2kwM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:54 |
 
-Snapshot ID: `Mjc2MzMwMjgsMDAwMDAwMDAzZjYyYWE5YTNmM2EzNDA0NTQ2M2EzYzM5YTg1ZDE3Mw==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDA1YjYyNGYxZjQ2ZWViZmNlNDM4YjYyOWYwNjVmMTQxYw==`

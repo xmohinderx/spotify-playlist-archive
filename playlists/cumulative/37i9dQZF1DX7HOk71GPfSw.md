@@ -4,7 +4,7 @@
 
 > belive the hype Cover: Alice Longyu Gao & Oli Sykes
 
-1,348 songs - 2 day 13 hr 6 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,349 songs - 2 day 13 hr 12 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,6 +992,7 @@
 | [Romeo](https://open.spotify.com/track/6pZqybYHNV14l6PcUWpSTk) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Romeo](https://open.spotify.com/album/4RfeIgaL5j2xIf9uEIEmv2) | 2:38 | 2020-10-13\* | 2020-11-14 |
 | [Rose Coloured Ear Drums](https://open.spotify.com/track/69xuSR3BFb7aAN7HUJ2MiS) | [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB) | [BIG KILL FUTURE](https://open.spotify.com/album/49RtLwYTyBKciCUDUfUI45) | 2:58 | 2022-02-18 | 2022-04-23 |
 | [Roses](https://open.spotify.com/track/4Nw0h4CF8FbmBGv0jxKZDO) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [Roses](https://open.spotify.com/album/3zjjNYxCfNFu0j6E353rFy) | 2:16 | 2021-05-22 | 2021-06-24 |
+| [Royal Blue Walls](https://open.spotify.com/track/4AwEBnyhdSFQqPGRRJ3Ph1) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Royal Blue Walls](https://open.spotify.com/album/1O9lX0T7wx1JvE0Wu3Vstw) | 6:02 | 2022-07-17 |  |
 | [Rumors \- six impala Remix](https://open.spotify.com/track/50GK8epCy1PYgAh0SKGlQs) | [Maria Domark](https://open.spotify.com/artist/2Tk2HAL91rQhvzac157v6Y), [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [Rumors \(six impala Remix\)](https://open.spotify.com/album/5Mb9BSwGXcq5f6K1D95iij) | 3:03 | 2021-11-19 | 2022-03-17 |
 | [run away](https://open.spotify.com/track/4hzmfludEkdCYRbmxBxgzg) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [thirtyonetwentyfive](https://open.spotify.com/artist/6C17s5mFSAlqQo69YuTdIC) | [tutorial: how to..](https://open.spotify.com/album/4GcNBCL8eKTeEDL0t8j19k) | 2:35 | 2022-05-06 | 2022-07-09 |
 | [Run Fast](https://open.spotify.com/track/1ErIa5ymCTUVIo7xKaXjgm) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [JJ](https://open.spotify.com/artist/2314UpIMdS8DMZyKiZ00Fs) | [Run Fast](https://open.spotify.com/album/207BLTz3BLhjemvQNxYJZA) | 2:22 | 2020-10-13\* | 2020-12-11 |

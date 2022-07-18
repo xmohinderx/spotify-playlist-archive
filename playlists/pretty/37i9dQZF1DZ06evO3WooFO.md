@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,943 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,059 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,6 +54,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 44 | [No Future](https://open.spotify.com/track/5Uwm4pdpaaW3yari6ymMTT) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:45 |
 | 45 | [Apple Shampoo](https://open.spotify.com/track/46MoFdSoufjnzJ2NWuhRA0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 2:52 |
 | 46 | [Up All Night](https://open.spotify.com/track/1bvbL0HbprbpwmzwaZczr2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:19 |
-| 47 | [Ghost On The Dance Floor](https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 4:17 |
+| 47 | [Ghost On The Dance Floor](https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 4:17 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDAzZmY4YmFmMWQ4OTkwOTZkMTY4ZmY0ZDIxYmNkZTJhOQ==`
+Snapshot ID: `Mjc2MzQ0MjgsMDAwMDAwMDAzNTk4ZDE3Mjg1NDNiNTczM2I0NmZhNTdmNTk4ODljZA==`

@@ -4,7 +4,7 @@
 
 > A trilha sonora do verão.
 
-100 songs - 4 hr 56 min - not published yet
+101 songs - 4 hr 59 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Borboletas](https://open.spotify.com/track/3AroFQ5v6wHUOqwpGZw3OW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/7hJsoRAoXKqdkiTMEBLgJq) | 3:24 | 2022-07-07 |  |
 | [Botadinha Saliente](https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Botadinha Saliente](https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG) | 2:38 | 2022-07-07 |  |
 | [Cara Que Engana](https://open.spotify.com/track/1DHSj9pjlwGsVTQ2A2Z8gk) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Cara Que Engana](https://open.spotify.com/album/0xtL6QER4C37WbjNRkhhC5) | 2:59 | 2022-07-07 |  |
+| [Chikita Mala \- With Anselmo Ralph](https://open.spotify.com/track/0ijV7kP1Exgv9hxGGQGJd8) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Chikita Mala \(With Anselmo Ralph\)](https://open.spotify.com/album/7dKTNQOFOQhkiqkiMxOvuz) | 3:20 | 2022-07-07 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:22 | 2022-07-07 |  |
 | [Copines](https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 | 2022-07-07 |  |
 | [Cupido](https://open.spotify.com/track/4tRmiWQmekkX2mx7mmhdK6) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Cupido](https://open.spotify.com/album/0R5ZdfkpxHiujgjYEN50gi) | 2:05 | 2022-07-07 |  |
@@ -54,7 +55,7 @@
 | [Malvada](https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Malvada](https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy) | 2:25 | 2022-07-07 |  |
 | [Malvadão 3](https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Malvadão 3](https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl) | 2:21 | 2022-07-07 |  |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-07-07 |  |
-| [ME PASE \(feat\. Farruko\)](https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [ME PASE \(feat\. Farruko\)](https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ) | 3:01 | 2022-07-07 |  |
+| [ME PASE \(feat\. Farruko\)](https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [ME PASE \(feat\. Farruko\)](https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ) | 3:01 | 2022-07-07 | 2022-07-18 |
 | [MODO TURBO](https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:30 | 2022-07-07 |  |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-07-07 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2022-07-07 |  |

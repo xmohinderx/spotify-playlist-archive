@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,367 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,414 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 29 | [La Fuerza Del Amor](https://open.spotify.com/track/7IYqBfbJyLX1e2MYf04ezI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [La Fuerza Del Amor](https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo) | 4:17 |
 | 30 | [Acá Entre Nos \- En Vivo](https://open.spotify.com/track/5ck9PhKtvFsuCN8zEAG4C4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC) | 4:14 |
 | 31 | [Y Las Mariposas](https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Las Consentidas De Pancho Barraza](https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ) | 3:49 |
-| 32 | [Esta Va por Ti](https://open.spotify.com/track/3R8WZ9lTTEFHifPtRbVTpZ) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Esta Va por Ti](https://open.spotify.com/album/2ldbuKO6qKF6iNxn43cusK) | 3:25 |
-| 33 | [Por Amor Y Fe](https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:33 |
+| 32 | [Por Amor Y Fe](https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:33 |
+| 33 | [Esta Va por Ti](https://open.spotify.com/track/3R8WZ9lTTEFHifPtRbVTpZ) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Esta Va por Ti](https://open.spotify.com/album/2ldbuKO6qKF6iNxn43cusK) | 3:25 |
 | 34 | [Llorando Una Pena](https://open.spotify.com/track/5CawfH4wFANfiOQU4wMW2S) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Rancheras Con Banda Y Mariachi](https://open.spotify.com/album/7MuIdXN7rXlX4qVgHjrT1Q) | 3:20 |
 | 35 | [Pero La Recuerdo](https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Pero La Recuerdo](https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG) | 3:45 |
 | 36 | [Porque](https://open.spotify.com/track/4hHLcpYdCXA9nlnES0gkA4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [La Fuerza Del Amor](https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Con El Alma En La Mano](https://open.spotify.com/track/1f9qcAI1Kv4FS6Nk6MkpQb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 3:40 |
 | 50 | [Que Te Paso](https://open.spotify.com/track/5DsX6k1XSBuKj3GxHItIZV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 2:37 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBjNGNjYjYxMTdkOTMwZWQ5ZjIyNTE5MzAyMzMyYjZlOQ==`
+Snapshot ID: `Mjc2MzQ0MjgsMDAwMDAwMDA4N2Y0MGQ1OTAwNjdmNTAxOGRkM2ZmYWMyYTgzMmVmNA==`

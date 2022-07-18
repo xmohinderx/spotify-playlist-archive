@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE?si=YDtypf\_iQ2KM0vD5dMKglw">Sgi\_Magalela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,963 likes - 69 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,975 likes - 69 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

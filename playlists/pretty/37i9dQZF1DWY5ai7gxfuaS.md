@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain](/playlists/plain/37i9dQZF1DWY5ai7gxfuaS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY5ai7gxfuaS)
 
-### [The oTHERS](https://open.spotify.com/playlist/37i9dQZF1DWY5ai7gxfuaS)
+### [Alternative Metal](https://open.spotify.com/playlist/37i9dQZF1DWY5ai7gxfuaS)
 
 > The most innovative and forward thinking metal right now\. Cover: Mimi Barks
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,347 likes - 81 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,511 likes - 81 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 80 | [Huge](https://open.spotify.com/track/4Nbyhv2YTR1Vc83Ajo1gJ9) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Huge](https://open.spotify.com/album/73LxhjxtI5MVlX33VeAwVV) | 9:14 |
 | 81 | [Arcana Imperii](https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y) | 4:53 |
 
-Snapshot ID: `MTY0ODgyOTY3MywwMDAwMDFhZjAwMDAwMTdmZTVlODJmZTYwMDAwMDE3ZjUwOWMyMWU0`
+Snapshot ID: `MTY1ODA3OTU3OSwwMDAwMDFiMDAwMDAwMTgyMGQzZThkYmEwMDAwMDE4MjBkM2UyY2Zl`

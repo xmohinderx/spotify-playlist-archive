@@ -6139,7 +6139,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 156144,
       "name": "Bolivia",
       "url": "https://open.spotify.com/track/0rCMCvrYA4LKXFKdUSyseQ"
@@ -6295,7 +6295,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 110909,
       "name": "Bouncin Bags",
       "url": "https://open.spotify.com/track/4K3Xt5x3yNHe7hbkCfYG3K"
@@ -10043,7 +10043,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 142921,
       "name": "Coffee Jazz",
       "url": "https://open.spotify.com/track/2JnVnqt3M2mUw1BJcCqI0U"
@@ -17695,7 +17695,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 102723,
       "name": "Fortune",
       "url": "https://open.spotify.com/track/1tWig2u5mSN6ObsF3TR8zY"
@@ -55604,6 +55604,24 @@
     },
     {
       "album": {
+        "name": "Walks",
+        "url": "https://open.spotify.com/album/5Ak4n9ne8q1MuspiXXMbBE"
+      },
+      "artists": [
+        {
+          "name": "Brenky",
+          "url": "https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84711,
+      "name": "Walks",
+      "url": "https://open.spotify.com/track/53uCBgg1jGsPJZ3Hf1kp0t"
+    },
+    {
+      "album": {
         "name": "Walks in Paris",
         "url": "https://open.spotify.com/album/1S1V8osAz5KAfoELxQT6oh"
       },
@@ -57379,7 +57397,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 142105,
       "name": "Winding Up",
       "url": "https://open.spotify.com/track/1rGvNMdxYGnE6lH2EeMfwQ"

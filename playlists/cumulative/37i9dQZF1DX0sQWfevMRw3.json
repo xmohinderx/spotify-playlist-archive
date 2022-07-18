@@ -141,7 +141,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 140400,
       "name": "Annie Are You Ok",
       "url": "https://open.spotify.com/track/3BG676kgJugJfUO1JEoRuO"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 148586,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4bOqzJLaYv9qZNOWNQgJNm"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 191250,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 131625,
       "name": "DUNDERBAS",
       "url": "https://open.spotify.com/track/28R6VsgBdNaudOYRy2U1rl"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -1785,7 +1785,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 155714,
       "name": "Get in Trouble (So What) - Lilo Remix",
       "url": "https://open.spotify.com/track/0dmUBjkwsT8aQg1qlbkLso"
@@ -1903,7 +1903,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 131022,
       "name": "Good at Being Bad",
       "url": "https://open.spotify.com/track/16qSuwI54KQ40t4wYGpSuH"
@@ -2141,7 +2141,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 167832,
       "name": "HET",
       "url": "https://open.spotify.com/track/5RaQUKpL2DtpEPFhnddC65"
@@ -2211,7 +2211,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 181120,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/1E08Ym6iYOonl5L107Eh5X"
@@ -2263,6 +2263,32 @@
       "duration_ms": 161760,
       "name": "Hypnotize (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/3AznR0jUusYPFmgERW8mwd"
+    },
+    {
+      "album": {
+        "name": "I like to move it",
+        "url": "https://open.spotify.com/album/6EonmeQCputEtgBPyfxx1X"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Mert Can",
+          "url": "https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q"
+        },
+        {
+          "name": "Tony Koma",
+          "url": "https://open.spotify.com/artist/0uGfoFBGwR75SE04cR5chh"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114377,
+      "name": "I like to move it",
+      "url": "https://open.spotify.com/track/14u71NkqEHOB9QbhXoabkz"
     },
     {
       "album": {
@@ -2395,7 +2421,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 121846,
       "name": "IN I DIMMAN",
       "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
@@ -2539,7 +2565,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 123483,
       "name": "JH5GLIMPI",
       "url": "https://open.spotify.com/track/5sRmrySDs6LREVMmj32QM0"
@@ -2557,7 +2583,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 163832,
       "name": "Just In Case",
       "url": "https://open.spotify.com/track/2AAMkITmFcCL9MtTKFui2k"
@@ -2641,7 +2667,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 163998,
       "name": "Lai Lai - Radio Edit",
       "url": "https://open.spotify.com/track/2dxMU41k1sCboEDE7DNLtX"
@@ -2769,7 +2795,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 187214,
       "name": "Life Like This",
       "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
@@ -2891,7 +2917,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 163478,
       "name": "Lo Nevosh",
       "url": "https://open.spotify.com/track/3hYWcQkxlGEiOtDjfKsD7d"
@@ -3137,7 +3163,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 158000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2ImJRXPtx4meYZ4DkhSU89"
@@ -3155,7 +3181,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 156013,
       "name": "Mon fr\u00e9re",
       "url": "https://open.spotify.com/track/1TzDpGGfnd5MfoFQCnySZF"
@@ -3277,7 +3303,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 156446,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/3eBHxUVMT8zXWnyaIPJMTP"
@@ -3357,7 +3383,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 159088,
       "name": "No Super League",
       "url": "https://open.spotify.com/track/0IrS6f8lDKMEcwOf2FcCHQ"
@@ -3431,7 +3457,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
@@ -3581,7 +3607,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 144761,
       "name": "Party To Survive",
       "url": "https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI"
@@ -3745,7 +3771,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 123821,
       "name": "pSyKoSeN",
       "url": "https://open.spotify.com/track/6X7t9Do69hFpUKbpgpMrBy"
@@ -3811,7 +3837,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 154761,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/5vD09qPYPhATeEF4GvGHVw"
@@ -3945,7 +3971,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/7MrNIhgWoKht75AxhM0QlP"
@@ -4435,7 +4461,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 180588,
       "name": "SKOGSREJV",
       "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
@@ -4681,7 +4707,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 157619,
       "name": "Spectrum (Say My Name)",
       "url": "https://open.spotify.com/track/2DRJ8zX1cHBr2DyVJNcQhu"
@@ -4769,7 +4795,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 221647,
       "name": "Stars Don't Shine (feat. Global Dan)",
       "url": "https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16"
@@ -5017,7 +5043,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 164400,
       "name": "Survivors",
       "url": "https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw"
@@ -5101,7 +5127,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 136190,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/6kZBa2wVfTaGAdoLa3dVAP"
@@ -5529,7 +5555,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 189850,
       "name": "Timeshift",
       "url": "https://open.spotify.com/track/4ZlDeQReZkKrXrwaBOs8oX"
@@ -5547,7 +5573,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 159175,
       "name": "TIPSY",
       "url": "https://open.spotify.com/track/4V3ZraECwVSrNQsB5rTpLl"
@@ -5711,7 +5737,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Turn The Lights Down Low (with R3HAB)",
       "url": "https://open.spotify.com/track/6k330QxFV5VXZSDj5wTUNR"
@@ -5899,7 +5925,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 118080,
       "name": "Vuoi Il Tuo Amore",
       "url": "https://open.spotify.com/track/1bDY1icSBFbmOxuJUnxzui"
@@ -6141,7 +6167,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 179600,
       "name": "Who U Gonna Love (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"
@@ -6259,7 +6285,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 131142,
       "name": "World in Your Eyes",
       "url": "https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9"

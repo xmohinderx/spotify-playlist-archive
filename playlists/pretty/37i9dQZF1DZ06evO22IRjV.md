@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,962 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,966 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 34 | [FLOW Anime OP ED Size Special Collection](https://open.spotify.com/track/0FS7VElufgTEqTDDgPMYzg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 14:55 |
 | 35 | [Ryuusei](https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST \- Single Collection](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:16 |
 | 36 | [Rookie](https://open.spotify.com/track/5Y1OvLqXxai7ZDTjtenWDm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Golden Coast](https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB) | 3:24 |
-| 37 | [SHINSEKAI](https://open.spotify.com/track/7bSJx8t6xQUlajgS0UecmL) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [SHINSEKAI](https://open.spotify.com/album/6vjP2Ye1v3lFyG0CcwRnCf) | 3:53 |
-| 38 | [Days \- Eureka Opening Mix](https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DAYS](https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY) | 1:31 |
+| 37 | [Days \- Eureka Opening Mix](https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DAYS](https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY) | 1:31 |
+| 38 | [SHINSEKAI](https://open.spotify.com/track/7bSJx8t6xQUlajgS0UecmL) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [SHINSEKAI](https://open.spotify.com/album/6vjP2Ye1v3lFyG0CcwRnCf) | 3:53 |
 | 39 | [Union](https://open.spotify.com/track/44pT8b44JEKUU5UdGVf2br) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 4:31 |
 | 40 | [Ai Ai Ai Ni Utarete Bye Bye Bye \- 26 a Go Go !!! Mix](https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [26 a Go Go !!!](https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs) | 4:09 |
 | 41 | [Melos](https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [SPLASH!!! \- Haruka Naru Jishuseisaku BEST](https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 49 | [Realize](https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Golden Coast](https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB) | 3:33 |
 | 50 | [Word of the Voice](https://open.spotify.com/track/0kESE99ri5BLsgtxCaYdiM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Number Five](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:47 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDAzYWU2ZTA3ZTI1YWNhMDBlZmNjNzdiZGEwNDhjY2QwZA==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDA2NzQzYjNhNjNhODA5ZTUxYWUzMGJkOWQzNjEwOTc4NQ==`

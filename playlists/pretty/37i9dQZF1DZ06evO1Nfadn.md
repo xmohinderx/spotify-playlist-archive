@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,027 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,036 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 31 | [El Avestruz](https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mis Favoritas](https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi) | 2:33 |
 | 32 | [La Prendita](https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lo Que Son las Cosas](https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi) | 3:06 |
 | 33 | [Como Chapulin](https://open.spotify.com/track/2i63GltjvYmpj8hGioLfN5) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:34 |
-| 34 | [Niño Travieso](https://open.spotify.com/track/3Tnap1wm45mf3rAtUUJzV1) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:09 |
-| 35 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
+| 34 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
+| 35 | [Niño Travieso](https://open.spotify.com/track/3Tnap1wm45mf3rAtUUJzV1) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:09 |
 | 36 | [Dos Gotas de Agua](https://open.spotify.com/track/3zOX9kZFskHnK2rp1abpCJ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mil Gracias](https://open.spotify.com/album/0RE8GBPjlZBTx9RXHC0LGO) | 2:56 |
 | 37 | [Los Melones](https://open.spotify.com/track/1SZfLRduAOlnFy80ORtuEO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:34 |
 | 38 | [Báilalo Suavecito](https://open.spotify.com/track/4xqSBX0ygS4UZZqpzdCGWy) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 2:38 |
-| 39 | [Cuánto Te Quiero](https://open.spotify.com/track/2y58KLpoSRCHHR1053NO9E) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Colección](https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD) | 3:09 |
-| 40 | [Qué Bonito Amor](https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:38 |
+| 39 | [Qué Bonito Amor](https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:38 |
+| 40 | [Cuánto Te Quiero](https://open.spotify.com/track/2y58KLpoSRCHHR1053NO9E) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Colección](https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD) | 3:09 |
 | 41 | [Para Que No Me Olvides](https://open.spotify.com/track/7Lb2R3yGVlHH12OwbejcZN) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/2I1Gl3XePqBREJ3iLNm7lf) | 3:11 |
 | 42 | [Dulce Veneno](https://open.spotify.com/track/2T6qeMzVsysTRD3dDpPxcI) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 3:42 |
 | 43 | [Juan Colorado](https://open.spotify.com/track/5O56ZFb2wudJMlk6278gyB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa' Que Veas Lo Que Se Siente](https://open.spotify.com/album/3qphrl3j2zNiNrPcqcrF8x) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [Corazon De Oro](https://open.spotify.com/track/1Z1zgVs2cRnfigMGvITbzQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 3:25 |
 | 50 | [Alma de Acero](https://open.spotify.com/track/4t6sb6BrGJXzjit9bdFrBO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 2:23 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDAyNjIyYzAyYzY2Yzk5NmY2NGI2NDQ1OTc1MjE2OGQwMA==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDBiMjA2M2M0MmUxYzdkYTNmNzI3YTA3MGYyNjhmYTVhOA==`

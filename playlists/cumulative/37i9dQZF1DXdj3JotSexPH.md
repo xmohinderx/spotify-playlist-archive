@@ -4,7 +4,7 @@
 
 > Takeover by R3HAB
 
-51 songs - 2 hr 23 min - not published yet
+51 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/45HD6b68H0Z3s4y0wGgOFQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

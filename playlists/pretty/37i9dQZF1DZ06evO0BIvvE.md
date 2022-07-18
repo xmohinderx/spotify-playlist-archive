@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 
 > This is Billy Paul\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,608 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,614 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 49 | [Windy](https://open.spotify.com/track/56SmXWXB6wIJRlDxdiRZ2T) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 2:49 |
 | 50 | [East](https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 6:27 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBjYzBiZjYyYWU4YjQ2MDgyNjU2YTY0ZThiMjdhNDcwMQ==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDAzZWY0ZGYxZDY4MGMyODZjMjMxYjI5MGNhODczM2U2MA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,216 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 49 | [Estupendo](https://open.spotify.com/track/5s5i3LqYQ7F6fPdw2reBo2) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:13 |
 | 50 | [Zapatos viejos](https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 2:51 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBhZmQ2ZTc0OTJiNzE4NWE3NjA3MDA4YjE2NjA3YmM5Mg==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDBmZDE0MjRkMmE1ZDNiMjVjMGU2NDgzZWUzMzNjZWZlYw==`

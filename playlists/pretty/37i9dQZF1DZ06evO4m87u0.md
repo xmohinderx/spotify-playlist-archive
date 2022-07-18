@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,876 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,955 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 48 | [Crawling Kingsnake](https://open.spotify.com/track/4Yk7nkmqitDCycO0Z0UsKe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 6:08 |
 | 49 | [Oceans & Streams](https://open.spotify.com/track/0RRS27vZj5U0N2eIBctL4K) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:25 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDAyY2E1MjE0NjY0ZWU3ZGYxNjdiZjkwYjEyN2ZkOTY2Nw==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDAzZWMzNGJmZGEzMWY3YzhiNzZlMDc2ODc0MTM0MTA0Yw==`

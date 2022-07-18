@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,347 likes - 51 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,351 likes - 51 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 50 | [Lapis Lazuli \- Live Re Blue](https://open.spotify.com/track/6hqv2LYDrTLZD7CJyex547) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Aoi Eir Special Live 2018 RE BLUE at Nippon Budokan](https://open.spotify.com/album/2sc1aJl5nt2lDw4bLg4VJt) | 4:01 |
 | 51 | [Rosoku metronome](https://open.spotify.com/track/0b3Zn6LJsLJ8H6MpUI7IXz) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER special edition](https://open.spotify.com/album/6YzzWuOx0NtLffVP3UA521) | 4:22 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBmNGQxZmU5ZTQyNWU2NGFiM2RlYjIyZmVlYjllZDJjOQ==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDA3Mjg2YWE0MDE4MmUxMjJkYjI5ODMzN2QyZTNmNzk2ZA==`

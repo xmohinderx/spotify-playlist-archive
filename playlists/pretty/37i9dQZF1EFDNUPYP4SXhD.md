@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716 likes - 158 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 717 likes - 158 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 86 | [Video Llamada](https://open.spotify.com/track/7wQQLVAxrmY4fox5GKasHX) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Historias de un Capricornio](https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K) | 3:35 |
 | 87 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 |
 | 88 | [Pa' Pasar El Rato](https://open.spotify.com/track/5Ar46ySD4J2cSao1iM16wp) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 3:15 |
-| 89 | [Rumba](https://open.spotify.com/track/0dQsqDJxgqlRyNQRhSdoqi) | [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Inesperado](https://open.spotify.com/album/2z4uyqpMvD4QFq2drk1oMh) | 3:15 |
-| 90 | [ZONA DEL PERREO](https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:11 |
+| 89 | [ZONA DEL PERREO](https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:11 |
+| 90 | [Rumba](https://open.spotify.com/track/0dQsqDJxgqlRyNQRhSdoqi) | [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Inesperado](https://open.spotify.com/album/2z4uyqpMvD4QFq2drk1oMh) | 3:15 |
 | 91 | [Baby \- Chris Jedi / Supa Dups Remix](https://open.spotify.com/track/14Nqot3iOUgUKEHj6WZOMv) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Supa Dups](https://open.spotify.com/artist/62DQXKsIHSPmr3fZaeARfq) | [Baby \(Chris Jedi / Supa Dups Remix\)](https://open.spotify.com/album/6exYiNUpHdYJD59WTj4o3t) | 3:34 |
 | 92 | [360](https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 |
 | 93 | [Si Te Vas Conmigo](https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Si Te Vas Conmigo](https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM) | 2:40 |
@@ -153,11 +153,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 143 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 |
 | 144 | [Que Importa](https://open.spotify.com/track/5xpaelrvdOBxwnxIO1FOQv) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:42 |
 | 145 | [Volao](https://open.spotify.com/track/2TmsUnvvMAzmrpZQbMrUcn) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:15 |
-| 146 | [Él No Te Lo Hace Como Yo](https://open.spotify.com/track/5GnU16WYRJqHNRFUXDJYdu) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Invicto \(El Patrón\)](https://open.spotify.com/album/50SHDDJI7OTh9TtqtibhtO) | 3:14 |
-| 147 | [Epapale](https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Epapale](https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u) | 2:00 |
+| 146 | [Epapale](https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Epapale](https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u) | 2:00 |
+| 147 | [Él No Te Lo Hace Como Yo](https://open.spotify.com/track/5GnU16WYRJqHNRFUXDJYdu) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Invicto \(El Patrón\)](https://open.spotify.com/album/50SHDDJI7OTh9TtqtibhtO) | 3:14 |
 | 148 | [Chanell Con Chanel](https://open.spotify.com/track/7FYXboOgrxcQri3pRgK5nJ) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Chanell Con Chanel](https://open.spotify.com/album/0ZoyktJJTxOA8Ho3pUTStT) | 2:27 |
-| 149 | [Reza Por Mi](https://open.spotify.com/track/5aNNE58E8H8K5UsBFLeGss) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 4:34 |
-| 150 | [LMALO](https://open.spotify.com/track/2mVCV4WihqwFvWtSSfIT5S) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:45 |
+| 149 | [LMALO](https://open.spotify.com/track/2mVCV4WihqwFvWtSSfIT5S) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:45 |
+| 150 | [Reza Por Mi](https://open.spotify.com/track/5aNNE58E8H8K5UsBFLeGss) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 4:34 |
 | 151 | [Dinero Y Fama \(feat\. Arcangel\)](https://open.spotify.com/track/2qSO4nIpR5Fdo8lL9K7kH2) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:53 |
 | 152 | [Ella Pide De Eso](https://open.spotify.com/track/4OUcankxNe66OYymBu600u) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:22 |
 | 153 | [Una Noche Más](https://open.spotify.com/track/3VmBAVO6QWnYUXEsGf930o) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:40 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 157 | [Vida Cara](https://open.spotify.com/track/2lewSDdMSGQzszhKYhm2mo) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:10 |
 | 158 | [La Llevo Al Cielo](https://open.spotify.com/track/0ldqpXUPtasGIhmd6p1R1J) | [Aiem](https://open.spotify.com/artist/6CrLTxGRAhecLa3EmGoJDr) | [La Llevo Al Cielo](https://open.spotify.com/album/5JHA1Yu2F7h9kutIwcB1ho) | 2:50 |
 
-Snapshot ID: `Mjc2MzM2NjIsMDAwMDAwMDA0MjczMTczMTBmZWQwOTkzZWUxNGY0YjY5MGVjYWNhZA==`
+Snapshot ID: `Mjc2MzUxMDIsMDAwMDAwMDBlMTFhMzljNWM3NDY0Y2FiYmIzZDM4YjhhMzZkNjNhYw==`

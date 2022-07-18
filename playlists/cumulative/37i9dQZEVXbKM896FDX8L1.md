@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-717 songs - 1 day 17 hr 59 min - [published](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
+718 songs - 1 day 18 hr 2 min - [published](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 | 2021-04-20 | 2021-05-09 |
 | [MASSA](https://open.spotify.com/track/2goHCrsDJaflEwQ930ef0o) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 3:43 | 2021-06-27 | 2021-06-28 |
 | [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-06-18 |  |
-| [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-03 |  |
+| [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-03 | 2022-07-18 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 |  |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-09 | 2022-05-15 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-09-04 | 2022-02-16 |
@@ -580,6 +580,7 @@
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 |  |
 | [Stay Stay Stay \(Taylor's Version\)](https://open.spotify.com/track/1ftFtW8S1621tu0MIQy0Sg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:25 | 2021-11-14 | 2021-11-14 |
 | [Stay Stay Stay \(Taylor's Version\)](https://open.spotify.com/track/7eQj6r5PIdYKEIZjucBMcq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:25 | 2021-11-14 | 2021-11-16 |
+| [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 | 2022-07-17 |  |
 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-16 |  |
 | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D) | 2:59 | 2022-05-16 | 2022-05-31 |
 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-11-28 | 2021-12-29 |

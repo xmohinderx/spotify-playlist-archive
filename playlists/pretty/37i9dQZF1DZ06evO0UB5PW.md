@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,820 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,853 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 15 | [Seabeast](https://open.spotify.com/track/4dlsUdGXRe5nkxMIauacJq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 4:15 |
 | 16 | [Crack the Skye](https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:54 |
 | 17 | [Sickle and Peace](https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 6:17 |
-| 18 | [The Wolf Is Loose](https://open.spotify.com/track/4mYpmNDyJv3HEl22hfrDnL) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 3:34 |
+| 18 | [Crystal Skull](https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 3:24 |
 | 19 | [Megalodon](https://open.spotify.com/track/1rLDTmI8quVUsGy9mzrXBx) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 4:22 |
 | 20 | [The Last Baron](https://open.spotify.com/track/6MUc3qu8WOqO7hAY6gdhJY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 13:00 |
 | 21 | [More Than I Could Chew](https://open.spotify.com/track/50cqylMZEIcdJu3XDm1Tro) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 6:51 |
-| 22 | [Crystal Skull](https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 3:24 |
+| 22 | [The Wolf Is Loose](https://open.spotify.com/track/4mYpmNDyJv3HEl22hfrDnL) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 3:34 |
 | 23 | [Tread Lightly](https://open.spotify.com/track/46PDxEshU0SPeKY36Pu3FY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 5:14 |
 | 24 | [The Czar: Usurper / Escape / Martyr / Spiral](https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 10:54 |
 | 25 | [Had It All](https://open.spotify.com/track/5yOoY69sRaLWyQLkmwhGLi) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:25 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 39 | [Precious Stones](https://open.spotify.com/track/4GPne3vf5okCDszbmeCUZz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 3:45 |
 | 40 | [Cold Dark Place](https://open.spotify.com/track/23CIAx7uGrtUH5CwRf3BC5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:59 |
 | 41 | [Pendulous Skin](https://open.spotify.com/track/5uF9aihxBSiESSz2AeLqD7) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 5:04 |
-| 42 | [Curl of the Burl](https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 3:40 |
-| 43 | [Black Tongue](https://open.spotify.com/track/0KdjtHI5Acg6SMoomxQaCb) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 3:27 |
+| 42 | [Black Tongue](https://open.spotify.com/track/0KdjtHI5Acg6SMoomxQaCb) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 3:27 |
+| 43 | [Curl of the Burl](https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 3:40 |
 | 44 | [Quintessence](https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:27 |
 | 45 | [March of the Fire Ants](https://open.spotify.com/track/5SoTqdQPiBu4XmZyXeNs4M) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 4:25 |
-| 46 | [The Sparrow](https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7lObP1GanG65wToWzufQtq) | 5:30 |
-| 47 | [White Walker](https://open.spotify.com/track/3jGDbNotjMR5CNaeIg0f1O) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:20 |
+| 46 | [White Walker](https://open.spotify.com/track/3jGDbNotjMR5CNaeIg0f1O) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:20 |
+| 47 | [The Sparrow](https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7lObP1GanG65wToWzufQtq) | 5:30 |
 | 48 | [Blue Walsh](https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:12 |
 | 49 | [Mother Puncher](https://open.spotify.com/track/0mMi2FQIfXbHb8SilRoX8R) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 3:50 |
-| 50 | [Blasteroid](https://open.spotify.com/track/2NkR1oSWfqfopqj6S3hOsu) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 2:35 |
+| 50 | [Fallen Torches](https://open.spotify.com/track/55PBokVAiehQnFfapP54PK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:22 |
 
-Snapshot ID: `Mjc2MzMwMjgsMDAwMDAwMDA0YzdkNjhjMGNkODkwNGIyNjEyZDk0ZTI3NDkyZTkwNg==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDA0MGM0MzM4Y2FlMmY4MzQxYWNhMDJiNjU0YjFkNmY3Yw==`

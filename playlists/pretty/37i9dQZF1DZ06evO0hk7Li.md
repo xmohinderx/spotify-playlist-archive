@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,208 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,221 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 48 | [Home](https://open.spotify.com/track/1LtJ3tdHHxeV8mQ4hhFLCB) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 3:28 |
 | 49 | [Ire \(Remix\) \(feat\. Jacob Banks\)](https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 4:54 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDAwZGU0MjM5MGE3Y2Y2OGNkYmYyZGI2YjMxZTkxOWJkNA==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDA5NTgwZDU2Yjg2NjdhNDAwYWVhNTFhYzAwNTg4MGQ3YQ==`

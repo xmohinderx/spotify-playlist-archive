@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0XUfTFmNBRM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0XUfTFmNBRM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0XUfTFmNBRM)
 
-### [Top Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
+### [Hot Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here\. Cover\- Bhool Bhulaiyaa 2
+> Hottest Hindi music served here\. Cover\- Ranbir & Alia.
 
-190 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
+191 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Kaisi Hai Ye Rut](https://open.spotify.com/track/4x6hxkEuw1XLIwUkUJcDbf) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl) | [Dil Chahta Hai](https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI) | 5:28 | 2021-04-06 | 2021-04-12 |
 | [Kanta Laga](https://open.spotify.com/track/1FLwFOt3pBEikXjtarBqmh) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Kanta Laga](https://open.spotify.com/album/3PmXhpL20TuIOa4uY6H8CY) | 3:27 | 2021-10-14 | 2022-01-04 |
 | [Kehna Hi Kya \- Bombay / Soundtrack Version](https://open.spotify.com/track/5j5vCuBjS1sFWywWUnkJqV) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:53 | 2021-04-06 | 2021-04-12 |
+| [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 | 2022-07-17 |  |
 | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/track/46NYX9zIml71qtfYYjakTI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/album/715BUKTdGdNjePHLhRltCT) | 0:44 | 2022-04-18 |  |
 | [Kho Gaye Hum Kahan](https://open.spotify.com/track/6nZiYSBwPQ7fYnVWkkkj4g) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ASFrellizlx98SmsItOEm) | 3:33 | 2021-04-06 | 2021-04-12 |
 | [Khushi Jab Bhi Teri](https://open.spotify.com/track/0DqXA397QkcVjWq5Wa7DMt) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Khushalii Kumar](https://open.spotify.com/artist/10shJL4t1SGF0r24bg627p) | [Khushi Jab Bhi Teri](https://open.spotify.com/album/2VZlJpjJ4PD4DnVf2yPphq) | 4:00 | 2021-09-22 | 2022-02-04 |

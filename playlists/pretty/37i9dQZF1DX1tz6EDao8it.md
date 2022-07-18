@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,211 likes - 65 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,618 likes - 65 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [He's a Pirate](https://open.spotify.com/track/4AD2dterIUjNt1LFNI9Bvi) | [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ) | [Pirates Of The Caribbean Original Soundtrack](https://open.spotify.com/album/46co3YFtDUWwq1DiazleHP) | 1:30 |
 | 2 | [Theme From Jurassic Park](https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 3:27 |
-| 3 | [Time](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Inception \(Music From The Motion Picture\)](https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) | 4:35 |
+| 3 | [Time](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Inception \(Music from the Motion Picture\)](https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) | 4:35 |
 | 4 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/4O2N861eOnF9q8EtpH8IJu) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Amélie \(Original Soundtrack\)](https://open.spotify.com/album/7JG0QwvJRzPILHEW1xHEJj) | 2:20 |
 | 5 | [Now We Are Free](https://open.spotify.com/track/1ucCVtG5dKmgvCnXHAnhR9) | [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF), [Bruce Fowler](https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp), [Yvonne S\. Moriarty](https://open.spotify.com/artist/1e7uyBB3QYqNvrtb6RHDnm), [Walt Fowler](https://open.spotify.com/artist/0zaC6HTwesZn36o2dLFo8p), [Ladd McIntosh](https://open.spotify.com/artist/1Ix9jZshKPlgDASj6oRaIz), [Elizabeth Finch](https://open.spotify.com/artist/6EPy5KOOQfSMDhazEKjntW), [Jack Smalley](https://open.spotify.com/artist/7u01moHYvjd6PKblXzfPso) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/22UOVuCSJnESOxHBL7UJQN) | 4:14 |
 | 6 | [The Avengers \- From "The Avengers"/Score](https://open.spotify.com/track/2exOqFZpfHpQE8E870qz1A) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers Assemble](https://open.spotify.com/album/4woJ0YJRcxxt2VrdVJ6ERW) | 2:03 |

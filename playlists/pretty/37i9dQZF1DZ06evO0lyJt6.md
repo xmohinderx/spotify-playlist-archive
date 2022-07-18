@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,337 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,347 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 31 | [La Idea](https://open.spotify.com/track/0m8zn0rPVukkX2tQWEHoWz) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/6hoLNlNN1dOq5Fl6dmOQ57) | 2:56 |
 | 32 | [Psicólogo Privado](https://open.spotify.com/track/0mGNQ1AEqzeGARUkbUeGAK) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Psicólogo Privado](https://open.spotify.com/album/1QPGkBHOuIaU2xKAODMBN9) | 3:18 |
 | 33 | [Sin Miedo Al Éxito](https://open.spotify.com/track/21YeNeTRlPnYgKvdLYFs2C) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/5Wfvg8DIqTcq7LcoG92dZh) | 2:12 |
-| 34 | [La Persona Perfecta](https://open.spotify.com/track/278nH9m4i4Zp4hgRv7dYuh) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:08 |
-| 35 | [Imagina](https://open.spotify.com/track/54ozAIJWhGeuu0ZnBEuqjU) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i) | 2:38 |
+| 34 | [Imagina](https://open.spotify.com/track/54ozAIJWhGeuu0ZnBEuqjU) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i) | 2:38 |
+| 35 | [La Persona Perfecta](https://open.spotify.com/track/278nH9m4i4Zp4hgRv7dYuh) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:08 |
 | 36 | [Gracias Por Tratarla Mal](https://open.spotify.com/track/5ZGOi8cq6umEF5OvIzUpHl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:21 |
 | 37 | [Ese Loco Soy Yo](https://open.spotify.com/track/0bBBOltko9yaIrIzQgYzYp) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Ese Loco Soy Yo](https://open.spotify.com/album/6zEXNn3VL8OzlR0R4X2AEr) | 4:47 |
 | 38 | [Y Sólo Tú](https://open.spotify.com/track/4dgaCpg0k6iNUh1UUDvKay) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:47 |
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 41 | [Me Voy A Ir](https://open.spotify.com/track/3JPoz5pxA2Z6Ix75clU8KL) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:38 |
 | 42 | [El Cuento Perfecto](https://open.spotify.com/track/1IT3kGP8FGkq74Co4B6Qm0) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:12 |
 | 43 | [La Receta \- En Vivo](https://open.spotify.com/track/58QkaQHFlxKTQsf9neikRA) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Receta \(En Vivo\)](https://open.spotify.com/album/3LeJnT1HvvXzr93VVXAQ1m) | 2:39 |
-| 44 | [Morir De Amor \- En Vivo](https://open.spotify.com/track/1JR3r3N2Nji7HBCh3hspCi) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 3:09 |
+| 44 | [A Una Almohada De Distancia](https://open.spotify.com/track/1bbXpIUydN0Nqfb1b21Kb4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 4:37 |
 | 45 | [Olvidarte No Es Lo Mío](https://open.spotify.com/track/7eHM7vCmPlBYjcjHnWgFy4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:02 |
 | 46 | [No Te Mereces](https://open.spotify.com/track/0CpMGnPzmU9KGyB05D0a5l) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:16 |
-| 47 | [A Una Almohada De Distancia](https://open.spotify.com/track/1bbXpIUydN0Nqfb1b21Kb4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 4:37 |
+| 47 | [Morir De Amor \- En Vivo](https://open.spotify.com/track/1JR3r3N2Nji7HBCh3hspCi) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 3:09 |
 | 48 | [Ya Me Voy Para Siempre \- En Vivo](https://open.spotify.com/track/6RQAzfcmcKxXUPRY4NZ9In) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Ya Me Voy Para Siempre \(En Vivo\)](https://open.spotify.com/album/1RhWFjueW3APSWIyAilxxV) | 3:46 |
 | 49 | [Te Prometo](https://open.spotify.com/track/52e9XXEgDuyQ1FYK5aJaYZ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Te Prometo](https://open.spotify.com/album/2LP0reDguNHlmKi0C1mS8V) | 3:58 |
 | 50 | [El Columpio](https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Columpio](https://open.spotify.com/album/2pLsmL7AGtNvyw839IYVfc) | 3:08 |
 | 51 | [Su Ex](https://open.spotify.com/track/5iOBVp8GOUNi7McqMkkP0e) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Su Ex](https://open.spotify.com/album/2t5OkH8EsSABpNopumZDHs) | 2:56 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBkMmU1MGQ1YmZiNTUzYWI1Nzg1NTg5MTY2ODQ3YWRhOA==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDA0MjljYWY2OTFjMmNiNmVlODZkNGVhNTcwNWEzMGQxMg==`

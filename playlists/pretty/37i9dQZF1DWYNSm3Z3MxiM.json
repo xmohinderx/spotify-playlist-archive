@@ -1,12 +1,12 @@
 {
   "description": "Anthems only. For an extra rep, an extra set or an extra mile.",
-  "num_followers": 596211,
+  "num_followers": 596495,
   "original_name": "Classic Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAyMDc5MSwwMDAwMDAwMDY0MWVhZWIwOGE3ZDM2MTEzZmRlZjg3YWI4ODAyYmQz",
+  "snapshot_id": "MTY1ODEwNjc5OSwwMDAwMDAwMDQ1MjQ4OTUwMTBkNWE0ZjJlMjg2YzUwNDlhNWUzYzQy",
   "tracks": [
     {
       "added_at": "2022-07-11 13:48:25",
@@ -39,22 +39,6 @@
       "duration_ms": 224866,
       "name": "Nothin' But A Good Time - Remastered 2006",
       "url": "https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/2fY6tqgrlrg1ky9fgs0t5u"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -105,52 +89,20 @@
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
-      "added_at": "2022-06-29 15:30:44",
-      "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
-    },
-    {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol"
       },
       "artists": [
         {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2022-06-29 15:30:44",
-      "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 259800,
-      "name": "Juke Box Hero",
-      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/2fY6tqgrlrg1ky9fgs0t5u"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -171,6 +123,54 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
+    },
+    {
+      "added_at": "2022-06-29 15:30:44",
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 274133,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "Don't Say No",
         "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
       },
@@ -180,9 +180,41 @@
           "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
         }
       ],
-      "duration_ms": 217613,
-      "name": "The Stroke - Remastered",
-      "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
+      "duration_ms": 281453,
+      "name": "Lonely Is The Night - Remastered",
+      "url": "https://open.spotify.com/track/28eg5bkYvIHT7HPmzZFwLN"
+    },
+    {
+      "added_at": "2022-06-29 15:30:44",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 259800,
+      "name": "Juke Box Hero",
+      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "(Pronounced 'Leh-'N\u00e9rd 'Skin-'N\u00e9rd) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/57GMEh9tkmc1TGs4rcdVhN"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Gimme Three Steps",
+      "url": "https://open.spotify.com/track/0vSiz90JRxvYsbCTx84oVM"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -219,50 +251,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 274133,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "(Pronounced 'Leh-'N\u00e9rd 'Skin-'N\u00e9rd) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/57GMEh9tkmc1TGs4rcdVhN"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Gimme Three Steps",
-      "url": "https://open.spotify.com/track/0vSiz90JRxvYsbCTx84oVM"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+      "duration_ms": 247962,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
         }
       ],
-      "duration_ms": 281453,
-      "name": "Lonely Is The Night - Remastered",
-      "url": "https://open.spotify.com/track/28eg5bkYvIHT7HPmzZFwLN"
+      "duration_ms": 217613,
+      "name": "The Stroke - Remastered",
+      "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -299,34 +299,34 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Dr. Feelgood",
-        "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
+        "name": "Permanent Waves",
+        "url": "https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
         }
       ],
-      "duration_ms": 282653,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+      "duration_ms": 296466,
+      "name": "The Spirit Of Radio",
+      "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
     },
     {
-      "added_at": "2022-06-29 15:30:44",
+      "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Flirtin' With Disaster",
-        "url": "https://open.spotify.com/album/7uFDBROeCBVOlV9CfZv0cT"
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
       "artists": [
         {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 299200,
-      "name": "Flirtin' with Disaster",
-      "url": "https://open.spotify.com/track/61BywQA7q8KjpGjp3rHuRv"
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 247962,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Slow Ride / Save Your Loving (For Me)",
         "url": "https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 232533,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -393,20 +393,20 @@
       "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
     },
     {
-      "added_at": "2022-04-08 19:02:42",
+      "added_at": "2022-06-29 15:30:44",
       "album": {
-        "name": "Ram Jam",
-        "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
+        "name": "Flirtin' With Disaster",
+        "url": "https://open.spotify.com/album/7uFDBROeCBVOlV9CfZv0cT"
       },
       "artists": [
         {
-          "name": "Ram Jam",
-          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
         }
       ],
-      "duration_ms": 238973,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+      "duration_ms": 299200,
+      "name": "Flirtin' with Disaster",
+      "url": "https://open.spotify.com/track/61BywQA7q8KjpGjp3rHuRv"
     },
     {
       "added_at": "2022-01-04 20:30:57",
@@ -427,82 +427,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8"
+        "name": "Dr. Feelgood",
+        "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 406306,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/5Q41NLTmGbVPozwHKK7bk2"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
-    },
-    {
-      "added_at": "2022-04-08 19:02:42",
-      "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 265693,
-      "name": "Rag Doll",
-      "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
-    },
-    {
-      "added_at": "2022-06-29 15:30:44",
-      "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 261385,
-      "name": "Smokin'",
-      "url": "https://open.spotify.com/track/5u5qlnyVaewWugJIjzilIc"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Hot for Teacher - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -523,6 +459,54 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 180943,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Double Vision (Expanded)",
+        "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 268693,
+      "name": "Hot Blooded",
+      "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Hot for Teacher - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "Fire And Water (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1hgW1wQNsca8iXUEmTFAUY"
       },
@@ -539,34 +523,50 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Tommy",
-        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+        "name": "We're An American Band (Expanded Edition / Remastered 2002)",
+        "url": "https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
         }
       ],
-      "duration_ms": 180943,
-      "name": "Pinball Wizard",
-      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
+      "duration_ms": 207093,
+      "name": "We're An American Band - Remastered 2002",
+      "url": "https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd"
     },
     {
       "added_at": "2022-04-08 19:02:42",
       "album": {
-        "name": "Hair Of The Dog",
-        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
       "artists": [
         {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 249240,
-      "name": "Hair Of The Dog",
-      "url": "https://open.spotify.com/track/1wXE6zvNWRz8GuMfEUgETz"
+      "duration_ms": 265693,
+      "name": "Rag Doll",
+      "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
+    },
+    {
+      "added_at": "2022-04-08 19:02:42",
+      "album": {
+        "name": "Ram Jam",
+        "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
+      },
+      "artists": [
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
     },
     {
       "added_at": "2022-01-04 20:30:57",
@@ -587,18 +587,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Permanent Waves",
-        "url": "https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8"
       },
       "artists": [
         {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 296466,
-      "name": "The Spirit Of Radio",
-      "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
+      "duration_ms": 406306,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/5Q41NLTmGbVPozwHKK7bk2"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -619,66 +619,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Double Vision (Expanded)",
-        "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
         }
       ],
-      "duration_ms": 268693,
-      "name": "Hot Blooded",
-      "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
-    },
-    {
-      "added_at": "2022-01-04 20:30:57",
-      "album": {
-        "name": "Girls, Girls, Girls",
-        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 270426,
-      "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn"
-    },
-    {
-      "added_at": "2022-06-01 14:25:59",
-      "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Don't Say No",
-        "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
-      },
-      "artists": [
-        {
-          "name": "Billy Squier",
-          "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "My Kinda Lover - Remastered",
-      "url": "https://open.spotify.com/track/6g14FUj5zU9FDRwBi963vS"
+      "duration_ms": 288533,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -695,70 +647,6 @@
       "duration_ms": 323706,
       "name": "Separate Ways (Worlds Apart)",
       "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
-    },
-    {
-      "added_at": "2022-06-29 15:30:44",
-      "album": {
-        "name": "Standing Hampton",
-        "url": "https://open.spotify.com/album/5EuL5NWA7SbMENWt8C16wn"
-      },
-      "artists": [
-        {
-          "name": "Sammy Hagar",
-          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Heavy Metal",
-      "url": "https://open.spotify.com/track/1XxUDJp9zsjd6tBSvE3la4"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "We're An American Band (Expanded Edition / Remastered 2002)",
-        "url": "https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg"
-      },
-      "artists": [
-        {
-          "name": "Grand Funk Railroad",
-          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "We're An American Band - Remastered 2002",
-      "url": "https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd"
-    },
-    {
-      "added_at": "2022-05-31 17:29:22",
-      "album": {
-        "name": "Smashes Thrashes & Hits",
-        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Slowhand 35th Anniversary",
-        "url": "https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "Cocaine",
-      "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -779,66 +667,66 @@
     {
       "added_at": "2022-04-08 19:02:42",
       "album": {
-        "name": "Rocks",
-        "url": "https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR"
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
         }
       ],
-      "duration_ms": 280360,
-      "name": "Back In the Saddle",
-      "url": "https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe"
+      "duration_ms": 249240,
+      "name": "Hair Of The Dog",
+      "url": "https://open.spotify.com/track/1wXE6zvNWRz8GuMfEUgETz"
     },
     {
-      "added_at": "2021-12-14 20:27:19",
+      "added_at": "2022-05-31 17:29:22",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
       },
       "artists": [
         {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Jailbreak",
-      "url": "https://open.spotify.com/track/4qbiCq2xkNPyojuZFeNeqx"
+      "duration_ms": 228560,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
     },
     {
-      "added_at": "2021-12-14 20:27:19",
+      "added_at": "2022-01-04 20:30:57",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+        "name": "Girls, Girls, Girls",
+        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+      "duration_ms": 270426,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn"
     },
     {
-      "added_at": "2021-12-14 20:27:19",
+      "added_at": "2022-06-29 15:30:44",
       "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
       "artists": [
         {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
         }
       ],
-      "duration_ms": 423840,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
+      "duration_ms": 261385,
+      "name": "Smokin'",
+      "url": "https://open.spotify.com/track/5u5qlnyVaewWugJIjzilIc"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -859,6 +747,38 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "Slowhand 35th Anniversary",
+        "url": "https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei"
+    },
+    {
+      "added_at": "2022-06-01 14:25:59",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "Classic Rock",
         "url": "https://open.spotify.com/album/4m0tVQEuO296yPLtRQBOV2"
       },
@@ -873,20 +793,52 @@
       "url": "https://open.spotify.com/track/61jAJ5ggUq9nDzjc0Yr5CH"
     },
     {
-      "added_at": "2022-04-08 19:02:42",
+      "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Pieces Of Eight",
-        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
       "artists": [
         {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Blue Collar Man (Long Nights)",
-      "url": "https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2022-04-08 19:02:42",
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "Back In the Saddle",
+      "url": "https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 423840,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -907,22 +859,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -939,18 +875,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Ramblin' Gamblin' Man",
-        "url": "https://open.spotify.com/album/53xftA0H5gUQJS1EIF3llB"
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
       "artists": [
         {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 145310,
-      "name": "Ramblin' Gamblin' Man",
-      "url": "https://open.spotify.com/track/1gZOnv0YjmFIM2oXVin9ZR"
+      "duration_ms": 227800,
+      "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -971,50 +907,34 @@
     {
       "added_at": "2022-04-08 19:02:42",
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+        "name": "Pieces Of Eight",
+        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Living After Midnight",
-      "url": "https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4"
+      "duration_ms": 247373,
+      "name": "Blue Collar Man (Long Nights)",
+      "url": "https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"
     },
     {
-      "added_at": "2021-12-14 20:27:19",
+      "added_at": "2022-06-29 15:30:44",
       "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+        "name": "Standing Hampton",
+        "url": "https://open.spotify.com/album/5EuL5NWA7SbMENWt8C16wn"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "Sammy Hagar",
+          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
         }
       ],
-      "duration_ms": 288533,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Who's Next",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+      "duration_ms": 230506,
+      "name": "Heavy Metal",
+      "url": "https://open.spotify.com/track/1XxUDJp9zsjd6tBSvE3la4"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -1035,6 +955,70 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Jailbreak",
+      "url": "https://open.spotify.com/track/4qbiCq2xkNPyojuZFeNeqx"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Ramblin' Gamblin' Man",
+        "url": "https://open.spotify.com/album/53xftA0H5gUQJS1EIF3llB"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 145310,
+      "name": "Ramblin' Gamblin' Man",
+      "url": "https://open.spotify.com/track/1gZOnv0YjmFIM2oXVin9ZR"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 163800,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
+    },
+    {
+      "added_at": "2022-04-08 19:02:42",
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Living After Midnight",
+      "url": "https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4"
     }
   ],
   "unique_name": "Classic Rock Workout",

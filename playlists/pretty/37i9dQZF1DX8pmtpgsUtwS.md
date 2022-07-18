@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,160 likes - 65 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,170 likes - 65 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

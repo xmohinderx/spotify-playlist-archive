@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop.",
-  "num_followers": 250438,
+  "num_followers": 250475,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAyMTE1NSwwMDAwMDAwMGYyM2I4NTI4OGEyZThiYzUwOTBkZTQxYmRlNTdhZDM2",
+  "snapshot_id": "MTY1ODEwNzE3NSwwMDAwMDAwMDdhNjVmNWNmYjY1MmZkM2NjZjdhNWU0YWQyMWQyYTNh",
   "tracks": [
     {
       "added_at": "2021-11-05 03:00:00",
@@ -27,18 +27,34 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "I Don't Care (Acoustic)",
-        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 238220,
-      "name": "I Don't Care - Acoustic",
-      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
+      "duration_ms": 183093,
+      "name": "Us - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "1.22.03 Acoustic",
+        "url": "https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 276786,
+      "name": "She Will Be Loved - Acoustic",
+      "url": "https://open.spotify.com/track/6AVbtprNn18sQcX54K5MTo"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -63,34 +79,18 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "1.22.03 Acoustic",
-        "url": "https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW"
+        "name": "I Don't Care (Acoustic)",
+        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 276786,
-      "name": "She Will Be Loved - Acoustic",
-      "url": "https://open.spotify.com/track/6AVbtprNn18sQcX54K5MTo"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Us - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
+      "duration_ms": 238220,
+      "name": "I Don't Care - Acoustic",
+      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -112,22 +112,6 @@
       "added_at": "2021-11-05 03:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
       "artists": [
@@ -139,22 +123,6 @@
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Price Tag",
-        "url": "https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Price Tag - Acoustic Version",
-      "url": "https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -171,6 +139,38 @@
       "duration_ms": 219960,
       "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Price Tag",
+        "url": "https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Price Tag - Acoustic Version",
+      "url": "https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -223,38 +223,6 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 201745,
-      "name": "Cool Kids - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
         "name": "Live from Spotify London",
         "url": "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c"
       },
@@ -271,22 +239,6 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
         "name": "Live At AllSaints Studios",
         "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
       },
@@ -299,22 +251,6 @@
       "duration_ms": 214000,
       "name": "Thunder - Live/Acoustic",
       "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Live Acoustic EP",
-        "url": "https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209741,
-      "name": "New Rules - Piano, Acoustic; Live",
-      "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -339,6 +275,86 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Let Her Go - Acoustic",
+      "url": "https://open.spotify.com/track/7CzVAhQeZfTLqNnzdAiqrH"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 201745,
+      "name": "Cool Kids - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Live Acoustic EP",
+        "url": "https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209741,
+      "name": "New Rules - Piano, Acoustic; Live",
+      "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
         "name": "Falling Like The Stars",
         "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
       },
@@ -351,38 +367,6 @@
       "duration_ms": 212720,
       "name": "Falling Like The Stars",
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6eJDRuzwuZuVXHNGBSevVe"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6c8yicr6W2pOT62TkZu2en"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "penhasco. (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "penhasco. - (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -419,22 +403,6 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 266746,
-      "name": "Let Her Go - Acoustic",
-      "url": "https://open.spotify.com/track/7CzVAhQeZfTLqNnzdAiqrH"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
@@ -451,6 +419,118 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
+        "name": "penhasco. (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "penhasco. - (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "Elastic Heart - Live from The Village",
+      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "One Kiss (Acoustic)",
+        "url": "https://open.spotify.com/album/05pTtAjmfk7Qnj0K9l9hqP"
+      },
+      "artists": [
+        {
+          "name": "Jacob Wellfair",
+          "url": "https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "One Kiss (Acoustic)",
+      "url": "https://open.spotify.com/track/4dc4ZXSyCQjt5wmohvJVz8"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6eJDRuzwuZuVXHNGBSevVe"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 247346,
+      "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6c8yicr6W2pOT62TkZu2en"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Daisies (Acoustic)",
+        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Daisies - Acoustic",
+      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Ver\u00e3o Ac\u00fastico",
+        "url": "https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Blame It On Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "Blame It On Me - Acoustic",
+      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/4WG8Okx2dCKkg7JK3pLQUu"
       },
@@ -463,6 +543,22 @@
       "duration_ms": 246000,
       "name": "If I Ain't Got You - Unplugged",
       "url": "https://open.spotify.com/track/03iZNs8Joap7lEXnOWirow"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Voc\u00ea \u00e9 Um Perigo (Ac\u00fastico no Studio F)",
+        "url": "https://open.spotify.com/album/0u2FT7gPhP5DeEBNS2vV0K"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 184214,
+      "name": "Voc\u00ea \u00e9 Um Perigo (Ac\u00fastico no Studio F)",
+      "url": "https://open.spotify.com/track/0eIL5KQ45Cz36a6bEPzDRB"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -487,98 +583,22 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Voc\u00ea \u00e9 Um Perigo (Ac\u00fastico no Studio F)",
-        "url": "https://open.spotify.com/album/0u2FT7gPhP5DeEBNS2vV0K"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Alcantara",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 184214,
-      "name": "Voc\u00ea \u00e9 Um Perigo (Ac\u00fastico no Studio F)",
-      "url": "https://open.spotify.com/track/0eIL5KQ45Cz36a6bEPzDRB"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "Lost In Japan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "Elastic Heart - Live from The Village",
-      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
       "artists": [
         {
           "name": "Ed Sheeran",
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 225790,
-      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Blame It On Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
-      },
-      "artists": [
+        },
         {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 191986,
-      "name": "Blame It On Me - Acoustic",
-      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Daisies (Acoustic)",
-        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Daisies - Acoustic",
-      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -599,6 +619,22 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "You Learn - Live / Unplugged",
+      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
         "name": "Sheezus",
         "url": "https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb"
       },
@@ -611,6 +647,54 @@
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Jason Mraz's Beautiful Mess: Live On Earth",
+        "url": "https://open.spotify.com/album/1UjxZqV9SOSUZr9dpLLhyg"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "I'm Yours - Live On Earth Version",
+      "url": "https://open.spotify.com/track/3o0Au4ArIZKB4wDhAErftV"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 225790,
+      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 222270,
+      "name": "Attention - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -635,86 +719,50 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "One Kiss (Acoustic)",
-        "url": "https://open.spotify.com/album/05pTtAjmfk7Qnj0K9l9hqP"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
       "artists": [
         {
-          "name": "Jacob Wellfair",
-          "url": "https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 217000,
-      "name": "One Kiss (Acoustic)",
-      "url": "https://open.spotify.com/track/4dc4ZXSyCQjt5wmohvJVz8"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "You Learn - Live / Unplugged",
-      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
+      "duration_ms": 214586,
+      "name": "Lost In Japan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
     },
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 222270,
-      "name": "Attention - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Ver\u00e3o Ac\u00fastico",
-        "url": "https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 242040,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -751,54 +799,6 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 243804,
-      "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Jason Mraz's Beautiful Mess: Live On Earth",
-        "url": "https://open.spotify.com/album/1UjxZqV9SOSUZr9dpLLhyg"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 312800,
-      "name": "I'm Yours - Live On Earth Version",
-      "url": "https://open.spotify.com/track/3o0Au4ArIZKB4wDhAErftV"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
         "name": "Two Commas",
         "url": "https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt"
       },
@@ -815,38 +815,18 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+        "name": "Say Something (Acoustic)",
+        "url": "https://open.spotify.com/album/0gQ9WKsH6Om8X3lEjI1anY"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 239076,
-      "name": "Lover - Recorded at Air Studios, London",
-      "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
+      "duration_ms": 195733,
+      "name": "Say Something - Acoustic",
+      "url": "https://open.spotify.com/track/0TxB4c8V3dsLsqmoHDWd7Z"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -871,50 +851,34 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Say Something (Acoustic)",
-        "url": "https://open.spotify.com/album/0gQ9WKsH6Om8X3lEjI1anY"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
         }
       ],
-      "duration_ms": 195733,
-      "name": "Say Something - Acoustic",
-      "url": "https://open.spotify.com/track/0TxB4c8V3dsLsqmoHDWd7Z"
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Oh My Messy Mind",
-        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 225920,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Acoustic EP",
-        "url": "https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Here Without You - Acoustic Version",
-      "url": "https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7"
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -935,18 +899,54 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+        "name": "Acoustic EP",
+        "url": "https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy"
       },
       "artists": [
         {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
+      "duration_ms": 233160,
+      "name": "Here Without You - Acoustic Version",
+      "url": "https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Oh My Messy Mind",
+        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 239076,
+      "name": "Lover - Recorded at Air Studios, London",
+      "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -963,38 +963,6 @@
       "duration_ms": 176047,
       "name": "Runaway With It - Acoustic",
       "url": "https://open.spotify.com/track/6YlozqlJqreWYJ9hyxmwLp"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0kE3eroQzJ7OQH6qF1XqyO"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 201961,
-      "name": "Boom Clap - Spotify Sessions",
-      "url": "https://open.spotify.com/track/5lCfF0woasEzNAwLKb6sjp"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -1016,6 +984,38 @@
       "added_at": "2021-11-05 03:00:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Burning - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
       },
       "artists": [
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0kE3eroQzJ7OQH6qF1XqyO"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Burning - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
+      "duration_ms": 201961,
+      "name": "Boom Clap - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5lCfF0woasEzNAwLKb6sjp"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
+        "name": "Live From Spotify London",
+        "url": "https://open.spotify.com/album/6mg22WapdTO0eJ721lKRX6"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Love Me Again - Live From Spotify London",
+      "url": "https://open.spotify.com/track/22cMgB1LjS0SwXdmokf66e"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
         "name": "Rise (Acoustic)",
         "url": "https://open.spotify.com/album/4M4lVwxi3BpaAmv9hMIzrm"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 232650,
       "name": "Rise - Acoustic",
       "url": "https://open.spotify.com/track/64TfjW0Ebj9Uq0ik2OfmE7"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Live From Spotify London",
-        "url": "https://open.spotify.com/album/6mg22WapdTO0eJ721lKRX6"
-      },
-      "artists": [
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Love Me Again - Live From Spotify London",
-      "url": "https://open.spotify.com/track/22cMgB1LjS0SwXdmokf66e"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/165tYANcQE4kZWM0NHx6Y6"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 243955,
-      "name": "America",
-      "url": "https://open.spotify.com/track/2ydhxOqJQrYEETtWcuD06y"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify NYC)",
         "url": "https://open.spotify.com/album/4Ons7LgaSM3Z2WfQ08Ev3f"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 160400,
       "name": "Ghost - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/5e5gcfw6ZcAJchRow8adbr"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/165tYANcQE4kZWM0NHx6Y6"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 243955,
+      "name": "America",
+      "url": "https://open.spotify.com/track/2ydhxOqJQrYEETtWcuD06y"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Boyfriend - Acoustic Version",
-      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
         "name": "Off",
         "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
       },
@@ -1243,6 +1227,38 @@
       "duration_ms": 165604,
       "name": "Off",
       "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Exist For Love",
+        "url": "https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 252716,
+      "name": "Exist For Love",
+      "url": "https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Boyfriend - Acoustic Version",
+      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Exist For Love",
-        "url": "https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 252716,
-      "name": "Exist For Love",
-      "url": "https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
         "name": "We Don\u00b4t Talk Anyway - Spotify Studio It\u00b4s Hits Recording",
         "url": "https://open.spotify.com/album/5te5x2i8EakNlShvzy5O95"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
         "name": "Big (Acoustic)",
         "url": "https://open.spotify.com/album/2coQTbqSfarJT5OW6He8jm"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 313520,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 195578,
-      "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -1420,37 +1404,17 @@
       "added_at": "2021-11-05 03:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
+        "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
         }
       ],
-      "duration_ms": 202482,
-      "name": "Stan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
-        "name": "brent",
-        "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        },
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 219066,
-      "name": "please",
-      "url": "https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9"
+      "duration_ms": 195578,
+      "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"
     },
     {
       "added_at": "2021-11-05 03:00:00",
@@ -1471,6 +1435,22 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 202482,
+      "name": "Stan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
         "name": "Make Me (Cry) [Acoustic Version]",
         "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 232906,
       "name": "Make Me (Cry) - Acoustic Version",
       "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "brent",
+        "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        },
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 219066,
+      "name": "please",
+      "url": "https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9"
     },
     {
       "added_at": "2021-11-05 03:00:00",

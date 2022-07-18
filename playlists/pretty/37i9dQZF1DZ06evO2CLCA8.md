@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,060 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,059 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [A Woman In Love \(It's Not Me\)](https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:19 |
 | 50 | [Room at the Top](https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 5:00 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA3ZGNlNDE2ZDc4OTMwOWNkNDdhYTJlOTQ5ODVmNWM3NA==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDBmYzAzYmVmYTk0MDVkNDgyZDNhMDVhZGM0ZWE4NDExNw==`

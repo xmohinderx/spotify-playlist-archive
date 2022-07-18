@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Kaylee Bell + James Johnson
+> The cream of today's Country crop\. Cover: Kaylee Bell + James Johnston
 
-177 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+178 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-26 |  |
 | [A Heart Don't Break Like That](https://open.spotify.com/track/2V7KxZ0HTzRVqKkQFOawNO) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [A Heart Don't Break Like That](https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT) | 2:59 | 2022-03-17 |  |
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2022-01-21 | 2022-06-24 |
-| [Admire](https://open.spotify.com/track/0wdFJP36ORnHvKNK0fEtTg) | [Jake Davey](https://open.spotify.com/artist/5dlylLGY11H1ekOD9hwHuK) | [Admire](https://open.spotify.com/album/6OpFEhugnMcaFwgVGoFFcg) | 3:34 | 2022-03-04 |  |
+| [Admire](https://open.spotify.com/track/0wdFJP36ORnHvKNK0fEtTg) | [Jake Davey](https://open.spotify.com/artist/5dlylLGY11H1ekOD9hwHuK) | [Admire](https://open.spotify.com/album/6OpFEhugnMcaFwgVGoFFcg) | 3:34 | 2022-03-04 | 2022-07-18 |
 | [After the Breakdown](https://open.spotify.com/track/5XsBQNOToyIfL0dGp7KIna) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [After the Breakdown](https://open.spotify.com/album/6TDFO09pfq3OdtvKFEj9Ey) | 3:24 | 2022-03-31 | 2022-06-17 |
 | [All Or Nothing](https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/78CHrctUDb2LjgFdInJwms) | 3:27 | 2022-05-06 |  |
 | [Along The Way](https://open.spotify.com/track/23ZMim7wzLtHQW6bO0E2YK) | [Ella Powell](https://open.spotify.com/artist/1FvZtQAyRZTO5uSrazRJNe) | [Along The Way](https://open.spotify.com/album/2AjS8t5O4Q6hQUaAtLmgdt) | 3:18 | 2022-06-23 |  |
@@ -180,6 +180,7 @@
 | [Wild As Her](https://open.spotify.com/track/1z6tm5brz2j2CFmD8EZzLm) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Wild As Her](https://open.spotify.com/album/1NnTbVXoZVccmFpDrsyqPA) | 3:01 | 2022-03-31 |  |
 | [Wild Hearts](https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Wild Hearts](https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y) | 3:02 | 2021-12-30 | 2022-02-01 |
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-12-30 | 2022-04-15 |
+| [Y'all Life](https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Y'all Life](https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y) | 3:12 | 2022-07-18 |  |
 | [Y'all Means All \- from Season 6 of Queer Eye](https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Y'all Means All \(from Season 6 of Queer Eye\)](https://open.spotify.com/album/5erJBPynDfaVs7es8K1kJ9) | 2:36 | 2021-12-30 | 2022-07-08 |
 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-06-16 |  |
 | [you and i](https://open.spotify.com/track/3jON45G4VACuJLaTrxyo24) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [you and i](https://open.spotify.com/album/0C9jaTxfUQQBlMLBG4XD4E) | 3:26 | 2022-04-07 | 2022-06-24 |

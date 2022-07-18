@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,914 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,173 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [Youngblood](https://open.spotify.com/track/5JwuHzmJCmHuHGjP9W6KtK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 2:32 |
 | 50 | [Holy Toledo! \(from the Original Motion Picture “Mark, Mary & Some Other People”\)](https://open.spotify.com/track/3fRK9qG08iZyWvqjOWkdKc) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Holy Toledo! \(from the Original Motion Picture “Mark, Mary & Some Other People”\)](https://open.spotify.com/album/1kDwdipqS6e3qy6WSj0WI0) | 3:09 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBjOTJkNzYyYjExZWEzMTk3MTVlMWE5Yjk0NjFjZjhiYw==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDA2OWZhYmM3NWUxMzk0OWQxZjViZDA5NDI3MmNlYTg5NQ==`

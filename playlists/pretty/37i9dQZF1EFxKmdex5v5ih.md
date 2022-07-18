@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392 likes - 160 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393 likes - 160 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 86 | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/track/7jnHuJ0HDcAYt7Anv77h4X) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/album/40lf12fnzCVNE6t6MV2dvA) | 3:07 |
 | 87 | [Believed](https://open.spotify.com/track/6gEC3iDuOlcHatGCCcvpO6) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:49 |
 | 88 | [Peace](https://open.spotify.com/track/20JGGCzwmvA9t1vs9HYkxE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Peace](https://open.spotify.com/album/6zM5YxPEEgJTDKzqEBUcWa) | 2:57 |
-| 89 | [Don't Mind](https://open.spotify.com/track/5vYQLmvEV74DLLqUmOyiFh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Here For Now](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP) | 2:54 |
-| 90 | [I'll Never Not Love You](https://open.spotify.com/track/0LJIVYOer8mlCmTrKoP9Kh) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:38 |
+| 89 | [I'll Never Not Love You](https://open.spotify.com/track/0LJIVYOer8mlCmTrKoP9Kh) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:38 |
+| 90 | [Don't Mind](https://open.spotify.com/track/5vYQLmvEV74DLLqUmOyiFh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Here For Now](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP) | 2:54 |
 | 91 | [Button \(feat\. Anuel AA & Tainy\)](https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:44 |
 | 92 | [My Girlfriends Are My Boyfriend \(feat\. Saweetie\)](https://open.spotify.com/track/2Z2u68PwXoDvaLLrv7EkFQ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:07 |
 | 93 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 113 | [Sorry For Myself](https://open.spotify.com/track/3gnijR68ZgnTEIrwFQsdfQ) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Sorry For Myself](https://open.spotify.com/album/2jJkAYn7UHtG47tv33mOdr) | 2:54 |
 | 114 | [Cross Your Mind](https://open.spotify.com/track/34m8N2AMqMZZsFOt5m9ffN) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Cross Your Mind](https://open.spotify.com/album/6UxDQJ8QaC9nRxNytyfYtH) | 3:35 |
 | 115 | [NEVERMIND](https://open.spotify.com/track/02IuhAGzHtZFc1lJozOC08) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [NEVERMIND](https://open.spotify.com/album/0xnuMxgI3tYVFaShnNHvgD) | 2:56 |
-| 116 | [Conflicted](https://open.spotify.com/track/33e3om2LnwbpMvLrII4Iuw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:29 |
-| 117 | [Emotion Sickness](https://open.spotify.com/track/6512LmhVpv9NGbuvrFSKWk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:22 |
+| 116 | [Emotion Sickness](https://open.spotify.com/track/6512LmhVpv9NGbuvrFSKWk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:22 |
+| 117 | [Conflicted](https://open.spotify.com/track/33e3om2LnwbpMvLrII4Iuw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:29 |
 | 118 | [Brad Pitt](https://open.spotify.com/track/1305H2NYoSJJpRodGdh5yZ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:01 |
 | 119 | [Barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 |
 | 120 | [Odds \- Bonus Track](https://open.spotify.com/track/0ci6bL4OULrhspWhWcgwE3) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:13 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 159 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 | 160 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 
-Snapshot ID: `Mjc2MzM2NjksMDAwMDAwMDBhODBiNWUxZjhkMTNlNTJkMDg5ZjkxZDE5NDBkOTlkZQ==`
+Snapshot ID: `Mjc2MzUxMDksMDAwMDAwMDBlMmJmYWM1ODk0ODZhNTZjOTdkNzA4YzRlMGQxNTBjNQ==`

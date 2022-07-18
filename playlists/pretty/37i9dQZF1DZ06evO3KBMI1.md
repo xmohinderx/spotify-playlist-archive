@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,429 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,435 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 32 | [Praying Run](https://open.spotify.com/track/373Npzs6cZkvW2hyILpONV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 6:16 |
 | 33 | [Muimininaruyoru](https://open.spotify.com/track/5GPGEYybqW0pdg3KBdw4n5) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:42 |
 | 34 | [Mikageishi](https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 5:54 |
-| 35 | [Limitless](https://open.spotify.com/track/78UCAcX9SzDUDNqwlx87fA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [The One](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:18 |
-| 36 | [Impact](https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 Choir](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:25 |
+| 35 | [Impact](https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 Choir](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:25 |
+| 36 | [Limitless](https://open.spotify.com/track/78UCAcX9SzDUDNqwlx87fA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [The One](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:18 |
 | 37 | [OUR ALWAYS](https://open.spotify.com/track/45fUsf4nyrfbEP9JL0unQ1) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 4:23 |
 | 38 | [Chance!](https://open.spotify.com/track/6ASc0gMzq0KSiVB8WLPHCP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 4:30 |
-| 39 | [Hai Mondaisaku](https://open.spotify.com/track/3BqYOAoYr1fmtuezvRIaDK) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LAST](https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b) | 5:27 |
-| 40 | [Arubeki Katachi](https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 Choir](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:12 |
+| 39 | [Arubeki Katachi](https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 Choir](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:12 |
+| 40 | [Hai Mondaisaku](https://open.spotify.com/track/3BqYOAoYr1fmtuezvRIaDK) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LAST](https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b) | 5:27 |
 | 41 | [AS ONE](https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 3:49 |
 | 42 | [Mondo Piece](https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 5:28 |
 | 43 | [Bokuno Kotoba Dewa Nai Korewa Bokutachino Kotoba](https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Bokuno Kotoba Dehanai Koreha Bokutachino Kotoba \(Extra Edition\)](https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [NEVER ENDING WORLD](https://open.spotify.com/track/5xqqRVRVFXI0rL7CGoIcTd) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 1:41 |
 | 50 | [Raichoue](https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [山田孝之](https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P), [Aiemu](https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt) | [Raichoue](https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB) | 3:39 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBlZTY5NjNiMDdiZTkwNDdmMzBmMzA2NjBjNGRiMTQxZA==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDAyOTFmYzFhYjQ0NzBlMTA2YTAxYTVkMTFhMWYyMTU3OA==`

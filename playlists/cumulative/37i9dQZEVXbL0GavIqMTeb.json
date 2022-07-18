@@ -7480,6 +7480,32 @@
     },
     {
       "album": {
+        "name": "TAY PAPO",
+        "url": "https://open.spotify.com/album/7a9RHd4sO9X1nFoSBaZzvR"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173561,
+      "name": "TAY PAPO",
+      "url": "https://open.spotify.com/track/2wobyrg2plnNYY9Qy8ZPBK"
+    },
+    {
+      "album": {
         "name": "Navidades Luis Miguel",
         "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
       },
@@ -8447,7 +8473,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 230704,
       "name": "Yo No Soy Celoso",
       "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"

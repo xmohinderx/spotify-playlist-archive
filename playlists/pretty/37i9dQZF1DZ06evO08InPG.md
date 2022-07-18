@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,108 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,156 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 49 | [The Burning Red](https://open.spotify.com/track/6I1TUZcHHhcFfI2GNfXcYU) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 6:43 |
 | 50 | [Bulletproof](https://open.spotify.com/track/3niNvr5rU58SPKdtGeMSJD) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Civil Unrest](https://open.spotify.com/album/42eklVVP8Eosdti7osH01B) | 4:59 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA0MDUwNWZkZGIzYzVhYWZkM2FhMDg1OGE4MzE3M2IxMw==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDBhYmNlN2Y1NjEzNWY4MzRmZDZmOWNlZjAyODVmZmQxOA==`

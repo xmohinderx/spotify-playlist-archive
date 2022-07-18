@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,762 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,022 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 49 | [I Was Made For Loving You \- Live In Virginia Beach, 7/25/2004](https://open.spotify.com/track/0ccElJ2DgEv9UZ7UJECWU0) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [I Was Made For Loving You \(Live In Virginia Beach, 7/25/2004\)](https://open.spotify.com/album/0V1xM8wrgG8jHBqqyhIT6b) | 6:12 |
 | 50 | [Unholy](https://open.spotify.com/track/1eyRkbW5tJ7YobW9wQ5zVB) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 3:42 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA0NWVlMzE1NjFiYzdkNzNjZDllZjMxMjkwNjA5ZTQ4Yg==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDA1Zjk1NWM1MWMxNGQzN2ZlM2E3YjFhMWViOTQ2ODlhMg==`

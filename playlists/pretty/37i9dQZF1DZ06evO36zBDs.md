@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,047 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,067 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 | 38 | [nexus \-season 02\-](https://open.spotify.com/track/7B1CWgamfChJj5FxJRVxjB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:54 |
 | 39 | [Signal](https://open.spotify.com/track/768HgRPmiEeeVKB5URxOJt) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 3:44 |
 | 40 | [Last Squall](https://open.spotify.com/track/0Htj6NEPvfBvZ13hG0QM4U) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:43 |
-| 41 | [Wake Up](https://open.spotify.com/track/2bQTmdOKGgqO2OT2jEVf1g) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Second Story](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:13 |
-| 42 | [Sakurasaku](https://open.spotify.com/track/4sEgpIXYobY9NRlQmoIBG1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Step](https://open.spotify.com/album/7tIa5Dxx9YtZaL6npoy4jx) | 4:42 |
+| 41 | [Sakurasaku](https://open.spotify.com/track/4sEgpIXYobY9NRlQmoIBG1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Step](https://open.spotify.com/album/7tIa5Dxx9YtZaL6npoy4jx) | 4:42 |
+| 42 | [Wake Up](https://open.spotify.com/track/2bQTmdOKGgqO2OT2jEVf1g) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Second Story](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:13 |
 | 43 | [Summer Delay](https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:14 |
 | 44 | [Cynical Suspense](https://open.spotify.com/track/4vn1bXoRyMZwqO4B9ihOTn) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:12 |
 | 45 | [STEP \-season 02\-](https://open.spotify.com/track/4jPW4GbHYbgWrNEpoS2mES) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 | 49 | [Luminous\-2017\-](https://open.spotify.com/track/76Ek9Lbigy6mLTRZAau6lP) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:10 |
 | 50 | [Mermaid](https://open.spotify.com/track/20iLkzds9JViZjGm7BZQB2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:10 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBlNmMzNjljMzU3NDZlZjQxMTg4ZTc5MmFkZDkwMGRmMw==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDAwYzJmYWVlYTNlY2E4OTNhOGJkMGUwYTIwZWIwYzdlNA==`

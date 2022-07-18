@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,144 likes - 41 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,288 likes - 41 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 40 | [Death Rattle](https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:17 |
 | 41 | [I'll Cast a Shadow](https://open.spotify.com/track/4zwzfzX5nXgD5Ro2tXIxhf) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:19 |
 
-Snapshot ID: `Mjc2MzMwMjgsMDAwMDAwMDBjZWNkNjUxYmZkZDU5YTkwYTVlZTFmNTlkNjYyZTNlNA==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDBjOTM3YThiNDkxODM2OTViOTljOGI5ZTE1NGRkZTIwZg==`

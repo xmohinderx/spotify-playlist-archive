@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Tiago PZK y Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,123 likes - 67 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,165 likes - 67 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

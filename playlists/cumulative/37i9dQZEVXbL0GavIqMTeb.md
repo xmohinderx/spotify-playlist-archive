@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-393 songs - 22 hr 49 min - [published](https://open.spotify.com/playlist/0ZrUZpXe2rRTxSTwZ2QYuw)
+394 songs - 22 hr 52 min - [published](https://open.spotify.com/playlist/0ZrUZpXe2rRTxSTwZ2QYuw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Súbelo](https://open.spotify.com/track/3xv8JksRyqHa1lwkM9xvJf) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:59 | 2021-11-28 | 2022-03-27 |
 | [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-02-01 | 2022-02-07 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-07 |  |
+| [TAY PAPO](https://open.spotify.com/track/2wobyrg2plnNYY9Qy8ZPBK) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TAY PAPO](https://open.spotify.com/album/7a9RHd4sO9X1nFoSBaZzvR) | 2:53 | 2022-07-17 |  |
 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/45fKgDxHS174490B3qruhx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 4:15 | 2021-12-26 | 2021-12-27 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-26 |  |
 | [TE MUDASTE](https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:10 | 2021-03-27\* | 2022-02-21 |
@@ -390,7 +391,7 @@
 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/4Yip3hds5IHyT7AqoNHfmX) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:19 | 2021-09-15 | 2021-09-19 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-26 |  |
 | [YaMeFui](https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [YaMeFui](https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2) | 3:02 | 2021-07-31 | 2021-08-09 |
-| [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 |  |
+| [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-07-18 |
 | [Yo Quiero](https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Yo Quiero](https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528) | 3:29 | 2022-05-07 |  |
 | [Yo Tomo](https://open.spotify.com/track/2J3phqO09lgu24e82siYtt) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/2rgOhgDY4o4Fy6ctcHZ69Z) | 3:24 | 2022-01-02 | 2022-01-04 |
 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2022-01-02 | 2022-01-04 |

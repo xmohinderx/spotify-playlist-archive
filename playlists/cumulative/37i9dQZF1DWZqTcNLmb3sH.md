@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-283 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+284 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Kannamunde \(From "Nirmuktha"\)](https://open.spotify.com/track/3QDib1JLI8sHdHFsYiDQ0G) | [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc), [Samrat](https://open.spotify.com/artist/5RwriSLPFn4NLfH0ln4wT2), [Kabeer Sabharwal](https://open.spotify.com/artist/0el4saLJWKULxoqeKNsAU7), [Sachin Araballi](https://open.spotify.com/artist/06Xt8RZPqsPgKDrU954ZFo) | [Kannamunde \(From "Nirmuktha"\)](https://open.spotify.com/album/6a3uNNSCd5Z9rLer4cAQ8E) | 4:09 | 2022-06-04 | 2022-07-16 |
 | [Kanninda Jaari](https://open.spotify.com/track/55VTMOvoXdOw3GdEGQuLOP) | [Hithan Hassan](https://open.spotify.com/artist/2MZXYynfCx4eRuQB2hh9jn), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Govinda Govinda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6LylQW2rFaRUHwqJe17JNX) | 4:13 | 2021-12-06 | 2022-05-19 |
 | [Kannu Hodiyaka](https://open.spotify.com/track/39QcVzIRlj76OqT6l5N8Ra) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Roberrt](https://open.spotify.com/album/2wWJ2mzYpYxcmGkf6ziidG) | 3:46 | 2021-12-06 | 2022-03-14 |
+| [Kesariya Rangu \(From "Brahmastra \(Kannada\)"\)](https://open.spotify.com/track/1F0i0Ynrv28aAvycSLsugZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kesariya Rangu \[From "Brahmastra \(Kannada\)"\]](https://open.spotify.com/album/0St5fP672OHd31twjogATZ) | 4:38 | 2022-07-17 |  |
 | [Khali Khali Agide \- From "Puksatte Lifu"](https://open.spotify.com/track/5Ty8cIug6a2wo5RkAKP7vZ) | [Shilpa Mudbi](https://open.spotify.com/artist/6ZlQidX01vhLzUBWZMrLoE), [Vasu Dixit](https://open.spotify.com/artist/5jF2q5B73UBoXNSbyQijPH) | [Khali Khali Agide \(From "Puksatte Lifu"\)](https://open.spotify.com/album/7hkXwKL0OPgUilKIktagFN) | 4:10 | 2021-12-06 | 2022-05-19 |
 | [Kombe Uyyale](https://open.spotify.com/track/2otnBJdnE12fdRdIBpYwsi) | [Prakruthi Reddy](https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN) | [RRR](https://open.spotify.com/album/50jGyPdGvfn0U5icbTIoJc) | 4:44 | 2022-04-18 |  |
 | [Komuram Bheemudho \(From "RRR"\)](https://open.spotify.com/track/7tJ90Ejr0RaStewhAcCxeN) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Komuram Bheemudho \(From "RRR"\)](https://open.spotify.com/album/2iwCk16cdBu0jxy33ifOVa) | 4:14 | 2021-12-24 | 2022-02-03 |

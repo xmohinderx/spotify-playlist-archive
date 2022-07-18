@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Be Still",
+        "url": "https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR"
+      },
+      "artists": [
+        {
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253994,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi"
+    },
+    {
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 265013,
       "name": "I Truly Believe",
       "url": "https://open.spotify.com/track/3BpiSlF0Z4CZQxcObv7erK"
@@ -2983,7 +3001,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 185453,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm"
@@ -4090,6 +4108,24 @@
     },
     {
       "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179453,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr"
+    },
+    {
+      "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
@@ -4683,7 +4719,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 270000,
       "name": "Waiting For You (with Gary Yang)",
       "url": "https://open.spotify.com/track/3j2O0gUZaIT5SSpC9F4Emw"
@@ -5579,24 +5615,6 @@
       "duration_ms": 138672,
       "name": "\u53ea\u6536\u4e00\u534a",
       "url": "https://open.spotify.com/track/4rtBWaUKppPfnOjH1sehyt"
-    },
-    {
-      "album": {
-        "name": "\u547c\u5438\u4e4b\u9593",
-        "url": "https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR"
-      },
-      "artists": [
-        {
-          "name": "Janice Vidal",
-          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
-        }
-      ],
-      "date_added": "2022-07-09",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
-      "duration_ms": 253994,
-      "name": "\u547c\u5438\u4e4b\u9593",
-      "url": "https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi"
     },
     {
       "album": {
@@ -6539,7 +6557,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 246840,
       "name": "\u6a39\u6728\u771f\u7f8e",
       "url": "https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,169 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,203 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 41 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
 | 42 | [La Vez de las Huertas](https://open.spotify.com/track/6r7iAcQHWq4NGp217e2DHT) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 2:04 |
 | 43 | [El Jp](https://open.spotify.com/track/6yNJByxMsSuSdyc59PA1Sr) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:11 |
-| 44 | [Voy Pa Delante](https://open.spotify.com/track/0hGLcNLLqSyzq6ZdEYYiyK) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Voy Pa Delante](https://open.spotify.com/album/349AQXsglTZZJzozudosQe) | 2:50 |
+| 44 | [El Mas Chico De Los Anthrax](https://open.spotify.com/track/0Apq3JwAePBL2QKZJ0FMFO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:35 |
 | 45 | [La Vida del Changuito](https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:13 |
 | 46 | [El Rojo](https://open.spotify.com/track/3uTQirB0Tbn2aIAEV8qziP) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Rebeldia](https://open.spotify.com/artist/5HTV2maKCjFFrTttrcXhsC) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 2:30 |
-| 47 | [El Mas Chico De Los Anthrax](https://open.spotify.com/track/0Apq3JwAePBL2QKZJ0FMFO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:35 |
-| 48 | [El Blue](https://open.spotify.com/track/3CfSS20rhCGYdjJSbt5qCz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:18 |
-| 49 | [El Blontezon](https://open.spotify.com/track/2YW8EvFnUFF1ff6mIQGv3v) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:43 |
+| 47 | [El Blue](https://open.spotify.com/track/3CfSS20rhCGYdjJSbt5qCz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:18 |
+| 48 | [El Blontezon](https://open.spotify.com/track/2YW8EvFnUFF1ff6mIQGv3v) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:43 |
+| 49 | [Voy Pa Delante](https://open.spotify.com/track/0hGLcNLLqSyzq6ZdEYYiyK) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Voy Pa Delante](https://open.spotify.com/album/349AQXsglTZZJzozudosQe) | 2:50 |
 | 50 | [19 Toneladas \(En Vivo\)](https://open.spotify.com/track/2LEKVGA36gINS8bYB3csPy) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:30 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBkNWExZjc0NTdkNjkzNGUzN2U3YTY4MmZhMzM0ZWFhNg==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDBhN2Y5NjhkN2I4NTE2NDM4NjkzZTRiY2FmNzQ3OGQ2MA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: Delaruà
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,143 likes - 57 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,151 likes - 57 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

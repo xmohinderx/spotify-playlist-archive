@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Make room for these R&B/Soul artists on the rise! Photo: Gwen Bunn
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,808 likes - 55 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,846 likes - 55 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 21 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 |
 | 22 | [Bonjour \(feat\. Summer Walker\)](https://open.spotify.com/track/6kW0nkWiLGEEuEigY2orHw) | [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Should Come Over](https://open.spotify.com/album/6z8HADY94k7HxGJfUy4etZ) | 3:45 |
 | 23 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 |
-| 24 | [TALK TO ME](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 3:07 |
+| 24 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
 | 25 | [Achy](https://open.spotify.com/track/24yW63G9CzOVKm1SRfAXmV) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:47 |
 | 26 | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0) | 2:45 |
 | 27 | [Lately \(with 6LACK\)](https://open.spotify.com/track/6QyNMgB28X9oCdz2rAEnp7) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Lately \(with 6LACK\)](https://open.spotify.com/album/2WjGKlC8Em8IspICjgXpoU) | 3:51 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-635 songs - 1 day 10 hr 40 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+636 songs - 1 day 10 hr 44 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-03-08 | 2022-03-16 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-08 | 2022-04-01 |
 | [Boys Do Cry](https://open.spotify.com/track/6k0V6IGOMTyoLbxRqQeE8b) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Boys Do Cry](https://open.spotify.com/album/42v1BZVYQ3ca46BPX2ZqjW) | 2:56 | 2022-05-16 | 2022-05-29 |
-| [Bruna, Tu Já Parou Pra Pensar](https://open.spotify.com/track/7qq40cRIYNKZCDt1STfBqt) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Bruna, Tu Já Parou Pra Pensar](https://open.spotify.com/album/2PdQFCLtjCFubVPrQ6QKUM) | 2:42 | 2022-07-13 |  |
+| [Bruna, Tu Já Parou Pra Pensar](https://open.spotify.com/track/7qq40cRIYNKZCDt1STfBqt) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Bruna, Tu Já Parou Pra Pensar](https://open.spotify.com/album/2PdQFCLtjCFubVPrQ6QKUM) | 2:42 | 2022-07-13 | 2022-07-18 |
 | [BTBT \(feat\. DeVita\)](https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT \(feat\. DeVita\)](https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3) | 3:39 | 2022-06-07 |  |
 | [Burn Butcher Burn \- from "The Witcher: Season 2" Soundtrack](https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc) | [The Witcher: Season 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA) | 2:39 | 2022-01-11 | 2022-01-23 |
 | [Bustdown Rollie Avalanche](https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA) | [Kai Cenat](https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bustdown Rollie Avalanche](https://open.spotify.com/album/4q1uibZPEdwaj7Ha9F5lOJ) | 2:45 | 2022-06-27 | 2022-07-16 |
@@ -571,6 +571,7 @@
 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 | 2021-12-27 | 2022-01-01 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-03-01 | 2022-03-30 |
 | [The Rumbling \(TV Size\)](https://open.spotify.com/track/0KCSJzsQVxkloxoT7dyrqV) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling \(TV Size\)](https://open.spotify.com/album/3Ri7zFBo3zWabQvOVN1DXu) | 1:30 | 2022-02-01 | 2022-02-24 |
+| [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-17 |  |
 | [Therapy](https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 2:44 | 2022-01-03 | 2022-01-26 |
 | [Thinking with My Dick \(feat\. Juicy J\)](https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Stranger Than Fiction](https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia) | 2:45 | 2022-03-10 | 2022-04-13 |
 | [TITAN](https://open.spotify.com/track/5fBQLapwAPSLw27STml9kr) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TITAN](https://open.spotify.com/album/1dDXsrM0q5ZLxZptZOPBI2) | 2:02 | 2021-12-27 | 2022-01-05 |

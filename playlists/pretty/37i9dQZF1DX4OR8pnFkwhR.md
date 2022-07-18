@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Chilli Beans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,869 likes - 58 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,875 likes - 58 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

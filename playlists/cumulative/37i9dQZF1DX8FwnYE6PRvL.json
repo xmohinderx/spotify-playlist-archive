@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 330643,
       "name": "All Right Now",
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 296200,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 287400,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF"
@@ -725,6 +725,24 @@
       "duration_ms": 250986,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
+    },
+    {
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "album": {
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 188066,
       "name": "Hard To Handle",
       "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 193653,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 225040,
       "name": "Personal Jesus - 2006 Remaster",
       "url": "https://open.spotify.com/track/3gv4AhWWneEu2oh1Egz652"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 255573,
       "name": "Rock You Like a Hurricane",
       "url": "https://open.spotify.com/track/6J1G0Y3F8oxuswhdwJowhT"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 261813,
       "name": "Runnin' Down A Dream",
       "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
@@ -2197,7 +2215,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 208240,
       "name": "School's Out - Single Version",
       "url": "https://open.spotify.com/track/2wRXbDpe0Uv0ebgsCSkXHO"
@@ -2575,7 +2593,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
@@ -2593,10 +2611,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 377746,
       "name": "Sympathy For The Devil",
       "url": "https://open.spotify.com/track/4sFbojhVXQv7dBC9PVCcRn"
+    },
+    {
+      "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "album": {
@@ -2611,7 +2647,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM"
@@ -2809,7 +2845,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 256946,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
@@ -2943,7 +2979,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 224133,
       "name": "Welcome to Paradise",
       "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
@@ -3015,7 +3051,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 148573,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt"
@@ -3051,7 +3087,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 176306,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"
@@ -3069,7 +3105,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 258732,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl"
@@ -3148,6 +3184,24 @@
     },
     {
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "album": {
         "name": "Who Made Who",
         "url": "https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A"
       },
@@ -3159,7 +3213,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 210880,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/6yl8Es1tCYD9WdSkeVLFw4"

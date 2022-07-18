@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,712 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,719 likes - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 8 | [Minikui ikimono](https://open.spotify.com/track/4kv8V2Buw8oBOB2oP0gas1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Minikui ikimono](https://open.spotify.com/album/5aJfPshOdUKk5wRVFQyVSD) | 3:40 |
 | 9 | [Sekaiwa Koi Ni Ochiteiru](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
 | 10 | [Hikari Shoumeiron](https://open.spotify.com/track/2NSUuwplYLm50NDAb5qJQS) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Matatakusekaini Aiwo Yurase](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:33 |
-| 11 | [Wolf](https://open.spotify.com/track/1bLD37KCQnlk0IlAr4gEnz) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashio Someru Aino Uta](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:51 |
+| 11 | [Kyomo Sakuramau Akatsukini](https://open.spotify.com/track/50m9OQ3M9AEdJAoTHGWdVt) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashio Someru Aino Uta](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:15 |
 | 12 | [Bibitto Love](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Bibitto Love](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 |
 | 13 | [Heart No Shucho](https://open.spotify.com/track/5McUO0NAKaKWO22oeZgTZQ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 3:51 |
 | 14 | [Shiawase](https://open.spotify.com/track/381po4CEVjsj92eHwQK8oI) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Matatakusekaini Aiwo Yurase](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:10 |
-| 15 | [Kyomo Sakuramau Akatsukini](https://open.spotify.com/track/50m9OQ3M9AEdJAoTHGWdVt) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashio Someru Aino Uta](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:15 |
+| 15 | [Wolf](https://open.spotify.com/track/1bLD37KCQnlk0IlAr4gEnz) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashio Someru Aino Uta](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:51 |
 | 16 | [Oninomori](https://open.spotify.com/track/5bn8QRLruU48VU3an3MMNr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Oninomori](https://open.spotify.com/album/11KLezHDkMMTZejfjErhiQ) | 4:35 |
 | 17 | [Color](https://open.spotify.com/track/7LTRBxH7yCV7fmkb7oDFRM) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 4:00 |
 | 18 | [Heroine ikusei keikaku](https://open.spotify.com/track/4ull1xmD0JWXKdlgYSfpOj) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Matatakusekaini Aiwo Yurase](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 3:40 |
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 29 | [Kore Seishun Understand](https://open.spotify.com/track/5KVyLT4jZZ2JQXwyEfzIKq) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [Koiiro Ni Sake](https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z) | 4:12 |
 | 30 | [Aino Scenario \- TV Size](https://open.spotify.com/track/0YrVb49QPa6sGimAxP2ZDg) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Aino Scenario Tv Size](https://open.spotify.com/album/7FLJSAtkxRX1jMy85Z2v9U) | 1:30 |
 | 31 | [LOVE FIGHT](https://open.spotify.com/track/0IP24AsXkRicQbRt5HGA8Z) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [LOVE FIGHT](https://open.spotify.com/album/0uZAUiU2010CN2rBWL4Y6X) | 3:56 |
-| 32 | [Rodeo](https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [Kyou Mo Sakuramau Akatsuki Ni](https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV) | 3:46 |
-| 33 | [Mune kyun light](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Kessen Spirit](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 |
+| 32 | [Mune kyun light](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Kessen Spirit](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 |
+| 33 | [Rodeo](https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [Kyou Mo Sakuramau Akatsuki Ni](https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV) | 3:46 |
 | 34 | [Sekaiha koini ochiteiru from the first take](https://open.spotify.com/track/3KgtqaRk7Jov0MR5punNlZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekaiha koini ochiteiru from the first take](https://open.spotify.com/album/3J5lcooEzYJFeC9e31F0NG) | 5:50 |
 | 35 | [Shiawase from the first take](https://open.spotify.com/track/3aXBwWaLJdVLrNrHlKQd1s) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Shiawase from the first take](https://open.spotify.com/album/4sJyfN9kp10vGDanL6myaN) | 4:09 |
-| 36 | [Soreike! Salaryman](https://open.spotify.com/track/2AnxFMRppg8KopG7MUkeje) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Bibitto Love \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:20 |
-| 37 | [BGM](https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Kessen Spirit](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
-| 38 | [Bibitto Love \-CHiCO bocchi version\-](https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Bibitto Love \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:54 |
-| 39 | [BGM \- Instrumental](https://open.spotify.com/track/0czSVq9GkW0rcghTgLaeDs) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Kessen Spirit](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
+| 36 | [BGM](https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Kessen Spirit](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
+| 37 | [Soreike! Salaryman](https://open.spotify.com/track/2AnxFMRppg8KopG7MUkeje) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Bibitto Love \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:20 |
+| 38 | [BGM \- Instrumental](https://open.spotify.com/track/0czSVq9GkW0rcghTgLaeDs) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Kessen Spirit](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
+| 39 | [Bibitto Love \-CHiCO bocchi version\-](https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Bibitto Love \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:54 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDAzMmQxMzc2ODhjY2NmYWNmZGQ3NmU3MDY5MzQyYmVkMw==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDA1MGI0MWZlZTNjNmM0NTkwYTU0NDhmMTdkMGFlNTNiZg==`

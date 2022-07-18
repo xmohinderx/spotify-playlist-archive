@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Martina May, Kuban
 
-144 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+146 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Fantasma](https://open.spotify.com/track/62AYmj3XkHN0fZGUVCTX44) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [Fantasma](https://open.spotify.com/album/6Rg2bOenUQB6uQaTS65lA6) | 3:05 | 2022-05-26 | 2022-07-15 |
 | [Felpa](https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Felpa](https://open.spotify.com/album/23UwjDGJgmbbTNdFgDGIVR) | 2:45 | 2022-05-05 |  |
 | [Felpa Blu](https://open.spotify.com/track/7lUJXeZSVnPuv9ihy6Z5xC) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Felpa Blu](https://open.spotify.com/album/6eOwrCImdIYh5tHKFSZAME) | 2:55 | 2022-07-14 |  |
+| [Fidarti di me](https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw) | [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fidarti di me](https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA) | 2:40 | 2022-07-17 |  |
 | [Fior di glicine](https://open.spotify.com/track/3XdumBkBt85bdQTMGEdbEn) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Dalila Spagnolo](https://open.spotify.com/artist/7byMgnmiVH1BbZmcXrOGIS) | [Fior di glicine](https://open.spotify.com/album/3KTYT0lzuD9WSaMah6hU55) | 3:07 | 2022-05-05 |  |
 | [Fossi nato gemelli](https://open.spotify.com/track/6RQaetUr5u5u6X90JeTPIy) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V) | [Fossi nato gemelli](https://open.spotify.com/album/3W6F44q3hafFKita7WTWpB) | 3:33 | 2022-06-30 |  |
 | [Fratelli & Sogni](https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Fratelli & Sogni](https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG) | 2:40 | 2022-05-05 |  |
@@ -106,6 +107,7 @@
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-06-02 |  |
 | [Pas pour toi](https://open.spotify.com/track/4ScqPc9ABKT0czGYbc0HLK) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Pas pour toi](https://open.spotify.com/album/5kw4tP7YxEDnEvJm4Hj2N2) | 3:19 | 2022-06-30 |  |
 | [Passatempo](https://open.spotify.com/track/70URplGTkPeSuAEISU5SxS) | [VIMINE](https://open.spotify.com/artist/0K1uWTds9AnxHTy8RJQxEH) | [Passatempo](https://open.spotify.com/album/4kZbt4bD50aQgRAg6tJwC5) | 2:47 | 2022-05-19 |  |
+| [Paura](https://open.spotify.com/track/4j3Z9XCFxx24lj4v8Dzbea) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [Raffaele Sperati](https://open.spotify.com/artist/7MuokJ3qy2kSdX4WLGNKEW) | [Paura](https://open.spotify.com/album/5bJsrcAEowEmZ9Od83S9Cp) | 3:14 | 2022-07-17 |  |
 | [Perdo Tempo](https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Perdo Tempo](https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B) | 2:56 | 2022-05-26 |  |
 | [Pesca Noche](https://open.spotify.com/track/4K8CrCx25sTLfexADXFboz) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Ganoona](https://open.spotify.com/artist/5jlr1VBi2pwgLmexZIcQo7) | [Pesca Noche](https://open.spotify.com/album/3uE4tgA8f7mFxngunL6206) | 3:03 | 2022-05-05 | 2022-07-15 |
 | [Poco Male](https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Originali](https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU) | 3:22 | 2022-05-05 |  |

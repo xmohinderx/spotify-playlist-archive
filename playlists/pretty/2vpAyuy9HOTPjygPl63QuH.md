@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,054 likes - 28 songs - 1 hr 30 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,061 likes - 29 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 26 | [Real Good](https://open.spotify.com/track/31xMyfywlupyYjoHXGnvWi) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q) | [Real Good](https://open.spotify.com/album/4JCiSE8o5NPptlOR1QAoyR) | 3:06 |
 | 27 | [Inner City](https://open.spotify.com/track/0h1icpllBUxPsbx434kbBh) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx), [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1) | [Inner City](https://open.spotify.com/album/4o2xDsgNS5RoEd0nQXgkjn) | 3:31 |
 | 28 | [Burnin](https://open.spotify.com/track/5dCEmmQ6jZxMXbcMr7PnNr) | [Kyle Robertson](https://open.spotify.com/artist/6hi9tO3xaLRWsl2Q6jqjMI) | [Burnin](https://open.spotify.com/album/5OY5Lf5vOQNlhXX6B8rE6q) | 3:35 |
+| 29 | [At The Club](https://open.spotify.com/track/3uZNgxv6kHuOK3XimZx6IT) | [Sampson.](https://open.spotify.com/artist/2kuBYXNzauzqVYmAUID2W9) | [SPLITS 003](https://open.spotify.com/album/7lVv0ud2nfn2nihXoui8MV) | 5:42 |
 
-Snapshot ID: `NTcxMCxjMzUwNDRkOWU3MzI1OTMwM2JhZmYzNGVmMmEyY2RiOTE2NjgxZmNl`
+Snapshot ID: `NTcxMSwwNjQwOTg3MWJkNzM2NzM3NzA4MDAwM2ZiNWMzNDczNTI1NGJiNTg3`

@@ -993,7 +993,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 259591,
       "name": "Allo - \u0627\u0644\u0648",
       "url": "https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV"
@@ -2671,6 +2671,24 @@
       "duration_ms": 183560,
       "name": "Chi3r W Rhytme",
       "url": "https://open.spotify.com/track/5hIG9LINYpjYJhwf3qG7Nx"
+    },
+    {
+      "album": {
+        "name": "CHICHI",
+        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "CHICHI",
+      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
     },
     {
       "album": {
@@ -10301,7 +10319,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 156291,
       "name": "Pandora's Box",
       "url": "https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm"
@@ -11419,7 +11437,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 165340,
       "name": "Safety Zone",
       "url": "https://open.spotify.com/track/00I41xsW6SunZDJ5fB8KAd"
@@ -12105,7 +12123,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 122211,
       "name": "STOP",
       "url": "https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7"
@@ -13085,6 +13103,24 @@
       "duration_ms": 225012,
       "name": "UGH!",
       "url": "https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe"
+    },
+    {
+      "album": {
+        "name": "MIXDEEP",
+        "url": "https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym"
+      },
+      "artists": [
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216061,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/4qhZCn7IiMjL49x2zlD9w1"
     },
     {
       "album": {

@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 228160,
       "name": "All the Young Dudes",
       "url": "https://open.spotify.com/track/68wbZuLtKKlhnHwPVn3OHn"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 259626,
       "name": "Blood And Tears",
       "url": "https://open.spotify.com/track/1Gt07aYIpl5yJcTbH95s7v"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 373200,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 308093,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 337000,
       "name": "Detox",
       "url": "https://open.spotify.com/track/5UCZhWiEj8q5jid3zu8JKw"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 233960,
       "name": "Dose",
       "url": "https://open.spotify.com/track/7bBHdsHutuRPJjb9dufPP1"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 269000,
       "name": "Existense Is Punishment",
       "url": "https://open.spotify.com/track/5da84NXPLY2PetiqAmuh1y"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 478933,
       "name": "Face Of Melinda (Remastered)",
       "url": "https://open.spotify.com/track/4lPvQJ48sGao1zQPfnGDPj"
@@ -1470,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Something's Gotta Give",
+        "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
+    },
+    {
+      "album": {
         "name": "Blues for the Red Sun",
         "url": "https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f"
       },
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 242760,
       "name": "Hammer Smashed Face",
       "url": "https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 234573,
       "name": "Jotun",
       "url": "https://open.spotify.com/track/3wfjxKLWPVm7SXHtXnTeY1"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 428800,
       "name": "Love You to Death",
       "url": "https://open.spotify.com/track/5NhOIUwQ1v10mnPki6Qw3I"
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 234559,
       "name": "Metal Warriors",
       "url": "https://open.spotify.com/track/5P2Ghhv0wFYThHfDQaS0g5"
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 80786,
       "name": "Nazi Punks Fuck Off",
       "url": "https://open.spotify.com/track/6aPZTMaE77HRT41ebJsa2X"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 245600,
       "name": "Old",
       "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
@@ -2363,7 +2381,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 624626,
       "name": "One Rode to ASA Bay",
       "url": "https://open.spotify.com/track/58HV7ZJ99McDZ5P8nBnt9g"
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 256333,
       "name": "Ordinary Story",
       "url": "https://open.spotify.com/track/0Lc3diklqgtWER4cnESn8u"
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 195880,
       "name": "People of the Lie",
       "url": "https://open.spotify.com/track/6WDMOh0LJY9EHO4aIE7dPh"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 243000,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/0GURoVDI0jlEyMH0VYWObt"
@@ -2651,7 +2669,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 237360,
       "name": "Replica",
       "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
@@ -2723,7 +2741,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 344066,
       "name": "Rust In Peace...Polaris - Remastered 2004",
       "url": "https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn"
@@ -2885,7 +2903,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 188829,
       "name": "Sick of You",
       "url": "https://open.spotify.com/track/3wYGlCudjkMRvgSC2UqfWS"
@@ -2993,7 +3011,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 201933,
       "name": "Snot",
       "url": "https://open.spotify.com/track/3qCQNtggJw1gxoptMgDhyR"
@@ -3065,7 +3083,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 391240,
       "name": "Spacegrass",
       "url": "https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 259693,
       "name": "Take My Scars",
       "url": "https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0"
@@ -3245,7 +3263,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 384013,
       "name": "Tears of the Dragon - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
@@ -3263,7 +3281,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 221640,
       "name": "The American Way",
       "url": "https://open.spotify.com/track/2SA2tTWoELC0ciMuYRfbpT"
@@ -3519,7 +3537,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 322933,
       "name": "Tornado Of Souls",
       "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
@@ -3843,7 +3861,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 248666,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1CRS7nh71URmTUbKAvgqPg"
@@ -3897,7 +3915,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 133066,
       "name": "Wolverine Blues",
       "url": "https://open.spotify.com/track/6WBdwdLLif4kuG3s6ot8uB"

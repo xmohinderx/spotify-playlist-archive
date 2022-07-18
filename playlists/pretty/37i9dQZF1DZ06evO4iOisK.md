@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,159 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,169 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 50 | [Radio](https://open.spotify.com/track/4Li77YJ1PAvh1H3l3E6AiB) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [JUST ONE LIFE](https://open.spotify.com/album/5A7EqhnNTiZRwqkxbu25So) | 3:42 |
 | 51 | [The Way of My Life](https://open.spotify.com/track/54VtH0KYGp5jFMa4TbM2r1) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Midnight](https://open.spotify.com/album/2sqD7W4DVj6ndCNeTPH7PV) | 3:19 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA4YzM2ZTdhYmYwYzY3OWIxMjYxM2E4YzBlNDQ4MjkxNg==`
+Snapshot ID: `Mjc2MzQ0MjYsMDAwMDAwMDAzYWEyMTg2YWU2MjI3YTI3MTJmMjZhNmFjODYwZjBjYQ==`

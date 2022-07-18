@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,018 likes - 36 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,034 likes - 36 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Namae No Nai Kaibutsu](https://open.spotify.com/track/7ebceNRVeFRFpd4qLENYpO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Namae No Nai Kaibutsu](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
-| 2 | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/track/33w7LgNJIuhs5dhSYZ0do1) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 4:15 |
-| 3 | [SAIGO NO HANABIRA \(The meaning of love\)](https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [saigonohanabira the meaning of love](https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3) | 3:51 |
+| 2 | [SAIGO NO HANABIRA \(The meaning of love\)](https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [saigonohanabira the meaning of love](https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3) | 3:51 |
+| 3 | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/track/33w7LgNJIuhs5dhSYZ0do1) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 4:15 |
 | 4 | [Sakaseyasakase](https://open.spotify.com/track/6Qn2DEvR2t1iNyLSmghWxr) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Sakase ya Sakase](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 3:24 |
-| 5 | [Eiyu Unmei No Uta \- from Best AL Alter Ego](https://open.spotify.com/track/1dyUhpaEsSl2QU25ieLoqn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Greatest Hits 2011 2017 Alter Ego](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 4:42 |
-| 6 | [The Everlasting Guilty Crown](https://open.spotify.com/track/76jRSSkd4pLwUflgwSeuB0) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 5:25 |
-| 7 | [Eleventh\-hour](https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Eleventh\-hour](https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O) | 4:22 |
-| 8 | [BANG!!!](https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO) | 3:16 |
+| 5 | [Eleventh\-hour](https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Eleventh\-hour](https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O) | 4:22 |
+| 6 | [BANG!!!](https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO) | 3:16 |
+| 7 | [The Everlasting Guilty Crown](https://open.spotify.com/track/76jRSSkd4pLwUflgwSeuB0) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 5:25 |
+| 8 | [Eiyu Unmei No Uta \- from Best AL Alter Ego](https://open.spotify.com/track/1dyUhpaEsSl2QU25ieLoqn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Greatest Hits 2011 2017 Alter Ego](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 4:42 |
 | 9 | [Gold](https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass) | 2:56 |
 | 10 | [All Alone with You](https://open.spotify.com/track/2fkSKbhD79K9JRFUSuhzk3) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 5:50 |
 | 11 | [Kabaneri of the Iron Fortress](https://open.spotify.com/track/5ltF6YRUpZNrEjZF7ky6eI) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:51 |
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 19 | [elbadaernU](https://open.spotify.com/track/7hWcW1U8ZUkjFYRo3sHEzT) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 4:10 |
 | 20 | [Namaeno Nai Kaibutsu TV Edit \(Day Version\)](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Namaeno Nai Kaibutsu TV Edit \(Day Version\)](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
 | 21 | [Planetes](https://open.spotify.com/track/1POXnRIFsWgBfbMlFcBm7w) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 6:03 |
-| 22 | [It's All about You](https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:07 |
+| 22 | [Welcome to the \*fam \- from Best AL Alter Ego](https://open.spotify.com/track/36ePkoHGeWwSGchLgZaSAc) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Greatest Hits 2011 2017 Alter Ego](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 3:50 |
 | 23 | [Kimi Sora Kiseki](https://open.spotify.com/track/1nlcUnsBQP4HB07IYt0Hxn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5) | 5:08 |
-| 24 | [Welcome to the \*fam \- from Best AL Alter Ego](https://open.spotify.com/track/36ePkoHGeWwSGchLgZaSAc) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Greatest Hits 2011 2017 Alter Ego](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 3:50 |
+| 24 | [It's All about You](https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:07 |
 | 25 | [Omoi Wo Megurasu 100 No Jisho](https://open.spotify.com/track/2HXMFIE14LNOpsSUdamYUM) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 2:53 |
-| 26 | [Eiyu Fate's Song](https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [EIYUU UNMEI NO UTA](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:44 |
-| 27 | [1.4.2](https://open.spotify.com/track/4f34ChSJuD35faJXkZrcx5) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI) | 4:07 |
-| 28 | [Suki To Iwareta Hi \- from Best AL Alter Ego](https://open.spotify.com/track/0TQw7jTUAbTRyx58vwg53E) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Greatest Hits 2011 2017 Alter Ego](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 4:51 |
+| 26 | [Suki To Iwareta Hi \- from Best AL Alter Ego](https://open.spotify.com/track/0TQw7jTUAbTRyx58vwg53E) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Greatest Hits 2011 2017 Alter Ego](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 4:51 |
+| 27 | [Eiyu Fate's Song](https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [EIYUU UNMEI NO UTA](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:44 |
+| 28 | [1.4.2](https://open.spotify.com/track/4f34ChSJuD35faJXkZrcx5) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI) | 4:07 |
 | 29 | [Kanadenaru](https://open.spotify.com/track/6JgfEzVw7KCWzLeE5rRfqC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Namae No Nai Kaibutsu](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 4:17 |
 | 30 | [Ame Kimi Wo Tsurete](https://open.spotify.com/track/5NdITLzyhOFoVZAkMs9zoL) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 4:14 |
 | 31 | [London Bridge Is Falling Down](https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Sakase ya Sakase](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 2:23 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 35 | [Eien \- Instrumental](https://open.spotify.com/track/0Sv4oWlbeLpEy0aU11gOkx) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [EIYUU UNMEI NO UTA](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:16 |
 | 36 | [1.4.2 \- Instrumental](https://open.spotify.com/track/6xhHrsZxdwNfsnxTlvDaIM) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI) | 4:07 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDAzM2UzNTQwZTkxMzM5ODQ3ZWE2OGJjMDAyNDhlODEzYQ==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDAxYjA3NzQyNzlhZGI1MjUyN2RkODc0ZDQxNzIxMDNlZg==`

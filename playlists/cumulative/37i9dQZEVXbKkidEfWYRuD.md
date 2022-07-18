@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-767 songs - 1 day 12 hr 4 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+768 songs - 1 day 12 hr 7 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-10-05 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2021-08-31 |
 | [Thunderous](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:03 | 2021-08-25 | 2021-08-27 |
+| [Tipok](https://open.spotify.com/track/66P9j5bWiRBotkxJN9ZsyV) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [HOTIN](https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp) | 2:46 | 2022-07-17 |  |
 | [Torna a casa](https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 3:50 | 2021-05-26 | 2021-06-10 |
 | [Touch the Sky](https://open.spotify.com/track/3CcmGNUCMi8sdk31vDAQVA) | [Ollane](https://open.spotify.com/artist/38QFXoA64TnwDvE0nK2TYa), [MiyaGi](https://open.spotify.com/artist/1kmpkcYbuaZ8tnFejLzkj2) | [Touch the Sky](https://open.spotify.com/album/1Gj0PlKK7xOznYZ8pYoe0f) | 2:50 | 2021-11-23 | 2021-12-04 |
 | [Tout l'univers](https://open.spotify.com/track/3MvY2XbGYFi6p2dgmdcOYG) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Tout l'univers](https://open.spotify.com/album/1UnqlxXSM5dlxZi6vLIIEH) | 3:03 | 2021-05-25 | 2021-05-27 |
@@ -757,7 +758,7 @@
 | [Эми](https://open.spotify.com/track/4bcevhszFAQT7cMhT5kWY7) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Million Dollar Depression](https://open.spotify.com/album/6cyFbDC72hy7WWKLoGAQE9) | 3:25 | 2021-03-27\* | 2021-03-31 |
 | [Эминем](https://open.spotify.com/track/21sUKdQN8gb2uYP5dEH3hZ) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:48 | 2021-12-04 | 2021-12-06 |
 | [Эспрессо Тоник](https://open.spotify.com/track/7mj20KmEw9PUIc9DuHIe5b) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 1:55 | 2021-12-04 | 2021-12-06 |
-| [Этажи](https://open.spotify.com/track/1zdbpQXkC4oHNiYiuLrbQZ) | [дипинс](https://open.spotify.com/artist/2cl1ge5wteXTbAr0S4HPAI) | [Этажи](https://open.spotify.com/album/7aaj1SvmhQCkkDVnnsz91o) | 2:35 | 2022-07-09 |  |
+| [Этажи](https://open.spotify.com/track/1zdbpQXkC4oHNiYiuLrbQZ) | [дипинс](https://open.spotify.com/artist/2cl1ge5wteXTbAr0S4HPAI) | [Этажи](https://open.spotify.com/album/7aaj1SvmhQCkkDVnnsz91o) | 2:35 | 2022-07-09 | 2022-07-18 |
 | [Это наш путь](https://open.spotify.com/track/5og1GoWi98dDgD4Nx6cXNx) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Это наш путь](https://open.spotify.com/album/4fnEEg61x7aNOSF2G6AIPu) | 2:56 | 2022-06-18 | 2022-06-27 |
 | [ЮМОРИСТ \- Original Motion Picture Soundtrack](https://open.spotify.com/track/571md1FedFYFaYUMUktYaF) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [ЮМОРИСТ \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5FBvfK95SfIiDA3pMsfg9j) | 2:23 | 2022-03-31 | 2022-04-13 |
 | [Я в моменте](https://open.spotify.com/track/0sZ3fmbfUS5tMVzhXLXXPE) | [Dzharakhov](https://open.spotify.com/artist/7oxIi3tF8bOBxAcSixbojj), [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Я в моменте](https://open.spotify.com/album/3njbXvOfMafaXPM0QZxuyK) | 2:06 | 2021-06-06 | 2021-10-10 |

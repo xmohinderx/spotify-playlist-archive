@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 156056,
       "name": "Alien Blues",
       "url": "https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "ANSIA NO",
       "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 186840,
       "name": "Backstabber",
       "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 205458,
       "name": "Calling My Phone",
       "url": "https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 122226,
       "name": "CHICKEN TERIYAKI",
       "url": "https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 163488,
       "name": "Chiquetere (feat. Rafa Villalba)",
       "url": "https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 322285,
       "name": "CICERENELLA",
       "url": "https://open.spotify.com/track/5YPPaiETBWl0uh22INkt56"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 251608,
       "name": "Condorello",
       "url": "https://open.spotify.com/track/7C8vwVTV1tsK6HZjoUelaz"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 146523,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 174517,
       "name": "Drowning - Sped Up Version",
       "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 229600,
       "name": "Essere Pelati",
       "url": "https://open.spotify.com/track/41cLnOB2fWQOs8m3CfXuqR"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 153999,
       "name": "Ginseng Strip 2002",
       "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
@@ -1401,7 +1401,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 139440,
       "name": "HDMI",
       "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 115352,
       "name": "I'd Rather Sleep",
       "url": "https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW"
@@ -1931,7 +1931,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
@@ -2022,6 +2022,24 @@
     },
     {
       "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 167864,
       "name": "Not Allowed",
       "url": "https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 136271,
       "name": "Perros",
       "url": "https://open.spotify.com/track/7tTY5P7VCYjbLrzz4a2Ec4"
@@ -2269,7 +2287,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 120133,
       "name": "piccolo",
       "url": "https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz"
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 207360,
       "name": "pogo",
       "url": "https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f"
@@ -2447,7 +2465,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 169925,
       "name": "Qualcuno che si esplode",
       "url": "https://open.spotify.com/track/1RfQm0T2ecgBhgZ6DG4nQJ"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 99748,
       "name": "Scary Garry",
       "url": "https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D"
@@ -2721,7 +2739,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 168810,
       "name": "sex money feelings die - slowed version",
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
@@ -2887,7 +2905,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 91731,
       "name": "SUICIDE YEAR",
       "url": "https://open.spotify.com/track/7jVH8CXr0MSpGheHOjN4NA"
@@ -2997,7 +3015,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 156992,
       "name": "Suono Roma Dimensione (feat. Tutti Fenomeni)",
       "url": "https://open.spotify.com/track/3H8lIh5uPWPm0HjXVcET21"
@@ -3033,7 +3051,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 166859,
       "name": "Tek It - Sped Up",
       "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
@@ -3055,7 +3073,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
@@ -3121,7 +3139,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
@@ -3253,7 +3271,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
@@ -3307,7 +3325,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 174240,
       "name": "u.",
       "url": "https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i"
@@ -3329,7 +3347,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 122033,
       "name": "Una Ragazza Un Giorno Mi Ha Spezzato Il Cuore",
       "url": "https://open.spotify.com/track/5xu6k82qkQVxbN85H1aCOk"
@@ -3365,7 +3383,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 242960,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f"

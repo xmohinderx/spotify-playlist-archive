@@ -1,12 +1,12 @@
 {
   "description": "pov: acordei mt rockeira // Demi Lovato",
-  "num_followers": 218717,
+  "num_followers": 218899,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAyMTM1MiwwMDAwMDAwMGIwNzNhZGZmZTI5YjM5ZDhiNjVjZWQzMmJhNzUzMWMx",
+  "snapshot_id": "MTY1ODEwNzM4MCwwMDAwMDAwMDdmYTAwNjU5NTg0MDRmNGM2NWRhOGU3ZWM5NGIwNWNm",
   "tracks": [
     {
       "added_at": "2022-07-15 03:00:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
         "name": "De Primeira",
         "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 172500,
       "name": "A QUEDA",
       "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -203,6 +203,46 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
+        "name": "Louis V, Menina Linda",
+        "url": "https://open.spotify.com/album/60NnC6VY4C2LehfrT5xFCQ"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Intactoz Corp.",
+          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
+        }
+      ],
+      "duration_ms": 215004,
+      "name": "Louis V, Menina Linda",
+      "url": "https://open.spotify.com/track/2jPACjKR21inTnWeo3eHla"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 201495,
+      "name": "psychofreak (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
         "name": "Ap\u00ea 1001",
         "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
       },
@@ -247,42 +287,18 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "Louis V, Menina Linda",
-        "url": "https://open.spotify.com/album/60NnC6VY4C2LehfrT5xFCQ"
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
       },
       "artists": [
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Intactoz Corp.",
-          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 215004,
-      "name": "Louis V, Menina Linda",
-      "url": "https://open.spotify.com/track/2jPACjKR21inTnWeo3eHla"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 201495,
-      "name": "psychofreak (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -319,18 +335,22 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+        "name": "Daddy Issues (Remix) feat. Syd",
+        "url": "https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+      "duration_ms": 181186,
+      "name": "Daddy Issues (Remix) feat. Syd",
+      "url": "https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -383,38 +403,18 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "Daddy Issues (Remix) feat. Syd",
-        "url": "https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 181186,
-      "name": "Daddy Issues (Remix) feat. Syd",
-      "url": "https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285935,
-      "name": "Love In The Dark",
-      "url": "https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY"
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau"
       },
@@ -467,18 +451,34 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "25",
+        "url": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 285935,
+      "name": "Love In The Dark",
+      "url": "https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -495,6 +495,26 @@
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -531,22 +551,42 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
+        "name": "K-12",
+        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 241893,
+      "name": "Teacher's Pet",
+      "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -575,66 +615,6 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
-        "name": "INFERNO",
-        "url": "https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        },
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 133133,
-      "name": "INFERNO",
-      "url": "https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
         "name": "This Is Acting",
         "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
       },
@@ -651,18 +631,18 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "K-12",
-        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 241893,
-      "name": "Teacher's Pet",
-      "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -691,18 +671,22 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "poderia ser pior",
-        "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
+        "name": "INFERNO",
+        "url": "https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab"
       },
       "artists": [
         {
-          "name": "Number Teddie",
-          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        },
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
         }
       ],
-      "duration_ms": 172414,
-      "name": "poderia ser pior",
-      "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
+      "duration_ms": 133133,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -743,6 +727,38 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
+        "name": "poderia ser pior",
+        "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
+      },
+      "artists": [
+        {
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
+        }
+      ],
+      "duration_ms": 172414,
+      "name": "poderia ser pior",
+      "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
+        "name": "Soap",
+        "url": "https://open.spotify.com/album/7iUnzXQIdikXQiNpQyv7Ig"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Soap",
+      "url": "https://open.spotify.com/track/72tjRfShNhVuqUKKw44O0F"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
         "name": "TROPA",
         "url": "https://open.spotify.com/album/5ja8CvkysnLRmb2hNgC1uc"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "we fell in love in october / forget her",
-        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
         "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
         "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
       },
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 204316,
       "name": "Hrs and Hrs",
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
-        "name": "Soap",
-        "url": "https://open.spotify.com/album/7iUnzXQIdikXQiNpQyv7Ig"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Soap",
-      "url": "https://open.spotify.com/track/72tjRfShNhVuqUKKw44O0F"
     },
     {
       "added_at": "2022-07-15 03:00:00",

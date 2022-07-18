@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,273 likes - 43 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,316 likes - 43 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 42 | [The Sound of Violence](https://open.spotify.com/track/0M642wngTpDSoUTf6SYnSh) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:24 |
 | 43 | [Writings on the Wall](https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA4MGE3MmQ0YTBlZGY5YzQ5YmZjZjM4NjgzMGFkN2UyZg==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDBlZmEwNDBmYTdiYWMyNWEwOTk5YzhkZTJkMjZjNWI0NQ==`

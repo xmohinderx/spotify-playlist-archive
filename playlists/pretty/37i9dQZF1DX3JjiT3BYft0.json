@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 42320,
+  "num_followers": 42390,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAyMTIxNiwwMDAwMDAwMDNhZjFhOWQ3ZDVhNzc1MWUyYTg2MWVjNDZiYjBkN2Q3",
+  "snapshot_id": "MTY1ODEwNzIzOSwwMDAwMDAwMGQwZWIyZDJhZDllODJmMzMwY2I2ZjliMTI5ZWU0M2Vl",
   "tracks": [
     {
       "added_at": "2022-06-23 15:00:00",
@@ -27,18 +27,18 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u306b\u3053\u00d7\u306b\u3053=\u30cf\u30a4\u30cf\u309a\u30fc\u30b9\u30de\u30a4\u30eb\u30cf\u309a\u30ef\u30fc!",
-        "url": "https://open.spotify.com/album/5UenLEIt08bBiAFzwL9Yk3"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300dOP\u4e3b\u984c\u6b4c\u300c\u3068\u304d\u3081\u304d\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9!\u300d",
+        "url": "https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh"
       },
       "artists": [
         {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
         }
       ],
-      "duration_ms": 233733,
-      "name": "\u306b\u3053\u00d7\u306b\u3053=\u30cf\u30a4\u30cf\u309a\u30fc\u30b9\u30de\u30a4\u30eb\u30cf\u309a\u30ef\u30fc!",
-      "url": "https://open.spotify.com/track/4qHNweDfCY1d9Z5RoXJFny"
+      "duration_ms": 257079,
+      "name": "\u3068\u304d\u3081\u304d\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9!",
+      "url": "https://open.spotify.com/track/52sMyIxbz7FuCnaQyCacIk"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -59,18 +59,22 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Live Beyond!!",
-        "url": "https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK"
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! FILM LIVE 2nd Stage\u300dSpecial Songs",
+        "url": "https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1"
       },
       "artists": [
         {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        },
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
         }
       ],
-      "duration_ms": 254800,
-      "name": "Sweets BAN!",
-      "url": "https://open.spotify.com/track/38Gc7YPBk6UAIgvWEzz2Kb"
+      "duration_ms": 200566,
+      "name": "\u30e9\u30b9\u30cf\u30d2\u309a\u30fc\u30db\u309a\u30fc!",
+      "url": "https://open.spotify.com/track/0bX8x2CRgT6Am72RZ5zsgm"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -91,24 +95,8 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Repaint",
-        "url": "https://open.spotify.com/album/0HBfHvwN912Vr7ggTW2PFP"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 233732,
-      "name": "Repaint",
-      "url": "https://open.spotify.com/track/4ONakL7VOgMug2YNLLlg2i"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "FIRE BIRD",
-        "url": "https://open.spotify.com/album/2rkv0Q1Yn6raeCuk9U4ta5"
+        "name": "\u30cf\u3099\u30f3\u30c8\u3099\u30ea! \u30ab\u3099\u30fc\u30eb\u30b9\u3099\u30cf\u3099\u30f3\u30c8\u3099\u30cf\u309a\u30fc\u30c6\u30a3! \u30ab\u30cf\u3099\u30b3\u30ec (Special Selection)",
+        "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
       },
       "artists": [
         {
@@ -116,9 +104,9 @@
           "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 325333,
-      "name": "FIRE BIRD",
-      "url": "https://open.spotify.com/track/5YT7dwVt5HIm8PuXvXOS4s"
+      "duration_ms": 269300,
+      "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/5TwbVyG5JZj7vsbFshGdOS"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -139,88 +127,8 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u30cf\u3099\u30f3\u30c8\u3099\u30ea! \u30ab\u3099\u30fc\u30eb\u30b9\u3099\u30cf\u3099\u30f3\u30c8\u3099\u30cf\u309a\u30fc\u30c6\u30a3! \u30ab\u30cf\u3099\u30b3\u30ec (Special Selection)",
-        "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "\u3075\u308f\u3075\u308f\u6642\u9593",
-      "url": "https://open.spotify.com/track/3inIDEYK6C287bLZFRqjv1"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "BanG Dream! Dreamer's Best",
-        "url": "https://open.spotify.com/album/4QTYmkZJstgjXi2oqb1BU9"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30a4\u30e4",
-          "url": "https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V"
-        },
-        {
-          "name": "\u7d17\u591c",
-          "url": "https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5"
-        },
-        {
-          "name": "\u6c99\u7dbe",
-          "url": "https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc"
-        },
-        {
-          "name": "\u30df\u30c3\u30b7\u30a7\u30eb",
-          "url": "https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl"
-        },
-        {
-          "name": "\u7460\u552f",
-          "url": "https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh"
-        }
-      ],
-      "duration_ms": 262900,
-      "name": "CATASTROPHE BANQUET",
-      "url": "https://open.spotify.com/track/3SmOTTgNvWL7tZ46K2wYHO"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "\u30b4\u30fc\u30ab!\u3054\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
-        "url": "https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "\u30b4\u30fc\u30ab!\u3054\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
-      "url": "https://open.spotify.com/track/6Mfr5EHIrMhZefeWuOPuiO"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u6e29\u30ec\u30b7\u30d4\u300d",
-        "url": "https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY"
-      },
-      "artists": [
-        {
-          "name": "\u725b\u8fbc\u308a\u307f(CV.\u897f\u672c\u308a\u307f)",
-          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
-      "url": "https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "\u30ac\u30fc\u30eb\u30ba\u30b3\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/5aQYjcS94D6obHNC1S2x8I"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300dED\u4e3b\u984c\u6b4c\u300c\u30ad\u30e9\u30ad\u30e9\u3060\u3068\u304b\u5922\u3060\u3068\u304b \u301cSing Girls\u301c\u300d",
+        "url": "https://open.spotify.com/album/3AFkgSh1JVkEujfHxItEpy"
       },
       "artists": [
         {
@@ -228,89 +136,9 @@
           "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
         }
       ],
-      "duration_ms": 246400,
-      "name": "\u5207\u306a\u3044Sandglass",
-      "url": "https://open.spotify.com/track/2LqbQ4a77YlutcDzVWlso0"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "ROZEN HORIZON",
-        "url": "https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 308866,
-      "name": "Sprechchor",
-      "url": "https://open.spotify.com/track/5jJBqcvIcyH5h0Bgx2TKbE"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
-        "url": "https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
-      "url": "https://open.spotify.com/track/3MHOAHO1m0njLBWMp9lFwg"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "Sacred world",
-        "url": "https://open.spotify.com/album/6tetrII2FIwPTRew3ogFEw"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 300833,
-      "name": "Sacred world",
-      "url": "https://open.spotify.com/track/0j0UzZIX3D5NjvALPdG6Te"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "\u3048\u304c\u304a\u30fb\u30b7\u30f3\u30b0\u30fb\u3042\u30fb\u30bd\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "\u306f\u308c\u3084\u304b \u3059\u3053\u3084\u304b \u3074\u304b\u308a\u3093\u308a\u3093\u266a",
-      "url": "https://open.spotify.com/track/3XU84iyRVUlt13hVtAmcQR"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "fly with the night",
-        "url": "https://open.spotify.com/album/4gI6NqgDPRzTNYzHko6Cyv"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "fly with the night",
-      "url": "https://open.spotify.com/track/1wQ3iyPGJ1TeCsHUby6ta2"
+      "duration_ms": 305853,
+      "name": "\u30ad\u30e9\u30ad\u30e9\u3060\u3068\u304b\u5922\u3060\u3068\u304b \u301cSing Girls\u301c",
+      "url": "https://open.spotify.com/track/0V1DIariXWpmS20mpaC7bn"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -351,38 +179,6 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u30a4\u30cb\u30b7\u30e3\u30eb/\u5922\u3092\u6483\u3061\u629c\u304f\u77ac\u9593\u306b! (Special Edition)",
-        "url": "https://open.spotify.com/album/5Ou7gzfqsGIwhii2xYHYS3"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "SAKURA MEMORIES",
-      "url": "https://open.spotify.com/track/1sl3YDl4iWhkVBXEksXjcz"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 281733,
-      "name": "ONE OF US",
-      "url": "https://open.spotify.com/track/0b1ejdZ0WRCH62HLMfuJQ3"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \u301c\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\u301c\u300d",
         "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
       },
@@ -399,24 +195,8 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
-        "url": "https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
-      "url": "https://open.spotify.com/track/2mEX3FAVxS2fIcAxnrzqfm"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
-        "url": "https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2"
+        "name": "\u3048\u304c\u304a\u30fb\u30b7\u30f3\u30b0\u30fb\u3042\u30fb\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf"
       },
       "artists": [
         {
@@ -424,15 +204,15 @@
           "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
         }
       ],
-      "duration_ms": 228300,
-      "name": "Dragon Night",
-      "url": "https://open.spotify.com/track/70kKRjCxCn6oTWmT2RamK9"
+      "duration_ms": 257333,
+      "name": "\u306f\u308c\u3084\u304b \u3059\u3053\u3084\u304b \u3074\u304b\u308a\u3093\u308a\u3093\u266a",
+      "url": "https://open.spotify.com/track/3XU84iyRVUlt13hVtAmcQR"
     },
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Domination to world",
-        "url": "https://open.spotify.com/album/1aUP0huYCBSU0OPAkThfud"
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/28b3WsvQkZZvOZYN95BdSi"
       },
       "artists": [
         {
@@ -440,9 +220,57 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 224566,
-      "name": "\u707c\u71b1 Bonfire!",
-      "url": "https://open.spotify.com/track/0wKrUjs8c0CXu7fl4ScXUR"
+      "duration_ms": 256666,
+      "name": "Beautiful Birthday",
+      "url": "https://open.spotify.com/track/0CqlIR5fcvENyg0jyPmUdS"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "\u3069\u304d\u3069\u304dSING OUT!",
+        "url": "https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u5c71\u9999\u6f84(CAST:\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "\u3069\u304d\u3069\u304dSING OUT!",
+      "url": "https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Live Beyond!!",
+        "url": "https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Sweets BAN!",
+      "url": "https://open.spotify.com/track/38Gc7YPBk6UAIgvWEzz2Kb"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
+        "url": "https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 316266,
+      "name": "Singing \u201cOURS\u201d",
+      "url": "https://open.spotify.com/track/2PViKaspJwLIHoFSz976vR"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -463,6 +291,38 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
+        "name": "\u30cf\u3099\u30f3\u30c8\u3099\u30ea! \u30ab\u3099\u30fc\u30eb\u30b9\u3099\u30cf\u3099\u30f3\u30c8\u3099\u30cf\u309a\u30fc\u30c6\u30a3! \u30ab\u30cf\u3099\u30b3\u30ec (Special Selection)",
+        "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "\u3075\u308f\u3075\u308f\u6642\u9593",
+      "url": "https://open.spotify.com/track/3inIDEYK6C287bLZFRqjv1"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "\u30b4\u30fc\u30ab!\u3054\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
+        "url": "https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "\u305b\u304b\u3044\u306e\u3063\u3073\u306e\u3073\u30c8\u30ec\u30b8\u30e3\u30fc!",
+      "url": "https://open.spotify.com/track/1AdZsqtHt4XGHy2TLomUtC"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
         "url": "https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG"
       },
@@ -475,6 +335,70 @@
       "duration_ms": 235426,
       "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
       "url": "https://open.spotify.com/track/2E6CWvJDz4Jz1y0R9HoRTR"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Repaint",
+        "url": "https://open.spotify.com/album/0HBfHvwN912Vr7ggTW2PFP"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 233732,
+      "name": "Repaint",
+      "url": "https://open.spotify.com/track/4ONakL7VOgMug2YNLLlg2i"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Jumpin'",
+        "url": "https://open.spotify.com/album/15kWIDPuXd2W53eWSgghPS"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "What's the POPIPA!?",
+      "url": "https://open.spotify.com/track/3ceacNpPfoVQny7eX9lsPm"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \u301c\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\u301c\u300d",
+        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "\u9060\u3044\u97f3\u697d \u301c\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\u301c",
+      "url": "https://open.spotify.com/track/4C6qS2CKdop4uiJZ4Wfwc6"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Hey-day\u72c2\u9a12\u66f2(\u30ab\u30d7\u30ea\u30c1\u30aa)",
+        "url": "https://open.spotify.com/album/3ZwXTeFex0cgJWCr4zk0RN"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Hey-day\u72c2\u9a12\u66f2",
+      "url": "https://open.spotify.com/track/74e82yQCZdXVsV9Xu5cSP1"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -495,8 +419,8 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Wahl",
-        "url": "https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84"
+        "name": "Keep Heart / Original Call",
+        "url": "https://open.spotify.com/album/3YOAnJSLfYRuUfPOsYt9N5"
       },
       "artists": [
         {
@@ -504,25 +428,73 @@
           "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 310433,
-      "name": "Neo-Aspect",
-      "url": "https://open.spotify.com/track/2ctkJPzluv1BfsEcsOPsS5"
+      "duration_ms": 246266,
+      "name": "Keep Heart",
+      "url": "https://open.spotify.com/track/1eanLmF0Q6F3UbwZMlfPS6"
     },
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea!\u300cYes! BanG_Dream!\u300d",
-        "url": "https://open.spotify.com/album/3QZAIjdUw6CI8IEGJ2dADM"
+        "name": "BanG Dream! Dreamer's Best",
+        "url": "https://open.spotify.com/album/4QTYmkZJstgjXi2oqb1BU9"
       },
       "artists": [
         {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+          "name": "\u30ec\u30a4\u30e4",
+          "url": "https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V"
+        },
+        {
+          "name": "\u7d17\u591c",
+          "url": "https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5"
+        },
+        {
+          "name": "\u6c99\u7dbe",
+          "url": "https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc"
+        },
+        {
+          "name": "\u30df\u30c3\u30b7\u30a7\u30eb",
+          "url": "https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl"
+        },
+        {
+          "name": "\u7460\u552f",
+          "url": "https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh"
         }
       ],
-      "duration_ms": 307760,
-      "name": "Yes! BanG_Dream!",
-      "url": "https://open.spotify.com/track/2xR17B0aHZDTZ9Hfez5Rka"
+      "duration_ms": 262900,
+      "name": "CATASTROPHE BANQUET",
+      "url": "https://open.spotify.com/track/3SmOTTgNvWL7tZ46K2wYHO"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
+      },
+      "artists": [
+        {
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Don't be afraid!",
+      "url": "https://open.spotify.com/track/6xdaAj70Cp5XSSuEIuzWef"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "\u3046\u3043\u30fc\u304d\u3083\u3093\u2606\u30d5\u30ec\u30d5\u30ec\u3063!",
+        "url": "https://open.spotify.com/album/0l8Ay8vHgLHxtE1fKgVqhH"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 269866,
+      "name": "\u3048\u304b\u3099\u304a\u3001\u307f\u301c\u3063\u3051\u305f!",
+      "url": "https://open.spotify.com/track/58qgn1BHFxLaVPbrUtaSA6"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -543,54 +515,6 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
-        "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
-          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!",
-      "url": "https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "\u30cf\u30fc\u30e2\u30cb\u30fc\u30fb\u30c7\u30a4",
-        "url": "https://open.spotify.com/album/1W7fePL7MZMBzdPXbypsUj"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 219366,
-      "name": "\u30cf\u30fc\u30e2\u30cb\u30fc\u30fb\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/4DSeqa7V4fjhttPL9PtLAQ"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "\u30cf\u3099\u30f3\u30c8\u3099\u30ea! \u30ab\u3099\u30fc\u30eb\u30b9\u3099\u30cf\u3099\u30f3\u30c8\u3099\u30cf\u309a\u30fc\u30c6\u30a3! \u30ab\u30cf\u3099\u30b3\u30ec (Special Selection)",
-        "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 247633,
-      "name": "GO! GO! MANIAC",
-      "url": "https://open.spotify.com/track/789UN0IFmblfGjNPaiJoqb"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
         "name": "Domination to world",
         "url": "https://open.spotify.com/album/1aUP0huYCBSU0OPAkThfud"
       },
@@ -607,18 +531,50 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
-        "url": "https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR"
+        "name": "Breakthrough!",
+        "url": "https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91"
       },
       "artists": [
         {
-          "name": "\u6e4a \u53cb\u5e0c\u90a3",
-          "url": "https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me"
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
         }
       ],
-      "duration_ms": 175033,
-      "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
-      "url": "https://open.spotify.com/track/0qwLal0qRdLuLlCpbCJabF"
+      "duration_ms": 311733,
+      "name": "NO GIRL NO CRY - Poppin'Party Ver.",
+      "url": "https://open.spotify.com/track/7vjHI1ZrjMFuynrPmwvgG3"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
+        "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
+          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!",
+      "url": "https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "fly with the night",
+        "url": "https://open.spotify.com/album/4gI6NqgDPRzTNYzHko6Cyv"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "fly with the night",
+      "url": "https://open.spotify.com/track/1wQ3iyPGJ1TeCsHUby6ta2"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -639,56 +595,8 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "RED RED RED",
-      "url": "https://open.spotify.com/track/2GOhP6o25z72Ka1bvM4zBz"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "Time Lapse",
-        "url": "https://open.spotify.com/album/1YMySyG5al3QpCnXQLey9R"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "\u590f\u306e\u30c9\u30fc\u30f3!",
-      "url": "https://open.spotify.com/track/4oqDaQVeaY90SDe7Iz1Osr"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "mind of Prominence",
-        "url": "https://open.spotify.com/album/555mc5p9BwL1u7yZPyij3C"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "mind of Prominence",
-      "url": "https://open.spotify.com/track/7EC74dEUT319QY1x7nLaPo"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "BLACK SHOUT",
-        "url": "https://open.spotify.com/album/0of1hanfT7JpyWpf7NTXq3"
+        "name": "ROZEN HORIZON",
+        "url": "https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1"
       },
       "artists": [
         {
@@ -696,25 +604,25 @@
           "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 246186,
-      "name": "BLACK SHOUT",
-      "url": "https://open.spotify.com/track/2DTM7VgdT2WrMxdbJDL0pK"
+      "duration_ms": 308866,
+      "name": "Sprechchor",
+      "url": "https://open.spotify.com/track/5jJBqcvIcyH5h0Bgx2TKbE"
     },
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u30cf\u30fc\u30e2\u30cb\u30fc\u30fb\u30c7\u30a4",
-        "url": "https://open.spotify.com/album/1W7fePL7MZMBzdPXbypsUj"
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
+        "url": "https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR"
       },
       "artists": [
         {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+          "name": "\u6e4a \u53cb\u5e0c\u90a3",
+          "url": "https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me"
         }
       ],
-      "duration_ms": 312333,
-      "name": "Sonorous",
-      "url": "https://open.spotify.com/track/5oI1TJzHqsgCCqUG8OwVGy"
+      "duration_ms": 175033,
+      "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
+      "url": "https://open.spotify.com/track/0qwLal0qRdLuLlCpbCJabF"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -728,9 +636,89 @@
           "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
         }
       ],
-      "duration_ms": 242200,
-      "name": "\u30ad\u30df\u304b\u3099\u3044\u306a\u304f\u3061\u3083\u3063!",
-      "url": "https://open.spotify.com/track/3cOWBAxUo6w2kCEHLvKNlr"
+      "duration_ms": 220200,
+      "name": "\u30b3\u3099\u30fc\u30ab!\u3053\u3099\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
+      "url": "https://open.spotify.com/track/1ZPkTBKxZqk1DqccCHeLrD"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Breakthrough!",
+        "url": "https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "Hello! Wink!",
+      "url": "https://open.spotify.com/track/1UC167fELocxYvvNhMquyP"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Domination to world",
+        "url": "https://open.spotify.com/album/1aUP0huYCBSU0OPAkThfud"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 224566,
+      "name": "\u707c\u71b1 Bonfire!",
+      "url": "https://open.spotify.com/track/0wKrUjs8c0CXu7fl4ScXUR"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "ROZEN HORIZON",
+        "url": "https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "\u9583\u5149",
+      "url": "https://open.spotify.com/track/5oy2Ji7NwgE2EYCuky51MX"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "\u30cf\u30fc\u30e2\u30cb\u30fc\u30fb\u30c7\u30a4",
+        "url": "https://open.spotify.com/album/1W7fePL7MZMBzdPXbypsUj"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 219366,
+      "name": "\u30cf\u30fc\u30e2\u30cb\u30fc\u30fb\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/4DSeqa7V4fjhttPL9PtLAQ"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 281733,
+      "name": "ONE OF US",
+      "url": "https://open.spotify.com/track/0b1ejdZ0WRCH62HLMfuJQ3"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -751,58 +739,66 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn"
+        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
+        "url": "https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
         }
       ],
-      "duration_ms": 236426,
-      "name": "Sasanqua",
-      "url": "https://open.spotify.com/track/24HSLZrewTadcmWdZFWMmZ"
+      "duration_ms": 228300,
+      "name": "Dragon Night",
+      "url": "https://open.spotify.com/track/70kKRjCxCn6oTWmT2RamK9"
     },
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
-        "url": "https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "overtuRe",
-      "url": "https://open.spotify.com/track/2LWATBNOgMvQO7A750DdJq"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "\u5287\u5834\u7248\u300cBanG Dream! FILM LIVE 2nd Stage\u300dSpecial Songs",
-        "url": "https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300dOP\u4e3b\u984c\u6b4c\u300c\u3068\u304d\u3081\u304d\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9!\u300d",
+        "url": "https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh"
       },
       "artists": [
         {
           "name": "Poppin'Party",
           "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        },
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        },
+        }
+      ],
+      "duration_ms": 331120,
+      "name": "1000\u56de\u6f64\u3093\u3060\u7a7a",
+      "url": "https://open.spotify.com/track/0auqVPmbobwbmqwJbPu0Tr"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "\u30cf\u30fc\u30e2\u30cb\u30fc\u30fb\u30c7\u30a4",
+        "url": "https://open.spotify.com/album/1W7fePL7MZMBzdPXbypsUj"
+      },
+      "artists": [
         {
           "name": "Morfonica",
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 312933,
-      "name": "\u7d46\u8272\u306e\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb",
-      "url": "https://open.spotify.com/track/1g8uyFFDuiYsgbDirSkB0R"
+      "duration_ms": 312333,
+      "name": "Sonorous",
+      "url": "https://open.spotify.com/track/5oI1TJzHqsgCCqUG8OwVGy"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "mind of Prominence",
+        "url": "https://open.spotify.com/album/555mc5p9BwL1u7yZPyij3C"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "mind of Prominence",
+      "url": "https://open.spotify.com/track/7EC74dEUT319QY1x7nLaPo"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -816,9 +812,9 @@
           "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Don't be afraid!",
-      "url": "https://open.spotify.com/track/6xdaAj70Cp5XSSuEIuzWef"
+      "duration_ms": 211366,
+      "name": "Glee! Glee! Glee!",
+      "url": "https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz"
     },
     {
       "added_at": "2022-06-23 15:00:00",

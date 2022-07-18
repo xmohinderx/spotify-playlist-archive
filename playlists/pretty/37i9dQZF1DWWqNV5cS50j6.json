@@ -1,12 +1,12 @@
 {
   "description": "Indie music antimatter. Cover: Groupthink",
-  "num_followers": 652169,
+  "num_followers": 652351,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzY2MCwwMDAwMzQ2OTAwMDAwMTgyMDAwNDU0ZjcwMDAwMDE4MThjZDM0OGYx",
+  "snapshot_id": "MTY1ODA3ODYxMiwwMDAwMzQ2YTAwMDAwMTgyMGQyZmNkOTAwMDAwMDE4MThjZDM0OGYx",
   "tracks": [
     {
       "added_at": "2022-07-08 06:52:00",
@@ -85,22 +85,6 @@
       "url": "https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "get yo bread",
-        "url": "https://open.spotify.com/album/4gV0AqHdzOwBuykylnF0lf"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "get yo bread",
-      "url": "https://open.spotify.com/track/1CbRf2PzsxscJKbzlngTyr"
-    },
-    {
       "added_at": "2022-07-08 06:52:00",
       "album": {
         "name": "cyanide (feat. cryogeyser)",
@@ -119,6 +103,26 @@
       "duration_ms": 125389,
       "name": "cyanide (feat. cryogeyser)",
       "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
+    },
+    {
+      "added_at": "2022-06-30 04:28:30",
+      "album": {
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -199,6 +203,22 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "get yo bread",
+        "url": "https://open.spotify.com/album/4gV0AqHdzOwBuykylnF0lf"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "get yo bread",
+      "url": "https://open.spotify.com/track/1CbRf2PzsxscJKbzlngTyr"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Concrete Walls",
         "url": "https://open.spotify.com/album/754wyHaNUpCJAVxuJMP65r"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 117774,
       "name": "play pretend",
       "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
-    },
-    {
-      "added_at": "2022-06-30 04:28:30",
-      "album": {
-        "name": "Cracker Island (feat. Thundercat)",
-        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Cracker Island (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
       "added_at": "2022-06-30 04:28:30",

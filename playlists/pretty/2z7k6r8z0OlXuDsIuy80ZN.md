@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 87,866 likes - 40 songs - 2 hr 5 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 88,039 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 40 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 |
 
-Snapshot ID: `NTQwMiw5ZjYyOWMyYjY1N2ZlYmIwZTE1YWI2NTJmM2I1OGZiNjRlNDczNGJj`
+Snapshot ID: `NTQwNixmNzNiZWI4MWUyYjkwNThhZmNmYTVhNGVlYWZmZWQ5ZmNjMmY3YWFk`

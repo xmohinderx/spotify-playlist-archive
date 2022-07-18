@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
 
-70 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+71 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [So Baby \(From "Doctor"\)](https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR) | [So Baby \(From "Doctor"\)](https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp) | 4:12 | 2021-11-29 |  |
 | [Soorathenga](https://open.spotify.com/track/3i0lFb00XGZHaXdkUqXcG4) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn) | [Soorathenga \- Koogle Kuttappa](https://open.spotify.com/album/279KMS5w1wmHMvoehXEihk) | 4:17 | 2022-04-27 | 2022-06-01 |
 | [Summa Surrunu](https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:46 | 2022-02-15 |  |
+| [Theethiriyaai \(From "Brahmastra \(Tamil\)"\)](https://open.spotify.com/track/5XbHpOBN1vTU3hN1YzLqHL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Theethiriyaai \[From "Brahmastra \(Tamil\)"\]](https://open.spotify.com/album/64zZPIAQB8N3vCPfBvek0x) | 4:38 | 2022-07-17 |  |
 | [Thiraiyoadu Thoorigai \(From "Radhe Shyam"\)](https://open.spotify.com/track/7obXTjMlADOJyIB6GjSgDw) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Thiraiyoadu Thoorigai \(From "Radhe Shyam"\)](https://open.spotify.com/album/5Kgd1s63hF3ZfzKFT01ifd) | 4:54 | 2021-12-02 |  |
 | [Thooriga \- From "Navarasa"](https://open.spotify.com/track/19O4hCGGm95UhvIyhwnNT5) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Thooriga \(From "Navarasa"\)](https://open.spotify.com/album/21xzjyEysKTj6xEdceEa2E) | 3:22 | 2021-11-29 |  |
 | [Thozhi \(From "Hey Sinamika"\)](https://open.spotify.com/track/5JC1RPGBMSiKlA3gniEmCW) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Thozhi \(From "Hey Sinamika"\)](https://open.spotify.com/album/0cxMKNG3gmLPt9dTEBHkEg) | 4:57 | 2022-01-27 |  |

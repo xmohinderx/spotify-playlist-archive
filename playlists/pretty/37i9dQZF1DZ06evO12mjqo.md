@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,409 likes - 43 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,604 likes - 43 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 |
 | 2 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 |
-| 3 | [Square Hammer](https://open.spotify.com/track/5TNhjanmvwvmjCz2WYwSAv) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 3:59 |
+| 3 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 |
 | 4 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 |
 | 5 | [Kiss The Go\-Goat](https://open.spotify.com/track/56k2ztFw7hQRzDeoe80pJo) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 3:15 |
 | 6 | [Watcher In The Sky](https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:48 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 42 | [Nocturnal Me](https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 5:13 |
 | 43 | [I Believe](https://open.spotify.com/track/0quRJVHIYA7nqC3WFvFW3s) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 4:06 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDAwMjJmOTkzY2M2MmI0ODZhMTgzNWZlZWU5MTdmNjI2Yg==`
+Snapshot ID: `Mjc2MzQ0MjgsMDAwMDAwMDA5Mzk1OWYzZTMwYjM4NzdmOGJkYTBhOGQyZTBlYTA3ZA==`

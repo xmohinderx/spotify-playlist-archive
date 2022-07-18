@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,562 likes - 68 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,618 likes - 68 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

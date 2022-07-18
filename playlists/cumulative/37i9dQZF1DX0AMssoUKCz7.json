@@ -750,6 +750,28 @@
     },
     {
       "album": {
+        "name": "Before the Sun Sets",
+        "url": "https://open.spotify.com/album/1abjZNW2kV2pmxsT6jiW5K"
+      },
+      "artists": [
+        {
+          "name": "Nimus",
+          "url": "https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo"
+        },
+        {
+          "name": "RED",
+          "url": "https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120775,
+      "name": "Before the Sun Sets",
+      "url": "https://open.spotify.com/track/7j5IEblPv4Q15WE667AlGb"
+    },
+    {
+      "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78"
       },
@@ -1347,7 +1369,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 191186,
       "name": "Cause I Still Love You",
       "url": "https://open.spotify.com/track/2r2CsNzCULkxoD8lt8wkLf"
@@ -1807,7 +1829,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 195079,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/59VDjcpB2I8psQasslQpdK"
@@ -2263,7 +2285,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 153512,
       "name": "Falling For You (feat. Jordan Grace)",
       "url": "https://open.spotify.com/track/77VDh4qkhreJw2Y5fEA7vO"
@@ -2805,7 +2827,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 289322,
       "name": "Glowing State",
       "url": "https://open.spotify.com/track/3mHAqQWWO4BWRME0sSFzEj"
@@ -4465,7 +4487,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 138000,
       "name": "Like a Mystery",
       "url": "https://open.spotify.com/track/74E2muWug3WOPjKkw2hpq5"
@@ -6247,7 +6269,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 210428,
       "name": "Own the Night",
       "url": "https://open.spotify.com/track/0DHUariIorcAgunTr0GTy2"
@@ -8873,7 +8895,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 160000,
       "name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
       "url": "https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX"

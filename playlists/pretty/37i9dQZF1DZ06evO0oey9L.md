@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,171 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,192 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 39 | [Galil Rameado](https://open.spotify.com/track/7mTQYSdS2N4Fb9T2ieH7dl) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Galil Rameado](https://open.spotify.com/album/1QLEQpE84nhDO17QuAmyzT) | 3:16 |
 | 40 | [10 Iniciales NC](https://open.spotify.com/track/0Y0qqu5lwjtQFzDfYgODls) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 4:06 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDA4ODlmYzY4NDJkZmQ0MGJhNDgxYmZjZDJiZjllYTk0Nw==`
+Snapshot ID: `Mjc2MzQ0MjcsMDAwMDAwMDBkOTlkNjNiYzFjMWM0ZDYyOWE4NzU1ZTcwNDk3MGVlMg==`

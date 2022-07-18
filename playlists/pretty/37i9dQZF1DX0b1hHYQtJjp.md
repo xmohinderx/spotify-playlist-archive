@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Ease into these recent hits and new songs from your favorite artists\. Cover: P!nk
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,396 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,550 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Chill indie songs by James Bay, Cuco, and more! Chill out to these relaxing and calming indie, pop, and folk tracks, and discover new favorites! Cover: Lyn Lapid",
+  "description": "Chill indie songs by kira kosarin, beabadoobee, and more! Chill out to these relaxing and calming indie, pop, and folk tracks, and discover new favorites! Cover: Lyn Lapid",
   "name": "Indie Chill",
   "published_playlist_ids": [
     "3sjWktyD1KzSMZBUWy3pNl"
@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/5pQLIMOOfKQlTufpnkV49Q"
+      },
+      "artists": [
+        {
+          "name": "Kira Kosarin",
+          "url": "https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183402,
+      "name": "busy",
+      "url": "https://open.spotify.com/track/7kdmDLwyzFL8jYLzfMvPwQ"
+    },
+    {
+      "album": {
         "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 132284,
       "name": "come into my arms",
       "url": "https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z"
@@ -1044,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "One Day Less",
+        "url": "https://open.spotify.com/album/6btELiaRuDMZSrhu9PE2xY"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207034,
+      "name": "One Day Less",
+      "url": "https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy"
+    },
+    {
+      "album": {
         "name": "parachute (plan b)",
         "url": "https://open.spotify.com/album/4theDWWeWmshurXJSYtmPJ"
       },
@@ -1073,7 +1109,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 192497,
       "name": "Peter Pan Was Right",
       "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
@@ -1340,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "album": {
         "name": "All The Light Above It Too",
         "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
       },
@@ -1553,7 +1607,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 177980,
       "name": "Waiting Is A Waste",
       "url": "https://open.spotify.com/track/23lw0TWJHsenU54gom8xbC"

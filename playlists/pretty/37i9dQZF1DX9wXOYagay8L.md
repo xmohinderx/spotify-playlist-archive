@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=oq2ijsCBQEy6ace2WNnU4A">Nakhane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,774 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,821 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

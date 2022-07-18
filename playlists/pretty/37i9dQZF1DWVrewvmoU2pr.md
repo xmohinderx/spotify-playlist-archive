@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 
 > 由抑壓到釋放，由自憐到自信，尋覓真愛同時又不忘調情色誘，從藍奕邦近20年創作的字裡行間，找到異類們成為大器之路上所流出的血與汗。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,737 likes - 25 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,738 likes - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

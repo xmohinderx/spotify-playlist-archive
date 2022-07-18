@@ -1,34 +1,18 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 34889,
+  "num_followers": 35005,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAyMTUzMSwwMDAwMDAwMDI2MDYwOGY5NThmNzIyNjQ0MDAxZDBlY2Q1MTI0YjI3",
+  "snapshot_id": "MTY1ODEwNzU2MiwwMDAwMDAwMGNhNWFlMDFkZjAxMmRiMDRkNTA2ZGE0MWYwMjc2N2Fj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Future Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Let's Work Together",
-      "url": "https://open.spotify.com/track/7vJaNv4ItDyYXXCVRJreh6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
       },
       "artists": [
         {
@@ -36,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 137933,
-      "name": "Tush - 2006 Remaster",
-      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -59,18 +43,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Malpractice",
-        "url": "https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO"
+        "name": "Future Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
       },
       "artists": [
         {
-          "name": "Dr. Feelgood",
-          "url": "https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV"
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Going Back Home",
-      "url": "https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG"
+      "duration_ms": 193853,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/7vJaNv4ItDyYXXCVRJreh6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -91,6 +75,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Malpractice",
+        "url": "https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO"
+      },
+      "artists": [
+        {
+          "name": "Dr. Feelgood",
+          "url": "https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The Blues Band - Ready (Remastered)",
         "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
       },
@@ -107,24 +107,40 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Yeah! (US Internet Release)",
-        "url": "https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3"
+        "name": "Smiler",
+        "url": "https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ"
       },
       "artists": [
         {
-          "name": "Brownsville Station",
-          "url": "https://open.spotify.com/artist/67SxctqWYOGe8lthWjTDwu"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Smokin' in the Boy's Room",
-      "url": "https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ"
+      "duration_ms": 222840,
+      "name": "Sweet Little Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/6iLgfbyvQ8lRjixyIYZCW8"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "Charming Mess",
+        "url": "https://open.spotify.com/album/1kOPsSIDcQ3cegRouSgx7W"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Charming Mess",
+      "url": "https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
       },
       "artists": [
         {
@@ -132,41 +148,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 230480,
-      "name": "La Grange - 2005 Remaster",
-      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Future Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 170120,
-      "name": "Let's Work Together",
-      "url": "https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Heaven Tonight",
-        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "California Man",
-      "url": "https://open.spotify.com/track/5e4kUj91oLjKxxiT8akiQV"
+      "duration_ms": 137933,
+      "name": "Tush - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -187,6 +171,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Future Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 170120,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
@@ -199,6 +199,54 @@
       "duration_ms": 243826,
       "name": "Roadhouse Blues",
       "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Mama Kin",
+      "url": "https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Heaven Tonight",
+        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "California Man",
+      "url": "https://open.spotify.com/track/5e4kUj91oLjKxxiT8akiQV"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Hoople",
+        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
+      },
+      "artists": [
+        {
+          "name": "Mott The Hoople",
+          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "The Golden Age of Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -223,82 +271,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Aerosmith",
-        "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
+        "name": "Yeah! (US Internet Release)",
+        "url": "https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Brownsville Station",
+          "url": "https://open.spotify.com/artist/67SxctqWYOGe8lthWjTDwu"
         }
       ],
-      "duration_ms": 267226,
-      "name": "Mama Kin",
-      "url": "https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Smiler",
-        "url": "https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Sweet Little Rock 'N' Roller",
-      "url": "https://open.spotify.com/track/6iLgfbyvQ8lRjixyIYZCW8"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Hoople",
-        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
-      },
-      "artists": [
-        {
-          "name": "Mott The Hoople",
-          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "The Golden Age of Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
-    },
-    {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Charming Mess",
-        "url": "https://open.spotify.com/album/1kOPsSIDcQ3cegRouSgx7W"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Charming Mess",
-      "url": "https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 298093,
-      "name": "Hot Love",
-      "url": "https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF"
+      "duration_ms": 176453,
+      "name": "Smokin' in the Boy's Room",
+      "url": "https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -315,6 +299,38 @@
       "duration_ms": 258800,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 265678,
+      "name": "Heartache Tonight - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 298093,
+      "name": "Hot Love",
+      "url": "https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -351,22 +367,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Fool for the City",
-        "url": "https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi"
-      },
-      "artists": [
-        {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
-        }
-      ],
-      "duration_ms": 276760,
-      "name": "My Babe",
-      "url": "https://open.spotify.com/track/1GEorvHprTNDgyzlcADpdO"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Not Fragile",
         "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 223840,
       "name": "Blue Moanin'",
       "url": "https://open.spotify.com/track/33DnCxTMS3xPD3Xr8tEva5"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 155640,
+      "name": "I Don't Need You No More",
+      "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -399,22 +415,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
-      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Gasoline Alley",
         "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
       },
@@ -431,18 +431,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Long Run (2013 Remaster)",
-        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+        "name": "Fool for the City",
+        "url": "https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
         }
       ],
-      "duration_ms": 265678,
-      "name": "Heartache Tonight - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr"
+      "duration_ms": 276760,
+      "name": "My Babe",
+      "url": "https://open.spotify.com/track/1GEorvHprTNDgyzlcADpdO"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -463,6 +463,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
+      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Gimme Some Neck",
+        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
         "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
@@ -475,22 +507,6 @@
       "duration_ms": 267173,
       "name": "Gimme Three Steps",
       "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Blues Band - Ready (Remastered)",
-        "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
-      },
-      "artists": [
-        {
-          "name": "The Blues Band",
-          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
-        }
-      ],
-      "duration_ms": 155914,
-      "name": "Find Yourself Another Fool - Remastered",
-      "url": "https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -525,6 +541,22 @@
       "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Side 3",
+        "url": "https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc"
+      },
+      "artists": [
+        {
+          "name": "Raspberries",
+          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
+        }
+      ],
+      "duration_ms": 310533,
+      "name": "I'm A Rocker",
+      "url": "https://open.spotify.com/track/1HDnpYpxx5QksiWFs7DGzv"
+    },
+    {
       "added_at": "2021-04-13 15:36:15",
       "album": {
         "name": "Raisin' A Ruckus",
@@ -541,6 +573,22 @@
       "url": "https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Never A Dull Moment",
+        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
+    },
+    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "Leave This House",
@@ -555,6 +603,22 @@
       "duration_ms": 209098,
       "name": "Leave This House",
       "url": "https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Top Priority (Remastered 2017)",
+        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 290670,
+      "name": "Hell Cat",
+      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -575,18 +639,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Never A Dull Moment",
-        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
+        "name": "Tanx",
+        "url": "https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 211933,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
+      "duration_ms": 124120,
+      "name": "Born To Boogie",
+      "url": "https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -607,98 +671,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tanx",
-        "url": "https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG"
+        "name": "The Blues Band - Ready (Remastered)",
+        "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "The Blues Band",
+          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
         }
       ],
-      "duration_ms": 124120,
-      "name": "Born To Boogie",
-      "url": "https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 155640,
-      "name": "I Don't Need You No More",
-      "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Get The Picture?",
-        "url": "https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 139240,
-      "name": "Midnight To Six Man",
-      "url": "https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Exile On Main Street (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Top Priority (Remastered 2017)",
-        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 290670,
-      "name": "Hell Cat",
-      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Gimme Some Neck",
-        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Wood",
-          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
+      "duration_ms": 155914,
+      "name": "Find Yourself Another Fool - Remastered",
+      "url": "https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -719,34 +703,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Fighting",
-        "url": "https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ"
+        "name": "Exile On Main Street (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP"
       },
       "artists": [
         {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Silver Dollar",
-      "url": "https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Side 3",
-        "url": "https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc"
-      },
-      "artists": [
-        {
-          "name": "Raspberries",
-          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
-        }
-      ],
-      "duration_ms": 310533,
-      "name": "I'm A Rocker",
-      "url": "https://open.spotify.com/track/1HDnpYpxx5QksiWFs7DGzv"
+      "duration_ms": 184626,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -767,6 +735,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Outlaws",
+      "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Fighting",
+        "url": "https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Silver Dollar",
+      "url": "https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "All The Young Dudes (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Jinx (Remastered 2017)",
-        "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 234901,
-      "name": "Bourbon",
-      "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Contemporary Blues",
         "url": "https://open.spotify.com/album/0QwxH1FEWOZkqKIwpLHwpl"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 196000,
       "name": "Three Time Loser",
       "url": "https://open.spotify.com/track/0RfPgYzVnZSmaJNWzg10OP"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Get The Picture?",
+        "url": "https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 139240,
+      "name": "Midnight To Six Man",
+      "url": "https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU"
     }
   ],
   "unique_name": "Boogie Rock",

@@ -5799,7 +5799,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
@@ -5929,7 +5929,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 180186,
       "name": "engravings",
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
@@ -9409,6 +9409,24 @@
       "duration_ms": 140803,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "album": {
+        "name": "House With A View",
+        "url": "https://open.spotify.com/album/5I7BLayLBeaLMNz8YumFtM"
+      },
+      "artists": [
+        {
+          "name": "Cyn",
+          "url": "https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144861,
+      "name": "House With A View",
+      "url": "https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo"
     },
     {
       "album": {
@@ -22019,7 +22037,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 143466,
       "name": "Wish You the Worst",
       "url": "https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS"

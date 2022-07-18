@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-200 songs - 13 hr 1 min - not published yet
+203 songs - 13 hr 12 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 | 2022-06-28 |  |
 | [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 | 2022-06-28 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-06-28 |  |
+| [Ballad For Trane](https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ballad For Trane](https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs) | 3:37 | 2022-06-28 |  |
 | [Balladeering](https://open.spotify.com/track/6vrXCt6qfdKPX6ooAu6LVz) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Balladeering](https://open.spotify.com/album/28TQpx5WAwvwPDOXl1Lx8E) | 2:04 | 2022-06-28 |  |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-28 |  |
 | [Beautiful Love](https://open.spotify.com/track/1oT0zC6lxsNHITyexFwQIM) | [Lenox Livingroom Sessions](https://open.spotify.com/artist/2PDSuVvSKWLMFtb4j2O06t) | [VOL.1](https://open.spotify.com/album/4o4YAUFAzbwczGbbDgyrUR) | 2:36 | 2022-06-28 |  |
@@ -56,10 +57,10 @@
 | [Fading Love](https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:40 | 2022-06-28 |  |
 | [Feathers](https://open.spotify.com/track/3YvFRSz2nrV493DaCAEEBx) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Feathers](https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o) | 3:20 | 2022-06-28 |  |
 | [Fields of Home](https://open.spotify.com/track/79XZYbexRnaHO7cf5nJZZw) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Fields of Home](https://open.spotify.com/album/6QKyTox6aInFLkw7KA2wTG) | 3:25 | 2022-06-28 |  |
-| [Footprints](https://open.spotify.com/track/3i3N8m36bMRaQGGvMxqkxE) | [Neil Shannon Quartet](https://open.spotify.com/artist/2kJhCBCQeNnvnz8vFd9Kfk) | [Jazz Nights](https://open.spotify.com/album/5CEbSL5vuBPwJWb0VGbiLZ) | 2:57 | 2022-06-28 |  |
+| [Footprints](https://open.spotify.com/track/3i3N8m36bMRaQGGvMxqkxE) | [Neil Shannon Quartet](https://open.spotify.com/artist/2kJhCBCQeNnvnz8vFd9Kfk) | [Jazz Nights](https://open.spotify.com/album/5CEbSL5vuBPwJWb0VGbiLZ) | 2:57 | 2022-06-28 | 2022-07-18 |
 | [For a While](https://open.spotify.com/track/3M8PoIsAz4I62I71qPTQd4) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [For a While](https://open.spotify.com/album/74HIDxeupE887o5N8kaTrj) | 3:55 | 2022-06-28 |  |
 | [For All We Know](https://open.spotify.com/track/6GE5NlqY4yH8IRNR9lI713) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [For All We Know](https://open.spotify.com/album/5a4E0wrOuPoGYqTSDEktLQ) | 4:24 | 2022-06-28 |  |
-| [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 | 2022-06-28 |  |
+| [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 | 2022-06-28 | 2022-07-18 |
 | [For Heavens Sake](https://open.spotify.com/track/0RhYQmwfGzHDBV3K8MaMDq) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 3:47 | 2022-06-28 |  |
 | [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 | 2022-06-28 |  |
 | [Forever You](https://open.spotify.com/track/184qXvZbse9pQ0hzSPGki1) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [For You My Love](https://open.spotify.com/album/06PdwmlUcKbdKHGw67YCQ8) | 5:39 | 2022-06-28 |  |
@@ -76,7 +77,7 @@
 | [I Fall In Love Too Easily](https://open.spotify.com/track/7CFnOzCVrrPbmJk9aCTk9q) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:58 | 2022-06-28 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-06-28 |  |
 | [I Remember Clifford](https://open.spotify.com/track/6taUJ3uoR0GoCGNe8LLwGQ) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Someone To Watch Over Me](https://open.spotify.com/album/71H3cyUj63XR2VBs8BdecJ) | 3:03 | 2022-06-28 |  |
-| [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-06-28 |  |
+| [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-06-28 | 2022-07-18 |
 | [I Wish I Knew](https://open.spotify.com/track/6jEtmU0Wssyr3KObLUxFYU) | [Lady Luck Trio](https://open.spotify.com/artist/6Qm9vphqbolUkkRINZk5BS) | [I Wish I Knew](https://open.spotify.com/album/1lEpsN0KgGGljcFuZ0DtXE) | 4:23 | 2022-06-28 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/0HFVyPMlIufaMqeLgnz8Ec) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 | 2022-06-28 |  |
 | [I'm in the Mood for Love](https://open.spotify.com/track/5mmeNg2rN1v5VPvgO43uRT) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I'm in the Mood for Love](https://open.spotify.com/album/7ps9PviK3EPPUJbZ7hPrsi) | 4:14 | 2022-06-28 |  |
@@ -90,6 +91,7 @@
 | [In A Mellow Tone](https://open.spotify.com/track/3L3QPczEW3sSf17X7rwwC3) | [The Red Robin Quartet](https://open.spotify.com/artist/6JonKaJAREHNEYiCFcJBVn) | [Mellow Tone](https://open.spotify.com/album/3O30VlAacllXWOuJzXEW0S) | 3:35 | 2022-06-28 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/4Yei8oBWmxHrq1pruXvB5X) | [Side Room Jazz Trio](https://open.spotify.com/artist/7DfzAmllvhumQ0GJEGPRd9) | [In A Sentimental Mood](https://open.spotify.com/album/614NnEy0gPe8NegggUquNa) | 5:28 | 2022-06-28 |  |
 | [In The Wee Small Hours of the Morning](https://open.spotify.com/track/6E1m3l49ocTr2gKzl3lFvT) | [The Andy Love Band](https://open.spotify.com/artist/4psWzLHJ7pHepkJn6euY1S) | [Sidewinder](https://open.spotify.com/album/1Oni0D0iiqXbix69OQ0Cot) | 4:22 | 2022-06-28 |  |
+| [Independence Road](https://open.spotify.com/track/5N0y8OEkKUkiC8IhAWsFpm) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:02 | 2022-06-28 |  |
 | [Infinite Love](https://open.spotify.com/track/05TyTjyZ4mouBU8W4hSY5s) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Infinite Love](https://open.spotify.com/album/7hSXgTzVsJpbbYYAPLPi9f) | 4:11 | 2022-06-28 |  |
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-06-28 |  |
 | [Isfahan](https://open.spotify.com/track/4t3Dtmfpj7jTZurwtJVQg5) | [Lauren Richardson](https://open.spotify.com/artist/22cERTGpksi71aIOeGVYf6) | [A Flower is a Lonesome Thing](https://open.spotify.com/album/1lyGazJswD2YoFvtE2hSCV) | 3:42 | 2022-06-28 |  |
@@ -142,6 +144,7 @@
 | [On a Clear Day \(You Can See Forever\)](https://open.spotify.com/track/6zeTz2j5A9G6gEKi34ks05) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:25 | 2022-06-28 |  |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2022-06-28 |  |
 | [Our Best Year Yet](https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa) | [Andi Weiss Trio](https://open.spotify.com/artist/7pMhB3Lo7q9XPC4pbNdRlp) | [Our Best Year Yet](https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL) | 4:38 | 2022-06-28 |  |
+| [Out of a misty dream](https://open.spotify.com/track/487y37ICkH10Ve0u0kvia1) | [Milo Oliver Band](https://open.spotify.com/artist/1utH7b11duWqqaVmgGFW9H) | [Love is not so easily shed](https://open.spotify.com/album/2kpK0IAXQzd7nRGtJBa8yo) | 3:12 | 2022-06-28 |  |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/7ALLGPWvUBlCkMuWGWkt1u) | [Alexander Berman Quartet](https://open.spotify.com/artist/5Mw51lrS2LcugNZuZG5LIX) | [Moon River](https://open.spotify.com/album/7eYh1aQ15wakx4E7fK2UQ8) | 5:56 | 2022-06-28 |  |
 | [Postcards](https://open.spotify.com/track/1IxO95D87hSIyA20XTLCiU) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Postcards](https://open.spotify.com/album/6Oi5hnd7ZOiAlhv9AYTenT) | 3:05 | 2022-06-28 |  |
 | [Prelude to a Kiss](https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 5:25 | 2022-06-28 |  |

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 266133,
       "name": "A Veces Vuelvo",
       "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 358000,
       "name": "Amor Ausente (En Vivo) (with Abel Pintos)",
       "url": "https://open.spotify.com/track/1sD9vqr4ariNYWc4ifbpOi"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 281386,
       "name": "Cae el Sol",
       "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 221946,
       "name": "Dejo Atr\u00e1s",
       "url": "https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 256255,
       "name": "Del Olvido",
       "url": "https://open.spotify.com/track/6w7EejAq22cFNV5Yo4Vrlt"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 268998,
       "name": "El Riesgo",
       "url": "https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/6eiNg8p7GYO7x0GXM4zplv"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 321640,
       "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 334600,
       "name": "Ji Ji Ji",
       "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 217373,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 276106,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/7EPUJ2KzWN78H9gM7pfAaP"
@@ -1913,7 +1913,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 230954,
       "name": "Ni Siquiera",
       "url": "https://open.spotify.com/track/3Bm1HGtE8GdHI9wp6U0O8P"
@@ -2051,7 +2051,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 211100,
       "name": "Para Mucho M\u00e1s",
       "url": "https://open.spotify.com/track/6N2KX0WX4k7Q5gXJf2z7kL"
@@ -2207,6 +2207,24 @@
       "duration_ms": 283884,
       "name": "Por Mil Noches",
       "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
+    },
+    {
+      "album": {
+        "name": "Rocanroles Sin Destino",
+        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210013,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
     },
     {
       "album": {
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 284756,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
@@ -2579,7 +2597,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 246858,
       "name": "Tan Solo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2kXVg8VLdF3YXZ4NLSqsoz"
@@ -2721,7 +2739,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 237035,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/52Dq7xuXXP66zCJLTf94K8"
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 183882,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"

@@ -2,9 +2,9 @@
 
 ### [Bollywood Butter](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> The finest quality of Bollywood music handpicked for you\. Cover\- Arijit Singh
+> The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
 
-55 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/3aiNMDFKRmhdg4lRDcg4QM)
+56 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/3aiNMDFKRmhdg4lRDcg4QM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/7Lcp4QlpR3RDngYejm4fmS) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/5R62UdMrx8tGmDVJragQtq) | 3:28 | 2022-05-23 |  |
 | [Kalank \(Title Track\)](https://open.spotify.com/track/1Y8jKq7CYLEW6PWp11jWZC) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kalank \- Title Track \(Kalank\)](https://open.spotify.com/album/7kI80voi344SC3E6vlVZfn) | 5:11 | 2022-05-23 |  |
 | [Kalle Kalle \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/5o6q9gQXi5umBrUczroW79) | [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Kalle Kalle \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/6QJUBLyhuSfrrXsdxvbHT5) | 3:47 | 2022-05-23 |  |
+| [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 | 2022-07-17 |  |
 | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/track/46NYX9zIml71qtfYYjakTI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/album/715BUKTdGdNjePHLhRltCT) | 0:44 | 2022-05-23 |  |
 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 | 2022-05-23 |  |
 | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9) | 3:15 | 2022-05-23 |  |

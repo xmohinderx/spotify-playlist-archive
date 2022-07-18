@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 114477,
       "name": "= (Equal Sign)",
       "url": "https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -1902,6 +1902,24 @@
     },
     {
       "album": {
+        "name": "die first",
+        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177108,
+      "name": "die first",
+      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+    },
+    {
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
       },
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 195598,
       "name": "Etnaset",
       "url": "https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU"
@@ -2809,7 +2827,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 139308,
       "name": "Future",
       "url": "https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h"
@@ -3361,7 +3379,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 230587,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7crSbQ5sZmLWx9aKqdReXa"
@@ -3415,7 +3433,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -3981,7 +3999,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 58871,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0M7ai1yfYyb4OlyRgdmtTK"
@@ -4833,6 +4851,28 @@
     {
       "album": {
         "name": "Living Life, In The Night",
+        "url": "https://open.spotify.com/album/1d2GYtUIcaf1jqjFc7P5hL"
+      },
+      "artists": [
+        {
+          "name": "Cheriimoya",
+          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+        },
+        {
+          "name": "Sierra Kidd",
+          "url": "https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122517,
+      "name": "Living Life, In The Night",
+      "url": "https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU"
+    },
+    {
+      "album": {
+        "name": "Living Life, In The Night",
         "url": "https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD"
       },
       "artists": [
@@ -4873,28 +4913,6 @@
       "duration_ms": 122908,
       "name": "Living Life, In the Night",
       "url": "https://open.spotify.com/track/7d9wfIzzsb46HWVEso2zvK"
-    },
-    {
-      "album": {
-        "name": "Living Life, In The Night (feat. Sierra Kidd)",
-        "url": "https://open.spotify.com/album/1d2GYtUIcaf1jqjFc7P5hL"
-      },
-      "artists": [
-        {
-          "name": "Cheriimoya",
-          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
-        },
-        {
-          "name": "Sierra Kidd",
-          "url": "https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT"
-        }
-      ],
-      "date_added": "2022-07-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 122517,
-      "name": "Living Life, In The Night (feat. Sierra Kidd)",
-      "url": "https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU"
     },
     {
       "album": {
@@ -5495,7 +5513,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 121972,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
@@ -5901,7 +5919,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 70546,
       "name": "Music Box : Reflection",
       "url": "https://open.spotify.com/track/0PJSXtjkdTjJzZAMyNus02"
@@ -6703,7 +6721,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 156291,
       "name": "Pandora's Box",
       "url": "https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm"
@@ -7529,7 +7547,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 165340,
       "name": "Safety Zone",
       "url": "https://open.spotify.com/track/00I41xsW6SunZDJ5fB8KAd"
@@ -7845,7 +7863,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 295308,
       "name": "Shootout",
       "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
@@ -8205,7 +8223,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 122211,
       "name": "STOP",
       "url": "https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7"
@@ -8959,7 +8977,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
@@ -9211,7 +9229,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 136063,
       "name": "What if\u2026",
       "url": "https://open.spotify.com/track/1fNwwml8UcKvhfM6YEVIRh"
@@ -9501,7 +9519,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 193593,
       "name": "Yet To Come",
       "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
@@ -9721,7 +9739,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 340363,
       "name": "\u0623\u0634\u0643\u0631\u0647\u0645",
       "url": "https://open.spotify.com/track/1lyfIKSaiuKqY9eFdpx1rH"
@@ -9847,7 +9865,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
@@ -9973,7 +9991,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 249302,
       "name": "\u0628\u0627\u0634\u0627 \u0628\u0627\u0634\u0627",
       "url": "https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc"

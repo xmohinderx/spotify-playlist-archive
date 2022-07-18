@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,514 likes - 47 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,517 likes - 47 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 8 | [Keep It Comin'](https://open.spotify.com/track/6zwOWgENLbmgzJWbrZhRaB) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:49 |
 | 9 | [\(I Found\) That Man of Mine](https://open.spotify.com/track/4ykwkuk4VAGCCF82pMadSE) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:09 |
 | 10 | [This Feeling's Killing Me](https://open.spotify.com/track/5gAMkPxCW7pB61JchjPKTd) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:30 |
-| 11 | [Let's Celebrate \(Sittin' on Top of the World\)](https://open.spotify.com/track/27imdcYKcQ6ZxSgjG43TUY) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:19 |
+| 11 | [Children of the Night](https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 5:11 |
 | 12 | [You Can't Have My Love](https://open.spotify.com/track/5LoDGcEWiT7eQ62805XXct) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:24 |
-| 13 | [Knockin'](https://open.spotify.com/track/4DGWf5ehVZquFQmU3KfWl4) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:04 |
+| 13 | [2 Win U Back](https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:56 |
 | 14 | [I'm At Your Mercy](https://open.spotify.com/track/7BhOkKfnWoMoisAN6bQIuR) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:48 |
-| 15 | [Children of the Night](https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 5:11 |
+| 15 | [Let's Celebrate \(Sittin' on Top of the World\)](https://open.spotify.com/track/27imdcYKcQ6ZxSgjG43TUY) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:19 |
 | 16 | [When a Woman's in Love](https://open.spotify.com/track/7yNoOvTRXMiXEFqkdKdoQR) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:52 |
-| 17 | [2 Win U Back](https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:56 |
+| 17 | [Knockin'](https://open.spotify.com/track/4DGWf5ehVZquFQmU3KfWl4) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:04 |
 | 18 | [Life Goes On](https://open.spotify.com/track/5o89I5aJYHe4QgleBC7bNu) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:28 |
 | 19 | [I Just Love the Man](https://open.spotify.com/track/75kdiW5wYlxgIDTtIOTcvt) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:41 |
 | 20 | [Night over Egypt](https://open.spotify.com/track/0Pjv2WSeSTESOoUCNX0z97) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Funk Anthology, Vol\. 2](https://open.spotify.com/album/7Hsayuuecr1xNreEMbGxPV) | 1:46 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 46 | [Lovers for Life](https://open.spotify.com/track/70TgN1YwZOaqBmPLKOfbus) | [Richard Anthony Davis](https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL), [Emmanuel](https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o), [Chris Ballin](https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W), [Dean Edwards](https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh), [Anthony Drakes](https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza), [Julianne](https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR), [The Sound Principle](https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw) | [Soul Central, Vol\. 1](https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya) | 4:57 |
 | 47 | [Where Is Your Love](https://open.spotify.com/track/3QIwoc5zELFOJGSiLrnE3r) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:57 |
 
-Snapshot ID: `Mjc2MzMwMjksMDAwMDAwMDBkNTUzNTA5NjA4ZTE5ODkwYmYwY2Y1YzllNzZhODNjOQ==`
+Snapshot ID: `Mjc2MzQ0MjgsMDAwMDAwMDBjYjlmODA0YzUxY2RmODc3N2FkNGRlYmJiNjU5ZjdjNQ==`

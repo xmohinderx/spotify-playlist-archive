@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,253,178 likes - 64 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,253,497 likes - 64 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 21 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 |
 | 22 | [Hard To Love](https://open.spotify.com/track/2zFJjY8oyKj5HH7guLiWFt) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 4:02 |
 | 23 | [Hennessy Tears](https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 4:03 |
-| 24 | [TALK TO ME](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 3:07 |
+| 24 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
 | 25 | [Say Less](https://open.spotify.com/track/1iSkgpFIPBTvaCTYr0XoFq) | [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz) | [Songs That I Hate to Sing](https://open.spotify.com/album/5M46rpIqXw0R1nfzXoQQMW) | 2:24 |
 | 26 | [Open Up](https://open.spotify.com/track/0MPUFzx6mhOD8CSDLMISna) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Intersections](https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N) | 3:38 |
 | 27 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |

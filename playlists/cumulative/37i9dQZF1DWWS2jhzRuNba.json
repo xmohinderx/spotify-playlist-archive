@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 243773,
       "name": "Cupid's Chokehold / Breakfast in America",
       "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 199505,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 251488,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
@@ -643,6 +643,24 @@
       "duration_ms": 156545,
       "name": "Futon",
       "url": "https://open.spotify.com/track/0F57gwy0G6aqnaMAH1ELSV"
+    },
+    {
+      "album": {
+        "name": "Love Is the Law",
+        "url": "https://open.spotify.com/album/41GbiDyQZpyGmjgdGbWlZ3"
+      },
+      "artists": [
+        {
+          "name": "The Memories",
+          "url": "https://open.spotify.com/artist/4sGXRKVt3jXcqjUCRuK67C"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60693,
+      "name": "Go Down on You",
+      "url": "https://open.spotify.com/track/4DkeNKHcmZo2Z0Eb1XcaNC"
     },
     {
       "album": {
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 144000,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 179499,
       "name": "Looking Out for You",
       "url": "https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "seaside_demo",
       "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
