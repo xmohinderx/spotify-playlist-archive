@@ -1,12 +1,12 @@
 {
   "description": "Global crossovers by/with Arab artists. Cover: ElGrandeToto x Ayra Starr.",
-  "num_followers": 119682,
+  "num_followers": 119737,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODA1NjM1MiwwMDAwMDJhMDAwMDAwMTgyMGJkYzIyZTIwMDAwMDE4MWRkNWNhNTE4",
+  "snapshot_id": "MTY1ODEzODQ4MiwwMDAwMDJhMTAwMDAwMTgyMTBjMTU2NDEwMDAwMDE4MWRkNWNhNTE4",
   "tracks": [
     {
       "added_at": "2022-07-17 11:12:32",
@@ -151,6 +151,22 @@
     {
       "added_at": "2022-07-17 11:12:32",
       "album": {
+        "name": "BETTER DAYS",
+        "url": "https://open.spotify.com/album/6R5VVjgUy508TNYkyw5pTQ"
+      },
+      "artists": [
+        {
+          "name": "Ril\u00e8s",
+          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "BETTER DAYS",
+      "url": "https://open.spotify.com/track/5GQvtRxFB12OD7H7gOzLba"
+    },
+    {
+      "added_at": "2022-07-17 11:12:32",
+      "album": {
         "name": "RIP, Love",
         "url": "https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 188665,
       "name": "Enta",
       "url": "https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi"
-    },
-    {
-      "added_at": "2022-07-17 11:12:32",
-      "album": {
-        "name": "BETTER DAYS",
-        "url": "https://open.spotify.com/album/6R5VVjgUy508TNYkyw5pTQ"
-      },
-      "artists": [
-        {
-          "name": "Ril\u00e8s",
-          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "BETTER DAYS",
-      "url": "https://open.spotify.com/track/5GQvtRxFB12OD7H7gOzLba"
     },
     {
       "added_at": "2022-07-17 11:12:32",

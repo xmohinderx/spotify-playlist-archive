@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 130669,
       "name": "Cajas De Parke",
       "url": "https://open.spotify.com/track/2yIKNAZ0eXxTx3r3Emfmdk"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 245853,
       "name": "Dolor Maquillado",
       "url": "https://open.spotify.com/track/6AgYfAUT7HKK2EGv4euZUV"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 238071,
       "name": "El Mal Camino",
       "url": "https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 153457,
       "name": "El Mismo Ni\u00f1o",
       "url": "https://open.spotify.com/track/4ZLllYUHDtQD6JIwgE5qsi"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 214148,
       "name": "Est\u00e1 Da\u00f1ada",
       "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
@@ -1122,6 +1122,24 @@
     },
     {
       "album": {
+        "name": "La Nueva Generacion",
+        "url": "https://open.spotify.com/album/0Ywgf0mdv0JIzPVuLJuOUW"
+      },
+      "artists": [
+        {
+          "name": "Clave 520",
+          "url": "https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208750,
+      "name": "La Nueva Generacion",
+      "url": "https://open.spotify.com/track/3XKbU2FWC2PDkaIAk4Gf8f"
+    },
+    {
+      "album": {
         "name": "La Catafixia",
         "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
       },
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 193870,
       "name": "Mi Morenita",
       "url": "https://open.spotify.com/track/1ZvVinhAqHiK8YdjXu1Cnr"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 178750,
       "name": "Por un Malandro",
       "url": "https://open.spotify.com/track/2MQPxzwvpgcJ4kBNBB0UjK"
@@ -1599,7 +1617,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 271922,
       "name": "Quiero Estar Contigo",
       "url": "https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 174080,
       "name": "Rayas En La Cara",
       "url": "https://open.spotify.com/track/3WxrfhDdNCHEy8ofNFSqsf"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 101680,
       "name": "Ya Viv\u00ed El Desamor",
       "url": "https://open.spotify.com/track/5SZcsfj451HOgs3GYxOHgj"

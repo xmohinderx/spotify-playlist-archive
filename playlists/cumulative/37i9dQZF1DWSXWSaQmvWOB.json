@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-03-25",
-  "description": "Your daily dose of soul-infused music! Cover: Raphael Saadiq",
+  "description": "Your daily dose of soul-infused music! Cover: Cory Henry",
   "name": "Soul 'n' the City",
   "published_playlist_ids": [
     "6qA0E068EG9WMYU2rtBJTj"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 188333,
       "name": "Change - from the Netflix Series \"We The People\"",
       "url": "https://open.spotify.com/track/6xVNLDRZtnQsKGKIbPxUi5"
@@ -6504,6 +6504,24 @@
     },
     {
       "album": {
+        "name": "Do It with Love",
+        "url": "https://open.spotify.com/album/4t9YE3Pj9wjKKX5NxTSPov"
+      },
+      "artists": [
+        {
+          "name": "Marvin Brooks",
+          "url": "https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205103,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/0s1Ncm2ZxANbKVFFAQNtPN"
+    },
+    {
+      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy"
       },
@@ -6951,7 +6969,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Royal Cologne",
       "url": "https://open.spotify.com/track/1Ms9FqdbzWzDkv6KSJE10U"
@@ -7297,7 +7315,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
@@ -8433,7 +8451,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "These Fires",
       "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
@@ -8695,7 +8713,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 190438,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"

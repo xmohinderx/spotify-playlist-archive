@@ -486,6 +486,56 @@
     },
     {
       "album": {
+        "name": "Mozart: Requiem In D Minor",
+        "url": "https://open.spotify.com/album/4tar8qSUz4gxnXV9H6xwjM"
+      },
+      "artists": [
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Jaroslava Horska",
+          "url": "https://open.spotify.com/artist/6UhWIdPqpOwvdLS2Y9BL92"
+        },
+        {
+          "name": "Vladimir Ruso",
+          "url": "https://open.spotify.com/artist/4IDQ72Ocuew3E1IybQ9pS7"
+        },
+        {
+          "name": "Peter Mikulas",
+          "url": "https://open.spotify.com/artist/59vBfT1r5y1VZ2XhXg2ixg"
+        },
+        {
+          "name": "Stefan Klimo",
+          "url": "https://open.spotify.com/artist/1DfbT3a2A9T157dOeKZ7Wy"
+        },
+        {
+          "name": "Slovak Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/5x7Kp2knfxL9XwzQmmHc6P"
+        },
+        {
+          "name": "Jozef Kundl\u00e1k",
+          "url": "https://open.spotify.com/artist/7rqISdBrqKEzmMgsIth0v5"
+        },
+        {
+          "name": "Magdal\u00e9na Haj\u00f3ssyov\u00e1",
+          "url": "https://open.spotify.com/artist/6HVRP4tBi40K1Cw1ZPkhtD"
+        },
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
+      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl"
+    },
+    {
+      "album": {
         "name": "Mozart: Requiem; Kyrie in D minor",
         "url": "https://open.spotify.com/album/293G46p7rLh8foiWJ0L5hg"
       },
@@ -509,7 +559,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 170426,
       "name": "Requiem in D minor, K.626: 3. Sequentia: Lacrimosa",
       "url": "https://open.spotify.com/track/0vzWKlWpy6u6RtnjQe5U7v"

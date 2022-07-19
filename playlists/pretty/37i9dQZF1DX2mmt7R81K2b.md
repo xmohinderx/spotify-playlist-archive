@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,597 likes - 44 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,645 likes - 44 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/7hdbfMdjsdclkZONmT7lD6) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Voice](https://open.spotify.com/album/1LeBjxguhl0sNpmJSc4aKu) | 5:13 |
-| 2 | [Peace Piece](https://open.spotify.com/track/1OIf9HdeZ0V0F6kSbgnBoO) | [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Kronos Quartet: Music Of Bill Evans](https://open.spotify.com/album/5vGOb3jAa4wv7ZS0mL2IfF) | 7:11 |
-| 3 | [Variation 25 \(From J.S\. Bach: Goldberg Variations, BWV 988\)](https://open.spotify.com/track/6FCsAVLJWMamkoglmADxS6) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [En attendant](https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv) | 7:11 |
-| 4 | [Gnossienne No\. 1](https://open.spotify.com/track/5mjFeu4fGH6RgpklX4vAAs) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 6:56 |
+| 2 | [Variation 25 \(From J.S\. Bach: Goldberg Variations, BWV 988\)](https://open.spotify.com/track/6FCsAVLJWMamkoglmADxS6) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [En attendant](https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv) | 7:11 |
+| 3 | [Gnossienne No\. 1](https://open.spotify.com/track/5mjFeu4fGH6RgpklX4vAAs) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 6:56 |
+| 4 | [Peace Piece](https://open.spotify.com/track/1OIf9HdeZ0V0F6kSbgnBoO) | [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Kronos Quartet: Music Of Bill Evans](https://open.spotify.com/album/5vGOb3jAa4wv7ZS0mL2IfF) | 7:11 |
 | 5 | [Passepied nouveau](https://open.spotify.com/track/0Ojn5HBy1lcILqz4m0Nj2h) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Monsieur Claude \(A Travel with Claude Debussy\)](https://open.spotify.com/album/1Eh0JcWtm36zjJaR276Rph) | 4:50 |
 | 6 | [Prelude in E Minor](https://open.spotify.com/track/44ZIZqZyUSJciKQzKlGvZf) | [Shahin Novrasli](https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2) | [BAYATI](https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c) | 6:42 |
 | 7 | [Pavane](https://open.spotify.com/track/1pASaPpC5gkDDQlcZi1QKi) | [Regina Carter](https://open.spotify.com/artist/3lWP7nrnwtWJFOANMDz0GJ) | [Paganini: After A Dream](https://open.spotify.com/album/5iW2cWp53rs2JDCW7lbXc2) | 5:24 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 43 | [Ornithology \(Arr\. for Recorder and Ensemble\)](https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [Fuse](https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP) | [Parker: Ornithology \(Arr\. for Recorder and Ensemble\)](https://open.spotify.com/album/1gi2fFJa1ablewcCparDeG) | 2:50 |
 | 44 | [Turkish Rondo](https://open.spotify.com/track/2QJg3WPi2to3IOA3WfHBlO) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 3:37 |
 
-Snapshot ID: `MTY1NzYzNjY1NiwwMDAwMDAzMzAwMDAwMTgxZjJkODE1ZjkwMDAwMDE4MWM4Nzg4NGZj`
+Snapshot ID: `MTY1ODEyODQxOSwwMDAwMDAzNDAwMDAwMTgyMTAyN2M5ZDIwMDAwMDE4MWM4Nzg4NGZj`

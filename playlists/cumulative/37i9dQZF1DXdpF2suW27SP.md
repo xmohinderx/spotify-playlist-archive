@@ -4,7 +4,7 @@
 
 > Wet Bed Gang entram na zona.
 
-74 songs - 4 hr 6 min - not published yet
+74 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

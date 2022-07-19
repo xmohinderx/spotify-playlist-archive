@@ -670,6 +670,28 @@
     },
     {
       "album": {
+        "name": "KIFKIF",
+        "url": "https://open.spotify.com/album/3jc1hsgXkElhSuud62MDDt"
+      },
+      "artists": [
+        {
+          "name": "Ali S Music",
+          "url": "https://open.spotify.com/artist/5eOPZ5faFYHymqWmpg7c6m"
+        },
+        {
+          "name": "PROFIT ZA3IM",
+          "url": "https://open.spotify.com/artist/48bjrojtnj3wjC1cSvGX9z"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224864,
+      "name": "KIFKIF",
+      "url": "https://open.spotify.com/track/0Ssdb1vqoW6w2eRgZT1Itp"
+    },
+    {
+      "album": {
         "name": "Vangogh",
         "url": "https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j"
       },
@@ -1059,7 +1081,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 204800,
       "name": "Roma - Radio Edit",
       "url": "https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG"

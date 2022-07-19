@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-96 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+97 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-06-08 | 2022-06-17 |
 | [Androgynous](https://open.spotify.com/track/2Nt3eMQmFQKUxpeprIxIlW) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Androgynous](https://open.spotify.com/album/3VMXNlsJNUrKuJu5bFTJvJ) | 3:32 | 2022-07-13 |  |
 | [Anima](https://open.spotify.com/track/2wrGTAittO2Kh4DI1H5kX1) | [Gwenno](https://open.spotify.com/artist/44mRrrRjaV8iu1VLIKuwty) | [Tresor](https://open.spotify.com/album/78lZv9dM7CBDIblhnVAXH7) | 3:18 | 2022-07-06 |  |
+| [As Innocent Looking As Candy](https://open.spotify.com/track/1UZxXSDDaOABCoYhpi4BCJ) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [The Redaction](https://open.spotify.com/album/7s8s81xhb27Y13HQLx20be) | 1:59 | 2022-07-18 |  |
 | [Bad Faith \(feat\. Mandy, Indiana\)](https://open.spotify.com/track/5y1yivW0K8a4JqqOKn9WAH) | [Regressive Left](https://open.spotify.com/artist/2MleSirgvp1oX5un0fbgcy), [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Bad Faith](https://open.spotify.com/album/15IAPEq7DhIb7EXeIbY7VK) | 4:02 | 2022-06-08 | 2022-06-30 |
 | [Belong To Heaven](https://open.spotify.com/track/2jVyFmTMPX6z1IBj9yD7Y9) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Belong To Heaven](https://open.spotify.com/album/6MWLPGQ4kR8z6mFFnxKALE) | 4:11 | 2022-06-08 | 2022-06-17 |
 | [Betelgeuse](https://open.spotify.com/track/17k3mmarEw2guj3Iiy4CxB) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Hyaline](https://open.spotify.com/album/6J1NeQ3OmX4LW5Yg9EhPjd) | 4:22 | 2022-06-16 |  |

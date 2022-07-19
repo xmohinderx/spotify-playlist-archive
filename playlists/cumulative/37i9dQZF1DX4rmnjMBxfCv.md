@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Nancy Ajram & Marshmello.
 
-56 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+57 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Akhedni Maak](https://open.spotify.com/track/1Z08bNXzoSDyzyIp8Sf3Pj) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Akhedni Maak](https://open.spotify.com/album/0ao8ZKXGvdzrvT0MoLM5em) | 2:35 | 2022-03-30 |  |
 | [Ala Moj Al Bahr \- Live Album](https://open.spotify.com/track/3rA7tw0opq9qK1NNh2BwaA) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:28 | 2022-05-19 |  |
 | [Balash Ana \(feat\. Carmen Soliman\) \- Mark Shakedown Remix](https://open.spotify.com/track/5OqRDjqBxLUPMOYCqDbxM1) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt), [Mark Shakedown](https://open.spotify.com/artist/0owA2yBBDFjsmyBi4pgVgo) | [Balash Ana \(feat\. Carmen Soliman\) \[Mark Shakedown Remix\]](https://open.spotify.com/album/0XRO7fTxTScR6cf3HkICBv) | 3:07 | 2022-03-30 |  |
+| [Challenge](https://open.spotify.com/track/2sGnPdcKoE0y3LbVty41dj) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/07ajJhk49mdl63VL23JAqw) | 1:54 | 2022-07-18 |  |
 | [El Hawa](https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr), [Hayam Mansour](https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6) | [El Hawa](https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T) | 5:47 | 2022-03-30 |  |
 | [Elli Baana](https://open.spotify.com/track/6mPvxcBg9C5Msy6sJQtLdQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Elli Baana \(RANDALL Remix\)](https://open.spotify.com/album/0nScFV3dpOKHTivxuxAFqg) | 3:22 | 2022-03-30 |  |
 | [Enta Eli Hweyt](https://open.spotify.com/track/5stEpLG1ZgM1NgBFdLtC1h) | [Dj Dhaker](https://open.spotify.com/artist/1ax0bpZCDJJUtboJscmVlT), [Garmi](https://open.spotify.com/artist/00YDvtHd6GtfpKNHwJoF4o) | [Enta Eli Hweyt](https://open.spotify.com/album/2GZP4oD2TiwkzUxQGymvQy) | 3:45 | 2022-03-30 |  |

@@ -4,7 +4,7 @@
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Ama Dee
 
-299 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+300 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [DPCM](https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [DPCM](https://open.spotify.com/album/62KifhpcdcHUfo2q58HSyX) | 2:24 | 2022-03-17 | 2022-04-20 |
 | [DREAMLAND](https://open.spotify.com/track/3iPO5c1yBL2YO7hvyA9oYq) | [Esma](https://open.spotify.com/artist/150z0GzBQU8W02VLhw1dCF), [BABILONIA](https://open.spotify.com/artist/30YUVsrzLIs9w5ejdlquGm) | [DREAMLAND](https://open.spotify.com/album/1tFzHNn0iy69H0mESMO0dG) | 3:04 | 2022-06-23 | 2022-07-15 |
 | [DUE PUNTI PARENTESI](https://open.spotify.com/track/2eHWYDuQtme0a0nBmJn286) | [Demï](https://open.spotify.com/artist/7IwAuqqh9EUk6mlD9ZLFy0) | [DUE PUNTI PARENTESI](https://open.spotify.com/album/1UzynnhgvD247VCKQFIkVL) | 1:55 | 2022-06-23 |  |
-| [Easy](https://open.spotify.com/track/5Tr0ol7vcovoGqotDfvkwB) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Easy](https://open.spotify.com/album/2tIsEywEdtGcrt5vj8hF8C) | 3:15 | 2022-06-02 |  |
+| [Easy](https://open.spotify.com/track/5Tr0ol7vcovoGqotDfvkwB) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Easy](https://open.spotify.com/album/2tIsEywEdtGcrt5vj8hF8C) | 3:15 | 2022-06-02 | 2022-07-19 |
 | [eCooltra](https://open.spotify.com/track/0gME98nlmJ3ELluzumLK9U) | [Juli](https://open.spotify.com/artist/2sK3zc7YU0Jhx9VczDkCkF) | [eCooltra](https://open.spotify.com/album/2QezV8f0vA8mkSBoglGa2v) | 2:48 | 2022-05-19 | 2022-07-01 |
 | [Eleven](https://open.spotify.com/track/43kunJHghKGr4PDeTi86Gr) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 5:38 | 2022-06-09 |  |
 | [ESAGERO EMOZIONI](https://open.spotify.com/track/4LwFRgfMW5LCStueaVtGh8) | [FDP](https://open.spotify.com/artist/5vX1tbFG6NuGSbwWO420JO), [Zerbo](https://open.spotify.com/artist/3cxzA1W08BBDKlAtVG09Zg) | [ESAGERO EMOZIONI](https://open.spotify.com/album/5PPlMx6qAuRLiIm8IEYpqJ) | 3:30 | 2022-05-19 | 2022-06-03 |
@@ -99,6 +99,7 @@
 | [Fantasma quattro](https://open.spotify.com/track/5av6NKEUJksROjH1AayoEw) | [Sonambient](https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn) | [Fantasma quattro](https://open.spotify.com/album/0oZgsmX3fhOoZlhvrTfvGH) | 3:29 | 2022-04-26 | 2022-06-03 |
 | [Fantasmi](https://open.spotify.com/track/41jKeFW7GBJSG5d307hilw) | [Giovane Giovane](https://open.spotify.com/artist/4BAxuRON1nw7gbgNTSAKAI), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Fantasmi](https://open.spotify.com/album/5QCFr0ADELohMoZZ97inu8) | 3:03 | 2022-06-30 |  |
 | [FELICITÀ](https://open.spotify.com/track/7iEEPQoP5KyUrrWl3xKCIf) | [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90) | [FELICITÀ](https://open.spotify.com/album/20LMfMWno4ZAIRQSunGdCr) | 2:15 | 2022-04-19 | 2022-05-20 |
+| [Felpa Blu](https://open.spotify.com/track/7lUJXeZSVnPuv9ihy6Z5xC) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Felpa Blu](https://open.spotify.com/album/6eOwrCImdIYh5tHKFSZAME) | 2:55 | 2022-07-18 |  |
 | [Fiamme](https://open.spotify.com/track/2euyb7bOAP2flhP9N7NWnY) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Heroin Chic](https://open.spotify.com/album/0piSxMtqsLKptzqTtfGQqb) | 3:10 | 2022-07-07 |  |
 | [Fiammifero \(feat\. Saint Abel\)](https://open.spotify.com/track/2fOIBo7mFG0bKNUMnGE8kU) | [fear](https://open.spotify.com/artist/7uYz8KI7EFdecCYUPADrVF), [Cherry Ills](https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3), [noom](https://open.spotify.com/artist/0I3l2AGOa1OXzZWL5Pm3D7), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt) | [Fiammifero \(feat\. Saint Abel\)](https://open.spotify.com/album/5djlcgNK2Vpb48vuWE3D40) | 2:28 | 2022-06-23 |  |
 | [FILM AMERICANI](https://open.spotify.com/track/3D6INHioHKzzzL8wdIJ963) | [Piazza](https://open.spotify.com/artist/1sWHILK0UhZBC0GsT6Wy9H) | [FILM AMERICANI](https://open.spotify.com/album/7FcApNMMQVhwRluJTLGNiR) | 2:38 | 2022-02-17 | 2022-03-25 |

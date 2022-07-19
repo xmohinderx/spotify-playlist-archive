@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 226026,
       "name": "All New Edition",
       "url": "https://open.spotify.com/track/4fCYohh0NH3BxteuxID7cP"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 228440,
       "name": "AMERICAN GURL",
       "url": "https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 176335,
       "name": "Archon",
       "url": "https://open.spotify.com/track/0MlrPAiB0PtE5VOrZ8PuAs"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 207250,
       "name": "Bad Hoe",
       "url": "https://open.spotify.com/track/6OGvHDjNLuEJoBc8BEQWBP"
@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 186723,
       "name": "black tie party",
       "url": "https://open.spotify.com/track/2CV7Q6adzzgj3jEpy4kF3Q"
@@ -2437,7 +2437,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 201160,
       "name": "BUZZCUT (feat. Danny Brown)",
       "url": "https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6"
@@ -2975,7 +2975,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 173840,
       "name": "CHOICE COWBOY",
       "url": "https://open.spotify.com/track/7BjbkbWJrPfRp0Z4NUvYhp"
@@ -3695,7 +3695,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 217170,
       "name": "CRASH COURSE",
       "url": "https://open.spotify.com/track/2nkKGF3kerIiYuAlLdZrGZ"
@@ -4017,7 +4017,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 201974,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto"
@@ -4217,7 +4217,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 151676,
       "name": "Death n' Taxes",
       "url": "https://open.spotify.com/track/1g7IP3DUgprNzIljpsdAun"
@@ -4520,6 +4520,24 @@
     },
     {
       "album": {
+        "name": "double standard",
+        "url": "https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203606,
+      "name": "double standard",
+      "url": "https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq"
+    },
+    {
+      "album": {
         "name": "down",
         "url": "https://open.spotify.com/album/3OrjP0MaPUu1I54iBxe5O8"
       },
@@ -4531,7 +4549,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 129500,
       "name": "down",
       "url": "https://open.spotify.com/track/783PsmPNi2KHNk8PwR2rk2"
@@ -4781,6 +4799,28 @@
       "duration_ms": 144214,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/6TBvA5Z0eSPVxtuPTffjuJ"
+    },
+    {
+      "album": {
+        "name": "EMPATHY",
+        "url": "https://open.spotify.com/album/4lB8S9ktn7fBvfzlyHa1mx"
+      },
+      "artists": [
+        {
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        },
+        {
+          "name": "Matt Martians",
+          "url": "https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115029,
+      "name": "EMPATHY",
+      "url": "https://open.spotify.com/track/1DazfftT2hCHbeYJdRw1qo"
     },
     {
       "album": {
@@ -5735,7 +5775,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 163666,
       "name": "freak",
       "url": "https://open.spotify.com/track/4OW25A2SxYvRDlGK4KN6s3"
@@ -6831,10 +6871,28 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-16",
+      "date_removed": null,
       "duration_ms": 177324,
       "name": "haircut",
       "url": "https://open.spotify.com/track/2TAPDfBVQU50hNcbGUq9Q8"
+    },
+    {
+      "album": {
+        "name": "Ugh",
+        "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Half Full",
+      "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
     },
     {
       "album": {
@@ -7341,7 +7399,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 114947,
       "name": "hit it light it twist it",
       "url": "https://open.spotify.com/track/4MYkI9KHjQmWN0SmSbO1QG"
@@ -7385,7 +7443,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 191047,
       "name": "Hitting Different",
       "url": "https://open.spotify.com/track/56Q2pmSdy0jCJKEW6a5DsV"
@@ -8553,7 +8611,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-14",
+      "date_removed": null,
       "duration_ms": 135516,
       "name": "Indecisive (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9"
@@ -8571,7 +8629,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 139805,
       "name": "independent films",
       "url": "https://open.spotify.com/track/2lxl55hHNfA6L9uKqeCIlS"
@@ -8749,7 +8807,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 181129,
       "name": "Jade",
       "url": "https://open.spotify.com/track/6x2UXxRdaIBW7a9UOzSqAj"
@@ -9947,7 +10005,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 136110,
       "name": "LOVE, STARGIRL",
       "url": "https://open.spotify.com/track/1AgJta10Dm76yA5uz7EuTV"
@@ -10135,6 +10193,24 @@
       "duration_ms": 170468,
       "name": "Made For Silence",
       "url": "https://open.spotify.com/track/7hRuYSwzGm8OifBoos0nG9"
+    },
+    {
+      "album": {
+        "name": "Made Your Mama Cry",
+        "url": "https://open.spotify.com/album/3am00emlDC0wnidU29zsp3"
+      },
+      "artists": [
+        {
+          "name": "Nana Lourdes",
+          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158451,
+      "name": "Made Your Mama Cry",
+      "url": "https://open.spotify.com/track/2fyl617ehHxoAyGbrM3ELQ"
     },
     {
       "album": {
@@ -10620,6 +10696,24 @@
     },
     {
       "album": {
+        "name": "Juno (Deluxe)",
+        "url": "https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165453,
+      "name": "Michael",
+      "url": "https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT"
+    },
+    {
+      "album": {
         "name": "HOMELESS STAR",
         "url": "https://open.spotify.com/album/1vmk95l8FDuRgVyvplEQqw"
       },
@@ -10885,7 +10979,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 187120,
       "name": "Much Money (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/6I5VbxQiJYBetYKdlRINr3"
@@ -11273,6 +11367,24 @@
       "duration_ms": 200133,
       "name": "Neo Surf",
       "url": "https://open.spotify.com/track/6XmT8fIEfcS3ZSVEz00U7m"
+    },
+    {
+      "album": {
+        "name": "Poster Girl",
+        "url": "https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph"
+      },
+      "artists": [
+        {
+          "name": "Talia Goddess",
+          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281538,
+      "name": "Never Wanna Fall",
+      "url": "https://open.spotify.com/track/2gdmSV6iZDVf8ETlD755Zf"
     },
     {
       "album": {
@@ -12861,7 +12973,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 125642,
       "name": "PISTOLWHIP",
       "url": "https://open.spotify.com/track/5me5yFJlnKZr2spcxSbCTW"
@@ -13973,7 +14085,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 172831,
       "name": "Right Where You Like",
       "url": "https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql"
@@ -14553,6 +14665,24 @@
       "duration_ms": 230000,
       "name": "Self!",
       "url": "https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr"
+    },
+    {
+      "album": {
+        "name": "Sensitive",
+        "url": "https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3"
     },
     {
       "album": {
@@ -16457,7 +16587,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 162984,
       "name": "TAKE THE BLAME",
       "url": "https://open.spotify.com/track/6RXQ5Q933Z3kkVDKVVbBy4"
@@ -17353,7 +17483,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 206693,
       "name": "Three Man Weave",
       "url": "https://open.spotify.com/track/7L4AtavGZEEDkVw1E0mDYn"
@@ -17741,7 +17871,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 224800,
       "name": "Tramp",
       "url": "https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG"
@@ -18327,7 +18457,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 131146,
       "name": "VERY ALONE",
       "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
@@ -18863,7 +18993,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 153500,
       "name": "whitegold",
       "url": "https://open.spotify.com/track/1xqLOYIMiNoCduM983ibjk"
@@ -19225,7 +19355,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-16",
+      "date_removed": null,
       "duration_ms": 132640,
       "name": "Y DON'T U",
       "url": "https://open.spotify.com/track/5RWp0wbRWI5rC8qemJ42h8"

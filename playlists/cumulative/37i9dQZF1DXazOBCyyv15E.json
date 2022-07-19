@@ -14582,6 +14582,24 @@
     },
     {
       "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/7MKpY53jMDLSvzw34KCyXI"
+      },
+      "artists": [
+        {
+          "name": "ALASKALASKA",
+          "url": "https://open.spotify.com/artist/78CgVNlDQMvOVDIrRL84tJ"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/0hEEGfeWCG0q5cgyl9AEWp"
+    },
+    {
+      "album": {
         "name": "Live Forever",
         "url": "https://open.spotify.com/album/4Lu520UvMf7lJccCnKw3hJ"
       },

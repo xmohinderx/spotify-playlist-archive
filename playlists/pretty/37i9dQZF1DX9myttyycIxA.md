@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: boyish
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,140 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,300 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [get high, breathe underwater \(\#3\)](https://open.spotify.com/track/2Vb9FyBDN3XctFwyaJjhDT) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [get high, breathe underwater \(\#3\)](https://open.spotify.com/album/7ijrwr6y3YBGtZt4RZeQTP) | 3:51 |
 | 2 | [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 |
-| 3 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 |
-| 4 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
-| 5 | [Greta Thunberg](https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Greta Thunberg](https://open.spotify.com/album/0iOdHACwU4yd7oJHVNHn4k) | 4:04 |
-| 6 | [Legs](https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [My Friend Mica](https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8) | 2:53 |
-| 7 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 |
-| 8 | [Shark Eyes](https://open.spotify.com/track/11wfF2qohFwGzyG3e2HPKB) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Shark Eyes](https://open.spotify.com/album/3yBF9PnTuSweeaRRCXa85h) | 4:30 |
-| 9 | [Lights](https://open.spotify.com/track/28PHxtY7jvJ8ZYOKo3ZduD) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Jet Lag](https://open.spotify.com/album/0p2x1IjzaF0tnP60Sil4wU) | 2:54 |
-| 10 | [Soundtrack for Your Backseat](https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6) | [sundiver ca](https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi) | [Superstar Baby](https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX) | 2:42 |
-| 11 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 |
-| 12 | [Boy Next Door](https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi) | [Test Subjects](https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB) | [Study](https://open.spotify.com/album/0RzFyC16Ob2wCszOUvH0EQ) | 3:39 |
-| 13 | [Emily Says](https://open.spotify.com/track/7LXLkR8IHaqUgXHaJ8H0xh) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Emily Says](https://open.spotify.com/album/3Se8kw4yGvGjogLq0SQVuK) | 3:18 |
-| 14 | [Call Me Upset](https://open.spotify.com/track/2jGNZGDdHZCVwqMMZLkhvC) | [Booter](https://open.spotify.com/artist/6DMPeswHF4nj7s82hygDjq) | [Call Me Upset](https://open.spotify.com/album/5KRxB2jRKrfyuJH6pQVgLA) | 3:00 |
-| 15 | [Dust Bunny](https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Dust Bunny](https://open.spotify.com/album/4Bmym3tMCYlY08OIpYQAb3) | 3:06 |
+| 3 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
+| 4 | [Legs](https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [My Friend Mica](https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8) | 2:53 |
+| 5 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 |
+| 6 | [Soundtrack for Your Backseat](https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6) | [sundiver ca](https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi) | [Superstar Baby](https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX) | 2:42 |
+| 7 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 |
+| 8 | [Dust Bunny](https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Dust Bunny](https://open.spotify.com/album/4Bmym3tMCYlY08OIpYQAb3) | 3:06 |
+| 9 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 |
+| 10 | [Greta Thunberg](https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Greta Thunberg](https://open.spotify.com/album/0iOdHACwU4yd7oJHVNHn4k) | 4:04 |
+| 11 | [Shark Eyes](https://open.spotify.com/track/11wfF2qohFwGzyG3e2HPKB) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Shark Eyes](https://open.spotify.com/album/3yBF9PnTuSweeaRRCXa85h) | 4:30 |
+| 12 | [Lights](https://open.spotify.com/track/28PHxtY7jvJ8ZYOKo3ZduD) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Jet Lag](https://open.spotify.com/album/0p2x1IjzaF0tnP60Sil4wU) | 2:54 |
+| 13 | [Boy Next Door](https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi) | [Test Subjects](https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB) | [Study](https://open.spotify.com/album/0RzFyC16Ob2wCszOUvH0EQ) | 3:39 |
+| 14 | [Emily Says](https://open.spotify.com/track/7LXLkR8IHaqUgXHaJ8H0xh) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Emily Says](https://open.spotify.com/album/3Se8kw4yGvGjogLq0SQVuK) | 3:18 |
+| 15 | [Call Me Upset](https://open.spotify.com/track/2jGNZGDdHZCVwqMMZLkhvC) | [Booter](https://open.spotify.com/artist/6DMPeswHF4nj7s82hygDjq) | [Call Me Upset](https://open.spotify.com/album/5KRxB2jRKrfyuJH6pQVgLA) | 3:00 |
 | 16 | [Freight Yard](https://open.spotify.com/track/4l7VPmnud43dlONU9P1qhO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Freight Yard](https://open.spotify.com/album/6M6NRC6YX7imXi2LdqSQAP) | 2:27 |
 | 17 | [Spinning Wheel](https://open.spotify.com/track/5LtKOTf6vq5lTYyYVA0U9o) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [Spinning Wheel](https://open.spotify.com/album/2sMt2rmTEt87ZdJFwBlfho) | 3:35 |
 | 18 | [bulletproof](https://open.spotify.com/track/4YPMxwrIkYt4UgjKtTNZdl) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn), [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [bulletproof](https://open.spotify.com/album/2ia7IV4V3rGZH2Gi08IVuZ) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [I Should](https://open.spotify.com/track/7930Kiq8h1MRuzYJ7yu4Mo) | [Sad Park](https://open.spotify.com/artist/7jHnNNWDLa2ztggSp5Dsxf) | [It's All Over](https://open.spotify.com/album/4hn75SfcVKyIyqmTAAAwmb) | 2:42 |
 | 100 | [Call Me Home](https://open.spotify.com/track/7EepuMExJZF3eimemlp771) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Call Me Home](https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc) | 3:45 |
 
-Snapshot ID: `MTY1NzkwNjEyMiwwMDAwMDExZDAwMDAwMTgyMDJlN2QwNDAwMDAwMDE4MTAyMGZmMzIz`
+Snapshot ID: `MTY1ODE2NjA3OCwwMDAwMDExZTAwMDAwMTgyMTI2NjZjYmQwMDAwMDE4MTAyMGZmMzIz`

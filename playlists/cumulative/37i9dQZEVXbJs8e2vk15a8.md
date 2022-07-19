@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-251 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+252 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-05-24 | 2022-06-29 |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-11 | 2022-05-25 |
 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 | 2022-06-02 | 2022-06-29 |
-| [Hay Amores Que Matan](https://open.spotify.com/track/7M2JpesNr8szASXoW8fyG1) | [Bayronfire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV) | [Hay Amores Que Matan](https://open.spotify.com/album/7Geerm1upPPZPIP54L0FHJ) | 4:00 | 2022-07-14 |  |
+| [Hay Amores Que Matan](https://open.spotify.com/track/7M2JpesNr8szASXoW8fyG1) | [Bayronfire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV) | [Hay Amores Que Matan](https://open.spotify.com/album/7Geerm1upPPZPIP54L0FHJ) | 4:00 | 2022-07-14 | 2022-07-19 |
 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 | 2022-04-15 | 2022-04-18 |
 | [Huella Letal](https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Huella Letal](https://open.spotify.com/album/77Pk12zTQeHZDJBNMX1WjA) | 2:17 | 2022-04-26 | 2022-06-01 |
 | [I am happy](https://open.spotify.com/track/6I8HPcA3003gZgVSH4uGlT) | [Faraón Love Shady](https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn) | [I am happy](https://open.spotify.com/album/4OpP3ds9cnx886rVjnmAuw) | 2:15 | 2022-04-15 | 2022-04-28 |
@@ -114,7 +114,7 @@
 | [Last Kiss](https://open.spotify.com/track/1VCJ7vk3Y2DoJIAEOXe3V8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Package\)](https://open.spotify.com/album/6S6JQWzUrJVcJLK4fi74Fw) | 6:07 | 2022-07-15 | 2022-07-18 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-06-14 | 2022-06-20 |
 | [Like Wooh Wooh](https://open.spotify.com/track/1GMq61rtAFhnn0K7GBJDkK) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/6dYXXdicdPdMe8PtjqBd42) | 3:16 | 2022-06-02 | 2022-06-26 |
-| [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-06-25 | 2022-07-11 |
+| [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-06-25 |  |
 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 | 2022-06-28 | 2022-07-05 |
 | [Los Perros Viejos Olvidaron Mirarse Al Espejo](https://open.spotify.com/track/2DxiVceS9zIQyh8twSbmTR) | [Mente Sabia Crú](https://open.spotify.com/artist/4BVarZvmLXaXGwBvjt8HEZ) | [Elefante](https://open.spotify.com/album/70SCEuwsSzTtWp5ALJVZuy) | 10:18 | 2022-04-23 | 2022-04-25 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-05-03 | 2022-06-01 |
@@ -140,8 +140,9 @@
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-05-10 | 2022-05-25 |
 | [Menorcito Jordan](https://open.spotify.com/track/3SgDHRlOooQVnyjm9VaEOV) | [Theft Dj](https://open.spotify.com/artist/5oCBwZ4bm6clXI151dpObo) | [Menorcito Jordan](https://open.spotify.com/album/0lQOUrsodBYWn7vJSnyutr) | 2:59 | 2022-04-15 | 2022-06-01 |
 | [Messages from the Stars](https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Going Up](https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f) | 4:14 | 2022-05-10 | 2022-05-17 |
+| [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7hl8yi5iItAYKwtSVtbEhO) | [Blazer Zero](https://open.spotify.com/artist/2ihGOBxVB7zeDYbieFyeHO) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/5plDkotyuP7UBM9jkDktLB) | 3:39 | 2022-07-18 |  |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/4KbSQQsRUGuwnwe6PDZB9v) | [Martín Vizcarra](https://open.spotify.com/artist/1cmcYJNbE5UsCnPn5jtfUe) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/6KuRgyWHYHcec0e3YUqLdg) | 3:39 | 2022-07-09 | 2022-07-14 |
-| [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7dT3NxlPsOIdM6dftDNM5K) | [Nimaru Sasuki](https://open.spotify.com/artist/5UZD1JyyirR8AeaMaeQ0rs) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/2K6BxWzcd239wPWr3SVURE) | 3:39 | 2022-07-13 |  |
+| [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7dT3NxlPsOIdM6dftDNM5K) | [Nimaru Sasuki](https://open.spotify.com/artist/5UZD1JyyirR8AeaMaeQ0rs) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/2K6BxWzcd239wPWr3SVURE) | 3:39 | 2022-07-13 | 2022-07-19 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs) | [Tito Silva Music](https://open.spotify.com/artist/2IFOwmcGO4WH8r3qPOh1Y8) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/1Tc6UA5XQyaJzgCEZYS3p1) | 3:39 | 2022-06-30 | 2022-07-09 |
 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 | 2022-04-15 | 2022-04-19 |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-05-28 | 2022-07-08 |

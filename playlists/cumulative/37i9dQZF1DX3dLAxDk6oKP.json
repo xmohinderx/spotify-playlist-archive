@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 132800,
       "name": "38 y Super",
       "url": "https://open.spotify.com/track/2ccEuah5UamtifhUsHoBCR"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 102816,
       "name": "Como Hueso",
       "url": "https://open.spotify.com/track/7eoxbqx7fRSCj6zjwm6rnk"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 178305,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/7t5hD3O8KBrr4yGAgHyn6F"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 185500,
       "name": "El Capit\u00e1n",
       "url": "https://open.spotify.com/track/65wr2H4YXdNbgYWuprFicA"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 200667,
       "name": "Entre La Lumbre",
       "url": "https://open.spotify.com/track/1aB7psehfqMi20HZB2Q0rK"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 171391,
       "name": "It's Really True",
       "url": "https://open.spotify.com/track/00VarnepizaFbXU56M64QB"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 227454,
       "name": "La Noche Empieza",
       "url": "https://open.spotify.com/track/28wWPHEn63HCXDMqiCiLyX"
@@ -2054,6 +2054,32 @@
     },
     {
       "album": {
+        "name": "No Era Malo Yo Fui Amigo",
+        "url": "https://open.spotify.com/album/6LqBDFM1hFJD9cyha6sKfN"
+      },
+      "artists": [
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        },
+        {
+          "name": "Los Mayitos De Sinaloa",
+          "url": "https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "No Era Malo Yo Fui Amigo",
+      "url": "https://open.spotify.com/track/5nMjzchl39k4kKWhRIe2GV"
+    },
+    {
+      "album": {
         "name": "No Me Gusta Perder",
         "url": "https://open.spotify.com/album/4Zdzpz6ILDSQg5CRuBYovA"
       },
@@ -2285,7 +2311,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 126685,
       "name": "Que Te Valga Verga",
       "url": "https://open.spotify.com/track/2TIRRX9lDuhujt0ojcZ8Y6"
@@ -2773,7 +2799,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 139000,
       "name": "Un Gallito de Morada",
       "url": "https://open.spotify.com/track/1hgcb1daDQ6u7RFw6bTIxV"

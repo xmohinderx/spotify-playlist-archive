@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 | 2020-06-23 |  |
-| [Amalgame](https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM) | [Les Respectables](https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl) | [$=Bonheur](https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev) | 4:27 | 2020-06-23 | 2022-07-18 |
+| [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 | 2020-06-23 | 2022-07-19 |
+| [Amalgame](https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM) | [Les Respectables](https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl) | [$=Bonheur](https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev) | 4:27 | 2020-06-23 |  |
 | [Big Bang](https://open.spotify.com/track/7bfnzQ0SdG1mi3pItHO4n7) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/01eDW3QDT4HjJ7vWa6tIup) | 3:20 | 2020-06-23 |  |
 | [Boomerang](https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9) | [Kevin Parent](https://open.spotify.com/artist/5hOp5PaxAcdnaZtv4oqJCw) | [Pigeon d'argile](https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh) | 3:54 | 2020-06-23 |  |
 | [Brooklyn](https://open.spotify.com/track/6tRjHvO1aeme9LJa9aXVAm) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De La Nature Des Foules](https://open.spotify.com/album/7K0wywkxdWik8p4xJVjiJn) | 4:04 | 2020-06-23 |  |
@@ -24,7 +24,7 @@
 | [Fuck'n'shit baby love!](https://open.spotify.com/track/35StJYMU9mlooTcnkJKD9W) | [Le Karlof Orchestra](https://open.spotify.com/artist/5jVN6sAwSOygXSPevl10xV) | [Fuck'n'shit baby love!](https://open.spotify.com/album/2Yr16L6r9thevk4K5OWeNh) | 2:07 | 2020-06-23 |  |
 | [Gros Tas d'Marde](https://open.spotify.com/track/1mmaW1XlXxi7quDB7Ne0BF) | [GrimSkunk](https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL) | [Fieldtrip](https://open.spotify.com/album/2sO6yUUyhX0OnTLfc3yCu0) | 3:10 | 2020-06-23 |  |
 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 | 2020-06-23 |  |
-| [Gwen Et Les Rats](https://open.spotify.com/track/40HtuAsUDbDG8FDjLUyaxj) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [L'amour la haine les animaux les automobiles](https://open.spotify.com/album/2fXJObc0jM7Zd6AdhR92DA) | 3:08 | 2020-06-23 | 2022-07-18 |
+| [Gwen Et Les Rats](https://open.spotify.com/track/40HtuAsUDbDG8FDjLUyaxj) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [L'amour la haine les animaux les automobiles](https://open.spotify.com/album/2fXJObc0jM7Zd6AdhR92DA) | 3:08 | 2020-06-23 |  |
 | [Hawaiienne](https://open.spotify.com/track/0BUD8MCnamel6skM7YCSJJ) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Gros mammouth album turbo](https://open.spotify.com/album/3gqXv0lUseQpAWqbjU3YQm) | 2:29 | 2020-06-23 |  |
 | [J'ai Oublié](https://open.spotify.com/track/4tX28kKt5YasANWQj9RgIR) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse Sociale](https://open.spotify.com/album/32OmCkG3Q6bsHQNNgbKrX3) | 3:55 | 2020-06-23 |  |
 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 | 2020-06-23 |  |
@@ -59,7 +59,7 @@
 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 | 2020-06-23 |  |
 | [Tu ne peux pas partir](https://open.spotify.com/track/5lb1bhrrwwV1c4dQbGSIxm) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/1FyoH3mAEsI9F9U518fL2B) | 3:23 | 2020-06-23 |  |
 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 | 2020-06-23 |  |
-| [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 | 2020-06-23 |  |
+| [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 | 2020-06-23 | 2022-07-19 |
 | [Vénus du Mile\-End](https://open.spotify.com/track/4t2Lu1XHneDYLvFARnpyhz) | [Les Chiens](https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe) | [Le long sentier \(Une anthologie\)](https://open.spotify.com/album/68ypZdUt5HvLjwRdFGolAH) | 5:07 | 2020-06-23 |  |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

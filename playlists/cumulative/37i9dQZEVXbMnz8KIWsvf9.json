@@ -977,7 +977,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 220716,
       "name": "DARARI",
       "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 139308,
       "name": "Future",
       "url": "https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h"
@@ -2335,7 +2335,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 58871,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0M7ai1yfYyb4OlyRgdmtTK"
@@ -3329,7 +3329,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 70546,
       "name": "Music Box : Reflection",
       "url": "https://open.spotify.com/track/0PJSXtjkdTjJzZAMyNus02"
@@ -5143,7 +5143,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 136063,
       "name": "What if\u2026",
       "url": "https://open.spotify.com/track/1fNwwml8UcKvhfM6YEVIRh"
@@ -5417,7 +5417,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 270750,
       "name": "\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9"
@@ -6099,6 +6099,24 @@
       "duration_ms": 219062,
       "name": "\u0e19\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e2b\u0e25\u0e31\u0e1a (Melatonin)",
       "url": "https://open.spotify.com/track/7bHqlO1utHAs2yknWvVt1C"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e30\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/2uNIKROQ7h7ZxBgO8PtGXA"
+      },
+      "artists": [
+        {
+          "name": "JOEY PHUWASIT",
+          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288923,
+      "name": "\u0e19\u0e30\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/4iA3PrcsOt6bmoXTaDXhf3"
     },
     {
       "album": {
@@ -7505,7 +7523,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 198979,
       "name": "\u0e43\u0e08\u0e2b\u0e32\u0e22\u0e2d\u0e48\u0e30 \u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d - AirTag",
       "url": "https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR"

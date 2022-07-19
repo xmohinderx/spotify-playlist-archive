@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-481 songs - 1 day 0 hr 47 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+482 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Anarrana](https://open.spotify.com/track/3QJSeb51jHsaLxIwSVcs8N) | [MC Japa](https://open.spotify.com/artist/2RzyuZzD2apLpKBELlsOjV) | [Anarrana](https://open.spotify.com/album/2aocmg4mm3KfV0mvbGyveH) | 2:33 | 2022-02-12 | 2022-03-23 |
 | [Aquecimento da Jogada](https://open.spotify.com/track/3q9hA7lEhaiH1QLq2H0JgX) | [Sheik Martins](https://open.spotify.com/artist/2kcEXXMfseCGfTbKBpX8Fg) | [Aquecimento da Jogada](https://open.spotify.com/album/2Ez4bQkNlRdNXgWLat83wA) | 2:11 | 2022-03-29 | 2022-04-13 |
 | [AQUELA MINA DE VERMELHO \- TACA ROLA \- É HOJE QUE EU BAGUNÇO](https://open.spotify.com/track/77RNsMdzYmJSdJ8XmquDBZ) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [ROCK PESADO](https://open.spotify.com/album/5PzizwiDjpYMYP2COEeViu) | 2:23 | 2022-06-23 |  |
+| [Aqueles Olhos](https://open.spotify.com/track/6G2Zfe5YH4JtTxyB1ulXTd) | [Dom M](https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn) | [Aqueles Olhos \- Single](https://open.spotify.com/album/0u2BaZmJUbmC37fXVmxOKI) | 3:20 | 2022-07-18 |  |
 | [Aqui na Penha Tu Fode com o Abelha, E no Cpx com o Macaco Russo](https://open.spotify.com/track/3ljJceRz2bKKFgCNRMJZ54) | [DJ RYAN DA PENHA](https://open.spotify.com/artist/1MQ7nDNIvOJqyOQHkbRiCT), [RN SHEIK](https://open.spotify.com/artist/4CiAf2yuOXWyDay1ArWfJE) | [Aqui na Penha Tu Fode com o Abelha, E no Cpx com o Macaco Russo](https://open.spotify.com/album/4m5NVa1RZbQz1NBFXvA8p7) | 2:10 | 2022-05-06 | 2022-05-29 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-22 | 2022-06-08 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-26 | 2022-05-23 |
@@ -487,7 +488,7 @@
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-20 | 2022-02-20 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-10 | 2022-05-14 |
 | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/track/2IsusePMD32LQKNU7vZiAH) | [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN), [Mc Denny](https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi) | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/album/1hZBg3LJIEeqQf3WqcbCQf) | 2:13 | 2022-02-09 | 2022-03-23 |
-| [É SÓ UMA BOTADA NA NOVINHA](https://open.spotify.com/track/3z3lmicaEABOdu9PDvwRdv) | [DJ GUSTAVO DO VIDIGAL](https://open.spotify.com/artist/1H4SwLLieIEAulFc5CfZj6) | [É SÓ UMA BOTADA NA NOVINHA](https://open.spotify.com/album/0rNrJeQ2MOeWMyTV8TIbEo) | 2:11 | 2022-07-07 |  |
+| [É SÓ UMA BOTADA NA NOVINHA](https://open.spotify.com/track/3z3lmicaEABOdu9PDvwRdv) | [DJ GUSTAVO DO VIDIGAL](https://open.spotify.com/artist/1H4SwLLieIEAulFc5CfZj6) | [É SÓ UMA BOTADA NA NOVINHA](https://open.spotify.com/album/0rNrJeQ2MOeWMyTV8TIbEo) | 2:11 | 2022-07-07 | 2022-07-19 |
 | [Ô Mãe](https://open.spotify.com/track/37A1beEC95fCBRge23pSFT) | [Aleck Johnson](https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA) | [Ô Mãe](https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU) | 2:12 | 2022-05-31 | 2022-06-08 |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

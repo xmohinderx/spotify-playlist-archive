@@ -2,9 +2,9 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Villabanks, thasupreme, Sfera, Lazza, Taxi B e tanti altri!
+> Sempre aggiornata\. Con nuovi brani di Villabanks, thasup, Sfera, Lazza, Taxi B e tanti altri!
 
-439 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+440 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [No Way](https://open.spotify.com/track/1p3CfTqbZS8D8eZMf4ISyy) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [No Way](https://open.spotify.com/album/3bcuFWLhPtnu5K5PVa364S) | 2:17 | 2022-06-02 | 2022-06-21 |
 | [Non amo](https://open.spotify.com/track/1DOpXF0f3cDbAxT8dx46wp) | [Gel](https://open.spotify.com/artist/1zuJhiod70T3Kev0XIsfko) | [Non amo](https://open.spotify.com/album/1x3uSpV9A4FKSpHErMrv2Y) | 2:12 | 2022-06-16 | 2022-06-24 |
 | [NON HO VOGLIA DI BERE](https://open.spotify.com/track/36b3q6725OsbEUGZKCrSLW) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [LUCE](https://open.spotify.com/album/1UCn39AYANQdyJLb4niuPk) | 2:53 | 2022-05-12 | 2022-05-20 |
-| [Non mi diverto \(feat\. MamboLosco\)](https://open.spotify.com/track/23Glc0ZuQGJYQNcMyg3ge5) | [DJ Matrix](https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Danti](https://open.spotify.com/artist/4zAJfp9POACU7sGK8EoMrl), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Musica da giostra Vol\. 9](https://open.spotify.com/album/65LGHAhog3ArTtFtc8R5te) | 2:45 | 2022-06-23 |  |
+| [Non mi diverto \(feat\. MamboLosco\)](https://open.spotify.com/track/23Glc0ZuQGJYQNcMyg3ge5) | [DJ Matrix](https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Danti](https://open.spotify.com/artist/4zAJfp9POACU7sGK8EoMrl), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Musica da giostra Vol\. 9](https://open.spotify.com/album/65LGHAhog3ArTtFtc8R5te) | 2:45 | 2022-06-23 | 2022-07-19 |
 | [NON MI MANCHERÀ](https://open.spotify.com/track/4DCFKVrzCozNnViabJHLqN) | [KLEN SHEET](https://open.spotify.com/artist/6OjU7XIpsUSL4yvrlKSIkb), [Goldreick](https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP), [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q), [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90) | [NON MI MANCHERÀ](https://open.spotify.com/album/6Wu3HEdVUbmwZ2BICF09KI) | 4:39 | 2022-05-19 | 2022-05-27 |
 | [Non mi vuoi più bene](https://open.spotify.com/track/1JDLPzD8ZfFR1sQN6enws4) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY) | [Non mi vuoi più bene](https://open.spotify.com/album/0QRXE7xhIGxl70M1jIjOdC) | 3:27 | 2022-06-16 | 2022-06-24 |
 | [Non Piove Più](https://open.spotify.com/track/4Rt8eIuDnvcoWVAB3wGfxE) | [w1ntrrr](https://open.spotify.com/artist/5W9AtzaNcBXvGoJ8Kh4NJw) | [Non Piove Più](https://open.spotify.com/album/5Ot50VMWMN22qtuqhlOuXa) | 2:31 | 2022-05-19 | 2022-05-27 |
@@ -301,6 +301,7 @@
 | [Ok Let's Go](https://open.spotify.com/track/6qyrdCSGhkXO81Tba65vtn) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Ok Let's Go](https://open.spotify.com/album/6YTl8MUg06IJ55a2bNmXYc) | 1:36 | 2022-06-28 | 2022-07-08 |
 | [On The Beach](https://open.spotify.com/track/04fHNMMiEHtiOIhVXvq2TB) | [Fratelli Freschi](https://open.spotify.com/artist/6Ftirks48hLIeJvN9azQ81), [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Gionni Grano](https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb) | [On The Beach](https://open.spotify.com/album/4tNPM2Gw2IUslI4tYbXMWK) | 2:45 | 2022-05-26 | 2022-06-03 |
 | [Origami](https://open.spotify.com/track/3X07hlEHm3KqCBOCVuO1ga) | [Ill Rave](https://open.spotify.com/artist/2UED7orH77Ei8kwVG4TNAJ) | [Origami](https://open.spotify.com/album/5xCeFPWG0bYPUHXRvRtNL4) | 2:39 | 2022-07-15 |  |
+| [Oro di Milano](https://open.spotify.com/track/5BoCC9UK96aExL91xxSIPA) | [CARTIƎER](https://open.spotify.com/artist/4M912Y3C9q42uZnmyD44J2) | [Oro di Milano](https://open.spotify.com/album/6qjD9tUvU9LBR0eemNexNY) | 2:26 | 2022-07-18 |  |
 | [ORO NEL FANGO](https://open.spotify.com/track/2tV0m08GvDWePTG16OSJ6z) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7), [NIIK](https://open.spotify.com/artist/6isvm42EcLmapQrseJ80GK) | [ORO NEL FANGO](https://open.spotify.com/album/2qu47GWwrWj88Cnjg6L7Ey) | 2:13 | 2022-06-16 | 2022-06-29 |
 | [P Colpa Toij](https://open.spotify.com/track/6iVr94oAKISRoqfLPuUiGr) | [Bapevens](https://open.spotify.com/artist/6JqHvyMB6iSIaHkXbJ3KFB), [Eris Gacha](https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2) | [P Colpa Toij](https://open.spotify.com/album/2CNmCzSX0Q4s2lKwg8XF9i) | 2:25 | 2022-05-10 | 2022-05-13 |
 | [Pachino Capitale](https://open.spotify.com/track/1IScmqeUqe3aVAdSpOr9hD) | [Wem](https://open.spotify.com/artist/48D7Ig9VVY8puUmIJaY5LT), [Funkyman](https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb), [Mine](https://open.spotify.com/artist/5H2qbhCm2j5Msc8kyic9gv) | [Pachino Capitale](https://open.spotify.com/album/21l85SV2UeaumV0A79Yxdb) | 2:06 | 2022-07-07 |  |

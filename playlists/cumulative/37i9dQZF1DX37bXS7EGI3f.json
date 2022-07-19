@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 181280,
       "name": "5-HTP",
       "url": "https://open.spotify.com/track/3H8cRqHxtvG5tlMXEdxLr1"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 315773,
       "name": "After the Uprising",
       "url": "https://open.spotify.com/track/1rOsOl8yGJkF7SjDY5a9Se"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 230222,
       "name": "Alfa",
       "url": "https://open.spotify.com/track/2GXNAVESi3Ncv8CumNOljv"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 342000,
       "name": "As Colors Bleed Through",
       "url": "https://open.spotify.com/track/2p7Y4JoqKVHvVlGlNlYQqo"
@@ -591,6 +591,24 @@
       "duration_ms": 372640,
       "name": "Asleep in the Deep - Instrumental",
       "url": "https://open.spotify.com/track/5im6c5xrmQxrexc5vQEh9O"
+    },
+    {
+      "album": {
+        "name": "Asleep Reason Horror",
+        "url": "https://open.spotify.com/album/03kvEy1tKyMVJ65NFsu7ti"
+      },
+      "artists": [
+        {
+          "name": "Parazit",
+          "url": "https://open.spotify.com/artist/5LaWGNlE5SvG9EX1UO7Qtn"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322512,
+      "name": "Asleep Reason Horror",
+      "url": "https://open.spotify.com/track/1OYydUgn2KGh1FpNhkfPg7"
     },
     {
       "album": {
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 364048,
       "name": "Burial",
       "url": "https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 324692,
       "name": "Catalyst 2.0 - Instrumental",
       "url": "https://open.spotify.com/track/4jXpPRxmokNuSFS5u3GWrM"
@@ -1239,7 +1257,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 314000,
       "name": "Charcoal",
       "url": "https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 275076,
       "name": "Coma",
       "url": "https://open.spotify.com/track/6wdOphejlm1hNfFhXmzT0l"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 403500,
       "name": "Dark Ages",
       "url": "https://open.spotify.com/track/59hn7nAe5d8GlRJCAX2xII"
@@ -2155,7 +2173,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 251470,
       "name": "Epitaph",
       "url": "https://open.spotify.com/track/0EmDq2qJzPbyAP24MowcEq"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 328613,
       "name": "Et blekt lys lyder",
       "url": "https://open.spotify.com/track/1AbIKgq2PZ7aNQQo747VyY"
@@ -2249,7 +2267,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 346238,
       "name": "Eternal Darkness",
       "url": "https://open.spotify.com/track/5KF33B01qnGgBYIp35LD6f"
@@ -2775,7 +2793,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 249373,
       "name": "Fracture - Bonus Instrumental",
       "url": "https://open.spotify.com/track/3ElhKMgLvETrc4j0A2qroS"
@@ -2995,7 +3013,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
@@ -3345,7 +3363,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 294105,
       "name": "Hunt Me to the End of the World",
       "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
@@ -3603,6 +3621,24 @@
       "duration_ms": 257824,
       "name": "Just Another Day",
       "url": "https://open.spotify.com/track/0zVvC9YgrMsrIea5HSaqVC"
+    },
+    {
+      "album": {
+        "name": "Kanangra",
+        "url": "https://open.spotify.com/album/79YqVLkcdFkgMkt262Qz3O"
+      },
+      "artists": [
+        {
+          "name": "Scoredatura",
+          "url": "https://open.spotify.com/artist/22onw6eJUxsmz0SoW0wmac"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442500,
+      "name": "Kanangra",
+      "url": "https://open.spotify.com/track/0nnXaJ7aMUeBsHzhhaFehw"
     },
     {
       "album": {
@@ -3977,7 +4013,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 301033,
       "name": "Living Room",
       "url": "https://open.spotify.com/track/4siB4DG9qAUrACMcIJOhGF"
@@ -4013,7 +4049,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
@@ -4089,7 +4125,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 270400,
       "name": "Lucid - Instrumental",
       "url": "https://open.spotify.com/track/5L2wMhPjdmUxHf9NzhptuN"
@@ -4309,7 +4345,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 296867,
       "name": "MEGALOVANIA",
       "url": "https://open.spotify.com/track/1yINJ8uEWPLNTg7ca3kp5k"
@@ -4619,7 +4655,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 301397,
       "name": "New Air",
       "url": "https://open.spotify.com/track/5d7mgCyxijA9CRGVHwAeMJ"
@@ -5153,7 +5189,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 323680,
       "name": "Pagan, Pt. 2",
       "url": "https://open.spotify.com/track/1nNG2Ds6UMZc62N7o7372T"
@@ -5175,6 +5211,24 @@
       "duration_ms": 202339,
       "name": "Paralyze",
       "url": "https://open.spotify.com/track/2axeXhI1SU6G5CZ1drCDze"
+    },
+    {
+      "album": {
+        "name": "Paratyphoid Fever",
+        "url": "https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ"
+      },
+      "artists": [
+        {
+          "name": "Tides From Nebula",
+          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397613,
+      "name": "Paratyphoid Fever",
+      "url": "https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd"
     },
     {
       "album": {
@@ -5539,7 +5593,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 401520,
       "name": "Regeneration",
       "url": "https://open.spotify.com/track/67RxGeIlRqO7vF8Y7jlcKe"
@@ -5701,7 +5755,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 283008,
       "name": "Rigel",
       "url": "https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6"
@@ -6001,7 +6055,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 415813,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5cK7Q9uzI4onZE7zVhQnw7"
@@ -6401,7 +6455,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 209333,
       "name": "Storm",
       "url": "https://open.spotify.com/track/7j5qDqtGGMZ8aFNsOX43A8"
@@ -6441,6 +6495,24 @@
       "duration_ms": 267040,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5fIjngwWngFucpYJdRHhQZ"
+    },
+    {
+      "album": {
+        "name": "Story I",
+        "url": "https://open.spotify.com/album/3a0BquAREUzoKbXH51pl3x"
+      },
+      "artists": [
+        {
+          "name": "Arch Echo",
+          "url": "https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272280,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/6uHpr84ATepPm1NeJ7HXq0"
     },
     {
       "album": {
@@ -6687,7 +6759,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 184360,
       "name": "The Eye of Ra",
       "url": "https://open.spotify.com/track/79d72HkT6mQVkeeYmoswIa"
@@ -7095,6 +7167,24 @@
       "duration_ms": 222367,
       "name": "The S\u00e9ance",
       "url": "https://open.spotify.com/track/49O37nbIIp7JsmI65OXDWD"
+    },
+    {
+      "album": {
+        "name": "A Dream in Static",
+        "url": "https://open.spotify.com/album/6rTrPk4lcLGVvqUpLTSko0"
+      },
+      "artists": [
+        {
+          "name": "Earthside",
+          "url": "https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334773,
+      "name": "The Ungrounding",
+      "url": "https://open.spotify.com/track/1jEZtz2b03ZxZcT1KBmI8Z"
     },
     {
       "album": {
@@ -8097,7 +8187,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 320415,
       "name": "Wired For Madness, Pt. 1.1 (Bring It On)",
       "url": "https://open.spotify.com/track/5Gdgx8sxajwAUykuwha8dj"

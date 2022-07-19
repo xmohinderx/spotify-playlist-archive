@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-102 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+103 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Reflection](https://open.spotify.com/track/6htEm5TojHcHv4eRWSedAY) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Reverie](https://open.spotify.com/album/3YGjIM9DblIObRjp1hOKua) | 2:28 | 2022-04-04 |  |
 | [Remote](https://open.spotify.com/track/5IrLLzBYXza3WcB89KjioW) | [Om Lighthouse](https://open.spotify.com/artist/5AzmHIExEw7ULbdoni3rif) | [Remote](https://open.spotify.com/album/2rGJ64xAX9hUmaapGFRCGD) | 5:15 | 2022-04-04 |  |
 | [Road to Asarganj](https://open.spotify.com/track/0CGvs9ThJYRe9fE2cEVfAm) | [Shanti Kapil](https://open.spotify.com/artist/49UVawvMt5wKFBt7FPRT35) | [Bekhudi](https://open.spotify.com/album/2yCK96ne1ESoQGSrFHXyE8) | 5:43 | 2022-04-04 | 2022-04-21 |
+| [Road to Pune](https://open.spotify.com/track/0IqyKkvBpfkwWQMQW0pYTV) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Peace From Within](https://open.spotify.com/album/3xyPN8gruwFwGpIu3y4uRz) | 3:04 | 2022-07-18 |  |
 | [Sachetan](https://open.spotify.com/track/6nDSQdvkVHIWW9ga17UUnL) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 3:01 | 2022-05-23 |  |
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/2SxQ32cI3A8XBH4535QnwJ) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB) | 5:59 | 2022-04-04 |  |
 | [Santosa \(Contentment\)](https://open.spotify.com/track/2oa9m04tRuNocGalPvAv4R) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 8:36 | 2022-04-04 |  |

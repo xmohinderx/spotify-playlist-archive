@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2037945,
+  "num_followers": 2037875,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTE5ODAsMTkwZjkxZmM0ZmJmNmE1OGQzNmE5MzY0MjZjYzY1NmI1NWUyYWYzZg==",
+  "snapshot_id": "MTE5ODQsOGVhMzQ3MjdmYTliZDFmNjk2YjM1ZWMzYmQ1YjgwNzMwMmM4YWQ4Ng==",
   "tracks": [
     {
       "added_at": "2022-07-15 17:29:23",
@@ -1349,6 +1349,26 @@
       "url": "https://open.spotify.com/track/33JtWDrMyTFRQTioosQwtg"
     },
     {
+      "added_at": "2022-07-18 22:32:26",
+      "album": {
+        "name": "Ghost Town (feat. David Frank)",
+        "url": "https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "David Frank",
+          "url": "https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Ghost Town (feat. David Frank)",
+      "url": "https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS"
+    },
+    {
       "added_at": "2022-07-15 17:29:23",
       "album": {
         "name": "Stronger",
@@ -1767,6 +1787,26 @@
       "duration_ms": 146616,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/5Vds3z8a6nQBOZTg2mNZhK"
+    },
+    {
+      "added_at": "2022-07-18 22:31:45",
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/12ExlHZJlb8p4Zwtv49160"
+      },
+      "artists": [
+        {
+          "name": "Danny Olson",
+          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+        },
+        {
+          "name": "Becca Krueger",
+          "url": "https://open.spotify.com/artist/7gYWrkrzD1y5yhakU5kWTE"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/2hF4pV2De5EmnN6eRoY0qt"
     },
     {
       "added_at": "2022-07-15 17:29:23",

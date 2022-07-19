@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR?si=l4aIn\-LCT1WjrpA6ZqqR3A">Dwson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,023 likes - 79 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,045 likes - 79 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

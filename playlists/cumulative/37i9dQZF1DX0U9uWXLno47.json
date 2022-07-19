@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 279967,
       "name": "Bloodbuzz Ohio",
       "url": "https://open.spotify.com/track/2pfkaHd8arhESSxyJAou6g"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 277586,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/1pW5qCqDVDtCtDVYDPev1c"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 173560,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/0c3e1dqXIfwtcvJbiaFSwM"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 190751,
       "name": "Let's Spend the Night Together - 2013 Remaster",
       "url": "https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 316440,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/2rnvHrNnkWMcAkl4S1WlRg"
@@ -1202,6 +1202,24 @@
     },
     {
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "album": {
         "name": "Chapter 1: The Sandworm Cometh - Early Recordings, B-Sides, Covers, y Mas",
         "url": "https://open.spotify.com/album/1yUh9U9797bPXiqDLZVuht"
       },
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 207280,
       "name": "Runnin' Down a Dream",
       "url": "https://open.spotify.com/track/5pWGtMWNoM3A3jaE8G1FFE"
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 349733,
       "name": "Smells Like Teen Spirit - Radio Edit",
       "url": "https://open.spotify.com/track/58cKWhCT3I4yhxtNpBlMli"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 166586,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/1LLWePORuf78aYlTpSsduc"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 255633,
       "name": "Today",
       "url": "https://open.spotify.com/track/51687Ggg1BMhFGufB2WmrF"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 149635,
       "name": "Wave of Mutilation",
       "url": "https://open.spotify.com/track/1BEljQOZPNNjsC3nfIAHxS"

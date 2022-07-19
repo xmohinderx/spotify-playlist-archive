@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-17",
   "description": "A trilha sonora do ver\u00e3o.",
   "name": "Ver\u00e3o 2022",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "26p8TFBUNyvm12xCRNHL4H"
+  ],
   "tracks": [
     {
       "album": {
@@ -921,7 +923,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 241970,
       "name": "Love Tonight - Edit",
       "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
@@ -1009,6 +1011,28 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "album": {
+        "name": "Mbapp\u00e9 (Afro Tropical)",
+        "url": "https://open.spotify.com/album/0tBVdwBirmo5R6zZSHZXuO"
+      },
+      "artists": [
+        {
+          "name": "IVANN",
+          "url": "https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm"
+        },
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146187,
+      "name": "Mbapp\u00e9 - Afro Tropical",
+      "url": "https://open.spotify.com/track/1U6M1vfUhf9pEFhjHQWt3Y"
     },
     {
       "album": {

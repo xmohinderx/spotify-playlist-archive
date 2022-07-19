@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 224863,
       "name": "2000 \u00c5r",
       "url": "https://open.spotify.com/track/2pRhP0LlT8LzG5EujwK1cf"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 140487,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1eYbcnHmpUc9VHV9kxz7Ft"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 194000,
       "name": "Attityd",
       "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 187500,
       "name": "Babylove",
       "url": "https://open.spotify.com/track/4nBNcwji3bTo6IoaEpoZZY"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 214125,
       "name": "Back on track",
       "url": "https://open.spotify.com/track/1yCqXDVbXDyF75VliHTJyv"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 233440,
       "name": "Bida Din Tid",
       "url": "https://open.spotify.com/track/0KP0zz3rgRZ7phihyXoNfb"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 254293,
       "name": "Bulleribock",
       "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 276417,
       "name": "Chimurenga",
       "url": "https://open.spotify.com/track/1ptNyHtwxuJH8RBdBubzdY"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 257399,
       "name": "Det Str\u00e5lar S\u00e5 Om Dig (feat. Hoffmaestro)",
       "url": "https://open.spotify.com/track/1moyS7mNDbCxhSvcJaKCtE"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 231473,
       "name": "En God V\u00e4n",
       "url": "https://open.spotify.com/track/5jxoUDrxDW6rywmtvu3lBO"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 232727,
       "name": "En hand upp",
       "url": "https://open.spotify.com/track/5GsFBsIvb8nvG2DVbw2YFv"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 194563,
       "name": "Fet Krokodil",
       "url": "https://open.spotify.com/track/5ee0DD0aIFVdLAmiQPPwtM"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 220676,
       "name": "Finns det liv finns det tid",
       "url": "https://open.spotify.com/track/4nMzM9STL3bbAErupiguPm"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 175199,
       "name": "Fri Nu",
       "url": "https://open.spotify.com/track/5SPgbtXNW2pj0DlhYqeOx9"
@@ -1178,6 +1178,28 @@
     },
     {
       "album": {
+        "name": "Hej d\u00e5",
+        "url": "https://open.spotify.com/album/6hK031DPnQOjT3s3ZFiDX3"
+      },
+      "artists": [
+        {
+          "name": "Blen",
+          "url": "https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7"
+        },
+        {
+          "name": "Lance-a-Lot",
+          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Hej d\u00e5",
+      "url": "https://open.spotify.com/track/2PZTPkghDla5Ej0Em9dRcM"
+    },
+    {
+      "album": {
         "name": "Hela mig sj\u00e4lv",
         "url": "https://open.spotify.com/album/2BTQwxPzrbKpSDjiuVVb87"
       },
@@ -1193,7 +1215,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 216151,
       "name": "Hela mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/17fD2m1JPWE3M4cRfLCGdW"
@@ -1211,7 +1233,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 183260,
       "name": "Helt seri\u00f6st",
       "url": "https://open.spotify.com/track/7shcnBgfWJ6AT7jmvAw4xO"
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 266770,
       "name": "Hennes K\u00e4rlek",
       "url": "https://open.spotify.com/track/63bToG6KJCg4d0xuzPLMk6"
@@ -1407,7 +1429,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 229714,
       "name": "Jag lever f\u00f6r dig och d\u00e5 lever jag f\u00f6r att leva",
       "url": "https://open.spotify.com/track/0kgKxpl9VwHicgLeJpJSR3"
@@ -1425,7 +1447,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 242874,
       "name": "Jag Minns",
       "url": "https://open.spotify.com/track/6ZbEjK7jdClL1MGczRAU0q"
@@ -1589,7 +1611,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 223500,
       "name": "Lejonet ryter",
       "url": "https://open.spotify.com/track/1cq1QRhkLKvYNdY3sVmVtN"
@@ -1629,7 +1651,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 184625,
       "name": "Leva igen",
       "url": "https://open.spotify.com/track/16UFJVqJUCLCBLvnjQkLtm"
@@ -1687,7 +1709,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 238106,
       "name": "Love We Deal With",
       "url": "https://open.spotify.com/track/4mpXlXzGmXf1objQcgFVMX"
@@ -1705,7 +1727,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 234438,
       "name": "Luftslott (feat. Nayomi)",
       "url": "https://open.spotify.com/track/6HFDca3nQ3wZ8vJflJqUJq"
@@ -2019,7 +2041,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 245530,
       "name": "No winners",
       "url": "https://open.spotify.com/track/2LiweIh9adLp0xVZBAMVK2"
@@ -2139,7 +2161,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Peace n Love",
       "url": "https://open.spotify.com/track/02LepIdABo8o2fjhCjAdR1"
@@ -2175,7 +2197,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 208902,
       "name": "Poppigt nog",
       "url": "https://open.spotify.com/track/7G8J2s4DDLLsdPF7QO9FBI"
@@ -2223,7 +2245,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 267250,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/31QNObduU0Cak1cGopRES5"
@@ -2355,7 +2377,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 260168,
       "name": "Smugglaren",
       "url": "https://open.spotify.com/track/233P1DUo0GMAjHrZVgIQ16"
@@ -2525,7 +2547,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 206853,
       "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
       "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
@@ -2561,7 +2583,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 246808,
       "name": "S\u00e4g nej!",
       "url": "https://open.spotify.com/track/2pq3CZrGt1lrcRjiEtFtjY"
@@ -2597,7 +2619,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 160000,
       "name": "S\u00e5 fakking fin",
       "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
@@ -2623,7 +2645,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "S\u00e5na \u00f6gon",
       "url": "https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU"
@@ -2771,7 +2793,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 275800,
       "name": "Ugly Girls",
       "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
@@ -2847,7 +2869,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 240146,
       "name": "Vakter och Polis med Jr Erik, Eye'n`l & Kapten R\u00f6d",
       "url": "https://open.spotify.com/track/4haXVf9w6qXqLOwK8bcyev"
@@ -3027,7 +3049,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 208057,
       "name": "V\u00e4gsj\u00e4l",
       "url": "https://open.spotify.com/track/22ehzAT8AUMGiR7eVaZqRC"

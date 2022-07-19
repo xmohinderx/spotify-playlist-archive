@@ -4,7 +4,7 @@
 
 > O melhor do rap luso em 2021\. Foto: Wet Bed Gang
 
-50 songs - 3 hr 0 min - not published yet
+50 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/6T3cBjgrUaOVDEiFj5TfBD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

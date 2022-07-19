@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-373 songs - 20 hr 11 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+375 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Freefall](https://open.spotify.com/track/5sGZrYjR38XjepfN2b7Pkx) | [ESPER](https://open.spotify.com/artist/4qxyQRkuA00BdgRmKhzSC2), [LOCKBOX](https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro), [Isaiah Brown](https://open.spotify.com/artist/7vKhc6hNiiTFBaW96I27wy) | [Freefall](https://open.spotify.com/album/58FSZ8ViWJ3HFBVf3Zxn9w) | 3:22 | 2022-01-14 | 2022-02-10 |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-01-25 |  |
 | [Fuck U Love U](https://open.spotify.com/track/33JtWDrMyTFRQTioosQwtg) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 3:10 | 2022-05-13 |  |
+| [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l) | 3:32 | 2022-07-18 |  |
 | [Go Home](https://open.spotify.com/track/0e7Ana1Q5SrYM0Va7z2V7i) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [Go Home](https://open.spotify.com/album/6izq0ZIJydzdk4eTG36bWZ) | 3:12 | 2022-01-14 | 2022-03-05 |
 | [Go Off](https://open.spotify.com/track/7peXYPvAVHw77scTuY5TWL) | [Haterade](https://open.spotify.com/artist/57mNUYCvfPsEKFMrA678JH), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:05 | 2022-06-16 |  |
 | [Go on Then, Love](https://open.spotify.com/track/4QlkNEiOQGYcc9t2q2EgEE) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:21 | 2022-03-08 | 2022-06-04 |
@@ -355,6 +356,7 @@
 | [Visions](https://open.spotify.com/track/4Z3C4gdBVL8INjfDkUviNn) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Visions](https://open.spotify.com/album/60MVEOKz4pVB7JKdHUyFyp) | 2:44 | 2022-03-10 | 2022-04-09 |
 | [Vortex](https://open.spotify.com/track/0QmjtrK695axPhCtW2uSqm) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj), [Skypierr](https://open.spotify.com/artist/6ikUaio9cyA7emXcX49hZP), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:07 | 2022-06-16 |  |
 | [wake up](https://open.spotify.com/track/0JN3OE3SSJdzi3KvUx0xiS) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Rando](https://open.spotify.com/artist/6JdqHrxwmL2eeJO2oAnQG9), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:13 | 2022-06-16 |  |
+| [Waking Up](https://open.spotify.com/track/2hF4pV2De5EmnN6eRoY0qt) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Becca Krueger](https://open.spotify.com/artist/7gYWrkrzD1y5yhakU5kWTE) | [Waking Up](https://open.spotify.com/album/12ExlHZJlb8p4Zwtv49160) | 4:03 | 2022-07-18 |  |
 | [Walk Me Home](https://open.spotify.com/track/2qTtA6lgLLwfuYphfT4f8C) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Walk Me Home](https://open.spotify.com/album/4lTOWYSn48zhJ7KeXEJva3) | 3:36 | 2022-02-10 | 2022-06-04 |
 | [Walk Me Home \- Blanke Remix](https://open.spotify.com/track/3DWH2ElS137GfWMzGcXVp2) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Walk Me Home \(Blanke Remix\)](https://open.spotify.com/album/0K9MqMhOoHMe6iddB29nNN) | 5:03 | 2022-04-21 |  |
 | [Want to Know](https://open.spotify.com/track/4ZFhZGMxxt5nF3S8NtYkFN) | [Synchronice](https://open.spotify.com/artist/1pOmjpg4X03jcvS2R0FY53) | [Want to Know](https://open.spotify.com/album/1lBWKizQH5gBD4ZLTyVtE6) | 3:04 | 2022-01-14 | 2022-04-08 |

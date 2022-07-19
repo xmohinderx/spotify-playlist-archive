@@ -1344,6 +1344,24 @@
     },
     {
       "album": {
+        "name": "Peace From Within",
+        "url": "https://open.spotify.com/album/3xyPN8gruwFwGpIu3y4uRz"
+      },
+      "artists": [
+        {
+          "name": "Pawan Krishna",
+          "url": "https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Road to Pune",
+      "url": "https://open.spotify.com/track/0IqyKkvBpfkwWQMQW0pYTV"
+    },
+    {
+      "album": {
         "name": "Taaja Shaanti",
         "url": "https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm"
       },

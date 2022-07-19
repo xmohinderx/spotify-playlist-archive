@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 440333,
       "name": "#13",
       "url": "https://open.spotify.com/track/7c4lnS1bSj4fRJWAQ8D54R"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 414706,
       "name": "#9",
       "url": "https://open.spotify.com/track/6AiDG8KtDJX9ZZS8fSxWjT"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 268813,
       "name": "4 bit 9d api+e+6 [126.26]",
       "url": "https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 318333,
       "name": "Cock/ver10",
       "url": "https://open.spotify.com/track/1ppw4aUaKKiY43tRMJD05h"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 333600,
       "name": "Cow Cud Is A Twin",
       "url": "https://open.spotify.com/track/3JdvEIcI6e6Ovi7bGJO1b1"
@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Girl/Boy EP",
+        "url": "https://open.spotify.com/album/2Y34XFg6QPoAmbM1ClS3Hk"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292200,
+      "name": "Girl Boy (NLS Mix)",
+      "url": "https://open.spotify.com/track/33ccBrtEr6MniK1HgLT4z1"
+    },
+    {
+      "album": {
         "name": "Richard D. James Album",
         "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
       },
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 367053,
       "name": "Icct Hedral",
       "url": "https://open.spotify.com/track/74i6T5ax1LB1gBVhLg6q9d"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 490413,
       "name": "Mt Saint Michel + Saint Michaels Mount",
       "url": "https://open.spotify.com/track/27oZwWrAt3WJwZGqSIrvq1"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 258973,
       "name": "PAPAT4 [155][pineal mix]",
       "url": "https://open.spotify.com/track/2MmI2fOFAYnOJcMyWkn1js"
@@ -991,10 +1009,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 213900,
       "name": "Slo Bird Whistle - Peel Session",
       "url": "https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365373,
+      "name": "Start As You Mean To Go On",
+      "url": "https://open.spotify.com/track/7F1YDlmTRGuOqmdDUElHfm"
     },
     {
       "album": {
@@ -1081,7 +1117,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 258959,
       "name": "Wax The Nip",
       "url": "https://open.spotify.com/track/0c1b3R5dLgliHXXGLErT2O"

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-17",
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
   "name": "Festa na Praia",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0mYePZvO0R1lksRZVy4eTm"
+  ],
   "tracks": [
     {
       "album": {
@@ -69,7 +71,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "Abra\u00e7o",
       "url": "https://open.spotify.com/track/3eLsE4puPlM9kTCv8lQyrR"
@@ -117,7 +119,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 216521,
       "name": "Agrade\u00e7a",
       "url": "https://open.spotify.com/track/1htIyG8F7YU2ac3W6wAdE1"
@@ -320,6 +322,66 @@
     },
     {
       "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5b3ofKnyipHDmiAnQeCVcU"
+      },
+      "artists": [
+        {
+          "name": "KTRYNA",
+          "url": "https://open.spotify.com/artist/46bk8TsKZAshaoaL8cgRk1"
+        },
+        {
+          "name": "Gabzy (BR)",
+          "url": "https://open.spotify.com/artist/4TCvOlVbfcTA34FliS72y6"
+        },
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184923,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/3ZRtq6OtMiPXAr3jAljdOg"
+    },
+    {
+      "album": {
+        "name": "Beija Flor",
+        "url": "https://open.spotify.com/album/0LyL8O3RDdfV83W5mWLDTx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Medz",
+          "url": "https://open.spotify.com/artist/4qPshkDVlRqhZKRkz6tzmv"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Geminix",
+          "url": "https://open.spotify.com/artist/0cXaSTZkPtEdKShc4HyYR7"
+        },
+        {
+          "name": "Ricca",
+          "url": "https://open.spotify.com/artist/5q7nxrrFLk1f7QG0HkLTds"
+        },
+        {
+          "name": "Kasthree",
+          "url": "https://open.spotify.com/artist/5NPVnsOCV3ts9rhTb268M6"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182153,
+      "name": "Beija Flor",
+      "url": "https://open.spotify.com/track/2JBkXipDDMP1RChUeD7tfo"
+    },
+    {
+      "album": {
         "name": "Bem Melhor (KVSH Remix)",
         "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
       },
@@ -335,7 +397,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 183431,
       "name": "Bem Melhor - KVSH Remix",
       "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
@@ -383,10 +445,32 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 181500,
       "name": "Certeza - Zabot Remix",
       "url": "https://open.spotify.com/track/6r9gHMbpKJC6ymaTw1An0s"
+    },
+    {
+      "album": {
+        "name": "De Norte a Sul",
+        "url": "https://open.spotify.com/album/6tZqDBhSBDveCfWnaf79WA"
+      },
+      "artists": [
+        {
+          "name": "Rick Bonadio",
+          "url": "https://open.spotify.com/artist/2CZ8dMcFFZ1UYj52mUSaE6"
+        },
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176309,
+      "name": "De Norte a Sul",
+      "url": "https://open.spotify.com/track/25CZ3QEps7Ud1z1d1Meeye"
     },
     {
       "album": {
@@ -657,7 +741,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 185204,
       "name": "F\u00e9 (feat. Rael e Fmartins) - Remix",
       "url": "https://open.spotify.com/track/3sZcMdlukUYXjRc9mk0kKO"
@@ -712,6 +796,28 @@
     },
     {
       "album": {
+        "name": "Guerra e Paz - Remix",
+        "url": "https://open.spotify.com/album/606fQqUwZELhQ8nOeaS92c"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116480,
+      "name": "Guerra e Paz - Remix",
+      "url": "https://open.spotify.com/track/7hvyRqvT8yrX4c6xHFevTo"
+    },
+    {
+      "album": {
         "name": "Hey (Na Na Na)",
         "url": "https://open.spotify.com/album/5of4lavVy9GkGWPAUzKWD8"
       },
@@ -731,10 +837,40 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 156000,
       "name": "Hey (Na Na Na)",
       "url": "https://open.spotify.com/track/5eYHuFukR95qj8s3Q3YEfQ"
+    },
+    {
+      "album": {
+        "name": "Hoje \u00c9 Nosso Dia (Remix)",
+        "url": "https://open.spotify.com/album/4b6i6oJT6tdpehNm0ZDgZX"
+      },
+      "artists": [
+        {
+          "name": "Lamooc",
+          "url": "https://open.spotify.com/artist/7Fd7GoXHkgFZWinY7QA5hx"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Margaridas",
+          "url": "https://open.spotify.com/artist/2s7Kara3RovkRHclzCt9jn"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "Hoje e\u0301 Nosso Dia - Remix",
+      "url": "https://open.spotify.com/track/70jZZCgW4jzBvyB5fM2L6Y"
     },
     {
       "album": {
@@ -937,7 +1073,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
@@ -963,6 +1099,28 @@
       "duration_ms": 159480,
       "name": "Menina Salvador - Zabot Remix",
       "url": "https://open.spotify.com/track/3XJ5LWaZ8bE0s9TfzPzaWO"
+    },
+    {
+      "album": {
+        "name": "Momento com Voc\u00ea",
+        "url": "https://open.spotify.com/album/2ssM84PM3TrkJYC0a38NC4"
+      },
+      "artists": [
+        {
+          "name": "SoFly",
+          "url": "https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO"
+        },
+        {
+          "name": "HOT-Q",
+          "url": "https://open.spotify.com/artist/6CO3icJe86W5FK3U73zyyR"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161459,
+      "name": "Momento com Voc\u00ea",
+      "url": "https://open.spotify.com/track/1APDuk20SkmqvTk6HRaJoG"
     },
     {
       "album": {
@@ -1119,7 +1277,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 162857,
       "name": "Pandora - KVSH, Malifoo Remix",
       "url": "https://open.spotify.com/track/3EUUK9fCbeWNkBH2g9HOSP"
@@ -1141,7 +1299,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 141532,
       "name": "Para\u00edso Particular",
       "url": "https://open.spotify.com/track/7r8uwoYXO7EvwmsSKnil1g"
@@ -1325,7 +1483,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 208700,
       "name": "Resenha (Radio Edit)",
       "url": "https://open.spotify.com/track/38xRC6vJYMNw81lJreferd"
@@ -1439,7 +1597,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 194515,
       "name": "Sun in My Eyes",
       "url": "https://open.spotify.com/track/6IQXYvGczs2W6XBIgDI1fg"
@@ -1461,7 +1619,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 177581,
       "name": "S\u00f3 de Pensar",
       "url": "https://open.spotify.com/track/2XYJSOZUsPHwQ5GxMN4t1K"
@@ -1597,7 +1755,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 192187,
       "name": "Tranquila (Gustavo Mota Remix)",
       "url": "https://open.spotify.com/track/6DgMynpGBfoev6qddUcWsU"
@@ -1626,6 +1784,28 @@
     },
     {
       "album": {
+        "name": "T\u00e3o Bom (Remix)",
+        "url": "https://open.spotify.com/album/3TxQVGLiPYnmUVwPykngpA"
+      },
+      "artists": [
+        {
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+        },
+        {
+          "name": "Camilla Brunetta",
+          "url": "https://open.spotify.com/artist/49QW5bbN3ta3IGezNZVwmb"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "T\u00e3o Bom (Remix)",
+      "url": "https://open.spotify.com/track/7BQavB3W9BRSRwtocp0OO8"
+    },
+    {
+      "album": {
         "name": "Um C\u00e9u, Um Sol e um Mar (Vitor Bueno Remix)",
         "url": "https://open.spotify.com/album/2Ro65pfEf2CWcgTLnQX5fe"
       },
@@ -1645,7 +1825,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 154285,
       "name": "Um C\u00e9u, Um Sol e um Mar - Vitor Bueno Remix",
       "url": "https://open.spotify.com/track/1QZWaMh1McDtNc4VDk0aLd"
@@ -1719,6 +1899,28 @@
       "duration_ms": 123142,
       "name": "V\u00e1rias Queixas - Remix",
       "url": "https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9 do caro\u00e7o",
+        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Z\u00e9 do caro\u00e7o",
+      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
     },
     {
       "album": {

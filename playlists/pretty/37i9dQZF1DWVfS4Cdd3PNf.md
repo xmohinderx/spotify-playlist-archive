@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 
 > Masterpieces from the world of opera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,439 likes - 60 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,537 likes - 60 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 | 59 | [Der fliegende Hollander: Act II Scene 4: Johohoe! Traft ihr das Schiff im Meere an \(Senta\)](https://open.spotify.com/track/72WfkUI9gFPplj31KxHRfc) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Anja Kampe](https://open.spotify.com/artist/0UKLFKhxyicHinwgTW2KWd), [Royal Concertgebouw Orchestra](https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ), [Andris Nelsons](https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI) | [Wagner: Der fliegende Holländer](https://open.spotify.com/album/2UyLLzksAXiGW36AFPtndD) | 6:59 |
 | 60 | [Betrothal in a Monastery, Op\. 86, Act I, Tableau 1, Scene 8: "Друзья, уходите"](https://open.spotify.com/track/4gSReSG7whtyRzI2pEHNeE) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Mira Mendelson\-Prokofieva](https://open.spotify.com/artist/307ubugm9ICFuz0r0XkvHN), [Richard Brinsley Sheridan](https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64), [Anatoly Mishchevsky](https://open.spotify.com/artist/3xqxSstnKs8RLZb2FIkOXp), [Kemal Abdullayev](https://open.spotify.com/artist/0Dy2FZWDvZAwNollbgHpxD), [Orchestra of the Stanislavski and Nemirovich\-Danchenko Music Theatre](https://open.spotify.com/artist/1dYnXQBvvsneGYJ1USaNHm) | [Prokofiev: Betrothal in a Monastery](https://open.spotify.com/album/3UAQoJ37E7jtmMfVX1h9dx) | 3:19 |
 
-Snapshot ID: `MTY1NzUyNDkwOSwwMDAwMDAxZjAwMDAwMTgxZWMyZWY0ZWUwMDAwMDE4MWM5MmU4MWZi`
+Snapshot ID: `MTY1ODE1MzMwNywwMDAwMDAyMDAwMDAwMTgyMTFhMzhlMGUwMDAwMDE4MjExYTM3MWVj`

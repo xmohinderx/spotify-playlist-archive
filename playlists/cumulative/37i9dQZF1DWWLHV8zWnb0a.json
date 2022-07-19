@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Absolute Garbage",
+        "url": "https://open.spotify.com/album/1pXvSHkDjHHVExVPufHbjV"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285106,
+      "name": "#1 Crush",
+      "url": "https://open.spotify.com/track/5DNQIK67uXz2RJm2DFkWjS"
+    },
+    {
+      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Remastered)",
         "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
       },
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 275600,
       "name": "Aneurysm",
       "url": "https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 213293,
       "name": "Been Caught Stealing",
       "url": "https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM"
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 271133,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4W5ZiER2saVe1uo7bNTWbE"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 288400,
       "name": "Break The Chain",
       "url": "https://open.spotify.com/track/19ZQ1EOicYOZn5eamUrWFQ"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 184040,
       "name": "Breed",
       "url": "https://open.spotify.com/track/6kA9cOS2QpUpeGJHGxSXe1"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 258466,
       "name": "Bullet With Butterfly Wings - Remastered 2012",
       "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "Celebrity Skin",
       "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 251706,
       "name": "Color Me Once",
       "url": "https://open.spotify.com/track/2kyjRBPLjeFn3JMzMtykxf"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 272200,
       "name": "Cross Bones Style",
       "url": "https://open.spotify.com/track/5Qhy5MYSkAMRVgTrABOlp7"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 196905,
       "name": "Disarm - Remastered",
       "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 191133,
       "name": "Do the Mussolini (Head Kick)",
       "url": "https://open.spotify.com/track/2Wzj8c6KeIjrj5IKpsXkdH"
@@ -729,6 +747,24 @@
       "duration_ms": 171306,
       "name": "Far Gone and Out",
       "url": "https://open.spotify.com/track/3zsUrcSjHX6d8DeIYyj1bE"
+    },
+    {
+      "album": {
+        "name": "Tilt",
+        "url": "https://open.spotify.com/album/0vd2UrnAUlxVHlVFwmgiNC"
+      },
+      "artists": [
+        {
+          "name": "Scott Walker",
+          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398066,
+      "name": "Farmer In The City",
+      "url": "https://open.spotify.com/track/1riX7P7D7CL0ui06UqBquh"
     },
     {
       "album": {
@@ -815,7 +851,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 200240,
       "name": "Goin' Out West",
       "url": "https://open.spotify.com/track/141XsxpUkbj7AkQKT8vySq"
@@ -887,7 +923,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 281160,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
@@ -923,7 +959,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 284600,
       "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
       "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
@@ -1067,7 +1103,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 272133,
       "name": "I Wanna Live",
       "url": "https://open.spotify.com/track/725fMgwuhRsbd94LoTQbdm"
@@ -1157,7 +1193,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 218733,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/3CMVjlbvNJMHDfYPX7xCpi"
@@ -1319,7 +1355,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 366706,
       "name": "Love Will Save You",
       "url": "https://open.spotify.com/track/3A0SkCmMGvE5nYz15GREmW"
@@ -1337,7 +1373,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 428800,
       "name": "Love You to Death",
       "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
@@ -1409,7 +1445,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 202320,
       "name": "Luna - Remastered",
       "url": "https://open.spotify.com/track/2SRBtj64W0Wbs7YMbmxFBw"
@@ -1427,7 +1463,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Metal Heart",
       "url": "https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ"
@@ -1481,7 +1517,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 263400,
       "name": "Nude As the News",
       "url": "https://open.spotify.com/track/6cu0DiairWxhGUujhhcorj"
@@ -1499,7 +1535,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 258466,
       "name": "One Way Street",
       "url": "https://open.spotify.com/track/0B1GWkVTAQgTCJU2B6tzgH"
@@ -1593,7 +1629,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 264573,
       "name": "Piggy",
       "url": "https://open.spotify.com/track/5BVFE2iCwnhQTn2CBq8eEz"
@@ -1683,7 +1719,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 220693,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/3h9zXYA0hMZi9bt6DG8sEo"
@@ -1759,7 +1795,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 190333,
       "name": "Romeo Had Juliette",
       "url": "https://open.spotify.com/track/6tM8cMX9S4AyRd5sDDrzhN"
@@ -1777,7 +1813,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 455853,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
@@ -1795,7 +1831,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 216906,
       "name": "Serve The Servants",
       "url": "https://open.spotify.com/track/0wxoXgSVZexJZ4FBqUohLS"
@@ -1903,7 +1939,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3"
@@ -1921,7 +1957,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 252266,
       "name": "Sour Times",
       "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
@@ -1979,7 +2015,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 254839,
       "name": "Stop",
       "url": "https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc"
@@ -2051,7 +2087,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 357693,
       "name": "Sugar Kane",
       "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
@@ -2069,7 +2105,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 251213,
       "name": "Summer Cannibals",
       "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
@@ -2105,7 +2141,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 306826,
       "name": "Sweet Lover Hangover",
       "url": "https://open.spotify.com/track/6RiySuHE6JfFgI4HptZaVF"
@@ -2195,7 +2231,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 310760,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4AIDG8oQzGYqnr6v01f8i5"
@@ -2213,7 +2249,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 315440,
       "name": "The Perfect Drug",
       "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
@@ -2447,7 +2483,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 204933,
       "name": "Violet",
       "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
@@ -2465,7 +2501,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 436000,
       "name": "We're In This Together",
       "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
@@ -2501,7 +2537,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 238920,
       "name": "Where Did You Sleep Last Night",
       "url": "https://open.spotify.com/track/4j3AXs1NNx6zXFmm6ibYsI"

@@ -2278,6 +2278,28 @@
     },
     {
       "album": {
+        "name": "Exibido",
+        "url": "https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs"
+      },
+      "artists": [
+        {
+          "name": "Mvk7",
+          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Exibido",
+      "url": "https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg"
+    },
+    {
+      "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
       },
@@ -3859,7 +3881,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 184489,
       "name": "Loko Consciente",
       "url": "https://open.spotify.com/track/5fpCAEvU5l8xHwMng41ohz"

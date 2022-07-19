@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Young Fathers
 
-960 songs - 2 day 9 hr 13 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+961 songs - 2 day 9 hr 18 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 | 2022-02-04 | 2022-03-18 |
 | [Steal My Sunshine \(feat\. Cherry Glazerr\)](https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 4:00 | 2021-09-24 | 2021-10-29 |
 | [Still](https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 4:07 | 2022-07-14 |  |
+| [Still Life](https://open.spotify.com/track/0hEEGfeWCG0q5cgyl9AEWp) | [ALASKALASKA](https://open.spotify.com/artist/78CgVNlDQMvOVDIrRL84tJ) | [Still Life](https://open.spotify.com/album/7MKpY53jMDLSvzw34KCyXI) | 4:44 | 2022-07-18 |  |
 | [Stone Meadows](https://open.spotify.com/track/05aob0aHCbxGjzWi5H2PKC) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Live Forever](https://open.spotify.com/album/4Lu520UvMf7lJccCnKw3hJ) | 3:50 | 2020-10-02 | 2021-01-23 |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/0WLVSnKqQBK4UPom1TESHK) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/1LPqrRp0TeRO7hO1SYF08y) | 4:26 | 2021-07-23 | 2021-08-27 |
 | [Stop Making This Hurt](https://open.spotify.com/track/32srSGuuy12hEhrD2iCIIK) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Stop Making This Hurt](https://open.spotify.com/album/6Zumf6wFEd0VHxHIUoMXhX) | 3:19 | 2021-05-21 | 2021-06-11 |

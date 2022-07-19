@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Cover: Walker Hayes
 
-1,247 songs - 2 day 19 hr 53 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+1,248 songs - 2 day 19 hr 56 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1206,6 +1206,7 @@
 | [Why Can't You](https://open.spotify.com/track/35tF9YJnXqZqX0MFlGxKoN) | [Chance Tomke](https://open.spotify.com/artist/2wysL0FCBKVYBXk9seETxb) | [Why Can't You](https://open.spotify.com/album/4MTKjn8evMgQ6aSlUV2gOf) | 3:29 | 2022-01-14 | 2022-02-26 |
 | [Why We Broke Up](https://open.spotify.com/track/6kd5baO6SfzrL8Jc23JSYr) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Why We Broke Up](https://open.spotify.com/album/7j1tsKIEf8epSilZ65cJ11) | 2:56 | 2022-06-03 | 2022-06-11 |
 | [Wide Open](https://open.spotify.com/track/2JoGraDho4b8WILvncpp5n) | [Clayton Smalley](https://open.spotify.com/artist/2RtlR6GBuvXVzDgAOS0qmK) | [Wide Open Compilation](https://open.spotify.com/album/57zFXHLBIeOY0aCMYY9FLN) | 3:47 | 2022-05-31 | 2022-06-04 |
+| [Wife You Up \(The Wedding Version\)](https://open.spotify.com/track/5Lw0FcyhL6F9v3tOFrkprQ) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Wife You Up \(The Wedding Version\)](https://open.spotify.com/album/5sxUHfzxn0BbWD7MrOVfeu) | 3:35 | 2022-07-15 |  |
 | [Wild](https://open.spotify.com/track/3xCdiCwU2ykBtNpg4gyhR7) | [Kendra Kay](https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ) | [Wild](https://open.spotify.com/album/4dZPYxnJViNKKLJG4Dw7Na) | 3:10 | 2022-01-28 | 2022-03-26 |
 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 | 2022-06-03 | 2022-06-11 |
 | [Wild as Her](https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/5E6Y21xdZI8Ein5d7wfqpI) | 3:21 | 2022-03-04 | 2022-03-12 |

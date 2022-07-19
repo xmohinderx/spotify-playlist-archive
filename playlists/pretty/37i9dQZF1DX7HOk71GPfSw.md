@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > belive the hype Cover: Alice Longyu Gao & Oli Sykes
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,671 likes - 98 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,911 likes - 98 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Royal Blue Walls](https://open.spotify.com/track/4AwEBnyhdSFQqPGRRJ3Ph1) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Royal Blue Walls](https://open.spotify.com/album/1O9lX0T7wx1JvE0Wu3Vstw) | 6:02 |
-| 2 | [Full Throttle](https://open.spotify.com/track/17Mi8KWXkEUhGRJbR5tqwS) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Full Throttle](https://open.spotify.com/album/62P3zzvyYQIOqJWIwYOmWP) | 3:04 |
-| 3 | [dragging](https://open.spotify.com/track/5fkcpy3dkfXhMmSyAzCh4h) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [sleepwalking / dragging](https://open.spotify.com/album/1QpLeV8MhsMbOu0XfiWltP) | 2:59 |
-| 4 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
-| 5 | [where you roam](https://open.spotify.com/track/50QOhLLgb8BhwjysN3XLQN) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [where you roam](https://open.spotify.com/album/1dR610UAAU3W5zg9K1AcUT) | 2:52 |
+| 1 | [Full Throttle](https://open.spotify.com/track/17Mi8KWXkEUhGRJbR5tqwS) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Full Throttle](https://open.spotify.com/album/62P3zzvyYQIOqJWIwYOmWP) | 3:04 |
+| 2 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
+| 3 | [Royal Blue Walls](https://open.spotify.com/track/4AwEBnyhdSFQqPGRRJ3Ph1) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Royal Blue Walls](https://open.spotify.com/album/1O9lX0T7wx1JvE0Wu3Vstw) | 6:02 |
+| 4 | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u) | 2:47 |
+| 5 | [dragging](https://open.spotify.com/track/5fkcpy3dkfXhMmSyAzCh4h) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [sleepwalking / dragging](https://open.spotify.com/album/1QpLeV8MhsMbOu0XfiWltP) | 2:59 |
 | 6 | [safety](https://open.spotify.com/track/03kK8LS0pKlOpfaqJA5PsQ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [safety](https://open.spotify.com/album/16LIWGd3m65DQfwtKRpvn6) | 2:28 |
-| 7 | [rationality // faith](https://open.spotify.com/track/570bc0qKrDtyQ6TEawJUG4) | [Summet](https://open.spotify.com/artist/5OpU9iKnpYToRqptji8FO4) | [axiom](https://open.spotify.com/album/1kPhhhADwd130X8Jcpwhdy) | 2:27 |
-| 8 | [GOSSIP](https://open.spotify.com/track/1tjJoYTGWaITkvlD37L4QY) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g) | [GOSSIP](https://open.spotify.com/album/4Boajrtj2qjs8DKjYLpXoF) | 3:20 |
-| 9 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 |
-| 10 | [Lovesick](https://open.spotify.com/track/5rtdjMt1W8eYgrvHnYaCZB) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [Lovesick](https://open.spotify.com/album/57FiXP5MECC5vtGTC3JuWC) | 2:57 |
-| 11 | [minnesota is a place that exists](https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [minnesota is a place that exists](https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q) | 2:18 |
-| 12 | [Tramal](https://open.spotify.com/track/1xYstYDswMkdSHDswY4x7D) | [Colm](https://open.spotify.com/artist/78l4EfrLQMmhAvNxoGQ2UW), [Hello Hannes](https://open.spotify.com/artist/0NUCZzalRW9dNTTBzP19pi) | [Tramal](https://open.spotify.com/album/0iUZrL7KopTaRJo5KcEZn0) | 3:07 |
-| 13 | [480](https://open.spotify.com/track/3UWLOdQnXEVK4CNikztTsp) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [480](https://open.spotify.com/album/2ZQ6EhBBPUWTRYIWIXxf3L) | 3:32 |
-| 14 | [Hell Hounds](https://open.spotify.com/track/0cAYxatX3fzSGpLmATQ0jz) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny \(Deluxe\)](https://open.spotify.com/album/0J0Ns0AG3qUqodD8zYRSzS) | 2:01 |
-| 15 | [broken](https://open.spotify.com/track/2glnsTtO3HOwZ1iUMiMKja) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [broken](https://open.spotify.com/album/3PsSalVDMPwqFWmBZZQRHB) | 2:34 |
-| 16 | [All of My Role Models](https://open.spotify.com/track/1HJHslXeZGOIcJqDJr2LqR) | [Cooked Sushi](https://open.spotify.com/artist/4PJ74ABEX53RBSngKMBH7A) | [All of My Role Models](https://open.spotify.com/album/4WfsGPEKUiUybbgMbwDJif) | 3:07 |
-| 17 | [9 Lives](https://open.spotify.com/track/1Vr3W9A9wmlfdD1P4uVkzS) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [9 Lives](https://open.spotify.com/album/4xWKAZymvlhtBEmRgOJeHa) | 2:47 |
-| 18 | [die b4 u](https://open.spotify.com/track/6VYPtD8eHf7FDvovfhSJxa) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [die b4 u](https://open.spotify.com/album/1lUThx8quUxLaZS0Yg7V37) | 3:00 |
-| 19 | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u) | 2:47 |
-| 20 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 |
+| 7 | [GOSSIP](https://open.spotify.com/track/1tjJoYTGWaITkvlD37L4QY) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g) | [GOSSIP](https://open.spotify.com/album/4Boajrtj2qjs8DKjYLpXoF) | 3:20 |
+| 8 | [minnesota is a place that exists](https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [minnesota is a place that exists](https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q) | 2:18 |
+| 9 | [rationality // faith](https://open.spotify.com/track/570bc0qKrDtyQ6TEawJUG4) | [Summet](https://open.spotify.com/artist/5OpU9iKnpYToRqptji8FO4) | [axiom](https://open.spotify.com/album/1kPhhhADwd130X8Jcpwhdy) | 2:27 |
+| 10 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 |
+| 11 | [where you roam](https://open.spotify.com/track/50QOhLLgb8BhwjysN3XLQN) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [where you roam](https://open.spotify.com/album/1dR610UAAU3W5zg9K1AcUT) | 2:52 |
+| 12 | [Hell Hounds](https://open.spotify.com/track/0cAYxatX3fzSGpLmATQ0jz) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny \(Deluxe\)](https://open.spotify.com/album/0J0Ns0AG3qUqodD8zYRSzS) | 2:01 |
+| 13 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 |
+| 14 | [Lovesick](https://open.spotify.com/track/5rtdjMt1W8eYgrvHnYaCZB) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [Lovesick](https://open.spotify.com/album/57FiXP5MECC5vtGTC3JuWC) | 2:57 |
+| 15 | [480](https://open.spotify.com/track/3UWLOdQnXEVK4CNikztTsp) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [480](https://open.spotify.com/album/2ZQ6EhBBPUWTRYIWIXxf3L) | 3:32 |
+| 16 | [broken](https://open.spotify.com/track/2glnsTtO3HOwZ1iUMiMKja) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [broken](https://open.spotify.com/album/3PsSalVDMPwqFWmBZZQRHB) | 2:34 |
+| 17 | [All of My Role Models](https://open.spotify.com/track/1HJHslXeZGOIcJqDJr2LqR) | [Cooked Sushi](https://open.spotify.com/artist/4PJ74ABEX53RBSngKMBH7A) | [All of My Role Models](https://open.spotify.com/album/4WfsGPEKUiUybbgMbwDJif) | 3:07 |
+| 18 | [9 Lives](https://open.spotify.com/track/1Vr3W9A9wmlfdD1P4uVkzS) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [9 Lives](https://open.spotify.com/album/4xWKAZymvlhtBEmRgOJeHa) | 2:47 |
+| 19 | [die b4 u](https://open.spotify.com/track/6VYPtD8eHf7FDvovfhSJxa) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [die b4 u](https://open.spotify.com/album/1lUThx8quUxLaZS0Yg7V37) | 3:00 |
+| 20 | [Tramal](https://open.spotify.com/track/1xYstYDswMkdSHDswY4x7D) | [Colm](https://open.spotify.com/artist/78l4EfrLQMmhAvNxoGQ2UW), [Hello Hannes](https://open.spotify.com/artist/0NUCZzalRW9dNTTBzP19pi) | [Tramal](https://open.spotify.com/album/0iUZrL7KopTaRJo5KcEZn0) | 3:07 |
 | 21 | [i<3u](https://open.spotify.com/track/1KS9pQrHrF326T9SXnQz89) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [this is our music ♫](https://open.spotify.com/album/0TrSCCZgwkfrfFAA2IfO4D) | 1:36 |
 | 22 | [MORE](https://open.spotify.com/track/1dh3gLolmSRmOcFrUNV3N3) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [MORE](https://open.spotify.com/album/37CE40tXZOopv96zoUigRn) | 1:36 |
 | 23 | [DEVIL IN MY HEAD](https://open.spotify.com/track/5dmvNunpW65vzsayFi3ZUG) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [DEVIL IN MY HEAD](https://open.spotify.com/album/2RZmV3HMX66wfSO6Uekekl) | 2:13 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 97 | [mt fuji](https://open.spotify.com/track/35HGf3Vy2S83VOVE5ST4Gm) | [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [mt fuji](https://open.spotify.com/album/1csjl8kXXVuP5nzKwuqfMG) | 3:12 |
 | 98 | [Staring at the Ceiling](https://open.spotify.com/track/1vPRVC9OhWpLUFmHwUCziG) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Staring at the Ceiling](https://open.spotify.com/album/2pI8tzfUm19pAGtH3ZHfq5) | 3:43 |
 
-Snapshot ID: `MTY1ODA3ODE5OSwwMDAwMDE4MjAwMDAwMTgyMGQyOTgwNGYwMDAwMDE4MWI1ZjAwYzM4`
+Snapshot ID: `MTY1ODE2NzAwNCwwMDAwMDE4MzAwMDAwMTgyMTI3NDhiYWUwMDAwMDE4MWI1ZjAwYzM4`

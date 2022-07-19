@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 109017,
       "name": "Cartago Vive",
       "url": "https://open.spotify.com/track/7xLk01lIa6MHSVYoC19IGU"
@@ -3669,7 +3669,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
@@ -4521,7 +4521,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 200090,
       "name": "LA QUE ME HIZO LLORAR",
       "url": "https://open.spotify.com/track/7yyUsqAbI09cq7K7uqgyAU"
@@ -5278,6 +5278,24 @@
     },
     {
       "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
+    },
+    {
+      "album": {
         "name": "FREELANCE",
         "url": "https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz"
       },
@@ -5449,7 +5467,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 248818,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
@@ -5493,6 +5511,24 @@
     {
       "album": {
         "name": "Mi Bebito Fiu Fiu",
+        "url": "https://open.spotify.com/album/5plDkotyuP7UBM9jkDktLB"
+      },
+      "artists": [
+        {
+          "name": "Blazer Zero",
+          "url": "https://open.spotify.com/artist/2ihGOBxVB7zeDYbieFyeHO"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219934,
+      "name": "Mi Bebito Fiu Fiu",
+      "url": "https://open.spotify.com/track/7hl8yi5iItAYKwtSVtbEhO"
+    },
+    {
+      "album": {
+        "name": "Mi Bebito Fiu Fiu",
         "url": "https://open.spotify.com/album/6KuRgyWHYHcec0e3YUqLdg"
       },
       "artists": [
@@ -5521,7 +5557,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 219689,
       "name": "Mi Bebito Fiu Fiu",
       "url": "https://open.spotify.com/track/7dT3NxlPsOIdM6dftDNM5K"
@@ -6567,7 +6603,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 432560,
       "name": "One More Hour",
       "url": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"

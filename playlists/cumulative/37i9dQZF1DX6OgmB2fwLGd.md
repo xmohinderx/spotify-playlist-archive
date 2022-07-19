@@ -4,7 +4,7 @@
 
 > "Hey bel, la bastichi\. La papaya, du la potato" Cover: Minions
 
-330 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+332 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ascendant Mode \(Speedforce\)](https://open.spotify.com/track/1coJjj2WcBxR9k8GvNgwT8) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Spectre Ascendant](https://open.spotify.com/album/6pdMsfJMGf54qDiIKRqZQU) | 1:55 | 2021-11-12 | 2022-02-23 |
 | [ASL \(FACTS\)](https://open.spotify.com/track/6sEfMgoVbLJL7jj2G6sqF6) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [ASL \(FACTS\)](https://open.spotify.com/album/6YlBylsB1aeFbPu62G3CzR) | 1:46 | 2021-10-29 | 2022-02-23 |
 | [ASMR](https://open.spotify.com/track/7pHNksVEon80wFuuWrboLO) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [ZaeHD vs ZAEYAN, Vol\. 2](https://open.spotify.com/album/0gSgXddMRXf1h4TLbYuSNf) | 2:07 | 2022-03-06 | 2022-05-14 |
+| [AWKWARD FREESTYLE](https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [AWKWARD FREESTYLE](https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV) | 2:07 | 2022-07-18 |  |
 | [Back It Up](https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D) | [Popp Hunna](https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I) | [Back It Up](https://open.spotify.com/album/1lIkzEoKntwg8tmg16xLXL) | 2:38 | 2022-01-14 | 2022-02-05 |
 | [BACKROOM](https://open.spotify.com/track/2CXNjqL7ewOt2bo5VCd1Lj) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [BACKROOM](https://open.spotify.com/album/3Z96YG0kqDD0hFc3ZD68NW) | 2:35 | 2021-12-03 | 2022-02-19 |
 | [Bag](https://open.spotify.com/track/0CyqjmmaRh3TL3ebR7vLhc) | [645AR](https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Bag](https://open.spotify.com/album/2l9HFZ8woqwKc9vX6hsprZ) | 1:43 | 2022-07-01 |  |
@@ -94,7 +95,7 @@
 | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH) | 3:01 | 2021-12-07 | 2022-02-05 |
 | [DELIRIOUS!](https://open.spotify.com/track/6KemhLE5U7fd5SBUJr2sRl) | [Championxiii](https://open.spotify.com/artist/0mYBT2Ek76Szd4MqbCgT5R), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [DELIRIOUS!](https://open.spotify.com/album/7LiafuGVnC731meL4S6cmi) | 1:32 | 2021-10-08 | 2022-04-03 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-26 |  |
-| [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 |  |
+| [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 | 2022-07-19 |
 | [DIVE IN!](https://open.spotify.com/track/2I8EDARURigigunOxtg7oi) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN!](https://open.spotify.com/album/3QEPmn54oibH1jzd1gcYyD) | 1:40 | 2022-02-10 |  |
 | [DO IT AGAIN](https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [DO IT AGAIN](https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX) | 2:10 | 2022-03-04 | 2022-06-25 |
 | [DO NOT KNOW YOU](https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [DO NOT KNOW YOU](https://open.spotify.com/album/5O4I4RUSGTurL6VKPCMeJJ) | 2:00 | 2022-07-15 |  |
@@ -133,7 +134,7 @@
 | [From Tha Back](https://open.spotify.com/track/6yPXp9wf5SVk98bhJdOZkM) | [lil.eaarl](https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES), [Huncho Da Rockstar](https://open.spotify.com/artist/4VrY0JpWXcvse8rsqAIZj3) | [From Tha Back](https://open.spotify.com/album/2uH6mlobFkCOzoTS7oqvKy) | 2:46 | 2021-09-21 | 2022-03-26 |
 | [Gas Station](https://open.spotify.com/track/2TgbS4ZzDWdhxga5HImDJ7) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Gas Station](https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1) | 2:15 | 2022-04-22 | 2022-06-03 |
 | [GED](https://open.spotify.com/track/63T33mvThv0sZQEjTcglYx) | [Rocstaryoshi](https://open.spotify.com/artist/11wXsMzrtYLvAsaF1EfHBx) | [GED](https://open.spotify.com/album/79OuTWEfANwyDiKEYmNPgW) | 1:52 | 2022-04-14 |  |
-| [Genesis](https://open.spotify.com/track/3mcV7PBgaeX9a6TWqgiNzt) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Genesis](https://open.spotify.com/album/3IAtz770qd9AW1zXDIWUNx) | 2:33 | 2022-05-27 |  |
+| [Genesis](https://open.spotify.com/track/3mcV7PBgaeX9a6TWqgiNzt) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Genesis](https://open.spotify.com/album/3IAtz770qd9AW1zXDIWUNx) | 2:33 | 2022-05-27 | 2022-07-19 |
 | [Get TF Out My Face](https://open.spotify.com/track/0m0mtfrpVxsrXqgdCsURNd) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Get TF Out My Face](https://open.spotify.com/album/3EAlwCLd3mbD7cOZo1GIJv) | 2:13 | 2021-12-10 | 2021-12-27 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-21 | 2022-05-21 |
 | [Go](https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Go](https://open.spotify.com/album/0fas0oNoInW2Y68mdaW0Gf) | 2:12 | 2021-11-27 | 2022-02-26 |
@@ -204,6 +205,7 @@
 | [middle](https://open.spotify.com/track/2F8YuzhSMZHq1rKv3VgnRb) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [middle](https://open.spotify.com/album/1C8prJTb4QpG6J5Vjr9li6) | 2:22 | 2022-04-29 | 2022-07-16 |
 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 | 2022-02-02 | 2022-06-29 |
 | [mondays! \(feat\. Pussy Riot\)](https://open.spotify.com/track/0QlB73ipXvoGegXQXYxcVA) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [mondays! \(feat\. Pussy Riot\)](https://open.spotify.com/album/0niuG1LLB6hMKjwgyChn02) | 2:01 | 2021-10-15 | 2022-02-05 |
+| [Montana Flow](https://open.spotify.com/track/08J3GDrAnq1uFCSVnjs9x9) | [Sosa](https://open.spotify.com/artist/00oWcaID7J6ns2KY5jsMG2) | [Montana Flow](https://open.spotify.com/album/2DlGXQCBbfQXu6TGbvzfvo) | 2:22 | 2022-07-18 |  |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-01-07 | 2022-04-02 |
 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 | 2022-04-20 |  |
 | [MURDAMAN!](https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [MURDAMAN!](https://open.spotify.com/album/1VuLjemtxOlQmetIZIqd5u) | 2:36 | 2022-03-16 |  |

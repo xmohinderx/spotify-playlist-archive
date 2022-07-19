@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "The Redaction",
+        "url": "https://open.spotify.com/album/7s8s81xhb27Y13HQLx20be"
+      },
+      "artists": [
+        {
+          "name": "Night Moves",
+          "url": "https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119333,
+      "name": "As Innocent Looking As Candy",
+      "url": "https://open.spotify.com/track/1UZxXSDDaOABCoYhpi4BCJ"
+    },
+    {
+      "album": {
         "name": "Bad Faith",
         "url": "https://open.spotify.com/album/15IAPEq7DhIb7EXeIbY7VK"
       },

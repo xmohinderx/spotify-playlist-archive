@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 | 2021-07-02 |  |
+| [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 | 2021-07-02 | 2022-07-19 |
 | [A Cor É Rosa](https://open.spotify.com/track/5QUoiOFWAaV5VC2VbBhHJ4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [A Cor É Rosa](https://open.spotify.com/album/3wLwv0W8vx2mhmMWC9lNEF) | 3:48 | 2021-07-02 |  |
 | [A Estrada](https://open.spotify.com/track/3bS1srVDOOqGYCKcnzYwfs) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Quanto Mais Curtido Melhor](https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX) | 4:42 | 2021-07-02 |  |
 | [A Voz E O Violão](https://open.spotify.com/track/3PX5eDiq4yOCeryQg5FcFr) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [A Voz E O Violão](https://open.spotify.com/album/6gEnotCkoJLErkbEpoqkmk) | 3:23 | 2021-07-02 |  |
@@ -23,7 +23,7 @@
 | [Beleza Rara](https://open.spotify.com/track/0Oev1uum7Oje1oSJiWKuOT) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara](https://open.spotify.com/album/17Ac8TGm7DgJoNlYFOXuYz) | 3:55 | 2021-07-02 |  |
 | [Bem Melhor](https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Bem Melhor](https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4) | 3:03 | 2021-07-02 |  |
 | [Bilhete 2.0](https://open.spotify.com/track/4eizL2CPEy9lFUZw7HBKrk) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Crise](https://open.spotify.com/album/1GrLzuMykj1N2woxKXsb0W) | 3:43 | 2021-07-02 |  |
-| [Boa Menina](https://open.spotify.com/track/3eCofNVG97J3lRyNhh0zPP) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Boa Menina](https://open.spotify.com/album/26VwJ4TnjQYdkTe7LTcFQP) | 2:27 | 2021-07-02 | 2022-07-08 |
+| [Boa Menina](https://open.spotify.com/track/3eCofNVG97J3lRyNhh0zPP) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Boa Menina](https://open.spotify.com/album/26VwJ4TnjQYdkTe7LTcFQP) | 2:27 | 2021-07-02 |  |
 | [Bola De Sabão](https://open.spotify.com/track/0Gixl1xHxfUBGIg3ELHDpM) | [Babado Novo](https://open.spotify.com/artist/2jGuS7w8SfDzRNbxW1Lo2c) | [Babado Novo / O Diário de Claudinha](https://open.spotify.com/album/7ltv7BZawkA9LQzNjdKArH) | 3:59 | 2021-07-02 |  |
 | [Brisa](https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Brisa](https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK) | 2:31 | 2021-07-02 |  |
 | [Burguesinha](https://open.spotify.com/track/3mXjQTPztvXVRuL6tt6jY3) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [América Brasil O Disco](https://open.spotify.com/album/5TjMovSYXlYcz8y10cBwS2) | 4:18 | 2021-07-02 |  |

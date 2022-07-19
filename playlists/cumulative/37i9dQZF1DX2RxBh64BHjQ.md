@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: SleazyWorld Go
 
-514 songs - 23 hr 4 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+515 songs - 23 hr 8 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [New 50's](https://open.spotify.com/track/1E2ukB8wWsO5BFVrhpgg99) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [New 50's](https://open.spotify.com/album/16TFhLh8M2aSIfXhK7DxOr) | 1:54 | 2022-05-20 |  |
 | [New Money](https://open.spotify.com/track/6C6POicX3pT7wV46f3NY2I) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [New Money](https://open.spotify.com/album/1GdhvK867o2TFnt1rVnFJp) | 3:22 | 2022-05-27 |  |
 | [New Opps](https://open.spotify.com/track/5p2btOYmVnkJp6z8aoNMwl) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [New Opps](https://open.spotify.com/album/5Xw38QEyGPa5X1G51TvXpf) | 1:48 | 2022-06-17 |  |
+| [New York \(feat\. A Boogie Wit Da Hoodie & Jadakiss\)](https://open.spotify.com/track/1HVVrtjLvEQx8oinUYI5Nv) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Rebel vs\. Rowdy](https://open.spotify.com/album/0zxvDMvFNW7h9JQb4oq2eS) | 3:55 | 2022-07-18 |  |
 | [Nino](https://open.spotify.com/track/3vkQqaIM82rW6ovsT2Paeg) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Nino](https://open.spotify.com/album/12iv9VXqpbk8zTormKRAno) | 2:29 | 2022-04-08 | 2022-06-11 |
 | [No Drama](https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [No Drama](https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z) | 3:16 | 2021-12-10 | 2022-03-05 |
 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 | 2022-07-15 |  |

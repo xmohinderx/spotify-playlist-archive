@@ -4,7 +4,7 @@
 
 > All the New Joints featuring CMG, Sheff G, Joey Bada$$ and more\. Cover: Latto
 
-1,065 songs - 2 day 2 hr 0 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,066 songs - 2 day 2 hr 4 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [GAS!](https://open.spotify.com/track/3QsIonKmbe7lollXunUVRZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [GAS!](https://open.spotify.com/album/5ymTB3P1DqX0fbIHvWeb8F) | 2:28 | 2022-06-17 | 2022-06-25 |
 | [Get Back \(feat\. G Herbo\)](https://open.spotify.com/track/58PHa0il1TgjqONQc8ZJ5j) | [Yak Yola](https://open.spotify.com/artist/3pnHEUKevBqj5yqYBIvVs6), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Get Back \(feat\. G Herbo\)](https://open.spotify.com/album/29uX8kttgwZkbzDtn05yY6) | 2:45 | 2022-02-25 | 2022-03-05 |
 | [Get Backers](https://open.spotify.com/track/174341j60OTqELLBHtQu8z) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Get Backers](https://open.spotify.com/album/06qHxA0YP3ckgwwr5uMr7N) | 2:39 | 2022-07-15 |  |
+| [Get Lit Or Die Tryin’](https://open.spotify.com/track/4P7tmkBQdidI2oeMZuOobs) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Get Lit Or Die Tryin’](https://open.spotify.com/album/04U5KnWcsgDLX6C3PNIesZ) | 3:31 | 2022-07-18 |  |
 | [Get Out \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4CnJqlLWZDkSZIuG0DAySk) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Get Out \(feat\. Merlyn Wood\)](https://open.spotify.com/album/060UCpasNX1VVflps0vxbr) | 3:03 | 2022-03-18 | 2022-03-26 |
 | [Get Paid](https://open.spotify.com/track/5hhvK8Png04nKtNZalWK8s) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Get Paid](https://open.spotify.com/album/5IlwJIWswcDznugc8wdT2K) | 2:31 | 2022-04-15 | 2022-04-23 |
 | [Getcha](https://open.spotify.com/track/30T3caX52HnPa04rmbqdMK) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Getcha](https://open.spotify.com/album/3x0xq7i4SVBQvnu1H1k2mb) | 2:50 | 2022-07-01 | 2022-07-09 |

@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 242343,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3N3w7Ge6lULExWZ4DJsHZF"
@@ -2205,7 +2205,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 188085,
       "name": "Get Crunk",
       "url": "https://open.spotify.com/track/5W5OYUsIU6layuL0uQmCBX"
@@ -2691,7 +2691,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 184615,
       "name": "Heat",
       "url": "https://open.spotify.com/track/6dPtJhyt9o3Dhmo2n2VgUe"
@@ -3399,7 +3399,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 205161,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/7JBD5qv7cyDNKK9NuZoOrN"
@@ -4139,7 +4139,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 299527,
       "name": "Overthinkin'",
       "url": "https://open.spotify.com/track/2cmM9VWTXlE08tPNqTHpSg"
@@ -5530,6 +5530,24 @@
     },
     {
       "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/7oKCEhzbHgertrWKkkKgxp"
+      },
+      "artists": [
+        {
+          "name": "AYOR",
+          "url": "https://open.spotify.com/artist/5NzdRvsHUo8bIaIi7kTr74"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/6Ui5bbINcHkcJM7c7qXyKj"
+    },
+    {
+      "album": {
         "name": "To L.A.",
         "url": "https://open.spotify.com/album/5qe33W1sgjxZB5zRU5eiPK"
       },
@@ -5541,7 +5559,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 206666,
       "name": "To L.A.",
       "url": "https://open.spotify.com/track/0l8y6oPQbVonLvicE34SC9"
@@ -5581,6 +5599,28 @@
       "duration_ms": 171428,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/2sMabi053PJu921UdGhqTO"
+    },
+    {
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/0njFQTnCxfqVFWJh14Ptfd"
+      },
+      "artists": [
+        {
+          "name": "NXNJAS",
+          "url": "https://open.spotify.com/artist/3NiiV7QNgurciXVAmr2C7o"
+        },
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/2aYs0Kg0Mt9XbmzPml3pND"
     },
     {
       "album": {

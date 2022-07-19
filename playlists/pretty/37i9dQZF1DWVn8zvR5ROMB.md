@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Cover: Walker Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,409 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,628 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 40 | [After Me](https://open.spotify.com/track/4bvWD6jaP4PJzj5e2auCzu) | [Morgan Johnston](https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC) | [After Me](https://open.spotify.com/album/4z5eotsFW80CeZ07cZn360) | 2:53 |
 | 41 | [All Trucks Go To Heaven](https://open.spotify.com/track/1LtIXEd6VTXRvsN86F62hm) | [BOOMTOWN SAINTS](https://open.spotify.com/artist/53s00dAQvGIkjY33v4d4xZ) | [All Trucks Go To Heaven](https://open.spotify.com/album/1ygiZT6Zo6rbdM0ym9rATi) | 3:21 |
 | 42 | [Bobber](https://open.spotify.com/track/7DaCPi6iaR7g5k7QfiTHai) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Bobber](https://open.spotify.com/album/5pjjIcac9sMA04zWXseVmP) | 2:48 |
-| 43 | [Thunder in December](https://open.spotify.com/track/4HgkZspYQ2VT4dk5CE7viS) | [Nicky James](https://open.spotify.com/artist/3mMKcvOOK7XZAOZGuLFNAk) | [Thunder in December](https://open.spotify.com/album/3Rk47ags9XB0MXPM8oibeH) | 3:40 |
-| 44 | [Countryside Drive](https://open.spotify.com/track/7FcmmOOYOA7U9JjsFgJgMj) | [Lucas Hoge](https://open.spotify.com/artist/0hj3TrC0GoZKDTyxZo88pP) | [Countryside Drive](https://open.spotify.com/album/35PFjg0KfdWM4Tt4XevfB6) | 2:57 |
+| 43 | [Wife You Up \(The Wedding Version\)](https://open.spotify.com/track/5Lw0FcyhL6F9v3tOFrkprQ) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Wife You Up \(The Wedding Version\)](https://open.spotify.com/album/5sxUHfzxn0BbWD7MrOVfeu) | 3:35 |
+| 44 | [Thunder in December](https://open.spotify.com/track/4HgkZspYQ2VT4dk5CE7viS) | [Nicky James](https://open.spotify.com/artist/3mMKcvOOK7XZAOZGuLFNAk) | [Thunder in December](https://open.spotify.com/album/3Rk47ags9XB0MXPM8oibeH) | 3:40 |
+| 45 | [Countryside Drive](https://open.spotify.com/track/7FcmmOOYOA7U9JjsFgJgMj) | [Lucas Hoge](https://open.spotify.com/artist/0hj3TrC0GoZKDTyxZo88pP) | [Countryside Drive](https://open.spotify.com/album/35PFjg0KfdWM4Tt4XevfB6) | 2:57 |
 
 Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDE4NDAwMDAwMTgyMDAwMzZhZTkwMDAwMDE4MWY4YjY5OTli`

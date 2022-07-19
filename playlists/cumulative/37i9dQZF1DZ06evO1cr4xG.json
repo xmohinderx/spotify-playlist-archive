@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 340288,
       "name": "Amongst The Shadows & The Stones",
       "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 265480,
       "name": "Ascendancy",
       "url": "https://open.spotify.com/track/25mSOE3LW1IREKGhSeRUVx"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 248734,
       "name": "From Dawn To Decadence",
       "url": "https://open.spotify.com/track/3yfWC3NU7tCaQJTkFzEMmm"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 309029,
       "name": "In The Court Of The Dragon",
       "url": "https://open.spotify.com/track/1N8HMQL90GFdDaFUz6ONcs"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 281781,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys"
@@ -800,6 +800,24 @@
     },
     {
       "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Pull Me from the Void",
+      "url": "https://open.spotify.com/track/1NLmExNNQmX4Xa6IxnqVi0"
+    },
+    {
+      "album": {
         "name": "Ascendancy",
         "url": "https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV"
       },
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 325666,
       "name": "Sever the Hand",
       "url": "https://open.spotify.com/track/51NZCggjFj5NGcleguitxM"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 374042,
       "name": "Sickness Unto You",
       "url": "https://open.spotify.com/track/4cCPkc82Y1zBw98LXLR6Gc"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 331933,
       "name": "The Wretchedness Inside",
       "url": "https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 329480,
       "name": "Thrown into the Fire",
       "url": "https://open.spotify.com/track/6PXjY2Hr2LgTSGfJRa0UG7"

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 238813,
       "name": "99",
       "url": "https://open.spotify.com/track/5otXJIeiF43SPz7R7ov8GX"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 227986,
       "name": "American Witch",
       "url": "https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 261986,
       "name": "Believe in Nothing",
       "url": "https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8"
@@ -365,6 +365,24 @@
       "duration_ms": 226000,
       "name": "Benzin",
       "url": "https://open.spotify.com/track/1XanLfYUUBB6bLbnSh1KyU"
+    },
+    {
+      "album": {
+        "name": "New American Gospel",
+        "url": "https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292293,
+      "name": "Black Label",
+      "url": "https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk"
     },
     {
       "album": {
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 442733,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 331026,
       "name": "Bleed for Me",
       "url": "https://open.spotify.com/track/0YYpiRYHqxXxs3CBPvUrNR"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 193533,
       "name": "Bombshell",
       "url": "https://open.spotify.com/track/32SJxfCMIsF9oDBzA9hFob"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 154293,
       "name": "Breaking Me Down",
       "url": "https://open.spotify.com/track/2ancrG9a7j8JeR07jWD6be"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 249853,
       "name": "Clouds Over California",
       "url": "https://open.spotify.com/track/21WIpZXepY9HA7NDwYiNaM"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 183386,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/1INY8U3j0VdfhNm1xksZ9I"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 343920,
       "name": "Enemy of God",
       "url": "https://open.spotify.com/track/66SvhAHu1tggvj5wwOwxDR"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 180066,
       "name": "Fiend",
       "url": "https://open.spotify.com/track/4Jcz9DveYMyNgDxuspZv3r"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 222813,
       "name": "Free",
       "url": "https://open.spotify.com/track/6G3waRixEIXegXfbRTaIqJ"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 274400,
       "name": "Freya",
       "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 176600,
       "name": "Get Up Again",
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 231200,
       "name": "Ghost Division",
       "url": "https://open.spotify.com/track/3ZiJwNnZWMSKmUUTvYhIKx"
@@ -1225,10 +1243,28 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 211095,
       "name": "Ghostriders in the Sky",
       "url": "https://open.spotify.com/track/3D9X47VTRPVT6aAuK7bPvf"
+    },
+    {
+      "album": {
+        "name": "Twilight Of The Thunder God",
+        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263160,
+      "name": "Guardians Of Asgaard",
+      "url": "https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC"
     },
     {
       "album": {
@@ -1679,7 +1715,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 276306,
       "name": "King Of Pain",
       "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
@@ -1787,7 +1823,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 203186,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf"
@@ -2003,7 +2039,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 257493,
       "name": "My World",
       "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
@@ -2165,7 +2201,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 224426,
       "name": "Out to Get Me",
       "url": "https://open.spotify.com/track/2igFFb8FsNxOW7RQSmSTfL"
@@ -2237,7 +2273,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 218933,
       "name": "Praise",
       "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
@@ -2255,7 +2291,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 257265,
       "name": "Pride",
       "url": "https://open.spotify.com/track/2fokXxR9CAlxF6zoQVp4tx"
@@ -2345,7 +2381,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 233520,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
@@ -2511,7 +2547,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 222466,
       "name": "Right Side Of The Bed",
       "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
@@ -2655,7 +2691,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 214040,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6md1gc3K7hCNE45Dx0IVeg"
@@ -2727,7 +2763,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 147333,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4AaZtoVREGSOTMzdzLoCGK"
@@ -2763,7 +2799,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 204293,
       "name": "South Texas Deathride",
       "url": "https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD"
@@ -2925,7 +2961,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 347386,
       "name": "Suicide Messiah",
       "url": "https://open.spotify.com/track/0NsGX5siz55Fipy0ALJi4W"
@@ -3033,7 +3069,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 594213,
       "name": "The art of dying",
       "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
@@ -3159,7 +3195,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 270253,
       "name": "The Pursuit Of Vikings",
       "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
@@ -3217,6 +3253,24 @@
       "duration_ms": 275253,
       "name": "The Wicker Man - 2015 Remaster",
       "url": "https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF"
+    },
+    {
+      "album": {
+        "name": "Set Fire To The Hive",
+        "url": "https://open.spotify.com/album/3rVs1xdrP7pFBQoLZlRoEP"
+      },
+      "artists": [
+        {
+          "name": "Karnivool",
+          "url": "https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346760,
+      "name": "Themata",
+      "url": "https://open.spotify.com/track/5u4n1CQe3fcQoLdJom09ly"
     },
     {
       "album": {
@@ -3346,6 +3400,24 @@
     },
     {
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/2h9pGOK3WpnKM6sJjILl5E"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Unreal - Album Version & Radio Edit",
+      "url": "https://open.spotify.com/track/0FT4ChwbqIhNtQuzjRNIh9"
+    },
+    {
+      "album": {
         "name": "10,000 Days",
         "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
       },
@@ -3375,7 +3447,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "Wait",
       "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
@@ -3429,7 +3501,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 353133,
       "name": "World Painted Blood",
       "url": "https://open.spotify.com/track/4WFYHBYhFA6tmCRYKng2MB"
@@ -3447,7 +3519,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 259693,
       "name": "Yesterday Don't Mean Shit",
       "url": "https://open.spotify.com/track/0MT298VrmI1Kb7GFbxw43C"
@@ -3465,7 +3537,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 258160,
       "name": "You Wouldn't Know",
       "url": "https://open.spotify.com/track/0cnySM1Mlep9l9Y2fKo04w"

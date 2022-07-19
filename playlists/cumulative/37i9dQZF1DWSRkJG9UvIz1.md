@@ -4,7 +4,7 @@
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-60 songs - 3 hr 45 min - not published yet
+60 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/0lHqHMv4PqSf7iP3xOQ8Du)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

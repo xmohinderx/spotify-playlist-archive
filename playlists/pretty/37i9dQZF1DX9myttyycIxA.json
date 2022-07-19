@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: boyish",
-  "num_followers": 261140,
+  "num_followers": 261300,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjEyMiwwMDAwMDExZDAwMDAwMTgyMDJlN2QwNDAwMDAwMDE4MTAyMGZmMzIz",
+  "snapshot_id": "MTY1ODE2NjA3OCwwMDAwMDExZTAwMDAwMTgyMTI2NjZjYmQwMDAwMDE4MTAyMGZmMzIz",
   "tracks": [
     {
       "added_at": "2022-07-15 16:00:00",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O"
     },
     {
-      "added_at": "2022-07-15 16:00:00",
-      "album": {
-        "name": "Let The Lights On",
-        "url": "https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Let The Lights On",
-      "url": "https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN"
-    },
-    {
       "added_at": "2022-05-19 16:02:03",
       "album": {
         "name": "Songs of Her's",
@@ -71,22 +55,6 @@
       "duration_ms": 255067,
       "name": "What Once Was",
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
-    },
-    {
-      "added_at": "2022-07-15 16:00:00",
-      "album": {
-        "name": "Greta Thunberg",
-        "url": "https://open.spotify.com/album/0iOdHACwU4yd7oJHVNHn4k"
-      },
-      "artists": [
-        {
-          "name": "marinelli",
-          "url": "https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a"
-        }
-      ],
-      "duration_ms": 244272,
-      "name": "Greta Thunberg",
-      "url": "https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw"
     },
     {
       "added_at": "2022-05-27 06:40:00",
@@ -121,38 +89,6 @@
       "url": "https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt"
     },
     {
-      "added_at": "2022-07-15 16:00:00",
-      "album": {
-        "name": "Shark Eyes",
-        "url": "https://open.spotify.com/album/3yBF9PnTuSweeaRRCXa85h"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Shark Eyes",
-      "url": "https://open.spotify.com/track/11wfF2qohFwGzyG3e2HPKB"
-    },
-    {
-      "added_at": "2022-07-15 16:00:00",
-      "album": {
-        "name": "Jet Lag",
-        "url": "https://open.spotify.com/album/0p2x1IjzaF0tnP60Sil4wU"
-      },
-      "artists": [
-        {
-          "name": "BEL",
-          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/28PHxtY7jvJ8ZYOKo3ZduD"
-    },
-    {
       "added_at": "2022-05-19 16:02:03",
       "album": {
         "name": "Superstar Baby",
@@ -183,6 +119,86 @@
       "duration_ms": 205714,
       "name": "Stress Relief",
       "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
+    },
+    {
+      "added_at": "2022-07-01 06:25:00",
+      "album": {
+        "name": "Dust Bunny",
+        "url": "https://open.spotify.com/album/4Bmym3tMCYlY08OIpYQAb3"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "Dust Bunny",
+      "url": "https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL"
+    },
+    {
+      "added_at": "2022-07-15 16:00:00",
+      "album": {
+        "name": "Let The Lights On",
+        "url": "https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Let The Lights On",
+      "url": "https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN"
+    },
+    {
+      "added_at": "2022-07-15 16:00:00",
+      "album": {
+        "name": "Greta Thunberg",
+        "url": "https://open.spotify.com/album/0iOdHACwU4yd7oJHVNHn4k"
+      },
+      "artists": [
+        {
+          "name": "marinelli",
+          "url": "https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a"
+        }
+      ],
+      "duration_ms": 244272,
+      "name": "Greta Thunberg",
+      "url": "https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw"
+    },
+    {
+      "added_at": "2022-07-15 16:00:00",
+      "album": {
+        "name": "Shark Eyes",
+        "url": "https://open.spotify.com/album/3yBF9PnTuSweeaRRCXa85h"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Shark Eyes",
+      "url": "https://open.spotify.com/track/11wfF2qohFwGzyG3e2HPKB"
+    },
+    {
+      "added_at": "2022-07-15 16:00:00",
+      "album": {
+        "name": "Jet Lag",
+        "url": "https://open.spotify.com/album/0p2x1IjzaF0tnP60Sil4wU"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/28PHxtY7jvJ8ZYOKo3ZduD"
     },
     {
       "added_at": "2022-07-12 20:49:52",
@@ -231,22 +247,6 @@
       "duration_ms": 180240,
       "name": "Call Me Upset",
       "url": "https://open.spotify.com/track/2jGNZGDdHZCVwqMMZLkhvC"
-    },
-    {
-      "added_at": "2022-07-01 06:25:00",
-      "album": {
-        "name": "Dust Bunny",
-        "url": "https://open.spotify.com/album/4Bmym3tMCYlY08OIpYQAb3"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "Dust Bunny",
-      "url": "https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL"
     },
     {
       "added_at": "2022-05-27 06:40:00",

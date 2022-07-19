@@ -4,7 +4,7 @@
 
 > Eagles at their best\. Explore their deep catalog as a band and as solo artists.
 
-68 songs - 5 hr 5 min - not published yet
+68 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1N5CBy1kKdpU2nUNav26R6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

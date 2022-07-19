@@ -1,13 +1,29 @@
 {
   "description": "All the New Joints featuring CMG, Sheff G, Joey Bada$$ and more. Cover: Latto",
-  "num_followers": 173308,
+  "num_followers": 173396,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1ODU0NCwwMDAwMDBlYTAwMDAwMTgyMDAxMWQyNzkwMDAwMDE4MWY5YjNhMDc2",
+  "snapshot_id": "MTY1ODE3MTAwNywwMDAwMDBlYzAwMDAwMTgyMTJiMWEyODAwMDAwMDE4MWY5YjNhMDc2",
   "tracks": [
+    {
+      "added_at": "2022-07-15 04:15:44",
+      "album": {
+        "name": "From The Can",
+        "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "No Remorse",
+      "url": "https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI"
+    },
     {
       "added_at": "2022-07-15 04:15:44",
       "album": {
@@ -47,22 +63,6 @@
       "duration_ms": 141176,
       "name": "PUSSY",
       "url": "https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO"
-    },
-    {
-      "added_at": "2022-07-15 04:15:44",
-      "album": {
-        "name": "From The Can",
-        "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
-      },
-      "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "No Remorse",
-      "url": "https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI"
     },
     {
       "added_at": "2022-07-15 04:15:44",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-07-15 04:15:44",
       "album": {
-        "name": "No Face",
-        "url": "https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 189524,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb"
-    },
-    {
-      "added_at": "2022-07-15 04:15:44",
-      "album": {
         "name": "Deep End (feat. Lil Skies)",
         "url": "https://open.spotify.com/album/3E8eOi78N03MllCrjGGcVz"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 230016,
       "name": "Love is...",
       "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
+    },
+    {
+      "added_at": "2022-07-13 00:10:27",
+      "album": {
+        "name": "Right Back Out",
+        "url": "https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP"
+      },
+      "artists": [
+        {
+          "name": "Yung Mal",
+          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
+        }
+      ],
+      "duration_ms": 204062,
+      "name": "Right Back Out",
+      "url": "https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR"
     },
     {
       "added_at": "2022-07-15 04:15:44",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-07-15 04:15:44",
       "album": {
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 189524,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb"
+    },
+    {
+      "added_at": "2022-07-15 04:15:44",
+      "album": {
         "name": "Frenches",
         "url": "https://open.spotify.com/album/2GJsauhPIzgi871o1r1qK6"
       },
@@ -445,22 +461,6 @@
       "url": "https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc"
     },
     {
-      "added_at": "2022-07-13 00:10:27",
-      "album": {
-        "name": "Right Back Out",
-        "url": "https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP"
-      },
-      "artists": [
-        {
-          "name": "Yung Mal",
-          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
-        }
-      ],
-      "duration_ms": 204062,
-      "name": "Right Back Out",
-      "url": "https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR"
-    },
-    {
       "added_at": "2022-07-15 04:15:44",
       "album": {
         "name": "Small Town Hero",
@@ -491,6 +491,42 @@
       "duration_ms": 159000,
       "name": "Get Backers",
       "url": "https://open.spotify.com/track/174341j60OTqELLBHtQu8z"
+    },
+    {
+      "added_at": "2022-07-15 04:15:44",
+      "album": {
+        "name": "Worst Way",
+        "url": "https://open.spotify.com/album/6Yw2VynHh38QYMKUKo7ZBi"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        },
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        }
+      ],
+      "duration_ms": 196649,
+      "name": "Worst Way",
+      "url": "https://open.spotify.com/track/2J5OXVUkl6cIqFi40NX4PY"
+    },
+    {
+      "added_at": "2022-07-18 19:03:27",
+      "album": {
+        "name": "Get Lit Or Die Tryin\u2019",
+        "url": "https://open.spotify.com/album/04U5KnWcsgDLX6C3PNIesZ"
+      },
+      "artists": [
+        {
+          "name": "Meechy Darko",
+          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
+        }
+      ],
+      "duration_ms": 211685,
+      "name": "Get Lit Or Die Tryin\u2019",
+      "url": "https://open.spotify.com/track/4P7tmkBQdidI2oeMZuOobs"
     },
     {
       "added_at": "2022-07-15 04:15:44",
@@ -579,26 +615,6 @@
     {
       "added_at": "2022-07-15 04:15:44",
       "album": {
-        "name": "Worst Way",
-        "url": "https://open.spotify.com/album/6Yw2VynHh38QYMKUKo7ZBi"
-      },
-      "artists": [
-        {
-          "name": "MoneyMarr",
-          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
-        },
-        {
-          "name": "Quin Nfn",
-          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
-        }
-      ],
-      "duration_ms": 196649,
-      "name": "Worst Way",
-      "url": "https://open.spotify.com/track/2J5OXVUkl6cIqFi40NX4PY"
-    },
-    {
-      "added_at": "2022-07-15 04:15:44",
-      "album": {
         "name": "Life of Me",
         "url": "https://open.spotify.com/album/7DSlbKV1ISsztwYNVN1B75"
       },
@@ -611,6 +627,26 @@
       "duration_ms": 179735,
       "name": "On The Run Pt. 1",
       "url": "https://open.spotify.com/track/0FB7Ptcj9lPgjRdxHYQRrP"
+    },
+    {
+      "added_at": "2022-07-15 04:15:44",
+      "album": {
+        "name": "I'm Him",
+        "url": "https://open.spotify.com/album/0mGrgddV5amK3dC5x0gUAr"
+      },
+      "artists": [
+        {
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
+        },
+        {
+          "name": "Kevin Powers",
+          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
+        }
+      ],
+      "duration_ms": 158056,
+      "name": "I'm Him",
+      "url": "https://open.spotify.com/track/3hk1nboPi0xRywfOBwz1CS"
     },
     {
       "added_at": "2022-07-15 04:15:44",
@@ -775,26 +811,6 @@
       "duration_ms": 160033,
       "name": "Burglars & Murderers (feat. EST Gee)",
       "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
-    },
-    {
-      "added_at": "2022-07-15 04:15:44",
-      "album": {
-        "name": "I'm Him",
-        "url": "https://open.spotify.com/album/0mGrgddV5amK3dC5x0gUAr"
-      },
-      "artists": [
-        {
-          "name": "Pyrex Pryce",
-          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
-        },
-        {
-          "name": "Kevin Powers",
-          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
-        }
-      ],
-      "duration_ms": 158056,
-      "name": "I'm Him",
-      "url": "https://open.spotify.com/track/3hk1nboPi0xRywfOBwz1CS"
     },
     {
       "added_at": "2022-07-08 04:00:00",

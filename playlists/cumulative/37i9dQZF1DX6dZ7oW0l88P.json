@@ -1206,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "Snow Crystal",
+        "url": "https://open.spotify.com/album/59FudwzUzPzugwSNbeZrf2"
+      },
+      "artists": [
+        {
+          "name": "Zen of Harp",
+          "url": "https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Snow Crystal",
+      "url": "https://open.spotify.com/track/4iKtVAaAwhJedexJ8piPUv"
+    },
+    {
+      "album": {
         "name": "Traveling in space",
         "url": "https://open.spotify.com/album/6b0oJa9QYiPNfF1os8pba9"
       },

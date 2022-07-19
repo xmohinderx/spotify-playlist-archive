@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1006366,
+  "num_followers": 1006650,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzExMzcyMzk5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzExNDcwMjI5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Shakerando",
         "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "DISUMANO",
         "url": "https://open.spotify.com/album/0xOgC0a4a1TCShPLJfC3rG"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1A2tINguEx8NRA8WHmpUJw"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Hace Calor (Remix)",
         "url": "https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Giovani Wannabe",
         "url": "https://open.spotify.com/album/4Z93gEHbpIBqeNbIK337oA"
@@ -117,7 +117,47 @@
       "url": "https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Tropicana (feat. Annalisa)",
+        "url": "https://open.spotify.com/album/4vJhkz8fj06lW7TEoVmBKM"
+      },
+      "artists": [
+        {
+          "name": "Boomdabash",
+          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Tropicana (feat. Annalisa)",
+      "url": "https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Mediterraneo",
+        "url": "https://open.spotify.com/album/2PPHtMDuk5L0lMdxuXkn5w"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        },
+        {
+          "name": "Sixpm",
+          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
+        }
+      ],
+      "duration_ms": 212985,
+      "name": "I love you baby",
+      "url": "https://open.spotify.com/track/1v9ABGLSpdhPDEWyQ10NFD"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "BUBBLE (feat. thasup & Salmo)",
         "url": "https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp"
@@ -141,47 +181,23 @@
       "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
-        "name": "Tropicana (feat. Annalisa)",
-        "url": "https://open.spotify.com/album/4vJhkz8fj06lW7TEoVmBKM"
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
       },
       "artists": [
         {
-          "name": "Boomdabash",
-          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
-        },
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Tropicana (feat. Annalisa)",
-      "url": "https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz"
+      "duration_ms": 199680,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Mediterraneo",
-        "url": "https://open.spotify.com/album/2PPHtMDuk5L0lMdxuXkn5w"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        },
-        {
-          "name": "Sixpm",
-          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
-        }
-      ],
-      "duration_ms": 212985,
-      "name": "I love you baby",
-      "url": "https://open.spotify.com/track/1v9ABGLSpdhPDEWyQ10NFD"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Il giorno in cui ho smesso di pensare",
         "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
@@ -201,23 +217,7 @@
       "url": "https://open.spotify.com/track/3z0GeNGWyVduziP1cQ0mFN"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Hustle Mixtape",
-        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Capri Sun",
-      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Rivoluzione",
         "url": "https://open.spotify.com/album/4Im07AiNZRmx2o0jGgEsal"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/4aKM9cfIDynkoNQdVyMZFW"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/0RFRr1i6USZRE66r5vB9OT"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "BABY GODDAMN",
         "url": "https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj"
@@ -293,23 +293,7 @@
       "url": "https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Extasi",
-        "url": "https://open.spotify.com/album/5D6d0m5tYnBz0wowzfLlQ6"
-      },
-      "artists": [
-        {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "Extasi",
-      "url": "https://open.spotify.com/track/6ojrj2NSj3EkMm05yiuaMG"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
@@ -325,7 +309,23 @@
       "url": "https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Extasi",
+        "url": "https://open.spotify.com/album/5D6d0m5tYnBz0wowzfLlQ6"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "Extasi",
+      "url": "https://open.spotify.com/track/6ojrj2NSj3EkMm05yiuaMG"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Il giorno in cui ho smesso di pensare",
         "url": "https://open.spotify.com/album/2yEInt9zls2ptLm9i6S22g"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/0N8UI3JyFSif4lKWLbb0mL"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "LISTA 47",
         "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/7I9l9qOYfdUMuSO6Q4VQtZ"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "NEI SOGNI NESSUNO \u00c8 MONOGAMO",
         "url": "https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e"
@@ -405,23 +405,7 @@
       "url": "https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Tribale",
-        "url": "https://open.spotify.com/album/4riFp09J5vcQZbTHDwQ48D"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 162656,
-      "name": "Tribale",
-      "url": "https://open.spotify.com/track/6dMvLEipqRW6vh8Bt5PbOg"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/4hPNVvtU3MXV6Oefi11Zx3"
@@ -441,7 +425,23 @@
       "url": "https://open.spotify.com/track/7d7xucQmFY7PoESyJm2V9J"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Tribale",
+        "url": "https://open.spotify.com/album/4riFp09J5vcQZbTHDwQ48D"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 162656,
+      "name": "Tribale",
+      "url": "https://open.spotify.com/track/6dMvLEipqRW6vh8Bt5PbOg"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Bagno a mezzanotte",
         "url": "https://open.spotify.com/album/4ZwF0hAe8HY68XrjnzQVAd"
@@ -457,59 +457,7 @@
       "url": "https://open.spotify.com/track/5KkcthkQDnlhQN0WhO8DsM"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj"
-      },
-      "artists": [
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        }
-      ],
-      "duration_ms": 183810,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
@@ -529,7 +477,59 @@
       "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "duration_ms": 183810,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
@@ -549,23 +549,7 @@
       "url": "https://open.spotify.com/track/0SsUOrXUM2gZxVLYizZfQZ"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Blu Celeste",
-        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Finch\u00e9 Non Mi Seppelliscono",
-      "url": "https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Vieni nel mio cuore",
         "url": "https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV"
@@ -581,7 +565,23 @@
       "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Blu Celeste",
+        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Finch\u00e9 Non Mi Seppelliscono",
+      "url": "https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Dark Love EP",
         "url": "https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/7hHdj3YuX1TExCY0Sx5zqb"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "CADERE VOLARE",
         "url": "https://open.spotify.com/album/67LfyhhnPgGxXKMDuXzLnT"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/7aoU4HfD4yc1LhpyldWFtm"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3KdmwHZ4sZ3IClfMmjs1DL"
@@ -677,7 +677,23 @@
       "url": "https://open.spotify.com/track/4dNo8BDY0ZU7fJhiTQZuIq"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -697,59 +713,7 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "CADERE VOLARE",
-        "url": "https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD"
-      },
-      "artists": [
-        {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "farfalle",
-      "url": "https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
@@ -769,7 +733,43 @@
       "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "CADERE VOLARE",
+        "url": "https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "farfalle",
+      "url": "https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Dark Love EP",
         "url": "https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW"
@@ -785,39 +785,7 @@
       "url": "https://open.spotify.com/track/48xCJ298GWpAtejk8uzBOr"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Club Azur",
-        "url": "https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Clap Your Hands",
-      "url": "https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
-      "album": {
-        "name": "Sensazione ultra",
-        "url": "https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 165866,
-      "name": "FORTUNA",
-      "url": "https://open.spotify.com/track/0b53fWGqxHfsdyzkwlEFFl"
-    },
-    {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "MI FAI IMPAZZIRE",
         "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
@@ -837,7 +805,7 @@
       "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Blu Celeste",
         "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
@@ -853,7 +821,39 @@
       "url": "https://open.spotify.com/track/1PWOkqMORYdGa0OEh2GaXM"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Club Azur",
+        "url": "https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
+      "album": {
+        "name": "Sensazione ultra",
+        "url": "https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 165866,
+      "name": "FORTUNA",
+      "url": "https://open.spotify.com/track/0b53fWGqxHfsdyzkwlEFFl"
+    },
+    {
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Brividi",
         "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/6SQmh0L5icrThwGDTeLkg1"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
@@ -905,20 +905,28 @@
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
-      "added_at": "2022-07-17 11:26:39",
+      "added_at": "2022-07-18 14:37:09",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Junior K",
+          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
         }
       ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+      "duration_ms": 176772,
+      "name": "NUOVO RANGE (con SFERA EBBASTA)",
+      "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
     }
   ],
   "unique_name": "Top 50 - Italy",

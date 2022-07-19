@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Madeline The Person
 
-988 songs - 2 day 4 hr 20 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+989 songs - 2 day 4 hr 24 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Clementine](https://open.spotify.com/track/5rpxIbX4f1q9ZpiIxGPeSl) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Clementine](https://open.spotify.com/album/0Rn7zIvRdlXAcODx7C7IoX) | 3:36 | 2021-09-04 | 2021-09-18 |
 | [Click](https://open.spotify.com/track/7cAFrpq9c6nJJcnF04ah39) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Silver Lining II](https://open.spotify.com/album/1XXSATOgeCXLaDRLDGfs6Y) | 3:07 | 2021-06-19 | 2021-09-04 |
 | [Closure](https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Closure](https://open.spotify.com/album/7r0izRbbyoAQc3C2I4JO7K) | 3:16 | 2021-04-03 | 2021-07-04 |
-| [CLOUDS](https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [CLOUDS](https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l) | 2:58 | 2021-12-04 |  |
+| [CLOUDS](https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [CLOUDS](https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l) | 2:58 | 2021-12-04 | 2022-07-19 |
 | [club \- ballerini album version](https://open.spotify.com/track/3nCoIIsNggk2iJ8YxleLXZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [club](https://open.spotify.com/album/7BC0GySez06vrOSUb8WHbj) | 2:46 | 2020-09-04 | 2020-10-16 |
 | [coastline](https://open.spotify.com/track/06J6MvuHOCOI5HerZaKKy2) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [coastline](https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy) | 2:38 | 2021-08-07 | 2021-08-28 |
 | [Coffee](https://open.spotify.com/track/1VbClJ27jcsMNmOxHnXlKV) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Coffee](https://open.spotify.com/album/6Nk3nZofAejUk9rfYj7SHV) | 3:00 | 2020-05-01 | 2020-10-09 |
@@ -702,6 +702,7 @@
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2020-04-26\* | 2020-07-31 |
 | [Put Me Back Together](https://open.spotify.com/track/6LpxEWeuvaMrrsGgX5CSQv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Put Me Back Together](https://open.spotify.com/album/73c8BJyjru0OCXe2tHGs9u) | 3:29 | 2020-04-26\* | 2020-05-16 |
 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 | 2020-07-11 | 2021-06-05 |
+| [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-07-18 |  |
 | [RADAR](https://open.spotify.com/track/2a5eSTID3A3vRInGEe8cbL) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [LIGHT](https://open.spotify.com/album/0c7KtqXbSf6t2IPvAIaaxY) | 3:22 | 2020-10-23 | 2021-01-15 |
 | [Rager teenager!](https://open.spotify.com/track/0wiIuHFABKAtdRlzB4Vv6k) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rager teenager!](https://open.spotify.com/album/4l76L0MfUhTdV2VdRaRKj4) | 3:21 | 2020-08-07 | 2020-09-18 |
 | [Rainbow Alley](https://open.spotify.com/track/6t9iK4zQRM3ORMPYfn8rqo) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Rainbow Alley](https://open.spotify.com/album/5egodvlltbFcR4EzkZ6OXz) | 2:35 | 2022-02-04 | 2022-02-19 |

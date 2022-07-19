@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 97655,
       "name": "BANGARANG",
       "url": "https://open.spotify.com/track/2UEXRIn2kKNQ89cLTGElhI"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 165743,
       "name": "Bustdown Rollie Avalanche",
       "url": "https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 159985,
       "name": "End of the Road",
       "url": "https://open.spotify.com/track/7GF1fEMvKVtKQkRa6Sqh6S"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 207000,
       "name": "ESC",
       "url": "https://open.spotify.com/track/0pjrMC3ay9dFMM6wQnqZ0g"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 194000,
       "name": "FREKVENCIA",
       "url": "https://open.spotify.com/track/0oaYDITh6PTG3xB68Fedfc"
@@ -1407,6 +1407,24 @@
       "duration_ms": 140873,
       "name": "IMMACULATE",
       "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
+    },
+    {
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177609,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU"
     },
     {
       "album": {
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 193542,
       "name": "Miafasz",
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 213677,
       "name": "Netancujem, k\u00fdvem hlavou",
       "url": "https://open.spotify.com/track/3Oo65YS4CcGXDOLXW0yC72"
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 216258,
       "name": "Terapeuta",
       "url": "https://open.spotify.com/track/6YW9qgEJrkr3eGXYcZ8uXC"

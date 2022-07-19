@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-80 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/4Vkd1lM4f47tYYTnIGCNNj)
+81 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/4Vkd1lM4f47tYYTnIGCNNj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Singing for You](https://open.spotify.com/track/0B3k2ftvKnPEwK6F0Wc0Pa) | [Willy Cotterill](https://open.spotify.com/artist/3nGSuqJpKUO7hQA0DFXJ5i) | [Singing for You](https://open.spotify.com/album/7s4mt8kbI8rNKnPasfOvca) | 1:43 | 2022-05-11 |  |
 | [Sir Arthur Shaen](https://open.spotify.com/track/3mrhQayC2vDbqp1ArINfFT) | [Gráinne Hambly](https://open.spotify.com/artist/17VnlCfMAbmvz2gr6fPidR) | [The Thorn Tree](https://open.spotify.com/album/5ix33voKR6WFRXSg7VNQiQ) | 3:25 | 2022-05-11 |  |
 | [Smile](https://open.spotify.com/track/2LJ5PtEVQjbsEVn90QLMbE) | [Evelyn Huber](https://open.spotify.com/artist/6KXQXgnyqN0bOU5BQdi6aj) | [Calm](https://open.spotify.com/album/6ueA37irOWZwjnRkalkTX9) | 3:45 | 2022-05-11 |  |
+| [Snow Crystal](https://open.spotify.com/track/4iKtVAaAwhJedexJ8piPUv) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti) | [Snow Crystal](https://open.spotify.com/album/59FudwzUzPzugwSNbeZrf2) | 2:27 | 2022-07-18 |  |
 | [Soft harp world](https://open.spotify.com/track/4Kx7N7sHcJ0MamSpuDKfV5) | [Lorenzo Tempesti](https://open.spotify.com/artist/0S6YGr0wEbA6C0BVpvvdJ6) | [Traveling in space](https://open.spotify.com/album/6b0oJa9QYiPNfF1os8pba9) | 3:38 | 2022-05-11 |  |
 | [Soft Touch](https://open.spotify.com/track/6ZEiwmGp8BInwOrn5jwRD6) | [Gemma Leslie](https://open.spotify.com/artist/5h4IQnkFpwCjNQm83ucDlL) | [Gentle Harp](https://open.spotify.com/album/3BAQzjKZhAoDFJzZevg26J) | 2:37 | 2022-05-11 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2022-05-11 |  |

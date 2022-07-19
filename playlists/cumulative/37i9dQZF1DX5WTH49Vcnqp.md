@@ -4,7 +4,7 @@
 
 > music that's hard to define but easy to love feat\. Maggie Rogers
 
-434 songs - 1 day 0 hr 42 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+436 songs - 1 day 0 hr 49 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-01 | 2022-04-12 |
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-24 | 2022-05-10 |
 | [Apple \(feat\. Jade Alice\)](https://open.spotify.com/track/15orwHTobtcNyUbHiYuWon) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Apple \(feat\. Jade Alice\)](https://open.spotify.com/album/2WHR58s9vtc0RnlkVvpdhq) | 3:37 | 2022-03-28 | 2022-05-13 |
+| [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 | 2022-07-18 |  |
 | [Astral Projection](https://open.spotify.com/track/0cIcEuNjpHSKaXEiH3H1NW) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/6xhv13hoRmxMHCXjp87Kl0) | 3:52 | 2022-03-21 |  |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-28 | 2022-02-18 |
 | [Baby Blue](https://open.spotify.com/track/1dAyqyYEuX09OH2xroX4oE) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Baby Blue](https://open.spotify.com/album/0gnEHE1k9eKpHbQr6XzUi9) | 3:46 | 2022-03-31 | 2022-05-10 |
@@ -115,6 +116,7 @@
 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 | 2021-12-28 | 2022-02-22 |
 | [Exile](https://open.spotify.com/track/70icLfzhRlRTW5is736O3j) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Exile](https://open.spotify.com/album/5EUFuGYhoaO2vImrZnxYG6) | 3:35 | 2022-03-31 | 2022-06-07 |
 | [Exit Sign](https://open.spotify.com/track/2CsJBrFzEdCTxvoSJSTQDf) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Exit Sign](https://open.spotify.com/album/17LtPeEv3DmwtAdTImnOzl) | 3:32 | 2022-04-07 | 2022-06-03 |
+| [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 | 2022-07-18 |  |
 | [EXPIRATION DATE](https://open.spotify.com/track/6BMAOOrAC6LxdYjVbkk7h9) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [EXPIRATION DATE](https://open.spotify.com/album/7eDx4ejqsr5RcTmPaM7Hfs) | 2:41 | 2022-01-06 | 2022-03-01 |
 | [F It ILY](https://open.spotify.com/track/6hEl2GPGZq7kMIYI6TTKHL) | [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4), [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [F it ILY](https://open.spotify.com/album/440TI3MdHIwAZIz6Dd0B1l) | 2:22 | 2021-12-28 | 2022-01-28 |
 | [Facts of Life](https://open.spotify.com/track/1VDSmyonWfkUKkDGyr7BDf) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Facts of Life](https://open.spotify.com/album/1iwq4GcEquagnE6V3oAIr2) | 4:08 | 2022-04-11 |  |
@@ -156,7 +158,7 @@
 | [Good Light](https://open.spotify.com/track/7rRVHNqYBjIjKdNRheCDud) | [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Good Light](https://open.spotify.com/album/073V4yeJPEkE8Wlb94ksWV) | 2:52 | 2022-07-14 |  |
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-02 |  |
 | [Gummy](https://open.spotify.com/track/6c9ua26MdggFqHs5le1cTE) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 3:01 | 2022-06-09 | 2022-07-08 |
-| [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-09 |  |
+| [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-09 | 2022-07-19 |
 | [Hardlight](https://open.spotify.com/track/7CMTh1oSr8LIWaTmLExLnj) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Hardlight](https://open.spotify.com/album/61wWnqBloehFmlW9hm7z61) | 3:33 | 2022-05-19 |  |
 | [Hate Goodbyes](https://open.spotify.com/track/0xEMcHaMejo1kbCbg5smvZ) | [Hope D](https://open.spotify.com/artist/6IdzKFOGtbNz84qbJUMM4x) | [Hate Goodbyes](https://open.spotify.com/album/0DzMiG5X710cCcfpkSLoXa) | 3:42 | 2022-02-21 | 2022-04-05 |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-07 | 2022-06-24 |
@@ -279,7 +281,7 @@
 | [Not My Vibe](https://open.spotify.com/track/5GM14rdRq8IroAH0GcfAlL) | [Approachable Members of Your Local Community](https://open.spotify.com/artist/2Tk2sOxCRRtUX77c1V6Ifb) | [Not My Vibe](https://open.spotify.com/album/4ac9wlBLedRac6dJJyrOeV) | 3:07 | 2022-07-14 |  |
 | [NOT TODAY](https://open.spotify.com/track/08cnccQSKCljeUlyZVSCK4) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [NOT TODAY](https://open.spotify.com/album/3RoUi8w1jkr5Kgf4DItl2O) | 3:22 | 2022-03-31 | 2022-04-22 |
 | [Nothing Yet](https://open.spotify.com/track/7q9TXp4AhX0XflGpBYkpIU) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Nothing Yet](https://open.spotify.com/album/75ICG7rsbwX2n92kDQDgUv) | 4:33 | 2021-12-28 | 2022-01-07 |
-| [Now And Then](https://open.spotify.com/track/4w7DiSMw47VkSmqryKKl9g) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now And Then](https://open.spotify.com/album/7v1YvCBBDWRPp7Va3YXK6u) | 4:31 | 2022-05-19 |  |
+| [Now And Then](https://open.spotify.com/track/4w7DiSMw47VkSmqryKKl9g) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now And Then](https://open.spotify.com/album/7v1YvCBBDWRPp7Va3YXK6u) | 4:31 | 2022-05-19 | 2022-07-19 |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-01-31 | 2022-03-18 |
 | [Old Dog](https://open.spotify.com/track/6byyhvAPKJ2l2GU9Tu92SC) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3), [The Program](https://open.spotify.com/artist/6RS7RIKPVnJBD21AMI0Qzp) | [Take In The Roses](https://open.spotify.com/album/5eIYEqnWX9NaWSCm2GG8pU) | 4:51 | 2021-12-28 | 2022-02-04 |
 | [On My Own](https://open.spotify.com/track/17TfOQiETNt5WUOSUnVQz0) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [On My Own](https://open.spotify.com/album/0SHe7qKQnbgXb0bBuHmQ7K) | 3:21 | 2021-12-28 | 2022-01-14 |

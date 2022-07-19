@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y?si=qOtdzjOAQWuX2cYKo1Egpg" > Kojey Radical </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,256 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,282 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

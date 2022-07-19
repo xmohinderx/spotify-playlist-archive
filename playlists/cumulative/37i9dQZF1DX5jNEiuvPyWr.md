@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : Luther
 
-50 songs - 2 hr 40 min - not published yet
+50 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
