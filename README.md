@@ -2147,6 +2147,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [MORP](/playlists/pretty/37i9dQZF1DX7hVUrFvprfE.md)
 - [MOTi's DJ Mix](/playlists/pretty/37i9dQZF1DX92PapbtyAWm.md)
 - [MTV VMAs](/playlists/pretty/37i9dQZF1DWXXji4ucB51M.md)
+- [Mac's Mixtape](/playlists/pretty/6JPMYu8YxGHBQ2Qv52JRaj.md)
 - [Macy's Thanksgiving Day Parade 2013](/playlists/pretty/0TmNZR8QmL60k1gWWa37fg.md)
 - [Mad Decent Weekly](/playlists/pretty/5IRdCjOHb6RwaIl1PaomPV.md)
 - [Mad Scientist](/playlists/pretty/37i9dQZF1DWWYQim4OFxg7.md)
