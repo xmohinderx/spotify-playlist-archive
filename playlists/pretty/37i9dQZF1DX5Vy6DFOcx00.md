@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 ### [big on the internet](https://open.spotify.com/playlist/37i9dQZF1DX5Vy6DFOcx00)
 
-> iykyk
+> 2 die 4
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,053,042 likes - 116 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,057,363 likes - 116 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 115 | [Luxurious](https://open.spotify.com/track/69xZrRwScYMhlCMcxrF958) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 4:24 |
 | 116 | [Gangsta's Paradise](https://open.spotify.com/track/7lQWRAjyhTpCWFC0jmclT4) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0fYctMs4EvoEqzDh8Kmg5g) | 4:00 |
 
-Snapshot ID: `MTY1ODE3NTg3NCwwMDAwMDM1ODAwMDAwMTgyMTJmYmU0ZjAwMDAwMDE4MWRlN2FjMjc3`
+Snapshot ID: `MTY1ODI2MTY2MCwwMDAwMDM1OTAwMDAwMTgyMTgxOGUyMzYwMDAwMDE4MWRlN2FjMjc3`

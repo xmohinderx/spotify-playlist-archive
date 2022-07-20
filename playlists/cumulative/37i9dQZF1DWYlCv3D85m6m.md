@@ -2,7 +2,7 @@
 
 ### [This Is TWICE](https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m)
 
-> One in a million! NAYEON's first solo mini album is here!
+> One in a million! TWICE!
 
 103 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/5QvtyB5RVrIoS1lUVpkCdO)
 

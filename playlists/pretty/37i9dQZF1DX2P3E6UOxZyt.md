@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: KIRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,239 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,246 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [Maybe It's you](https://open.spotify.com/track/5OzMV1pRoXRBVieR2eBo4m) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Rose Says](https://open.spotify.com/album/5iKqTkwEkWS6a8ZUdodUJY) | 3:59 |
 | 60 | [國王](https://open.spotify.com/track/4xKIzpn8Q2cRDU6UVq8FTn) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe), [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [Gambler](https://open.spotify.com/artist/1ZAYRafIkXuUA2YCMkxYbX) | [國王](https://open.spotify.com/album/1Wdon67ZOKTW7bAhQSNW2T) | 3:25 |
 
-Snapshot ID: `MTY1ODE5Mzg5OSwwMDAwMDAwMDkxMjcwNjMwNGFlYjIyNmZjMjEwMTE2YjM4ZGYxMzZj`
+Snapshot ID: `MTY1ODI3OTcxMSwwMDAwMDAwMDkxMjcwNjMwNGFlYjIyNmZjMjEwMTE2YjM4ZGYxMzZj`

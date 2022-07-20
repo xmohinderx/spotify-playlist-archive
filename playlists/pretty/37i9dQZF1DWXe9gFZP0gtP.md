@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,472 likes - 238 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,763 likes - 238 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 237 | [Slumber](https://open.spotify.com/track/6A72j6HPfF8Y52nPK6BXRk) | [Richard Ramsey](https://open.spotify.com/artist/1wrKAWlJXtkD5eVfAa5IJi) | [Slumber](https://open.spotify.com/album/3RhTSEYSGcXwcDMmdx3jnx) | 1:58 |
 | 238 | [All Is Good](https://open.spotify.com/track/2taX1reIQRP5APwN3AYmDq) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/6BbtnPyEH0COVx1F0bsIpk) | 2:25 |
 
-Snapshot ID: `MTY1Nzg5NDcyMSwwMDAwMDA4ZjAwMDAwMTgyMDIzOWQ5MGYwMDAwMDE2ZTgzM2QwYzg5`
+Snapshot ID: `MTY1ODI0NTE3OCwwMDAwMDA5MDAwMDAwMTgyMTcxZDY1YTMwMDAwMDE4MjE3MWQ0ZjQ2`

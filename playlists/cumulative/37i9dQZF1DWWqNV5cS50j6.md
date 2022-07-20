@@ -2,7 +2,7 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Indie music antimatter\. Cover: Groupthink
+> Indie music antimatter\. Cover: Brakence
 
 1,025 songs - 2 day 1 hr 53 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 

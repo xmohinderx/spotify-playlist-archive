@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 202600,
       "name": "Better by You, Better Than Me",
       "url": "https://open.spotify.com/track/0GpBFY4Mb7fZVyQgaWirNG"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 470960,
       "name": "Blood Red Skies",
       "url": "https://open.spotify.com/track/7g796noAmjjQOibxStn85a"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 234840,
       "name": "Deal with the Devil",
       "url": "https://open.spotify.com/track/6mVMUvitJxfshLxXew7SrI"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 215560,
       "name": "Eat Me Alive",
       "url": "https://open.spotify.com/track/4dB5JlDpDT4WLUvX5xIXON"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 263040,
       "name": "Evil Never Dies",
       "url": "https://open.spotify.com/track/1I4bh7GClCeUW4uORsZhTs"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 264360,
       "name": "Freewheel Burning",
       "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 358240,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/2iAtvBE3MIBtVV1fkrFdxH"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 206333,
       "name": "Jawbreaker",
       "url": "https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX"
@@ -671,6 +671,24 @@
       "duration_ms": 268333,
       "name": "Lost Love",
       "url": "https://open.spotify.com/track/5TrISe7VQxaewmfwX8QPgt"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287733,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
     },
     {
       "album": {
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 351733,
       "name": "Sea of Red",
       "url": "https://open.spotify.com/track/5dw4MmyoGKxPuJVscY6FKk"

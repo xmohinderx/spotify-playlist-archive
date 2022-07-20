@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 177306,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 193893,
       "name": "Me Refiero A Ti",
       "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 173906,
       "name": "Nadie Como Ella",
       "url": "https://open.spotify.com/track/5x6ZJ3RkIKCcIFdQtgKq8J"
@@ -1089,6 +1089,24 @@
       "duration_ms": 168000,
       "name": "Playa Sola",
       "url": "https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq"
+    },
+    {
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142440,
+      "name": "Que La Dejen Ir Al Baile Sola",
+      "url": "https://open.spotify.com/track/2Ro00jkaTJPoDsZ4mJBfGv"
     },
     {
       "album": {

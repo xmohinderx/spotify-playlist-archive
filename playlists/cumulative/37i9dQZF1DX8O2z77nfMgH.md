@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados\. En portada: Tiago PZK y Myke Towers
 
-1,712 songs - 3 day 21 hr 51 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+1,712 songs - 3 day 21 hr 50 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1428,7 +1428,7 @@
 | [Solsticio](https://open.spotify.com/track/5gLqkEcdbJhmcazOae9C4F) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Solsticio](https://open.spotify.com/album/6zZel8AncEkpxxhDJ6jmgD) | 3:43 | 2022-04-29 | 2022-05-07 |
 | [Soltera](https://open.spotify.com/track/1O9p1YkEvWPavDcLxAqChv) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Basty Corvalan](https://open.spotify.com/artist/6p9BBRwixGcXxZ1gdcqmpd), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [El Palabreo](https://open.spotify.com/artist/5u9A5LfMGPT78yykeME1f0), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Soltera](https://open.spotify.com/album/4jiinXiIbvINjbNCR0MEBi) | 5:45 | 2022-07-01 | 2022-07-09 |
 | [Somos O No Somos](https://open.spotify.com/track/7B2Ys0dtRpVrGd3fliBGsu) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Somos O No Somos](https://open.spotify.com/album/33x35WmVHlcFK8C17Nhzpw) | 4:00 | 2022-04-15 | 2022-04-23 |
-| [Somos Varios](https://open.spotify.com/track/6FxWojIK3JSJNg5gHhIGJ8) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Somos Varios](https://open.spotify.com/album/0NkrjGu3Sb5e6FAgPUV9fY) | 5:06 | 2022-07-15 |  |
+| [Somos Varios](https://open.spotify.com/track/6FxWojIK3JSJNg5gHhIGJ8) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Somos Varios](https://open.spotify.com/album/0NkrjGu3Sb5e6FAgPUV9fY) | 4:16 | 2022-07-15 |  |
 | [Sonido Nativo del Río](https://open.spotify.com/track/74yqyT2QjK9CZJcK6szEqD) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Sonido Nativo del Río](https://open.spotify.com/album/4tDzS7KjJcwKdeEZXoErsl) | 3:18 | 2022-03-25 | 2022-04-02 |
 | [Sonrisa Falsa \(with Sael\)](https://open.spotify.com/track/78SjIkujtNsOewFNlrlr08) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Sonrisa Falsa \(with Sael\)](https://open.spotify.com/album/2eNuiAh01VnngVxzOakLey) | 3:02 | 2022-05-06 | 2022-05-14 |
 | [Sorriso e Dilsinho](https://open.spotify.com/track/13ihwsXOGQ2DbFkZMI8tpH) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Juntos](https://open.spotify.com/album/485t8hL1NImUvBsHgqIyqP) | 2:59 | 2022-04-01 | 2022-04-09 |

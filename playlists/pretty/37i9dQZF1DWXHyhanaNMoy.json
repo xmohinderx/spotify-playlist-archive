@@ -1,12 +1,12 @@
 {
   "description": "De playlist voor magic, motion en love tunes. Cover: Murda & Hadise",
-  "num_followers": 300555,
+  "num_followers": 300629,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE1NTcwMSwwMDAwMDQ3NDAwMDAwMTgyMTFjODE0NzMwMDAwMDE4MWZjYjdjY2Rj",
+  "snapshot_id": "MTY1ODI0NTMyMSwwMDAwMDQ3NTAwMDAwMTgyMTcxZjkzYmMwMDAwMDE4MWZjYjdjY2Rj",
   "tracks": [
     {
       "added_at": "2022-07-14 22:00:00",
@@ -199,6 +199,30 @@
       "duration_ms": 132941,
       "name": "Lens",
       "url": "https://open.spotify.com/track/66v9cILPaW6mDruYQs2FMQ"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Bikini",
+        "url": "https://open.spotify.com/album/0OzrYJjcyo7KHC08SyrDlI"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Bikini",
+      "url": "https://open.spotify.com/track/2yqSgr8sMvM0jlFj4Aqx7B"
     },
     {
       "added_at": "2022-07-14 22:00:00",
@@ -911,30 +935,6 @@
       "duration_ms": 149369,
       "name": "Tunup (feat. Konshens & Bokoesam)",
       "url": "https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Bikini",
-        "url": "https://open.spotify.com/album/0OzrYJjcyo7KHC08SyrDlI"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Bikini",
-      "url": "https://open.spotify.com/track/2yqSgr8sMvM0jlFj4Aqx7B"
     },
     {
       "added_at": "2022-07-14 22:00:00",

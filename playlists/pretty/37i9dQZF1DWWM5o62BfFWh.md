@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,365 likes - 68 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,403 likes - 68 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 35 | [Si No Vuelves](https://open.spotify.com/track/0PE1dlvMZeBqEbm4BtVVSZ) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Si No Vuelves](https://open.spotify.com/album/7zdP0d5C2VXXwWWTQtZ2xT) | 3:35 |
 | 36 | [Ojala \(Remix\)](https://open.spotify.com/track/3C10jp30PMonoUk4HIsjfm) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Ojala \(Remix\)](https://open.spotify.com/album/2hQCUG67v7sN4SG6JxGFxe) | 3:16 |
 | 37 | [La Mala Y La Buena](https://open.spotify.com/track/5DcEz9lEgKFserQ1OrRS9X) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [La Mala Y La Buena](https://open.spotify.com/album/1NLn33FYW9Iq4O51iBNa6D) | 3:44 |
-| 38 | [Pobre Corazón \(with Lenier\)](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
+| 38 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
 | 39 | [Asere Que Bola](https://open.spotify.com/track/4jf3OP6ndwKJQFMAyrc9xi) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Asere Que Bola](https://open.spotify.com/album/12U9vUORvdkrOUYH1D3cuR) | 3:30 |
 | 40 | [Superbien](https://open.spotify.com/track/3598bQbF7rR2rG65nHnz0E) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Superbien](https://open.spotify.com/album/0slbbrD1hMc25xgCjEuy39) | 3:41 |
 | 41 | [Yo Lo Se](https://open.spotify.com/track/4Wg0arjOVJ0cGYpm1lZqoJ) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Ambidiestros](https://open.spotify.com/album/3Ni4EcYEa90suVEg4lqj08) | 3:27 |

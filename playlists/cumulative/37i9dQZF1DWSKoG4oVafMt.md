@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-415 songs - 22 hr 42 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+416 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Haal Naar Da](https://open.spotify.com/track/3PaHa8GeaViou9hQfigbuN) | [Nikk](https://open.spotify.com/artist/6z9kS2dZQbqNV69wfrCZAR), [Rox A](https://open.spotify.com/artist/1tG4YxtmYSP5G7w2YA8jRJ) | [Haal Naar Da](https://open.spotify.com/album/7d4obTsFgPzSzZzH98DvoI) | 2:53 | 2022-04-07 | 2022-04-29 |
 | [Haaye Patlo](https://open.spotify.com/track/2SO2LCQgZJBaIKL3qoisKp) | [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [GURI SINGH](https://open.spotify.com/artist/4YK5CprOTeHRmdNX0c5UpZ), [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Haaye Patlo](https://open.spotify.com/album/2Zive5cMtj0uNOTIkswGFx) | 2:50 | 2022-02-23 | 2022-07-06 |
 | [Happiness](https://open.spotify.com/track/2oF26rDiQG5tQy0ZSjyiEd) | [Gavvy Sidhu](https://open.spotify.com/artist/7kTTYdWPURJPh2B3MtUN1x) | [Happiness](https://open.spotify.com/album/35iOol9c8kn3WQ1syrga2u) | 2:47 | 2022-02-04 | 2022-02-12 |
+| [Hassna](https://open.spotify.com/track/1giF83Kz38yffC6gJoPesz) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Hassna](https://open.spotify.com/album/2wMQtCkhjjWyHCNchnWdta) | 2:32 | 2022-07-19 |  |
 | [Hauli Hauli](https://open.spotify.com/track/3oMJtW4V8vuUKfUr0ZgNdn) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hauli Hauli](https://open.spotify.com/album/58a9qsPQQbGICghMaE0tY4) | 3:27 | 2022-03-22 | 2022-05-11 |
 | [Haye Jatta](https://open.spotify.com/track/6933Z2N5Fpgk7NtzLcZPgv) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Haye Jatta](https://open.spotify.com/album/6YYw4PjiL91x0ghXo9joRe) | 2:59 | 2022-04-22 | 2022-05-11 |
 | [Heer](https://open.spotify.com/track/0lzLGA5288fkENplIw8xA3) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Heer](https://open.spotify.com/album/2qTrAeWkX4YEJmQXvmNz94) | 8:08 | 2022-05-17 | 2022-05-20 |

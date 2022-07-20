@@ -4,7 +4,7 @@
 
 > make it pop! cover: Mark Ambor
 
-333 songs - 16 hr 47 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+334 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Happiness](https://open.spotify.com/track/7cLhZY2sXnlL0Rd06p8MRW) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Happiness](https://open.spotify.com/album/3DfEBa3sKvV4tYg0oP8Lr2) | 3:21 | 2022-07-15 |  |
 | [Happy](https://open.spotify.com/track/2Fia4eleF1Oj1CgdPh2DyZ) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [Islands](https://open.spotify.com/album/2MIWXHiODW5ERIJx7FZKj6) | 3:39 | 2022-02-25 | 2022-04-16 |
 | [Happy Pills](https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Happy Pills](https://open.spotify.com/album/5t54vdZ7HdfogMEMKVfRR1) | 3:23 | 2022-02-25 | 2022-06-11 |
-| [hate my favorite band](https://open.spotify.com/track/0skrS3ItclFdUYVZZeUy07) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [hate my favorite band](https://open.spotify.com/album/4BEWh8xe96dtjPyLZmxguE) | 2:54 | 2022-04-01 |  |
+| [hate my favorite band](https://open.spotify.com/track/0skrS3ItclFdUYVZZeUy07) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [hate my favorite band](https://open.spotify.com/album/4BEWh8xe96dtjPyLZmxguE) | 2:54 | 2022-04-01 | 2022-07-20 |
 | [hate you to love myself](https://open.spotify.com/track/3oc1q4iEemlaf1Bb5ji061) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [hate you to love myself](https://open.spotify.com/album/2WxtQfmEOjAnJrodRSGOSy) | 2:48 | 2022-07-01 |  |
 | [Have It All](https://open.spotify.com/track/4ku3lp8omK2wwYejbhff1l) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Have It All](https://open.spotify.com/album/6aVeIjSQUmwM90gEewm3Ho) | 2:17 | 2021-10-29 | 2022-01-08 |
 | [Have You Ever Really Lived](https://open.spotify.com/track/6UfOWl2K7ges1EWwJEpXpu) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Have You Ever Really Lived](https://open.spotify.com/album/2inpPKTNpMmtitTciLHtVR) | 3:17 | 2022-07-15 |  |
@@ -325,6 +325,7 @@
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 |  |
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 |  |
 | [When The World Was Mine](https://open.spotify.com/track/5J7sG7gQgUWnY3SpIIW8an) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [When The World Was Mine](https://open.spotify.com/album/4iUGtfrvaY2d42BloFOE9M) | 3:30 | 2021-10-29 | 2021-12-25 |
+| [WHERE I WANNA BE FOUND](https://open.spotify.com/track/4AFBCemec0cYa2JLXqvH9M) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [WHERE I WANNA BE FOUND](https://open.spotify.com/album/1E8LLpuaE6VXqq9Ca59ASc) | 2:59 | 2022-07-19 |  |
 | [WHO HURT YOU?](https://open.spotify.com/track/4HCsFCmFZBxBuLasSvD9p8) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [WHO HURT YOU?](https://open.spotify.com/album/3DFbl7qb3fUiZ91kDNyf3p) | 2:22 | 2022-04-29 | 2022-06-25 |
 | [Who’s In Control](https://open.spotify.com/track/1GosSlFMwNOZ3tpb5LY3pW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Who's In Control](https://open.spotify.com/album/67FaNxCIc8ZSzeZffbm69l) | 3:05 | 2022-02-18 | 2022-02-26 |
 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 | 2021-12-24 | 2022-02-26 |

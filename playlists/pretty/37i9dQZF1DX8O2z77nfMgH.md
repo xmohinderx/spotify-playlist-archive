@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Tiago PZK y Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,220 likes - 67 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,244 likes - 67 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 12 | [5:05 pm](https://open.spotify.com/track/2x4zbYm00NIr2Sk469ktQs) | [Leïti Sene](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [Chineseguy2021](https://open.spotify.com/artist/4WvZnQsXqHEg6OTI2wAieW) | [5:05 pm](https://open.spotify.com/album/2Ejm2cWwalFvS5pRGfyP1G) | 3:31 |
 | 13 | [Antes Que Salga el Sol](https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Antes Que Salga el Sol](https://open.spotify.com/album/4oWLUBqnWFvd581POHv3pV) | 3:16 |
 | 14 | [From The Barrio](https://open.spotify.com/track/6xkzTDLquDbRQcqVXRQVby) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [Inmortal](https://open.spotify.com/album/48mbjAcpTZU7QWVHXlSiJj) | 3:23 |
-| 15 | [Somos Varios](https://open.spotify.com/track/6FxWojIK3JSJNg5gHhIGJ8) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Somos Varios](https://open.spotify.com/album/0NkrjGu3Sb5e6FAgPUV9fY) | 5:06 |
+| 15 | [Somos Varios](https://open.spotify.com/track/6FxWojIK3JSJNg5gHhIGJ8) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Somos Varios](https://open.spotify.com/album/0NkrjGu3Sb5e6FAgPUV9fY) | 4:16 |
 | 16 | [01/06 Se Supone](https://open.spotify.com/track/4Cl09aQri3ejS4AmFV7pZi) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO) | [01/06 Se Supone](https://open.spotify.com/album/79CUugjiqQIxzYACNydshL) | 4:20 |
 | 17 | [KLK](https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [KLK](https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt) | 3:01 |
 | 18 | [Byemalandra](https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Byemalandra](https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf) | 2:45 |

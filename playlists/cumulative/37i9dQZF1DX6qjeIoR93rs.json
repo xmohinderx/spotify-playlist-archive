@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Badi Ellak",
       "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
@@ -186,6 +186,28 @@
     },
     {
       "album": {
+        "name": "Balak",
+        "url": "https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        },
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Balak",
+      "url": "https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC"
+    },
+    {
+      "album": {
         "name": "BEL7AFLI",
         "url": "https://open.spotify.com/album/1e2VKrq3Pt8TLflBCJLeEs"
       },
@@ -201,7 +223,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 166421,
       "name": "BEL7AFLI",
       "url": "https://open.spotify.com/track/0YI7Z8BjqsYsySjD3qpOkK"
@@ -349,7 +371,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 363206,
       "name": "Erfaa Rasak",
       "url": "https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo"
@@ -523,7 +545,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 312032,
       "name": "Hada el 7aki 3eh",
       "url": "https://open.spotify.com/track/6qBEVHOHFVE425OBeOluXN"
@@ -717,7 +739,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 238813,
       "name": "Ma Mali Shi",
       "url": "https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02"
@@ -969,7 +991,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 81005,
       "name": "Palestine",
       "url": "https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW"
@@ -1313,7 +1335,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 292413,
       "name": "Yalah Yalah Ramallah",
       "url": "https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4"

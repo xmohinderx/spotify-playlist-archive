@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 182449,
       "name": "Argalak Kama Kont",
       "url": "https://open.spotify.com/track/2zmQqYm3VvOXtpom1g2N2g"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 268693,
       "name": "El Aawatef",
       "url": "https://open.spotify.com/track/68B6lD7J7n0GIoHndNV5pW"
@@ -888,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Mawal Alila",
+        "url": "https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz"
+      },
+      "artists": [
+        {
+          "name": "Hatem Al Iraqi",
+          "url": "https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151918,
+      "name": "Mawal Alila",
+      "url": "https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a"
+    },
+    {
+      "album": {
         "name": "Mitghaer W Halyan",
         "url": "https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3"
       },
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 224850,
       "name": "Mo Wafi - \u0645\u0648 \u0648\u0641\u064a",
       "url": "https://open.spotify.com/track/3eetE1j3t8zX4XFPV0lmPD"
@@ -1251,6 +1269,24 @@
       "duration_ms": 200448,
       "name": "Ya Ghality",
       "url": "https://open.spotify.com/track/59RLZGo87dYKyPOCcAAgSL"
+    },
+    {
+      "album": {
+        "name": "Ya Janti Ya Nari",
+        "url": "https://open.spotify.com/album/3cgzsdNLX4ijTwPXZZ3fMp"
+      },
+      "artists": [
+        {
+          "name": "Ghassan Alshami",
+          "url": "https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263773,
+      "name": "Ya Janti Ya Nari",
+      "url": "https://open.spotify.com/track/5qtAaqobu4NUGsnBA1Hlx1"
     },
     {
       "album": {

@@ -824,6 +824,28 @@
     },
     {
       "album": {
+        "name": "\u0645\u0627\u0645\u0646\u0643 \u0627\u062b\u0646\u064a\u0646",
+        "url": "https://open.spotify.com/album/4c55MWVBBlqljEwmvJyNNh"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u062d\u0645\u062f \u0627\u0644 \u062f\u0644\u0628\u062c",
+          "url": "https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6"
+        },
+        {
+          "name": "\u0627\u0644\u0648\u0644\u064a\u062f \u0627\u0644 \u0639\u0627\u0645\u0631",
+          "url": "https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223600,
+      "name": "\u0645\u0627\u0645\u0646\u0643 \u0627\u062b\u0646\u064a\u0646",
+      "url": "https://open.spotify.com/track/0upDZETLFHS16pqa9KMZ6d"
+    },
+    {
+      "album": {
         "name": "\u0645\u0633\u0645\u0648\u062d",
         "url": "https://open.spotify.com/album/6fnM67wDQXsnTIIW4afDhA"
       },

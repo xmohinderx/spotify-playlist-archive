@@ -672,6 +672,24 @@
     },
     {
       "album": {
+        "name": "\u0631\u064a\u0645\u0648\u062a \u0627\u0644\u062a\u0644\u0641\u064a\u0632\u064a\u0648\u0646 (\u0627\u0645\u0633\u0643\u0648 \u0648\u0627\u0646\u0627 \u0647\u0639\u0645\u0644 \u0627\u0639\u0645\u0649)",
+        "url": "https://open.spotify.com/album/4ayeNoazhIEgP5drJ1Dl5P"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u062d\u0645\u062f \u0627\u0644\u062f\u0648\u062c\u0631\u064a",
+          "url": "https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189857,
+      "name": "\u0631\u064a\u0645\u0648\u062a \u0627\u0644\u062a\u0644\u0641\u064a\u0632\u064a\u0648\u0646 - \u0627\u0645\u0633\u0643\u0648 \u0648\u0627\u0646\u0627 \u0647\u0639\u0645\u0644 \u0627\u0639\u0645\u0649",
+      "url": "https://open.spotify.com/track/7DUPgXQK4NvmRrPFlVhfx2"
+    },
+    {
+      "album": {
         "name": "\u0634\u0642\u0637\u062a \u0645\u0646\u0643 \u062d\u0628\u064a\u0628\u062a\u0643 \u064a\u0627\u0639\u0645",
         "url": "https://open.spotify.com/album/7qWys684xM31U3iRKfQKyl"
       },
@@ -701,7 +719,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 124573,
       "name": "\u0634\u064a\u0645\u0627\u0621",
       "url": "https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 380830,
       "name": "\u0647\u0644 \u062a\u0639\u0644\u0645 \u0627\u0646 \u0627\u0644\u0645\u0635\u0644\u062d\u0647",
       "url": "https://open.spotify.com/track/4dbEBMii9RAuklJe8QQu6i"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 264196,
       "name": "\u0648\u0633\u0637 \u062f\u0645\u0648\u0639 \u0648\u062c\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM"

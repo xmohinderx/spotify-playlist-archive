@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Amy Gutiérrez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,984 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,996 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 4 | [Confundido](https://open.spotify.com/track/3lQwshTuXf1WaEK0IjGpWs) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Confundido](https://open.spotify.com/album/6zOkuKIBfcNTj3uClpsBwW) | 3:15 |
 | 5 | [Huellas en el Alma](https://open.spotify.com/track/0SqdHPPysNrQI8IQ847CrV) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Huellas en el Alma](https://open.spotify.com/album/4noxaRK6RfP6BvWDN5gtm5) | 3:35 |
 | 6 | [Mi Razon De Ser](https://open.spotify.com/track/1fWHVK5vJvcWsyAEN1NExb) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Mi Razon De Ser](https://open.spotify.com/album/03SHMgCCLk7LcZX7CfMqxK) | 3:47 |
-| 7 | [Yo Soy Así](https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Gastón Angrisani](https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK) | [Yo Soy Así](https://open.spotify.com/album/5DThfdfljh5JWA5E3vhosG) | 2:40 |
+| 7 | [Yo Soy Así](https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Gastón Angrisani](https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK) | [Yo Soy Así](https://open.spotify.com/album/5DThfdfljh5JWA5E3vhosG) | 2:34 |
 | 8 | [Que Nadie Se Entere](https://open.spotify.com/track/3vDUzWSql4uwu49owP3KGc) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Que Nadie Se Entere](https://open.spotify.com/album/1K4shfcCaegtDbMTwCzcXF) | 2:36 |
 | 9 | [Carne y Hueso](https://open.spotify.com/track/1r1zoTsPGIm20PaY3vkcVn) | [Diego Giannini](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Carne y Hueso](https://open.spotify.com/album/79zO4F3krOtJl4NevEku1F) | 3:20 |
 | 10 | [Odio Que No Te Odio](https://open.spotify.com/track/1xQ0pZrzRz8QH1jxGZJsoh) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Odio Que No Te Odio](https://open.spotify.com/album/7N0sYjeUmp6MfQDY0Rtyhh) | 3:42 |

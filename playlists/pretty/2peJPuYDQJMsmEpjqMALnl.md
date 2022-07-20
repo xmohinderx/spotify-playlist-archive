@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s including Def Leppard, Bryan Adams and more!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 344,977 likes - 66 songs - 4 hr 28 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 345,005 likes - 66 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3NOV9DaFp.md) - [plain]
 
 > The official playlist of Rolling Loud.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,944 likes - 158 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,112 likes - 158 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3NOV9DaFp.md) - [plain]
 | 157 | [Death \(feat\. DaBaby\)](https://open.spotify.com/track/6YfTl5YupXOQBKiJJLrxcw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Death \(feat\. DaBaby\)](https://open.spotify.com/album/0wb2DaHDhLUUS5RRFa26U9) | 2:52 |
 | 158 | [I Be](https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2 \(Deluxe\)](https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB) | 3:13 |
 
-Snapshot ID: `MTY1NzgwNTE4MiwwMDAwMDAwMzAwMDAwMTgxZmNlMzk3NWQwMDAwMDE4MThkMWUzNGJh`
+Snapshot ID: `MTY1ODI0Njc0MiwwMDAwMDAwNDAwMDAwMTgyMTczNTQyMTQwMDAwMDE4MjE3MzM0ZTAz`

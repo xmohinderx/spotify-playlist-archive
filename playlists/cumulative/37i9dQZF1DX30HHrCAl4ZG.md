@@ -4,7 +4,7 @@
 
 > The resurgence is real\. Cover: Day Wave
 
-563 songs - 1 day 6 hr 37 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+564 songs - 1 day 6 hr 40 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [cool enough](https://open.spotify.com/track/4nuufyyd7Dn6DMuG96RYTQ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cool enough](https://open.spotify.com/album/4LzdBLavKnpsJvMnu4reIe) | 3:15 | 2021-08-20 | 2022-05-19 |
 | [Cool It Kid](https://open.spotify.com/track/2KvjcVx96wldW06f1Mcqqx) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Cool It Kid](https://open.spotify.com/album/2cJE54uYoeyw389ozjQlzE) | 3:30 | 2022-06-17 |  |
 | [Cosigns](https://open.spotify.com/track/4QaF8Cas5jawCVTiuwcB7e) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Hold The Line](https://open.spotify.com/album/7K5A0lg0PxbYoqa05ss4nj) | 2:35 | 2022-06-10 | 2022-06-29 |
+| [Country Club](https://open.spotify.com/track/6nqKsUL0Fd3BQsmQYbh8Zb) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Country Club](https://open.spotify.com/album/5ZcyqQiRVvPMbz6wSnPZY0) | 3:29 | 2022-07-19 |  |
 | [coyote \(2015\-2021\)](https://open.spotify.com/track/6D0qeYwdqBBb2x6t2aondQ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [coyote \(2015\-2021\)](https://open.spotify.com/album/5QMTqu4M6I7aiF22lTRKAk) | 6:18 | 2022-04-29 |  |
 | [Crazed](https://open.spotify.com/track/5QytoiKwnIFaHuIqJWmer5) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [Crazed](https://open.spotify.com/album/6lPvlL0riY5AOnFHV19lS1) | 2:01 | 2021-08-13 | 2022-02-01 |
 | [Crown Vic \(Black Cloud\)](https://open.spotify.com/track/6rtP4KRJr7iY8X4wV0oeen) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:32 | 2021-10-22 | 2022-02-07 |

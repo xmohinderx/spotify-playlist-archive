@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop featuring Ari Abdul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,904 likes - 104 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,456 likes - 104 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

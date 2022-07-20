@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 91506,
       "name": "Asa ga kuru -TV version-",
       "url": "https://open.spotify.com/track/5s5hannvVik1M04Q4PxGKw"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 236293,
       "name": "ever after",
       "url": "https://open.spotify.com/track/0mkctINFN0327pYxp1CRhQ"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 352265,
       "name": "kiro",
       "url": "https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY"
@@ -538,7 +538,7 @@
     },
     {
       "album": {
-        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "name": "hoshino kieta yoruni",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
       "artists": [
@@ -549,9 +549,9 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 307893,
-      "name": "Mine (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
+      "name": "Mine - Remaster for Hoshino Kieta Yoruni 2022",
       "url": "https://open.spotify.com/track/2Ueo7qwjV84IgRJlsGmBks"
     },
     {
@@ -907,10 +907,28 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 287186,
       "name": "Tone - Remaster for Hoshino Kieta Yoruni 2022",
       "url": "https://open.spotify.com/track/3Ef3BUWsWIglIvZwkUio40"
+    },
+    {
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320613,
+      "name": "trill",
+      "url": "https://open.spotify.com/track/3gRBXntdAwfDY208lUQoP7"
     },
     {
       "album": {
@@ -961,7 +979,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 303786,
       "name": "wonderland",
       "url": "https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 91000,
       "name": "Zankyosanka -TV version-",
       "url": "https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0"

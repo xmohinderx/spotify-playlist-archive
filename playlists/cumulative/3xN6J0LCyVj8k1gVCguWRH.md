@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,520 songs - 3 day 16 hr 38 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,521 songs - 3 day 16 hr 41 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Bad Things](https://open.spotify.com/track/2U1JR8iWX9Uwckt32tBTB3) | [Jasmine L'Chelle](https://open.spotify.com/artist/1lLZlT6WVx23sUfIC41Y3z) | [Bad Things](https://open.spotify.com/album/6GC28OVyjGWVnRTMXK1siz) | 3:19 | 2021-11-13 | 2021-11-28 |
 | [BAILE FUNK 5](https://open.spotify.com/track/04jfSmC2sRRI6i7fLExba1) | [Rizzlove](https://open.spotify.com/artist/5angRdn3GcGDWDXvmQaFJM) | [BAILE FUNK 5](https://open.spotify.com/album/0ZUtOcfkTQfq5dBkeQcEVD) | 2:26 | 2020-10-12 | 2020-10-21 |
 | [Balada Para Perrear](https://open.spotify.com/track/1Gp5LG0NxOKZP9CoMTvo53) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Balada Para Perrear](https://open.spotify.com/album/7pb04lojhpJr3Yn7Nt3tEE) | 3:15 | 2021-01-29 | 2021-06-06 |
+| [Balloon](https://open.spotify.com/track/2nqaiaUUonSNcuNlcpSUsu) | [Hang Ten](https://open.spotify.com/artist/7LxAasrYADIsYsRyyzSN7i) | [Balloon](https://open.spotify.com/album/32zNKWHt0ew1Hw26DfMJVy) | 3:26 | 2022-07-19 |  |
 | [Bang! Bang!](https://open.spotify.com/track/3zMXiZPlIRRsMhfgRfNrqr) | [Sophie Hunter](https://open.spotify.com/artist/3L2gl8O5cKVCbAnSWUFZxf) | [Bang! Bang!](https://open.spotify.com/album/3VKuTq3oTUGGoDu215APwR) | 2:18 | 2021-10-30 | 2021-11-14 |
 | [Bar None](https://open.spotify.com/track/7Hf3Znb9Dj2Gxkk2uz3TYB) | [T H R O N E](https://open.spotify.com/artist/5HJUfIMq0X1ZoVNeJhLhAl), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Bar None](https://open.spotify.com/album/5ke43Voq3psd5nl76XGkg9) | 1:35 | 2021-01-15 | 2021-01-30 |
 | [Barred up Windows](https://open.spotify.com/track/3vC8bZC2NuxdwOJIyhxSxG) | [Jesse Maxwell](https://open.spotify.com/artist/1DWZyavMIKzxC3zDSG5prd) | [Radio Silence](https://open.spotify.com/album/4iw4FdB8UmzbCREoJ0A4fd) | 3:25 | 2020-06-20 | 2020-07-12 |

@@ -1260,6 +1260,24 @@
     },
     {
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4X8VkITNuqIpWDWWKjBu3B"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261950,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/1hHtStAWuaS1iCBZCdU44x"
+    },
+    {
+      "album": {
         "name": "Coffee And Drugs (ft. TIMMS)",
         "url": "https://open.spotify.com/album/2wkYi0Wx1Zxds8qshw7SsR"
       },

@@ -1,13 +1,29 @@
 {
   "description": "Listen to A-List tracks from RCA Records featuring music from Latto x Mariah Carey, Kygo ft. DNCE, Becky G &amp; Karol G, Doja Cat, and more. Cover: Doja Cat",
-  "num_followers": 14237,
+  "num_followers": 14236,
   "original_name": "The RCA-List",
   "owner": {
     "name": "RCA Records",
     "url": "https://open.spotify.com/user/rcarecords"
   },
-  "snapshot_id": "MjExOSw3ODdiOGFiYzA4MGE2NGNkMGFiYjNjZDY4M2YxMDRhNGRjNTEzMTky",
+  "snapshot_id": "MjEyMSxlNTQ3YWJjZTQ4NjEzMjg4NmU3OTBlZGM4ZjNhMGE2NjE2NzMzNTU0",
   "tracks": [
+    {
+      "added_at": "2022-07-19 16:38:28",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
     {
       "added_at": "2022-07-07 19:55:24",
       "album": {

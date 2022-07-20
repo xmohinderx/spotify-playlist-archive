@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128491,
+  "num_followers": 128507,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzUyNCxiMWYxNGNiOGJhZmNiNzk4MTkwZWJjZTBlZGEyNTFlNmE2MGYyZGJh",
+  "snapshot_id": "MzUyNSxhMThjYjI5Yjg1Y2Q5ZGUyYmMzNTU5Y2JlZjBiNDc0OTQyYjdkYzk5",
   "tracks": [
+    {
+      "added_at": "2022-07-19 16:53:42",
+      "album": {
+        "name": "see str8",
+        "url": "https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "see str8",
+      "url": "https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz"
+    },
     {
       "added_at": "2022-07-18 17:07:36",
       "album": {

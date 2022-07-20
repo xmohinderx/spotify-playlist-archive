@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420559,
+      "name": "Another Chance",
+      "url": "https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam"
+    },
+    {
+      "album": {
         "name": "Back2bacK",
         "url": "https://open.spotify.com/album/4Oxxv1zaRCJ67XiFFoLewD"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 395120,
       "name": "Bigger Than Prince - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj"
@@ -265,7 +283,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 407000,
       "name": "DJ Lover - Original Mix",
       "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
@@ -287,7 +305,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 363009,
       "name": "Encoding",
       "url": "https://open.spotify.com/track/2fnS9uEeunmh1NwlkmSGqb"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 483840,
       "name": "Fia",
       "url": "https://open.spotify.com/track/5TREoPShL4tfACMEbHxuzL"
@@ -385,7 +403,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 421381,
       "name": "Free",
       "url": "https://open.spotify.com/track/07JlZ8E9U8l1nH41vAIPSu"
@@ -479,7 +497,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 360000,
       "name": "Heart Of Jazz",
       "url": "https://open.spotify.com/track/1BbKe9iPRe5ZNFKdhzv82N"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
@@ -569,7 +587,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 422250,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 382606,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/36PkmbHlfH1JYwoFJS1S0q"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 420779,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3O9ed5dnmz1T3O2o0OtnJp"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 378750,
       "name": "Lipid",
       "url": "https://open.spotify.com/track/3073MbpcoDvWkBe3xZXkio"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 276859,
       "name": "Love The Way You",
       "url": "https://open.spotify.com/track/2phBDqpIBoQOZ8W3pfIhet"
@@ -801,10 +819,32 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 382278,
       "name": "Lovelee Dae",
       "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
+    },
+    {
+      "album": {
+        "name": "Magic Moment",
+        "url": "https://open.spotify.com/album/4EPidCv1ztlKwUWct8A3CQ"
+      },
+      "artists": [
+        {
+          "name": "Francesca Lombardo",
+          "url": "https://open.spotify.com/artist/53k6hml77TQV6Eub3zdbju"
+        },
+        {
+          "name": "VIKTORIIA",
+          "url": "https://open.spotify.com/artist/0qXSZNPQ4kmgIamSn1ndHy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561280,
+      "name": "Magic Moment",
+      "url": "https://open.spotify.com/track/6bcShXaH3ur6aM6mDxv95o"
     },
     {
       "album": {
@@ -819,7 +859,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 453750,
       "name": "Maybe Not",
       "url": "https://open.spotify.com/track/17dtDJ02K8SaDugoYuPoWB"
@@ -873,7 +913,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 159374,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/63IGK3U44KfteaWjAdMm8Y"
@@ -989,7 +1029,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 214595,
       "name": "Oh Really",
       "url": "https://open.spotify.com/track/1AhLqJ6z2aIV17F0ijJvJR"
@@ -1047,7 +1087,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 330233,
       "name": "Pasi De Dans",
       "url": "https://open.spotify.com/track/4pRKY2GJfRNH0Mytif1EZ1"
@@ -1065,7 +1105,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 423837,
       "name": "Ramona",
       "url": "https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN"
@@ -1101,7 +1141,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "Really Really Hot",
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
@@ -1173,7 +1213,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 307865,
       "name": "Roxy's Sweat - Original Mix",
       "url": "https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi"
@@ -1191,7 +1231,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 181054,
       "name": "Rudeboi",
       "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
@@ -1271,7 +1311,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 212812,
       "name": "So Hot",
       "url": "https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM"
@@ -1329,7 +1369,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
@@ -1485,7 +1525,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 400565,
       "name": "The Key",
       "url": "https://open.spotify.com/track/1JqC0dklBZxfMeiqtsuUqP"
@@ -1539,7 +1579,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 384115,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE"
@@ -1593,7 +1633,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 462868,
       "name": "Troll",
       "url": "https://open.spotify.com/track/2QLlGPzBYeixEyqJKqzqj9"
@@ -1665,7 +1705,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Young Fathers
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,704 likes - 76 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,761 likes - 76 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 32 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 33 | [Float](https://open.spotify.com/track/2JwXCnTKHDtFw7nnNKgsfe) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Float](https://open.spotify.com/album/75Rj4tJgL2wKuMxG6ULNHp) | 3:38 |
 | 34 | [Systemic Pandemic](https://open.spotify.com/track/4mrrbBxzZQfMZqqTAJMFyY) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [Systemic Pandemic](https://open.spotify.com/album/6LfKkcYOmT6pLlipKTqD1V) | 4:18 |
-| 35 | [Sports & Tattoos](https://open.spotify.com/track/0UfdMqql8BAEFccEw62CZS) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Sports & Tattoos](https://open.spotify.com/album/3RZuSI3r4RTdj9LyvkJaft) | 2:14 |
+| 35 | [Sports & Tattoos](https://open.spotify.com/track/0UfdMqql8BAEFccEw62CZS) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [FRANK ZING](https://open.spotify.com/artist/2q2KG0vu8wbXnNoEsOL4mn) | [Sports & Tattoos](https://open.spotify.com/album/3RZuSI3r4RTdj9LyvkJaft) | 2:14 |
 | 36 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [DEAR MISS HOLLOWAY](https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU) | 3:29 |
 | 37 | [Sunflower](https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Sunflower](https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21) | 3:22 |
 | 38 | [Sweet Isolation \(Metropole Orkest\)](https://open.spotify.com/track/3jNdydQGl08mlbmd2Xceal) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Sweet Isolation \(Metropole Orkest\)](https://open.spotify.com/album/1Bfdlb132DDKkNK946T9rC) | 5:32 |

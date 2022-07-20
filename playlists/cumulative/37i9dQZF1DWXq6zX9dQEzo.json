@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 146242,
       "name": "All Things New - Remix",
       "url": "https://open.spotify.com/track/0p65BDGoLDUCoD62bN54re"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 176076,
       "name": "Be Gone (feat. Mike Teezy)",
       "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 139500,
       "name": "Bom Tempo (Good Time)",
       "url": "https://open.spotify.com/track/2N32YQOuBOocvuvQdtKK2k"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "bounce back.",
       "url": "https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 176363,
       "name": "Cafeteria",
       "url": "https://open.spotify.com/track/69YWagZDFxgqZmXKJyZwdT"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 214000,
       "name": "Came For It All",
       "url": "https://open.spotify.com/track/1VBEsSJhh3HGkz7XNt85OK"
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 217652,
       "name": "Epic",
       "url": "https://open.spotify.com/track/7BqLZYzL8gWa27PsUdqRvp"
@@ -1611,6 +1611,32 @@
       "duration_ms": 174490,
       "name": "FASHO",
       "url": "https://open.spotify.com/track/4vdNhluG6A3bJBOM7deuZK"
+    },
+    {
+      "album": {
+        "name": "Father Forgive Us",
+        "url": "https://open.spotify.com/album/5UdkDwxRkETEh4yVrbuCS3"
+      },
+      "artists": [
+        {
+          "name": "Reconcile",
+          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
+        },
+        {
+          "name": "Og Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        },
+        {
+          "name": "D Brooks the President",
+          "url": "https://open.spotify.com/artist/1AOGtSA48BMCuUH2XYWchk"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219574,
+      "name": "Father Forgive Us",
+      "url": "https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14"
     },
     {
       "album": {
@@ -2219,7 +2245,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 118848,
       "name": "Haha!",
       "url": "https://open.spotify.com/track/2ewSOGpFKYTpwT4BIWt5ZJ"
@@ -2431,7 +2457,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 143963,
       "name": "Hit On That Switch",
       "url": "https://open.spotify.com/track/5LvtYS4qLebDl5kgv6m6SE"
@@ -2471,7 +2497,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 223107,
       "name": "Hold Me Back",
       "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
@@ -2657,7 +2683,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 175359,
       "name": "Hunger Games",
       "url": "https://open.spotify.com/track/24kSxDyr1qpgulJIGJvt3k"
@@ -2825,7 +2851,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 216000,
       "name": "I Will Not",
       "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
@@ -2977,7 +3003,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 198000,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/4cWDgGTClNmfdscTIjPUy8"
@@ -3387,7 +3413,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 238895,
       "name": "Look at Me Now",
       "url": "https://open.spotify.com/track/0D0cxJpnhijpr5QMmKmYDL"
@@ -3511,7 +3537,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 158522,
       "name": "Mobbin'",
       "url": "https://open.spotify.com/track/0Zkf62cIbqiRhDMB2GYOaY"
@@ -3623,7 +3649,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 200931,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
@@ -3761,7 +3787,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 222651,
       "name": "No Chains",
       "url": "https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG"
@@ -3797,7 +3823,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 161777,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/2NGpagbXNJ8PbDtyALd1bF"
@@ -4395,7 +4421,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Push Thru",
       "url": "https://open.spotify.com/track/5bF0y9fkeEmf2ilhO3CCvr"
@@ -4697,7 +4723,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 169351,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/6dxId4EEZvdUJqVmH3qA61"
@@ -4799,7 +4825,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 169328,
       "name": "Shabach Praise",
       "url": "https://open.spotify.com/track/04YBaIXzoZCovJZwtwR47x"
@@ -4909,7 +4935,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 162153,
       "name": "Sin Pausa",
       "url": "https://open.spotify.com/track/0pGz2PpI6ijh1DHufWkkyI"
@@ -5609,7 +5635,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 221435,
       "name": "Unstoppable (feat. Lecrae)",
       "url": "https://open.spotify.com/track/1Ak89vujl3AqjxDMvKmJRQ"
@@ -5759,7 +5785,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 113333,
       "name": "we are not the same.",
       "url": "https://open.spotify.com/track/6SCth7RiNdzmiouRdKkFhm"
@@ -6051,7 +6077,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 146378,
       "name": "Wins On Me",
       "url": "https://open.spotify.com/track/2nybUYGqGgFSyAs9DgGxuh"
@@ -6169,7 +6195,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 184335,
       "name": "Won't Stop - Reyer Remix",
       "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"

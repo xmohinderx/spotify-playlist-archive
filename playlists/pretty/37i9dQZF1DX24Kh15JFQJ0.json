@@ -1,28 +1,28 @@
 {
-  "description": "The latest music from our Country Heroes. Cover: Willie Nelson",
-  "num_followers": 240111,
+  "description": "The latest music from our Country Heroes. Cover: Billy Dean",
+  "num_followers": 240145,
   "original_name": "New Traditions Country Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODQ2MCwwMDAwMDBjMjAwMDAwMTgxNmZkMjQ1MzgwMDAwMDE3ZmUwYjlmNzg0",
+  "snapshot_id": "MTY1ODI2NDgzMywwMDAwMDBjMzAwMDAwMTgyMTg0OTRjMjMwMDAwMDE4MjE4NDg4N2Rl",
   "tracks": [
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "A Beautiful Time",
-        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
+        "name": "Saltwater Cowboy",
+        "url": "https://open.spotify.com/album/1j8ubAkNpMdJs8qUmvIB17"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
         }
       ],
-      "duration_ms": 147186,
-      "name": "I Don't Go To Funerals",
-      "url": "https://open.spotify.com/track/0KTpPWkgZ0X5TX1bHl2Ipj"
+      "duration_ms": 169560,
+      "name": "Saltwater Cowboy",
+      "url": "https://open.spotify.com/track/2zJEa1T4mpFdoCvUNTo59a"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -43,6 +43,22 @@
       "duration_ms": 190200,
       "name": "Brand New Man - with Luke Combs",
       "url": "https://open.spotify.com/track/6SewJZC2f9ETwJR2zZWkOP"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "I'll Love You Till The Day I Die",
+        "url": "https://open.spotify.com/album/3gYh2TfRI8P8xSrQyQPGZl"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "I'll Love You Till The Day I Die",
+      "url": "https://open.spotify.com/track/29OpRCARyWm4wKTnxwJwYm"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -359,6 +375,22 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
+        "name": "A Beautiful Time",
+        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 147186,
+      "name": "I Don't Go To Funerals",
+      "url": "https://open.spotify.com/track/0KTpPWkgZ0X5TX1bHl2Ipj"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
         "name": "Every Girl (Deluxe Edition)",
         "url": "https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO"
       },
@@ -475,22 +507,6 @@
       "duration_ms": 178546,
       "name": "Ain't No Use - From The Vault",
       "url": "https://open.spotify.com/track/2Mli3VOG5a2j1hraiVFzQ0"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Saltwater Cowboy",
-        "url": "https://open.spotify.com/album/1j8ubAkNpMdJs8qUmvIB17"
-      },
-      "artists": [
-        {
-          "name": "Billy Dean",
-          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "Saltwater Cowboy",
-      "url": "https://open.spotify.com/track/2zJEa1T4mpFdoCvUNTo59a"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1903,22 +1919,6 @@
       "duration_ms": 158568,
       "name": "A Million and One",
       "url": "https://open.spotify.com/track/6298i3fOw3l5rmtR462TFe"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "I'll Love You Till The Day I Die",
-        "url": "https://open.spotify.com/album/3gYh2TfRI8P8xSrQyQPGZl"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "I'll Love You Till The Day I Die",
-      "url": "https://open.spotify.com/track/29OpRCARyWm4wKTnxwJwYm"
     },
     {
       "added_at": "2022-06-17 04:01:00",

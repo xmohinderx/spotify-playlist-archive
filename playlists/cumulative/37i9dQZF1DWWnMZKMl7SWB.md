@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-200 songs - 12 hr 28 min - not published yet
+201 songs - 12 hr 34 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Afternoon](https://open.spotify.com/track/7bLHWQicZFxR1dkvYrYNCj) | [mushii.](https://open.spotify.com/artist/3ytz3wAW8Qg1GqedDm5E2h), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Village](https://open.spotify.com/album/00aPsGMmRq7ZL7vcj4HyNz) | 2:27 | 2022-04-12 |  |
 | [Again \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/46w1jmEV4WKhoIOz1stX91) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Again \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1ieJT6PYkrlmzt38bV1VK2) | 5:26 | 2022-04-12 |  |
 | [All Of Us](https://open.spotify.com/track/7yu96QSyYExbIhFzYtkCTg) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Vegetal](https://open.spotify.com/album/3T68iOqEtlQ9BzbzxHGYOO) | 4:08 | 2022-04-12 |  |
-| [Allowance](https://open.spotify.com/track/1nSgDfK6KfrsowM3zeA4DP) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Allowance](https://open.spotify.com/album/5fJsPvSDQeOEJyXrEOphUJ) | 6:47 | 2022-04-12 |  |
+| [Allowance](https://open.spotify.com/track/1nSgDfK6KfrsowM3zeA4DP) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Allowance](https://open.spotify.com/album/5fJsPvSDQeOEJyXrEOphUJ) | 6:47 | 2022-04-12 | 2022-07-20 |
 | [Alone](https://open.spotify.com/track/4p1NHiFP4PfV7eW1183Ej9) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Alone](https://open.spotify.com/album/1irlXNpTI0R1aIAVnf6ew9) | 4:33 | 2022-04-12 |  |
 | [altissima](https://open.spotify.com/track/5KBiox7vnG3cnljh8MPBp8) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [\(autumn bumps\)](https://open.spotify.com/album/63dR2qHi03ouqTmMf3ScmH) | 1:32 | 2022-04-12 |  |
 | [Always Infinity](https://open.spotify.com/track/5k4wdNwtqmxlEb4HBP6gAJ) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Fourth Dogma](https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi) | [Always Infinity](https://open.spotify.com/album/2JnjDpPZ9oWjf4qaJkYxOI) | 2:35 | 2022-04-12 |  |
@@ -29,6 +29,7 @@
 | [at arm's length...](https://open.spotify.com/track/5UW3V9pYyye7qGH8ecNhdL) | [momü](https://open.spotify.com/artist/6fqCoZCxjMrwtuvciQnzKn) | [at arm's length...](https://open.spotify.com/album/4dueFTcpK5Mc9h0zbGhIC2) | 2:47 | 2022-04-12 |  |
 | [Atlas](https://open.spotify.com/track/2dchj0QDG7tN9m1xiTT37P) | [Les Gordon](https://open.spotify.com/artist/4UqXejsLj7uwZmzQ9vkmg8) | [Atlas \- EP](https://open.spotify.com/album/62g4mnCVGJluylXfG1TyBH) | 2:55 | 2022-04-12 |  |
 | [Aura](https://open.spotify.com/track/56TPwVBv9GY1YmrRQioDMz) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [Aura](https://open.spotify.com/album/2dBroQ7HmAmQM58zcxLGtG) | 1:47 | 2022-04-12 |  |
+| [Azure](https://open.spotify.com/track/2VnlJCQMphFJUyYR5p7da2) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)](https://open.spotify.com/album/3dunJ0uhRdQJNqKWdqAeqe) | 6:04 | 2022-04-12 |  |
 | [Be Real](https://open.spotify.com/track/4PEbNdnFtpko90iC0W9I2u) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X), [Metaxas](https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9) | [Be Real](https://open.spotify.com/album/2iLNcOmOJUG69SlGv5PSZz) | 3:46 | 2022-04-12 |  |
 | [Beautiful Escape](https://open.spotify.com/track/5MChi9fdCbTIWDJPPUuuW6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 4:36 | 2022-04-12 |  |
 | [Beauty Mark \- Radio Edit](https://open.spotify.com/track/6efkfZUIR9pEurdE9RdT7E) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn) | [Beauty Mark \(Radio Edit\)](https://open.spotify.com/album/2JNNtdH9Yd2MvsTAWRpmMw) | 3:07 | 2022-04-12 |  |

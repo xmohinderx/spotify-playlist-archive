@@ -3030,6 +3030,28 @@
     },
     {
       "album": {
+        "name": "Never Easy",
+        "url": "https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224391,
+      "name": "Never Easy",
+      "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
+    },
+    {
+      "album": {
         "name": "Nightmares In NYC",
         "url": "https://open.spotify.com/album/5aOwEJun2fyoIIFpftCmph"
       },
@@ -3187,6 +3209,24 @@
       "duration_ms": 210008,
       "name": "Octavia",
       "url": "https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q"
+    },
+    {
+      "album": {
+        "name": "Oh Naur",
+        "url": "https://open.spotify.com/album/22puJMyQXeGW1mgiE1vw1I"
+      },
+      "artists": [
+        {
+          "name": "Yung Skrrt",
+          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78832,
+      "name": "Oh Naur",
+      "url": "https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad"
     },
     {
       "album": {

@@ -402,6 +402,28 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/3zaCjddO5ZBguvt60xUegn"
+      },
+      "artists": [
+        {
+          "name": "DJ SODA",
+          "url": "https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA"
+        },
+        {
+          "name": "SPIRIT LINK",
+          "url": "https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204387,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/37U9aGziz2mwqDKuoAO0D0"
+    },
+    {
+      "album": {
         "name": "Colorblind (feat. Dayseeker)",
         "url": "https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35"
       },
@@ -487,7 +509,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 190400,
       "name": "CRACKS",
       "url": "https://open.spotify.com/track/7o4hWcXufdfWcWCbh5O8kf"
@@ -565,7 +587,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 275200,
       "name": "Diamond Heart (feat. RBBTS)",
       "url": "https://open.spotify.com/track/6r0ujrPdtJbwtgEteB2rkB"
@@ -693,7 +715,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 160208,
       "name": "Down This Road - Hoang Remix",
       "url": "https://open.spotify.com/track/6Utnzpe2bbBXqYCY1N6x0w"
@@ -770,6 +792,28 @@
     },
     {
       "album": {
+        "name": "DUST",
+        "url": "https://open.spotify.com/album/10xtDWX9BTjDde914vNKqX"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183410,
+      "name": "DUST",
+      "url": "https://open.spotify.com/track/71mVKt2LRNZw1XJ7vT0A6c"
+    },
+    {
+      "album": {
         "name": "Hope In Chaos",
         "url": "https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt"
       },
@@ -829,7 +873,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 180363,
       "name": "End Of Us",
       "url": "https://open.spotify.com/track/54JH6BSeisRY4MeCRwIqjX"
@@ -851,7 +895,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 156428,
       "name": "Endgame (feat. Aeria)",
       "url": "https://open.spotify.com/track/3P5XaFgG3IgpbA6nhPQEJb"
@@ -869,7 +913,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 161036,
       "name": "Enter REM",
       "url": "https://open.spotify.com/track/4TXjpUyeao6glOJfVARWi3"
@@ -1009,7 +1053,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 190909,
       "name": "Fight Or Flight",
       "url": "https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2"
@@ -1031,6 +1075,28 @@
       "duration_ms": 201600,
       "name": "find u.",
       "url": "https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx"
+    },
+    {
+      "album": {
+        "name": "Find You There",
+        "url": "https://open.spotify.com/album/2xpDatXqJ7n62gtGutnhOP"
+      },
+      "artists": [
+        {
+          "name": "CHENDA",
+          "url": "https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242097,
+      "name": "Find You There",
+      "url": "https://open.spotify.com/track/2WxmjSYBgaswXqyWI0HPfE"
     },
     {
       "album": {
@@ -1071,7 +1137,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 190546,
       "name": "Flare",
       "url": "https://open.spotify.com/track/030SJMnWzEaAE7979A3NcW"
@@ -1279,7 +1345,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 212800,
       "name": "Glass Heart - Last Heroes Remix",
       "url": "https://open.spotify.com/track/6LpNRKOUC2LNpdOqeHRVYg"
@@ -1859,7 +1925,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 213994,
       "name": "Just Be Honest",
       "url": "https://open.spotify.com/track/71KO4zAbFDtx8oDQx7qtka"
@@ -1907,7 +1973,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 188918,
       "name": "Knock On Wood",
       "url": "https://open.spotify.com/track/1dqt7PgZm65K8Ctm7nOimH"
@@ -2061,7 +2127,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 216410,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz"
@@ -2255,7 +2321,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 185571,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2fHznHYgWJ2nwk16rAA6gv"
@@ -2383,7 +2449,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 235200,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/7x2vtZvaaFt6zR4QJDWPEO"
@@ -2413,6 +2479,28 @@
       "duration_ms": 206197,
       "name": "Only One I Need",
       "url": "https://open.spotify.com/track/5tqjt07Jes01AokedrhRtQ"
+    },
+    {
+      "album": {
+        "name": "Open My Heart",
+        "url": "https://open.spotify.com/album/6HIOUdfFfge3rEJLoQEijw"
+      },
+      "artists": [
+        {
+          "name": "Ray Le Fanue",
+          "url": "https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171448,
+      "name": "Open My Heart",
+      "url": "https://open.spotify.com/track/0itXMRXrP6dDRf5cYeEtKc"
     },
     {
       "album": {
@@ -2541,7 +2629,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 152824,
       "name": "PART OF ME",
       "url": "https://open.spotify.com/track/2wW67KaLBLCaLxeyCNBEjo"
@@ -2585,7 +2673,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 184897,
       "name": "Pseudo Love",
       "url": "https://open.spotify.com/track/4KUIJ07yRdDJ10yIZitoHs"
@@ -2625,7 +2713,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 187792,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3kouAggxGgCP6xqAsztwrA"
@@ -2773,7 +2861,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 240750,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/4MjqIuxDsPhxvB9O0xLO8d"
@@ -2865,7 +2953,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 166681,
       "name": "Say The Word (with Billy Lockett)",
       "url": "https://open.spotify.com/track/3CFwx3qdGNrgUIS16PnoXn"
@@ -3229,7 +3317,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 232000,
       "name": "Stepping Stone",
       "url": "https://open.spotify.com/track/1hiNxftJnpiiOgHEi1hMRu"
@@ -3291,7 +3379,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 171710,
       "name": "sunlight",
       "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"
@@ -3379,7 +3467,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 167225,
       "name": "TELL U",
       "url": "https://open.spotify.com/track/2cgm2QVvtRXdIDkVVD7Beq"
@@ -3665,7 +3753,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 263200,
       "name": "We Fall Down",
       "url": "https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy"
@@ -3805,7 +3893,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 210000,
       "name": "With You",
       "url": "https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E"

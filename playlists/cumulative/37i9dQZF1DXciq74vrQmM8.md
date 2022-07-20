@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lozeak
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. jazmin bean
 
-241 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+243 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [distraction](https://open.spotify.com/track/2vXKEk0RtMsLSv1NVBe7r8) | [miind](https://open.spotify.com/artist/0Nualz2sqNcC0f823MFLto) | [distraction](https://open.spotify.com/album/6l91vBauvtenuX8dQ615rn) | 2:01 | 2022-04-19 | 2022-04-29 |
 | [DO U LIKE ME NOW?](https://open.spotify.com/track/22Uh81w7dh0sdE4egnLndv) | [Dana Dentata](https://open.spotify.com/artist/1QiXZr91PL7BG5jT7j14uB) | [DO U LIKE ME NOW?](https://open.spotify.com/album/5pEPrSirLnbvFr65nO5Zp9) | 2:23 | 2021-12-27 | 2022-06-10 |
 | [dog days](https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [dog days](https://open.spotify.com/album/5tsuLmnmDMo4rhrRZQIXFn) | 2:56 | 2022-04-28 |  |
+| [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-07-19 |  |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-14 | 2022-04-20 |
 | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/track/1cAKuJhjZCKI0j0sVTF5zQ) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/album/5bN3xklJz98zVp1cxnYpSO) | 2:46 | 2022-05-12 | 2022-06-24 |
 | [Dutch Courage](https://open.spotify.com/track/5OCDCNYb7xT1HwgJ9SS1Oh) | [XO LU](https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf) | [Dutch Courage](https://open.spotify.com/album/30kaWVTwGdetGhUqlbv04p) | 2:27 | 2021-12-27 | 2022-01-19 |
@@ -139,7 +140,7 @@
 | [Major Waste](https://open.spotify.com/track/5MuPQoYQRnDTLKHcngLK32) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Major Waste](https://open.spotify.com/album/2dA5MOXJ7Zr0d45VYvvMy2) | 3:18 | 2022-03-25 | 2022-07-01 |
 | [Make Me Famous](https://open.spotify.com/track/0pOeZhJipQdF3qBiu1LjmC) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Make Me Famous](https://open.spotify.com/album/5xz5TT3z4Ik916eLPcaPr3) | 2:54 | 2022-05-19 |  |
 | [Mandy](https://open.spotify.com/track/0XXG3I04gjwqU9Q8rxQk8y) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 2:20 | 2022-02-04 | 2022-02-13 |
-| [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 | 2022-02-18 |  |
+| [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 | 2022-02-18 | 2022-07-20 |
 | [mememe](https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/3h5CubMAGNOoUHApboZYKc) | [mememe](https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36) | 2:46 | 2021-12-27 | 2022-07-15 |
 | [MENTHOL\*](https://open.spotify.com/track/72rEOdEzgGc81Gos5dD0Je) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/4fdI8lc6iPhJrsNi7pBgPl) | 3:07 | 2021-12-27 | 2022-04-01 |
 | [MIDNIGHT MASS](https://open.spotify.com/track/19Rs8vYHdVLUzXVTjP3XrM) | [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4), [Matty Beats](https://open.spotify.com/artist/76AcKdJ3hdlxtEWPCUumqT) | [MIDNIGHT MASS](https://open.spotify.com/album/7iEDDAnSlGoep1RtdWyC3z) | 2:48 | 2022-03-04 |  |
@@ -191,7 +192,7 @@
 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 | 2022-01-05 | 2022-01-19 |
 | [REJECT](https://open.spotify.com/track/3eAvQAhMnpQBggJm8GM7hc) | [KILLRIDDLE](https://open.spotify.com/artist/4cQuNt43NmrpbYknhSZH5D) | [REJECT](https://open.spotify.com/album/1n4TcO2kFYP2iQY5nYmAVe) | 2:14 | 2021-12-27 | 2022-01-06 |
 | [Renegade](https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL) | 2:01 | 2022-06-16 |  |
-| [repeat after me](https://open.spotify.com/track/0gvVLIViL9Bm4RiMYpe1Zb) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [repeat after me](https://open.spotify.com/album/6D7fw4Yzw3rVgu6zjDnZGe) | 2:22 | 2022-04-28 |  |
+| [repeat after me](https://open.spotify.com/track/0gvVLIViL9Bm4RiMYpe1Zb) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [repeat after me](https://open.spotify.com/album/6D7fw4Yzw3rVgu6zjDnZGe) | 2:22 | 2022-04-28 | 2022-07-20 |
 | [revenant](https://open.spotify.com/track/2pm8U6asi671SteGMdoODm) | [sendflowrs](https://open.spotify.com/artist/1q9nag0IOu2TVLlHkwsWpY) | [revenant](https://open.spotify.com/album/25WnPXxjljgQEwcRaHRVfT) | 1:49 | 2022-01-28 | 2022-02-18 |
 | [Rock 'n' Roll Raver](https://open.spotify.com/track/68iPcJAmCqWPyfs9wPHwVT) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Rock 'n' Roll Raver](https://open.spotify.com/album/1mP17eGU7BavBcaTGmnNbu) | 3:53 | 2021-12-27 | 2022-01-19 |
 | [Rocky Horror Show](https://open.spotify.com/track/7F28TsKLrF0HHTSKRcJLpP) | [LICK DROP](https://open.spotify.com/artist/2Z0A3tYHjY3X7NAWZKty3U), [Tyler Brash](https://open.spotify.com/artist/6o0VMx68dSG9qdroFMDXfN) | [Rocky Horror Show](https://open.spotify.com/album/63PqnuJhlpcQPQcnUiP5dW) | 2:28 | 2022-07-07 |  |
@@ -235,6 +236,7 @@
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2022-03-31 |  |
 | [wanna luv u](https://open.spotify.com/track/34I9rpFDpvL87DO9JT3ca3) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [wanna luv u](https://open.spotify.com/album/60uDwGVGqjZ5dUHwBy1Pno) | 3:29 | 2021-12-27 | 2022-02-04 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-11 |  |
+| [War Zone Urchin](https://open.spotify.com/track/5A3uPfOAuxTIXU9QFFsKqp) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Worldwide Torture](https://open.spotify.com/album/2SVRzumTLUTdoHgYNQ4Rh9) | 4:04 | 2022-07-19 |  |
 | [We Appreciate Power](https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:35 | 2022-02-04 | 2022-02-22 |
 | [We're All Going To Die](https://open.spotify.com/track/6jQmhIdemWV7Sp9STU55Fp) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [I Hate People On The Internet](https://open.spotify.com/album/0e8Mkw2QbxOROl9ktrjQDJ) | 3:22 | 2022-03-25 |  |
 | [weekends](https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Quantum Jumping](https://open.spotify.com/album/1XAzH6OVdH1BlpBEnjMcPk) | 2:52 | 2022-04-28 |  |

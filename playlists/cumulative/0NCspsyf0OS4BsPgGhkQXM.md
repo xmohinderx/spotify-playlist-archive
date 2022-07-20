@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-375 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+376 songs - 20 hr 23 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Chloroform](https://open.spotify.com/track/6aa913g2FXGeTLQBB3uIDe) | [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi) | [Chloroform](https://open.spotify.com/album/3u4NNr4nbfqBgAWrvFd20E) | 2:27 | 2022-01-20 | 2022-02-17 |
 | [Church](https://open.spotify.com/track/6Apozxrk03AIyQwyswUjbt) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:03 | 2022-01-14 | 2022-07-02 |
 | [Circles](https://open.spotify.com/track/6zm00gQog0WIHjo1jR5St8) | [machineheart](https://open.spotify.com/artist/4uethVhVpoyO3OhT40JH1o), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Circles](https://open.spotify.com/album/1Ig0x1Jcjw2O3V2MAmaAUE) | 4:43 | 2022-01-14 |  |
+| [Cloud 9](https://open.spotify.com/track/1hHtStAWuaS1iCBZCdU44x) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Cloud 9](https://open.spotify.com/album/4X8VkITNuqIpWDWWKjBu3B) | 4:21 | 2022-07-19 |  |
 | [Coffee And Drugs \(ft\. TIMMS\)](https://open.spotify.com/track/5oTOGML1wjn4Hj45oVr6si) | [Stileto](https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i), [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Coffee And Drugs \(ft\. TIMMS\)](https://open.spotify.com/album/2wkYi0Wx1Zxds8qshw7SsR) | 2:49 | 2022-04-25 | 2022-05-21 |
 | [COLORBLIND](https://open.spotify.com/track/249wj5aUxf4mGwPnvE956x) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [1093](https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K) | 3:28 | 2022-01-14 |  |
 | [Colours](https://open.spotify.com/track/6Ueq9hIlEaFwNwKniVryEF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Colours](https://open.spotify.com/album/7Gfyxo6Lza5N9UbnW1CVn4) | 3:23 | 2022-01-14 | 2022-07-02 |

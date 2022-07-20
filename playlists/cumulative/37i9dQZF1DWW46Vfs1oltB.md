@@ -4,7 +4,7 @@
 
 > Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: j\-hope\(제이홉\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-510 songs - 1 day 5 hr 2 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+511 songs - 1 day 5 hr 5 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Dressed Up \(Feat\. The Quiett\)](https://open.spotify.com/track/4kWZJSbNXqEwNAr8ZNJ2Qo) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [zillamode 4](https://open.spotify.com/album/6O7AASfdsj9oQMAV3do7yF) | 3:38 | 2022-03-09 | 2022-06-28 |
 | [Drink Or Nah \(feat\. Layone\)](https://open.spotify.com/track/1pM3SykUTmL0KJOJF4BYXS) | [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2), [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [Drink Or Nah \(feat\. Layone\)](https://open.spotify.com/album/133lb2FPai0x4zoDUTmCvV) | 3:36 | 2022-07-07 |  |
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-04 |  |
-| [EGG RICE](https://open.spotify.com/track/4pen9dLfeSHfI3uuXibiYU) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [EGG RICE](https://open.spotify.com/album/2iiHvjADaBZPSqt91XTb2z) | 2:51 | 2022-05-28 |  |
+| [EGG RICE](https://open.spotify.com/track/4pen9dLfeSHfI3uuXibiYU) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [EGG RICE](https://open.spotify.com/album/2iiHvjADaBZPSqt91XTb2z) | 2:51 | 2022-05-28 | 2022-07-20 |
 | [Elizabeth](https://open.spotify.com/track/5sfmTMTQ5Krnto74vKeOaS) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [obiegogle](https://open.spotify.com/artist/7A90OUMBG7u61jxhAuz6to), [nobbaggu](https://open.spotify.com/artist/3y17owG6cStOCdf6l4b8z1) | [School Rapper4 \- Team Battle:Group](https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK) | 3:41 | 2021-12-18 | 2022-06-28 |
 | [End of the World](https://open.spotify.com/track/0jtVg4s7gv44qWwCnqBBWP) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:34 | 2021-12-18 | 2022-07-08 |
 | [Error \(Feat\. Loopy\)](https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:27 | 2021-12-18 | 2022-07-08 |
@@ -250,6 +250,7 @@
 | [K2 TO GENESIS \(Feat\. Od Rhomp, Sycho\)](https://open.spotify.com/track/0UXSLhmPPwywEoEfZUSaVt) | [YNLBOYS](https://open.spotify.com/artist/3n6TPipMtO0GfvpL8iKdEl), [Od Rhomp](https://open.spotify.com/artist/4BZqtFHgybK4QmakJzHPNK), [Sycho](https://open.spotify.com/artist/0alOpDUsBEmBJqSZHT6z2P) | [K2 TO GENESIS](https://open.spotify.com/album/0qhCa5jySOUXeJfWtl17e7) | 3:53 | 2022-01-15 | 2022-06-30 |
 | [KAZINO](https://open.spotify.com/track/245onUPHGD1DYuiacxTuW0) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [KAZINO](https://open.spotify.com/album/1f9cws6SZ0iKoHrcmn39ZY) | 3:05 | 2021-12-18 | 2022-07-08 |
 | [KISS ME](https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 4:38 | 2021-12-18 | 2022-07-07 |
+| [Korea Bank \(Feat\. YDG\)](https://open.spotify.com/track/4fHUAvyszdqZ8PbjrZuXsN) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:18 | 2022-07-19 |  |
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-12-18 | 2022-07-01 |
 | [Last Station](https://open.spotify.com/track/4hSJ41LErRVq3UByyJu6lW) | [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Last Station](https://open.spotify.com/album/0Q3MzlQ3NgqOjtS6zmZGe4) | 7:26 | 2022-03-26 | 2022-06-28 |
 | [Last Station](https://open.spotify.com/track/3xQ45ceckza2UflpZsvpMC) | [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Commercial Art](https://open.spotify.com/album/0fsalpLBbxunxEGLuxw7kJ) | 7:27 | 2022-01-11 | 2022-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Delatorvi, Djonga
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,040 likes - 76 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,184 likes - 76 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 30 | [Essa noite eu sonhei](https://open.spotify.com/track/4wa6BOuVT6sM5PFbFW1Qni) | [Tchellin](https://open.spotify.com/artist/6mZ79Ylob8TtxWoEUPUzOL), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Essa noite eu sonhei](https://open.spotify.com/album/7jDQ3aVGpL3U4dz7CenM2K) | 2:28 |
 | 31 | [Hot City](https://open.spotify.com/track/51F79RkXKKxyXxn0WdcpSL) | [Spartano](https://open.spotify.com/artist/5VkAxeOIPrz93DkfyhdHDL) | [Hot City](https://open.spotify.com/album/285dyplMmdf18fGjnRQZak) | 3:07 |
 | 32 | [Coração Gelado](https://open.spotify.com/track/1CEJvpfICqTqynkNkvQZn1) | [somynem.grin](https://open.spotify.com/artist/5AQpcBCqfE0mHDM4dh02mf) | [Mixtape Sonenem](https://open.spotify.com/album/4dOcCkTYKNOsJwcXQZpQya) | 1:51 |
-| 33 | [Jovem Visionário](https://open.spotify.com/track/1oSAAHputyZiGC01UlDiGa) | [BlackM](https://open.spotify.com/artist/5EuR4RmPcrxFPlwCMmUS7m), [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8) | [Jovem Visionário](https://open.spotify.com/album/6DL2HxoV0WETGZmMP1ExJa) | 2:27 |
+| 33 | [Jovem Visionário](https://open.spotify.com/track/1oSAAHputyZiGC01UlDiGa) | [BlackM](https://open.spotify.com/artist/5EuR4RmPcrxFPlwCMmUS7m), [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8) | [Jovem Visionário](https://open.spotify.com/album/6DL2HxoV0WETGZmMP1ExJa) | 2:31 |
 | 34 | [Rivais](https://open.spotify.com/track/3mLdXVArYK3kkfDT3YZRV1) | [Vix.off](https://open.spotify.com/artist/0WtZ5uK17x7Uzin2FkK1Hq), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rivais](https://open.spotify.com/album/7BOdVA4afgrgtazXLSOnzz) | 2:24 |
 | 35 | [Dominó](https://open.spotify.com/track/7cYAE74uGy0ggBLilqvjxn) | [Psych](https://open.spotify.com/artist/56cqVCO3vabMghliZvW9S1) | [Dominó](https://open.spotify.com/album/1iDKJPSsQbElS3M1jY8hMR) | 2:39 |
 | 36 | [Merecedor](https://open.spotify.com/track/53Sfhw0tom9dbGTcEmYrDv) | [Shoy](https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9) | [Merecedor](https://open.spotify.com/album/7JsjZkKUnjYK0MbPHNB0Y1) | 3:24 |

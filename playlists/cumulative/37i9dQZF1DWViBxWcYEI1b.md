@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: BANNERS
 
-319 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
+320 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 | 2021-12-17 | 2022-05-20 |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-12-17 | 2022-01-29 |
 | [fetishizing struggle](https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [fetishizing struggle](https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV) | 2:55 | 2022-03-18 | 2022-04-02 |
+| [Fire](https://open.spotify.com/track/6uDnDG2QenoT0oJuisqcjC) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Fire](https://open.spotify.com/album/0GDkha1Z5nXTHs7bP9CuX8) | 2:51 | 2022-07-19 |  |
 | [Fireflies](https://open.spotify.com/track/0Vh1Z9Mhr6okJrb62DjNR4) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [Fireflies](https://open.spotify.com/album/1yBXDxUrjS0GnH7903tpWo) | 3:31 | 2022-06-24 |  |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 |  |
 | [Focus](https://open.spotify.com/track/1qgjat37cpmJqzfu3ZKT66) | [What If Elephants](https://open.spotify.com/artist/0omoEveNDVFKDTDPpAMtdm) | [Focus](https://open.spotify.com/album/2dITcFhol1sJpKGYxOTOgr) | 3:03 | 2021-12-17 | 2022-06-04 |
@@ -186,7 +187,7 @@
 | [Let’s Go Home Together](https://open.spotify.com/track/4RoishFyEZmWbhqqfylxXr) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:28 | 2022-03-11 | 2022-03-19 |
 | [Life As It Comes](https://open.spotify.com/track/4t8LId4jMs76b41wETklvD) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Life As It Comes](https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I) | 4:19 | 2021-12-17 | 2022-01-08 |
 | [Life Goes By And I Can't Keep Up](https://open.spotify.com/track/6Qq6M00O5GPBwS0j1MKSs7) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Life Goes By And I Can't Keep Up](https://open.spotify.com/album/3wJVLWj3tlqrax6qmIpwM4) | 5:17 | 2021-12-17 | 2022-01-15 |
-| [Little Dance](https://open.spotify.com/track/1v8v6lusXvZxmgacuQIr0I) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Little Dance](https://open.spotify.com/album/1i2ML0QMz0wU8GygKDzHdh) | 4:04 | 2022-02-25 |  |
+| [Little Dance](https://open.spotify.com/track/1v8v6lusXvZxmgacuQIr0I) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Little Dance](https://open.spotify.com/album/1i2ML0QMz0wU8GygKDzHdh) | 4:04 | 2022-02-25 | 2022-07-20 |
 | [Living My Best Life](https://open.spotify.com/track/0jDROv5ssPfOrkj23VqEIq) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/2XoxoOgF9kXJeXOp9GbGwI) | 3:35 | 2022-01-07 | 2022-02-12 |
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2021-12-17 | 2022-01-29 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-21 | 2022-03-26 |

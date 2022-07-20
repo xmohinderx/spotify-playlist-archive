@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 452626,
       "name": "Change the World - Live on MTV Unplugged",
       "url": "https://open.spotify.com/track/5k1iTPL7TNm0ZRixGzYvXI"
@@ -256,6 +256,24 @@
     },
     {
       "album": {
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
+    },
+    {
+      "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 250080,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/7EB10pKYUvwe7nnCBBn6mA"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 196360,
       "name": "Outside In/Inside Out",
       "url": "https://open.spotify.com/track/0V4SisYseIOCuqIa1jo0Qe"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 277133,
       "name": "Shower The People",
       "url": "https://open.spotify.com/track/361bWRNhfGxsONSCJodBqd"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 267426,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/1eRp0Gyiv7UY7an1VWYGi6"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 241773,
       "name": "Well Alright",
       "url": "https://open.spotify.com/track/2UrCRG6gqpsNYqTX15JO24"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 265533,
       "name": "What I Like About You (feat. Babyface)",
       "url": "https://open.spotify.com/track/6dXihKQBlA4CxPJaoBycPk"

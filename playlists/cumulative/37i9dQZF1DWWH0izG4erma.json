@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 287835,
       "name": "Black Magic Lady",
       "url": "https://open.spotify.com/track/1jaypNwHJdFs9q9IvPMLjl"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 189579,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/515UGTaaZQyCgthVxhWTbU"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 206646,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 238368,
       "name": "Heaven Down Here",
       "url": "https://open.spotify.com/track/1cpixaTbEEkzxdbrlbFVll"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 270826,
       "name": "Highway Like Me (feat. Marcus King)",
       "url": "https://open.spotify.com/track/51PuIBYfGsXVFmnsv70Vr3"
@@ -1944,6 +1944,24 @@
     },
     {
       "album": {
+        "name": "Ramon Ayala",
+        "url": "https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL"
+    },
+    {
+      "album": {
         "name": "Red Handed",
         "url": "https://open.spotify.com/album/0eSxk8QnMLkDt5DQ43kxfZ"
       },
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 237560,
       "name": "Southbound",
       "url": "https://open.spotify.com/track/1jxiUxaIBx8C2IOlak1j4Q"
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 219194,
       "name": "That's The Kinda Place",
       "url": "https://open.spotify.com/track/4lkxrngFnPkp54beg466xV"
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 201173,
       "name": "Wait Outside",
       "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
@@ -2785,7 +2803,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 202440,
       "name": "Whiskey Sunrise",
       "url": "https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5"

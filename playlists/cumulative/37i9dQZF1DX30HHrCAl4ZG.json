@@ -1984,6 +1984,24 @@
     },
     {
       "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/5ZcyqQiRVvPMbz6wSnPZY0"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209764,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6nqKsUL0Fd3BQsmQYbh8Zb"
+    },
+    {
+      "album": {
         "name": "coyote (2015-2021)",
         "url": "https://open.spotify.com/album/5QMTqu4M6I7aiF22lTRKAk"
       },

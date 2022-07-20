@@ -6,6 +6,50 @@
   "tracks": [
     {
       "album": {
+        "name": "Abra",
+        "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155634,
+      "name": "Abra",
+      "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
+    },
+    {
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/34PRqIXi8aFVD7UI0BrA22"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Annix",
+          "url": "https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274482,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/2gfn7kbXStWZLzzGJVrVVX"
+    },
+    {
+      "album": {
         "name": "Back Off",
         "url": "https://open.spotify.com/album/7IQ1hzoJ7ltY8DSsRaoNQs"
       },
@@ -21,7 +65,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 255797,
       "name": "Back Off",
       "url": "https://open.spotify.com/track/1iDMmuWgPsVzosoX5cC2oy"
@@ -43,10 +87,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 158330,
       "name": "Bark Me",
       "url": "https://open.spotify.com/track/3V9WaNSklacDxsCwnpzhSa"
+    },
+    {
+      "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3oR4vO4GABm5m4RcP3bpVM"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        },
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/6fGgaLADR7gPrQhzsBcL1T"
     },
     {
       "album": {
@@ -61,10 +127,58 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 216960,
       "name": "Big Bass",
       "url": "https://open.spotify.com/track/0cZNioy7IGLvLrqqI2JW3z"
+    },
+    {
+      "album": {
+        "name": "Crashing",
+        "url": "https://open.spotify.com/album/4Bc2hMJnuJKxXI3wBWONxY"
+      },
+      "artists": [
+        {
+          "name": "BVRNOUT",
+          "url": "https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU"
+        },
+        {
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186705,
+      "name": "Crashing",
+      "url": "https://open.spotify.com/track/6gNAYwCwPLipQwbaos2yyY"
+    },
+    {
+      "album": {
+        "name": "Disco Tool (Remixes)",
+        "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188503,
+      "name": "Disco Tool (OOTORO Remix)",
+      "url": "https://open.spotify.com/track/3PRDDXSbPUZ1qTa0JkXvgt"
     },
     {
       "album": {
@@ -79,7 +193,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 165979,
       "name": "Drop The Top",
       "url": "https://open.spotify.com/track/1hYhtilcZAOXEIG4GuolxY"
@@ -97,10 +211,54 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 161932,
       "name": "Eat That",
       "url": "https://open.spotify.com/track/3wAZSNBuAlgA0fHELUvjMF"
+    },
+    {
+      "album": {
+        "name": "Furious!",
+        "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Hooders",
+          "url": "https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198100,
+      "name": "Furious!",
+      "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
+    },
+    {
+      "album": {
+        "name": "HEY!",
+        "url": "https://open.spotify.com/album/2rjmFseu7IXHZf1kqBg2DS"
+      },
+      "artists": [
+        {
+          "name": "Antoine Delvig",
+          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
+        },
+        {
+          "name": "JP Candela",
+          "url": "https://open.spotify.com/artist/3py0ZP9TslhIYvPfXyRCG7"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163548,
+      "name": "HEY!",
+      "url": "https://open.spotify.com/track/2bpbamkUFaMsb5pZkT96ML"
     },
     {
       "album": {
@@ -115,7 +273,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 181935,
       "name": "How it is",
       "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
@@ -133,7 +291,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 238423,
       "name": "Kemet",
       "url": "https://open.spotify.com/track/601SQqPYiwOHk0tIc8F1A3"
@@ -155,7 +313,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 187142,
       "name": "La Pasion",
       "url": "https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid"
@@ -177,10 +335,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 209523,
       "name": "Like Before",
       "url": "https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR"
+    },
+    {
+      "album": {
+        "name": "Off the Chain",
+        "url": "https://open.spotify.com/album/7DcBi3tOzyjaKnWL5ndply"
+      },
+      "artists": [
+        {
+          "name": "U Know The Drill",
+          "url": "https://open.spotify.com/artist/4gHC67P5IZ0v2GMpZvjT0S"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315422,
+      "name": "Like Thiz",
+      "url": "https://open.spotify.com/track/68wdlcxu7ae4JMvPooGYyh"
     },
     {
       "album": {
@@ -195,10 +371,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 209655,
       "name": "Mac 19",
       "url": "https://open.spotify.com/track/0cfzsbbOnqe8Ly6quaBKDk"
+    },
+    {
+      "album": {
+        "name": "MADDEN",
+        "url": "https://open.spotify.com/album/7tuAJ07OlqIuZvNNGl7FSX"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226874,
+      "name": "MADDEN",
+      "url": "https://open.spotify.com/track/1wAIjMwxC3KjRqHpaMkFvC"
     },
     {
       "album": {
@@ -213,7 +407,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 171502,
       "name": "Money Zone",
       "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
@@ -235,7 +429,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 358732,
       "name": "Mr Happy",
       "url": "https://open.spotify.com/track/2vg5YDfcWlj4eK6wPPeCyu"
@@ -253,7 +447,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 195000,
       "name": "MS69",
       "url": "https://open.spotify.com/track/4rqNuCybm3O52jFqvgbEAS"
@@ -269,12 +463,124 @@
           "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
         }
       ],
-      "date_added": "2022-07-01",
+      "date_added": "2022-07-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173546,
+      "name": "N.N.F",
+      "url": "https://open.spotify.com/track/73QcoAGpYx8irX35O5NGQF"
+    },
+    {
+      "album": {
+        "name": "Oh Babe",
+        "url": "https://open.spotify.com/album/5JfeF8AIoBKK3zdV8ihUTx"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169830,
+      "name": "Oh Babe",
+      "url": "https://open.spotify.com/track/2PLMPEaM0SaBjIgIb8ntxD"
+    },
+    {
+      "album": {
+        "name": "Rave Alert",
+        "url": "https://open.spotify.com/album/3V9nRhbyUI5PWRgv5d5mdP"
+      },
+      "artists": [
+        {
+          "name": "LOOPERS",
+          "url": "https://open.spotify.com/artist/0Aemly9h57T2sLKpkNq409"
+        },
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205739,
+      "name": "Rave Alert",
+      "url": "https://open.spotify.com/track/6lYvXGenh0QSJWuHRUHMi6"
+    },
+    {
+      "album": {
+        "name": "Redeem",
+        "url": "https://open.spotify.com/album/5X5UkN1SQRE5UdkiajGJis"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Redeem",
+      "url": "https://open.spotify.com/track/4Lmr9a3iJZcFpTDQxIORWw"
+    },
+    {
+      "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/4fXliZ3llBGpMqxXhBQ2zl"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228814,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/6wmhkZY4y7nt5btkqVTQeK"
+    },
+    {
+      "album": {
+        "name": "NRG, Vol. 2",
+        "url": "https://open.spotify.com/album/6T6SDMNF1LWI4N0gPxFrJ2"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
       "duration_ms": 210642,
       "name": "Sex",
       "url": "https://open.spotify.com/track/0XZXSuxjKdACl5YMf4bAO0"
+    },
+    {
+      "album": {
+        "name": "Sinking EP",
+        "url": "https://open.spotify.com/album/0Bf0loZ2fNv7DEEgbl2Gri"
+      },
+      "artists": [
+        {
+          "name": "Enei",
+          "url": "https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341104,
+      "name": "Sinking",
+      "url": "https://open.spotify.com/track/7FQpAFyAyYaQV3cVJ2Ce0x"
     },
     {
       "album": {
@@ -301,7 +607,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
@@ -319,10 +625,46 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 227578,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/4hlyuPfRskhNv9iyFSjAZF"
+    },
+    {
+      "album": {
+        "name": "Straight Ballin\u2019",
+        "url": "https://open.spotify.com/album/4nnPAHKfJl4kUDnuVMthFF"
+      },
+      "artists": [
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122817,
+      "name": "Straight Ballin\u2019",
+      "url": "https://open.spotify.com/track/2iMyo9Nu43d8jTUFclBKc4"
+    },
+    {
+      "album": {
+        "name": "The Mandala",
+        "url": "https://open.spotify.com/album/7eHBRdPMWBgp7lWQxTpj0q"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209821,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/236kN3RKjCEP9bzXpZgbRc"
     },
     {
       "album": {
@@ -337,7 +679,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 169455,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"
@@ -359,7 +701,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 285517,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/75LIPlQgaOj25RcphLiPtg"
@@ -381,7 +723,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 180468,
       "name": "Vodka",
       "url": "https://open.spotify.com/track/0zh539NBKh7nclkUcIidlE"
@@ -403,7 +745,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 205767,
       "name": "Wonky Pop",
       "url": "https://open.spotify.com/track/4VrBvEqVuUNKwXo37wUpfJ"

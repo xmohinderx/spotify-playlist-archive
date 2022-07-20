@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,101 likes - 171 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,117 likes - 171 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 170 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 |
 | 171 | [Ancient Presence](https://open.spotify.com/track/4fEP8wZL27vkaydhMuZGzq) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Ancient Presence](https://open.spotify.com/album/2x8VkZap61imM4ukBV26P8) | 2:09 |
 
-Snapshot ID: `MTY1Nzg5MzY3NCwwMDAwMDA1MjAwMDAwMTgyMDIyOWRkNDEwMDAwMDE4MTk2MmQzNGFh`
+Snapshot ID: `MTY1ODIzNzk3OCwwMDAwMDA1MzAwMDAwMTgyMTZhZjg3NWMwMDAwMDE4MjE2YWY2YjE4`

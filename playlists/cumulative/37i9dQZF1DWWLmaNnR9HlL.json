@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/2sLtjaUo7maVVpBAE4IyDk"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/4jsdqalaKwDTdPGLvps128"
+    },
+    {
+      "album": {
         "name": "Flamen'Conil",
         "url": "https://open.spotify.com/album/3aMs39IathSFK1wTmbBrBu"
       },
@@ -257,7 +275,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 197600,
       "name": "C'Est Si Bon / Qu\u00e9 Es Mejor",
       "url": "https://open.spotify.com/track/1aOMcg8mTXqM5GzJj61cly"
@@ -333,7 +351,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 306192,
       "name": "Come To My Door",
       "url": "https://open.spotify.com/track/6ebLkIOgds3yAlPNJzJJLc"
@@ -395,6 +413,28 @@
       "duration_ms": 186146,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
+    },
+    {
+      "album": {
+        "name": "E Piu ti penso (From \"Once Upon A Time In America\")",
+        "url": "https://open.spotify.com/album/79Hfcb2LIczgK06mqWDbNU"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267317,
+      "name": "E pi\u00f9 ti penso - From \"Once Upon A Time In America\"",
+      "url": "https://open.spotify.com/track/0xD4CViKIXLz07PDhP36GJ"
     },
     {
       "album": {
@@ -471,7 +511,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 254202,
       "name": "Entre Tu Balc\u00f3n y Mi Ventana - En Directo",
       "url": "https://open.spotify.com/track/59DNtOIqq6WS1VstE7U4hW"
@@ -613,7 +653,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 250426,
       "name": "Havana - Bossa Nova",
       "url": "https://open.spotify.com/track/0Tl1pHPHtn8WHMakC5VrVM"
@@ -725,7 +765,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 268600,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
@@ -1066,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/5jEzkHgI0NTdBvAKLlRxmo"
+      },
+      "artists": [
+        {
+          "name": "Ituana",
+          "url": "https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/6zYPfGShrN7TmvZdU2zobx"
+    },
+    {
+      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
@@ -1234,6 +1292,24 @@
     },
     {
       "album": {
+        "name": "This Masquerade / There You Are",
+        "url": "https://open.spotify.com/album/2NA3EgaSJy1FW1czeaDPzD"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213447,
+      "name": "There You Are (Second Chance)",
+      "url": "https://open.spotify.com/track/4oFYpRn9QZbc7toso38diA"
+    },
+    {
+      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -1289,6 +1365,24 @@
       "duration_ms": 369560,
       "name": "Trompeta y Tromb\u00f3n",
       "url": "https://open.spotify.com/track/7blCmw8CU98pSmvvSXYsUX"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2rwIenfhEStTKV1OBSsioP"
+      },
+      "artists": [
+        {
+          "name": "Josh Rouse",
+          "url": "https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1fDAS8j1MJpmoSfmDOE6cE"
     },
     {
       "album": {

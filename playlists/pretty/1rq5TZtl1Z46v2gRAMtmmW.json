@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26741,
+  "num_followers": 26746,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzA4MixlZjM3NDlmZWJkODZmMDZjMDk2MzczOTJlMTE1NWNlNDBkNThjN2E4",
+  "snapshot_id": "MzA4NCxiMWRjZTAzODE5OWE5YjY2MzI0ZGVjOTU2NTZmZTJlZDQzOTc3OWVk",
   "tracks": [
     {
       "added_at": "2022-07-13 19:54:32",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf"
     },
     {
+      "added_at": "2022-07-19 14:54:01",
+      "album": {
+        "name": "Hero Man",
+        "url": "https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "duration_ms": 233079,
+      "name": "Hero Man",
+      "url": "https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI"
+    },
+    {
       "added_at": "2022-06-28 18:31:24",
       "album": {
         "name": "Meli (II)",
@@ -76,7 +92,7 @@
           "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
         }
       ],
-      "duration_ms": 285118,
+      "duration_ms": 285046,
       "name": "Satyr",
       "url": "https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1"
     },
@@ -695,26 +711,6 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2021-11-02 15:01:01",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

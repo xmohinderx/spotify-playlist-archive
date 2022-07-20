@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 135384,
       "name": "A Meu Favor",
       "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 143596,
       "name": "AQUELA MINA DE VERMELHO - TACA ROLA - \u00c9 HOJE QUE EU BAGUN\u00c7O",
       "url": "https://open.spotify.com/track/77RNsMdzYmJSdJ8XmquDBZ"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 200000,
       "name": "Aqueles Olhos",
       "url": "https://open.spotify.com/track/6G2Zfe5YH4JtTxyB1ulXTd"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 238153,
       "name": "AUTOMOTIVO DE ANDROMEDA (feat. MC LCKaiique, DJ Mandrake 100% Original, DJ Sagaz)",
       "url": "https://open.spotify.com/track/0CUNf5qYkPP78SYVMSrBgy"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 132044,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/5PZAbR6JHYYV9xp5gv0XES"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 212000,
       "name": "Brown Noise (200 Hz)",
       "url": "https://open.spotify.com/track/0cGQpeLYa5Q0nbAlJah5UJ"
@@ -1885,6 +1885,24 @@
       "duration_ms": 122226,
       "name": "CHICKEN TERIYAKI",
       "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
+    },
+    {
+      "album": {
+        "name": "Chrissy, Wake Up",
+        "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
+      },
+      "artists": [
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65454,
+      "name": "Chrissy, Wake Up",
+      "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
     },
     {
       "album": {
@@ -2340,6 +2358,24 @@
     },
     {
       "album": {
+        "name": "die first",
+        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177108,
+      "name": "die first",
+      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+    },
+    {
+      "album": {
         "name": "G\u00eameos",
         "url": "https://open.spotify.com/album/0ChE7T4gcw48AEt6cMmaBx"
       },
@@ -2549,6 +2585,28 @@
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/2fgsTIpGlD5odlua0y7gIQ"
+    },
+    {
+      "album": {
+        "name": "D\u00e1 1 Cavalgada na Minha Pika Sua Safada",
+        "url": "https://open.spotify.com/album/3cSjEaW78h5jiJyKO5LUba"
+      },
+      "artists": [
+        {
+          "name": "DJ Vil\u00e3o DS",
+          "url": "https://open.spotify.com/artist/1yTrrABG9Vr2Y9lbHupN3f"
+        },
+        {
+          "name": "MC K.K",
+          "url": "https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144195,
+      "name": "D\u00e1 1 Cavalgada na Minha Pika Sua Safada (feat. MC K.K)",
+      "url": "https://open.spotify.com/track/2pLXoCI1rohNQiTh0emGGJ"
     },
     {
       "album": {
@@ -3116,6 +3174,24 @@
     },
     {
       "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216094,
+      "name": "Family Line",
+      "url": "https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5"
+    },
+    {
+      "album": {
         "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
         "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
       },
@@ -3285,7 +3361,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 161889,
       "name": "Felina",
       "url": "https://open.spotify.com/track/55Sytdl0QwLXOgedPXt8B2"
@@ -3781,6 +3857,28 @@
       "duration_ms": 247692,
       "name": "Gratid\u00e3o",
       "url": "https://open.spotify.com/track/0EYN8iQmNTIZz0avaUCfHC"
+    },
+    {
+      "album": {
+        "name": "Haja Col\u00edrio (feat. Hugo & Guilherme) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0pmNWSBnKRJOKnmpTaatCU"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173366,
+      "name": "Haja Col\u00edrio (feat. Hugo & Guilherme) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ELsaYdj2NlxLvkx9g24xZ"
     },
     {
       "album": {
@@ -6601,7 +6699,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 432560,
       "name": "One More Hour",
       "url": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
@@ -7204,6 +7302,46 @@
     },
     {
       "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
+    },
+    {
+      "album": {
+        "name": "Por Causa Dele",
+        "url": "https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352396,
+      "name": "Por Causa Dele - Ao Vivo",
+      "url": "https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW"
+    },
+    {
+      "album": {
         "name": "O Melhor do Carnaval (Marchinhas)",
         "url": "https://open.spotify.com/album/4jkyhsRJ4oXtx384TvCrvr"
       },
@@ -7237,7 +7375,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 347927,
       "name": "Promessas (Promises) - Ao Vivo",
       "url": "https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga"
@@ -7305,7 +7443,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 203942,
       "name": "Put0 & Cheiroso",
       "url": "https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR"
@@ -7327,6 +7465,28 @@
       "duration_ms": 572706,
       "name": "Quadrilha Brasileira / O Sanfoneiro S\u00f3 Tocava Isso",
       "url": "https://open.spotify.com/track/3KSFbrgX9nK3ikU87T9fki"
+    },
+    {
+      "album": {
+        "name": "Quando o Sol Chegar",
+        "url": "https://open.spotify.com/album/48R60xmKkOgOdBrwbXtKld"
+      },
+      "artists": [
+        {
+          "name": "Edson Teclas",
+          "url": "https://open.spotify.com/artist/5oFR0AZty76LzW5XmyYVSx"
+        },
+        {
+          "name": "Farra de Patr\u00e3o",
+          "url": "https://open.spotify.com/artist/2k2ZyhmdqPDzNIhhQcnGeL"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150543,
+      "name": "Quando o Sol Chegar",
+      "url": "https://open.spotify.com/track/77gVsRzcoTHiLTtN9LPYJM"
     },
     {
       "album": {
@@ -7995,6 +8155,32 @@
       "duration_ms": 106153,
       "name": "Semblante de Criminoso",
       "url": "https://open.spotify.com/track/3IYagvgADm3OEihjyAHdG0"
+    },
+    {
+      "album": {
+        "name": "Sementinha do Mal",
+        "url": "https://open.spotify.com/album/6APEhDxAI5GmMfVXgywtYy"
+      },
+      "artists": [
+        {
+          "name": "Febre90s",
+          "url": "https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku"
+        },
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        },
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Sementinha do Mal",
+      "url": "https://open.spotify.com/track/3hytYbdEQ7rDrhJEI529Pn"
     },
     {
       "album": {
@@ -10455,6 +10641,28 @@
       "duration_ms": 131571,
       "name": "\u00c9 S\u00d3 UMA BOTADA NA NOVINHA",
       "url": "https://open.spotify.com/track/3z3lmicaEABOdu9PDvwRdv"
+    },
+    {
+      "album": {
+        "name": "\u00d4 L\u00e1 na Ro\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ"
+      },
+      "artists": [
+        {
+          "name": "Felipe & Murillo",
+          "url": "https://open.spotify.com/artist/7Dz1HatpprkP9lmZIezKiE"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "\u00d4 L\u00e1 na Ro\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB"
     },
     {
       "album": {

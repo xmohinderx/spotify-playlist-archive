@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Lil Silva
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,347 likes - 102 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,351 likes - 102 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

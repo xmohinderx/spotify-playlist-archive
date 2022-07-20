@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Burna Boy 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,878 likes - 109 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,065 likes - 109 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 51 | [Bula Sekele](https://open.spotify.com/track/53zBbKEqPVgHk9t0xDPoE7) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 3:10 |
 | 52 | [Tantalize](https://open.spotify.com/track/69XetTmUGiEM4eMWVQoIHg) | [Hndfll](https://open.spotify.com/artist/4a3CKmVSIT07QVRSZRFSoj) | [Tantalize](https://open.spotify.com/album/3Df12uC2kXeq1loFzt5Pjn) | 2:56 |
 | 53 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 |
-| 54 | [Slow Wine](https://open.spotify.com/track/26AeH9oiQ33DNLUP6r24ma) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Cool Reminder Riddim](https://open.spotify.com/album/1btcUvD7L59hvITGpz7Tl3) | 2:33 |
+| 54 | [Candy](https://open.spotify.com/track/26AeH9oiQ33DNLUP6r24ma) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Cool Reminder Riddim](https://open.spotify.com/album/1btcUvD7L59hvITGpz7Tl3) | 2:33 |
 | 55 | [BIG FOOD](https://open.spotify.com/track/1HfiF3U2MeDIQjwR3ktIZv) | [KILLA TEE](https://open.spotify.com/artist/2oWsYtA9qCfDNkmvD8XvYB), [Hot Frass](https://open.spotify.com/artist/68Y84ZHJF2rOlKrMeDRsPL) | [BIG FOOD](https://open.spotify.com/album/3aTuyA4OWgKwKXhnT8Lra8) | 3:04 |
 | 56 | [Ki Mannyé](https://open.spotify.com/track/0v391pPJXysSBHuq94eKeS) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Ki Mannyé](https://open.spotify.com/album/3FQFrBJp9mPskgLIX5TShG) | 2:53 |
 | 57 | [Blessed](https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Blessed](https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7) | 2:55 |

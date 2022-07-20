@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Are You Lonesome Tonight (Acoustic)",
+        "url": "https://open.spotify.com/album/2TcO9xgFjQFpuxIHpLazvO"
+      },
+      "artists": [
+        {
+          "name": "Mack Myles",
+          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165407,
+      "name": "Are You Lonesome Tonight - Acoustic",
+      "url": "https://open.spotify.com/track/66YElTd7MwaseFmQrl7fml"
+    },
+    {
+      "album": {
         "name": "Baby I'm Yours (Acoustic)",
         "url": "https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g"
       },

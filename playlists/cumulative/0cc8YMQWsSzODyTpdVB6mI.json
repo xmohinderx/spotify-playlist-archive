@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "AMBIANCE",
+        "url": "https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc"
+      },
+      "artists": [
+        {
+          "name": "FEE",
+          "url": "https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9"
+        },
+        {
+          "name": "Zay Doja",
+          "url": "https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "AMBIANCE",
+      "url": "https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo"
+    },
+    {
+      "album": {
         "name": "Be Grateful",
         "url": "https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9"
       },

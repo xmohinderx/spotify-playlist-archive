@@ -1,6 +1,6 @@
 {
   "description": "Bollywood hits repackaged just for you. Cover- Ayushmann Khurrana, Vani kapoor, & Guru Randhawa",
-  "num_followers": 113641,
+  "num_followers": 113715,
   "original_name": "Bollywood 2.O",
   "owner": {
     "name": "Spotify",
@@ -36,8 +36,24 @@
       },
       "artists": [
         {
-          "name": "Javed - Mohsin, Himesh Reshammiya, Dev Negi, Payal Dev & Deane Sequeira",
-          "url": "https://open.spotify.com/artist/1p52IvnLbJu0c83MgexTXC"
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Deane Sequeira",
+          "url": "https://open.spotify.com/artist/1DjoNMVe0jYejgYoGegVzC"
         }
       ],
       "duration_ms": 168442,
