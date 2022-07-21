@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Phum Viphurit \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,486 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,551 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 19 | [Little Balcony](https://open.spotify.com/track/2DvYI7HNzX3n9Ng20PBBQM) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Little Balcony](https://open.spotify.com/album/75zUQz0Ak8fUlhreq72tor) | 3:15 |
 | 20 | [Bullseye](https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Bullseye](https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C) | 4:05 |
 | 21 | [mirror](https://open.spotify.com/track/1EgzmXxvjwC5aS8g6A2osl) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [mirror](https://open.spotify.com/album/0aC3BQYnDDhjdKlJEPMGmc) | 3:01 |
-| 22 | [I'd Better Be On Time \- \(bilibili & Disney "Small and Mighty"Interlude Song\) \[A\_LIVE PASS Session\]](https://open.spotify.com/track/4RUC4ZpIkfni1EqiKW9Omu) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [I'd Better Be On Time \[\(bilibili & Disney "Small and Mighty"Interlude Song\) \[A\_LIVE PASS Session\]\]](https://open.spotify.com/album/27dnxB5O4A1j0KXEecGB1n) | 4:13 |
+| 22 | [I'd Better Be On Time \- \(bilibili & Disney《正義的算法》插曲\) \[A\_LIVE PASS Session\]](https://open.spotify.com/track/4RUC4ZpIkfni1EqiKW9Omu) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [I'd Better Be On Time \[\(bilibili & Disney《正義的算法》插曲\) \[A\_LIVE PASS Session\]\]](https://open.spotify.com/album/27dnxB5O4A1j0KXEecGB1n) | 4:13 |
 | 23 | [自說自話](https://open.spotify.com/track/7iufo31RxYOcahPUWTkyMT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 3:51 |
 | 24 | [Stuck in my dream](https://open.spotify.com/track/6FRQGRaRgCBMiV1od1ZJAG) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Noodles](https://open.spotify.com/album/1ExTXmIeooEWgFxQoiFCka) | 3:44 |
 | 25 | [saturday night](https://open.spotify.com/track/6jl35iYUR4IMQ96o8aWSy2) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [saturday night](https://open.spotify.com/album/3skcQqVKnlKiG4TGqrQVin) | 2:55 |

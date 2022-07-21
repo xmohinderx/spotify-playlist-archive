@@ -6488,6 +6488,24 @@
     },
     {
       "album": {
+        "name": "GREEKo FREAKo",
+        "url": "https://open.spotify.com/album/0Qm3bjooBoS38mEE6rQbN3"
+      },
+      "artists": [
+        {
+          "name": "Sophiya",
+          "url": "https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "GREEKo FREAKo",
+      "url": "https://open.spotify.com/track/2PSChERR09PP6NXXIwmLOW"
+    },
+    {
+      "album": {
         "name": "Drunk / Growing Pains",
         "url": "https://open.spotify.com/album/7kahAvOm83UoV81hbSC02l"
       },

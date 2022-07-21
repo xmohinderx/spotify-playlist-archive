@@ -2,7 +2,7 @@
 
 ### [Top Trending: Hip\-Hop](https://open.spotify.com/playlist/6PPav6OOdBg3kTIyyCqeDw)
 
-> A collection of Hip Hop hits and viral trends featuring Lil Baby, J.Cole, Doechii &amp; more\. Updated weekly!  Cover: City Girls
+> A collection of Hip Hop hits and viral trends featuring Lil Baby, J.Cole, Doechii &amp; more\. Updated weekly!  Cover: Kid Cudi
 
 62 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/2zScgyaDadcbUzlRPfgGJu)
 

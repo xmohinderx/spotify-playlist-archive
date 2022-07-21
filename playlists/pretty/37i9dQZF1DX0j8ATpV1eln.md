@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,010 likes - 74 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,012 likes - 74 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,18 +57,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 47 | [ペテン師の憂鬱](https://open.spotify.com/track/7a7EQgcJT9sJkRuKgQXDXf) | [卯木千景\(CV:羽多野渉\)](https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO) | [A3! VIVID SPRING EP](https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC) | 3:07 |
 | 48 | [シンデレラステップ](https://open.spotify.com/track/6kBW41TUekIPyVkfMhYLSw) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [L∞VE](https://open.spotify.com/album/4qKM6NdUMTNFFTPPvOFhvp) | 3:40 |
 | 49 | [リングオブドランカー](https://open.spotify.com/track/4RsRkT4lHhC8mA9XODdRGn) | [柿原徹也](https://open.spotify.com/artist/1p3FN7q7Hd6AaVGOgyJMku) | [Circle of LIFE](https://open.spotify.com/album/4Pfa4j6GQWOJ6WTQy47vay) | 3:26 |
-| 50 | [Kimijyanakya Damemitai](https://open.spotify.com/track/3ampsSIgy89L2INLIp3ym3) | [Tomohisa Sako](https://open.spotify.com/artist/0wqa4zlg4Ru1nVJRrOlx5B) | [Kimino Mimini Lovesong O](https://open.spotify.com/album/7J3tNqe5P6sJQdG4dWavZs) | 4:29 |
+| 50 | [君じゃなきゃダメみたい](https://open.spotify.com/track/3ampsSIgy89L2INLIp3ym3) | [Tomohisa Sako](https://open.spotify.com/artist/0wqa4zlg4Ru1nVJRrOlx5B) | [キミの耳にラブソングを](https://open.spotify.com/album/7J3tNqe5P6sJQdG4dWavZs) | 4:29 |
 | 51 | [MANKAI☆開花宣言 \- MANKAI STAGE SPRING Ver.](https://open.spotify.com/track/3MvmeSgTmNHfY8ne3ghFDx) | [春組](https://open.spotify.com/artist/7iRNvnpkgbo91eiIabx1aJ) | [MANKAI STAGE『A3!』Spring Troupe 満開の桜の下で](https://open.spotify.com/album/7vbWihVg7eF9IV7XUdiGXz) | 3:48 |
 | 52 | [私と、わたし](https://open.spotify.com/track/1I3qzeVrhFnvzoRTSAp9lg) | [上田桃夏](https://open.spotify.com/artist/3SIHbizkbUxIRtDlVY0OtH) | [私と、わたし](https://open.spotify.com/album/3m0DMn0ETvJ9RGXK5b54Gl) | 3:52 |
-| 53 | [Fish Story](https://open.spotify.com/track/3J2Sm65u3cDERWIJoKUTHi) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [Fish Story](https://open.spotify.com/album/4GBQaDl8PQfmS1tkZi9xDB) | 4:22 |
-| 54 | [Sayonara: A brand\-new story](https://open.spotify.com/track/0v4aUn7ToZ3Wx9QTOqYyHr) | [星見プロダクション](https://open.spotify.com/artist/1qu8WIATG5KzozEzjmDkx7) | [Sayonara: A brand\-new story](https://open.spotify.com/album/4vqT0FUhwmuiFVMXwjNvxl) | 3:37 |
+| 53 | [フィッシュストーリー](https://open.spotify.com/track/3J2Sm65u3cDERWIJoKUTHi) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [フィッシュストーリー](https://open.spotify.com/album/4GBQaDl8PQfmS1tkZi9xDB) | 4:22 |
+| 54 | [サヨナラから始まる物語](https://open.spotify.com/track/0v4aUn7ToZ3Wx9QTOqYyHr) | [星見プロダクション](https://open.spotify.com/artist/1qu8WIATG5KzozEzjmDkx7) | [サヨナラから始まる物語](https://open.spotify.com/album/4vqT0FUhwmuiFVMXwjNvxl) | 3:37 |
 | 55 | [シンガロン進化論](https://open.spotify.com/track/47kJGOXCJZqgJhHhfpfODn) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [PROGRESS](https://open.spotify.com/album/6zLtC2ZFNrCvsEkq4VEdsX) | 3:24 |
 | 56 | [耳の聞こえなくなった恋人とそのうたうたい](https://open.spotify.com/track/48ssyI0wm2iaMyRUV3wKGs) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [君に聞かせる物語](https://open.spotify.com/album/1pvG1ihTMac9pd6JKsMdbc) | 5:19 |
 | 57 | [ピエロ](https://open.spotify.com/track/4DDHaGyLtibacj2hNU29TE) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [大石昌良の弾き語りラボ](https://open.spotify.com/album/31u6JR5VmhsPvl3U6vFfMz) | 4:58 |
 | 58 | [BRAND NEW BLUE \(feat.オーイシマサヨシ\)](https://open.spotify.com/track/3WFmQpUgqoG9fKJQvyTIS2) | [沢村栄純\(CV:逢坂良太\)](https://open.spotify.com/artist/3B9T7Svm2a76E6NpvQPyKx), [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [BRAND NEW BLUE](https://open.spotify.com/album/2b3sq1TGI2I6xOFTBdmPN1) | 3:59 |
 | 59 | [Let's Go!! \~Sing For Tomorrow\~ \- 1コーラスVer.](https://open.spotify.com/track/7AvJWFWr2SwCUf5eUZdtd2) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS), [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY), [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6), [MICHI](https://open.spotify.com/artist/4yFpyuhBThsgE8gypN5v0r) | [Let's Go!! \~Sing For Tomorrow\~](https://open.spotify.com/album/4n1zdCX6uYoaLcAvc9Ej9P) | 1:57 |
 | 60 | [奇天烈ポエマー](https://open.spotify.com/track/5SFOKF3wUueRK6CL4V9LcH) | [有栖川誉\(CV:豊永利行\)](https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 3:07 |
-| 61 | [Tatoe Sekaiga Soppo Muitemo](https://open.spotify.com/track/20O53DvXxXQomJGXqFicLG) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF) | [All Time Rock 'n' Roll](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:27 |
+| 61 | [たとえ世界がそっぽ向いても](https://open.spotify.com/track/20O53DvXxXQomJGXqFicLG) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:27 |
 | 62 | [永遠ループ](https://open.spotify.com/track/0PJarEtcj3Y1bXIfXuNPhV) | [Ami Wajima](https://open.spotify.com/artist/7BgfftTW43AJPZiHjABtM2) | [永遠ループ](https://open.spotify.com/album/4w08dZDIB3LwmXtraluQK9) | 3:49 |
 | 63 | [モノクロテリトリー](https://open.spotify.com/track/674HuEkHdVdCPkO17gKm7v) | [Ami Wajima](https://open.spotify.com/artist/7BgfftTW43AJPZiHjABtM2) | [I AM](https://open.spotify.com/album/2eXUKFA6g3j2iOu6Vqobof) | 3:41 |
 | 64 | [名探偵キミに告ぐ](https://open.spotify.com/track/7EnWBCWYnCX46JYrN6fqz1) | [えなこ](https://open.spotify.com/artist/2jHLZmPoAmnlCswCMc8WCj) | [ドレス・レ・コード](https://open.spotify.com/album/0vRz5j1UUf2iG505CD9bOt) | 4:02 |

@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 330708,
       "name": "A Haze Of Patriotic Fervor",
       "url": "https://open.spotify.com/track/1Pwb0rGhxhnyxkwk3sbJ3E"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 316085,
       "name": "A Warm Front, Coming from the North",
       "url": "https://open.spotify.com/track/6swYmv3qI9U6iQpdVhOZ8K"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 209666,
       "name": "All Arounder",
       "url": "https://open.spotify.com/track/3DMr9P61InT0goLxEuBPo4"
@@ -579,24 +579,6 @@
       "duration_ms": 311600,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
-    },
-    {
-      "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
-      },
-      "artists": [
-        {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
-        }
-      ],
-      "date_added": "2021-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 272840,
-      "name": "Cue",
-      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
     },
     {
       "album": {
@@ -1379,7 +1361,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 219375,
       "name": "Imperio",
       "url": "https://open.spotify.com/track/4H6DcYcjNs5GzfF8gHncke"
@@ -1851,7 +1833,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 223066,
       "name": "Magic Kraut",
       "url": "https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk"
@@ -1995,7 +1977,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 273906,
       "name": "Motoring",
       "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
@@ -2775,7 +2757,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 313973,
       "name": "Silva & Grimes",
       "url": "https://open.spotify.com/track/35nZHa9ZmXzTngqfHabyxb"
@@ -3639,7 +3621,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 213960,
       "name": "When [Original by Vincent Gallo]",
       "url": "https://open.spotify.com/track/34pHPFko6ozvZc9pTmhxk8"
@@ -3759,6 +3741,24 @@
       "duration_ms": 208784,
       "name": "\u00c9chale Campe\u00f3n",
       "url": "https://open.spotify.com/track/7dOgA9Lr12XHBs3djRUwbO"
+    },
+    {
+      "album": {
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+      },
+      "artists": [
+        {
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272840,
+      "name": "\u30ad\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT9KDEHFNVYD"

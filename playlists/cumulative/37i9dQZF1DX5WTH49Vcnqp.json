@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 232907,
       "name": "Astral Projection",
       "url": "https://open.spotify.com/track/0cIcEuNjpHSKaXEiH3H1NW"
@@ -6922,6 +6922,24 @@
     },
     {
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0"
       },
@@ -7425,7 +7443,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW"
@@ -7867,6 +7885,24 @@
       "duration_ms": 210981,
       "name": "Waste A Day",
       "url": "https://open.spotify.com/track/2vbtq2lAHfYDUFHYEHlZw5"
+    },
+    {
+      "album": {
+        "name": "Waste Of Space",
+        "url": "https://open.spotify.com/album/3J1NykEkJU34GlEPPPWLuZ"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191478,
+      "name": "Waste Of Space",
+      "url": "https://open.spotify.com/track/0BDqmjPsTGs5Lwazq3Evay"
     },
     {
       "album": {

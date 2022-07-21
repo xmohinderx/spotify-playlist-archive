@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
   "name": "Afro Throwback",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3PGD42xzaSO4O5kpwimiJs"
+  ],
   "tracks": [
     {
       "album": {
@@ -57,7 +59,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 283920,
       "name": "Africa Money",
       "url": "https://open.spotify.com/track/6zhfuaevbv2CGBmvLv11l6"
@@ -159,7 +161,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 271786,
       "name": "Alingo",
       "url": "https://open.spotify.com/track/3ADcRFFSfs9aoakp9xKCtf"
@@ -195,10 +197,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 222750,
       "name": "Antenna - UK Club Mix",
       "url": "https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ"
+    },
+    {
+      "album": {
+        "name": "Progress",
+        "url": "https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT"
+      },
+      "artists": [
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304226,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g"
     },
     {
       "album": {
@@ -293,7 +313,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 254458,
       "name": "Baba God (feat. Sk)",
       "url": "https://open.spotify.com/track/2DFOj2Uu3q3MQ2l4z5fQaS"
@@ -311,7 +331,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 198973,
       "name": "Baby (Chop Kiss)",
       "url": "https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK"
@@ -933,7 +953,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 246124,
       "name": "Million Pound Girl (Badder Than Bad)",
       "url": "https://open.spotify.com/track/3h7pI8oM2CpXiNSZbQuEtV"
@@ -1077,7 +1097,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 245386,
       "name": "Ogologomma",
       "url": "https://open.spotify.com/track/4N0eXQWmjj8NJvItIbzO94"
@@ -1385,7 +1405,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 220360,
       "name": "Sorkode",
       "url": "https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy"
@@ -1559,7 +1579,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 213119,
       "name": "Wengeze",
       "url": "https://open.spotify.com/track/1zWSf29jBrScFFxwhr1OLa"

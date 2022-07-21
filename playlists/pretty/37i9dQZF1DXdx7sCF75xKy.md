@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Aisha Retno
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,558 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,561 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 12 | [Love Me Like A \- Lofi Remix](https://open.spotify.com/track/7MpTl7F1p31wbmQcRh2KHN) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [Love Me Like A \(Lofi Remix\)](https://open.spotify.com/album/0qUX5xbmuDcGMMWRMwxr9s) | 3:34 |
 | 13 | [Lelaki Teragung](https://open.spotify.com/track/6g4ZuCOfJyY48vCaxA4yRu) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Dayang Nurfaizah](https://open.spotify.com/album/5I6b16jmnf5nIIelgi8L4f) | 3:55 |
 | 14 | [Keep Me Hoping](https://open.spotify.com/track/52gNd3MGez647MQCCsBjhD) | [Bitty](https://open.spotify.com/artist/1I6fZDt9lA1IKxyQaLbdL7) | [Bitty](https://open.spotify.com/album/1a9BbPo3s9wXRLA6oHu198) | 3:59 |
-| 15 | [Lady](https://open.spotify.com/track/66qFOytjMN1tV8VKqXDwtP) | [SingVoice](https://open.spotify.com/artist/3xzXMcz267sSax7adR7g1Q), [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [SingVoice Season 1](https://open.spotify.com/album/7JMRar5deushEwWUgvSKQE) | 2:59 |
+| 15 | [雷敌](https://open.spotify.com/track/66qFOytjMN1tV8VKqXDwtP) | [SingVoice](https://open.spotify.com/artist/3xzXMcz267sSax7adR7g1Q), [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [SingVoice Season 1](https://open.spotify.com/album/7JMRar5deushEwWUgvSKQE) | 2:59 |
 | 16 | [IDWLY](https://open.spotify.com/track/2T7sSLJHQxumFGo84PPrKd) | [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [Milliona](https://open.spotify.com/album/3YeVnD7bZZZHN6haH8s2wD) | 2:55 |
 | 17 | [Afterglow](https://open.spotify.com/track/4HqdrhdEZPxzEIdZKVBLdX) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [Afterglow](https://open.spotify.com/album/6Ji3Fl8vFaadhk1ZBHUBkI) | 3:01 |
 | 18 | [Wake up to a Dream](https://open.spotify.com/track/5xl5QzAuhsQlwey2hHCFe0) | [Alicia Pan](https://open.spotify.com/artist/7MrVXflQntKvbvZ4MgGeoP) | [Alicia Pan](https://open.spotify.com/album/0RtWTehBBmzakRAxSK1SjU) | 3:21 |
 | 19 | [Reset](https://open.spotify.com/track/2czxb67QTOCRvDbUiVnurX) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Reset](https://open.spotify.com/album/23TPYpozITgYaIT0VB60zA) | 4:37 |
 | 20 | [Stars](https://open.spotify.com/track/20NCxS5zs0d7XpL6HfvmE2) | [Abigail](https://open.spotify.com/artist/58oYFocjyA3X1pWAsJU4dt) | [Stars](https://open.spotify.com/album/1yvCG9PNW3FS60CBS26wrX) | 2:36 |
-| 21 | [The One](https://open.spotify.com/track/3Hc4TTXqFt4SqObZ0N37Fm) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [The One](https://open.spotify.com/album/4tRszd3VnkEdrFeIqqjqBR) | 2:55 |
+| 21 | [唯舞唯一](https://open.spotify.com/track/3Hc4TTXqFt4SqObZ0N37Fm) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [唯舞唯一](https://open.spotify.com/album/4tRszd3VnkEdrFeIqqjqBR) | 2:55 |
 | 22 | [Rose](https://open.spotify.com/track/7pWvPHJoXNnD8BOhIaCuX1) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [to you, to me](https://open.spotify.com/album/5vtHCIkKF4SmJDnWcTqzn7) | 3:34 |
 | 23 | [Promises](https://open.spotify.com/track/1ANXscLF7XTp3Hskgu0Obz) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [Promises](https://open.spotify.com/album/2Vz4LYDBBCLVbEP6J2HnUL) | 2:52 |
 | 24 | [Patah Seribu](https://open.spotify.com/track/0Ni3RjjsQP0oz8lt8xsFIn) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Patah Seribu](https://open.spotify.com/album/2JTqrH85Z69skjX3YiqDie) | 3:56 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 32 | [OK](https://open.spotify.com/track/2XoRXAZHhKZLm5ldWjxjy1) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [OK](https://open.spotify.com/album/6V36SHhox7VRbXlyZEDmI6) | 4:18 |
 | 33 | [Status Quo](https://open.spotify.com/track/5107u4MtCdGnGT6Ba7yq9z) | [Abigail](https://open.spotify.com/artist/11yfGLGb5HMw3iGo0MN1rB) | [Status Quo](https://open.spotify.com/album/6Lkz9M52QoztCc7h9y55Xx) | 2:59 |
 | 34 | [KakakAdik](https://open.spotify.com/track/2xJ1k7O0EyAFLZF7wLQpKn) | [Qis Maraj](https://open.spotify.com/artist/0rRWud0f3XEpYgiHcIiBSv), [Mawar Berduri](https://open.spotify.com/artist/54aZKdmW2cKsm5lb5GjsKL) | [KakakAdik](https://open.spotify.com/album/4ujlo1T1W39fTBE3nH9drW) | 4:15 |
-| 35 | [Don't Make Me Like You Too Much](https://open.spotify.com/track/3SQ0WkjTgFxApUz8KnfiFE) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [Don't Make Me Like You Too Much](https://open.spotify.com/album/3buV5Jw7D23XVa1SHLjBNg) | 3:18 |
+| 35 | [不要让我太喜欢你](https://open.spotify.com/track/3SQ0WkjTgFxApUz8KnfiFE) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [不要让我太喜欢你](https://open.spotify.com/album/3buV5Jw7D23XVa1SHLjBNg) | 3:18 |
 | 36 | [Melihatmu Bahagia](https://open.spotify.com/track/7olfiw1DXa0LQXhkd0DWWY) | [Yuka Kharisma](https://open.spotify.com/artist/1rIJgdnQuJKKumgG4RQVBB) | [Melihatmu Bahagia](https://open.spotify.com/album/43oFScrIEVi4PtZvunKwp6) | 3:47 |
 | 37 | [Seandainya](https://open.spotify.com/track/2TXNe0a5NBwvTi84G1l5OQ) | [Azharina](https://open.spotify.com/artist/4UrnhDklfmyS1Czc615OTy) | [Azharina](https://open.spotify.com/album/5aZaBRke5iScPMb7OvHG0r) | 4:51 |
 | 38 | [Seandainya Masih Ada Cinta](https://open.spotify.com/track/2mN2HwQoGWVdsFOvs4sEbO) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Seandainya Masih Ada Cinta](https://open.spotify.com/album/0a9NWz3MIl46UtUpmgCELs) | 4:55 |

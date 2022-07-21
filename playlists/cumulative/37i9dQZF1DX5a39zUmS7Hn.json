@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 218440,
       "name": "Alone Again Or",
       "url": "https://open.spotify.com/track/34dAKRy0pfwYylW7ivoOgy"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 318172,
       "name": "ANNIVERSARY",
       "url": "https://open.spotify.com/track/6w4goTlu5ciLeHNntz20La"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 358426,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 266759,
       "name": "Bitter Taste",
       "url": "https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 227346,
       "name": "Broken Moments",
       "url": "https://open.spotify.com/track/4DuJ3mgi1EtY2HflhJtW1N"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 262826,
       "name": "Do You Remember The First Time?",
       "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 184013,
       "name": "Don't Let the Devil Take Another Day",
       "url": "https://open.spotify.com/track/5ZZW0G7wq0bHKWtGcKQ5zk"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 264507,
       "name": "Dustland (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 308293,
       "name": "I'm Losing More Than I'll Ever Have",
       "url": "https://open.spotify.com/track/3jEJQGprFXpeICSRtPKGDc"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 277746,
       "name": "Matter of Time",
       "url": "https://open.spotify.com/track/3PbPLPjQDuliGVHItDtUXr"
@@ -1809,7 +1809,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 229026,
       "name": "Orwellian",
       "url": "https://open.spotify.com/track/5D651d3YNq4kqWG8YdO29n"
@@ -2019,7 +2019,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 197808,
       "name": "Rushing Water",
       "url": "https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 260346,
       "name": "Sonnet",
       "url": "https://open.spotify.com/track/4zH2KvskyPazDb8YcDDTHU"
@@ -2373,7 +2373,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 193066,
       "name": "The Celtic Soul Brothers (More, Please, Thank You)",
       "url": "https://open.spotify.com/track/6K9wIZpz2D8xNt7jPURm54"
@@ -2434,6 +2434,24 @@
     },
     {
       "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216773,
+      "name": "The Power Of Prayer",
+      "url": "https://open.spotify.com/track/0bsFL9VF0BQCIvF2cRn0Sk"
+    },
+    {
+      "album": {
         "name": "The Secret He Had Missed",
         "url": "https://open.spotify.com/album/3JqpUkcAKLqzUEOEku3Brc"
       },
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 253226,
       "name": "The Tipping Point",
       "url": "https://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2"
@@ -2547,7 +2565,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 245946,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5sVPOuJJAmidyxU8LjJBVu"
@@ -2717,7 +2735,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 248000,
       "name": "We're On Our Way Now",
       "url": "https://open.spotify.com/track/2ySHAi6CPwpGYdsomsezWg"
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 211506,
       "name": "Weak",
       "url": "https://open.spotify.com/track/08peUkRXVqOPjTalCjhr1g"
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 232746,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS"

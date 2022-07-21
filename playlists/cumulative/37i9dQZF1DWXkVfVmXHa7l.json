@@ -864,24 +864,6 @@
     },
     {
       "album": {
-        "name": "Osanasa wo Nyuin Sasete",
-        "url": "https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE"
-      },
-      "artists": [
-        {
-          "name": "Shinsei Kamattechan",
-          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
-        }
-      ],
-      "date_added": "2022-02-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 303760,
-      "name": "Yugure no Tori",
-      "url": "https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3"
-    },
-    {
-      "album": {
         "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD"
       },
@@ -955,6 +937,24 @@
       "duration_ms": 280466,
       "name": "\u50d5\u306e\u6226\u4e89",
       "url": "https://open.spotify.com/track/1UDw29EsOh3Rx1e5fYsbaG"
+    },
+    {
+      "album": {
+        "name": "\u5e7c\u3055\u3092\u5165\u9662\u3055\u305b\u3066",
+        "url": "https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE"
+      },
+      "artists": [
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303760,
+      "name": "\u5915\u66ae\u308c\u306e\u9ce5",
+      "url": "https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3"
     },
     {
       "album": {

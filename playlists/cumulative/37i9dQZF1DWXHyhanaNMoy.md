@@ -4,7 +4,7 @@
 
 > De playlist voor magic, motion en love tunes\. Cover: Murda & Hadise
 
-73 songs - 3 hr 20 min - not published yet
+73 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

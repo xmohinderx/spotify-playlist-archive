@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "Los cl\u00e1sicos de hoy y siempre.",
   "name": "Mix Universal",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6ZzugtTmY8hZfoO0k0GCwU"
+  ],
   "tracks": [
     {
       "album": {
@@ -276,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Diesel And Dust",
+        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
+      },
+      "artists": [
+        {
+          "name": "Midnight Oil",
+          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255680,
+      "name": "Beds Are Burning - Remastered",
+      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
+    },
+    {
+      "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
       },
@@ -341,7 +361,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 354320,
       "name": "Bohemian Rhapsody - Remastered 2011",
       "url": "https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv"
@@ -471,7 +491,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 213016,
       "name": "Can't Take My Eyes Off Of You - Original Radio Edit",
       "url": "https://open.spotify.com/track/4jbqwpSAOsTV2iGgvjHwJ5"
@@ -532,6 +552,24 @@
     },
     {
       "album": {
+        "name": "Celebrate!",
+        "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298866,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
+    },
+    {
+      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -579,7 +617,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 237400,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/0fOQ8CPHNabT8UQEz0hvkt"
@@ -864,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Fame (Billboard Hot 100 - No 04)",
+        "url": "https://open.spotify.com/album/2Yulxbml3zLShfVAaPxx72"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319026,
+      "name": "Fame - Rerecorded",
+      "url": "https://open.spotify.com/track/38JtOksjkWmr9vAylvvqs6"
+    },
+    {
+      "album": {
         "name": "What a Feelin'",
         "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
       },
@@ -893,10 +949,28 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 226000,
       "name": "Forever Young - 2019 Remaster",
       "url": "https://open.spotify.com/track/6XHNIbru8xGohLzHNgxQvF"
+    },
+    {
+      "album": {
+        "name": "Forever Young (Australien Version)",
+        "url": "https://open.spotify.com/album/2RlHbC2BZVBqDXHExo3pH5"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227786,
+      "name": "Forever Young - Remastered Version",
+      "url": "https://open.spotify.com/track/4cMLZnElAzXYXEe4aWTEeK"
     },
     {
       "album": {
@@ -987,6 +1061,24 @@
       "duration_ms": 234653,
       "name": "Got My Mind Set On You - Remastered 2004",
       "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
+    },
+    {
+      "album": {
+        "name": "Frankie Valli...Is The Word",
+        "url": "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Grease - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
     },
     {
       "album": {
@@ -1127,7 +1219,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
@@ -1181,7 +1273,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 407053,
       "name": "Hot Stuff - 12\" Version",
       "url": "https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg"
@@ -1271,7 +1363,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
@@ -1361,7 +1453,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
@@ -1397,7 +1489,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 366640,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
@@ -1505,7 +1597,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
@@ -1836,6 +1928,24 @@
     },
     {
       "album": {
+        "name": "Barry Manilow II",
+        "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Mandy",
+      "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
+    },
+    {
+      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
@@ -1901,7 +2011,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 288339,
       "name": "Modern Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
@@ -1955,7 +2065,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 213573,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC"
@@ -2099,7 +2209,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 288973,
       "name": "One More Night - 2016 Remaster",
       "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
@@ -2319,7 +2429,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 253720,
       "name": "She's A Rainbow",
       "url": "https://open.spotify.com/track/6KOtheMY0KN4s9TrQHr9It"
@@ -2409,7 +2519,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 167276,
       "name": "Sugar Sugar",
       "url": "https://open.spotify.com/track/6L7CjMm9gJNn8Ze62bRk3g"
@@ -2813,6 +2923,24 @@
       "duration_ms": 273866,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
+    },
+    {
+      "album": {
+        "name": "Can't Stop the Music (Original Soundtrack 1980)",
+        "url": "https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp"
     },
     {
       "album": {

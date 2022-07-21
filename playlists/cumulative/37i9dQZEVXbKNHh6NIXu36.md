@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-938 songs - 1 day 23 hr 53 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
+939 songs - 1 day 23 hr 56 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,7 @@
 | [JA](https://open.spotify.com/track/1t5WkoCarzpa22fqbuh0tb) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [JA](https://open.spotify.com/album/5rCeTbhVFUakJbAzWWTWTg) | 2:33 | 2022-02-19 | 2022-02-24 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-05 |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-05-06 |  |
-| [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 |  |
+| [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-07-21 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-11-23 | 2021-12-29 |
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 | 2021-11-28 | 2021-12-27 |
 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 | 2021-12-25 | 2021-12-27 |
@@ -941,6 +941,7 @@
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-08-15 |
 | [Zlatno dete](https://open.spotify.com/track/70HHMfpi4u785uVJRlPw9p) | [Coby](https://open.spotify.com/artist/6Qc96byIWUrGk7BHxfvK4F) | [Zlatno dete](https://open.spotify.com/album/6R0yYFFUCu1MBYBmvCwTER) | 3:20 | 2022-01-13 | 2022-01-23 |
 | [Zombie](https://open.spotify.com/track/3Z9nKoghuOPwMx9tbbZmoR) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 2:20 | 2021-07-18 | 2021-07-29 |
+| [Zovite Doktore](https://open.spotify.com/track/7H0iSWyOdHwDZwqUAt0PlR) | [Relja](https://open.spotify.com/artist/6WDICXAWOWnKzhABntLJ09), [Nucci](https://open.spotify.com/artist/3YNm5MBjwq1QDeKQJq7wze) | [Zovite Doktore](https://open.spotify.com/album/0pcM591iJUegc7VFk23eDG) | 2:58 | 2022-07-20 |  |
 | [Zuhälteraura](https://open.spotify.com/track/1hRoprfptl47BWtW1Ylk8U) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Zuhälteraura](https://open.spotify.com/album/4CfDSYy7erPIatnLypiIJW) | 4:05 | 2021-08-22 | 2021-08-26 |
 | [Zukunft](https://open.spotify.com/track/0myjXsBDYloFnVcQkF2baU) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/47brL4n2IhoAlMIkwE4yHT) | 2:37 | 2021-07-30 | 2021-08-01 |
 | [Zukunft](https://open.spotify.com/track/34tKBUUl8bAeqex8i82Z0L) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 2:37 | 2021-07-18 | 2021-10-23 |

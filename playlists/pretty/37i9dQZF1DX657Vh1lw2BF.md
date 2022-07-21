@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > استمع لافضل الأغاني العراقية! الغلاف: سيف عامر
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,141 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,194 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 21 | [Qatalny Alshooq](https://open.spotify.com/track/4STIuCz1EUhsHXKrfkeqPr) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Qatalny Alshooq](https://open.spotify.com/album/4bqDO2NjCt9NInbjVHqUrh) | 4:05 |
 | 22 | [Dag El Galb](https://open.spotify.com/track/3xeP7K143lH04xZs6eZpOu) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Dag El Galb](https://open.spotify.com/album/4N9iEM4XJx7WQN5XlvlKgE) | 3:10 |
 | 23 | [Ah Yani](https://open.spotify.com/track/0vMD3NFvruMSROWEhm8756) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Ah Yani](https://open.spotify.com/album/2743kDzwDOEBBeTrSn6h5H) | 3:19 |
-| 24 | [Al Kawkab](https://open.spotify.com/track/2xzL1ELxftoTGXS1LFQv2P) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Al Kawkab](https://open.spotify.com/album/6hJTJtENy8pROIGgVT6NQk) | 3:58 |
+| 24 | [الكوكب](https://open.spotify.com/track/2xzL1ELxftoTGXS1LFQv2P) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [الكوكب](https://open.spotify.com/album/6hJTJtENy8pROIGgVT6NQk) | 3:58 |
 | 25 | [Dag El Galb](https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dag El Galb](https://open.spotify.com/album/69Ezh1ncGl5mV9C6Yj7NE3) | 3:10 |
 | 26 | [Shkad Helw](https://open.spotify.com/track/29hXhjoSoGg8NUEPKig2am) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Shkad Helw](https://open.spotify.com/album/1gY8BkJKLoAOa3CLMCcUcB) | 3:28 |
 | 27 | [Wen Wen](https://open.spotify.com/track/3EN1SgNhN2VzewMpYglMKh) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Wen Wen](https://open.spotify.com/album/1WZvUCn06pvksWG9ZNHata) | 3:15 |

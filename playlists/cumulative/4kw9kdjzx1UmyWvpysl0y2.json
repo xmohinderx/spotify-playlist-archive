@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 180960,
       "name": "For Me - VIP",
       "url": "https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM"
@@ -2722,6 +2722,24 @@
     },
     {
       "album": {
+        "name": "Only Wide Open Space And Me",
+        "url": "https://open.spotify.com/album/1wGPEIf0MeTsULFOwbT9zx"
+      },
+      "artists": [
+        {
+          "name": "Andromedha",
+          "url": "https://open.spotify.com/artist/1naIVJt93vo4NJ3UHT6O8q"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259250,
+      "name": "Only Wide Open Space And Me",
+      "url": "https://open.spotify.com/track/3g2vHR1LE5Buctsm2pLQdb"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva"
       },
@@ -3659,7 +3677,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 168750,
       "name": "TELL ME",
       "url": "https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16"

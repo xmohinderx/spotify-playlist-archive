@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Angeles\. Artwork: Isu Kim
 
-975 songs - 2 day 5 hr 57 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
+976 songs - 2 day 6 hr 0 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Gooey](https://open.spotify.com/track/0vzuy0Ls4QUUwRv8xJhIMe) | [Leaping Tiger](https://open.spotify.com/artist/6msX2U4FuNMIIDGdCrIuXm) | [Soulsleep](https://open.spotify.com/album/6IDZV7RbQtbaFAfOPL7PMR) | 3:19 | 2021-12-28 | 2022-01-13 |
 | [Gotham Freestyle](https://open.spotify.com/track/371GgaepBxrnUaOlpfCnUD) | [Southside Denny](https://open.spotify.com/artist/1dcmr3lCJ0rE2lwB2uIOb8), [Caleb.TheRapper](https://open.spotify.com/artist/3Zrxt2T27D14NOTpmpHE30) | [Gotham Freestyle](https://open.spotify.com/album/1JdtQmIpWh3Q5ih5gjBySK) | 2:28 | 2022-06-01 | 2022-06-23 |
 | [Gravity](https://open.spotify.com/track/0HmX9AOxfCcFSHpNLcRrHi) | [Ahlei](https://open.spotify.com/artist/5QyAbE7iRKVzJ5PXa3WpHq) | [Gravity](https://open.spotify.com/album/4JNFIuyUgQhnZyS7RCvWzP) | 3:02 | 2022-06-22 | 2022-07-14 |
+| [GREEKo FREAKo](https://open.spotify.com/track/2PSChERR09PP6NXXIwmLOW) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [GREEKo FREAKo](https://open.spotify.com/album/0Qm3bjooBoS38mEE6rQbN3) | 2:24 | 2022-07-19 |  |
 | [Growing Pains](https://open.spotify.com/track/6PClsRVowfjSIlb0yz9szK) | [youproblem](https://open.spotify.com/artist/13Y8tKdDhnfdB8g5a9ZBs5) | [Drunk / Growing Pains](https://open.spotify.com/album/7kahAvOm83UoV81hbSC02l) | 2:53 | 2022-06-29 |  |
 | [Guns](https://open.spotify.com/track/7u2NyJzjhTqUG1ZOOe8U0G) | [Bad Neighbour](https://open.spotify.com/artist/1Lg2j8CzYY32r5sDiuVW8B) | [Guns](https://open.spotify.com/album/3KqvDAI44TsEbrisGQ2TWv) | 3:03 | 2022-06-15 | 2022-06-30 |
 | [Ha Ha](https://open.spotify.com/track/5moiK59CizbbCoVYoqD8ZS) | [Tom Calder](https://open.spotify.com/artist/1n6FM0vzQGwjAkDEyoqiNQ), [Daggy Man](https://open.spotify.com/artist/4nlx8JC05qQU06qyOFo6Kg) | [Ha Ha](https://open.spotify.com/album/1wgoARttTcLpYQiiB2BjZM) | 3:32 | 2022-07-13 |  |

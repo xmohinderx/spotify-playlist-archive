@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par le beat...
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,793 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,825 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -124,24 +124,6 @@
     },
     {
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "date_added": "2021-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220938,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO"
-    },
-    {
-      "album": {
         "name": "Alcohol-Free",
         "url": "https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE"
       },
@@ -424,24 +406,6 @@
     },
     {
       "album": {
-        "name": "Be Still",
-        "url": "https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR"
-      },
-      "artists": [
-        {
-          "name": "Janice Vidal",
-          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
-        }
-      ],
-      "date_added": "2022-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 253994,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi"
-    },
-    {
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -706,24 +670,6 @@
     },
     {
       "album": {
-        "name": "Caution Wet Floor",
-        "url": "https://open.spotify.com/album/3wlXOb1nMLgJr1jz2bTjAm"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "date_added": "2022-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239340,
-      "name": "Caution Wet Floor",
-      "url": "https://open.spotify.com/track/3U1sSlezn9BdzqsEx4VfHT"
-    },
-    {
-      "album": {
         "name": "Celebrity",
         "url": "https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g"
       },
@@ -829,24 +775,6 @@
       "duration_ms": 193080,
       "name": "Coin",
       "url": "https://open.spotify.com/track/7CZRguMolNqIobnXxpV735"
-    },
-    {
-      "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "date_added": "2022-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257105,
-      "name": "Cold Hearted",
-      "url": "https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ"
     },
     {
       "album": {
@@ -1428,24 +1356,6 @@
     },
     {
       "album": {
-        "name": "Anthropocene",
-        "url": "https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V"
-      },
-      "artists": [
-        {
-          "name": "C AllStar",
-          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
-        }
-      ],
-      "date_added": "2021-11-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244735,
-      "name": "For those who stay, For those who had left",
-      "url": "https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG"
-    },
-    {
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -1493,7 +1403,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 240440,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
@@ -1645,24 +1555,6 @@
       "duration_ms": 206690,
       "name": "Gotta Go!",
       "url": "https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH"
-    },
-    {
-      "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244046,
-      "name": "Greatest Works of Art",
-      "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
     },
     {
       "album": {
@@ -1923,24 +1815,6 @@
       "duration_ms": 243187,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o"
-    },
-    {
-      "album": {
-        "name": "to be honest",
-        "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "date_added": "2022-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199547,
-      "name": "hyperromantic",
-      "url": "https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q"
     },
     {
       "album": {
@@ -2936,24 +2810,6 @@
     },
     {
       "album": {
-        "name": "Learning Curve",
-        "url": "https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "date_added": "2022-06-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234177,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz"
-    },
-    {
-      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
@@ -3456,24 +3312,6 @@
     },
     {
       "album": {
-        "name": "Overruled",
-        "url": "https://open.spotify.com/album/580J4faNuujItQTyIVzNxs"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "date_added": "2021-06-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228819,
-      "name": "Overruled",
-      "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
-    },
-    {
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -3533,24 +3371,6 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u"
-    },
-    {
-      "album": {
-        "name": "Pillow Talk",
-        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "date_added": "2021-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 273390,
-      "name": "Pillow Talk",
-      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
     },
     {
       "album": {
@@ -3702,24 +3522,6 @@
     },
     {
       "album": {
-        "name": "Red Scarf (\"Till We Meet Again\" Movie Theme Song)",
-        "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "date_added": "2021-12-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 274400,
-      "name": "Red Scarf - \"Till We Meet Again\" Movie Theme Song",
-      "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
-    },
-    {
-      "album": {
         "name": "Greatest Works of Art",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
@@ -3731,7 +3533,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 234226,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5Hkj927A3CCy6Xymg9Z2Br"
@@ -4180,24 +3982,6 @@
     },
     {
       "album": {
-        "name": "Song For The Absentees",
-        "url": "https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik"
-      },
-      "artists": [
-        {
-          "name": "Jay Fung",
-          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
-        }
-      ],
-      "date_added": "2022-07-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237985,
-      "name": "Song For The Absentees",
-      "url": "https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT"
-    },
-    {
-      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -4293,24 +4077,6 @@
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
-    },
-    {
-      "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "date_added": "2022-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 265813,
-      "name": "Still Wandering",
-      "url": "https://open.spotify.com/track/35xilew5nalcetOeytaDFj"
     },
     {
       "album": {
@@ -4802,28 +4568,6 @@
     },
     {
       "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        },
-        {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
-        }
-      ],
-      "date_added": "2022-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220693,
-      "name": "Won't Cry",
-      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
-    },
-    {
-      "album": {
         "name": "McCartney II (Special Edition)",
         "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
@@ -4889,7 +4633,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 257838,
       "name": "You Are The Firework I Missed",
       "url": "https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6"
@@ -5510,6 +5254,24 @@
     },
     {
       "album": {
+        "name": "to be honest",
+        "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199547,
+      "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
+      "url": "https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q"
+    },
+    {
+      "album": {
         "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
         "url": "https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2"
       },
@@ -5582,6 +5344,42 @@
     },
     {
       "album": {
+        "name": "Learning Curve",
+        "url": "https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234177,
+      "name": "\u53ca\u6642\u884c\u6a02",
+      "url": "https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz"
+    },
+    {
+      "album": {
+        "name": "\u53cd\u5c0d\u7121\u6548",
+        "url": "https://open.spotify.com/album/580J4faNuujItQTyIVzNxs"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2021-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228819,
+      "name": "\u53cd\u5c0d\u7121\u6548",
+      "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
+    },
+    {
+      "album": {
         "name": "\u53e6\u4e00\u500b\u8afe\u8c9d\u723e",
         "url": "https://open.spotify.com/album/3zlC4E72LhS3svz4GFWvTR"
       },
@@ -5615,6 +5413,24 @@
       "duration_ms": 138672,
       "name": "\u53ea\u6536\u4e00\u534a",
       "url": "https://open.spotify.com/track/4rtBWaUKppPfnOjH1sehyt"
+    },
+    {
+      "album": {
+        "name": "\u547c\u5438\u4e4b\u9593",
+        "url": "https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR"
+      },
+      "artists": [
+        {
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253994,
+      "name": "\u547c\u5438\u4e4b\u9593",
+      "url": "https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi"
     },
     {
       "album": {
@@ -5816,6 +5632,24 @@
     },
     {
       "album": {
+        "name": "\u5982\u679c\u53ef\u4ee5 (\u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274400,
+      "name": "\u5982\u679c\u53ef\u4ee5 - \u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
+    },
+    {
+      "album": {
         "name": "\u5b64\u7368\u75c5",
         "url": "https://open.spotify.com/album/4ALkQyRhvV3yhXg9bfqCmY"
       },
@@ -5849,6 +5683,24 @@
       "duration_ms": 173911,
       "name": "\u5b8b\u4ee3SAD BOY",
       "url": "https://open.spotify.com/track/7uo5PgFlHaRpdigxdzP0i7"
+    },
+    {
+      "album": {
+        "name": "\u5c0f\u5fc3\u5730\u6ed1",
+        "url": "https://open.spotify.com/album/3wlXOb1nMLgJr1jz2bTjAm"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239340,
+      "name": "\u5c0f\u5fc3\u5730\u6ed1",
+      "url": "https://open.spotify.com/track/3U1sSlezn9BdzqsEx4VfHT"
     },
     {
       "album": {
@@ -6286,6 +6138,24 @@
     },
     {
       "album": {
+        "name": "\u6642\u5019\u4e0d\u65e9",
+        "url": "https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220938,
+      "name": "\u6642\u5019\u4e0d\u65e9",
+      "url": "https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO"
+    },
+    {
+      "album": {
         "name": "\u6642\u5149\u5012\u6d41\u4e00\u53e5\u8a71",
         "url": "https://open.spotify.com/album/4IynRAJW9IVPnitLGtydpt"
       },
@@ -6341,6 +6211,24 @@
       "duration_ms": 327804,
       "name": "\u6642\u9593\u7684\u521d\u8877 (\u96fb\u5f71\u300a\u4e00\u79d2\u62f3\u738b\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244046,
+      "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+      "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
     },
     {
       "album": {
@@ -6882,6 +6770,24 @@
     },
     {
       "album": {
+        "name": "\u4eba\u985e\u4e16",
+        "url": "https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V"
+      },
+      "artists": [
+        {
+          "name": "C AllStar",
+          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
+        }
+      ],
+      "date_added": "2021-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244735,
+      "name": "\u7559\u4e0b\u4f86\u7684\u4eba",
+      "url": "https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG"
+    },
+    {
+      "album": {
         "name": "\u7559\u4e0b\u4f86\u7684\u4eba",
         "url": "https://open.spotify.com/album/65gZmrFaxPaiVEXI2jMuTP"
       },
@@ -7070,6 +6976,42 @@
     },
     {
       "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257105,
+      "name": "\u7d05\u984f\u5982\u971c",
+      "url": "https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ"
+    },
+    {
+      "album": {
+        "name": "\u7d66\u7f3a\u5e2d\u7684\u4eba\u5531\u9996\u6b4c",
+        "url": "https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237985,
+      "name": "\u7d66\u7f3a\u5e2d\u7684\u4eba\u5531\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT"
+    },
+    {
+      "album": {
         "name": "\u7db2\u7d61\u5b89\u5168\u96b1\u60a3",
         "url": "https://open.spotify.com/album/2U0RPpcvALJOyO7daXdGU4"
       },
@@ -7089,6 +7031,24 @@
       "duration_ms": 181724,
       "name": "\u7db2\u7d61\u5b89\u5168\u96b1\u60a3",
       "url": "https://open.spotify.com/track/4J3xGcdeTondAni5xd9kmm"
+    },
+    {
+      "album": {
+        "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
+        "url": "https://open.spotify.com/album/1S2BJwobnDIUkkPuCv3G3y"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223950,
+      "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
+      "url": "https://open.spotify.com/track/4Z2JLzxDyJCqjX88ObHOpp"
     },
     {
       "album": {
@@ -7270,6 +7230,24 @@
     },
     {
       "album": {
+        "name": "\u8a18\u61b6\u68c9",
+        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2021-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273390,
+      "name": "\u8a18\u61b6\u68c9",
+      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+    },
+    {
+      "album": {
         "name": "SABINA\u4e4b\u6dda",
         "url": "https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf"
       },
@@ -7285,6 +7263,28 @@
       "duration_ms": 191308,
       "name": "\u8a69\u6b4c\u821e\u8857",
       "url": "https://open.spotify.com/track/45rZ0CtRR470rAOFiWJNeM"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "\u8aaa\u597d\u4e0d\u54ed",
+      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
     },
     {
       "album": {
@@ -7433,6 +7433,24 @@
       "duration_ms": 264183,
       "name": "\u9072\u4e86\u6094\u6539 - ViuTV\u96fb\u8996\u5287\u300a\u592a\u5e73\u7d0b\u8eab\u5e97\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/0Os0RD1apkQsWOeF2cV5w2"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265813,
+      "name": "\u9084\u5728\u6d41\u6d6a",
+      "url": "https://open.spotify.com/track/35xilew5nalcetOeytaDFj"
     },
     {
       "album": {

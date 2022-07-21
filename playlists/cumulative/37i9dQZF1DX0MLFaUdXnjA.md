@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Madeline The Person
 
-990 songs - 2 day 4 hr 27 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+991 songs - 2 day 4 hr 30 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,7 @@
 | [Holy Feeling](https://open.spotify.com/track/3fVzF9OZtAURc9EUQxc0us) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Holy Feeling](https://open.spotify.com/album/0LFRHSJ7ivh3cfDrZiy7gr) | 4:06 | 2021-01-16 | 2021-03-19 |
 | [Home](https://open.spotify.com/track/7F5hhaayrqMjBz0cykBSQn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Home](https://open.spotify.com/album/7FDhk932YsB1sRp3JV4NAY) | 2:29 | 2021-03-26 | 2021-06-26 |
 | [Home](https://open.spotify.com/track/3gP7nT91NWwlNWJdbLsmbh) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Home](https://open.spotify.com/album/18IJo4Z0XXMXVocV5PiZDh) | 3:32 | 2020-04-26\* | 2020-09-11 |
-| [Home](https://open.spotify.com/track/1hObXlE3sFyMCvWeyRV9QF) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Home](https://open.spotify.com/album/5kKUKVgeGpr748FjL1xOlQ) | 3:35 | 2022-01-28 |  |
+| [Home](https://open.spotify.com/track/1hObXlE3sFyMCvWeyRV9QF) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Home](https://open.spotify.com/album/5kKUKVgeGpr748FjL1xOlQ) | 3:35 | 2022-01-28 | 2022-07-21 |
 | [Home](https://open.spotify.com/track/62VYVWExRnkAmcbKTOvk1l) | [Scarypoolparty](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Home](https://open.spotify.com/album/4n9GXR9Tu9o4SE0eGvTMfA) | 3:45 | 2021-02-19 | 2021-04-03 |
 | [Home for the Summer](https://open.spotify.com/track/6zHP0OCcZYtxumAqmRuIXk) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Home for the Summer](https://open.spotify.com/album/7898z7a35se7vtuoXTICxM) | 2:35 | 2020-07-11 | 2020-09-11 |
 | [Home To You](https://open.spotify.com/track/0qBug5X3DaJv2zgXtp55wn) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You](https://open.spotify.com/album/2GI67nlY6eFPjXDwLjp6Wy) | 3:41 | 2020-04-26\* | 2020-07-24 |
@@ -809,6 +809,7 @@
 | [Stay With Me](https://open.spotify.com/track/3N9YteGxz7t9FLdZLeqmEM) | [Joel Blackmon](https://open.spotify.com/artist/4XBNTfuiL1ful1Erm746lY) | [Stay With Me](https://open.spotify.com/album/4anOgmW4hSXsK8jrxwbtqk) | 2:30 | 2021-07-04 | 2021-08-14 |
 | [Stealing All My Friends](https://open.spotify.com/track/5UiBcv3HW0hIshBrOQxY2q) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Stealing All My Friends](https://open.spotify.com/album/5gOHjDCfex1LV4MbKIUM97) | 2:41 | 2020-06-29 | 2020-07-31 |
 | [Step On Flowers](https://open.spotify.com/track/7156NTCsRSyw7A2si4sm5e) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 3:33 | 2022-07-15 |  |
+| [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-20 |  |
 | [Still Something](https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Still Something](https://open.spotify.com/album/010yX6iIbqs59x29SwwUaG) | 3:08 | 2022-01-07 |  |
 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 | 2020-05-16 | 2020-10-09 |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/0WLVSnKqQBK4UPom1TESHK) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/1LPqrRp0TeRO7hO1SYF08y) | 4:26 | 2021-07-24 | 2021-09-11 |

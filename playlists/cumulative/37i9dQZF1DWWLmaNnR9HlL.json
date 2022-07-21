@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "La banda sonora para tus cenas en casa.",
   "name": "Cena con Amigos",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6f3cqmqdYqRr7cbIDvLNPd"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,6 +23,24 @@
       "duration_ms": 273933,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
+    },
+    {
+      "album": {
+        "name": "6000 Miles",
+        "url": "https://open.spotify.com/album/3RKr1pYPqHZaAsh6w8SCxk"
+      },
+      "artists": [
+        {
+          "name": "Sara Pi",
+          "url": "https://open.spotify.com/artist/0laMFy7P4AzMlSDFHf6CuE"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178765,
+      "name": "6000 Miles",
+      "url": "https://open.spotify.com/track/3UvcBuqivTJkZgRoLZ09JC"
     },
     {
       "album": {
@@ -199,7 +219,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 220600,
       "name": "Boat Behind",
       "url": "https://open.spotify.com/track/3ooB1pAGbXWfm74Jqh7Zfh"
@@ -253,7 +273,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 274933,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/4jsdqalaKwDTdPGLvps128"
@@ -275,7 +295,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 197600,
       "name": "C'Est Si Bon / Qu\u00e9 Es Mejor",
       "url": "https://open.spotify.com/track/1aOMcg8mTXqM5GzJj61cly"
@@ -431,7 +451,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 267317,
       "name": "E pi\u00f9 ti penso - From \"Once Upon A Time In America\"",
       "url": "https://open.spotify.com/track/0xD4CViKIXLz07PDhP36GJ"
@@ -511,7 +531,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 254202,
       "name": "Entre Tu Balc\u00f3n y Mi Ventana - En Directo",
       "url": "https://open.spotify.com/track/59DNtOIqq6WS1VstE7U4hW"
@@ -653,7 +673,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 250426,
       "name": "Havana - Bossa Nova",
       "url": "https://open.spotify.com/track/0Tl1pHPHtn8WHMakC5VrVM"
@@ -950,6 +970,24 @@
     },
     {
       "album": {
+        "name": "Setembro",
+        "url": "https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6"
+      },
+      "artists": [
+        {
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/4VOwUaLAK3Ea6tWZzos79U"
       },
@@ -1088,6 +1126,24 @@
     },
     {
       "album": {
+        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
+        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239800,
+      "name": "Quien Sabe",
+      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
+    },
+    {
+      "album": {
         "name": "Selection",
         "url": "https://open.spotify.com/album/2LRLNUHFT5zF12MTSTZmX8"
       },
@@ -1117,10 +1173,32 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 186285,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/6zYPfGShrN7TmvZdU2zobx"
+    },
+    {
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
       "album": {
@@ -1231,7 +1309,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 196632,
       "name": "Tears Dry on Their Own - Acoustic",
       "url": "https://open.spotify.com/track/6ftZrt4wcgSHokKl7ice5y"
@@ -1271,6 +1349,24 @@
       "duration_ms": 282000,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
+    },
+    {
+      "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/2nJszo5U1ARkuv9d9AVFAg"
+      },
+      "artists": [
+        {
+          "name": "Williamsburg Quartet",
+          "url": "https://open.spotify.com/artist/6DA5wkpfxPI7JwNla5FNje"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239733,
+      "name": "The Look You Gave",
+      "url": "https://open.spotify.com/track/7zZL4B0OjORzgedZ5YHDXw"
     },
     {
       "album": {
@@ -1343,7 +1439,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 177093,
       "name": "Toyboat",
       "url": "https://open.spotify.com/track/0zwkTalZ8v0qrBMZwWVgEy"
@@ -1379,7 +1475,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 222439,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/1fDAS8j1MJpmoSfmDOE6cE"
@@ -1422,6 +1518,24 @@
     },
     {
       "album": {
+        "name": "Vivir sin miedo",
+        "url": "https://open.spotify.com/album/5MCZrSKQgQBwzY6M10gSUG"
+      },
+      "artists": [
+        {
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287506,
+      "name": "Vivir sin miedo",
+      "url": "https://open.spotify.com/track/55NknKmUtmAoH6iRjAnxOT"
+    },
+    {
+      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB"
       },
@@ -1451,7 +1565,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 151866,
       "name": "What A Diff'rence A Day Made",
       "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
@@ -1469,7 +1583,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 265000,
       "name": "Why Does It Always Rain On Me?",
       "url": "https://open.spotify.com/track/6JXD70ZqUhx02AteE50CIS"

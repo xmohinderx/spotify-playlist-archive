@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 183787,
       "name": "Braindrain",
       "url": "https://open.spotify.com/track/4WZ5B7olkCaTcmymLflInK"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 196672,
       "name": "City Club",
       "url": "https://open.spotify.com/track/17jEoYoOfRD6dvNCMmC9n4"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 191640,
       "name": "down bad",
       "url": "https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 189651,
       "name": "Drag",
       "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 173866,
       "name": "Freaking Out The Neighborhood",
       "url": "https://open.spotify.com/track/0MgOsVty0YR1kas7x16yoS"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 213173,
       "name": "In the Morning I'll Be Better",
       "url": "https://open.spotify.com/track/6d5faX65tSGFKcXsOJQRFi"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 190413,
       "name": "I\u2019ll Be Loving You",
       "url": "https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 237500,
       "name": "Lemurian Promenade",
       "url": "https://open.spotify.com/track/1TJbIX80eZSkVCtrcU57Ja"
@@ -1906,6 +1906,24 @@
     },
     {
       "album": {
+        "name": "The Babe Rainbow",
+        "url": "https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194292,
+      "name": "Peace Blossom Boogy",
+      "url": "https://open.spotify.com/track/0Mfcw67Xb68PJJNsfxRi7L"
+    },
+    {
+      "album": {
         "name": "Sweet FA",
         "url": "https://open.spotify.com/album/3Ab4CfKIqTQdJPCrz6U0Ka"
       },
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 287080,
       "name": "Peach Pit",
       "url": "https://open.spotify.com/track/4W8iitrK5csxU1kqBeT5Js"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 222769,
       "name": "Petty Crime",
       "url": "https://open.spotify.com/track/4FMyAa7jAyWgiGUpRE5Ef8"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 231603,
       "name": "Pure Devotion",
       "url": "https://open.spotify.com/track/6y9FOsVA7S57Qcx58qip9h"
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 150713,
       "name": "Sun Medallion",
       "url": "https://open.spotify.com/track/2avVVXPzzk3aRD63rMr5SG"
@@ -2497,7 +2515,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 165226,
       "name": "Swim and Sleep (Like a Shark)",
       "url": "https://open.spotify.com/track/3h1iu4HvBlLqRuft2kJEcr"

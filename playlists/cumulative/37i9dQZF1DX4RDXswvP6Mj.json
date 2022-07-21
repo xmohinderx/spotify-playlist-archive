@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: \bSF9) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: \bHyunA(\ud604\uc544)) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
   "name": "K-Club Party",
   "published_playlist_ids": [
     "0IIEvRANFzgYAa88SFKSJA"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 167853,
       "name": "BEAM BEAM",
       "url": "https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 219549,
       "name": "BTBT",
       "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "Celebrity",
       "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 204293,
       "name": "DM",
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
@@ -2317,7 +2317,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 204933,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
@@ -3257,7 +3257,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 198280,
       "name": "Golden (feat. XIAOJUN of WayV, pH-1)",
       "url": "https://open.spotify.com/track/3PAdRq6wr8XloSVdCneAMH"
@@ -3473,7 +3473,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
@@ -3777,7 +3777,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 205493,
       "name": "I CAN'T STOP ME",
       "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
@@ -4203,7 +4203,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 164053,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
@@ -4953,7 +4953,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 212480,
       "name": "Mixtape : OH",
       "url": "https://open.spotify.com/track/3lYHmpjkm95UbQz76S47xZ"
@@ -5204,6 +5204,24 @@
     },
     {
       "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168462,
+      "name": "Nabillera",
+      "url": "https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N"
+    },
+    {
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -5407,7 +5425,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
@@ -5635,7 +5653,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 222853,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
@@ -6641,7 +6659,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 188733,
       "name": "SCREAM",
       "url": "https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU"
@@ -6681,7 +6699,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 192333,
       "name": "Secret Story of the Swan",
       "url": "https://open.spotify.com/track/3FARQP8fA49bSsTWjNyWmY"
@@ -6833,7 +6851,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 173413,
       "name": "SMILEY(Feat. BIBI)",
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
@@ -7075,7 +7093,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 228613,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
@@ -7803,7 +7821,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 231466,
       "name": "Universe (Let's Play Ball)",
       "url": "https://open.spotify.com/track/0S38pb0gNLNpOeyV3w9gXb"
@@ -7911,7 +7929,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 202035,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/3nbTkTlILrKTGpjF6X8pEN"
@@ -8427,7 +8445,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 237685,
       "name": "YES or YES",
       "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"

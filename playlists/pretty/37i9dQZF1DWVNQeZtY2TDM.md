@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: Masiwei \(馬思唯\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,706 likes - 73 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,720 likes - 73 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 2 | [Brand New](https://open.spotify.com/track/0dxhiTJ6k1mZTYxu0n5uQ9) | [Denzel Cheng](https://open.spotify.com/artist/6HdMvBWAXWnxX5LEWlgluN) | [Brand New](https://open.spotify.com/album/1DHUgLl04YvkP8cTUhYHaY) | 2:17 |
 | 3 | [今晚我想來點壞](https://open.spotify.com/track/0syE2mnJ0XCP3K9l8tFNJX) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [艾瑞](https://open.spotify.com/artist/7pYoJ7Feoy97o7MHFx6qV1), [DenNiz](https://open.spotify.com/artist/7noLHWUu2JfwuyO66SyaKS) | [今晚我想來點壞](https://open.spotify.com/album/6nphYNjrtVqO9eyr33mTth) | 2:24 |
 | 4 | [WANT TOO](https://open.spotify.com/track/1xBLUezHIborqtET1vkfcY) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [WANT TOO](https://open.spotify.com/album/76c574QgbdN4As2a8yvspS) | 2:43 |
-| 5 | [Be water, my friend \(feat\. PoppingED\)](https://open.spotify.com/track/1UMMFhNOXcwWTdBFFBxTtx) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx), [田一德](https://open.spotify.com/artist/6L7X85q6r5vcewzGWDoKZI) | [Be water, my friend \(feat\. PoppingED\)](https://open.spotify.com/album/7BMd64RynEeLV4O0p542xX) | 3:25 |
+| 5 | [逼瓦特 \(feat\. 田一德\)](https://open.spotify.com/track/1UMMFhNOXcwWTdBFFBxTtx) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx), [田一德](https://open.spotify.com/artist/6L7X85q6r5vcewzGWDoKZI) | [逼瓦特 \(feat\. 田一德\)](https://open.spotify.com/album/7BMd64RynEeLV4O0p542xX) | 3:25 |
 | 6 | [煉乳](https://open.spotify.com/track/3jDcuruyLjUkmm62wAZKLY) | [Damon孟緯](https://open.spotify.com/artist/5O0FEgp6EeIw3XteK0ipac), [呆伯特](https://open.spotify.com/artist/2pbYXlBAJWfsAgtI6WL9gi) | [煉乳](https://open.spotify.com/album/47LhR3PYIsVaOUVPCpU8mX) | 2:43 |
 | 7 | [Made It Home](https://open.spotify.com/track/4tjVEpcwhe8UfaBX4VjlFO) | [Haysen Cheng](https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK) | [Don Chino](https://open.spotify.com/album/1lJBh8oUHLd5kofSBychKR) | 2:26 |
 | 8 | [Love is Love](https://open.spotify.com/track/2eXB0rZTY7FenvsmrY9Qb4) | [痞爺](https://open.spotify.com/artist/73G9tzZhnkWwHWP0rF2jfB) | [Heart 2 Heart](https://open.spotify.com/album/11Zt0iCZwtjFaZHxxEFzcl) | 3:22 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 43 | [Butterfly](https://open.spotify.com/track/5fWINGOMaVqRCmcvkDMjGJ) | [Nick.Y](https://open.spotify.com/artist/3PjAq5QmO9BwEZviqzs36f), [A1Trip](https://open.spotify.com/artist/5F8Zm0E37mD0855TcK3jJq) | [Butterfly](https://open.spotify.com/album/4zbI521GRYqgcT9PczTM3j) | 2:16 |
 | 44 | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/track/5CVLF555R63QYvmDQCKZAG) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/album/6IwxNZDPjOnC0B1JLThqdo) | 2:57 |
 | 45 | [HOMESICK](https://open.spotify.com/track/14AHfTN3CXFiaLuilTjRIL) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [HOMESICK](https://open.spotify.com/album/6luQqRpyitjgUCIUd2jn5B) | 3:11 |
-| 46 | [Vanished](https://open.spotify.com/track/1jKJOUckSjJxQYf8Fdhxrf) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo) | [Zunya](https://open.spotify.com/album/4nT7s21AuoufYR4FcLqvKR) | 2:58 |
+| 46 | [烏有](https://open.spotify.com/track/1jKJOUckSjJxQYf8Fdhxrf) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo) | [同理](https://open.spotify.com/album/4nT7s21AuoufYR4FcLqvKR) | 2:58 |
 | 47 | [Got You on My Mind \(森林 Version\) \- WINDIE 收OUT!](https://open.spotify.com/track/6kZpy6xc2CRZKLMh2uCLKR) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [Got You on My Mind \(森林 Version\) \- WINDIE 收OUT!](https://open.spotify.com/album/30ArzCq3xIj3OAFP0Uv8XC) | 3:35 |
 | 48 | [Fake](https://open.spotify.com/track/64ZhoHFCA4xEdhuaqdwlGF) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [Fake](https://open.spotify.com/album/0BMKIpy6FCzDqFTwQldV5z) | 2:46 |
 | 49 | [Be Alive](https://open.spotify.com/track/1SI4Jhz2pK8kEBXY6dgzGr) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC), [Keev](https://open.spotify.com/artist/2KS5HYsDqrlhrMDLcxWoAK) | [Be Alive](https://open.spotify.com/album/33SL2ccRH87zKgaZK9BDhF) | 3:44 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 69 | [Legendary](https://open.spotify.com/track/6oY0sv8ZQgmxCtoUke81Oy) | [Haysen Cheng](https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK), [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [Legendary](https://open.spotify.com/album/2MYEs6S7dpyM2BEJlGev8T) | 2:48 |
 | 70 | [梵谷的左耳](https://open.spotify.com/track/7jSzvCaepzEIZmFWPuOUpa) | [Proak 破克](https://open.spotify.com/artist/0RKnMMXqLd9Dgdr701ZBq3), [Punnz](https://open.spotify.com/artist/041qo0bxobn8Q9TiuM1Coc), [湯捷](https://open.spotify.com/artist/6ppk3Nvwb2FrS1EGfzkSAh) | [梵谷的左耳](https://open.spotify.com/album/3IK0EyLT9oHC2nWN2HMhmr) | 2:35 |
 | 71 | [Hot Sauce](https://open.spotify.com/track/4KOK9rRVZY9Wp7Buh1oZDj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Hot Sauce](https://open.spotify.com/album/7dEQzGm9KcIxWukfhZjUcM) | 2:49 |
-| 72 | [The Girls \(feat\. An Qi\)](https://open.spotify.com/track/6EUX5SSKPaPp4mtXvifQK6) | [VaVa](https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q), [安崎](https://open.spotify.com/artist/3lkWf9z5ce3DZCUY5U8zSS) | [V\-Mystery \(Full Version\)](https://open.spotify.com/album/2sgtqv39DrvOMHFVNBPZxq) | 3:01 |
+| 72 | [The Girls \(feat\. 安崎\)](https://open.spotify.com/track/6EUX5SSKPaPp4mtXvifQK6) | [VaVa](https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q), [安崎](https://open.spotify.com/artist/3lkWf9z5ce3DZCUY5U8zSS) | [V解之謎 \(Full Version\)](https://open.spotify.com/album/2sgtqv39DrvOMHFVNBPZxq) | 3:01 |
 | 73 | [五堵](https://open.spotify.com/track/2WNCh6lr2IN58Ae7u334dO) | [Gambler](https://open.spotify.com/artist/1ZAYRafIkXuUA2YCMkxYbX) | [五堵](https://open.spotify.com/album/2AE4OCL9r8RiBBZyGCFLnS) | 2:37 |
 
 Snapshot ID: `MTY1ODEwNzM1OSwwMDAwMDExZjAwMDAwMTgyMGVlNjcyOWMwMDAwMDE4MWY3N2JhOWEx`

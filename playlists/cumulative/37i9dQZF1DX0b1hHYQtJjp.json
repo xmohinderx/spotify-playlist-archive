@@ -5756,6 +5756,24 @@
     },
     {
       "album": {
+        "name": "Self Explanatory",
+        "url": "https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181039,
+      "name": "Handle Me Gently",
+      "url": "https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l"
+    },
+    {
+      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
       },
@@ -10631,7 +10649,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 217426,
       "name": "New Light",
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
@@ -13613,6 +13631,24 @@
       "duration_ms": 203091,
       "name": "Steam",
       "url": "https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "album": {

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,326 likes - 66 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,503 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [紅蓮華](https://open.spotify.com/track/1hFsEbHxsfflhLEPCq5tzk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 3:58 |
-| 2 | [Secret Base\~Kimigakuretamono \- 10 Years After Version](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base kimigakuretamono](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 |
+| 2 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 |
 | 3 | [ピースサイン](https://open.spotify.com/track/5d0vOwEXKjlcb0RWy0EIt6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン](https://open.spotify.com/album/4ZpIFW4JzbWmvdvm9PI3K8) | 3:57 |
 | 4 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 |
 | 5 | [unravel](https://open.spotify.com/track/5orAKrVdrk1kPtTa7zNvYL) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 3:58 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 54 | [Hello,world!](https://open.spotify.com/track/1YqVJ2YSgwxWpfuENocF2t) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Butterflies](https://open.spotify.com/album/7xEb9qTZuR3LMPETeHR1A5) | 4:08 |
 | 55 | [i Love](https://open.spotify.com/track/0h2XBBdwPYP2uJ6g2ZiEcE) | [Azusa](https://open.spotify.com/artist/35jlPjvRx3pLt2yQYbFFRL) | [azusa](https://open.spotify.com/album/0Z5sUHMdCiRMkqPJwKtXwJ) | 4:23 |
 | 56 | [POP TEAM EPIC](https://open.spotify.com/track/1wKNjt94Q6xdcHAuW5Wviz) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [POP TEAM EPIC](https://open.spotify.com/album/5sTss5hT7jCWFPoG6ue2Ho) | 5:23 |
-| 57 | [Ima Hanashitai Darekagairu](https://open.spotify.com/track/0OrhBuni0lfd7Qcm8kaaYA) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [Memories \- Anohana Kokosake SONG COLLECTION](https://open.spotify.com/album/7c5eKgCk92J2dWE1ER5vP0) | 4:26 |
+| 57 | [今、話したい誰かがいる](https://open.spotify.com/track/0OrhBuni0lfd7Qcm8kaaYA) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [Memories 〜あの花&ここさけ SONG COLLECTION〜](https://open.spotify.com/album/7c5eKgCk92J2dWE1ER5vP0) | 4:26 |
 | 58 | [ゆりゆららららゆるゆり大事件](https://open.spotify.com/track/61azyPuUixbcl178GUYKll) | [Nanamori\-Chu☆Goraku\-Bu](https://open.spotify.com/artist/7lHxn2a12AG79OCsoFIWuj) | [ゆりゆららららゆるゆり大事件](https://open.spotify.com/album/06T5UPTsg92kgaEcxopIYF) | 3:50 |
 | 59 | [DREAM SOLISTER](https://open.spotify.com/track/59Swm876fBPn9qGsRByJNV) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Joy Heart](https://open.spotify.com/album/0EagKH2euPBYoiyJH8oYJa) | 5:00 |
 | 60 | [Can Do](https://open.spotify.com/track/0mJfQhcSwE5caboPNv9JL1) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [CRACK STAR FLASH](https://open.spotify.com/album/671v5gbdhkD96e7YGxQDmB) | 4:23 |

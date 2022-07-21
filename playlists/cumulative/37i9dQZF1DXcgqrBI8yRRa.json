@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "+234",
+        "url": "https://open.spotify.com/album/76AK0KzTGvTeld5Tza5MRc"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132911,
+      "name": "+234",
+      "url": "https://open.spotify.com/track/371o3VFIoEDH6crkA42Kxy"
+    },
+    {
+      "album": {
         "name": "66",
         "url": "https://open.spotify.com/album/6pTx4o3Ww2KeWMUVtONaGd"
       },
@@ -1042,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "album": {
         "name": "Kwaku the Traveller",
         "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
       },
@@ -1575,7 +1611,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
@@ -2085,7 +2121,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 443091,
       "name": "uMlando",
       "url": "https://open.spotify.com/track/03GRsjCSytQo3LuspJayKT"

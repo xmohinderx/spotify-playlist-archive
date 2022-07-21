@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
   "name": "Pop Latino: Los 80",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1ftfsehyp3cng4ZdMJRsmy"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 205306,
       "name": "A qui\u00e9n le importa",
       "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
@@ -273,7 +275,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 224733,
       "name": "Fiesta En Am\u00e9rica",
       "url": "https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn"
@@ -514,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Timbiriche 7",
+        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "M\u00e1gico Amor",
+      "url": "https://open.spotify.com/track/4FnG8X0UANwF8Ifiy6h6gV"
+    },
+    {
+      "album": {
         "name": "Deseo Carnal",
         "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
       },
@@ -597,7 +617,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 242466,
       "name": "No Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/6qQyG6BLQi0hvqdmMxOrlG"
@@ -615,7 +635,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 200782,
       "name": "No Tengo Dinero - 1983",
       "url": "https://open.spotify.com/track/2aNJgu9u1sy44SsbdOCg3d"
@@ -669,7 +689,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 183946,
       "name": "Qu\u00e9 Te Pasa",
       "url": "https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB"

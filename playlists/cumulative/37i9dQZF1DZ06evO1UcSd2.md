@@ -4,7 +4,7 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/1YYodDIyxN0i5Xwsstvkpi)
+57 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/1YYodDIyxN0i5Xwsstvkpi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [El Mas Chico De Los Anthrax](https://open.spotify.com/track/0Apq3JwAePBL2QKZJ0FMFO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:35 | 2022-06-01 |  |
 | [El Muchachon](https://open.spotify.com/track/2U76GCIBtzPNDCsLoxP02p) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:27 | 2022-06-03 | 2022-06-29 |
 | [El Plumas](https://open.spotify.com/track/0Gbvdas2fBkDsQBiNgq8dN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Plumas](https://open.spotify.com/album/2yB6Jml9JVX50kTjlU2cgX) | 2:57 | 2022-06-01 |  |
-| [El Rata Güera](https://open.spotify.com/track/2L5zcjxbMjWqvpDoulVrMX) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:20 | 2022-06-01 |  |
+| [El Rata Güera](https://open.spotify.com/track/2L5zcjxbMjWqvpDoulVrMX) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:20 | 2022-06-01 | 2022-07-21 |
 | [El Rojo](https://open.spotify.com/track/3uTQirB0Tbn2aIAEV8qziP) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Rebeldia](https://open.spotify.com/artist/5HTV2maKCjFFrTttrcXhsC) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 2:30 | 2022-06-01 |  |
 | [El Señor Zambada](https://open.spotify.com/track/1CBXspim9GK60C4auWiPBe) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 3:42 | 2022-06-01 |  |
 | [El Teniente Pa' La Clica](https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Teniente Pa' La Clica](https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR) | 2:50 | 2022-06-01 |  |
@@ -63,6 +63,7 @@
 | [Soy Mencho](https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:00 | 2022-06-01 |  |
 | [Voy Pa Delante](https://open.spotify.com/track/0hGLcNLLqSyzq6ZdEYYiyK) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Voy Pa Delante](https://open.spotify.com/album/349AQXsglTZZJzozudosQe) | 2:50 | 2022-06-01 |  |
 | [Ya Valiste Madre \- En Vivo](https://open.spotify.com/track/3f615FYAufUocTYlEMh3Fv) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ya Valiste Madre \(En Vivo\)](https://open.spotify.com/album/6paAsiZAEqWpTR1EujPATt) | 3:07 | 2022-06-01 |  |
+| [Yo Cuido DEL](https://open.spotify.com/track/5ihpj1arZpof4Kmfeyj1n1) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Yo Cuido DEL](https://open.spotify.com/album/0NFmCyEmoYeTPaF1FLyJTO) | 2:36 | 2022-07-20 |  |
 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 | 2022-06-01 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

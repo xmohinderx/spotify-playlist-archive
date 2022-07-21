@@ -4,7 +4,7 @@
 
 > The biggest songs in Latin America in 2000\. Cover: Joan Sebastian
 
-50 songs - 3 hr 35 min - not published yet
+50 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/7rDMQ8PyGXsU6SOwqfSvQH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

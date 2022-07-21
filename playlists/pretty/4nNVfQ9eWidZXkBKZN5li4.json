@@ -1,12 +1,12 @@
 {
-  "description": "Get on top of Bollywood's newest and all time hits - Raataan Lambiyan and Ranjha from Shershaah, Param Sundari, Shayad,  Channa Mereya and more ft. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and many more. Listen to Bollywood's best only on this playlist!",
-  "num_followers": 214289,
+  "description": "Get on top of Bollywood's all time hits - Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India. Listen to Bollywood favourites only on this playlist!",
+  "num_followers": 214297,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "NDEzNCxkYzllNDQ0MmQyNjVjNDNhZjU5YjgyMjMwZWE4MTMxZDc1OWJjMDBh",
+  "snapshot_id": "NDE4NCxjYTU5YzU3NTMzNWY0OTc0NDFhMzIwOTRlNjEyNzE2MDNjYzhmOWM5",
   "tracks": [
     {
       "added_at": "2022-07-18 10:03:31",
@@ -129,20 +129,100 @@
       "url": "https://open.spotify.com/track/4vjVTc6cqDwZJ40ILlEpEx"
     },
     {
-      "added_at": "2022-07-15 05:32:11",
+      "added_at": "2022-07-20 15:26:19",
       "album": {
-        "name": "Baarishon Mein",
-        "url": "https://open.spotify.com/album/0HsLFcmpM2dtnQ30RuiCjT"
+        "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
+        "url": "https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq"
       },
       "artists": [
         {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Baarishon Mein",
-      "url": "https://open.spotify.com/track/7doebiokA0utWXWcw7rD82"
+      "duration_ms": 211666,
+      "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
+      "url": "https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET"
+    },
+    {
+      "added_at": "2021-08-07 05:30:49",
+      "album": {
+        "name": "Ranjha (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "duration_ms": 228855,
+      "name": "Ranjha (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
+    },
+    {
+      "added_at": "2022-07-20 15:31:36",
+      "album": {
+        "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+        "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "duration_ms": 223271,
+      "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+      "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
+    },
+    {
+      "added_at": "2021-07-30 08:52:07",
+      "album": {
+        "name": "Raataan Lambiyan (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "duration_ms": 230292,
+      "name": "Raataan Lambiyan (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
     },
     {
       "added_at": "2022-06-30 10:34:35",
@@ -177,50 +257,6 @@
       "url": "https://open.spotify.com/track/5Fx04tkVKaLwM6TVAqArx5"
     },
     {
-      "added_at": "2021-07-30 08:52:07",
-      "album": {
-        "name": "Raataan Lambiyan (From \"Shershaah\")",
-        "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        }
-      ],
-      "duration_ms": 230292,
-      "name": "Raataan Lambiyan (From \"Shershaah\")",
-      "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
-    },
-    {
-      "added_at": "2022-06-24 17:07:28",
-      "album": {
-        "name": "Chaand Baaliyan (Girl Let Me Tell You)",
-        "url": "https://open.spotify.com/album/2fV058poX4pEmnytGPP80J"
-      },
-      "artists": [
-        {
-          "name": "Aditya A",
-          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
-        },
-        {
-          "name": "Mumzy Stranger",
-          "url": "https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Chaand Baaliyan - Girl Let Me Tell You",
-      "url": "https://open.spotify.com/track/07Wy1eKaBeKTUhCQVPvaKP"
-    },
-    {
       "added_at": "2022-04-25 11:15:57",
       "album": {
         "name": "Aankhon Se Batana",
@@ -237,28 +273,20 @@
       "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
     },
     {
-      "added_at": "2022-04-18 05:37:52",
+      "added_at": "2022-07-15 05:32:11",
       "album": {
-        "name": "Kesariya Audio Teaser (From \"Brahmastra\")",
-        "url": "https://open.spotify.com/album/715BUKTdGdNjePHLhRltCT"
+        "name": "Baarishon Mein",
+        "url": "https://open.spotify.com/album/0HsLFcmpM2dtnQ30RuiCjT"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
         }
       ],
-      "duration_ms": 44698,
-      "name": "Kesariya Audio Teaser (From \"Brahmastra\")",
-      "url": "https://open.spotify.com/track/46NYX9zIml71qtfYYjakTI"
+      "duration_ms": 224666,
+      "name": "Baarishon Mein",
+      "url": "https://open.spotify.com/track/7doebiokA0utWXWcw7rD82"
     },
     {
       "added_at": "2022-02-01 06:32:51",
@@ -279,34 +307,6 @@
       "duration_ms": 224072,
       "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
       "url": "https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ"
-    },
-    {
-      "added_at": "2021-08-07 05:30:49",
-      "album": {
-        "name": "Ranjha (From \"Shershaah\")",
-        "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Anvita Dutt",
-          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
-        }
-      ],
-      "duration_ms": 228855,
-      "name": "Ranjha (From \"Shershaah\")",
-      "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
     },
     {
       "added_at": "2022-04-18 07:24:47",
@@ -351,6 +351,26 @@
       "duration_ms": 179032,
       "name": "Gehraiyaan Title Track (From \"Gehraiyaan\")",
       "url": "https://open.spotify.com/track/3vBojOn8Nz8gMQmIBeN00M"
+    },
+    {
+      "added_at": "2022-06-24 17:07:28",
+      "album": {
+        "name": "Chaand Baaliyan (Girl Let Me Tell You)",
+        "url": "https://open.spotify.com/album/2fV058poX4pEmnytGPP80J"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        {
+          "name": "Mumzy Stranger",
+          "url": "https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Chaand Baaliyan - Girl Let Me Tell You",
+      "url": "https://open.spotify.com/track/07Wy1eKaBeKTUhCQVPvaKP"
     },
     {
       "added_at": "2022-03-04 05:23:44",
@@ -1565,26 +1585,6 @@
       "url": "https://open.spotify.com/track/6e5DH8YHXdM40ROnD76hZd"
     },
     {
-      "added_at": "2021-01-29 05:10:47",
-      "album": {
-        "name": "Ludo",
-        "url": "https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 309103,
-      "name": "Aabaad Barbaad",
-      "url": "https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD"
-    },
-    {
       "added_at": "2021-11-23 04:56:05",
       "album": {
         "name": "Young Shahrukh (Slowed)",
@@ -1603,54 +1603,6 @@
       "duration_ms": 185074,
       "name": "Young Shahrukh - Slowed",
       "url": "https://open.spotify.com/track/5ODOP1eIQKjtaFBYFSLWaG"
-    },
-    {
-      "added_at": "2021-06-28 04:29:25",
-      "album": {
-        "name": "Meri Pukaar Suno",
-        "url": "https://open.spotify.com/album/7J9aBFYf5mcY8QttUYpjgW"
-      },
-      "artists": [
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
-        },
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        },
-        {
-          "name": "Sadhana Sargam",
-          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
-        },
-        {
-          "name": "Shashaa Tirupati",
-          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
-        },
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        }
-      ],
-      "duration_ms": 296390,
-      "name": "Meri Pukaar Suno",
-      "url": "https://open.spotify.com/track/2VK08b5Yz8X6DCURDboziB"
     },
     {
       "added_at": "2019-10-17 07:01:07",
@@ -1859,30 +1811,6 @@
       "duration_ms": 163426,
       "name": "Dil Bechara",
       "url": "https://open.spotify.com/track/4UJkUnfEEL8B2JZ1OQfYOO"
-    },
-    {
-      "added_at": "2020-01-14 09:34:45",
-      "album": {
-        "name": "Garmi (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Varun Dhawan",
-          "url": "https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O"
-        }
-      ],
-      "duration_ms": 182738,
-      "name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
-      "url": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF"
     },
     {
       "added_at": "2020-08-31 12:23:49",

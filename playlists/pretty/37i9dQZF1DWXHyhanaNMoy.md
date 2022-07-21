@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en love tunes\. Cover: Murda & Hadise
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,629 likes - 73 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,690 likes - 73 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

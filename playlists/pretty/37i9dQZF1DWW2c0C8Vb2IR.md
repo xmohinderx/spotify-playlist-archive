@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Brian Blade, Brad Mehldau, Joshua Redman and Christian McBride
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,922 likes - 35 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,950 likes - 36 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 31 | [Crouch Hill Blues](https://open.spotify.com/track/2qvJlrAerglIuSZ1Me3mMs) | [Kinzoogianna](https://open.spotify.com/artist/2D069JyO8S067PzOr5XtUz) | [Crouch Hill Blues](https://open.spotify.com/album/3jkPkzemsP8WmeuupJpMQ7) | 4:41 |
 | 32 | [Jackpot](https://open.spotify.com/track/1nmtEg06j9fJIrbhVdVQB9) | [Brian Charette](https://open.spotify.com/artist/0BDMJnvi2kFbQAUNUqt5om) | [Jackpot](https://open.spotify.com/album/53bpqU3b1AjAtwXvrxOE5P) | 5:22 |
 | 33 | [Mirror People](https://open.spotify.com/track/4B8P2ipLZwtAqARc9p27Bt) | [Antares Flare](https://open.spotify.com/artist/4paLJfwXTCGA5ltNR290vQ) | [Mirror People](https://open.spotify.com/album/7bpsmsU3aHYj2CUR6ib4hs) | 5:02 |
-| 34 | [I](https://open.spotify.com/track/70fnL09guYHMhfYZW5MhKI) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [I](https://open.spotify.com/album/2RiWTkTESpgbW4bIeCMR38) | 8:00 |
-| 35 | [Dervish \- Idris & Julia Remix](https://open.spotify.com/track/6CKBpYKyff5HwENH5hdXEZ) | [Ill Considered](https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO), [Julia Biel](https://open.spotify.com/artist/0yVDB69ZMFp6w9iSKXz4J9) | [Dervish Remixed](https://open.spotify.com/album/0y6312h2vco5VN3C7Z2BTb) | 5:07 |
+| 34 | [Somebody Else's Idea](https://open.spotify.com/track/7kWiNtjyHhOxDJ13cmeoNU) | [Sun Ra Arkestra](https://open.spotify.com/artist/5V5vvh5MgM7vDuPp4lJYkh) | [Somebody Else's Idea](https://open.spotify.com/album/218MiXoafJZXgtrLMTNWxH) | 6:21 |
+| 35 | [I](https://open.spotify.com/track/70fnL09guYHMhfYZW5MhKI) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [I](https://open.spotify.com/album/2RiWTkTESpgbW4bIeCMR38) | 8:00 |
+| 36 | [Dervish \- Idris & Julia Remix](https://open.spotify.com/track/6CKBpYKyff5HwENH5hdXEZ) | [Ill Considered](https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO), [Julia Biel](https://open.spotify.com/artist/0yVDB69ZMFp6w9iSKXz4J9) | [Dervish Remixed](https://open.spotify.com/album/0y6312h2vco5VN3C7Z2BTb) | 5:07 |
 
 Snapshot ID: `MTY1Nzg1NzcyMCwwMDAwMDQwNTAwMDAwMTgyMDAwNTNmMmIwMDAwMDE4MWYzMjg4MDBi`

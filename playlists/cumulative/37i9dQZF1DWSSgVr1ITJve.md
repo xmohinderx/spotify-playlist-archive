@@ -4,7 +4,7 @@
 
 > Afro culture mixed with Arab vibes\. Cover: Ali Loka.
 
-50 songs - 2 hr 41 min - not published yet
+50 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

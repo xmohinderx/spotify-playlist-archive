@@ -4,7 +4,7 @@
 
 > Tracks popping off in the global Afro scene\. Cover: JMANI
 
-47 songs - 2 hr 26 min - not published yet
+47 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

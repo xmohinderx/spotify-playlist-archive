@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 159761,
       "name": "Arson",
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
@@ -705,6 +705,24 @@
       "duration_ms": 143733,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE"
+    },
+    {
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "album": {
@@ -1512,6 +1530,24 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "CHEERS",
+      "url": "https://open.spotify.com/track/1pdFdv8R6ezIAUUNkn785b"
+    },
+    {
+      "album": {
         "name": "CHICKEN TENDIES",
         "url": "https://open.spotify.com/album/72gGqv8n64gwUBY10SPI3N"
       },
@@ -1687,24 +1723,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
-    },
-    {
-      "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "date_added": "2022-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257105,
-      "name": "Cold Hearted",
-      "url": "https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ"
     },
     {
       "album": {
@@ -3265,24 +3283,6 @@
     {
       "album": {
         "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244046,
-      "name": "Greatest Works of Art",
-      "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
-    },
-    {
-      "album": {
-        "name": "Greatest Works of Art",
         "url": "https://open.spotify.com/album/014D4QX0zLjN25inbVf8SL"
       },
       "artists": [
@@ -4113,7 +4113,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 246280,
       "name": "If You Don't Love Me, It's Fine",
       "url": "https://open.spotify.com/track/4oeHo4sQtR0hMaLAdxYNGy"
@@ -5533,7 +5533,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -6565,7 +6565,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 186813,
       "name": "Pink Ocean",
       "url": "https://open.spotify.com/track/0w8p2STLgLE2VIVYUzAszZ"
@@ -6801,42 +6801,6 @@
       "duration_ms": 223093,
       "name": "Red (Taylor's Version)",
       "url": "https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6"
-    },
-    {
-      "album": {
-        "name": "Red Scarf (\"Till We Meet Again\" Movie Theme Song)",
-        "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "date_added": "2021-12-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 274400,
-      "name": "Red Scarf - \"Till We Meet Again\" Movie Theme Song",
-      "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
-    },
-    {
-      "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "date_added": "2022-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234226,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5Hkj927A3CCy6Xymg9Z2Br"
     },
     {
       "album": {
@@ -8038,24 +8002,6 @@
     },
     {
       "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "date_added": "2022-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 265813,
-      "name": "Still Wandering",
-      "url": "https://open.spotify.com/track/35xilew5nalcetOeytaDFj"
-    },
-    {
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -9192,28 +9138,6 @@
     },
     {
       "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        },
-        {
-          "name": "Gary Yang",
-          "url": "https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG"
-        }
-      ],
-      "date_added": "2022-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270000,
-      "name": "Waiting For You (with Gary Yang)",
-      "url": "https://open.spotify.com/track/3j2O0gUZaIT5SSpC9F4Emw"
-    },
-    {
-      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -9564,28 +9488,6 @@
     },
     {
       "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        },
-        {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
-        }
-      ],
-      "date_added": "2022-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220693,
-      "name": "Won't Cry",
-      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
-    },
-    {
-      "album": {
         "name": "McCartney II (Special Edition)",
         "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
@@ -9765,24 +9667,6 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
-    },
-    {
-      "album": {
-        "name": "Greatest Works of Art",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "date_added": "2022-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257838,
-      "name": "You Are The Firework I Missed",
-      "url": "https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6"
     },
     {
       "album": {
@@ -9990,6 +9874,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "\u5012\u5f71",
+      "url": "https://open.spotify.com/track/5Hkj927A3CCy6Xymg9Z2Br"
+    },
+    {
+      "album": {
         "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
         "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
       },
@@ -10077,6 +9979,24 @@
       "duration_ms": 249586,
       "name": "\u5929\u5929\u597d\u5929",
       "url": "https://open.spotify.com/track/2Cf2X7XDK3yeDpLioM6vWk"
+    },
+    {
+      "album": {
+        "name": "\u5982\u679c\u53ef\u4ee5 (\u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274400,
+      "name": "\u5982\u679c\u53ef\u4ee5 - \u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
     },
     {
       "album": {
@@ -10170,6 +10090,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244046,
+      "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+      "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
+    },
+    {
+      "album": {
         "name": "\u70ed\u7231105\u00b0C\u7684\u4f60",
         "url": "https://open.spotify.com/album/4XktKsPVpaOckY0CenAJRZ"
       },
@@ -10224,6 +10162,68 @@
     },
     {
       "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Gary Yang",
+          "url": "https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "\u7b49\u4f60\u4e0b\u8ab2",
+      "url": "https://open.spotify.com/track/3j2O0gUZaIT5SSpC9F4Emw"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257105,
+      "name": "\u7d05\u984f\u5982\u971c",
+      "url": "https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "\u8aaa\u597d\u4e0d\u54ed",
+      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
+    },
+    {
+      "album": {
         "name": "\u8aaa\u597d\u4e0d\u54ed",
         "url": "https://open.spotify.com/album/1aNkIWX1Uz0mSUK3OAFygO"
       },
@@ -10243,6 +10243,42 @@
       "duration_ms": 222333,
       "name": "\u8aaa\u597d\u4e0d\u54ed",
       "url": "https://open.spotify.com/track/56wVfJKtnwlSZtC4NVgIrf"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265813,
+      "name": "\u9084\u5728\u6d41\u6d6a",
+      "url": "https://open.spotify.com/track/35xilew5nalcetOeytaDFj"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257838,
+      "name": "\u932f\u904e\u7684\u7159\u706b",
+      "url": "https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6"
     },
     {
       "album": {

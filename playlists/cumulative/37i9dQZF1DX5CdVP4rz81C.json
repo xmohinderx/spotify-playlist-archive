@@ -7722,6 +7722,24 @@
     },
     {
       "album": {
+        "name": "Kids Are Born Stars",
+        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Kids Are Born Stars",
+      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
+    },
+    {
+      "album": {
         "name": "IT\u2019S OKAY, WE\u2019RE DREAMING",
         "url": "https://open.spotify.com/album/6D4oQ9pbC7MinAd5LdLr0l"
       },
@@ -8595,6 +8613,24 @@
       "duration_ms": 124500,
       "name": "Lost In Between",
       "url": "https://open.spotify.com/track/0rQV8yyM0fjQmZjlJnIR7Y"
+    },
+    {
+      "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
     },
     {
       "album": {
@@ -9855,7 +9891,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 187506,
       "name": "New Normal",
       "url": "https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07"
@@ -15503,7 +15539,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 200282,
       "name": "When You Lose Someone",
       "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"

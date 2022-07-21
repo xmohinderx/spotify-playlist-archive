@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 
 > NCTzens' go\-to place for all things NCT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,637 likes - 116 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,693 likes - 116 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

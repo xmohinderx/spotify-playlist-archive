@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, thasup, Sfera, Lazza, Taxi B e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,307 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,337 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

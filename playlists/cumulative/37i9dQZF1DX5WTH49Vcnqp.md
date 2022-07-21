@@ -4,7 +4,7 @@
 
 > music that's hard to define but easy to love feat\. Maggie Rogers
 
-436 songs - 1 day 0 hr 49 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+438 songs - 1 day 0 hr 55 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-24 | 2022-05-10 |
 | [Apple \(feat\. Jade Alice\)](https://open.spotify.com/track/15orwHTobtcNyUbHiYuWon) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Apple \(feat\. Jade Alice\)](https://open.spotify.com/album/2WHR58s9vtc0RnlkVvpdhq) | 3:37 | 2022-03-28 | 2022-05-13 |
 | [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 | 2022-07-18 |  |
-| [Astral Projection](https://open.spotify.com/track/0cIcEuNjpHSKaXEiH3H1NW) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/6xhv13hoRmxMHCXjp87Kl0) | 3:52 | 2022-03-21 |  |
+| [Astral Projection](https://open.spotify.com/track/0cIcEuNjpHSKaXEiH3H1NW) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/6xhv13hoRmxMHCXjp87Kl0) | 3:52 | 2022-03-21 | 2022-07-21 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-28 | 2022-02-18 |
 | [Baby Blue](https://open.spotify.com/track/1dAyqyYEuX09OH2xroX4oE) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Baby Blue](https://open.spotify.com/album/0gnEHE1k9eKpHbQr6XzUi9) | 3:46 | 2022-03-31 | 2022-05-10 |
 | [Backseat of My Mind \- Radio Edit](https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Backseat of My Mind](https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU) | 3:30 | 2022-05-26 |  |
@@ -369,6 +369,7 @@
 | [Sun Moon](https://open.spotify.com/track/7aBh7zmJbRT6YcdYsYU9kn) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [Sun Moon](https://open.spotify.com/album/26f02v3l05ZmO7oYWnPXFv) | 2:34 | 2021-12-28 | 2022-02-04 |
 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 | 2022-04-11 | 2022-07-01 |
 | [Sunburn](https://open.spotify.com/track/6Fn7on22IiSxsCzSps3eQo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Sunburn](https://open.spotify.com/album/6JsLFPRu7sFRRCJWZiKLaD) | 1:53 | 2022-04-04 | 2022-05-27 |
+| [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-20 |  |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-12-28 | 2022-02-25 |
 | [Superstar](https://open.spotify.com/track/7zvpy4zhp5594U635c3SFL) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Superstar](https://open.spotify.com/album/0u0hWcdDdxXhXdC31gfBGd) | 3:34 | 2022-03-24 | 2022-07-15 |
 | [Surprise Me](https://open.spotify.com/track/29hh4KOAANANjqfl4XcD7K) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Surprise Me](https://open.spotify.com/album/50mjO7QfQFrCAlD0Ot4be0) | 2:51 | 2022-04-14 |  |
@@ -395,7 +396,7 @@
 | [Throw Me A Line](https://open.spotify.com/track/2B9BR45k0rmjGupMXyvUOM) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Sunshine Corner](https://open.spotify.com/album/3oqHKUUQalm8lqryVEt1ws) | 4:10 | 2022-02-24 | 2022-04-07 |
 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 | 2022-07-07 |  |
 | [Tickets](https://open.spotify.com/track/3jdqR0iMfCAhcWBugDS8va) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Adolescent Arcade](https://open.spotify.com/album/1pQoz8gubpJ1rWWoqs6kny) | 3:15 | 2022-03-31 | 2022-07-05 |
-| [To You](https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/1z9DkBF5iZZl26UdbgOrKN) | 3:08 | 2022-05-12 |  |
+| [To You](https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/1z9DkBF5iZZl26UdbgOrKN) | 3:08 | 2022-05-12 | 2022-07-21 |
 | [Too Late Now](https://open.spotify.com/track/6OH7Zxopr4NxIVPfORUEoR) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Too Late Now / Oh No](https://open.spotify.com/album/0c1zD1xhhczlpTNzhuOtvS) | 3:29 | 2021-12-28 | 2022-03-11 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6qPjJY1vQCBKCzDJxQuvhJ) | 3:26 | 2022-07-07 |  |
 | [Touch Back Down](https://open.spotify.com/track/12E7bqGAKIVLmx0aPA0x1V) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Touch Back Down](https://open.spotify.com/album/5LfsDu8m8AKyIljMVTu0BZ) | 4:16 | 2021-12-28 | 2022-03-15 |
@@ -419,6 +420,7 @@
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-06 |  |
 | [Wash My Sorrows Away](https://open.spotify.com/track/2h56k28DnkktEjeL5MOtld) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Wash My Sorrows Away](https://open.spotify.com/album/4BKYhAOgJ756TrZPXpv1q5) | 3:49 | 2021-12-28 | 2022-02-04 |
 | [Waste A Day](https://open.spotify.com/track/2vbtq2lAHfYDUFHYEHlZw5) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Waste A Day](https://open.spotify.com/album/0Bjf8YgyKSn4B4WmnRfM9r) | 3:30 | 2021-12-28 | 2022-02-04 |
+| [Waste Of Space](https://open.spotify.com/track/0BDqmjPsTGs5Lwazq3Evay) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Waste Of Space](https://open.spotify.com/album/3J1NykEkJU34GlEPPPWLuZ) | 3:11 | 2022-07-20 |  |
 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 | 2022-01-20 | 2022-03-04 |
 | [We Don't Talk](https://open.spotify.com/track/1i7FsxeHL4ucIaEUjkK8tB) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [We Don't Talk](https://open.spotify.com/album/69EnFZJj2dKshASrtQIash) | 3:25 | 2022-05-30 | 2022-07-08 |
 | [Weakness](https://open.spotify.com/track/045scjsVsgs4fJtvUgmWtz) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Weakness](https://open.spotify.com/album/5TJt7cpgQmAxuMkrbFvRif) | 3:27 | 2021-12-28 | 2022-02-08 |

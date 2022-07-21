@@ -8,7 +8,6 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ameagari No Step](https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z) | [新しい地図](https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL) | [Ameagari No Step](https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I) | 5:20 | 2022-02-28 |  |
 | [Ask DNA](https://open.spotify.com/track/7tKiqBsdfa0GIccaroDekE) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Knockin'on heaven's door Ask DNA](https://open.spotify.com/album/0jVm4Q8Oa4wzXr1V99flUN) | 4:50 | 2022-02-28 |  |
 | [BLUE](https://open.spotify.com/track/3to42U3gINcBO7oStx7qlh) | [山根麻衣](https://open.spotify.com/artist/2Ks5U0SNZdEons4wFA9sGn) | [「COWBOY BEBOP」オリジナルサウンドトラック3 BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 5:01 | 2022-02-28 |  |
 | [Cat Attack Part 1 \(feat\. A\-Sha Mai Yamane\)](https://open.spotify.com/track/4M9Ch5J3iiPjFBucNIF0wS) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa), [A\-sha Mai Yamane](https://open.spotify.com/artist/0vwCxEHeh2bjIkzXIt9Jog) | [COWBOY BEBOP \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX) | 1:29 | 2022-02-28 |  |
@@ -78,5 +77,6 @@
 | [覚醒](https://open.spotify.com/track/1dPG9yEByXqXrU7cdQC3Or) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [アルジュナ into the another world](https://open.spotify.com/album/49uGwPXsVfNO8jtV5Hp4dU) | 7:57 | 2022-02-28 |  |
 | [誰か、海を。](https://open.spotify.com/track/7H8qFzEiM1TNDh4Mef2Xzw) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 4:54 | 2022-02-28 |  |
 | [走れ走れ](https://open.spotify.com/track/0tP8IbHLyTesf9Q6OMP8Wm) | [Kyoko Endo](https://open.spotify.com/artist/5xOKs0yqtUnyLnZcwtcyEQ) | [ゴールデン☆ベスト 輝きたいの Victor Years 1981\-1985 \(+'99\)](https://open.spotify.com/album/4owLMas5qVNONliIMEmGSJ) | 4:35 | 2022-02-28 |  |
+| [雨あがりのステップ](https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z) | [新しい地図](https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL) | [雨あがりのステップ](https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I) | 5:20 | 2022-02-28 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

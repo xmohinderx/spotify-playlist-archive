@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149 likes - 150 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 150 likes - 150 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 54 | [Overtime](https://open.spotify.com/track/0fQfnGwHb71lcqyoVfbwUy) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:54 |
 | 55 | [Options](https://open.spotify.com/track/5kOGb28zbN5xUDgJDtUsBa) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:55 |
 | 56 | [Tetris](https://open.spotify.com/track/0IlAsqh0LgLEDWwSYDXd3D) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:26 |
-| 57 | [Silencio](https://open.spotify.com/track/3UKaVPFrRiebiMaFj657eG) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:34 |
-| 58 | [Por Arriesgarnos](https://open.spotify.com/track/1SpKiWdhcYnDt6eeFy4coA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Como Ama Una Mujer](https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6) | 3:31 |
-| 59 | [Ahora o Nunca](https://open.spotify.com/track/4maAZ4ZhPD4izQtL7lFlom) | [Oriana Sabatini](https://open.spotify.com/artist/36ZqMC7zjLgKhxKc1l9g0X) | [Aliados](https://open.spotify.com/album/7xjf7xLTk3tePpkIq0OQJR) | 3:34 |
-| 60 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 57 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 58 | [Silencio](https://open.spotify.com/track/3UKaVPFrRiebiMaFj657eG) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:34 |
+| 59 | [Por Arriesgarnos](https://open.spotify.com/track/1SpKiWdhcYnDt6eeFy4coA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Como Ama Una Mujer](https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6) | 3:31 |
+| 60 | [Ahora o Nunca](https://open.spotify.com/track/4maAZ4ZhPD4izQtL7lFlom) | [Oriana Sabatini](https://open.spotify.com/artist/36ZqMC7zjLgKhxKc1l9g0X) | [Aliados](https://open.spotify.com/album/7xjf7xLTk3tePpkIq0OQJR) | 3:34 |
 | 61 | [Lo Que Yo Diga](https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lo Que Yo Diga](https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4) | 2:32 |
 | 62 | [El Último Tango](https://open.spotify.com/track/0s9r2e3sxNETMDZYrkIvzR) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [El Último Tango](https://open.spotify.com/album/5VCIQWVghqtSmsjv9lc5WB) | 3:14 |
 | 63 | [Tu](https://open.spotify.com/track/0i7OAQ584l2Gmp29a7Mj0z) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Como Ama Una Mujer](https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6) | 4:09 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 149 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 150 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc2Mzc5ODQsMDAwMDAwMDAyZmU2ZjM4NjdiNDZkMDNlYzk2MmZhYzdmODc4MDJlMA==`
+Snapshot ID: `Mjc2Mzk0MjQsMDAwMDAwMDBjMmNkZjIwYTA2MTNhYTJmZGNjNTQyMmEwODRhMjU0Zg==`

@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-153 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+154 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Yekhnog](https://open.spotify.com/track/2h9VSz8bhwaVXaSFdRrUXM) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq), [Methaq](https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ) | [Yekhnog](https://open.spotify.com/album/1lvh7PSgMY6Lqt0qNOc9U5) | 4:45 | 2022-02-11 | 2022-06-09 |
 | [أحبك دومي](https://open.spotify.com/track/6ifzqwDP0Fnsz4uhHB8k2c) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [أحبك دومي](https://open.spotify.com/album/0800c1fgGe68F8wHAKU56W) | 3:36 | 2022-07-10 |  |
 | [اسوي الزين](https://open.spotify.com/track/5vrGaDTo4S60i4LcUW8mSV) | [Nasrat Albader](https://open.spotify.com/artist/0pepBeoErqYbqiCEMqFoKu), [غصين سبيروس](https://open.spotify.com/artist/4QncRPuvQ9vOuiJAxUEGHx) | [اسوي الزين](https://open.spotify.com/album/3ueyzP9c69TE1GPVui9c9i) | 3:49 | 2021-12-23 | 2022-03-26 |
+| [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-20 |  |
 | [تبسي](https://open.spotify.com/track/1fdwrQdInEatnElvOZVuEL) | [KHALIFA OG](https://open.spotify.com/artist/0dNsEdHWYo7jFACFABQOWs) | [تبسي](https://open.spotify.com/album/3oMSpM04MvEJPbrBCjbpRT) | 2:57 | 2022-01-05 | 2022-05-14 |
 | [خالتك مو زينة](https://open.spotify.com/track/6uS7J693t7hfZRr8jj0efp) | [Nasrat Albader](https://open.spotify.com/artist/0pepBeoErqYbqiCEMqFoKu), [غصين سبيروس](https://open.spotify.com/artist/4QncRPuvQ9vOuiJAxUEGHx) | [خالتك مو زينة](https://open.spotify.com/album/1P0Wlz91Z5HEA0xgnGgFSu) | 4:51 | 2022-01-05 | 2022-05-14 |
 | [شي خيالي](https://open.spotify.com/track/7vY3YrizWZrTxUvrpkOiPl) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [شي خيالي \- Single](https://open.spotify.com/album/1Tm3jeCXOe6LyQwErdfsYg) | 4:32 | 2021-12-23 | 2022-01-01 |

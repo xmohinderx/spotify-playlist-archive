@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Young the Giant
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,998 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,074 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 117 | [5 minutes til dawn](https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [5 minutes til dawn](https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI) | 2:36 |
 | 118 | [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 |
 | 119 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
-| 120 | [Locked Out](https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Locked Out](https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA) | 2:56 |
+| 120 | [locked out](https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [locked out](https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA) | 2:56 |
 | 121 | [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 |
 | 122 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
 | 123 | [Splinter](https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Splinter](https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K) | 2:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Martina May, Kuban
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,822 likes - 122 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,830 likes - 122 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 195789,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 169959,
       "name": "Baby This Your Body Na G\u00f2be Fine Fine Sweet \u00d2kp\u00e9ke",
       "url": "https://open.spotify.com/track/5SyomyWqCVD0UrdEh2IhN9"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 151510,
       "name": "Cake",
       "url": "https://open.spotify.com/track/2qYWZcBmUQDDwMHnfNIXC4"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 156545,
       "name": "Come Online (feat. King Promise & Diquenza) - Remix",
       "url": "https://open.spotify.com/track/4si8WMTSHD5k9WP5DgV7ye"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 178106,
       "name": "Dabebi",
       "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 200408,
       "name": "London Town",
       "url": "https://open.spotify.com/track/5vsSSc33nKJhWRCrhZvCJa"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 148026,
       "name": "Overload",
       "url": "https://open.spotify.com/track/0gI4KIsL9cf0IQbMRDkByQ"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 145920,
       "name": "Pilolo",
       "url": "https://open.spotify.com/track/4eQjrzsmjd9T8zmcK4Kmnv"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 145174,
       "name": "Property",
       "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
@@ -1671,7 +1671,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 151656,
       "name": "She Loves Me",
       "url": "https://open.spotify.com/track/0NrppiQcbgGrgobengy7e2"
@@ -1777,7 +1777,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 162102,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65"
@@ -1947,6 +1947,36 @@
       "duration_ms": 168896,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD"
+    },
+    {
+      "album": {
+        "name": "Tied Up (feat. Mr Eazi, RAYE and Jake Gosling)",
+        "url": "https://open.spotify.com/album/4tbPtaxjHDV52LOctsiG5r"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Jake Gosling",
+          "url": "https://open.spotify.com/artist/20twLKFb2Nhd8duUH0k2DJ"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Tied Up (feat. Mr. Eazi, RAYE & Jake Gosling)",
+      "url": "https://open.spotify.com/track/6x2rOU6kWCb4hapELxe5N9"
     },
     {
       "album": {

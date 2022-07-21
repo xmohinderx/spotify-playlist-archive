@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-740 songs - 1 day 14 hr 51 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+741 songs - 1 day 14 hr 54 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Feberdrømmer Xx Dubai](https://open.spotify.com/track/7bgknc0sSmkIWc2am7QDEv) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Feberdrømmer Xx Dubai](https://open.spotify.com/album/32zVjZoaLTFnbYW5XUQFnT) | 3:41 | 2022-06-04 |  |
 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 | 2021-11-17 | 2022-01-08 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-11-30 | 2021-12-27 |
+| [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-07-20 |  |
 | [FIFTY](https://open.spotify.com/track/0St57Ts9cUkrHIQUeKYKe8) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [INGEN ROSER UDEN TORNE](https://open.spotify.com/album/5LgXmRK2qQq5NNnQA5tLUN) | 2:46 | 2022-06-04 | 2022-06-19 |
 | [Finally It's Christmas Again](https://open.spotify.com/track/58K5nAWRgdHtdUdrQaScGv) | [Youknowwho](https://open.spotify.com/artist/52jN7IKeNLSZvuFEjrM9ba), [Christina](https://open.spotify.com/artist/5huUF1XazRSvkFuuJxMjj4) | [Finally It's Christmas Again](https://open.spotify.com/album/4kznq1BDydGRs7rmEIYAwh) | 3:51 | 2021-11-28 | 2021-12-27 |
 | [Finde På \(feat\. Artigeardit & Sivas\)](https://open.spotify.com/track/6343QrkZ4Puef1ng6x00K9) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Hva ved de om Lams](https://open.spotify.com/album/0klSbgZIH2cjPlvtpPGQLE) | 2:33 | 2021-06-27 | 2021-06-28 |
@@ -539,7 +540,7 @@
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-03 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-06-25 |  |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-07 | 2022-02-01 |
-| [Op A Væggen](https://open.spotify.com/track/1rhAnDeiinLzTE21CpMi9U) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Op A Væggen](https://open.spotify.com/album/1vuI4ngP4rLqtg1SkycVAN) | 3:16 | 2022-06-13 |  |
+| [Op A Væggen](https://open.spotify.com/track/1rhAnDeiinLzTE21CpMi9U) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Op A Væggen](https://open.spotify.com/album/1vuI4ngP4rLqtg1SkycVAN) | 3:16 | 2022-06-13 | 2022-07-21 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-15 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2021-09-17 | 2022-01-08 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2021-11-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lizzo, Tierry com Wesley Safadão, Orochi e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,760,307 likes - 97 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760,275 likes - 97 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 42 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
 | 43 | [i’m a mess](https://open.spotify.com/track/1muOmaGrLHPU86XiE8pLgJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:33 |
 | 44 | [É Foda Pra Quem Ama \(feat\. Tarcísio do Acordeon\)](https://open.spotify.com/track/79EWj5pCFYlMxtNjqjk3tJ) | [Samarony](https://open.spotify.com/artist/4o1QghKQF2AWdomKx3xHGq), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [É Foda Pra Quem Ama \(feat\. Tarcísio do Acordeon\)](https://open.spotify.com/album/3S5wFZxR0idg30lm8U8Qbe) | 3:20 |
-| 45 | [Bebe, Volta e Senta](https://open.spotify.com/track/6Ym7xKKimhfvHv0dxQpVo8) | [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv), [Mad Dogz](https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP) | [Bebe, Volta e Senta](https://open.spotify.com/album/3z3h2qrCVQeaMHVaWOOAxL) | 2:25 |
+| 45 | [Bebe, Volta e Senta \- Ao Vivo](https://open.spotify.com/track/6Ym7xKKimhfvHv0dxQpVo8) | [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv), [Mad Dogz](https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP) | [Bebe, Volta e Senta \(Ao Vivo\)](https://open.spotify.com/album/3z3h2qrCVQeaMHVaWOOAxL) | 2:25 |
 | 46 | [5 dias Depois](https://open.spotify.com/track/2H2TN9XBH11Tts7v70WS4a) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [5 dias Depois](https://open.spotify.com/album/1osdEErtuB5X7aRgFXjGqI) | 2:43 |
 | 47 | [Só Vem Me Amar \- Ao Vivo](https://open.spotify.com/track/3ecAHvQQ9f7elopDl1Lle5) | [Sandro e Cícero](https://open.spotify.com/artist/3asFzvfQUWzmAJQtWoL1u5) | [No Hype, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4cD43ldH0cO9XOO7ZX5xSd) | 2:14 |
 | 48 | [Cama Nova \- Ao Vivo](https://open.spotify.com/track/1tauFOkTNDy8DHW38WiALK) | [Felipe Grilo](https://open.spotify.com/artist/0kBK89gG6KK0EerF62bfM3) | [Quebra Minha Promessa](https://open.spotify.com/album/63PG8fOOII4ThHatTUt9YX) | 2:45 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 64 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
 | 65 | [Esperei Tempo Demais](https://open.spotify.com/track/5FAx1DCmZXHcOpldzoztY0) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Esperei Tempo Demais](https://open.spotify.com/album/2AjIUh469xf6gDCeuGs526) | 3:12 |
 | 66 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 |
-| 67 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 |
+| 67 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 |
 | 68 | [Tempo](https://open.spotify.com/track/6V5Z2tf4PKkAYxKnQdybhl) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/6PGgG0q7JZUdIHsGrRvYhP) | 2:28 |
 | 69 | [Placeholder](https://open.spotify.com/track/2mZhWoguUqZTivAnSmlBUE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Placeholder](https://open.spotify.com/album/0fjn5aDzYjBnWctsHplKAG) | 2:39 |
 | 70 | [Bota Uma Roupa](https://open.spotify.com/track/6O1yFnCIqhVQyZUaQteF1i) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp) | [Gemini \- Parte 1](https://open.spotify.com/album/3mUDkF8NKzZq9zd3bHcZEu) | 2:56 |

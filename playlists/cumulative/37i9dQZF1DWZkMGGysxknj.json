@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
   "name": "Caf\u00e9, Libros.",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7x6tkeswM5zsR8gwqcHjZe"
+  ],
   "tracks": [
     {
       "album": {
@@ -485,7 +487,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 188735,
       "name": "Dancing With A Stranger",
       "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
@@ -503,7 +505,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 225899,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7EDW147fQhxkCl7JOWFzJg"
@@ -849,7 +851,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 179510,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
@@ -969,6 +971,24 @@
       "duration_ms": 220933,
       "name": "Hacia El Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1a8JXGNz4a9gmiAdEKUpks"
+    },
+    {
+      "album": {
+        "name": "Happy Now (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Happy Now - Acoustic",
+      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
     },
     {
       "album": {
@@ -1145,7 +1165,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 211403,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/10e8OyV77FnTWvWhO1x6n6"
@@ -1327,10 +1347,28 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 230333,
       "name": "Juvenescence",
       "url": "https://open.spotify.com/track/73LVxUKfVeLqlQ9qqhTQ3h"
+    },
+    {
+      "album": {
+        "name": "Songs of Dylan",
+        "url": "https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158491,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/20VC8UqK5YUBDQZIozqdGV"
     },
     {
       "album": {
@@ -1385,7 +1423,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 247660,
       "name": "L.A Coliseum",
       "url": "https://open.spotify.com/track/22bndzPoPVfvHHuE3HM0Iv"
@@ -1411,7 +1449,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 182680,
       "name": "La Marelle / Amarelinha",
       "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
@@ -1711,7 +1749,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 211902,
       "name": "My Friend (Solo Acoustic Version)",
       "url": "https://open.spotify.com/track/5Bbi1jdMAmJBoDhV0yv4W8"
@@ -1909,7 +1947,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 253597,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l"
@@ -2140,6 +2178,24 @@
     },
     {
       "album": {
+        "name": "Behind the Backs of Houses",
+        "url": "https://open.spotify.com/album/0tl6ZLzmWGtaJ1aa3KAqld"
+      },
+      "artists": [
+        {
+          "name": "Hanging Valleys",
+          "url": "https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281746,
+      "name": "Sleeping Sound",
+      "url": "https://open.spotify.com/track/2DMgHkEVC6h2SeOEQqsNBY"
+    },
+    {
+      "album": {
         "name": "Softly / Please (Mahogany Sessions)",
         "url": "https://open.spotify.com/album/6sfk1SGJdv9vpFmTniMvnS"
       },
@@ -2223,7 +2279,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 225790,
       "name": "Starboy - Acoustic",
       "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
@@ -2331,7 +2387,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 216386,
       "name": "Tenderness",
       "url": "https://open.spotify.com/track/0l4C0NqebeMcpVJkduRuUK"
@@ -2493,7 +2549,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 241150,
       "name": "Toxicity",
       "url": "https://open.spotify.com/track/1jwbHFwZiK0VEFwbudkWA2"
@@ -2649,7 +2705,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 238266,
       "name": "Valentine Shmalentine",
       "url": "https://open.spotify.com/track/05clJaG0NPoowlJR4sUknK"
@@ -2869,7 +2925,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 192334,
       "name": "Wow.",
       "url": "https://open.spotify.com/track/6pzsnbNRn8pm84lLvppo4l"
@@ -2945,7 +3001,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 142680,
       "name": "Young Boy - Home Recording",
       "url": "https://open.spotify.com/track/3ypH2Qjy1KpRUv8Yyw86Ie"

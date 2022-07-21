@@ -4,7 +4,7 @@
 
 > When the sun has set and you need to relax.
 
-362 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/4eHVLgf6H8Os6JnzpI7nEx)
+367 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/4eHVLgf6H8Os6JnzpI7nEx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Feathers](https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ) | [Tanisha Hickman](https://open.spotify.com/artist/3bF4QRKnDmeeFT7WxcwOus) | [Feathers](https://open.spotify.com/album/5oe3BBpC7dNUNu8RDdo5XB) | 2:05 | 2022-05-20 |  |
 | [Fidélité](https://open.spotify.com/track/1DCnFaiApmFJGKUQrqRX98) | [Verney Pépin](https://open.spotify.com/artist/1m0iaSvYDVKEUe4gkPXriQ) | [Fidélité](https://open.spotify.com/album/3ZnbAjXnCRGLo4tzSOUPiY) | 2:45 | 2022-05-20 |  |
 | [Fifth Season](https://open.spotify.com/track/1ZBFbDeigSeewJ4fjslV0p) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Fifth Season](https://open.spotify.com/album/7ljI3UpeR4ewS323IfBQQV) | 2:47 | 2022-05-20 |  |
+| [Finale](https://open.spotify.com/track/3NT3cMv9qqmIX45fQqwVIU) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Sweet Water](https://open.spotify.com/album/4pFfD5JJWub5rc1A7kflUG) | 2:34 | 2022-07-20 |  |
 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 | 2022-05-20 |  |
 | [Fleeting Glance](https://open.spotify.com/track/6mGpPGoeT3WnR6od1vAw0H) | [R Eugene](https://open.spotify.com/artist/5INtIOjjy8zDoOraEPyhVn) | [Fleeting Glance](https://open.spotify.com/album/1vjY2YeQaqshe98GinMtH5) | 2:39 | 2022-05-20 |  |
 | [Fleurs de cerisier](https://open.spotify.com/track/0CMjjw0RYpNfQ1VkkL6Bwf) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [Fleurs de cerisier](https://open.spotify.com/album/6GNx3naU5PE4SjscEVOfCS) | 2:40 | 2022-05-20 |  |
@@ -189,6 +190,7 @@
 | [Maiden´s Blush](https://open.spotify.com/track/2RzamwHT6KYUAo0cHlY6r0) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Maxine](https://open.spotify.com/album/46o6wVwjYewCk2cFa239XN) | 4:02 | 2022-05-20 |  |
 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 | 2022-05-20 |  |
 | [Mare Nostrum](https://open.spotify.com/track/08NywOqVYmiuQ8mLpQaUeG) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Mare Nostrum](https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7) | 3:15 | 2022-05-20 |  |
+| [Marietta](https://open.spotify.com/track/7I3YkJ333ghsMaQXSiQNi2) | [Isaac Nash](https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD) | [Marietta](https://open.spotify.com/album/1GFJ90yWL7Y9rBYrIpI7LG) | 2:23 | 2022-07-20 |  |
 | [Me Donner Un Essai](https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Me Donner Un Essai](https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue) | 1:57 | 2022-05-20 |  |
 | [Meditation: I\. Promise](https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Karen LeFrak: Interlude, Vol\. 3 – Gratitude](https://open.spotify.com/album/17pzfCMTtp0AnuccfsoUvy) | 2:00 | 2022-05-20 |  |
 | [Memoir](https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Memoir](https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5) | 3:22 | 2022-05-20 |  |
@@ -235,9 +237,11 @@
 | [Plane Of Incidence](https://open.spotify.com/track/0CpTqfYYWimRxn6qLNyX4O) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Plane Of Incidence](https://open.spotify.com/album/6SjT6FwVn6rgt9I1bqlVEz) | 2:21 | 2022-05-20 |  |
 | [Portraits Of Jane](https://open.spotify.com/track/43roNryaSvhJl44nkaf9IX) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Portraits Of Jane](https://open.spotify.com/album/5NOzttfi0gigAsCfWweEC0) | 2:13 | 2022-05-20 |  |
 | [Potomac](https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq) | [Fiona Astier](https://open.spotify.com/artist/0lbcryc0VC6meVy7yoreV4) | [Potomac](https://open.spotify.com/album/25NV8qmZcF6pp4CvmbWSsE) | 2:10 | 2022-05-20 |  |
+| [Pour Vous](https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 2:30 | 2022-07-20 |  |
 | [Prelude In A\-Flat](https://open.spotify.com/track/26ufMVgpojM835miVaoTZG) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Prelude In A\-Flat](https://open.spotify.com/album/1cAx6BheD7zUvHlhr0S4Ph) | 2:40 | 2022-05-20 |  |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2022-05-20 |  |
 | [Prime](https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy) | [Colette Blanche](https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn) | [Prime](https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t) | 2:17 | 2022-05-20 |  |
+| [Pure Joy](https://open.spotify.com/track/3CyDX1BeiOFbTcgnPijESa) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Pure Joy](https://open.spotify.com/album/2PCZzOR3EMGI7m6yXLceZN) | 2:49 | 2022-07-20 |  |
 | [Purity](https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Purity](https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj) | 2:26 | 2022-05-20 |  |
 | [Quiet Conversation](https://open.spotify.com/track/1Oh2lgjyAt26WZ7SeyJLzY) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Quiet Conversation](https://open.spotify.com/album/4U8TIDkfNdGeuKcFw8SgoB) | 4:21 | 2022-05-20 |  |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-05-20 |  |
@@ -311,6 +315,7 @@
 | [The Chapel](https://open.spotify.com/track/4Vuegf7MFlYZ5h8WK973O3) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [The Chapel](https://open.spotify.com/album/6D6v2edEjUDk5OMVcvzbGO) | 3:30 | 2022-05-20 |  |
 | [The Crossing \(Revisited\)](https://open.spotify.com/track/2aLM9O5Gz5X758xYkgpSC6) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Crossing \(Revisited\)](https://open.spotify.com/album/7EvoRhA8ptjI0AoQQu4n6s) | 1:57 | 2022-05-20 |  |
 | [The Garden](https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Simple Things](https://open.spotify.com/album/2Mb8DzYuYlPIM1IaNmO0oq) | 3:05 | 2022-05-20 |  |
+| [The Garden](https://open.spotify.com/track/2DiA01I5LFxzZC7QpVg3PZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Garden](https://open.spotify.com/album/09kiYFhi76YddawBYnHKXt) | 2:56 | 2022-07-20 |  |
 | [The Inner World](https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu) | [Ruben Galloway](https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX) | [Origins](https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A) | 3:22 | 2022-05-20 |  |
 | [The Kimberley](https://open.spotify.com/track/3cZPbtGWtcv4DnsCwgTuUD) | [Rory Whitford](https://open.spotify.com/artist/5VzjMIYvFYcB4sUmiH5vL2) | [The Kimberley](https://open.spotify.com/album/7uxYx8RGqVKvzRRLXpx8l7) | 1:48 | 2022-05-20 |  |
 | [The Northern Fairy](https://open.spotify.com/track/1hwfxmyMPUvuuihQY1PLOK) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [The Northern Fairy](https://open.spotify.com/album/3T27VKk3B5a2GY4Ayfc8Ws) | 2:10 | 2022-05-20 |  |

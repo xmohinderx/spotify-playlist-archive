@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-482 songs - 20 hr 40 min - not published yet
+482 songs - 20 hr 40 min - [published](https://open.spotify.com/playlist/15RUXksGluTeXbT9B9rphD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

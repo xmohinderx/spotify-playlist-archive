@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Tayc
 
-101 songs - 5 hr 18 min - not published yet
+101 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

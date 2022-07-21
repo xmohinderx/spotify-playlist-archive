@@ -22366,6 +22366,24 @@
     },
     {
       "album": {
+        "name": "Somebody Else's Idea",
+        "url": "https://open.spotify.com/album/218MiXoafJZXgtrLMTNWxH"
+      },
+      "artists": [
+        {
+          "name": "Sun Ra Arkestra",
+          "url": "https://open.spotify.com/artist/5V5vvh5MgM7vDuPp4lJYkh"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381786,
+      "name": "Somebody Else's Idea",
+      "url": "https://open.spotify.com/track/7kWiNtjyHhOxDJ13cmeoNU"
+    },
+    {
+      "album": {
         "name": "Universal Language -Self Translation-",
         "url": "https://open.spotify.com/album/0P1EngtSVs7KhUBFMqSzKm"
       },

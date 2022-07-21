@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,218 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,746 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CIRCUS](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) | 3:14 |
 | 2 | [Fairytale](https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 2:52 |
-| 3 | [VENOM \-Japanese version\-](https://open.spotify.com/track/14s7yMIqLhXW31laHmKFr9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 3:15 |
-| 4 | [Silent Cry \-Japanese version\-](https://open.spotify.com/track/6QmZI52HcGpe1rwPVom7DX) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 3:31 |
+| 3 | [蜘蛛の糸 \(VENOM\) \-Japanese ver.\-](https://open.spotify.com/track/14s7yMIqLhXW31laHmKFr9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 3:15 |
+| 4 | [Silent Cry \-Japanese ver.\-](https://open.spotify.com/track/6QmZI52HcGpe1rwPVom7DX) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 3:31 |
 | 5 | [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 |
-| 6 | [MANIAC \-Japanese version\-](https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MANIAC \-Japanese version\-](https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa) | 3:04 |
+| 6 | [MANIAC \-Japanese ver.\-](https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MANIAC \-Japanese ver.\-](https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa) | 3:04 |
 | 7 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
 | 8 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 |
 | 9 | [VENOM](https://open.spotify.com/track/5VwOAFFqlLikti3l1RJnPz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:14 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 31 | [Winter Falls](https://open.spotify.com/track/68JybsZc5XKAWxmHBL8z0U) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 3:55 |
 | 32 | [24 to 25](https://open.spotify.com/track/7cRYXWQjXyLg6C1Hu9uc1S) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 3:36 |
 | 33 | [DOMINO \- English](https://open.spotify.com/track/5p56pVLbYafZMT9rcuymY2) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 3:18 |
-| 34 | [CALL](https://open.spotify.com/track/40eQ3f56CJ34Io5JXKn5rF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars / Thunderous \-Japanese version\-](https://open.spotify.com/album/5hsCdHPhvg7mOo0OVzn5O0) | 2:47 |
+| 34 | [CALL](https://open.spotify.com/track/40eQ3f56CJ34Io5JXKn5rF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars / ソリクン \-Japanese ver.\-](https://open.spotify.com/album/5hsCdHPhvg7mOo0OVzn5O0) | 2:47 |
 | 35 | [Here Always \(SEUNGMIN of Stray Kids\)](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
 | 36 | [Scars](https://open.spotify.com/track/4C9Zhjq5ux9ieiDWYfFcfP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars](https://open.spotify.com/album/3r5zRh7uNj1dvPVSUtzyvN) | 3:20 |
 | 37 | [Thunderous](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:03 |

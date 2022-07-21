@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 200400,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 298853,
       "name": "Dirrty (feat. Redman)",
       "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 237333,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1AM8QdDFZMq6SrrqUnuQ9P"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 199853,
       "name": "Hollaback Girl",
       "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 203600,
       "name": "I'm a Slave 4 U",
       "url": "https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 231760,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g"
@@ -1738,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "Funhouse (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7xA4yujjiiATLqcG8QC2Ix"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/4LyvsPgJtjUQQtw0FJ6Jys"
+    },
+    {
+      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -2107,7 +2125,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 240040,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/6si71supnBUhddjR2FJc2L"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 224400,
       "name": "Womanizer",
       "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"

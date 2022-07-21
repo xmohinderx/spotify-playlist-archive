@@ -1122,6 +1122,24 @@
     },
     {
       "album": {
+        "name": "Archetype",
+        "url": "https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168828,
+      "name": "Archetype",
+      "url": "https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g"
+    },
+    {
+      "album": {
         "name": "Scrawny / Are You Bored Yet?",
         "url": "https://open.spotify.com/album/0i7wFYWvxxfR5V7DvMZFVL"
       },
@@ -3527,7 +3545,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 159333,
       "name": "Come With Me Now",
       "url": "https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H"
@@ -4687,7 +4705,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 235000,
       "name": "Driving South",
       "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
@@ -5371,7 +5389,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 195800,
       "name": "Feel It All The Time",
       "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
@@ -7211,7 +7229,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 201546,
       "name": "Helmet",
       "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
@@ -7313,6 +7331,24 @@
       "duration_ms": 198315,
       "name": "Here It Comes",
       "url": "https://open.spotify.com/track/3Xeyn4UqgRGnLVaBKOE7kP"
+    },
+    {
+      "album": {
+        "name": "Here to Forever",
+        "url": "https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226320,
+      "name": "Here to Forever",
+      "url": "https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI"
     },
     {
       "album": {
@@ -7583,7 +7619,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 209087,
       "name": "Hollywood Forever Cemetery",
       "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
@@ -7619,7 +7655,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 268992,
       "name": "Home By Now",
       "url": "https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC"
@@ -8475,7 +8511,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 242737,
       "name": "I Was Neon",
       "url": "https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7"
@@ -8587,7 +8623,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
@@ -9401,7 +9437,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 223626,
       "name": "Johnson Song",
       "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
@@ -9563,7 +9599,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 218613,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LF6MTkvDYOacFQPFVc15x"
@@ -9927,7 +9963,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 227053,
       "name": "L-Train",
       "url": "https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4"
@@ -10587,7 +10623,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 166852,
       "name": "Look at it in the Light",
       "url": "https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB"
@@ -10857,7 +10893,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 245426,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk"
@@ -11717,6 +11753,24 @@
       "duration_ms": 188617,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf"
+    },
+    {
+      "album": {
+        "name": "Motorbike",
+        "url": "https://open.spotify.com/album/5BAb9XB8KHaO1KZRwE3Cuw"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201333,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J"
     },
     {
       "album": {
@@ -12987,7 +13041,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
@@ -13533,6 +13587,24 @@
       "duration_ms": 180000,
       "name": "Paperbacks",
       "url": "https://open.spotify.com/track/5wagMdtXxmWEiKXWqriCf9"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
     },
     {
       "album": {
@@ -15137,7 +15209,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 220669,
       "name": "Santa Barbara",
       "url": "https://open.spotify.com/track/5HYPU0x0lbMfMyCASETzK5"
@@ -15289,7 +15361,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 232653,
       "name": "See You When The End's Near",
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
@@ -16657,7 +16729,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 162880,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
@@ -16794,6 +16866,24 @@
     },
     {
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "album": {
         "name": "Sunshine (feat. Foushe\u00e9)",
         "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
       },
@@ -16925,7 +17015,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 118168,
       "name": "SYNCOPATE",
       "url": "https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI"
@@ -17767,7 +17857,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 229714,
       "name": "The Night Has Missed Me",
       "url": "https://open.spotify.com/track/0tH8LYAaoTsPWmFeEUEnIF"
@@ -17879,7 +17969,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 181506,
       "name": "THE SHADE",
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
@@ -18489,7 +18579,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 119016,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
@@ -19045,7 +19135,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 198840,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/4UoZigJdqn8y8jmMzuvmLd"
@@ -19893,7 +19983,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 209667,
       "name": "Whales",
       "url": "https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v"
@@ -20077,7 +20167,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 225128,
       "name": "Where Are You Now? (feat. girlhouse)",
       "url": "https://open.spotify.com/track/5iYv4Kj9EEBMJRoFOlJWeb"
@@ -20715,7 +20805,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 152450,
       "name": "you're a parasite",
       "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"

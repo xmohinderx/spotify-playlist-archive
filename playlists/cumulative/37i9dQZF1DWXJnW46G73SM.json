@@ -398,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Ba3d Fatra",
+        "url": "https://open.spotify.com/album/5fyH1zkFx6QNiypRw1hm5a"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Ba3d Fatra",
+      "url": "https://open.spotify.com/track/6NpgIEuoXTpUz68mVPk1Ty"
+    },
+    {
+      "album": {
         "name": "Balaleen",
         "url": "https://open.spotify.com/album/37UynY0uK4f0M9tRKcfubi"
       },
@@ -597,6 +615,24 @@
       "duration_ms": 162720,
       "name": "Dars Hayaty",
       "url": "https://open.spotify.com/track/7nDgc4FJD4EUyGJAVjbVHP"
+    },
+    {
+      "album": {
+        "name": "Dom Dom",
+        "url": "https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182438,
+      "name": "Dom Dom",
+      "url": "https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm"
     },
     {
       "album": {
@@ -2301,7 +2337,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 166979,
       "name": "Pablo Ewaa Tabelo",
       "url": "https://open.spotify.com/track/0knH4tZZ5skqSUjY3Ks6FY"
@@ -3183,7 +3219,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 214000,
       "name": "\u0641\u0643\u0643 - \u0627\u062d\u0644\u0627\u0645 \u0633\u0639\u064a\u062f\u0629",
       "url": "https://open.spotify.com/track/2mfFZJkSMONc1oDuUth0GN"

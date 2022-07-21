@@ -28,7 +28,6 @@
 | [KHAYYALA](https://open.spotify.com/track/33ZTgAaPHck9KIIOEnkSxC) | [EQuBE](https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [KHAYYALA](https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg) | 3:09 | 2021-08-25 |  |
 | [Konna Sghar](https://open.spotify.com/track/55ExdRqYPtqMOweJaWqwbX) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/6wlJNQtXLY3ypYXVsayxnV) | 2:16 | 2021-08-25 |  |
 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 | 2021-08-25 |  |
-| [La Teghmizini](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [La Teghmizini](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 | 2021-08-25 |  |
 | [Laysa](https://open.spotify.com/track/0FJ7WZEaCsZPFxzt1LZ7Xy) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Laysa](https://open.spotify.com/album/77k4juG5fkQ0oT9zrmNA1m) | 2:26 | 2021-08-25 |  |
 | [Ma Bdi Heb](https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Ma Bdi Heb](https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z) | 4:14 | 2021-08-25 |  |
 | [Mabsoot Bhali](https://open.spotify.com/track/39efRQpfCpC418qhWOwE41) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Mabsoot Bhali](https://open.spotify.com/album/1HKy7sOwF0qCUIKLlSluNl) | 3:19 | 2021-08-25 |  |
@@ -59,5 +58,6 @@
 | [Zubalah](https://open.spotify.com/track/2KCBxLXOmiv2skjcuUpePN) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Khusouf Al\-Ard](https://open.spotify.com/album/6gnf8UdhDLssZAvG3PF5Dw) | 3:48 | 2021-08-25 |  |
 | [إنهض](https://open.spotify.com/track/6gaEXyjkXtIfFcmNZSPQhL) | [Emsallam](https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1) | [إنهض](https://open.spotify.com/album/2UYF5glGACebnFJcxzMHEO) | 4:08 | 2021-08-25 |  |
 | [دوامات](https://open.spotify.com/track/7ys7eUYsciH8LefcobJ4hQ) | [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [دوامات](https://open.spotify.com/album/2PbNvLR2MHgirCervbyo8n) | 4:20 | 2021-08-25 |  |
+| [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 | 2021-08-25 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

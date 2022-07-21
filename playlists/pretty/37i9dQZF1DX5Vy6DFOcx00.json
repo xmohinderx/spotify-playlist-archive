@@ -1,12 +1,12 @@
 {
   "description": "2 die 4 ",
-  "num_followers": 2057363,
+  "num_followers": 2062957,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI2MTY2MCwwMDAwMDM1OTAwMDAwMTgyMTgxOGUyMzYwMDAwMDE4MWRlN2FjMjc3",
+  "snapshot_id": "MTY1ODM0MjM5NSwwMDAwMDM1YTAwMDAwMTgyMWNlOGNlYjYwMDAwMDE4MWRlN2FjMjc3",
   "tracks": [
     {
       "added_at": "2022-07-07 16:59:53",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4"
     },
     {
-      "added_at": "2022-06-30 15:34:12",
-      "album": {
-        "name": "Conceited",
-        "url": "https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 146440,
-      "name": "Conceited",
-      "url": "https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv"
-    },
-    {
       "added_at": "2022-04-20 06:33:10",
       "album": {
         "name": "17",
@@ -555,6 +539,22 @@
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
+    },
+    {
+      "added_at": "2022-07-12 21:38:18",
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "THE SHADE",
+      "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
     },
     {
       "added_at": "2022-07-06 01:01:57",
@@ -605,6 +605,22 @@
       "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
     },
     {
+      "added_at": "2022-07-20 18:39:55",
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 196458,
+      "name": "because i liked a boy",
+      "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
+    },
+    {
       "added_at": "2022-07-05 20:40:08",
       "album": {
         "name": "Starboy",
@@ -637,22 +653,6 @@
       "url": "https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT"
     },
     {
-      "added_at": "2022-07-12 21:38:18",
-      "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "THE SHADE",
-      "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
-    },
-    {
       "added_at": "2022-07-08 13:58:02",
       "album": {
         "name": "Hotel",
@@ -667,6 +667,38 @@
       "duration_ms": 155350,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/01JudCVH6imG6Zh4aHBTAq"
+    },
+    {
+      "added_at": "2022-06-30 15:34:12",
+      "album": {
+        "name": "Conceited",
+        "url": "https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 146440,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv"
+    },
+    {
+      "added_at": "2022-07-14 17:08:30",
+      "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
     },
     {
       "added_at": "2022-06-24 13:08:04",
@@ -685,20 +717,20 @@
       "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
     },
     {
-      "added_at": "2022-07-14 17:08:30",
+      "added_at": "2022-07-03 16:49:53",
       "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+        "name": "touch tank",
+        "url": "https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6"
       },
       "artists": [
         {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
         }
       ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
+      "duration_ms": 179133,
+      "name": "touch tank",
+      "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
     },
     {
       "added_at": "2022-07-07 16:59:53",
@@ -805,20 +837,24 @@
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
-      "added_at": "2022-07-03 16:49:53",
+      "added_at": "2022-05-16 12:46:18",
       "album": {
-        "name": "touch tank",
-        "url": "https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6"
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
       "artists": [
         {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
         }
       ],
-      "duration_ms": 179133,
-      "name": "touch tank",
-      "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
+      "duration_ms": 241066,
+      "name": "I Was Never There",
+      "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
     },
     {
       "added_at": "2022-06-30 20:20:31",
@@ -915,26 +951,6 @@
       "duration_ms": 156650,
       "name": "BABYDOLL (Speed)",
       "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
-    },
-    {
-      "added_at": "2022-05-16 12:46:18",
-      "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "I Was Never There",
-      "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
     },
     {
       "added_at": "2022-07-06 20:00:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > The sweet sounds of Algeria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,891 likes - 49 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,962 likes - 49 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

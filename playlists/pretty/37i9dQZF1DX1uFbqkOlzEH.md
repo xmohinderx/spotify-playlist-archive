@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,396 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,431 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 95 | [Clock Out](https://open.spotify.com/track/3rpVUtSmM78lWeJSMQLCSw) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Clock Out](https://open.spotify.com/album/6EGUu4CDVbPr0YAggnmVSG) | 3:49 |
 | 96 | [JAJAJA \(feat\. Dynamicduo, Crush\)](https://open.spotify.com/track/1YgCNd0v734B3WrBFML74c) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [YDG Series VOL.1 JAJAJA](https://open.spotify.com/album/1aCovYVqK73mXeAA3aZSEj) | 3:42 |
 | 97 | [The Key](https://open.spotify.com/track/3WwccpehsAfh3FL85CFCpb) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [4 the Youth](https://open.spotify.com/album/4S4oCOWlvUSiYWwKBk7bbE) | 3:06 |
-| 98 | [Domino](https://open.spotify.com/track/5IMS0D9wJu1U91O73sFqT1) | [1THE9](https://open.spotify.com/artist/6ZZafCTzyk1yjqEES63cMm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [XIX](https://open.spotify.com/album/1u6A9D6lnJ3RT1wRjVRueH) | 3:29 |
+| 98 | [Domino \(feat\. Crush\) \(Prod\. Crush, Gxxd\)](https://open.spotify.com/track/5IMS0D9wJu1U91O73sFqT1) | [1THE9](https://open.spotify.com/artist/6ZZafCTzyk1yjqEES63cMm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [XIX](https://open.spotify.com/album/1u6A9D6lnJ3RT1wRjVRueH) | 3:29 |
 | 99 | [highfiVe](https://open.spotify.com/track/6pnn1CdUNjy2iEXr5wouyr) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [highfiVe](https://open.spotify.com/album/1mO8asyLRCJZ6I09wMNs5j) | 4:01 |
 | 100 | [Peace \(Prod\. By Cosmic Boy\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |
 | 101 | [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/1F1PRYM5ZKwXX8CKAegvMi) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN) | 4:25 |

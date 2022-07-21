@@ -4,7 +4,7 @@
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Brian Blade, Brad Mehldau, Joshua Redman and Christian McBride
 
-1,321 songs - 4 day 13 hr 5 min - [published](https://open.spotify.com/playlist/0siys22nGZQAi8UglzoSEO)
+1,322 songs - 4 day 13 hr 11 min - [published](https://open.spotify.com/playlist/0siys22nGZQAi8UglzoSEO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1003,6 +1003,7 @@
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/374xlMkx3II0c4gzEu0MZ9) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Joel Frahm](https://open.spotify.com/artist/78tGlRBjLrulJ8xqoZw83M), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [Softly, as in a Morning Sunrise](https://open.spotify.com/album/60OYUck4Ae0QzHxcqtgUmP) | 4:59 | 2022-01-07 | 2022-01-29 |
 | [Solaris](https://open.spotify.com/track/37z6ECZ6ZVkRsGbEq7vVUv) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y), [D.D\. Jackson](https://open.spotify.com/artist/01u7BVdgU7EmjtBPHVvQSV) | [Solaris](https://open.spotify.com/album/2Z0TStkaT9jIAqFpOeIxAI) | 2:26 | 2022-06-03 | 2022-06-11 |
 | [Some Place Else](https://open.spotify.com/track/1DIv90fU5eo5LEyPeW3kHS) | [Ivan Radivojević Quartet](https://open.spotify.com/artist/3OIqROiS4ij3PnQf96tA6Z) | [In Plain View](https://open.spotify.com/album/7JGb0ZMB5TF14qAMASg7Xc) | 9:07 | 2022-05-13 | 2022-05-20 |
+| [Somebody Else's Idea](https://open.spotify.com/track/7kWiNtjyHhOxDJ13cmeoNU) | [Sun Ra Arkestra](https://open.spotify.com/artist/5V5vvh5MgM7vDuPp4lJYkh) | [Somebody Else's Idea](https://open.spotify.com/album/218MiXoafJZXgtrLMTNWxH) | 6:21 | 2022-07-15 |  |
 | [Someday We'll Fly](https://open.spotify.com/track/4k98hsTy9dAhsckyUAQa0u) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Universal Language \-Self Translation\-](https://open.spotify.com/album/0P1EngtSVs7KhUBFMqSzKm) | 8:24 | 2022-03-25 | 2022-04-02 |
 | [Something to Say](https://open.spotify.com/track/4TTiEoizS7c55DVM1d2jP4) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Something to Say](https://open.spotify.com/album/5ZLkbeV54PzC7bnIcMuart) | 5:08 | 2021-12-10 | 2022-01-08 |
 | [Something Tomorrow](https://open.spotify.com/track/6il16WIBZGRYEJ5sqpYoVY) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K) | [Something Tomorrow](https://open.spotify.com/album/2MDgqeWW7IJot1PPNKN2at) | 3:17 | 2022-05-06 | 2022-05-14 |

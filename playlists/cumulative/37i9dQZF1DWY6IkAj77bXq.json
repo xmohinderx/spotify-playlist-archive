@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
   "name": "Sanaci\u00f3n Profunda",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0GSyIlhN75utulsjStUTdu"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 191111,
       "name": "A Space Within a Space",
       "url": "https://open.spotify.com/track/37WWBXEkERdURM1S9SCuwW"
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 139600,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
@@ -57,6 +59,24 @@
       "duration_ms": 184477,
       "name": "Air in the Morning",
       "url": "https://open.spotify.com/track/265Gf3408oAX2bGYUYf7i9"
+    },
+    {
+      "album": {
+        "name": "Quiet Hours",
+        "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Nights",
+          "url": "https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA"
     },
     {
       "album": {
@@ -125,7 +145,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 164210,
       "name": "Blissful",
       "url": "https://open.spotify.com/track/5m7SY0GjW0n0LWz10XA8VP"
@@ -161,10 +181,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 157402,
       "name": "Capella",
       "url": "https://open.spotify.com/track/4An1Q5SqarQjbKLXCChQ58"
+    },
+    {
+      "album": {
+        "name": "Calming Water",
+        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
+      },
+      "artists": [
+        {
+          "name": "Divine Retreat",
+          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239353,
+      "name": "Cleansing Raindrops",
+      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
     },
     {
       "album": {
@@ -215,7 +253,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 124615,
       "name": "Dream Away",
       "url": "https://open.spotify.com/track/2DDPIz36qdIcdDzRorKALC"
@@ -251,7 +289,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 137349,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
@@ -305,7 +343,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 233383,
       "name": "Emerald Isles",
       "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
@@ -323,7 +361,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 191976,
       "name": "Endless",
       "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
@@ -348,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/7nrcHhFkdyUPNeiKku96jJ"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187272,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/4F0lm6JQ9e6g59FBqAnwOE"
+    },
+    {
+      "album": {
         "name": "Floating Without Gravity",
         "url": "https://open.spotify.com/album/4SsWdFTjKxD0vLwr0IS065"
       },
@@ -359,7 +415,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "Floating Without Gravity",
       "url": "https://open.spotify.com/track/2CZNgun4NU3Ui9cVbL3c9h"
@@ -413,7 +469,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 255792,
       "name": "Hills Of Clarity",
       "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
@@ -449,7 +505,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 161012,
       "name": "Hush",
       "url": "https://open.spotify.com/track/4YRRQ2lY39cU4XCCcqZEyo"
@@ -503,7 +559,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 167099,
       "name": "Light & Hope",
       "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
@@ -575,7 +631,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 160188,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/2743TnEHSd1VI9Dwrzut7k"
@@ -593,7 +649,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 172372,
       "name": "Moonchild's First Flight",
       "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
@@ -651,6 +707,24 @@
       "duration_ms": 185000,
       "name": "My Horizon",
       "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
+    },
+    {
+      "album": {
+        "name": "Natural Essentials",
+        "url": "https://open.spotify.com/album/3wNDHjotE7OuXmTmjXlmyS"
+      },
+      "artists": [
+        {
+          "name": "Meditaci\u00f3n M\u00fasica Ambiente",
+          "url": "https://open.spotify.com/artist/5LJBMRcPlMWzJeCILYD48q"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252765,
+      "name": "Nature's Embrace",
+      "url": "https://open.spotify.com/track/5m3jRldCUrybs5M95MMoRb"
     },
     {
       "album": {
@@ -741,7 +815,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 178500,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
@@ -759,7 +833,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 170958,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2QC08dedfR9aBtLG1Pwhze"
@@ -795,7 +869,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 192187,
       "name": "Repose",
       "url": "https://open.spotify.com/track/5iznXjdt5IJ29UjDM7lVT7"
@@ -813,7 +887,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 229333,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
@@ -831,7 +905,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 220540,
       "name": "Sapphire Dunes",
       "url": "https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ"
@@ -903,7 +977,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 205435,
       "name": "Shaasvat",
       "url": "https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J"
@@ -921,7 +995,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 181411,
       "name": "Shasta - Meditation Mix",
       "url": "https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y"
@@ -939,7 +1013,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 144830,
       "name": "Silent Waters",
       "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
@@ -1018,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Soft Meadow",
+        "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
+      },
+      "artists": [
+        {
+          "name": "Aloen",
+          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193492,
+      "name": "Soft Meadow",
+      "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
+    },
+    {
+      "album": {
         "name": "Somnolent",
         "url": "https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy"
       },
@@ -1029,7 +1121,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 236521,
       "name": "Somnolent",
       "url": "https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR"
@@ -1051,6 +1143,24 @@
       "duration_ms": 179104,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
+    },
+    {
+      "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/45JitQMFNSa8L3wFS5JOcC"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191718,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/5dm8dyCwn5fGikFFmcSoGc"
     },
     {
       "album": {
@@ -1101,10 +1211,46 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 142595,
       "name": "The Sun Will Rise Again",
       "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
+    },
+    {
+      "album": {
+        "name": "Trust the Universe",
+        "url": "https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme"
+      },
+      "artists": [
+        {
+          "name": "Chama Wijnen",
+          "url": "https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Trust the Universe",
+      "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
+    },
+    {
+      "album": {
+        "name": "Unawareness",
+        "url": "https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i"
+      },
+      "artists": [
+        {
+          "name": "Enika Moerani",
+          "url": "https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162028,
+      "name": "Unawareness",
+      "url": "https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > living in beatopia
 
-1,747 songs - 3 day 21 hr 26 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,748 songs - 3 day 21 hr 30 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1193,7 +1193,7 @@
 | [picnic](https://open.spotify.com/track/1Ry0wBREk2niZzLB9OfbdG) | [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT) | [picnic](https://open.spotify.com/album/4J0nenGo3AyImS1oeMOVA7) | 3:59 | 2021-12-10 | 2022-03-05 |
 | [Picture Book](https://open.spotify.com/track/3goYNmDLv0HXUXyJ1XQX99) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Picture Book](https://open.spotify.com/album/1uNWkGs5yvLStN7PzCjPB1) | 2:52 | 2020-10-20 | 2020-11-14 |
 | [Picture Perfect](https://open.spotify.com/track/4PAaJhFkM25JSSkFcqjyxC) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Picture Perfect](https://open.spotify.com/album/4X3zGeBgtrv21QgWyeaPFm) | 3:07 | 2020-02-11 | 2020-05-05 |
-| [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 | 2022-07-15 |  |
+| [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 | 2022-07-15 | 2022-07-21 |
 | [Pieces](https://open.spotify.com/track/1N7fBgBvOdaaTEXGDWPwPi) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Pieces](https://open.spotify.com/album/7MDXOV9d7ynT8DbM8LZuTd) | 2:33 | 2022-05-11 | 2022-06-10 |
 | [Pieces Of Me](https://open.spotify.com/track/7yXibbAYi4to5oQTeO738f) | [Ashlee Simpson](https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L) | [Autobiography](https://open.spotify.com/album/0w11HUk0hE4WZ95Bvp6vNI) | 3:37 | 2021-03-06 | 2021-03-16 |
 | [PINCH ME](https://open.spotify.com/track/1VkM4OtAnNtJa6XBT3SHR6) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/7fh7NBMAAH6OJKfb3AsjGL) | 2:59 | 2021-03-09 | 2022-01-08 |
@@ -1509,6 +1509,7 @@
 | [Sweet](https://open.spotify.com/track/0dMahcyqbfmUiWUL9xiLmg) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/41j4aqUAUNfCCMHmEcx3wA) | 3:46 | 2020-02-05 | 2020-05-29 |
 | [Sweet](https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:51 | 2021-11-13 | 2022-04-21 |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-14 | 2022-01-22 |
+| [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 | 2022-07-20 |  |
 | [Sweet Summer Sweat \(feat\. Dijon\)](https://open.spotify.com/track/6gr9bP5jpNjlRpbF4gLjqi) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Sweet Summer Sweat \(feat\. Dijon\)](https://open.spotify.com/album/3MEECjgqTlGz2HYzRdhrBv) | 3:03 | 2020-08-12 | 2020-09-17 |
 | [Sweet Tooth](https://open.spotify.com/track/6dhn5ZreoskYocA256lMPV) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sweet Tooth](https://open.spotify.com/album/50pwo2lVRHdrusSovA3ic2) | 4:06 | 2020-02-14 | 2020-08-21 |
 | [Sweet Tooth](https://open.spotify.com/track/5dtgtmWdO4pOASLQdOfWSr) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Sweet Tooth](https://open.spotify.com/album/7zSMZnX4BvUQNYQLMN54Yo) | 2:13 | 2021-02-06 | 2021-06-05 |

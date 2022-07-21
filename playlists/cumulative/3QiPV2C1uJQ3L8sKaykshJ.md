@@ -4,7 +4,7 @@
 
 > Listen to A\-List tracks from RCA Records featuring music from Latto x Mariah Carey, Kygo ft\. DNCE, Becky G &amp; Karol G, Doja Cat, and more\. Cover: Doja Cat
 
-59 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/2sh9qmAJ9rtmiXeIBtt7j0)
+61 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/2sh9qmAJ9rtmiXeIBtt7j0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Better](https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2) | 3:49 | 2021-10-01 |  |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2021-10-01 |  |
 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3) | 3:01 | 2022-04-08 |  |
+| [Big Steppa](https://open.spotify.com/track/3tuF5mzK1uJyoypQg9InO1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/14wWinGSvnBrS3PQ7sMeeJ) | 2:27 | 2022-07-20 |  |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-10-01 |  |
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2022-06-14 |  |
 | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/album/4YnR0XuOXV58gmNx0P82fo) | 2:45 | 2021-10-01 |  |
@@ -50,6 +51,7 @@
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-10-01 |  |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-14 |  |
 | [Palace](https://open.spotify.com/track/5iozkhSH9ZyOupcJvXfSL0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 2:42 | 2021-11-03 |  |
+| [Psychic](https://open.spotify.com/track/394hdNuRnciqSxO7bDblIm) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Psychic \(feat\. Jack Harlow\)](https://open.spotify.com/album/3tW2vGd9sCAML9II3VC8yK) | 3:40 | 2022-07-20 |  |
 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 | 2022-02-18 |  |
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6bzGfOiGzkMWslWgguoNnX) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/6BY3nmtdswbEtaXPx46tmc) | 4:09 | 2021-12-03 |  |
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-06-14 |  |

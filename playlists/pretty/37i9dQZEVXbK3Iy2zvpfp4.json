@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
-  "num_followers": 4554,
+  "num_followers": 4555,
   "original_name": "Viral 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzExNTUzNzgxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzExNjM5OTExLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Chrissy, Wake Up",
         "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "die first",
         "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
@@ -73,55 +73,7 @@
       "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "BIG BOY FM",
-        "url": "https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "KOMANDER PUMP IT UP",
-      "url": "https://open.spotify.com/track/1sk1HMcretzLiljqIBAZ8J"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "NEON BLADE",
         "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
@@ -137,7 +89,71 @@
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "BIG BOY FM",
+        "url": "https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "KOMANDER PUMP IT UP",
+      "url": "https://open.spotify.com/track/1sk1HMcretzLiljqIBAZ8J"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "KOKAINA",
+        "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
+      },
+      "artists": [
+        {
+          "name": "DR. VODKA",
+          "url": "https://open.spotify.com/artist/3qb0oGqshqtUmp7AMfKoZi"
+        }
+      ],
+      "duration_ms": 166437,
+      "name": "KOKAINA",
+      "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
@@ -153,7 +169,23 @@
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Sexu\u00e1lna",
+        "url": "https://open.spotify.com/album/45E6EZY5CXPDhGLfvwMcW3"
+      },
+      "artists": [
+        {
+          "name": "Daniella Stylist",
+          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
+        }
+      ],
+      "duration_ms": 90859,
+      "name": "Sexu\u00e1lna",
+      "url": "https://open.spotify.com/track/5tDBMJcg9I8Qr7GRadaZpJ"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "TRAPPIN LONELY",
         "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
@@ -173,39 +205,7 @@
       "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "KOKAINA",
-        "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
-      },
-      "artists": [
-        {
-          "name": "DR. VODKA",
-          "url": "https://open.spotify.com/artist/3qb0oGqshqtUmp7AMfKoZi"
-        }
-      ],
-      "duration_ms": 166437,
-      "name": "KOKAINA",
-      "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Sexu\u00e1lna",
-        "url": "https://open.spotify.com/album/45E6EZY5CXPDhGLfvwMcW3"
-      },
-      "artists": [
-        {
-          "name": "Daniella Stylist",
-          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
-        }
-      ],
-      "duration_ms": 90859,
-      "name": "Sexu\u00e1lna",
-      "url": "https://open.spotify.com/track/5tDBMJcg9I8Qr7GRadaZpJ"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Ch\u00fdba\u0161 mi",
         "url": "https://open.spotify.com/album/2OJ26HYxSjkzfKf62ilFCv"
@@ -225,59 +225,7 @@
       "url": "https://open.spotify.com/track/3TYJocQQ19oJT77bH3KVse"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Stra\u0161ideln\u00fd dom",
-        "url": "https://open.spotify.com/album/0PQ7MZ1ifWDSfAmNQNFno4"
-      },
-      "artists": [
-        {
-          "name": "Fobia Kid",
-          "url": "https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Chcel som iba nov\u00fd skateboard",
-      "url": "https://open.spotify.com/track/24ucioNEuRiCmqbIMNgUup"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Tvoja Hoe",
         "url": "https://open.spotify.com/album/10mqweHm7661O4MENzK7AY"
@@ -297,195 +245,23 @@
       "url": "https://open.spotify.com/track/4hFNCF6JHvSbu8GuYDvvH0"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
-        "name": "engravings",
-        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+        "name": "Stra\u0161ideln\u00fd dom",
+        "url": "https://open.spotify.com/album/0PQ7MZ1ifWDSfAmNQNFno4"
       },
       "artists": [
         {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+          "name": "Fobia Kid",
+          "url": "https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta"
         }
       ],
-      "duration_ms": 180186,
-      "name": "engravings",
-      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+      "duration_ms": 204413,
+      "name": "Chcel som iba nov\u00fd skateboard",
+      "url": "https://open.spotify.com/track/24ucioNEuRiCmqbIMNgUup"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Superache",
-        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Family Line",
-      "url": "https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Betty (Get Money)",
-        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "Betty (Get Money)",
-      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Fall Guys (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT"
-      },
-      "artists": [
-        {
-          "name": "Jukio Kallio",
-          "url": "https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq"
-        },
-        {
-          "name": "Daniel Hagstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "Fall 'N' Roll",
-      "url": "https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Rich Minion",
-        "url": "https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Rich Minion",
-      "url": "https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Ch\u00fdba\u0161 mi",
-        "url": "https://open.spotify.com/album/2OJ26HYxSjkzfKf62ilFCv"
-      },
-      "artists": [
-        {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
-        }
-      ],
-      "duration_ms": 147349,
-      "name": "Makeup",
-      "url": "https://open.spotify.com/track/0F0wMiv8PfATkxC0YO5XqB"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
-      },
-      "artists": [
-        {
-          "name": "Musical Youth",
-          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Pass The Dutchie",
-      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "APPLAUSE (Hardstyle)",
-        "url": "https://open.spotify.com/album/4ANxRq8Ut0FUnk8oaYBgKf"
-      },
-      "artists": [
-        {
-          "name": "DAVNCI",
-          "url": "https://open.spotify.com/artist/3jgUSzb0MadNPC5zEnfKYb"
-        }
-      ],
-      "duration_ms": 174461,
-      "name": "APPLAUSE - Hardstyle",
-      "url": "https://open.spotify.com/track/4ZuOrMKGX2rzJsPf82qGNH"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Shut Up and Listen",
         "url": "https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc"
@@ -505,23 +281,215 @@
       "url": "https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
-        "name": "IMMACULATE",
-        "url": "https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt"
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
       "artists": [
         {
-          "name": "VISXGE",
-          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
         }
       ],
-      "duration_ms": 140873,
-      "name": "IMMACULATE",
-      "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 216094,
+      "name": "Family Line",
+      "url": "https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "engravings",
+        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Ch\u00fdba\u0161 mi",
+        "url": "https://open.spotify.com/album/2OJ26HYxSjkzfKf62ilFCv"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "duration_ms": 147349,
+      "name": "Makeup",
+      "url": "https://open.spotify.com/track/0F0wMiv8PfATkxC0YO5XqB"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Fall Guys (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT"
+      },
+      "artists": [
+        {
+          "name": "Jukio Kallio",
+          "url": "https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq"
+        },
+        {
+          "name": "Daniel Hagstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "Fall 'N' Roll",
+      "url": "https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "APPLAUSE (Hardstyle)",
+        "url": "https://open.spotify.com/album/4ANxRq8Ut0FUnk8oaYBgKf"
+      },
+      "artists": [
+        {
+          "name": "DAVNCI",
+          "url": "https://open.spotify.com/artist/3jgUSzb0MadNPC5zEnfKYb"
+        }
+      ],
+      "duration_ms": 174461,
+      "name": "APPLAUSE - Hardstyle",
+      "url": "https://open.spotify.com/track/4ZuOrMKGX2rzJsPf82qGNH"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Betty (Get Money)",
+        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "Betty (Get Money)",
+      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Jackpot (The Jackpot Playlist Anthem)",
         "url": "https://open.spotify.com/album/52OAhHWlzJpSNrS9vyTR0I"
@@ -537,39 +505,39 @@
       "url": "https://open.spotify.com/track/6fCNwdojdA3mmZvNXdNb5L"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+        "name": "Rich Minion",
+        "url": "https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje"
       },
       "artists": [
         {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 196044,
-      "name": "Like Wooh Wooh",
-      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
+      "duration_ms": 165517,
+      "name": "Rich Minion",
+      "url": "https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/77g80qKJKdCFNxR2HO4E9H"
+        "name": "IMMACULATE",
+        "url": "https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt"
       },
       "artists": [
         {
-          "name": "Meizyy",
-          "url": "https://open.spotify.com/artist/6bfvcDuHhC8XKWj4r4VZ1o"
+          "name": "VISXGE",
+          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
         }
       ],
-      "duration_ms": 211911,
-      "name": "Spokojenej boyy",
-      "url": "https://open.spotify.com/track/2SELMoJUcEpf6ymUegqEMF"
+      "duration_ms": 140873,
+      "name": "IMMACULATE",
+      "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
@@ -585,23 +553,7 @@
       "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "BLEZZK",
         "url": "https://open.spotify.com/album/61z8dlsquYSCOJJrhfCJOm"
@@ -621,23 +573,39 @@
       "url": "https://open.spotify.com/track/4FwI9jUVy9Bu8s1rM1qJqp"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
-        "name": "Patakha Guddi (Drill Remix)",
-        "url": "https://open.spotify.com/album/5wo6rnEdK3czetnOYj8A33"
+        "name": "4",
+        "url": "https://open.spotify.com/album/77g80qKJKdCFNxR2HO4E9H"
       },
       "artists": [
         {
-          "name": "Mid\u00e9 Naike",
-          "url": "https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc"
+          "name": "Meizyy",
+          "url": "https://open.spotify.com/artist/6bfvcDuHhC8XKWj4r4VZ1o"
         }
       ],
-      "duration_ms": 150352,
-      "name": "Patakha Guddi (Drill Remix)",
-      "url": "https://open.spotify.com/track/3kK0hCaW5BuaD1ckNtH2JE"
+      "duration_ms": 211911,
+      "name": "Spokojenej boyy",
+      "url": "https://open.spotify.com/track/2SELMoJUcEpf6ymUegqEMF"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 196044,
+      "name": "Like Wooh Wooh",
+      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -653,175 +621,7 @@
       "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Bustdown Rollie Avalanche",
-        "url": "https://open.spotify.com/album/4q1uibZPEdwaj7Ha9F5lOJ"
-      },
-      "artists": [
-        {
-          "name": "Kai Cenat",
-          "url": "https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 165743,
-      "name": "Bustdown Rollie Avalanche",
-      "url": "https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
-      },
-      "artists": [
-        {
-          "name": "Calpurnia",
-          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
-        }
-      ],
-      "duration_ms": 243053,
-      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "BIG BOY FM",
-        "url": "https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        },
-        {
-          "name": "Natalia Hulejova",
-          "url": "https://open.spotify.com/artist/6z6rGMj1Yl5TKAC56gjfR5"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "MC ERIK & BARBARA",
-      "url": "https://open.spotify.com/track/3U6V6QdJkUuxrrI6cx3JBs"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Satan Was A Babyboomer",
-        "url": "https://open.spotify.com/album/54g6fnFscj5VBxUPTWZoeG"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Satan Was A Babyboomer",
-      "url": "https://open.spotify.com/track/6BKg6rcxI6dzm4hbQLt5TP"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Bloody Samaritan (Cover)",
-        "url": "https://open.spotify.com/album/4saSGO3yHAI4I1sla9X48D"
-      },
-      "artists": [
-        {
-          "name": "Loud Urban Choir",
-          "url": "https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC"
-        }
-      ],
-      "duration_ms": 64571,
-      "name": "Bloody Samaritan - Cover",
-      "url": "https://open.spotify.com/track/5w83Qn94ED9GGuDwQxc1R6"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 218364,
-      "name": "Jimmy Cooks (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Patakha Guddi (Drill Remix)",
-        "url": "https://open.spotify.com/album/266C28NIHFiKAQ9pxsfoR8"
-      },
-      "artists": [
-        {
-          "name": "Trinix Remix",
-          "url": "https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ"
-        },
-        {
-          "name": "Nooran Sisters",
-          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
-        }
-      ],
-      "duration_ms": 126826,
-      "name": "Patakha Guddi - Drill Remix",
-      "url": "https://open.spotify.com/track/6l5Slmqx5eOSdO4MGCkudM"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "BTBT (feat. DeVita)",
-        "url": "https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 219549,
-      "name": "BTBT (feat. DeVita)",
-      "url": "https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Banan",
         "url": "https://open.spotify.com/album/03VJ4k855Lav4Xj030ODgE"
@@ -845,7 +645,127 @@
       "url": "https://open.spotify.com/track/7sqpK9TpNVIWSn01Nm2AUu"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Patakha Guddi (Drill Remix)",
+        "url": "https://open.spotify.com/album/5wo6rnEdK3czetnOYj8A33"
+      },
+      "artists": [
+        {
+          "name": "Mid\u00e9 Naike",
+          "url": "https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc"
+        }
+      ],
+      "duration_ms": 150352,
+      "name": "Patakha Guddi (Drill Remix)",
+      "url": "https://open.spotify.com/track/3kK0hCaW5BuaD1ckNtH2JE"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Bloody Samaritan (Cover)",
+        "url": "https://open.spotify.com/album/4saSGO3yHAI4I1sla9X48D"
+      },
+      "artists": [
+        {
+          "name": "Loud Urban Choir",
+          "url": "https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC"
+        }
+      ],
+      "duration_ms": 64571,
+      "name": "Bloody Samaritan - Cover",
+      "url": "https://open.spotify.com/track/5w83Qn94ED9GGuDwQxc1R6"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Patakha Guddi (Drill Remix)",
+        "url": "https://open.spotify.com/album/266C28NIHFiKAQ9pxsfoR8"
+      },
+      "artists": [
+        {
+          "name": "Trinix Remix",
+          "url": "https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "duration_ms": 126826,
+      "name": "Patakha Guddi - Drill Remix",
+      "url": "https://open.spotify.com/track/6l5Slmqx5eOSdO4MGCkudM"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+      },
+      "artists": [
+        {
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Bustdown Rollie Avalanche",
+        "url": "https://open.spotify.com/album/4q1uibZPEdwaj7Ha9F5lOJ"
+      },
+      "artists": [
+        {
+          "name": "Kai Cenat",
+          "url": "https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 165743,
+      "name": "Bustdown Rollie Avalanche",
+      "url": "https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Je M'appelle",
         "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
@@ -861,7 +781,87 @@
       "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "BTBT (feat. DeVita)",
+        "url": "https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 219549,
+      "name": "BTBT (feat. DeVita)",
+      "url": "https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 218364,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
+      "album": {
+        "name": "BIG BOY FM",
+        "url": "https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        },
+        {
+          "name": "Natalia Hulejova",
+          "url": "https://open.spotify.com/artist/6z6rGMj1Yl5TKAC56gjfR5"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "MC ERIK & BARBARA",
+      "url": "https://open.spotify.com/track/3U6V6QdJkUuxrrI6cx3JBs"
+    },
+    {
+      "added_at": "2022-07-20 13:45:11",
       "album": {
         "name": "Yoga",
         "url": "https://open.spotify.com/album/4raWZxHHQyxz0mdcrRt2Yp"

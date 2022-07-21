@@ -34566,6 +34566,24 @@
     },
     {
       "album": {
+        "name": "Yippie Khayo",
+        "url": "https://open.spotify.com/album/20biP8wNyCQJNWxlKWjBdI"
+      },
+      "artists": [
+        {
+          "name": "Nikky Bourbon",
+          "url": "https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164280,
+      "name": "Yippie Khayo",
+      "url": "https://open.spotify.com/track/4USY6cd9ehvST4hMMZwCJX"
+    },
+    {
+      "album": {
         "name": "Yippie Khayo (Radio Edit)",
         "url": "https://open.spotify.com/album/332KCANvvef11sXsDu6M9B"
       },
@@ -34577,7 +34595,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 164210,
       "name": "Yippie Khayo - radio edit",
       "url": "https://open.spotify.com/track/6EC4XrfDjEt74XidztJ8RE"

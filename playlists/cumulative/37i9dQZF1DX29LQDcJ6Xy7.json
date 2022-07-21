@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
   "name": "Industrial Metal",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2pW8HvIBAmpjMrb0I9AKFn"
+  ],
   "tracks": [
     {
       "album": {
@@ -201,7 +203,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 244166,
       "name": "Blitzkrieg",
       "url": "https://open.spotify.com/track/488SDLKT79YUhmwlb8uDSp"
@@ -237,7 +239,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 230500,
       "name": "Blood of the Titans",
       "url": "https://open.spotify.com/track/0VB4kn8Xjtq5Osxqm57Upt"
@@ -255,7 +257,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 194173,
       "name": "Bombshell",
       "url": "https://open.spotify.com/track/2yY4ojg6wfEFBGVZoJuXqK"
@@ -399,7 +401,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 162823,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/5kfpeoBEHHmIeVYATl6khw"
@@ -417,7 +419,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 206346,
       "name": "D4TM",
       "url": "https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y"
@@ -435,7 +437,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 287525,
       "name": "Denature",
       "url": "https://open.spotify.com/track/7kcKdTFOGQmvWEWZHjth4r"
@@ -583,7 +585,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 243857,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/6lMYWulkz9tC1OR9xHiE9Q"
@@ -644,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Gravity Kills",
+        "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
+      },
+      "artists": [
+        {
+          "name": "Gravity Kills",
+          "url": "https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242026,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
+    },
+    {
+      "album": {
         "name": "One Fire",
         "url": "https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W"
       },
@@ -691,7 +711,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 190327,
       "name": "Hengit\u00e4",
       "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
@@ -709,7 +729,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 314440,
       "name": "Hey Man, Nice Shot - Remastered Version",
       "url": "https://open.spotify.com/track/6jc5gHCmrZW1XLcRM3wFlC"
@@ -745,7 +765,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 147181,
       "name": "Hydrochloride",
       "url": "https://open.spotify.com/track/5guQjkjzpIMpX81VAZTHNy"
@@ -785,6 +805,24 @@
       "duration_ms": 211294,
       "name": "Ikarus",
       "url": "https://open.spotify.com/track/2jZ2QlX1rGgdMSnjSbM2SC"
+    },
+    {
+      "album": {
+        "name": "Sex Reflex (Remastered)",
+        "url": "https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK"
+      },
+      "artists": [
+        {
+          "name": "Bile",
+          "url": "https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292036,
+      "name": "In League",
+      "url": "https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx"
     },
     {
       "album": {
@@ -861,7 +899,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 258106,
       "name": "Jagdzeit",
       "url": "https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq"
@@ -915,7 +953,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 310293,
       "name": "Just One Fix",
       "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
@@ -933,7 +971,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 187422,
       "name": "Justice Way",
       "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
@@ -951,7 +989,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 179178,
       "name": "Killer Quinn",
       "url": "https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf"
@@ -1045,7 +1083,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 238765,
       "name": "Lord Of Chaos",
       "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"
@@ -1081,7 +1119,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 178426,
       "name": "March Of The Pigs",
       "url": "https://open.spotify.com/track/2Ad7XA54Jw0YyBF5rjiFyl"
@@ -1211,7 +1249,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 258873,
       "name": "Narcs",
       "url": "https://open.spotify.com/track/6DRhWAXh1pRkbaBJ4WbXLh"
@@ -1229,7 +1267,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 240516,
       "name": "One Fire",
       "url": "https://open.spotify.com/track/2FcrIQ9A3i6KO2ntF5Yfsu"
@@ -1305,7 +1343,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 268500,
       "name": "Post Self",
       "url": "https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J"
@@ -1359,7 +1397,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 208470,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
@@ -1395,7 +1433,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 154906,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
@@ -1489,7 +1527,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 197001,
       "name": "Shut Down Your Soul",
       "url": "https://open.spotify.com/track/1E1UzXUJfTFSTZfYpJohIv"
@@ -1619,7 +1657,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 218826,
       "name": "The Beautiful People",
       "url": "https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"
@@ -1691,10 +1729,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 314000,
       "name": "TILL THE END",
       "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
+    },
+    {
+      "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/15FB9uYWaMt94zhN6lYIE8"
+      },
+      "artists": [
+        {
+          "name": "SKYND",
+          "url": "https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291502,
+      "name": "Tyler Hadley",
+      "url": "https://open.spotify.com/track/6zK40BRKipYTivAePTIxmd"
     },
     {
       "album": {
@@ -1781,7 +1837,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 175822,
       "name": "Void (Single Edit)",
       "url": "https://open.spotify.com/track/3ZJksw8qj1f0beS3RHm8I3"

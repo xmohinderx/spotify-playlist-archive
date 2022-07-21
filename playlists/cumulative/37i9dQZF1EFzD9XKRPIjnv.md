@@ -31,7 +31,6 @@
 | [distance](https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 | 2021-12-27 |  |
 | [Don't Cry](https://open.spotify.com/track/0A472qovEW32nP2G0mkJoe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:07 | 2021-12-27 |  |
 | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2zy9TMoZlYGuCNY4TLqG24) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 3:03 | 2021-12-27 |  |
-| [Don't Speak](https://open.spotify.com/track/5J6VuORfJF1sByc8m2woNY) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [TIARA](https://open.spotify.com/album/6PYyVGz15q2My7kkpKFyTf) | 2:59 | 2021-12-27 |  |
 | [Drink About](https://open.spotify.com/track/5r2kpjTJlJouxpESA1xEEY) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:02 | 2021-12-27 |  |
 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 | 2021-12-27 |  |
 | [Due West](https://open.spotify.com/track/1EvFahLuLZ0vSVZo8YR3G9) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:11 | 2021-12-27 |  |
@@ -127,5 +126,6 @@
 | [WITHOUT YOU](https://open.spotify.com/track/7aLUbVBpLgsj4QW4fchL47) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [PRINCESS CATGIRL](https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh) | 3:24 | 2021-12-27 |  |
 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-12-27 |  |
 | [Younger](https://open.spotify.com/track/2qXicQG06oT0ijKBznpgQv) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Younger](https://open.spotify.com/album/4rTW2Lgkp1nwYw0jNIK2sI) | 3:42 | 2021-12-27 |  |
+| [別廢話](https://open.spotify.com/track/5J6VuORfJF1sByc8m2woNY) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [TIARA](https://open.spotify.com/album/6PYyVGz15q2My7kkpKFyTf) | 2:59 | 2021-12-27 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,367 likes - 90 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,397 likes - 90 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 3 | [Africvillean Funk](https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Africvillean Funk](https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN) | 3:12 |
 | 4 | [Bay B\. MoMa](https://open.spotify.com/track/60gfsjq0ZiSeTNozFfO8bl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Bay B\. MoMa](https://open.spotify.com/album/6MkQxVuiyhDEXCL2JttDbc) | 4:02 |
 | 5 | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj) | 4:43 |
-| 6 | [Gonna Get In My Way](https://open.spotify.com/track/6pebyG1lz94gB0qxjTyIs2) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Chad Pike](https://open.spotify.com/artist/2jHsExomQEvt5bk6OQfJDL) | [Gonna Get In My Way](https://open.spotify.com/album/70v48r8qwciZ0uyHvsHgST) | 3:55 |
+| 6 | [Gonna Get In My Way](https://open.spotify.com/track/6pebyG1lz94gB0qxjTyIs2) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Gonna Get In My Way](https://open.spotify.com/album/70v48r8qwciZ0uyHvsHgST) | 3:55 |
 | 7 | [Burn](https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Phil Diamond](https://open.spotify.com/artist/7BM0xp1rKAn5qB62J4FBOh) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:38 |
 | 8 | [Maybe Your Baby](https://open.spotify.com/track/6pAiW3roW6efliDgLgaBog) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Realistic Orchestra](https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Chris McGee](https://open.spotify.com/artist/3hFZkF8EDtWcCLTeKgoo1n) | [Maybe Your Baby](https://open.spotify.com/album/3HHFmNSg0aQ5oYgk2KhunF) | 5:27 |
 | 9 | [Cool \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/2NV8520xo3iYrpD8wv4Sxy) | [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Cool \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/0CnL6CPos3VkeqKRaR9Uwp) | 2:54 |

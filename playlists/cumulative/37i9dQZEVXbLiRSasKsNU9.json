@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 186789,
       "name": "2T1BB",
       "url": "https://open.spotify.com/track/5UueGx6aALmUslrPdWOB9K"
@@ -2757,7 +2757,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 207301,
       "name": "Der Zug hat keine Bremse - Mallorcastyle Edition",
       "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
@@ -6253,7 +6253,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
@@ -7465,7 +7465,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 219934,
       "name": "Mi Bebito Fiu Fiu",
       "url": "https://open.spotify.com/track/7hl8yi5iItAYKwtSVtbEhO"
@@ -7523,6 +7523,24 @@
       "duration_ms": 219000,
       "name": "Mi Bebito Fiu Fiu",
       "url": "https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs"
+    },
+    {
+      "album": {
+        "name": "Mi Bebito Fiu Fiu",
+        "url": "https://open.spotify.com/album/1XG3gnmKvB0kC5sFztQ0E8"
+      },
+      "artists": [
+        {
+          "name": "Tony Temperature",
+          "url": "https://open.spotify.com/artist/39WQE9Gh5H6kiCETIwJGgv"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219174,
+      "name": "Mi Bebito Fiu Fiu",
+      "url": "https://open.spotify.com/track/4Ke7vgenot8iGErbr6Bdwa"
     },
     {
       "album": {
@@ -11399,7 +11417,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 181506,
       "name": "THE SHADE",
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"

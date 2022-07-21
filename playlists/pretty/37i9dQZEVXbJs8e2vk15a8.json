@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 70361,
+  "num_followers": 70358,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzExNTUzNzgxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzExNjM5OTEzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Mi Bebito Fiu Fiu",
+        "url": "https://open.spotify.com/album/1XG3gnmKvB0kC5sFztQ0E8"
+      },
+      "artists": [
+        {
+          "name": "Tony Temperature",
+          "url": "https://open.spotify.com/artist/39WQE9Gh5H6kiCETIwJGgv"
+        }
+      ],
+      "duration_ms": 219174,
+      "name": "Mi Bebito Fiu Fiu",
+      "url": "https://open.spotify.com/track/4Ke7vgenot8iGErbr6Bdwa"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "V16",
         "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Mi Bebito Fiu Fiu",
-        "url": "https://open.spotify.com/album/5plDkotyuP7UBM9jkDktLB"
-      },
-      "artists": [
-        {
-          "name": "Blazer Zero",
-          "url": "https://open.spotify.com/artist/2ihGOBxVB7zeDYbieFyeHO"
-        }
-      ],
-      "duration_ms": 219934,
-      "name": "Mi Bebito Fiu Fiu",
-      "url": "https://open.spotify.com/track/7hl8yi5iItAYKwtSVtbEhO"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Fall Guys (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
-      },
-      "artists": [
-        {
-          "name": "The Minions",
-          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
-        }
-      ],
-      "duration_ms": 98211,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
@@ -93,7 +77,7 @@
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Pens\u00e1ndolo Bien",
         "url": "https://open.spotify.com/album/3RMo1apDOyPUfgfR4aBtfq"
@@ -109,7 +93,23 @@
       "url": "https://open.spotify.com/track/4yBCA5pdup6QG3qkXrojKP"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "duration_ms": 98211,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Chrissy, Wake Up",
         "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
@@ -141,55 +141,7 @@
       "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "TE TENGO UNA PROPUESTA",
-        "url": "https://open.spotify.com/album/0E5AJHX0hPGsgMs16ZEu9d"
-      },
-      "artists": [
-        {
-          "name": "Kiddbrevis",
-          "url": "https://open.spotify.com/artist/2uc2B4TbqCMitU3eCBGp5U"
-        }
-      ],
-      "duration_ms": 179657,
-      "name": "TE TENGO UNA PROPUESTA",
-      "url": "https://open.spotify.com/track/1AvQZw6d3CpSE1AwPbLyug"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "TAY PAPO",
         "url": "https://open.spotify.com/album/7a9RHd4sO9X1nFoSBaZzvR"
@@ -213,7 +165,55 @@
       "url": "https://open.spotify.com/track/2wobyrg2plnNYY9Qy8ZPBK"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "TE TENGO UNA PROPUESTA",
+        "url": "https://open.spotify.com/album/0E5AJHX0hPGsgMs16ZEu9d"
+      },
+      "artists": [
+        {
+          "name": "Kiddbrevis",
+          "url": "https://open.spotify.com/artist/2uc2B4TbqCMitU3eCBGp5U"
+        }
+      ],
+      "duration_ms": 179657,
+      "name": "TE TENGO UNA PROPUESTA",
+      "url": "https://open.spotify.com/track/1AvQZw6d3CpSE1AwPbLyug"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
@@ -229,23 +229,7 @@
       "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "die first",
-        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 177108,
-      "name": "die first",
-      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
@@ -277,7 +261,7 @@
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Me Levant\u00e9",
         "url": "https://open.spotify.com/album/6hngQrAYEBb5CNfxfmDlUt"
@@ -293,23 +277,23 @@
       "url": "https://open.spotify.com/track/5dQVCKjXLD4GdnWnrTswJO"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+        "name": "die first",
+        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
       },
       "artists": [
         {
-          "name": "Musical Youth",
-          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 205426,
-      "name": "Pass The Dutchie",
-      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
+      "duration_ms": 177108,
+      "name": "die first",
+      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -329,7 +313,23 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
         "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Until I Found You",
         "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "NEON BLADE",
         "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -413,23 +413,7 @@
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master Of Puppets",
-      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Flashbacks",
         "url": "https://open.spotify.com/album/0b16ekeB67exivDLk5xj2u"
@@ -445,7 +429,23 @@
       "url": "https://open.spotify.com/track/5ToIncnJsCF0HbgqUZIYxl"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Tell Me It's Real (Expanded Edition)",
         "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
@@ -461,7 +461,39 @@
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Plug",
+        "url": "https://open.spotify.com/album/4SAqpEUq1mZ1hAYH5qZncu"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        }
+      ],
+      "duration_ms": 145716,
+      "name": "Plug",
+      "url": "https://open.spotify.com/track/74SYp4GFxYqEBtt1BiwJWZ"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "La Rue Morgue",
+        "url": "https://open.spotify.com/album/0NJN9pYxkzezlzjHbj7Qp4"
+      },
+      "artists": [
+        {
+          "name": "La Rue Morgue",
+          "url": "https://open.spotify.com/artist/26ZwTqwf87K05pQDOg3Tc3"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Sigues Dando Vueltas",
+      "url": "https://open.spotify.com/track/0Xx3oZp0MawleVVxr9MOlG"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -481,39 +513,23 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H"
+        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
         }
       ],
-      "duration_ms": 167973,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
+      "duration_ms": 232893,
+      "name": "Only Love Can Hurt Like This",
+      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "La Rue Morgue",
-        "url": "https://open.spotify.com/album/0NJN9pYxkzezlzjHbj7Qp4"
-      },
-      "artists": [
-        {
-          "name": "La Rue Morgue",
-          "url": "https://open.spotify.com/artist/26ZwTqwf87K05pQDOg3Tc3"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Sigues Dando Vueltas",
-      "url": "https://open.spotify.com/track/0Xx3oZp0MawleVVxr9MOlG"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Sin Miedo",
         "url": "https://open.spotify.com/album/4uePRLsrizKav02ugx8Yvk"
@@ -545,39 +561,39 @@
       "url": "https://open.spotify.com/track/3AmapHSIVmvhxdOsp9IjMs"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
-        "name": "Plug",
-        "url": "https://open.spotify.com/album/4SAqpEUq1mZ1hAYH5qZncu"
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H"
       },
       "artists": [
         {
-          "name": "Piero 47",
-          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 145716,
-      "name": "Plug",
-      "url": "https://open.spotify.com/track/74SYp4GFxYqEBtt1BiwJWZ"
+      "duration_ms": 167973,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
-        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 232893,
-      "name": "Only Love Can Hurt Like This",
-      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -617,47 +633,7 @@
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "BTBT (feat. DeVita)",
-        "url": "https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 219549,
-      "name": "BTBT (feat. DeVita)",
-      "url": "https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Bury the Light",
         "url": "https://open.spotify.com/album/55RULuYZGg7QUBqYQePPR7"
@@ -677,7 +653,7 @@
       "url": "https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Betty (Get Money)",
         "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
@@ -693,39 +669,7 @@
       "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
         "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
@@ -753,7 +697,131 @@
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 295413,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "BTBT (feat. DeVita)",
+        "url": "https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 219549,
+      "name": "BTBT (feat. DeVita)",
+      "url": "https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 248818,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Salio de Noche",
+        "url": "https://open.spotify.com/album/02iy955tbhgyL3HH4RqP1b"
+      },
+      "artists": [
+        {
+          "name": "The Cut",
+          "url": "https://open.spotify.com/artist/33J22gSpYjONbbP98Luqyh"
+        }
+      ],
+      "duration_ms": 210535,
+      "name": "Salio de Noche",
+      "url": "https://open.spotify.com/track/25l55GgGyAG2ggxeGySq8V"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "LA INOCENTE",
+      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Desde Mis Ojos (Remix)",
         "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
@@ -777,27 +845,7 @@
       "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "LA INOCENTE",
-      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "Paz Mental",
         "url": "https://open.spotify.com/album/5KQtSZMlNqkgXSJTBBJE0X"
@@ -813,79 +861,7 @@
       "url": "https://open.spotify.com/track/1otBTx2rWzwH0UsvyxLAfy"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Salio de Noche",
-        "url": "https://open.spotify.com/album/02iy955tbhgyL3HH4RqP1b"
-      },
-      "artists": [
-        {
-          "name": "The Cut",
-          "url": "https://open.spotify.com/artist/33J22gSpYjONbbP98Luqyh"
-        }
-      ],
-      "duration_ms": 210535,
-      "name": "Salio de Noche",
-      "url": "https://open.spotify.com/track/25l55GgGyAG2ggxeGySq8V"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Mayor Que Usted",
-        "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 233519,
-      "name": "Mayor Que Usted",
-      "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 295413,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
-      "album": {
-        "name": "Superache",
-        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 248818,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
-    },
-    {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB"
@@ -901,24 +877,48 @@
       "url": "https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU"
     },
     {
-      "added_at": "2022-07-19 13:49:41",
+      "added_at": "2022-07-20 13:45:13",
       "album": {
-        "name": "Querian Perreo?",
-        "url": "https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU"
+        "name": "BANDIDO",
+        "url": "https://open.spotify.com/album/4Uxwy5W4okv49Oe7qXI2Wq"
       },
       "artists": [
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
         },
         {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Estani",
+          "url": "https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p"
         }
       ],
-      "duration_ms": 200816,
-      "name": "Cochinae",
-      "url": "https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW"
+      "duration_ms": 254666,
+      "name": "BANDIDO",
+      "url": "https://open.spotify.com/track/5aQtcr0PfEtk4FZCz5rLdV"
+    },
+    {
+      "added_at": "2022-07-20 13:45:13",
+      "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 196044,
+      "name": "Like Wooh Wooh",
+      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
     }
   ],
   "unique_name": "Viral 50 - Chile",

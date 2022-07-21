@@ -1,29 +1,13 @@
 {
   "description": "It's 3pm and we've peaced out for the day.",
-  "num_followers": 2294,
+  "num_followers": 2406,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI4MDEwNiwwMDAwMDAwMDI1MGI1ZTc2YzU5OGE5OGU1YTcxODE2OTQ0ZTFhNGYz",
+  "snapshot_id": "MTY1ODM2NjY1NSwwMDAwMDAwMGIwYWE5ZGFmODE4MTkwYjFlMTAwNThkMDQ3YmQ1MzAy",
   "tracks": [
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "a touch of the beat gets you up on your feet gets you out and then into the sun",
-        "url": "https://open.spotify.com/album/4KWQ59OXCizPTrq9kADYQi"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 267880,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/0tTEImoPqWvU1SiOduW1iy"
-    },
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "a touch of the beat gets you up on your feet gets you out and then into the sun",
+        "url": "https://open.spotify.com/album/4KWQ59OXCizPTrq9kADYQi"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 267880,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/0tTEImoPqWvU1SiOduW1iy"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -75,38 +75,34 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Thinking 'Bout Love",
-        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 184200,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
+      "duration_ms": 218659,
+      "name": "Secrets from a Girl (Who's Seen it All)",
+      "url": "https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU"
     },
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "Bad Together",
+        "url": "https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
         }
       ],
-      "duration_ms": 200306,
-      "name": "False God",
-      "url": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so"
+      "duration_ms": 231656,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/3iExRKI7vV9RrzvAuXmMTY"
     },
     {
       "added_at": "2022-07-18 19:28:54",
@@ -127,18 +123,22 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Bad Together",
-        "url": "https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb"
+        "name": "Thinking 'Bout Love",
+        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
       },
       "artists": [
         {
-          "name": "Rozzi",
-          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 231656,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/3iExRKI7vV9RrzvAuXmMTY"
+      "duration_ms": 184200,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -159,90 +159,6 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 244635,
-      "name": "altar",
-      "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 218659,
-      "name": "Secrets from a Girl (Who's Seen it All)",
-      "url": "https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Say My Name - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186552,
-      "name": "Someone Like You (feat. Joy Oladokun)",
-      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Western Wind",
-        "url": "https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Western Wind",
-      "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -259,6 +175,22 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Say My Name - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -295,86 +227,22 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 268566,
-      "name": "Walking on Broken Glass - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Meant To Be",
-        "url": "https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         },
-        {
-          "name": "Charlie Oriain",
-          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Fall Into Me",
-        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "Fall Into Me",
-      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 202183,
-      "name": "Little Freak",
-      "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
+      "duration_ms": 186552,
+      "name": "Someone Like You (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -395,34 +263,50 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp"
+        "name": "Western Wind",
+        "url": "https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 191949,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq"
+      "duration_ms": 225946,
+      "name": "Western Wind",
+      "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
     },
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 233772,
-      "name": "Landslide - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx"
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 244635,
+      "name": "altar",
+      "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -459,6 +343,54 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 233772,
+      "name": "Landslide - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 191949,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
       },
@@ -471,58 +403,6 @@
       "duration_ms": 194053,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 191881,
-      "name": "California",
-      "url": "https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Masquerades",
-        "url": "https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "When You Need It (feat. Wrabel)",
-      "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Dancing in the Moonlight",
-        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
-      },
-      "artists": [
-        {
-          "name": "King Harvest",
-          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -543,18 +423,50 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Moments in Between",
-        "url": "https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 198253,
-      "name": "Dirty Nikes",
-      "url": "https://open.spotify.com/track/2wjkqe0TNPljHEBXknWviW"
+      "duration_ms": 200306,
+      "name": "False God",
+      "url": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 268566,
+      "name": "Walking on Broken Glass - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 191881,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -571,6 +483,42 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 202183,
+      "name": "Little Freak",
+      "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        },
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -592,33 +540,17 @@
       "added_at": "2022-07-15 04:25:14",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78"
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 281247,
-      "name": "Baby - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3pLtWj9iW6HT2TWAPcMZhg"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv"
+      "duration_ms": 229341,
+      "name": "You're The One - Spotify Singles",
+      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -655,130 +587,18 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Summer Vibe",
-        "url": "https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO"
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie"
       },
       "artists": [
         {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 200292,
-      "name": "Summer Vibe",
-      "url": "https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "golden years",
-        "url": "https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 169744,
-      "name": "golden years",
-      "url": "https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/4sZ5bTIQJec8eqKBMEPPEL"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 275954,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/01I5I4ykvMQwplZIkO4SxX"
+      "duration_ms": 214040,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -799,6 +619,134 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
+        "name": "Moments in Between",
+        "url": "https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Dirty Nikes",
+      "url": "https://open.spotify.com/track/2wjkqe0TNPljHEBXknWviW"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Fall Into Me",
+        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "Fall Into Me",
+      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Summer Vibe",
+        "url": "https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 200292,
+      "name": "Summer Vibe",
+      "url": "https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 281247,
+      "name": "Baby - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3pLtWj9iW6HT2TWAPcMZhg"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Dancing in the Moonlight",
+        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
+      },
+      "artists": [
+        {
+          "name": "King Harvest",
+          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "golden thing",
+        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 219300,
+      "name": "golden thing",
+      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
         "name": "Song Beneath the Song",
         "url": "https://open.spotify.com/album/68oxfceV08SzsvYbJ0DEyj"
       },
@@ -815,18 +763,70 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "rest in peace",
-        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/4sZ5bTIQJec8eqKBMEPPEL"
       },
       "artists": [
         {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
         }
       ],
-      "duration_ms": 191910,
-      "name": "rest in peace",
-      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
+      "duration_ms": 275954,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/01I5I4ykvMQwplZIkO4SxX"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Masquerades",
+        "url": "https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "When You Need It (feat. Wrabel)",
+      "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "golden years",
+        "url": "https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 169744,
+      "name": "golden years",
+      "url": "https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -847,34 +847,118 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "The Way That Lovers Do",
-        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
       },
       "artists": [
         {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 153693,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Invitation to Her's",
+        "url": "https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 314390,
+      "name": "She Needs Him",
+      "url": "https://open.spotify.com/track/1NjzNt18LlNTuJYErYGvbQ"
     },
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
+        "url": "https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 229341,
-      "name": "You're The One - Spotify Singles",
-      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
+      "duration_ms": 214381,
+      "name": "Summer Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "rest in peace",
+        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 191910,
+      "name": "rest in peace",
+      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/3dzUlxbwuGbnH0p1TOOTdZ"
+      },
+      "artists": [
+        {
+          "name": "stories",
+          "url": "https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p"
+        },
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        }
+      ],
+      "duration_ms": 209130,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/2wEyNde0HsqvTpP6yphfQU"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Girls And Boys",
+        "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "duration_ms": 135386,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
+    },
+    {
+      "added_at": "2022-07-15 04:25:14",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -899,66 +983,18 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
         }
       ],
-      "duration_ms": 184548,
-      "name": "ocean eyes - Recorded Live at Jungle City Studios",
-      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 214381,
-      "name": "Summer Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "The Pains Of Growing",
-        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Invitation to Her's",
-        "url": "https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 314390,
-      "name": "She Needs Him",
-      "url": "https://open.spotify.com/track/1NjzNt18LlNTuJYErYGvbQ"
+      "duration_ms": 153693,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
     },
     {
       "added_at": "2022-07-15 04:25:14",
@@ -979,38 +1015,6 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
-        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
-        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 208694,
-      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
-      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
-    },
-    {
-      "added_at": "2022-07-15 04:25:14",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
       },
@@ -1027,50 +1031,50 @@
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Girls And Boys",
-        "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
       "artists": [
         {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 135386,
-      "name": "The Way I Am",
-      "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+        "name": "The Pains Of Growing",
+        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
         }
       ],
-      "duration_ms": 149062,
-      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
+      "duration_ms": 227693,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
     },
     {
       "added_at": "2022-07-15 04:25:14",
       "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 268853,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     }
   ],
   "unique_name": "Lazy Afternoon",

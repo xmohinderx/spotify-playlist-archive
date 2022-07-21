@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-142 songs - 7 hr 20 min - not published yet
+142 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

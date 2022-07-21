@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Fall in Love with the Beauties of Tollywood!<br/>Cover : Sai Pallavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,823 likes - 57 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,841 likes - 57 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 28 | [Yenti Yenti](https://open.spotify.com/track/4KOG5lRsY1Ja55bids06vB) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2S7yFArvQ3gpnuiza1o3s1) | 3:19 |
 | 29 | [Prema Vennela \(From "Chitralahari"\)](https://open.spotify.com/track/60U549v4aGcURN9p3jdMdE) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Prema Vennela \(From "Chitralahari"\)](https://open.spotify.com/album/2LOU9zmSxEfjDD0LaGrtxZ) | 3:37 |
 | 30 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 |
-| 31 | [Bujji Bangaram](https://open.spotify.com/track/1Y5lew9Z79LKXNLO4vEeHe) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Deepthi Parthasarathy](https://open.spotify.com/artist/02p0Emo53CEFEVufEQtAUy) | [Guna 369](https://open.spotify.com/album/71WErS8E8fXb3dvFuVCaKy) | 3:28 |
+| 31 | [Bujji Bangaram](https://open.spotify.com/track/1Y5lew9Z79LKXNLO4vEeHe) | [Nakash Aziz, Deepthi Parthasarathy](https://open.spotify.com/artist/1exG7F0y3D2Jtxd7UfUqlJ) | [Guna 369](https://open.spotify.com/album/71WErS8E8fXb3dvFuVCaKy) | 3:28 |
 | 32 | [Apple Beauty](https://open.spotify.com/track/2o6DT527sOB7r20jVlyhzJ) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Janatha Garage](https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8) | 3:51 |
 | 33 | [Pacha Bottasi](https://open.spotify.com/track/1PSek4pY6S0yX8h6d8C8Bw) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Damini](https://open.spotify.com/artist/6oBZJ45MuaFpnY6UffCD73) | [Baahubali \- The Beginning](https://open.spotify.com/album/62FLwY6ofjIoyfTB4aY8Qo) | 4:16 |
 | 34 | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/track/0Vjckx1G9Nt1S4GVfVKEdo) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/album/3RcUaHobHgt8eRQY7fPADf) | 2:26 |

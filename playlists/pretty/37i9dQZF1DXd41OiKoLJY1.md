@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Cami, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,654 likes - 92 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,662 likes - 92 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

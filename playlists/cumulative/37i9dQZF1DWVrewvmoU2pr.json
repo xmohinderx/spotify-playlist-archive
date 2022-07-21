@@ -80,24 +80,6 @@
     },
     {
       "album": {
-        "name": "Cheer Up",
-        "url": "https://open.spotify.com/album/1xVkzZsxmbXBBv1Dqvbe32"
-      },
-      "artists": [
-        {
-          "name": "Ella Koon",
-          "url": "https://open.spotify.com/artist/3iwCTx6CrptnO8AuGlmbVU"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194223,
-      "name": "Cheer Up",
-      "url": "https://open.spotify.com/track/28SGHjFqN0dLbXO00FxIR8"
-    },
-    {
-      "album": {
         "name": "Closer (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
       },
@@ -175,24 +157,6 @@
       "duration_ms": 227100,
       "name": "Elio",
       "url": "https://open.spotify.com/track/026J1RDgiiTTqJ0cENHQhB"
-    },
-    {
-      "album": {
-        "name": "Obsessions",
-        "url": "https://open.spotify.com/album/0hJnpLmbJAViHaxCWvO40z"
-      },
-      "artists": [
-        {
-          "name": "Tang Siu Hau",
-          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229611,
-      "name": "Feed",
-      "url": "https://open.spotify.com/track/7dksLBc7Ql8IOto9V9G8Be"
     },
     {
       "album": {
@@ -319,60 +283,6 @@
       "duration_ms": 288818,
       "name": "Mean",
       "url": "https://open.spotify.com/track/2YpqqxAb7TBIVJGC05CBsi"
-    },
-    {
-      "album": {
-        "name": "Mixology",
-        "url": "https://open.spotify.com/album/0szYhZL6ZIOpiHasU8lLA4"
-      },
-      "artists": [
-        {
-          "name": "Tang Siu Hau",
-          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249374,
-      "name": "Mixology",
-      "url": "https://open.spotify.com/track/48yohb2AiPofoAtj8AYjWA"
-    },
-    {
-      "album": {
-        "name": "NAKAMA",
-        "url": "https://open.spotify.com/album/6YVD5g8jj29N54Rx4WdgEY"
-      },
-      "artists": [
-        {
-          "name": "Endy Chow",
-          "url": "https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203000,
-      "name": "Mouth Shut",
-      "url": "https://open.spotify.com/track/3rZVW1QkoFmrEeZvV5qhzp"
-    },
-    {
-      "album": {
-        "name": "The Strength of Weakness",
-        "url": "https://open.spotify.com/album/4qk6K29TKXkMEMCtNNSF01"
-      },
-      "artists": [
-        {
-          "name": "Tang Siu Hau",
-          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236571,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/5XRCjWVuSJbETeM0acyG7H"
     },
     {
       "album": {
@@ -550,6 +460,42 @@
     },
     {
       "album": {
+        "name": "\u5169\u6e9d",
+        "url": "https://open.spotify.com/album/0szYhZL6ZIOpiHasU8lLA4"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249374,
+      "name": "\u5169\u6e9d",
+      "url": "https://open.spotify.com/track/48yohb2AiPofoAtj8AYjWA"
+    },
+    {
+      "album": {
+        "name": "\u5171\u52c9\u4e4b",
+        "url": "https://open.spotify.com/album/1xVkzZsxmbXBBv1Dqvbe32"
+      },
+      "artists": [
+        {
+          "name": "Ella Koon",
+          "url": "https://open.spotify.com/artist/3iwCTx6CrptnO8AuGlmbVU"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194223,
+      "name": "\u5171\u52c9\u4e4b",
+      "url": "https://open.spotify.com/track/28SGHjFqN0dLbXO00FxIR8"
+    },
+    {
+      "album": {
         "name": "\u541b\u306b\u5922\u4e2d",
         "url": "https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA"
       },
@@ -601,6 +547,24 @@
       "duration_ms": 256000,
       "name": "\u5973\u795e",
       "url": "https://open.spotify.com/track/47MN8iVKji2TUL2DOnXpgJ"
+    },
+    {
+      "album": {
+        "name": "\u4ef2\u9593",
+        "url": "https://open.spotify.com/album/6YVD5g8jj29N54Rx4WdgEY"
+      },
+      "artists": [
+        {
+          "name": "Endy Chow",
+          "url": "https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "\u5b88\u53e3\u5982\u74f6",
+      "url": "https://open.spotify.com/track/3rZVW1QkoFmrEeZvV5qhzp"
     },
     {
       "album": {
@@ -820,6 +784,24 @@
     },
     {
       "album": {
+        "name": "Obsessions",
+        "url": "https://open.spotify.com/album/0hJnpLmbJAViHaxCWvO40z"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229611,
+      "name": "\u7cbe\u795e\u9935\u98fc",
+      "url": "https://open.spotify.com/track/7dksLBc7Ql8IOto9V9G8Be"
+    },
+    {
+      "album": {
         "name": "Spring/Summer 2011",
         "url": "https://open.spotify.com/album/2KC0o9Prt0tDwy58p2gFnb"
       },
@@ -907,6 +889,24 @@
       "duration_ms": 253453,
       "name": "\u91d1\u7d72\u96c0",
       "url": "https://open.spotify.com/track/7c4dpeQDvVtJaLUCP18U6E"
+    },
+    {
+      "album": {
+        "name": "The Strength Of Weakness",
+        "url": "https://open.spotify.com/album/4qk6K29TKXkMEMCtNNSF01"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "\u96c5\u4fd7",
+      "url": "https://open.spotify.com/track/5XRCjWVuSJbETeM0acyG7H"
     },
     {
       "album": {

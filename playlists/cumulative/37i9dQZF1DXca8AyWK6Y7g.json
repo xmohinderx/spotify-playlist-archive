@@ -2343,7 +2343,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 126316,
       "name": "blue",
       "url": "https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd"
@@ -3271,7 +3271,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 159117,
       "name": "Cellophane",
       "url": "https://open.spotify.com/track/1LlpkuY6GTy6vBoh50ZbMs"
@@ -7439,7 +7439,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 197260,
       "name": "Get Your Attention",
       "url": "https://open.spotify.com/track/4MCJB2N8KBptcmd1fmo7XY"
@@ -9506,6 +9506,24 @@
     },
     {
       "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/03nGpchDEVF6Uto02ZMQuG"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/5HgkPkJdLPsetKAB8paTNb"
+    },
+    {
+      "album": {
         "name": "Hungover You",
         "url": "https://open.spotify.com/album/7kGYlIyyQ5NQ40DkHo56U0"
       },
@@ -10497,7 +10515,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 185664,
       "name": "It Took A Lot To Get To This",
       "url": "https://open.spotify.com/track/1kLn3PxbnFzHV1kkXWpg4e"
@@ -13082,6 +13100,24 @@
     },
     {
       "album": {
+        "name": "Mom Jeans",
+        "url": "https://open.spotify.com/album/6a2gZjOyZD9Qg8SaLKLbtt"
+      },
+      "artists": [
+        {
+          "name": "morgen",
+          "url": "https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119275,
+      "name": "Mom Jeans",
+      "url": "https://open.spotify.com/track/4Q2ccX0e7grpqZal3OuTuX"
+    },
+    {
+      "album": {
         "name": "Mommy Issues",
         "url": "https://open.spotify.com/album/1bH2Fwvfe1b6qC11rt2Ihd"
       },
@@ -13493,7 +13529,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 162093,
       "name": "Natural",
       "url": "https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC"
@@ -15049,7 +15085,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 206698,
       "name": "Party Trick",
       "url": "https://open.spotify.com/track/50M63RCKsCbnkSaxUK2ttY"
@@ -15585,7 +15621,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 191266,
       "name": "Post Party Trauma",
       "url": "https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu"
@@ -18231,7 +18267,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 134179,
       "name": "Spend Some Money",
       "url": "https://open.spotify.com/track/6ZEy0mLwBQ5KMZgiVi4BFB"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Midnight Grand Orchestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,006 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,061 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Highway](https://open.spotify.com/track/5H6J1hUf0pVCyayGHBUHmF) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [Highway](https://open.spotify.com/album/5eMEHEKFvB34xtOW628jJt) | 4:05 |
 | 2 | [Decision](https://open.spotify.com/track/28zFjzWhW87CSuGtn9PHJZ) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Decision](https://open.spotify.com/album/0ZbngirqcVnHwtTygqjwZn) | 3:22 |
-| 3 | [Ame Sansan](https://open.spotify.com/track/34PR0zLBVl7VMF9E7dDwdo) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Ame Sansan](https://open.spotify.com/album/2gv7KqKXqTEfXnNOUyu85q) | 4:55 |
+| 3 | [雨燦々](https://open.spotify.com/track/34PR0zLBVl7VMF9E7dDwdo) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [雨燦々](https://open.spotify.com/album/2gv7KqKXqTEfXnNOUyu85q) | 4:55 |
 | 4 | [Everlasting Love](https://open.spotify.com/track/2aXluUoVVDhbaUlFJ8uoFD) | [寧音](https://open.spotify.com/artist/6yAzg5y84I3jzCgtgAcVsK) | [Everlasting Love](https://open.spotify.com/album/7qbYB1lTqSNDOhpj15BSMs) | 3:47 |
 | 5 | [リライカ](https://open.spotify.com/track/2R6BLjJjOCTGkS1zVDOYFq) | [miolly](https://open.spotify.com/artist/5smKtVDKbCiaUWASPunQAa) | [リライカ](https://open.spotify.com/album/2wSccpRoV3eshDQYVkSbw0) | 3:25 |
 | 6 | [ヒノキノキ](https://open.spotify.com/track/13ulQXDabuZkmZizBnCWac) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [ヒノキノキ](https://open.spotify.com/album/7vLrY2tQ3CTbcCjJn0d7r2) | 4:24 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 21 | [熱波](https://open.spotify.com/track/737kFVLSVdNBwjT643MUoz) | [fishbowl](https://open.spotify.com/artist/1nyeiKFHnbe9QsI8bOjGK5) | [熱波/白線](https://open.spotify.com/album/1pyYamDjrMq6XTBKNZiq5P) | 3:17 |
 | 22 | [夏速](https://open.spotify.com/track/0QBlQNE81rfTpmlBlk5L0P) | [ナツノセ](https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe) | [夏速](https://open.spotify.com/album/6cLH5mzXVUmELaHOCy9nfP) | 3:05 |
 | 23 | [ロックでキス](https://open.spotify.com/track/0RgwJLDy98G57G8q62QcTy) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [もっさ](https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g) | [青二才](https://open.spotify.com/album/2Tv54fqQpFKlykCpAECxI8) | 2:59 |
-| 24 | [caramel](https://open.spotify.com/track/17Q4Mil0OjKbckdeRgrPPI) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [caramel](https://open.spotify.com/album/7MCPVltRG9UF1U5jJpPLUe) | 3:16 |
+| 24 | [キャラメル](https://open.spotify.com/track/17Q4Mil0OjKbckdeRgrPPI) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [キャラメル](https://open.spotify.com/album/7MCPVltRG9UF1U5jJpPLUe) | 3:16 |
 | 25 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 |
-| 26 | [togenkyo](https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [togenkyo](https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE) | 3:48 |
+| 26 | [桃源郷](https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [桃源郷](https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE) | 3:48 |
 | 27 | [HERO JOURNEY](https://open.spotify.com/track/6wvCOyMGMYSUfRQkQf3v25) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY](https://open.spotify.com/album/42zAFph6t4rfdgHlm7fZSG) | 1:54 |
 | 28 | [I'll Save Your World](https://open.spotify.com/track/0ilFH7mDZkqdiCpX9jalcd) | [Litsuka Aisawa](https://open.spotify.com/artist/41cgME6A74wwiWf5cYw4cW) | [I'll Save Your World](https://open.spotify.com/album/0BFbtlbYgu0MSCgoUWd0Qt) | 2:31 |
 | 29 | [ギャンラブ](https://open.spotify.com/track/6dxvHgAbFqyVHuoyslFDCe) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [ギャンラブ](https://open.spotify.com/album/4RcVqu41iSCvkRz8CsueLz) | 2:54 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 51 | [nowhereland](https://open.spotify.com/track/5h41CVveIwva07Ec03F4hK) | [EijiHarrison](https://open.spotify.com/artist/1fIzEdl1LIH9JbBDCnnpjv), [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [nowhereland](https://open.spotify.com/album/5ox9a0EB5ogrJd87SXxvPa) | 3:17 |
 | 52 | [多分、あれはFly](https://open.spotify.com/track/2MKFDKkTKMrn4ClwjinSDv) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [?](https://open.spotify.com/album/4rmjxVcCCC6lD3MGjS8hfq) | 4:08 |
 | 53 | [しゃあないや](https://open.spotify.com/track/2FG2ByPaanFy5Cvz8WISTz) | [鈴木鈴木](https://open.spotify.com/artist/76QUiw7IqXtPsy2dqmr2ev), [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [しゃあないや](https://open.spotify.com/album/4thFaex5vXYkn7LePhsReV) | 3:42 |
-| 54 | [RenaiNou](https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [RenaiNou](https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm) | 3:09 |
+| 54 | [恋愛脳](https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [恋愛脳](https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm) | 3:09 |
 | 55 | [Rondo \(feat\. さかな\)](https://open.spotify.com/track/68i1L2rYQ0IajGQHthv0Xf) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [さかな](https://open.spotify.com/artist/2qZxj23rfIjWxd4PCqlW3q) | [Rondo \(feat\. さかな\)](https://open.spotify.com/album/7lzvJuMCVHLkmVm8zT3Lhj) | 3:26 |
 | 56 | [Beyond Selves \(feat\. L\)](https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [L](https://open.spotify.com/artist/5yf1IhykFumDFsiQmxwswU) | [Beyond Selves \(feat\. L\)](https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5) | 5:33 |
 | 57 | [虹ノ湊](https://open.spotify.com/track/2IW4qDhRYJXL76VQ9dPMuf) | [BATTEN GIRLS](https://open.spotify.com/artist/4xhjJZS6jLaPkdRdDcr2rj) | [虹ノ湊](https://open.spotify.com/album/49nXQM07p67owFCoTArXne) | 4:06 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 59 | [Seaside Breeze](https://open.spotify.com/track/2CH1qshQDmykF6gfjBi4Ub) | [Nostalgic New Town](https://open.spotify.com/artist/0yQTboLUDBzLnHj7Xn1Krz), [conte](https://open.spotify.com/artist/6E7FyH5GCfH5QHxOwufvGd) | [Seaside Breeze](https://open.spotify.com/album/3KU39A2OBFjqTyoJLU7juy) | 4:08 |
 | 60 | [マルコッパ](https://open.spotify.com/track/651aGID2hXyAtxLwbiwTQ9) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [マルコッパ達](https://open.spotify.com/album/3e5rh4MdEV8rRdh2R2gan2) | 3:44 |
 | 61 | [流線形メーデー](https://open.spotify.com/track/71DWte8P535ethaQrCfX3G) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [流線形メーデー](https://open.spotify.com/album/0e9Jjx1Ah3gI5RoUPOEvmi) | 3:11 |
-| 62 | [Ikitemiruwa](https://open.spotify.com/track/1r1rgstZ6j5c9PIIvcVdaX) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [ECHO CHAMBER](https://open.spotify.com/album/23hqO5nN3rLdA2NWUnIP9O) | 3:32 |
+| 62 | [生きてみるわ](https://open.spotify.com/track/1r1rgstZ6j5c9PIIvcVdaX) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [ECHO CHAMBER](https://open.spotify.com/album/23hqO5nN3rLdA2NWUnIP9O) | 3:32 |
 | 63 | [Whoopie is a Punkrocker](https://open.spotify.com/track/7f7ufnrborStLtDM0rP3rO) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/7FACUKFmq5pwsjY09nUeiA) | 2:22 |
 | 64 | [Japan](https://open.spotify.com/track/22WCkfxh0SUHrGUL8K3Icd) | [C子あまね](https://open.spotify.com/artist/24RyH9qOgbwEeKOypceYYO) | [Japan](https://open.spotify.com/album/0FCo0ihblkw2VBC5YVUxQN) | 2:27 |
 | 65 | [ソーダポップ](https://open.spotify.com/track/7JyF36LuFCh0xDyZEVbuY9) | [トナリノサティ](https://open.spotify.com/artist/6hLQxYUIxrMWCkCUVB0P18) | [ソーダポップ](https://open.spotify.com/album/2ogIHpYUWjpnvzMvjxqOJG) | 2:55 |

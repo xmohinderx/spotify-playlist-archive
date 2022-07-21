@@ -4,7 +4,7 @@
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-74 songs - 5 hr 16 min - not published yet
+74 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/3LNBQsBN1z8uKPju1HpsiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

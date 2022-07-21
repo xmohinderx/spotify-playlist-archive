@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: kiyu
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,599 likes - 125 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,617 likes - 125 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 11 | [最後帽事](https://open.spotify.com/track/09pFN1tzzifDSwFL9VLbNj) | [FREQ](https://open.spotify.com/artist/5h9ouHo2fiyP7ukhKLDRvZ), [Delta T 蛋撻頭](https://open.spotify.com/artist/2GWO2az2ehE3ixfMLtdpl4) | [最後帽事](https://open.spotify.com/album/6tTAAG51tVKYTLtduoudCc) | 2:16 |
 | 12 | [Now That She's Gone \(ft\. Heartgrey\)](https://open.spotify.com/track/7zzjQaPr74NJByHTuWfMa2) | [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D), [Heartgrey](https://open.spotify.com/artist/74HveI8LJp6GPQ3P9h813k) | [Now That She's Gone \(ft\. Heartgrey\)](https://open.spotify.com/album/6qbc4CspLWtno9WFm051fU) | 3:03 |
 | 13 | [土撥鼠之日](https://open.spotify.com/track/1WOGWWiU4vw88sjuw6TYxy) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [土撥鼠之日](https://open.spotify.com/album/0menm8q2ZCWDw6eK6qhAul) | 3:18 |
-| 14 | [1973 Trail \(feat\. Gigi Cheung\) \- Remix](https://open.spotify.com/track/5moDU8oOdByOJhZfT0UjQ3) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [1973 Trail \(feat\. Gigi Cheung\) \[Remix\]](https://open.spotify.com/album/3znLBmeILQtq7RYZ6uGFIV) | 3:10 |
+| 14 | [1973的軌跡 \(feat\. 張蔓姿\) \- Remix](https://open.spotify.com/track/5moDU8oOdByOJhZfT0UjQ3) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [1973的軌跡 \(feat\. 張蔓姿\) \[Remix\]](https://open.spotify.com/album/3znLBmeILQtq7RYZ6uGFIV) | 3:10 |
 | 15 | [If I Can Be You](https://open.spotify.com/track/4D8ROLAVQZ4MMNDvXxIWXa) | [Gordon Ho](https://open.spotify.com/artist/1k0HqYv6UVaBu3spRZcSTn) | [If I Can Be You](https://open.spotify.com/album/2toJPghMs49FkCDeYnRIT7) | 3:19 |
 | 16 | [Fuccboi 2.0](https://open.spotify.com/track/7b60XiOYeu5ZVC2xfzgZe4) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [柒羊](https://open.spotify.com/artist/2Blp6ydxgRiJaRzAiHMhLz) | [Live Twice](https://open.spotify.com/album/2ZFnWV0PjomKo5TAGr0HW8) | 2:30 |
 | 17 | [Hang你老母 MeowMeow](https://open.spotify.com/track/42GaSRx19HNDyRBntX48Ux) | [Chrisok](https://open.spotify.com/artist/1DixYkPHal3npqnOSLyZaA) | [Hang你老母 MeowMeow](https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J) | 1:52 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 32 | [WHITELIES](https://open.spotify.com/track/1ZCni5M2ETDB01M2TqLvgA) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [WHITELIES](https://open.spotify.com/album/2c2NXy8ZwXA22gCAIMIB4Z) | 4:11 |
 | 33 | [Favorite Drug](https://open.spotify.com/track/7acFbTCQRZu1uDTfoyZtc8) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Favorite Drug](https://open.spotify.com/album/6fbi9zwD9WKXi4acKbZce4) | 3:45 |
 | 34 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 |
-| 35 | [1973 Trail](https://open.spotify.com/track/5Z75p2CZda3ofl2umIJBmc) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973 Trail](https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T) | 3:09 |
+| 35 | [1973的軌跡](https://open.spotify.com/track/5Z75p2CZda3ofl2umIJBmc) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的軌跡](https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T) | 3:09 |
 | 36 | [Summertime](https://open.spotify.com/track/1VNpY4n21SSy45W5cr1KAY) | [lil orchid](https://open.spotify.com/artist/2bH3Mtz0p3fClnVvn3SRTQ), [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR), [Just Kane](https://open.spotify.com/artist/6zsc3yu20vjzTAStfOKCKs) | [Summertime](https://open.spotify.com/album/5HXqXJMgcn4f3cyTQ7wPOU) | 3:45 |
 | 37 | [Take Me Back](https://open.spotify.com/track/1ezPtg7OOklRD4b3KY9osM) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [Take Me Back](https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT) | 3:55 |
 | 38 | [So Deep!](https://open.spotify.com/track/6pcFkRhg2X2nr4Wpexo02r) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [So Deep!](https://open.spotify.com/album/3yOeb9vjEp2rF4Ea9hiYwE) | 3:50 |
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 117 | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/track/3jfn6a5nJ1Arc0xWuvsYmi) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/album/2QL7B3R6G4TWXHWOyHHOLd) | 3:38 |
 | 118 | [Ghost of You](https://open.spotify.com/track/3xXJoQsT3wH9dSPg0y2Md1) | [lilong](https://open.spotify.com/artist/4UZPdE9dtMICvMOO8vb492) | [Ghost of You](https://open.spotify.com/album/1m6tY0dv3DgARjYlq8ksmi) | 3:42 |
 | 119 | [半漫遊世界](https://open.spotify.com/track/1xl10XtzLg9EW46AxxwXP5) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [半漫遊世界](https://open.spotify.com/album/5dDVngK1TsKCuSOCHiiwzo) | 3:35 |
-| 120 | [Zi Jork Yip](https://open.spotify.com/track/0ALHyLLnWdAt4i160NlmqU) | [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Zi Jork Yip](https://open.spotify.com/album/1KC3yzxSiXWbA1hlEGQDRq) | 2:48 |
+| 120 | [自作孽](https://open.spotify.com/track/0ALHyLLnWdAt4i160NlmqU) | [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [自作孽](https://open.spotify.com/album/1KC3yzxSiXWbA1hlEGQDRq) | 2:48 |
 | 121 | [That's ok](https://open.spotify.com/track/3RINdYUikBUKApA7U0uiIU) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [Purple Heart](https://open.spotify.com/album/27FcEUK2T1DWv0IYOzW3JW) | 3:14 |
 | 122 | [The Climber](https://open.spotify.com/track/0clq9tBWpHxzp0IEl6Bmj0) | [Franklin Telescope](https://open.spotify.com/artist/7fgEhDBZy0SV0xyEOopmTL) | [Burst into Your Quirky Soul](https://open.spotify.com/album/0lj00lgAPYpYR9grRCdmeZ) | 4:24 |
 | 123 | [Blue Whale](https://open.spotify.com/track/2Fh3qfHQJu8gv95RtDkNML) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Goodbye Tragic Manga](https://open.spotify.com/album/1Mp4lHLibyhbI7ylUdCS8b) | 3:28 |

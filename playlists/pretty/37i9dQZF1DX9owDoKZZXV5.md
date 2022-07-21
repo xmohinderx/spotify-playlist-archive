@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 
 > Welcome to the Hope World! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,321 likes - 18 songs - 46 min 1 sec
+[Spotify](https://open.spotify.com/user/spotify) - 85,037 likes - 18 songs - 46 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 | 17 | [Airplane](https://open.spotify.com/track/2jk6oBuLiCZJTDWhlJEzIw) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:17 |
 | 18 | [Blue Side \(Outro\)](https://open.spotify.com/track/20zr2Oef3PVeGRxjmSF5CC) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 1:30 |
 
-Snapshot ID: `MTY1ODI4MDI2MywwMDAwMDAwMDNhY2RhODBlYjI4NDM4YmMyYWQwZjk5YTI0OTc0MzNl`
+Snapshot ID: `MTY1ODM2NjgwNiwwMDAwMDAwMDNhY2RhODBlYjI4NDM4YmMyYWQwZjk5YTI0OTc0MzNl`

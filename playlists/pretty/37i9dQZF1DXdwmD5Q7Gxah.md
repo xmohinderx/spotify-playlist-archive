@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > living in beatopia
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,417 likes - 105 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,751 likes - 105 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 4 | [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 |
 | 5 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
 | 6 | [Wait for Something Better](https://open.spotify.com/track/1I9CYgnoP99PAgTqkPPO4o) | [PROM](https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb) | [Wait for Something Better](https://open.spotify.com/album/12tDYPpSTOkN4QjPKOeIDQ) | 3:12 |
-| 7 | [Cinema](https://open.spotify.com/track/35YlFbOf6PdSkXnuTG0uKi) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Cinema](https://open.spotify.com/album/02pJQBcBBHUlk55lrjikRm) | 3:42 |
-| 8 | [gimme all ur luv](https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF) | 2:53 |
-| 9 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
-| 10 | [God Hired You To Be My Baby](https://open.spotify.com/track/1cxMuh5UJhouWUZJQT5SnU) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [God Hired You To Be My Baby](https://open.spotify.com/album/1kFYe4EJmfo3Dpadhyu4bg) | 3:15 |
-| 11 | [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 |
+| 7 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
+| 8 | [Cinema](https://open.spotify.com/track/35YlFbOf6PdSkXnuTG0uKi) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Cinema](https://open.spotify.com/album/02pJQBcBBHUlk55lrjikRm) | 3:42 |
+| 9 | [gimme all ur luv](https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF) | 2:53 |
+| 10 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
+| 11 | [God Hired You To Be My Baby](https://open.spotify.com/track/1cxMuh5UJhouWUZJQT5SnU) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [God Hired You To Be My Baby](https://open.spotify.com/album/1kFYe4EJmfo3Dpadhyu4bg) | 3:15 |
 | 12 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
 | 13 | [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 |
 | 14 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 104 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 |
 | 105 | [Anything You Want](https://open.spotify.com/track/78LMazmfqncADjyJVae8dN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Anything You Want](https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu) | 2:03 |
 
-Snapshot ID: `MTY1ODI2NzI2NywwMDAwMDNiMzAwMDAwMTgyMTg2ZTczMDQwMDAwMDE4MjAxYzFlYTc1`
+Snapshot ID: `MTY1ODM0MTM1OSwwMDAwMDNiNDAwMDAwMTgyMWNkOTAxMGYwMDAwMDE4MjAxYzFlYTc1`

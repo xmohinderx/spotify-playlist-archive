@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Disturbed
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,408 likes - 155 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,604 likes - 155 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

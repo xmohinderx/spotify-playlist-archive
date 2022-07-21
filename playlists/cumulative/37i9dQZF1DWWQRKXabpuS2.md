@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: عايض
 
-129 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+130 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [زينك دمار](https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [زينك دمار](https://open.spotify.com/album/7LWT6p48ZKIEUrYBl80H20) | 4:34 | 2022-05-25 |  |
 | [على شاني](https://open.spotify.com/track/2YuCjMPqT4lQa8eAMjHWzv) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [على شاني](https://open.spotify.com/album/73M1hY0tHmiNBo4rPJGjLz) | 3:36 | 2022-06-29 |  |
 | [عندي أهم](https://open.spotify.com/track/2pDNrMSCAiKGQbN0kPUZZS) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [عندي أهم](https://open.spotify.com/album/6Gl8OmHtePVXiJtyVenWLY) | 3:39 | 2021-12-23 | 2022-03-02 |
+| [فوق تحت](https://open.spotify.com/track/5rFL1zYLe4HXY7QR6WCSWZ) | [Faris Al Balad](https://open.spotify.com/artist/3HpHVn0w30wsHoLBxP5lNP) | [فوق تحت](https://open.spotify.com/album/3l25EQJ6dkSjMwl99fA460) | 2:29 | 2022-07-20 |  |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2021-12-23 | 2022-03-12 |
 | [مرحبا بك](https://open.spotify.com/track/7zGF0G34lky0sgWz6uQux8) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC), [مشجع مسفر](https://open.spotify.com/artist/6xNGM5MRDYPJajquB1R2Ch) | [مرحبا بك](https://open.spotify.com/album/6NoZaRWPTa6i4krd7rGh4I) | 3:25 | 2021-12-23 | 2022-04-05 |
 | [هذي الدنيا](https://open.spotify.com/track/3Pvl1Q2B6ZwjQYJGCnb1Aw) | [Faisal Al Jasem](https://open.spotify.com/artist/0jsUKX6jfAdzVj3ml3BAwT) | [هذي الدنيا](https://open.spotify.com/album/3n1ASjeJSVgSXwsYliPKXQ) | 5:39 | 2022-07-10 |  |

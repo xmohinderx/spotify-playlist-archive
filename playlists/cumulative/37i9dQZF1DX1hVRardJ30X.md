@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Tiago PZK, Myke Towers
 
-1,698 songs - 3 day 18 hr 13 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+1,699 songs - 3 day 18 hr 16 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1677,7 +1677,8 @@
 | [Yakelin](https://open.spotify.com/track/4ucMC9jo6CJkwBfkHPZHSi) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Yakelin](https://open.spotify.com/album/53SCI2RWlni7gwJSE235yU) | 2:47 | 2022-01-21 | 2022-01-29 |
 | [Yatekomo](https://open.spotify.com/track/7ILwxghUppFKHnAJ5ziB8X) | [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Yatekomo](https://open.spotify.com/album/3zzKotWathmZrCMkiF5wha) | 3:33 | 2022-05-13 | 2022-05-20 |
 | [Yin Yang](https://open.spotify.com/track/1oqpMRnWkrQ2sqUSAhsUaw) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Yin Yang](https://open.spotify.com/album/0fSGPH8R7mrquL3eK5Z8KM) | 2:34 | 2022-02-04 | 2022-02-12 |
-| [Yippie Khayo \- radio edit](https://open.spotify.com/track/6EC4XrfDjEt74XidztJ8RE) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL) | [Yippie Khayo \(Radio Edit\)](https://open.spotify.com/album/332KCANvvef11sXsDu6M9B) | 2:44 | 2022-07-15 |  |
+| [Yippie Khayo](https://open.spotify.com/track/4USY6cd9ehvST4hMMZwCJX) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL) | [Yippie Khayo](https://open.spotify.com/album/20biP8wNyCQJNWxlKWjBdI) | 2:44 | 2022-07-20 |  |
+| [Yippie Khayo \- radio edit](https://open.spotify.com/track/6EC4XrfDjEt74XidztJ8RE) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL) | [Yippie Khayo \(Radio Edit\)](https://open.spotify.com/album/332KCANvvef11sXsDu6M9B) | 2:44 | 2022-07-15 | 2022-07-21 |
 | [Yo Estaré \(feat\. Ally Brooke\)](https://open.spotify.com/track/6o0dZFIoclUiEBx0RQ1Evd) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Yo Estaré \(feat\. Ally Brooke\)](https://open.spotify.com/album/2GZbrUq8hVw5M7YkWbfgyr) | 5:16 | 2022-04-15 | 2022-04-23 |
 | [Yo Las Pongo \(feat\. Maffio\)](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo \(feat\. Maffio\)](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 | 2022-05-20 | 2022-05-28 |
 | [Yo Me Lo Merezco](https://open.spotify.com/track/4KKDhRcCz7CAnJfSxf8pJN) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Yo Me Lo Merezco](https://open.spotify.com/album/2hYgnSCgWk5DTu9pnCNh1R) | 3:42 | 2022-01-14 | 2022-01-22 |

@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 161250,
       "name": "(Konola) S2 EP12 [Top Up]",
       "url": "https://open.spotify.com/track/14PuAzbjziyLBycd1aaAbJ"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 153043,
       "name": "/kroun/",
       "url": "https://open.spotify.com/track/2e1HiZFrtlkyNxP5uu8dGj"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 176347,
       "name": "Battle Cry",
       "url": "https://open.spotify.com/track/6blYxHNuDNBvT3vtvKUA1B"
@@ -557,6 +557,32 @@
       "duration_ms": 164000,
       "name": "Battle Cry (Neon Feather Remix)",
       "url": "https://open.spotify.com/track/4ixBGmCf95xWJNNHYdfhdp"
+    },
+    {
+      "album": {
+        "name": "Be A Legend",
+        "url": "https://open.spotify.com/album/7oA2MPtEJ9eznXrdAQUUTw"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Kaleb Mitchell",
+          "url": "https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH"
+        },
+        {
+          "name": "Ray Knowledge",
+          "url": "https://open.spotify.com/artist/6rC0wm1tZX8cq6vGsUNxad"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158261,
+      "name": "Be A Legend",
+      "url": "https://open.spotify.com/track/75p5NhL7PoweYeCNK4UGFw"
     },
     {
       "album": {
@@ -949,7 +975,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 176363,
       "name": "Cafeteria",
       "url": "https://open.spotify.com/track/69YWagZDFxgqZmXKJyZwdT"
@@ -1011,7 +1037,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 162416,
       "name": "Can't Tell It All",
       "url": "https://open.spotify.com/track/4bvNwqjzJbbmUDClgpCTG0"
@@ -1037,7 +1063,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 164285,
       "name": "Catch Me (Neon Feather Remix)",
       "url": "https://open.spotify.com/track/3cgVhwQMTver7XZHWXKEjn"
@@ -1234,6 +1260,28 @@
     },
     {
       "album": {
+        "name": "DAY ONES",
+        "url": "https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD"
+      },
+      "artists": [
+        {
+          "name": "outr.cty",
+          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
+        },
+        {
+          "name": "DJLC",
+          "url": "https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192062,
+      "name": "DAY ONES",
+      "url": "https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT"
+    },
+    {
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch"
       },
@@ -1267,7 +1315,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 231600,
       "name": "Do It Anyway (feat. Kadence)",
       "url": "https://open.spotify.com/track/25L031n0unw4IKDjabQuwN"
@@ -1633,7 +1681,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 219574,
       "name": "Father Forgive Us",
       "url": "https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14"
@@ -1801,6 +1849,24 @@
       "duration_ms": 150545,
       "name": "Fomo",
       "url": "https://open.spotify.com/track/5Ja76bp5YMG6VueTslLKY1"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6Y3FWXwfalkRuK7lU73dmC"
+      },
+      "artists": [
+        {
+          "name": "Tay Collier",
+          "url": "https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149427,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5hgv7WVjHPUjPBxY4M9fHB"
     },
     {
       "album": {
@@ -2085,7 +2151,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 155000,
       "name": "God Only Knows (R3HAB Remix)",
       "url": "https://open.spotify.com/track/7CTyBvcRHWso8oUcvyNkLt"
@@ -2851,7 +2917,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "I Will Not",
       "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
@@ -3325,7 +3391,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 146475,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/0ppuV2mVZbZNoGRr6a1nrk"
@@ -3649,7 +3715,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 200931,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
@@ -3769,7 +3835,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 113007,
       "name": "No Ceilings",
       "url": "https://open.spotify.com/track/1gp0U9OhufHHgoDl5qNJsp"
@@ -3787,7 +3853,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 222651,
       "name": "No Chains",
       "url": "https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG"
@@ -3823,7 +3889,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 161777,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/2NGpagbXNJ8PbDtyALd1bF"
@@ -4227,7 +4293,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 158546,
       "name": "PARABOLIC!",
       "url": "https://open.spotify.com/track/3pm0lUOKsphN8A3VLZivuS"
@@ -4421,7 +4487,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 238000,
       "name": "Push Thru",
       "url": "https://open.spotify.com/track/5bF0y9fkeEmf2ilhO3CCvr"
@@ -4723,7 +4789,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 169351,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/6dxId4EEZvdUJqVmH3qA61"
@@ -5517,7 +5583,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 169874,
       "name": "TUNNEL VISION",
       "url": "https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1"
@@ -5785,7 +5851,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 113333,
       "name": "we are not the same.",
       "url": "https://open.spotify.com/track/6SCth7RiNdzmiouRdKkFhm"
@@ -6077,7 +6143,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 146378,
       "name": "Wins On Me",
       "url": "https://open.spotify.com/track/2nybUYGqGgFSyAs9DgGxuh"
@@ -6275,7 +6341,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 197519,
       "name": "You Know the Drill",
       "url": "https://open.spotify.com/track/7gdNfIqpKzAiCnclGvk07a"
@@ -6359,7 +6425,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 237709,
       "name": "Your Love (HGHTS Remix)",
       "url": "https://open.spotify.com/track/7tOL3KPed2xaNyDIYBo45p"

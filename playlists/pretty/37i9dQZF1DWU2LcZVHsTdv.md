@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Madeline Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,164 likes - 114 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,167 likes - 114 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

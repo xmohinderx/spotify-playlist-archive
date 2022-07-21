@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: نانسي عجرم ومارشميلو
 
-178 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+180 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ana Zaaley](https://open.spotify.com/track/6xEKHNsrF6WS7brxCrG8Qg) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW), [Fakharany](https://open.spotify.com/artist/73817y8suKDLnuLrUTRrp2) | [Ana Zaaley](https://open.spotify.com/album/3ZQagMTgeXBzQ9gySyr0Tg) | 4:01 | 2021-12-23 | 2022-03-04 |
 | [Arosty](https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Arosty](https://open.spotify.com/album/2pXOewtgNtWSCuoZz98TCG) | 3:10 | 2021-12-23 | 2021-12-30 |
 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2022-04-28 |  |
+| [Ba3d Fatra](https://open.spotify.com/track/6NpgIEuoXTpUz68mVPk1Ty) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Ba3d Fatra](https://open.spotify.com/album/5fyH1zkFx6QNiypRw1hm5a) | 3:15 | 2022-07-20 |  |
 | [BALALEEN](https://open.spotify.com/track/1K6ekZzDLpket1RXwLb7t4) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [shendy](https://open.spotify.com/artist/7ANuJkzC0NE6lAK5itx0Dx) | [Balaleen](https://open.spotify.com/album/37UynY0uK4f0M9tRKcfubi) | 2:48 | 2022-06-02 |  |
 | [Banady 3alek](https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Banady 3alek](https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt) | 4:09 | 2022-03-03 | 2022-06-29 |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 |  |
@@ -40,6 +41,7 @@
 | [Cinderella](https://open.spotify.com/track/4ZkUiyfLp12nbQ9zSymqRi) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Cinderella](https://open.spotify.com/album/4qh98LElKIjNAFoQ09UJQg) | 3:51 | 2021-12-23 | 2021-12-30 |
 | [Dalla3 Wetdalla3](https://open.spotify.com/track/5ciTsQ0b2wsoEPrDY2MjWJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dalla3 Wetdalla3](https://open.spotify.com/album/4bHkkZsw6is2Tx2U8F2st6) | 4:06 | 2022-05-03 |  |
 | [Dars Hayaty](https://open.spotify.com/track/7nDgc4FJD4EUyGJAVjbVHP) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Dars Hayaty](https://open.spotify.com/album/1ItG5aRvvmxKzEIpUnwbBB) | 2:42 | 2021-12-23 | 2022-02-02 |
+| [Dom Dom](https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Dom Dom](https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak) | 3:02 | 2022-07-20 |  |
 | [Downtown](https://open.spotify.com/track/5mJwIPGuMG8jhvhr9igD4W) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Downtown](https://open.spotify.com/album/1l7zke8JZbv83flMvXW99N) | 3:36 | 2022-03-03 | 2022-06-24 |
 | [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/track/3n1Ay9tmg5lJXEgEbalNye) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/album/4889Xh1DOnyxnXKfNoinDe) | 4:04 | 2022-06-09 |  |
 | [Eiish Ahla Snin](https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Eiish Ahla Snin](https://open.spotify.com/album/0I58q7plyh0jifvzl4gMzh) | 3:13 | 2022-07-14 |  |
@@ -131,7 +133,7 @@
 | [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 | 2022-06-28 |  |
 | [Ohdoneny](https://open.spotify.com/track/0dSI3KmYL4md8TOy6cEApu) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ohdoneny](https://open.spotify.com/album/7FbStrkAcRbkEzz3LARKPi) | 3:21 | 2022-02-17 | 2022-06-03 |
 | [Oul Allah](https://open.spotify.com/track/2bJQO2SegQFc8fOpFhizlc) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Oul Allah](https://open.spotify.com/album/5sOCIhikdDVOPNrVBibxcF) | 3:25 | 2022-07-14 |  |
-| [Pablo Ewaa Tabelo](https://open.spotify.com/track/0knH4tZZ5skqSUjY3Ks6FY) | [Hassan El Raddad](https://open.spotify.com/artist/2gWQ4p1lY34EMOeHjbGS0t), [El Ordoni](https://open.spotify.com/artist/6jGepDFddofmnVlNnmSC4H) | [Pablo Ewaa Tabelo](https://open.spotify.com/album/5TJi6uxaLCPMCVMYau9300) | 2:46 | 2022-04-07 |  |
+| [Pablo Ewaa Tabelo](https://open.spotify.com/track/0knH4tZZ5skqSUjY3Ks6FY) | [Hassan El Raddad](https://open.spotify.com/artist/2gWQ4p1lY34EMOeHjbGS0t), [El Ordoni](https://open.spotify.com/artist/6jGepDFddofmnVlNnmSC4H) | [Pablo Ewaa Tabelo](https://open.spotify.com/album/5TJi6uxaLCPMCVMYau9300) | 2:46 | 2022-04-07 | 2022-07-21 |
 | [Paris Dubaï](https://open.spotify.com/track/3n2WhCms25jdQo5msJTvBf) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Paris Dubaï](https://open.spotify.com/album/1Iynd8khQBQ1J7ql4lgFSx) | 3:06 | 2021-12-30 | 2022-03-15 |
 | [Ramy El Hemoul](https://open.spotify.com/track/6zIvLt0jU08Nb6OnxLDelm) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:25 | 2022-02-16 | 2022-05-19 |
 | [Ra’sa Slow](https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ra’sa Slow](https://open.spotify.com/album/7fzgWkatGkQaotzwJo6tTp) | 3:12 | 2022-02-17 | 2022-06-01 |
@@ -178,7 +180,7 @@
 | [سوكسيه](https://open.spotify.com/track/2e9tv43tcu7X9pqxvKkkRI) | [Nehal Kamal](https://open.spotify.com/artist/0IlcjzFU7NNJbTFZEPDRGf), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [سوكسيه](https://open.spotify.com/album/2Wu6uUUCLxq99a0DnuMvpa) | 3:27 | 2021-12-23 | 2022-03-10 |
 | [سيرك الحياه](https://open.spotify.com/track/5OortLPZ3VTCDjL01kuya0) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Serk El Haiah](https://open.spotify.com/album/4rHRrAb9uxWqHVHvHCSfO4) | 3:10 | 2021-12-23 | 2022-02-02 |
 | [ضيعنا](https://open.spotify.com/track/5yTfxpokxXoYxaeqHNPnUE) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [ضيعنا](https://open.spotify.com/album/0kFp6MiAWrWFiH43QSBpfq) | 3:34 | 2021-12-23 | 2022-02-12 |
-| [فكك \- احلام سعيدة](https://open.spotify.com/track/2mfFZJkSMONc1oDuUth0GN) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [فكك \- احلام سعيدة](https://open.spotify.com/album/6G2LTeAHAziLh3CBbBzRqO) | 3:34 | 2022-04-07 |  |
+| [فكك \- احلام سعيدة](https://open.spotify.com/track/2mfFZJkSMONc1oDuUth0GN) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [فكك \- احلام سعيدة](https://open.spotify.com/album/6G2LTeAHAziLh3CBbBzRqO) | 3:34 | 2022-04-07 | 2022-07-21 |
 | [قلب إتدفن](https://open.spotify.com/track/6xTx0hhLkZQYIjM1uRnDJf) | [El Megheny](https://open.spotify.com/artist/3mfzJJIc6jzl9FNOaNrGsV) | [قلب إتدفن](https://open.spotify.com/album/7N12eSAx3UgGRPJKon4Kvs) | 3:11 | 2022-02-16 | 2022-05-19 |
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2022-07-08 |
 | [لما تحس](https://open.spotify.com/track/5gTOE3Z7sTgN26AQo15cjU) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [لما تحس](https://open.spotify.com/album/0PLVHSEYE7wjxQyrenVWT1) | 4:10 | 2021-12-23 | 2022-03-10 |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 ### [Top Trending: Hip\-Hop](https://open.spotify.com/playlist/6PPav6OOdBg3kTIyyCqeDw)
 
-> A collection of Hip Hop hits and viral trends featuring Lil Baby, J.Cole, Doechii &amp; more\. Updated weekly!  Cover: City Girls
+> A collection of Hip Hop hits and viral trends featuring Lil Baby, J.Cole, Doechii &amp; more\. Updated weekly!  Cover: Kid Cudi
 
 [digster.fm](https://open.spotify.com/user/digster.fm) - 12,044 likes - 59 songs - 3 hr 21 min
 
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 | 58 | [York Way ft\. Beam](https://open.spotify.com/track/6LjqU0aHuGN37MWR0GLNCf) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 2:15 |
 | 59 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 |
 
-Snapshot ID: `MjA1NCxmYzUzNjE5MWM0ZWZjNGI1NDBjZDNkNjI0MmM2NWYyOWFiYjU0YTE5`
+Snapshot ID: `MjA1NSw2YmRmMjZmMGQwNGFjMWU3ZmEzYTZmYTdiZmFkOGM0NDJjOGI0M2E5`

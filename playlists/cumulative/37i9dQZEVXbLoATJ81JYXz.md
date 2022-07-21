@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-916 songs - 2 day 0 hr 40 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+917 songs - 2 day 0 hr 43 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-02 |
 | [2A](https://open.spotify.com/track/2VkddU9b4DSf9uFJr3HJHr) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1) | [2A](https://open.spotify.com/album/2ugiL7E28kNku0wF9hGHqx) | 1:52 | 2022-05-28 | 2022-06-12 |
 | [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2021-10-31 | 2022-05-12 |
-| [2step \(feat\. 1.Cuz\)](https://open.spotify.com/track/2B2eoabxesVrveXDd7E0BQ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2step \(The Remixes\)](https://open.spotify.com/album/1nqJFaKVTrCkCDaC2I1zM7) | 2:33 | 2022-05-28 |  |
+| [2step \(feat\. 1.Cuz\)](https://open.spotify.com/track/2B2eoabxesVrveXDd7E0BQ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2step \(The Remixes\)](https://open.spotify.com/album/1nqJFaKVTrCkCDaC2I1zM7) | 2:33 | 2022-05-28 | 2022-07-21 |
+| [2step \(feat\. 1.Cuz\)](https://open.spotify.com/track/3Clcn0JjqakucsAAAMV646) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 | 2022-07-20 |  |
 | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/track/4lzEs26mJHbvj9TIIJZPRS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/album/57FHPyAprjWD6mXaY5gE1f) | 2:33 | 2022-05-10 | 2022-05-29 |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-05-11 | 2022-05-14 |
 | [3 Apor](https://open.spotify.com/track/7iuyUQEH88OGBTm6xeLLWO) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows \(Deluxe\)](https://open.spotify.com/album/09z2zAz4OhioQ4dnRc3DmW) | 2:35 | 2021-05-30 | 2021-06-06 |

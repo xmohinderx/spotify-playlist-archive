@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Esto es un perreo a lo Zion, Anuel AA & Randy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,502 likes - 104 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,834 likes - 104 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

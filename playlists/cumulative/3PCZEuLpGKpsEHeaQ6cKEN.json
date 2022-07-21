@@ -2894,6 +2894,24 @@
     },
     {
       "album": {
+        "name": "Se Acabo",
+        "url": "https://open.spotify.com/album/1xWUlh5atEafUoGYCfIDo4"
+      },
+      "artists": [
+        {
+          "name": "Strobe",
+          "url": "https://open.spotify.com/artist/02kU78WfHXLRT2GvnmzNaA"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134993,
+      "name": "Se Acabo",
+      "url": "https://open.spotify.com/track/2OHMX1fGD390xkMT2AWxOd"
+    },
+    {
+      "album": {
         "name": "See",
         "url": "https://open.spotify.com/album/6AmI6DcY5HSiGKy8jXQ6lA"
       },

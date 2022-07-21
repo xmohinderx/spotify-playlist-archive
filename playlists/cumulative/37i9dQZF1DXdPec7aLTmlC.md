@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-664 songs - 1 day 11 hr 28 min - [published](https://open.spotify.com/playlist/7AErLDUggnFbzZO3gre4Ta)
+665 songs - 1 day 11 hr 31 min - [published](https://open.spotify.com/playlist/7AErLDUggnFbzZO3gre4Ta)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 | 2019-07-06 | 2019-07-18 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-22 | 2022-04-21 |
 | [By My Side](https://open.spotify.com/track/7hAxByWjSa84N65MzQuJB6) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [Mika Zibanejad](https://open.spotify.com/artist/1vu5vqo8KfwCUGVs7uX24r), [Melina Borglowe](https://open.spotify.com/artist/6iuKUTViI8eNiiZN8hOkFj) | [By My Side](https://open.spotify.com/album/6HGaC1Wd7R9AqVO6sTW5dN) | 2:46 | 2020-06-12 | 2020-10-09 |
-| [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 | 2021-09-05 |  |
+| [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 | 2021-09-05 | 2022-07-21 |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2019-10-22 | 2019-10-25 |
 | [California](https://open.spotify.com/track/2i1e4VbiH770F8dD3sG3jH) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Karlyn](https://open.spotify.com/artist/7kMyDVBst44rpdogfXhUrk) | [California](https://open.spotify.com/album/6vC1yotTRNAvQtHVOVr5ow) | 2:49 | 2019-06-21 | 2020-01-03 |
 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 | 2019-10-22 | 2019-11-09 |
@@ -521,6 +521,7 @@
 | [Sing It With Me](https://open.spotify.com/track/60DwQiwwglVkTkTwDTTEId) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Sing It With Me](https://open.spotify.com/album/3JeuNwdCNHSPur3qV9IswG) | 3:21 | 2019-05-27 |  |
 | [Sixteen](https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Sixteen](https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx) | 3:21 | 2019-05-26\* | 2022-04-18 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-10-11 | 2022-04-19 |
+| [Slidin' \(feat\. Kodak Black\)](https://open.spotify.com/track/173ff06by7Ujur3An4cHWf) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Slidin' \(feat\. Kodak Black\)](https://open.spotify.com/album/7mi906Ss21stvJEPrTz1ZT) | 2:36 | 2022-07-14 |  |
 | [Slow Clap \(with Saweetie\)](https://open.spotify.com/track/0xLf1SbCnuFfBRbDNauT5b) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Slow Clap \(with Saweetie\)](https://open.spotify.com/album/32I12RuItIkrLV7a3qGIPh) | 3:11 | 2021-04-23 | 2021-05-28 |
 | [Slow Dance \(feat\. Ava Max\) \- Sam Feldt Remix](https://open.spotify.com/track/2wenGTypSYHXl1sN1pNC7X) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Slow Dance \(feat\. Ava Max\) \[Sam Feldt Remix\]](https://open.spotify.com/album/6Ol6C42O7AWnTkj8pHMHWv) | 3:13 | 2019-10-29 |  |
 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 | 2019-08-22 | 2020-10-21 |

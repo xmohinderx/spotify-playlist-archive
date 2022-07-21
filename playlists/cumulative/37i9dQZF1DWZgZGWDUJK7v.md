@@ -4,7 +4,7 @@
 
 > Meet the popular animation & webtoon OSTs now! \(Cover: Discovery of Love\(연애의 발견\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-72 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+73 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Drip Drip Drip](https://open.spotify.com/track/1rfYUwAohM9nZJbscZFCWl) | [YEO\-EUN](https://open.spotify.com/artist/16fjppxQxQKpRH2Z1FUxww) | [The Crush Of Spring OST Part.1](https://open.spotify.com/album/1ayPFczFbalnsDqBh92GoP) | 3:42 | 2022-05-27 |  |
 | [Drive Away](https://open.spotify.com/track/6QE9JHwECUV28SeCVk4zO1) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Drive Away \(Marriage Or Death X SURAN\)](https://open.spotify.com/album/2IbKSIHCu6c5Tfw5SjbDCA) | 3:29 | 2022-05-09 |  |
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-05-09 |  |
+| [Feel Empty \(WEBTOON 'Discovery of Love' X OuiOui\)](https://open.spotify.com/track/0tEJych2LdCffCFYVn5vU0) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Feel Empty \(WEBTOON 'Discovery of Love' X OuiOui\)](https://open.spotify.com/album/66yLRKVouimpFdrbQupUdL) | 3:22 | 2022-07-20 |  |
 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-05-09 |  |
 | [Half of Half](https://open.spotify.com/track/4yAaTghM4WlFmkcMn8OltI) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Hanyang Diaries, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2HtX81YADYdTbNt4wlpcCS) | 3:29 | 2022-05-09 |  |
 | [Hold me …](https://open.spotify.com/track/6mglxgJ3ZV9WDFOVTgTFvi) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [The Crush Of Spring OST Part.3](https://open.spotify.com/album/6cxI2NnSA8YBlHJip1mdji) | 3:44 | 2022-05-27 |  |

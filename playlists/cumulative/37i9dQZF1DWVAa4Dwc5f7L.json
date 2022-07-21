@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 224130,
       "name": "A Mover la Colita",
       "url": "https://open.spotify.com/track/6Nd2hWcRdRuhyNBv7wzCgd"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 267413,
       "name": "Abracadabra - Remix",
       "url": "https://open.spotify.com/track/47iIwWo6cxBChV3WbzNOvm"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 230819,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 279373,
       "name": "Bomba",
       "url": "https://open.spotify.com/track/3Yv9scZyi4XkzOpRLtHVwQ"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 298106,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 241866,
       "name": "Dominicano de Pura Cepa - 2021 Mix",
       "url": "https://open.spotify.com/track/64SQFUsGoRC0QtVMrD9UkH"
@@ -874,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Merengue De hoy",
+        "url": "https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo"
+      },
+      "artists": [
+        {
+          "name": "Papi Sanchez",
+          "url": "https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264160,
+      "name": "Enamorame",
+      "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
+    },
+    {
+      "album": {
         "name": "Sin Medir Distancia",
         "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
       },
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 258746,
       "name": "Jilila Kimbolo",
       "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 213545,
       "name": "La Casa de Ramon",
       "url": "https://open.spotify.com/track/6ZGEQPicVG2ERQE763HBAm"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 230906,
       "name": "La Faldita",
       "url": "https://open.spotify.com/track/5ghOXrXO9BF76gIkIXcrmT"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 265760,
       "name": "Me Tiene Amarrao",
       "url": "https://open.spotify.com/track/44IfzgehaqHAjDB4XzCNbv"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 231906,
       "name": "Merengue Electronico (Rompe Consola)",
       "url": "https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 222068,
       "name": "Mi Forma De Amar",
       "url": "https://open.spotify.com/track/0jkkUpEiaeiDj3GFhLx4nb"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 274840,
       "name": "Parece Una Nena",
       "url": "https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 266306,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/1YwPNemawMgGe6sF4U0FTE"
@@ -2217,7 +2235,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 210026,
       "name": "Tocaito",
       "url": "https://open.spotify.com/track/1jjtyivVr8mfTErj17EQrA"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 268746,
       "name": "Tu Si Quieres, Tu No Quieres",
       "url": "https://open.spotify.com/track/6zuYGVwWuowKN6omsNkmIS"
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 286080,
       "name": "Ya Viene el Lunes",
       "url": "https://open.spotify.com/track/5KxarQE7YBYSAoEoYDcpZR"

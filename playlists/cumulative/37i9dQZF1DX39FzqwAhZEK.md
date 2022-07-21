@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-236 songs - 12 hr 3 min - not published yet
+236 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

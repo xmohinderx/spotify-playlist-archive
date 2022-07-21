@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 339360,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6eXViRiXJKufjfzY3Ntxhx"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 298022,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0DPDSTI0FgwUc8wQHXlIv2"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 419963,
       "name": "Bell Tune",
       "url": "https://open.spotify.com/track/3HWC42lGGMkjII9evepQEL"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 202666,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/7j5VRc49kSNmdd7XeCrzle"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 290333,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/6PbDGsz1YF8vKNVmn0Lu9c"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 220235,
       "name": "Evolving",
       "url": "https://open.spotify.com/track/0CSosCSVwHqhpxYmYfHExx"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 275752,
       "name": "In Heaven",
       "url": "https://open.spotify.com/track/3pxw9ukOH4Q95Y6NDGg5Eu"
@@ -955,10 +955,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 231680,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe"
+    },
+    {
+      "album": {
+        "name": "Intrigue",
+        "url": "https://open.spotify.com/album/6UmvC0qaSHA3y6K5vTFDyz"
+      },
+      "artists": [
+        {
+          "name": "Channell",
+          "url": "https://open.spotify.com/artist/0USu267KXIgx4OKwhU9n5D"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323717,
+      "name": "Intrigue",
+      "url": "https://open.spotify.com/track/5vrnYqImaKKtkoTlY0OfII"
     },
     {
       "album": {
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 244137,
       "name": "Lonely Night - Zero T's Setting Sun Remix",
       "url": "https://open.spotify.com/track/62xrslsJ8crkaQ8jdm3C35"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 236609,
       "name": "Nautic",
       "url": "https://open.spotify.com/track/3Pevs0j3N02qNVFSqyyz0L"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 248428,
       "name": "Saturday At The Sunset",
       "url": "https://open.spotify.com/track/0mhvzMGmJJPXc3YciY7LRK"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 301655,
       "name": "She Sings for Me",
       "url": "https://open.spotify.com/track/4acNIYmvJykLV0faSBH8YD"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 277188,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/11jALbqbvABzPKe44hM5KS"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 462246,
       "name": "Slowburn Storms",
       "url": "https://open.spotify.com/track/4pSefaBriZ70qtMlIFMtHH"
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 311242,
       "name": "What I Said",
       "url": "https://open.spotify.com/track/1Bu2ICXvqpoCM1cmWTyvrJ"
@@ -1995,7 +2013,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 270444,
       "name": "When the Dawn Breaks",
       "url": "https://open.spotify.com/track/3J8qHtUXHJdTKo0NbruZNf"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 270544,
       "name": "With Me",
       "url": "https://open.spotify.com/track/3XE248EzS2oKV2VfQD73VB"

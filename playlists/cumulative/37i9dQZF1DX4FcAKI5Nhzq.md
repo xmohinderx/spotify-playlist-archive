@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: SF9
+> Future K\-Pop hits! Cover: Xdinary Heroes
 
-602 songs - 1 day 9 hr 37 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+603 songs - 1 day 9 hr 40 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [TEAMO](https://open.spotify.com/track/54J9MTzvuomk0V78FBDTXR) | [MINZY](https://open.spotify.com/artist/1ql28OzmgulHG2ldXFrbWp) | [TEAMO](https://open.spotify.com/album/4b744AKQ78M5SBdo7Wxzm5) | 3:08 | 2021-07-16 | 2021-09-07 |
 | [Tear Drop](https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [TURN OVER](https://open.spotify.com/album/5zt8nriwNFRlrZD3Gi4NRI) | 3:17 | 2021-07-06 | 2021-09-07 |
 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 | 2022-06-17 | 2022-07-14 |
+| [Test Me](https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Hello, world!](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) | 3:19 | 2022-07-20 |  |
 | [Thank U](https://open.spotify.com/track/2FqZjsvLrqiQF5CpCOSY7i) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR \- The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 | 2021-01-18 | 2021-03-18 |
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-03-21 | 2022-05-19 |
 | [THE BADDEST](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [THE BADDEST](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) | 2:42 | 2020-10-13\* | 2021-01-18 |

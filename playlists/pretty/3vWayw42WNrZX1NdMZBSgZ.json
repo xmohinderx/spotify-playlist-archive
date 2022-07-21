@@ -1,28 +1,32 @@
 {
-  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Ricky Martin",
-  "num_followers": 56785,
+  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: CNCO &amp; Kenia Os",
+  "num_followers": 56779,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzM3NywyMzE3MzBiYjVmMjA1N2FlYzZmMWJmY2I3OWE5NTVjMWMyYWM1OTlh",
+  "snapshot_id": "MzM4MSwwYWY0MzE2MDE0NmUzMjFmZDQ0NjQ1N2ExMDc1ZTQzY2Q3ODFiZDFl",
   "tracks": [
     {
-      "added_at": "2022-07-13 16:06:23",
+      "added_at": "2022-07-20 22:06:02",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 210913,
-      "name": "\u00c1cido Sabor",
-      "url": "https://open.spotify.com/track/6KZRJUdgVT01xpzZG6RASc"
+      "duration_ms": 165533,
+      "name": "Plut\u00f3n",
+      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
     },
     {
       "added_at": "2022-07-06 22:05:52",
@@ -47,6 +51,22 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "added_at": "2022-07-13 16:06:23",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 210913,
+      "name": "\u00c1cido Sabor",
+      "url": "https://open.spotify.com/track/6KZRJUdgVT01xpzZG6RASc"
     },
     {
       "added_at": "2022-07-07 04:14:02",

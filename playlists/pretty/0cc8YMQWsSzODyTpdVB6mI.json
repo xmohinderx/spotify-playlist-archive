@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42387,
+  "num_followers": 42397,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjg4MSw5MGQ1YWYwMGM2NGE4YTExM2U2OTUzM2Y5YThjMzEzYzllMTJlZGM5",
+  "snapshot_id": "Mjg4NSw3OWFkMzQ5YWExMGRkZjA4ODllMzQ2OTc2MGYwMzYyMmRlNjkyZmYx",
   "tracks": [
+    {
+      "added_at": "2022-07-20 08:55:15",
+      "album": {
+        "name": "TALES_FOR_NIGHTCLUBS_II",
+        "url": "https://open.spotify.com/album/2xFGlGQ5iUH8s1IcluUDaZ"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "IPANEMA",
+      "url": "https://open.spotify.com/track/6vz5lQoqxfgDt3bXNsC4sq"
+    },
     {
       "added_at": "2022-07-19 08:52:10",
       "album": {
@@ -411,58 +427,6 @@
       "duration_ms": 192401,
       "name": "Want It Bad",
       "url": "https://open.spotify.com/track/6r6WolFiUnf8leQpgM3kzc"
-    },
-    {
-      "added_at": "2022-05-16 08:10:36",
-      "album": {
-        "name": "Surf You",
-        "url": "https://open.spotify.com/album/5qo2UbCeU262V9qWLfjedL"
-      },
-      "artists": [
-        {
-          "name": "Archil & Leon",
-          "url": "https://open.spotify.com/artist/76ptaW1lOTbARlWqFoNJVI"
-        }
-      ],
-      "duration_ms": 215525,
-      "name": "Surf You",
-      "url": "https://open.spotify.com/track/7iBPGBKUezy2EuH1eA82ut"
-    },
-    {
-      "added_at": "2022-05-13 08:10:58",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/2OmNDztyjPcH9yjZlBklbO"
-      },
-      "artists": [
-        {
-          "name": "Rush Midnight",
-          "url": "https://open.spotify.com/artist/7JhInRTK054LmqV3Ton1z4"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/4szdAoKiSXuatHbwwWRDDz"
-    },
-    {
-      "added_at": "2022-05-11 08:31:07",
-      "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/6hRNO6aIMwgR1WIdvyCqk5"
-      },
-      "artists": [
-        {
-          "name": "Hi Frisco",
-          "url": "https://open.spotify.com/artist/6ifRAgjl7vu0M5DsSbtp2i"
-        },
-        {
-          "name": "CHERITON",
-          "url": "https://open.spotify.com/artist/31RwGrkcLmgHGRSOK2gIKB"
-        }
-      ],
-      "duration_ms": 255770,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/1WMAmiHJjj3jiQlPMFFdGi"
     },
     {
       "added_at": "2021-11-05 15:47:43",

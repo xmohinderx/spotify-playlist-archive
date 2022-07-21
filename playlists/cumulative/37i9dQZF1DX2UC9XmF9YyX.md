@@ -4,7 +4,7 @@
 
 > Listen to Calvin Harris presents Funk Wav Bounces\. Vol 2\. Album out August 5th.
 
-14 songs - 50 min 50 sec - not published yet
+14 songs - 50 min 50 sec - [published](https://open.spotify.com/playlist/0PKUJIgnJF5FrySv0OqyDF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 225631,
       "name": "Call Me Home",
       "url": "https://open.spotify.com/track/7EepuMExJZF3eimemlp771"
@@ -1917,6 +1917,24 @@
       "duration_ms": 240546,
       "name": "Country",
       "url": "https://open.spotify.com/track/0Hlfo1A9sxNTPsk9QQXWb2"
+    },
+    {
+      "album": {
+        "name": "Cowboy Bepop",
+        "url": "https://open.spotify.com/album/3GMkAcRznb2cX3lRypqLCh"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173210,
+      "name": "Cowboy Bepop",
+      "url": "https://open.spotify.com/track/4YYsjhh2xuXbUwn435W2WI"
     },
     {
       "album": {

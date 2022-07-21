@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 342360,
       "name": "And Our Feelings",
       "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 452626,
       "name": "Change the World - Live on MTV Unplugged",
       "url": "https://open.spotify.com/track/5k1iTPL7TNm0ZRixGzYvXI"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 243400,
       "name": "Grown & Sexy",
       "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 233893,
       "name": "I Hope That You're Okay",
       "url": "https://open.spotify.com/track/1It1muRI7amf04F8W3Ufiy"
@@ -806,6 +806,24 @@
     },
     {
       "album": {
+        "name": "Return Of The Tender Lover",
+        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358426,
+      "name": "Something Bout You",
+      "url": "https://open.spotify.com/track/5r3cGlrATha1Li3bMdJrEQ"
+    },
+    {
+      "album": {
         "name": "Tender Lover",
         "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 241773,
       "name": "Well Alright",
       "url": "https://open.spotify.com/track/2UrCRG6gqpsNYqTX15JO24"

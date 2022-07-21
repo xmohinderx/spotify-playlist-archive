@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-07-19",
   "description": "\u00a1El mejor condimento para tus comidas!",
   "name": "Cocina con Cumbia",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4CkcBa2yg5PYM4HXnr0aPa"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185880,
+      "name": "A Donde Iras Ahora",
+      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
+    },
     {
       "album": {
         "name": "Acar\u00ed\u00f1ame",
@@ -55,6 +75,24 @@
       "duration_ms": 155134,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs"
+    },
+    {
+      "album": {
+        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
+        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
+      },
+      "artists": [
+        {
+          "name": "Perla Colombiana",
+          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218853,
+      "name": "Agua de vida",
+      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
     },
     {
       "album": {
@@ -164,6 +202,24 @@
     },
     {
       "album": {
+        "name": "Las Viejas Mas Bailadas",
+        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
+      },
+      "artists": [
+        {
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185115,
+      "name": "Amor A\u00f1ejo",
+      "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
+    },
+    {
+      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -175,7 +231,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 213026,
       "name": "Amor Regresa",
       "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
@@ -193,7 +249,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 232493,
       "name": "Amor Sin Primavera",
       "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
@@ -229,7 +285,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 214041,
       "name": "Ayer te vi con el",
       "url": "https://open.spotify.com/track/6fsjUt0zs7FtLDvLzLqwQM"
@@ -247,10 +303,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 229840,
       "name": "B\u00e1ilalo",
       "url": "https://open.spotify.com/track/2kXjQNAuP4dBb8gb1xO39E"
+    },
+    {
+      "album": {
+        "name": "Afrorumba Chilenera",
+        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209173,
+      "name": "Callejero",
+      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
     },
     {
       "album": {
@@ -287,7 +361,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 201160,
       "name": "Caramelito",
       "url": "https://open.spotify.com/track/3DZMqSBSxdrNk4khtCdBQn"
@@ -323,7 +397,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
@@ -359,7 +433,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 224293,
       "name": "Como Una Novela",
       "url": "https://open.spotify.com/track/4KQ8pDFCIgWpT7TY1Uf8TN"
@@ -384,6 +458,24 @@
     },
     {
       "album": {
+        "name": "La triste realidad",
+        "url": "https://open.spotify.com/album/4t80y5mnOIGldbjMqDxfrN"
+      },
+      "artists": [
+        {
+          "name": "Guachup\u00e9",
+          "url": "https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233119,
+      "name": "Cuando quieras",
+      "url": "https://open.spotify.com/track/6lEk7bnyxoABOownxhgi6O"
+    },
+    {
+      "album": {
         "name": "Culpable o No",
         "url": "https://open.spotify.com/album/7cpSPJeI3YMC56xp7lsz19"
       },
@@ -395,7 +487,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 137554,
       "name": "Culpable o No",
       "url": "https://open.spotify.com/track/0PNkST00gopYa35OLKfju2"
@@ -417,7 +509,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 208400,
       "name": "Cumbia A La Gente",
       "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
@@ -471,7 +563,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 267826,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
@@ -605,7 +697,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 156821,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
@@ -681,7 +773,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 214933,
       "name": "El List\u00f3n De Tu Pelo",
       "url": "https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo"
@@ -771,7 +863,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 176560,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
@@ -811,6 +903,24 @@
       "duration_ms": 177533,
       "name": "Esa Malvada",
       "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
+    },
+    {
+      "album": {
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "album": {
@@ -869,10 +979,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 192444,
       "name": "Furia Loca",
       "url": "https://open.spotify.com/track/4qQ5S7epEa2ExyE0nSmXWt"
+    },
+    {
+      "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219088,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL"
     },
     {
       "album": {
@@ -905,7 +1033,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 242242,
       "name": "Iluminar\u00e1",
       "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
@@ -999,7 +1127,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 205486,
       "name": "La Cumbia del Infinito",
       "url": "https://open.spotify.com/track/6b2BVDyqhzA2DHIe01cNhV"
@@ -1024,6 +1152,24 @@
     },
     {
       "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472400,
+      "name": "La Negra Tomasa - Bilongo - Versi\u00f3n Tropical",
+      "url": "https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3"
+    },
+    {
+      "album": {
         "name": "Las Dos Camisas",
         "url": "https://open.spotify.com/album/69SoU25343FcVNnghicQDA"
       },
@@ -1035,7 +1181,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 245574,
       "name": "Las Dos Camisas",
       "url": "https://open.spotify.com/track/3pfD9cp1evigTGungCt8wP"
@@ -1053,7 +1199,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 199936,
       "name": "Le Hace Falta un Beso",
       "url": "https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK"
@@ -1111,7 +1257,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Lo Intentamos (feat. Grupo Play)",
       "url": "https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr"
@@ -1129,7 +1275,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 188053,
       "name": "Loca",
       "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
@@ -1147,7 +1293,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 291133,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
@@ -1169,7 +1315,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 217810,
       "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
       "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
@@ -1187,7 +1333,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 154846,
       "name": "Maracuy\u00e1 Con Mango",
       "url": "https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK"
@@ -1299,7 +1445,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 467185,
       "name": "Megamix",
       "url": "https://open.spotify.com/track/4IaTGBLqlOee3S98dm4Zxx"
@@ -1357,7 +1503,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 194146,
       "name": "Mi Ni\u00f1a Mujer",
       "url": "https://open.spotify.com/track/2g01YW6oOqqzUfb4iOsBNt"
@@ -1397,10 +1543,32 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 226600,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/13xVmEV4G5jh8zDIFTZeIy"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Mis Sentimientos",
+      "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
     },
     {
       "album": {
@@ -1423,6 +1591,24 @@
       "duration_ms": 163266,
       "name": "Muchachita",
       "url": "https://open.spotify.com/track/7rmT7CeqEFft8Os5chlRFW"
+    },
+    {
+      "album": {
+        "name": "Muchachita Consentida (Baile Total)",
+        "url": "https://open.spotify.com/album/03cU4oIfDKNsqMkrfbu418"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213160,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/0g2BQnxQiAgetPk4gMKLsm"
     },
     {
       "album": {
@@ -1480,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256702,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
+    },
+    {
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI"
       },
@@ -1491,10 +1695,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 220813,
       "name": "No Me Arrepiento de Este Amor",
       "url": "https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz"
+    },
+    {
+      "album": {
+        "name": "No me Arrepiento de Este Amor",
+        "url": "https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227373,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a"
     },
     {
       "album": {
@@ -1574,6 +1796,24 @@
     },
     {
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/72UIlzI7krRjwl7x908aC2"
+      },
+      "artists": [
+        {
+          "name": "La Rosa",
+          "url": "https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "No Te Lo Puedo Creer",
+      "url": "https://open.spotify.com/track/7mFgHdrqwPUJ2lxyr8pGJd"
+    },
+    {
+      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -1611,6 +1851,24 @@
       "duration_ms": 266015,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
+    },
+    {
+      "album": {
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "Nunca me Faltes",
+      "url": "https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW"
     },
     {
       "album": {
@@ -1691,7 +1949,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 252564,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/4VfaEEDnND0teufHLPDRnk"
@@ -1753,7 +2011,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 242906,
       "name": "Pero La Recuerdo",
       "url": "https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR"
@@ -1797,10 +2055,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 196000,
       "name": "Pideme la luna",
       "url": "https://open.spotify.com/track/5EaIGGp65BeF4u9rgPygfl"
+    },
+    {
+      "album": {
+        "name": "Pasi\u00f3n Cuartetera",
+        "url": "https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs"
+      },
+      "artists": [
+        {
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242266,
+      "name": "Por Lo Que Yo Te Quiero",
+      "url": "https://open.spotify.com/track/5fI4LBI23D3JkgRCePYvPV"
     },
     {
       "album": {
@@ -1815,7 +2091,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 233613,
       "name": "Porque te Amo",
       "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
@@ -1873,6 +2149,24 @@
       "duration_ms": 181254,
       "name": "Que Nadie Se Entere",
       "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
+    },
+    {
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "album": {
@@ -1945,7 +2239,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 308117,
       "name": "Romance Ilegal / Cumbia / Haciendo el Amor / Furia Loca (Mix Sound 1)",
       "url": "https://open.spotify.com/track/4VHKAfBCGDmhUxK3pmlUWm"
@@ -1981,7 +2275,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 234280,
       "name": "Sakate Uno",
       "url": "https://open.spotify.com/track/7tg2sPCtKf5hLoD0w2Z7Zd"
@@ -2057,7 +2351,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 293906,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
@@ -2075,7 +2369,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 187506,
       "name": "Soy Feo Pero Rico",
       "url": "https://open.spotify.com/track/7wKrYpEkIa4NNSwkd1YqRQ"
@@ -2129,7 +2423,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 214813,
       "name": "Sue\u00f1o Su Boca",
       "url": "https://open.spotify.com/track/4cpdYUog51NExLAASvi4bd"
@@ -2165,7 +2459,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 224946,
       "name": "Te extra\u00f1o",
       "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
@@ -2219,10 +2513,46 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 190800,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
+    },
+    {
+      "album": {
+        "name": "La Terrible Pulenta",
+        "url": "https://open.spotify.com/album/00up9oRhervpPijdMVoZFn"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Te Vuelvo a Ver",
+      "url": "https://open.spotify.com/track/2NItmgHAUnsICEWIY5DQmj"
+    },
+    {
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237960,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
     },
     {
       "album": {
@@ -2313,7 +2643,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 248440,
       "name": "Un Beso y una Flor",
       "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
@@ -2331,7 +2661,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 225360,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
@@ -2389,7 +2719,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 183266,
       "name": "Una R\u00e1faga de Amor",
       "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
@@ -2465,7 +2795,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 253987,
       "name": "Y Qu\u00e9 Pas\u00f3...?",
       "url": "https://open.spotify.com/track/2yVGDR9w1srAuQAuUjEShj"
@@ -2490,6 +2820,24 @@
     },
     {
       "album": {
+        "name": "La Gata",
+        "url": "https://open.spotify.com/album/00oXPHfuBNr2qDN7ORn6YP"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231613,
+      "name": "Yo Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/6ndtFs90yTcAghotHwP6TN"
+    },
+    {
+      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/2rgOhgDY4o4Fy6ctcHZ69Z"
       },
@@ -2501,7 +2849,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 204293,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/2J3phqO09lgu24e82siYtt"

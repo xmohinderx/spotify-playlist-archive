@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 239595,
       "name": "Al Khafif",
       "url": "https://open.spotify.com/track/2OcawH6XV47Lc5utS3DCEW"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 330031,
       "name": "Badi Yaha",
       "url": "https://open.spotify.com/track/5dy561iusyRxgYAXTcJSw4"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 232618,
       "name": "Bala Wala Shi - Live",
       "url": "https://open.spotify.com/track/5352qGIrAQLSeJkiEvvOQi"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 219533,
       "name": "Hawel Tensany",
       "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
@@ -935,24 +935,6 @@
       "duration_ms": 190712,
       "name": "Kil Ma T'illi",
       "url": "https://open.spotify.com/track/08wMCxGLgcE3VXwSSgMzJK"
-    },
-    {
-      "album": {
-        "name": "Assaf",
-        "url": "https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Assaf",
-          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
-        }
-      ],
-      "date_added": "2022-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
-      "duration_ms": 290773,
-      "name": "La Wayn Brouh",
-      "url": "https://open.spotify.com/track/4LWO2PSM4751X7J9q82H6D"
     },
     {
       "album": {
@@ -1115,7 +1097,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 154635,
       "name": "LYA",
       "url": "https://open.spotify.com/track/0VgcPBRN0cVOJ2e2x7Qbhv"
@@ -1313,7 +1295,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 221400,
       "name": "Omer Aasal",
       "url": "https://open.spotify.com/track/0joxJdOyy3wuhQdcxdP9RW"
@@ -1511,7 +1493,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 346800,
       "name": "Shou Hal Ayyam - 2008 Remastered",
       "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
@@ -1645,7 +1627,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 297570,
       "name": "Waga'a El Hawa",
       "url": "https://open.spotify.com/track/1YW1dJLhxxlDab19RkeIQz"
@@ -1949,7 +1931,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 343376,
       "name": "\u0625\u0648\u0639\u062f\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/0IVKMWovu9jtiHDRKn4HvE"
@@ -2065,6 +2047,24 @@
       "duration_ms": 206044,
       "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0633\u0627\u0641",
+        "url": "https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Assaf",
+          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290773,
+      "name": "\u0644\u0648\u064a\u0646 \u0628\u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/4LWO2PSM4751X7J9q82H6D"
     },
     {
       "album": {

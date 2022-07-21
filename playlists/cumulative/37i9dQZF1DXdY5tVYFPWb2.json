@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 277993,
       "name": "1989's",
       "url": "https://open.spotify.com/track/1maEK0VKEFEGpP1QXmZb1R"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 257276,
       "name": "33\u6b73\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 178546,
       "name": "A Rainy Night in NY",
       "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
@@ -250,7 +250,7 @@
     },
     {
       "album": {
-        "name": "BLIZZARD (feat. Hikari)",
+        "name": "BLIZZARD (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu"
       },
       "artists": [
@@ -267,7 +267,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 264466,
-      "name": "BLIZZARD (feat. Hikari)",
+      "name": "BLIZZARD (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm"
     },
     {
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 225666,
       "name": "Fall in Love Again",
       "url": "https://open.spotify.com/track/5no4xNiJ6VeLluO7XVal5Z"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 211562,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Highway Flyer",
       "url": "https://open.spotify.com/track/33sk4kPKBJ33h9f3VyCnuG"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 241668,
       "name": "Hooray Hooray",
       "url": "https://open.spotify.com/track/2Vkk9kZOqdbHlA6bIXBQzV"
@@ -889,32 +889,10 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "HOPE for US feat. Isono Kun (YONA YONA WEEKENDERS), AAAMYYY (Tempalay), TENDRE, Sara Yoshida (MONONKVL) & Ryohu (KANDYTOWN)",
       "url": "https://open.spotify.com/track/7qxt4i715UZ1z3dEDAaICw"
-    },
-    {
-      "album": {
-        "name": "I CAN'T STOP THE LONELINESS (feat. Hikari)",
-        "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
-        }
-      ],
-      "date_added": "2022-05-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 275912,
-      "name": "I CAN'T STOP THE LONELINESS (feat. Hikari)",
-      "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
     },
     {
       "album": {
@@ -969,7 +947,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
@@ -1005,7 +983,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 241450,
       "name": "Just be Blue",
       "url": "https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP"
@@ -1157,7 +1135,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
@@ -1197,7 +1175,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 221492,
       "name": "METRO - XL Middleton Remix",
       "url": "https://open.spotify.com/track/52QdtRrirgHtZJ6JLSbpD8"
@@ -1302,24 +1280,6 @@
     },
     {
       "album": {
-        "name": "My Lost City",
-        "url": "https://open.spotify.com/album/0wbSh6gSs5M9riJ38XAExS"
-      },
-      "artists": [
-        {
-          "name": "Koki Okamoto",
-          "url": "https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i"
-        }
-      ],
-      "date_added": "2022-06-02",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
-      "duration_ms": 207195,
-      "name": "My Lost City",
-      "url": "https://open.spotify.com/track/1YEGUAQz96PSwUL9FGAV1Z"
-    },
-    {
-      "album": {
         "name": "Natsume",
         "url": "https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm"
       },
@@ -1331,7 +1291,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 157999,
       "name": "Natsume",
       "url": "https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il"
@@ -1353,7 +1313,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
@@ -1429,7 +1389,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 125357,
       "name": "Outsider",
       "url": "https://open.spotify.com/track/3nrUk5haVUeTEhmczsCN5I"
@@ -1527,24 +1487,6 @@
       "duration_ms": 195000,
       "name": "PINK",
       "url": "https://open.spotify.com/track/2ep6JNo4lc3X9auNz575NE"
-    },
-    {
-      "album": {
-        "name": "VARIETY (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "date_added": "2022-06-02",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
-      "duration_ms": 295453,
-      "name": "Plastic Love - 12\" Original Length ReMix",
-      "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
     },
     {
       "album": {
@@ -1675,7 +1617,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 224177,
       "name": "Rhythm of Your Heart",
       "url": "https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F"
@@ -1888,7 +1830,7 @@
     },
     {
       "album": {
-        "name": "STAY TUNE (feat. Hikari)",
+        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
       },
       "artists": [
@@ -1905,7 +1847,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226779,
-      "name": "STAY TUNE (feat. Hikari)",
+      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
     },
     {
@@ -1961,7 +1903,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 249833,
       "name": "Summer Again",
       "url": "https://open.spotify.com/track/1TvZNdyMxCL6LcN5CZyCvC"
@@ -2087,7 +2029,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 247733,
       "name": "tasty tasks",
       "url": "https://open.spotify.com/track/3HQ7aHzoLMlbjtYW8rUPGN"
@@ -2109,24 +2051,6 @@
       "duration_ms": 243000,
       "name": "Time",
       "url": "https://open.spotify.com/track/2eldS7v8v6ai0GZNsoAvHu"
-    },
-    {
-      "album": {
-        "name": "Tokyo cruisin'",
-        "url": "https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "date_added": "2022-05-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188569,
-      "name": "Tokyo cruisin'",
-      "url": "https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399"
     },
     {
       "album": {
@@ -2395,7 +2319,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 259999,
       "name": "\u304f\u3061\u3076\u3048",
       "url": "https://open.spotify.com/track/5pLJN1059GYVb8RxONcG4f"
@@ -2475,7 +2399,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 275866,
       "name": "\u3069\u3046\u3057\u3088\u3046\u3082\u306a\u3044\u306a",
       "url": "https://open.spotify.com/track/1x5oci0p8t6ZLm5TRZgKHo"
@@ -2497,7 +2421,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 337894,
       "name": "\u3075\u305f\u308a\u306e\u30b7\u30eb\u30a8\u30c3\u30c8 (feat. \u5800\u8fbc\u6cf0\u884c)",
       "url": "https://open.spotify.com/track/4G1nLenBpqkbO2UehxVeZ1"
@@ -2711,7 +2635,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 274587,
       "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30bd\u30a6\u30eb\u30fb\u30ec\u30f4\u30e5\u30fc (duet with Rainych, feat. evening cinema)",
       "url": "https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH"
@@ -2866,6 +2790,24 @@
     },
     {
       "album": {
+        "name": "VARIETY (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295453,
+      "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
+      "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
+    },
+    {
+      "album": {
         "name": "\u30d7\u30ec\u30fb\u30ed\u30de\u30f3\u30b9",
         "url": "https://open.spotify.com/album/6G4IcMO9mMKRMFP0Y5XIYj"
       },
@@ -3012,6 +2954,24 @@
     },
     {
       "album": {
+        "name": "\u541b\u306f\u5e7b",
+        "url": "https://open.spotify.com/album/0wbSh6gSs5M9riJ38XAExS"
+      },
+      "artists": [
+        {
+          "name": "Koki Okamoto",
+          "url": "https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207195,
+      "name": "\u541b\u306f\u5e7b",
+      "url": "https://open.spotify.com/track/1YEGUAQz96PSwUL9FGAV1Z"
+    },
+    {
+      "album": {
         "name": "\u5618\u5bdd",
         "url": "https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM"
       },
@@ -3121,7 +3081,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 239552,
       "name": "\u5922\u4e2d",
       "url": "https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH"
@@ -3248,6 +3208,28 @@
     },
     {
       "album": {
+        "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275912,
+      "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
+    },
+    {
+      "album": {
         "name": "\u61f2\u308a\u306a\u3044\u5973/\u6b32\u3057\u3044\u3082\u306e\u306f",
         "url": "https://open.spotify.com/album/0E3TcWXreeMqinoTlMO8tT"
       },
@@ -3302,6 +3284,24 @@
     },
     {
       "album": {
+        "name": "\u6771\u4eaccruisin'",
+        "url": "https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188569,
+      "name": "\u6771\u4eaccruisin'",
+      "url": "https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399"
+    },
+    {
+      "album": {
         "name": "\u6771\u4eac\u306f\u591c\u306e\u4e03\u6642 (feat. Night Tempo)",
         "url": "https://open.spotify.com/album/2auz7IkxAJbGaN8brJnJU6"
       },
@@ -3353,7 +3353,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 250880,
       "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt"
@@ -3371,7 +3371,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 239300,
       "name": "\u697d\u5712",
       "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"

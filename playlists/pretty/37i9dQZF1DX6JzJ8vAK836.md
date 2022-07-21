@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 
 > Pop, rock, funk, R&B, psychedelia—the man from Minneapolis was a true original and earth\-shattering performer\. Hear <a href="spotify:artist:5a2EaR3hamoenG9rDuVn8j">Prince Rogers Nelson</a>'s best right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,534 likes - 80 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,617 likes - 80 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 2 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
 | 3 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 4 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
-| 5 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 |
-| 6 | [Sign 'O' the Times](https://open.spotify.com/track/4Yenz5JZZOUiZSeyKY8bDz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 5:02 |
-| 7 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
+| 5 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
+| 6 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 |
+| 7 | [Sign 'O' the Times](https://open.spotify.com/track/4Yenz5JZZOUiZSeyKY8bDz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 5:02 |
 | 8 | [Little Red Corvette \- Single Version](https://open.spotify.com/track/6X4JeTWCuKEzKOEHXDtyBo) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [4Ever](https://open.spotify.com/album/7mhrGQKxLFJPY2J4TXtA0A) | 3:08 |
 | 9 | [I Would Die 4 U](https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 2:58 |
 | 10 | [Pop Life](https://open.spotify.com/track/5frTNUfeDGOHRo8Cc7ny9R) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around the World in a Day](https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu) | 3:45 |
@@ -24,20 +24,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 14 | [Erotic City](https://open.spotify.com/track/0OfWbtiZ3fHd64VmpCSj7g) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 3:55 |
 | 15 | [Gett Off](https://open.spotify.com/track/0wFkjAM4VVoepQdYB6kl4U) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [Eric Leeds](https://open.spotify.com/artist/7bNJ8B2kMi9urGEfKPsBGP) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 4:31 |
 | 16 | [The Most Beautiful Girl In the World](https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Gold Experience](https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks) | 4:25 |
-| 17 | [Welcome 2 America](https://open.spotify.com/track/5jIxSgeyKZbz9qDh2KZF79) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Welcome 2 America](https://open.spotify.com/album/6PBBG2xtLRBEXq4oBUGHjF) | 5:23 |
-| 18 | [Alphabet St.](https://open.spotify.com/track/25qIHdF9njPTW737AeEQPl) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits 1](https://open.spotify.com/album/7GXUkcVQzX3uDviEa6mVui) | 5:39 |
-| 19 | [Nothing Compares 2 U](https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Nothing Compares 2 U](https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf) | 4:40 |
-| 20 | [Delirious](https://open.spotify.com/track/6hazdpTPlt5W2BTCGYKBoj) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 4:00 |
+| 17 | [Alphabet St.](https://open.spotify.com/track/25qIHdF9njPTW737AeEQPl) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits 1](https://open.spotify.com/album/7GXUkcVQzX3uDviEa6mVui) | 5:39 |
+| 18 | [Nothing Compares 2 U](https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Nothing Compares 2 U](https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf) | 4:40 |
+| 19 | [Delirious](https://open.spotify.com/track/6hazdpTPlt5W2BTCGYKBoj) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 4:00 |
+| 20 | [Diamonds and Pearls](https://open.spotify.com/track/7IoLw1bECmOSWcm2u9SmRH) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 4:45 |
 | 21 | [Mountains](https://open.spotify.com/track/48conYZAap5JNzGJBaOTm2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:57 |
-| 22 | [The Future](https://open.spotify.com/track/0svV7nIgkTsBQRN57dtbAy) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Batman](https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK) | 4:07 |
+| 22 | [Welcome 2 America](https://open.spotify.com/track/5jIxSgeyKZbz9qDh2KZF79) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Welcome 2 America](https://open.spotify.com/album/6PBBG2xtLRBEXq4oBUGHjF) | 5:23 |
 | 23 | [Sexy M.F.](https://open.spotify.com/track/4Syn1a4Irz0UbbR44s7CqB) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 5:26 |
-| 24 | [Soft and Wet](https://open.spotify.com/track/6Q8s3YuAWkx0Qui0Jgkr5m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [For You](https://open.spotify.com/album/5kbRcoeBHpJHe37a9agmfv) | 3:05 |
-| 25 | [Uptown](https://open.spotify.com/track/3IiS3fVdtsMPSHsWBgDcFn) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs) | 5:32 |
-| 26 | [17 Days](https://open.spotify.com/track/7rwPVahewLXhDGKUjfbzU3) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 4:00 |
+| 24 | [U Got the Look](https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 3:47 |
+| 25 | [Soft and Wet](https://open.spotify.com/track/6Q8s3YuAWkx0Qui0Jgkr5m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [For You](https://open.spotify.com/album/5kbRcoeBHpJHe37a9agmfv) | 3:05 |
+| 26 | [Uptown](https://open.spotify.com/track/3IiS3fVdtsMPSHsWBgDcFn) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs) | 5:32 |
 | 27 | [Darling Nikki](https://open.spotify.com/track/0khi86hc79RfsRC0rrkkA2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:14 |
-| 28 | [Diamonds and Pearls](https://open.spotify.com/track/7IoLw1bECmOSWcm2u9SmRH) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 4:45 |
-| 29 | [So Blue](https://open.spotify.com/track/3NX3jLUU2sFQjvDRdoOvEN) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [For You](https://open.spotify.com/album/5kbRcoeBHpJHe37a9agmfv) | 4:30 |
-| 30 | [U Got the Look](https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 3:47 |
+| 28 | [17 Days](https://open.spotify.com/track/7rwPVahewLXhDGKUjfbzU3) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 4:00 |
+| 29 | [The Future](https://open.spotify.com/track/0svV7nIgkTsBQRN57dtbAy) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Batman](https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK) | 4:07 |
+| 30 | [So Blue](https://open.spotify.com/track/3NX3jLUU2sFQjvDRdoOvEN) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [For You](https://open.spotify.com/album/5kbRcoeBHpJHe37a9agmfv) | 4:30 |
 | 31 | [She's Always in My Hair](https://open.spotify.com/track/5xcb3TD6lZ4X7RId59DNxo) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 3:27 |
 | 32 | [Black Sweat](https://open.spotify.com/track/4uHWKxOguUCwu05P0cfveU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Anthology: 1995\-2010](https://open.spotify.com/album/0CEHFvHUQ0ZSv3mugziS76) | 3:11 |
 | 33 | [I Feel for You](https://open.spotify.com/track/0bNPzbyaT9npwhIP8d2Rsi) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 79 | [Our Destiny / Roadhouse Garden](https://open.spotify.com/track/6qHqJaSMvKI1X01SoVduJA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Our Destiny / Roadhouse Garden](https://open.spotify.com/album/0jQEqYfjq2t5TYJ7sN1L3M) | 6:25 |
 | 80 | [Let's Go Crazy \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/0x2RD4R0yWGXaBZPo7lDqY) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Let's Go Crazy \(Live In Syracuse, March 30, 1985 \- 2022 Remaster\)](https://open.spotify.com/album/5YfFeRzMeykwYn0WhWK9Ep) | 5:50 |
 
-Snapshot ID: `MTY1NTYyNjU3NywwMDAwMDA0MzAwMDAwMTgxN2IwOGI0YTcwMDAwMDE2ZDE1NDMxYTdi`
+Snapshot ID: `MTY1ODMzMDY2OSwwMDAwMDA0NDAwMDAwMTgyMWMzNWUyZWQwMDAwMDE2ZDE1NDMxYTdi`

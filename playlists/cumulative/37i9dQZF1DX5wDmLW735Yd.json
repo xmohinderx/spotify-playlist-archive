@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 251034,
       "name": "Bad To Me (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6UNESFieJ7rXvEKO1V2Fw8"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 259310,
       "name": "Be The Reason",
       "url": "https://open.spotify.com/track/3nZw1QmonyEBhwBWaodKxi"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/24abahS4tYAxt7lgSBk7Vc"
@@ -838,6 +838,28 @@
     },
     {
       "album": {
+        "name": "Climbing The Walls",
+        "url": "https://open.spotify.com/album/3UAtZI4X1iM1nCnkZOgutS"
+      },
+      "artists": [
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "Paul Dowling",
+          "url": "https://open.spotify.com/artist/4KIlM7sZWsr4mvfHsqmyqF"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211992,
+      "name": "Climbing The Walls",
+      "url": "https://open.spotify.com/track/7wId87yNWH9OLB9sBBlnkN"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/07kLcqgd4EzFgsXkgFo2lR"
       },
@@ -985,7 +1007,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 167441,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/0fL1ERqni8Gt57wzoEcJ6k"
@@ -1317,7 +1339,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 263314,
       "name": "Exorcist",
       "url": "https://open.spotify.com/track/2SN5zbgLlQMBD72Vd26O8F"
@@ -1665,7 +1687,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -1825,7 +1847,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 192514,
       "name": "go - goddard. Remix",
       "url": "https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy"
@@ -1971,7 +1993,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 226206,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo"
@@ -2365,7 +2387,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 290039,
       "name": "Kiss Kiss Bang Bang - Bou Remix",
       "url": "https://open.spotify.com/track/5TrO1BVrsHkdWE4SIvCUvT"
@@ -3109,7 +3131,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 257980,
       "name": "Reaction",
       "url": "https://open.spotify.com/track/4OMtMXbSSN90pL8X33efqs"
@@ -3799,7 +3821,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 340114,
       "name": "Space Station - My Nu Leng Remix",
       "url": "https://open.spotify.com/track/1RvmCoxXbBAKMahU4oKEQN"
@@ -4363,7 +4385,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 224827,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1anT1pq85pJtggSDppZyZs"
@@ -4385,7 +4407,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 229780,
       "name": "Transformations",
       "url": "https://open.spotify.com/track/0cvxGtA2GcmiB1YXKEqosQ"
@@ -4513,7 +4535,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 253893,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/2FM3nuPiAYMuTUDQSf4dTT"
@@ -4821,7 +4843,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 269000,
       "name": "When It Rains (feat. BackRoad Gee)",
       "url": "https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL"

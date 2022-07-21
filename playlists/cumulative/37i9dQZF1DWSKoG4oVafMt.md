@@ -2,9 +2,9 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
+> The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-416 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+417 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Rabb Karke](https://open.spotify.com/track/732kphYlO47LBXbemJlTlv) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Rabb Karke](https://open.spotify.com/album/4QxBRSf1zzIfMqClzt2Bqj) | 3:41 | 2022-04-25 | 2022-05-11 |
 | [Rabb Lagda](https://open.spotify.com/track/08VrJGA7t2dmth9oP8D3g8) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT) | [Rabb Lagda](https://open.spotify.com/album/1QffzMgmVdIEQpjVGxhY0Z) | 3:31 | 2022-05-10 | 2022-05-20 |
 | [Rabba Kyun](https://open.spotify.com/track/27ffhH14QEiGyuqY9BJAzM) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4) | [Rabba Kyun](https://open.spotify.com/album/3dCwIeIdC2nQNXpGOgZgw0) | 3:16 | 2022-05-09 | 2022-05-20 |
+| [Rabba Mainu](https://open.spotify.com/track/76lfsGx43fls0iMp7x2Ix1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Rabba Mainu](https://open.spotify.com/album/2z3LpgoXKC3GjbnGS9AKDF) | 3:21 | 2022-07-20 |  |
 | [Rang Soneya](https://open.spotify.com/track/4wGJwd7XWkqhy9sQ9e81IR) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Rang Soneya](https://open.spotify.com/album/4EABUN4xMmsfwEY2i04jq0) | 2:44 | 2022-02-23 | 2022-04-06 |
 | [Ranga Wargi](https://open.spotify.com/track/7hP9MPxFIr3WsnmJuVnT60) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Sikander](https://open.spotify.com/artist/04vyYm9kJkl2YjCP9qcv3g) | [Ranga Wargi](https://open.spotify.com/album/5u1XU8Q43lXsqAOsLmHbVT) | 3:26 | 2022-02-04 | 2022-02-12 |
 | [Rangreza \(from Lover\)](https://open.spotify.com/track/2fMlQCfFdEpZI5fbtHziRT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Rangreza \(from Lover\)](https://open.spotify.com/album/2eIpzFXnibAbiUtUhIymOU) | 3:02 | 2022-06-28 | 2022-07-06 |

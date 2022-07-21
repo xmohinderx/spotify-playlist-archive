@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Bhavi en la casa del Trap de Argentino.",
+  "description": "Duki en la casa del Trap de Argentino.",
   "name": "Trapperz Argentina",
   "published_playlist_ids": [
     "23nX6vOJkUDnsNQfFrfuBO"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 141090,
       "name": "Criminal Mood",
       "url": "https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA"
@@ -1105,6 +1105,24 @@
       "duration_ms": 135555,
       "name": "G-Class",
       "url": "https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm"
+    },
+    {
+      "album": {
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
     },
     {
       "album": {

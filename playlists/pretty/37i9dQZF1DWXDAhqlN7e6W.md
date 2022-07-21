@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDAhqlN7e6W.md) - [plain]
 
 > Hits written and produced by Max Martin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,064 likes - 104 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,132 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,9 +108,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDAhqlN7e6W.md) - [plain]
 | 98 | [Wild Wild Love \(feat\. G.R.L.\)](https://open.spotify.com/track/2J4Alm5zUad4hB5bY2HhtV) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:23 |
 | 99 | [On My Mind](https://open.spotify.com/track/5bMsQKxXv8K6WXkcbkALX6) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium](https://open.spotify.com/album/4Tshk6Zuynn3RAwStk3vxO) | 3:33 |
 | 100 | [Rise](https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Rise](https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK) | 3:23 |
-| 101 | [Carry You Home](https://open.spotify.com/track/1zVBU0PAj7ZUVmVfG2pgQG) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:54 |
-| 102 | [I'll Be There for You \- Single Edit](https://open.spotify.com/track/4cgeOQBQzS7x5Bvd8hFO95) | [Solid HarmoniE](https://open.spotify.com/artist/4a7E7K63Sc944CmiOgcxd8) | [Solid Harmonie](https://open.spotify.com/album/3AdywHtCpd76tYihaZzcUH) | 3:11 |
-| 103 | [This Is How We Do](https://open.spotify.com/track/4DBkrkVzx7jxxIjxI6FYvz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/4lFDt4sVpCni9DRHRmDjgG) | 3:24 |
-| 104 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 |
 
-Snapshot ID: `MTY1NTkyNjQ2NCwwMDAwMDAxYjAwMDAwMTgxOGNlODlmNTkwMDAwMDE2ZDAwYWRkNmRk`
+Snapshot ID: `MTY1ODM0Nzk2MywwMDAwMDAxYzAwMDAwMTgyMWQzZGM0MDUwMDAwMDE2ZDAwYWRkNmRk`

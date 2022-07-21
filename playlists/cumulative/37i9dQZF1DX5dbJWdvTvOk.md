@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-134 songs - 6 hr 33 min - not published yet
+134 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=cEoHXnHMRROiXbDbTtBWGg">Kabza De Small</a>
 
-50 songs - 4 hr 7 min - not published yet
+50 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/2VDTulRwwLDleluIc1nZ2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

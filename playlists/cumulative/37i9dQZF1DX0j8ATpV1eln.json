@@ -152,24 +152,6 @@
     },
     {
       "album": {
-        "name": "Fish Story",
-        "url": "https://open.spotify.com/album/4GBQaDl8PQfmS1tkZi9xDB"
-      },
-      "artists": [
-        {
-          "name": "Soma Saito",
-          "url": "https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb"
-        }
-      ],
-      "date_added": "2022-04-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262320,
-      "name": "Fish Story",
-      "url": "https://open.spotify.com/track/3J2Sm65u3cDERWIJoKUTHi"
-    },
-    {
-      "album": {
         "name": "O\u00d7T COMPLETE SONGS \"ACE OF DIAMOND\"",
         "url": "https://open.spotify.com/album/34B9mkdMVRjQLxXmrsCYkj"
       },
@@ -203,24 +185,6 @@
       "duration_ms": 229026,
       "name": "Hands",
       "url": "https://open.spotify.com/track/5FZajvwwwvNWlir4tRGJm2"
-    },
-    {
-      "album": {
-        "name": "Kimino Mimini Lovesong O",
-        "url": "https://open.spotify.com/album/7J3tNqe5P6sJQdG4dWavZs"
-      },
-      "artists": [
-        {
-          "name": "Tomohisa Sako",
-          "url": "https://open.spotify.com/artist/0wqa4zlg4Ru1nVJRrOlx5B"
-        }
-      ],
-      "date_added": "2022-04-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 269746,
-      "name": "Kimijyanakya Damemitai",
-      "url": "https://open.spotify.com/track/3ampsSIgy89L2INLIp3ym3"
     },
     {
       "album": {
@@ -339,42 +303,6 @@
       "duration_ms": 238586,
       "name": "Number One - New Mix ver.",
       "url": "https://open.spotify.com/track/4qz4MEIpHwFPUkO40vT714"
-    },
-    {
-      "album": {
-        "name": "Sayonara: A brand-new story",
-        "url": "https://open.spotify.com/album/4vqT0FUhwmuiFVMXwjNvxl"
-      },
-      "artists": [
-        {
-          "name": "\u661f\u898b\u30d7\u30ed\u30c0\u30af\u30b7\u30e7\u30f3",
-          "url": "https://open.spotify.com/artist/1qu8WIATG5KzozEzjmDkx7"
-        }
-      ],
-      "date_added": "2022-04-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217737,
-      "name": "Sayonara: A brand-new story",
-      "url": "https://open.spotify.com/track/0v4aUn7ToZ3Wx9QTOqYyHr"
-    },
-    {
-      "album": {
-        "name": "All Time Rock 'n' Roll",
-        "url": "https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9"
-      },
-      "artists": [
-        {
-          "name": "Masayuki Suzuki",
-          "url": "https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF"
-        }
-      ],
-      "date_added": "2022-04-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 267226,
-      "name": "Tatoe Sekaiga Soppo Muitemo",
-      "url": "https://open.spotify.com/track/20O53DvXxXQomJGXqFicLG"
     },
     {
       "album": {
@@ -541,6 +469,24 @@
       "duration_ms": 282738,
       "name": "\u3055\u3089\u3070\u30d4\u30cb\u30e3\u30b3\u30e9\u30fc\u30c0",
       "url": "https://open.spotify.com/track/6JJBDRvPAOmYehgUcB5CD9"
+    },
+    {
+      "album": {
+        "name": "ALL TIME ROCK 'N' ROLL",
+        "url": "https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9"
+      },
+      "artists": [
+        {
+          "name": "Masayuki Suzuki",
+          "url": "https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267226,
+      "name": "\u305f\u3068\u3048\u4e16\u754c\u304c\u305d\u3063\u307d\u5411\u3044\u3066\u3082",
+      "url": "https://open.spotify.com/track/20O53DvXxXQomJGXqFicLG"
     },
     {
       "album": {
@@ -728,6 +674,24 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30e8\u30ca\u30e9\u304b\u3089\u59cb\u307e\u308b\u7269\u8a9e",
+        "url": "https://open.spotify.com/album/4vqT0FUhwmuiFVMXwjNvxl"
+      },
+      "artists": [
+        {
+          "name": "\u661f\u898b\u30d7\u30ed\u30c0\u30af\u30b7\u30e7\u30f3",
+          "url": "https://open.spotify.com/artist/1qu8WIATG5KzozEzjmDkx7"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217737,
+      "name": "\u30b5\u30e8\u30ca\u30e9\u304b\u3089\u59cb\u307e\u308b\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/0v4aUn7ToZ3Wx9QTOqYyHr"
+    },
+    {
+      "album": {
         "name": "PROGRESS",
         "url": "https://open.spotify.com/album/6zLtC2ZFNrCvsEkq4VEdsX"
       },
@@ -887,6 +851,24 @@
       "duration_ms": 358840,
       "name": "\u30d4\u30fc\u30bf\u30fc\u30d1\u30f3\u30fb\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
       "url": "https://open.spotify.com/track/0JeqvxwW5FltdlKf4mfZFu"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a3\u30c3\u30b7\u30e5\u30b9\u30c8\u30fc\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/4GBQaDl8PQfmS1tkZi9xDB"
+      },
+      "artists": [
+        {
+          "name": "Soma Saito",
+          "url": "https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262320,
+      "name": "\u30d5\u30a3\u30c3\u30b7\u30e5\u30b9\u30c8\u30fc\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/3J2Sm65u3cDERWIJoKUTHi"
     },
     {
       "album": {
@@ -1181,6 +1163,24 @@
       "duration_ms": 242025,
       "name": "\u540d\u63a2\u5075\u30ad\u30df\u306b\u544a\u3050",
       "url": "https://open.spotify.com/track/7EnWBCWYnCX46JYrN6fqz1"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30df\u306e\u8033\u306b\u30e9\u30d6\u30bd\u30f3\u30b0\u3092",
+        "url": "https://open.spotify.com/album/7J3tNqe5P6sJQdG4dWavZs"
+      },
+      "artists": [
+        {
+          "name": "Tomohisa Sako",
+          "url": "https://open.spotify.com/artist/0wqa4zlg4Ru1nVJRrOlx5B"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269746,
+      "name": "\u541b\u3058\u3083\u306a\u304d\u3083\u30c0\u30e1\u307f\u305f\u3044",
+      "url": "https://open.spotify.com/track/3ampsSIgy89L2INLIp3ym3"
     },
     {
       "album": {

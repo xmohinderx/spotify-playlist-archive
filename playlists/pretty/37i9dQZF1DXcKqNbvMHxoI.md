@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Lil Silva shares his most beautiful songs of the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,190 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,315 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 49 | [Lady Day and John Coltrane](https://open.spotify.com/track/7aLn70gMnbTCVGoIro42Kd) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:36 |
 | 50 | [Star](https://open.spotify.com/track/1pvfRI4ahc13eOvO2rVzol) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Mono/Poly](https://open.spotify.com/artist/0rKc6ImQCM6pmYrQj5zcra), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [A View of U](https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481) | 3:42 |
 
-Snapshot ID: `MTY1ODI2MDgwMCwwMDAwMDAwNTAwMDAwMTgyMTgwYmMyNmMwMDAwMDE4MjE2ZjkxMjUz`
+Snapshot ID: `MTY1ODMxNDg5NiwwMDAwMDAwNjAwMDAwMTgyMWI0NTMzY2EwMDAwMDE4MjFiNDUwZTY3`

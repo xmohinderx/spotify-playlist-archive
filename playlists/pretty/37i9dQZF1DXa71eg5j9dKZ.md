@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover:  Lil Silva
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,677 likes - 112 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,784 likes - 112 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

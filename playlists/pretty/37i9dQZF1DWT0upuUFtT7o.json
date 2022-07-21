@@ -1,13 +1,93 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: Asiatica, Artwork: Robin Clifford Ellis ",
-  "num_followers": 149376,
+  "num_followers": 149504,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MDAwMCwwMDAwMDBmMTAwMDAwMTgyMDFmMWNjZTYwMDAwMDE4MTY0MjBjMWM2",
+  "snapshot_id": "MTY1ODM0MDU2OCwwMDAwMDBmMjAwMDAwMTgyMWNjY2VkMWYwMDAwMDE4MTY0MjBjMWM2",
   "tracks": [
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Disbeliever",
+        "url": "https://open.spotify.com/album/6hUDF7eoQmAj9rpQ9YgSXL"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 115879,
+      "name": "Disbeliever",
+      "url": "https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Waste Your Time",
+        "url": "https://open.spotify.com/album/128amSWTlex39AOupLETx0"
+      },
+      "artists": [
+        {
+          "name": "Lennie Rayen",
+          "url": "https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Waste Your Time",
+      "url": "https://open.spotify.com/track/7yw9BW04q6sVQ2VkI67rIa"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Bleacher Blues / Buta Fly",
+        "url": "https://open.spotify.com/album/6oqymyeEVLcU695pRvD5kb"
+      },
+      "artists": [
+        {
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Bleacher Blues",
+      "url": "https://open.spotify.com/track/3FQE645BmeSEFEbyTikCFq"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Seven of Cups",
+        "url": "https://open.spotify.com/album/5123J6L5oSVX5cBMpmOsuf"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "duration_ms": 233679,
+      "name": "Seven of Cups",
+      "url": "https://open.spotify.com/track/2ZchqXCvRSQM24jpljw54n"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/4kaAovsaETzlC0gdcnU57D"
+      },
+      "artists": [
+        {
+          "name": "S. Raekwon",
+          "url": "https://open.spotify.com/artist/13O0dF37al4XD57GenV5wC"
+        }
+      ],
+      "duration_ms": 119813,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/04NmR6zVBGLCahRkyIVozW"
+    },
     {
       "added_at": "2022-07-06 23:08:29",
       "album": {
@@ -55,6 +135,234 @@
       "duration_ms": 271952,
       "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
       "url": "https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox"
+    },
+    {
+      "added_at": "2022-06-08 16:40:44",
+      "album": {
+        "name": "*sigh* Nevermind",
+        "url": "https://open.spotify.com/album/0GZcu5Gt3CCy1bzUIXBjsD"
+      },
+      "artists": [
+        {
+          "name": "Asiatica",
+          "url": "https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "*sigh* Nevermind",
+      "url": "https://open.spotify.com/track/3vHMtkPfqTmmciY9g4xz28"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Ghost Lovers",
+        "url": "https://open.spotify.com/album/5LatUOSOBtKwotPnY6GRvc"
+      },
+      "artists": [
+        {
+          "name": "Dead Cassettes",
+          "url": "https://open.spotify.com/artist/5ez4ZmrN10YJh53gZa33Gi"
+        }
+      ],
+      "duration_ms": 181348,
+      "name": "Ghost Lovers",
+      "url": "https://open.spotify.com/track/6GLAw54dyIZMNROKoqChUn"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Concrete Walls",
+        "url": "https://open.spotify.com/album/754wyHaNUpCJAVxuJMP65r"
+      },
+      "artists": [
+        {
+          "name": "Pace",
+          "url": "https://open.spotify.com/artist/7qem60JOzr0TKI9WOmkNaG"
+        }
+      ],
+      "duration_ms": 168912,
+      "name": "Concrete Walls",
+      "url": "https://open.spotify.com/track/4c3owU9UoRSbMr6obEAtsh"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Think Again",
+        "url": "https://open.spotify.com/album/2jrZbxjabuSJhMnEgEGii8"
+      },
+      "artists": [
+        {
+          "name": "Holysloot",
+          "url": "https://open.spotify.com/artist/6339G3arumj0XQpD62ofE0"
+        }
+      ],
+      "duration_ms": 249022,
+      "name": "Think Again",
+      "url": "https://open.spotify.com/track/3D6iq6SEJHXbKGYbxhmIbJ"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "The Bitter End",
+        "url": "https://open.spotify.com/album/2hbOcES22Vi8mEh1UqzkXi"
+      },
+      "artists": [
+        {
+          "name": "Pincey",
+          "url": "https://open.spotify.com/artist/06m44jnKVlVd6Y42y8kmVB"
+        }
+      ],
+      "duration_ms": 214956,
+      "name": "Until The Bitter End",
+      "url": "https://open.spotify.com/track/2kqGTMB4nmoxi61F15Eleq"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Don't Mention It",
+        "url": "https://open.spotify.com/album/4XEzMWmgtU6k4tJaWevI3F"
+      },
+      "artists": [
+        {
+          "name": "Aaron Percy",
+          "url": "https://open.spotify.com/artist/1OCGT4W29rXiHvDzMHkJyu"
+        },
+        {
+          "name": "Ackerman",
+          "url": "https://open.spotify.com/artist/5eYDxNdq1HD6iZj1NNLGZC"
+        }
+      ],
+      "duration_ms": 136040,
+      "name": "Don't Mention It",
+      "url": "https://open.spotify.com/track/248Fzx78gOAjXqcATD8jI8"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Wishin",
+        "url": "https://open.spotify.com/album/36bWBFGvhXRHPvOEveyQ0m"
+      },
+      "artists": [
+        {
+          "name": "Vinny Masino",
+          "url": "https://open.spotify.com/artist/49wfJDFAZGLI1zIW6RSQWL"
+        }
+      ],
+      "duration_ms": 128009,
+      "name": "Wishin",
+      "url": "https://open.spotify.com/track/5XNBDxPwI44BnYCY2QDisQ"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Saturday Morning Cartoons",
+        "url": "https://open.spotify.com/album/4IZwH8Wmg86v2YWshEFBTZ"
+      },
+      "artists": [
+        {
+          "name": "Wilmah",
+          "url": "https://open.spotify.com/artist/3alzUqwOo4TgcCuzQKME9J"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Saturday Morning Cartoons",
+      "url": "https://open.spotify.com/track/2kpfXW33YylU3gUuIoa5po"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Something Small",
+        "url": "https://open.spotify.com/album/418lBMq3dTN6MaW3R4u4yn"
+      },
+      "artists": [
+        {
+          "name": "Doll Spirit Vessel",
+          "url": "https://open.spotify.com/artist/5lS4UWcRUYt4Fcb0zwm2zz"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Something Small",
+      "url": "https://open.spotify.com/track/2dPQ7LzBX3DdxQPv3TONyX"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Cul De Sac",
+        "url": "https://open.spotify.com/album/1T0Kj1mePC8yYD9U7qHe6r"
+      },
+      "artists": [
+        {
+          "name": "Nafets",
+          "url": "https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM"
+        }
+      ],
+      "duration_ms": 261587,
+      "name": "Cul De Sac",
+      "url": "https://open.spotify.com/track/5eF8RJIC08TOyTc3Yg3teX"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "COMING OF AGE",
+        "url": "https://open.spotify.com/album/69nN4jsVINlQWBkAi3NMxH"
+      },
+      "artists": [
+        {
+          "name": "WABANSIA",
+          "url": "https://open.spotify.com/artist/4vxmF1VtcKMAWRCJ7K1zU8"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Tvvin",
+          "url": "https://open.spotify.com/artist/22vWZdKEKpk9p0LR8JlBzO"
+        },
+        {
+          "name": "Cudos",
+          "url": "https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "COMING OF AGE",
+      "url": "https://open.spotify.com/track/5H9G4YEjyfsSYi96C4GNcj"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Sunset Blvd.",
+        "url": "https://open.spotify.com/album/3Dld8zVEfqwx6hTF7bENg2"
+      },
+      "artists": [
+        {
+          "name": "THEM",
+          "url": "https://open.spotify.com/artist/7JunupRhwPsBPCiQebBIin"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Sunset Blvd.",
+      "url": "https://open.spotify.com/track/7FsZeb6sYRsUhoES6Na1U1"
+    },
+    {
+      "added_at": "2022-07-20 18:09:28",
+      "album": {
+        "name": "Hidden Doors",
+        "url": "https://open.spotify.com/album/7vCgxmrvvPEsXzfcwx1lYa"
+      },
+      "artists": [
+        {
+          "name": "ZOO",
+          "url": "https://open.spotify.com/artist/6d4fitLNR82dlkyALodJWR"
+        }
+      ],
+      "duration_ms": 220744,
+      "name": "Hidden Doors",
+      "url": "https://open.spotify.com/track/1Own8smxokdP5IgOvbkd7v"
     },
     {
       "added_at": "2022-07-06 23:08:29",
@@ -899,22 +1207,6 @@
       "duration_ms": 237501,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/5MJeaFPpTwo5APVTfWxSHV"
-    },
-    {
-      "added_at": "2022-06-08 16:40:44",
-      "album": {
-        "name": "*sigh* Nevermind",
-        "url": "https://open.spotify.com/album/0GZcu5Gt3CCy1bzUIXBjsD"
-      },
-      "artists": [
-        {
-          "name": "Asiatica",
-          "url": "https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "*sigh* Nevermind",
-      "url": "https://open.spotify.com/track/3vHMtkPfqTmmciY9g4xz28"
     },
     {
       "added_at": "2022-06-29 04:00:22",

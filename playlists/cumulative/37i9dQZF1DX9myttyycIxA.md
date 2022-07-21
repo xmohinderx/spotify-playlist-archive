@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: boyish
 
-513 songs - 1 day 5 hr 14 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+514 songs - 1 day 5 hr 17 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/track/2SQ0rlJIzZSnDQTekYQhsw) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/album/0rhiRlJCfhHrG585XAsBgL) | 3:03 | 2021-03-05 | 2022-03-21 |
 | [By Your Side](https://open.spotify.com/track/0Vwc4ONQtM3dEVcCMnLDHc) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [By Your Side / Destroy You](https://open.spotify.com/album/1eMgkeDfHK9QvIk0NYuKcv) | 3:19 | 2022-03-26 | 2022-06-08 |
 | [C'mon Be Cool](https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [C'mon Be Cool](https://open.spotify.com/album/4EimlD1OXtXp0GGHFQ1yGv) | 3:15 | 2021-04-13 | 2022-04-27 |
-| [Call Me Home](https://open.spotify.com/track/7EepuMExJZF3eimemlp771) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Call Me Home](https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc) | 3:45 | 2022-03-04 |  |
+| [Call Me Home](https://open.spotify.com/track/7EepuMExJZF3eimemlp771) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Call Me Home](https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc) | 3:45 | 2022-03-04 | 2022-07-21 |
 | [Call Me Upset](https://open.spotify.com/track/2jGNZGDdHZCVwqMMZLkhvC) | [Booter](https://open.spotify.com/artist/6DMPeswHF4nj7s82hygDjq) | [Call Me Upset](https://open.spotify.com/album/5KRxB2jRKrfyuJH6pQVgLA) | 3:00 | 2022-07-15 |  |
 | [Can You See Me](https://open.spotify.com/track/5bcuh5urwoAEJ2FfoGextz) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Can You See Me](https://open.spotify.com/album/6xmguBJKNb4Xxn3ODeICu7) | 3:30 | 2022-01-28 | 2022-04-28 |
 | [Cannibal Capital](https://open.spotify.com/track/2v5v3uK96QddzNNwE8YNMz) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Cannibal Capital](https://open.spotify.com/album/35eBeNmH2x9WK759IVikYJ) | 4:24 | 2022-03-26 | 2022-05-19 |
@@ -112,6 +112,7 @@
 | [Coolest fucking bitch in town](https://open.spotify.com/track/7oF49vbWvNZBSqPRzrqTrr) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Coolest fucking bitch in town](https://open.spotify.com/album/6473Bw0fbg01rEXirczRcs) | 4:56 | 2022-03-26 |  |
 | [Cosmic Gloom](https://open.spotify.com/track/3mdIQJJq43lXYpGcBKWYfU) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Cosmic Gloom](https://open.spotify.com/album/1ZijZNiEcbRIzSWhqGtkhq) | 3:30 | 2021-06-02 | 2022-04-18 |
 | [Country](https://open.spotify.com/track/0Hlfo1A9sxNTPsk9QQXWb2) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Country](https://open.spotify.com/album/3Rfhc4oWiP4wvPNlZKhcro) | 4:00 | 2022-04-29 | 2022-07-02 |
+| [Cowboy Bepop](https://open.spotify.com/track/4YYsjhh2xuXbUwn435W2WI) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Cowboy Bepop](https://open.spotify.com/album/3GMkAcRznb2cX3lRypqLCh) | 2:53 | 2022-07-20 |  |
 | [Cowboy Boots](https://open.spotify.com/track/71jdngFJlIYfkwYZXHRQP1) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Cowboy Boots](https://open.spotify.com/album/7DcpreV9l4SVhit3cWhMBm) | 3:00 | 2021-08-27 | 2022-03-12 |
 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 | 2021-10-02 | 2022-04-29 |
 | [Cry Mfer](https://open.spotify.com/track/6KdDfmAxaOZ5LPow7PAyMW) | [My Idea](https://open.spotify.com/artist/7rfkR5Nc8l4eA34a7eazoW) | [Cry Mfer](https://open.spotify.com/album/1DykAscC1WTP5P0mBRJt85) | 4:14 | 2022-03-26 | 2022-05-20 |

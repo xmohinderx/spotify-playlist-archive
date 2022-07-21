@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. Hot Milk
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,643 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,664 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 6 | [BEDTIME STORIES](https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [BEDTIME STORIES / BLOOD](https://open.spotify.com/album/6fAFmYVvfI5PCTzzJxgTou) | 2:08 |
 | 7 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 |
 | 8 | [Molly](https://open.spotify.com/track/1kTZ1aERsOBTrihsDdGFNn) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [Tighter](https://open.spotify.com/album/1R7cyLXrVT4Y7PnXNk7NQl) | 1:44 |
-| 9 | [Locked Out](https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Locked Out](https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA) | 2:56 |
+| 9 | [locked out](https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [locked out](https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA) | 2:56 |
 | 10 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
 | 11 | [18](https://open.spotify.com/track/21hbZ0yllYOoXEbiFDYMSI) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Burnout \(Deluxe Version\)](https://open.spotify.com/album/1G2wZ64g38gD8q3e4XMzdH) | 2:37 |
 | 12 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 |

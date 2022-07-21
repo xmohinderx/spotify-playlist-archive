@@ -8,24 +8,6 @@
   "tracks": [
     {
       "album": {
-        "name": "Anobashohe",
-        "url": "https://open.spotify.com/album/2Ouwto4fMc59q99LjYp3eX"
-      },
-      "artists": [
-        {
-          "name": "\u6674\u6674\u309b",
-          "url": "https://open.spotify.com/artist/7dUWtf36bq6UgxALM703pF"
-        }
-      ],
-      "date_added": "2022-06-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241440,
-      "name": "anobashohe",
-      "url": "https://open.spotify.com/track/3UMb7ixO3h2gRWlXUywGLa"
-    },
-    {
-      "album": {
         "name": "Goodbye Lullaby (Expanded Edition)",
         "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
       },
@@ -98,7 +80,7 @@
     },
     {
       "album": {
-        "name": "Sense",
+        "name": "SENSE",
         "url": "https://open.spotify.com/album/2AG5d3p14xkRoSQROC6O7k"
       },
       "artists": [
@@ -111,7 +93,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 375533,
-      "name": "Fanfare",
+      "name": "fanfare",
       "url": "https://open.spotify.com/track/78thhWnYLGIBaEqNcmhyHL"
     },
     {
@@ -203,6 +185,24 @@
       "duration_ms": 244666,
       "name": "sailing day",
       "url": "https://open.spotify.com/track/3cQWusqyt053W56L3XBiIs"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306e\u5834\u6240\u3078",
+        "url": "https://open.spotify.com/album/2Ouwto4fMc59q99LjYp3eX"
+      },
+      "artists": [
+        {
+          "name": "\u6674\u6674\u309b",
+          "url": "https://open.spotify.com/artist/7dUWtf36bq6UgxALM703pF"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "\u3042\u306e\u5834\u6240\u3078",
+      "url": "https://open.spotify.com/track/3UMb7ixO3h2gRWlXUywGLa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Timeless, unforgettable melodies from the movies.
 
-78 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/4xWD1N1G8wZyE8HKW18sNF)
+79 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/4xWD1N1G8wZyE8HKW18sNF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,5 +86,6 @@
 | [Utai IV: Reawakening](https://open.spotify.com/track/18EMYXJEhYZbXyBL5lOXR1) | [Kenji Kawai](https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp) | [Ghost in the Shell \(Music Inspired by the Motion Picture\)](https://open.spotify.com/album/2ebMxOVmA8iHaCdpV2FSoL) | 2:37 | 2021-07-16 | 2022-04-05 |
 | [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 | 2021-07-16 | 2022-07-20 |
 | [With My Own Eyes](https://open.spotify.com/track/1X26LGm0cnHhzAvXpIYIWc) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Atonement OST](https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ) | 4:40 | 2021-07-16 |  |
+| [Your Song \(From The Rehearsal Montage Scene\) \- From "Moulin Rouge 2" Soundtrack](https://open.spotify.com/track/43sTRY9NhFFspcW2ug0pkU) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Moulin Rouge I & II](https://open.spotify.com/album/6SliTFEDNeVTMYivULb3x4) | 2:28 | 2022-07-20 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

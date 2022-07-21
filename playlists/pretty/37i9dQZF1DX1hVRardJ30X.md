@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Tiago PZK, Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,256 likes - 59 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,307 likes - 59 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,6 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 56 | [Natural](https://open.spotify.com/track/03SLmnUTzDVHThnuFsZhcK) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Natural](https://open.spotify.com/album/4BLjShadSxoIYj899qy8Tw) | 3:28 |
 | 57 | [CONTIGO ME QUEDO](https://open.spotify.com/track/5lMprHePBuLZxZvztka2Wz) | [Eddie Vinum](https://open.spotify.com/artist/5FSfZEMybzgvGHdqo1b9rd) | [CONTIGO ME QUEDO](https://open.spotify.com/album/1NzhmbEzccu1r5vCzqa0Pc) | 5:10 |
 | 58 | [Timidez \- Remix](https://open.spotify.com/track/1uobsOZc4so3qChwOVLv7C) | [Flow dc](https://open.spotify.com/artist/5FcQJebdO1lFxyj2J7pbAr) | [The Jungle King](https://open.spotify.com/album/2ZMGWSx6uPinLEmK6czIfI) | 3:55 |
-| 59 | [Yippie Khayo \- radio edit](https://open.spotify.com/track/6EC4XrfDjEt74XidztJ8RE) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL) | [Yippie Khayo \(Radio Edit\)](https://open.spotify.com/album/332KCANvvef11sXsDu6M9B) | 2:44 |
+| 59 | [Yippie Khayo](https://open.spotify.com/track/4USY6cd9ehvST4hMMZwCJX) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL) | [Yippie Khayo](https://open.spotify.com/album/20biP8wNyCQJNWxlKWjBdI) | 2:44 |
 
-Snapshot ID: `MTY1NzkwMDczNiwwMDAwMDNiMzAwMDAwMTgyMDI5NTllYzgwMDAwMDE4MWZkZTkwNjNj`
+Snapshot ID: `MTY1ODMzMjg1MywwMDAwMDNiNDAwMDAwMTgyMWM1NzM2NzQwMDAwMDE4MWZkZTkwNjNj`

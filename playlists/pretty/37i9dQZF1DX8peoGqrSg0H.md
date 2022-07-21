@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,386 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,456 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 48 | [บานปลาย \(best wishes\)](https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [บานปลาย \(best wishes\)](https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA) | 4:49 |
 | 49 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 |
 | 50 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8) | 4:14 |
-| 51 | [วันครบเลิก \- UNNIVERSARY](https://open.spotify.com/track/7vUrVGEoDUfxHZFK4lDTKR) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [วันครบเลิก \(UNNIVERSARY\)](https://open.spotify.com/album/1GtffmavEKtJaNYvsH5tK9) | 4:10 |
+| 51 | [วันครบเลิก \- UNNIVERSARY](https://open.spotify.com/track/7vUrVGEoDUfxHZFK4lDTKR) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [วันครบเลิก \(UNNIVERSARY\)](https://open.spotify.com/album/1GtffmavEKtJaNYvsH5tK9) | 4:09 |
 | 52 | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/19KNYtZF0xP7VCIItvGSJZ) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\) \[feat\. MILLI\]](https://open.spotify.com/album/1aO65qDUbY2vJWXYzHP2vj) | 3:39 |
-| 53 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
-| 54 | [Kon Glai](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Kon Glai](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 |
+| 53 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
+| 54 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 |
 | 55 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 |
 | 56 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 |
 | 57 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/24mB1soS8zLHLG1GK9Hvjd) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/5Crvl5H8eEBKItvGi9W0Yi) | 3:19 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 68 | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/4CTgPJbgNQ031q8HzhTtq2) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/5fFOH4YGk6BS0yXc7SZWtI) | 3:08 |
 | 69 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/17UUTchNWTLOFsLUJnpIv8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/1EMY6N5Ciaa5xHQPsyIJ8P) | 3:36 |
 | 70 | [แฟนใหม่หน้าคุ้น](https://open.spotify.com/track/29E8BUUDQbc5S7jMPOj9wW) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [แฟนใหม่หน้าคุ้น](https://open.spotify.com/album/6QQTFhzZZ9aruyijHIPogD) | 2:53 |
-| 71 | [Ultimatum](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Ultimatum](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 |
+| 71 | [หยอก หยอก](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หยอก หยอก](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 |
 | 72 | [ถ้าเธอรักฉันจริง](https://open.spotify.com/track/2vA7CHG08LDzeMDAuPnUQg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ถ้าเธอรักฉันจริง](https://open.spotify.com/album/1bDTHuznOFJ3s3fZEqEaGp) | 4:00 |
 | 73 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/0mt8i1U8mZsptqKxEc4ScO) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/5p7h0FH5wQR7w8hRZPa8sO) | 3:09 |
 | 74 | [1001 \(You're Lovely\)](https://open.spotify.com/track/7ip4DUtdpLH4TkHfKgFbpf) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [1001 \(You're Lovely\)](https://open.spotify.com/album/034QxEQoDA2B6O8rtNglTe) | 3:14 |

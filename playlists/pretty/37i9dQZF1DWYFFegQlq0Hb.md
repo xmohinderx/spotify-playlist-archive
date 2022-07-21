@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 
 > TVアニメ<a href="https://jujutsukaisen.jp/">「呪術廻戦」</a> の公式プレイリスト。OP/ED曲、<a href="spotify:show:24s1gq2QNlYGwGLpGYYDuS">「呪術廻戦 じゅじゅとーく＋オーディオコメンタリー」</a>」ポッドキャストを合わせてチェック！ / "You should use your strength to help others." \- Enjoy music and podcast from Jujutsu Kaisen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,546 likes - 54 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,615 likes - 54 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ichizu](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Ichizu](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
-| 2 | [Sakayume](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Sakayume](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
+| 1 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
+| 2 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 3 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 |
 | 4 | [アヴァン](https://open.spotify.com/track/6BxPsHJtz8jTEDARrYUSnv) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [アヴァン](https://open.spotify.com/album/4vfjzp5dho1PqElZc3LaIC) | 3:26 |
-| 5 | [LOST IN PARADISE \(Jujutsu Kaisen Ending Theme Song\)](https://open.spotify.com/track/145wBbokDZTFZLFHOtZrzG) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 5:28 |
+| 5 | [LOST IN PARADISE](https://open.spotify.com/track/145wBbokDZTFZLFHOtZrzG) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 5:28 |
 | 6 | [VIVID VICE](https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [VIVID VICE](https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS) | 3:05 |
 | 7 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
 | 8 | [The Cursed Child](https://open.spotify.com/track/2JfQJ1UJryvZJfyLfDriKI) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [『劇場版 呪術廻戦 0』オリジナル・サウンドトラック](https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso) | 2:07 |

@@ -27,7 +27,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 202500,
       "name": "1440",
       "url": "https://open.spotify.com/track/2fbS0Ka9up4KbcndDi189l"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 176427,
       "name": "Blue Dream Baby",
       "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 250160,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/1U5fORscPSvxvacRm6p8yv"
@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 286093,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3T7lv6LiJSfOsZS9t6kcPp"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 283691,
       "name": "Dark Bird - St. Lucia Remix",
       "url": "https://open.spotify.com/track/45r1g9y7kmNRLADtFj8syb"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Dose",
       "url": "https://open.spotify.com/track/2EF8lku4iNs7sMJBLZ8DqZ"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 206035,
       "name": "Easy Way Out",
       "url": "https://open.spotify.com/track/0uBweZFdnXrd8Krl37hlNG"
@@ -1659,10 +1659,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "album": {
+        "name": "Everything Beautiful",
+        "url": "https://open.spotify.com/album/251rTSmbyNQ4lfsHsghWzR"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139712,
+      "name": "Everything Beautiful",
+      "url": "https://open.spotify.com/track/3JnIF3q9h27Ig30GGJwnXB"
     },
     {
       "album": {
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 188792,
       "name": "everything is fine",
       "url": "https://open.spotify.com/track/3KUoaFS4cNVRKAqYFCpDQg"
@@ -1743,7 +1761,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 191188,
       "name": "Fall In Love With A Girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 187961,
       "name": "Feels Like Magic",
       "url": "https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F"
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 209999,
       "name": "GAY EXCELLENCE",
       "url": "https://open.spotify.com/track/4BDvHWbdxqpa5EEJOn3ggg"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 151312,
       "name": "Girls",
       "url": "https://open.spotify.com/track/0zZcMcF9JQ6OXuT9BVG4lC"
@@ -2977,7 +2995,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 211500,
       "name": "i didn't know any better",
       "url": "https://open.spotify.com/track/3h8QfnbdQKKcYm086PsMQ2"
@@ -3269,7 +3287,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 180363,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/6JqAyD1iomPsQV1mf3C0IH"
@@ -3295,7 +3313,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 174915,
       "name": "In Transit (Remix)",
       "url": "https://open.spotify.com/track/6gdjpaN6otq6bQZ0MIy2NN"
@@ -3483,7 +3501,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
@@ -3541,7 +3559,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 151307,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
@@ -3765,7 +3783,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 152384,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7pl2fqi5Uvv0qH8SwOBp0H"
@@ -4223,7 +4241,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 163082,
       "name": "nice pup",
       "url": "https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE"
@@ -4805,7 +4823,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 177439,
       "name": "Pure Androgyny",
       "url": "https://open.spotify.com/track/0xPLAq2c7zycsDTddXoF7r"
@@ -4983,7 +5001,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 204773,
       "name": "redundant",
       "url": "https://open.spotify.com/track/1IKrPR0b6d0wQ8DIpuhMmk"
@@ -5073,7 +5091,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 173700,
       "name": "Rockwell",
       "url": "https://open.spotify.com/track/2L3id4Vcv8mGUPd0egVNoB"
@@ -5579,7 +5597,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 193449,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/4PEqiixbz0eTuPusho6AJn"
@@ -5597,7 +5615,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 192124,
       "name": "stupid games",
       "url": "https://open.spotify.com/track/3wHX2s10YcSPt6ftT9qKwv"
@@ -5637,7 +5655,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 160058,
       "name": "sugarcane",
       "url": "https://open.spotify.com/track/4IKKOmbPQOHyUm1VX6dpzV"
@@ -5695,7 +5713,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 171261,
       "name": "Surprise Me",
       "url": "https://open.spotify.com/track/29hh4KOAANANjqfl4XcD7K"
@@ -6039,7 +6057,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW"
@@ -6111,7 +6129,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 152182,
       "name": "Trainwreck",
       "url": "https://open.spotify.com/track/7JB6QakLsBYIFJygBj3Gw9"
@@ -6129,7 +6147,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 118153,
       "name": "Treat Me Like A Slut",
       "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
@@ -6187,7 +6205,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 169026,
       "name": "uh",
       "url": "https://open.spotify.com/track/2hBTQHj1K6vS6GVznHWV3f"
@@ -6357,7 +6375,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 222442,
       "name": "White Dress",
       "url": "https://open.spotify.com/track/0kUgg5DmwFSEs1uMqyiaW8"

@@ -4,7 +4,7 @@
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/0DW1y3ncKQFheSzEpPogld)
+60 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/0DW1y3ncKQFheSzEpPogld)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bonito y Sabroso](https://open.spotify.com/track/7z4JT7Xxo7jZ4LRCHZptGV) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:53 | 2022-06-27 | 2022-06-29 |
 | [Camino de Guanajuato Ay Jalisco](https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:27 | 2022-06-01 |  |
 | [Carta Perdida \- Estilo Tierra Caliente](https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:17 | 2022-06-01 |  |
+| [Chivo Chivon Chivito](https://open.spotify.com/track/41eQTl3PY9oNhOojrHZOr8) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:41 | 2022-07-20 |  |
 | [Como Paloma Errante](https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 2](https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4) | 2:43 | 2022-06-01 |  |
 | [Con el Sabor Amargo \- Estilo Tierra Caliente](https://open.spotify.com/track/4HpWofvK0r3meE1KwDSjaS) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:06 | 2022-06-01 |  |
 | [Cuahutemoc](https://open.spotify.com/track/5kKzWn7o5HdszEL5s3VvDk) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:19 | 2022-06-04 | 2022-06-06 |
@@ -51,11 +52,11 @@
 | [Los Gringos](https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:25 | 2022-06-01 |  |
 | [Margarita](https://open.spotify.com/track/1PjHhGK3Y1uAZsxrc0P2cM) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:52 | 2022-06-01 |  |
 | [Me Caiste del Cielo](https://open.spotify.com/track/37hpeYKkr8P8QyMdLXVKiT) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 2:44 | 2022-06-01 |  |
-| [Me Rio de Miedo](https://open.spotify.com/track/6WyCpcJaffr4lE9dmw0CiE) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:15 | 2022-06-01 |  |
+| [Me Rio de Miedo](https://open.spotify.com/track/6WyCpcJaffr4lE9dmw0CiE) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:15 | 2022-06-01 | 2022-07-21 |
 | [Mi Amiga Mi Esposa y Mi Amante](https://open.spotify.com/track/1D72stKLFdW30djzszFRgc) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:46 | 2022-06-27 | 2022-07-14 |
 | [Mi Destino Fue Quererte](https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Funky Town Recordando los Exitos, Vol\. 6](https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy) | 3:19 | 2022-06-01 |  |
 | [Miraron Llorar un Hombre](https://open.spotify.com/track/1obDcJ0spfjy2y44aj9BFq) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Miraron Llorar un Hombre "Recordando los Exitos" Vol\. 3](https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf) | 3:07 | 2022-06-01 |  |
-| [No Voy a Llorar](https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:46 | 2022-06-02 |  |
+| [No Voy a Llorar](https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:46 | 2022-06-02 | 2022-07-21 |
 | [Pachuco Bailarin](https://open.spotify.com/track/51Zz6TacdyEsi5JWiojkqu) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:51 | 2022-06-01 |  |
 | [Pirulin Pim Pom](https://open.spotify.com/track/6D7DebsQ7Wmq7f4y50NEXv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:39 | 2022-06-20 | 2022-06-22 |
 | [Polvo y Olvido \- Estilo Tierra Caliente](https://open.spotify.com/track/1elNKL1K8OrcXYNBpgTweQ) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 2:27 | 2022-06-01 |  |
@@ -65,7 +66,7 @@
 | [Ritmo Sabroson](https://open.spotify.com/track/1scnMYXYTgyP0MqdBAUDwb) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:36 | 2022-06-01 |  |
 | [Sabor Amargo](https://open.spotify.com/track/5pfKvfTbFIhOL5JUe1Cshr) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 3:04 | 2022-06-01 | 2022-07-20 |
 | [Te Sigo Amando](https://open.spotify.com/track/3hjU0dV58noafui2zYVnts) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:28 | 2022-06-01 |  |
-| [Vamos a la Playa](https://open.spotify.com/track/72oywVmmUrqh1uZeY032YA) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 3:57 | 2022-06-01 | 2022-07-20 |
+| [Vamos a la Playa](https://open.spotify.com/track/72oywVmmUrqh1uZeY032YA) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 3:57 | 2022-06-01 |  |
 | [Ya Llego la Banda Toro](https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:31 | 2022-06-01 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

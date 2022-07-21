@@ -234,24 +234,6 @@
     },
     {
       "album": {
-        "name": "Kon Glai",
-        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
-      },
-      "artists": [
-        {
-          "name": "Patrickananda",
-          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
-        }
-      ],
-      "date_added": "2022-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212571,
-      "name": "Kon Glai",
-      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
-    },
-    {
-      "album": {
         "name": "Last Train",
         "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
       },
@@ -470,24 +452,6 @@
     },
     {
       "album": {
-        "name": "Ultimatum",
-        "url": "https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M"
-      },
-      "artists": [
-        {
-          "name": "LUSS",
-          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
-        }
-      ],
-      "date_added": "2022-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179375,
-      "name": "Ultimatum",
-      "url": "https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s"
-    },
-    {
-      "album": {
         "name": "WINK",
         "url": "https://open.spotify.com/album/17K46xu9e8ZwLfYXsOQBeY"
       },
@@ -691,6 +655,24 @@
       "duration_ms": 201500,
       "name": "\u0e04\u0e19\u0e40\u0e23\u0e32\u0e08\u0e30\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e2a\u0e31\u0e01\u0e04\u0e19\u0e44\u0e14\u0e49\u0e19\u0e32\u0e19\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
       "url": "https://open.spotify.com/track/3IPtnAYykrWz9EPjPWx2D7"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
     },
     {
       "album": {
@@ -1158,7 +1140,7 @@
     },
     {
       "album": {
-        "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
+        "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
         "url": "https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF"
       },
       "artists": [
@@ -1752,7 +1734,7 @@
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 250408,
+      "duration_ms": 249470,
       "name": "\u0e27\u0e31\u0e19\u0e04\u0e23\u0e1a\u0e40\u0e25\u0e34\u0e01 - UNNIVERSARY",
       "url": "https://open.spotify.com/track/7vUrVGEoDUfxHZFK4lDTKR"
     },
@@ -1853,6 +1835,24 @@
       "duration_ms": 130909,
       "name": "\u0e2a\u0e48\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e21\u0e32\u0e1a\u0e2d\u0e01\u0e1d\u0e31\u0e19\u0e14\u0e35 - See You In My Dreams",
       "url": "https://open.spotify.com/track/3qWSUZsTAS2Al3f0uAENUC"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e22\u0e2d\u0e01 \u0e2b\u0e22\u0e2d\u0e01",
+        "url": "https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M"
+      },
+      "artists": [
+        {
+          "name": "LUSS",
+          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179375,
+      "name": "\u0e2b\u0e22\u0e2d\u0e01 \u0e2b\u0e22\u0e2d\u0e01",
+      "url": "https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s"
     },
     {
       "album": {

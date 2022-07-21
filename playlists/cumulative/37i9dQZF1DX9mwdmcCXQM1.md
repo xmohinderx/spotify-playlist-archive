@@ -2,7 +2,7 @@
 
 ### [minha party pfta by @isocalelis](https://open.spotify.com/playlist/37i9dQZF1DX9mwdmcCXQM1)
 
-> a isa fez a playlist mais pfta pra festa kpopper dela!
+> a isoca fez a playlist mais pfta pra festa kpopper dela!
 
 186 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/3Ypr768kQ6JEvMnBgeZwXv)
 

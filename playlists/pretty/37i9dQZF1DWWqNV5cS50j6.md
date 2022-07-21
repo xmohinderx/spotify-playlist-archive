@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Indie music antimatter\. Cover: Brakence
+> Indie music antimatter\. Cover: brakence
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,751 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,860 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [DITTO](https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [DITTO](https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu) | 2:30 |
 | 100 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 |
 
-Snapshot ID: `MTY1ODI0NjExNywwMDAwMzQ3MDAwMDAwMTgyMTcyYmI3ZTUwMDAwMDE4MjE3MmI2Zjc2`
+Snapshot ID: `MTY1ODMyODQ4OSwwMDAwMzQ3MTAwMDAwMTgyMWMxNDllYzUwMDAwMDE4MjE3MmI2Zjc2`

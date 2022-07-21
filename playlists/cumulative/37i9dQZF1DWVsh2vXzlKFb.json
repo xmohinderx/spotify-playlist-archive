@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 198760,
       "name": "16-18 - Why You Lacking Energy?",
       "url": "https://open.spotify.com/track/3AbBhCBOitsqgevecNDRbV"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 170386,
       "name": "Alpha Zulu",
       "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 178150,
       "name": "Bad Dream Baby",
       "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 264946,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/53p7or9OC8PGNnGrd9gLBv"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 204521,
       "name": "Canary Islands",
       "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 195525,
       "name": "cool enough",
       "url": "https://open.spotify.com/track/4nuufyyd7Dn6DMuG96RYTQ"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 147653,
       "name": "DARLING",
       "url": "https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B"
@@ -1124,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "Eleanor",
+        "url": "https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233469,
+      "name": "Eleanor - Edit",
+      "url": "https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU"
+    },
+    {
+      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 270789,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/60crPH0AEVhi1ZxicgyR0W"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 181333,
       "name": "Gummy",
       "url": "https://open.spotify.com/track/6c9ua26MdggFqHs5le1cTE"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 193731,
       "name": "Hot Crush Lover",
       "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 187347,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/1eNyYS3r2V3lNJNz5uqwCW"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 206662,
       "name": "IDK",
       "url": "https://open.spotify.com/track/5oObGXk0NriZXxV78aIO0X"
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 201073,
       "name": "Kids (Don\u2019t End Up Like Me)",
       "url": "https://open.spotify.com/track/6bcm4WKb0SlHqssKZyoGrB"
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 264506,
       "name": "Luvin U Is Easy",
       "url": "https://open.spotify.com/track/3TsA9Dpps4XRs8ODIG4HRe"
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 209500,
       "name": "Me & You Together Song",
       "url": "https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 217136,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 199175,
       "name": "N o o N",
       "url": "https://open.spotify.com/track/34p27cOsC6Y6FBNEAoHMkU"
@@ -3455,7 +3473,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 165622,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6C1u5c21S37nBvyu9d44YN"
@@ -3889,7 +3907,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 200000,
       "name": "Things will be fine - Bratty Remix",
       "url": "https://open.spotify.com/track/4Af2TwsKHF9Hn10ltZ8xmg"
@@ -4253,7 +4271,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 201422,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/6GY5yMRXIN3tkXgnjbXOWH"
@@ -4433,7 +4451,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 210133,
       "name": "Young Forever",
       "url": "https://open.spotify.com/track/1m9BaQlbJBW02RF9jR00tX"
@@ -4487,7 +4505,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 307075,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/6vYRwtuNmaQJg7SlcrMdPs"

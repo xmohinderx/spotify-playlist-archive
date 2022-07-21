@@ -1,13 +1,89 @@
 {
   "description": "Spotify Singles. Like nothing you\u2019ve heard before.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI. ",
-  "num_followers": 212516,
+  "num_followers": 212517,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA1NTEyNiwwMDAwMDEwODAwMDAwMTgxZDAyZWE1OTYwMDAwMDE4MTNmZDMzZjJl",
+  "snapshot_id": "MTY1ODM0NjY1MiwwMDAwMDEwOTAwMDAwMTgyMWQyOWMyMmIwMDAwMDE4MTNmZDMzZjJl",
   "tracks": [
+    {
+      "added_at": "2022-07-20 19:50:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 233854,
+      "name": "Partner In Crime - Spotify Singles",
+      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
+    },
+    {
+      "added_at": "2022-07-20 19:50:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 248895,
+      "name": "Believe - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy"
+    },
+    {
+      "added_at": "2022-07-20 19:50:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2amvrQLu6W6CHTRhe2YImN"
+      },
+      "artists": [
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        },
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        }
+      ],
+      "duration_ms": 245185,
+      "name": "80 90 - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Xh7UWFpUNLpVfY420u7c3"
+    },
+    {
+      "added_at": "2022-07-20 19:50:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2amvrQLu6W6CHTRhe2YImN"
+      },
+      "artists": [
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        },
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "duration_ms": 212958,
+      "name": "Ain't No Sunshine - Spotify Singles",
+      "url": "https://open.spotify.com/track/3oafbB3oIvGF8IxgDOfYJV"
+    },
     {
       "added_at": "2022-07-05 21:05:26",
       "album": {

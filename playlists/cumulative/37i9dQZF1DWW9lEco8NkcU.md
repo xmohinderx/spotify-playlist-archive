@@ -4,7 +4,7 @@
 
 > what are they doing up there?
 
-57 songs - 2 hr 45 min - not published yet
+57 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

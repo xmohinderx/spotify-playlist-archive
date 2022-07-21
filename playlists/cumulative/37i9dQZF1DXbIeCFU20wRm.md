@@ -4,7 +4,7 @@
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-46 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/6Oa8CkO2ISfYH7FRf5Faa7)
+47 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/6Oa8CkO2ISfYH7FRf5Faa7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Bluebird \- K\-Pax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2tbsDJaujkxtpALzgldDI2) | [Ed Shearmur](https://open.spotify.com/artist/7xN1wNS8SnL6h6mRzK9Fbe), [Edward Shearmur](https://open.spotify.com/artist/1PGSb2wgymZeNTUYqnOxyq) | [K\-Pax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6EcmTxxbQTmICSsFc43V27) | 3:52 | 2021-12-16 |  |
 | [Cornfield Chase](https://open.spotify.com/track/18z7tK7u9DcDw85LYRR5Fe) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a78GiEowpaCa7ZJs44xUU) | 2:06 | 2021-12-16 |  |
 | [Dr\. Ford](https://open.spotify.com/track/0j7Iwtj1a6tOYLqMyMPuCp) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO® Series\)](https://open.spotify.com/album/2poAUFGkHetMzM4xzLBVhY) | 5:30 | 2021-12-16 |  |
-| [Dreaming of Fiji](https://open.spotify.com/track/4pzK8bFo1sgi4f5BJWb7ih) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Truman Show \(Music from the Motion Picture of Peter Weir\)](https://open.spotify.com/album/2YI4hIvygZhSWZhndrsPdd) | 1:54 | 2021-12-16 |  |
+| [Dreaming of Fiji](https://open.spotify.com/track/4pzK8bFo1sgi4f5BJWb7ih) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Truman Show \(Music from the Motion Picture of Peter Weir\)](https://open.spotify.com/album/2YI4hIvygZhSWZhndrsPdd) | 1:54 | 2021-12-16 | 2022-07-21 |
 | [Earth](https://open.spotify.com/track/1iZ1nPS3fNaN68uZRUJPmV) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Prometheus](https://open.spotify.com/album/6EBKizssvnyirTMsefFuXh) | 2:35 | 2021-12-16 |  |
 | [Elena's Sound\-World](https://open.spotify.com/track/5E8YGnOFlnKXO2anBSuHoJ) | [Sinoia Caves](https://open.spotify.com/artist/3PiClMYSnMYHCc2T11m9cd) | [Beyond The Black Rainbow \- Original Soundtrack](https://open.spotify.com/album/5xrI7yn0HPrGKFYODgMtES) | 5:10 | 2021-12-16 |  |
 | [Elysium](https://open.spotify.com/track/2lA1P244ZBikZls2qPw4VO) | [Ryan Amon](https://open.spotify.com/artist/4m8YgyH0msUxsVx1QfCcMz) | [Elysium \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6AjH8BgmBZ0yRRolJhUNj2) | 3:45 | 2021-12-16 |  |
@@ -53,6 +53,7 @@
 | [Time](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Inception \(Music from the Motion Picture\)](https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) | 4:35 | 2021-12-16 |  |
 | [To the Stars \- From "Ad Astra" Soundtrack](https://open.spotify.com/track/2UcUL4jytfVpW0jSXi3Ggi) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [To The Stars \(From "Ad Astra" Soundtrack\)](https://open.spotify.com/album/3SapFtmMw8WCjCRLaABmZ1) | 3:30 | 2021-12-16 |  |
 | [Together We Will Live Forever](https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [The Fountain OST](https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3) | 5:01 | 2021-12-16 |  |
-| [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 | 2021-12-16 |  |
+| [Truman Sleeps](https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Truman Show \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uMsRKnaZ0Iy9wVI4F0X8a) | 1:51 | 2022-07-20 |  |
+| [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 | 2021-12-16 | 2022-07-21 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

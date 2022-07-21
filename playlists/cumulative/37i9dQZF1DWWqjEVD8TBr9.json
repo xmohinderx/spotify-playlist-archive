@@ -368,7 +368,7 @@
     },
     {
       "album": {
-        "name": "Scars / Thunderous -Japanese version-",
+        "name": "Scars / \u30bd\u30ea\u30af\u30f3 -Japanese ver.-",
         "url": "https://open.spotify.com/album/5hsCdHPhvg7mOo0OVzn5O0"
       },
       "artists": [
@@ -974,7 +974,7 @@
     },
     {
       "album": {
-        "name": "MANIAC -Japanese version-",
+        "name": "MANIAC -Japanese ver.-",
         "url": "https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa"
       },
       "artists": [
@@ -987,7 +987,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184786,
-      "name": "MANIAC -Japanese version-",
+      "name": "MANIAC -Japanese ver.-",
       "url": "https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP"
     },
     {
@@ -1423,7 +1423,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211226,
-      "name": "Silent Cry -Japanese version-",
+      "name": "Silent Cry -Japanese ver.-",
       "url": "https://open.spotify.com/track/6QmZI52HcGpe1rwPVom7DX"
     },
     {
@@ -1698,24 +1698,6 @@
     },
     {
       "album": {
-        "name": "CIRCUS",
-        "url": "https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "date_added": "2022-06-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195480,
-      "name": "VENOM -Japanese version-",
-      "url": "https://open.spotify.com/track/14s7yMIqLhXW31laHmKFr9"
-    },
-    {
-      "album": {
         "name": "SKZ2020",
         "url": "https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi"
       },
@@ -1893,6 +1875,24 @@
       "duration_ms": 196386,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t"
+    },
+    {
+      "album": {
+        "name": "CIRCUS",
+        "url": "https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "\u8718\u86db\u306e\u7cf8 (VENOM) -Japanese ver.-",
+      "url": "https://open.spotify.com/track/14s7yMIqLhXW31laHmKFr9"
     },
     {
       "album": {

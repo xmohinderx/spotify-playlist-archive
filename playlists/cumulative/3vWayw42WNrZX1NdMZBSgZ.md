@@ -2,9 +2,9 @@
 
 ### [Top Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Ricky Martin
+> The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: CNCO &amp; Kenia Os
 
-247 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+248 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 | 2022-02-02 |  |
 | [Pesadilla](https://open.spotify.com/track/2mCefaKSDuz6S50YIS57wR) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pesadilla](https://open.spotify.com/album/3b2z5O7s1vxHaaTsn1J1Cz) | 3:08 | 2022-02-02 |  |
 | [Philliecito](https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Philliecito](https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D) | 4:11 | 2022-02-02 |  |
+| [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2022-07-20 |  |
 | [Poco a Poco](https://open.spotify.com/track/5QtfHuYdlivBEKmeMWSo9T) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Poco a Poco](https://open.spotify.com/album/1XDc5KwuzjGvmsV4FAKHEl) | 4:30 | 2022-05-19 |  |
 | [Por Fin Me Enamoré](https://open.spotify.com/track/4toLD6NYoiUgljszuA7V3y) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Por Fin Me Enamoré](https://open.spotify.com/album/2PAEc8QtznTrkRvVT6P4SU) | 3:36 | 2022-02-02 |  |
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-06-03 |  |

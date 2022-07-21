@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 | 2022-02-25 |  |
+| [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 | 2022-02-25 | 2022-07-21 |
 | [4 the Streets](https://open.spotify.com/track/6RFKghJxTPFzY79UvzgYC4) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [TTYL](https://open.spotify.com/album/4vZda19GMLK4jyaBzxOqUk) | 2:45 | 2022-03-21 | 2022-07-07 |
 | [4K](https://open.spotify.com/track/5TSGACpIB1nU7JWQt0rOOd) | [Briii](https://open.spotify.com/artist/34VzRIQKCinOPKAtCh7rPG), [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH) | [4K](https://open.spotify.com/album/1rqgi0je1KqAeM08Apkkin) | 2:15 | 2022-01-10 | 2022-02-26 |
 | [7 Days](https://open.spotify.com/track/3j45prVuGZPxCPwY5jRxMR) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Sometime In The H](https://open.spotify.com/album/6mklfbk9hBGbOr5AZ3WqOK) | 2:49 | 2022-06-07 |  |
@@ -17,7 +17,7 @@
 | [Ain't No Stoppin](https://open.spotify.com/track/1uEqIhYf2JEYvqtlOX8Pg0) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Ain't No Stoppin](https://open.spotify.com/album/1WNNKWajWiA1AQMmcAmDXM) | 2:22 | 2022-01-10 | 2022-06-08 |
 | [ALL EYEZ ON ME](https://open.spotify.com/track/1x9Jw42PkOZ6mPUVK0VPmz) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Louden](https://open.spotify.com/artist/0fLUemlaYm4AL4TvWlYQB5) | [ALL EYEZ ON ME](https://open.spotify.com/album/7b8Z89rbOAIfh0bTTA64pO) | 2:43 | 2022-03-15 | 2022-07-05 |
 | [All I Got](https://open.spotify.com/track/3DdzVgzynoJDtMd2KDCLjd) | [Lil Grifo](https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk) | [Street Verified](https://open.spotify.com/album/2u7AIaqfxXTnMqQSODBdmU) | 3:03 | 2022-01-10 | 2022-02-22 |
-| [Am I Wrong](https://open.spotify.com/track/2DR6rE1D0eSSq7EUYWoGAo) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Am I Wrong](https://open.spotify.com/album/65rm4eHYHM9Fsv42nYApXk) | 3:16 | 2022-03-15 | 2022-07-19 |
+| [Am I Wrong](https://open.spotify.com/track/2DR6rE1D0eSSq7EUYWoGAo) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Am I Wrong](https://open.spotify.com/album/65rm4eHYHM9Fsv42nYApXk) | 3:16 | 2022-03-15 |  |
 | [Am I Wrong](https://open.spotify.com/track/5yON9SNjj5hajnelP9KoFm) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Gang Coast](https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS) | 3:16 | 2022-07-06 |  |
 | [Ancestors](https://open.spotify.com/track/2mlbdEQDXSjnyCbGeKJcdt) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ancestors](https://open.spotify.com/album/3WSAKLWzb3aFAHQ4jk2axL) | 2:52 | 2022-01-10 | 2022-02-25 |
 | [Andale](https://open.spotify.com/track/7Fh34hNRM1d1opjPHnJZ1t) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [El Patron](https://open.spotify.com/album/3SQ241ZHfGypGbcvvpz9zx) | 2:12 | 2022-01-10 | 2022-02-26 |

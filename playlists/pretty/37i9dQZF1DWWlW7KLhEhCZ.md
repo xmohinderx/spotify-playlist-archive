@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Delatorvi, Djonga
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,184 likes - 76 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,274 likes - 76 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

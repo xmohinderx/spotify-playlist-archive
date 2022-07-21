@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-511 songs - 1 day 5 hr 10 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+512 songs - 1 day 5 hr 13 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [2010](https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 | 2022-04-02 | 2022-04-10 |
 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 | 2021-08-25 | 2021-10-16 |
 | [300](https://open.spotify.com/track/38qm9QOThz4R650p5WPKrN) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:42 | 2021-11-28 | 2021-12-04 |
-| [3730](https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t) | 2:17 | 2021-12-31 |  |
+| [3730](https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t) | 2:17 | 2021-12-31 | 2022-07-21 |
 | [5 Star](https://open.spotify.com/track/5B840Ui53HVbqRNJmuZvDF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:32 | 2021-07-04 | 2021-07-13 |
 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 | 2021-05-03 | 2021-12-05 |
 | [65 Millones \- En Vivo](https://open.spotify.com/track/6EuUufFoPvlh4PQi687ryG) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [65 Millones \(En Vivo\)](https://open.spotify.com/album/4nPkuj6TSxYowRZf4F7l08) | 1:48 | 2022-01-13 | 2022-04-20 |
@@ -67,6 +67,7 @@
 | [BEBÉ](https://open.spotify.com/track/3Zf4GutWZ7Hv3wsVQsSQPs) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:17 | 2021-03-27\* | 2021-04-26 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-28 | 2021-09-05 |
 | [Bendecido](https://open.spotify.com/track/5m6i8SGp2CyudL8rgYUYFe) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 3:07 | 2022-04-09 |  |
+| [Bendita Nota](https://open.spotify.com/track/2nogvCAks6RgjxubNXOPMH) | [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [Bendita Nota](https://open.spotify.com/album/13dmU1iu11URAFbmYZz7i3) | 2:47 | 2022-07-20 |  |
 | [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 | 2021-03-27 | 2021-05-09 |
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2021-03-27\* | 2021-03-27 |
 | [Billetes De 100](https://open.spotify.com/track/4tWOrZqaelCejCT3Th8Phq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:44 | 2021-09-12 | 2021-09-13 |

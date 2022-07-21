@@ -4,7 +4,7 @@
 
 > 2 die 4
 
-459 songs - 1 day 1 hr 5 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+460 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-07-06 |  |
 | [Bad Hoe](https://open.spotify.com/track/6OGvHDjNLuEJoBc8BEQWBP) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sometimes Sorry Isn't Enough](https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n) | 3:27 | 2022-04-27 | 2022-05-10 |
 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2022-02-14 | 2022-03-04 |
+| [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-07-20 |  |
 | [Before I Knew It](https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Twang](https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S) | 3:21 | 2022-01-20 | 2022-02-23 |
 | [BERRIS FUELLER](https://open.spotify.com/track/0IfBeiOztQ7PvccZNpRGQp) | [Billy Marchiafava](https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza) | [BERRIS FUELLER](https://open.spotify.com/album/1obcloDhNrG4ZpGAvyuQXC) | 2:15 | 2022-04-07 | 2022-04-18 |
 | [Best Friend](https://open.spotify.com/track/7jdzEA44GdSp4laVCF3Ztw) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack](https://open.spotify.com/album/5D2CHiTlb8MXWJsZWXjkZf) | 4:11 | 2022-05-20 | 2022-07-18 |

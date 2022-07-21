@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 
 > One in a million! TWICE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,458 likes - 103 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,007 likes - 103 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 | 58 | [DEPEND ON YOU](https://open.spotify.com/track/7aTIF2pMy1hEs3r2ewcYGd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:18 |
 | 59 | [SAY SOMETHING](https://open.spotify.com/track/2FD1OIYpzEf9y2Z6S8hgJu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 4:07 |
 | 60 | [BEHIND THE MASK](https://open.spotify.com/track/07CYRI5dwRevOhthkHU58X) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:38 |
-| 61 | [STUCK IN MY HEAD \- Japanese Version](https://open.spotify.com/track/64yv4Oj1BfZse3JswH5iBH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STUCK IN MY HEAD \(Japanese Version\)](https://open.spotify.com/album/6ASR567iHO8X0ILS2vsP3W) | 2:59 |
+| 61 | [STUCK IN MY HEAD \- Japanese ver.](https://open.spotify.com/track/64yv4Oj1BfZse3JswH5iBH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STUCK IN MY HEAD \(Japanese ver.\)](https://open.spotify.com/album/6ASR567iHO8X0ILS2vsP3W) | 2:59 |
 | 62 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 |
 | 63 | [OXYGEN](https://open.spotify.com/track/0JeDwT1t3gcrAH29RA0yvm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:45 |
 | 64 | [FIREWORK](https://open.spotify.com/track/7iXrqFaV5tK4Fri4mrO8jP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:13 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 | 86 | [GET LOUD](https://open.spotify.com/track/06rOypJlNqSmHXT3FymVp6) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z) | 3:06 |
 | 87 | [Wake Me Up](https://open.spotify.com/track/0CvJiFydKzLSQUn6McFPrb) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:31 |
 | 88 | [LOVE FOOLISH](https://open.spotify.com/track/5L002vJ4NC0lRM8RtncBBp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z) | 3:11 |
-| 89 | [TT \- Japanese Ver.](https://open.spotify.com/track/0PAyiPTz8gL0udQnSasc5G) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE](https://open.spotify.com/album/3RU5xvGbTAXCWoUSqGf7dk) | 3:32 |
+| 89 | [TT \- Japanese ver.](https://open.spotify.com/track/0PAyiPTz8gL0udQnSasc5G) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE](https://open.spotify.com/album/3RU5xvGbTAXCWoUSqGf7dk) | 3:32 |
 | 90 | [TRICK IT](https://open.spotify.com/track/0lOndCh09maK7vpvRgyy6u) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z) | 3:13 |
 | 91 | [Turtle](https://open.spotify.com/track/541bGIVOf11yJUH54VDCr0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicetagram](https://open.spotify.com/album/2hlrs1dDJnxbeeBZXQmlBd) | 3:18 |
 | 92 | [One More Time](https://open.spotify.com/track/4DmS8lnz6VbEMWrUcbm8WZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:03 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 | 102 | [GIRLS LIKE US](https://open.spotify.com/track/4M0eE7cZ9lx4ygXSSbfAtp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:38 |
 | 103 | [STUCK IN MY HEAD](https://open.spotify.com/track/045vckAeaQEbJ3vmatyBWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:56 |
 
-Snapshot ID: `MTY1ODI3OTQzMiwwMDAwMDAwMDBkNWJiOTVjYjFkNjI4YjY3OTI3ZDUxY2FmNGRiMmU2`
+Snapshot ID: `MTY1ODM2NjAyMywwMDAwMDAwMDBkNWJiOTVjYjFkNjI4YjY3OTI3ZDUxY2FmNGRiMmU2`

@@ -380,28 +380,6 @@
     },
     {
       "album": {
-        "name": "WHERE ARE YOU NOW",
-        "url": "https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM"
-      },
-      "artists": [
-        {
-          "name": "Motoharu Sano",
-          "url": "https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb"
-        },
-        {
-          "name": "THE COYOTE BAND",
-          "url": "https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh"
-        }
-      ],
-      "date_added": "2022-07-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195794,
-      "name": "CHLOE",
-      "url": "https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK"
-    },
-    {
-      "album": {
         "name": "Citadel",
         "url": "https://open.spotify.com/album/2dvus8y7rORaQ6S2euxBmh"
       },
@@ -613,24 +591,6 @@
       "duration_ms": 171545,
       "name": "Drivin'",
       "url": "https://open.spotify.com/track/5dTFgyqxUJENFQgT3WpYDQ"
-    },
-    {
-      "album": {
-        "name": "Maneki Neko / Edison",
-        "url": "https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "date_added": "2022-07-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193510,
-      "name": "Edison",
-      "url": "https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS"
     },
     {
       "album": {
@@ -1140,24 +1100,6 @@
     },
     {
       "album": {
-        "name": "ECHO CHAMBER",
-        "url": "https://open.spotify.com/album/23hqO5nN3rLdA2NWUnIP9O"
-      },
-      "artists": [
-        {
-          "name": "AAAMYYY",
-          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
-        }
-      ],
-      "date_added": "2022-07-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212406,
-      "name": "Ikitemiruwa",
-      "url": "https://open.spotify.com/track/1r1rgstZ6j5c9PIIvcVdaX"
-    },
-    {
-      "album": {
         "name": "Into The Sun",
         "url": "https://open.spotify.com/album/2rOnO3lQDhLV6EHoARg3xz"
       },
@@ -1229,24 +1171,6 @@
       "duration_ms": 250600,
       "name": "killer tune kills me",
       "url": "https://open.spotify.com/track/2JCdUwmGDO3SBkhwkfRaLr"
-    },
-    {
-      "album": {
-        "name": "Kimino Haburashi",
-        "url": "https://open.spotify.com/album/0FOZQaABYtZiBHJd6WLKQ5"
-      },
-      "artists": [
-        {
-          "name": "Maharajan",
-          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
-        }
-      ],
-      "date_added": "2022-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201499,
-      "name": "Kimino Haburashi",
-      "url": "https://open.spotify.com/track/5ZIPeyU0h13vZgCifDVPxp"
     },
     {
       "album": {
@@ -2630,6 +2554,24 @@
     },
     {
       "album": {
+        "name": "\u62db\u304d\u732b / \u30a8\u30b8\u30bd\u30f3",
+        "url": "https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193510,
+      "name": "\u30a8\u30b8\u30bd\u30f3",
+      "url": "https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS"
+    },
+    {
+      "album": {
         "name": "\u30cd\u30aa\u30f3",
         "url": "https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C"
       },
@@ -2667,6 +2609,28 @@
       "duration_ms": 215325,
       "name": "\u30ac\u30fc\u30eb\u30d5\u30ec\u30f3\u30c9\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30c7\u30c3\u30c9!",
       "url": "https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u3001\u4f55\u51e6",
+        "url": "https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM"
+      },
+      "artists": [
+        {
+          "name": "Motoharu Sano",
+          "url": "https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb"
+        },
+        {
+          "name": "THE COYOTE BAND",
+          "url": "https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195794,
+      "name": "\u30af\u30ed\u30a8",
+      "url": "https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK"
     },
     {
       "album": {
@@ -2867,6 +2831,24 @@
       "duration_ms": 206666,
       "name": "\u541b\u306eFlavor feat. \u78ef\u91ce\u304f\u3093 (YONA YONA WEEKENDERS)",
       "url": "https://open.spotify.com/track/02efWP5LqFY0FvzxoZ14VJ"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306e\u6b6f\u30d6\u30e9\u30b7",
+        "url": "https://open.spotify.com/album/0FOZQaABYtZiBHJd6WLKQ5"
+      },
+      "artists": [
+        {
+          "name": "Maharajan",
+          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201499,
+      "name": "\u541b\u306e\u6b6f\u30d6\u30e9\u30b7",
+      "url": "https://open.spotify.com/track/5ZIPeyU0h13vZgCifDVPxp"
     },
     {
       "album": {
@@ -3215,6 +3197,24 @@
       "duration_ms": 238800,
       "name": "\u71b1\u6d77",
       "url": "https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN"
+    },
+    {
+      "album": {
+        "name": "ECHO CHAMBER",
+        "url": "https://open.spotify.com/album/23hqO5nN3rLdA2NWUnIP9O"
+      },
+      "artists": [
+        {
+          "name": "AAAMYYY",
+          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212406,
+      "name": "\u751f\u304d\u3066\u307f\u308b\u308f",
+      "url": "https://open.spotify.com/track/1r1rgstZ6j5c9PIIvcVdaX"
     },
     {
       "album": {

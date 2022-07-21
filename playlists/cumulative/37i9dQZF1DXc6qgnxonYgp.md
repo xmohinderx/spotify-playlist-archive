@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-112 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
+114 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Sarithiram \(feat\. MC Sai, Nirujan & Vernon G Segaram\)](https://open.spotify.com/track/007NRfGHZODSi1L55LnqjR) | [MC Qiru](https://open.spotify.com/artist/52ORLxhGh7aTIKjTeq0WYe), [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Nirujan](https://open.spotify.com/artist/5Rc7Pvj8aqgeou7q2sqNuA), [Vernon G Segaram](https://open.spotify.com/artist/1vvVThBkJdiUch8q3DoH4p) | [Sarithiram](https://open.spotify.com/album/4FfPZ8tU7uYWtTJp23OC3k) | 3:42 | 2021-12-01 |  |
 | [Savadi](https://open.spotify.com/track/54OfF7DAB19wrSJQvAXenZ) | [Switch \- Lock Up](https://open.spotify.com/artist/4JzjU9Er2Vd8k4HFNEFVC1) | [Savadi\(Individual Album Soundtrack\)](https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ) | 3:30 | 2021-12-01 | 2021-12-30 |
 | [Self Nalam](https://open.spotify.com/track/7chs0PFyLWg9pCrNQqGPjr) | [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Self Nalam](https://open.spotify.com/album/5HXwZqBUaIQE1PYDyUlbwo) | 3:40 | 2021-12-01 | 2022-06-16 |
+| [Shroov](https://open.spotify.com/track/3x8Qr9y97Vdo2lMa0TVkX5) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Shroov](https://open.spotify.com/album/10FXfRx4Urpd9EaVN38WJe) | 2:15 | 2022-07-20 |  |
 | [Sirai Konda](https://open.spotify.com/track/4WQbCWQgC3SLaG7Js1qlJE) | [Dhilochshana Ramesh](https://open.spotify.com/artist/2lI4xfEhMkqtRRujas7oP1), [Kobishanth](https://open.spotify.com/artist/4NvL0By7s7ALbCOPRSTkzE) | [Sirai Konda](https://open.spotify.com/album/2u7pQtdekfQUgeyJDOMpvY) | 2:56 | 2021-12-01 |  |
 | [Sol Penne](https://open.spotify.com/track/4ru0poP6MXjZeISRp0sEDa) | [Hiphop Rowdies](https://open.spotify.com/artist/5bi4MqssTjHcHUPtLdVmBX), [J Afsar](https://open.spotify.com/artist/7E5LwvNx4e0fCOvPKFpm9A), [RapForce](https://open.spotify.com/artist/41XSjOKaJLnQqRscyLkCWK) | [Sol Penne](https://open.spotify.com/album/1GioLKwDMojnRPBNbMhk0s) | 3:18 | 2021-12-01 |  |
 | [Somberi](https://open.spotify.com/track/40MlMSv2kkmph6XhYMOovm) | [Mathan](https://open.spotify.com/artist/6SKyKdlIxDf1JmwWgJ9l2W), [Naven](https://open.spotify.com/artist/21X2iwETuRendKavqKueda) | [Intha Vechiko](https://open.spotify.com/album/6WicssJ39qCW2BavG5hSOe) | 3:56 | 2021-12-01 |  |
@@ -119,6 +120,7 @@
 | [Virus](https://open.spotify.com/track/1XITQUMLKoUTl39XrGGZ99) | [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3), [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Virus](https://open.spotify.com/album/7xRhx66zTnXR3IKbMaUInu) | 3:32 | 2021-12-29 |  |
 | [Vittu Po](https://open.spotify.com/track/02pXUWHiFU66a0wgMowh9x) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Vernon G Segaram](https://open.spotify.com/artist/1vvVThBkJdiUch8q3DoH4p) | [Vittu Po](https://open.spotify.com/album/4VF5BRBaabL6hUNKx587Vg) | 4:02 | 2021-12-01 |  |
 | [What's Poppin ?](https://open.spotify.com/track/4EfMhC8JqOlWyG08BtW9rX) | [Reuben Joy](https://open.spotify.com/artist/0C3iKEYRAQGam4skL90tES), [Kronixx](https://open.spotify.com/artist/3DTQsye5it4RsIpII0bqAV), [Acafella](https://open.spotify.com/artist/0yQJuWX2B8oauOrsgmRRcF) | [What's Poppin ?](https://open.spotify.com/album/6kbMGDXD8EwUrOOk3W01T6) | 4:03 | 2022-02-15 | 2022-06-10 |
+| [Where Is God](https://open.spotify.com/track/0ls76xjyCL1Ybs6N8crsvr) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR), [Fenix](https://open.spotify.com/artist/1rEZSD3Gbt66yvei1eosRd) | [Where Is God](https://open.spotify.com/album/1bToyETpCqnx7vx9mEKXgX) | 3:27 | 2022-07-20 |  |
 | [Yaathri](https://open.spotify.com/track/3AlKIWzzxpOsaeSUq8JSh0) | [Ratty](https://open.spotify.com/artist/4vWQApLAcj5mFuYeqUGkhn), [Shangeethan](https://open.spotify.com/artist/6YslAUbOm7mLSThvntkdI6), [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9) | [Yaathri](https://open.spotify.com/album/03zNsfQ90Qv0mVqkskeAFu) | 4:30 | 2021-12-01 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

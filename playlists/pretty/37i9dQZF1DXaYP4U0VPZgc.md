@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,250 likes - 67 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,258 likes - 67 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nocturne](https://open.spotify.com/track/6rIiTCNRFSNpFER8R1chAC) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [nocturne](https://open.spotify.com/album/5kVXzT1Mx2dgSrYnSMBhhc) | 4:29 |
-| 2 | [Asa ga kuru](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Asa ga kuru](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 |
-| 3 | [Akeboshi](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Akeboshi](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
-| 4 | [Magia](https://open.spotify.com/track/3VrY5AUgxJJsmw9HMP4w6W) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Puella Magi Madoka Magica Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 5:13 |
-| 5 | [homura](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [homura](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 |
+| 2 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 |
+| 3 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
+| 4 | [Magia](https://open.spotify.com/track/3VrY5AUgxJJsmw9HMP4w6W) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 5:13 |
+| 5 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 |
 | 6 | [君は僕に似ている](https://open.spotify.com/track/4uGSI2UhuHFTfeqQ9ei4sv) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [君は僕に似ている](https://open.spotify.com/album/7rbAdOBhmgUi8kz4AGE8GS) | 4:45 |
 | 7 | [to the beginning](https://open.spotify.com/track/3UqqDey54pOsAc31ZnXL0y) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/5QI1q4o2LJ4UpbgesVfBcL) | 4:16 |
-| 8 | [Kimigamitayumenomonogatari](https://open.spotify.com/track/3S53tu7z9QRZRE7KNW1kcV) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Kimigamitayumenomonogatari](https://open.spotify.com/album/1gMGknU5QYbl9q8OXFqGWD) | 4:21 |
+| 8 | [君が見た夢の物語](https://open.spotify.com/track/3S53tu7z9QRZRE7KNW1kcV) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [君が見た夢の物語](https://open.spotify.com/album/1gMGknU5QYbl9q8OXFqGWD) | 4:21 |
 | 9 | [海と真珠](https://open.spotify.com/track/4dDBdgmfZxoLE8SR41RH70) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [海と真珠](https://open.spotify.com/album/2b7R36JmXl2ajwIMnkjs67) | 4:40 |
 | 10 | [a small pearl](https://open.spotify.com/track/0qtkVFlBzSecq60GOVpXJn) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [『海賊王女』オリジナルサウンドトラック](https://open.spotify.com/album/0LCqqqGm9ioLvzkJBxRtN3) | 1:47 |
 | 11 | [wonderland](https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:03 |
-| 12 | [Shirogane](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Shirogane](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 |
+| 12 | [白銀](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [白銀](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 |
 | 13 | [焔の扉](https://open.spotify.com/track/0OGoqbqURRylj7v7cUoMMY) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [焔の扉](https://open.spotify.com/album/0SMBVzy8j0KY3Kmwmi9fXU) | 4:52 |
 | 14 | [from the edge](https://open.spotify.com/track/1HXRps6gmF8yMZPsJ6n9Zk) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6k8gWO2UT7VTHRGULu5xp7) | 4:38 |
 | 15 | [春はゆく](https://open.spotify.com/track/2Zv3lEuRxAmBTG8Zw48jFV) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [花の唄 / I beg you / 春はゆく](https://open.spotify.com/album/7m8thQY9OMG9ZEE8zdfkZY) | 5:06 |

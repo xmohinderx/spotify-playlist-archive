@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 355568,
+  "num_followers": 355637,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI3OTg0MCwwMDAwMDAwMDFhMDUzMTUxMTUxZTI3ZmQwM2EyYzExODMxMGU2Yjlh",
+  "snapshot_id": "MTY1ODM2NjQwNSwwMDAwMDAwMGI5ZDVlMjg4YWMzM2RlMTA3YWU1ZmViZWI5MWRhMjUz",
   "tracks": [
     {
       "added_at": "2022-06-29 11:58:54",
@@ -35,22 +35,118 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+        "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
+        "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        },
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "RQntz",
+          "url": "https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO"
+        },
+        {
+          "name": "Lowsince",
+          "url": "https://open.spotify.com/artist/40i93g6N3AaQ45tBod4pfw"
+        }
+      ],
+      "duration_ms": 176239,
+      "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
+      "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Pontos de Exclama\u00e7\u00e3o (Vintage Culture & Future Class Remix)",
+        "url": "https://open.spotify.com/album/5uGTf6Y1rdXMZi9iRLTHZF"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        }
+      ],
+      "duration_ms": 218770,
+      "name": "Pontos de Exclama\u00e7\u00e3o - Vintage Culture & Future Class Remix",
+      "url": "https://open.spotify.com/track/3AEw2EfF9Ng84Y3WDxV8Cn"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+      },
+      "artists": [
+        {
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+        },
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Telegrama (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         },
         {
           "name": "Double MZK",
           "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
+      "duration_ms": 159193,
+      "name": "Telegrama (Double MZK Remix)",
+      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "V\u00e1rias Queixas (Remix)",
+        "url": "https://open.spotify.com/album/1KKLrUEv4YvPfBAoBUhOu8"
+      },
+      "artists": [
+        {
+          "name": "Camilla Brunetta",
+          "url": "https://open.spotify.com/artist/49QW5bbN3ta3IGezNZVwmb"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 123142,
+      "name": "V\u00e1rias Queixas - Remix",
+      "url": "https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -83,66 +179,22 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+        "name": "Tempos Modernos",
+        "url": "https://open.spotify.com/album/63zhf4PV2rfoHI0kdk7W5s"
       },
       "artists": [
         {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+          "name": "Make U Sweat",
+          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
         },
         {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Sou Teu F\u00e3",
-        "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
-        }
-      ],
-      "duration_ms": 170956,
-      "name": "Sou Teu F\u00e3",
-      "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "V\u00e1rias Queixas (Remix)",
-        "url": "https://open.spotify.com/album/1KKLrUEv4YvPfBAoBUhOu8"
-      },
-      "artists": [
-        {
-          "name": "Camilla Brunetta",
-          "url": "https://open.spotify.com/artist/49QW5bbN3ta3IGezNZVwmb"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 123142,
-      "name": "V\u00e1rias Queixas - Remix",
-      "url": "https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3"
+      "duration_ms": 215104,
+      "name": "Tempos Modernos",
+      "url": "https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -167,6 +219,54 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Pro Dia Nascer Feliz",
+        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Pro Dia Nascer Feliz",
+      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Sou Teu F\u00e3",
+        "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "duration_ms": 170956,
+      "name": "Sou Teu F\u00e3",
+      "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -215,180 +315,8 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Pontos de Exclama\u00e7\u00e3o (Vintage Culture & Future Class Remix)",
-        "url": "https://open.spotify.com/album/5uGTf6Y1rdXMZi9iRLTHZF"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        }
-      ],
-      "duration_ms": 218770,
-      "name": "Pontos de Exclama\u00e7\u00e3o - Vintage Culture & Future Class Remix",
-      "url": "https://open.spotify.com/track/3AEw2EfF9Ng84Y3WDxV8Cn"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Tempos Modernos",
-        "url": "https://open.spotify.com/album/63zhf4PV2rfoHI0kdk7W5s"
-      },
-      "artists": [
-        {
-          "name": "Make U Sweat",
-          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 215104,
-      "name": "Tempos Modernos",
-      "url": "https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
-        "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        },
-        {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "RQntz",
-          "url": "https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO"
-        },
-        {
-          "name": "Lowsince",
-          "url": "https://open.spotify.com/artist/40i93g6N3AaQ45tBod4pfw"
-        }
-      ],
-      "duration_ms": 176239,
-      "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
-      "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5xwUS5QumHJYhPPuHF103D"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3IJQUjAtnotALS49WktLJY"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
-        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Overdriver Duo",
-          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
-        },
-        {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        }
-      ],
-      "duration_ms": 215806,
-      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
-      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Telegrama (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 159193,
-      "name": "Telegrama (Double MZK Remix)",
-      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Mais um Dia",
-        "url": "https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR"
-      },
-      "artists": [
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 138536,
-      "name": "Mais um Dia",
-      "url": "https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "M\u00fasica Pra.Curar Brasileira (Deluxe)",
-        "url": "https://open.spotify.com/album/475HeK2pbg9Vezkbxi63tC"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
       },
       "artists": [
         {
@@ -396,93 +324,29 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
         }
       ],
-      "duration_ms": 183537,
-      "name": "Somos Instantes - Zabot Remix",
-      "url": "https://open.spotify.com/track/11C3HfDPl4pEO79bLn9Zhp"
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
     },
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Toda Forma De Amor (Remix)",
-        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/02Qgg2bapIJFrpJyWzPpOt"
       },
       "artists": [
         {
-          "name": "Make U Sweat",
-          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
         }
       ],
-      "duration_ms": 228661,
-      "name": "Toda Forma De Amor - Remix",
-      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "O Amor \u00c9 o Segredo (Dre Guazzelli Remix Radio Edit)",
-        "url": "https://open.spotify.com/album/0RkqQOxGzfBwVZQTcWoPOA"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Dre Guazzelli",
-          "url": "https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl"
-        }
-      ],
-      "duration_ms": 168572,
-      "name": "O Amor \u00c9 o Segredo (Dre Guazzelli Remix Radio Edit)",
-      "url": "https://open.spotify.com/track/6DRFX0BWDSmHBs0J32fpsv"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "\u00c1gua de Coco",
-        "url": "https://open.spotify.com/album/6EIJGfcD6JyQDx2HMUetzH"
-      },
-      "artists": [
-        {
-          "name": "Nu Azeite",
-          "url": "https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE"
-        }
-      ],
-      "duration_ms": 305847,
-      "name": "\u00c1gua de Coco",
-      "url": "https://open.spotify.com/track/1ViWBiUcCKb0vLRgzZspdc"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Dias Melhores - Remix",
-        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Dias Melhores - Remix",
-      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+      "duration_ms": 191219,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/46NfTrLuTCWXtMIKu2ntz5"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -507,8 +371,8 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5xwUS5QumHJYhPPuHF103D"
       },
       "artists": [
         {
@@ -516,25 +380,9 @@
           "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/02Qgg2bapIJFrpJyWzPpOt"
-      },
-      "artists": [
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 191219,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/46NfTrLuTCWXtMIKu2ntz5"
+      "duration_ms": 224262,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3IJQUjAtnotALS49WktLJY"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -559,178 +407,54 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Pro Dia Nascer Feliz",
-        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
+        "name": "Toda Forma De Amor (Remix)",
+        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
       },
       "artists": [
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "Make U Sweat",
+          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
         },
         {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 203225,
-      "name": "Pro Dia Nascer Feliz",
-      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
+      "duration_ms": 228661,
+      "name": "Toda Forma De Amor - Remix",
+      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
     },
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Perdi\u00e7\u00e3o (feat. L7NNON) [Remix]",
-        "url": "https://open.spotify.com/album/7nJHxArjVPTY0Kb0U94qTZ"
+        "name": "Mais um Dia",
+        "url": "https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR"
       },
       "artists": [
         {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Perdi\u00e7\u00e3o (feat. L7NNON) - Remix",
-      "url": "https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD"
+      "duration_ms": 138536,
+      "name": "Mais um Dia",
+      "url": "https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk"
     },
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Descobridor dos Sete Mares: Remix",
-        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
+        "name": "\u00c1gua de Coco",
+        "url": "https://open.spotify.com/album/6EIJGfcD6JyQDx2HMUetzH"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+          "name": "Nu Azeite",
+          "url": "https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Descobridor dos Sete Mares: Remix",
-      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
-        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
-      },
-      "artists": [
-        {
-          "name": "Zeca Veloso",
-          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 269015,
-      "name": "Todo Homem - Bhaskar, Mojjo Remix",
-      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
-        "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Pic Schmitz",
-          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
-        },
-        {
-          "name": "Breno Rocha",
-          "url": "https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut"
-        }
-      ],
-      "duration_ms": 158824,
-      "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
-      "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Resenha (Radio Edit)",
-        "url": "https://open.spotify.com/album/7M80MOjHfMopytfD8SLcpQ"
-      },
-      "artists": [
-        {
-          "name": "Salk",
-          "url": "https://open.spotify.com/artist/5WRqgOVssGPVDA7ZIkIiGd"
-        },
-        {
-          "name": "Arthur Favero",
-          "url": "https://open.spotify.com/artist/6ro3Jx7xVl5MVF4HzZ2puK"
-        }
-      ],
-      "duration_ms": 208700,
-      "name": "Resenha (Radio Edit)",
-      "url": "https://open.spotify.com/track/38xRC6vJYMNw81lJreferd"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Fica Tudo Bem (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 174125,
-      "name": "Fica Tudo Bem - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+      "duration_ms": 305847,
+      "name": "\u00c1gua de Coco",
+      "url": "https://open.spotify.com/track/1ViWBiUcCKb0vLRgzZspdc"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -759,190 +483,22 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Algum Ritmo (Remix)",
-        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
       },
       "artists": [
         {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
         },
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
         }
       ],
-      "duration_ms": 197419,
-      "name": "Algum Ritmo - Remix",
-      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Back to Beginning",
-        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
-      },
-      "artists": [
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        },
-        {
-          "name": "Talking Dirty",
-          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Back to Beginning",
-      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Sorri, Sou Rei (KVSH Remix)",
-        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 217678,
-      "name": "Sorri, Sou Rei (KVSH Remix)",
-      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Menina Salvador (Zabot Remix)",
-        "url": "https://open.spotify.com/album/0OoHN3Q39bxbueZTP593tv"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        },
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "Menina Salvador - Zabot Remix",
-      "url": "https://open.spotify.com/track/3XJ5LWaZ8bE0s9TfzPzaWO"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/3Wsd3UcQyE2VWQc2VJroTr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0MN9HwjKtDaZknMXrT2ZXL"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "A Dois Passos do Para\u00edso",
-        "url": "https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8"
-      },
-      "artists": [
-        {
-          "name": "SoFly",
-          "url": "https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO"
-        },
-        {
-          "name": "Duckhandz",
-          "url": "https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "A Dois Passos do Para\u00edso",
-      "url": "https://open.spotify.com/track/6ek42FNnwFIXhP0ZArfZ7h"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
-        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        },
-        {
-          "name": "LION dj",
-          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
-        }
-      ],
-      "duration_ms": 300432,
-      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
-      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Agrade\u00e7a",
-        "url": "https://open.spotify.com/album/62ysP4bVK2HZkWbRZo8cJy"
-      },
-      "artists": [
-        {
-          "name": "HOT-Q",
-          "url": "https://open.spotify.com/artist/6CO3icJe86W5FK3U73zyyR"
-        },
-        {
-          "name": "Murilo March.",
-          "url": "https://open.spotify.com/artist/31yAsViIJRpbvAvkiEnAEg"
-        },
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "Agrade\u00e7a",
-      "url": "https://open.spotify.com/track/1htIyG8F7YU2ac3W6wAdE1"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Rodrigo S\u00e1",
-          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -971,6 +527,102 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "A Dois Passos do Para\u00edso",
+        "url": "https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8"
+      },
+      "artists": [
+        {
+          "name": "SoFly",
+          "url": "https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO"
+        },
+        {
+          "name": "Duckhandz",
+          "url": "https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "A Dois Passos do Para\u00edso",
+      "url": "https://open.spotify.com/track/6ek42FNnwFIXhP0ZArfZ7h"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "O Amor \u00c9 o Segredo (Dre Guazzelli Remix Radio Edit)",
+        "url": "https://open.spotify.com/album/0RkqQOxGzfBwVZQTcWoPOA"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Dre Guazzelli",
+          "url": "https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl"
+        }
+      ],
+      "duration_ms": 168572,
+      "name": "O Amor \u00c9 o Segredo (Dre Guazzelli Remix Radio Edit)",
+      "url": "https://open.spotify.com/track/6DRFX0BWDSmHBs0J32fpsv"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
         "name": "Live Your Life",
         "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
       },
@@ -987,26 +639,138 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Manh\u00e3 de Sol (Zuffo Remix)",
-        "url": "https://open.spotify.com/album/2nQB0p59wzrIfuY0keh1bW"
+        "name": "Foreplay (Radio Edit)",
+        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
       },
       "artists": [
+        {
+          "name": "Flowavez",
+          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Foreplay - Radio Edit",
+      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Algum Ritmo (Remix)",
+        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Algum Ritmo - Remix",
+      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
+        "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Pic Schmitz",
+          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+        },
+        {
+          "name": "Breno Rocha",
+          "url": "https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut"
+        }
+      ],
+      "duration_ms": 158824,
+      "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
+      "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
+        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
+      },
+      "artists": [
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
         {
           "name": "Bhaskar",
           "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         },
         {
-          "name": "Zuffo",
-          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
-        },
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Manh\u00e3 de Sol - Zuffo Remix",
-      "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"
+      "duration_ms": 269015,
+      "name": "Todo Homem - Bhaskar, Mojjo Remix",
+      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Back to Beginning",
+        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
+      },
+      "artists": [
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        },
+        {
+          "name": "Talking Dirty",
+          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Back to Beginning",
+      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "M\u00fasica Pra.Curar Brasileira (Deluxe)",
+        "url": "https://open.spotify.com/album/475HeK2pbg9Vezkbxi63tC"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 183537,
+      "name": "Somos Instantes - Zabot Remix",
+      "url": "https://open.spotify.com/track/11C3HfDPl4pEO79bLn9Zhp"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -1031,22 +795,126 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+        "name": "Menina Salvador (Zabot Remix)",
+        "url": "https://open.spotify.com/album/0OoHN3Q39bxbueZTP593tv"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
         },
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
         }
       ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+      "duration_ms": 159480,
+      "name": "Menina Salvador - Zabot Remix",
+      "url": "https://open.spotify.com/track/3XJ5LWaZ8bE0s9TfzPzaWO"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Fica Tudo Bem (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 174125,
+      "name": "Fica Tudo Bem - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Quest\u00e3o De Sorte",
+        "url": "https://open.spotify.com/album/5yoVbifMQUBNvEGQ4qg8Sj"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+        },
+        {
+          "name": "Isca Beats",
+          "url": "https://open.spotify.com/artist/24SlPWmMGcY8D1DKGUdYEL"
+        }
+      ],
+      "duration_ms": 172544,
+      "name": "Quest\u00e3o De Sorte",
+      "url": "https://open.spotify.com/track/56rGDQbpHSQMgGPTFjW2kp"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Dias Melhores - Remix",
+        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Dias Melhores - Remix",
+      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Praia (Sem Sair De Casa) - Helen Sancho Remix",
+        "url": "https://open.spotify.com/album/3dNhojJVl4etccSfL1gmLy"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Helen Sancho",
+          "url": "https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Praia (Sem Sair De Casa) - Helen Sancho Remix",
+      "url": "https://open.spotify.com/track/5ADjEWixxdmdS4pUMQ5BJS"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Certeza (Zabot Remix)",
+        "url": "https://open.spotify.com/album/6EJmdkqhcilL3zvGuZqzym"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Certeza - Zabot Remix",
+      "url": "https://open.spotify.com/track/6r9gHMbpKJC6ymaTw1An0s"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -1075,26 +943,6 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Foreplay (Radio Edit)",
-        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
-      },
-      "artists": [
-        {
-          "name": "Flowavez",
-          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
-        },
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Foreplay - Radio Edit",
-      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
         "name": "Nunca Fui Desse Lugar (DUX Remix) [Daparte feat. Lagum]",
         "url": "https://open.spotify.com/album/7ld1TzHKmvV2kjomArv5vu"
       },
@@ -1115,118 +963,6 @@
       "duration_ms": 177560,
       "name": "Nunca Fui Desse Lugar (DUX Remix) [Daparte feat. Lagum]",
       "url": "https://open.spotify.com/track/4e5RkL0LPzqmzlD5tIoWAO"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Olhos Coloridos (Rap Singulares)",
-        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        },
-        {
-          "name": "MarVixx",
-          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
-        },
-        {
-          "name": "Simone Malafaia",
-          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Olhos Coloridos (Rap Singulares)",
-      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Ainda Bem Que Chegou (Apollo 55 Remix)",
-        "url": "https://open.spotify.com/album/6BMJxKTyuiSM7DvXhBPpHR"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Apollo 55",
-          "url": "https://open.spotify.com/artist/3uqOhXatHxVcHXivMT1E2r"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Ainda Bem Que Chegou (Apollo 55 Remix)",
-      "url": "https://open.spotify.com/track/2Mv260qF5WUAX9pn5dSHQG"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
-      },
-      "artists": [
-        {
-          "name": "Pic Schmitz",
-          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
-        },
-        {
-          "name": "Windy City Classics",
-          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
-        },
-        {
-          "name": "Lucas Borchardt",
-          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "S\u00f3 de Pensar",
-        "url": "https://open.spotify.com/album/3rOl0L0VrDxNwpuQSJL8Hj"
-      },
-      "artists": [
-        {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        },
-        {
-          "name": "Calvin Duo",
-          "url": "https://open.spotify.com/artist/2ulGYppU7GVTUBEFzukLF6"
-        }
-      ],
-      "duration_ms": 177581,
-      "name": "S\u00f3 de Pensar",
-      "url": "https://open.spotify.com/track/2XYJSOZUsPHwQ5GxMN4t1K"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Hey (Na Na Na)",
-        "url": "https://open.spotify.com/album/5of4lavVy9GkGWPAUzKWD8"
-      },
-      "artists": [
-        {
-          "name": "Almanac",
-          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
-        },
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "DJ Jonatas Felipe",
-          "url": "https://open.spotify.com/artist/22NFWM3F5kyI8KsRZVCSRr"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Hey (Na Na Na)",
-      "url": "https://open.spotify.com/track/5eYHuFukR95qj8s3Q3YEfQ"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -1255,6 +991,70 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
+        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
+        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Overdriver Duo",
+          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
+        },
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        }
+      ],
+      "duration_ms": 215806,
+      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
+      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Z\u00e9 do caro\u00e7o",
+        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Z\u00e9 do caro\u00e7o",
+      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Descobridor dos Sete Mares: Remix",
+        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Descobridor dos Sete Mares: Remix",
+      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
         "name": "Tempo Bom",
         "url": "https://open.spotify.com/album/75JIHZxnu806bUJszClgnn"
       },
@@ -1271,6 +1071,314 @@
       "duration_ms": 228387,
       "name": "Tempo Bom",
       "url": "https://open.spotify.com/track/2NpjnOHexFpVZNW3WaQJcE"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Com Voc\u00ea (Remix)",
+        "url": "https://open.spotify.com/album/2ZqXHkB6GHQb3yVQfyAUAq"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        },
+        {
+          "name": "Gabe Pereira",
+          "url": "https://open.spotify.com/artist/6wTNLZedek1dnn1Ibjup14"
+        },
+        {
+          "name": "Mevil",
+          "url": "https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW"
+        },
+        {
+          "name": "Fabinho K",
+          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
+        }
+      ],
+      "duration_ms": 189836,
+      "name": "Com Voc\u00ea - Remix",
+      "url": "https://open.spotify.com/track/4HmXj7oOfmwEN6Yv6F5kGZ"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
+      },
+      "artists": [
+        {
+          "name": "Pic Schmitz",
+          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+        },
+        {
+          "name": "Windy City Classics",
+          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
+        },
+        {
+          "name": "Lucas Borchardt",
+          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Para\u00edso Particular",
+        "url": "https://open.spotify.com/album/7kmiNaxJ8K8DmcB8qSmcR7"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        },
+        {
+          "name": "SoFly",
+          "url": "https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO"
+        }
+      ],
+      "duration_ms": 141532,
+      "name": "Para\u00edso Particular",
+      "url": "https://open.spotify.com/track/7r8uwoYXO7EvwmsSKnil1g"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Perdi\u00e7\u00e3o (feat. L7NNON) [Remix]",
+        "url": "https://open.spotify.com/album/7nJHxArjVPTY0Kb0U94qTZ"
+      },
+      "artists": [
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Perdi\u00e7\u00e3o (feat. L7NNON) - Remix",
+      "url": "https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Sun in My Eyes",
+        "url": "https://open.spotify.com/album/1vzmChxGXCcCE4y3uC5mwt"
+      },
+      "artists": [
+        {
+          "name": "Breno Rocha",
+          "url": "https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut"
+        },
+        {
+          "name": "Dyve",
+          "url": "https://open.spotify.com/artist/1u2imct5j7WJaYoVCA1sKE"
+        }
+      ],
+      "duration_ms": 194515,
+      "name": "Sun in My Eyes",
+      "url": "https://open.spotify.com/track/6IQXYvGczs2W6XBIgDI1fg"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Ainda Bem Que Chegou (Apollo 55 Remix)",
+        "url": "https://open.spotify.com/album/6BMJxKTyuiSM7DvXhBPpHR"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Apollo 55",
+          "url": "https://open.spotify.com/artist/3uqOhXatHxVcHXivMT1E2r"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Ainda Bem Que Chegou (Apollo 55 Remix)",
+      "url": "https://open.spotify.com/track/2Mv260qF5WUAX9pn5dSHQG"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Sorri, Sou Rei (KVSH Remix)",
+        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 217678,
+      "name": "Sorri, Sou Rei (KVSH Remix)",
+      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Protetor Solar",
+        "url": "https://open.spotify.com/album/5KhB7is52hpaxn4N370U23"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Jesus Luz",
+          "url": "https://open.spotify.com/artist/5SRrRUx9kNNtPhAwWSJPGr"
+        },
+        {
+          "name": "Marmii",
+          "url": "https://open.spotify.com/artist/6AgnQLNYgI4j92GWE4cg6k"
+        },
+        {
+          "name": "Rafa Abreu & Re Guerra",
+          "url": "https://open.spotify.com/artist/2gYDOLsHNWp4laiyaragcR"
+        }
+      ],
+      "duration_ms": 186774,
+      "name": "Protetor Solar",
+      "url": "https://open.spotify.com/track/44wpeHT2rXcR3J1oosRTyR"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "P\u00e9tala de Flor (DropDown Remix)",
+        "url": "https://open.spotify.com/album/4T129vS8wKleczOPU0SE3u"
+      },
+      "artists": [
+        {
+          "name": "Sr. Banana",
+          "url": "https://open.spotify.com/artist/1ReyRM9KWuGMj2X6vvsjXb"
+        },
+        {
+          "name": "DropDown",
+          "url": "https://open.spotify.com/artist/7AnuhlyQ4aE4Pm7gtfwTLh"
+        }
+      ],
+      "duration_ms": 219145,
+      "name": "P\u00e9tala de Flor (DropDown Remix)",
+      "url": "https://open.spotify.com/track/4daafhjg5jqXJhQC4UJgfS"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Me Cura",
+        "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Ana Muller",
+          "url": "https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Me Cura",
+      "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Hey (Na Na Na)",
+        "url": "https://open.spotify.com/album/5of4lavVy9GkGWPAUzKWD8"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "DJ Jonatas Felipe",
+          "url": "https://open.spotify.com/artist/22NFWM3F5kyI8KsRZVCSRr"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Hey (Na Na Na)",
+      "url": "https://open.spotify.com/track/5eYHuFukR95qj8s3Q3YEfQ"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Tranquila (Gustavo Mota Remix)",
+        "url": "https://open.spotify.com/album/3iL8rVagQsdR5Y5KLhS2K6"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        },
+        {
+          "name": "Gustavo Mota",
+          "url": "https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Tranquila (Gustavo Mota Remix)",
+      "url": "https://open.spotify.com/track/6DgMynpGBfoev6qddUcWsU"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -1311,202 +1419,78 @@
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Farol (Leo Minas. Remix)",
-        "url": "https://open.spotify.com/album/1JAlx0iDQ3DlgqoDnLomZi"
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5b3ofKnyipHDmiAnQeCVcU"
       },
       "artists": [
         {
-          "name": "Leo Minas.",
-          "url": "https://open.spotify.com/artist/5VoUhia4pII9rmZU3fByI3"
+          "name": "KTRYNA",
+          "url": "https://open.spotify.com/artist/46bk8TsKZAshaoaL8cgRk1"
         },
         {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+          "name": "Gabzy (BR)",
+          "url": "https://open.spotify.com/artist/4TCvOlVbfcTA34FliS72y6"
         },
         {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
         }
       ],
-      "duration_ms": 204590,
-      "name": "Farol - Leo Minas. Remix",
-      "url": "https://open.spotify.com/track/6IL6zt9JsLplALUAfxPudM"
+      "duration_ms": 184923,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/3ZRtq6OtMiPXAr3jAljdOg"
     },
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Energia Boa",
-        "url": "https://open.spotify.com/album/0MJl73DxCnJo5n3pfRovT4"
+        "name": "Manh\u00e3 de Sol (Zuffo Remix)",
+        "url": "https://open.spotify.com/album/2nQB0p59wzrIfuY0keh1bW"
       },
       "artists": [
         {
-          "name": "Diskover",
-          "url": "https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         },
         {
-          "name": "Mad Dogz",
-          "url": "https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP"
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
         },
         {
-          "name": "Avine Vinny",
-          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         }
       ],
-      "duration_ms": 199846,
-      "name": "Energia Boa",
-      "url": "https://open.spotify.com/track/5zhxllxorvOwmfWJv53aCy"
+      "duration_ms": 201600,
+      "name": "Manh\u00e3 de Sol - Zuffo Remix",
+      "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"
     },
     {
       "added_at": "2022-06-29 11:58:54",
       "album": {
-        "name": "Z\u00e9 do caro\u00e7o",
-        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
+        "name": "Viajar (L\u00dcKKI & Gatto Remix)",
+        "url": "https://open.spotify.com/album/2gFKOMEHXC9tUmWR63ATnK"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
         },
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "L\u00dcKKI",
+          "url": "https://open.spotify.com/artist/1pYjCPM6rGh4DLhPY9cyLP"
+        },
+        {
+          "name": "Gatto",
+          "url": "https://open.spotify.com/artist/2rIbcj9suHavVS48Mp5xQY"
+        },
+        {
+          "name": "L\u00dcKI",
+          "url": "https://open.spotify.com/artist/0bc3KSCefcFj8JdyaGea4h"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Z\u00e9 do caro\u00e7o",
-      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Sun in My Eyes",
-        "url": "https://open.spotify.com/album/1vzmChxGXCcCE4y3uC5mwt"
-      },
-      "artists": [
-        {
-          "name": "Breno Rocha",
-          "url": "https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut"
-        },
-        {
-          "name": "Dyve",
-          "url": "https://open.spotify.com/artist/1u2imct5j7WJaYoVCA1sKE"
-        }
-      ],
-      "duration_ms": 194515,
-      "name": "Sun in My Eyes",
-      "url": "https://open.spotify.com/track/6IQXYvGczs2W6XBIgDI1fg"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Certeza (Zabot Remix)",
-        "url": "https://open.spotify.com/album/6EJmdkqhcilL3zvGuZqzym"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Certeza - Zabot Remix",
-      "url": "https://open.spotify.com/track/6r9gHMbpKJC6ymaTw1An0s"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/5WdbJyYhdrJ9iS7xUyfkzs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "iRO",
-          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
-        }
-      ],
-      "duration_ms": 174001,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu"
-    },
-    {
-      "added_at": "2022-06-29 11:58:54",
-      "album": {
-        "name": "Com Voc\u00ea (Remix)",
-        "url": "https://open.spotify.com/album/2ZqXHkB6GHQb3yVQfyAUAq"
-      },
-      "artists": [
-        {
-          "name": "Voraz",
-          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
-        },
-        {
-          "name": "Gabe Pereira",
-          "url": "https://open.spotify.com/artist/6wTNLZedek1dnn1Ibjup14"
-        },
-        {
-          "name": "Mevil",
-          "url": "https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW"
-        },
-        {
-          "name": "Fabinho K",
-          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
-        }
-      ],
-      "duration_ms": 189836,
-      "name": "Com Voc\u00ea - Remix",
-      "url": "https://open.spotify.com/track/4HmXj7oOfmwEN6Yv6F5kGZ"
+      "duration_ms": 201290,
+      "name": "Viajar - L\u00dcKKI & Gatto Remix",
+      "url": "https://open.spotify.com/track/5sloEYpBihSutEw4xQJpwd"
     },
     {
       "added_at": "2022-06-29 11:58:54",
@@ -1527,6 +1511,26 @@
       "duration_ms": 218989,
       "name": "Primeira Vez - Lyus Remix",
       "url": "https://open.spotify.com/track/2FCuHe0AdfWWR3Or0FT13f"
+    },
+    {
+      "added_at": "2022-06-29 11:58:54",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/3Wsd3UcQyE2VWQc2VJroTr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0MN9HwjKtDaZknMXrT2ZXL"
     }
   ],
   "unique_name": "Festa na Praia",

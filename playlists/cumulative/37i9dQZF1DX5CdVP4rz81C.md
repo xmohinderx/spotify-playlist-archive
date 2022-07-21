@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Rosa Linn
 
-858 songs - 1 day 21 hr 14 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+860 songs - 1 day 21 hr 20 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Karma & Friends](https://open.spotify.com/track/5bzXWaxInedSVFe7w18hgf) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Karma & Friends](https://open.spotify.com/album/2AqOcmA1IvZVeBLoUB4CpC) | 2:45 | 2021-04-17 | 2021-04-30 |
 | [Keep Dancing](https://open.spotify.com/track/40MvWovKhWdX9jxbthw62T) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Keep Dancing](https://open.spotify.com/album/2g1V6cI8hGRPXiyVEDnXYN) | 2:59 | 2022-04-22 | 2022-05-14 |
 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 | 2021-10-16 | 2022-06-25 |
+| [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 | 2022-07-20 |  |
 | [killer lover boy](https://open.spotify.com/track/4VWahNC3hzIZpJsb1aNBB8) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT’S OKAY, WE’RE DREAMING](https://open.spotify.com/album/6D4oQ9pbC7MinAd5LdLr0l) | 2:14 | 2021-07-31 | 2021-09-11 |
 | [Know Me Again \(with Cate\)](https://open.spotify.com/track/503vjbISPH5hJbGpYOFAcN) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Know Me Again \(with Cate\)](https://open.spotify.com/album/3W4GE7d5HHoLgctPM1c8A0) | 4:15 | 2021-05-08 | 2021-06-26 |
 | [Ladder to the Moon](https://open.spotify.com/track/41aYKwJPK7facN5CMXLvZT) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Ladder to the Moon](https://open.spotify.com/album/31TOQwydj7vH0Kwyd8aBLJ) | 3:31 | 2021-09-25 | 2021-10-16 |
@@ -469,6 +470,7 @@
 | [Lose](https://open.spotify.com/track/7rgjkzZBhBjObaYsvq8Ej0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Lose](https://open.spotify.com/album/5GW3Hm4C7AkrClwby88sFJ) | 4:16 | 2020-10-13\* | 2020-10-29 |
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-01-08 | 2021-02-19 |
 | [Lost In Between](https://open.spotify.com/track/0rQV8yyM0fjQmZjlJnIR7Y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Lost In Between](https://open.spotify.com/album/3jvcWLmClkYbMO3dqmHg00) | 2:04 | 2021-02-26 | 2021-10-30 |
+| [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-07-20 |  |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-01-07 | 2022-02-05 |
 | [Loud](https://open.spotify.com/track/0gvOes4JPUbtP9MPInKsWA) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/0RKB3f9wQH7cRlTyiQZdha) | 4:00 | 2020-10-13\* | 2021-01-29 |
 | [Love 2 Hard \(feat\. Tauren Wells\)](https://open.spotify.com/track/6hb4aV6tyjZr3HyhHQ5mSq) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 3:08 | 2021-04-03 | 2021-04-24 |
@@ -536,7 +538,7 @@
 | [Never the 1](https://open.spotify.com/track/3gk96wClxx6rbSOpxXUc5O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Never the 1](https://open.spotify.com/album/5KVUDnIgiqO1vdeQoTZTCl) | 2:51 | 2020-10-30 | 2021-03-26 |
 | [neverletyougo](https://open.spotify.com/track/6ps0RcnIrPoiMd9vfcA9KB) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [neverletyougo](https://open.spotify.com/album/2oNeFeW7cRXefZVwQA4eFf) | 2:58 | 2022-03-28 | 2022-04-23 |
 | [New Normal](https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [New Normal](https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk) | 3:18 | 2021-07-22 | 2021-11-13 |
-| [New Normal](https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [New Normal](https://open.spotify.com/album/2Gpdm0FDnFWxvI9oB6emOB) | 3:07 | 2022-04-29 |  |
+| [New Normal](https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [New Normal](https://open.spotify.com/album/2Gpdm0FDnFWxvI9oB6emOB) | 3:07 | 2022-04-29 | 2022-07-21 |
 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 | 2021-03-14 | 2021-04-10 |
 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2022-03-04 | 2022-07-16 |
 | [Next Thing \(Loverboy\)](https://open.spotify.com/track/3pKgOC7tlm4W0sCDLWPuPE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Next Thing \(Loverboy\)](https://open.spotify.com/album/3KAvR6XKFMYWnOlC7jzevW) | 3:03 | 2021-05-15 | 2021-06-26 |
@@ -836,7 +838,7 @@
 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 | 2020-12-11 | 2021-03-14 |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-04-24 | 2022-02-09 |
 | [When You Look At Me](https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [When You Look At Me](https://open.spotify.com/album/1UMiyaleD0o4UQnWTrNDMk) | 2:50 | 2022-02-18 | 2022-04-29 |
-| [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-11 |  |
+| [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-11 | 2022-07-21 |
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2021-02-25 | 2021-05-08 |
 | [White Dress](https://open.spotify.com/track/4Hl9rOqYomojCmxYfr25im) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:33 | 2021-03-19 | 2021-04-10 |
 | [White Tiger](https://open.spotify.com/track/6dWoGjqbxPh7g2BJacy1Jc) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [White Tiger](https://open.spotify.com/album/5AA4mAc7WHPkFeF6WHDYBy) | 3:53 | 2020-12-18 | 2021-02-06 |

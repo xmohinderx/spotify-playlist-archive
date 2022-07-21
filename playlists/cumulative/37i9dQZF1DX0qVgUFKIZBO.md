@@ -4,7 +4,7 @@
 
 > ¡Agarra el micrófono y empieza a cantar estos éxitos inolvidables!
 
-75 songs - 5 hr 5 min - not published yet
+75 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1J4PyabyPPlQjCqwGqNy6D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Ease into these recent hits and new songs from your favorite artists\. Cover: P!nk
 
-880 songs - 2 day 0 hr 33 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+882 songs - 2 day 0 hr 39 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Greatest Of All Time](https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m) | 3:39 | 2022-05-20 |  |
 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2019-05-26\* | 2019-10-18 |
 | [Habit](https://open.spotify.com/track/3As9Uyx1ZYKbdcEn3d7zma) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Walls](https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9) | 3:03 | 2020-01-31 | 2020-03-06 |
+| [Handle Me Gently](https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4) | 3:01 | 2022-07-20 |  |
 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 | 2019-05-26\* | 2019-06-15 |
 | [Happier Than Ever](https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 4:14 | 2022-05-27 |  |
 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 | 2020-02-21 | 2020-07-18 |
@@ -562,7 +563,7 @@
 | [Never Seen The Rain](https://open.spotify.com/track/0JQ5MbyriK6ruD3t6RZ7ix) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming](https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j) | 3:20 | 2019-12-13 | 2020-08-07 |
 | [Never Worn White](https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Worn White](https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa) | 3:45 | 2020-03-06 | 2020-03-27 |
 | [New Best Friend](https://open.spotify.com/track/0GwmWHT6w2yLfxL37AJq2F) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [New Best Friend](https://open.spotify.com/album/5jjLUpCP9nwo8rrlAbCR2R) | 3:43 | 2020-05-22 | 2020-08-14 |
-| [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2021-08-28 |  |
+| [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2021-08-28 | 2022-07-21 |
 | [Next Year \(feat\. Windser\)](https://open.spotify.com/track/4zncVqi72AX54I2JVIUq0N) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Next Year \(feat\. Windser\)](https://open.spotify.com/album/6Xi4YURDn7YBTTX3OuWoZb) | 2:53 | 2021-10-30 | 2022-01-22 |
 | [Nice To Meet Ya](https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Nice To Meet Ya](https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ) | 2:38 | 2019-10-18 | 2020-03-27 |
 | [Night Call](https://open.spotify.com/track/1dNyeO5Oy7RuGYOq30HrK2) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(New Year's Edition\)](https://open.spotify.com/album/4ANoIvV1JMAne7lFSExMI0) | 2:50 | 2022-01-21 | 2022-01-29 |
@@ -720,6 +721,7 @@
 | [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-02-11 | 2022-04-29 |
 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2021-08-14 | 2022-06-11 |
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2021-09-18 | 2022-01-08 |
+| [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-20 |  |
 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 | 2020-02-28 | 2020-06-12 |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/0WLVSnKqQBK4UPom1TESHK) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/1LPqrRp0TeRO7hO1SYF08y) | 4:26 | 2021-09-18 | 2021-10-16 |
 | [Stop](https://open.spotify.com/track/3XJV73RAVIVfLKLV7eevuG) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Stop](https://open.spotify.com/album/3PmOimRwikYLeYyBQUNxQ5) | 3:10 | 2020-08-14 | 2020-10-18 |

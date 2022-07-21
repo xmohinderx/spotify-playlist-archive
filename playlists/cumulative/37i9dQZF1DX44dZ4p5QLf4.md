@@ -2,9 +2,9 @@
 
 ### [Next Wave Neo\-Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> A blend of new songs and new artists in the neo\-soul space\. Cover: Greentea Peng
+> A blend of new songs and new artists in the neo\-soul space\. Cover: Steve Lacy
 
-203 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+204 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [LOST YOU](https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [LOST YOU](https://open.spotify.com/album/3DMw1U0phfSBMkmO6pI5eF) | 2:57 | 2021-12-16 | 2022-05-20 |
 | [Magnetic](https://open.spotify.com/track/4rbGIJobQJLUCgKrrsY6mm) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP), [Sergiio](https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0) | [Magnetic](https://open.spotify.com/album/5ViCoszPDZqEOu2UVB34LQ) | 3:00 | 2021-12-16 | 2022-01-26 |
 | [Meant To Be](https://open.spotify.com/track/38L2DeWjO0JogrpCNyiJRF) | [Yuphoric](https://open.spotify.com/artist/7dUQFBLwkdsa2l4Ttc6EGP), [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [Meant To Be](https://open.spotify.com/album/5V5h7iHklmqmGlAFIpgJiB) | 3:01 | 2021-12-16 | 2022-06-17 |
+| [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-07-20 |  |
 | [MIDSKY](https://open.spotify.com/track/7zsNh2wvCUxcXYmKbPjoAW) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [MIDSKY](https://open.spotify.com/album/0FCsCJFEaPYwToH79yo6ES) | 3:36 | 2022-02-10 |  |
 | [MilkShake & FriES \- Demo](https://open.spotify.com/track/5T5uxgC1lWESmsXFHlXbIs) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [MilkShake & FriES \(Demo\)](https://open.spotify.com/album/0CZMcf4cXdbwL7WwlR83NW) | 2:50 | 2021-12-16 |  |
 | [Miss U](https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Miss U](https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL) | 3:53 | 2022-06-17 |  |

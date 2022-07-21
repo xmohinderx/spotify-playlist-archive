@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto:  Duki.
 
-219 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
+220 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Flow Prieto \(feat\. Jencko El Shinobi\)](https://open.spotify.com/track/0G5Mq5YoX3DmgvQq2mbf6D) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Eipi](https://open.spotify.com/artist/3YmwvG9OoPyAMoCRrcTUMl), [Jae S](https://open.spotify.com/artist/2bWodbZbC7imuhp3lrOsRg), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [Flow Prieto \(feat\. Jencko El Shinobi\)](https://open.spotify.com/album/4tYBSR2tiXOsGQPVM6jSzc) | 3:25 | 2022-04-15 | 2022-05-24 |
 | [Fondo de Bikini](https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Vishoko](https://open.spotify.com/artist/2VoIm519FXqOTdQciVXLMe), [Ov Black](https://open.spotify.com/artist/7ulWyRMgAVwTZbDBTd6e35) | [Fondo de Bikini](https://open.spotify.com/album/2MDf7f36XF0Tm6r3ZWLIzl) | 4:07 | 2022-05-10 | 2022-06-04 |
 | [Fulete](https://open.spotify.com/track/1vuwe8zD8zY4CrNIsUwdQe) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 4:35 | 2022-06-03 |  |
+| [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
 | [Goteo](https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 2:44 | 2022-06-03 |  |
 | [Gracias A Dios](https://open.spotify.com/track/79cdKPrpDCOjiyKpAQwxOU) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:02 | 2022-05-06 | 2022-06-18 |
 | [Gracias X Nada](https://open.spotify.com/track/6qSxJv4uImd95kezpLreq2) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Misael Beatz](https://open.spotify.com/artist/0tvAMN2CoNeuMdIiDaeiOw) | [Gracias X Nada](https://open.spotify.com/album/5yVNjAl6CCJk87tupQ5fYE) | 1:59 | 2022-03-11 | 2022-06-04 |

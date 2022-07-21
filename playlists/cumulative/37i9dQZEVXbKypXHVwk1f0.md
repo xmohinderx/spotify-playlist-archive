@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-449 songs - 1 day 2 hr 19 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
+450 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Aquel Nap ZzZz](https://open.spotify.com/track/2qyLvNLktrdc67OgaayqMW) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 4:55 | 2021-07-07 | 2021-07-13 |
 | [Aquel Nap ZzZz](https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:55 | 2021-12-27 | 2022-01-01 |
 | [Aquella](https://open.spotify.com/track/0K2Dur3v8JaUlhNpt4Hwbg) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Aquella](https://open.spotify.com/album/5wAXfFKkTIyExYnv33VGx2) | 3:49 | 2022-07-15 |  |
-| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 |  |
+| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 | 2022-07-21 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-22 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 | 2021-03-27 | 2021-04-07 |
@@ -158,7 +158,7 @@
 | [Gastar](https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:29 | 2021-12-05 | 2021-12-06 |
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-12 | 2021-12-13 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-11 |
-| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-17 |  |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-17 | 2022-07-21 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2021-09-05 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-19 | 2021-05-23 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-23 |
@@ -281,7 +281,8 @@
 | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/track/03LfOYi0icz4souspZVVhq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD) | 2:38 | 2021-07-04 | 2021-08-08 |
 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/1mJV1jFzGsipSA6qzuGMZJ) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6ToxQqhJUFAQJMKKEfx3O3) | [Grandes Exitos](https://open.spotify.com/album/1yJZHcHfrVITrAiLvDszmN) | 4:27 | 2021-12-25 | 2022-01-04 |
 | [No Me Importa un Carajo](https://open.spotify.com/track/1OGhv7OFVVIKsbVD3g4MAR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:10 | 2021-12-05 | 2021-12-06 |
-| [No Me Ronquen Freestyle](https://open.spotify.com/track/6PqF5IRfQEYcieE4wk0v9A) | [Chrisanti](https://open.spotify.com/artist/4PDBUe0k2wtX1OiICrGvay) | [No Me Ronquen Freestyle](https://open.spotify.com/album/7ihRxJYsNitN07gbsA4xNv) | 2:30 | 2022-06-27 | 2022-07-20 |
+| [No Me Ronquen Freestyle](https://open.spotify.com/track/6PqF5IRfQEYcieE4wk0v9A) | [Chrisanti](https://open.spotify.com/artist/4PDBUe0k2wtX1OiICrGvay) | [No Me Ronquen Freestyle](https://open.spotify.com/album/7ihRxJYsNitN07gbsA4xNv) | 2:30 | 2022-06-27 |  |
+| [No Nos Casamo](https://open.spotify.com/track/6pEnJKFCXVNIYRMk6tisBm) | [Lil Dan](https://open.spotify.com/artist/1vC9FxvClViL2IGb6TRUcG) | [No Nos Casamo](https://open.spotify.com/album/6CmUyPGeCKdbciJHYUIkJO) | 2:50 | 2022-07-20 |  |
 | [No Se Que](https://open.spotify.com/track/0ObJj8ziTqdwe44Ot7csxL) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:28 | 2022-03-12 | 2022-03-26 |
 | [No Se Que](https://open.spotify.com/track/6IXx1EoraLU3mFBYCXh1av) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ella](https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU) | 3:28 | 2021-04-18 | 2021-08-29 |
 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2022-07-08 | 2022-07-16 |

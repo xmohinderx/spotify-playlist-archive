@@ -8,24 +8,6 @@
   "tracks": [
     {
       "album": {
-        "name": "Ameagari No Step",
-        "url": "https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I"
-      },
-      "artists": [
-        {
-          "name": "\u65b0\u3057\u3044\u5730\u56f3",
-          "url": "https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL"
-        }
-      ],
-      "date_added": "2022-02-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 320570,
-      "name": "Ameagari No Step",
-      "url": "https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z"
-    },
-    {
-      "album": {
         "name": "COWBOY BEBOP Knockin'on heaven's door Ask DNA",
         "url": "https://open.spotify.com/album/0jVm4Q8Oa4wzXr1V99flUN"
       },
@@ -1317,6 +1299,24 @@
       "duration_ms": 275800,
       "name": "\u8d70\u308c\u8d70\u308c",
       "url": "https://open.spotify.com/track/0tP8IbHLyTesf9Q6OMP8Wm"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u3042\u304c\u308a\u306e\u30b9\u30c6\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u3057\u3044\u5730\u56f3",
+          "url": "https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320570,
+      "name": "\u96e8\u3042\u304c\u308a\u306e\u30b9\u30c6\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9xbwLJcOKSh"

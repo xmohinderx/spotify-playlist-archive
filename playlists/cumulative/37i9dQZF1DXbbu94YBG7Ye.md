@@ -4,7 +4,7 @@
 
 > Si la rompe está acá\. Foto: Bizarrap & Quevedo.
 
-136 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/1nImrgfieBX5MJPoAx7Qaw)
+137 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/1nImrgfieBX5MJPoAx7Qaw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-12-31 | 2022-02-18 |
 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 | 2022-02-24 |  |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-04-07 | 2022-06-02 |
+| [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
 | [Hablando De Love](https://open.spotify.com/track/74aGIoQo8pokxzylUTw603) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hablando De Love](https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5) | 2:36 | 2022-03-17 | 2022-05-20 |
 | [Hace Calor](https://open.spotify.com/track/5j3wzSS6z80VEs71O0gysC) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor](https://open.spotify.com/album/6kfkMEQwnXozr3dnjZI9ZW) | 3:21 | 2022-01-07 | 2022-05-13 |
 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 | 2022-02-03 | 2022-05-26 |
@@ -116,7 +117,7 @@
 | [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2022-05-05 |  |
 | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/album/1LDCTu0ZfGLtWAzV82Pop0) | 2:40 | 2022-01-13 | 2022-07-08 |
 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 | 2022-05-12 | 2022-06-03 |
-| [TITAN](https://open.spotify.com/track/2cR9cH9ta7MStHBKs0aOcz) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TITAN](https://open.spotify.com/album/6rR0AsjAGzV4osTjzz4r2i) | 2:02 | 2022-01-21 |  |
+| [TITAN](https://open.spotify.com/track/2cR9cH9ta7MStHBKs0aOcz) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TITAN](https://open.spotify.com/album/6rR0AsjAGzV4osTjzz4r2i) | 2:02 | 2022-01-21 | 2022-07-21 |
 | [TITAN](https://open.spotify.com/track/5fBQLapwAPSLw27STml9kr) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TITAN](https://open.spotify.com/album/1dDXsrM0q5ZLxZptZOPBI2) | 2:02 | 2021-12-31 | 2022-01-22 |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-06-02 |  |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2021-12-31 | 2022-06-03 |

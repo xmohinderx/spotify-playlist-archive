@@ -4,7 +4,7 @@
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-86 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
+87 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z), [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 | 2022-06-21 |  |
 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 | 2021-10-31\* |  |
 | [The Unposted Letter](https://open.spotify.com/track/1xuLfcXNcA3J2qLZGFQ3kB) | [Varun Nimbolkar](https://open.spotify.com/artist/3dmI9UkzIOZZeHcdLJfXZs), [Saee Tembhekar](https://open.spotify.com/artist/3TJyCCTVwoTQo1FQ5xxuKm) | [The Unposted Letter](https://open.spotify.com/album/48hMn9wMVg6fRDYXCH06hY) | 4:14 | 2021-10-31\* |  |
+| [Tum Sang](https://open.spotify.com/track/60uYhlD1Q5xJC4X1ThXgXl) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Tum Sang](https://open.spotify.com/album/5iFLWvbvg9JS5xy81LQHMl) | 3:04 | 2022-07-20 |  |
 | [Zindagi](https://open.spotify.com/track/2S3n6oSULmI2W7pSXyncHv) | [Manas Jha](https://open.spotify.com/artist/6i6fq3UQUhlsntPbYVfLGN), [Yamini Santhanam](https://open.spotify.com/artist/4N3qb296KI7IggmjraDzBZ), [Mithun Radhakrishna](https://open.spotify.com/artist/0EvmRT6hXZFYVKQ5o1CJaz) | [The Remote Collaborations Project](https://open.spotify.com/album/5T1azLivhGbCm6WkM0JoKL) | 3:20 | 2021-10-31\* | 2022-05-20 |
 
 \*This playlist was first scraped on 2021-10-31. Prior content cannot be recovered.

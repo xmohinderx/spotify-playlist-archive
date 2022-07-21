@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,119 likes - 51 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,233 likes - 51 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [謎](https://open.spotify.com/track/42S5PVNFPb4xwxl51HVh0k) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [謎](https://open.spotify.com/album/7mgGlCQhihfUrVj7IBabYk) | 4:35 |
 | 2 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 |
-| 3 | [1/2](https://open.spotify.com/track/30RyPOEySEbfoHsd2UELNb) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [Makoto Kawamoto](https://open.spotify.com/album/2h51mctnS9OjJFqs6HT0Ip) | 5:15 |
+| 3 | [1/2](https://open.spotify.com/track/30RyPOEySEbfoHsd2UELNb) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [川本真琴](https://open.spotify.com/album/2h51mctnS9OjJFqs6HT0Ip) | 5:15 |
 | 4 | [そばかす](https://open.spotify.com/track/0y0lQ10KHJCZqRQtXIvh1T) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [THE POWER SOURCE](https://open.spotify.com/album/6WOs9qwCv99wCa8rI0hkMr) | 4:15 |
 | 5 | [Catch You Catch Me](https://open.spotify.com/track/6ElSzFGDDrOnE0ifSf7WMC) | [gumi](https://open.spotify.com/artist/7EpnSFEhtEQmIOXPDwGXQ5) | [カードキャプターさくら ソングコレクション 1998.4\~1999.2](https://open.spotify.com/album/3DbJExsQsNeyI1D86ooudT) | 3:45 |
 | 6 | [おジャ魔女カーニバル!!](https://open.spotify.com/track/63CbmTcrmJlFYSehryyG48) | [MAHO堂](https://open.spotify.com/artist/4iaXf3pKcpKpWrIaPDg2li) | [おジャ魔女どれみ Select Best](https://open.spotify.com/album/4IKaNqQcDMuRkfpTGU1HIT) | 3:35 |

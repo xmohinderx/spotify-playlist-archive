@@ -904,6 +904,24 @@
     },
     {
       "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196458,
+      "name": "because i liked a boy",
+      "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
+    },
+    {
+      "album": {
         "name": "Twang",
         "url": "https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S"
       },

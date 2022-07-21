@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "El aderezo que te falta.",
   "name": "Cocina con sabor",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3uTOUzf7YyzIgGkcaTGudH"
+  ],
   "tracks": [
     {
       "album": {
@@ -237,7 +239,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 180426,
       "name": "Bacubufo no Caterefofo",
       "url": "https://open.spotify.com/track/4qYPghBgWQe3ho7wgcuWuw"
@@ -349,6 +351,24 @@
       "duration_ms": 327866,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi"
+    },
+    {
+      "album": {
+        "name": "Beach Samba",
+        "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92533,
+      "name": "Canoeiro",
+      "url": "https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy"
     },
     {
       "album": {
@@ -661,7 +681,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
@@ -773,7 +793,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 178373,
       "name": "I Get The Sweetest Feeling",
       "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
@@ -827,7 +847,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
@@ -863,7 +883,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 155866,
       "name": "Israelites",
       "url": "https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft"
@@ -1025,7 +1045,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 163453,
       "name": "Many Rivers To Cross",
       "url": "https://open.spotify.com/track/0FokMXctAEFRczLcj8topE"
@@ -1123,7 +1143,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 192013,
       "name": "Na Tonga Da Mironga Do Kabulete",
       "url": "https://open.spotify.com/track/7lSuOz8LjZ73RPzZKZCHaH"
@@ -1221,7 +1241,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 123173,
       "name": "O Namorado Da Vi\u00fava",
       "url": "https://open.spotify.com/track/0iM2mFz8ijP7Ngm5BXcRo2"
@@ -1315,7 +1335,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 115266,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
@@ -1399,6 +1419,24 @@
       "duration_ms": 147733,
       "name": "Piensa en Mi",
       "url": "https://open.spotify.com/track/59fak68RqVVzQYAbH9VOym"
+    },
+    {
+      "album": {
+        "name": "Police & Thieves",
+        "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
+      },
+      "artists": [
+        {
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244109,
+      "name": "Police & Thieves",
+      "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
     },
     {
       "album": {
@@ -1771,7 +1809,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 237306,
       "name": "Stop - Edit",
       "url": "https://open.spotify.com/track/5aSzCwW4lemb0ZsfWuDuos"

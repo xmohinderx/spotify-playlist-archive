@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 254666,
       "name": "BANDIDO",
       "url": "https://open.spotify.com/track/5aQtcr0PfEtk4FZCz5rLdV"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 200816,
       "name": "Cochinae",
       "url": "https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW"
@@ -2305,7 +2305,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 196044,
       "name": "Like Wooh Wooh",
       "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
@@ -2559,7 +2559,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 233519,
       "name": "Mayor Que Usted",
       "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
@@ -2835,7 +2835,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 219934,
       "name": "Mi Bebito Fiu Fiu",
       "url": "https://open.spotify.com/track/7hl8yi5iItAYKwtSVtbEhO"
@@ -2893,6 +2893,24 @@
       "duration_ms": 219000,
       "name": "Mi Bebito Fiu Fiu",
       "url": "https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs"
+    },
+    {
+      "album": {
+        "name": "Mi Bebito Fiu Fiu",
+        "url": "https://open.spotify.com/album/1XG3gnmKvB0kC5sFztQ0E8"
+      },
+      "artists": [
+        {
+          "name": "Tony Temperature",
+          "url": "https://open.spotify.com/artist/39WQE9Gh5H6kiCETIwJGgv"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219174,
+      "name": "Mi Bebito Fiu Fiu",
+      "url": "https://open.spotify.com/track/4Ke7vgenot8iGErbr6Bdwa"
     },
     {
       "album": {

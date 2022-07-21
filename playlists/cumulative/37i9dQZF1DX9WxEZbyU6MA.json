@@ -518,6 +518,32 @@
     },
     {
       "album": {
+        "name": "Mikrokosmos",
+        "url": "https://open.spotify.com/album/4IgVVWGMDaRNpApcJhu6zy"
+      },
+      "artists": [
+        {
+          "name": "Veljo Tormis",
+          "url": "https://open.spotify.com/artist/0Idpvxe8nO6ZOciUbB5eSa"
+        },
+        {
+          "name": "Mikrokosmos",
+          "url": "https://open.spotify.com/artist/0Q1AL26o6Z3P3oYUWyTven"
+        },
+        {
+          "name": "Lo\u00efc Pierre",
+          "url": "https://open.spotify.com/artist/27jBdILBv6ZamFSzXmnTaT"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131333,
+      "name": "La Kanteletar: I. Herk\u00e4 neito",
+      "url": "https://open.spotify.com/track/0QXrJH7Whrm5xFioJtT1BV"
+    },
+    {
+      "album": {
         "name": "Renaissance Masterpieces",
         "url": "https://open.spotify.com/album/6xR6WVe00D4LVg2WhI38NX"
       },
@@ -872,7 +898,7 @@
       "artists": [
         {
           "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+          "url": "https://open.spotify.com/artist/6ynDIYNsMKpH8VwK5qJsqI"
         },
         {
           "name": "Ensemble LaCappella",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ardhito Pramono
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,937 likes - 105 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,948 likes - 105 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 58 | [Violent Daze](https://open.spotify.com/track/4TfnUwYa4GLbUChJ48mQDK) | [Hallway.](https://open.spotify.com/artist/5BrJZKuMh0C20YnmXINjxw) | [Violent Daze](https://open.spotify.com/album/65bHntlMBfe6kjAC3RKRMh) | 3:40 |
 | 59 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
 | 60 | [CLAP CLAP](https://open.spotify.com/track/2b9qZ9JVxMD8DJJeSa35Gm) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [CLAP CLAP](https://open.spotify.com/album/1VENoHMNvx1ebYLPkmM0A2) | 2:45 |
-| 61 | [Ame Sansan](https://open.spotify.com/track/34PR0zLBVl7VMF9E7dDwdo) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Ame Sansan](https://open.spotify.com/album/2gv7KqKXqTEfXnNOUyu85q) | 4:55 |
+| 61 | [雨燦々](https://open.spotify.com/track/34PR0zLBVl7VMF9E7dDwdo) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [雨燦々](https://open.spotify.com/album/2gv7KqKXqTEfXnNOUyu85q) | 4:55 |
 | 62 | [Don't You Go](https://open.spotify.com/track/7qINrsCcAiKCcAJcelpzQB) | [El Six](https://open.spotify.com/artist/0mszflxsQbT6tB6MBWx09D) | [Don't You Go](https://open.spotify.com/album/7vrsKztIXJS3jhpqGcUoMQ) | 2:51 |
 | 63 | [Figura](https://open.spotify.com/track/6GKcFTITqwSip9irjOozDg) | [Rudye](https://open.spotify.com/artist/1AvsY9OEPgxyIsYZ6fCdfA) | [Figura](https://open.spotify.com/album/6qryoO8FKZqdNzleoNkDD6) | 4:57 |
 | 64 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
