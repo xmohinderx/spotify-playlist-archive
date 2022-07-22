@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-207 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+212 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Lack Sho](https://open.spotify.com/artist/5MpqGukBLHUlsEb996s3m1) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 | 2021-12-07 |  |
 | [Garden Zoo](https://open.spotify.com/track/73O23xizU9YUdLDHF0iRJW) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Phantom Experience & Garden Zoo](https://open.spotify.com/album/4nPJVAKbB3x98ka18j24aD) | 2:28 | 2022-06-24 |  |
 | [Gin Basil Smash](https://open.spotify.com/track/70rDQkdlpsQT48Fegnttd1) | [Neele Harder](https://open.spotify.com/artist/4KxuKYAXcdSrZGi1s19G5c) | [Gin Basil Smash](https://open.spotify.com/album/3icBu0tdISlC40gn5P7EGb) | 1:53 | 2022-05-13 |  |
+| [Ginger Tea](https://open.spotify.com/track/6sY2SpvPiOP3Y94bLjryYY) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [Ginger Tea](https://open.spotify.com/album/4KX8xx1dbg34gK9gcwlkgL) | 2:32 | 2022-07-22 |  |
 | [Golden Flower](https://open.spotify.com/track/2zYCpdqRYEqZdL4kPhGGvS) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Golden Flower](https://open.spotify.com/album/5joQcQJNvVauhEOkPpf1sc) | 2:27 | 2022-05-13 |  |
 | [Golden Hour](https://open.spotify.com/track/403bR4J4rNTf9H03KDMzFZ) | [don C](https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU) | [Golden Hour](https://open.spotify.com/album/6t0KrvmFn3cRW6wL68CnVS) | 2:08 | 2022-07-08 |  |
 | [Good Things Coming](https://open.spotify.com/track/0BZiMl6Z2kEtSByrJM8pCF) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Good Things Coming](https://open.spotify.com/album/6BQEOgTe5bo6XNfGYgyolp) | 2:36 | 2022-05-13 |  |
@@ -92,7 +93,9 @@
 | [hollows](https://open.spotify.com/track/1LsBuFMHgiUlXYcH4PT2nv) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [hollows](https://open.spotify.com/album/2S50kPdsCPHNGvUiUeW7A4) | 2:50 | 2021-12-07 |  |
 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 | 2021-12-07 | 2022-04-08 |
 | [Hopeless Romantic](https://open.spotify.com/track/19FH0dEQakm0xVnpeK00bF) | [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Hopeless Romantic](https://open.spotify.com/album/6xmXrAqZN6dh7Z05mx827a) | 2:32 | 2022-05-13 |  |
+| [Hugz for Dayz](https://open.spotify.com/track/2kaUUldx08XfmVvkXYbDss) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Hugz for Dayz](https://open.spotify.com/album/14n9ygTqdMux02i3ZWECNC) | 3:09 | 2022-07-22 |  |
 | [I Am a Flower](https://open.spotify.com/track/2jxi0UFqcT99mvQ05TjsFW) | [Nyans](https://open.spotify.com/artist/1QVaQ41mTgU3pkTwbuRIQt) | [Pilot Girl](https://open.spotify.com/album/1XJVz61Pjb6HJhhMTTIpxi) | 1:43 | 2021-12-07 |  |
+| [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 | 2022-07-22 |  |
 | [island vibes](https://open.spotify.com/track/1afFU8ViYqQo6XMXxyKCfl) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [island vibes](https://open.spotify.com/album/0r3fC17UPhDT0Pgqs2UCf5) | 2:36 | 2022-01-28 |  |
 | [its okay](https://open.spotify.com/track/6RJ2W3VAicJPG6GuhdwiW7) | [Emtee Beats](https://open.spotify.com/artist/29HYZQ5nVtKxmvfx18NdAH), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [its okay](https://open.spotify.com/album/2ZfnMmS443GRt3qgTas9D0) | 2:10 | 2022-07-01 |  |
 | [Jazz Has Many Faces](https://open.spotify.com/track/6S1v4mCBFT3yG895yilYyt) | [Super Off\-Beat](https://open.spotify.com/artist/08gFTIqLswYXSzCTLqkDT4) | [Jazz Has Many Faces](https://open.spotify.com/album/5U13M8p2FQMbI9IZUffHDN) | 2:00 | 2021-12-07 |  |
@@ -104,6 +107,7 @@
 | [Lakeside](https://open.spotify.com/track/2vfoQNoj0XTdk64B21cdpc) | [yourneighborsclassicbeats](https://open.spotify.com/artist/07YwFEZfj3G4ZRQ08iFDAM) | [Lakeside](https://open.spotify.com/album/5NhSlxdnAPt27SlzxFHJXd) | 2:03 | 2021-12-07 |  |
 | [landslide](https://open.spotify.com/track/4ht7dWyVh2eUt3S2Vjjt3x) | [Mass Effect](https://open.spotify.com/artist/1Owv65l8RxWnof7K5xetKq) | [breakbeat poetry](https://open.spotify.com/album/0qRefCA6PWOybxJvQeBXl6) | 2:04 | 2021-12-07 |  |
 | [Last One](https://open.spotify.com/track/1Bw0Vj3hp6Dos8xgAV9rLm) | [Sunshine and Raindrops](https://open.spotify.com/artist/3zdR3KZ4ahx7Q9qWjqHX3Y) | [Tidy your Room](https://open.spotify.com/album/6ov0vylgSHHYQbCWBAK3Sd) | 2:39 | 2021-12-07 |  |
+| [lazos](https://open.spotify.com/track/7mxsGL3TUaMvhwvRSBn7ne) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [lazos](https://open.spotify.com/album/1eQowgre1jsz7vxsEhunt0) | 2:03 | 2022-07-22 |  |
 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 | 2021-12-07 |  |
 | [Lime Express](https://open.spotify.com/track/6W1jElE8QnsHXvH1umc4VG) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:40 | 2021-12-07 | 2022-05-20 |
 | [Little Talks](https://open.spotify.com/track/0H71QVwrAWvUJZLvF1oDFX) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Little Talks](https://open.spotify.com/album/7fPL7gS9hiirN9U7u8Z8EN) | 2:20 | 2022-07-08 |  |
@@ -170,6 +174,7 @@
 | [Road Trip](https://open.spotify.com/track/7egZDzFPxPlXJe2RaPQYhd) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Road Trip](https://open.spotify.com/album/3H2o8UFe2NzqJdSWgRfVIx) | 2:09 | 2021-12-07 |  |
 | [roadtripp](https://open.spotify.com/track/6DbwIh4zCLn1POZXjXaubt) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [roadtripp](https://open.spotify.com/album/7EM5p1WI1wpBPUrG46eTXe) | 2:21 | 2021-12-07 |  |
 | [Running Away](https://open.spotify.com/track/1oOVp3mUoS6CSjdYsdjaAi) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Lohbe](https://open.spotify.com/artist/1gkQWhf8PQlIaXgZVohf0z) | [Running Away](https://open.spotify.com/album/0Of7eQQhGZhZsv9GRhttax) | 1:40 | 2022-06-24 |  |
+| [Saint Remi](https://open.spotify.com/track/6b0HoYY2sBYrdrCHkIkMjC) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Saint Remi](https://open.spotify.com/album/4mcHYh8nyGb0jPd66pwkmC) | 1:42 | 2022-07-22 |  |
 | [saturday sun](https://open.spotify.com/track/72JFBOJAw2f2FOFJJsO7KL) | [Awrail](https://open.spotify.com/artist/7bNQNzvOo3pNycy6qspOXO) | [saturday sun](https://open.spotify.com/album/5fi72u7BrWXzBMLpJZjczt) | 2:44 | 2022-01-28 |  |
 | [Saudade](https://open.spotify.com/track/2nGFeWzJwnLtbF5ZXZk0O8) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [sundaynightcoffee](https://open.spotify.com/artist/777qGYNUkMMOPsU3PY1sEL) | [Saudade](https://open.spotify.com/album/5D4u2d3v7glC2eP9YEFpFo) | 1:54 | 2022-05-13 |  |
 | [Secrets of Konohagakure](https://open.spotify.com/track/02hH2lDtRpYbJC1lS8KM22) | [Lofi MMMO](https://open.spotify.com/artist/7mC3tlq3rhrrGfWzMnV0qw) | [The Kojiki](https://open.spotify.com/album/54AVaU8S6AqpwU7Q3efFJj) | 2:57 | 2022-07-08 |  |

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> La scena italiana indipendente, senza etichette di genere\. Cover: Ama Dee
+> Nuove scoperte della scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:6hG077WYgnjPVTkzhD2a9A">Sidea</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,219 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,229 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stavolta](https://open.spotify.com/track/0y9C4eT0lKJ0UWUtfrK6FR) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Stavolta](https://open.spotify.com/album/10ztXShbbY1hSbQm32UwrS) | 3:54 |
-| 2 | [Felpa Blu](https://open.spotify.com/track/7lUJXeZSVnPuv9ihy6Z5xC) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Felpa Blu](https://open.spotify.com/album/6eOwrCImdIYh5tHKFSZAME) | 2:55 |
+| 1 | [Felpa Blu](https://open.spotify.com/track/7lUJXeZSVnPuv9ihy6Z5xC) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Felpa Blu](https://open.spotify.com/album/6eOwrCImdIYh5tHKFSZAME) | 2:55 |
+| 2 | [Stavolta](https://open.spotify.com/track/0y9C4eT0lKJ0UWUtfrK6FR) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Stavolta](https://open.spotify.com/album/10ztXShbbY1hSbQm32UwrS) | 3:54 |
 | 3 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 |
 | 4 | [ANCORA](https://open.spotify.com/track/2XxrTkLS3YxDp0HRDPMlsM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [ANCORA](https://open.spotify.com/album/4LjYaprNELvWNeqE9hIszw) | 2:25 |
 | 5 | [STRESS](https://open.spotify.com/track/52FZgfDkjdGX1EwREBtKj6) | [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU) | [STRESS](https://open.spotify.com/album/65kkbupUXDk2YNaAV2GXTX) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [il mio sole \(sei tu\)](https://open.spotify.com/track/0U57nIxmj5WuoKI8B6883w) | [giulybee](https://open.spotify.com/artist/2qy6kkG36fX0G2tYQa4vik), [gatomato](https://open.spotify.com/artist/1MqEPXCa6xq5YcFeArFnG4) | [il mio sole \(sei tu\)](https://open.spotify.com/album/37bVWsKCvQG1AytQXF2YaV) | 3:34 |
 | 50 | [I Just Lost Marcel](https://open.spotify.com/track/3xiKxZGQEWanBehKjLXZIX) | [Biemsix](https://open.spotify.com/artist/1akamESwYotC264hdUKCzY) | [Highway High Way Too High](https://open.spotify.com/album/4XyQa6nd1wqIZpXOhYtP16) | 6:16 |
 
-Snapshot ID: `MTY1ODEzMTYwNSwwMDAwMDA2MTAwMDAwMTgyMTA1ODY3YzUwMDAwMDE4MWY3ODliYWQ1`
+Snapshot ID: `MTY1ODQ0MzM5MCwwMDAwMDA2MjAwMDAwMTgyMjJlZGRmNzYwMDAwMDE4MjE2ZGI1ZjY2`

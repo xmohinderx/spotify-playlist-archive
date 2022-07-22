@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Transcender",
+        "url": "https://open.spotify.com/album/1R5mqyeqYiu8OJPPtrJK4g"
+      },
+      "artists": [
+        {
+          "name": "Hevvy x Fukk",
+          "url": "https://open.spotify.com/artist/4oKS5QR0v9JXTP3oG78WpJ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "90's",
+      "url": "https://open.spotify.com/track/22WUmpJytsQQzzlM6A1fPb"
+    },
+    {
+      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5vbXuxtOKdySOWQ3kYWy7g"
       },
@@ -99,6 +117,64 @@
       "duration_ms": 227878,
       "name": "Chega[te]",
       "url": "https://open.spotify.com/track/0Izlsu3vlDQK6gWw9u0oKK"
+    },
+    {
+      "album": {
+        "name": "Ciente Tamb\u00e9m Ama",
+        "url": "https://open.spotify.com/album/4Vnwf8KlNEQ0Qc5bQvHoMD"
+      },
+      "artists": [
+        {
+          "name": "De Pica",
+          "url": "https://open.spotify.com/artist/6ngOs0NUUxorYVYiFcKTf4"
+        },
+        {
+          "name": "D\u00e9lcio Huambo",
+          "url": "https://open.spotify.com/artist/4hWydjsWgXGviFZ5jhj3pZ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186435,
+      "name": "Ciente Tamb\u00e9m Ama",
+      "url": "https://open.spotify.com/track/2lLC9Etz8TEtISitLef46t"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1ssico",
+        "url": "https://open.spotify.com/album/5PGfV3MQSTbUY7DBSNBlHr"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107027,
+      "name": "Cl\u00e1ssico",
+      "url": "https://open.spotify.com/track/00FA5qLAduehX0S079Zsd7"
+    },
+    {
+      "album": {
+        "name": "Confiss\u00f5es da Madrugada",
+        "url": "https://open.spotify.com/album/4AXzZlYoh1iwfsEzJN81aS"
+      },
+      "artists": [
+        {
+          "name": "Cabo",
+          "url": "https://open.spotify.com/artist/1qdZozQ0iarVm0ezFEHGex"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194743,
+      "name": "Confiss\u00f5es da Madrugada",
+      "url": "https://open.spotify.com/track/3ujxwka3Rc2i4roYkFUMzp"
     },
     {
       "album": {
@@ -357,7 +433,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 219792,
       "name": "Essa Vida \u00e9 Louca",
       "url": "https://open.spotify.com/track/5hzf5KBjznLeEgSlsYqpRi"
@@ -419,7 +495,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 174451,
       "name": "Fakes",
       "url": "https://open.spotify.com/track/1DyU5WQzWtsoRtRs36IUjq"
@@ -441,7 +517,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 148407,
       "name": "Foco",
       "url": "https://open.spotify.com/track/72IV8QKu4loZdsyXXsAwIw"
@@ -601,10 +677,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 240000,
       "name": "Hoje",
       "url": "https://open.spotify.com/track/5x8a7Isl62D93GM1CRv5TP"
+    },
+    {
+      "album": {
+        "name": "Insanus",
+        "url": "https://open.spotify.com/album/0AshDpfAYKEMRADbVPZM79"
+      },
+      "artists": [
+        {
+          "name": "Escriba",
+          "url": "https://open.spotify.com/artist/5cuFpe5IkDDWeYMXBmamTP"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Insanus",
+      "url": "https://open.spotify.com/track/3xOhQoNyy1BYdCk6A9SO9W"
     },
     {
       "album": {
@@ -677,7 +771,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 138919,
       "name": "Lacrimosa Freestyle",
       "url": "https://open.spotify.com/track/3blIYjyL86qWr160Gl4tY1"
@@ -731,7 +825,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 164776,
       "name": "M I A",
       "url": "https://open.spotify.com/track/1EGYWrS4XM2MFLDiZmnTHf"
@@ -928,6 +1022,28 @@
     },
     {
       "album": {
+        "name": "No Face No Case",
+        "url": "https://open.spotify.com/album/6KnPkhcYCMkmAdApUIPXyU"
+      },
+      "artists": [
+        {
+          "name": "Kibigunz",
+          "url": "https://open.spotify.com/artist/0uThDxq2sjMkFsMP4KzeVt"
+        },
+        {
+          "name": "Lords",
+          "url": "https://open.spotify.com/artist/3Ls0CO5taRH8tLC0HwH4Ia"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222392,
+      "name": "No Face No Case",
+      "url": "https://open.spotify.com/track/7bDxUJRoLWD0U2MtgRCGld"
+    },
+    {
+      "album": {
         "name": "Nos e Cabral",
         "url": "https://open.spotify.com/album/0qFujDd5ZZezD27eSJjJUz"
       },
@@ -1102,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Ping Pong",
+        "url": "https://open.spotify.com/album/4fQ4XCMDohaE5BYJVMJojV"
+      },
+      "artists": [
+        {
+          "name": "Niiko",
+          "url": "https://open.spotify.com/artist/66JOMNQbVDHdySU2suPfxK"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238367,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/2c5ffZzmLQYzDshrWKdj5E"
+    },
+    {
+      "album": {
         "name": "Pre\u00e7o Certo",
         "url": "https://open.spotify.com/album/2BGx8NF6cixk80Kc4RbNqV"
       },
@@ -1273,7 +1407,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 178154,
       "name": "Sempre Fui Leal",
       "url": "https://open.spotify.com/track/6G7VvGHnosjY3sGWXNfpdh"
@@ -1363,7 +1497,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 154128,
       "name": "Switch Sides",
       "url": "https://open.spotify.com/track/4Ye6QX7ZfkLM5wDnvFhqYu"
@@ -1385,7 +1519,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 211312,
       "name": "Ta Tudo Bem",
       "url": "https://open.spotify.com/track/585pBfxDw023RWkMni2KmJ"
@@ -1411,6 +1545,24 @@
       "duration_ms": 152766,
       "name": "Tao Dar Bandeira",
       "url": "https://open.spotify.com/track/1udzRBwHBWYiWmwryLa59X"
+    },
+    {
+      "album": {
+        "name": "Trap de Bunda",
+        "url": "https://open.spotify.com/album/5ZMwGtY4KQou2MhwwZSPKq"
+      },
+      "artists": [
+        {
+          "name": "Ge Nunes",
+          "url": "https://open.spotify.com/artist/3Fld6S2obQAqXJlMetQMja"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Trap de Bunda",
+      "url": "https://open.spotify.com/track/2fSSi2H4UuskMy58FowaWj"
     },
     {
       "album": {
@@ -1447,7 +1599,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 181675,
       "name": "T\u00e1 Tudo Fixe",
       "url": "https://open.spotify.com/track/16V1tpqSJZvz2GLMmFK6SK"
@@ -1505,10 +1657,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 135101,
       "name": "We Go",
       "url": "https://open.spotify.com/track/6msG1xV3gfepRRiicrnAwa"
+    },
+    {
+      "album": {
+        "name": "Honestamente",
+        "url": "https://open.spotify.com/album/4KcbXbCYk5kINfOUI76uFm"
+      },
+      "artists": [
+        {
+          "name": "Nilton CM",
+          "url": "https://open.spotify.com/artist/4konJYmhNGaurONrcE9JMp"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197523,
+      "name": "Welele",
+      "url": "https://open.spotify.com/track/3whct7sAj8gHwQj5rNim9L"
     },
     {
       "album": {

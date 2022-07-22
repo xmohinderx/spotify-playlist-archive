@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: fromis\_9\(프로미스나인\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,626 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,630 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

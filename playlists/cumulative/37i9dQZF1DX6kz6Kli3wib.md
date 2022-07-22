@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-206 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
+207 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [beslow](https://open.spotify.com/track/07QmUmO6lJaMGr6jKCekXl) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [beslow](https://open.spotify.com/album/2zs9DYVAe53LBaoWzRzAQr) | 3:46 | 2022-07-08 |  |
 | [Best of Luck](https://open.spotify.com/track/1qmbbOdAxdHuyxT3YU5jCh) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Best of Luck](https://open.spotify.com/album/2H031CDVjncr8LcOEFRGD5) | 2:51 | 2022-01-21 |  |
 | [Bibaa](https://open.spotify.com/track/1Vh0lvwArznG7Y67uUFlBJ) | [Eye Tide](https://open.spotify.com/artist/1jEP1ZVf7FIRHLof2S0j48) | [Aston Villa](https://open.spotify.com/album/3ZmT16JHQLpKeTMw4CfPFO) | 3:37 | 2022-01-21 |  |
-| [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 | 2021-11-11 |  |
+| [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 | 2021-11-11 | 2022-07-22 |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2021-11-11 |  |
 | [Blueprint](https://open.spotify.com/track/7uNrNo3FwnPZm9aiu64oIN) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Blueprint](https://open.spotify.com/album/7guXjhFT5d6v5EIcgXlkL7) | 3:18 | 2021-11-11 | 2022-05-11 |
 | [Bogota](https://open.spotify.com/track/17mpv8NkdfBdmMrIZNVpOI) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [11 Out Of 10](https://open.spotify.com/album/5rl2ZreYI27Q69KNI77yBV) | 3:35 | 2022-06-17 |  |
@@ -169,7 +169,7 @@
 | [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 | 2021-11-11 | 2022-07-01 |
 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 | 2021-11-11 | 2022-01-22 |
 | [Spectra](https://open.spotify.com/track/2MFkg5GzZyRZKnVi3CciBw) | [Oh Lascar](https://open.spotify.com/artist/74qLRIl7rBXBWAzk0CMOYe) | [Spectra](https://open.spotify.com/album/23SmT1r0p9WuQM0FzDjvBW) | 2:33 | 2021-11-11 | 2022-05-11 |
-| [Spectrum](https://open.spotify.com/track/3IDdpuIzrtWQqP2kT5r1Iq) | [Wael](https://open.spotify.com/artist/5yLU77HGlLwIOkuqsxctrp) | [Spectrum](https://open.spotify.com/album/32qSgni58sL6LGoELPUia1) | 3:04 | 2021-11-11 |  |
+| [Spectrum](https://open.spotify.com/track/3IDdpuIzrtWQqP2kT5r1Iq) | [Wael](https://open.spotify.com/artist/5yLU77HGlLwIOkuqsxctrp) | [Spectrum](https://open.spotify.com/album/32qSgni58sL6LGoELPUia1) | 3:04 | 2021-11-11 | 2022-07-22 |
 | [Spirit Lovers](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil) | [Snowman vs](https://open.spotify.com/artist/0YPrHloQKCZTqyxG4fFAuv) | [Spirit Lovers](https://open.spotify.com/album/6P9OnTlNLSvIlHHyDMRrkn) | 2:11 | 2021-11-11 | 2022-04-15 |
 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2021-11-11 | 2022-02-11 |
 | [Steek](https://open.spotify.com/track/0tmfkSrjCbV7fOUPEDznhP) | [Movistar](https://open.spotify.com/artist/0QJCy3yneN39i7ZSdoqcrP) | [Aquarelle](https://open.spotify.com/album/6cCkiXerbNIJNbbGJuvsPA) | 1:52 | 2022-01-21 |  |
@@ -179,6 +179,7 @@
 | [Summertime Love](https://open.spotify.com/track/2h1OAlUkaqGlUdiCsfWy0P) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Summertime Love](https://open.spotify.com/album/0LcN6YlgfKqBqvdpB29JNM) | 3:20 | 2021-11-11 |  |
 | [Sun Glitches](https://open.spotify.com/track/4J9HHafhgC42Dm18pJUIQo) | [Dream Lanterns](https://open.spotify.com/artist/4gpy3xS2i5lM4Yopidaimg) | [Sun Glitches](https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h) | 4:01 | 2021-11-11 | 2022-02-11 |
 | [sunique](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [sunique](https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH) | 3:08 | 2021-11-11 |  |
+| [Sunny Days](https://open.spotify.com/track/5sMoxo9DZqEkDbt13nS9Wi) | [GIM GAM](https://open.spotify.com/artist/6l3713Vu1NzSyc18FhDN8Y) | [Sunny Days](https://open.spotify.com/album/6lid2BG9r2esUAkjLAH5y4) | 4:42 | 2022-07-22 |  |
 | [Sunny Daze](https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Sunny Daze](https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI) | 1:57 | 2022-05-10 |  |
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2021-11-11 |  |
 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 | 2021-11-11 | 2022-04-06 |

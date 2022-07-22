@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: JOPLYN
 
-114 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+116 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Can't Take This Silence](https://open.spotify.com/track/1IihN2MXusofF69y5OCDNP) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Rose](https://open.spotify.com/album/51EEO2MvJmchRb0b4V9Ii7) | 4:08 | 2021-12-16 | 2022-03-18 |
 | [Cigarette](https://open.spotify.com/track/5Brzg5PdxEwUbwfS2looQf) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Cigarette](https://open.spotify.com/album/4cVguILaTeTnjfcMhJx2Mz) | 3:18 | 2021-12-16 | 2022-04-08 |
 | [Confession](https://open.spotify.com/track/3SV6D7J2G3LUxhuybgHJg4) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Confession](https://open.spotify.com/album/6xg0GJEU0lf60zcSdsjCel) | 3:09 | 2022-06-30 |  |
+| [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-21 |  |
 | [Daywalker](https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE](https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab) | 2:05 | 2022-03-24 | 2022-06-10 |
 | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/album/5WAnIlIOyTf5VJwMqB8DxF) | 2:23 | 2021-12-16 |  |
 | [Dies & Das](https://open.spotify.com/track/5GzBVGr752l5qcGo2ZBNoS) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [Dies & Das](https://open.spotify.com/album/3w25lpXTAf001nxzF9nBPI) | 2:19 | 2021-12-16 | 2022-03-25 |
@@ -53,9 +54,10 @@
 | [Hope](https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [The Pictures](https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1) | 7:28 | 2021-12-16 | 2022-05-20 |
 | [Hotel](https://open.spotify.com/track/3Ldae7O6YMFE7vxlTNocdQ) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Hotel](https://open.spotify.com/album/1naWv2unZPzXPa3UdQIdAb) | 2:43 | 2021-12-16 | 2022-07-15 |
 | [I See Love](https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Push Life](https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4) | 2:45 | 2022-03-31 |  |
-| [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-01-20 |  |
+| [I WANT TO BELIEVE](https://open.spotify.com/track/5FnDOZasaYRMDDuZQcds89) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WANT TO BELIEVE](https://open.spotify.com/album/1s9vPDAguhv8C237XokkMS) | 5:20 | 2022-07-21 |  |
+| [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-01-20 | 2022-07-22 |
 | [I Would Be Rich](https://open.spotify.com/track/0voEoD86osCqSZm6YnX41Q) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [I Would Be Rich](https://open.spotify.com/album/1hgaD8ZBdht7nSTHZ1RKdt) | 3:51 | 2022-05-05 |  |
-| [I'M A LITTLE](https://open.spotify.com/track/36lARxuQqwXnvALPNeVjtK) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [I'M A LITTLE](https://open.spotify.com/album/5zCcIO7yJLAznBPxohaZzb) | 2:38 | 2021-12-16 |  |
+| [I'M A LITTLE](https://open.spotify.com/track/36lARxuQqwXnvALPNeVjtK) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [I'M A LITTLE](https://open.spotify.com/album/5zCcIO7yJLAznBPxohaZzb) | 2:38 | 2021-12-16 | 2022-07-22 |
 | [I'm Boring](https://open.spotify.com/track/40Xc96R5OS3s0zacs6wPte) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [I'm Boring](https://open.spotify.com/album/2UPFVcOuNlf2Yl3C6LDxpO) | 3:20 | 2021-12-16 |  |
 | [Ich wünschte, du wärst verloren](https://open.spotify.com/track/40eThGfQt1VehllIdIsQdr) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Ich wünschte, du wärst verloren](https://open.spotify.com/album/79H3xVO9RldV3NOFMHR3ui) | 2:40 | 2021-12-16 | 2022-02-04 |
 | [iClout \(feat\. EARTHGANG\)](https://open.spotify.com/track/61dvMPhVqB2iWGHQU6BjyK) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Digital Tears](https://open.spotify.com/album/6dEZTAWhslVOPZc3SU18oD) | 4:22 | 2021-12-16 | 2022-07-01 |
@@ -81,7 +83,7 @@
 | [Neues Geld](https://open.spotify.com/track/0ohdHACL1eACasCxA1UXa8) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Neues Geld](https://open.spotify.com/album/7tqHzLMSERvb6cs6aOzLPz) | 2:28 | 2022-05-12 |  |
 | [New 68](https://open.spotify.com/track/5hMIBsn64hajBIKbFJAsf6) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [New 68](https://open.spotify.com/album/0R1JPqXUR7sXSq67zGMRqO) | 3:30 | 2021-12-16 | 2022-05-20 |
 | [New Era](https://open.spotify.com/track/3qhW02v4Yo6d5lPhxE6iZb) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [New Era EP](https://open.spotify.com/album/49LqNtUITrajPTnpwyC8tA) | 3:41 | 2021-12-16 | 2022-04-08 |
-| [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 |  |
+| [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 | 2022-07-22 |
 | [Nothing to Me](https://open.spotify.com/track/2pVZpUlgPZSSfTP9nFs6kn) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Nothing to Me](https://open.spotify.com/album/7fiGgJfGWFRGHmNil6Wg7x) | 3:13 | 2022-04-14 |  |
 | [Okay](https://open.spotify.com/track/15aRDEzbB28Sn1Dp2gBG9x) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Okay](https://open.spotify.com/album/4N1IM89g7pW1RuI6rJRe6N) | 3:04 | 2021-12-16 | 2022-04-08 |
 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 | 2021-12-16 |  |

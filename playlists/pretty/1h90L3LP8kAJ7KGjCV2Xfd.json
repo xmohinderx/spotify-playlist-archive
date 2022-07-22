@@ -1,12 +1,12 @@
 {
   "description": "Need a musical pick-me-up? Boost that serotonin with these timeless jams.",
-  "num_followers": 313571,
+  "num_followers": 313538,
   "original_name": "Happy Songs",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzA3Myw3MGZkNGY4ZTdhZGFlOWVhZTZkOWFiMDZkYzgwMjFlN2Q4MTZjYjM2",
+  "snapshot_id": "MzA3NSwxMDJiOTAzY2I0ODM2MDVkNzQwMmIxN2RkYzBmMGQxZDY3MmM3NmU2",
   "tracks": [
     {
       "added_at": "2022-07-15 13:28:38",
@@ -2243,6 +2243,46 @@
       "duration_ms": 220550,
       "name": "Blur",
       "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
+    },
+    {
+      "added_at": "2022-07-21 20:00:49",
+      "album": {
+        "name": "true american (feat. Kyle Lux)",
+        "url": "https://open.spotify.com/album/3ZE1urLrVTsuB8KZXq6RAe"
+      },
+      "artists": [
+        {
+          "name": "Sally Boy",
+          "url": "https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf"
+        },
+        {
+          "name": "Kyle Lux",
+          "url": "https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR"
+        }
+      ],
+      "duration_ms": 171071,
+      "name": "true american (feat. Kyle Lux)",
+      "url": "https://open.spotify.com/track/0ceYW8uhnTOywJRp68iaq2"
+    },
+    {
+      "added_at": "2022-07-21 20:01:58",
+      "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Plut\u00f3n",
+      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
     }
   ],
   "unique_name": "Happy Songs",

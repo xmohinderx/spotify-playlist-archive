@@ -4,7 +4,7 @@
 
 > 8/14\(日\)<a href="https://www.promax.co.jp/studiochizu\-inconcert/">オーケストラコンサート</a>初開催！「スタジオ地図」作品の音楽をひとつのプレイリストに。/Music from Studio Chizu's movies\. ©︎2021 スタジオ地図　©︎STUDIO CHIZU
 
-80 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/5sJWhFREn8Q7NkTPxPZzau)
+81 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/5sJWhFREn8Q7NkTPxPZzau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Waggle Dance](https://open.spotify.com/track/4RotFoHvawIXjm4eOjjyeu) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [未来のミライ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0Bzynwzh2hAuMo6jGDqjDK) | 2:32 | 2022-06-07 |  |
 | [Water Memory](https://open.spotify.com/track/7dw4hzi3JI1o31P9wP0vgT) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [未来のミライ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0Bzynwzh2hAuMo6jGDqjDK) | 2:17 | 2022-06-07 |  |
 | [あなたはわたしの美しいうた](https://open.spotify.com/track/0oJq8zJ4QGLuGhA9dmNYGe) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 1:44 | 2022-06-07 |  |
-| [おかあさんの唄](https://open.spotify.com/track/1gVTdOxH4lX3pxxCBUBptO) | [アン・サリー 高木正勝](https://open.spotify.com/artist/4CxFMuCdAmjbWVnreCKSbq) | [おかあさんの唄](https://open.spotify.com/album/2tGsVcTXKMzZS6rp8MY8U4) | 5:13 | 2022-06-07 |  |
+| [おかあさんの唄](https://open.spotify.com/track/2USSpajtsB7portlqYcDM4) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 5:10 | 2022-07-21 |  |
+| [おかあさんの唄](https://open.spotify.com/track/1gVTdOxH4lX3pxxCBUBptO) | [アン・サリー 高木正勝](https://open.spotify.com/artist/4CxFMuCdAmjbWVnreCKSbq) | [おかあさんの唄](https://open.spotify.com/album/2tGsVcTXKMzZS6rp8MY8U4) | 5:13 | 2022-06-07 | 2022-07-22 |
 | [からくり時計\~タイムリープ](https://open.spotify.com/track/4CYFlYOE4RmAWMF2sj4IOD) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 0:51 | 2022-06-07 |  |
 | [きときと \- 四本足の踊り](https://open.spotify.com/track/3Nyer1apbOxctPn255nPAR) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 2:08 | 2022-06-07 |  |
 | [そらつつみ](https://open.spotify.com/track/02azBvvCDsRZeTomc5U7Y6) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 4:26 | 2022-06-07 |  |

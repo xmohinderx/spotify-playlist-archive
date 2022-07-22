@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-163 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
+165 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/1h90KBYEpVefz7oqZbpYFx) | 1:39 | 2022-05-13 |  |
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2022-05-13 |  |
 | [Isaar im Mondschein](https://open.spotify.com/track/0wyxPRiJzaNkJ3KmiqXaQq) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Frühlings Erwachen](https://open.spotify.com/album/2qUMNFnnZUzoyQbYo3jvWc) | 3:41 | 2022-05-13 |  |
+| [Jasmine Spring](https://open.spotify.com/track/0rvAQQgVhaUsbl9oF4pmlQ) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Jasmine Spring](https://open.spotify.com/album/5jTFUQwgbtF73qI3Qky9sF) | 2:26 | 2022-07-22 |  |
 | [Journey Home](https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Journey Home](https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh) | 3:08 | 2022-05-13 |  |
 | [Kind & Generous](https://open.spotify.com/track/5OM5dE5QyrXSAHDiNELsta) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Kind & Generous](https://open.spotify.com/album/0RYH3vRRJP2wY0IZnhxg8R) | 3:21 | 2022-05-13 |  |
 | [Kona](https://open.spotify.com/track/4IQGeqgbynF5wW1AfwsvUN) | [Frederick Fried](https://open.spotify.com/artist/4c38lToOvTzqQJCfS1uNtx) | [Kona](https://open.spotify.com/album/2qaqZMgv6yVLC6XOO5hka9) | 2:59 | 2022-05-13 |  |
@@ -110,7 +111,7 @@
 | [Maleável](https://open.spotify.com/track/7oEpVZNFL99pAm9im2ddyl) | [Isabela Aurora](https://open.spotify.com/artist/7kIxjI1vgyk83H3494t0Uv) | [Maleável](https://open.spotify.com/album/3uQUPpvku3dUgBTtjmiFpb) | 2:43 | 2022-05-13 |  |
 | [Malgré le néant](https://open.spotify.com/track/5V03ziQJGHaoAJcfPIYWWZ) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Malgré le néant](https://open.spotify.com/album/325mLRmxCCHqycSkCCvOL5) | 2:46 | 2022-05-13 |  |
 | [Masodik](https://open.spotify.com/track/3K6esDtEDOfx9boe94z0Y2) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Masodik](https://open.spotify.com/album/1mImGcb3xJHoHFc9VmXT0I) | 3:07 | 2022-05-13 |  |
-| [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 |  |
+| [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 | 2022-07-22 |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-07-08 |
 | [Minor Moments](https://open.spotify.com/track/5GWcVFVzwT4nJ1Ji1Fpjpm) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [Minor Moments](https://open.spotify.com/album/5amFPb8CfOuotX2lUhrTiq) | 3:01 | 2022-05-13 |  |
 | [Mulholland Drive](https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mulholland Drive](https://open.spotify.com/album/5KzdfPbNX3oTV87uK4Ownn) | 1:57 | 2022-05-13 |  |
@@ -138,7 +139,7 @@
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-05-13 |  |
 | [Spinning](https://open.spotify.com/track/4tFdMgQKqe72jfD6W4t2bO) | [Esbjörn Öhrwall](https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz) | [Spinning](https://open.spotify.com/album/2xMh235QkHAAwy0mrKQLHY) | 1:39 | 2022-06-24 |  |
 | [Spring in My Head](https://open.spotify.com/track/2ShkVH82dSGhlNP1PRMvaT) | [Nesima](https://open.spotify.com/artist/530XbBVaksvDN09nLsbwER) | [Spring in My Head](https://open.spotify.com/album/1C9NbVsvBeLOD46KO0H3sz) | 2:08 | 2022-05-13 |  |
-| [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2022-05-13 |  |
+| [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2022-05-13 | 2022-07-22 |
 | [Stream](https://open.spotify.com/track/0iQJKde2ceeY5iu7zX4b6s) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Stream](https://open.spotify.com/album/4r9WzvRUBLaFP6qep8wHPE) | 2:41 | 2022-05-13 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-05-13 |  |
 | [Sunrise Murmur](https://open.spotify.com/track/1kJApkWnDkH6wgjApxlIcK) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [A Slow Winding Road](https://open.spotify.com/album/2T141nerYqMwPqgCgJk71E) | 3:13 | 2022-05-13 |  |
@@ -149,7 +150,8 @@
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2022-05-13 |  |
 | [The Long And Winding Road](https://open.spotify.com/track/1txWPldboDI7OkZ5TJGt6h) | [Osvaldo Di Dio](https://open.spotify.com/artist/6p8n2sv9gmOFxQ7Qa0kXTP) | [The Long And Winding Road](https://open.spotify.com/album/0Nkr6bSskmyBqFhp1jFX1M) | 3:31 | 2022-05-13 |  |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-05-13 |  |
-| [The World I Know](https://open.spotify.com/track/6Qhm9iLcnWobCaADrkQglm) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [The World I Know](https://open.spotify.com/album/03SRta9Ckxxj0VMfPoguTP) | 3:18 | 2022-05-13 |  |
+| [The Strength to Carry You \(Folk Reprise\)](https://open.spotify.com/track/6cDuAyEAEQxyPlrjyGcgCC) | [Nathaniel Graham](https://open.spotify.com/artist/5bCzc1u7UY31AXdmazsWQN) | [The Strength to Carry You \(Folk Reprise\)](https://open.spotify.com/album/4UDjTSeWJoZJfFBpuJSyQT) | 2:25 | 2022-07-22 |  |
+| [The World I Know](https://open.spotify.com/track/6Qhm9iLcnWobCaADrkQglm) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [The World I Know](https://open.spotify.com/album/03SRta9Ckxxj0VMfPoguTP) | 3:18 | 2022-05-13 | 2022-07-22 |
 | [Thoughts](https://open.spotify.com/track/7HfFKtI0a6u8l4XE9QetHy) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Thoughts](https://open.spotify.com/album/58Tn036XqbSSbwRkgPfzoO) | 3:16 | 2022-05-13 |  |
 | [Tiempo](https://open.spotify.com/track/37KV1ID8tckB2ntQ6fYoDy) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Anteayer](https://open.spotify.com/album/06xdDcNCj4pbl4pQC6A4S6) | 2:49 | 2022-05-13 |  |
 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2022-05-13 |  |

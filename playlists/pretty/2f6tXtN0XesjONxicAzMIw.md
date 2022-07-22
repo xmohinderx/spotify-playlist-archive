@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 
 > The biggest 00s hits from Avril Lavigne, Sean Kingston, Usher, Shakira, Pussycat Dolls, and more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,604,415 likes - 106 songs - 6 hr 51 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,604,492 likes - 106 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

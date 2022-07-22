@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Martina May, Kuban
 
-146 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+148 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Rasoi](https://open.spotify.com/track/3zLbiZec8UhHGVue0K1mGy) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Rasoi](https://open.spotify.com/album/5enFPWsnL5gj4q66wPrWXf) | 3:24 | 2022-07-14 |  |
 | [Repubblica](https://open.spotify.com/track/6eIPv0RqhVJiExImD71D97) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [DIVISO DUE](https://open.spotify.com/album/109751QGcD8dQsdnYnKNck) | 3:11 | 2022-05-12 |  |
 | [Respirare](https://open.spotify.com/track/5Oi2WD7QCm7QauxSCfkCla) | [Laneve](https://open.spotify.com/artist/209NYhApPminvhVIZskYFF), [SANTO BLUE](https://open.spotify.com/artist/5sV954iubTAhghPdzITK5v) | [Neve Nostalgia](https://open.spotify.com/album/5v1omc0DtCHJu8lQKdt0tK) | 2:53 | 2022-05-05 |  |
+| [ROOM 23](https://open.spotify.com/track/196D8eiQplLX4y0qnLzaDu) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Dnvr](https://open.spotify.com/artist/1n0CqqaVfCYalfX1VOr940) | [ROOM 23](https://open.spotify.com/album/09hhhTqVQsKDqipq33eExA) | 2:46 | 2022-07-21 |  |
 | [Rotterdam](https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Rotterdam](https://open.spotify.com/album/5Hh1Yp8l8vZNDaNGS5mAco) | 3:17 | 2022-05-05 |  |
 | [Salvami](https://open.spotify.com/track/3VhkiNXHfpBD2WwYdtM8iO) | [Yorker](https://open.spotify.com/artist/1DAM0oVo9LsvwegJRT6vI1), [Raphael Gualazzi](https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA) | [Una](https://open.spotify.com/album/79rdrnA3UclScuwb84ftLX) | 3:18 | 2022-07-14 |  |
 | [Se chiedo alla luna](https://open.spotify.com/track/2Tk5njSvMXVc8cHpY9FGOy) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [Se chiedo alla luna](https://open.spotify.com/album/5lom3OWxoJbpyMC2CCWKbw) | 3:05 | 2022-06-16 |  |
@@ -134,6 +135,7 @@
 | [Stavolta](https://open.spotify.com/track/0y9C4eT0lKJ0UWUtfrK6FR) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Stavolta](https://open.spotify.com/album/10ztXShbbY1hSbQm32UwrS) | 3:54 | 2022-07-07 |  |
 | [Stormi](https://open.spotify.com/track/0PUo4n2UQlevX5nFfxSAgU) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Stormi](https://open.spotify.com/album/6lMCnq8ZNV1BNE4fAtNGpd) | 2:51 | 2022-05-05 | 2022-05-27 |
 | [Sul fondo](https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Sul fondo](https://open.spotify.com/album/2MKGwFKpeTYvcCqbUtwLzo) | 2:50 | 2022-05-05 |  |
+| [Sulo pe te vedè](https://open.spotify.com/track/25YUs1frcMSOvlucgmN8oc) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [Tarantelle \- EP](https://open.spotify.com/album/7BcMHLMHfQ2Lm4VnsaByf8) | 2:54 | 2022-07-21 |  |
 | [Sunflower](https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Sunflower](https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21) | 3:22 | 2022-07-07 |  |
 | [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 2:17 | 2022-07-14 |  |
 | [Tabasco](https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Tabasco](https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe) | 2:24 | 2022-06-16 |  |

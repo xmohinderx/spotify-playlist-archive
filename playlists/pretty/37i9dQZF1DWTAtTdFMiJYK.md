@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Himonshu Parikh
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,962 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,013 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Kaagaz Ki Naav](https://open.spotify.com/track/0VsdGpccIWa7h8sYZmaO0G) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Kaagaz Ki Naav](https://open.spotify.com/album/6T7enWmASSVnmlkK7UurGu) | 4:57 |
 | 75 | [Roothe Saiyaan](https://open.spotify.com/track/6Y22M2lBDpfk1GEGYrsVrn) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI) | [Roothe Saiyaan](https://open.spotify.com/album/4BfsyCJjVYQc8G3ZKDW5KN) | 2:58 |
 
-Snapshot ID: `MTY1ODM2NTYxOCwwMDAwMDAwMDA2MzdiOTcxOTU2NTk4YzIxMGQ1ODEyN2QyZWU1NzYy`
+Snapshot ID: `MTY1ODQ1MjIzMiwwMDAwMDAwMDA2MzdiOTcxOTU2NTk4YzIxMGQ1ODEyN2QyZWU1NzYy`

@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist.
 
-212 songs - 14 hr 36 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+213 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Negative Vibes](https://open.spotify.com/track/0B0lt6ie2Q9Vv0BJayFbKN) | [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [Babelsberg](https://open.spotify.com/album/0v6Lagogc0mVWvcyiDizXS) | 5:15 | 2020-08-30 | 2020-09-11 |
 | [Never Grow Old \- Live at New Missionary Baptist Church, Los Angeles, CA, 01/13/72](https://open.spotify.com/track/0aRrC0fJzS8aWJgjNELnKl) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Amazing Grace \(Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72\)](https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0) | 9:57 | 2020-08-30 | 2020-09-11 |
 | [New Love](https://open.spotify.com/track/0Fv37Teb9CoZwlvWojwsa9) | [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Maria Taylor](https://open.spotify.com/album/46yJ5yYiR7au7xFVhRVVcW) | 2:40 | 2020-08-30 | 2020-09-11 |
-| [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 | 2020-03-07 |  |
+| [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 | 2020-03-07 | 2022-07-22 |
 | [Night Shift](https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/01GO03odsNlNLtvNETukWT) | 6:31 | 2019-09-29\* |  |
 | [Old Man Rver](https://open.spotify.com/track/1MhfBrvXYinRzCpum6krPh) | [The Ravens](https://open.spotify.com/artist/4M3DAApROQAuDojXHNwNgn) | [Old Man River](https://open.spotify.com/album/0JpvBa3on2EFywTYZfxqXq) | 2:59 | 2020-08-30 | 2020-09-11 |
 | [Only One](https://open.spotify.com/track/6hMRRCZXeV5Gg8345Z5P0M) | [BLANc](https://open.spotify.com/artist/6QNWNk7eGH8Akg83QSD2PL) | [Only One](https://open.spotify.com/album/7LO1I1tsj2ih7elmShTgrA) | 3:08 | 2019-09-29\* | 2020-03-21 |
@@ -194,6 +194,7 @@
 | [Tomb](https://open.spotify.com/track/6ZYy5Z5E03reWlt3hZuvXn) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/5OaRF9FbwGlSeAO5QZBBOa) | 4:18 | 2019-09-29\* |  |
 | [Touch](https://open.spotify.com/track/1VXm7mZBHT9PYav9LGWQlQ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/1DBhAwtUFlYxCI5U4NQI6i) | 4:52 | 2019-10-26 |  |
 | [Trouble In Mind](https://open.spotify.com/track/6lBgS6zFG9SwtsFG0Og1uV) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Here He Comes Again!](https://open.spotify.com/album/5z8pAIltT7S7aH4r4Tpq2d) | 2:32 | 2020-08-30 | 2020-09-11 |
+| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-21 |  |
 | [Twilight](https://open.spotify.com/track/5YoR2agiVdBpuAuW9PvgKD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:29 | 2022-07-15 |  |
 | [Two Weeks Since You've Gone](https://open.spotify.com/track/5ljpyeiIsS4jox4B0CiJb6) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 2:44 | 2020-08-30 | 2020-09-11 |
 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 | 2020-07-01 | 2022-05-03 |

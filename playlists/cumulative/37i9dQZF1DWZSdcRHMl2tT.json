@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 169726,
       "name": "All Now",
       "url": "https://open.spotify.com/track/7AfAtvY4rhcRAnFOtvqiPU"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 443359,
       "name": "Girl, Forever - 2022 Remaster",
       "url": "https://open.spotify.com/track/55Glw2TNFjoVUUdm69Wb06"
@@ -1511,7 +1511,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 215048,
       "name": "Grace Bay",
       "url": "https://open.spotify.com/track/6UBVHuWOmLg7bqnEatxTi9"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 120346,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/1V5mD0lc4OosW8EGqpM6YO"
@@ -2804,6 +2804,24 @@
     },
     {
       "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/4xgDVe0RqOtwegdGP21AFR"
+      },
+      "artists": [
+        {
+          "name": "Urban Curls",
+          "url": "https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175261,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie"
+    },
+    {
+      "album": {
         "name": "Pinkland",
         "url": "https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat"
       },
@@ -2815,7 +2833,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 329467,
       "name": "Pinkland",
       "url": "https://open.spotify.com/track/3NrEA3JQTvVFfy6BMPy8EH"
@@ -2855,6 +2873,24 @@
       "duration_ms": 175714,
       "name": "Play It Deep",
       "url": "https://open.spotify.com/track/7CMPSvxS4twJI3a7RYOC6j"
+    },
+    {
+      "album": {
+        "name": "Poolside",
+        "url": "https://open.spotify.com/album/6ZNvoxhhS4FY1nTZg1OpAj"
+      },
+      "artists": [
+        {
+          "name": "Lil Harry",
+          "url": "https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174204,
+      "name": "Poolside",
+      "url": "https://open.spotify.com/track/7MwdpC8XHqrQuk8PZS0H7t"
     },
     {
       "album": {
@@ -2923,7 +2959,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 208000,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/2zRtUmBC6pfK7R2yNzXHZc"
@@ -3085,7 +3121,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 213288,
       "name": "Right Days",
       "url": "https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp"
@@ -3255,7 +3291,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 226383,
       "name": "Sea To Sky - Parra For Cuva Remix",
       "url": "https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt"
@@ -3435,7 +3471,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 151016,
       "name": "Slippery Slope",
       "url": "https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg"
@@ -4069,6 +4105,24 @@
       "duration_ms": 134250,
       "name": "U Know",
       "url": "https://open.spotify.com/track/2qogVA8zkwNRF5KGWMfA8C"
+    },
+    {
+      "album": {
+        "name": "under the moon",
+        "url": "https://open.spotify.com/album/7mIKs5agQHWqo9w5bnVSEN"
+      },
+      "artists": [
+        {
+          "name": "Martin Monroi",
+          "url": "https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227142,
+      "name": "under the moon",
+      "url": "https://open.spotify.com/track/42pudwLPmQT4AnegS85Yz4"
     },
     {
       "album": {

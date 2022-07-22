@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,304 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,347 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 44 | [Beyond The Speed Of...](https://open.spotify.com/track/1IoUoCp4xfIHq8Xa0eJCBI) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3) | [Sonic Runners Original Soundtrack \(Vol.1\)](https://open.spotify.com/album/0i2rnD26QC9Aj6INEs0DHI) | 3:31 |
 | 45 | [Dreams Dreams](https://open.spotify.com/track/6KoBQhnhXr1zMnEgeP1RXr) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [NiGHTS into dreams..\. パーフェクトアルバム \(Vol\. 1\)](https://open.spotify.com/album/35zi7Bek6cNttCOwK7aW0V) | 5:46 |
 | 46 | [へっぽこ魔王最強伝説](https://open.spotify.com/track/60Y1SluhcxAw2oRbCCz2e3) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [ぷよぷよフィーバー1&2 サウンドトラック](https://open.spotify.com/album/2oY7oNhfnZf7MHoqQ2WI9G) | 2:30 |
-| 47 | [混沌を越えし我らが神聖なる調律主を讃えよ](https://open.spotify.com/track/5VzxuWsc2z5713gOQQXvRY) | [穴山大輔](https://open.spotify.com/artist/6cHTgEdfg5TijcfDjWQIOc) | [Observe the Metaverse](https://open.spotify.com/album/1cnWJQyWvklMD1CnAhcyK9) | 2:32 |
+| 47 | [混沌を越えし我らが神聖なる調律主を讃えよ](https://open.spotify.com/track/5VzxuWsc2z5713gOQQXvRY) | [穴山大輔](https://open.spotify.com/artist/6cHTgEdfg5TijcfDjWQIOc) | [Observe the Metaverse CHUNITHM Original Sound Track](https://open.spotify.com/album/1cnWJQyWvklMD1CnAhcyK9) | 2:32 |
 | 48 | [BOSS \[RD.1\~7 BOSS\] 【ファンタジーゾーン より】 \- セガ・マークIII版](https://open.spotify.com/track/2OHHlxCQMnwIZq1UgfBEL4) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [ファンタジーゾーン オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/3H44ivXJi8BmA2OlNuGxBd) | 1:10 |
 | 49 | [Perfect \(SDI\)](https://open.spotify.com/track/4RghwSF6G9qkMp1ZsESFjy) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SDI & カルテット SEGA SYSTEM 16 COLLECTION](https://open.spotify.com/album/2jSsCQAD2xydTXHTpYaBtB) | 0:07 |
 | 50 | [LAST WAVE \(Out Run\)](https://open.spotify.com/track/3rwlvRk2caSs3iYwVqwSXj) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [アウトラン オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/38PUHL4Ab0rky3W6Lnmp4r) | 1:31 |

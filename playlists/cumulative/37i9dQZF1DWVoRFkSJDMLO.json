@@ -2542,6 +2542,28 @@
     },
     {
       "album": {
+        "name": "Sexercise",
+        "url": "https://open.spotify.com/album/0Fs09qciesC6WZoaoaCvA3"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Sexercise",
+      "url": "https://open.spotify.com/track/320QvpFfnJkCZn5O0ftEfZ"
+    },
+    {
+      "album": {
         "name": "Sexy19",
         "url": "https://open.spotify.com/album/5ekdvIk7749sp6GEjsTPlT"
       },

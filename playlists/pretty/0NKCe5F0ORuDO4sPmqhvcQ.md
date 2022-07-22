@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,317 likes - 83 songs - 4 hr 41 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,314 likes - 95 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,17 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 81 | [Mad](https://open.spotify.com/track/7IUtD2X4mt2PMotBFM6uoL) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [AFFIRMATIONS](https://open.spotify.com/album/6qrsaSHCzscquJnDmEhs3m) | 2:44 |
 | 82 | [Like That](https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Like That](https://open.spotify.com/album/4FQ3HXhwVOTaMKVdDhYxER) | 2:30 |
 | 83 | [Oh Naur](https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Oh Naur](https://open.spotify.com/album/22puJMyQXeGW1mgiE1vw1I) | 1:18 |
+| 84 | [Sleepless](https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:20 |
+| 85 | [Soul](https://open.spotify.com/track/3hdWcjWu0FNd2wSKtxhnDd) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 1:10 |
+| 86 | [Dusk](https://open.spotify.com/track/0f0MYJ1C8IPN46v921wzFx) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:55 |
+| 87 | [Never Easy](https://open.spotify.com/track/22exPrZW0fcBOwlcA2HOhY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 3:44 |
+| 88 | [Desire](https://open.spotify.com/track/4nVU75orKPTzRsKWFE9Fh1) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MADI](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:53 |
+| 89 | [Liminal Spaces](https://open.spotify.com/track/4o46hDiC5c1ZLJ8vh9Wjee) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 1:52 |
+| 90 | [Dark Places](https://open.spotify.com/track/6I5RS743qBdKw5Uzkil6S6) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 3:55 |
+| 91 | [Devotion](https://open.spotify.com/track/7A19RHgKClfXscuuaLS7i9) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:51 |
+| 92 | [Best Part About You](https://open.spotify.com/track/3dxIrAJ1fp8c8rOscz0VLa) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:29 |
+| 93 | [Heart To The Night](https://open.spotify.com/track/3QWKVDXzHpjAoAWe1kfoxe) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 3:41 |
+| 94 | [Take Me Higher](https://open.spotify.com/track/3HiKUx9he5EtseHYyMv27L) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:43 |
+| 95 | [The End](https://open.spotify.com/track/1jcde8M1qCE1peeOMkqNyy) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 1:28 |
 
-Snapshot ID: `OTg0NixmMDU4NWRiNWQyZTllMGM4MTIyMDYyMGZhOWJhMWI2OGEyNWQ5ZTEz`
+Snapshot ID: `OTg0OCw2MTZlMmRlZGNmNzljM2ZmMjUzOTRlZmQxZGE0NWFkNmI0ZjNjNjI4`

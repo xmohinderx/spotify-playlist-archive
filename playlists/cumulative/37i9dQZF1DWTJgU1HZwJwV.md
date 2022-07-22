@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-168 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+173 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Beautiful Break](https://open.spotify.com/track/0Ni1YgxRD11jCCFhl3gDA6) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Beautiful Break](https://open.spotify.com/album/2sU8yFs9s8BXqWNSqYyvib) | 3:11 | 2022-06-17 |  |
 | [Behind The Shade](https://open.spotify.com/track/72gSvU0MCU9Q9WeD0RnN2s) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [Behind The Shade](https://open.spotify.com/album/6ml0ggFel4JLtFyrcDn1KS) | 1:47 | 2022-06-17 |  |
 | [Better Days](https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:08 | 2022-06-17 |  |
+| [Bistro Giardino](https://open.spotify.com/track/1mCs31gM8QicTlUA8dlVCp) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Bistro Giardino](https://open.spotify.com/album/6xGMmuGK2uivCTjJ7n6a2s) | 2:51 | 2022-07-22 |  |
 | [Bliss](https://open.spotify.com/track/6wAqgXF6Ev4V1Fd2EhZ03e) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Portalegre](https://open.spotify.com/album/5HJun0OOsQdgTZt5ixK5K6) | 3:24 | 2022-06-17 |  |
 | [Brume Silencieuse](https://open.spotify.com/track/0G4v5eDVkTMUmdn5VWqbEM) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [Brume Silencieuse](https://open.spotify.com/album/2PY9afUqaVNeCgrHjBjdjw) | 2:21 | 2022-06-17 |  |
 | [Calme et Paisible](https://open.spotify.com/track/7yVRPYTBVg3h1TsPdzcr07) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Calme et Paisible](https://open.spotify.com/album/2E92OD1lGuIQEla85kYKvY) | 3:46 | 2022-06-17 |  |
@@ -60,6 +61,7 @@
 | [Fading](https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Fading](https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh) | 2:04 | 2022-06-17 |  |
 | [Falling Light](https://open.spotify.com/track/2sGQH1FgVUDiR9LrCsC3Z2) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Falling Light](https://open.spotify.com/album/7tg2gSz70w2IU31QmeT6Ac) | 2:12 | 2022-06-17 |  |
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 |  |
+| [For A Light Blue Light](https://open.spotify.com/track/7M5Rp2Hxv169779gEJPVal) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [For A Light Blue Light](https://open.spotify.com/album/3WUgkg9hH1j16Q5jOQ8kJv) | 3:10 | 2022-07-22 |  |
 | [Fragile](https://open.spotify.com/track/2DjZfJBMQxI5tnoC6l1CVc) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [Fragile](https://open.spotify.com/album/1JAZhzpYAxIExPSV8jvHE6) | 2:49 | 2022-06-17 |  |
 | [Fragile Dreams](https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fragile Dreams](https://open.spotify.com/album/0FHxZlAQQHtoyQrMPgRedP) | 2:01 | 2022-06-17 |  |
 | [Girasoles para ti](https://open.spotify.com/track/0v8y9eVORFsgXpCFenxkV0) | [Lester Paredes](https://open.spotify.com/artist/6qmJhBPj3ROsuH7bLDODMf) | [Girasoles para ti](https://open.spotify.com/album/2TPRbJWMg8uFe6X46w7R9D) | 3:10 | 2022-06-17 |  |
@@ -118,6 +120,7 @@
 | [Noon](https://open.spotify.com/track/5xiAGmZz9dYSHOl1QCBTn6) | [Rick Alexander](https://open.spotify.com/artist/11k1IQi1sxPpXfDnLy78Se) | [Noon](https://open.spotify.com/album/16lrP8mrOWybTmxg04xn98) | 2:47 | 2022-06-17 |  |
 | [Ode](https://open.spotify.com/track/2Hoxt6py7gP6fmV8Mh9OOm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Ode](https://open.spotify.com/album/7hAG7HHYB00bdiz4T2C6TO) | 2:40 | 2022-06-17 |  |
 | [Olivar de los Padres](https://open.spotify.com/track/3wp1BYW2oP8kfXcKld2FtD) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Olivar de los Padres](https://open.spotify.com/album/2OxKeAL3VTsGxJte3qs2OS) | 3:25 | 2022-06-17 |  |
+| [On the Yorkshire Moors](https://open.spotify.com/track/127OCZgkNOhXGJdKWX64hF) | [Art Davis](https://open.spotify.com/artist/2zetqgnvUDWRP4Ug8XyUOd) | [On the Yorkshire Moors](https://open.spotify.com/album/6trFUMDDYQJpqzON6WWlXt) | 2:41 | 2022-07-22 |  |
 | [Onschuldig](https://open.spotify.com/track/7hbyxj6HhOnSp8onGh75Se) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Onschuldig](https://open.spotify.com/album/4CO5kHoKQocEwUeEMt2Cue) | 2:23 | 2022-06-17 |  |
 | [Oratorio](https://open.spotify.com/track/0szJMi1UBk6b5SftVSvWYW) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Oratorio](https://open.spotify.com/album/50tcBrMk7BjbwSNgUsv67V) | 2:02 | 2022-06-17 |  |
 | [Orchard](https://open.spotify.com/track/3udeKOIb6qvbKSYY9bH3Bs) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Orchard](https://open.spotify.com/album/5SUnMSFU8b3FnHmZ5v2NIT) | 2:36 | 2022-06-17 |  |
@@ -172,9 +175,11 @@
 | [Wallowa Lake](https://open.spotify.com/track/0viEXnrcsXF3nNj3HjROEG) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Abisko](https://open.spotify.com/album/1A3JJkrUlV2FBSV6oY412c) | 3:07 | 2022-06-17 |  |
 | [Wayside](https://open.spotify.com/track/3MKIGVnGdYeYNCH9CIXc7A) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Wayside](https://open.spotify.com/album/4rHzZA0psmw7iEHjBiRb2o) | 2:13 | 2022-06-17 |  |
 | [We Wonder](https://open.spotify.com/track/722UjaEjoA9IeiHvEXrE5N) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [We Wonder](https://open.spotify.com/album/3JIEf7Gw6toZP3YOHZwAmC) | 2:08 | 2022-06-17 |  |
+| [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 |  |
 | [Wohin mit der Liebe](https://open.spotify.com/track/4DdksysnXyseaRRTd45QUu) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Romantic Guitar Solos](https://open.spotify.com/album/44BPIZarbDHjvl0EkTlmQ7) | 2:50 | 2022-06-17 |  |
 | [Words In The Air](https://open.spotify.com/track/3gD5AaZDbyTSWkH8MHBQHk) | [河合雄三](https://open.spotify.com/artist/5wv91S4FLYDtqDxRnrnEck) | [Words In The Air](https://open.spotify.com/album/1HEjlhLORqSKlIlTRWso1x) | 2:26 | 2022-06-17 |  |
 | [Yellow Rain](https://open.spotify.com/track/6c7cIoyBvbLvxgofSU7fnv) | [Thomas Luna](https://open.spotify.com/artist/0YbpJ9AVZbi0ygvFCUmCAd) | [Yellow Rain](https://open.spotify.com/album/63wRciH00bfgm5UoFevFyp) | 2:38 | 2022-06-17 |  |
 | [Yuunagi](https://open.spotify.com/track/1W0TeWjEOb4ATZH7LlneI2) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yuunagi](https://open.spotify.com/album/069HopXqHO0E3rbTGspTzh) | 2:00 | 2022-06-17 |  |
+| [À l'aventure](https://open.spotify.com/track/2iZsCe5DCx13zlHWS19iWm) | [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV), [Jordan Cauvin](https://open.spotify.com/artist/6tk4EosXAJ2AVXeELBR3Bf) | [À l'aventure](https://open.spotify.com/album/1TUm0gABYxaE1Mf9WtViRc) | 3:14 | 2022-07-22 |  |
 
 \*This playlist was first scraped on 2022-06-20. Prior content cannot be recovered.

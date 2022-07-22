@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 340288,
       "name": "Amongst The Shadows & The Stones",
       "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 265895,
       "name": "Blind Leading the Blind",
       "url": "https://open.spotify.com/track/7a6AriexF79dNNhknDluGd"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 188186,
       "name": "Built to Fall",
       "url": "https://open.spotify.com/track/6yRh9h4Kc00PnrAuVYRAkq"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 226426,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 269920,
       "name": "Drowning in Slow Motion",
       "url": "https://open.spotify.com/track/5yC9S1NzFYgbAz2xtfA54s"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 247813,
       "name": "He Who Spawned the Furies",
       "url": "https://open.spotify.com/track/4hk0OBunwz04gknkfNLzUn"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 309029,
       "name": "In The Court Of The Dragon",
       "url": "https://open.spotify.com/track/1N8HMQL90GFdDaFUz6ONcs"
@@ -667,10 +667,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 325533,
       "name": "Like Callisto to a Star in Heaven",
       "url": "https://open.spotify.com/track/4WrPIx7lGOgIyxkSO9x9CG"
+    },
+    {
+      "album": {
+        "name": "Ascendancy",
+        "url": "https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340626,
+      "name": "Like Light to the Flies",
+      "url": "https://open.spotify.com/track/3wuGM9ka6DGQPtrEaVGl00"
     },
     {
       "album": {
@@ -811,7 +829,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 233760,
       "name": "Pull Me from the Void",
       "url": "https://open.spotify.com/track/1NLmExNNQmX4Xa6IxnqVi0"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 251826,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4P23Pn5zl9QCkyto32fAaR"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 325666,
       "name": "Sever the Hand",
       "url": "https://open.spotify.com/track/51NZCggjFj5NGcleguitxM"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 269220,
       "name": "The Defiant",
       "url": "https://open.spotify.com/track/1OsDIdCx9t0khbY88vFpLN"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 435976,
       "name": "The Phalanx",
       "url": "https://open.spotify.com/track/14XbzZfy5y9U60gtjjfzdH"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 329480,
       "name": "Thrown into the Fire",
       "url": "https://open.spotify.com/track/6PXjY2Hr2LgTSGfJRa0UG7"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 253653,
       "name": "Vengeance Falls",
       "url": "https://open.spotify.com/track/1dMHNNZ3Oy7wxX1HtQFgId"

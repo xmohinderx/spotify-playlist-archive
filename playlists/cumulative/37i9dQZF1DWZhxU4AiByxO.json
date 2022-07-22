@@ -1948,6 +1948,28 @@
     },
     {
       "album": {
+        "name": "Magic Reimagined (Japan Edition)",
+        "url": "https://open.spotify.com/album/7cP3WtGF6GER9WA7BKkFiI"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161360,
+      "name": "Nobody Like U",
+      "url": "https://open.spotify.com/track/334mPKdy3bxhyNaUCB9dRl"
+    },
+    {
+      "album": {
         "name": "Nobody Like U (From \"Turning Red\")",
         "url": "https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2"
       },

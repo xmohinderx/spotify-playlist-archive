@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-300 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+302 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Feel Di Pulse](https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG) | [Cascaix](https://open.spotify.com/artist/7cVHoN5a6NjZ2LC8v0sFvJ) | [Feel Di Pulse](https://open.spotify.com/album/34vjADdXvNHFi71V0j6fPr) | 2:07 | 2021-11-10 |  |
 | [Feel Free](https://open.spotify.com/track/6L8gNflQsaNQv7uY8IVjE4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Feel Free](https://open.spotify.com/album/2rMoeNbx0m4q9dhVDfxgBF) | 2:19 | 2022-05-10 |  |
 | [Feuilles](https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Feuilles](https://open.spotify.com/album/739JpDz78mPc7hTX0zLvhN) | 2:33 | 2021-11-10 |  |
+| [Fika](https://open.spotify.com/track/32gy3AZgAjxHUUpVzA42YD) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [Fika](https://open.spotify.com/album/3URxwmB9mC3IaONUtIEhvW) | 1:51 | 2022-07-22 |  |
 | [Firmament](https://open.spotify.com/track/31lD6OHrwsSOZH3oF3ne8w) | [Melissa Gio](https://open.spotify.com/artist/6aWfivbdzQ18ZuqTwvxHHE) | [Firmament](https://open.spotify.com/album/5vjxVDeK0l4N7Driu78gGg) | 2:16 | 2021-11-10 |  |
 | [Five Minutes](https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Five Minutes](https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8) | 3:12 | 2021-11-10 |  |
 | [Flashlights Under A Blanket](https://open.spotify.com/track/1G1kr7sfoOdGIN5tihDans) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Course Correction](https://open.spotify.com/album/2laHbGZd6kNRvEyA5RTfBt) | 4:00 | 2022-06-10 |  |
@@ -209,6 +210,7 @@
 | [pacific stars](https://open.spotify.com/track/0sDJcl9cf4ir3HBwAtVBTM) | [Phet Kharma](https://open.spotify.com/artist/4iAzEYiC4HuGDyzGVcq4B6) | [pacific stars](https://open.spotify.com/album/0xPYPTXQbXQxsG6H4YDi1g) | 2:45 | 2021-11-10 |  |
 | [Pandemic](https://open.spotify.com/track/7IYY79uC7AN3EyjGx8x8eR) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Liquid Blue](https://open.spotify.com/album/3yOIYcv0ddD4F12PfKIfho) | 1:55 | 2021-11-10 | 2022-06-10 |
 | [Particles](https://open.spotify.com/track/1ONBzD68J6QOaK0PrO9D3L) | [lisa millien](https://open.spotify.com/artist/2Kr18HMvOrDXltmo8bM3Wa) | [Particles](https://open.spotify.com/album/0WkWxeeZBeCuLKu6NAKLXj) | 1:51 | 2021-11-10 | 2022-07-08 |
+| [Patch](https://open.spotify.com/track/6om9J0gECkyl3NUtqtmwIZ) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Patch](https://open.spotify.com/album/4m4hazt2TSTPZhfQdP4TgT) | 3:02 | 2022-07-22 |  |
 | [Peachy Divas](https://open.spotify.com/track/2aS040mC8a4oy6raqnt2J5) | [Groovemover](https://open.spotify.com/artist/6SZYCLTc21zHQPl8wKkB9d) | [Like That Three](https://open.spotify.com/album/1Zncbz3KTlYmouGjvMhjC6) | 2:50 | 2022-05-27 |  |
 | [Persistence](https://open.spotify.com/track/6Rvt3ZDsMwomIXe31YYeyd) | [Maître](https://open.spotify.com/artist/6z6AixATA2E6RUoZWVjilH) | [Persistence](https://open.spotify.com/album/00aiCIN3aO3x0nYzCfvQEU) | 2:08 | 2021-11-10 | 2022-05-20 |
 | [Pina Colada](https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Pina Colada](https://open.spotify.com/album/3OMdzGnHYTefjOZqzWXefu) | 2:58 | 2022-07-01 |  |

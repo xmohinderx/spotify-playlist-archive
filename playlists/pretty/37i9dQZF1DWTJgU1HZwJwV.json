@@ -1,13 +1,173 @@
 {
   "description": "Elegant classical guitar to accompany your favourite Italian coffee.",
-  "num_followers": 25429,
+  "num_followers": 25465,
   "original_name": "Coffee House Classical Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg0MzIwMCwwMDAwMDAyYTAwMDAwMTgxZmYyN2IxMjQwMDAwMDE4MWRlNGI0ZTI0",
+  "snapshot_id": "MTY1ODQ0ODAwMCwwMDAwMDAyYjAwMDAwMTgyMjMzNDM0Y2MwMDAwMDE4MjFiMjRjNWZm",
   "tracks": [
+    {
+      "added_at": "2022-07-15 00:00:00",
+      "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/2PaANkBfLwCRqMnBhtBN18"
+      },
+      "artists": [
+        {
+          "name": "Luna Grove",
+          "url": "https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa"
+    },
+    {
+      "added_at": "2022-07-15 00:00:00",
+      "album": {
+        "name": "Elegia",
+        "url": "https://open.spotify.com/album/5akwFZfzBFG3ISUpHfIju8"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Elegia",
+      "url": "https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV"
+    },
+    {
+      "added_at": "2022-07-15 00:00:00",
+      "album": {
+        "name": "Fragile Dreams",
+        "url": "https://open.spotify.com/album/0FHxZlAQQHtoyQrMPgRedP"
+      },
+      "artists": [
+        {
+          "name": "Aveline Bisset",
+          "url": "https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ"
+        }
+      ],
+      "duration_ms": 121858,
+      "name": "Fragile Dreams",
+      "url": "https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG"
+    },
+    {
+      "added_at": "2022-07-15 00:00:00",
+      "album": {
+        "name": "Too Gentle",
+        "url": "https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK"
+      },
+      "artists": [
+        {
+          "name": "Constance Timon",
+          "url": "https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f"
+        }
+      ],
+      "duration_ms": 101044,
+      "name": "Too Gentle",
+      "url": "https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58"
+    },
+    {
+      "added_at": "2022-07-15 00:00:00",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/44ysmHkHLWluf64LGdFUpD"
+      },
+      "artists": [
+        {
+          "name": "Cristof Walters",
+          "url": "https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa"
+        }
+      ],
+      "duration_ms": 193564,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo"
+    },
+    {
+      "added_at": "2022-07-15 00:00:00",
+      "album": {
+        "name": "San Sebastian",
+        "url": "https://open.spotify.com/album/0ov4xgE4lpfucMLPm4twXP"
+      },
+      "artists": [
+        {
+          "name": "Henry Auguste",
+          "url": "https://open.spotify.com/artist/7BYBlt9RAGjzI4QG0ZapUh"
+        }
+      ],
+      "duration_ms": 112736,
+      "name": "San Sebastian",
+      "url": "https://open.spotify.com/track/0QcnlPfVyTyuBEVZeumOUV"
+    },
+    {
+      "added_at": "2022-07-15 00:00:00",
+      "album": {
+        "name": "Vinterdans",
+        "url": "https://open.spotify.com/album/2fdD6XGCkmAH0ePjaPIb6t"
+      },
+      "artists": [
+        {
+          "name": "Gunni M\u00f8ller",
+          "url": "https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE"
+        }
+      ],
+      "duration_ms": 134705,
+      "name": "Vinterdans",
+      "url": "https://open.spotify.com/track/6FsdYdezXttjTiaZ8UIBEw"
+    },
+    {
+      "added_at": "2022-07-15 00:00:00",
+      "album": {
+        "name": "Mediterranean Rain",
+        "url": "https://open.spotify.com/album/3Im6URgqUPJSxc7qQpsgXc"
+      },
+      "artists": [
+        {
+          "name": "John A. Nilson",
+          "url": "https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9"
+        }
+      ],
+      "duration_ms": 161501,
+      "name": "Mediterranean Rain",
+      "url": "https://open.spotify.com/track/43jO5gEX6XVcVdQDF2wsbw"
+    },
+    {
+      "added_at": "2022-07-15 00:00:00",
+      "album": {
+        "name": "Saramjan",
+        "url": "https://open.spotify.com/album/4HDS8pE5Mm1MMA3Gahxt6y"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reiger",
+          "url": "https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3"
+        }
+      ],
+      "duration_ms": 137652,
+      "name": "Saramjan",
+      "url": "https://open.spotify.com/track/1fuyZkRvsGM42RQC8Hs306"
+    },
+    {
+      "added_at": "2022-07-15 00:00:00",
+      "album": {
+        "name": "Gryning",
+        "url": "https://open.spotify.com/album/7kh7QgMnR8grQiDIjvzioU"
+      },
+      "artists": [
+        {
+          "name": "Robert Dahlstr\u00f6m",
+          "url": "https://open.spotify.com/artist/7ewiuMPMerjHcRj3sSUQYi"
+        }
+      ],
+      "duration_ms": 182349,
+      "name": "Gryning",
+      "url": "https://open.spotify.com/track/1JGpZ7avpnMGA4hPairsie"
+    },
     {
       "added_at": "2022-07-15 00:00:00",
       "album": {
@@ -283,22 +443,6 @@
     {
       "added_at": "2022-07-15 00:00:00",
       "album": {
-        "name": "Glide",
-        "url": "https://open.spotify.com/album/2PaANkBfLwCRqMnBhtBN18"
-      },
-      "artists": [
-        {
-          "name": "Luna Grove",
-          "url": "https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
         "name": "Marvel At The Sky",
         "url": "https://open.spotify.com/album/3DK195qjIawfQacLtFPFSC"
       },
@@ -395,22 +539,6 @@
     {
       "added_at": "2022-07-15 00:00:00",
       "album": {
-        "name": "Elegia",
-        "url": "https://open.spotify.com/album/5akwFZfzBFG3ISUpHfIju8"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Elegia",
-      "url": "https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/1JAZhzpYAxIExPSV8jvHE6"
       },
@@ -423,22 +551,6 @@
       "duration_ms": 169266,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/2DjZfJBMQxI5tnoC6l1CVc"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Fragile Dreams",
-        "url": "https://open.spotify.com/album/0FHxZlAQQHtoyQrMPgRedP"
-      },
-      "artists": [
-        {
-          "name": "Aveline Bisset",
-          "url": "https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ"
-        }
-      ],
-      "duration_ms": 121858,
-      "name": "Fragile Dreams",
-      "url": "https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG"
     },
     {
       "added_at": "2022-07-15 00:00:00",
@@ -491,38 +603,6 @@
     {
       "added_at": "2022-07-15 00:00:00",
       "album": {
-        "name": "Too Gentle",
-        "url": "https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK"
-      },
-      "artists": [
-        {
-          "name": "Constance Timon",
-          "url": "https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f"
-        }
-      ],
-      "duration_ms": 101044,
-      "name": "Too Gentle",
-      "url": "https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/44ysmHkHLWluf64LGdFUpD"
-      },
-      "artists": [
-        {
-          "name": "Cristof Walters",
-          "url": "https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa"
-        }
-      ],
-      "duration_ms": 193564,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
         "name": "Leaving",
         "url": "https://open.spotify.com/album/78Ixx68Z6lBKYHUbhMjRFt"
       },
@@ -551,22 +631,6 @@
       "duration_ms": 136500,
       "name": "Above",
       "url": "https://open.spotify.com/track/56Ob1mejaKw4RCwlYj3dMw"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "San Sebastian",
-        "url": "https://open.spotify.com/album/0ov4xgE4lpfucMLPm4twXP"
-      },
-      "artists": [
-        {
-          "name": "Henry Auguste",
-          "url": "https://open.spotify.com/artist/7BYBlt9RAGjzI4QG0ZapUh"
-        }
-      ],
-      "duration_ms": 112736,
-      "name": "San Sebastian",
-      "url": "https://open.spotify.com/track/0QcnlPfVyTyuBEVZeumOUV"
     },
     {
       "added_at": "2022-07-15 00:00:00",
@@ -631,22 +695,6 @@
       "duration_ms": 153536,
       "name": "Art Deco",
       "url": "https://open.spotify.com/track/2S1ddYY7BolUpyqjFVrgGv"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Vinterdans",
-        "url": "https://open.spotify.com/album/2fdD6XGCkmAH0ePjaPIb6t"
-      },
-      "artists": [
-        {
-          "name": "Gunni M\u00f8ller",
-          "url": "https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE"
-        }
-      ],
-      "duration_ms": 134705,
-      "name": "Vinterdans",
-      "url": "https://open.spotify.com/track/6FsdYdezXttjTiaZ8UIBEw"
     },
     {
       "added_at": "2022-07-15 00:00:00",
@@ -747,22 +795,6 @@
     {
       "added_at": "2022-07-15 00:00:00",
       "album": {
-        "name": "Mediterranean Rain",
-        "url": "https://open.spotify.com/album/3Im6URgqUPJSxc7qQpsgXc"
-      },
-      "artists": [
-        {
-          "name": "John A. Nilson",
-          "url": "https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9"
-        }
-      ],
-      "duration_ms": 161501,
-      "name": "Mediterranean Rain",
-      "url": "https://open.spotify.com/track/43jO5gEX6XVcVdQDF2wsbw"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
         "name": "Midwinter",
         "url": "https://open.spotify.com/album/38fLpzIszQjCAZ2FTIuTi7"
       },
@@ -775,22 +807,6 @@
       "duration_ms": 170000,
       "name": "Midwinter",
       "url": "https://open.spotify.com/track/3U0Jz4y4SiseCKtL6jdDOZ"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Saramjan",
-        "url": "https://open.spotify.com/album/4HDS8pE5Mm1MMA3Gahxt6y"
-      },
-      "artists": [
-        {
-          "name": "Timothy Reiger",
-          "url": "https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3"
-        }
-      ],
-      "duration_ms": 137652,
-      "name": "Saramjan",
-      "url": "https://open.spotify.com/track/1fuyZkRvsGM42RQC8Hs306"
     },
     {
       "added_at": "2022-07-15 00:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 120043,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6m5rP71LDIKQcISWQsnGfV"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Gryning",
-        "url": "https://open.spotify.com/album/7kh7QgMnR8grQiDIjvzioU"
-      },
-      "artists": [
-        {
-          "name": "Robert Dahlstr\u00f6m",
-          "url": "https://open.spotify.com/artist/7ewiuMPMerjHcRj3sSUQYi"
-        }
-      ],
-      "duration_ms": 182349,
-      "name": "Gryning",
-      "url": "https://open.spotify.com/track/1JGpZ7avpnMGA4hPairsie"
     },
     {
       "added_at": "2022-07-15 00:00:00",
@@ -2111,6 +2111,90 @@
       "duration_ms": 121000,
       "name": "A Dream of Green",
       "url": "https://open.spotify.com/track/4lvb5gc7WFy1tUXqoFYn3m"
+    },
+    {
+      "added_at": "2022-07-22 00:00:00",
+      "album": {
+        "name": "On the Yorkshire Moors",
+        "url": "https://open.spotify.com/album/6trFUMDDYQJpqzON6WWlXt"
+      },
+      "artists": [
+        {
+          "name": "Art Davis",
+          "url": "https://open.spotify.com/artist/2zetqgnvUDWRP4Ug8XyUOd"
+        }
+      ],
+      "duration_ms": 161415,
+      "name": "On the Yorkshire Moors",
+      "url": "https://open.spotify.com/track/127OCZgkNOhXGJdKWX64hF"
+    },
+    {
+      "added_at": "2022-07-22 00:00:00",
+      "album": {
+        "name": "For A Light Blue Light",
+        "url": "https://open.spotify.com/album/3WUgkg9hH1j16Q5jOQ8kJv"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Adelini",
+          "url": "https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "For A Light Blue Light",
+      "url": "https://open.spotify.com/track/7M5Rp2Hxv169779gEJPVal"
+    },
+    {
+      "added_at": "2022-07-22 00:00:00",
+      "album": {
+        "name": "\u00c0 l'aventure",
+        "url": "https://open.spotify.com/album/1TUm0gABYxaE1Mf9WtViRc"
+      },
+      "artists": [
+        {
+          "name": "Thibault Cauvin",
+          "url": "https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV"
+        },
+        {
+          "name": "Jordan Cauvin",
+          "url": "https://open.spotify.com/artist/6tk4EosXAJ2AVXeELBR3Bf"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "\u00c0 l'aventure",
+      "url": "https://open.spotify.com/track/2iZsCe5DCx13zlHWS19iWm"
+    },
+    {
+      "added_at": "2022-07-22 00:00:00",
+      "album": {
+        "name": "Bistro Giardino",
+        "url": "https://open.spotify.com/album/6xGMmuGK2uivCTjJ7n6a2s"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "duration_ms": 171900,
+      "name": "Bistro Giardino",
+      "url": "https://open.spotify.com/track/1mCs31gM8QicTlUA8dlVCp"
+    },
+    {
+      "added_at": "2022-07-22 00:00:00",
+      "album": {
+        "name": "Whispers Of The Sea",
+        "url": "https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "duration_ms": 117883,
+      "name": "Whispers Of The Sea",
+      "url": "https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS"
     },
     {
       "added_at": "2022-07-15 00:00:00",

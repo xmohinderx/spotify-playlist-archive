@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 160653,
       "name": "Augury",
       "url": "https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 159000,
       "name": "Blue Water Floats",
       "url": "https://open.spotify.com/track/1valVbc0kxrTxrT4nf3x9t"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 237874,
       "name": "Closure",
       "url": "https://open.spotify.com/track/4pLt09DV3FFjNTLqbxhJcO"
@@ -1265,10 +1265,28 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 177874,
       "name": "cold embrace",
       "url": "https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD"
+    },
+    {
+      "album": {
+        "name": "Collecting Memories",
+        "url": "https://open.spotify.com/album/6VSobr1DUTShD75358fUps"
+      },
+      "artists": [
+        {
+          "name": "Aija Alsina",
+          "url": "https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167179,
+      "name": "Collecting Memories",
+      "url": "https://open.spotify.com/track/6aFHghBSzxP3QPxS30qqp0"
     },
     {
       "album": {
@@ -1470,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "Dancing the twelve",
+        "url": "https://open.spotify.com/album/2UTmoOVrkHOflkHZH7Nx6S"
+      },
+      "artists": [
+        {
+          "name": "Eu Nice",
+          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Dancing the twelve",
+      "url": "https://open.spotify.com/track/2yDIfosvpcbhKj3liMHZov"
+    },
+    {
+      "album": {
         "name": "Dans mes mains",
         "url": "https://open.spotify.com/album/4JmFUz0CPUf1ItlKbhqvU3"
       },
@@ -1553,7 +1589,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 188500,
       "name": "Days Gone By",
       "url": "https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y"
@@ -1593,6 +1629,24 @@
       "duration_ms": 169250,
       "name": "Deepest woods",
       "url": "https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7"
+    },
+    {
+      "album": {
+        "name": "Det skal nok g\u00e5",
+        "url": "https://open.spotify.com/album/4rM836vPb1QHflp8qWRwxs"
+      },
+      "artists": [
+        {
+          "name": "Alida S\u00f8rby",
+          "url": "https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Det skal nok g\u00e5",
+      "url": "https://open.spotify.com/track/6i17OjR0ZQYh5RkHexzDMR"
     },
     {
       "album": {
@@ -1661,7 +1715,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 151750,
       "name": "Domande",
       "url": "https://open.spotify.com/track/3PCrufS6uFrm7Q6ArBW1nf"
@@ -1733,7 +1787,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 155665,
       "name": "Dream Until the First Rays of Dawn",
       "url": "https://open.spotify.com/track/1YrmdTAZdNa2uzxKttTXq6"
@@ -1863,6 +1917,24 @@
       "duration_ms": 278342,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0T8qo3Tr3rgGhYky5t2L5U"
+    },
+    {
+      "album": {
+        "name": "Edgar's Garden",
+        "url": "https://open.spotify.com/album/4d6jOSCNJtDThR0H6JV6cI"
+      },
+      "artists": [
+        {
+          "name": "Mark Lieder",
+          "url": "https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190335,
+      "name": "Edgar's Garden",
+      "url": "https://open.spotify.com/track/4AgEOcwJpmtE2fqhyqUIA8"
     },
     {
       "album": {
@@ -2075,7 +2147,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 158000,
       "name": "Expecting",
       "url": "https://open.spotify.com/track/5IZkV8mhcxxFyLduTPtnw0"
@@ -2133,6 +2205,24 @@
       "duration_ms": 125500,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ"
+    },
+    {
+      "album": {
+        "name": "Felt Improv No. 31",
+        "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
+      },
+      "artists": [
+        {
+          "name": "Niall Byrne",
+          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144042,
+      "name": "Felt Improv No. 31",
+      "url": "https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F"
     },
     {
       "album": {
@@ -2201,7 +2291,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 225602,
       "name": "Finding Sense",
       "url": "https://open.spotify.com/track/4a19tW0y3CguscLbx1F1Nf"
@@ -2262,6 +2352,24 @@
     },
     {
       "album": {
+        "name": "For Catherine",
+        "url": "https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138243,
+      "name": "For Catherine",
+      "url": "https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L"
+    },
+    {
+      "album": {
         "name": "For Mark",
         "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
       },
@@ -2277,6 +2385,24 @@
       "duration_ms": 309600,
       "name": "For Mark",
       "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5ny130qGLNcwVqTEDMlVr4"
+      },
+      "artists": [
+        {
+          "name": "Joanne Gardiner",
+          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192358,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/2MQYYyWv4oin7VlNQDFb6n"
     },
     {
       "album": {
@@ -2309,7 +2435,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 170374,
       "name": "Forelsket",
       "url": "https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9"
@@ -2417,7 +2543,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 207640,
       "name": "Fracture",
       "url": "https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R"
@@ -2453,7 +2579,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 136875,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5PHIGFF2ikcf0lEGH5D9fZ"
@@ -2597,7 +2723,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 153000,
       "name": "Gleam",
       "url": "https://open.spotify.com/track/4ODEul9zEesE2R8wMUs8eh"
@@ -2633,7 +2759,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 143376,
       "name": "Glow",
       "url": "https://open.spotify.com/track/3lM1BCOR6zXKsvC7I3eABX"
@@ -2741,7 +2867,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 143124,
       "name": "Haven",
       "url": "https://open.spotify.com/track/4GJSed45B1222Uy3jY5NNr"
@@ -3173,7 +3299,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 224000,
       "name": "In Essence",
       "url": "https://open.spotify.com/track/22wf4F0EwtjXyPbg0kioHm"
@@ -3281,7 +3407,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 183250,
       "name": "In The Mood For Dreaming",
       "url": "https://open.spotify.com/track/163EpITIjkN1ky0odOKy1b"
@@ -3389,7 +3515,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 163500,
       "name": "Involution",
       "url": "https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR"
@@ -3443,7 +3569,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 170124,
       "name": "Isle of Arran",
       "url": "https://open.spotify.com/track/2VKWrVYPGgJzBmRGc8LWkh"
@@ -3461,7 +3587,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 179967,
       "name": "I\u2019m Still Learning",
       "url": "https://open.spotify.com/track/2KM3Fna95GUcpQ6Xb3Dibh"
@@ -3803,7 +3929,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 174000,
       "name": "Larks",
       "url": "https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG"
@@ -3911,7 +4037,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 157000,
       "name": "Les Arbres Parlent",
       "url": "https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ"
@@ -3965,7 +4091,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 140000,
       "name": "Libellule",
       "url": "https://open.spotify.com/track/1ypwYxSqProWa2PHp8try8"
@@ -4059,7 +4185,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 237250,
       "name": "Like A Whisper",
       "url": "https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ"
@@ -4239,7 +4365,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 170874,
       "name": "Luna piena",
       "url": "https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu"
@@ -4491,7 +4617,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 121063,
       "name": "Merveilleuse",
       "url": "https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB"
@@ -4563,7 +4689,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 152123,
       "name": "Moods Anemoia",
       "url": "https://open.spotify.com/track/0VphIydrd19Os41mBxcn3K"
@@ -4851,7 +4977,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 142625,
       "name": "Nord",
       "url": "https://open.spotify.com/track/3LP2FRhLNVlAql83ked0n3"
@@ -4891,10 +5017,28 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 180500,
       "name": "Nourriture et soleil",
       "url": "https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k"
+    },
+    {
+      "album": {
+        "name": "Gyere velem",
+        "url": "https://open.spotify.com/album/7zzn1Mlpv7S8SY8t80qR9H"
+      },
+      "artists": [
+        {
+          "name": "Bodor Vencel",
+          "url": "https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133691,
+      "name": "Ny\u00e1ri s\u00e9ta",
+      "url": "https://open.spotify.com/track/7CgSotbNO8YesINbIWsmaV"
     },
     {
       "album": {
@@ -5017,7 +5161,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 139374,
       "name": "Ours",
       "url": "https://open.spotify.com/track/5CCZ8wTUbpTI0tTyxEVEy3"
@@ -5071,7 +5215,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 184135,
       "name": "Ozoner",
       "url": "https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ"
@@ -5341,7 +5485,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 131202,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU"
@@ -5395,7 +5539,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 169312,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/17jvo4FD4s17STVTrf099y"
@@ -5521,7 +5665,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 164500,
       "name": "Reading Life",
       "url": "https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar"
@@ -5593,7 +5737,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 138804,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf"
@@ -5611,7 +5755,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 137336,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/26TFYIn88kzmhy7Db0L0TZ"
@@ -5971,7 +6115,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 237000,
       "name": "Santa Cruz",
       "url": "https://open.spotify.com/track/75b0f1695j8tRmXL6cvtmb"
@@ -6025,7 +6169,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891"
@@ -6133,7 +6277,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 126000,
       "name": "Sensibilities",
       "url": "https://open.spotify.com/track/2Utg4Imeeq5cI6DQ8AupwV"
@@ -6205,7 +6349,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 175000,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/2yh46DDBBxoDN45rCH8nBt"
@@ -6259,7 +6403,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 170208,
       "name": "Shoreland",
       "url": "https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR"
@@ -6439,7 +6583,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 134625,
       "name": "So No Regrets",
       "url": "https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY"
@@ -6565,7 +6709,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 206545,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd"
@@ -6709,7 +6853,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 136124,
       "name": "Still",
       "url": "https://open.spotify.com/track/7Myr2rQatgwZshajT4pOCj"
@@ -6781,7 +6925,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 154000,
       "name": "Sui",
       "url": "https://open.spotify.com/track/3CNyikzIjzTLdcMSriulrg"
@@ -6965,7 +7109,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 120935,
       "name": "Tales of an Oak",
       "url": "https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw"
@@ -7379,7 +7523,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 150951,
       "name": "Tra Di Noi",
       "url": "https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL"
@@ -7487,7 +7631,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 176603,
       "name": "Tuning the Picture",
       "url": "https://open.spotify.com/track/16bkyOOqnn6SDXjpQyqBhh"
@@ -7548,6 +7692,24 @@
     },
     {
       "album": {
+        "name": "In Faith",
+        "url": "https://open.spotify.com/album/2URSgPPCKlKmsGqcDxfygl"
+      },
+      "artists": [
+        {
+          "name": "Carla Simmons",
+          "url": "https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192842,
+      "name": "Underverse",
+      "url": "https://open.spotify.com/track/2FqPT4G4ygSSRTerAfyUD6"
+    },
+    {
+      "album": {
         "name": "Undisturbed",
         "url": "https://open.spotify.com/album/2CpPAqdJrVVvFnDEV373Td"
       },
@@ -7559,7 +7721,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 154000,
       "name": "Undisturbed",
       "url": "https://open.spotify.com/track/2sDskIxP9gdYKo0L2WCBLR"
@@ -7595,7 +7757,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 152780,
       "name": "Une histoire d\u2019amour",
       "url": "https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E"
@@ -7635,6 +7797,24 @@
       "duration_ms": 180500,
       "name": "Unsere Reise",
       "url": "https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC"
+    },
+    {
+      "album": {
+        "name": "Varazdin",
+        "url": "https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV"
+      },
+      "artists": [
+        {
+          "name": "Davorka Poljak",
+          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106500,
+      "name": "Varazdin",
+      "url": "https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ"
     },
     {
       "album": {
@@ -7815,6 +7995,24 @@
       "duration_ms": 161000,
       "name": "Walk",
       "url": "https://open.spotify.com/track/1IFzM39Bm7c28HoEhuixIC"
+    },
+    {
+      "album": {
+        "name": "Walking Slowly",
+        "url": "https://open.spotify.com/album/4wjmBndNtG1iaQbsOEyBF0"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Driesen",
+          "url": "https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Walking Slowly",
+      "url": "https://open.spotify.com/track/04HAuNsJ33EMeoNhiOQLcQ"
     },
     {
       "album": {
@@ -8157,7 +8355,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 150500,
       "name": "With Dreams In Mind",
       "url": "https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy"

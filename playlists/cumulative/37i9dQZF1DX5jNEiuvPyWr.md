@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Luther
+> Le meilleur du rap français version cloud\. Photo : Gianni
 
-50 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+52 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,14 @@
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-07-14 |  |
 | [Dope](https://open.spotify.com/track/50Iv0gsXTFbPQnrtbkHK85) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Dope](https://open.spotify.com/album/2cs5rAaux06NIbxlogq5Ek) | 3:33 | 2022-07-14 |  |
 | [DOPE & FLOW](https://open.spotify.com/track/2xEtaNqgy2PogrwrY4GjuJ) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [CITÉS D'OR](https://open.spotify.com/album/0SHzFt4bn69jklshAtcDu3) | 2:46 | 2022-07-14 |  |
+| [Encre noire](https://open.spotify.com/track/0bk75qIrxgJ0FEGbgOzJUg) | [Seventiine](https://open.spotify.com/artist/6e8flkZ70WOzklwhYol7qA) | [Encre noire](https://open.spotify.com/album/3RVlLLK6BbaGeNZBCAaGjO) | 2:49 | 2022-07-21 |  |
 | [Energy](https://open.spotify.com/track/3nN9fK77Fd7UvVKngaNSpE) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Émotions éphémères](https://open.spotify.com/album/7Kj4sIbP6sLyLLOVyzpt31) | 2:48 | 2022-07-14 |  |
 | [Fauves](https://open.spotify.com/track/5lyKwmMB1nuU3jUrrIFI3Q) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [Couleur de ma peine](https://open.spotify.com/album/2N9IozZraUsmwNPd4k69YB) | 3:30 | 2022-07-14 |  |
 | [Fin heureuse](https://open.spotify.com/track/2xIaxSN4uWp84jqXmk9DYn) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fin heureuse](https://open.spotify.com/album/5KcQvszp8wKRp1k9fHXR12) | 2:43 | 2022-07-14 |  |
 | [GRENADE](https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [GRENADE](https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg) | 2:56 | 2022-07-14 |  |
 | [Gros mega](https://open.spotify.com/track/1z1kLrnuYTLdXoSKWYE9Fy) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 2](https://open.spotify.com/album/2JlgRagGV3G37C4Db5bPH1) | 2:34 | 2022-07-14 |  |
 | [HENNESSY \- feat\. So La Lune](https://open.spotify.com/track/1oxV0rnPtUwKJUWooSIdFv) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [JUAN COCA](https://open.spotify.com/album/21PfuyzRJkPwHiv9UL4Ev1) | 3:26 | 2022-07-14 |  |
-| [HESS/TROP SAGE](https://open.spotify.com/track/39NfiKDxQInyGabWf3dCJo) | [STU](https://open.spotify.com/artist/12rFc3DT9cVWUrbCaVcVHL), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [LOCHNESS](https://open.spotify.com/album/6Ff3MekKzKcG9MOG97cFXp) | 3:40 | 2022-07-14 |  |
+| [HESS/TROP SAGE](https://open.spotify.com/track/39NfiKDxQInyGabWf3dCJo) | [STU](https://open.spotify.com/artist/12rFc3DT9cVWUrbCaVcVHL), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [LOCHNESS](https://open.spotify.com/album/6Ff3MekKzKcG9MOG97cFXp) | 3:40 | 2022-07-14 | 2022-07-22 |
 | [High](https://open.spotify.com/track/4lpWpolbOCSrlEe9FN3G9F) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [São Paulo](https://open.spotify.com/album/7sBsoD0q8ZCKwoH8wM8Qfy) | 3:29 | 2022-07-14 |  |
 | [Ice](https://open.spotify.com/track/6voLrF6LT0p8ptDqAjaGKN) | [TRIPLEGO](https://open.spotify.com/artist/6cDxDe1MWGgUcNVVdxhCN2) | [Ice](https://open.spotify.com/album/3944ZTzAv3KanHuif2iIwc) | 3:58 | 2022-07-14 |  |
 | [Ici\-bas](https://open.spotify.com/track/6AwuAiYCqeSWzbk4Vzcr3J) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc), [FRAMAL](https://open.spotify.com/artist/392Bnlp5PrDQZgtr3OSG9T) | [SZR 2001](https://open.spotify.com/album/0rk3WWubPvymeQeb3R8n7s) | 2:47 | 2022-07-14 |  |
@@ -47,8 +48,9 @@
 | [Miracle](https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Miracle](https://open.spotify.com/album/3ApUvBtVEP475jtilOY4jy) | 2:58 | 2022-07-14 |  |
 | [New Flow](https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:05 | 2022-07-14 |  |
 | [OMERTÀ](https://open.spotify.com/track/13eTAuzyWBzGOi6uM8712G) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [OMERTÀ](https://open.spotify.com/album/4ez5SqQc5JoMUYbVBvbmGj) | 2:51 | 2022-07-14 |  |
+| [Oublié](https://open.spotify.com/track/5u6KWtbJeq8QakE5BJ6f8e) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:07 | 2022-07-21 |  |
 | [PARADOXE](https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [PARADOXE](https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh) | 3:35 | 2022-07-14 |  |
-| [Perdu](https://open.spotify.com/track/2YPxuRn3QTh4vQ6Qfh2EpG) | [GOYA](https://open.spotify.com/artist/2qq8zPVsSnIZqvmG09oFRr) | [Perdu](https://open.spotify.com/album/0TPzjKqIXdyoxIeSlmXA1y) | 3:32 | 2022-07-14 |  |
+| [Perdu](https://open.spotify.com/track/2YPxuRn3QTh4vQ6Qfh2EpG) | [GOYA](https://open.spotify.com/artist/2qq8zPVsSnIZqvmG09oFRr) | [Perdu](https://open.spotify.com/album/0TPzjKqIXdyoxIeSlmXA1y) | 3:32 | 2022-07-14 | 2022-07-22 |
 | [Piano Black](https://open.spotify.com/track/0MRPmZVCxKAf5HSaglBoDV) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 4:04 | 2022-07-14 |  |
 | [Plus jeune](https://open.spotify.com/track/1mWoxD27fEJ4scLSlBHEs3) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 3:23 | 2022-07-14 |  |
 | [Pour bientôt](https://open.spotify.com/track/0qRS9WjPTtfwgR3iT8YZZl) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 1](https://open.spotify.com/album/5nujvuksXeAXd0y7d3MWxa) | 3:50 | 2022-07-14 |  |

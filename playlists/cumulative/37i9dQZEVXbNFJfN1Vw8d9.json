@@ -3769,7 +3769,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
@@ -7527,6 +7527,24 @@
       "duration_ms": 255606,
       "name": "Si Te Veo",
       "url": "https://open.spotify.com/track/2TmT3wSwRf0CYJFGGaIXNB"
+    },
+    {
+      "album": {
+        "name": "Si Tu Te Vas",
+        "url": "https://open.spotify.com/album/6o64BvtMCuoKXguXZtmQyr"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Si Tu Te Vas",
+      "url": "https://open.spotify.com/track/1KALUbjXvefSgNhTYJHZZt"
     },
     {
       "album": {

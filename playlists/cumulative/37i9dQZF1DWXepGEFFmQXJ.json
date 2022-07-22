@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Ain't Goin' Home",
+        "url": "https://open.spotify.com/album/2BaCaOKP9hMhf68PTLKJY6"
+      },
+      "artists": [
+        {
+          "name": "Vixens Of Fall",
+          "url": "https://open.spotify.com/artist/5E8CKxCEIm6vLESXqUExBt"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198746,
+      "name": "Ain't Goin' Home",
+      "url": "https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc"
+    },
+    {
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/78CHrctUDb2LjgFdInJwms"
       },
@@ -265,6 +283,24 @@
       "duration_ms": 222520,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/14TZAzaNPCqMUaVSWhsVWk"
+    },
+    {
+      "album": {
+        "name": "Bar High",
+        "url": "https://open.spotify.com/album/2obFqMJf41lw1DUTMRgQOk"
+      },
+      "artists": [
+        {
+          "name": "Southbound xo",
+          "url": "https://open.spotify.com/artist/2Vd1apm9XWtfshrjOmodgB"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172352,
+      "name": "Bar High",
+      "url": "https://open.spotify.com/track/1HTmE3WQOuahpTwpoyji5i"
     },
     {
       "album": {
@@ -1668,6 +1704,28 @@
     },
     {
       "album": {
+        "name": "Living for the Highlights",
+        "url": "https://open.spotify.com/album/4wCuBfk4L6tw93a76j2v3s"
+      },
+      "artists": [
+        {
+          "name": "Amber Lawrence",
+          "url": "https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg"
+        },
+        {
+          "name": "Darlinghurst",
+          "url": "https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193977,
+      "name": "Living For The Highlights",
+      "url": "https://open.spotify.com/track/7hlZQf6RvZytRuAH1EugJS"
+    },
+    {
+      "album": {
         "name": "Living Free",
         "url": "https://open.spotify.com/album/5FpWd9Y9csfi4xYhCcvbVh"
       },
@@ -2167,7 +2225,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 205540,
       "name": "RAISED LIKE THAT",
       "url": "https://open.spotify.com/track/15NeNzRcjfuXTnOFHpnmzs"
@@ -2499,7 +2557,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 199454,
       "name": "Some Other Bar",
       "url": "https://open.spotify.com/track/1Y4smjUloaPcgZh99z0SGJ"
@@ -3193,7 +3251,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 181621,
       "name": "Wild As Her",
       "url": "https://open.spotify.com/track/1z6tm5brz2j2CFmD8EZzLm"

@@ -4,7 +4,7 @@
 
 > Calm and soothing strings to help you get a good night's rest.
 
-92 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
+94 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Escapes within](https://open.spotify.com/track/1g9nJxAMLbxmeCOnWUJT2Y) | [Lanai String Section](https://open.spotify.com/artist/31uknRwrjJ98yyV6tg0CXa) | [Escapes Within](https://open.spotify.com/album/5l91X3BPZ0wRyibDPmYvgB) | 1:28 | 2022-01-06 |  |
 | [eventide](https://open.spotify.com/track/1fj2Rp3PtpNImOX38QTblL) | [Naomi Young](https://open.spotify.com/artist/3i3Kwm6kFNGXpnnJfy8U1r) | [aurora](https://open.spotify.com/album/3hYe7VB1qzHba2JLVQVTwe) | 2:34 | 2022-02-25 |  |
 | [Evergreen](https://open.spotify.com/track/059EkGC2qj13VpNQrl4JQF) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Meditations](https://open.spotify.com/album/0BeOxMxb7pVoCft166u53r) | 2:22 | 2022-06-10 |  |
+| [Falling from the Clouds](https://open.spotify.com/track/2tBIuJpUF2rvQn1grBLMx5) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Falling from the Clouds](https://open.spotify.com/album/1jzXfrWVPtMnaEC7eTxULe) | 3:41 | 2022-07-22 |  |
 | [Fog](https://open.spotify.com/track/6XRae8jx3bssNxevSf6fM9) | [Clemens Bay Strings](https://open.spotify.com/artist/53PGHnTlcI8IFNjXtTCGrt) | [Fog](https://open.spotify.com/album/6ADKbyqFEo2CJ0H61wL69d) | 2:15 | 2022-06-10 |  |
 | [Fracture](https://open.spotify.com/track/5IQNIj54PxmBvPVh2fLuEH) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:17 | 2022-01-06 |  |
 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 | 2022-01-06 |  |
@@ -67,6 +68,7 @@
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 | 2022-06-03 |  |
 | [Nine Times around the Heart](https://open.spotify.com/track/5KEhwMi5xD7HxfoXe0iPM7) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 2:57 | 2022-01-06 |  |
 | [Nueva Palmira](https://open.spotify.com/track/0tIAcKnDwJCR1Miow9mqPM) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 1:28 | 2022-01-06 |  |
+| [Overjoyed](https://open.spotify.com/track/5r0aQbUBx9ACRNRk9fJBoc) | [Lucas & Marvin](https://open.spotify.com/artist/2IotGdcet3KtZlvrBjPKjv) | [Overjoyed](https://open.spotify.com/album/2oQWIsz5DGBM7vcQpll814) | 2:57 | 2022-07-22 |  |
 | [Placid Minds](https://open.spotify.com/track/62NuL99XSrl7IC1lEAAtKi) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Minds](https://open.spotify.com/album/0SGfPPdJ7Azwx3rSDv6Z1f) | 2:42 | 2022-01-06 |  |
 | [Polaris](https://open.spotify.com/track/3lMXwIrrQv8E1ZF9mcnV0l) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 3:10 | 2022-06-10 |  |
 | [Prélude](https://open.spotify.com/track/6CIVHlBDakr82sbXYweF8x) | [Massimo Romanza](https://open.spotify.com/artist/6n1878S9P9QD4u959fAZeM) | [Prélude](https://open.spotify.com/album/0Q5sbKw0dl9z7ANapFmIHL) | 2:01 | 2022-01-06 |  |

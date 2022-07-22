@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-192 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+193 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Peaches & Cream](https://open.spotify.com/track/2DLTtKF8Y5tvBuCj8eUzsk) | [Dennis Straat](https://open.spotify.com/artist/2QclRlSL9gUvxOoFVr9PA8) | [Peaches & Cream](https://open.spotify.com/album/7jjZhJW3zP3kZ6mEQHHu74) | 3:36 | 2022-05-20 |  |
 | [Perspective](https://open.spotify.com/track/2r528lmdc2OMFee1PpyDXm) | [Opal Dream](https://open.spotify.com/artist/6kRbmdP2GZc1KdiK9fUnKV) | [Perspective](https://open.spotify.com/album/5UqegZr7xu0Aw0h8tSaNUe) | 2:45 | 2022-05-20 |  |
 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 | 2022-05-20 |  |
+| [Pictures](https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Pictures](https://open.spotify.com/album/4xgDVe0RqOtwegdGP21AFR) | 2:55 | 2022-07-22 |  |
 | [Piece Of Me](https://open.spotify.com/track/5AacqlxHPjBA5amhrkkdRR) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Piece Of Me](https://open.spotify.com/album/5egWJ1LnfvrNX3zBwyz28a) | 2:16 | 2022-05-20 | 2022-07-01 |
 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 | 2022-05-20 |  |
 | [Play It Deep](https://open.spotify.com/track/7CMPSvxS4twJI3a7RYOC6j) | [BLK BX](https://open.spotify.com/artist/1y1qkzZPEQRXs5lHzqQP41) | [Play it Deep](https://open.spotify.com/album/3r6lYpUQHUjQEpXI7mlRzh) | 2:55 | 2022-05-20 |  |

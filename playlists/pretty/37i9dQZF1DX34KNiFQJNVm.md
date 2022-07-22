@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lizzo, Tierry com Wesley Safadão, Orochi e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,760,275 likes - 97 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760,293 likes - 97 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 53 | [Até Me Afogar](https://open.spotify.com/track/4wJ5MphAwbEQPxQd61oggW) | [Victor Alves](https://open.spotify.com/artist/52fUA3QlBFZBL0kODKezaF), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Até Me Afogar](https://open.spotify.com/album/721Wvpt7HXn8d23GYGfP1D) | 3:03 |
 | 54 | [Fênix do Amor](https://open.spotify.com/track/6v6RTwBQ9qewKuBfmNZA1T) | [Gretchen](https://open.spotify.com/artist/5l16yCOBayxKJwDKRZ8n0T) | [Fênix do Amor](https://open.spotify.com/album/5D380OJsT9YWS260EU2YUD) | 3:41 |
 | 55 | [Calcanhar](https://open.spotify.com/track/5er65cOZB6Rmc3Ak2JUUkO) | [Pedro Luís](https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O), [Yuri Queiroga](https://open.spotify.com/artist/44PxaqPplFkWKodq47oqIH) | [Terral](https://open.spotify.com/album/3Dr1wrwSE7APQYnnQYLFAL) | 3:37 |
-| 56 | [Passinho do MJ](https://open.spotify.com/track/1znXK9e3aW0yNV07Et8KQc) | [DH8](https://open.spotify.com/artist/5hqhAdtzYg4R0JmhY0CeGn) | [Versão Brasileira: Made in Bahia](https://open.spotify.com/album/0eAYIaq1T3fh7LvJV4jS2J) | 4:07 |
+| 56 | [Passinho do MJ](https://open.spotify.com/track/1znXK9e3aW0yNV07Et8KQc) | [DH8](https://open.spotify.com/artist/5hqhAdtzYg4R0JmhY0CeGn) | [Versão Brasileira: MADE IN BAHIA](https://open.spotify.com/album/0eAYIaq1T3fh7LvJV4jS2J) | 4:07 |
 | 57 | [Ressurreição](https://open.spotify.com/track/2HfKdMsIyBHDsfjIBb2qdP) | [Alves](https://open.spotify.com/artist/2zS9YaAB6eGPZYhHdFeMvN) | [Ressurreição](https://open.spotify.com/album/0fH7ocHH1lW3g80e1kd4fh) | 3:34 |
 | 58 | [Buchanan's](https://open.spotify.com/track/6D2msx93E4ZbcvHZyfmRu5) | [Moikas](https://open.spotify.com/artist/2iKmQwzpWTpQ98t84WZ73C), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Buchanan's](https://open.spotify.com/album/59M8fxmPJeGM5zq4JqbP0n) | 3:30 |
 | 59 | [Click Clack](https://open.spotify.com/track/725yde3yJ0vhErnR3Un5VV) | [Cabrxlzin](https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Click Clack](https://open.spotify.com/album/3Pu676g7kyI5bUMXsjd5jd) | 1:43 |

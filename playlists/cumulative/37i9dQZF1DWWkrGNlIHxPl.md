@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: ElGrandeToto x Ayra Starr.
 
-174 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+175 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [N'zor nebra](https://open.spotify.com/track/1FTzO3hv3gukg3nibftVWu) | [Cheba Nouria](https://open.spotify.com/artist/3AJD7ohoMSbivLcSHuvznO) | [Raï Club Culture, Vol\. 1 \(The Sound of North Africa\)](https://open.spotify.com/album/6GJTaC3IfQQj7pKz3K73Do) | 6:04 | 2022-06-06 | 2022-06-24 |
 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 | 2022-02-03 |  |
 | [Nobody](https://open.spotify.com/track/6XjENN2LsFNLOsAOpDv7ze) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Nobody](https://open.spotify.com/album/0hEo7Gh3anOoce9xCMLDNn) | 3:27 | 2021-12-16 | 2022-03-18 |
+| [Nobody Pass You](https://open.spotify.com/track/1RsJEjWqWK5DfxvxiPIrza) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Weyinmi](https://open.spotify.com/artist/0xf5q9m5lHOBdPh13Kp16c) | [Nobody Pass You](https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3) | 2:39 | 2022-07-18 |  |
 | [Nouar](https://open.spotify.com/track/7kYE92jx3dkVo6aYhz4GFG) | [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [Nouar](https://open.spotify.com/album/3P0GnsGZmo6FGQdX4KRmwR) | 6:19 | 2022-06-06 | 2022-06-24 |
 | [Now or Never](https://open.spotify.com/track/08R90Edtb2dNC0CN60vQSe) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG), [Skyral](https://open.spotify.com/artist/1xVVcdJpBS4LjdYZRTdZx3) | [Now or Never](https://open.spotify.com/album/6VMxOr3e73NvXTbWbznvAu) | 3:12 | 2021-12-16 | 2022-04-08 |
 | [Old Flame](https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Old Flame](https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw) | 2:04 | 2022-07-08 |  |

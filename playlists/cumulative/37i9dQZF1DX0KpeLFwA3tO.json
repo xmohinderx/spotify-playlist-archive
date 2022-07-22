@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: pinkshift",
+  "description": "The best new music from the wide world of punk. Cover: Daisy Grenade",
   "name": "All New Punk",
   "published_playlist_ids": [
     "2haHBtUGc1WwW279RE9x3F"
@@ -384,6 +384,28 @@
     },
     {
       "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/4i2BiYbdeGb7c8NA2XkmCa"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        },
+        {
+          "name": "The Ready Set",
+          "url": "https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2SvNm1U3VWBS86RioI8iU5"
+    },
+    {
+      "album": {
         "name": "Get It Together",
         "url": "https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD"
       },
@@ -431,7 +453,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 177349,
       "name": "Anything Was Better",
       "url": "https://open.spotify.com/track/6k94bJDkpIpB5ixbNedsul"
@@ -471,6 +493,32 @@
       "duration_ms": 258812,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/7t4LARzhISs3JPGhSZnsSq"
+    },
+    {
+      "album": {
+        "name": "As We Live (feat. Tim Armstrong & Rhoda Dakar)",
+        "url": "https://open.spotify.com/album/4V0dVPKKUWESWe45QHkT86"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        },
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        },
+        {
+          "name": "Rhoda Dakar",
+          "url": "https://open.spotify.com/artist/28q3NuNiFoeWa1UVdbNzOH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172463,
+      "name": "As We Live (feat. Tim Armstrong & Rhoda Dakar)",
+      "url": "https://open.spotify.com/track/1lPdVGhYGvE9RiWQ5zB7lI"
     },
     {
       "album": {
@@ -687,6 +735,24 @@
       "duration_ms": 163402,
       "name": "Bielefeld, Paris oder Madrid",
       "url": "https://open.spotify.com/track/3ufC9vSr7giJmxTJE5IRjd"
+    },
+    {
+      "album": {
+        "name": "Big Bad!",
+        "url": "https://open.spotify.com/album/0vygUxLK7ltBvtD4O0xzYh"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131093,
+      "name": "Big Bad!",
+      "url": "https://open.spotify.com/track/1OsQOPV4671B3MmJIuoeNg"
     },
     {
       "album": {
@@ -933,7 +999,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 77042,
       "name": "Blown to Bits",
       "url": "https://open.spotify.com/track/7HPw1XTlk0Qw7xapL0CWoY"
@@ -1187,6 +1253,24 @@
       "duration_ms": 204250,
       "name": "Bury Me In My Shoes - Single Version",
       "url": "https://open.spotify.com/track/42b00K4oaVZQYbY57KxWfw"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/7tDAI40H1oySPElKptmFaX"
+      },
+      "artists": [
+        {
+          "name": "Danny Goo",
+          "url": "https://open.spotify.com/artist/0pNhUCv5DGQvX8x8DI5XKB"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187138,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6vgen2mRieJZ8MOvZzPgBW"
     },
     {
       "album": {
@@ -1667,6 +1751,24 @@
       "duration_ms": 125389,
       "name": "cyanide (feat. cryogeyser)",
       "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
+    },
+    {
+      "album": {
+        "name": "Daddy's Boy",
+        "url": "https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Daddy's Boy",
+      "url": "https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb"
     },
     {
       "album": {
@@ -2401,7 +2503,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 180472,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"
@@ -2599,7 +2701,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 164138,
       "name": "FUNERAL GREY",
       "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
@@ -2707,7 +2809,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 196276,
       "name": "Get Equal, Get Even",
       "url": "https://open.spotify.com/track/2tu1J2fu9rlCOPSn1nxhR4"
@@ -3099,7 +3201,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 211135,
       "name": "Hallucinate (feat. Josh Franceschi)",
       "url": "https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh"
@@ -3157,6 +3259,24 @@
       "duration_ms": 116359,
       "name": "Hard to Believe",
       "url": "https://open.spotify.com/track/2dwaheGyTlQlQqWvFMjubr"
+    },
+    {
+      "album": {
+        "name": "Haunted Be Thy",
+        "url": "https://open.spotify.com/album/4iY3mLMgC6eAPRY7ZM6dIq"
+      },
+      "artists": [
+        {
+          "name": "Lecx Stacy",
+          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Haunted Be Thy",
+      "url": "https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF"
     },
     {
       "album": {
@@ -3247,6 +3367,42 @@
       "duration_ms": 138792,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/5mAqm8QY71uwyj7PcIPGnL"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6Phz8GiLOJLu4c1JPEjf3h"
+      },
+      "artists": [
+        {
+          "name": "KIDPUNK",
+          "url": "https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3dl6BNoUgzvtG2aQ2hqzKO"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv"
+      },
+      "artists": [
+        {
+          "name": "HUNNY",
+          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os"
     },
     {
       "album": {
@@ -3708,6 +3864,24 @@
     },
     {
       "album": {
+        "name": "It's Not A Problem",
+        "url": "https://open.spotify.com/album/2Xhq4BlVM0dlAA9guQNCSs"
+      },
+      "artists": [
+        {
+          "name": "No Fun At All",
+          "url": "https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145004,
+      "name": "It's Not A Problem",
+      "url": "https://open.spotify.com/track/5Wvz3IwfAUk81KQikNEvdU"
+    },
+    {
+      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
       },
@@ -3993,6 +4167,24 @@
       "duration_ms": 187155,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/5coZHMZoGV3PIjcumRM4YG"
+    },
+    {
+      "album": {
+        "name": "K\u00e4fer",
+        "url": "https://open.spotify.com/album/28FkgjVDn2Zy4FHK9twDnZ"
+      },
+      "artists": [
+        {
+          "name": "Leftovers",
+          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163928,
+      "name": "K\u00e4fer",
+      "url": "https://open.spotify.com/track/6mgd4kTu0aZjVPBd91fkVq"
     },
     {
       "album": {
@@ -4353,7 +4545,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 232058,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
@@ -4786,6 +4978,28 @@
     },
     {
       "album": {
+        "name": "my ex",
+        "url": "https://open.spotify.com/album/4jwTtRDIY9ckGii0QNsCdq"
+      },
+      "artists": [
+        {
+          "name": "Chad Tepper",
+          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
+        },
+        {
+          "name": "Pierre Bouvier",
+          "url": "https://open.spotify.com/artist/1FwRuZTNH8Ys97avBNW6uJ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168587,
+      "name": "my ex",
+      "url": "https://open.spotify.com/track/1iE5bs1p6cXGkj5T4NODE2"
+    },
+    {
+      "album": {
         "name": "Good Die Young",
         "url": "https://open.spotify.com/album/2RuqF2YyZ5gDfOZ5kmU7J5"
       },
@@ -4837,7 +5051,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 182307,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/49XbVxVz5d4yt8KwbqSii6"
@@ -5087,7 +5301,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 185319,
       "name": "nothing (in my head)",
       "url": "https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX"
@@ -5170,6 +5384,24 @@
     },
     {
       "album": {
+        "name": "On a Grave",
+        "url": "https://open.spotify.com/album/6twhdW8vyCwUOkM7QQf3SZ"
+      },
+      "artists": [
+        {
+          "name": "Between Bodies",
+          "url": "https://open.spotify.com/artist/4c9as8vPweJK4VD8JvdjQr"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233568,
+      "name": "On a Grave",
+      "url": "https://open.spotify.com/track/1NHXt1fYAfFptko6m0g5HX"
+    },
+    {
+      "album": {
         "name": "One Easy Thing",
         "url": "https://open.spotify.com/album/6QDkHIwDgnao7FF4TpJq7W"
       },
@@ -5239,6 +5471,60 @@
       "duration_ms": 211578,
       "name": "ONE SIZE FITS ALL",
       "url": "https://open.spotify.com/track/5R7ZGxCZElz3ivYaui4IKn"
+    },
+    {
+      "album": {
+        "name": "Open Up My Head",
+        "url": "https://open.spotify.com/album/37Th8gyncYopCvlWvedrGn"
+      },
+      "artists": [
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Open up My Head",
+      "url": "https://open.spotify.com/track/1dXx1NLFcQBCPoGAUNhKTU"
+    },
+    {
+      "album": {
+        "name": "Orange County Punk Rock Legend",
+        "url": "https://open.spotify.com/album/0N6DCJtzG6GPoaQxu0YwJL"
+      },
+      "artists": [
+        {
+          "name": "The Garden",
+          "url": "https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Orange County Punk Rock Legend",
+      "url": "https://open.spotify.com/track/2IyMFjkWuxuev05AWpFDXj"
+    },
+    {
+      "album": {
+        "name": "Ordinaire",
+        "url": "https://open.spotify.com/album/4ETAzo6wdR5Lup7xFt1oMD"
+      },
+      "artists": [
+        {
+          "name": "L'Affaire P\u00e9lican",
+          "url": "https://open.spotify.com/artist/1ksofERLywmzgMqjit8iAY"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159715,
+      "name": "Ordinaire",
+      "url": "https://open.spotify.com/track/5XOU00eDPnL8N67wD1h6RP"
     },
     {
       "album": {
@@ -5735,7 +6021,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 237980,
       "name": "Punk Rock Loser",
       "url": "https://open.spotify.com/track/6cHHjw1pDDw2OiSXYSRpxb"
@@ -5937,7 +6223,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 121724,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz"
@@ -6344,6 +6630,24 @@
     },
     {
       "album": {
+        "name": "She Likes My Tattoos",
+        "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164327,
+      "name": "She Likes My Tattoos",
+      "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
+    },
+    {
+      "album": {
         "name": "She's Got A Gun",
         "url": "https://open.spotify.com/album/1xpaj8z0Fu1C3U5pZvp0Kl"
       },
@@ -6533,7 +6837,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 133124,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg"
@@ -6921,7 +7225,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 185880,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/5eEoPPcDszgnt83ZcVcKlJ"
@@ -7181,7 +7485,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 179175,
       "name": "Teenage Runaways",
       "url": "https://open.spotify.com/track/2XnXc7VrwyQzy5ddfKe5Qo"
@@ -7225,6 +7529,24 @@
       "duration_ms": 184761,
       "name": "TELL ME THAT YOU\u2019RE OKAY",
       "url": "https://open.spotify.com/track/0UjJ89GHYTykKaNUi55zvH"
+    },
+    {
+      "album": {
+        "name": "That Was A Joke",
+        "url": "https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "That Was A Joke",
+      "url": "https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg"
     },
     {
       "album": {
@@ -7275,7 +7597,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 189520,
       "name": "The Croppy Boy '98",
       "url": "https://open.spotify.com/track/4bCSi9lRoWICyG2RM2oocc"
@@ -7311,7 +7633,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 165893,
       "name": "THE FLOOR IS LAVA!!",
       "url": "https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8"
@@ -8087,7 +8409,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 140097,
       "name": "We All Got Covid (Except for Linus)",
       "url": "https://open.spotify.com/track/4TwuMxIhBZ47gIpHljt23x"

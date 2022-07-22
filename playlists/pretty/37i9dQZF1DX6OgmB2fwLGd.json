@@ -1,13 +1,29 @@
 {
-  "description": "\"Hey bel, la bastichi. La papaya, du la potato\" Cover: Minions",
-  "num_followers": 1163858,
+  "description": "The soundtrack to the internet. Cover: Minions",
+  "num_followers": 1165295,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI0NTU5MCwwMDAwMDM1MzAwMDAwMTgyMTcyM2FiZjgwMDAwMDE4MWQ5MGVhNTRj",
+  "snapshot_id": "MTY1ODM2NTM4MCwwMDAwMDM1NTAwMDAwMTgyMWU0Nzg2MGMwMDAwMDE4MWQ5MGVhNTRj",
   "tracks": [
+    {
+      "added_at": "2022-07-21 01:02:36",
+      "album": {
+        "name": "Oh Naur",
+        "url": "https://open.spotify.com/album/22puJMyQXeGW1mgiE1vw1I"
+      },
+      "artists": [
+        {
+          "name": "Yung Skrrt",
+          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
+        }
+      ],
+      "duration_ms": 78832,
+      "name": "Oh Naur",
+      "url": "https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad"
+    },
     {
       "added_at": "2022-06-29 19:04:13",
       "album": {
@@ -1759,22 +1775,6 @@
       "duration_ms": 123529,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/0ItF4CpuagCFBMt7IdpoLn"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "All My Heroes Are Cornballs",
-        "url": "https://open.spotify.com/album/5ilsl5R2lGACTnPZMKIp7o"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 156533,
-      "name": "Jesus Forgive Me, I Am A Thot",
-      "url": "https://open.spotify.com/track/4odoLyHnSx2jIcXs16IvsV"
     }
   ],
   "unique_name": "Internet People",

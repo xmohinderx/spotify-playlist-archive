@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 180279,
       "name": "A Verdadeira Magia",
       "url": "https://open.spotify.com/track/7JI1Xb6qXj1E9Usc5dBCQS"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 132044,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/5PZAbR6JHYYV9xp5gv0XES"
@@ -3149,6 +3149,28 @@
       "duration_ms": 173538,
       "name": "Eu Vou Machucar S\u00f3 um Pouquinho X Catucando Gostosinho",
       "url": "https://open.spotify.com/track/0EMAzKGOFxJgG9vHsm7ciF"
+    },
+    {
+      "album": {
+        "name": "Eu(S)",
+        "url": "https://open.spotify.com/album/47UmbXgK2mtJyfBj1CDIIP"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        },
+        {
+          "name": "Ugo Ludovico",
+          "url": "https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "Eu(S)",
+      "url": "https://open.spotify.com/track/36jHpclKntpDEiyLVFoUNE"
     },
     {
       "album": {
@@ -7483,7 +7505,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 150543,
       "name": "Quando o Sol Chegar",
       "url": "https://open.spotify.com/track/77gVsRzcoTHiLTtN9LPYJM"
@@ -9663,7 +9685,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 168813,
       "name": "Tudo Nosso",
       "url": "https://open.spotify.com/track/5qtQJJqJUjk2zNjRroqgLk"
@@ -9757,6 +9779,24 @@
       "duration_ms": 188893,
       "name": "U Know What's Up",
       "url": "https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE"
+    },
+    {
+      "album": {
+        "name": "Raiz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Ih58tG6tjs31HTfEUVwUL"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276096,
+      "name": "Um Sonhador / N\u00e3o Precisa / N\u00e3o Aprendi A Dizer Adeus - Ao Vivo",
+      "url": "https://open.spotify.com/track/42cdiwjkfYVjI8JtAQwsG5"
     },
     {
       "album": {

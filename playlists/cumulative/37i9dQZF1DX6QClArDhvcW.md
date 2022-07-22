@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-189 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+195 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Big El](https://open.spotify.com/track/69aMbPMuyQLVUOW0M52Cbc) | [Aican](https://open.spotify.com/artist/4UCgzSRu7AqsgDKDCaPeUb), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Big El](https://open.spotify.com/album/2m8cmhKHiVvCfR2cYu1Eys) | 1:54 | 2022-05-20 | 2022-07-08 |
 | [Boba Date](https://open.spotify.com/track/1FswPcE0Km0F6SLilmx19r) | [Horizon Terminal](https://open.spotify.com/artist/5FE0jNoXdkYBQl78Dni7DZ), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY), [Lamchop](https://open.spotify.com/artist/04V09hOaV8J9dISRfEcZvE) | [Pastel Lovers](https://open.spotify.com/album/6itBAqL7GJ1fMKnAHjCRtw) | 2:07 | 2022-05-20 |  |
 | [Bonsai Leaves](https://open.spotify.com/track/2pdYunyCJgWozx9tlAyu1V) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Pasture](https://open.spotify.com/album/6jAPtWXrCP066JPaKeG3gs) | 2:17 | 2022-05-20 |  |
+| [bottle rockets](https://open.spotify.com/track/0H9T97wS2k3bk1JcyOlrrN) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [campfire talks](https://open.spotify.com/album/5UgSVmsWg4jgAuGUwjssVU) | 2:19 | 2022-07-22 |  |
 | [Breeze 52](https://open.spotify.com/track/0rNTOI1K11CSPTj3dvq1tU) | [Pluto Tracks](https://open.spotify.com/artist/1JFmZ9XvgZnVttQHe8RSj1) | [Breeze 52](https://open.spotify.com/album/1qRVaci6Oqo43ssMt88MwZ) | 1:58 | 2022-05-20 |  |
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2022-05-20 |  |
 | [Candy Clouds](https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt) | [Airship River](https://open.spotify.com/artist/6v5wK0vEKyLP05vV9dvly6) | [Lemo](https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI) | 3:12 | 2022-05-20 |  |
@@ -66,11 +67,13 @@
 | [Give in to you](https://open.spotify.com/track/2GYrasXjMJuZKD5WMKrLHs) | [Gachagchi](https://open.spotify.com/artist/4gYhpOBdTKEhnrjRsYrhXe) | [I am the one](https://open.spotify.com/album/0hN15c8jV4wx6Q8PkqWKZf) | 1:44 | 2022-05-20 |  |
 | [Golden Gardens](https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Golden Gardens](https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt) | 3:16 | 2022-05-20 | 2022-06-25 |
 | [Halfway](https://open.spotify.com/track/7JjUUzjaOvKTgOPqS8k7co) | [Droxilyn](https://open.spotify.com/artist/3oFAs0SnvbeuGg4ti8Ycak), [lofi boyz](https://open.spotify.com/artist/4MGcmCTE0ifSg3In5uyD1u) | [Halfway](https://open.spotify.com/album/288gVJdgEXnPu89VNdKY4t) | 2:12 | 2022-05-20 | 2022-05-27 |
-| [hanging on](https://open.spotify.com/track/6PBlsaAapHTqzooT5lZn2a) | [middlesway](https://open.spotify.com/artist/5AZJCTkP3II2LkTMmZPHYJ) | [hanging on](https://open.spotify.com/album/34bsRD4L9wsyfjZiAGKYXS) | 2:12 | 2022-05-20 |  |
+| [Hammock Peace](https://open.spotify.com/track/5c4HtDhI2AQAHiDZyiGanT) | [Oliver Max](https://open.spotify.com/artist/2VhJDJ4mwZK4DAnpcJmRAt) | [Hammock Peace](https://open.spotify.com/album/4jXFZ2EFjeARbnldcTjbip) | 2:25 | 2022-07-22 |  |
+| [hanging on](https://open.spotify.com/track/6PBlsaAapHTqzooT5lZn2a) | [middlesway](https://open.spotify.com/artist/5AZJCTkP3II2LkTMmZPHYJ) | [hanging on](https://open.spotify.com/album/34bsRD4L9wsyfjZiAGKYXS) | 2:12 | 2022-05-20 | 2022-07-22 |
 | [hardly trying](https://open.spotify.com/track/7q2jpq2xFH1Q54QbrE5kPe) | [weirdboi](https://open.spotify.com/artist/50IAuRmsangO5zqJkowx2A) | [hardly trying](https://open.spotify.com/album/7g8BhI4ywxdNmORpmaNMvw) | 1:49 | 2022-05-20 |  |
 | [Heavy Dreams](https://open.spotify.com/track/7FdEwJPi1n1pEMrcyUpC9C) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [Heavy Dreams](https://open.spotify.com/album/3h0XZmY58lpOsoAU6gwzll) | 2:50 | 2022-05-20 | 2022-05-27 |
 | [hoj ti to](https://open.spotify.com/track/2qzjYqTA8dwy99L6Mhp91n) | [Ted Mandy](https://open.spotify.com/artist/6zuQeHBicF8rBO33EAf5TI) | [hoj ti to](https://open.spotify.com/album/2UuKxvayuxXBjzi5iSVuFO) | 1:50 | 2022-05-20 |  |
 | [hollows](https://open.spotify.com/track/1LsBuFMHgiUlXYcH4PT2nv) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [hollows](https://open.spotify.com/album/2S50kPdsCPHNGvUiUeW7A4) | 2:50 | 2022-05-20 |  |
+| [Home Sweet Home](https://open.spotify.com/track/08d2tsBYDh0Qy936jmFAhS) | [Jhillazz](https://open.spotify.com/artist/6K5cabsg32lZlLnr6x09CA) | [Home Sweet Home](https://open.spotify.com/album/7wriuDh2VUOJLu5denfx0G) | 2:06 | 2022-07-22 |  |
 | [Hot Shot](https://open.spotify.com/track/2E8ilANKW5yhhtA7KMcTKX) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Hot Shot](https://open.spotify.com/album/2rO7x2YIhfAjxhbWsESVxG) | 2:25 | 2022-06-24 |  |
 | [HouseShow](https://open.spotify.com/track/4MFkO5ggtN2Gf8qpFQd7sb) | [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT), [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER) | [HouseShow](https://open.spotify.com/album/6VcB7xJJKnkyeVDcl6yA9Y) | 1:58 | 2022-05-27 |  |
 | [Hustle](https://open.spotify.com/track/2ItT6Kt0j6lsCQghaB8748) | [Ginnypig](https://open.spotify.com/artist/72bmvqzLz3X1XDJ0eZh61F) | [Hustle](https://open.spotify.com/album/36RbOMJiubjof1uj03ZwkG) | 2:24 | 2022-05-20 |  |
@@ -111,6 +114,7 @@
 | [MOON](https://open.spotify.com/track/7pwGTxTO5UlVDsbVKkZFPX) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [MOON](https://open.spotify.com/album/7GGjVVLMJb0FG1LQkGKCCe) | 1:45 | 2022-05-20 |  |
 | [Morning](https://open.spotify.com/track/22xSHJxnzwtEO2qph3rmrs) | [KV](https://open.spotify.com/artist/2sdQEitmjfbyoATb6OfkEi) | [Morning](https://open.spotify.com/album/2f8CymR5NiP99UKLAPPQrm) | 2:24 | 2022-06-17 |  |
 | [Morning Crows](https://open.spotify.com/track/3QQ2zGJQfvfIsenqbMwOgl) | [Bag'o Chips](https://open.spotify.com/artist/636ev3bJk1dl7fPvqSlRwg) | [Morning Crows](https://open.spotify.com/album/26XR781Q3YUSPyz9nYo3DG) | 3:02 | 2022-05-20 |  |
+| [motylek](https://open.spotify.com/track/2jdGc9nzRquVJ24HPDC3Is) | [Kenzo Hill](https://open.spotify.com/artist/0t8px0Bpm4kjzSJ2RREXiK) | [motylek](https://open.spotify.com/album/66pXgt3qcK1xild9iNQV8Y) | 1:57 | 2022-07-22 |  |
 | [Neon Sea](https://open.spotify.com/track/2Eloe1ZdrlK29u1fNKQMRO) | [Broken Embrace](https://open.spotify.com/artist/5xJZJn5NZIKZ6A25TwDQu8) | [Neon Sea](https://open.spotify.com/album/6XNlmwEMIKDBOHt50eXaC8) | 2:04 | 2022-05-20 |  |
 | [Neon Stream](https://open.spotify.com/track/2aYv8pk0KYKoVTFXYBvUYe) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Retrospect](https://open.spotify.com/album/5xVxxvGLW9KLlHSYeizyJK) | 2:28 | 2022-05-20 |  |
 | [nesh](https://open.spotify.com/track/0HOAVNvOCf0RMc9oZCIAVP) | [p!ke](https://open.spotify.com/artist/2kebQPXUtRBcFlYb8Zhb3j) | [goodfella](https://open.spotify.com/album/2EjvFoMuv8DtBGvEv3267g) | 1:47 | 2022-05-20 |  |
@@ -155,10 +159,12 @@
 | [Somewhere Away](https://open.spotify.com/track/68FMeTfkT6X2IfDJlpLwpz) | [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [Somewhere Away](https://open.spotify.com/album/6TwJC9LpXYCswlkZPJ5Tbx) | 1:51 | 2022-05-20 |  |
 | [Soul Kitchen](https://open.spotify.com/track/5rwkMQ0tfHdy7zIYDSoKAQ) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:24 | 2022-05-20 |  |
 | [Souvenir](https://open.spotify.com/track/5GFro8JfW7Scx4XsgS5e32) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Souvenir](https://open.spotify.com/album/6v0GUOWu4WAa4XGjSB5eYx) | 2:28 | 2022-05-20 |  |
+| [Sunday Morning](https://open.spotify.com/track/51dFIbbopBc0U9dFRBAQGE) | [thebombaypanic](https://open.spotify.com/artist/6EjKzk1a3EbiXT2TwPYGVo) | [Sunday Morning](https://open.spotify.com/album/6JTn41nZOA1kLKHI47WFrS) | 2:42 | 2022-07-22 |  |
 | [Sunday Vibe](https://open.spotify.com/track/2DkudyqbfyxWaHrsFVdcQg) | [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO) | [Sunday Vibe](https://open.spotify.com/album/7u2zSSqdcVSt7jW0IYSF8x) | 2:18 | 2022-05-20 |  |
 | [Sundets](https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Kanbina](https://open.spotify.com/album/6HZiWLomAqbJbt56oOiK34) | 2:02 | 2022-05-20 |  |
 | [Sunny Daze](https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Sunny Daze](https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI) | 1:57 | 2022-05-20 |  |
 | [Sunshine In The Rain](https://open.spotify.com/track/5BT81IYxSte0ledyySYmWe) | [Jazzavelha](https://open.spotify.com/artist/2Rif6F63hq2L9p8DWkFq4k) | [Sunshine In The Rain](https://open.spotify.com/album/2GH5th8g2YU8fiuxjMiqFj) | 2:15 | 2022-05-20 | 2022-07-15 |
+| [Sweet Home](https://open.spotify.com/track/4K0rbmXkGLx1a8pdfDhPTw) | [Amarià](https://open.spotify.com/artist/4cINnaHD0aezcbeGklAzGm), [Grisby](https://open.spotify.com/artist/5UbHC1X5ez55xfl4SHQ9eK) | [Sweet Home](https://open.spotify.com/album/5fIuYDIia6DJkyFkYi442F) | 1:40 | 2022-07-22 |  |
 | [Swift Coasting](https://open.spotify.com/track/2M7KlFrPtccH6wNjTk4P87) | [Drift Crew](https://open.spotify.com/artist/1izsiM2GuR0dyNhBZ1HwXI) | [Swift Coasting](https://open.spotify.com/album/3zgpEvqf1mxy3ZWmp913R8) | 1:55 | 2022-05-20 | 2022-05-27 |
 | [Tall Grass](https://open.spotify.com/track/2EQkLsBElVQZU35xdsTr45) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Tall Grass](https://open.spotify.com/album/0693VKyfsOAqKY6MXJAPbn) | 2:06 | 2022-05-20 |  |
 | [Tea Tree](https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Tea Tree](https://open.spotify.com/album/1KHbsf2RfIBpoWAqLgudbU) | 2:04 | 2022-05-20 |  |

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-164 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+165 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [killer tune kills me](https://open.spotify.com/track/2JCdUwmGDO3SBkhwkfRaLr) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:10 | 2022-06-17 |  |
 | [Kink](https://open.spotify.com/track/0ElSHxC8ZfIHBlJG6qCSjN) | [井戸健人](https://open.spotify.com/artist/4PlzrQn4QMNelRxDC51Z7u) | [I’m here, where are you](https://open.spotify.com/album/6HSPv5UPO4T4beQaQldvOg) | 4:37 | 2022-06-28 |  |
 | [Krazy Salt](https://open.spotify.com/track/6E2J0fgj3HACa2pHiHBAIk) | [Eryyy](https://open.spotify.com/artist/05bLnicFOOWYmhoVx4FjMM), [Noriyuki Takagi a.k.a\. NT](https://open.spotify.com/artist/4fIgXEZosCpVykEuMaelYm) | [YO WAKARANGA](https://open.spotify.com/album/4xuOPbWMDqE3IHEZ56E4QO) | 3:07 | 2022-06-21 | 2022-06-29 |
-| [lean forward](https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [lean forward](https://open.spotify.com/album/22QvSMhfacTzmNNmvVkIOO) | 4:30 | 2022-06-16 |  |
+| [lean forward](https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [lean forward](https://open.spotify.com/album/22QvSMhfacTzmNNmvVkIOO) | 4:30 | 2022-06-16 | 2022-07-22 |
 | [Lemon Man](https://open.spotify.com/track/5FjklXsttFbTHipX9DsvXF) | [sankara](https://open.spotify.com/artist/7mt4mnzU3kea0RFoGBEmtD) | [Lemon Man](https://open.spotify.com/album/7ubdDTcKXTdgRmPNmq2un1) | 3:24 | 2022-06-21 | 2022-07-20 |
 | [LIGHT HOUSE](https://open.spotify.com/track/6dCgABDpFP95qZpLvx48iW) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [LIGHT HOUSE](https://open.spotify.com/album/40GFIASzdvtix58rdPJZco) | 3:47 | 2022-06-28 |  |
 | [Little Lights](https://open.spotify.com/track/12YzPNCd83GVt8cCaw3JrL) | [Ayumi Nakamura](https://open.spotify.com/artist/5bsG93iJyOk4gCdaLFpHuR) | [Little Lights](https://open.spotify.com/album/47f3jgSzBpISM5RzKIMwGK) | 2:57 | 2022-06-16 | 2022-07-20 |
@@ -122,6 +122,7 @@
 | [Void Time](https://open.spotify.com/track/5RaIXJmfqymo3v1IMKFs7W) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [Void Time](https://open.spotify.com/album/60hE7KIjUdQEFZNEh4iEfE) | 3:36 | 2022-05-26 | 2022-06-15 |
 | [Waving](https://open.spotify.com/track/13azqt7NX9Rxj2iBjIoG5k) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Waving](https://open.spotify.com/album/6gIiOFp2XCgsVrQNEeFPtz) | 3:45 | 2022-05-26 | 2022-06-29 |
 | [Whiskey](https://open.spotify.com/track/1oIZe3U574XwPSHCKw1CuX) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Whiskey](https://open.spotify.com/album/4vDnDGOvWhIXdRBB3B8IFW) | 3:54 | 2022-07-05 |  |
+| [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 | 2022-07-21 |  |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/7f7ufnrborStLtDM0rP3rO) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/7FACUKFmq5pwsjY09nUeiA) | 2:22 | 2022-07-05 |  |
 | [WOO! GO!](https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [WOO! GO!](https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX) | 3:19 | 2022-05-26 | 2022-07-20 |
 | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw) | 3:58 | 2022-05-26 | 2022-06-01 |
@@ -163,7 +164,7 @@
 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 | 2022-05-26 | 2022-06-08 |
 | [流星群](https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [流星群](https://open.spotify.com/album/1NVfNGKoeTlThe7SMCooXT) | 3:09 | 2022-05-26 | 2022-06-22 |
 | [点と線 \(feat\. さとうもか\)](https://open.spotify.com/track/48JIfccdKcd1swFuFc7s64) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [BITEKI](https://open.spotify.com/album/6IryR0y7YeL11qhnXrwxkX) | 4:21 | 2022-05-26 | 2022-06-18 |
-| [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-05 |  |
+| [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-05 | 2022-07-22 |
 | [生きてみるわ](https://open.spotify.com/track/1r1rgstZ6j5c9PIIvcVdaX) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [ECHO CHAMBER](https://open.spotify.com/album/23hqO5nN3rLdA2NWUnIP9O) | 3:32 | 2022-07-07 |  |
 | [生きる](https://open.spotify.com/track/2fVaeXxHlTXGg2lwRzOKOw) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [春火燎原](https://open.spotify.com/album/0PuAbMj3Q0pg3XuNTYY9yM) | 4:01 | 2022-05-26 | 2022-06-15 |
 | [胸騒ぎ \- feat\. Chi\- from カメレオン・ライム・ウーピーパイ](https://open.spotify.com/track/7FHyKWcB49CJK1acgKMhit) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb), [Chi\-](https://open.spotify.com/artist/7xRcaUcszechS0LHtEbt9n), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [?](https://open.spotify.com/album/4rmjxVcCCC6lD3MGjS8hfq) | 3:03 | 2022-06-28 | 2022-07-20 |

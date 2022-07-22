@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-883 songs - 1 day 23 hr 40 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+884 songs - 1 day 23 hr 42 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [BODIES \(feat\. Damso\)](https://open.spotify.com/track/3im90dPSC5z1PYJ305kgSy) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 2:46 | 2022-07-02 |  |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-05-03 | 2022-07-03 |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-07-02 |  |
+| [BONKASA](https://open.spotify.com/track/62u6D0NgRPtFcCdF5rNLeh) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [BONKASA](https://open.spotify.com/album/4WfVv45jeLIbqBm5zriHs6) | 2:25 | 2022-07-21 |  |
 | [Bonne journée](https://open.spotify.com/track/0i0ESj6M9eV8ck3LP07QzD) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:12 | 2022-03-05 | 2022-03-12 |
 | [Bonsoir Mon Vieil Ami](https://open.spotify.com/track/1SD6wA55Ok0E7I8EIofMXc) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:32 | 2021-07-18 | 2021-07-20 |
 | [Booba](https://open.spotify.com/track/2ifu9ZT65WP1NCZnCUb9nJ) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 3:52 | 2022-06-25 | 2022-06-27 |
@@ -335,7 +336,7 @@
 | [GROKUWA](https://open.spotify.com/track/0RnWcpTwUpfzPWGDjajX0o) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [GROKUWA](https://open.spotify.com/album/4F6wVoSnaBQTW6DJzkJ8oH) | 3:02 | 2021-10-10 | 2021-10-17 |
 | [Gros lot](https://open.spotify.com/track/0wWt2lkoacZpKXarF1ClYB) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:45 | 2021-11-14 | 2021-11-20 |
 | [GTA](https://open.spotify.com/track/3nuRoZFV93hyFngba5hixq) | [JSX](https://open.spotify.com/artist/7J0JxtOPMKWufOraoIqjiH), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [GTA](https://open.spotify.com/album/4TnJq3xddlwQLL7dbno9RC) | 3:33 | 2021-07-11 | 2021-07-16 |
-| [Guapman](https://open.spotify.com/track/3UizQJoEShTLDSUUByJLDr) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [Guapman](https://open.spotify.com/album/3DXG5GrBLszaSduaQ5y3De) | 2:09 | 2022-07-16 |  |
+| [Guapman](https://open.spotify.com/track/3UizQJoEShTLDSUUByJLDr) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [Guapman](https://open.spotify.com/album/3DXG5GrBLszaSduaQ5y3De) | 2:09 | 2022-07-16 | 2022-07-22 |
 | [HAINE&SEX](https://open.spotify.com/track/6Vcxzw4ifKqYxVrp3ckpVF) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DRILL FR](https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN) | 3:21 | 2021-04-01 | 2021-10-23 |
 | [Hamsterdam](https://open.spotify.com/track/3rruEQ23b1JONPySlCn03w) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Aquanaute](https://open.spotify.com/album/5xFIrXrCK3AVjotjoRGe1h) | 3:50 | 2022-01-27 | 2022-01-29 |
 | [Happy End \(feat\. Suikon Blaz AD\)](https://open.spotify.com/track/6xwhUh69b89aLTeYR2HH8r) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Suikon Blaz AD](https://open.spotify.com/artist/7kFoHyLeI8IWSoKZ8uIeY1) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:12 | 2022-02-05 | 2022-02-14 |

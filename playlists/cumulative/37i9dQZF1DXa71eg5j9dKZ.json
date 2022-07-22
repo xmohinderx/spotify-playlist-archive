@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover:  Lil Silva",
+  "description": "The home for alternative electronic music. Cover:  Eliza Rose",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 402014,
       "name": "Allude",
       "url": "https://open.spotify.com/track/2z6a3MLNATHbLvlRNjDksC"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 286133,
       "name": "Blood In The Snow",
       "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 269880,
       "name": "Breakout (feat. LaMeduza)",
       "url": "https://open.spotify.com/track/1gyUWnRt5qvq0pqgvTzHKI"
@@ -1533,6 +1533,24 @@
       "duration_ms": 216179,
       "name": "Company",
       "url": "https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1"
+    },
+    {
+      "album": {
+        "name": "Coochie (a bedtime story)",
+        "url": "https://open.spotify.com/album/24bJOVy2HNPw8qB0kWbA18"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Coochie (a bedtime story)",
+      "url": "https://open.spotify.com/track/5YZQKpxMO2VDzoAiLCRbzt"
     },
     {
       "album": {
@@ -2368,6 +2386,24 @@
     },
     {
       "album": {
+        "name": "FYA FYA",
+        "url": "https://open.spotify.com/album/3iWeKO9mVCGJ6nUTPb2M4R"
+      },
+      "artists": [
+        {
+          "name": "MISFYA",
+          "url": "https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "FYA FYA",
+      "url": "https://open.spotify.com/track/7gXR2JukLmjLqryJmqQmTK"
+    },
+    {
+      "album": {
         "name": "Gentle Romance",
         "url": "https://open.spotify.com/album/3PoSc1ElaxLbLk8QQaunBn"
       },
@@ -2589,7 +2625,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 226971,
       "name": "Head Back",
       "url": "https://open.spotify.com/track/25XeeZe1GNgCsnjJwubdMW"
@@ -2967,7 +3003,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 417992,
       "name": "I'm Still Mellow",
       "url": "https://open.spotify.com/track/6029AApj9Fccmc3QDooNxw"
@@ -4252,6 +4288,24 @@
     },
     {
       "album": {
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239846,
+      "name": "Never Gonna Stop",
+      "url": "https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc"
+    },
+    {
+      "album": {
         "name": "Never The Same",
         "url": "https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj"
       },
@@ -4463,6 +4517,24 @@
       "duration_ms": 180899,
       "name": "Passion - Sam Gellaitry Remix",
       "url": "https://open.spotify.com/track/4Kd2L1XwxyGOa9dcQIEndh"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3Y1lboWzn2kyYjVDOwkBjd"
+      },
+      "artists": [
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/66GA7b6ONDHPYgBBqJe9J0"
     },
     {
       "album": {
@@ -5595,6 +5667,24 @@
       "duration_ms": 175213,
       "name": "Steamroller",
       "url": "https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/2TMsotmVj0zxWshIzzAcdV"
+      },
+      "artists": [
+        {
+          "name": "Waleed",
+          "url": "https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298285,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/06dNaUoMbDGKFKA3KtSkck"
     },
     {
       "album": {

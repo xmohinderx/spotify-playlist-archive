@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B tracks essential for your current mood. Cover: Paul Partohap",
+  "description": "The R&B tracks essential for your current mood. Cover: Doechii, SZA",
   "name": "mood.",
   "published_playlist_ids": [
     "26MnmTp5Ay0CeKf3X2PBvn"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 216062,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 182250,
       "name": "Breeze in the beach (feat. CHAI)",
       "url": "https://open.spotify.com/track/3FEAE1Iz4xGIBlSpzGPhIN"
@@ -736,6 +736,42 @@
     },
     {
       "album": {
+        "name": "Self Explanatory",
+        "url": "https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181039,
+      "name": "Handle Me Gently",
+      "url": "https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l"
+    },
+    {
+      "album": {
+        "name": "My Side",
+        "url": "https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173072,
+      "name": "Hate to see it",
+      "url": "https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu"
+    },
+    {
+      "album": {
         "name": "Head To Toe",
         "url": "https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc"
       },
@@ -1055,7 +1091,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 195929,
       "name": "LILITH",
       "url": "https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn"
@@ -1091,7 +1127,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
@@ -1247,6 +1283,28 @@
       "duration_ms": 226105,
       "name": "mayonnaise",
       "url": "https://open.spotify.com/track/4lErKE9FjE7pbqY85t3nn5"
+    },
+    {
+      "album": {
+        "name": "EGO 90'S",
+        "url": "https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw"
+      },
+      "artists": [
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274586,
+      "name": "Midnight (feat. Sam Kim)",
+      "url": "https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK"
     },
     {
       "album": {
@@ -1523,7 +1581,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 217731,
       "name": "Party Tonight",
       "url": "https://open.spotify.com/track/1JXbLh8cttnk3P1NXrJWEa"
@@ -1545,6 +1603,28 @@
       "duration_ms": 192142,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/4DsRgTgw9ywVRrYCCpraTv"
+    },
+    {
+      "album": {
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
       "album": {
@@ -1877,7 +1957,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 168000,
       "name": "Spanish Restaurant (Prod. Liquor well)",
       "url": "https://open.spotify.com/track/5mxxj0aEeTNvo9N7JWJEhM"
@@ -1975,7 +2055,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 218781,
       "name": "Surf On (Prod. 2LSON)",
       "url": "https://open.spotify.com/track/1OFnjepHEkLCH3S3Tpwzc4"
@@ -1993,7 +2073,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 155298,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
@@ -2011,7 +2091,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 201469,
       "name": "There's No One At All (Another Version)",
       "url": "https://open.spotify.com/track/3Yfedn84e2VLXSVwmowqEn"

@@ -1,13 +1,37 @@
 {
   "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=oq2ijsCBQEy6ace2WNnU4A\">Nakhane</a>",
-  "num_followers": 71967,
+  "num_followers": 72008,
   "original_name": "Made In South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzNjEzNSwwMDAwMDJhNjAwMDAwMTgxZmViYmUzYWYwMDAwMDE4MWZlYmE4Yzkx",
+  "snapshot_id": "MTY1ODM5OTM2NiwwMDAwMDJhNzAwMDAwMTgyMjA0ZTFkNDcwMDAwMDE4MWZlYmE4Yzkx",
   "tracks": [
+    {
+      "added_at": "2022-07-21 10:29:26",
+      "album": {
+        "name": "Tell Me Your Politik (feat. Moonchild Sanelly & Nile Rodgers)",
+        "url": "https://open.spotify.com/album/583uUk11hoNS3Y4T5r5cdg"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Tell Me Your Politik (feat. Moonchild Sanelly & Nile Rodgers)",
+      "url": "https://open.spotify.com/track/6gCH4wAIrV7YHUGTSLQmC3"
+    },
     {
       "added_at": "2022-07-14 22:02:15",
       "album": {
@@ -1359,30 +1383,6 @@
       "duration_ms": 281588,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/0aUVQPkZdgX4TdykTZqDiY"
-    },
-    {
-      "added_at": "2022-05-19 21:59:00",
-      "album": {
-        "name": "Watering Dry Plants",
-        "url": "https://open.spotify.com/album/3G1PFpiGsMJ989PtewdMbe"
-      },
-      "artists": [
-        {
-          "name": "Phonikz",
-          "url": "https://open.spotify.com/artist/6YX1n5yl2H2RdidVHWnoc5"
-        },
-        {
-          "name": "Spartz",
-          "url": "https://open.spotify.com/artist/7BTIIrYH0F234f2wpl2irF"
-        },
-        {
-          "name": "Marcus Harvey",
-          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lebone",
-      "url": "https://open.spotify.com/track/3RnF4b7QjpbdECHKcXXoLX"
     },
     {
       "added_at": "2022-03-24 21:59:00",

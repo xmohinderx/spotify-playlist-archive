@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: ABISHA
+> Discover your new favourite artists\. Cover: DellaXOZ
 
-117 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+118 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [On the Inside](https://open.spotify.com/track/2uzuj9JqqWvSvbJsVWJoOf) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [On the Inside](https://open.spotify.com/album/3Q2ViCzPgVOE2A68GtKaCw) | 3:11 | 2022-02-18 |  |
 | [One Foot in Front of the Other](https://open.spotify.com/track/1gh1oLs5EBKsGf5KDwgxiO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/39biam1ziDPOSlUeB9fx3L) | 3:12 | 2022-02-18 |  |
 | [Opinion](https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Opinion](https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A) | 2:27 | 2022-02-18 |  |
+| [paranoia](https://open.spotify.com/track/25jpA6Nwk0BzPpzOTYLCXA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [paranoia](https://open.spotify.com/album/7cKJ7ywktloxEDpY8fxHJR) | 3:22 | 2022-07-21 |  |
 | [Parasols](https://open.spotify.com/track/3FhdZweci0BzetkWMwCdsV) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Parasols](https://open.spotify.com/album/5IbFg9og4jabk19txAM9Wp) | 3:00 | 2022-02-18 |  |
 | [Passenger](https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Passenger](https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC) | 3:16 | 2022-02-18 |  |
 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 | 2022-02-18 |  |

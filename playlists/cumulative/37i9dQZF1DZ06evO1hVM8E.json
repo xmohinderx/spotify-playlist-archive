@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191961,
+      "name": "El Rengo del Gallo Giro",
+      "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
+    },
+    {
+      "album": {
         "name": "El Presente Es Lo Que Cuenta",
         "url": "https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl"
       },
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 166112,
       "name": "La Feria de San Marcos",
       "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 192946,
       "name": "Le\u00f1a de Pirul",
       "url": "https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 213640,
       "name": "Los Traficantes",
       "url": "https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC"
@@ -795,7 +813,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 191533,
       "name": "Ma\u00f1ana Se Lo Digo",
       "url": "https://open.spotify.com/track/0MxxcP0LDkam6gHgFFerOX"
@@ -961,7 +979,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 179777,
       "name": "Pelotero a la Bola",
       "url": "https://open.spotify.com/track/4tftetgzdzAkomjDyI65eK"

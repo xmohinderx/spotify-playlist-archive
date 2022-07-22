@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,983 likes - 74 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,082 likes - 74 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hound Dog \- Single Version](https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:51 |
-| 2 | [Rock Me](https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder And His Orchestra](https://open.spotify.com/artist/4q1UCLTG6CYQyaRe2o60ua) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 |
+| 2 | [Rock Me](https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 |
 | 3 | [Smokestack Lightnin'](https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 3:08 |
 | 4 | [Rocket 88 \- Single Version](https://open.spotify.com/track/0qWGLMQwo57IabwNksvwGa) | [Jackie Brenston & His Delta Cats](https://open.spotify.com/artist/2ucOV7b445I6Dl6OFN71aN) | [Chess Pieces: The Very Best Of Chess Records](https://open.spotify.com/album/0EGMBB51mdmWPgG0inOYlv) | 2:49 |
 | 5 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Celebrating 35 years of Appetite for Destruction.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,559,465 likes - 200 songs - 14 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,563,851 likes - 200 songs - 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

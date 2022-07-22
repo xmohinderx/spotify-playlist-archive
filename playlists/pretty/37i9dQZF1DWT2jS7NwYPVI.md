@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,561 likes - 126 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,753 likes - 126 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

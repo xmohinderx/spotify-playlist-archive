@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-158 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+159 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [New Rules](https://open.spotify.com/track/17DaNTlAY4qPjLJcalrCnD) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 2:59 | 2021-10-22 |  |
 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-07-01 |  |
 | [No Tears Left to Cry](https://open.spotify.com/track/061VxiPJeP5YiIOP8Z2DF0) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2DOI0mKAHzp0OrigVAl2AP) | 3:25 | 2021-10-22 |  |
+| [Nobody Like U](https://open.spotify.com/track/334mPKdy3bxhyNaUCB9dRl) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Magic Reimagined \(Japan Edition\)](https://open.spotify.com/album/7cP3WtGF6GER9WA7BKkFiI) | 2:41 | 2022-07-21 |  |
 | [Nobody Like U \- From "Turning Red"](https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Nobody Like U \(From "Turning Red"\)](https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2) | 2:40 | 2022-02-25 |  |
 | [Old Town Road](https://open.spotify.com/track/3QpAo1aiTUVgsQBR8KmNHO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Old Town Road](https://open.spotify.com/album/4BAx7hzmBgjaGxs62oWcBn) | 1:50 | 2021-10-22 |  |
 | [One Last Time](https://open.spotify.com/track/0Mpgs2N5kVCrkqEcIIw6aV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:15 | 2021-10-22 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Evan Loss ",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Bayu Skak",
   "name": "Boso Jowo",
   "published_playlist_ids": [
     "6MWAwkgQhB2wRNopb9pKvS"
@@ -417,6 +417,24 @@
       "duration_ms": 276480,
       "name": "ganti ayang",
       "url": "https://open.spotify.com/track/1VvExYaGt1IaycmrJPR0ZO"
+    },
+    {
+      "album": {
+        "name": "Iki Uripku",
+        "url": "https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp"
+      },
+      "artists": [
+        {
+          "name": "Bayu Skak",
+          "url": "https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234754,
+      "name": "Iki Uripku",
+      "url": "https://open.spotify.com/track/23JmcEcmC0SzppD6Qm63nM"
     },
     {
       "album": {
@@ -1392,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Sinyal Tresna (From Collabonation)",
+        "url": "https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281333,
+      "name": "Sinyal Tresna - From Collabonation",
+      "url": "https://open.spotify.com/track/5vVV76tC3KjigYnT4dzMba"
+    },
+    {
+      "album": {
         "name": "Sugeng Dalu",
         "url": "https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI"
       },
@@ -1743,7 +1779,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 243111,
       "name": "Wkwkwk",
       "url": "https://open.spotify.com/track/07AZnO1UhduzhZdiL7iZKo"

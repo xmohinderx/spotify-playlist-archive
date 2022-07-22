@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 159761,
       "name": "Arson",
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
@@ -1607,6 +1607,28 @@
       "duration_ms": 183745,
       "name": "Biliard",
       "url": "https://open.spotify.com/track/5AE0pXOUeBM4HfTb3Bqk3p"
+    },
+    {
+      "album": {
+        "name": "Biliard 2",
+        "url": "https://open.spotify.com/album/44xnk3UhhG7o0UMCC0M5tZ"
+      },
+      "artists": [
+        {
+          "name": "LilCagula",
+          "url": "https://open.spotify.com/artist/3uR0BLXGAv5YciM8meWqmO"
+        },
+        {
+          "name": "NL Moxxie",
+          "url": "https://open.spotify.com/artist/5r0djFCjeB0Sk60SN6tzJQ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155456,
+      "name": "Biliard 2",
+      "url": "https://open.spotify.com/track/2Uo05C56sVFgtHWDmVIrp7"
     },
     {
       "album": {
@@ -4821,7 +4843,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 184624,
       "name": "Feti\u021ba ta de milioane",
       "url": "https://open.spotify.com/track/3YqATaOzKgUxhtL4SpHoDp"
@@ -7054,6 +7076,40 @@
     },
     {
       "album": {
+        "name": "Iubit de Dumnezeu",
+        "url": "https://open.spotify.com/album/275sUqX4HWFxdcE9FeE0km"
+      },
+      "artists": [
+        {
+          "name": "Florin Salam",
+          "url": "https://open.spotify.com/artist/6Ujb9g9pljLl91qELsPZYo"
+        },
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "Leo de la Kuweit",
+          "url": "https://open.spotify.com/artist/2Gd7R5cMWdX0HtcA2pDMpG"
+        },
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216263,
+      "name": "Iubit de Dumnezeu",
+      "url": "https://open.spotify.com/track/2J6DWKflRPtVl4FtUpWSOS"
+    },
+    {
+      "album": {
         "name": "H.O.W (Hold On World)",
         "url": "https://open.spotify.com/album/7ttqaXuDSzMPCEHW4Jp3xp"
       },
@@ -7105,7 +7161,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 202001,
       "name": "Janes Romanes",
       "url": "https://open.spotify.com/track/46DsHSqrMxCtIe7bQFrid3"
@@ -13977,7 +14033,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"

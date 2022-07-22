@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-134 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+136 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 | 2022-07-15 |  |
 | [Cadiz](https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Cadiz](https://open.spotify.com/album/16WtMA3bkNFXtvTzdL9su3) | 3:05 | 2022-07-15 |  |
 | [Calme et Paisible](https://open.spotify.com/track/7yVRPYTBVg3h1TsPdzcr07) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Calme et Paisible](https://open.spotify.com/album/2E92OD1lGuIQEla85kYKvY) | 3:46 | 2022-07-15 |  |
+| [Canción A Solas](https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Canción A Solas](https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ) | 2:26 | 2022-07-22 |  |
 | [Cartas da Infância](https://open.spotify.com/track/6oWxIZMs643Wtw2cuDh2b3) | [Willian Rosa](https://open.spotify.com/artist/7prsw90i6r3zf2WUsSajns) | [Cartas da Infância](https://open.spotify.com/album/0BhYFKgYBJydcaDQG6emhd) | 4:23 | 2022-07-15 |  |
 | [Catch a Moment in Time](https://open.spotify.com/track/5rBdcn0BUdKTMxkYdiAfts) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Catch a Moment in Time](https://open.spotify.com/album/4goQWEdTf595E0WISbjKyT) | 3:50 | 2022-07-15 |  |
 | [Cerbillona](https://open.spotify.com/track/0tnvceMi3hjvm78mKOzBzm) | [Kai Slater](https://open.spotify.com/artist/2HePN1Tz794mTNRbrEBqIh) | [Cerbillona](https://open.spotify.com/album/4woFgn63q2BtrrbcyrRU5K) | 3:44 | 2022-07-15 |  |
@@ -137,6 +138,7 @@
 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 | 2022-07-15 |  |
 | [Vorfreude](https://open.spotify.com/track/098EOJ4n3mTwtlNNbxP2BL) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Vorfreude](https://open.spotify.com/album/4NrIq79Bai7tVLP7ccEToG) | 2:33 | 2022-07-15 |  |
 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 | 2022-07-15 |  |
+| [Whispering Layers](https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Whispering Layers](https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT) | 2:34 | 2022-07-22 |  |
 | [Whispers At Dawn](https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers At Dawn](https://open.spotify.com/album/2Mbd5VHwehYOKADGeuRFqU) | 1:50 | 2022-07-15 |  |
 | [Winter Escape](https://open.spotify.com/track/4E7viEoB5ubmacUw6G8obh) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 2:49 | 2022-07-15 |  |
 | [wolkenlos](https://open.spotify.com/track/1GtvNtOFcgyapayFKdEPfn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Waldspaziergang](https://open.spotify.com/album/12zVtMVg3VOEsVZ3nA4BdB) | 3:36 | 2022-07-15 |  |

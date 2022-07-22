@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-124 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+126 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Fluffy](https://open.spotify.com/track/0s050M5SSv4hLyZ73cg5oh) | [NoCloudSky](https://open.spotify.com/artist/6ED30UOfoZVV94homQZYHl) | [Fluffy](https://open.spotify.com/album/0f7giVEcSFX5FY3rhAsBAj) | 2:14 | 2021-11-11 | 2022-04-06 |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-11 |  |
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 |  |
-| [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-05-20 |  |
+| [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-05-20 | 2022-07-22 |
 | [Get In](https://open.spotify.com/track/4KL9cG7OFgyf8rQa4x8SVP) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get In](https://open.spotify.com/album/1vcvwWac3LX0MHgWipFKT5) | 2:45 | 2021-11-11 |  |
 | [Ghosts](https://open.spotify.com/track/7fITMSuDsZGqZ34Na7Xwkc) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Ghosts](https://open.spotify.com/album/57E40q7LcDqv4yKH0jbXuP) | 3:31 | 2021-11-11 |  |
 | [Going Up](https://open.spotify.com/track/1ddppe7df96sqbzEkw7Khk) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Going Up](https://open.spotify.com/album/2dAz5HgtxPy5I5NYWiKABC) | 3:01 | 2022-05-10 |  |
@@ -63,7 +63,7 @@
 | [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 | 2022-01-21 |  |
 | [Holding Anchor](https://open.spotify.com/track/73l7YNceUVRyggXqCajwlZ) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Mango Love](https://open.spotify.com/album/1MgbQTIcNtBnGoemdnQL8u) | 3:08 | 2021-11-11 | 2022-02-11 |
 | [Honey Bee](https://open.spotify.com/track/7iM8XlrP0vRWZ7IMnFChtc) | [Don Battina](https://open.spotify.com/artist/35XkOpKPNN4P8zTMOmPb9X) | [Honey Bee](https://open.spotify.com/album/3dd4xMb3GxR1oqTgbBnHqN) | 3:19 | 2021-11-11 | 2022-01-22 |
-| [How We Do It](https://open.spotify.com/track/7Fangq5H3r0uFVnBmtjqPB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:10 | 2022-05-20 |  |
+| [How We Do It](https://open.spotify.com/track/7Fangq5H3r0uFVnBmtjqPB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:10 | 2022-05-20 | 2022-07-22 |
 | [I ADORE U](https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [I ADORE U](https://open.spotify.com/album/5xnqBY02HrPts7DQlfXtnK) | 4:02 | 2022-05-10 | 2022-07-01 |
 | [I Don't Wanna Live Forever \- Taladego Tropical Mix](https://open.spotify.com/track/1MAwVy9fDWnicj5xtzzaAD) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Taladego Tropical Mix\)](https://open.spotify.com/album/6udScTmYkOealnMC3AAd7K) | 4:03 | 2021-11-11 | 2022-02-11 |
 | [I've Got The Feeling](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC) | [Cymbal Dealers](https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje) | [I've Got The Feeling](https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1) | 2:31 | 2022-05-10 |  |
@@ -79,6 +79,7 @@
 | [Lueur](https://open.spotify.com/track/0PlsM5HVPGAPKqNxoEGir0) | [Drippl](https://open.spotify.com/artist/5a0p2jBB8s3RbE3Dh7o99K) | [Lueur](https://open.spotify.com/album/27YE95xO8qTIj9L2ACmnzt) | 3:42 | 2021-11-11 |  |
 | [Lunar Soil](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Lunar Soil](https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv) | 2:40 | 2022-01-21 |  |
 | [Make it Count](https://open.spotify.com/track/0HEW5kt8TXf75HiAzhuht2) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Make it Count](https://open.spotify.com/album/1OVrw11t0hkDglQPrjB4oq) | 3:58 | 2021-11-11 |  |
+| [Melted Ice Cream](https://open.spotify.com/track/0XY7kMJEAKm0f3hzgUPFFA) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [Melted Ice Cream](https://open.spotify.com/album/6uUx9zYBBOl9VUFMUJvd67) | 3:11 | 2022-07-22 |  |
 | [Mermaid](https://open.spotify.com/track/0mMHRtKs72ns7zPDNaZzPY) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Mermaid](https://open.spotify.com/album/6s4ly0ToaV0tE2A3hdKWbV) | 2:39 | 2021-11-11 |  |
 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 | 2022-05-20 |  |
 | [Need You To Know](https://open.spotify.com/track/1yYjxtcHhEIYGwKZl7ux7Y) | [Kellen Berrios](https://open.spotify.com/artist/0tTc6Q8lb2dB4Atl12F4Zp) | [Need You To Know](https://open.spotify.com/album/6AS8QmcXQmMEnNWvF0xpQu) | 2:37 | 2021-11-11 | 2022-05-11 |
@@ -101,6 +102,7 @@
 | [Rhodes Night](https://open.spotify.com/track/42UrWODXMY270D6mVLdGnT) | [Dimitri G](https://open.spotify.com/artist/0c5iXSRogLrwZrZeU4gF6k) | [Rhodes Night](https://open.spotify.com/album/4sMeFxBYKqgEKIfePb9Y0q) | 3:46 | 2021-11-11 |  |
 | [Rich In Mind](https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Rich In Mind](https://open.spotify.com/album/1gWYZW7bfXIEL1OY9cdTkH) | 2:55 | 2021-11-11 | 2022-05-11 |
 | [Rooftop](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Rooftop](https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o) | 3:10 | 2021-11-11 |  |
+| [See Me](https://open.spotify.com/track/6jHI5mf1ahYvoSwx0tdbNB) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [See Me](https://open.spotify.com/album/4LOia9loCga2tcDc8HQU5J) | 3:48 | 2022-07-22 |  |
 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 | 2021-11-11 |  |
 | [She Knows Best](https://open.spotify.com/track/71GZwwdFqYpEcN1mNIhII5) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [She Knows Best](https://open.spotify.com/album/6YQnN8oKnYxfqNJ6eMV8lw) | 2:32 | 2021-11-11 |  |
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-02-10 |  |

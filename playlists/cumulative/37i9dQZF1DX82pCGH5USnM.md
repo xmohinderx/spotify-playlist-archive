@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-522 songs - 1 day 7 hr 26 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+524 songs - 1 day 7 hr 33 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,13 +95,13 @@
 | [City Bumps](https://open.spotify.com/track/4MNC485ddP6YTl8KIZeq5d) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [City Bumps](https://open.spotify.com/album/3QrvlTFiGpzZs2eShpmut6) | 2:46 | 2021-09-09 |  |
 | [City Heatwave](https://open.spotify.com/track/5WDB1BuVSdgPZTQsGpXnat) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:05 | 2021-07-08 | 2021-08-20 |
 | [City Lights](https://open.spotify.com/track/5DUqkFJ8d8aoGrMpyuHkQ1) | [Fatehug](https://open.spotify.com/artist/0jYk4v9wqQ2HpvlrRJmEWl) | [City Lights](https://open.spotify.com/album/4iJ7bm22jHrWnHLOaT8d6r) | 2:46 | 2021-11-08 |  |
-| [Clear Blue](https://open.spotify.com/track/6sOuXvqt5nl8ruvuTx6HrI) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Bahama Sunrise](https://open.spotify.com/album/2lfjn5YAOArHw60etvE3zB) | 3:04 | 2021-07-08 |  |
+| [Clear Blue](https://open.spotify.com/track/6sOuXvqt5nl8ruvuTx6HrI) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Bahama Sunrise](https://open.spotify.com/album/2lfjn5YAOArHw60etvE3zB) | 3:04 | 2021-07-08 | 2022-07-22 |
 | [Clearance](https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clearance](https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW) | 2:47 | 2021-04-21 |  |
 | [Clouds & Rainbows](https://open.spotify.com/track/6srEPAMJQ8JaVK9IvXmlCS) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 3:09 | 2021-07-08 |  |
 | [Cloudy Day](https://open.spotify.com/track/13teDpR5PDCELyacIqneXd) | [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [Cloudy Day](https://open.spotify.com/album/68vJq1SyBGQUPqNAyxdct3) | 2:37 | 2021-07-08 | 2021-08-20 |
 | [Clu \- Colorjaxx Remix](https://open.spotify.com/track/2UkJDXn3pnoeilLBdBqczV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Clu \(Colorjaxx Remix\)](https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH) | 5:22 | 2022-06-03 | 2022-07-01 |
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2021-02-19 |  |
-| [Cobolt](https://open.spotify.com/track/5RWPlLSHtYpNFLcFOBgVmD) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Cobolt](https://open.spotify.com/album/2BLfxGmUEWrIOD97xNVEQY) | 3:00 | 2021-04-15 |  |
+| [Cobolt](https://open.spotify.com/track/5RWPlLSHtYpNFLcFOBgVmD) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Cobolt](https://open.spotify.com/album/2BLfxGmUEWrIOD97xNVEQY) | 3:00 | 2021-04-15 | 2022-07-22 |
 | [Color Code](https://open.spotify.com/track/2hPUPT84eEvIxxDvdN0n0R) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Color Code](https://open.spotify.com/album/6vVBfItLBRgeK0pRTjXgkY) | 3:20 | 2020-04-03\* | 2021-03-18 |
 | [Colors of You](https://open.spotify.com/track/0fVisMBg8MPemjOxLj3Jeu) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Bluebells](https://open.spotify.com/album/1SqKWpy6qU65qhVHUjw1LA) | 3:34 | 2021-03-18 |  |
 | [Connectivity Dub](https://open.spotify.com/track/7wO6beL28YzqSvqEal0S47) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Resonance](https://open.spotify.com/album/1LXSTaP6BPL4ywBG3nZYEd) | 6:46 | 2021-08-20 | 2021-09-22 |
@@ -110,7 +110,7 @@
 | [Cosmic Dancer](https://open.spotify.com/track/53WQnXY1i3ccnQJe4ww0Lv) | [Belloq](https://open.spotify.com/artist/65UoNCuuCJTVU3JTTZmjjj) | [Cosmic Dancer](https://open.spotify.com/album/1WNTZ6Su4aM5lTIZlXIoYf) | 2:59 | 2021-09-09 |  |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2021-08-20 | 2022-04-15 |
 | [Creatures](https://open.spotify.com/track/2Xu88uUM8dvRSzsZa8Tm2W) | [Justin Berghart](https://open.spotify.com/artist/2U8TggBhPjlTITew6Z3Dgt) | [Creatures](https://open.spotify.com/album/4GSSe42yWKGReogQuuUfuE) | 4:58 | 2021-11-08 | 2022-01-22 |
-| [Crispy](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0) | [Phlowsum](https://open.spotify.com/artist/71p3dUDaqo6EyfzQm8zCCo) | [Crispy](https://open.spotify.com/album/5xISlOqT0KGHfwbW0NOtij) | 2:28 | 2021-11-08 |  |
+| [Crispy](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0) | [Phlowsum](https://open.spotify.com/artist/71p3dUDaqo6EyfzQm8zCCo) | [Crispy](https://open.spotify.com/album/5xISlOqT0KGHfwbW0NOtij) | 2:28 | 2021-11-08 | 2022-07-22 |
 | [Cruise](https://open.spotify.com/track/0x870moIq8mrevBx8f6wBx) | [Cartego](https://open.spotify.com/artist/7luNA0T5Njoy6zqFKE20MB) | [Cruise](https://open.spotify.com/album/4gd3p8sokiAY66tb2NoMpU) | 2:54 | 2021-01-15 | 2021-10-06 |
 | [Cul de Sac](https://open.spotify.com/track/4AMrfTJror50C9Tx3zX5Z2) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Cul de Sac](https://open.spotify.com/album/0KcH619DqxpelLGbWgRA0J) | 3:35 | 2020-04-03\* | 2021-03-18 |
 | [Curves](https://open.spotify.com/track/2AkLzKnVUxCmEF5qOxnb0f) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Curves](https://open.spotify.com/album/4KjuZSoDJzOOL6lVrUQSxj) | 2:55 | 2022-01-21 | 2022-04-06 |
@@ -170,6 +170,7 @@
 | [Focal Point](https://open.spotify.com/track/31tLOq9d1OzpVb9fxpCQ3p) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Target](https://open.spotify.com/album/3kI4ax7CduZsv6bqHvcbGK) | 3:05 | 2020-04-03\* | 2020-11-04 |
 | [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 | 2020-11-19 | 2021-08-20 |
 | [Follow Up](https://open.spotify.com/track/7sxfrgHZkrpl74e7UlJGNH) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Follow Up](https://open.spotify.com/album/7cjTvqHIXbcN0qmNmSfZmO) | 2:48 | 2020-05-28 | 2021-04-21 |
+| [Fools](https://open.spotify.com/track/3nKnBwJRH8UG0aZcAZpsr3) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Fools](https://open.spotify.com/album/2HJGnKATv1ZE9KOKuCjpxl) | 3:01 | 2022-07-22 |  |
 | [For The First Time](https://open.spotify.com/track/3aIv0tjMJqDzONyBFtUa9g) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [For The First Time](https://open.spotify.com/album/4c35XVvKPCr4X0DrRScKQ4) | 3:17 | 2021-07-08 |  |
 | [Forest Run](https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Forest Run](https://open.spotify.com/album/7bqI8NfwJ4xVglMlcqp3V5) | 1:57 | 2021-11-08 | 2022-02-11 |
 | [Fragaria](https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Fragaria / Deflexus](https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C) | 5:45 | 2021-11-08 |  |
@@ -264,6 +265,7 @@
 | [Lifeless Major](https://open.spotify.com/track/7n9n0v33mqEMniNMTmxv1J) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lifeless Major](https://open.spotify.com/album/2lV37OXeIK3GBP5vTAevLp) | 2:46 | 2022-07-01 |  |
 | [Like Water](https://open.spotify.com/track/2ift2AgfPD8mCOjxIfg58t) | [Atlantis Dove](https://open.spotify.com/artist/4lWGfxuk3gXKG0v4fI4mqi) | [Like Water](https://open.spotify.com/album/73FvBQLSD3kC9tR8rH7wMe) | 2:47 | 2020-04-03\* | 2020-07-22 |
 | [Lofi Nights](https://open.spotify.com/track/1G56aVJLUwhQVO0Ke6QwWD) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Lofi Nights](https://open.spotify.com/album/2dhHvSNxPaA9laI6oyAHaC) | 4:25 | 2020-11-19 | 2021-04-15 |
+| [Lol Over You](https://open.spotify.com/track/3WnsqyQchQ5gdc6AxWG9Wk) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lol Over You](https://open.spotify.com/album/5xNwSY1JpyQVN0V08TRMLr) | 3:28 | 2022-07-22 |  |
 | [Lola](https://open.spotify.com/track/7tTL846SbtFK05waG77G0B) | [iugou](https://open.spotify.com/artist/6TcP3000og43MzgtTbIkvv) | [Lola](https://open.spotify.com/album/7EeHCYJmcrBeCM8eKXWeRa) | 6:21 | 2021-06-16 | 2021-09-22 |
 | [Lonely Hour](https://open.spotify.com/track/560p69yXiFLwFW8uXQN6uI) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [After Midnyte](https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny) | 3:04 | 2020-04-03\* | 2021-01-05 |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2021-02-10 | 2022-06-24 |
@@ -450,7 +452,7 @@
 | [Sunrider](https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP) | [Relŭm](https://open.spotify.com/artist/2KLneUbYr9ASsmFfZWIdYo) | [Sunrider](https://open.spotify.com/album/4TKpipN1yJhJO53XX1H9RA) | 2:08 | 2022-05-13 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-03-06 |  |
 | [Sunset Skybar](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q) | [Palma Dreams](https://open.spotify.com/artist/6g6CC8hzY5pFe9trUEoty9) | [Dive In](https://open.spotify.com/album/3ITTHt0Eu1doM1Q4wh1I8U) | 2:40 | 2022-01-21 |  |
-| [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2021-03-06 |  |
+| [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2021-03-06 | 2022-07-22 |
 | [Supernova Surfer](https://open.spotify.com/track/7kVwylT5cflYhWebRoMa91) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [Supernova Surfer](https://open.spotify.com/album/1QMP0NlBqXfyQirioIpUHs) | 4:23 | 2021-02-04 | 2021-09-22 |
 | [Sur Mer](https://open.spotify.com/track/3hyBObu11mMYg6XLJELC5J) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Calm Down Rewind](https://open.spotify.com/album/5DY4s62iEtBsEfwA7PKRqQ) | 4:33 | 2021-06-02 | 2021-09-22 |
 | [Surrounded by Bubbles](https://open.spotify.com/track/228VLQLiPCHLRu6ldZKZsL) | [Civet Cat](https://open.spotify.com/artist/0Ps5DnlC0rpFlmpmZrYVoq) | [Crossing Fields](https://open.spotify.com/album/4cJQ6gApFL1wP8Z3YX2cee) | 3:04 | 2020-05-22 | 2020-12-24 |

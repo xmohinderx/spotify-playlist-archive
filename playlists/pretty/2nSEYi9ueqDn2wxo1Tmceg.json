@@ -1,13 +1,33 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78818,
+  "num_followers": 78817,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzQ5NCwzNDk0YzdiMTYyNzQ4MjBiOTIxN2ExNjBlZDViNjFiZWM4NjgwY2Ix",
+  "snapshot_id": "MzQ5NSwxYTFhYjVjNWU3YTFhMTQ1YTcxOTdjMzBhNzliYjgyNGY2OTUxMzQ1",
   "tracks": [
+    {
+      "added_at": "2022-07-21 12:59:00",
+      "album": {
+        "name": "Will Get Fooled Again (Katie Dey Cover)",
+        "url": "https://open.spotify.com/album/0MNe5TZRA9xKuyoQ9aITYJ"
+      },
+      "artists": [
+        {
+          "name": "Max Tundra",
+          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
+        },
+        {
+          "name": "Katie Dey",
+          "url": "https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Will Get Fooled Again - Katie Dey Cover",
+      "url": "https://open.spotify.com/track/30KHZE5UtVAFZKLCLVXydi"
+    },
     {
       "added_at": "2022-07-20 10:42:10",
       "album": {

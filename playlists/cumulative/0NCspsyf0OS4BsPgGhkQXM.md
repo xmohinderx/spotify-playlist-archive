@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-376 songs - 20 hr 23 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+377 songs - 20 hr 27 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Moment of Silence](https://open.spotify.com/track/3VCKjGMQgop5m47ZyivcWe) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Moment of Silence](https://open.spotify.com/album/4Wu0fiTgV59MxfYppJkSWU) | 3:13 | 2022-01-14 |  |
 | [Momenta](https://open.spotify.com/track/1bmgQT91R4A3i7BZ6xZcXc) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [Lemay](https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD) | [Momenta](https://open.spotify.com/album/7px9SMxsw9B7cxZ0XxZ8oC) | 2:57 | 2022-01-14 |  |
 | [Moonbeams](https://open.spotify.com/track/1bgoe4DClcoRvDapWU68CK) | [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Moonbeams](https://open.spotify.com/album/3klnFBO7TxwcQkzcuM5yVI) | 3:56 | 2022-01-14 | 2022-02-05 |
+| [mother, you made my life complete](https://open.spotify.com/track/3qEwztpLxQhnjUN2Scm6dQ) | [MEJKO](https://open.spotify.com/artist/4unbLEffqWDwtD3QZbxXPk) | [mother, you made my life complete](https://open.spotify.com/album/6q1vsrSQPswB9zNWTeLc6m) | 3:49 | 2022-07-21 |  |
 | [Mountains](https://open.spotify.com/track/3OCP6NDxlpQhFfcKOeZl7r) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [ENROSA](https://open.spotify.com/artist/2GL4yQnMX0QY6dd9yRwDbj) | [Mountains](https://open.spotify.com/album/2ZvTo6EBXqaIct16IL4WDC) | 2:51 | 2022-03-04 | 2022-04-02 |
 | [MOVE](https://open.spotify.com/track/7cwCe0ZxpZiL3SZAYo8Naq) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [MOVE](https://open.spotify.com/album/1tKXqkiVYgkkfFicEFPjqy) | 2:47 | 2022-01-14 |  |
 | [My Circle](https://open.spotify.com/track/4sagA2yO0ccjstA0mlLP5Y) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Tommy Rage](https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3) | [My Circle](https://open.spotify.com/album/4kZIQPP4EbHyEuSBzhnbUi) | 2:39 | 2022-01-28 | 2022-02-26 |

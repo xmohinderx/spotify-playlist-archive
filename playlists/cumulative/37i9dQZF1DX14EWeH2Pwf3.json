@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Neima Ezza",
+  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Sfera Ebbasta",
   "name": "Plus Ultra",
   "published_playlist_ids": [
     "7z4B5G5t7icaq70XD3Gf3S"
@@ -53,6 +53,24 @@
       "duration_ms": 177600,
       "name": "3 DI CUORI (feat. Lazza)",
       "url": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY"
+    },
+    {
+      "album": {
+        "name": "A TE",
+        "url": "https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124195,
+      "name": "A TE",
+      "url": "https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu"
     },
     {
       "album": {
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 179653,
       "name": "Caos",
       "url": "https://open.spotify.com/track/5ychvxJuts6RyjQz2aoXqY"
@@ -663,7 +681,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 202588,
       "name": "Cuore",
       "url": "https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx"
@@ -972,6 +990,24 @@
     },
     {
       "album": {
+        "name": "Il meglio di te",
+        "url": "https://open.spotify.com/album/0TYQyv9BG0D1M60K7l85xz"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157013,
+      "name": "Il meglio di te",
+      "url": "https://open.spotify.com/track/2eTXrwuncNqUOAxw2YJ8lv"
+    },
+    {
+      "album": {
         "name": "Level One",
         "url": "https://open.spotify.com/album/7kecFtrnb8dZ101bSYIjXG"
       },
@@ -1151,7 +1187,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 172173,
       "name": "La Haine",
       "url": "https://open.spotify.com/track/4HQAiEh8J9MIFmtLzuB24a"
@@ -1873,7 +1909,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 237266,
       "name": "Pornstar (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2r0uxpCJHJC6KDNEVNQAM2"
@@ -2043,6 +2079,32 @@
       "duration_ms": 149638,
       "name": "Samba",
       "url": "https://open.spotify.com/track/2xZOxK1Emq85FfnJGVR21a"
+    },
+    {
+      "album": {
+        "name": "Sarabamba (feat. Gu\u00e8 & Crookers)",
+        "url": "https://open.spotify.com/album/0885yPqvgNKCwcjvfSqGpK"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241368,
+      "name": "Sarabamba (feat. Gu\u00e8 & Crookers)",
+      "url": "https://open.spotify.com/track/4ts969TgdnzsYvadQ5TTm2"
     },
     {
       "album": {
@@ -2291,6 +2353,28 @@
       "duration_ms": 237632,
       "name": "STURDY",
       "url": "https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp"
+    },
+    {
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j"
+      },
+      "artists": [
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163624,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB"
     },
     {
       "album": {

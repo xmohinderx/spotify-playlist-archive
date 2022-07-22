@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-277 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+280 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [cosmic](https://open.spotify.com/track/4oYH2FzH0vV1R3Df7MtaLi) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:36 | 2022-05-20 |  |
 | [Creamy Soul](https://open.spotify.com/track/6HS4Aphquj6BcKN4N1j89w) | [Olha Nyna](https://open.spotify.com/artist/5ushZ6X1DWVS8PN7DCfH1n) | [Sunday Tiramisu](https://open.spotify.com/album/3tfIR85PMjqcksnF3foe7U) | 2:15 | 2022-05-20 |  |
 | [CrO2](https://open.spotify.com/track/1safGkgdw1Grocn4MdwPFl) | [Kaizen 92](https://open.spotify.com/artist/4b3rKm8D3J3HWUggopMju9) | [Hypnotized](https://open.spotify.com/album/14sSxGjEEXKztcBVI3Y0Nc) | 1:28 | 2022-05-20 | 2022-06-10 |
+| [crosswalks](https://open.spotify.com/track/7qiVwIdSy2NzXWBBhRlN1A) | [figgy](https://open.spotify.com/artist/58kPkxMwTdAjnkvlfjZuip) | [crosswalks](https://open.spotify.com/album/0GEeks82tp7zoDZ0FESXPM) | 2:25 | 2022-07-22 |  |
 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 | 2022-05-20 |  |
 | [dark beat](https://open.spotify.com/track/5C5BsRdreXZ6MkW1BDNEGt) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [dark beat](https://open.spotify.com/album/1g9SHQM7lita1ze8kuPI31) | 1:48 | 2022-05-20 |  |
 | [Dewdrop Lemonade](https://open.spotify.com/track/4SKRNfT7WI73MJho3suqYl) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Dewdrop Lemonade](https://open.spotify.com/album/1sn5fGZMA3XAEp7rSv9GMY) | 3:26 | 2022-05-20 |  |
@@ -226,6 +227,7 @@
 | [Saturn Eyes](https://open.spotify.com/track/0PfODaB3CjyqGeUue5Zysv) | [Ana Luiz](https://open.spotify.com/artist/4Eo9c1kGd6MmTWiNsRUrTl) | [Saturn Eyes](https://open.spotify.com/album/29hkNPWZgrDg0cviTMVpkS) | 1:55 | 2022-05-20 |  |
 | [Sax and Violins](https://open.spotify.com/track/1PcrDxcQLHsk88iz0H6Oy2) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ), [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Sax and Violins](https://open.spotify.com/album/6QpmTAhuN7ignQ0F6jtawO) | 2:15 | 2022-07-08 |  |
 | [school daze](https://open.spotify.com/track/2ETERye5p3LSTUZvfJVnDT) | [bladecut](https://open.spotify.com/artist/1PkmXjtHF5wQCvN96FukFZ) | [school daze](https://open.spotify.com/album/13wjmdMsBPJSHNu2a7g8Km) | 1:52 | 2022-05-20 |  |
+| [seasons](https://open.spotify.com/track/0cPHVReM72NIEGcg4hIMHk) | [Amroa](https://open.spotify.com/artist/2AIg9PIc338sj4DkVvCkmb) | [seasons](https://open.spotify.com/album/7kMjIEAbrx7adTFJZKR8Uv) | 2:02 | 2022-07-22 |  |
 | [second hand](https://open.spotify.com/track/7HaIKsqAyhsmZGjifsMUnH) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [second hand](https://open.spotify.com/album/6cCTyg8MF9oUZC7KQWlAEh) | 1:18 | 2022-05-20 | 2022-06-10 |
 | [Seed of a Thought](https://open.spotify.com/track/6smNHgmjTDNJWaovT0NbRR) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seed of a Thought](https://open.spotify.com/album/3GnK0lasJIQFXFEc8SwLak) | 1:59 | 2022-05-20 |  |
 | [Segundi](https://open.spotify.com/track/2nxl8OxEJVrQLpUGFiYiqo) | [Fuzl](https://open.spotify.com/artist/4PcJcSL24JeqLoQla78EPA), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Segundi](https://open.spotify.com/album/5M16glnrF2da7Wcl7xr9V7) | 2:44 | 2022-05-20 |  |
@@ -265,6 +267,7 @@
 | [Title](https://open.spotify.com/track/3nWtSUDnGAPveynq1WgOQn) | [Zig Zagger](https://open.spotify.com/artist/2zypz5VQ9xGRQkgZMQmZla) | [OneTwo](https://open.spotify.com/album/2Icm2s5LdBApWfvalmokYn) | 3:07 | 2022-05-20 |  |
 | [tokyo dawn](https://open.spotify.com/track/750DcJVuM2Av9P3V1Szm31) | [nippon soul](https://open.spotify.com/artist/3i8zJHfJYmUjEeE3UMIVTJ) | [tokyo dawn](https://open.spotify.com/album/2Ecakx8yoEoAYlWOUji03h) | 1:30 | 2022-05-20 | 2022-06-10 |
 | [travellin'](https://open.spotify.com/track/3knnVvitAAU3ihiqdlxdXL) | [vibebu](https://open.spotify.com/artist/4nHafkXiQWBoAxY38PFUeY) | [travellin'](https://open.spotify.com/album/27wcF6gEMlknTF1D3kcDzd) | 2:25 | 2022-05-20 |  |
+| [Trinkets](https://open.spotify.com/track/5wj256fcPNeauu0DtN4JOz) | [Emtee Beats](https://open.spotify.com/artist/29HYZQ5nVtKxmvfx18NdAH), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Trinkets](https://open.spotify.com/album/126X9Q3tfW2t8Li1vgQPmW) | 2:12 | 2022-07-22 |  |
 | [Trip](https://open.spotify.com/track/09WxnQhYo3Ka5XjIeY48Y0) | [7 AiX](https://open.spotify.com/artist/0xLK99dzCH2gsJSrMea2fU), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Trip](https://open.spotify.com/album/5uzjNcOXqArSw9hiTtXymv) | 2:08 | 2022-05-20 |  |
 | [triton](https://open.spotify.com/track/6rDJ58SbxAL9cwBHOeid1w) | [mt\. koala](https://open.spotify.com/artist/5ryb7Zr3TEu4mGQ0Yhns9M) | [wilderness](https://open.spotify.com/album/3PIXBJReX3ZgenQVpO63Rl) | 1:55 | 2022-05-20 |  |
 | [tullio](https://open.spotify.com/track/6xcfCLiTvMlbjx6wIJK1cx) | [\_tillus](https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y) | [patterns](https://open.spotify.com/album/2T4Lh1znFQFCQTzozoO6aX) | 0:58 | 2022-07-01 |  |

@@ -2,7 +2,7 @@
 
 ### [Country Gold](https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU)
 
-> Spotify Fan Favorites from the last few years\.  Artist: Luke Bryan
+> Spotify Fan Favorites from the last few years\.  Artist: Old Dominion
 
 132 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/3vjMXQTn6bhqRtB1DcgbIL)
 

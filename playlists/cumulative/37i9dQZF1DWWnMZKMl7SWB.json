@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 59073,
       "name": "1989 (feat. Ludwig K\u00f6lsch)",
       "url": "https://open.spotify.com/track/6rrwmDaDa3n7hgQruR3dc1"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 180151,
       "name": "40 Love",
       "url": "https://open.spotify.com/track/3HCoyY47D7po1xC1y7HsBU"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 364059,
       "name": "Azure",
       "url": "https://open.spotify.com/track/2VnlJCQMphFJUyYR5p7da2"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 339880,
       "name": "Dockyard",
       "url": "https://open.spotify.com/track/6tYlLMni6GwUksie3N6IPA"
@@ -1797,7 +1797,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 238640,
       "name": "lovers\u2019 carvings",
       "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
@@ -2661,6 +2661,24 @@
       "duration_ms": 225549,
       "name": "Real",
       "url": "https://open.spotify.com/track/6mf0FKVO9qQyNXn3DV5Kza"
+    },
+    {
+      "album": {
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257893,
+      "name": "reflection eternal",
+      "url": "https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498"
     },
     {
       "album": {

@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 449480,
       "name": "3030",
       "url": "https://open.spotify.com/track/39GBFwBe4GGk7i3yr3F46P"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 267859,
       "name": "A Real Hero",
       "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3"
@@ -409,6 +409,28 @@
       "duration_ms": 195866,
       "name": "Black Magic Woman",
       "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
+    },
+    {
+      "album": {
+        "name": "Genetic World",
+        "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9popmusik",
+          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
+        },
+        {
+          "name": "Angela McCluskey",
+          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP"
     },
     {
       "album": {
@@ -955,7 +977,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 197630,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0rbYBScEUBlzLA0ar1rTfB"
@@ -1207,7 +1229,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 293466,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/5iNtk3MiBsLHDUNFxEmxUy"
@@ -1333,7 +1355,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 237755,
       "name": "Into You",
       "url": "https://open.spotify.com/track/1MhYsB8SsmIGaIpys4zQkq"
@@ -1351,7 +1373,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 160720,
       "name": "Islands",
       "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
@@ -1585,7 +1607,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 204262,
       "name": "Lost",
       "url": "https://open.spotify.com/track/59SBjQGWNkfG7Sx6OGwqUn"
@@ -1906,6 +1928,24 @@
     },
     {
       "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258413,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
+    },
+    {
+      "album": {
         "name": "Nightclubbing (2014 Remaster / Deluxe)",
         "url": "https://open.spotify.com/album/0Asrv0BRKSQcRPMcfFFXaK"
       },
@@ -1989,7 +2029,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 251266,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK"
@@ -2079,7 +2119,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 310466,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/54JfZxCEjNCwqicxTYsps1"
@@ -2267,7 +2307,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 290573,
       "name": "Redeploy",
       "url": "https://open.spotify.com/track/4RDUWsZacfgvzNYmj6ibNl"
@@ -2285,7 +2325,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 248973,
       "name": "Regret - 2015 Remaster",
       "url": "https://open.spotify.com/track/1UVll7jjUlqSGxCZ6uXVaD"
@@ -2451,7 +2491,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 323866,
       "name": "Say Hello, Wave Goodbye - 7\" Single Version",
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
@@ -2585,7 +2625,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 252466,
       "name": "Slave Song",
       "url": "https://open.spotify.com/track/57Zm7XTk4f5A9I7f4N28Rv"
@@ -2783,7 +2823,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 267466,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/36Ae28qcIcoV3940YBBSxX"
@@ -3003,10 +3043,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 218866,
       "name": "The Longships - 2009 Remaster",
       "url": "https://open.spotify.com/track/1rAPOKdbcenPjBnDjqZu9Z"
+    },
+    {
+      "album": {
+        "name": "Big Calm",
+        "url": "https://open.spotify.com/album/1ILnMWNKUXzcXug4Tq2JRP"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347280,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0xjkgYSzHjBZNvyUaC9cXX"
     },
     {
       "album": {
@@ -3259,7 +3317,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 223866,
       "name": "What a Fool Believes",
       "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"

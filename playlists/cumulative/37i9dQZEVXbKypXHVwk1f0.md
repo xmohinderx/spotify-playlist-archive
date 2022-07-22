@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-450 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
+451 songs - 1 day 2 hr 24 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/track/03LfOYi0icz4souspZVVhq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD) | 2:38 | 2021-07-04 | 2021-08-08 |
 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/1mJV1jFzGsipSA6qzuGMZJ) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6ToxQqhJUFAQJMKKEfx3O3) | [Grandes Exitos](https://open.spotify.com/album/1yJZHcHfrVITrAiLvDszmN) | 4:27 | 2021-12-25 | 2022-01-04 |
 | [No Me Importa un Carajo](https://open.spotify.com/track/1OGhv7OFVVIKsbVD3g4MAR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:10 | 2021-12-05 | 2021-12-06 |
-| [No Me Ronquen Freestyle](https://open.spotify.com/track/6PqF5IRfQEYcieE4wk0v9A) | [Chrisanti](https://open.spotify.com/artist/4PDBUe0k2wtX1OiICrGvay) | [No Me Ronquen Freestyle](https://open.spotify.com/album/7ihRxJYsNitN07gbsA4xNv) | 2:30 | 2022-06-27 |  |
+| [No Me Ronquen Freestyle](https://open.spotify.com/track/6PqF5IRfQEYcieE4wk0v9A) | [Chrisanti](https://open.spotify.com/artist/4PDBUe0k2wtX1OiICrGvay) | [No Me Ronquen Freestyle](https://open.spotify.com/album/7ihRxJYsNitN07gbsA4xNv) | 2:30 | 2022-06-27 | 2022-07-22 |
 | [No Nos Casamo](https://open.spotify.com/track/6pEnJKFCXVNIYRMk6tisBm) | [Lil Dan](https://open.spotify.com/artist/1vC9FxvClViL2IGb6TRUcG) | [No Nos Casamo](https://open.spotify.com/album/6CmUyPGeCKdbciJHYUIkJO) | 2:50 | 2022-07-20 |  |
 | [No Se Que](https://open.spotify.com/track/0ObJj8ziTqdwe44Ot7csxL) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:28 | 2022-03-12 | 2022-03-26 |
 | [No Se Que](https://open.spotify.com/track/6IXx1EoraLU3mFBYCXh1av) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ella](https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU) | 3:28 | 2021-04-18 | 2021-08-29 |
@@ -418,6 +418,7 @@
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-26 | 2021-05-30 |
 | [Travesuras \- Remix](https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [Travesuras \(Remix\)](https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa) | 5:24 | 2021-03-27 | 2021-06-06 |
 | [Tu Veneno](https://open.spotify.com/track/5KFHrrBMyGj5MhVbZMM3ts) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Tu Veneno](https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS) | 2:37 | 2021-03-27\* | 2021-04-17 |
+| [Tuki Trake](https://open.spotify.com/track/75O9jHAZAPAypgoEXt7qXt) | [Sharik](https://open.spotify.com/artist/5VjUGcrelc8wmOEqDRxJcJ) | [Tuki Trake](https://open.spotify.com/album/4P1S4B9EeRT8qtXBfR29YL) | 2:17 | 2022-07-21 |  |
 | [TUS FALLOS](https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [El Tachi](https://open.spotify.com/artist/18rdlyUjloy7fRK1g62tUt) | [NOW OR NEVER](https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x) | 6:24 | 2021-12-24 | 2022-06-19 |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-02 |  |
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-05-13 | 2022-06-20 |

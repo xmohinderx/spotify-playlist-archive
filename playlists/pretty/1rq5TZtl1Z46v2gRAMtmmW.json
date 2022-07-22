@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26750,
+  "num_followers": 26754,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzA4Nyw5Njc4MzM2ZTUxMGNkMDViOTBjY2VkM2FmZmQyM2RmZTQ0MzZlOTU5",
+  "snapshot_id": "MzA5MCwzNzMzMTc5NTlkMGJkYzMzZTMyZjA0ZTVmNjgxNmViZWU0MTk3Y2Qy",
   "tracks": [
     {
       "added_at": "2022-07-13 19:54:32",
@@ -75,6 +75,22 @@
       "duration_ms": 417431,
       "name": "Meli (II)",
       "url": "https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep"
+    },
+    {
+      "added_at": "2022-07-21 04:12:49",
+      "album": {
+        "name": "Shadow Dance",
+        "url": "https://open.spotify.com/album/6WOWUHCLX8C2tQYJwpc0p4"
+      },
+      "artists": [
+        {
+          "name": "Kuedo",
+          "url": "https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC"
+        }
+      ],
+      "duration_ms": 239121,
+      "name": "Shadow Dance",
+      "url": "https://open.spotify.com/track/38XjbDDpMxZTzmA7eCbgaM"
     },
     {
       "added_at": "2022-07-14 04:21:33",
@@ -331,22 +347,6 @@
       "duration_ms": 129287,
       "name": "big daddy ya",
       "url": "https://open.spotify.com/track/5LUqDKwcT3sT2yDRRmKTwd"
-    },
-    {
-      "added_at": "2022-06-29 17:48:31",
-      "album": {
-        "name": "Infinite Window",
-        "url": "https://open.spotify.com/album/7nUDFp7PYZGbXD6FFkhKB2"
-      },
-      "artists": [
-        {
-          "name": "Kuedo",
-          "url": "https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC"
-        }
-      ],
-      "duration_ms": 289430,
-      "name": "Infinite Window",
-      "url": "https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y"
     },
     {
       "added_at": "2022-05-31 15:03:01",

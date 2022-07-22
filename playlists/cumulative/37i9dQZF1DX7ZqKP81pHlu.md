@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-68 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+69 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Faillite](https://open.spotify.com/track/19uf48N6aaHgupOuQgJEhT) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Faillite](https://open.spotify.com/album/7cEuBiqJ9MUWNg5FUGWqpv) | 3:22 | 2021-12-09 |  |
 | [Fi Hwak](https://open.spotify.com/track/58jAcDo0Tc5ylzfBwg9VSi) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Fi Hwak](https://open.spotify.com/album/2mVRwKuWGDDp0j2wWOIFfa) | 3:35 | 2021-12-09 | 2022-06-24 |
 | [Frontières](https://open.spotify.com/track/049ryvt09w98K1uzsWf9x1) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Frontières](https://open.spotify.com/album/3sG46QoL4wOX4nxe754i4Z) | 3:29 | 2021-12-09 | 2022-01-14 |
+| [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 | 2022-07-18 |  |
 | [Harba II](https://open.spotify.com/track/33xn4wz62RtdIyR1sx8BJa) | [Abdou hk](https://open.spotify.com/artist/3B344rrWCr0O5ogBKZeO59), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Harba II](https://open.spotify.com/album/5zaQM2mwAYci2aCZKLvTjq) | 3:22 | 2021-12-09 |  |
 | [Jwabi](https://open.spotify.com/track/0HWqu8kIr5iitYHd62RkJH) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 4:22 | 2021-12-09 |  |
 | [Kelthoum](https://open.spotify.com/track/7L5ZaHH54rkruo8N08vEf4) | [Nacim El Bey](https://open.spotify.com/artist/7DfSR1McqGpS5b7o1NSl5u) | [Kelthoum](https://open.spotify.com/album/0RyIS8LW7g75acJI2z0Ege) | 3:45 | 2021-12-09 | 2022-06-03 |

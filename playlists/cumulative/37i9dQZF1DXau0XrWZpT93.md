@@ -4,10 +4,11 @@
 
 > Start your day with these beautiful scores.
 
-70 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+74 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Day in June](https://open.spotify.com/track/1pZZzlgOtbvhEI9I0e7Z1P) | [Davide Delvecchio](https://open.spotify.com/artist/5WDMPRZIzbj6Q2eXqVqXmu) | [A Day in June](https://open.spotify.com/album/2dbOdeW2CpY4UN43yMybuv) | 3:38 | 2022-07-22 |  |
 | [A Drop in the Ocean](https://open.spotify.com/track/2T6vRytpOROVVawULkC0AC) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [A Drop in the Ocean](https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM) | 3:03 | 2022-06-10 |  |
 | [A Fairy Tale](https://open.spotify.com/track/6B4k77H2FijwCLtkWnIsfI) | [Michaela Pandiz](https://open.spotify.com/artist/34sXIU22Yei4I4tBF7qk2m) | [A Fairy Tale](https://open.spotify.com/album/2iwDSQNjrmsettZSKbEtIr) | 2:08 | 2022-06-10 |  |
 | [A String in the Night](https://open.spotify.com/track/7dZ3v5DM5NvdviQ66NTcK4) | [Duo Romanza](https://open.spotify.com/artist/4c5bDKFZPlbp3EqDLyk4Hn) | [A String in the Night](https://open.spotify.com/album/2sMWuQaCwsvRsjhc5KIIfH) | 2:02 | 2022-06-10 |  |
@@ -59,7 +60,10 @@
 | [Rays of light](https://open.spotify.com/track/111YqYUFNPFN75J6qDhT1b) | [Naomi Young](https://open.spotify.com/artist/3i3Kwm6kFNGXpnnJfy8U1r) | [Adagio](https://open.spotify.com/album/7tafxsyYN332LgoNUKDZqh) | 2:28 | 2022-06-10 |  |
 | [Riposo](https://open.spotify.com/track/2nfCGwzsOxPJPl16g74I5I) | [Calma Flow](https://open.spotify.com/artist/19ImXdXZLbAXcDGgIpN56k) | [Riposo](https://open.spotify.com/album/4QDiZv3kD08DOYlAlzQcPm) | 2:17 | 2022-06-10 |  |
 | [Ripples \(Echoes\)](https://open.spotify.com/track/4WRgRrmrD0WWBB9O8MNO9g) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Ripples](https://open.spotify.com/album/174WdSc7Cncl9KwFmF7mGd) | 2:54 | 2022-06-10 |  |
+| [Rising Fog](https://open.spotify.com/track/3fndeX9142XIUH7qySaGMc) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 3:18 | 2022-07-22 |  |
+| [Sacred Mountain](https://open.spotify.com/track/6qzS70K6z2XDu4bCwKVa50) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 2:47 | 2022-07-22 |  |
 | [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 | 2022-07-01 |  |
+| [Silver Sky](https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Silver Sky](https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS) | 3:20 | 2022-07-22 |  |
 | [Sincerity](https://open.spotify.com/track/3fQdsoPpWz3sbwlvlMfBF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Sentient](https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ) | 2:24 | 2022-06-10 |  |
 | [Sleeping In Seattle](https://open.spotify.com/track/2uVHaRTe5hyGyASOXZcx9d) | [Max Ellion](https://open.spotify.com/artist/5ws4QOSnfOqKDBbNQEZXtg) | [Sleeping In Seattle](https://open.spotify.com/album/3H9duc8pePa97f1AWFjuIi) | 2:55 | 2022-06-10 |  |
 | [Sostenuto](https://open.spotify.com/track/2pmzW6PbqlAunOXe0AdYIw) | [Camilla Solheim](https://open.spotify.com/artist/0paoGI3ZzVd4kwjmsJI6B0) | [Sostenuto](https://open.spotify.com/album/5bve8ozqZzt01twy16odc3) | 2:09 | 2022-06-10 |  |

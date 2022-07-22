@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Birthday Song",
       "url": "https://open.spotify.com/track/76m9qTSWvcVVhyC3JW7tnY"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 274999,
       "name": "Disordered Minds",
       "url": "https://open.spotify.com/track/4vI3Dngn2KjBZmEVzfHVDb"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 228000,
       "name": "Driving",
       "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 231800,
       "name": "Fishing Bird (Empty Gutted in the Evening Breeze)",
       "url": "https://open.spotify.com/track/637sViSUUQTBice1wmz5id"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 174874,
       "name": "Followed the ocean",
       "url": "https://open.spotify.com/track/7nDGJYN5fltv5bUk9spwnD"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 296600,
       "name": "I Saw a Ray",
       "url": "https://open.spotify.com/track/53No0sPkMULuEJqeWgLGsc"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 141746,
       "name": "I'm Dragging a Dead Deer Up a Hill",
       "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 362253,
       "name": "It Feels Alright",
       "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 684360,
       "name": "Made of Air",
       "url": "https://open.spotify.com/track/6PI2CNvpsv3k2ofK6cq42N"
@@ -926,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Hold / Sick - Single",
+        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308066,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/574DJfC8RrVqyaybr1AabW"
+    },
+    {
+      "album": {
         "name": "A I A: Dream Loss",
         "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
       },
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 263960,
       "name": "Traveling Through a Sea",
       "url": "https://open.spotify.com/track/5uOBRzLWxGnE564iW0PF7y"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 270680,
       "name": "Wind and Snow",
       "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"

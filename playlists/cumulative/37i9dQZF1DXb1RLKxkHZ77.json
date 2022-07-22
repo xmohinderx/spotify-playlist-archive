@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Bisik",
+        "url": "https://open.spotify.com/album/51J63QPmvNrjbhIFPNc3Wx"
+      },
+      "artists": [
+        {
+          "name": "Irfan Haris",
+          "url": "https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240594,
+      "name": "Bisik",
+      "url": "https://open.spotify.com/track/4YNhulUIAnaulDVlemRVzX"
+    },
+    {
+      "album": {
         "name": "Bukan Milikmu",
         "url": "https://open.spotify.com/album/4mvPsc8drKxg40vjva9y1d"
       },
@@ -229,6 +247,24 @@
       "duration_ms": 234561,
       "name": "Cinta",
       "url": "https://open.spotify.com/track/390rIF5dbH5QRIb7r3NxOF"
+    },
+    {
+      "album": {
+        "name": "Dia Masa Lalumu, Aku Masa Depanmu",
+        "url": "https://open.spotify.com/album/1b21c8HRBOiv6wilAXMRAG"
+      },
+      "artists": [
+        {
+          "name": "Vionita",
+          "url": "https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Dia Masa Lalumu, Aku Masa Depanmu",
+      "url": "https://open.spotify.com/track/1ovwOL1O06VVKOzqPYunSS"
     },
     {
       "album": {
@@ -691,7 +727,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 231840,
       "name": "Pelukan Angkasa",
       "url": "https://open.spotify.com/track/7fIy9XzcyuehISrxOarqT2"
@@ -872,6 +908,28 @@
     },
     {
       "album": {
+        "name": "Satu Malam Di Temasek",
+        "url": "https://open.spotify.com/album/6oMP9SqrAAZqr5QR2gVvWl"
+      },
+      "artists": [
+        {
+          "name": "Joe Flizzow",
+          "url": "https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7"
+        },
+        {
+          "name": "SonaOne",
+          "url": "https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217184,
+      "name": "Satu Malam Di Temasek",
+      "url": "https://open.spotify.com/track/5nsfVwWz1M1sug2ILCVygq"
+    },
+    {
+      "album": {
         "name": "Sempurna",
         "url": "https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm"
       },
@@ -919,7 +977,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 221942,
       "name": "Sudah",
       "url": "https://open.spotify.com/track/4QiDXOOZMepYFLnjGb3WxO"
@@ -937,7 +995,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 180324,
       "name": "SUSTENTO",
       "url": "https://open.spotify.com/track/2N2zdSWXytUAjziN6LJWFw"
@@ -1013,7 +1071,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 224000,
       "name": "Top Boi",
       "url": "https://open.spotify.com/track/49dHs04lUC9EmyhuXRFaJQ"

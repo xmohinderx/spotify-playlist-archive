@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 182142,
       "name": "A3",
       "url": "https://open.spotify.com/track/3q75tGobnVPeZn3qw34gHB"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Always Sometimes",
       "url": "https://open.spotify.com/track/12hUalAK3jyfO3GreZSca3"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 167195,
       "name": "Amplitude",
       "url": "https://open.spotify.com/track/0F8nxG2gJ6xXpanrZlfp4D"
@@ -480,6 +480,24 @@
     },
     {
       "album": {
+        "name": "Wake up Calls",
+        "url": "https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81106,
+      "name": "Bittern",
+      "url": "https://open.spotify.com/track/0izz2Wwg9OSjX0LRNivaTw"
+    },
+    {
+      "album": {
         "name": "Angelic",
         "url": "https://open.spotify.com/album/5s37hBeeGnPiSdKumJX0pd"
       },
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 300791,
       "name": "Call Of The Sea",
       "url": "https://open.spotify.com/track/19eQWCG7R2ue0tdkXoW1zN"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 384000,
       "name": "Chysis",
       "url": "https://open.spotify.com/track/6mYwBPBDXp6US3zyYgpvHY"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 155769,
       "name": "Cloud Babies",
       "url": "https://open.spotify.com/track/0zcNI0po2q6nXej4z92ENN"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 160519,
       "name": "Crystal Spires",
       "url": "https://open.spotify.com/track/6Fgc46MskpsOFTFfi5nIzZ"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 150726,
       "name": "Dark Forest",
       "url": "https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 210936,
       "name": "Dazed",
       "url": "https://open.spotify.com/track/0YxoUJRSiiVaL7hQMsegQa"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 106666,
       "name": "Deep Forest",
       "url": "https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 170566,
       "name": "Dislocation",
       "url": "https://open.spotify.com/track/2Q5CH48V1AvnnRm74dWXgp"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 207272,
       "name": "Filterscape",
       "url": "https://open.spotify.com/track/0Fouvz6uMkp2hRb0dsUczk"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 158961,
       "name": "First Light",
       "url": "https://open.spotify.com/track/2FQiMkzVzQBrSEDrx6LIua"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 145800,
       "name": "From Shores To Mountains",
       "url": "https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 159090,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/1QOjjaBWJzxd4KLzVkGnL2"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "High Spirits",
       "url": "https://open.spotify.com/track/4InsvvBQTDAEiCGOh5MBH7"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 198750,
       "name": "In the Landscapes of Baertling",
       "url": "https://open.spotify.com/track/3tbWT2vjQzFRN5j2rOyFae"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 207272,
       "name": "Interleave",
       "url": "https://open.spotify.com/track/6ZnsxbEa2FgKkEjoRNNlV7"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 691347,
       "name": "It Feels Like Floating",
       "url": "https://open.spotify.com/track/1aFLwFLsTdqSl7tDGTAreU"
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 194794,
       "name": "Kaolin",
       "url": "https://open.spotify.com/track/2wlu4KMCvR202beZHns8Mb"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 170281,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/7IcQmXwd5r6eF3DIHL0xim"
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 193371,
       "name": "Moon Castle I",
       "url": "https://open.spotify.com/track/0coCFsNG4gTIJAeMdZuEQf"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 156623,
       "name": "Morning Ambience.",
       "url": "https://open.spotify.com/track/1AlDFB9mILDmXHEtRtlqjv"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 209347,
       "name": "Open Glade",
       "url": "https://open.spotify.com/track/1FOoBkU22JS0C6HyTTnyTP"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 223000,
       "name": "Peperomia Seedling",
       "url": "https://open.spotify.com/track/7kCbTbQfyVySUftfKsgbWF"
@@ -2169,7 +2187,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 156363,
       "name": "Photophores",
       "url": "https://open.spotify.com/track/0t824TdL6NQj4G8HvDMlkc"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 177391,
       "name": "Rural Landscapes",
       "url": "https://open.spotify.com/track/6THgi0W2fwz42lNfFlnOee"
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 173999,
       "name": "Senseful",
       "url": "https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A"
@@ -2385,7 +2403,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 122837,
       "name": "Silviculture",
       "url": "https://open.spotify.com/track/5gPJUTZ50tXhTc7AciCS4i"
@@ -2421,7 +2439,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 129523,
       "name": "Sinharaja Rain Forest",
       "url": "https://open.spotify.com/track/7gqMUXQ0Lo33WwUdSv8c2L"
@@ -2511,7 +2529,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 174239,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3PryCUaKSzRhMB0D1xr1Tt"
@@ -2547,7 +2565,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 226876,
       "name": "Sometimes He's In My Dreams",
       "url": "https://open.spotify.com/track/2SxhgBSJw4BULcHrCmFWw7"
@@ -2587,7 +2605,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 286066,
       "name": "Spain",
       "url": "https://open.spotify.com/track/6A4RctQaBHHU9dmhecNgQy"
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Spectral Morning",
       "url": "https://open.spotify.com/track/58BwA9Le9wc2DuQtvmd4lf"
@@ -2659,7 +2677,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 190400,
       "name": "String of Raindrops",
       "url": "https://open.spotify.com/track/5vosryofCmhWtisU0mLzy2"
@@ -2789,7 +2807,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 322506,
       "name": "The Golden Morning Breaks",
       "url": "https://open.spotify.com/track/5fWJfpYyGYD4SzpcD6rZyk"
@@ -2843,7 +2861,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 160568,
       "name": "The Sapphire Waters of East Kalimantan",
       "url": "https://open.spotify.com/track/2xWuOQh9k5g3vjk4zaeoUy"
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 171471,
       "name": "The Silent Reverie",
       "url": "https://open.spotify.com/track/0yUoE3PQOdwGthhyRp9evR"
@@ -2897,7 +2915,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 183979,
       "name": "Timeline of the Magellan",
       "url": "https://open.spotify.com/track/6tmA9HzNzTa7wP2NxkaYHg"
@@ -2915,7 +2933,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 142094,
       "name": "Toulouse",
       "url": "https://open.spotify.com/track/3xtVrtdGTnoYvDY0ra5MGY"
@@ -3023,7 +3041,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 202364,
       "name": "Water Flowing",
       "url": "https://open.spotify.com/track/6yuUNwzKsytnqKjFU3oNrS"

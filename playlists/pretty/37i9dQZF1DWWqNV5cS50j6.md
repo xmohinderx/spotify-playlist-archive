@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Indie music antimatter\. Cover: brakence
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,860 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,018 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 5 | [Me and Your Boyfriend](https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Me and Your Boyfriend](https://open.spotify.com/album/44HO5dHZ7GYmxDm7oMHHGu) | 2:06 |
 | 6 | [You the One Fish in the Sea](https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu) | 2:32 |
 | 7 | [Centauri](https://open.spotify.com/track/2gRRFco9B1M912c7wX5Nhg) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/3coE5Zmvd7zx2LYX6tIkOV) | 2:35 |
-| 8 | [Loner](https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Loner](https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI) | 3:05 |
+| 8 | [Loner](https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Loner](https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI) | 3:05 |
 | 9 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 |
 | 10 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 |
 | 11 | [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 |

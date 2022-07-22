@@ -2,7 +2,7 @@
 
 ### [La Lista Pop](https://open.spotify.com/playlist/37i9dQZF1DWSpF87bP6JSF)
 
-> Los éxitos del pop latino featuring TINI, Becky G and Anitta.
+> Los éxitos del pop latino featuring Piso 21 and Manuel Turizo.
 
 121 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/4iUOCOgAGj98pc9KE7qNhs)
 

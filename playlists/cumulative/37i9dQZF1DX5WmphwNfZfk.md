@@ -4,7 +4,7 @@
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Saya Gray
 
-751 songs - 1 day 14 hr 19 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+752 songs - 1 day 14 hr 22 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [Spring](https://open.spotify.com/track/2vMikyqNbH1ynZ4Rfcbso3) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Spring](https://open.spotify.com/album/4GVoIK1wXH6Tm5bOaNOkIu) | 2:45 | 2022-06-03 | 2022-07-02 |
 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-03-04 | 2022-04-02 |
 | [Stand Witcha](https://open.spotify.com/track/5grQjr0LfwioqBqsyMWCoc) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Stand Witcha](https://open.spotify.com/album/52OsdTdMyBLkWUIG7wAlft) | 2:04 | 2022-01-07 | 2022-02-05 |
+| [Steam Fish](https://open.spotify.com/track/3nbtP9BFlrHI47ahGbNEzk) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs) | [Steam Fish](https://open.spotify.com/album/1F3UJN3NBkJ2GgAtGIqtdp) | 2:50 | 2022-07-01 |  |
 | [STICK](https://open.spotify.com/track/1dgTZLHXNTXhn0L9D3MNF9) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [I Am Nothing Without \(Deluxe\) \- Trench Baby](https://open.spotify.com/album/3C2MpfvoCw8qw7DpUbM7RW) | 2:12 | 2022-07-01 |  |
 | [still](https://open.spotify.com/track/7oDohZCDFN9RgxroWcxVAn) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [still](https://open.spotify.com/album/2w7vynYkjfQgzBRZYdFon8) | 2:42 | 2022-01-07 | 2022-02-05 |
 | [Still Breathing](https://open.spotify.com/track/4PEqiixbz0eTuPusho6AJn) | [POESY](https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL) | [Still Breathing](https://open.spotify.com/album/5b5kRKvYp0DyO3idMNV3jY) | 3:13 | 2022-06-03 | 2022-07-02 |

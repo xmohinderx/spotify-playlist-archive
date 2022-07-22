@@ -62,24 +62,6 @@
     },
     {
       "album": {
-        "name": "Watashio Someru Aino Uta",
-        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
-      "duration_ms": 247373,
-      "name": "Canele",
-      "url": "https://open.spotify.com/track/0xdYMLOVH0DPNNg1zPofzO"
-    },
-    {
-      "album": {
         "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
         "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
       },
@@ -131,24 +113,6 @@
       "duration_ms": 221773,
       "name": "Love Whistle",
       "url": "https://open.spotify.com/track/1d0Drv3qKZWEZiUhh563HC"
-    },
-    {
-      "album": {
-        "name": "Gamushara",
-        "url": "https://open.spotify.com/album/2lu8FueFpDKE5LtQ00aE8c"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
-      "duration_ms": 195600,
-      "name": "Otona ni nattane",
-      "url": "https://open.spotify.com/track/0u2Y4PQ5hTZuQ3m5Qd2FIm"
     },
     {
       "album": {
@@ -311,7 +275,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 301893,
       "name": "\u30a4\u30ce\u30b3\u30ea\u5148\u751f",
       "url": "https://open.spotify.com/track/3OD8RZwpAi0MIsqvWYC9lf"
@@ -351,6 +315,24 @@
       "duration_ms": 229786,
       "name": "\u30a6\u30eb\u30d5 -instrumental-",
       "url": "https://open.spotify.com/track/0Nlj7jMEmqFdgPpf5t4FHz"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308bi\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "\u30ab\u30cc\u30ec",
+      "url": "https://open.spotify.com/track/0xdYMLOVH0DPNNg1zPofzO"
     },
     {
       "album": {
@@ -401,7 +383,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 287146,
       "name": "\u30b5\u30a4\u30c0\u30fc -instrumental-",
       "url": "https://open.spotify.com/track/5rq97nPdq1Dc2AAVqXM459"
@@ -527,7 +509,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 274440,
       "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6 -instrumental-",
       "url": "https://open.spotify.com/track/2Co9ArGiEfgN1p5gihaHFK"
@@ -679,7 +661,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 245266,
       "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30c0\u30fc\u30ea\u30f3 -instrumental-",
       "url": "https://open.spotify.com/track/27httj6e8VdyVimcMSTLZn"
@@ -831,6 +813,24 @@
       "duration_ms": 262693,
       "name": "\u5192\u967a\u306eVLOG",
       "url": "https://open.spotify.com/track/6KtkYlgZoBno6Ai894zfSD"
+    },
+    {
+      "album": {
+        "name": "\u6211\u6b66\u8005\u7f85",
+        "url": "https://open.spotify.com/album/2lu8FueFpDKE5LtQ00aE8c"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "\u5927\u4eba\u306b\u306a\u3063\u305f\u306d",
+      "url": "https://open.spotify.com/track/0u2Y4PQ5hTZuQ3m5Qd2FIm"
     },
     {
       "album": {

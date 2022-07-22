@@ -4,7 +4,7 @@
 
 > East Africa Queens in their musical element.
 
-60 songs - 3 hr 12 min - not published yet
+60 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

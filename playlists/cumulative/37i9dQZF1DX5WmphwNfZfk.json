@@ -11828,6 +11828,24 @@
     },
     {
       "album": {
+        "name": "Steam Fish",
+        "url": "https://open.spotify.com/album/1F3UJN3NBkJ2GgAtGIqtdp"
+      },
+      "artists": [
+        {
+          "name": "Wave Montega",
+          "url": "https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170958,
+      "name": "Steam Fish",
+      "url": "https://open.spotify.com/track/3nbtP9BFlrHI47ahGbNEzk"
+    },
+    {
+      "album": {
         "name": "I Am Nothing Without (Deluxe) - Trench Baby",
         "url": "https://open.spotify.com/album/3C2MpfvoCw8qw7DpUbM7RW"
       },

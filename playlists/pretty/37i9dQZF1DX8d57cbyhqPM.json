@@ -1,12 +1,12 @@
 {
   "description": "From the Congo, to the world. / Du Congo, au monde. \ud83c\udf0d  Photo: Moonshine",
-  "num_followers": 1550,
+  "num_followers": 1690,
   "original_name": "Biso Na Biso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzY2MCwwMDAwMDAwNzAwMDAwMTgyMDAwNDU1MWUwMDAwMDE4MWIyYTE4YmZj",
+  "snapshot_id": "MTY1ODQyOTIyOCwwMDAwMDAwODAwMDAwMTgyMjIxNWM0NjUwMDAwMDE4MWIyYTE4YmZj",
   "tracks": [
     {
       "added_at": "2022-07-15 04:01:00",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "Mondongo",
+        "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
+      },
+      "artists": [
+        {
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "Karolina",
+      "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Tokooos II",
         "url": "https://open.spotify.com/album/2Tcx5XnaqhO7ooOH00iA6M"
       },
@@ -131,50 +147,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Mackpiano, Vol. 1",
-        "url": "https://open.spotify.com/album/6KH1ywMPsztDOeymVcfrHZ"
-      },
-      "artists": [
-        {
-          "name": "Mackareo",
-          "url": "https://open.spotify.com/artist/3C4rDSQJShUu9DFasuQTzm"
-        },
-        {
-          "name": "C Cane",
-          "url": "https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Ok",
-      "url": "https://open.spotify.com/track/35GMKeItBSoJCpzwyQWdpN"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Gbadolite",
-        "url": "https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        },
-        {
-          "name": "Uproot Andy",
-          "url": "https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc"
-        },
-        {
-          "name": "Moonshine",
-          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Gbadolite",
-      "url": "https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "7 jours de la semaine",
         "url": "https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy"
       },
@@ -187,22 +159,6 @@
       "duration_ms": 331199,
       "name": "Diemba (Balan\u00e7oire) - G\u00e9n\u00e9rique",
       "url": "https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Mondongo",
-        "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
-      },
-      "artists": [
-        {
-          "name": "Awilo Longomba",
-          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "Karolina",
-      "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -291,6 +247,26 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "Mackpiano, Vol. 1",
+        "url": "https://open.spotify.com/album/6KH1ywMPsztDOeymVcfrHZ"
+      },
+      "artists": [
+        {
+          "name": "Mackareo",
+          "url": "https://open.spotify.com/artist/3C4rDSQJShUu9DFasuQTzm"
+        },
+        {
+          "name": "C Cane",
+          "url": "https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Ok",
+      "url": "https://open.spotify.com/track/35GMKeItBSoJCpzwyQWdpN"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Trop c'est trop",
         "url": "https://open.spotify.com/album/1wL4WyHqFJwnS9F1IgxeFW"
       },
@@ -323,6 +299,22 @@
       "duration_ms": 253936,
       "name": "Bayuma Bavida Kala (feat. Innoss B)",
       "url": "https://open.spotify.com/track/7ns8gWGNO1vbNF2r7wDPEH"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Coup\u00e9 D\u00e9cal\u00e9 Zone (Sushiraw)",
+        "url": "https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ"
+      },
+      "artists": [
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        }
+      ],
+      "duration_ms": 361351,
+      "name": "On dit quoi",
+      "url": "https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -375,6 +367,30 @@
       "duration_ms": 252687,
       "name": "Bokoko",
       "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Gbadolite",
+        "url": "https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "Uproot Andy",
+          "url": "https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc"
+        },
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Gbadolite",
+      "url": "https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -475,18 +491,34 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Coup\u00e9 D\u00e9cal\u00e9 Zone (Sushiraw)",
-        "url": "https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ"
+        "name": "Misu na misu",
+        "url": "https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i"
       },
       "artists": [
         {
-          "name": "Kaysha",
-          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+          "name": "Robinio Mundibu",
+          "url": "https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz"
         }
       ],
-      "duration_ms": 361351,
-      "name": "On dit quoi",
-      "url": "https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ"
+      "duration_ms": 208407,
+      "name": "Misu na misu",
+      "url": "https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Erratum (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/12bDmtxnWnTnZxNF8kpvac"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        }
+      ],
+      "duration_ms": 175475,
+      "name": "Motema",
+      "url": "https://open.spotify.com/track/6VWkqhuIWghoye62r47cpn"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -531,22 +563,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Misu na misu",
-        "url": "https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i"
-      },
-      "artists": [
-        {
-          "name": "Robinio Mundibu",
-          "url": "https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz"
-        }
-      ],
-      "duration_ms": 208407,
-      "name": "Misu na misu",
-      "url": "https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Elengi (feat. Koffi Olomide)",
         "url": "https://open.spotify.com/album/1u1FkfGwN92at9xyF791nf"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 245603,
       "name": "Elengi (feat. Koffi Olomide)",
       "url": "https://open.spotify.com/track/0TBRFyidKDV8Gswfc4haxh"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Erratum (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/12bDmtxnWnTnZxNF8kpvac"
-      },
-      "artists": [
-        {
-          "name": "Hiro",
-          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
-        }
-      ],
-      "duration_ms": 175475,
-      "name": "Motema",
-      "url": "https://open.spotify.com/track/6VWkqhuIWghoye62r47cpn"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -643,22 +643,6 @@
       "duration_ms": 248000,
       "name": "Mbapp\u00e9",
       "url": "https://open.spotify.com/track/4x8jFY4oAcBsAt67pjonSS"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "2xt",
-        "url": "https://open.spotify.com/album/140TfqfjBZ0RrgdQHzpJjf"
-      },
-      "artists": [
-        {
-          "name": "Big Molimo AK",
-          "url": "https://open.spotify.com/artist/5rv1KON2TIHnOPhQYYDIEp"
-        }
-      ],
-      "duration_ms": 126673,
-      "name": "2xt",
-      "url": "https://open.spotify.com/track/3OJsrBDnnP0KuMvHJbD2Xk"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -867,22 +851,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Burning Desire",
-        "url": "https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b"
-      },
-      "artists": [
-        {
-          "name": "Joe Gez",
-          "url": "https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z"
-        }
-      ],
-      "duration_ms": 172388,
-      "name": "Burning Desire",
-      "url": "https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Gentleman 2.0",
         "url": "https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3"
       },
@@ -939,6 +907,26 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
+      },
+      "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 245713,
+      "name": "B\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/3FUIw0addqmbvRuM00QECL"
       },
@@ -967,6 +955,22 @@
       "duration_ms": 286267,
       "name": "Eloko Oyo",
       "url": "https://open.spotify.com/track/2nOxzPAtTsUBmzShpGbpfj"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b"
+      },
+      "artists": [
+        {
+          "name": "Joe Gez",
+          "url": "https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z"
+        }
+      ],
+      "duration_ms": 172388,
+      "name": "Burning Desire",
+      "url": "https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1179,26 +1183,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
-      },
-      "artists": [
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 245713,
-      "name": "B\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 234359,
       "name": "Kilulu",
       "url": "https://open.spotify.com/track/21EIqCWgU610VuoHSamaMu"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "2xt",
+        "url": "https://open.spotify.com/album/140TfqfjBZ0RrgdQHzpJjf"
+      },
+      "artists": [
+        {
+          "name": "Big Molimo AK",
+          "url": "https://open.spotify.com/artist/5rv1KON2TIHnOPhQYYDIEp"
+        }
+      ],
+      "duration_ms": 126673,
+      "name": "2xt",
+      "url": "https://open.spotify.com/track/3OJsrBDnnP0KuMvHJbD2Xk"
     }
   ],
   "unique_name": "Biso Na Biso",

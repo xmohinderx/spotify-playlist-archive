@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Daniela's Dance",
+        "url": "https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW"
+      },
+      "artists": [
+        {
+          "name": "Somerset Kent",
+          "url": "https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115495,
+      "name": "Daniela's Dance",
+      "url": "https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym"
+    },
+    {
+      "album": {
         "name": "Deep Forest",
         "url": "https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi"
       },

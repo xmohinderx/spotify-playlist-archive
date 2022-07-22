@@ -1,15 +1,71 @@
 {
-  "description": "De playlist voor magic, motion en love tunes. Cover: Murda & Hadise",
-  "num_followers": 300690,
+  "description": "De playlist voor magic, motion en love tunes. Cover: Burna Boy",
+  "num_followers": 300754,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI0NTMyMSwwMDAwMDQ3NTAwMDAwMTgyMTcxZjkzYmMwMDAwMDE4MWZjYjdjY2Rj",
+  "snapshot_id": "MTY1ODQ0MDgwMCwwMDAwMDQ3NzAwMDAwMTgyMjJjNjU3YzYwMDAwMDE4MjIwMmEwZDI2",
   "tracks": [
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Miss U",
+        "url": "https://open.spotify.com/album/10E2ZYMAAJ24JFgZRxIXRK"
+      },
+      "artists": [
+        {
+          "name": "D-Double",
+          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/0i0s0NHxwwiDpW3qB7sVmn"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 201793,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/5SoDaPgXA4C2BuTPPInaV2"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Lions",
+        "url": "https://open.spotify.com/album/4rHvjKBz9fpkHYHdih33ZF"
+      },
+      "artists": [
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        }
+      ],
+      "duration_ms": 121182,
+      "name": "Lions",
+      "url": "https://open.spotify.com/track/0CJ2GxXs5bE8E9UjXXnsGx"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Imdat",
         "url": "https://open.spotify.com/album/4mstl6Swxl2UFS8BynQ9iO"
@@ -29,43 +85,7 @@
       "url": "https://open.spotify.com/track/5cbxozQ92oCz3stk9AwO9A"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 201793,
-      "name": "Science",
-      "url": "https://open.spotify.com/track/5SoDaPgXA4C2BuTPPInaV2"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Gangster Love",
-        "url": "https://open.spotify.com/album/3ugtz6llOiSYzYJg2qp9Tx"
-      },
-      "artists": [
-        {
-          "name": "OCS",
-          "url": "https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        }
-      ],
-      "duration_ms": 148557,
-      "name": "Calling Me (feat. Jandro)",
-      "url": "https://open.spotify.com/track/6wPxHfzLzKHyFcY1dLPbtZ"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Amazin\u2019 (Remix)",
         "url": "https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h"
@@ -89,7 +109,51 @@
       "url": "https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Vamonos (Kidd Keo Remix)",
+        "url": "https://open.spotify.com/album/1Aerjdt5Au1xvhPbzguLpF"
+      },
+      "artists": [
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 187757,
+      "name": "Vamonos (Kidd Keo Remix)",
+      "url": "https://open.spotify.com/track/6NK4btvHCxKGYiklcAt2vs"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Gangster Love",
+        "url": "https://open.spotify.com/album/3ugtz6llOiSYzYJg2qp9Tx"
+      },
+      "artists": [
+        {
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "duration_ms": 148557,
+      "name": "Calling Me (feat. Jandro)",
+      "url": "https://open.spotify.com/track/6wPxHfzLzKHyFcY1dLPbtZ"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Interessant (feat. Bizzey)",
         "url": "https://open.spotify.com/album/1AgAZ2A82hq0ZpTe0Yt37H"
@@ -117,7 +181,23 @@
       "url": "https://open.spotify.com/track/1NFgyfNYN7ZlVeS0TUbCna"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Consciousness",
+        "url": "https://open.spotify.com/album/0D3M7NwWQe4iL0rMNfPWQk"
+      },
+      "artists": [
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv"
+        }
+      ],
+      "duration_ms": 111428,
+      "name": "Consciousness",
+      "url": "https://open.spotify.com/track/3fDQa06TlrJoC4zDH1iuaB"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Tchickita",
         "url": "https://open.spotify.com/album/3jNF73L4ROzeb4SfejQu7y"
@@ -137,71 +217,27 @@
       "url": "https://open.spotify.com/track/63mbb3ABZBBZuhLLNjjXed"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "VIER",
-        "url": "https://open.spotify.com/album/04o2PWclezMMSkd77VdwUy"
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
       "artists": [
         {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 170978,
-      "name": "Plat",
-      "url": "https://open.spotify.com/track/4znoxaYS782I5sJdGIjF4x"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Gangster Love",
-        "url": "https://open.spotify.com/album/3ugtz6llOiSYzYJg2qp9Tx"
-      },
-      "artists": [
-        {
-          "name": "OCS",
-          "url": "https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap"
-        }
-      ],
-      "duration_ms": 128655,
-      "name": "If You Need Me",
-      "url": "https://open.spotify.com/track/1WvvjdsTsdPWrE2G7anjQQ"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
         {
           "name": "Omah Lay",
           "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+      "duration_ms": 177067,
+      "name": "10 Toes (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Lens",
-        "url": "https://open.spotify.com/album/4xgIpaMu7iVgURXUS494tx"
-      },
-      "artists": [
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        }
-      ],
-      "duration_ms": 132941,
-      "name": "Lens",
-      "url": "https://open.spotify.com/track/66v9cILPaW6mDruYQs2FMQ"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Bikini",
         "url": "https://open.spotify.com/album/0OzrYJjcyo7KHC08SyrDlI"
@@ -225,79 +261,23 @@
       "url": "https://open.spotify.com/track/2yqSgr8sMvM0jlFj4Aqx7B"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Naar De Zon (Wat Doen We Nog Hier) [feat. Frsh & Eves Laurent]",
-        "url": "https://open.spotify.com/album/5PFM8u9q5U2iGUDFweH44C"
+        "name": "VIER",
+        "url": "https://open.spotify.com/album/04o2PWclezMMSkd77VdwUy"
       },
       "artists": [
         {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "Eves Laurent",
-          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
         }
       ],
-      "duration_ms": 169591,
-      "name": "Naar De Zon (Wat Doen We Nog Hier) [feat. Frsh & Eves Laurent]",
-      "url": "https://open.spotify.com/track/0TAUTnhgziadKviFgCdMAf"
+      "duration_ms": 170978,
+      "name": "Plat",
+      "url": "https://open.spotify.com/track/4znoxaYS782I5sJdGIjF4x"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Vazge\u00e7emem",
-        "url": "https://open.spotify.com/album/74nhbuFu56fLwdo0tRhfeo"
-      },
-      "artists": [
-        {
-          "name": "Emil Ros\u00e9",
-          "url": "https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC"
-        }
-      ],
-      "duration_ms": 185511,
-      "name": "Vazge\u00e7emem",
-      "url": "https://open.spotify.com/track/7weaygJAjhB4C6P1T5Ro61"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/5A6jH4nly9mmEjclnmhhIG"
-      },
-      "artists": [
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        }
-      ],
-      "duration_ms": 139998,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/6QKypZP2gDMeeIq5O4LuIO"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "System",
-        "url": "https://open.spotify.com/album/7ph68ITs0GKAOWFfUpVMse"
-      },
-      "artists": [
-        {
-          "name": "Toobss",
-          "url": "https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC"
-        }
-      ],
-      "duration_ms": 172075,
-      "name": "System",
-      "url": "https://open.spotify.com/track/19VFcHFyE47v1bw6ZsKbzF"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/3xOLShtc9JC735vtyQRlyl"
@@ -325,7 +305,179 @@
       "url": "https://open.spotify.com/track/1tEulLqSCX3Q9DOXxoRugI"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/5A6jH4nly9mmEjclnmhhIG"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        }
+      ],
+      "duration_ms": 139998,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/6QKypZP2gDMeeIq5O4LuIO"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Gangster Love",
+        "url": "https://open.spotify.com/album/3ugtz6llOiSYzYJg2qp9Tx"
+      },
+      "artists": [
+        {
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap"
+        }
+      ],
+      "duration_ms": 128655,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/1WvvjdsTsdPWrE2G7anjQQ"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Herra",
+        "url": "https://open.spotify.com/album/6caYCKQZPQwGwQMCVj0lDd"
+      },
+      "artists": [
+        {
+          "name": "Sluwe Ollie",
+          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Herra",
+      "url": "https://open.spotify.com/track/4NaDrj1SBAmEhMFlFgLkAk"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Lens",
+        "url": "https://open.spotify.com/album/4xgIpaMu7iVgURXUS494tx"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 132941,
+      "name": "Lens",
+      "url": "https://open.spotify.com/track/66v9cILPaW6mDruYQs2FMQ"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Nerdesin",
+        "url": "https://open.spotify.com/album/7pRjDa4x9Nzr3KGXeTSGb1"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "Nerdesin",
+      "url": "https://open.spotify.com/track/3PAMPpiORJKXAIxMhfDp66"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Naar De Zon (Wat Doen We Nog Hier) [feat. Frsh & Eves Laurent]",
+        "url": "https://open.spotify.com/album/5PFM8u9q5U2iGUDFweH44C"
+      },
+      "artists": [
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        }
+      ],
+      "duration_ms": 169591,
+      "name": "Naar De Zon (Wat Doen We Nog Hier) [feat. Frsh & Eves Laurent]",
+      "url": "https://open.spotify.com/track/0TAUTnhgziadKviFgCdMAf"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Sextou",
+        "url": "https://open.spotify.com/album/0Nxv3G4Gm4MX1OAXbMwyxa"
+      },
+      "artists": [
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        }
+      ],
+      "duration_ms": 137306,
+      "name": "Sextou",
+      "url": "https://open.spotify.com/track/64FfA22Zy8owo2Hanmbieh"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Vazge\u00e7emem",
+        "url": "https://open.spotify.com/album/74nhbuFu56fLwdo0tRhfeo"
+      },
+      "artists": [
+        {
+          "name": "Emil Ros\u00e9",
+          "url": "https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC"
+        }
+      ],
+      "duration_ms": 185511,
+      "name": "Vazge\u00e7emem",
+      "url": "https://open.spotify.com/track/7weaygJAjhB4C6P1T5Ro61"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "System",
+        "url": "https://open.spotify.com/album/7ph68ITs0GKAOWFfUpVMse"
+      },
+      "artists": [
+        {
+          "name": "Toobss",
+          "url": "https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC"
+        }
+      ],
+      "duration_ms": 172075,
+      "name": "System",
+      "url": "https://open.spotify.com/track/19VFcHFyE47v1bw6ZsKbzF"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "M\u00e9chante",
         "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
@@ -341,7 +493,23 @@
       "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Ik Was Zo Down",
+        "url": "https://open.spotify.com/album/2qguSuBANVWKRwDpQnvh5M"
+      },
+      "artists": [
+        {
+          "name": "Lairc",
+          "url": "https://open.spotify.com/artist/3LrpPFHsEI2ZaZ5oppwCTF"
+        }
+      ],
+      "duration_ms": 169754,
+      "name": "Ik Was Zo Down",
+      "url": "https://open.spotify.com/track/2UMoYFdiBCe32RFAXsePyu"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Zina",
         "url": "https://open.spotify.com/album/01Z9lEhwFVxDkPwWwQYlSV"
@@ -361,7 +529,7 @@
       "url": "https://open.spotify.com/track/4au4kpL2zRTnMkn97ayL55"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "DINA",
         "url": "https://open.spotify.com/album/5XGNTp1quhPUa802eU0Ver"
@@ -381,7 +549,7 @@
       "url": "https://open.spotify.com/track/0kH4mqQwTavVCZHqvObDDT"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Op De Bon",
         "url": "https://open.spotify.com/album/6gwo7GHawe5c1mZxztIysP"
@@ -397,7 +565,7 @@
       "url": "https://open.spotify.com/track/4q1sGBJkvEfuHyAdB7c47h"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Na De Na",
         "url": "https://open.spotify.com/album/33IJNocRCgGO2dJ5Tya2o8"
@@ -417,7 +585,7 @@
       "url": "https://open.spotify.com/track/3mp4K8l13oqI01AkDkiOsI"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Banana",
         "url": "https://open.spotify.com/album/0CidSPfyHc1IogMn39b8fv"
@@ -441,7 +609,23 @@
       "url": "https://open.spotify.com/track/7Mish8vZYeOPFHizC3pnpE"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Flits Uit",
         "url": "https://open.spotify.com/album/0TgmaiS4hVdr76QSEyzWoM"
@@ -465,27 +649,7 @@
       "url": "https://open.spotify.com/track/2UEgBrRofjHdoDdTu19JY8"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Pour It Up",
-        "url": "https://open.spotify.com/album/6af7AXOxBkk1Col2hPvF7k"
-      },
-      "artists": [
-        {
-          "name": "Brasco",
-          "url": "https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr"
-        },
-        {
-          "name": "Yxng Le",
-          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
-        }
-      ],
-      "duration_ms": 139539,
-      "name": "Pour It Up",
-      "url": "https://open.spotify.com/track/6Lknj1ggL4NCoP96O8lH5r"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/1aUbkV0ro5B4f2HJMd2FMY"
@@ -513,7 +677,7 @@
       "url": "https://open.spotify.com/track/7gLBmiTRzVqJ9curo0dj1N"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
@@ -533,7 +697,7 @@
       "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Choco Waistline",
         "url": "https://open.spotify.com/album/4bphysFtykgFLnjaAfF67O"
@@ -557,7 +721,7 @@
       "url": "https://open.spotify.com/track/5SKBH2ivPsHEs71WW8oTCD"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
         "url": "https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD"
@@ -585,7 +749,7 @@
       "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/2iUCn646cvtZ0EHW1CFzFT"
@@ -605,91 +769,7 @@
       "url": "https://open.spotify.com/track/1k9sNbjyxxB0uzB4Z3eXDl"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Comforter (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Comforter (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Lekker Sjeg",
-        "url": "https://open.spotify.com/album/5ur9fUh9byGmGjZN7dhK8K"
-      },
-      "artists": [
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "Saaff",
-          "url": "https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ"
-        },
-        {
-          "name": "Lucky Jones",
-          "url": "https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Lekker Sjeg",
-      "url": "https://open.spotify.com/track/6umW1u73uj5l7A2Ped8OT0"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/2vxDwrcRdSzKfBFWuQA5pH"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/3DYcM56i1YQ410v8jv54pK"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Summertime Flex",
-        "url": "https://open.spotify.com/album/7yF8fXlDtDrPJyy7pu0Qaf"
-      },
-      "artists": [
-        {
-          "name": "Lucky Jones",
-          "url": "https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet"
-        },
-        {
-          "name": "Saaff",
-          "url": "https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ"
-        },
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Summertime Flex",
-      "url": "https://open.spotify.com/track/1fk09RWJVjBkj2xQ8fEqgp"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
@@ -705,7 +785,7 @@
       "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "In M'n Mind",
         "url": "https://open.spotify.com/album/39MT1sBbQoTZQR7QZlN1f5"
@@ -725,7 +805,7 @@
       "url": "https://open.spotify.com/track/0U4aE9KIaHW1DgzlxWfIkR"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Watah",
         "url": "https://open.spotify.com/album/7IvwD3p19l8t6ivqM8KFCU"
@@ -741,7 +821,7 @@
       "url": "https://open.spotify.com/track/4Ytubz8Glr60LyuxheJR2f"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Als Het Lukt",
         "url": "https://open.spotify.com/album/3DX2CDY4G0M8O1NikcatSE"
@@ -757,7 +837,7 @@
       "url": "https://open.spotify.com/track/6ZKYbnNV87dPVG0FXLp7n3"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/2pwqqB5fGJ77AUsBe69wuL"
@@ -777,27 +857,7 @@
       "url": "https://open.spotify.com/track/3ZxJ1LT3SAHn9zJ1Sqjdab"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Hasta Abajo",
-        "url": "https://open.spotify.com/album/6N5hxh9kJdRtKllzb14BID"
-      },
-      "artists": [
-        {
-          "name": "Jorda",
-          "url": "https://open.spotify.com/artist/2JFrOlm8n2quN9uQ2lkeO5"
-        },
-        {
-          "name": "Godwonder",
-          "url": "https://open.spotify.com/artist/6BleBBYjao1MPvOoJ5yYSv"
-        }
-      ],
-      "duration_ms": 126086,
-      "name": "Hasta Abajo",
-      "url": "https://open.spotify.com/track/48GWHY9Eizq0Hfbk2eXGga"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Wayih",
         "url": "https://open.spotify.com/album/79GpxYlZSA5n0YP0wizwQu"
@@ -817,7 +877,7 @@
       "url": "https://open.spotify.com/track/1MwGZStRdMTxJM7SZYanIl"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -837,7 +897,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4"
@@ -857,7 +917,7 @@
       "url": "https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
@@ -873,23 +933,7 @@
       "url": "https://open.spotify.com/track/2dGE7HMvZEjuNxzz4IDLyL"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Deeper X (Part 1)",
-        "url": "https://open.spotify.com/album/2UgN9DlIqhTRvKK6qhJSVW"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 160996,
-      "name": "Mamasita",
-      "url": "https://open.spotify.com/track/1FtkAvphTDUzGKfSZvV8Kw"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Ja zegt",
         "url": "https://open.spotify.com/album/4epXBfw8jOkN3nAwDcCJXD"
@@ -913,7 +957,7 @@
       "url": "https://open.spotify.com/track/0ePcSpTAUjAPD29GQi3eIM"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "The Highest Grade Vol. 2.0 - Caribbean Kush",
         "url": "https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5"
@@ -937,7 +981,7 @@
       "url": "https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Neem Op",
         "url": "https://open.spotify.com/album/1VRYLGqCEV8cMu8NPJSoDd"
@@ -953,7 +997,7 @@
       "url": "https://open.spotify.com/track/1hC6NHGnk5TvjQT9mwc9Ad"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Kom Mee",
         "url": "https://open.spotify.com/album/7oYZq57spAJqZkbYU2CNmA"
@@ -977,23 +1021,7 @@
       "url": "https://open.spotify.com/track/4VsnMFDvFq4ccYJuUezQHb"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Calm Down",
-        "url": "https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Kel bail",
         "url": "https://open.spotify.com/album/6fYcge4ihB6KfdvAGCFQyE"
@@ -1017,7 +1045,7 @@
       "url": "https://open.spotify.com/track/6g3fzFlpdd834RWaL4O56o"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Zet Het",
         "url": "https://open.spotify.com/album/7ty1ahSMTnaaYOng1VyZoU"
@@ -1041,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4pTZ8gF1xuGObYn96WXK1a"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "What It Do",
         "url": "https://open.spotify.com/album/6mGvNyQkTHVENlyF7qjRnG"
@@ -1057,7 +1085,7 @@
       "url": "https://open.spotify.com/track/2V3mQTPHYkxbkYxXMjnKFA"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
@@ -1073,7 +1101,7 @@
       "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "MILE HIGH CLUB",
         "url": "https://open.spotify.com/album/7bDd1wwEiaYkEzwvbMDpxe"
@@ -1093,7 +1121,7 @@
       "url": "https://open.spotify.com/track/1tX578kFr8rSvHqNYUgmBm"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Boot",
         "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
@@ -1109,7 +1137,7 @@
       "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "For A While",
         "url": "https://open.spotify.com/album/0Tz1nDOhTvbyEgfu3gtPwv"
@@ -1125,7 +1153,7 @@
       "url": "https://open.spotify.com/track/6CYr2Mp0KrRZTzDhmhd2ns"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Sigegige",
         "url": "https://open.spotify.com/album/5vXwgFWrrItrmcaEYRyLku"
@@ -1141,7 +1169,7 @@
       "url": "https://open.spotify.com/track/2Mo1KazJhbMLcF0CNCecCQ"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Je Vindt Nie Erg Toch",
         "url": "https://open.spotify.com/album/66cLvqKSEZ3iaoxubzhK1l"
@@ -1165,7 +1193,7 @@
       "url": "https://open.spotify.com/track/6nesuwe9NlRKGjenzyj37F"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Whine It",
         "url": "https://open.spotify.com/album/5NwUOJu0jq2XlQS4lAOIN0"
@@ -1189,7 +1217,7 @@
       "url": "https://open.spotify.com/track/6cXYZU8NJoWrMhHpABkRVS"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx"
@@ -1209,7 +1237,7 @@
       "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Flauta",
         "url": "https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g"
@@ -1233,7 +1261,7 @@
       "url": "https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Wat Is Je Mo",
         "url": "https://open.spotify.com/album/469SWXuGdmZ975GgdXQHRe"
@@ -1249,7 +1277,7 @@
       "url": "https://open.spotify.com/track/545Ufc9xLT5rZHazOVFjXv"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
@@ -1273,7 +1301,7 @@
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Waistline",
         "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
@@ -1289,7 +1317,7 @@
       "url": "https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Pampanana",
         "url": "https://open.spotify.com/album/0cInOxATodfivQvMbYug37"
@@ -1305,7 +1333,7 @@
       "url": "https://open.spotify.com/track/4uMVTZnalYg4JwX5vDmFTB"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Overloading (OVERDOSE)",
         "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
@@ -1341,7 +1369,7 @@
       "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "LOS VAN",
         "url": "https://open.spotify.com/album/4c5n50pYkLcLW7RvwoMB2v"
@@ -1361,7 +1389,7 @@
       "url": "https://open.spotify.com/track/2XJevn22zKX4GVXkVK7mrX"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Repeat",
         "url": "https://open.spotify.com/album/5vtxJ5aAD0dYe9fxduV2xY"
@@ -1377,7 +1405,7 @@
       "url": "https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy"
@@ -1397,7 +1425,7 @@
       "url": "https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "MANDALA",
         "url": "https://open.spotify.com/album/5ppnaDzBstF4KnL0z5sUGy"
@@ -1413,7 +1441,7 @@
       "url": "https://open.spotify.com/track/4NG1Iq0rtf3smj5DEtOzDs"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "TURBULENTIE",
         "url": "https://open.spotify.com/album/1LyxYL6FtgF4p1DTiazSjw"
@@ -1433,7 +1461,7 @@
       "url": "https://open.spotify.com/track/0sjB8JBUqX8Scr5Jns31FK"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Zeg niks meer (feat. Henkie T)",
         "url": "https://open.spotify.com/album/7aqf8j31O1SWsMNxMTC2h0"
@@ -1457,7 +1485,7 @@
       "url": "https://open.spotify.com/track/1DXfyistEKhll1oHNYYCiJ"
     },
     {
-      "added_at": "2022-07-14 22:00:00",
+      "added_at": "2022-07-21 22:00:00",
       "album": {
         "name": "Misschien",
         "url": "https://open.spotify.com/album/0XiRN6vxsMUktjP00J77MX"

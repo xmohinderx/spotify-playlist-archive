@@ -164,6 +164,28 @@
     },
     {
       "album": {
+        "name": "a-okay",
+        "url": "https://open.spotify.com/album/0WF2rsNICGVdMoXOqpWfPK"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220812,
+      "name": "a-okay",
+      "url": "https://open.spotify.com/track/70I8nlO75XOU0IPXcnT5gj"
+    },
+    {
+      "album": {
         "name": "Actions",
         "url": "https://open.spotify.com/album/6ynoOJ6OYsggnQQeP6abmZ"
       },
@@ -1345,7 +1367,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 192685,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/4GWYtknluqDyrsANhmf1hR"
@@ -1367,7 +1389,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 203840,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I"
@@ -1487,7 +1509,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 186200,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/7AEEEVNZCENxzU4J2V6Ah9"
@@ -1603,7 +1625,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 246123,
       "name": "Compromise",
       "url": "https://open.spotify.com/track/2AmHr7dwgdScxcufpT9IGS"
@@ -1857,7 +1879,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 279453,
       "name": "deeper",
       "url": "https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H"
@@ -2426,6 +2448,24 @@
     },
     {
       "album": {
+        "name": "Feels So Good (Don\u2019t It)",
+        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
+      },
+      "artists": [
+        {
+          "name": "Secret Rendezvous",
+          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209524,
+      "name": "Feels So Good Don\u2019t It",
+      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
+    },
+    {
+      "album": {
         "name": "Feet Don't Fail Me Now",
         "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
       },
@@ -2863,7 +2903,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 224257,
       "name": "Fuel to the Soul",
       "url": "https://open.spotify.com/track/4GYbEoWXcdQIlyGVXdtIT6"
@@ -4093,7 +4133,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 192460,
       "name": "In Time You'll See",
       "url": "https://open.spotify.com/track/4zqhpVOEeNmlcJul331Oww"
@@ -4741,7 +4781,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 250263,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG"
@@ -5183,7 +5223,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 209500,
       "name": "Loving You Is Easy",
       "url": "https://open.spotify.com/track/4fARowx7Swbgt8TYaKhK2a"
@@ -6569,7 +6609,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 169986,
       "name": "Pure Gold",
       "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
@@ -7045,7 +7085,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 243332,
       "name": "S.M.S. \"Save My Soul\"",
       "url": "https://open.spotify.com/track/1q4N7SQ7vtUXYWPyfaIIOY"
@@ -7315,7 +7355,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
@@ -7351,7 +7391,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 192724,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8"
@@ -7509,6 +7549,24 @@
       "duration_ms": 208133,
       "name": "Some Days",
       "url": "https://open.spotify.com/track/0GMZTe7a0XBj0kAsp8TOxA"
+    },
+    {
+      "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233846,
+      "name": "Some Of Us Are Brave",
+      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "album": {
@@ -7783,7 +7841,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 146114,
       "name": "Still",
       "url": "https://open.spotify.com/track/0H8VPq7MtL29JOI3rtO6bc"
@@ -7907,7 +7965,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 210019,
       "name": "Summer in Amsterdam",
       "url": "https://open.spotify.com/track/1AdwbV9TaiLct5zKaLpiqB"
@@ -8451,7 +8509,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "These Fires",
       "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
@@ -9491,7 +9549,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 207542,
       "name": "Worship",
       "url": "https://open.spotify.com/track/60urlUmpmaSnF8lU0rYZNi"

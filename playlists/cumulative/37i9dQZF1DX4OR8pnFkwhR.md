@@ -4,7 +4,7 @@
 
 > Early Noise出身アーティスト、ずとまよとVaundyのビデオシングルが到着！Spotifyが注目するニューカマー・プレイリスト。Cover: 秋山璃月
 
-284 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+285 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Fallin’](https://open.spotify.com/track/2XXjUayYjoXXryVMj5KwaB) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [Fallin’](https://open.spotify.com/album/0fJAMatgtuw8ux3zSExPFz) | 3:05 | 2022-05-26 | 2022-07-13 |
 | [FLAME](https://open.spotify.com/track/2uTMHATwwqd5AFGtg7EjRM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Saru jr.fool](https://open.spotify.com/artist/7ydxirAQJSZbNHoGJPOrXR), [taisyov](https://open.spotify.com/artist/7GOnq578vzDJDcDCdxwhTf) | [FLAME](https://open.spotify.com/album/7vr3RkXfIuzJ2AHpKLuRSo) | 3:16 | 2022-03-29 | 2022-05-11 |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2022-07-12 |  |
+| [Florida](https://open.spotify.com/track/6F3neIaphDdTjV4cGivHOg) | [itachi](https://open.spotify.com/artist/20xzByUKmZViuEx3OIf0yo) | [Florida](https://open.spotify.com/album/4XYhmwSli2isT42Tle10Ux) | 2:52 | 2022-07-21 |  |
 | [FOG](https://open.spotify.com/track/3rpdmGoD12xblXFiTyKyFF) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [FOG](https://open.spotify.com/album/5Fi9k1K3IBJV3W7x6FDDTi) | 3:22 | 2022-05-17 | 2022-06-01 |
 | [Free](https://open.spotify.com/track/0rIweEdu6BVuISxVYcllvp) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [W.O.L.F](https://open.spotify.com/album/0r1Yl2QyFlTSsGIcxM26bV) | 3:02 | 2022-03-08 | 2022-04-06 |
 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 | 2022-02-17 | 2022-02-23 |
@@ -222,7 +223,7 @@
 | [咆哮を定め](https://open.spotify.com/track/2HJp2R4i2kpIuTJs2hvSMb) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [遥か鳥は大空を征く](https://open.spotify.com/album/1LEzPz2Sc5De5BsORfz7bV) | 2:55 | 2022-05-17 | 2022-06-22 |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-14 |  |
 | [土曜日の「あ」](https://open.spotify.com/track/3MSmWJTa8MHAELp7Sm4tx9) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [土曜日の「あ」](https://open.spotify.com/album/08JuGZMnQU4TKkENGMtpCZ) | 3:10 | 2022-04-19 | 2022-05-13 |
-| [夏が薫る](https://open.spotify.com/track/0N1QCtOqXgGgFW0f26Pxx6) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [グソクムズカン](https://open.spotify.com/album/23qmecqoc61GJWZ8Rrkzwh) | 3:04 | 2022-07-05 |  |
+| [夏が薫る](https://open.spotify.com/track/0N1QCtOqXgGgFW0f26Pxx6) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [グソクムズカン](https://open.spotify.com/album/23qmecqoc61GJWZ8Rrkzwh) | 3:04 | 2022-07-05 | 2022-07-22 |
 | [夕立ち](https://open.spotify.com/track/6UncgJBh2gkDOABXNiRQHF) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [夕立ち](https://open.spotify.com/album/7eyDBtMztkyYnyy99UdHiz) | 2:51 | 2022-05-17 | 2022-06-22 |
 | [夜凪](https://open.spotify.com/track/1k2j3vhvIs9qCjQMAmgkdQ) | [Sugar Pears](https://open.spotify.com/artist/1nqxWR3D84nlPb1Jnblpmu) | [夜凪](https://open.spotify.com/album/0vgUDY5M15icfXk5xpZGe2) | 4:22 | 2022-03-04 | 2022-03-25 |
 | [夜行バス](https://open.spotify.com/track/6U7vtqhGaIb3ve7PFWpNo7) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [夜行バス](https://open.spotify.com/album/4Q1I2pL90LAdiGtY7y2Yn0) | 3:55 | 2022-03-15 | 2022-04-27 |

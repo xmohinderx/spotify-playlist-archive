@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: Burna Boy 🇳🇬
 
-163 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
+164 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Sans effet](https://open.spotify.com/track/3vmz5p8yz0M8R2rPP8dsSN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:40 | 2022-05-27 |  |
 | [Say You Bad \(Remix\)](https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Say You Bad \(Remix\)](https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ) | 3:24 | 2022-07-08 |  |
 | [Section](https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Section](https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K) | 2:14 | 2022-06-10 |  |
+| [Sexercise](https://open.spotify.com/track/320QvpFfnJkCZn5O0ftEfZ) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Sexercise](https://open.spotify.com/album/0Fs09qciesC6WZoaoaCvA3) | 2:26 | 2022-07-15 |  |
 | [Sexy19](https://open.spotify.com/track/6vJ6ivAXyks6kykUIvizFq) | [Dejour](https://open.spotify.com/artist/2qPE1cHelmMHiIqKHhQdK4) | [Sexy19](https://open.spotify.com/album/5ekdvIk7749sp6GEjsTPlT) | 3:36 | 2022-05-27 | 2022-07-02 |
 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 | 2022-05-27 |  |
 | [Siw Renmenm](https://open.spotify.com/track/3bnOw54ztJAL3dj9x2Xt7J) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr) | [Papo](https://open.spotify.com/album/6EPNRw0N9sXrLPOPLeo2Kp) | 3:25 | 2022-05-27 |  |

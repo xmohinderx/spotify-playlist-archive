@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128508,
+  "num_followers": 128499,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzUyOCxkNWM5NDdiN2EzNWRhZjg1MmU1OGJjYTc3MmU4MTFjZWY1YWZkN2Fj",
+  "snapshot_id": "MzUzMCw1ODNkMTMxMTExY2FlZjAwYjQ4MjM2ZDBkOGQwNDAyMDMzNTBiM2Jl",
   "tracks": [
+    {
+      "added_at": "2022-07-21 16:58:24",
+      "album": {
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA"
+      },
+      "artists": [
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
+        },
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
+        }
+      ],
+      "duration_ms": 166486,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc"
+    },
     {
       "added_at": "2022-07-20 16:44:11",
       "album": {
@@ -1107,22 +1127,6 @@
       "duration_ms": 231724,
       "name": "Wild Time",
       "url": "https://open.spotify.com/track/0YX38wDVtPkk7FAOO3wU64"
-    },
-    {
-      "added_at": "2022-05-11 16:08:28",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D"
-      },
-      "artists": [
-        {
-          "name": "Claes Rosen",
-          "url": "https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d"
-        }
-      ],
-      "duration_ms": 270500,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

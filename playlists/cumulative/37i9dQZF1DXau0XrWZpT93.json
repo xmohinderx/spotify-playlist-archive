@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Day in June",
+        "url": "https://open.spotify.com/album/2dbOdeW2CpY4UN43yMybuv"
+      },
+      "artists": [
+        {
+          "name": "Davide Delvecchio",
+          "url": "https://open.spotify.com/artist/5WDMPRZIzbj6Q2eXqVqXmu"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "A Day in June",
+      "url": "https://open.spotify.com/track/1pZZzlgOtbvhEI9I0e7Z1P"
+    },
+    {
+      "album": {
         "name": "A Drop in the Ocean",
         "url": "https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM"
       },
@@ -950,6 +968,42 @@
     },
     {
       "album": {
+        "name": "Rising Fog & Sacred Mountain",
+        "url": "https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ"
+      },
+      "artists": [
+        {
+          "name": "Elinaura",
+          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198250,
+      "name": "Rising Fog",
+      "url": "https://open.spotify.com/track/3fndeX9142XIUH7qySaGMc"
+    },
+    {
+      "album": {
+        "name": "Rising Fog & Sacred Mountain",
+        "url": "https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ"
+      },
+      "artists": [
+        {
+          "name": "Elinaura",
+          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Sacred Mountain",
+      "url": "https://open.spotify.com/track/6qzS70K6z2XDu4bCwKVa50"
+    },
+    {
+      "album": {
         "name": "Ser A Ti",
         "url": "https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB"
       },
@@ -965,6 +1019,24 @@
       "duration_ms": 214687,
       "name": "Ser A Ti",
       "url": "https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE"
+    },
+    {
+      "album": {
+        "name": "Silver Sky",
+        "url": "https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS"
+      },
+      "artists": [
+        {
+          "name": "Adam Bokesch",
+          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200137,
+      "name": "Silver Sky",
+      "url": "https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits"
     },
     {
       "album": {

@@ -1540,6 +1540,24 @@
     },
     {
       "album": {
+        "name": "Jasmine Spring",
+        "url": "https://open.spotify.com/album/5jTFUQwgbtF73qI3Qky9sF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kaede",
+          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146690,
+      "name": "Jasmine Spring",
+      "url": "https://open.spotify.com/track/0rvAQQgVhaUsbl9oF4pmlQ"
+    },
+    {
+      "album": {
         "name": "Journey Home",
         "url": "https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh"
       },
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 107624,
       "name": "Matter Of Time",
       "url": "https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl"
@@ -2383,7 +2401,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 114536,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX"
@@ -2574,6 +2592,24 @@
     },
     {
       "album": {
+        "name": "The Strength to Carry You (Folk Reprise)",
+        "url": "https://open.spotify.com/album/4UDjTSeWJoZJfFBpuJSyQT"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Graham",
+          "url": "https://open.spotify.com/artist/5bCzc1u7UY31AXdmazsWQN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145993,
+      "name": "The Strength to Carry You (Folk Reprise)",
+      "url": "https://open.spotify.com/track/6cDuAyEAEQxyPlrjyGcgCC"
+    },
+    {
+      "album": {
         "name": "The World I Know",
         "url": "https://open.spotify.com/album/03SRta9Ckxxj0VMfPoguTP"
       },
@@ -2585,7 +2621,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 198374,
       "name": "The World I Know",
       "url": "https://open.spotify.com/track/6Qhm9iLcnWobCaADrkQglm"

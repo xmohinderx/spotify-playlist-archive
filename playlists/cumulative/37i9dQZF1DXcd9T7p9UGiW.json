@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y?si=qOtdzjOAQWuX2cYKo1Egpg\" > Kojey Radical </a>",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY?si=4V_liDJvSpe6DXXQphkByw\" > Kooldrink </a>, <a href=\"https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE?si=EAYyf3K3TUGuwPe03mDZPQ\" > Aluna </a> and <a href=\"https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=taeeJF3QSNWS53KJhJDKRA\" > Prettyboy D-O </a>",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -79,7 +79,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 247153,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0Z3WgEI6TL0cBa8t4lKvho"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 163006,
       "name": "Big Thug Boys (feat. Jireel)",
       "url": "https://open.spotify.com/track/7CcwGX8YiQqil6YcW4sXJ5"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 171538,
       "name": "DEADMAN BONE (feat. Koffee)",
       "url": "https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 133090,
       "name": "Frozen - Fireboy DML Remix",
       "url": "https://open.spotify.com/track/6LDZVinkfCfaBtqOMF1lSA"
@@ -1257,10 +1257,36 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 155366,
       "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
       "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
+    },
+    {
+      "album": {
+        "name": "GIDI GIDI (feat. Black Sherif & Tory Lanez)",
+        "url": "https://open.spotify.com/album/4lzR3AibElx6qdeVSehxeL"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234546,
+      "name": "GIDI GIDI (feat. Black Sherif & Tory Lanez)",
+      "url": "https://open.spotify.com/track/7jILqrrglyRSp8OuznYeRT"
     },
     {
       "album": {
@@ -1467,7 +1493,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 183990,
       "name": "Hopeless Romantic Remix ft. Wale - Remix",
       "url": "https://open.spotify.com/track/1abN0WUTFolf1JfkSNBZNt"
@@ -2047,7 +2073,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 181533,
       "name": "Monalisa - Franglish & DJ Babs Remix",
       "url": "https://open.spotify.com/track/3hGFT6lD3SMKpA7WQTHfDE"
@@ -2367,6 +2393,32 @@
       "duration_ms": 254693,
       "name": "Nominate",
       "url": "https://open.spotify.com/track/17w34M5Uam8PTahTUUY97q"
+    },
+    {
+      "album": {
+        "name": "Nowhere To Hide",
+        "url": "https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "Kooldrink",
+          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195604,
+      "name": "Nowhere To Hide",
+      "url": "https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu"
     },
     {
       "album": {
@@ -3011,7 +3063,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 210067,
       "name": "Show You Off",
       "url": "https://open.spotify.com/track/5h7wtv5xawuFU8xf19XuO9"
@@ -3221,7 +3273,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 175280,
       "name": "Snakes N Ladders",
       "url": "https://open.spotify.com/track/68gXs2xVFx628tstoQe8ag"
@@ -3820,6 +3872,40 @@
     },
     {
       "album": {
+        "name": "Under Attack (Africa Remix)",
+        "url": "https://open.spotify.com/album/2eqMjMATKt717tpn23peyZ"
+      },
+      "artists": [
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Under Attack - African Remix",
+      "url": "https://open.spotify.com/track/7DFsckyFBqXlEDy1n3Hvuq"
+    },
+    {
+      "album": {
         "name": "Universe",
         "url": "https://open.spotify.com/album/76lQfFP5A7OnL68NJ8k9QB"
       },
@@ -4025,6 +4111,28 @@
       "duration_ms": 259306,
       "name": "Wasted Energy (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/09vOpQsWEd7lK1OYGVhPH9"
+    },
+    {
+      "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195976,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"
     },
     {
       "album": {

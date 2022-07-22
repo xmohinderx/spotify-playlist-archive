@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-134 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/46D1kuTc3MCeOAm8azvkgm)
+138 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/46D1kuTc3MCeOAm8azvkgm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [247](https://open.spotify.com/track/6laJrwQiRDKqyOmURCra8o) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 3:33 | 2022-05-27 |  |
 | [24H](https://open.spotify.com/track/3gAR6cBifLqbW8kOrMqZPr) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [24H](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) | 3:08 | 2022-05-27 |  |
 | [9\-TEEN](https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN2 Part.2](https://open.spotify.com/album/3U2CtLGvuiukljwO8rPoVk) | 3:17 | 2022-05-27 |  |
+| [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-21 |  |
 | [A\-TEEN](https://open.spotify.com/track/5P0Uo1LqAgvFuxabQMe81X) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN Part.3](https://open.spotify.com/album/62kX5esOPtWPjfCbT7tQwb) | 3:16 | 2022-05-27 |  |
 | [Adore U](https://open.spotify.com/track/6wtgR5ZVbOZPHIeMNQwugp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:06 | 2022-05-27 |  |
 | [Ah Yeah](https://open.spotify.com/track/6HzEfSRlDNkgmOZBvedvM6) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:29 | 2022-05-27 |  |
@@ -28,10 +29,12 @@
 | [BRING IT](https://open.spotify.com/track/047A83COIzAFLcZKLz20MP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE'](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 | 2022-05-27 |  |
 | [CALL CALL CALL!](https://open.spotify.com/track/28teoB4Tqk3Oh3YrLnM4uh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [WE MAKE YOU](https://open.spotify.com/album/3Rbfzy3NnA4k4zchrKla4v) | 3:19 | 2022-05-27 |  |
 | [CHANGE UP](https://open.spotify.com/track/6j6wUN8whCYTwxCg9R240U) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE'](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:07 | 2022-05-27 |  |
+| [CHEERS](https://open.spotify.com/track/1pdFdv8R6ezIAUUNkn785b) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 3:01 | 2022-07-21 |  |
 | [Chilli](https://open.spotify.com/track/3uu2pifU1Cpc1U61XgaT8g) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:03 | 2022-05-27 |  |
 | [Chocolate](https://open.spotify.com/track/7rV15Xh25w9pPG85z8i8l6) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Chocolate \(From Monthly Project 2016 February Yoon Jong Shin\)](https://open.spotify.com/album/5RXIdbtLV1Gpy2PHbV8CXk) | 4:32 | 2022-05-27 |  |
 | [Chuck](https://open.spotify.com/track/4r08Zd72ZYPcPTOZ8CqPyH) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FIRST 'LOVE&LETTER'](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 2:58 | 2022-05-27 |  |
 | [Cinematic Love](https://open.spotify.com/track/3rB5fYZr3nSD2tBAvfYPb2) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Cinematic Love](https://open.spotify.com/album/5fbA8bYGGb7m5h2dQfR7RQ) | 4:29 | 2022-05-27 |  |
+| [Circles](https://open.spotify.com/track/6rurduYegrf5XSZrphuyF2) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 3:59 | 2022-07-21 |  |
 | [CLAP](https://open.spotify.com/track/19t5GSN3XsLB7UOsZD8Fwv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE'](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 2:47 | 2022-05-27 |  |
 | [Come to me](https://open.spotify.com/track/0DEUsirG6wfrMLkOAvO1Lm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:09 | 2022-05-27 |  |
 | [Crazy in Love](https://open.spotify.com/track/1EbXVXelBudLyGasyGj7Ot) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:35 | 2022-05-27 |  |
@@ -43,6 +46,7 @@
 | [Don't listen in secret](https://open.spotify.com/track/01bnqaE6nQogjdMMrrL1dj) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:57 | 2022-05-27 |  |
 | [Don't Wanna Cry](https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:23 | 2022-05-27 |  |
 | [Dream \- 电视剧《永远的主君》原声音乐](https://open.spotify.com/track/2FpI3GCkEQOT40yuAvMj7r) | [文俊辉](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [Dream \(电视剧《永远的主君》原声音乐\)](https://open.spotify.com/album/6uZJqScXXaPx8gElI3nMzJ) | 4:03 | 2022-05-27 |  |
+| [Fallin' Flower \(Korean Ver.\)](https://open.spotify.com/track/1dO3UfTaJvue1GIVITNyAS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 3:30 | 2022-07-21 |  |
 | [Falling For U](https://open.spotify.com/track/01aVuBzov1TL2iCNhwkguC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT’](https://open.spotify.com/album/5QpD7kgp5dpkNFuG6ez2yI) | 3:55 | 2022-05-27 |  |
 | [Fast Pace](https://open.spotify.com/track/0q3caW0ttDdykrD2fOKTpw) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:40 | 2022-05-27 |  |
 | [Fear](https://open.spotify.com/track/0fToFBFypPz5XMyAdAm7Ay) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 2:55 | 2022-05-27 |  |

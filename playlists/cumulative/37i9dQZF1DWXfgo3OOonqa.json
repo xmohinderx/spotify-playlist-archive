@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "20XX",
+        "url": "https://open.spotify.com/album/4Z3YypLyiHqrntSjtfs1bF"
+      },
+      "artists": [
+        {
+          "name": "Gas",
+          "url": "https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179104,
+      "name": "20XX (Intro)",
+      "url": "https://open.spotify.com/track/14KkdIiLTR6Pl6Bns8Vhvl"
+    },
+    {
+      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/5EifQxLUTYEksUteR7M0eP"
       },
@@ -1134,6 +1152,24 @@
     },
     {
       "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/3LVVd1caxsxh2ouEzO3Tw4"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174793,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2msNr1YO3TEsWnZetg3g5L"
+    },
+    {
+      "album": {
         "name": "BASEMENT",
         "url": "https://open.spotify.com/album/2GOG2Udbfsx88rLjjfIAwi"
       },
@@ -1369,7 +1405,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 147428,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5oU7uvacEa6PBClfzFMYRf"
@@ -1569,6 +1605,28 @@
       "duration_ms": 172086,
       "name": "B\u00e4sta Vi Gjort",
       "url": "https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO"
+    },
+    {
+      "album": {
+        "name": "B\u00c4STFRIEND",
+        "url": "https://open.spotify.com/album/4CKyLYdFdBTnY4um39sbv5"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Mackan",
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "B\u00c4STFRIEND",
+      "url": "https://open.spotify.com/track/5Ml5sKivSir3NaGABhIdnO"
     },
     {
       "album": {
@@ -2137,7 +2195,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 156531,
       "name": "DEEPER",
       "url": "https://open.spotify.com/track/6Xk5ST2mrdwy8YJZDQzzyb"
@@ -2159,6 +2217,24 @@
       "duration_ms": 169231,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2zVvdOYwVkz2ownPMwsNhW"
+    },
+    {
+      "album": {
+        "name": "Den ja e",
+        "url": "https://open.spotify.com/album/5r4AM90rT6yaN4BJxgEamH"
+      },
+      "artists": [
+        {
+          "name": "Lee Bloccboy",
+          "url": "https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154862,
+      "name": "Den ja e",
+      "url": "https://open.spotify.com/track/3OGYS5Ptq6GzybyDjG74CQ"
     },
     {
       "album": {
@@ -3844,6 +3920,28 @@
     },
     {
       "album": {
+        "name": "Hood rich",
+        "url": "https://open.spotify.com/album/7qcLvWpIpy8c2Ttz3gnLiw"
+      },
+      "artists": [
+        {
+          "name": "Obed",
+          "url": "https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi"
+        },
+        {
+          "name": "CharlyC",
+          "url": "https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Hood rich",
+      "url": "https://open.spotify.com/track/5wugIx6QQxpMXYhbUSqNCP"
+    },
+    {
+      "album": {
         "name": "Hoodfellas",
         "url": "https://open.spotify.com/album/5jm8qrqgb5cK7YgHhDbr7E"
       },
@@ -4972,6 +5070,24 @@
     },
     {
       "album": {
+        "name": "Lebanese Beauty",
+        "url": "https://open.spotify.com/album/1F0LKMVW32JrOMGSxkWnRM"
+      },
+      "artists": [
+        {
+          "name": "Jeano",
+          "url": "https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130901,
+      "name": "Lebanese Beauty",
+      "url": "https://open.spotify.com/track/4lR14xynE2svX4uHQhh02l"
+    },
+    {
+      "album": {
         "name": "Leva och d\u00f6",
         "url": "https://open.spotify.com/album/0p9zOgZMYz5Oa3IjG0BHt6"
       },
@@ -5231,7 +5347,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 179154,
       "name": "Love N Affection",
       "url": "https://open.spotify.com/track/4BEjyZGERmOFkZOSIgdoAn"
@@ -6492,6 +6608,24 @@
     },
     {
       "album": {
+        "name": "Overseas",
+        "url": "https://open.spotify.com/album/61vVdu7kFrzSNXSo1swX5W"
+      },
+      "artists": [
+        {
+          "name": "Seedy",
+          "url": "https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141369,
+      "name": "Overseas",
+      "url": "https://open.spotify.com/track/4c8w1nIzzbNiWtnlhsiNyS"
+    },
+    {
+      "album": {
         "name": "Oy",
         "url": "https://open.spotify.com/album/782uUd9vNisWKnbXIfiIK7"
       },
@@ -6977,6 +7111,28 @@
       "duration_ms": 161574,
       "name": "PRESSEN",
       "url": "https://open.spotify.com/track/6m9f5eFAyoyhEuPUU6VLjv"
+    },
+    {
+      "album": {
+        "name": "Pretty Money",
+        "url": "https://open.spotify.com/album/73yTBobETDZWxpCDObEcIK"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162337,
+      "name": "Pretty Money",
+      "url": "https://open.spotify.com/track/2lXwbASnRH1tvBUhobEdpw"
     },
     {
       "album": {
@@ -8404,6 +8560,28 @@
     },
     {
       "album": {
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/4dqcRQGSu2ZBvO6RPyVrXU"
+      },
+      "artists": [
+        {
+          "name": "RAMEL",
+          "url": "https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h"
+        },
+        {
+          "name": "PERALTA",
+          "url": "https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/6pYCanCVdJUmAGNFHXKaox"
+    },
+    {
+      "album": {
         "name": "Tom & Jerry",
         "url": "https://open.spotify.com/album/5AUPXNGEpAo9bczJjdQvoY"
       },
@@ -9048,6 +9226,24 @@
     },
     {
       "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/0vNQlUIkZqkBAMqcnqRxHM"
+      },
+      "artists": [
+        {
+          "name": "Darwish",
+          "url": "https://open.spotify.com/artist/4zXkg84gmjznoYg1ueWoc2"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/0cRbjCCSelwAXsBOwnbbm7"
+    },
+    {
+      "album": {
         "name": "MOTY",
         "url": "https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij"
       },
@@ -9223,7 +9419,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 234000,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/2Itb2Vx2RE8LwpX9zjsU24"
@@ -9369,7 +9565,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 164942,
       "name": "Wine",
       "url": "https://open.spotify.com/track/2yhE71R9Pf52f7ZmgE8gSp"

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 108768,
       "name": "A Good Day",
       "url": "https://open.spotify.com/track/0Z2IJmcWERDrUg5wncUzFj"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 155930,
       "name": "Alla En El Mar",
       "url": "https://open.spotify.com/track/6NBOtdpYoTJxXm7rHJkVMt"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 143963,
       "name": "Altitudes",
       "url": "https://open.spotify.com/track/1irRBmDlje6gY0rBa3ue1m"
@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Bistro Giardino",
+        "url": "https://open.spotify.com/album/6xGMmuGK2uivCTjJ7n6a2s"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171900,
+      "name": "Bistro Giardino",
+      "url": "https://open.spotify.com/track/1mCs31gM8QicTlUA8dlVCp"
+    },
+    {
+      "album": {
         "name": "Body And Soul",
         "url": "https://open.spotify.com/album/77myUuQ0VpoOpS9tnXcuu7"
       },
@@ -520,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Borgen - Power & Glory - Main Title Theme",
+        "url": "https://open.spotify.com/album/7H9f6A7les1SeFQTqvHR52"
+      },
+      "artists": [
+        {
+          "name": "Henrik Janson",
+          "url": "https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93457,
+      "name": "Borgen - Power & Glory - Main Title Theme",
+      "url": "https://open.spotify.com/track/3XMQoS5SqM3m3Gi6MI1fsc"
+    },
+    {
+      "album": {
         "name": "Bosque Nevado",
         "url": "https://open.spotify.com/album/0mzN5tEu3Fm035fbQ7norg"
       },
@@ -585,7 +621,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 200922,
       "name": "Bruges",
       "url": "https://open.spotify.com/track/47lCvHZru5N4raYpfdlXLx"
@@ -1111,7 +1147,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 180662,
       "name": "Dark Green",
       "url": "https://open.spotify.com/track/6yLylBz8N89N2VbStc61wW"
@@ -1597,7 +1633,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 234074,
       "name": "Eleg\u00eda",
       "url": "https://open.spotify.com/track/47quLP1vxEzunhRdml1aVs"
@@ -1727,7 +1763,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 181428,
       "name": "eye of the beholder",
       "url": "https://open.spotify.com/track/5qj92VufB9JpS83gJh73up"
@@ -2289,6 +2325,24 @@
       "duration_ms": 156781,
       "name": "I Still Believe In You",
       "url": "https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea"
+    },
+    {
+      "album": {
+        "name": "I Wish It Stayed Like This",
+        "url": "https://open.spotify.com/album/5aodQfmbnWGK7AsD4ngCI1"
+      },
+      "artists": [
+        {
+          "name": "Peter Netz",
+          "url": "https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233686,
+      "name": "I Wish It Stayed Like This",
+      "url": "https://open.spotify.com/track/5wcnN9Ru1abQHVo6mPG9o4"
     },
     {
       "album": {
@@ -3103,7 +3157,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 183104,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/3PBroeekLgQrZShp9mnR4S"
@@ -4111,7 +4165,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 174706,
       "name": "Red Lava",
       "url": "https://open.spotify.com/track/5WXMiX0oO7fOya8WTWlXda"
@@ -4367,6 +4421,24 @@
       "duration_ms": 147551,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/4I0E0SfMJdfN4NSJtR9ujp"
+      },
+      "artists": [
+        {
+          "name": "Barracuda Sound",
+          "url": "https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147875,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/4LR70S8FRYGigcnXqnzWPZ"
     },
     {
       "album": {
@@ -4795,7 +4867,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 298086,
       "name": "Spring sun",
       "url": "https://open.spotify.com/track/5MHaEZ4fKUkGRfqAWrLcyi"
@@ -5523,6 +5595,24 @@
       "duration_ms": 99139,
       "name": "Where The River Ends",
       "url": "https://open.spotify.com/track/3CqKDahwi9OVbSqErqolPY"
+    },
+    {
+      "album": {
+        "name": "Whispers Of The Sea",
+        "url": "https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117883,
+      "name": "Whispers Of The Sea",
+      "url": "https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS"
     },
     {
       "album": {

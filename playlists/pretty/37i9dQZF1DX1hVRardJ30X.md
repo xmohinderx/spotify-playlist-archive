@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Tiago PZK, Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,307 likes - 59 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,370 likes - 59 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 42 | [Toxic](https://open.spotify.com/track/0hNFItiR6gG6HggDP8yxyj) | [Lenay](https://open.spotify.com/artist/4NGQEs8rzLgKe5VbNqiV3D) | [Toxic](https://open.spotify.com/album/4M9iAW1b6ko9riHb1utBDD) | 2:41 |
 | 43 | [Negro o Blanco](https://open.spotify.com/track/6fK7BYwuJyLR7EYSPnSCf7) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Negro o Blanco](https://open.spotify.com/album/2dVfSIQ6V3seCzIbyjxypF) | 2:51 |
 | 44 | [X Ley](https://open.spotify.com/track/5ym3peRbw8U3v2SOZ9HtBi) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [X Ley](https://open.spotify.com/album/6Xp1BnOqHLIyXo0VDetv3u) | 3:09 |
-| 45 | [La Calle \(feat\. Tyan G\)](https://open.spotify.com/track/4ZuNWxqAfhnb3xqPRTsMSr) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Elevación](https://open.spotify.com/album/4moFFCIwBgH0wJ5UDOZO2C) | 2:00 |
+| 45 | [La Calle](https://open.spotify.com/track/4ZuNWxqAfhnb3xqPRTsMSr) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Elevación](https://open.spotify.com/album/4moFFCIwBgH0wJ5UDOZO2C) | 2:00 |
 | 46 | [Nevel](https://open.spotify.com/track/6wZ02O2sdWq8uUTpKyA7l2) | [YUNG BOI](https://open.spotify.com/artist/2IZTXLWKJGbmFiqly8VmvG) | [Amanece](https://open.spotify.com/album/4tKJLsb1LZLuJ09coedQqo) | 2:14 |
 | 47 | [Encima de Mi](https://open.spotify.com/track/7qHH0VoBxzBF6NsCOpR9Xx) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Pa los Satiros, Vol\. 1](https://open.spotify.com/album/3lrehR76ZVIXv6Osss20qt) | 4:00 |
 | 48 | [Chingar](https://open.spotify.com/track/1ObJpcl278iy6QQRDxthNv) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Chingar](https://open.spotify.com/album/5Vz2CB22pxl6YkL8FA2PRX) | 2:07 |

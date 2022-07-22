@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-420 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+421 songs - 1 day 1 hr 29 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 | 2021-03-27 | 2021-03-29 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-13 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-03-13 | 2022-06-26 |
-| [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-09 |  |
+| [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-09 | 2022-07-22 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-16 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 |  |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-03-27\* | 2021-05-06 |
@@ -92,7 +92,6 @@
 | [Got U](https://open.spotify.com/track/2pFkBa11TZLwI4t4uzIWdi) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Got U](https://open.spotify.com/album/7uVe30iLgYZNzjExBxRVN0) | 2:52 | 2022-05-06 |  |
 | [Gotta Go!](https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Gotta Go!](https://open.spotify.com/album/5QMViZsyLMd5pJJc3l9BEO) | 3:26 | 2022-05-01 | 2022-06-07 |
 | [Greatest Works of Art](https://open.spotify.com/track/6kbc35XZMhs9y9SEpAJKLJ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Greatest Works of Art](https://open.spotify.com/album/014D4QX0zLjN25inbVf8SL) | 4:04 | 2022-07-09 | 2022-07-16 |
-| [Halo](https://open.spotify.com/track/3CsYuAe0Oi7t9w1jxWfHob) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:43 | 2022-06-01 | 2022-07-17 |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-05-25 | 2021-05-26 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-08-18 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2021-12-25 | 2021-12-27 |
@@ -268,6 +267,7 @@
 | [不配](https://open.spotify.com/track/6GxZx3gflxPl8MHnJ0mcuc) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [不配](https://open.spotify.com/album/1vf0j6LdTJTJpaiAOoowXy) | 4:32 | 2021-10-10 | 2021-10-16 |
 | [世界與你無關 \- Acoustic Version](https://open.spotify.com/track/6OMVP0bYGhLGTp1Mvl3iOH) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [世界與你無關 \(Acoustic Version\)](https://open.spotify.com/album/4Vv0pIpYXxmlrXNBSbXuZq) | 4:05 | 2022-03-12 | 2022-03-14 |
 | [中二病人 \(feat\. 周國賢\)](https://open.spotify.com/track/2HwLXriLd9nF9ZdLgGrQHT) | [Zpecial](https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x) | [中二病人 \(feat\. 周國賢\)](https://open.spotify.com/album/1LlgBBE71WMXpkuLPcxeKJ) | 3:49 | 2021-09-25 | 2021-10-02 |
+| [主角光環](https://open.spotify.com/track/3CsYuAe0Oi7t9w1jxWfHob) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:43 | 2022-06-01 |  |
 | [主角光環](https://open.spotify.com/track/4qSkBCWRJbFHRwUzZI5b8f) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [主角光環](https://open.spotify.com/album/23bgyxECT7zGsiVpSgqkOx) | 3:43 | 2021-10-23 | 2022-02-18 |
 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 | 2021-08-19 | 2022-05-08 |
 | [人類群星閃耀時](https://open.spotify.com/track/10nbKFoqDjsauhJQTHWfkg) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [人類群星閃耀時](https://open.spotify.com/album/1hLx0tCFnduODpxvYYum9o) | 5:46 | 2021-10-16 | 2022-06-12 |
@@ -357,6 +357,7 @@
 | [每次你走的時分](https://open.spotify.com/track/5re2sW79DkSu7tyBjxCqUS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [每次你走的時分](https://open.spotify.com/album/5t0kPdHWUbtFPugupIGZrO) | 2:59 | 2021-08-26 | 2021-09-01 |
 | [每次你走的時分](https://open.spotify.com/track/6i8z0tElGO6Ye3Bk7nW496) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:03 | 2021-09-01 | 2021-09-02 |
 | [水刑物語](https://open.spotify.com/track/33c5MYdr80WqXws9pj06b4) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [水刑物語](https://open.spotify.com/album/1shcsO8cD448WOI1WGH19Q) | 4:19 | 2021-04-21 | 2021-09-20 |
+| [污糟兒](https://open.spotify.com/track/2W9MxlcyMWmeHgZNnCSosb) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [污糟兒](https://open.spotify.com/album/3cAI5qxC8Tk84aCtlyVISB) | 3:45 | 2022-07-21 |  |
 | [沉默是金](https://open.spotify.com/track/5ezpe0WxjrTXSp82nJDnsM) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [Hot Summer](https://open.spotify.com/album/1e3xezRdT9FNnweZf3XgbP) | 4:09 | 2021-04-03 | 2021-04-04 |
 | [沒明日的恐懼](https://open.spotify.com/track/7sQwncmcjPQTKqEPXSot1v) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [沒明日的恐懼](https://open.spotify.com/album/1HxO1UY2Otzf4sLikQ3MMk) | 3:48 | 2021-07-09 | 2021-08-13 |
 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 | 2022-03-12 | 2022-03-16 |
@@ -395,7 +396,7 @@
 | [蝸牛](https://open.spotify.com/track/4zYVhAyiJySa41foU2F645) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D), [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [蝸牛](https://open.spotify.com/album/2wXZTqMw8rjDyOFuc7h0aQ) | 4:17 | 2021-05-11 | 2021-10-19 |
 | [記憶棉](https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [記憶棉](https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE) | 4:33 | 2021-10-23 |  |
 | [詩歌舞街](https://open.spotify.com/track/45rZ0CtRR470rAOFiWJNeM) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:11 | 2021-09-01 | 2021-09-17 |
-| [說好不哭](https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:40 | 2022-07-16 |  |
+| [說好不哭](https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:40 | 2022-07-16 | 2022-07-22 |
 | [財神到](https://open.spotify.com/track/0Sv0LeWoprZBzbMoucGcy3) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [BTB 財神到](https://open.spotify.com/album/31dCZXq6LMoZz78NCD401u) | 3:19 | 2022-02-02 | 2022-02-04 |
 | [賽勒斯的愛](https://open.spotify.com/track/7wDHnKKyw7GSw9ihEHTXm3) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [賽勒斯的愛](https://open.spotify.com/album/5XwD4GmcpKNosw2lXoHes9) | 4:09 | 2022-05-13 |  |
 | [跌嘢唔好搵](https://open.spotify.com/track/06bzWBi4FyF85A57GlV4H8) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/6IovMmC40xqVfBCzXwxChg) | 3:11 | 2021-09-19 | 2022-01-28 |

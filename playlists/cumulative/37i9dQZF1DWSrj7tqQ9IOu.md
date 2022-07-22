@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: Sébastien Tellier
+> The best French indie tracks right now\. Cover: Izïa
 
-155 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
+158 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [CAMISOLE](https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [CAMISOLE](https://open.spotify.com/album/1uTzVKDHKVJ91ahXU1lVPP) | 3:38 | 2021-12-16 | 2022-04-15 |
 | [castles](https://open.spotify.com/track/0arsSXwDYyMvG3U6RHU21y) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [postcard from Istanbul](https://open.spotify.com/album/44zcVOvyCXlw3hddxRebre) | 2:54 | 2022-04-07 | 2022-05-20 |
 | [Chui pu fort](https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Chui pu fort](https://open.spotify.com/album/71j1HEoL1pXrWb24SaSNGs) | 2:09 | 2022-05-12 | 2022-06-10 |
+| [Cinéma](https://open.spotify.com/track/31CfJjcoplMlUpvbp5226g) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [Tao](https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h) | [Cinéma](https://open.spotify.com/album/4RA0vuI5Iay7XIjnX5PanZ) | 3:00 | 2022-07-21 |  |
 | [Coco Robot](https://open.spotify.com/track/78uhoLjMr27DWycpKLFaY6) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Coco Robot](https://open.spotify.com/album/2VwjLt0y3pBxzIHitBWKuV) | 4:00 | 2022-06-02 | 2022-06-24 |
 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 | 2022-07-07 |  |
 | [Comment tu vas finir](https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Comment tu vas finir](https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz) | 2:29 | 2021-12-16 | 2022-06-10 |
@@ -46,7 +47,7 @@
 | [Défense](https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh) | [Oete](https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF) | [Défense](https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq) | 3:07 | 2022-03-03 |  |
 | [En Douce](https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign In \- EP](https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG) | 3:34 | 2021-12-16 | 2022-04-29 |
 | [Epoch](https://open.spotify.com/track/75NobUSglm9bEYUd9pee0d) | [Quasi Qui](https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB) | [Epoch](https://open.spotify.com/album/37rih338EqfPOdjOC1AZiM) | 3:45 | 2022-05-12 |  |
-| [Etoile noire](https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:17 | 2022-06-02 |  |
+| [Etoile noire](https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:17 | 2022-06-02 | 2022-07-22 |
 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 | 2022-06-30 |  |
 | [Flashdance](https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Flashdance](https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg) | 3:06 | 2022-01-20 | 2022-04-15 |
 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 | 2022-02-24 | 2022-03-04 |
@@ -67,7 +68,7 @@
 | [Impala](https://open.spotify.com/track/1azxgcGDD3ht64TIR1pMAU) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Impala](https://open.spotify.com/album/4CXS41U07hn4eZKZNEqdzo) | 2:10 | 2022-06-09 |  |
 | [Insomnie](https://open.spotify.com/track/0T9wtwG6ZJNgeqBBiGrwGK) | [MELRØSE](https://open.spotify.com/artist/02m5oP9PCp1rRRD0eFJBVC) | [Insomnie](https://open.spotify.com/album/7qDXuKVsxawV8fLe9xl8N2) | 2:37 | 2021-12-16 | 2022-02-25 |
 | [It Might Be Something](https://open.spotify.com/track/3MkCJcOcLK0PaYy4QgKpWk) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92) | [It Might Be Something](https://open.spotify.com/album/5gszZPFIhqR8HUiqH4nyMx) | 3:33 | 2021-12-16 | 2022-01-21 |
-| [Je reviens des enfers](https://open.spotify.com/track/4vmRrETjLhbXDKpJVqmMrT) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [dani](https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f) | 2:43 | 2022-06-23 |  |
+| [Je reviens des enfers](https://open.spotify.com/track/4vmRrETjLhbXDKpJVqmMrT) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [dani](https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f) | 2:43 | 2022-06-23 | 2022-07-22 |
 | [JVP](https://open.spotify.com/track/4rg0hY2RIvnVcbQ4AoSH1T) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [:\):](https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m) | 2:50 | 2022-03-24 |  |
 | [Keep on Fighting](https://open.spotify.com/track/5GpC05bmwr5eQ50Yc7BTMS) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Shake the Disease](https://open.spotify.com/album/57twqWd03Wu5OmvHDHgC3A) | 3:10 | 2022-01-13 | 2022-02-04 |
 | [L'Extase](https://open.spotify.com/track/5i2QFAqpm3T2RDIHH4Th0d) | [Pirogue](https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L) | [L'Extase](https://open.spotify.com/album/2S8WIfDf1jFkha6jKyUTQy) | 4:21 | 2022-03-10 | 2022-04-15 |
@@ -75,7 +76,7 @@
 | [La Baleine](https://open.spotify.com/track/5dO4lKt0Rp4gmzQlMBDepp) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Mama Forgot Her Name Was Miracle](https://open.spotify.com/album/1NAj9wcrGT9kDZLgbgYA8H) | 3:47 | 2022-03-10 | 2022-04-08 |
 | [La carioca](https://open.spotify.com/track/6w4Mc2Twjlm1gu6G4Qrqhd) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [La carioca](https://open.spotify.com/album/7p45gGfcSoETX1sww3bcNH) | 3:46 | 2021-12-16 | 2022-01-28 |
 | [La Cigarette](https://open.spotify.com/track/6FaOW5zkj9QtfDSTeHkUCI) | [Clement Bazin](https://open.spotify.com/artist/5CM5PpBzdFwgJmlafK2AEy), [Toro/Azor](https://open.spotify.com/artist/0NQ7aeeE8I1Za3aA6ZatMc), [Le W.](https://open.spotify.com/artist/6obuGcRROtH1We2GkZdvMu) | [La Cigarette](https://open.spotify.com/album/0ARlPPW0bGaasKWzcZC9Px) | 3:12 | 2021-12-16 | 2022-06-24 |
-| [La flemme](https://open.spotify.com/track/1mvbKqnrMeIlknpqPKoDYL) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [La flemme](https://open.spotify.com/album/5sg3y4ml5628Ti4BqFuriV) | 2:47 | 2022-01-13 |  |
+| [La flemme](https://open.spotify.com/track/1mvbKqnrMeIlknpqPKoDYL) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [La flemme](https://open.spotify.com/album/5sg3y4ml5628Ti4BqFuriV) | 2:47 | 2022-01-13 | 2022-07-22 |
 | [La Lumière](https://open.spotify.com/track/2f2xg4cOAo32Ig50pYytCo) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P), [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [La Lumière](https://open.spotify.com/album/5GDmaskm3zkYLBqqwceuPC) | 3:17 | 2022-02-24 | 2022-06-24 |
 | [La vague aux cheveux d'or](https://open.spotify.com/track/7tPjMXhFI1eSWUQlnlXEqy) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [La vague aux cheveux d'or](https://open.spotify.com/album/40nDifZoF1tm8pfMuc69aX) | 2:45 | 2021-12-16 | 2022-02-18 |
 | [La vie](https://open.spotify.com/track/7Gwg7eWok40tJuNfQEioFm) | [Solal Roubine](https://open.spotify.com/artist/6QkOiXleQySLXeqp36LxHQ) | [La vie](https://open.spotify.com/album/5Yzl89RbU3zOUbiZW64mxp) | 3:34 | 2021-12-16 | 2022-04-29 |
@@ -155,6 +156,7 @@
 | [Un Peu d'Amour](https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Un Peu d'Amour](https://open.spotify.com/album/6oxjEeaBzvRABmCzy5JJce) | 5:31 | 2022-05-12 |  |
 | [United](https://open.spotify.com/track/7mYRC0kv4oI7ipqoPT8aXM) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN) | [United](https://open.spotify.com/album/3yJ1VIZjUuXHdkE7ECLcWz) | 3:48 | 2021-12-16 | 2022-01-21 |
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2022-06-02 |  |
+| [Vidéodrome](https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Vidéodrome](https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe) | 3:07 | 2022-07-21 |  |
 | [Virus X \- SAGE Rework \- radio edit](https://open.spotify.com/track/0Yr1TfeacyGFyDe0aWDla9) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Virus X](https://open.spotify.com/album/4KIibT2LzfY64VxJWWABJc) | 2:45 | 2021-12-16 | 2022-01-07 |
 | [Vitesse](https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Vitesse](https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz) | 2:48 | 2022-05-06 |  |
 | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6), [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/album/5VDE8rAYryH4lTbGDvSMVQ) | 3:05 | 2021-12-16 | 2022-01-14 |
@@ -163,5 +165,6 @@
 | [Zéro](https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 2:51 | 2022-06-09 |  |
 | [Éternel](https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Éternel](https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff) | 3:14 | 2022-05-12 |  |
 | [Étrange \(feat\. Nikola\)](https://open.spotify.com/track/0zXiOaEnJitNoaVqn7EpNx) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Étrange \(feat\. Nikola\)](https://open.spotify.com/album/7gkYV3SMUbils9c8mTj24H) | 3:04 | 2022-06-16 |  |
+| [Ô ma belle](https://open.spotify.com/track/3gqGa4qbSoYVHDfaTUdkEA) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Voyage I](https://open.spotify.com/album/2lKQPMov6YiNbdI5xmpbiP) | 3:07 | 2022-07-21 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

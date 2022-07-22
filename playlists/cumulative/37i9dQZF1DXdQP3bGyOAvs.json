@@ -2280,6 +2280,24 @@
     },
     {
       "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/4xgDVe0RqOtwegdGP21AFR"
+      },
+      "artists": [
+        {
+          "name": "Urban Curls",
+          "url": "https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175261,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie"
+    },
+    {
+      "album": {
         "name": "Piece Of Me",
         "url": "https://open.spotify.com/album/5egWJ1LnfvrNX3zBwyz28a"
       },

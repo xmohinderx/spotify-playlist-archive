@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Evan Loss
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Bayu Skak
 
-95 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
+97 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Dinggo Bukti \(Acoustic\) \- Live](https://open.spotify.com/track/1AVahi38InAvtCnPjRden4) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Acoustic \(Live\)](https://open.spotify.com/album/7c18hfhW7SzmQYfcHyNSWK) | 5:51 | 2022-05-26 | 2022-06-10 |
 | [Full Senyum Sayang](https://open.spotify.com/track/5iJjv9LgIpgZglbfT7RvGS) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3djAwAaADJz4EVGZCJghLc) | 4:06 | 2022-07-01 |  |
 | [ganti ayang](https://open.spotify.com/track/1VvExYaGt1IaycmrJPR0ZO) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [ganti ayang](https://open.spotify.com/album/5lgxKOsUiNGYHhRqY6VgJQ) | 4:36 | 2022-07-01 |  |
+| [Iki Uripku](https://open.spotify.com/track/23JmcEcmC0SzppD6Qm63nM) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Iki Uripku](https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp) | 3:54 | 2022-07-21 |  |
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 |  |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2022-05-26 |  |
 | [Kelangan 3](https://open.spotify.com/track/4sKISuQb1KssjLUu1BagA1) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Kelangan 3](https://open.spotify.com/album/1vf8SZEJNP0SBArwBW32pd) | 6:52 | 2022-05-26 |  |
@@ -82,6 +83,7 @@
 | [Sekuat Atiku](https://open.spotify.com/track/0Fb8DFh95IctjwyPU25eZo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sekuat Atiku](https://open.spotify.com/album/1RNdZCb01OGZ6m9mYpuoNn) | 4:42 | 2022-05-26 | 2022-06-10 |
 | [senenge atiku](https://open.spotify.com/track/1Mi6HihzwGb9aUbjDls0up) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [senenge atiku](https://open.spotify.com/album/4ER7VgpdxBtCHF9DcTqcFq) | 5:10 | 2022-05-26 |  |
 | [Sewu Kuto](https://open.spotify.com/track/0dOVpj4DF72H55AczoFUU6) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Sewu Kuto](https://open.spotify.com/album/5SNtJc8E285xPBgJke5WIr) | 4:07 | 2022-05-26 |  |
+| [Sinyal Tresna \- From Collabonation](https://open.spotify.com/track/5vVV76tC3KjigYnT4dzMba) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sinyal Tresna \(From Collabonation\)](https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ) | 4:41 | 2022-07-21 |  |
 | [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2022-05-26 |  |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2022-05-26 |  |
 | [Tak Lali\-Lali Salahmu](https://open.spotify.com/track/6tpwxUUE8KjFeHT1pjqRjw) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Tak Lali\-Lali Salahmu](https://open.spotify.com/album/4XDvNZmu4lZ0fzx1e75RF9) | 5:53 | 2022-05-26 |  |
@@ -100,7 +102,7 @@
 | [Wegah Pisah](https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Wegah Pisah](https://open.spotify.com/album/2BJBjYSdy3bqsvBn6mWlUl) | 5:46 | 2022-05-26 |  |
 | [Widodari](https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Guyon Waton](https://open.spotify.com/artist/1RvWutp1Mzoo49lZw3sHzw) | [Widodari](https://open.spotify.com/album/43jrtZTMIedkZMxTpfWCxa) | 4:56 | 2022-05-26 |  |
 | [Wingi Dele Saiki Tempe](https://open.spotify.com/track/5Q3c8a4Z12UyDXWDzwZfYc) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Wingi Dele Saiki Tempe](https://open.spotify.com/album/30DhyZgunBAiosUbswKeaA) | 6:29 | 2022-05-26 | 2022-06-10 |
-| [Wkwkwk](https://open.spotify.com/track/07AZnO1UhduzhZdiL7iZKo) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Wkwkwk](https://open.spotify.com/album/18Gtv8JfqAIwVwLuShicWm) | 4:03 | 2022-07-14 |  |
+| [Wkwkwk](https://open.spotify.com/track/07AZnO1UhduzhZdiL7iZKo) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Wkwkwk](https://open.spotify.com/album/18Gtv8JfqAIwVwLuShicWm) | 4:03 | 2022-07-14 | 2022-07-22 |
 | [Yang](https://open.spotify.com/track/3v7OoIuqKeR2cm1UraZAGn) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Yang](https://open.spotify.com/album/7fexpNRf6OG0n9MfL75j5y) | 4:34 | 2022-05-26 |  |
 | [Yowis! \- Koplo](https://open.spotify.com/track/6uatCDtgBGZM22PQ1HFhHb) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Yowis! \(Koplo\)](https://open.spotify.com/album/61f6QjZDfdn7o3T4ahIplo) | 4:46 | 2022-05-26 |  |
 

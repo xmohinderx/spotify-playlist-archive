@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW?si=VIVwU-LMSwix8-vYY5XSYw\">Seether</a>",
+  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD?si=x_nRgwIaQ62keJzW6OG4iA\">Louise Carver</a>",
   "name": "SA Rock Essentials",
   "published_playlist_ids": [
     "7m29EUKd7lxp8FUt6WdfbM"
@@ -23,6 +23,24 @@
       "duration_ms": 213626,
       "name": "A New Transition",
       "url": "https://open.spotify.com/track/7mVsaC8PE3kbH8x1p4tYlg"
+    },
+    {
+      "album": {
+        "name": "A week in the life of Rue",
+        "url": "https://open.spotify.com/album/36ZyxfmSrx40YfqLqOkCZE"
+      },
+      "artists": [
+        {
+          "name": "Gangsterdam",
+          "url": "https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106120,
+      "name": "A week in the life of Rue",
+      "url": "https://open.spotify.com/track/1mA3jtJ4mFwYRVZjaDKjL1"
     },
     {
       "album": {
@@ -149,6 +167,28 @@
       "duration_ms": 260109,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5"
+    },
+    {
+      "album": {
+        "name": "BLAH BLAH BLAH",
+        "url": "https://open.spotify.com/album/282KDJUgTAO64N8HMeiUAR"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "Alex Solomon",
+          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "BLAH BLAH BLAH",
+      "url": "https://open.spotify.com/track/5ncpsijPbqSkfej6b8PGjw"
     },
     {
       "album": {
@@ -593,7 +633,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 311881,
       "name": "Fade",
       "url": "https://open.spotify.com/track/5d0j1i2GP8XwXbLqBUgkcz"
@@ -795,7 +835,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 155240,
       "name": "I Never Listen When You Speak",
       "url": "https://open.spotify.com/track/2mTWLZCUEbeivHDf1ssVos"
@@ -874,6 +914,24 @@
     },
     {
       "album": {
+        "name": "kill all my feelings",
+        "url": "https://open.spotify.com/album/1onwNNRB0cQ5gBRFknbYPp"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182984,
+      "name": "kill all my feelings",
+      "url": "https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm"
+    },
+    {
+      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/0pyfoV80CgnfVIB2sHbwKg"
       },
@@ -889,7 +947,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 195931,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/7ufTokV0aHYnSaZ83hfUu0"
@@ -1103,6 +1161,24 @@
       "duration_ms": 209793,
       "name": "My Favourite Place",
       "url": "https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT"
+    },
+    {
+      "album": {
+        "name": "Nothing Feels Good Without You",
+        "url": "https://open.spotify.com/album/2oRvkrGd0ceGblE1Ui8hBe"
+      },
+      "artists": [
+        {
+          "name": "Louise Carver",
+          "url": "https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205626,
+      "name": "Nothing Feels Good Without You",
+      "url": "https://open.spotify.com/track/0ldL6b3ZxXX5hcAntTHsi6"
     },
     {
       "album": {
@@ -1463,7 +1539,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 240449,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68"
@@ -1839,7 +1915,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 212718,
       "name": "Until I Forget You",
       "url": "https://open.spotify.com/track/505KIwDfwJFpwVpza70TmC"
@@ -1879,6 +1955,24 @@
       "duration_ms": 246173,
       "name": "Vanilla Sky",
       "url": "https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr"
+    },
+    {
+      "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/2TBi0FV18WhlGi1zGbkgxE"
+      },
+      "artists": [
+        {
+          "name": "KVSE",
+          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106090,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/45rrUms7GQkfj6XkWoNsmi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-167 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
+168 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Fractals](https://open.spotify.com/track/3v5mWnTuC51tA0jAXM7Guy) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Fractals](https://open.spotify.com/album/0hh24HOgNMawrAdsd6M3xC) | 2:19 | 2020-10-20\* |  |
 | [From This Day](https://open.spotify.com/track/3f7zGUeL92BJGxz5SYIiU8) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [From This Day](https://open.spotify.com/album/2m5DbSFjN1uUuvQ55QxAr1) | 3:16 | 2021-02-24 |  |
 | [Frontiers Are Where You Find Them](https://open.spotify.com/track/0pYcmN2XmJSWNEvjgGFodh) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/5M1Z3FRYy0G5GWhlvvPdRw) | 3:13 | 2020-10-20\* |  |
+| [Gone Day](https://open.spotify.com/track/2SSOF3vAlTd3FqWupkuQBt) | [Jonas Kvarnström](https://open.spotify.com/artist/4qZrlSJ1sikAjQS9rrBBpx) | [Gone Day](https://open.spotify.com/album/41k94jymMWGvYhBAcWgeb2) | 4:10 | 2022-07-22 |  |
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2020-10-20\* |  |
 | [Greetings from Belize](https://open.spotify.com/track/5nhS7fj2S3Td2HIDCpcmVb) | [Lixol](https://open.spotify.com/artist/4wXk0BFjhLlkvvnizwEUGR) | [Greetings from Belize](https://open.spotify.com/album/6HzK0TGQenShzRupoyc9x5) | 2:43 | 2022-02-24 |  |
 | [Home](https://open.spotify.com/track/0BZK74rauKeNrOevBkhNE8) | [Gorka](https://open.spotify.com/artist/6kPHDVsuzYXW2oTAZ80QJj) | [Meditations II](https://open.spotify.com/album/3nVaUZTPIjtP99Ebri2LaS) | 3:14 | 2022-02-24 |  |

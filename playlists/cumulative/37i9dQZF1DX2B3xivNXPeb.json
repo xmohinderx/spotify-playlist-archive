@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 217480,
       "name": "Almost (Sweet Music)",
       "url": "https://open.spotify.com/track/7nDYw1nNAW4dAqgmW2W3tq"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 305115,
       "name": "Automatic Driver",
       "url": "https://open.spotify.com/track/2AltKq4Mv43AgcdYdMtyTy"
@@ -113,10 +113,36 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 226848,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/5kHZyXRjBXpBrwlWn9vzsd"
+    },
+    {
+      "album": {
+        "name": "BBQ Energy",
+        "url": "https://open.spotify.com/album/5b0iUTl7LtbFBruq7nNm0d"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Adam Flowers",
+          "url": "https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186394,
+      "name": "BBQ Energy",
+      "url": "https://open.spotify.com/track/6W3dlYnYTWG1dWj4a80FrH"
     },
     {
       "album": {
@@ -257,7 +283,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 215973,
       "name": "Camera Flash",
       "url": "https://open.spotify.com/track/1rIBE3itNuNeRRhSSm8jWV"
@@ -293,7 +319,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 214793,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3X4x9j51vAzCyR2d00vROo"
@@ -365,7 +391,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 212518,
       "name": "Don't Change",
       "url": "https://open.spotify.com/track/5tGK2PuBwceiRXdSXiK9D5"
@@ -495,10 +521,28 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 178298,
       "name": "Friends",
       "url": "https://open.spotify.com/track/18RdChpgvaAO7GXDjLks2B"
+    },
+    {
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Oakley",
+          "url": "https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226761,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm"
     },
     {
       "album": {
@@ -513,7 +557,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Greener",
       "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
@@ -549,7 +593,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 218321,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/30ip6JBD07Pf1eBfHqXosG"
@@ -683,10 +727,32 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 216160,
       "name": "Kitchen Sunset",
       "url": "https://open.spotify.com/track/7vIvKcdZ9FqUZ8rgAbK5ge"
+    },
+    {
+      "album": {
+        "name": "What Kinda Music",
+        "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240330,
+      "name": "Last 100",
+      "url": "https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S"
     },
     {
       "album": {
@@ -719,7 +785,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 226268,
       "name": "Little Bit of Love",
       "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
@@ -773,7 +839,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 165789,
       "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
@@ -1015,7 +1081,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 249080,
       "name": "Shot in the Dark",
       "url": "https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo"

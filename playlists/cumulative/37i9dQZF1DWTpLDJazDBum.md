@@ -4,7 +4,7 @@
 
 > Find your flow with these instrumental trap and lofi beats.
 
-199 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+202 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Main Stage](https://open.spotify.com/track/3FGPjaDyaVXSpubOPwFV0Q) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Fake Business](https://open.spotify.com/album/79VlsORhx2r88yW7TRmDWW) | 2:18 | 2022-04-08 | 2022-05-27 |
 | [Marked Up](https://open.spotify.com/track/7Co6bjlT6ZHgsl2fg3Xaih) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Tainted Colors](https://open.spotify.com/album/3U5MauOzORBRc3nNHFlqOa) | 2:36 | 2022-05-26 |  |
 | [Marshmallow's Moon](https://open.spotify.com/track/6pPAP4km8FdMR7DEQEAAUB) | [Garnishes](https://open.spotify.com/artist/23wVhpOrB0Ui8W5avo9f5N) | [Berries of the Blue Lagoon](https://open.spotify.com/album/0cfdoncwhbbpuBuIGxgI4l) | 2:20 | 2022-04-08 | 2022-05-27 |
+| [Match My Vibe](https://open.spotify.com/track/7KWxSDBCBaVVkfUJXinSob) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Set It Off](https://open.spotify.com/album/64z14jo6a3jgymwg6nYfH4) | 2:30 | 2022-07-22 |  |
 | [Maximum](https://open.spotify.com/track/2AFwLoZzhwZEKiopXC5eJR) | [Too Lamb](https://open.spotify.com/artist/49B2agZFE9BySVXPshGCqC) | [Once Upon A Time](https://open.spotify.com/album/3lmq7930x9ksc0Foz7Egzx) | 2:44 | 2022-04-08 | 2022-05-27 |
 | [Mesopotamia](https://open.spotify.com/track/1AQzhq2Bj2s4spmrn0UnpY) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [Mesopotamia](https://open.spotify.com/album/7HAi2VEkiPyPhSCgRt5gDf) | 2:14 | 2022-04-08 | 2022-05-27 |
 | [Metro](https://open.spotify.com/track/63JFtxBWmhFiHHKH9D5qh8) | [Redrum](https://open.spotify.com/artist/4gDzEX3EAlLlDOxNl52DTK) | [Metro](https://open.spotify.com/album/1P05Wn8APNqj96gEcikWoc) | 3:39 | 2022-05-20 | 2022-05-27 |
@@ -159,6 +160,8 @@
 | [Shipping Delay](https://open.spotify.com/track/5rmM3XcXEHcPQ3Xl0NjnJq) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Club Fantastic](https://open.spotify.com/album/79FoCOHKpYLTps1AAqiLCV) | 2:17 | 2022-04-08 |  |
 | [Showtime](https://open.spotify.com/track/14pC7BwY6F1i2T9oA4TFjI) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Starpower](https://open.spotify.com/album/2Pnt9baDF2LhYGqXAmrvaH) | 2:21 | 2022-05-26 |  |
 | [Silky](https://open.spotify.com/track/1sGcWIEHSe8LGialPQqd7S) | [Griefcake](https://open.spotify.com/artist/7eIwiNtHsGoC9N9b0bvUU0) | [Silky](https://open.spotify.com/album/3OH2dH0dM2R2Xpi0MRBrSm) | 2:58 | 2022-04-08 | 2022-05-27 |
+| [Silver Tears](https://open.spotify.com/track/264Wov9y20XnbmsUs7ZsyN) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [No Glory](https://open.spotify.com/album/7oobB3dU8zh13qoORIbDu8) | 2:08 | 2022-07-22 |  |
+| [Simple Promises](https://open.spotify.com/track/0UgsjvylHXGlXlzYWM9h57) | [Mars Door](https://open.spotify.com/artist/0zlmopuNDAnww43YNoojnA) | [Simple Promises](https://open.spotify.com/album/4oJslSYvhZSkSTKGvwfhtk) | 2:32 | 2022-07-22 |  |
 | [Slumber Summer](https://open.spotify.com/track/4JURcHapCGVkTSerAumyLR) | [AVAANI](https://open.spotify.com/artist/5o3tZjvasfF0hZwRa49Mo4) | [Slumber Summer](https://open.spotify.com/album/5yqcCZIrKlD6aECCOdfsDh) | 2:18 | 2022-04-08 |  |
 | [Small Steps](https://open.spotify.com/track/3hsZTBrM7nqAF81K4XiR7A) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Small Steps](https://open.spotify.com/album/00Ce43IgXDRPKSyJndsvFE) | 2:55 | 2022-04-08 |  |
 | [Snap Back](https://open.spotify.com/track/2wuy9zI3HVkbTIahNnjnKt) | [Simhakutty](https://open.spotify.com/artist/33FgImhYqZmZQDNQvToXqQ) | [Roar](https://open.spotify.com/album/7AttJyROeo9tZDL1LkTilc) | 3:20 | 2022-04-08 | 2022-05-27 |

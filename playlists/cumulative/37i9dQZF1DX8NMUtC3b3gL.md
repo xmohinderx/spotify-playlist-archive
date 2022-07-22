@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-161 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+167 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,9 +71,11 @@
 | [High Harbor](https://open.spotify.com/track/5W9nhHNbT23Qh0FHXjerp6) | [Foghouse](https://open.spotify.com/artist/5y6OTJwOgLR1dJu2Er9hBB) | [The Great Flood](https://open.spotify.com/album/0gQibi4N8OULtM8112b5sU) | 3:01 | 2022-05-27 |  |
 | [hope for tomorrow](https://open.spotify.com/track/3xpJ5kK3oY18uaeH3c91eG) | [The Lofi Christian](https://open.spotify.com/artist/7nPBddK18ZCiNbilAnpOoP) | [Lofi Summer: For Everything There is a Season](https://open.spotify.com/album/3WTNXPDkLxMOU0uMxNBTb4) | 2:59 | 2022-06-17 | 2022-07-01 |
 | [Iced Tea](https://open.spotify.com/track/5tRZ5EMRDkuRiJ49iCzudM) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Iced Tea](https://open.spotify.com/album/1zFOiKmCbekeOWT0n7aNTq) | 1:57 | 2022-07-15 |  |
+| [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 | 2022-07-22 |  |
 | [introspection](https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [introspection](https://open.spotify.com/album/2UckQg0YEvSSE9Ckzz7Uda) | 1:52 | 2022-05-27 |  |
 | [ipanema](https://open.spotify.com/track/0nq0F9hwbBFbM50RpPBRNt) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [ipanema](https://open.spotify.com/album/75rTzmAFiooFCq7bAPUQCU) | 1:36 | 2022-06-17 |  |
 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 | 2022-05-27 |  |
+| [Jola Shores](https://open.spotify.com/track/7CH6IpYZxgzaXS4WFiX1Pe) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB), [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb) | [Jola Shores](https://open.spotify.com/album/1V7JjwDM48Yhrg6I3w8ibL) | 2:25 | 2022-07-22 |  |
 | [kinda wonderful](https://open.spotify.com/track/2HYaWr21HZQrC8gDFSFsz8) | [white noizz](https://open.spotify.com/artist/7czhgMvOftvpTun7qxVPPr) | [kinda wonderful](https://open.spotify.com/album/6A87KiSCfWLGMwB1ezU0SU) | 2:09 | 2022-05-27 |  |
 | [laidback paradise](https://open.spotify.com/track/5vMQj2BQeVHxwnouYx2AfR) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [laidback paradise](https://open.spotify.com/album/6fGWUQo5V8HnrWppbPPYbe) | 3:21 | 2022-05-27 |  |
 | [Lasting Friendships](https://open.spotify.com/track/1GVnU4t7lZP96JiQjiL98r) | [Silk Surgeon](https://open.spotify.com/artist/43o413mKchb010kYQuLcyI) | [Lasting Friendships](https://open.spotify.com/album/6xhxC2JdPDkcvgGb318RiD) | 1:56 | 2022-06-24 | 2022-07-08 |
@@ -112,7 +114,9 @@
 | [Pizzazz](https://open.spotify.com/track/2uv5i2WtcA6TxsMO9YIQBR) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Pizzazz](https://open.spotify.com/album/5BfUFXf3jVHcDd48Tsk3Zv) | 2:16 | 2022-05-27 |  |
 | [PJ](https://open.spotify.com/track/4245bsYQ8B8h1AaKzqhU7k) | [The Daily Bred](https://open.spotify.com/artist/2XaBoUP4lRy6lSZHywlwiD) | [Old Soul](https://open.spotify.com/album/0qEPqDvXeRr5EW47YCeIqb) | 4:43 | 2022-05-27 | 2022-07-15 |
 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 | 2022-05-27 |  |
+| [Polyforma](https://open.spotify.com/track/5TnCrehFKT6TsvHSeADpce) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Polyforma](https://open.spotify.com/album/6dIeypjoGFFgegU5wj3C0s) | 3:09 | 2022-07-22 |  |
 | [poolSide](https://open.spotify.com/track/2V33ELzmC3DA4hWxJoxjvX) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Korean BBQ](https://open.spotify.com/album/0sxHgW3KYTmRfFq0qubtvU) | 2:36 | 2022-07-08 |  |
+| [Preti](https://open.spotify.com/track/1XSXrQlUswO2uLlfo1VQoc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Preti](https://open.spotify.com/album/143OLYDZUl9xntSWAcOsOJ) | 2:25 | 2022-07-22 |  |
 | [prettybaby.](https://open.spotify.com/track/447v1kCLZAN4CaVUAcG2Oc) | [Yakuka.](https://open.spotify.com/artist/3h8nRZ5Q3Z1uaFwi7ivPkh) | [prettybaby.](https://open.spotify.com/album/44fDrwORuNkg0kmNbnJvlD) | 2:36 | 2022-07-08 | 2022-07-15 |
 | [Pristine](https://open.spotify.com/track/5hU6UR3JAmobbRF8in1hpN) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Pristine](https://open.spotify.com/album/68CF9yX62mUPcoJbyVcJD4) | 2:44 | 2022-05-27 |  |
 | [Purple Tie](https://open.spotify.com/track/1F8n6K9urVNsVzmAzDnZkM) | [Robin Slap](https://open.spotify.com/artist/65bnWo5d8B3pl5DfAeIVtW) | [Passion Fruit](https://open.spotify.com/album/7oww4iddHvRz4OZeFZcc3G) | 1:48 | 2022-07-15 |  |
@@ -123,6 +127,7 @@
 | [Ripples to Shore](https://open.spotify.com/track/3hIyjMuHctZZ0e3pcCzNcA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Aiguille](https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu) | [Alone at Dusk](https://open.spotify.com/album/2M24MgxeKXbrPBY1GYppfF) | 2:53 | 2022-07-15 |  |
 | [rising eyes](https://open.spotify.com/track/4sOOBRuKV8P9wDXNTXxSfP) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [fallen planets & rising eyes](https://open.spotify.com/album/5Ozd8CXvUjbaKGtfIVIdkV) | 2:50 | 2022-05-27 |  |
 | [Rites of Summer \- All Love](https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Rites of Summer \(All Love\)](https://open.spotify.com/album/1DYT6iXMPKG6B6JZD0imU5) | 1:32 | 2022-05-27 |  |
+| [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 | 2022-07-22 |  |
 | [Rumble](https://open.spotify.com/track/24XbI3GX0rEVr0r4UXW9Vg) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 4:01 | 2022-05-27 | 2022-07-15 |
 | [Sapphire Lake](https://open.spotify.com/track/1JkJyzYF2rFW8JNtKAcvJg) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Sapphire Lake](https://open.spotify.com/album/5Repjf7oguBTeQY2Lxwyft) | 2:49 | 2022-06-24 |  |
 | [Satisfaction](https://open.spotify.com/track/0Etu29i3NNSXE2KufX3xC2) | [Mysterybops](https://open.spotify.com/artist/3Kz2x1edaxHzoe69LxWK4n) | [Satisfaction](https://open.spotify.com/album/2MeZ3MCw3QFquMCctLFokJ) | 1:52 | 2022-07-08 |  |
@@ -154,6 +159,7 @@
 | [Till dig](https://open.spotify.com/track/2qcPi2BKIrArJ0Cnb06kqC) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Ta Paus](https://open.spotify.com/album/4sWUPjRnNBlT7GYfU9aPaU) | 3:35 | 2022-05-27 |  |
 | [Time Flies](https://open.spotify.com/track/6ddmnmfULodDasWZZs2BP4) | [Kasper Lindmark](https://open.spotify.com/artist/0h3zSsjkg9w9CuuKFwIlyq) | [Time Flies](https://open.spotify.com/album/2m8tQyHEEqR9OBLdQiofy5) | 2:11 | 2022-06-24 |  |
 | [Time Warp](https://open.spotify.com/track/1nTb8o7S4rmm1ipygYSQBp) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Time Warp](https://open.spotify.com/album/1bMyRFws3t5vZnViRyj0sD) | 2:03 | 2022-07-15 |  |
+| [Tincture](https://open.spotify.com/track/0PVBpQMGABZkOwl7Eoj5kj) | [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Tincture](https://open.spotify.com/album/1c1Pho3tVph8p5HAVQ24XE) | 2:56 | 2022-07-22 |  |
 | [tomorrow, 2 am](https://open.spotify.com/track/1AjIq7D644IjbeekXoe64u) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [tomorrow, 2 am](https://open.spotify.com/album/3XfmT2opeZqXNMEq1dLbgE) | 2:12 | 2022-05-27 | 2022-06-03 |
 | [Toyz](https://open.spotify.com/track/4Tx3rNMbcQABQzEnfc4lpF) | [PeeWee Cash](https://open.spotify.com/artist/0w7aB02RXntGs6Gng4IfIn) | [Toyz](https://open.spotify.com/album/0dlp73C5zJvWig7sYMMnV0) | 2:39 | 2022-05-27 | 2022-07-01 |
 | [Tram](https://open.spotify.com/track/2qrguu9bcFrNC40tpTu8ys) | [Mbrs Gear](https://open.spotify.com/artist/6bHl5CMbDUkkVJ0YUKqK30) | [Tram](https://open.spotify.com/album/4XQcFzMnkk5YKugdY9MkHM) | 2:10 | 2022-05-27 |  |

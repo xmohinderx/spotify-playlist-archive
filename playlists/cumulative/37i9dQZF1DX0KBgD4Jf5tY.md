@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> La scena italiana indipendente, senza etichette di genere\. Cover: Ama Dee
+> Nuove scoperte della scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:6hG077WYgnjPVTkzhD2a9A">Sidea</a>
 
 300 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 

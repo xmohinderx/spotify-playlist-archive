@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 221793,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/3JVKIh9857foxHkg7BzS3R"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 275200,
       "name": "Diamond Heart (feat. RBBTS)",
       "url": "https://open.spotify.com/track/6r0ujrPdtJbwtgEteB2rkB"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 180363,
       "name": "End Of Us",
       "url": "https://open.spotify.com/track/54JH6BSeisRY4MeCRwIqjX"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 205781,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/0Dur90OEPIM8RvK8eR8dTJ"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 190546,
       "name": "Flare",
       "url": "https://open.spotify.com/track/030SJMnWzEaAE7979A3NcW"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 257872,
       "name": "Floating Through The Sky",
       "url": "https://open.spotify.com/track/1RurO5tWqos1i8Lg1ROZyI"
@@ -1566,6 +1566,28 @@
     },
     {
       "album": {
+        "name": "Hate To Be",
+        "url": "https://open.spotify.com/album/6dnxO2SJpGbc1pDDcgLrTI"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290823,
+      "name": "Hate To Be",
+      "url": "https://open.spotify.com/track/6n6lDrWRELr6FJRyebJTfb"
+    },
+    {
+      "album": {
         "name": "Heart of Stone (feat. Nevve)",
         "url": "https://open.spotify.com/album/39KdcGfRCK7nzvqpJvczVX"
       },
@@ -1673,7 +1695,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 196363,
       "name": "High on Life",
       "url": "https://open.spotify.com/track/6ZX9CSWDRpf6C0aSP59pym"
@@ -1699,7 +1721,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 231882,
       "name": "Hollow Eyes (feat. EKE)",
       "url": "https://open.spotify.com/track/5zZ29l9N3ZZCtNH4eg3clf"
@@ -1739,7 +1761,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 216004,
       "name": "Hologram Tears (feat. Monika Santucci)",
       "url": "https://open.spotify.com/track/7gfSFkrGjKZL2XbSggjyxz"
@@ -1801,7 +1823,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 151014,
       "name": "I Can Feel",
       "url": "https://open.spotify.com/track/6vAghAitNFHoGUEbhJPI6n"
@@ -1841,7 +1863,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 140800,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/1wFIzp2i41BqnKauWxWrrs"
@@ -2039,7 +2061,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 187012,
       "name": "Knowing How To Break (with RUNN)",
       "url": "https://open.spotify.com/track/3cLJYCnJVVAWZgPcAafv6u"
@@ -2449,7 +2471,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 204800,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai"
@@ -2493,7 +2515,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 235200,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/7x2vtZvaaFt6zR4QJDWPEO"
@@ -2677,6 +2699,28 @@
       "duration_ms": 152824,
       "name": "PART OF ME",
       "url": "https://open.spotify.com/track/2wW67KaLBLCaLxeyCNBEjo"
+    },
+    {
+      "album": {
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        },
+        {
+          "name": "LICK",
+          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn"
     },
     {
       "album": {
@@ -2997,7 +3041,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 166681,
       "name": "Say The Word (with Billy Lockett)",
       "url": "https://open.spotify.com/track/3CFwx3qdGNrgUIS16PnoXn"
@@ -3163,7 +3207,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 210875,
       "name": "Silence",
       "url": "https://open.spotify.com/track/4QxPnild2hz6dk4Xjwx4jc"
@@ -3273,7 +3317,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 205874,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/7hgNuPmytIlYF8B6Pp4kne"
@@ -3383,7 +3427,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Stepping Stone",
       "url": "https://open.spotify.com/track/1hiNxftJnpiiOgHEi1hMRu"
@@ -3445,7 +3489,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 171710,
       "name": "sunlight",
       "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"
@@ -3533,7 +3577,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 167225,
       "name": "TELL U",
       "url": "https://open.spotify.com/track/2cgm2QVvtRXdIDkVVD7Beq"
@@ -3841,7 +3885,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 204000,
       "name": "What If",
       "url": "https://open.spotify.com/track/2Ov2Ifb7w9QxQj7lRIZtj8"
@@ -3959,7 +4003,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 210000,
       "name": "With You",
       "url": "https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E"

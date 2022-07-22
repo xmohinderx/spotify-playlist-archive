@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-101 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+102 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Weather Alive](https://open.spotify.com/track/3OrhnPCD8HDTVSmp3FI9cY) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Weather Alive](https://open.spotify.com/album/1GlvLDvrCrUNFeNEQoyimx) | 7:04 | 2022-06-22 |  |
 | [Welcome To Hell](https://open.spotify.com/track/1PMHfsqnvnTO7mBwDA5pQL) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Welcome To Hell](https://open.spotify.com/album/0fMH4osxhvgAIbZhGE1kL3) | 4:09 | 2022-06-08 | 2022-06-17 |
 | [Where the Water Clears the Illusion](https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:03 | 2022-06-08 | 2022-06-17 |
+| [Will Get Fooled Again \- Katie Dey Cover](https://open.spotify.com/track/30KHZE5UtVAFZKLCLVXydi) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [Katie Dey](https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc) | [Will Get Fooled Again \(Katie Dey Cover\)](https://open.spotify.com/album/0MNe5TZRA9xKuyoQ9aITYJ) | 3:17 | 2022-07-21 |  |
 | [You Got The Silver](https://open.spotify.com/track/3VPE7mBeUwK0id0xjvLRmV) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [You Got The Silver](https://open.spotify.com/album/3RERBCKuUVn5bjO9L4lqmd) | 2:58 | 2022-06-08 | 2022-07-14 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

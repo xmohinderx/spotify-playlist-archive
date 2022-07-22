@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-142 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+144 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Camelot](https://open.spotify.com/track/59kFsvZ4jPYS7zyOkuFJUy) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:11 | 2022-06-03 |  |
 | [Catch](https://open.spotify.com/track/2YbpsxiihiN7yiIf1TQ9vn) | [Redrum](https://open.spotify.com/artist/4gDzEX3EAlLlDOxNl52DTK) | [Catch](https://open.spotify.com/album/6EHikGB1Z5hXACJinPWqBT) | 4:16 | 2021-11-11 |  |
 | [Catcher in the rye](https://open.spotify.com/track/1MjAqFdbI32eabt6lufWfy) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Catcher in the rye](https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd) | 3:52 | 2021-11-11 |  |
+| [Chief](https://open.spotify.com/track/02LkmUbxIhyq1qAnuRgZIF) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Chief](https://open.spotify.com/album/0Hp3PXt9UOVmCrKJBMjrqA) | 2:18 | 2022-07-22 |  |
 | [Chopper](https://open.spotify.com/track/0w7AG9UksTH3yHNzmMzwwq) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Chopper](https://open.spotify.com/album/7ggLaz0nrCCM8Nwa6hCIqG) | 2:24 | 2021-11-11 |  |
 | [Churchill](https://open.spotify.com/track/4YyPOwTe5sXVJLXGqqVhPl) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Churchill](https://open.spotify.com/album/5cSLfFaH4zZVplCsuk6tNQ) | 1:52 | 2021-11-11 | 2022-04-22 |
 | [Classics](https://open.spotify.com/track/46DIcl7UFS8sw7LEJx03zd) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [Drill](https://open.spotify.com/album/4Rjj8lNDBisPqsSTbMgdiT) | 1:33 | 2021-11-11 |  |
@@ -73,6 +74,7 @@
 | [Lowkey Vibes](https://open.spotify.com/track/1ggZHmCBAMFqj673h6jApl) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Stole My Crown](https://open.spotify.com/album/5xNrBmPMd45A8VBkc4UBBS) | 2:57 | 2021-11-11 |  |
 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2021-11-11 |  |
 | [Maharajah](https://open.spotify.com/track/4NvKUG4KOeTmWvfAyEMDKM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [You Can Not Lie](https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr) | 2:25 | 2022-05-13 |  |
+| [Marble Flooring](https://open.spotify.com/track/2JaEJlUrMGRGKxVP1P6ZD4) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Marble Flooring](https://open.spotify.com/album/3tdNvmSxAgJCAA5GewSlue) | 2:27 | 2022-07-22 |  |
 | [Meeks](https://open.spotify.com/track/7BDKdMg5UVqxEtdYIxcTQg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Meeks](https://open.spotify.com/album/3VZoMKFFy6lG8ccNfe2DYm) | 2:28 | 2021-11-11 |  |
 | [Move Shady](https://open.spotify.com/track/5vmF2W4z3XlKwsRZpUpP1H) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Run Better Run](https://open.spotify.com/album/0Cwh08pbkSQEbdO6WqigTK) | 3:09 | 2021-11-11 |  |
 | [My Days](https://open.spotify.com/track/7KaZU6sgOOhnuFGBZx6gdb) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/6T5MOLNV6KF0wI0gAmGVrh) | 3:12 | 2021-11-11 |  |

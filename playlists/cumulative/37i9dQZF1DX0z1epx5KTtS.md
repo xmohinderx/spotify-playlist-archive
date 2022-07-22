@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Bello Falcao
+> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-66 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+68 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,17 +62,19 @@
 | [Quand J'aurai l'argent \(Plenty Money\) \(feat\. Innoss'B\)](https://open.spotify.com/track/47YAov7C5zQXX5bz2hcoEz) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Quand J'aurai l'argent \(Plenty Money\) \[feat\. Innoss'B\]](https://open.spotify.com/album/4VwgIWmgmlJesg9mmkXlua) | 3:21 | 2022-06-16 |  |
 | [Rebelotte](https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 3:38 | 2021-12-20 | 2022-06-24 |
 | [Si tu veux partir](https://open.spotify.com/track/1fIJIeH1UGo8iIGtULmSQo) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Si tu veux partir](https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS) | 3:44 | 2022-05-20 |  |
+| [Statut visé](https://open.spotify.com/track/6TDLNk7EqIR9QJXKl3zDQP) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Statut visé](https://open.spotify.com/album/7E5rsjdqtGNTVO2d13JCom) | 3:35 | 2022-07-21 |  |
 | [Super Fan](https://open.spotify.com/track/3XoJ1fhN3NACS4O5SbdkzJ) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Super Fan](https://open.spotify.com/album/3jdznaG1yv3fjgklH3BWtp) | 3:52 | 2021-12-20 | 2022-06-03 |
-| [Supporteurs Maso](https://open.spotify.com/track/5AmaKQXErLGa23mtFwI5lj) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Debordo Leekunfa](https://open.spotify.com/artist/7L6fUPhKqRJGYVB1hnrkfJ) | [Supporteurs Maso](https://open.spotify.com/album/6ySLqOgsAeIoT3PUm7Bk0k) | 3:33 | 2022-02-18 |  |
+| [Supporteurs Maso](https://open.spotify.com/track/5AmaKQXErLGa23mtFwI5lj) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Debordo Leekunfa](https://open.spotify.com/artist/7L6fUPhKqRJGYVB1hnrkfJ) | [Supporteurs Maso](https://open.spotify.com/album/6ySLqOgsAeIoT3PUm7Bk0k) | 3:33 | 2022-02-18 | 2022-07-22 |
 | [Tala N'dile](https://open.spotify.com/track/15yN7E99wB5yo12CCr2G8F) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/2DWtnLOf0zcPrZWSmeShVT) | [Tala N'dile](https://open.spotify.com/album/47FvCt5Faqv33pjUi9omrW) | 3:54 | 2021-12-20 |  |
 | [Tia Lokolo](https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Extra Musica Nouvel Horizon](https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98) | [Tia Lokolo](https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge) | 4:12 | 2022-05-26 |  |
+| [Toffole \(feat\. Koffi Olomidé\)](https://open.spotify.com/track/5SDXcxvvxGoLbfRKg8cX9x) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Toffole \(feat\. Koffi Olomidé\)](https://open.spotify.com/album/6pFvsYQ82OZLx1t5dtIxlQ) | 3:54 | 2022-07-21 |  |
 | [Touche ici](https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Touche ici](https://open.spotify.com/album/6whze3CYPWp0Wt797GKV0y) | 3:35 | 2021-12-20 |  |
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 |  |
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |
 | [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 |  |
 | [Yo Pe \- Remix](https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yo Pe \(Remix\)](https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV) | 4:32 | 2021-12-20 | 2022-02-19 |
 | [Zambeleman](https://open.spotify.com/track/5QqYi2I1W5qWs492jukBhc) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Bonigo](https://open.spotify.com/artist/6haKYR8zgWMWv4VK8TYBME) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 4:29 | 2021-12-20 |  |
-| [Zendaka](https://open.spotify.com/track/7BlelZjPQgRSTPhKAEkauM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Zendaka](https://open.spotify.com/album/0NppZsF445DiWFxVq7ezcP) | 3:03 | 2021-12-20 |  |
+| [Zendaka](https://open.spotify.com/track/7BlelZjPQgRSTPhKAEkauM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Zendaka](https://open.spotify.com/album/0NppZsF445DiWFxVq7ezcP) | 3:03 | 2021-12-20 | 2022-07-22 |
 | [Échauffement \- Remix](https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Échauffement \(Remix\)](https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR) | 2:08 | 2022-06-02 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

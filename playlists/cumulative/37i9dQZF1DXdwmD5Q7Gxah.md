@@ -4,7 +4,7 @@
 
 > living in beatopia
 
-1,748 songs - 3 day 21 hr 30 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,751 songs - 3 day 21 hr 41 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Applesauce](https://open.spotify.com/track/2bsTfDQBc5kmDReErSCrtD) | [Sam.Sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Applesauce](https://open.spotify.com/album/1SI4bzbzGHvIrNzoe0tHl7) | 3:21 | 2019-10-25 | 2020-02-20 |
 | [Apricots](https://open.spotify.com/track/3tWR8p2FEEHbBsmDmTce9l) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/5gj1qZoL0z8cOMWzSP77Ae) | 3:12 | 2020-10-30 | 2021-03-14 |
 | [April](https://open.spotify.com/track/01cfQTm61M2Wvo1bMlMrwh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/68QSx74coxzwPDgSNOWX6g) | 3:18 | 2020-02-15 | 2020-03-25 |
+| [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 | 2022-07-21 |  |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2019-07-30\* | 2020-08-20 |
 | [Are You Bored Yet? \(feat\. Clairo\) \- Mura Masa Remix](https://open.spotify.com/track/4jgAfg7f9Wf6p4sIWYeOi3) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Are You Bored Yet? \(feat\. Clairo\) \[Mura Masa Remix\]](https://open.spotify.com/album/6wfbONYZZCJUAdKj2clYla) | 3:16 | 2020-08-30 | 2020-11-11 |
 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-22 | 2022-02-26 |
@@ -159,6 +160,7 @@
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2019-07-30\* | 2019-11-14 |
 | [bedroom walls](https://open.spotify.com/track/6juSWnv6yERefw1dM13Qyu) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [bedroom walls](https://open.spotify.com/album/6cDZkG4uTrz3jlI3Bilapt) | 2:12 | 2021-06-05 | 2021-08-14 |
 | [Being In Love](https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:02 | 2022-04-12 | 2022-05-28 |
+| [Believe \- Spotify Singles](https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 4:08 | 2022-07-21 |  |
 | [Believe That](https://open.spotify.com/track/3jk0Bu14ZXXdd5z6PhpIiw) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:53 | 2021-05-15 | 2021-05-22 |
 | [bellyache](https://open.spotify.com/track/1ni8ZTAY1GHXEFOGHl7fdg) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:59 | 2019-07-30\* | 2019-08-02 |
 | [Bends](https://open.spotify.com/track/31hlhFQVLQS4VADMTPl59i) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Bends](https://open.spotify.com/album/3LIYf4uhGMwW4ccnXLWPpQ) | 2:35 | 2020-06-29 | 2020-08-20 |
@@ -386,7 +388,7 @@
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-08-12 | 2021-12-02 |
 | [Darling](https://open.spotify.com/track/47o0JpUemOGkFRY3gEUwxA) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Milksop / Darling](https://open.spotify.com/album/75qzX7cNsdU6k6HUAlsgNe) | 2:45 | 2019-07-30\* | 2019-11-14 |
 | [Dart Hill](https://open.spotify.com/track/0YpUVgGuf05PIlIY7HVWRY) | [Natalie Green](https://open.spotify.com/artist/0fxQXo3PV20WmVzJaYPC8T) | [So Far, So Good](https://open.spotify.com/album/3PY0pKbleUj9YhoozzTXpn) | 3:28 | 2019-12-21 | 2020-02-20 |
-| [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-20 |  |
+| [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-20 | 2022-07-22 |
 | [Days Like Lost Dogs](https://open.spotify.com/track/6oSEQDTq66SDlyNTrwvzbN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Days Like Lost Dogs](https://open.spotify.com/album/35gZjxY7yjWmqXvwJygKSP) | 3:45 | 2021-10-30 | 2022-01-08 |
 | [daytime](https://open.spotify.com/track/4FpqxunRt0nwV5mBesjZ2H) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/0VUQxlHNGfyoac8Hi1QsIK) | 3:39 | 2021-07-10 | 2021-11-13 |
 | [Dead Celebrities](https://open.spotify.com/track/2V6dyeFrTmIrdXFoMcZHO9) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [Dead Celebrities](https://open.spotify.com/album/7zI35ceEWXUJ581slrLfx4) | 3:16 | 2020-01-10 | 2020-02-20 |
@@ -1614,6 +1616,7 @@
 | [Tubthumping](https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv) | 4:38 | 2022-06-24 |  |
 | [Tuethday](https://open.spotify.com/track/5Bne2idW8XpKfErI8wkCkc) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [baby a](https://open.spotify.com/artist/2uhZyZ7WgPEdEAk7FhKwsB) | [Tuethday](https://open.spotify.com/album/66lxxHJ1UCrFa6teqzHyZf) | 3:07 | 2020-09-04 | 2021-01-12 |
 | [tulsa](https://open.spotify.com/track/0iesFoMEeh75EmNc5SoDfk) | [dev soter](https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy) | [tulsa](https://open.spotify.com/album/4DUAkm9cJKMoXmgwR7AxBl) | 1:57 | 2021-07-17 | 2021-09-09 |
+| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-21 |  |
 | [Twenties](https://open.spotify.com/track/3BeQzzSxNb7lzN1pJwXXDf) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 4:15 | 2020-05-14 | 2020-05-28 |
 | [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 | 2021-06-09 | 2021-08-14 |
 | [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 | 2022-03-18 | 2022-06-22 |

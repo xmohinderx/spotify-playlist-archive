@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-215 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+216 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [D.E.A.L](https://open.spotify.com/track/4NC86WqrkTKQjs4JqXpyml) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [D.E.A.L](https://open.spotify.com/album/38aBdx79uHAy2Wn9aNw2Y9) | 3:20 | 2021-11-19 | 2022-02-11 |
 | [Daisies](https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [Daisies](https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls) | 3:39 | 2022-07-05 |  |
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 |  |
+| [Dead Man Walking](https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Dead Man Walking](https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA) | 2:46 | 2022-07-21 |  |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
 | [Ding Dong](https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Ding Dong](https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp) | 2:57 | 2022-06-23 |  |
 | [do it](https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [do it](https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9) | 2:07 | 2022-03-09 | 2022-05-21 |
@@ -199,7 +200,7 @@
 | [Too Far](https://open.spotify.com/track/4Ru59Wjufh4vgt1ZKVxUtn) | [Hiski](https://open.spotify.com/artist/766PDHJTKiOFdmGhl36cGY), [Kobana](https://open.spotify.com/artist/1XyWJuyRJBkwsOeGR8Pxea) | [Too Far](https://open.spotify.com/album/6eKGfZzEKDORyl4fymlDAX) | 4:14 | 2021-12-01 | 2022-03-05 |
 | [Tripwire](https://open.spotify.com/track/4XaYL3woPIICr4dbCb2ZxH) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Tripwire](https://open.spotify.com/album/5dbcJHB0RwwcWNw8z3IvTt) | 3:05 | 2021-11-22 | 2022-02-26 |
 | [TROUBLEMAKER](https://open.spotify.com/track/6mo88PgAWke0VsVbFmABoT) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [TROUBLEMAKER](https://open.spotify.com/album/5XxwIsdTvY6h335Jmcf10Y) | 3:42 | 2021-11-19 | 2022-01-27 |
-| [True Love](https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [True Love](https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D) | 4:30 | 2022-05-11 |  |
+| [True Love](https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [True Love](https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D) | 4:30 | 2022-05-11 | 2022-07-22 |
 | [Trust Issues](https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Trust Issues](https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF) | 3:02 | 2022-02-22 | 2022-05-04 |
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-02 | 2022-03-08 |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |

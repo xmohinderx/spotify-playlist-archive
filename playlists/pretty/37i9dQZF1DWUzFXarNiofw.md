@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Ne\-Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,778 likes - 56 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,063 likes - 56 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: S\u00e9bastien Tellier",
+  "description": "The best French indie tracks right now. Cover: Iz\u00efa",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -363,6 +363,28 @@
       "duration_ms": 129840,
       "name": "Chui pu fort",
       "url": "https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/4RA0vuI5Iay7XIjnX5PanZ"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        },
+        {
+          "name": "Tao",
+          "url": "https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180204,
+      "name": "Cin\u00e9ma",
+      "url": "https://open.spotify.com/track/31CfJjcoplMlUpvbp5226g"
     },
     {
       "album": {
@@ -731,7 +753,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 197520,
       "name": "Etoile noire",
       "url": "https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls"
@@ -1121,7 +1143,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 163013,
       "name": "Je reviens des enfers",
       "url": "https://open.spotify.com/track/4vmRrETjLhbXDKpJVqmMrT"
@@ -1273,7 +1295,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 167962,
       "name": "La flemme",
       "url": "https://open.spotify.com/track/1mvbKqnrMeIlknpqPKoDYL"
@@ -2754,6 +2776,24 @@
     },
     {
       "album": {
+        "name": "Vid\u00e9odrome",
+        "url": "https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe"
+      },
+      "artists": [
+        {
+          "name": "P.R2B",
+          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187655,
+      "name": "Vid\u00e9odrome",
+      "url": "https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4"
+    },
+    {
+      "album": {
         "name": "Virus X",
         "url": "https://open.spotify.com/album/4KIibT2LzfY64VxJWWABJc"
       },
@@ -2915,6 +2955,24 @@
       "duration_ms": 184600,
       "name": "\u00c9trange (feat. Nikola)",
       "url": "https://open.spotify.com/track/0zXiOaEnJitNoaVqn7EpNx"
+    },
+    {
+      "album": {
+        "name": "Voyage I",
+        "url": "https://open.spotify.com/album/2lKQPMov6YiNbdI5xmpbiP"
+      },
+      "artists": [
+        {
+          "name": "Montmartre",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187187,
+      "name": "\u00d4 ma belle",
+      "url": "https://open.spotify.com/track/3gqGa4qbSoYVHDfaTUdkEA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu"

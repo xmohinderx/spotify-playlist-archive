@@ -2,9 +2,9 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> "Hey bel, la bastichi\. La papaya, du la potato" Cover: Minions
+> The soundtrack to the internet\. Cover: Minions
 
-333 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+334 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Ivy](https://open.spotify.com/track/4MPC94p6MfRbMjgYVNSKTC) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Ivy](https://open.spotify.com/album/60jHOsOAVmUxXEt8AKQ6nc) | 2:00 | 2021-11-19 | 2022-02-26 |
 | [IYKYK](https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [IYKYK](https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14) | 2:14 | 2021-12-03 | 2022-04-26 |
 | [JELEEL JUICE!](https://open.spotify.com/track/2Diz85eMch17UsnrZ7Ci8q) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [JELEEL JUICE!](https://open.spotify.com/album/4Pxe2pgK8vIFfBXjw1WEiT) | 1:44 | 2022-04-01 | 2022-04-20 |
-| [Jesus Forgive Me, I Am A Thot](https://open.spotify.com/track/4odoLyHnSx2jIcXs16IvsV) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [All My Heroes Are Cornballs](https://open.spotify.com/album/5ilsl5R2lGACTnPZMKIp7o) | 2:36 | 2022-06-07 |  |
+| [Jesus Forgive Me, I Am A Thot](https://open.spotify.com/track/4odoLyHnSx2jIcXs16IvsV) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [All My Heroes Are Cornballs](https://open.spotify.com/album/5ilsl5R2lGACTnPZMKIp7o) | 2:36 | 2022-06-07 | 2022-07-22 |
 | [Jesus Is The One \(I Got Depression\)](https://open.spotify.com/track/1YR9iNGXtsbrd8deR9ULDD) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Jesus Is The One \(I Got Depression\)](https://open.spotify.com/album/4M8vfAVCrE4H0Qg25TyYyz) | 1:52 | 2022-01-05 | 2022-02-26 |
 | [Juggernaut](https://open.spotify.com/track/5DlENEGphgTy41xxOzpQoo) | [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Juggernaut](https://open.spotify.com/album/4Y9l8cikONcudDMt9j2JdG) | 1:50 | 2022-05-20 |  |
 | [Jumpin!](https://open.spotify.com/track/4QYmp5IkfsghZzr20l7FgB) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Jumpin!](https://open.spotify.com/album/5ziBil99sL15uR1Z2t0aEj) | 1:47 | 2022-04-22 | 2022-05-07 |
@@ -225,6 +225,7 @@
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/5HSsOCyML8FFIviP9ByHCF) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2KkDQOnRGyK0oh0sSenizj) | 3:12 | 2022-01-07 | 2022-02-04 |
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 | 2022-02-03 |  |
 | [Off The Lot \(feat\. UnoTheActivist\)](https://open.spotify.com/track/4hFIAXvcdVRfJQHdxpFofT) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [FOREVER FIGEROA](https://open.spotify.com/album/7at9aPn487DEhpE9D6kAut) | 2:56 | 2021-12-17 | 2022-04-29 |
+| [Oh Naur](https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Oh Naur](https://open.spotify.com/album/22puJMyQXeGW1mgiE1vw1I) | 1:18 | 2022-07-21 |  |
 | [OKAY SHAWTY](https://open.spotify.com/track/3qsR1pTGoshzapShuYm0ns) | [Kwe the Artist](https://open.spotify.com/artist/1QduOP354RYyRRGRuvYPD2) | [OKAY SHAWTY](https://open.spotify.com/album/2vtizplVpMIp3cguwoT7nA) | 1:46 | 2021-11-29 | 2022-04-29 |
 | [Old English](https://open.spotify.com/track/7hcjkFjIyw8vsUOVIDlcmS) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Old English \- Single](https://open.spotify.com/album/7Bl87kMIXjddIKqaQhdxra) | 3:21 | 2022-05-26 | 2022-06-03 |
 | [One Night](https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Boat](https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx) | 4:03 | 2022-07-15 |  |

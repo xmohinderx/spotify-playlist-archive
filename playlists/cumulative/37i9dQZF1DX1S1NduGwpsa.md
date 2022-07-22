@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Photo : Melody Gardot
 
-98 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
+99 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Come Away With Me \- Alternate Version](https://open.spotify.com/track/4Fjqhauhcq5cf0eXmf7tMD) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Alternate Version\)](https://open.spotify.com/album/2WFysyY3byRvtOsuJy9txO) | 3:27 | 2022-04-14 | 2022-05-13 |
 | [Come Fly with Me](https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Come Fly with Me](https://open.spotify.com/album/1a9XmKMYpi3XJAc626uqyY) | 3:31 | 2022-05-12 |  |
 | [Comes Love](https://open.spotify.com/track/3vYbPjjemMP62On3l9bgwp) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Comes Love](https://open.spotify.com/album/4bTV5R6pKEHPRu6JQnHejU) | 3:42 | 2022-06-16 |  |
+| [Common Ground](https://open.spotify.com/track/6Viym8BZHFleUwoJk3TdWB) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje), [Max Mutzke](https://open.spotify.com/artist/2XTN4g2qnzFw0TG2NHuQxl) | [Common Ground](https://open.spotify.com/album/1nbLGkuaPpl4I9jSM99KKK) | 4:14 | 2022-07-21 |  |
 | [Cool comme ça](https://open.spotify.com/track/6c4nvb604vZl3kITvIrPQ7) | [Noe Reinhardt](https://open.spotify.com/artist/5VXizzX9cAJKol49amHkCU), [Samy Daussat](https://open.spotify.com/artist/13McFr5VsYZdXJGeo7aTAM) | [Reinhardt Memories](https://open.spotify.com/album/2eYc3bowwBeqcpBvwMlkqg) | 3:38 | 2022-04-14 | 2022-06-17 |
 | [Coucou](https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I) | [Tchavolo Schmitt](https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY) | [Coucou](https://open.spotify.com/album/5ZPSCr10M050pYwZM2lDyn) | 2:56 | 2022-05-26 | 2022-06-17 |
 | [Dangerous](https://open.spotify.com/track/07GkA3KuDuE1aCSdT260Fh) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Dangerous](https://open.spotify.com/album/3ExdrmKZ7BZxFGSncQYW9v) | 7:40 | 2022-04-28 | 2022-06-24 |
@@ -99,7 +100,7 @@
 | [Victory Dance](https://open.spotify.com/track/6cQzmvrbnCM1d51XOodmPR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Victory Dance](https://open.spotify.com/album/7x5W5TIWobdV7SeF6kFtn9) | 4:55 | 2022-06-09 |  |
 | [Videogame](https://open.spotify.com/track/3wimSiydjydfXFkpzPpzIX) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Videogame](https://open.spotify.com/album/2SvVWK76JFpxikCtvZVN4L) | 4:14 | 2022-04-14 |  |
 | [Walton St](https://open.spotify.com/track/37vqYc0prYUPrH4sPRWxlV) | [Simon Dufour](https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw), [Aaron Day](https://open.spotify.com/artist/7iIKqzMPFhySieiHdJv0zp) | [Walton St](https://open.spotify.com/album/5hxXApzEe9LJOMvoWXtNdW) | 4:54 | 2022-04-14 | 2022-06-03 |
-| [Wave of Interest](https://open.spotify.com/track/2gYsdI8oB5mHdtXuB0Sh3u) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K) | [Wave of Interest](https://open.spotify.com/album/67R0QsEML7HjIug0FRaNPm) | 3:44 | 2022-04-14 |  |
+| [Wave of Interest](https://open.spotify.com/track/2gYsdI8oB5mHdtXuB0Sh3u) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K) | [Wave of Interest](https://open.spotify.com/album/67R0QsEML7HjIug0FRaNPm) | 3:44 | 2022-04-14 | 2022-07-22 |
 | [Way Out](https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Way Out](https://open.spotify.com/album/0cFhFaP7KvGdUhvb9g1Iwl) | 3:20 | 2022-04-28 |  |
 | [What Of Your Eyes](https://open.spotify.com/track/3hX0T0Z16mRfHAzd1sHluC) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 4:30 | 2022-05-19 |  |
 | [When I First Saw Your Face](https://open.spotify.com/track/78EF8TCHy2rDm19i7SXqhq) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [When I First Saw Your Face](https://open.spotify.com/album/5i418SDGYSxHe7EzabsK9F) | 4:01 | 2022-04-14 | 2022-05-06 |

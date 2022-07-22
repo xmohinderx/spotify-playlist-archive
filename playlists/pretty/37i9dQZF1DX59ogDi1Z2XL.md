@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Nate Husser
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,198 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,249 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 93 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 |
 | 94 | [Big Up](https://open.spotify.com/track/1YMT7ST4JVE3Tuff7I6sDF) | [SANDRINETTE](https://open.spotify.com/artist/7z4YAQFbwPOpbxElGCDdPL) | [Big Up](https://open.spotify.com/album/2aFTZn0kPYXZgfX0dYnrZP) | 3:09 |
 | 95 | [Figure of Speech](https://open.spotify.com/track/2NSq58JxsJE1k7h6BVeDDQ) | [Freddy Printz](https://open.spotify.com/artist/15L89B5Jg0z67nBZZxDH36) | [The Candidate](https://open.spotify.com/album/6b2SU7BJlvf0bAZyb7e9bw) | 2:14 |
-| 96 | [U & I \(Ft\. Pahpay\)](https://open.spotify.com/track/1q7W2UjH7aRiZ9xiCs42HS) | [Tyleen](https://open.spotify.com/artist/2h8KSitN6L2gWv1pSMvE7m), [Pahpay](https://open.spotify.com/artist/0wJgTNNgjr260tJvU3JftK) | [U & I \(Ft\. Pahpay\)](https://open.spotify.com/album/5UkpjgrkBf3i1YAoRISYCg) | 2:36 |
+| 96 | [U & I](https://open.spotify.com/track/1q7W2UjH7aRiZ9xiCs42HS) | [Tyleen](https://open.spotify.com/artist/2h8KSitN6L2gWv1pSMvE7m), [Pahpay](https://open.spotify.com/artist/0wJgTNNgjr260tJvU3JftK) | [U & I](https://open.spotify.com/album/5UkpjgrkBf3i1YAoRISYCg) | 2:36 |
 | 97 | [THANK GOD](https://open.spotify.com/track/2nddNHHw9FvQZSjlxg6XuA) | [Pilla B](https://open.spotify.com/artist/0AeNbKQZXqe4MI4AtRU3Px), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Interstellar](https://open.spotify.com/album/53jnONEkLhCRYvuaxcqTsw) | 3:01 |
 | 98 | [Back of the Car](https://open.spotify.com/track/1ugnXsZpW8TPd1lEDO81q0) | [Velow](https://open.spotify.com/artist/2UOHBwSdgEwpUgbRDkY8mA) | [Back of the Car](https://open.spotify.com/album/7FqnNV7ruR0CAmbBTTTNg5) | 2:56 |
 | 99 | [RUN](https://open.spotify.com/track/7aE1nL39i7jMQls2EUTovZ) | [LOWERCASE](https://open.spotify.com/artist/4MTOXpWiUfcUFD4vn8Uoij) | [PILOT EPISODE A](https://open.spotify.com/album/0exfy5FfBDyDkJ6Kcy6plW) | 2:52 |

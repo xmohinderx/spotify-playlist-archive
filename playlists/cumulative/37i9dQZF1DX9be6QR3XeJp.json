@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: ABISHA",
+  "description": "Discover your new favourite artists. Cover: DellaXOZ",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -1385,6 +1385,24 @@
       "duration_ms": 147189,
       "name": "Opinion",
       "url": "https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50"
+    },
+    {
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/7cKJ7ywktloxEDpY8fxHJR"
+      },
+      "artists": [
+        {
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/25jpA6Nwk0BzPpzOTYLCXA"
     },
     {
       "album": {

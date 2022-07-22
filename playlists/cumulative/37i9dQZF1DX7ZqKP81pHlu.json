@@ -532,6 +532,24 @@
     },
     {
       "album": {
+        "name": "Ghouyoum",
+        "url": "https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172861,
+      "name": "Ghouyoum",
+      "url": "https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7"
+    },
+    {
+      "album": {
         "name": "Harba II",
         "url": "https://open.spotify.com/album/5zaQM2mwAYci2aCZKLvTjq"
       },

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-732 songs - 1 day 14 hr 13 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
+733 songs - 1 day 14 hr 15 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [BRIEF](https://open.spotify.com/track/1F2L4DqvfaZ0rHpobAD8rt) | [Jan\-Rapowanie](https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp) | [Bufor](https://open.spotify.com/album/6s6xU2GQCElEekW1d566Ri) | 2:17 | 2022-03-12 | 2022-03-14 |
 | [Broly](https://open.spotify.com/track/7GE1JoBBu7qCNRaZzTlU3U) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Pretty Boy](https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ) | 2:31 | 2022-06-25 | 2022-07-03 |
 | [Broly](https://open.spotify.com/track/0ik8ogBO3JPpWZiBCIlHEr) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Broly](https://open.spotify.com/album/16jDin0wodvlSdHZKsnAZ0) | 2:31 | 2021-09-12 | 2021-12-18 |
+| [BRUCE](https://open.spotify.com/track/2rVb8XOOSpmKYYJT0w6veD) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [flexxy2115](https://open.spotify.com/artist/56znIsN2NyCMzIctR2xknQ) | [BRUCE](https://open.spotify.com/album/2XCPTiPn0jX48ObQTlEonK) | 2:03 | 2022-07-21 |  |
 | [Brudasy With Attitude \(feat\. Farid Bang\)](https://open.spotify.com/track/6q5Bx8Jm9yZC7tmI3leDOi) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [FRNKIE](https://open.spotify.com/artist/6gVw7sj444868peBFpH0O4), [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [Brudasy With Attitude \(feat\. Farid Bang\)](https://open.spotify.com/album/1xEBMQpFmwvdpb0LznRGy8) | 2:31 | 2022-04-02 | 2022-05-23 |
 | [BUBBLETEA](https://open.spotify.com/track/7eBYMVok43QesT0KnuIkjn) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Duit](https://open.spotify.com/artist/6NUBt2nj5uT4iLLTIMRxra), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [ROMANTIC PSYCHO](https://open.spotify.com/album/759DXZci5lU5Lx0eXVMjVK) | 4:44 | 2021-03-27\* | 2021-07-28 |
 | [Buch na dwóch](https://open.spotify.com/track/5YU8d0mtnSpxKWd33lbaYE) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE) | [Pretty Boy](https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ) | 3:24 | 2022-06-25 | 2022-07-02 |
@@ -583,7 +584,7 @@
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-07-27 |
 | [Schodki](https://open.spotify.com/track/0vPVqOKo8LWVganQgBZS5y) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [100 dni do matury](https://open.spotify.com/album/2XEybHzEROxx8nLUOrtSbL) | 3:55 | 2021-04-02 | 2021-09-15 |
 | [Sebiksy](https://open.spotify.com/track/1zwuT3oMcSs6Bo1uBQMRtq) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Kryzys Wieku Wczesnego](https://open.spotify.com/album/7FFyqG9TyQBQw08sYM9zjj) | 3:05 | 2021-11-28 | 2022-04-02 |
-| [Self Made](https://open.spotify.com/track/4yRqjKmYzKutOFsQRaDAkV) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8) | [Self Made](https://open.spotify.com/album/0UVK86EK4BxRldoLrBXRMZ) | 1:54 | 2022-05-31 |  |
+| [Self Made](https://open.spotify.com/track/4yRqjKmYzKutOFsQRaDAkV) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8) | [Self Made](https://open.spotify.com/album/0UVK86EK4BxRldoLrBXRMZ) | 1:54 | 2022-05-31 | 2022-07-22 |
 | [Sen](https://open.spotify.com/track/0V3vDfdJmTYjLkR3va0UQu) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM) | [SEZON3 \(Deluxe\)](https://open.spotify.com/album/2GZpgflGzo3BNIPYpEFmeA) | 3:13 | 2021-07-01 | 2021-07-10 |
 | [Sen we śnie](https://open.spotify.com/track/281o5SXjmCOop5bkRh6tgu) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Grzegorz Turnau](https://open.spotify.com/artist/5bQZCiENsgmW4SvUOc86qI) | [UCZTA](https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz) | 3:26 | 2022-04-16 | 2022-06-01 |
 | [Sen we śnie](https://open.spotify.com/track/7EuS4txsabaZyF5mkixLAj) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Grzegorz Turnau](https://open.spotify.com/artist/5bQZCiENsgmW4SvUOc86qI) | [Sen we śnie](https://open.spotify.com/album/23U4kX7rryMbi4ODfSkbh4) | 3:27 | 2022-04-01 | 2022-04-17 |

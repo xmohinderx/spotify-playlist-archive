@@ -4,7 +4,7 @@
 
 > Remembering Sidhu Moose Wala.
 
-116 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+117 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Guilty](https://open.spotify.com/track/0CEZeiRvjL3iHPu1JKI9zW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Guilty](https://open.spotify.com/album/7dK05D7NqHnhkSD3N2yaE1) | 2:59 | 2022-05-29 |  |
 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 | 2022-05-29 |  |
 | [Gutt](https://open.spotify.com/track/6Y8r5v3lwWX80fr7oRNK9V) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Gutt](https://open.spotify.com/album/1Rw1ZFDTs08NyLop4Vz9ck) | 3:38 | 2022-05-29 |  |
+| [Gutt Ch Paranda](https://open.spotify.com/track/4NyKTeLnNmWuwrYYUkak6d) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Sobha](https://open.spotify.com/artist/6Bc0kRRn7KUriyBrtzSV6z), [Deep Sandhu](https://open.spotify.com/artist/3zBJTgsnovcVTircnCf9tr) | [Gutt Ch Paranda](https://open.spotify.com/album/6Ef3ZkklKfluDkj1mBv6Li) | 3:49 | 2022-07-21 |  |
 | [Heart Attack](https://open.spotify.com/track/2Ycj9XXWp6cASuSA5UJ2Wo) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Heart Attack](https://open.spotify.com/album/7tM1PlNCbtd1a24fiNPH9y) | 2:42 | 2022-05-29 | 2022-06-01 |
 | [Here & There](https://open.spotify.com/track/1TLNrPm7U8V8kRF17SlsAe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:05 | 2022-05-29 |  |
 | [Info](https://open.spotify.com/track/2txEM0LayfSv1AOB3M1Z8R) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Info](https://open.spotify.com/album/6VdOWF7fv6BBeR7ePttQ5M) | 3:20 | 2022-05-29 |  |
@@ -117,7 +118,7 @@
 | [Untouchable](https://open.spotify.com/track/2hDMBVN3P47GEhH5VtmA6m) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Untouchable](https://open.spotify.com/album/0Ib0QsGyuoGpVIPZaUwHL6) | 2:33 | 2022-05-29 |  |
 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2022-06-02 |  |
 | [Vail](https://open.spotify.com/track/1bqAnuqlgbQ55AByEp0SmM) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Vail](https://open.spotify.com/album/0SUKbK4r6wQS0t9gdMsIdm) | 3:20 | 2022-05-29 |  |
-| [Vanilla](https://open.spotify.com/track/2z7k8UytNaiMIJQNc1XZcZ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:51 | 2022-07-15 |  |
+| [Vanilla](https://open.spotify.com/track/2z7k8UytNaiMIJQNc1XZcZ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:51 | 2022-07-15 | 2022-07-22 |
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2022-05-29 |  |
 | [VIP](https://open.spotify.com/track/0QFNQvIkLYghHHRXfHEPbk) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [VIP](https://open.spotify.com/album/5XPqTCH8VrxIGfvajsjadT) | 2:47 | 2022-05-29 | 2022-06-24 |
 | [Waalian](https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Waalian](https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb) | 3:26 | 2022-05-29 |  |

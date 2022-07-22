@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,304 likes - 82 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,319 likes - 82 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

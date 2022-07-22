@@ -176,6 +176,32 @@
     },
     {
       "album": {
+        "name": "Ayessi Remixes",
+        "url": "https://open.spotify.com/album/2EPzcPRlQi389PMXYiymoI"
+      },
+      "artists": [
+        {
+          "name": "KEENE",
+          "url": "https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        },
+        {
+          "name": "Philou Louzolo",
+          "url": "https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435806,
+      "name": "Ayessi - Philou Louzolo Remix",
+      "url": "https://open.spotify.com/track/3igI5hy1FFGsIPrD8Nu3Bg"
+    },
+    {
+      "album": {
         "name": "Badawi",
         "url": "https://open.spotify.com/album/6S5hgVcimdXh5Zm9VTtHxk"
       },
@@ -1313,7 +1339,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 426475,
       "name": "Milima",
       "url": "https://open.spotify.com/track/26xLSnIiAcqaH2VrgUvbpf"
@@ -1807,7 +1833,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 344187,
       "name": "Son Mansour",
       "url": "https://open.spotify.com/track/1oS4FFInuBOkj92do6lsU3"
@@ -1905,7 +1931,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 400169,
       "name": "The Call",
       "url": "https://open.spotify.com/track/2HGPDuJuzcZcwWUbQBTtHO"
@@ -1923,7 +1949,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 274889,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o"
@@ -1985,7 +2011,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 499000,
       "name": "The Lamp",
       "url": "https://open.spotify.com/track/4dIrJCIZr1IVzpYPXhYtO8"

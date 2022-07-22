@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q?si=dHc9UkpbQz2jb\-MNOXBWbw">Boondocks Gang</a>
 
-175 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
+176 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Twak Makende](https://open.spotify.com/track/6uN91iAMK7IeIBiptaTcpX) | [Gabiro Mtu Necessary](https://open.spotify.com/artist/4kiTJr5wVxVmwFZwpAKYjx), [OnlyOneDelo](https://open.spotify.com/artist/3LYeloSKoUiWFWoeYweFrx) | [Twak Makende](https://open.spotify.com/album/4eCoG9iGJDKLTFsYIMnHxO) | 2:22 | 2022-03-31 | 2022-05-20 |
 | [Twende Church](https://open.spotify.com/track/5XuDteC4DYBGRGh6DKCS5Z) | [Hitman Kaht](https://open.spotify.com/artist/1jgOTjEFAogfS8VDFbsO16) | [Twende Church](https://open.spotify.com/album/7nL1XmZxXT4WoWRZIPY7bK) | 2:56 | 2021-10-14 | 2022-02-05 |
 | [Ukam](https://open.spotify.com/track/1Eo4O5bqHLH6iz3WtAfl7N) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Genge La Bundoski](https://open.spotify.com/album/2MmPVKmqh06x1zEfvqiFLm) | 3:32 | 2022-01-20 | 2022-01-28 |
-| [Ulimi Yangu](https://open.spotify.com/track/1q1gUECAGekO5jrrOCfIzW) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Dj Nephas](https://open.spotify.com/artist/09Dj0RRWu4AU2OMA2qDmqq) | [Mejja](https://open.spotify.com/album/0rTXdHoCzmgo3aIwMyRU3c) | 2:55 | 2021-08-30 |  |
+| [Ulimi Yangu](https://open.spotify.com/track/1q1gUECAGekO5jrrOCfIzW) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Dj Nephas](https://open.spotify.com/artist/09Dj0RRWu4AU2OMA2qDmqq) | [Mejja](https://open.spotify.com/album/0rTXdHoCzmgo3aIwMyRU3c) | 2:55 | 2021-08-30 | 2022-07-22 |
 | [Unaonaje](https://open.spotify.com/track/3fBqp1yQcxVy16aLHcl6mg) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318) | [The African Sound Queen](https://open.spotify.com/album/4dcftcvrCtDF2RfLYJD5tD) | 3:31 | 2022-05-12 |  |
 | [Ushasema](https://open.spotify.com/track/2ZI7wM6AZ7RaH0XHl8rg2K) | [Krg The Don](https://open.spotify.com/artist/1EbpkFPrOPWVYq2UL8llHA), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Ushasema](https://open.spotify.com/album/410pThZ1ddlMWkNWNbfFJ8) | 3:20 | 2021-11-25 | 2022-03-11 |
 | [Usherati](https://open.spotify.com/track/6XckSdd5zp9cJpplwOL9nJ) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Usherati](https://open.spotify.com/album/1FdL2SPh9V7zT8uAQC5god) | 3:41 | 2021-09-30 |  |
@@ -179,6 +179,7 @@
 | [Wangu](https://open.spotify.com/track/31wK7JreVLbopnyTrTVAmZ) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Sanaipei Tande](https://open.spotify.com/artist/07yGpAwkxtqb7q4x09Rf5u) | [African Popstar \-the EP](https://open.spotify.com/album/3uskBqIChkh6hoNVZxtN2a) | 3:05 | 2022-01-20 | 2022-01-28 |
 | [Wanjapi](https://open.spotify.com/track/3Axax40ktlCBaoIIEpzsx8) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [UNCO](https://open.spotify.com/album/79jKaEoMWzvohBMW5Dpu3p) | 2:55 | 2022-04-14 | 2022-07-01 |
 | [WANJAPI 2](https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [WANJAPI 2](https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40) | 3:30 | 2022-06-30 |  |
+| [Wapi Hio Tumbler](https://open.spotify.com/track/1euOHNRbVXiIA8tKS9TBcV) | [Blueflame](https://open.spotify.com/artist/75gRD9fQD1xoggioVeHW7O) | [Wapi Hio Tumbler](https://open.spotify.com/album/5NhoZgb8dITNFeN5DK2GdF) | 2:52 | 2022-07-21 |  |
 | [Yea Yea Yea](https://open.spotify.com/track/4lD2nTM6ldiZe76QRHH0V5) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Yea Yea Yea](https://open.spotify.com/album/0Awx0OJ8SIMY98fLYB7ztT) | 3:15 | 2022-01-20 | 2022-01-28 |
 | [Zible](https://open.spotify.com/track/3lsjJxqvPZn5oKSiYoitzN) | [Krg The Don](https://open.spotify.com/artist/1EbpkFPrOPWVYq2UL8llHA), [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi), [Dj Lyta](https://open.spotify.com/artist/2lPEEC7Ci0BMaqyIKZryqL) | [Zible](https://open.spotify.com/album/1CYuFPOLRRRNOiI4x5cmvO) | 4:05 | 2022-02-10 | 2022-06-17 |
 | [Zimenice](https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Tezzla](https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3) | [Zimenice](https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0) | 3:32 | 2021-09-02 |  |

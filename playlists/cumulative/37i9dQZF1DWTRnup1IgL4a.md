@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-115 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+116 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cadaques](https://open.spotify.com/track/5W3UaSyEgTVZHA7OrGffPH) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Cadaques](https://open.spotify.com/album/6pVPsVMUDfwtcrU32LSqbH) | 2:55 | 2021-12-23 |  |
 | [Calvanda](https://open.spotify.com/track/0TTOjbZ7i9aA0zphN18jBu) | [Patrick Prescott](https://open.spotify.com/artist/4axTAgIeRFIlRTV9EoxLIu) | [Calvanda](https://open.spotify.com/album/6aagZIFwnFJbBnEq0E6csO) | 3:05 | 2021-12-09 |  |
 | [Caminando en junio](https://open.spotify.com/track/7ztkI6pDauyqnIwBhLvWnm) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:54 | 2021-12-09 | 2022-05-27 |
+| [Daniela's Dance](https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Daniela's Dance](https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW) | 1:55 | 2022-07-22 |  |
 | [Deep Forest](https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest](https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi) | 1:46 | 2021-12-09 |  |
 | [Dois Mundos](https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [Clinton Hill](https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI) | 2:46 | 2021-12-23 |  |
 | [Draumurinn](https://open.spotify.com/track/7cMQbAS4eqmHT1I8cnYplu) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Draumurinn](https://open.spotify.com/album/5CG1s3VqpxBjcZqN1lwieV) | 2:08 | 2021-12-09 |  |

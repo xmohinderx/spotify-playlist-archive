@@ -4,7 +4,7 @@
 
 > The ever\-evolving sound of Alt! Cover: Switchfoot
 
-129 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
+130 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Meant For Good](https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [HELP!](https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6) | 3:34 | 2022-07-17 |  |
 | [Mercy Shores](https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Mercy Shores](https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7) | 3:26 | 2022-02-27 |  |
 | [Miracle of the Mind](https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Miracle of the Mind](https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6) | 4:29 | 2022-04-08 |  |
+| [Missing Piece](https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Quasarpro](https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww) | [Missing Piece](https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0) | 3:13 | 2022-07-17 |  |
 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 | 2022-07-17 |  |
 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 | 2022-07-17 |  |
 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 | 2022-02-27 |  |

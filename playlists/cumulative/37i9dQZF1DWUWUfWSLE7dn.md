@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-91 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+92 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Snow Scene](https://open.spotify.com/track/6tlqa8M2qLusIX5eSG1fJQ) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Snow Scene](https://open.spotify.com/album/745UVNtTG3NGjMV85zFIld) | 3:01 | 2022-06-10 |  |
 | [Stay With Me](https://open.spotify.com/track/2pd2wOETmzx0aTj7tnW5ID) | [Ivan Ibáñez](https://open.spotify.com/artist/0fV6GdJtP7B0zT4rmLmpUK), [Telecinco](https://open.spotify.com/artist/0XObwctODgMjE22VStmpUZ) | [Stay With Me](https://open.spotify.com/album/7DHqNJ9J58QRnsBDfuPOm0) | 1:41 | 2022-05-20 |  |
 | [take a breath](https://open.spotify.com/track/2dTVD9E1QsL5xWHRgiAjw6) | [FIL CRISTALLO](https://open.spotify.com/artist/1mhK0YcAZS8kTfYrUGYeTo) | [take a breath](https://open.spotify.com/album/1nm957F9G9h8Ma9vHgUr9H) | 3:48 | 2022-05-20 |  |
+| [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 | 2022-07-22 |  |
 | [The Fig Tree](https://open.spotify.com/track/1drE1yyx3iSbTbn55SAGOT) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Elision](https://open.spotify.com/album/6orXM32rO2JFSt60ZWyp4p) | 2:35 | 2022-03-09 |  |
 | [The Great Unknown](https://open.spotify.com/track/4nY7xJxAsbgalPsOiWBonK) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:59 | 2022-03-09 |  |
 | [The Guiding Light](https://open.spotify.com/track/35pgvCcPQEE76ofXfhKohb) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [The Guiding Light](https://open.spotify.com/album/18Bjewp7ZO72L2DnUIJTHK) | 2:49 | 2022-03-09 |  |

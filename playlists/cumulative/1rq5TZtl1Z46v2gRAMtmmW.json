@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 289430,
       "name": "Infinite Window",
       "url": "https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y"
@@ -849,6 +849,24 @@
       "duration_ms": 285046,
       "name": "Satyr",
       "url": "https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1"
+    },
+    {
+      "album": {
+        "name": "Shadow Dance",
+        "url": "https://open.spotify.com/album/6WOWUHCLX8C2tQYJwpc0p4"
+      },
+      "artists": [
+        {
+          "name": "Kuedo",
+          "url": "https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239121,
+      "name": "Shadow Dance",
+      "url": "https://open.spotify.com/track/38XjbDDpMxZTzmA7eCbgaM"
     },
     {
       "album": {

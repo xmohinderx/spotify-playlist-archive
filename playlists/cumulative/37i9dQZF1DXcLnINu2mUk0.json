@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 163421,
       "name": "Assim",
       "url": "https://open.spotify.com/track/5gjGfw1eaoMOW9Rq97j1Rp"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 260377,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/6qyEXFoHVLdKmM2gNLGfnW"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 172511,
       "name": "Lagrimas na Chuva",
       "url": "https://open.spotify.com/track/51byFLUe5raxXpa0ev0sFU"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 169598,
       "name": "Layah",
       "url": "https://open.spotify.com/track/7mHRrnFWPKD0a6fYrfsSYl"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 277400,
       "name": "Lentamente",
       "url": "https://open.spotify.com/track/7IBuWKHuCG79ee99IlaHvd"
@@ -755,6 +755,28 @@
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
+    },
+    {
+      "album": {
+        "name": "Melanina",
+        "url": "https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        },
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244742,
+      "name": "Melanina",
+      "url": "https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl"
     },
     {
       "album": {
@@ -922,6 +944,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Se Apaga",
+        "url": "https://open.spotify.com/album/7hbucpKi4oPK6OxIY8MVoi"
+      },
+      "artists": [
+        {
+          "name": "Dengaz",
+          "url": "https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175411,
+      "name": "N\u00e3o Se Apaga",
+      "url": "https://open.spotify.com/track/0LiKroEN7hpEbN7rhhPOR6"
+    },
+    {
+      "album": {
         "name": "O Rosto Que Pintei",
         "url": "https://open.spotify.com/album/2oHx8LfFDgehTt0mursfCv"
       },
@@ -955,7 +995,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 216000,
       "name": "Party Hard",
       "url": "https://open.spotify.com/track/3x1lrn6EKBSM6yRXQwgzQX"
@@ -1097,7 +1137,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 219968,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
@@ -1151,7 +1191,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 189870,
       "name": "Seguimos pela metade",
       "url": "https://open.spotify.com/track/1WPe6k0tslGlIRsO0obMTy"
@@ -1209,7 +1249,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 225114,
       "name": "S\u00f3 Tu",
       "url": "https://open.spotify.com/track/12bcq41ZJbnAPQ0gQ52b3W"
@@ -1369,6 +1409,24 @@
       "duration_ms": 313021,
       "name": "Water (feat. Slow J) - Single Version",
       "url": "https://open.spotify.com/track/58dElABzeDBwfhttWGf6n1"
+    },
+    {
+      "album": {
+        "name": "XtraLife",
+        "url": "https://open.spotify.com/album/2kaDHvQQkkxoP6PpLFSwF9"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/4iEURKVv81eLdh9BoLM0uC"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "XtraLife",
+      "url": "https://open.spotify.com/track/5mWBcTJHjj38y1JHOl34Gc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0"

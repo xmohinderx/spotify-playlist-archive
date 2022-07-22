@@ -2,9 +2,9 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Yo Gotti's CMG collective, Latto and Joey Bada$$.
+> New music from Yo Gotti's CMG label and a throwback song from Tyler, The Creator.
 
-1,266 songs - 2 day 17 hr 14 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,267 songs - 2 day 17 hr 18 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [9 5 \. s o u t h](https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:16 | 2021-05-15 | 2021-05-16 |
 | [9 Bridge](https://open.spotify.com/track/2sHekv6OdEiO4htSjdB9j4) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [9 Bridge](https://open.spotify.com/album/0MKr6ZcGoEnkycOQTpDANu) | 2:27 | 2021-05-15 | 2021-06-19 |
 | [9 TIMES OUTTA 10](https://open.spotify.com/track/5bgbb8KMAZreVHzh3bRPS5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Taurus](https://open.spotify.com/artist/31yqUKDLuRIRp6WrGHijf9) | [9 TIMES OUTTA 10](https://open.spotify.com/album/6otZ1ujzyrKwBkafWgKocu) | 2:39 | 2021-08-19 | 2021-09-04 |
+| [911 / Mr\. Lonely \(feat\. Frank Ocean & Steve Lacy\)](https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 4:15 | 2022-07-21 |  |
 | [@ MEH](https://open.spotify.com/track/5UusfWUMMLEXLMc1ViNZoe) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [@ MEH](https://open.spotify.com/album/3hXfBV9COJBTj5rnIh7wcC) | 2:46 | 2020-04-16 | 2020-05-30 |
 | [\[Admire Her\] \(with Gunna\)](https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 2:37 | 2022-04-15 | 2022-05-28 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-15 | 2021-06-26 |

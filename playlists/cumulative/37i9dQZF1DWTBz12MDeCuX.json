@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: LEA, Gustav, Zachi\n",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: TYM\n",
   "name": "me right now",
   "published_playlist_ids": [
     "4wMgKXJWsULbe4I9HZDGUL"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 202013,
       "name": "10 Jahre",
       "url": "https://open.spotify.com/track/3M8LYTPNzU3Hpa8VtYp1SA"
@@ -330,6 +330,32 @@
     },
     {
       "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/6MwNFxc0GWLmtw0P6L989Y"
+      },
+      "artists": [
+        {
+          "name": "Dennis Dies Das",
+          "url": "https://open.spotify.com/artist/30ttvzupq5sM6n9NBx6uBx"
+        },
+        {
+          "name": "Whitey en vogue",
+          "url": "https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM"
+        },
+        {
+          "name": "Robbensohn",
+          "url": "https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148151,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/5BiypsiapBLRQELkSFBby2"
+    },
+    {
+      "album": {
         "name": "Beautiful Girl",
         "url": "https://open.spotify.com/album/2dG0GF5ikINJmc7nTRKSBk"
       },
@@ -381,7 +407,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 119924,
       "name": "BEST LIFE",
       "url": "https://open.spotify.com/track/4Afzcx0nCkTbHjg2mLwOLV"
@@ -900,6 +926,24 @@
     },
     {
       "album": {
+        "name": "DJ Party (Monster)",
+        "url": "https://open.spotify.com/album/2UVZtK15LKQBJkl54Z8wvg"
+      },
+      "artists": [
+        {
+          "name": "wewantwraiths",
+          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194032,
+      "name": "DJ Party (Monster)",
+      "url": "https://open.spotify.com/track/0KHEVmVC6BJyVmUqaR7Lng"
+    },
+    {
+      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -947,7 +991,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 150522,
       "name": "Drunk Dial",
       "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
@@ -1025,6 +1069,24 @@
       "duration_ms": 173978,
       "name": "Engel",
       "url": "https://open.spotify.com/track/6ru74IGueZLufY6JHklJc9"
+    },
+    {
+      "album": {
+        "name": "EPOCHE",
+        "url": "https://open.spotify.com/album/5pliDIxxlkj8TTfNHV04FY"
+      },
+      "artists": [
+        {
+          "name": "Rrotzer",
+          "url": "https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112468,
+      "name": "EPOCHE",
+      "url": "https://open.spotify.com/track/7t2waTytPcRDjEOFv0C2UP"
     },
     {
       "album": {
@@ -1127,6 +1189,24 @@
       "duration_ms": 171226,
       "name": "FALLEN",
       "url": "https://open.spotify.com/track/1aAXdCj757K1zuCaTd1Vr7"
+    },
+    {
+      "album": {
+        "name": "FALLIN",
+        "url": "https://open.spotify.com/album/6DIHHKh7V9eJ2s4YJAifqU"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151133,
+      "name": "FALLIN",
+      "url": "https://open.spotify.com/track/6XuiITnbtOxMbvSc2NmUM8"
     },
     {
       "album": {
@@ -1380,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Genug von dir",
+        "url": "https://open.spotify.com/album/4ljegebVR6pKgfE2OgULdk"
+      },
+      "artists": [
+        {
+          "name": "Rojas",
+          "url": "https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Genug von dir",
+      "url": "https://open.spotify.com/track/1MLurEsyykUHYr2BUheeaz"
+    },
+    {
+      "album": {
         "name": "Giftig",
         "url": "https://open.spotify.com/album/2oUgnNxtcPynysaTQKPkZw"
       },
@@ -1515,7 +1613,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 268866,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/121so7t3AeX6nLMvxy9ZP9"
@@ -1701,7 +1799,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 207026,
       "name": "idfc",
       "url": "https://open.spotify.com/track/3SErMoIKdRELto2OspGs5L"
@@ -2218,6 +2316,24 @@
     },
     {
       "album": {
+        "name": "m\u00fcde",
+        "url": "https://open.spotify.com/album/4MAkTfejQZEuVORff0WeYF"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205446,
+      "name": "m\u00fcde",
+      "url": "https://open.spotify.com/track/71I89sp3uzWIWq9BGHZQTv"
+    },
+    {
+      "album": {
         "name": "Nachts wach",
         "url": "https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE"
       },
@@ -2585,7 +2701,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 130897,
       "name": "Paris to Tokyo",
       "url": "https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7"
@@ -2873,7 +2989,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 295308,
       "name": "Shootout",
       "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
@@ -3011,7 +3127,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 138370,
       "name": "Sonntagabend",
       "url": "https://open.spotify.com/track/7yCMaqrv6bqET0cnjkptMx"
@@ -3334,6 +3450,28 @@
     },
     {
       "album": {
+        "name": "Ticket nach Ketama (feat. Liaze)",
+        "url": "https://open.spotify.com/album/1VzaGDvMcgi3PbBZhfrbLV"
+      },
+      "artists": [
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4"
+        },
+        {
+          "name": "Liaze",
+          "url": "https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Ticket nach Ketama (feat. Liaze)",
+      "url": "https://open.spotify.com/track/7KWwQ8SokgUDO7es6Q4ZGW"
+    },
+    {
+      "album": {
         "name": "Ticket zu dir",
         "url": "https://open.spotify.com/album/0QYshP7LS7TS0fPj7amAFz"
       },
@@ -3450,6 +3588,24 @@
     },
     {
       "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "album": {
         "name": "TVI",
         "url": "https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN"
       },
@@ -3461,7 +3617,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 161200,
       "name": "TVI",
       "url": "https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5"
@@ -3602,6 +3758,32 @@
     },
     {
       "album": {
+        "name": "Was du hast",
+        "url": "https://open.spotify.com/album/17ntfKAnK6mar23wDMWgx5"
+      },
+      "artists": [
+        {
+          "name": "Sierra Kidd",
+          "url": "https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT"
+        },
+        {
+          "name": "flowerboii",
+          "url": "https://open.spotify.com/artist/5aKVNeiiEzFHZHKiPx5X9p"
+        },
+        {
+          "name": "The Cratez",
+          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144537,
+      "name": "Was du hast",
+      "url": "https://open.spotify.com/track/2pT29PGyqqjIiJRMlKXjnQ"
+    },
+    {
+      "album": {
         "name": "WAS WEISST DU SCHON",
         "url": "https://open.spotify.com/album/1stNLsegoUNT1ez4bOsQeQ"
       },
@@ -3653,7 +3835,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
@@ -3839,6 +4021,24 @@
       "duration_ms": 134000,
       "name": "Zeit fliegt (feat. Fergy53)",
       "url": "https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU"
+    },
+    {
+      "album": {
+        "name": "ZUCKER",
+        "url": "https://open.spotify.com/album/4DwIsVI6Ra9KC8zJX3A1v3"
+      },
+      "artists": [
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144248,
+      "name": "ZUCKER",
+      "url": "https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTBz12MDeCuX"

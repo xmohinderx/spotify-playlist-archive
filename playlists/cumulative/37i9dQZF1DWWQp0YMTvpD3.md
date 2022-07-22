@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-209 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+212 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1542](https://open.spotify.com/track/4nOJbb6YKkgiVgWGYoluTy) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/3NBn9kZ7OdVL1G9MtHU1wA) | 5:47 | 2022-02-12 | 2022-03-17 |
 | [2 unreal](https://open.spotify.com/track/3UCygC7JAMINFBr2fQL91x) | [heavy tone](https://open.spotify.com/artist/7E4tM3LfCNhRISIXPPprFE) | [2 unreal](https://open.spotify.com/album/61lwGB5uZ3W8FQk233sGHE) | 2:10 | 2021-10-12 | 2022-02-12 |
 | [Abloom](https://open.spotify.com/track/7whKMQm3AjhgnRfucdUzDj) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Attunement](https://open.spotify.com/album/7J5MgXjrWNaReHhQEvV6SS) | 3:33 | 2019-10-04 | 2022-02-12 |
-| [Africa to the World](https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/5DHuZXoJiWYFbtqxRYDPH2) | 2:26 | 2022-02-11 |  |
+| [Africa to the World](https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/5DHuZXoJiWYFbtqxRYDPH2) | 2:26 | 2022-02-11 | 2022-07-22 |
 | [Alaska](https://open.spotify.com/track/6hxdw7ZDj7dmhpEo1TB0Fh) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Alaska](https://open.spotify.com/album/7b5SamKOOk1ryczb0JSVUk) | 1:48 | 2022-02-11 |  |
 | [Alfredo](https://open.spotify.com/track/1Q7DSl0WfWe0zCbfqK5NAF) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Alfredo](https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr) | 2:30 | 2021-10-12 | 2022-02-12 |
 | [Alla Prima](https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Viridian](https://open.spotify.com/album/5kfojidGkqgfaHxyr2Gbvi) | 4:35 | 2022-02-11 |  |
@@ -52,6 +52,7 @@
 | [Curves](https://open.spotify.com/track/2AkLzKnVUxCmEF5qOxnb0f) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Curves](https://open.spotify.com/album/4KjuZSoDJzOOL6lVrUQSxj) | 2:55 | 2022-02-11 | 2022-07-15 |
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
 | [Danger Zone](https://open.spotify.com/track/48gfj7REhcvZjASWAPEo68) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Danger Zone](https://open.spotify.com/album/2AFI0lCU0ILKZW9Plkno6n) | 2:52 | 2019-10-04 | 2022-02-12 |
+| [Deep Mind](https://open.spotify.com/track/4ZS6culUlDvYvLGgIsEyy2) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [Deep Mind](https://open.spotify.com/album/0qtGM2MhLj7A8v3BUpbOz2) | 2:39 | 2022-07-22 |  |
 | [departure](https://open.spotify.com/track/3VtNgwrW7ZpnPjXfnkXBTh) | [luv.fi](https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N) | [departure](https://open.spotify.com/album/5rwZIBeQdCg8X7NabbmJbF) | 2:04 | 2021-10-12 | 2022-02-12 |
 | [Donum](https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Donum](https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko) | 2:40 | 2022-02-11 |  |
 | [Dream Canyon](https://open.spotify.com/track/7wwW2weaG0o43SN581vH7c) | [Backdoor Jesus](https://open.spotify.com/artist/5aokebFIGIK1DHblB80rdw) | [Dream Canyon](https://open.spotify.com/album/2FDdq2nTAxV0aHuOM051Z4) | 2:33 | 2021-10-12 | 2022-02-12 |
@@ -151,7 +152,7 @@
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-02-11 |  |
 | [Sneeze](https://open.spotify.com/track/74481nLSrNAlMH2kgh84uj) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Sneeze](https://open.spotify.com/album/6xRxDeAhqPA4rqEFfCqCTP) | 2:42 | 2019-10-04 | 2022-02-12 |
 | [Soft Touch](https://open.spotify.com/track/0SqV6u3HBoMfje0k2CkB3d) | [Need For Speed](https://open.spotify.com/artist/1Dtses9ARjOholLUpr0rMN) | [Soft Touch](https://open.spotify.com/album/0gYTUadKK0rPk94tHBmxVq) | 4:05 | 2019-10-04 | 2022-02-12 |
-| [Soft Winds](https://open.spotify.com/track/0BbZDSQN2Qe9lCBCBFP9pk) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Soft Winds](https://open.spotify.com/album/7tluTh6geFfV77h6GBqZLg) | 4:40 | 2022-02-11 |  |
+| [Soft Winds](https://open.spotify.com/track/0BbZDSQN2Qe9lCBCBFP9pk) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Soft Winds](https://open.spotify.com/album/7tluTh6geFfV77h6GBqZLg) | 4:40 | 2022-02-11 | 2022-07-22 |
 | [somewhat breezy](https://open.spotify.com/track/3UbbHzb70XtG3ozVzNXR6v) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [somewhat breezy](https://open.spotify.com/album/4YzDP6DkHpOEmRIRajmHQU) | 2:02 | 2021-10-26 | 2022-02-12 |
 | [sound by night](https://open.spotify.com/track/17EyMtoMHoVj1LQyOluAEO) | [scratchine](https://open.spotify.com/artist/7tDgvVUF0rqcdI44ZKWMHh) | [sound by night](https://open.spotify.com/album/3TF0ANcNRkxJUW9qKTBGnk) | 2:29 | 2021-10-12 | 2022-02-12 |
 | [Spinning \(feat\. Ilsey\)](https://open.spotify.com/track/2nEU0GtVvBap7jvy2ZwHTH) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:11 | 2019-10-04 | 2022-02-12 |
@@ -191,6 +192,7 @@
 | [Ukiyo](https://open.spotify.com/track/4P7y3tcPZ7RyEZQpOy4yhN) | [Iwo Ito](https://open.spotify.com/artist/7kBNArTDXvGZ4kR09ZV8bY) | [Ukiyo](https://open.spotify.com/album/4xAGiDW10vBNJrwK76xGfe) | 2:56 | 2022-03-25 |  |
 | [Umbrella Shopping](https://open.spotify.com/track/7MgqCfXy33YBpunYl1uhMQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Umbrella Shopping](https://open.spotify.com/album/638MCjxBy9yOuhN34rB4x6) | 2:21 | 2021-10-12 | 2022-02-12 |
 | [Unchained](https://open.spotify.com/track/31NkeO3kP3dgl8WuFFkG3F) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Listen To Your Heart](https://open.spotify.com/album/0eFkUtvlR1uJ80fou4ngng) | 3:00 | 2022-02-11 |  |
+| [under the moon](https://open.spotify.com/track/42pudwLPmQT4AnegS85Yz4) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [under the moon](https://open.spotify.com/album/7mIKs5agQHWqo9w5bnVSEN) | 3:47 | 2022-07-22 |  |
 | [Upside](https://open.spotify.com/track/3xqjgRw2hmbNX3MlKiAmV0) | [Kriz Luna](https://open.spotify.com/artist/4J2cbs2Cl60uWpSxcpnrjV) | [Upside](https://open.spotify.com/album/40f0AIYOvhhmdsQbr6EH2z) | 3:15 | 2021-10-12 | 2022-02-12 |
 | [Upward Falling](https://open.spotify.com/track/6YsXDpB5gqbNZiAIn8T4Ty) | [Tamala Bay](https://open.spotify.com/artist/2lncpX7wgkhvlIkw7ozMRj) | [Upward Falling](https://open.spotify.com/album/3djnMJi6Yzhm2pyk9Cm5IY) | 2:27 | 2021-10-26 | 2022-02-12 |
 | [Vaguely Familiar](https://open.spotify.com/track/6idquPxSFRAxjL8YZIuudz) | [Gloomi](https://open.spotify.com/artist/3M6KDspoVN5BoZYYURrvkt) | [Vaguely Familiar](https://open.spotify.com/album/4qSkBz77XobKTbhPfktVNs) | 2:33 | 2021-10-12 | 2022-02-12 |
@@ -198,6 +200,7 @@
 | [Veraneo](https://open.spotify.com/track/4cAZWQZLlDXoHGYkTNMt4i) | [Senoidal](https://open.spotify.com/artist/6r9s2iVXnrwENfSRUUtxpa) | [Veraneo](https://open.spotify.com/album/4rWRzHZirigkgFGQ6fmQZW) | 2:59 | 2021-10-12 | 2022-02-12 |
 | [Virtue](https://open.spotify.com/track/2dIc4fWog46D4dtdtmlaox) | [Criminal Plants](https://open.spotify.com/artist/2aRu6YXHGyKkHYCrGNRuAh) | [Virtue](https://open.spotify.com/album/70aT7VUr0QaOjEkRCZNrvf) | 3:31 | 2021-07-20 | 2022-02-12 |
 | [Voices In My Head](https://open.spotify.com/track/5qcuzoVn3eqQiDPIcSqo6g) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [Voices In My Head](https://open.spotify.com/album/6j2sv5DzZKnZxOgIZgalrY) | 2:20 | 2021-10-12 | 2022-02-12 |
+| [Vows](https://open.spotify.com/track/3YM22gJuH8VgRP59PbNyV1) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Vows](https://open.spotify.com/album/2Uh8FuQj3xWmCOvYImInB3) | 2:17 | 2022-07-22 |  |
 | [Voyager](https://open.spotify.com/track/0msUZN9MVtQfT0Mjq02u4o) | [Mayden Blue](https://open.spotify.com/artist/75UHJrQHVWVIi1fM8TlRpf) | [Voyager](https://open.spotify.com/album/5AzdlqZP2nq2ugxzsuu26D) | 3:44 | 2021-07-20 | 2022-02-12 |
 | [Wanderer \- Chill Mix](https://open.spotify.com/track/1QoZXDJVp516a9QCNvnmZL) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Wanderer](https://open.spotify.com/album/1dX5KiQVkYcayFZFFSbq82) | 2:21 | 2022-02-11 | 2022-07-15 |
 | [Weekend](https://open.spotify.com/track/4gO2vV1kosaVP06CYnkQN6) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x), [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Weekend](https://open.spotify.com/album/2vNXWpcWiD8BWpb3AOKY0A) | 1:52 | 2022-02-11 | 2022-07-08 |

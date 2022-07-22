@@ -1090,6 +1090,24 @@
     },
     {
       "album": {
+        "name": "Gone Day",
+        "url": "https://open.spotify.com/album/41k94jymMWGvYhBAcWgeb2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Kvarnstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4qZrlSJ1sikAjQS9rrBBpx"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250282,
+      "name": "Gone Day",
+      "url": "https://open.spotify.com/track/2SSOF3vAlTd3FqWupkuQBt"
+    },
+    {
+      "album": {
         "name": "Gran Separado",
         "url": "https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc"
       },

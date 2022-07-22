@@ -1,48 +1,52 @@
 {
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=m8DIniEoSy-liMFIdKpYww\"> Omah Lay </a> ",
-  "num_followers": 1022099,
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf?si=n7xs9bIGT-qeVxdKBx9dBQ\"> King Promise </a> ",
+  "num_followers": 1023077,
   "original_name": "African Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzOTYwMCwwMDAwMDI0OTAwMDAwMTgxZmVmMGMyMjAwMDAwMDE4MWZjODJiYzdh",
+  "snapshot_id": "MTY1ODQ0NDQwMCwwMDAwMDI0YTAwMDAwMTgyMjJmZDQ2MGQwMDAwMDE4MjIxNzNiMDFj",
   "tracks": [
     {
-      "added_at": "2022-07-14 23:00:00",
+      "added_at": "2022-07-07 23:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
       "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
         {
           "name": "Omah Lay",
           "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 153946,
-      "name": "i\u2019m a mess",
-      "url": "https://open.spotify.com/track/1muOmaGrLHPU86XiE8pLgJ"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 151764,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
+      "duration_ms": 177067,
+      "name": "10 Toes (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
     },
     {
       "added_at": "2022-05-12 23:00:00",
@@ -71,6 +75,42 @@
       "duration_ms": 251286,
       "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
       "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
       "added_at": "2022-06-20 06:34:27",
@@ -109,26 +149,6 @@
       "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP"
-    },
-    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Bandana",
@@ -147,6 +167,78 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
+        "name": "Call Me Every Day (feat. WizKid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. WizKid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i\u2019m a mess",
+      "url": "https://open.spotify.com/track/1muOmaGrLHPU86XiE8pLgJ"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 135272,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/771tThfRECkaHjTKb6clZx"
     },
     {
       "added_at": "2021-10-22 00:00:00",
@@ -185,24 +277,36 @@
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
+      "added_at": "2022-02-10 23:01:00",
       "album": {
-        "name": "Buga (Lo Lo Lo)",
-        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 183103,
-      "name": "Buga (Lo Lo Lo)",
-      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
+    },
+    {
+      "added_at": "2021-10-22 00:00:00",
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr"
     },
     {
       "added_at": "2021-12-02 23:02:00",
@@ -281,6 +385,34 @@
       "url": "https://open.spotify.com/track/1NjWiElrN3etvPvkmDdinn"
     },
     {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
+        "name": "MAMA",
+        "url": "https://open.spotify.com/album/0lY6EDqhPVeR8h3WVSJtI7"
+      },
+      "artists": [
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Liebah",
+          "url": "https://open.spotify.com/artist/2KypNNZFY9osrpfgPSMfPz"
+        }
+      ],
+      "duration_ms": 427732,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/05ol8gdiT7MUNvA9Bt2dcP"
+    },
+    {
       "added_at": "2022-06-16 23:00:00",
       "album": {
         "name": "Peace Be Unto You (PBUY)",
@@ -295,38 +427,6 @@
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2022-04-28 23:00:00",
-      "album": {
-        "name": "kolomental",
-        "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "kolomental",
-      "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
-    },
-    {
-      "added_at": "2022-02-10 23:01:00",
-      "album": {
-        "name": "Calm Down",
-        "url": "https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
     },
     {
       "added_at": "2021-11-18 23:01:00",
@@ -347,22 +447,6 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
-    },
-    {
-      "added_at": "2021-10-22 00:00:00",
-      "album": {
-        "name": "Understand",
-        "url": "https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr"
     },
     {
       "added_at": "2022-04-28 23:00:00",
@@ -527,42 +611,6 @@
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
-    },
-    {
-      "added_at": "2022-06-23 23:00:00",
-      "album": {
-        "name": "Scorpion Kings Live Sun Arena",
-        "url": "https://open.spotify.com/album/6N067E0wNZsTlyvgnTpJ9l"
-      },
-      "artists": [
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Mpura",
-          "url": "https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA"
-        },
-        {
-          "name": "Madumane",
-          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        }
-      ],
-      "duration_ms": 428571,
-      "name": "Trust Fund (feat. Focalistic, Mpura, Madumane & Mellow & Sleazy) - Live",
-      "url": "https://open.spotify.com/track/4F7H87xusgYP3SEFj7gOVP"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -765,30 +813,6 @@
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
-      "added_at": "2022-06-02 23:00:00",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1cuzlgF3KQzQOMiuWfNYox"
-      },
-      "artists": [
-        {
-          "name": "Kamo Mphela",
-          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
-        }
-      ],
-      "duration_ms": 377142,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1HNDRSH8IPUc58fXrKHpP6"
-    },
-    {
       "added_at": "2022-05-12 23:00:00",
       "album": {
         "name": "Stand Strong (feat. Sunday Service Choir)",
@@ -853,22 +877,6 @@
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
     },
     {
-      "added_at": "2022-05-06 04:54:30",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 185341,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
-    },
-    {
       "added_at": "2022-04-28 23:00:00",
       "album": {
         "name": "19 & Dangerous",
@@ -883,22 +891,6 @@
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
-    },
-    {
-      "added_at": "2022-01-27 23:00:00",
-      "album": {
-        "name": "Down Flat",
-        "url": "https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV"
-      },
-      "artists": [
-        {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
-        }
-      ],
-      "duration_ms": 172747,
-      "name": "Down Flat",
-      "url": "https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB"
     },
     {
       "added_at": "2022-05-19 23:00:00",

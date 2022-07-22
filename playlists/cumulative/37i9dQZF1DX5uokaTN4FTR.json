@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Bru-C",
+  "description": "The UK's biggest dance playlist! Cover: MEDUZA",
   "name": "Massive Dance Hits",
   "published_playlist_ids": [
     "5fVCEeL6B4wf7pLEe8QzL4"
@@ -374,6 +374,36 @@
     },
     {
       "album": {
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "album": {
         "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) [Edit]",
         "url": "https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay"
       },
@@ -536,7 +566,33 @@
     },
     {
       "album": {
-        "name": "Better Now (feat. Lily Denning)",
+        "name": "Better (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182462,
+      "name": "Better (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
+    },
+    {
+      "album": {
+        "name": "Better Now",
         "url": "https://open.spotify.com/album/637sHim0W1wbjkkZqoCsy4"
       },
       "artists": [
@@ -553,7 +609,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231836,
-      "name": "Better Now (feat. Lily Denning)",
+      "name": "Better Now",
       "url": "https://open.spotify.com/track/6sHEMuTKHJYwSJ8OK2pfpB"
     },
     {
@@ -1107,7 +1163,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 187400,
       "name": "DEEP (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/1DcFYXbOSWr18OHlfp7Qng"
@@ -1495,6 +1551,32 @@
       "duration_ms": 167111,
       "name": "Every Single Time (feat. What So Not & Lucy Lucy)",
       "url": "https://open.spotify.com/track/5C3gOD1dLvweFVKzTlgxmL"
+    },
+    {
+      "album": {
+        "name": "Eyes on Fire",
+        "url": "https://open.spotify.com/album/3xVljo5XeygaCFRzaCbdvn"
+      },
+      "artists": [
+        {
+          "name": "LEOWI",
+          "url": "https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        },
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Eyes on Fire",
+      "url": "https://open.spotify.com/track/5yqfGzzZ3Qk6VIarH3R6D3"
     },
     {
       "album": {
@@ -1919,7 +2001,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
@@ -1959,7 +2041,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
@@ -3414,6 +3496,24 @@
     },
     {
       "album": {
+        "name": "Other Side of Love",
+        "url": "https://open.spotify.com/album/6Qqp6dppcuLr0DTmKqDkPU"
+      },
+      "artists": [
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222425,
+      "name": "Other Side of Love",
+      "url": "https://open.spotify.com/track/1TXQh7R4ZaozkuFTRVZlYm"
+    },
+    {
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -3819,6 +3919,24 @@
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
+    },
+    {
+      "album": {
+        "name": "Shake My Booty",
+        "url": "https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202943,
+      "name": "Shake My Booty",
+      "url": "https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve"
     },
     {
       "album": {
@@ -4316,6 +4434,28 @@
     },
     {
       "album": {
+        "name": "Talkin' Drums",
+        "url": "https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        },
+        {
+          "name": "Tour\u00e9 Kunda",
+          "url": "https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Talkin' Drums",
+      "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
+    },
+    {
+      "album": {
         "name": "Teardrops (feat. Majid Jordan)",
         "url": "https://open.spotify.com/album/3Bq8vA5rwJGfe8KgT4Qdxy"
       },
@@ -4335,7 +4475,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 170982,
       "name": "Teardrops (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC"
@@ -4485,7 +4625,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 220966,
       "name": "The Judge",
       "url": "https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy"

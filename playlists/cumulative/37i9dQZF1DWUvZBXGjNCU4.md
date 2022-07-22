@@ -4,14 +4,14 @@
 
 > Warm and cozy acoustic instrumentals.
 
-183 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
+184 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Moment To Arise](https://open.spotify.com/track/3122D1oPB9S7azLBXWBrtS) | [Matt Emilien Parker](https://open.spotify.com/artist/1J9TuyJ5QFyXmGqGUHjCYl) | [A Moment To Arise](https://open.spotify.com/album/3eFAeBv4QZXulrBoTmphas) | 2:30 | 2022-05-13 | 2022-06-10 |
 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-05-13 |  |
-| [Agate](https://open.spotify.com/track/0jSw2WmuvpZaZzbJpEhdui) | [Esther Heath](https://open.spotify.com/artist/0heT0cVuEFMR2TwLjIkXBR) | [Agate](https://open.spotify.com/album/6m6MYjcJWvX2PaBmfO28S0) | 3:04 | 2022-05-13 |  |
-| [Am Flussufer](https://open.spotify.com/track/4EDCWd1sxAhOgO17vKHA9k) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 3:58 | 2022-05-13 |  |
+| [Agate](https://open.spotify.com/track/0jSw2WmuvpZaZzbJpEhdui) | [Esther Heath](https://open.spotify.com/artist/0heT0cVuEFMR2TwLjIkXBR) | [Agate](https://open.spotify.com/album/6m6MYjcJWvX2PaBmfO28S0) | 3:04 | 2022-05-13 | 2022-07-22 |
+| [Am Flussufer](https://open.spotify.com/track/4EDCWd1sxAhOgO17vKHA9k) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 3:58 | 2022-05-13 | 2022-07-22 |
 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-05-13 |  |
 | [Arizona Sunsets](https://open.spotify.com/track/3vBZ5BwSoqcDdab0ks2AEx) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Arizona Sunsets](https://open.spotify.com/album/463pBKIsmNYwXgXuWBvSPq) | 2:07 | 2022-07-08 |  |
 | [As It Was](https://open.spotify.com/track/0AdUlf7gmrwhuVp8oznsRc) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [As It Was](https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H) | 3:30 | 2022-06-10 |  |
@@ -32,7 +32,7 @@
 | [By Your Side](https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 3:11 | 2022-05-13 |  |
 | [Caledonia](https://open.spotify.com/track/7p22ATtUa29n9ME9rvoaLZ) | [Selena Dominguez](https://open.spotify.com/artist/2NixYvC1pTi52NazQO8zq6) | [Caledonia](https://open.spotify.com/album/4g2vl00ThtZT3xQW8BJIdz) | 3:28 | 2022-05-13 |  |
 | [Calming Rain](https://open.spotify.com/track/7gGoipsdaoYS99Sjw7gizS) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Say My Name!](https://open.spotify.com/album/3STB33e4MiSaNNvU2XXPbh) | 3:07 | 2022-07-01 |  |
-| [Candle](https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Swaying](https://open.spotify.com/album/0uh0YgMWqpewFHCNy4yqtY) | 3:07 | 2022-06-10 |  |
+| [Candle](https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Swaying](https://open.spotify.com/album/0uh0YgMWqpewFHCNy4yqtY) | 3:07 | 2022-06-10 | 2022-07-22 |
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2022-05-13 |  |
 | [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 3:15 | 2022-05-13 | 2022-06-10 |
 | [Coiseachd](https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd) | [Maya Eden](https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS) | [Coiseachd](https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw) | 2:46 | 2022-05-13 |  |
@@ -50,7 +50,7 @@
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-05-13 |  |
 | [Electric Bell](https://open.spotify.com/track/73Dn5KXykn7zPlwN41u8sl) | [Flynn Simmons](https://open.spotify.com/artist/50KiISa7MC3LSlXZmn30Go) | [Electric Bell](https://open.spotify.com/album/7L7ZULdyivBdSeHQHbcTq9) | 1:56 | 2022-05-13 | 2022-06-10 |
 | [Etude](https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Etude](https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf) | 2:27 | 2022-05-13 | 2022-07-15 |
-| [Evening Stroll](https://open.spotify.com/track/5MV9mc5YjwVuWoZZDc1cB1) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Evening Stroll](https://open.spotify.com/album/0b40NntOGFAMvyJS2ytJGd) | 3:28 | 2022-06-10 |  |
+| [Evening Stroll](https://open.spotify.com/track/5MV9mc5YjwVuWoZZDc1cB1) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Evening Stroll](https://open.spotify.com/album/0b40NntOGFAMvyJS2ytJGd) | 3:28 | 2022-06-10 | 2022-07-22 |
 | [Evenings at Point Reyes](https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:54 | 2022-05-13 |  |
 | [Fair Game](https://open.spotify.com/track/2FPEeTcNxk9qk8TxwwcxOL) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [Fair Game](https://open.spotify.com/album/7rSE3kCkuQwPHaIXyJU3L8) | 2:51 | 2022-05-13 |  |
 | [Fake a smile](https://open.spotify.com/track/2JI53ZVCxMucM68UpCtZ5C) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Fake a smile](https://open.spotify.com/album/4Z9LkxhZbqK0jY3bkj2uo7) | 2:49 | 2022-05-13 |  |
@@ -110,6 +110,7 @@
 | [Masodik](https://open.spotify.com/track/3K6esDtEDOfx9boe94z0Y2) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Masodik](https://open.spotify.com/album/1mImGcb3xJHoHFc9VmXT0I) | 3:07 | 2022-05-13 |  |
 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-06-10 |
+| [Moments](https://open.spotify.com/track/5nTHryNER0Teyaa4Y6XLa7) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/1nVjd0D1TypRpB7Xjet07j) | 2:23 | 2022-07-22 |  |
 | [Morgennebel](https://open.spotify.com/track/5YPSO5fyF5nDOrwzCseb4L) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Morgennebel](https://open.spotify.com/album/26ILwVN6wmnxHlG19fRrTl) | 2:20 | 2022-05-13 |  |
 | [Morning Mist](https://open.spotify.com/track/3a6sXii4VwApu2WTxYMBtn) | [Staffan Carlén](https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g) | [Morning Mist](https://open.spotify.com/album/7j3yVrwdKhzMs1rQIIuHQP) | 2:44 | 2022-05-13 | 2022-06-10 |
 | [Mulholland Drive](https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mulholland Drive](https://open.spotify.com/album/5KzdfPbNX3oTV87uK4Ownn) | 1:57 | 2022-05-13 |  |

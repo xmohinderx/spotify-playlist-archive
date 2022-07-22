@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-148 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+150 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,9 @@
 | [ゆずれない](https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ゆずれない](https://open.spotify.com/album/5O8k3vgpZj8lABvvMKQJRd) | 3:58 | 2022-05-28 | 2022-06-24 |
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2022-07-01 |
 | [インフィニット](https://open.spotify.com/track/6b4f78XcnPlxOJpNjmD2j8) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [インフィニット](https://open.spotify.com/album/32PkEDbpR6T1uLpt5r43r7) | 4:12 | 2022-06-30 |  |
+| [カラーリング バイ G\-レコ \- 劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ](https://open.spotify.com/track/5qIQj1hQA37xMINca0gDel) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [カラーリング バイ G\-レコ \(劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ\)](https://open.spotify.com/album/5JqvjrwI64lGv2nnN6JJ7s) | 3:54 | 2022-07-21 |  |
 | [カラー・リリィの恋文](https://open.spotify.com/track/7Eojb2w0e8zV8r8M6z0geM) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [カラー・リリィの恋文](https://open.spotify.com/album/4cNFuAvGpB1Cp1E8FWL7Fh) | 3:47 | 2022-07-14 |  |
+| [キミイロ](https://open.spotify.com/track/46o11Dp9nAeDvMFYEVuCUZ) | [Beatcats](https://open.spotify.com/artist/3vmZgwzFp8rwt5GicYWbST) | [キミイロ](https://open.spotify.com/album/1LBqnvVwxN0uL77HAs1XXc) | 3:24 | 2022-07-21 |  |
 | [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-05-28 | 2022-07-08 |
 | [サイダー](https://open.spotify.com/track/1pgT2Ue3CjtILtKHkifnmS) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [サイダー](https://open.spotify.com/album/3hCLUq4eAthQqGFZ3KfJbY) | 4:27 | 2022-07-05 |  |
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-05-28 | 2022-07-06 |

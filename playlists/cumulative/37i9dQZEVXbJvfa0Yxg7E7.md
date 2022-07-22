@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-717 songs - 1 day 13 hr 51 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+718 songs - 1 day 13 hr 54 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-08-17 | 2021-08-31 |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-04 |
 | [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2021-10-31 | 2021-11-21 |
-| [31 Etasje](https://open.spotify.com/track/1g6pAG1re0AKUO26JJpZJ8) | [Capow x 2G](https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a) | [31 Etasje](https://open.spotify.com/album/4rLCQSbO9N5KjsLpH3dzQy) | 2:37 | 2022-04-01 |  |
+| [31 Etasje](https://open.spotify.com/track/1g6pAG1re0AKUO26JJpZJ8) | [Capow x 2G](https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a) | [31 Etasje](https://open.spotify.com/album/4rLCQSbO9N5KjsLpH3dzQy) | 2:37 | 2022-04-01 | 2022-07-22 |
 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 | 2021-09-05 | 2021-09-06 |
 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 | 2022-05-07 | 2022-05-13 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-23 |
@@ -645,6 +645,7 @@
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-12 | 2022-03-17 |
 | [Sympati](https://open.spotify.com/track/2XAup2iHm6t3UK4Hsjkkwy) | [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [Sympati](https://open.spotify.com/album/62iiFOpxd6WAnvRGn965kH) | 2:56 | 2022-03-05 | 2022-06-05 |
 | [Syrener](https://open.spotify.com/track/7iKUMPi3CcDLLNF4pU1vND) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Syrener](https://open.spotify.com/album/35KHrZ7KsOC7ajWq6SNxgu) | 3:02 | 2022-05-02 |  |
+| [Syrener \- Akustisk](https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [Syrener \(Akustisk\)](https://open.spotify.com/album/51LtrpKiGF45SGGBOb8Lr4) | 3:07 | 2022-07-21 |  |
 | [Sånn som deg](https://open.spotify.com/track/7tr9mT8YVRSOAmeiw4D8GN) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E), [Eile](https://open.spotify.com/artist/0oM3SLbJ2k9V8G0RBJYtyj) | [Sånn som deg](https://open.spotify.com/album/7tDE7fHH2zaaQDXF9Uyuqo) | 2:38 | 2021-10-31 | 2021-11-07 |
 | [SØR\-AFRIKA](https://open.spotify.com/track/39sXT0fOvfoXh5x9v5SjE7) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Capow x 2G](https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a) | [SØR\-AFRIKA](https://open.spotify.com/album/5qJHYuEtwXc26GUJ6yW3aQ) | 2:05 | 2022-06-09 |  |
 | [Sørenga](https://open.spotify.com/track/4pqWL4Xde0d78P13ZcupbZ) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Arne Hurlen](https://open.spotify.com/artist/7fKekOAFKfXmr0w427ZMku), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Sørenga](https://open.spotify.com/album/3UEpM6lfUqf9LnZTdbUJH6) | 2:49 | 2021-06-13 | 2021-08-03 |
