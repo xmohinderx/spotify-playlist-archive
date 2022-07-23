@@ -4,7 +4,7 @@
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Crayon
 
-180 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+181 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 | 2021-12-27 | 2022-01-28 |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-04-14 | 2022-06-17 |
 | [Appelement Jeter](https://open.spotify.com/track/1mpAwnhNe837FCWXS0PpiD) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0) | [Appelement Jeter](https://open.spotify.com/album/2IzqMzgc7qRT9tmc6pLssv) | 3:37 | 2021-12-27 | 2022-02-18 |
-| [Ashobi](https://open.spotify.com/track/1RYxSdIlf4hLtuNS7thOUo) | [Drizilik](https://open.spotify.com/artist/0MzwQf5ScWuVeFGZhLIc2P), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Ashobi](https://open.spotify.com/album/3seySNMFlFfhy6XqT5qki5) | 3:34 | 2022-07-21 |  |
+| [Ashobi](https://open.spotify.com/track/1RYxSdIlf4hLtuNS7thOUo) | [Drizilik](https://open.spotify.com/artist/0MzwQf5ScWuVeFGZhLIc2P), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Ashobi](https://open.spotify.com/album/3seySNMFlFfhy6XqT5qki5) | 3:34 | 2022-07-21 | 2022-07-23 |
 | [attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-07 | 2022-07-01 |
 | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt) | [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu) | 2:45 | 2022-03-15 |  |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2021-12-27 | 2022-05-27 |
@@ -101,6 +101,7 @@
 | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/track/79P1sxrpp1phhTgF1gkaI8) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/album/6yXZuo4j1YCVsbuDTJdwNp) | 3:08 | 2022-03-10 | 2022-05-06 |
 | [Jolene](https://open.spotify.com/track/6B1si3DuUOmVaWQ53GijZh) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [Jolene](https://open.spotify.com/album/3S8m8x31vQLl4I4R4gqA88) | 3:15 | 2022-01-17 | 2022-02-25 |
 | [Kel bail](https://open.spotify.com/track/6g3fzFlpdd834RWaL4O56o) | [Venant Delacapitale](https://open.spotify.com/artist/2YWcCTBHHea2yUzM71Kwz1), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Kel bail](https://open.spotify.com/album/6fYcge4ihB6KfdvAGCFQyE) | 3:21 | 2022-06-23 | 2022-07-01 |
+| [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-22 |  |
 | [KING](https://open.spotify.com/track/2fovnpipNfOTsEpi210iWm) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [KING](https://open.spotify.com/album/6b6vsgLeLJTGCLBwOtLPsB) | 3:49 | 2022-02-24 | 2022-03-16 |
 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-05-12 |  |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-04-14 | 2022-05-20 |

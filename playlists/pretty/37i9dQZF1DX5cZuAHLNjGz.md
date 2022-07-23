@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Remembering Sidhu Moose Wala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,095 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,156 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 |
 | 2 | [Peaches](https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 3:09 |
 | 3 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 |
-| 4 | [Gutt Ch Paranda](https://open.spotify.com/track/4NyKTeLnNmWuwrYYUkak6d) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Sobha](https://open.spotify.com/artist/6Bc0kRRn7KUriyBrtzSV6z), [Deep Sandhu](https://open.spotify.com/artist/3zBJTgsnovcVTircnCf9tr) | [Gutt Ch Paranda](https://open.spotify.com/album/6Ef3ZkklKfluDkj1mBv6Li) | 3:49 |
-| 5 | [Red Chilli](https://open.spotify.com/track/2ZxdwRUfd0LiAshQclfQZb) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:32 |
-| 6 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 |
+| 4 | [Red Chilli](https://open.spotify.com/track/2ZxdwRUfd0LiAshQclfQZb) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:32 |
+| 5 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 |
+| 6 | [Breakan \(feat\. Simar Kaur\)](https://open.spotify.com/track/2iMFg8rVPNZGYv0sXL9a1D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Versatile](https://open.spotify.com/album/4XJOG0BM4Lr0XfrscVLu9X) | 2:51 |
 | 7 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 |
 | 8 | [So High](https://open.spotify.com/track/1W1dS4VnIrYnllQJ3CAcZy) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [So High](https://open.spotify.com/album/1p2HziuxqItJYONt8krJbF) | 3:38 |
 | 9 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Navi Navi Yaari](https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:35 |
 | 101 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 |
 
-Snapshot ID: `MTY1ODM4NzU5NywwMDAwMDFjNzAwMDAwMTgyMWY5YTg4YzYwMDAwMDE4MTEwNTIxMDU0`
+Snapshot ID: `MTY1ODUxNzkzMywwMDAwMDFjODAwMDAwMTgyMjc1ZjRkZDIwMDAwMDE4MTEwNTIxMDU0`

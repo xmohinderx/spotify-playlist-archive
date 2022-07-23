@@ -4,7 +4,7 @@
 
 > Big bands, big sounds.
 
-56 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/3540LvahXVa3DfJ3k1sJDB)
+57 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/3540LvahXVa3DfJ3k1sJDB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Ain't That A Kick In The Head \- 1997 \- Remastered](https://open.spotify.com/track/7coH7f2P7SiLxmo95b5QHX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq) | 2:24 | 2020-03-06 |  |
 | [Are You Havin' Any Fun \-](https://open.spotify.com/track/5ylaXoN52Vj19JWE61imce) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris](https://open.spotify.com/album/1FJRNxuYqVvcqVpStGRIXQ) | 2:45 | 2020-03-06 |  |
 | [Begin The Beguine](https://open.spotify.com/track/1H13WKDhOgwVeWzveBPTh0) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [The Essential Artie Shaw](https://open.spotify.com/album/22j6P1Uwky141vdWj3ozKf) | 3:14 | 2020-03-06 | 2022-07-22 |
-| [Begin the Beguine](https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Begin The Beguine](https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h) | 3:16 | 2020-03-06 |  |
+| [Begin the Beguine](https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Begin The Beguine](https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h) | 3:16 | 2020-03-06 | 2022-07-23 |
 | [Chattanooga Choo Choo](https://open.spotify.com/track/7a5VuzvBrtbqYT7kNlQlFd) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:26 | 2020-03-06 |  |
 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 | 2020-03-06 |  |
 | [Echelon](https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC) | [Grace Fox](https://open.spotify.com/artist/4KElbiDxExy2tMzRY4Za4h), [Jade Elliott](https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s) | [Eleven O' Seven](https://open.spotify.com/album/22QxiGLLD9fnMWupEw9x4v) | 9:25 | 2022-03-11 |  |
@@ -21,6 +21,7 @@
 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 | 2020-03-06 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Hawkins C\. All Star Jam Band](https://open.spotify.com/artist/2a3WvnK2EAxYYXyJZ8OxVz) | [Djangologie Vol.4 / 1937](https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI) | 2:46 | 2020-03-06 |  |
 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 | 2020-03-06 |  |
+| [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 | 2022-07-22 |  |
 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 | 2020-03-06 |  |
 | [I Didn´t Tell Them Why](https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq) | [Andrea Motis](https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Didn´t Tell Them Why](https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7) | 4:57 | 2021-10-08 |  |
 | [I Got Rhythm](https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA) | [Jimmy Dorsey & His Orchestra](https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg) | [Contrasts](https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf) | 3:05 | 2020-03-06 |  |

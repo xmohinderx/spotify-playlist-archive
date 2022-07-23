@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [About Time](https://open.spotify.com/track/5K8ESonoHA1Lq9MBpMiv59) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:52 | 2022-04-09 | 2022-06-21 |
-| [Aching for More](https://open.spotify.com/track/2xw0QgtPR8eqkizBgLNOX6) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 4:07 | 2022-04-05 | 2022-07-14 |
+| [Aching for More](https://open.spotify.com/track/2xw0QgtPR8eqkizBgLNOX6) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 4:07 | 2022-04-05 |  |
 | [All You Had To Do Was Stay](https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 3:30 | 2022-01-11 |  |
 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 | 2022-01-11 |  |
 | [Answering Bell](https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:05 | 2022-01-11 |  |
@@ -18,7 +18,7 @@
 | [Avalanche](https://open.spotify.com/track/5R1vxqzPxyA31YODI5nRIR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:06 | 2022-01-16 | 2022-05-17 |
 | [Baby I Love You](https://open.spotify.com/track/1npZLnadIut8UfjsqYSOBh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Baby I Love You](https://open.spotify.com/album/0jeQl3GruPQyRKe0h4wU8a) | 3:24 | 2022-01-11 | 2022-03-31 |
 | [Bad Blood](https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:55 | 2022-01-11 |  |
-| [Bartering Lines](https://open.spotify.com/track/0bkV9Clv4lnhpVRKST2Iwp) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:59 | 2022-01-15 |  |
+| [Bartering Lines](https://open.spotify.com/track/0bkV9Clv4lnhpVRKST2Iwp) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:59 | 2022-01-15 | 2022-07-23 |
 | [Big Colors](https://open.spotify.com/track/64QHj3KzbmnvZBGEuFV9IS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:07 | 2022-01-11 |  |
 | [Blank Space](https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:21 | 2022-01-11 |  |
 | [Blue Sky Blues](https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [29](https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X) | 5:18 | 2022-01-12 | 2022-07-20 |

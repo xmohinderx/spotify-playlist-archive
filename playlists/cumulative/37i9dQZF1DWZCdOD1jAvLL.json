@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 168200,
       "name": "079",
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 175078,
       "name": "1F2F",
       "url": "https://open.spotify.com/track/77sxAECGDQdMvNa82MVHGt"
@@ -205,10 +205,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 220800,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
+    },
+    {
+      "album": {
+        "name": "All We Needed",
+        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241600,
+      "name": "All We Needed",
+      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
     },
     {
       "album": {
@@ -745,7 +763,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 183750,
       "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
       "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
@@ -767,6 +785,28 @@
       "duration_ms": 183000,
       "name": "Child",
       "url": "https://open.spotify.com/track/4b58UyTZK1qqkDAUVF0JN1"
+    },
+    {
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "Children - Radio Edit",
+      "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
     },
     {
       "album": {
@@ -952,6 +992,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/5h8falyV4Z3YB590oaCSNV"
+      },
+      "artists": [
+        {
+          "name": "Brocofski",
+          "url": "https://open.spotify.com/artist/0ZDmmQEgQZ0AVY2OQ1f0LV"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/2AweUWqpmHHFgXDPGPiB95"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Forget My Love (John Summit Remix)",
         "url": "https://open.spotify.com/album/3RcvNQx32vL4sYrA04bj1S"
       },
@@ -1091,6 +1149,28 @@
       "duration_ms": 176761,
       "name": "Eden",
       "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
+    },
+    {
+      "album": {
+        "name": "El Beso (feat. Mathieu Ruz)",
+        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211547,
+      "name": "El Beso (feat. Mathieu Ruz)",
+      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
     },
     {
       "album": {
@@ -1291,7 +1371,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 237600,
       "name": "fisticuffs (feat. tiLLie)",
       "url": "https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL"
@@ -1666,6 +1746,32 @@
     },
     {
       "album": {
+        "name": "Hey Hey (Heard You Say)",
+        "url": "https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Hey Hey (Heard You Say)",
+      "url": "https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS"
+    },
+    {
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/0SzzJuc02s0uKGsS89eqF9"
       },
@@ -1703,6 +1809,24 @@
       "duration_ms": 202857,
       "name": "History (feat. Maggie Szabo)",
       "url": "https://open.spotify.com/track/3VXCwR1wRVt4sHyDtOvFgI"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5S0RxgMhMxzza0aOQt8d70"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON"
     },
     {
       "album": {
@@ -2013,6 +2137,32 @@
       "duration_ms": 197977,
       "name": "Just Feels Tight",
       "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
+    },
+    {
+      "album": {
+        "name": "Kerching",
+        "url": "https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Kerching",
+      "url": "https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y"
     },
     {
       "album": {
@@ -2443,7 +2593,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 196000,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI"
@@ -2599,7 +2749,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 170833,
       "name": "Money",
       "url": "https://open.spotify.com/track/2AhKFNKiRxk2NZNF47bFjn"
@@ -2673,6 +2823,32 @@
       "duration_ms": 106875,
       "name": "Move To The Beat Like",
       "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
+    },
+    {
+      "album": {
+        "name": "My Feelings For You (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224515,
+      "name": "My Feelings For You - Mark Knight Remix",
+      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
     },
     {
       "album": {
@@ -3007,7 +3183,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 160014,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/7DXHNbMrvgJuFUtEleruSn"
@@ -3179,7 +3355,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 155624,
       "name": "Pathway",
       "url": "https://open.spotify.com/track/0au2fnq9tGdAGyNWuthEew"
@@ -3615,6 +3791,28 @@
       "duration_ms": 141342,
       "name": "Safe With Me (feat. Drew Love) - Damon Sharpe Remix",
       "url": "https://open.spotify.com/track/5Rk566CzADj0SeEcgoxRFK"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226333,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
     },
     {
       "album": {
@@ -4056,6 +4254,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/1tWIe3X9NYn4cfjc8PCujy"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1sFInK6pKCVa9Tx5Vc3TMo"
+    },
+    {
+      "album": {
         "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
         "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
       },
@@ -4325,7 +4541,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 189523,
       "name": "The Beat Goes",
       "url": "https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr"

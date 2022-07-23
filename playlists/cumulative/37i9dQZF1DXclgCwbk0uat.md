@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Bizarrap & Quevedo.
 
-83 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
+84 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Locura y Maldad](https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Locura y Maldad](https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j) | 3:20 | 2022-04-14 | 2022-05-07 |
 | [Los Malvekes](https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7) | 3:38 | 2022-04-14 | 2022-07-15 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-04-14 |  |
+| [Marisola](https://open.spotify.com/track/2pR6bipXfJySBhje19SW02) | [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Marisola](https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp) | 3:04 | 2022-07-22 |  |
 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 | 2022-04-14 |  |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-06-09 |  |
 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 | 2022-04-14 | 2022-05-06 |
@@ -90,6 +91,6 @@
 | [Waka Waka](https://open.spotify.com/track/0PKHOIZYG7tszv17tgIZlZ) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Waka Waka](https://open.spotify.com/album/2RhraG6BolsoZb7bw8WuK8) | 3:00 | 2022-04-14 | 2022-04-21 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-04-14 |  |
 | [Yo Quiero](https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Yo Quiero](https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528) | 3:29 | 2022-05-13 |  |
-| [¿Qué Nos Pasó?](https://open.spotify.com/track/7k3qWn8D43a5ISa3x8lJux) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [¿Qué Nos Pasó?](https://open.spotify.com/album/4q4kJrDt0OcTP2of4YUuHR) | 4:05 | 2022-06-02 |  |
+| [¿Qué Nos Pasó?](https://open.spotify.com/track/7k3qWn8D43a5ISa3x8lJux) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [¿Qué Nos Pasó?](https://open.spotify.com/album/4q4kJrDt0OcTP2of4YUuHR) | 4:05 | 2022-06-02 | 2022-07-23 |
 
 \*This playlist was first scraped on 2022-04-16. Prior content cannot be recovered.

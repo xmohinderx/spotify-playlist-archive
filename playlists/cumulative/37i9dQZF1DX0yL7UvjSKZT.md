@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Mama's Broke
 
-156 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+158 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bobcat On the Banjo](https://open.spotify.com/track/1tuJyZqZy0P34uPcwVFoo7) | [Kyle Tuttle](https://open.spotify.com/artist/4TA1bJ58eUSl5Qn8DP1L86) | [Bobcat](https://open.spotify.com/album/4JGaZ0yry5gocDPGJjlZcy) | 2:48 | 2021-10-01 |  |
 | [Brighter Side](https://open.spotify.com/track/1DhfVYEH0hco7SKMVPYe7X) | [The Brothers Reed](https://open.spotify.com/artist/3vYzsWVBNoIKJZuM1F4VLz) | [The Wheres and the Whatnots](https://open.spotify.com/album/3ehFtxicfQfb1k5YVaJOoX) | 3:40 | 2022-05-13 |  |
 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 | 2022-01-21 |  |
+| [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 | 2022-07-22 |  |
 | [Buster](https://open.spotify.com/track/3JuZ7dCqgOyqlLQDVAHzGO) | [The Unseen Strangers](https://open.spotify.com/artist/4O4HVTZ4M1Lu75se3koB9Y) | [Stranger Places](https://open.spotify.com/album/7GAkV3WjOY16QsH2bPBdBp) | 3:29 | 2021-10-01 |  |
 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 | 2022-01-21 |  |
 | [Canary](https://open.spotify.com/track/78Qbk2eUKvyyoAbJwCsc0m) | [Honeysuckle](https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f) | [Honeysuckle](https://open.spotify.com/album/3MAQdDkPqH2EWgAkDMyZyI) | 4:28 | 2021-10-01 |  |
@@ -146,6 +147,7 @@
 | [Unhurried](https://open.spotify.com/track/0uGY93shNywFnDavxcuj53) | [Rachel Stevener](https://open.spotify.com/artist/6Pes4qkdbvkqjDpGv1W1zs) | [Unhurried](https://open.spotify.com/album/3NNNcR5XuIoETEEdvOzdRC) | 3:59 | 2021-12-03 |  |
 | [Until Im Grey](https://open.spotify.com/track/3IdtVVOVZZMuVeDuMmfdxn) | [Brett Gordon Lloyd](https://open.spotify.com/artist/45GbybEP5hqvpdVZLAzCpK) | [Until Im Grey](https://open.spotify.com/album/7DQZcGwFxkS1WmKI0H1NgW) | 4:32 | 2022-04-01 |  |
 | [Untitled \#4](https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Third Gleam](https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2) | 4:04 | 2021-10-01 |  |
+| [Updraft](https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Updraft](https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ) | 5:56 | 2022-07-22 |  |
 | [Valley Forge](https://open.spotify.com/track/0YdGjKALJmizKhcWEmM3Cp) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Sorrow Bound](https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj) | 2:05 | 2021-10-01 |  |
 | [Wagon Wheel](https://open.spotify.com/track/359krpyCKcFF8SFvqWES9L) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/0ogkqQa8hPAtL02IqwJ36x) | 3:52 | 2021-10-01 | 2022-01-22 |
 | [West of Houston \(Bonus Track\)](https://open.spotify.com/track/4x43n4J7FLEz92AYNKsEgi) | [Gavin Powell](https://open.spotify.com/artist/6PXQ7OwfxHb3IxWAjMMi3k) | [Jacksonville Sunrise](https://open.spotify.com/album/5EnUVtwTiJmNlwPRF6Gml3) | 3:29 | 2021-10-01 |  |

@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-124 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
+125 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Rather Be](https://open.spotify.com/track/0Z0gcy8fZUhsyPCgrPJwHo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/5og5ncNgq9dH4JBauZyCBs) | 4:07 | 2019-10-13 |  |
 | [Ring of Fire \- Acoustic](https://open.spotify.com/track/0MwVyvX8zBCFzLxSD0typJ) | [Retreat](https://open.spotify.com/artist/5j5G6aCjRNizjNQKjf2PTB) | [Ring of Fire \(Acoustic\)](https://open.spotify.com/album/5C8Z4XQ2mBq5WIlOeXlN1v) | 3:05 | 2019-11-16 |  |
 | [Rise Up \- Acoustic](https://open.spotify.com/track/1qmCoha1HrkCVInVnfhpPC) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Rise Up \(Acoustic\)](https://open.spotify.com/album/1QC3l2jIGCX0FeIXZgIgLW) | 3:16 | 2021-09-24 |  |
+| [Running Up That Hill \(A Deal With God\) \- Acoustic](https://open.spotify.com/track/0eMIhZyrQ1SqPR89AJ3oOx) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Running Up That Hill \(A Deal With God\) \[Acoustic\]](https://open.spotify.com/album/6EvmJCsRyjv2XvOxhCoGKG) | 2:47 | 2022-07-22 |  |
 | [Say Something \- Live from Spotify NYC](https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Spotify Sessions](https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t) | 4:03 | 2019-10-13 |  |
 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 | 2019-10-13 |  |
 | [She's Electric \- Acoustic](https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [She's Electric \(Acoustic\)](https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E) | 3:36 | 2021-04-08 |  |
@@ -108,7 +109,7 @@
 | [Starving \- Acoustic](https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16) | 3:01 | 2019-10-13 |  |
 | [Stuck In A Moment You Can't Get Out Of \- Acoustic Version / Remastered 2020](https://open.spotify.com/track/4qxXipoHUokPaPX1YWs47q) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can’t Leave Behind](https://open.spotify.com/album/42zp9yVG4N0SpcejLPoko5) | 3:44 | 2020-10-01 |  |
 | [Sunsets For Somebody Else](https://open.spotify.com/track/0GyNfI3eKLWQJ5QwXo4WL6) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sunsets For Somebody Else](https://open.spotify.com/album/0QI7USp1Y4xDdA3xytReUq) | 3:30 | 2019-10-13 |  |
-| [Sweet Child O' Mine \- Acoustic](https://open.spotify.com/track/1VZmEl9wmuteCBAqkyFttF) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Child O' Mine \(Acoustic\)](https://open.spotify.com/album/75TC3uieZuC99RUFzZazo2) | 2:58 | 2020-08-08 |  |
+| [Sweet Child O' Mine \- Acoustic](https://open.spotify.com/track/1VZmEl9wmuteCBAqkyFttF) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Child O' Mine \(Acoustic\)](https://open.spotify.com/album/75TC3uieZuC99RUFzZazo2) | 2:58 | 2020-08-08 | 2022-07-23 |
 | [Symphony \(feat\. Zara Larsson\) \- Acoustic Version](https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\) \[Acoustic\]](https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0) | 3:36 | 2019-10-13 |  |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/6g2Fiqf2HGj1oag2wbeWCI) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/26FVlm5oL62SgHxc0MZmcE) | 3:26 | 2021-12-12 | 2022-06-18 |
 | [The Best \- Acoustic](https://open.spotify.com/track/7MkQ4oVMEsF3boi4hsajDG) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [The Best \(Acoustic\)](https://open.spotify.com/album/0zydjTR0i385HRexojYc5s) | 3:38 | 2020-08-08 |  |

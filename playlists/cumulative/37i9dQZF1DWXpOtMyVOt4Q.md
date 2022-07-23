@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Beautiful Mine](https://open.spotify.com/track/69W7GtjzZY4ljBPnS1UPfy) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/1la4Ol737XPo4bZJMqQS57) | 5:29 | 2019-12-16 | 2022-07-22 |
+| [A Beautiful Mine](https://open.spotify.com/track/69W7GtjzZY4ljBPnS1UPfy) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/1la4Ol737XPo4bZJMqQS57) | 5:29 | 2019-12-16 |  |
 | [A Drifting Up](https://open.spotify.com/track/2mEGWzbwnYg8WTlGQGR05r) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 6:27 | 2019-12-16 |  |
 | [A Song That Will Help You Remember To Forget](https://open.spotify.com/track/3IUhMLJM4Y0fkEFnUAQZVI) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound Of Lights When Dim](https://open.spotify.com/album/0QW4mcRROn00Kc1sEUaZp1) | 6:14 | 2019-12-16 |  |
 | [Aminals](https://open.spotify.com/track/1depKpsqGCvr8wtjFFaFoO) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/66Pk1ZQyHpMjF2Fm7qjqQY) | 3:18 | 2019-12-16 |  |
@@ -32,7 +32,7 @@
 | [Greenland](https://open.spotify.com/track/2SPTGg9SC5MT1FwNX4IYfx) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:11 | 2019-12-16 |  |
 | [Hours](https://open.spotify.com/track/7EE7jbv7Dv8ZkyWBlKhPXX) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/3I3PmRvn5iFY8i6zzvEcci) | 5:44 | 2019-12-16 |  |
 | [I Can Almost See You](https://open.spotify.com/track/0jVy0Y3QEtUKsrIHAZuR45) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice...Trying to Stop an Echo](https://open.spotify.com/album/1xGZ70dEsN8UyiXvcXWwHI) | 4:13 | 2019-12-16 |  |
-| [In The Twilight](https://open.spotify.com/track/5wfgLASWmbbLjNkbXsbs8t) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [The Cold in You](https://open.spotify.com/album/0vNplpx6d7yYXn4k6coarh) | 6:26 | 2019-12-16 |  |
+| [In The Twilight](https://open.spotify.com/track/5wfgLASWmbbLjNkbXsbs8t) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [The Cold in You](https://open.spotify.com/album/0vNplpx6d7yYXn4k6coarh) | 6:26 | 2019-12-16 | 2022-07-23 |
 | [It Was Warmer Then](https://open.spotify.com/track/0fJKwnxypaBAMEGEfCgEhQ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Yume](https://open.spotify.com/album/34CpMn9yU8iDcXDaSkrqXu) | 5:18 | 2019-12-16 |  |
 | [L](https://open.spotify.com/track/4yX50PMifhGzVEo1wv3guc) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW) | 4:37 | 2019-12-16 |  |
 | [Marijuana](https://open.spotify.com/track/1RiuVQWyC7g7tL3niYzHKP) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Sparks EP](https://open.spotify.com/album/2yt27CaN3hjii0G1aWNBA7) | 3:01 | 2019-12-16 |  |

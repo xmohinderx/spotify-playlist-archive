@@ -244,6 +244,24 @@
     },
     {
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/53NLq6SSyKSkLBdWkoYrE7"
+    },
+    {
+      "album": {
         "name": "D.M.B.",
         "url": "https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa"
       },
@@ -369,7 +387,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
@@ -443,6 +461,52 @@
       "duration_ms": 131909,
       "name": "Freedom of Speech (with J. Cole)",
       "url": "https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy"
+    },
+    {
+      "album": {
+        "name": "Gangsta Art",
+        "url": "https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Lehla Samia",
+          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
+        },
+        {
+          "name": "Blac Youngsta",
+          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298410,
+      "name": "Gangsta Art (Yo Gotti, Moneybagg Yo feat. 42 Dugg, EST Gee, Mozzy, Lehla Samia, Blac Youngsta)",
+      "url": "https://open.spotify.com/track/63u4taM8CTklMQhrcV3via"
     },
     {
       "album": {
@@ -825,10 +889,32 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 216707,
       "name": "Persuasive",
       "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+    },
+    {
+      "album": {
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
       "album": {

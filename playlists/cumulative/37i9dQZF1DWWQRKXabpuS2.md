@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: عايض
 
-130 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+131 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Sadifni](https://open.spotify.com/track/2TeCJAG93aPzLza6jrcKRJ) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Sadifni](https://open.spotify.com/album/4ZYHCcsuKD16UhftYX4gaT) | 4:20 | 2021-12-23 | 2022-02-25 |
 | [Sameet Ashyaa](https://open.spotify.com/track/7eGawwsI0Q5h6OKuU73Ozq) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Sameet Ashyaa](https://open.spotify.com/album/7qZ1IHHWxO103OVGTKuQll) | 4:52 | 2022-06-02 |  |
 | [Sanhat Al Batal](https://open.spotify.com/track/0CnIBJh5OQSLLxCEvRom5s) | [Tareq Al Harbi](https://open.spotify.com/artist/5sc0loMqCN6R1ap06baL2K) | [Sanhat Al Batal](https://open.spotify.com/album/3zvLLHOURRbEsXWqudBwnW) | 3:15 | 2022-01-21 | 2022-06-15 |
+| [Sara Barg](https://open.spotify.com/track/611PXXtuU51ToWk55udzWo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sara Barg](https://open.spotify.com/album/38JLjvDN9Vmdv3hlf6KA0O) | 4:07 | 2022-07-22 |  |
 | [Sheikh Al Ramak](https://open.spotify.com/track/75bIkFeMymOUWLhtLRg5gX) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sheikh Al Ramak](https://open.spotify.com/album/2kgERNQ27bC262mXWGmyaQ) | 4:26 | 2022-04-01 |  |
 | [Shoor Al Faqd](https://open.spotify.com/track/1iC7AOPexbawa8ihSwQMm7) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Shoor Al Faqd](https://open.spotify.com/album/6pcdhmvP3x2Obffu2899xu) | 4:52 | 2021-12-23 | 2022-03-18 |
 | [Sowarna](https://open.spotify.com/track/5aMf5XddEvzeC1m88J6x4v) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Sowarna](https://open.spotify.com/album/3K3l4mS2yhPMaKkNbsAgpn) | 3:34 | 2022-01-20 | 2022-07-07 |

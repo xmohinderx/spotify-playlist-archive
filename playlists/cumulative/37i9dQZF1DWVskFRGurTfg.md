@@ -2,9 +2,9 @@
 
 ### [Hits Urbanos](https://open.spotify.com/playlist/37i9dQZF1DWVskFRGurTfg)
 
-> Éxitos urbanos de Latinoamérica: Foto: Tiago PZK & Myke Towers.
+> Éxitos urbanos de Latinoamérica: Foto: Miky Woodz.
 
-267 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
+268 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Dime Tú](https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Dime Tú](https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx) | 3:45 | 2022-03-11 |  |
 | [Dos Opciones](https://open.spotify.com/track/3qIpCIYX31M7RWjkIGaX5l) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Dos Opciones](https://open.spotify.com/album/6XgDscV3NB6BbYqUkvVixf) | 3:44 | 2021-12-17 | 2022-02-26 |
 | [Dos Problemas \(feat\. Big Soto\) \- Remix](https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Dos Problemas \(feat\. Big Soto\) \[Remix\]](https://open.spotify.com/album/6J5v3KTP6mYNd02doPo4mM) | 4:03 | 2021-12-17 | 2022-01-22 |
+| [Dámelo](https://open.spotify.com/track/6OyOEjszTYpiRlnH68J3Nu) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:03 | 2022-07-22 |  |
 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 | 2021-12-17 | 2022-02-15 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-06-02 |  |
 | [Ela Já Tá Louca](https://open.spotify.com/track/4aUnmZzTqfrETKCmE6zvaw) | [Anderson Neiff](https://open.spotify.com/artist/0DLzO3qfGGEJyXwLflcgXK), [John Johnis](https://open.spotify.com/artist/2s3XhkYhy3bag3w84FBJdv) | [Ela Já Tá Louca](https://open.spotify.com/album/7LzEHTCI3xc4gf8Z1QrANi) | 2:27 | 2022-02-04 | 2022-04-05 |
@@ -189,7 +190,7 @@
 | [Otro](https://open.spotify.com/track/2VZmXemWIKoKxJjbA2WHJE) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Otro](https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp) | 3:28 | 2022-02-04 | 2022-03-18 |
 | [Pa Co](https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Pa Co](https://open.spotify.com/album/3ZQtUvAOU2mPqkIcYty9GI) | 3:40 | 2022-03-11 |  |
 | [Pa Que Guaye](https://open.spotify.com/track/3eS9dAZWceGcFJutyCfuwm) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Pa Que Guaye](https://open.spotify.com/album/0pMY812uIJr7yn51lcX5K6) | 2:48 | 2021-12-17 | 2022-01-29 |
-| [PALOMA](https://open.spotify.com/track/3yg6SabdfUu2cApTfZS991) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [PALOMA](https://open.spotify.com/album/5u9yLF7HfBzZCu2uOmqGWl) | 3:13 | 2022-05-20 |  |
+| [PALOMA](https://open.spotify.com/track/3yg6SabdfUu2cApTfZS991) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [PALOMA](https://open.spotify.com/album/5u9yLF7HfBzZCu2uOmqGWl) | 3:13 | 2022-05-20 | 2022-07-23 |
 | [Panamera](https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Panamera](https://open.spotify.com/album/587dbQNUDsGAL4xMkNScm6) | 3:55 | 2022-04-29 |  |
 | [Pantano](https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Pantano](https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad) | 3:20 | 2022-04-01 |  |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-03-22 |  |

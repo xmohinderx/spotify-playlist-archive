@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Nothing but the best modern country music\. Cover: Walker Hayes
+> Nothing but the best modern country music\. Cover: Jon Pardi
 
-260 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+263 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 | 2021-12-31 | 2022-03-05 |
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-12-31 | 2022-01-22 |
 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 | 2022-01-21 | 2022-07-16 |
-| [Feel Good](https://open.spotify.com/track/4uYDlFubKq2MFdosNK0Q04) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good](https://open.spotify.com/album/6EbuNiak8igHrZhvm8dmzA) | 2:49 | 2022-04-29 |  |
+| [Feel Good](https://open.spotify.com/track/4uYDlFubKq2MFdosNK0Q04) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good](https://open.spotify.com/album/6EbuNiak8igHrZhvm8dmzA) | 2:49 | 2022-04-29 | 2022-07-23 |
 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 | 2022-02-18 |  |
 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 | 2022-06-17 |  |
 | [Fish In The Sea](https://open.spotify.com/track/7do6jSnRFiYyjsMWsWd09D) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:49 | 2022-07-01 |  |
@@ -129,7 +129,7 @@
 | [Just About Over You](https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You](https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma) | 2:59 | 2021-12-31 | 2022-02-12 |
 | [Keys To The Country](https://open.spotify.com/track/0GAHCJXiCkvXFa42M6Hp1t) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [RVSHVD](https://open.spotify.com/artist/0FGMX9hl8ori323qECqqGq), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Keys To The Country](https://open.spotify.com/album/03uxY62nf28m1AQLgYWmzT) | 3:12 | 2021-12-31 | 2022-01-08 |
 | [Knock Off](https://open.spotify.com/track/4OFyzhB3z7NI9LHk1imE5E) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Knock Off](https://open.spotify.com/album/3lGl8LGBSvrLvv89wFpy6y) | 3:04 | 2022-07-08 |  |
-| [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-02-18 |  |
+| [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-02-18 | 2022-07-23 |
 | [Learn From It](https://open.spotify.com/track/2CqfyB7PQznYxHNSmmF6lE) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Learn From It](https://open.spotify.com/album/7vFiXBUWlapCxGcKni9vh0) | 2:59 | 2021-12-31 | 2022-01-15 |
 | [Learn From It](https://open.spotify.com/track/4mWmGRifrQqHwZkaZyjs68) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Didn't Go Too Far](https://open.spotify.com/album/1NfLMs1PDvwnnKR3ms4cvj) | 2:59 | 2022-01-14 | 2022-06-18 |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-04 | 2022-05-20 |
@@ -147,10 +147,12 @@
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-12-31 | 2022-02-19 |
 | [Makes You Pretty](https://open.spotify.com/track/7qzFb2YNCtG79TChMU9sS0) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Makes You Pretty](https://open.spotify.com/album/2uLBmtWsVmZrImwGMwf1bV) | 2:49 | 2022-01-14 | 2022-02-19 |
 | [Maybe a Little](https://open.spotify.com/track/2uZICWcGYRI81GxTV8IwZB) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Maybe a Little](https://open.spotify.com/album/7BFPY02vKVL8gkKp7xyClx) | 2:44 | 2022-03-04 | 2022-04-29 |
+| [Me On You](https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Me On You](https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm) | 2:47 | 2022-07-22 |  |
 | [Me Without You](https://open.spotify.com/track/5Cmw6arH1nUgdBDt36SVXp) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Me Without You](https://open.spotify.com/album/57YVdKRnwA8cOzUQCKJrwo) | 3:24 | 2021-12-31 | 2022-01-12 |
 | [Memory](https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Memory](https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk) | 2:33 | 2021-12-31 | 2022-01-17 |
 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 | 2021-12-31 | 2022-04-02 |
 | [Might As Well Be Me](https://open.spotify.com/track/5r03p52Booex9NHQfsI11W) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Might As Well Be Me](https://open.spotify.com/album/36HUgtKLfvkUFPfsfTbBsV) | 3:15 | 2021-12-31 | 2022-03-01 |
+| [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 | 2022-07-22 |  |
 | [My Bar](https://open.spotify.com/track/4puniyhnAcQbyTcIOQVJhE) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 3:13 | 2022-02-11 | 2022-03-12 |
 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 | 2021-12-31 |  |
 | [My Left Hand](https://open.spotify.com/track/4xvjIj6hR1HNv5G0ooi0CG) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand](https://open.spotify.com/album/4auLkhQRuYKdmz2EBDvPDH) | 3:07 | 2022-05-20 |  |
@@ -237,7 +239,7 @@
 | [Up](https://open.spotify.com/track/1GOMHxclGDvkcODCfYuuje) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:03 | 2022-03-04 | 2022-07-02 |
 | [Villain in Me](https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Villain in Me](https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY) | 3:37 | 2021-12-31 | 2022-01-15 |
 | [Want That Back](https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Want That Back](https://open.spotify.com/album/6AOh6aXLoWxFlbfh9xPvZ2) | 3:13 | 2022-01-14 | 2022-03-05 |
-| [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 | 2022-05-13 |  |
+| [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 | 2022-05-13 | 2022-07-23 |
 | [Wastin' Whiskey](https://open.spotify.com/track/5bQobcpIOEg2Abn5Ai5G3Y) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Wastin' Whiskey](https://open.spotify.com/album/2Pfsg4Z546ZfAdwrdpqrcA) | 3:10 | 2022-03-25 | 2022-06-18 |
 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-06-24 |  |
 | [Waves](https://open.spotify.com/track/027269uzraETHuoG6aMs6a) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:48 | 2021-12-31 | 2022-03-05 |
@@ -267,6 +269,7 @@
 | [Y'all Life](https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Y'all Life](https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y) | 3:12 | 2022-07-15 |  |
 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-06-17 |  |
 | [You Didn’t](https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:45 | 2022-01-21 |  |
+| [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2022-07-22 |  |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2021-12-31 | 2022-03-05 |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

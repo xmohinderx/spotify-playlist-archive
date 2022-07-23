@@ -1128,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/6v2B9nnoNASOyxxM9RW339"
+      },
+      "artists": [
+        {
+          "name": "Ghostrifter Official",
+          "url": "https://open.spotify.com/artist/1mIePRs1ixMW0gTaTSbX2p"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/6MyvaNGQdY1j36y7yRWpUn"
+    },
+    {
+      "album": {
         "name": "City Park",
         "url": "https://open.spotify.com/album/6f5JLzj6RhOYa15xlLAlFX"
       },

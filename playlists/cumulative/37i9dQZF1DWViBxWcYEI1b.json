@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: BANNERS",
+  "description": "For those with a taste for both the new and the classic. Cover: Benson Boone",
   "name": "Contemporary Blend",
   "published_playlist_ids": [
     "3C1K5LpRz1NNeHvy2kRwbA"
@@ -372,6 +372,24 @@
     },
     {
       "album": {
+        "name": "Back in Bed",
+        "url": "https://open.spotify.com/album/47bzBG5kB4H9ohJJwbC3dy"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158847,
+      "name": "Back in Bed",
+      "url": "https://open.spotify.com/track/5ukj5LamvwlSh0cYAkQ5by"
+    },
+    {
+      "album": {
         "name": "Background Music",
         "url": "https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi"
       },
@@ -543,6 +561,24 @@
       "duration_ms": 240716,
       "name": "Best Of Me (feat. Dallas Smith)",
       "url": "https://open.spotify.com/track/0ENxjYOmcON3vYqFkAWVWQ"
+    },
+    {
+      "album": {
+        "name": "Better Alone",
+        "url": "https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209895,
+      "name": "Better Alone",
+      "url": "https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun"
     },
     {
       "album": {
@@ -759,7 +795,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 208691,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV"
@@ -849,7 +885,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 202613,
       "name": "But I Do",
       "url": "https://open.spotify.com/track/2k9BkfBzW1lY8mIpQRMost"
@@ -871,7 +907,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 191250,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
@@ -897,6 +933,24 @@
       "duration_ms": 208626,
       "name": "Can't Give It Up (feat. Tyler Shaw)",
       "url": "https://open.spotify.com/track/4SWV9mKtdhjbYotmm5ELCT"
+    },
+    {
+      "album": {
+        "name": "Can't Give Up",
+        "url": "https://open.spotify.com/album/3ToJTvBVx2Zg8VU0UELM52"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163628,
+      "name": "Can't Give Up",
+      "url": "https://open.spotify.com/track/24bUSn4O0HA8c3Y2mi5NqS"
     },
     {
       "album": {
@@ -929,10 +983,32 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 218306,
       "name": "Catalonia",
       "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
+    },
+    {
+      "album": {
+        "name": "CHANT (feat. Tones And I)",
+        "url": "https://open.spotify.com/album/4z2ItYJOliymox1iXbu9gs"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270635,
+      "name": "CHANT (feat. Tones And I)",
+      "url": "https://open.spotify.com/track/5BgeAX4HuZdcuCqmu4pIMM"
     },
     {
       "album": {
@@ -1125,6 +1201,24 @@
       "duration_ms": 184647,
       "name": "Counterfeit Love",
       "url": "https://open.spotify.com/track/0Mqt5UD2SCi8Qd6pvaJupU"
+    },
+    {
+      "album": {
+        "name": "Cowboy Stay",
+        "url": "https://open.spotify.com/album/2NxdmeKvsjFcUVEevFuFs5"
+      },
+      "artists": [
+        {
+          "name": "Dustin Bird",
+          "url": "https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158146,
+      "name": "Cowboy Stay",
+      "url": "https://open.spotify.com/track/4ektwEWFmKsJ5rULHKJfPu"
     },
     {
       "album": {
@@ -1773,7 +1867,7 @@
       },
       "artists": [
         {
-          "name": "Lauren Spencer-Smith",
+          "name": "Lauren Spencer Smith",
           "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
@@ -1783,6 +1877,28 @@
       "duration_ms": 157373,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
+    },
+    {
+      "album": {
+        "name": "Flowers Need Rain (Acoustic)",
+        "url": "https://open.spotify.com/album/5pLSaocUXLhgsCiik83tQP"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225899,
+      "name": "Flowers Need Rain - Acoustic",
+      "url": "https://open.spotify.com/track/15sxJRnKRkra0qn2rFwiqu"
     },
     {
       "album": {
@@ -2435,7 +2551,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 166736,
       "name": "Hold On To Your Love",
       "url": "https://open.spotify.com/track/3bpWkFzDtYXEUiyw08e60N"
@@ -2511,7 +2627,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 181178,
       "name": "Hopeless Romantic",
       "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
@@ -2565,7 +2681,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 176818,
       "name": "Hurting Way More Than It Should",
       "url": "https://open.spotify.com/track/704e7fHX0ultxmaKBiVftV"
@@ -2731,6 +2847,24 @@
       "duration_ms": 201306,
       "name": "I Lost Myself In Loving You",
       "url": "https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V"
+    },
+    {
+      "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/4FX7lPCg2W9kyF7UkNJPOT"
+      },
+      "artists": [
+        {
+          "name": "Sophia Fracassi",
+          "url": "https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194574,
+      "name": "I Wanna Get Better Now",
+      "url": "https://open.spotify.com/track/4q7MExyql5vZekCTHYZXWj"
     },
     {
       "album": {
@@ -3678,6 +3812,24 @@
     },
     {
       "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248818,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
+    },
+    {
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -4223,7 +4375,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 224010,
       "name": "Post Breakup Bender",
       "url": "https://open.spotify.com/track/2Iwy8pzOjT67hB7nxS3v8G"
@@ -5340,6 +5492,24 @@
     },
     {
       "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "album": {
         "name": "Unloving You",
         "url": "https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j"
       },
@@ -5387,7 +5557,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
@@ -5841,7 +6011,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 223622,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/6bjZ4NMfkpiXZdFl2BwaT5"
@@ -5953,7 +6123,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 204967,
       "name": "Yours",
       "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"

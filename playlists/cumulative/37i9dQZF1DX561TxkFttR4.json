@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 212000,
       "name": "Any",
       "url": "https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 144000,
       "name": "Beyond Dreams",
       "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 102515,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 157000,
       "name": "Embers",
       "url": "https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 144042,
       "name": "Felt Improv No. 31",
       "url": "https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F"
@@ -1545,7 +1545,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 273600,
       "name": "I wanted you to know (on Yamaha Upright, 1981)",
       "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
@@ -2033,7 +2033,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 175546,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA"
@@ -2393,6 +2393,24 @@
       "duration_ms": 153813,
       "name": "Passions",
       "url": "https://open.spotify.com/track/7InMNuydt9G6D9yKQRdH2G"
+    },
+    {
+      "album": {
+        "name": "Pioneers",
+        "url": "https://open.spotify.com/album/4tU8qKdQPlGm4OIqHddiw2"
+      },
+      "artists": [
+        {
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199255,
+      "name": "Pioneers",
+      "url": "https://open.spotify.com/track/74TWhwYF9jxmeMgQUVbu7S"
     },
     {
       "album": {
@@ -2761,7 +2779,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 209102,
       "name": "Silent Dusk",
       "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
@@ -3115,7 +3133,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 136625,
       "name": "The First Birds",
       "url": "https://open.spotify.com/track/62MYibnXmO1JRChxsrxPRo"
@@ -3549,7 +3567,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 143585,
       "name": "We Met in the Garden",
       "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
@@ -3687,7 +3705,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 262464,
       "name": "your sonnet",
       "url": "https://open.spotify.com/track/6JUN0WSBlhvi5tIDyY4ccA"

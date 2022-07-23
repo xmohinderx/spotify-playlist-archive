@@ -1,13 +1,129 @@
 {
   "description": "The hottest out the south. Cover: Lil Baby",
-  "num_followers": 1075241,
+  "num_followers": 1075590,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE3MDQxMSwwMDAwMDIyYzAwMDAwMTgyMTJhODhiNDkwMDAwMDE4MWI3ZTM1YTU2",
+  "snapshot_id": "MTY1ODQ2MjQwMCwwMDAwMDIyZDAwMDAwMTgyMjQwZmVmMzgwMDAwMDE4MWI3ZTM1YTU2",
   "tracks": [
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 236186,
+      "name": "I'M ON ONE (feat. Drake)",
+      "url": "https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Pressurelicious (feat. Future)",
+        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 173061,
+      "name": "Pressurelicious (feat. Future)",
+      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 128839,
+      "name": "Burning Up (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek"
+    },
+    {
+      "added_at": "2022-06-03 04:00:00",
+      "album": {
+        "name": "Keep Dissing 2 (with Lil Durk)",
+        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 174131,
+      "name": "Keep Dissing 2 (with Lil Durk)",
+      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Vette Motors",
+        "url": "https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "Vette Motors",
+      "url": "https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 173987,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I"
+    },
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
@@ -49,42 +165,6 @@
       "url": "https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx"
     },
     {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Shiesty Season: Certified",
-        "url": "https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "Certified (feat. Gunna)",
-      "url": "https://open.spotify.com/track/31xA2Iti4kb3aMiX75e8Y5"
-    },
-    {
-      "added_at": "2022-04-08 04:31:56",
-      "album": {
-        "name": "In A Minute",
-        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
-    },
-    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "See Wat I\u2019m Sayin",
@@ -105,24 +185,40 @@
       "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
+      "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+        "name": "Groovy (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6Qa5jPHgdY6NW3P4tY7ej9"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
         }
       ],
-      "duration_ms": 236186,
-      "name": "I'M ON ONE (feat. Drake)",
-      "url": "https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr"
+      "duration_ms": 214849,
+      "name": "Groovy (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/7Fp4m0ZcpES3hb99q4WQII"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 147525,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -149,26 +245,6 @@
       "url": "https://open.spotify.com/track/7vlUxa8sFLirILRYnmHWEh"
     },
     {
-      "added_at": "2022-06-03 04:00:00",
-      "album": {
-        "name": "Keep Dissing 2 (with Lil Durk)",
-        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 174131,
-      "name": "Keep Dissing 2 (with Lil Durk)",
-      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Riot",
@@ -183,22 +259,6 @@
       "duration_ms": 144717,
       "name": "Riot",
       "url": "https://open.spotify.com/track/3WjZJKJGwO4xNAbTXdy5jS"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Vette Motors",
-        "url": "https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 173419,
-      "name": "Vette Motors",
-      "url": "https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -233,24 +293,24 @@
       "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
+      "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Groovy (feat. Fivio Foreign)",
-        "url": "https://open.spotify.com/album/6Qa5jPHgdY6NW3P4tY7ej9"
+        "name": "Shiesty Season: Certified",
+        "url": "https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE"
       },
       "artists": [
         {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         },
         {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 214849,
-      "name": "Groovy (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/7Fp4m0ZcpES3hb99q4WQII"
+      "duration_ms": 149610,
+      "name": "Certified (feat. Gunna)",
+      "url": "https://open.spotify.com/track/31xA2Iti4kb3aMiX75e8Y5"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -267,6 +327,42 @@
       "duration_ms": 230016,
       "name": "Love is...",
       "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "THE VISION (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 137634,
+      "name": "THE VISION (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Tell Me Bout It",
+        "url": "https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        }
+      ],
+      "duration_ms": 175792,
+      "name": "Tell Me Bout It",
+      "url": "https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -321,36 +417,44 @@
       "url": "https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6"
     },
     {
-      "added_at": "2022-07-08 04:00:00",
+      "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Bitch I'm Nice",
-        "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 87037,
-      "name": "Bitch I'm Nice",
-      "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
+      "duration_ms": 228278,
+      "name": "Baby Wyd (Remix) (feat. Latto & Lakeyah)",
+      "url": "https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR"
     },
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "No Face",
-        "url": "https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv"
+        "name": "Right Back Out",
+        "url": "https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Yung Mal",
+          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
         }
       ],
-      "duration_ms": 189524,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb"
+      "duration_ms": 204062,
+      "name": "Right Back Out",
+      "url": "https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -371,26 +475,6 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Mention My Name",
-        "url": "https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB"
-      },
-      "artists": [
-        {
-          "name": "Tafia",
-          "url": "https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4"
-        },
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Paper Route (ft. Young Dolph)",
-      "url": "https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -469,58 +553,6 @@
       "url": "https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
-        "url": "https://open.spotify.com/album/213xNC4Hq3tKhvCzXFVuKu"
-      },
-      "artists": [
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 190684,
-      "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
-      "url": "https://open.spotify.com/track/5sSiwYy1FPH8pJVzbD1B5K"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Cheated",
-        "url": "https://open.spotify.com/album/5pJfFvMVHkmPyqbxsRzSKf"
-      },
-      "artists": [
-        {
-          "name": "Lil Migo",
-          "url": "https://open.spotify.com/artist/4weldYkJEu7VzU1lLUQPBF"
-        }
-      ],
-      "duration_ms": 148944,
-      "name": "Cheated",
-      "url": "https://open.spotify.com/track/3Q80j15qNY73dkiotvMuLc"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Right Back Out",
-        "url": "https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP"
-      },
-      "artists": [
-        {
-          "name": "Yung Mal",
-          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
-        }
-      ],
-      "duration_ms": 204062,
-      "name": "Right Back Out",
-      "url": "https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR"
-    },
-    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Certified Dripper",
@@ -555,6 +587,22 @@
       "duration_ms": 138187,
       "name": "All Dz Chainz (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6f8nS2g21RNEL7gNG4WJVT"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Rap Niggas",
+        "url": "https://open.spotify.com/album/4eqIEeiyBrDTAFNNnncsgu"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Rap Niggas",
+      "url": "https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -609,6 +657,26 @@
       "url": "https://open.spotify.com/track/0eUP5Pyd69bv6uqTLFgF3m"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "CRUNKSTAR",
+        "url": "https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 215722,
+      "name": "JUST SAY THAT (feat. GLORILLA)",
+      "url": "https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z"
+    },
+    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "Love of the Money (feat. Hotboii)",
@@ -629,40 +697,20 @@
       "url": "https://open.spotify.com/track/6yo90VmiX3oiCAZJfZQspi"
     },
     {
-      "added_at": "2022-06-10 15:28:24",
+      "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Benz Truck",
-        "url": "https://open.spotify.com/album/4U6veERIAILg0hKBck8R2x"
+        "name": "Pogo Stick",
+        "url": "https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW"
       },
       "artists": [
         {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
         }
       ],
-      "duration_ms": 186229,
-      "name": "Benz Truck",
-      "url": "https://open.spotify.com/track/1hiyJ4CYoH3Cve19V7ZYoa"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
-      },
-      "artists": [
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 137579,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+      "duration_ms": 146533,
+      "name": "Pogo Stick",
+      "url": "https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -709,6 +757,38 @@
       "url": "https://open.spotify.com/track/1ca58x4jLrv0YjmZRPXhrD"
     },
     {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Small Town Hero",
+        "url": "https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        }
+      ],
+      "duration_ms": 177236,
+      "name": "Small Town Hero",
+      "url": "https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Bitch I'm Nice",
+        "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 87037,
+      "name": "Bitch I'm Nice",
+      "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
+    },
+    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Dead Guyz",
@@ -741,56 +821,20 @@
       "url": "https://open.spotify.com/track/4Xkk9RBSBgRBAFwPta5FlT"
     },
     {
-      "added_at": "2022-07-08 04:00:00",
+      "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8"
+        "name": "Get Even",
+        "url": "https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
         }
       ],
-      "duration_ms": 135419,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "DO NOT KNOW YOU",
-        "url": "https://open.spotify.com/album/5O4I4RUSGTurL6VKPCMeJJ"
-      },
-      "artists": [
-        {
-          "name": "lil Shordie Scott",
-          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
-        }
-      ],
-      "duration_ms": 120053,
-      "name": "DO NOT KNOW YOU",
-      "url": "https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "How It Feels (feat. YNW BSlime)",
-        "url": "https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT"
-      },
-      "artists": [
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
-          "name": "YNW BSlime",
-          "url": "https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu"
-        }
-      ],
-      "duration_ms": 153117,
-      "name": "How It Feels (feat. YNW BSlime)",
-      "url": "https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG"
+      "duration_ms": 161149,
+      "name": "Get Even",
+      "url": "https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -809,80 +853,24 @@
       "url": "https://open.spotify.com/track/04OW3p7V9ACVSttnuTfikE"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
+      "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Small Town Hero",
-        "url": "https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J"
+        "name": "Wockin\u2019 On A Wire (feat. NoCap)",
+        "url": "https://open.spotify.com/album/44lgLZ8UtTfTlLiZb1W9hV"
       },
       "artists": [
         {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
-        }
-      ],
-      "duration_ms": 177236,
-      "name": "Small Town Hero",
-      "url": "https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Hold That Heat (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
-      },
-      "artists": [
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+          "name": "GANG51E JUNE",
+          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Hold That Heat (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Rap Niggas",
-        "url": "https://open.spotify.com/album/4eqIEeiyBrDTAFNNnncsgu"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Rap Niggas",
-      "url": "https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "CRUNKSTAR",
-        "url": "https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV"
-      },
-      "artists": [
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 215722,
-      "name": "JUST SAY THAT (feat. GLORILLA)",
-      "url": "https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z"
+      "duration_ms": 196951,
+      "name": "Wockin\u2019 On A Wire (feat. NoCap)",
+      "url": "https://open.spotify.com/track/6MInFLWke89xMBOeMXEqLH"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -927,18 +915,34 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Mad At Her",
-        "url": "https://open.spotify.com/album/4nEvGOK5tet14OyE7HKWoH"
+        "name": "The End",
+        "url": "https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8"
       },
       "artists": [
         {
-          "name": "BRS Kash",
-          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 180459,
-      "name": "Mad At Her",
-      "url": "https://open.spotify.com/track/7nW1oORHIjElSCjC6cWEkA"
+      "duration_ms": 135419,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "DO NOT KNOW YOU",
+        "url": "https://open.spotify.com/album/5O4I4RUSGTurL6VKPCMeJJ"
+      },
+      "artists": [
+        {
+          "name": "lil Shordie Scott",
+          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
+        }
+      ],
+      "duration_ms": 120053,
+      "name": "DO NOT KNOW YOU",
+      "url": "https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc"
     }
   ],
   "unique_name": "No Cap",

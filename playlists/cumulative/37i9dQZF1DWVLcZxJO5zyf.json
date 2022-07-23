@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a os hits do momento do pop BR! Foto: Baco Exu do Blues, Lu\u00edsa Sonza",
+  "description": "Ou\u00e7a os hits do momento do pop BR! Foto: Vit\u00e3o",
   "name": "Pop Brasil",
   "published_playlist_ids": [
     "2iwi9LnnLi5RXjdilr4cmw"
@@ -59,10 +59,36 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 193640,
       "name": "Apollo 11",
       "url": "https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC"
+    },
+    {
+      "album": {
+        "name": "arrepiou",
+        "url": "https://open.spotify.com/album/04H9F6V9ZG4oevOUFdo0TM"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        },
+        {
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+        },
+        {
+          "name": "Maikinho DJ",
+          "url": "https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142714,
+      "name": "arrepiou",
+      "url": "https://open.spotify.com/track/55JD9Pxjdqz9QX5mfrzmZ3"
     },
     {
       "album": {
@@ -103,6 +129,24 @@
       "duration_ms": 135111,
       "name": "ATEN\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Vez",
+        "url": "https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131571,
+      "name": "Atr\u00e1s Do Meu Amor",
+      "url": "https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y"
     },
     {
       "album": {
@@ -527,6 +571,24 @@
       "duration_ms": 169788,
       "name": "DESCANSA",
       "url": "https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j"
+    },
+    {
+      "album": {
+        "name": "Desculpa por Eu N\u00e3o Te Amar",
+        "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186188,
+      "name": "Desculpa por Eu N\u00e3o Te Amar",
+      "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
     },
     {
       "album": {
@@ -1861,7 +1923,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 137695,
       "name": "roubando a cena",
       "url": "https://open.spotify.com/track/1jdWoanP3m1glSvH7qN2aE"
@@ -2243,7 +2305,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 153237,
       "name": "Toma - Ao Vivo",
       "url": "https://open.spotify.com/track/5lOHHtPiIEotQp8oCMoEp0"

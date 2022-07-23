@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > it's a cruel summer ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,216 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,321 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 36 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
 | 37 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
 | 38 | [Feels Like](https://open.spotify.com/track/0F9v0lpBD93UIOh4g0BcPm) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Let It All Out EP](https://open.spotify.com/album/1EjGCyMdcQlJM5aW4wpyaV) | 2:23 |
-| 39 | [UP N DOWN](https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [UP N DOWN](https://open.spotify.com/album/6HHLuMoKzxWyI2wYv5RmiL) | 3:17 |
-| 40 | [Bubble \- Florentino Remix](https://open.spotify.com/track/5P1QwaMIdhi9N5UDwTHwOS) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Bubble \(Remixes\)](https://open.spotify.com/album/0r6dEU4DX0fxp8mEPmxdGH) | 3:16 |
-| 41 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 |
-| 42 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 |
-| 43 | [Queen Of This Shit](https://open.spotify.com/track/6JrmHzxhaaavRtlXTOhm63) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Queen Of This Shit](https://open.spotify.com/album/6qu9QGQPrAlTOJLGeKeQBK) | 3:06 |
-| 44 | [Show Me What](https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 2:49 |
-| 45 | [damn Right](https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [damn Right](https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B) | 2:44 |
-| 46 | [Tired and Sick](https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5) | 2:52 |
-| 47 | [H2hoe](https://open.spotify.com/track/3fAiq5yzGtjJAbUgT85EBh) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [H2hoe](https://open.spotify.com/album/6u5FhXSdp1WghOwHmQSRWf) | 3:05 |
-| 48 | [Tear the House Up](https://open.spotify.com/track/2niTP3UJywDtTQj6dP1axR) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear the House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 4:40 |
-| 49 | [Versace Hottie](https://open.spotify.com/track/125U9Ok6RD3jG5aLzyvxnY) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Metallic Butterfly](https://open.spotify.com/album/2eNt8IJkvzDqX205e08bgZ) | 3:14 |
+| 39 | [BUY ME NOW](https://open.spotify.com/track/0TObe8QnOyojmnDAwjNRQK) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [BUY ME NOW](https://open.spotify.com/album/0bHvRDHpYMYwqHu7PLOXmI) | 3:35 |
+| 40 | [UP N DOWN](https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [UP N DOWN](https://open.spotify.com/album/6HHLuMoKzxWyI2wYv5RmiL) | 3:17 |
+| 41 | [Bubble \- Florentino Remix](https://open.spotify.com/track/5P1QwaMIdhi9N5UDwTHwOS) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Bubble \(Remixes\)](https://open.spotify.com/album/0r6dEU4DX0fxp8mEPmxdGH) | 3:16 |
+| 42 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 |
+| 43 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 |
+| 44 | [Queen Of This Shit](https://open.spotify.com/track/6JrmHzxhaaavRtlXTOhm63) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Queen Of This Shit](https://open.spotify.com/album/6qu9QGQPrAlTOJLGeKeQBK) | 3:06 |
+| 45 | [Show Me What](https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 2:49 |
+| 46 | [damn Right](https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [damn Right](https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B) | 2:44 |
+| 47 | [Tired and Sick](https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5) | 2:52 |
+| 48 | [H2hoe](https://open.spotify.com/track/3fAiq5yzGtjJAbUgT85EBh) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [H2hoe](https://open.spotify.com/album/6u5FhXSdp1WghOwHmQSRWf) | 3:05 |
+| 49 | [Tear the House Up](https://open.spotify.com/track/2niTP3UJywDtTQj6dP1axR) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear the House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 4:40 |
+| 50 | [Versace Hottie](https://open.spotify.com/track/125U9Ok6RD3jG5aLzyvxnY) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Metallic Butterfly](https://open.spotify.com/album/2eNt8IJkvzDqX205e08bgZ) | 3:14 |
 
 Snapshot ID: `MTY1ODQyNTM5MSwwMDAwMDAwYzAwMDAwMTgyMjFkYjNhMGMwMDAwMDE4MDE5OGZlNDkx`

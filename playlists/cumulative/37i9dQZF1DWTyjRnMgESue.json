@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 141796,
       "name": "14",
       "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 213556,
       "name": "A Good Love, Pt. 2",
       "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 225614,
       "name": "back to back",
       "url": "https://open.spotify.com/track/0SQKYOdKg5bvNCbvhty9r7"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 258760,
       "name": "Brooklyn Bridge",
       "url": "https://open.spotify.com/track/7fPocdnUzvo4hdF3aKkyAV"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 146573,
       "name": "cigarette holes",
       "url": "https://open.spotify.com/track/4clKLUGYpnYvcFmgtYXxVH"
@@ -919,6 +919,24 @@
       "duration_ms": 196277,
       "name": "Closure",
       "url": "https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl"
+    },
+    {
+      "album": {
+        "name": "firstborn",
+        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168354,
+      "name": "consequences.",
+      "url": "https://open.spotify.com/track/0EAaIM4y3GYvHurNQu8YZt"
     },
     {
       "album": {
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 223733,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 167426,
       "name": "eight hours",
       "url": "https://open.spotify.com/track/5cn3Zlb938iYc28dY5s3vm"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 223575,
       "name": "Fewer Ghosts - Acoustic",
       "url": "https://open.spotify.com/track/2VvX7hcWG9Ecd1olc2SQAm"
@@ -1533,13 +1551,13 @@
       },
       "artists": [
         {
-          "name": "Lauren Spencer-Smith",
+          "name": "Lauren Spencer Smith",
           "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 237451,
       "name": "Get More Rest",
       "url": "https://open.spotify.com/track/0x6p5TFeH5kCZunuF6XXQ7"
@@ -1993,7 +2011,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 263923,
       "name": "Hard Things",
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
@@ -2405,7 +2423,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 198093,
       "name": "Hymn for Her (feat. Lydia Clowes)",
       "url": "https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF"
@@ -3185,7 +3203,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 271776,
       "name": "Machines",
       "url": "https://open.spotify.com/track/5mpLws6etPwTax7PedZc1V"
@@ -3203,7 +3221,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 186160,
       "name": "Magic",
       "url": "https://open.spotify.com/track/47Gp8oW808q6j4Oxg9iGLw"
@@ -3261,7 +3279,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 225744,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N"
@@ -3593,7 +3611,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 192382,
       "name": "Normal Kid",
       "url": "https://open.spotify.com/track/1tvVxUE33ROYbQDrr2nXIw"
@@ -3633,7 +3651,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 194560,
       "name": "Occasionally",
       "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
@@ -3669,7 +3687,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 199746,
       "name": "Olive Branch",
       "url": "https://open.spotify.com/track/4NdwzvXnYTIcxPXxaWY5eI"
@@ -3687,7 +3705,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 157184,
       "name": "parasite",
       "url": "https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH"
@@ -3705,7 +3723,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 160760,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/3YnqTS15HGxAXbwrNHxgRM"
@@ -3799,7 +3817,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 261523,
       "name": "Picture of You (feat. Hayden Calnin)",
       "url": "https://open.spotify.com/track/0rqZHv7LtB9swrz1rouNA0"
@@ -4437,7 +4455,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
@@ -4477,6 +4495,24 @@
       "duration_ms": 246364,
       "name": "Star Nation",
       "url": "https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "album": {
@@ -4585,7 +4621,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/2CtJDDZiXVryDNAlsGyK5W"
@@ -4791,7 +4827,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 227141,
       "name": "The Man",
       "url": "https://open.spotify.com/track/5nhEyOUHbPrKfjOGpadH9M"
@@ -5257,7 +5293,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 237631,
       "name": "Walls",
       "url": "https://open.spotify.com/track/2q3mVaM2J2HOd6gXiGR8RT"
@@ -5471,7 +5507,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 200346,
       "name": "Why It Hurts",
       "url": "https://open.spotify.com/track/79tW2TBIRnQBRdiGkC6xM0"

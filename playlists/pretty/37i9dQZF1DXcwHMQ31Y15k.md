@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Bayu Skak
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,640 likes - 87 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,742 likes - 87 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

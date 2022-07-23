@@ -4,7 +4,7 @@
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-96 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5XFqsyLYlOB2spadiOeuPU)
+99 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/5XFqsyLYlOB2spadiOeuPU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Find U Again \(feat\. Camila Cabello\)](https://open.spotify.com/track/5Uw7Dut2lZfexn3Y09swpf) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 2:56 | 2020-09-29 |  |
 | [Flames](https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Flames](https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK) | 3:15 | 2020-09-29 |  |
 | [Funeral](https://open.spotify.com/track/4RmKK37XKL0J27QUc58MTm) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Funeral](https://open.spotify.com/album/2srLmNollr7uXI3HS6rlqq) | 3:17 | 2020-09-29 |  |
+| [Funkytown \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/20erlJdZrxYVcHhY05YfXm) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Minions: The Rise Of Gru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN) | 4:23 | 2022-07-22 |  |
 | [Growing Pains](https://open.spotify.com/track/003eoIwxETJujVWmNFMoZy) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Growing Pains](https://open.spotify.com/album/3mzHuQmDLVuecodQNKUd0T) | 3:13 | 2020-09-29 |  |
 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 | 2020-09-29 |  |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2020-09-29 |  |
@@ -72,6 +73,7 @@
 | [Ring](https://open.spotify.com/track/11Ey4yJVeWEsA73KjACkVY) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:28 | 2020-09-29 |  |
 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 | 2020-09-29 |  |
 | [Save Your Tears](https://open.spotify.com/track/2fUxSgVfromz311Rldirg5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Save Your Tears](https://open.spotify.com/album/1ibrLayXuNQkytjZ7hIDeY) | 3:30 | 2021-08-04 |  |
+| [Saved My Life \(with R3HAB\)](https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Saved My Life \(with R3HAB\)](https://open.spotify.com/album/6deJd6SdTPGoCFwyzJk4L7) | 2:54 | 2022-07-22 |  |
 | [Say So](https://open.spotify.com/track/509ueN1ioukx3BItZh1oBD) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Say So](https://open.spotify.com/album/424sFS24gGlrtzVdOEOgc2) | 3:13 | 2020-09-29 |  |
 | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS) | 3:49 | 2020-09-29 |  |
 | [Shine Bright \(From Trolls\)](https://open.spotify.com/track/5zuetjtTslM9aMxOW2YuZX) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Shine Bright \(From Trolls\)](https://open.spotify.com/album/1u5IYqAKm5gtWTamjNb2fV) | 2:09 | 2021-08-04 |  |
@@ -84,6 +86,7 @@
 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 | 2020-09-29 |  |
 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 | 2020-09-29 |  |
 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2020-09-29 |  |
+| [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-07-22 |  |
 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2020-09-29 |  |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2020-09-29 |  |
 | [Sweet but Psycho](https://open.spotify.com/track/25sgk305KZfyuqVBQIahim) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho](https://open.spotify.com/album/7CdLU3GgPy1PH5FVsrPlyA) | 3:07 | 2020-09-29 |  |

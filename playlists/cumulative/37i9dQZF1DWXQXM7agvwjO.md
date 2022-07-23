@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Layton Wu \(Taiwan\)
 
-276 songs - 16 hr 25 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+278 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Down In The Dumps](https://open.spotify.com/track/1DcjEggH52pt6GiEeaaKmY) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [DOWN IN THE DUMPS](https://open.spotify.com/album/5qrAHXTOei4zFw1mnTasBP) | 4:18 | 2022-06-16 |  |
 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 | 2022-06-02 |  |
 | [Easy Like 123](https://open.spotify.com/track/5WafeWUNLnf2BY9UJ3xgRP) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [FUNFAIR](https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i) | 2:28 | 2022-04-07 | 2022-04-22 |
+| [ENTITY](https://open.spotify.com/track/0OSnnCcaBw6L11YqmSFKfX) | [ATOMIC NO.13](https://open.spotify.com/artist/5E1w3Q83DZT7WavgYQSDF3) | [ENTITY](https://open.spotify.com/album/5vPwa2yaWrKF04FF32VOwK) | 3:27 | 2022-07-22 |  |
 | [Eternity As An Instant](https://open.spotify.com/track/6mFIQsnucrn7viS643LUc6) | [Mai Mishio](https://open.spotify.com/artist/0gZyTGbT1RKnpW98SejjoU) | [Wednesday/Eternity As An Instant](https://open.spotify.com/album/0lpsDsYmJ8yzrXNMUuRJSi) | 3:52 | 2022-05-12 | 2022-05-27 |
 | [FACTS](https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [FACTS](https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO) | 2:27 | 2022-05-12 | 2022-05-20 |
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-21 | 2022-05-27 |
@@ -108,7 +109,7 @@
 | [I Forget](https://open.spotify.com/track/4kteUmv5itspdKMNHAMF8A) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl), [KAYD](https://open.spotify.com/artist/083fVmyz4CEiqzDnLaSpU7) | [I Forget](https://open.spotify.com/album/4KK1XCxSqlQvHAAGto6vIB) | 3:37 | 2022-07-21 |  |
 | [i hate this city](https://open.spotify.com/track/7obkHjtZHmdVWdDwaLsd93) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i hate this city](https://open.spotify.com/album/4prQxI1y4XRu6Oq8XdQUhr) | 3:15 | 2022-06-09 | 2022-07-16 |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-02 |  |
-| [I Like Me Better Now](https://open.spotify.com/track/6jTqsb08gdgzHfnnQSHRsc) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D) | [I Like Me Better Now](https://open.spotify.com/album/4Nqv5gCSOIPSCmlxtoRqUR) | 3:56 | 2022-06-09 |  |
+| [I Like Me Better Now](https://open.spotify.com/track/6jTqsb08gdgzHfnnQSHRsc) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D) | [I Like Me Better Now](https://open.spotify.com/album/4Nqv5gCSOIPSCmlxtoRqUR) | 3:56 | 2022-06-09 | 2022-07-23 |
 | [i like u](https://open.spotify.com/track/5UHPob6XgbZw5CXOyHtMhD) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [i like u](https://open.spotify.com/album/0il3XZ7i2T01i0M4Ij9SVZ) | 2:27 | 2022-05-26 | 2022-07-08 |
 | [I Love You, Even When You Hate Yourself.](https://open.spotify.com/track/56Ts7vcuIEUP86yHufXQMg) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [I Love You, Even When You Hate Yourself.](https://open.spotify.com/album/17jSPoo8UeD596IwL13xig) | 4:46 | 2022-07-14 |  |
 | [I MA](https://open.spotify.com/track/2mJxEj7p6hzkPYiCg3LUUf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:34 | 2022-04-28 | 2022-05-13 |
@@ -178,6 +179,7 @@
 | [on & on](https://open.spotify.com/track/2z60665qOaXrUcFIVIB9yj) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [on & on](https://open.spotify.com/album/2fInwWeb0bggsmMeUSAYbv) | 2:48 | 2022-03-24 | 2022-04-22 |
 | [On My Way](https://open.spotify.com/track/61GbM6MHAXxM0q59ZkQguY) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [On My Way](https://open.spotify.com/album/3xuFX5Ckge9b2voKWQw1yv) | 2:46 | 2022-04-14 | 2022-06-17 |
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-14 | 2022-05-27 |
+| [Pahit Manis](https://open.spotify.com/track/6Bgz0aLA2UuVizhbSw0w1j) | [Bayangan](https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI), [Herri Hamid](https://open.spotify.com/artist/0EtE4shOS9M5b0eVQt6KuI) | [Kelana](https://open.spotify.com/album/3l8kJNJHSCPLaxmHgAyqpC) | 3:24 | 2022-07-22 |  |
 | [Papansin](https://open.spotify.com/track/3cdVZ0zqOHl8cS0bR06oKZ) | [Minaw](https://open.spotify.com/artist/3WDWdGrDmyczFUkPPkd8aK) | [Papansin](https://open.spotify.com/album/3p1jcWloxr38uAQKB1AiHf) | 4:17 | 2022-03-24 | 2022-05-27 |
 | [Pastries](https://open.spotify.com/track/3aZxmDaau281Xp5KKcPYy0) | [The Royal Leisure](https://open.spotify.com/artist/6EbOsbRkFbQFWw3m0NteRv) | [Pastries](https://open.spotify.com/album/19dAFsG3fN6iitlCpxoFA5) | 3:11 | 2022-07-21 |  |
 | [Permanence](https://open.spotify.com/track/23VSaws85qOAO8bg1O5FyO) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Hope + Love](https://open.spotify.com/album/56pMcAJRf7rnHCxtv0UKIq) | 3:05 | 2022-07-14 |  |
@@ -261,7 +263,7 @@
 | [YES \- vanguard mix](https://open.spotify.com/track/0RNmlHZm28K6l9yKAqhGS3) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [YES \(vanguard mix\)](https://open.spotify.com/album/1ro49FQ5xgl9pIINxlRozK) | 4:29 | 2022-04-14 | 2022-05-27 |
 | [Yêu Nhất \(feat\. RPT PhongKhin\)](https://open.spotify.com/track/3ZAfDSOBPiUupvPmAzZ3cI) | [SuperC](https://open.spotify.com/artist/2jfbFAZ1SeBTGdjPc4hpSo), [RPT PhongKhin](https://open.spotify.com/artist/2TmAAcsAhUVnRNtf3Jm0uc) | [Yêu Nhất](https://open.spotify.com/album/31sXIpSQbyU0OcIEHXCMBF) | 2:37 | 2022-04-07 | 2022-05-20 |
 | [ก่อนจะรู้ตัว \(Panic\)](https://open.spotify.com/track/1b8h5eR62ePl9Wk65bgHhl) | [ARII Takahashi](https://open.spotify.com/artist/2RUEOKaoRDiqpuDu2PgE2Q) | [ก่อนจะรู้ตัว \(Panic\)](https://open.spotify.com/album/2F72NDhMG8MW1NDK8QY1j8) | 3:12 | 2022-03-24 | 2022-05-20 |
-| [ดวงตะวัน](https://open.spotify.com/track/6KW6FauFAaBQ7nIXkSMMXM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Cap, Capo, Cigarettes & Beer](https://open.spotify.com/album/20hXyszz0sJunS2athJ2QN) | 3:48 | 2022-06-02 |  |
+| [ดวงตะวัน](https://open.spotify.com/track/6KW6FauFAaBQ7nIXkSMMXM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Cap, Capo, Cigarettes & Beer](https://open.spotify.com/album/20hXyszz0sJunS2athJ2QN) | 3:48 | 2022-06-02 | 2022-07-23 |
 | [ดอกไม้ที่รอให้เธอเก็บ](https://open.spotify.com/track/5RXwc6nn6MG9Y7OHLW1vYo) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ดอกไม้ที่รอให้เธอเก็บ](https://open.spotify.com/album/2PPtGbQgPfcyxaFNcR5d2t) | 5:13 | 2022-05-19 | 2022-06-03 |
 | [ลา ลา ลา](https://open.spotify.com/track/27OEf7iSIOJ14txp16xweP) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ลา ลา ลา](https://open.spotify.com/album/2fwk9nkcCTL3mrmJkcj60q) | 4:13 | 2022-04-21 | 2022-05-27 |
 | [วิเศษ \(Magic\)](https://open.spotify.com/track/2Z9U0wFqsxoALv3qtJKlwH) | [MaxMillor](https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63) | [Just a bad day not a bad life, isn't it](https://open.spotify.com/album/4I4Y5PxyYgJzyTBmQed9Em) | 3:40 | 2022-05-19 | 2022-07-01 |

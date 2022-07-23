@@ -2,9 +2,9 @@
 
 ### [Ripple Effect: DMV](https://open.spotify.com/playlist/37i9dQZF1DWWNlm4v5v5Qw)
 
-> DMV music breaking waves\. Cover: Brent Faiyaz
+> DMV music breaking waves\. Cover: Rico Nasty
 
-197 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
+198 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Underdog](https://open.spotify.com/track/6IdMLrLa7boTApnJ4JMM3h) | [Yg Teck](https://open.spotify.com/artist/26hDmlgTbg7wseM7YmoyO6) | [90 Day Run](https://open.spotify.com/album/3jdfQtijIFP1gcFxxzNSga) | 2:52 | 2022-04-22 |  |
 | [Wake Yo Ass Up Twin](https://open.spotify.com/track/4ouuijSH5smt0CNOPIGINt) | [Soduh](https://open.spotify.com/artist/3WFgNdjNLX8WWxzK4KzF26), [LuLu P](https://open.spotify.com/artist/2vKV4nXsO1RjkkrEWuVmOg) | [Gatoraide Two](https://open.spotify.com/album/0G1ADeW8z6W2neZDeo2V2E) | 1:45 | 2021-12-17 | 2022-02-26 |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2021-07-06 | 2022-06-26 |
+| [Watch Your Man \(feat\. Marshmello\)](https://open.spotify.com/track/6GiQfK7gtNGlODn53HZvpw) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 1:56 | 2022-07-22 |  |
 | [WE \(Warm Embrace\)](https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [WE \(Warm Embrace\)](https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV) | 3:54 | 2022-04-01 | 2022-05-21 |
 | [Weapons Lie](https://open.spotify.com/track/0XdeEmgE4IyNYYlslA5JyD) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Weapons Lie](https://open.spotify.com/album/4BDHYQRaCEmjtoOAcQwWuR) | 2:18 | 2022-02-25 | 2022-04-09 |
 | [WEIGHT](https://open.spotify.com/track/4HBxL7AzSpmObNgIUR8CO9) | [Dre Wave$](https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt) | [WEIGHT](https://open.spotify.com/album/0YqnECe3ON7UVZUA8Lg2RX) | 2:10 | 2022-03-04 | 2022-05-21 |

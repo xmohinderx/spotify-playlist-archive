@@ -1268,6 +1268,24 @@
     },
     {
       "album": {
+        "name": "Eascodset",
+        "url": "https://open.spotify.com/album/7zPoPXFJwRprw2MwaLjr7V"
+      },
+      "artists": [
+        {
+          "name": "Phoenomenatic",
+          "url": "https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186809,
+      "name": "Eascodset",
+      "url": "https://open.spotify.com/track/1BMgyrYXHolIe6e0oU9OqQ"
+    },
+    {
+      "album": {
         "name": "Easy Mind",
         "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
       },

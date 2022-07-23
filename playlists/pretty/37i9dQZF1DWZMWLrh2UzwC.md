@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,977 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,990 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 15 | [Late Night Feels](https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Late Night Feels](https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06) | 2:53 |
 | 16 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 |
 | 17 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 |
-| 18 | [擒光 \- 《英雄联盟手游》 星光公测推广曲](https://open.spotify.com/track/3rwJgruQCfA5nwTsmMFPTi) | [孙燕姿](https://open.spotify.com/artist/2qN9iU0NojiQ5XrN2z80ZI) | [擒光 \(《英雄联盟手游》 星光公测推广曲\)](https://open.spotify.com/album/1kpFR9nmb7hBbHIBR7WLvA) | 3:54 |
+| 18 | [擒光 \- 《英雄联盟手游》 星光公测推广曲](https://open.spotify.com/track/3rwJgruQCfA5nwTsmMFPTi) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [擒光 \(《英雄联盟手游》 星光公测推广曲\)](https://open.spotify.com/album/1kpFR9nmb7hBbHIBR7WLvA) | 3:54 |
 | 19 | [關於你](https://open.spotify.com/track/5PFauYPzYUvlES81qdn7DP) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [關於你](https://open.spotify.com/album/5Xd40gVbrMtNsdzNnxsXb1) | 4:53 |
 | 20 | [Camera Roll](https://open.spotify.com/track/6fn7kxmFwJu11k0sch2R3U) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Camera Roll](https://open.spotify.com/album/1xaFwHmmHek8xdcHMew9zg) | 4:25 |
 | 21 | [KEEP IT TO YOURSELF](https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 2:54 |

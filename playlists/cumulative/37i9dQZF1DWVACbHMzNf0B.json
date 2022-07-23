@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Carin Le\u00f3n & Mike Bah\u00eda en portada.",
+  "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Adriel Favela, Cuco, Kacey Musgraves en portada.",
   "name": "MEXCLA",
   "published_playlist_ids": [
     "5TyDG9DduIJJ2Y3h0GMvYM"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 175588,
       "name": "Ens\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/7LX4opeQXK9t3geiA5iCcp"
@@ -749,6 +749,24 @@
       "duration_ms": 157040,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
+    },
+    {
+      "album": {
+        "name": "estereotipo",
+        "url": "https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174825,
+      "name": "estereotipo",
+      "url": "https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u"
     },
     {
       "album": {
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 178920,
       "name": "Separarnos",
       "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
@@ -1419,6 +1437,32 @@
       "duration_ms": 291773,
       "name": "Sigo In\u00e9dito - Remix",
       "url": "https://open.spotify.com/track/2bTxNLc9yBOxsIxyq5XvSA"
+    },
+    {
+      "album": {
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232298,
+      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
     },
     {
       "album": {

@@ -1,32 +1,36 @@
 {
-  "description": "Taking it way back! Cover: Jay-Z",
-  "num_followers": 2856989,
+  "description": "Taking it way back! Cover: Diddy",
+  "num_followers": 2858778,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIwMDA1MywwMDAwMDBjYjAwMDAwMTgxZDhkMjBiNTYwMDAwMDE4MWQ1OTU5MDg2",
+  "snapshot_id": "MTY1ODUxNjEyNCwwMDAwMDBjZDAwMDAwMTgyMjc0M2I0MmQwMDAwMDE4MjI3NDM2ODAy",
   "tracks": [
     {
-      "added_at": "2022-05-10 01:42:26",
+      "added_at": "2022-07-22 16:58:05",
       "album": {
-        "name": "Watch The Throne (Deluxe)",
-        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Ni**as In Paris",
-      "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
+      "duration_ms": 296266,
+      "name": "Victory (feat. The Notorious B.I.G. & Busta Rhymes)",
+      "url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t"
     },
     {
       "added_at": "2020-12-06 18:59:24",
@@ -47,22 +51,6 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
       "added_at": "2022-03-13 01:02:17",
@@ -95,6 +83,74 @@
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2022-07-22 16:58:05",
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "The LOX",
+          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+        },
+        {
+          "name": "Stevie J",
+          "url": "https://open.spotify.com/artist/09A1kpyGbzYAPb8cEvee64"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "It's All About the Benjamins (feat. The Notorious B.I.G., Lil' Kim & The Lox) - Remix",
+      "url": "https://open.spotify.com/track/3GMR3hyv8BccozoebVMve3"
+    },
+    {
+      "added_at": "2022-05-10 01:42:26",
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
     },
     {
       "added_at": "2022-05-10 01:42:26",
@@ -131,6 +187,54 @@
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
+    },
+    {
+      "added_at": "2022-07-22 16:58:05",
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "duration_ms": 325933,
+      "name": "Been Around the World (feat. The Notorious B.I.G. & Mase)",
+      "url": "https://open.spotify.com/track/1siDRjAa8MdxNoCHTiiQ7B"
+    },
+    {
+      "added_at": "2022-07-22 16:58:05",
+      "album": {
+        "name": "Street Dreams (Bonus Track)",
+        "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Mike Shorey",
+          "url": "https://open.spotify.com/artist/15qg3Tr23aMVGAruYtlMdg"
+        },
+        {
+          "name": "Lil' Mo",
+          "url": "https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Can't Let You Go (feat. Mike Shorey & Lil' Mo)",
+      "url": "https://open.spotify.com/track/6lrRIfQDcikJ5y5DtyZPuJ"
     },
     {
       "added_at": "2022-05-26 22:05:10",
@@ -301,38 +405,6 @@
       "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Wu-Tang Forever",
-        "url": "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
-      },
-      "artists": [
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        },
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 321733,
-      "name": "Reunited (feat. GZA, Ol' Dirty Bastard, RZA & Method Man)",
-      "url": "https://open.spotify.com/track/2CxOJwC4jqWfPQdahEX9oH"
-    },
-    {
       "added_at": "2022-05-26 22:05:10",
       "album": {
         "name": "Stankonia",
@@ -381,22 +453,6 @@
       "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
     },
     {
-      "added_at": "2022-05-26 22:05:10",
-      "album": {
-        "name": "Lord Willin'",
-        "url": "https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX"
-      },
-      "artists": [
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        }
-      ],
-      "duration_ms": 264760,
-      "name": "Grindin'",
-      "url": "https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS"
-    },
-    {
       "added_at": "2022-03-13 01:02:17",
       "album": {
         "name": "The Blueprint 3",
@@ -439,26 +495,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2022-03-13 01:02:17",
-      "album": {
-        "name": "The Real Testament",
-        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
-      },
-      "artists": [
-        {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Hypnotized (feat. Akon)",
-      "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
     },
     {
       "added_at": "2022-03-13 01:02:17",
@@ -515,34 +551,6 @@
       "duration_ms": 297840,
       "name": "Cleanin' Out My Closet",
       "url": "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
-    },
-    {
-      "added_at": "2022-03-13 01:02:17",
-      "album": {
-        "name": "Come Home With Me",
-        "url": "https://open.spotify.com/album/59AeQUlVYT08dOenfLmTWS"
-      },
-      "artists": [
-        {
-          "name": "Cam\u2019ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        },
-        {
-          "name": "Freekey Zeekey",
-          "url": "https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3"
-        },
-        {
-          "name": "Toya",
-          "url": "https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml"
-        }
-      ],
-      "duration_ms": 230080,
-      "name": "Hey Ma",
-      "url": "https://open.spotify.com/track/6a8lMvYwJBwV4OtmdI1aDb"
     },
     {
       "added_at": "2022-02-11 05:00:00",

@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-109 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+110 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 | 2021-12-22 |  |
 | [Celestial Visions](https://open.spotify.com/track/3A9nqhgcN0F7S1AHfeBLxp) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Celestial Visions](https://open.spotify.com/album/5CW2QFsfzbf5YVkAjbrM3u) | 2:27 | 2022-04-21 |  |
 | [Cestrum Nocturnum](https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Cestrum Nocturnum](https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ) | 3:15 | 2022-03-09 |  |
+| [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2022-07-22 |  |
 | [Cloud Surfing](https://open.spotify.com/track/1HuFkAl8FJnL83syXSPnUb) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 4:58 | 2021-12-22 |  |
 | [Con Ojos Cerrados](https://open.spotify.com/track/0ZM4ZmYetI5obeA6bSyx8C) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Con Ojos Cerrados](https://open.spotify.com/album/3w3zoZE8H5efdPfUv3vt4b) | 3:00 | 2021-12-22 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2021-12-22 |  |

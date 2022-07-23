@@ -1,28 +1,32 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto",
-  "num_followers": 2255607,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Megan Thee Stallion",
+  "num_followers": 2257109,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1ODk0NiwwMDAwMDQ5ZjAwMDAwMTgyMDAxN2Y1YzAwMDAwMDE4MWZkNTVkNmFm",
+  "snapshot_id": "MTY1ODQ2MjQwMCwwMDAwMDRhMDAwMDAwMTgyMjQwZmVlYjEwMDAwMDE4MjIyZTcyY2Y4",
   "tracks": [
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "PUSSY",
-        "url": "https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib"
+        "name": "Pressurelicious (feat. Future)",
+        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 141176,
-      "name": "PUSSY",
-      "url": "https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO"
+      "duration_ms": 173061,
+      "name": "Pressurelicious (feat. Future)",
+      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -51,54 +55,6 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "Snatched",
-        "url": "https://open.spotify.com/album/7zjTC8wx62u1zO2tgDh9D8"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        }
-      ],
-      "duration_ms": 159819,
-      "name": "Snatched",
-      "url": "https://open.spotify.com/track/48JqhA9zo7QlanLa8e0bZE"
-    },
-    {
-      "added_at": "2022-07-15 04:22:26",
-      "album": {
-        "name": "Shape Up",
-        "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
-      },
-      "artists": [
-        {
-          "name": "Leikeli47",
-          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
-        }
-      ],
-      "duration_ms": 213613,
-      "name": "Carry Anne",
-      "url": "https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It's Givin",
-      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
         "name": "Conceited",
         "url": "https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV"
       },
@@ -115,22 +71,18 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "Mind Yo Business (Feat. Latto)",
-        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+        "name": "Snatched",
+        "url": "https://open.spotify.com/album/7zjTC8wx62u1zO2tgDh9D8"
       },
       "artists": [
         {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
         }
       ],
-      "duration_ms": 122266,
-      "name": "Mind Yo Business (Feat. Latto)",
-      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+      "duration_ms": 159819,
+      "name": "Snatched",
+      "url": "https://open.spotify.com/track/48JqhA9zo7QlanLa8e0bZE"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -155,6 +107,94 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "My Side",
+        "url": "https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "duration_ms": 173072,
+      "name": "Hate to see it",
+      "url": "https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 147525,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "It's Givin",
+      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
         "name": "Throw a Lil Mo (Do It)",
         "url": "https://open.spotify.com/album/1TFnaUsUuZ35fNYguyU0Qo"
       },
@@ -167,6 +207,58 @@
       "duration_ms": 125760,
       "name": "Throw a Lil Mo (Do It)",
       "url": "https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Hottie (feat. BabyFace Ray)",
+      "url": "https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ"
+    },
+    {
+      "added_at": "2022-07-15 04:22:26",
+      "album": {
+        "name": "Shape Up",
+        "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 213613,
+      "name": "Carry Anne",
+      "url": "https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -225,38 +317,6 @@
       "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
     },
     {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/5uAbArq49FcSJ2MYILUHzE"
-      },
-      "artists": [
-        {
-          "name": "Melii",
-          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
-        }
-      ],
-      "duration_ms": 154815,
-      "name": "Ain't Loyal",
-      "url": "https://open.spotify.com/track/4VEw8rQd6cf21tRR8b8xSO"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Gangsta Art",
@@ -293,6 +353,22 @@
       "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
     },
     {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 201592,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
+    },
+    {
       "added_at": "2022-06-17 13:38:17",
       "album": {
         "name": "Plan B",
@@ -327,22 +403,6 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
         "name": "Treat Me",
         "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
       },
@@ -373,22 +433,6 @@
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Involved",
-        "url": "https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Involved",
-      "url": "https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt"
-    },
-    {
       "added_at": "2022-06-17 13:38:17",
       "album": {
         "name": "ABOW",
@@ -415,6 +459,26 @@
       "duration_ms": 134184,
       "name": "ABOW",
       "url": "https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5lrAnzvRBQSgAkpo0WkMjB"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -487,22 +551,6 @@
       "duration_ms": 250722,
       "name": "LONDON (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "8 Year Run",
-        "url": "https://open.spotify.com/album/1Mo5tYLmHQz2Lo9QiDatea"
-      },
-      "artists": [
-        {
-          "name": "Renni Rucci",
-          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
-        }
-      ],
-      "duration_ms": 130750,
-      "name": "8 Year Run",
-      "url": "https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -591,22 +639,6 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "Gimme Head",
-        "url": "https://open.spotify.com/album/4DZHm2BihbbkDmE2D7Wdn2"
-      },
-      "artists": [
-        {
-          "name": "LightSkinKeisha",
-          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
-        }
-      ],
-      "duration_ms": 179984,
-      "name": "Gimme Head",
-      "url": "https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
       },
@@ -679,26 +711,6 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "We Go Up",
-        "url": "https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 255188,
-      "name": "We Go Up (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
         "name": "Spring, Summer",
         "url": "https://open.spotify.com/album/5iG6E2PsabzkSgDrLA0oDF"
       },
@@ -711,26 +723,6 @@
       "duration_ms": 166365,
       "name": "Spring, Summer",
       "url": "https://open.spotify.com/track/0vF3fuZGdOS2pBd17GbtMc"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -751,42 +743,6 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "Sneaky Link Shemix",
-        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
-      },
-      "artists": [
-        {
-          "name": "Kayla Nicole",
-          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
-        },
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        }
-      ],
-      "duration_ms": 98795,
-      "name": "Sneaky Link Shemix",
-      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Hard On A 304",
-        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 121269,
-      "name": "Feelin\u2019 Sexy",
-      "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
         "name": "Dancing Queen / Yasss Queen",
         "url": "https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff"
       },
@@ -799,26 +755,6 @@
       "duration_ms": 193076,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Toot It Up (with Flo Milli)",
-        "url": "https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP"
-      },
-      "artists": [
-        {
-          "name": "Sally Sossa",
-          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Toot It Up (with Flo Milli)",
-      "url": "https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -887,6 +823,70 @@
       "duration_ms": 142998,
       "name": "No Panties",
       "url": "https://open.spotify.com/track/65aGF0Q6hLvlbIyuY2OXwX"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "8 Year Run",
+        "url": "https://open.spotify.com/album/1Mo5tYLmHQz2Lo9QiDatea"
+      },
+      "artists": [
+        {
+          "name": "Renni Rucci",
+          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
+        }
+      ],
+      "duration_ms": 130750,
+      "name": "8 Year Run",
+      "url": "https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Involved",
+        "url": "https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Involved",
+      "url": "https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/5uAbArq49FcSJ2MYILUHzE"
+      },
+      "artists": [
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "duration_ms": 154815,
+      "name": "Ain't Loyal",
+      "url": "https://open.spotify.com/track/4VEw8rQd6cf21tRR8b8xSO"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
+        "name": "Gimme Head",
+        "url": "https://open.spotify.com/album/4DZHm2BihbbkDmE2D7Wdn2"
+      },
+      "artists": [
+        {
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
+        }
+      ],
+      "duration_ms": 179984,
+      "name": "Gimme Head",
+      "url": "https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y"
     }
   ],
   "unique_name": "Feelin' Myself",

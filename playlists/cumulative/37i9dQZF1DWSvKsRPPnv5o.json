@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/0HhPoiceZZ8Gvl5KLIjKNP"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Tope",
+          "url": "https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140534,
+      "name": "10s, 20s, 50s, 100s",
+      "url": "https://open.spotify.com/track/4egNUXSdg3yDYD2BOZjYQU"
+    },
+    {
+      "album": {
         "name": "2010",
         "url": "https://open.spotify.com/album/3BO8pSV1AMv2UkE80FHMR3"
       },
@@ -165,6 +187,24 @@
       "duration_ms": 130869,
       "name": "Ain't It A Flex",
       "url": "https://open.spotify.com/track/3VJCF5cQExY4I1UUeumYPv"
+    },
+    {
+      "album": {
+        "name": "All Blue",
+        "url": "https://open.spotify.com/album/6HE5aKHcsorSzReD3VCFWq"
+      },
+      "artists": [
+        {
+          "name": "Rob $tone",
+          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "All Blue",
+      "url": "https://open.spotify.com/track/17mVb5scsMo19AmV1r5rNr"
     },
     {
       "album": {
@@ -493,7 +533,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 147789,
       "name": "Brand New Rolex",
       "url": "https://open.spotify.com/track/0rOc6dyoDZENV8mJQ2gnQz"
@@ -811,7 +851,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 152792,
       "name": "Couldn't Be Me",
       "url": "https://open.spotify.com/track/1NhZlloWR20r0ETcvhWPxL"
@@ -935,7 +975,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
@@ -1239,7 +1279,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 176850,
       "name": "Every Good Girl",
       "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
@@ -1953,7 +1993,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 194022,
       "name": "Jerry Curl (feat. Larry June)",
       "url": "https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1"
@@ -2011,7 +2051,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 190186,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc"
@@ -2165,7 +2205,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 179674,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
@@ -2249,6 +2289,46 @@
       "duration_ms": 168224,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
+    },
+    {
+      "album": {
+        "name": "Light Breeze",
+        "url": "https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
+    },
+    {
+      "album": {
+        "name": "Like The Way You Move (feat. Blueface)",
+        "url": "https://open.spotify.com/album/4VNCOZl2fmc7xskD1CXHoE"
+      },
+      "artists": [
+        {
+          "name": "ASM Bopster",
+          "url": "https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225869,
+      "name": "Like The Way You Move (feat. Blueface)",
+      "url": "https://open.spotify.com/track/4EdBC32i66Ctblo1tMQfbJ"
     },
     {
       "album": {
@@ -2875,6 +2955,24 @@
       "duration_ms": 124865,
       "name": "Okay",
       "url": "https://open.spotify.com/track/1QKG0n4AawYX4K8SkvjxtS"
+    },
+    {
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/4bSCnj5Mlp6fixSnzYQTmq"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121142,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/4Q0HwxjwDAPq7doGaLUxCk"
     },
     {
       "album": {
@@ -3572,6 +3670,28 @@
     },
     {
       "album": {
+        "name": "Survivor's Guilt",
+        "url": "https://open.spotify.com/album/6URnbR6SZsQmhopg3x68ea"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133533,
+      "name": "Smoke Nuffin' (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/654dosgptEZkNk0vX8ZoXj"
+    },
+    {
+      "album": {
         "name": "Soccer Dad",
         "url": "https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS"
       },
@@ -3761,7 +3881,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 202666,
       "name": "Tell The Truth (with Shordie Shordie)",
       "url": "https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh"
@@ -3823,6 +3943,28 @@
       "duration_ms": 167547,
       "name": "That's My Dawg",
       "url": "https://open.spotify.com/track/6B82nEUsmDZgjh0agenqn6"
+    },
+    {
+      "album": {
+        "name": "The Block",
+        "url": "https://open.spotify.com/album/5uoTPaN1d4o0TZfTlhWV0J"
+      },
+      "artists": [
+        {
+          "name": "Tru Carr",
+          "url": "https://open.spotify.com/artist/70LeECrcNFIOvGZqe8byzQ"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "The Block",
+      "url": "https://open.spotify.com/track/1HQnH8Qh2NjaWB5gGfjDif"
     },
     {
       "album": {

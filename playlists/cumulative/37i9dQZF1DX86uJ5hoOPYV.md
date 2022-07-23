@@ -4,7 +4,7 @@
 
 > This South Asian Heritage Month, Sharmeen Obaid Chinoy shares her favorite Pakistani tracks accompanying her on her film travels all over the world.
 
-28 songs - 2 hr 41 min - not published yet
+28 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/7kWd4zt3p8HAy2bI5pjcnk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

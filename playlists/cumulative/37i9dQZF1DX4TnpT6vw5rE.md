@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-175 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+177 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 | 2020-12-08\* |  |
 | [Father Time](https://open.spotify.com/track/07cPfu8rikx5pkmAFzBDfC) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Father Time](https://open.spotify.com/album/34oHoVmrfHegqTJRnO6dLQ) | 3:51 | 2020-12-08\* | 2021-09-17 |
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2020-12-08\* | 2021-05-27 |
+| [First Light](https://open.spotify.com/track/1bnxXs5RnZMstR6U1lsJtV) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Daily Light](https://open.spotify.com/album/2P4ERwxCZCBsRb5TgqigIe) | 2:42 | 2022-07-22 |  |
 | [Focus](https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Focus](https://open.spotify.com/album/0Q6OXWzRgM4pbUlxYMV2Pb) | 2:47 | 2020-12-08\* | 2021-05-27 |
 | [Focus One](https://open.spotify.com/track/3XbLt09x1IBDMPYDTFRZXM) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus One](https://open.spotify.com/album/7pPXleKmHlZ8YPkQTxetQ1) | 3:31 | 2021-12-22 |  |
 | [Focus Within](https://open.spotify.com/track/7kiz2xQSHHaCifsJQ1rppt) | [Bernardo Fuches](https://open.spotify.com/artist/0qymchRqSiaK2RgmjPOTCs) | [Focus Within](https://open.spotify.com/album/7u4hpdAQdp3IEFXC7dy1lv) | 2:37 | 2022-04-21 |  |
@@ -103,6 +104,7 @@
 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 | 2021-10-28 |  |
 | [Lätt](https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Lätt](https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf) | 2:10 | 2022-07-15 |  |
 | [Magnificent](https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ) | [The Bay Man](https://open.spotify.com/artist/4XUwkDFoOHIN6YnWBxE5Om) | [Magnificent](https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS) | 2:53 | 2021-06-16 |  |
+| [Majakka](https://open.spotify.com/track/4k1XG6vGrACVptWElSDPAu) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Majakka](https://open.spotify.com/album/0PAl9YN6LVhKEKlP0J56Sd) | 2:46 | 2022-07-22 |  |
 | [Mission at Beccles](https://open.spotify.com/track/0873bg61Q7WoVoKJXzNQCD) | [underwaters](https://open.spotify.com/artist/1ISTqu0xKeFelPqY4lYVOM) | [Mission at Beccles](https://open.spotify.com/album/233G9MsUHRJCERpaVpTaFS) | 3:16 | 2021-05-27 |  |
 | [Mist](https://open.spotify.com/track/0L8U0b9O7lQO9VipV3i6xN) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Mist](https://open.spotify.com/album/2ffssy6IF2Pw4741ITKhqY) | 3:30 | 2021-10-21 |  |
 | [Motion](https://open.spotify.com/track/0JExELrTTlXBvwYXJGIMtT) | [Balam Acab](https://open.spotify.com/artist/49jnSQa0nLfgkSREjJ03Az) | [Wander/Wonder](https://open.spotify.com/album/79iR8QvVwZ2abKTWrE2BLV) | 4:03 | 2020-12-08\* | 2021-09-22 |

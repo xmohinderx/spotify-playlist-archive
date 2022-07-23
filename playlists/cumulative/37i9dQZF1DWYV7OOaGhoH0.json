@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Bonny Light Horseman ",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Dawes",
   "name": "Roots Rising",
   "published_playlist_ids": [
     "253UejjPPflLcat0bb66LZ"
@@ -690,6 +690,28 @@
     },
     {
       "album": {
+        "name": "Buffet Days",
+        "url": "https://open.spotify.com/album/272cuK8kjbVwLnIl41N4rx"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        },
+        {
+          "name": "Carl Broemel",
+          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "Buffet Days",
+      "url": "https://open.spotify.com/track/1Y7XrntbqWMMR2Rm6HLnG4"
+    },
+    {
+      "album": {
         "name": "By and By",
         "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
       },
@@ -963,6 +985,24 @@
       "duration_ms": 157080,
       "name": "Colorado Blues",
       "url": "https://open.spotify.com/track/2a1YnK5daxSlKjfYEdTveh"
+    },
+    {
+      "album": {
+        "name": "Misadventures Of Doomscroller",
+        "url": "https://open.spotify.com/album/24FkcvXRLoG17447domdkg"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330653,
+      "name": "Comes In Waves",
+      "url": "https://open.spotify.com/track/4tP7SjS89hevcazxmqshtm"
     },
     {
       "album": {
@@ -2353,7 +2393,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 194813,
       "name": "McKenzie",
       "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
@@ -2371,7 +2411,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 291762,
       "name": "Mecca",
       "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
@@ -2566,6 +2606,24 @@
     },
     {
       "album": {
+        "name": "Need To Know Basis",
+        "url": "https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119975,
+      "name": "Need To Know Basis",
+      "url": "https://open.spotify.com/track/03medhiG64fBChIiDBTNPK"
+    },
+    {
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
       },
@@ -2671,6 +2729,24 @@
       "duration_ms": 226466,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
+    },
+    {
+      "album": {
+        "name": "Once There Was No Sun",
+        "url": "https://open.spotify.com/album/51d0vKPmP92IL87nxXJDha"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261440,
+      "name": "Once There Was No Sun",
+      "url": "https://open.spotify.com/track/1jWlS2LrM3fGvtgPSBbp4f"
     },
     {
       "album": {
@@ -2837,10 +2913,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG"
+    },
+    {
+      "album": {
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234156,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS"
     },
     {
       "album": {
@@ -4051,7 +4145,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 274840,
       "name": "Vini W\u00e8",
       "url": "https://open.spotify.com/track/15k4qMUlrAfEyuQILWe110"
@@ -4243,7 +4337,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 173678,
       "name": "We Need To Talk About It",
       "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"

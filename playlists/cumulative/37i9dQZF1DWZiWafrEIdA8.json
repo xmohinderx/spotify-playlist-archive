@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 173240,
       "name": "(Bonus Track) Holiday (Feat. Choi LB)",
       "url": "https://open.spotify.com/track/2D30ZO6KNwiNeLjW6i5nVr"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 202466,
       "name": "29",
       "url": "https://open.spotify.com/track/1GbKnUDZo8b0UDggBjEgWe"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 159493,
       "name": "bochae",
       "url": "https://open.spotify.com/track/79nwg5BkotPWNL4qmqT3Iz"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 181481,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0v8d3lAWxtrcvLRM4nzFpb"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 248307,
       "name": "Clock Hands",
       "url": "https://open.spotify.com/track/4i5eGCV1U2ZLLBpQf7t759"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 221342,
       "name": "dot",
       "url": "https://open.spotify.com/track/1UdVq1sK4CCUyANAftBg7p"
@@ -593,6 +593,28 @@
       "duration_ms": 234004,
       "name": "Drought (feat. Beenzino)",
       "url": "https://open.spotify.com/track/4E8HMRt5QwBngZKUlyDWJh"
+    },
+    {
+      "album": {
+        "name": "CAMPFIRE",
+        "url": "https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp"
+      },
+      "artists": [
+        {
+          "name": "ZIZO",
+          "url": "https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx"
+        },
+        {
+          "name": "Swervy",
+          "url": "https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198125,
+      "name": "El Dorado (Feat. Swervy)",
+      "url": "https://open.spotify.com/track/5irjZILh9ts7fWwpqU2DiU"
     },
     {
       "album": {
@@ -738,6 +760,28 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
+    },
+    {
+      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
@@ -771,7 +815,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 124263,
       "name": "Future Boy",
       "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
@@ -853,7 +897,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 257265,
       "name": "GRAIN (Feat. Dynamicduo, BewhY)",
       "url": "https://open.spotify.com/track/5fV59hTTF805bqlzmI3TcH"
@@ -875,7 +919,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 265939,
       "name": "Growing up (feat. ELO)",
       "url": "https://open.spotify.com/track/1CiEPH5HuqXLxWouWIMX5s"
@@ -915,7 +959,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 225000,
       "name": "HALYANG DREAM (feat.John Park)",
       "url": "https://open.spotify.com/track/2zppBnacbinj3UheY5S0pM"
@@ -981,7 +1025,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 229467,
       "name": "HERE",
       "url": "https://open.spotify.com/track/7gniWoEvKjnrBgVm8IEbnG"
@@ -1017,7 +1061,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 251750,
       "name": "Hmmm",
       "url": "https://open.spotify.com/track/15bT2BHM8ZIvBNE290PSng"
@@ -1035,7 +1079,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 209086,
       "name": "home sh*t home",
       "url": "https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85"
@@ -1079,7 +1123,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 127998,
       "name": "HUG 2021 (feat. Im Soo)",
       "url": "https://open.spotify.com/track/4TRMjJKY9OLJGzacgBbaY4"
@@ -1097,7 +1141,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 195373,
       "name": "I Hated Myself (Tablo's Word)",
       "url": "https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1"
@@ -1133,7 +1177,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 189946,
       "name": "I said it",
       "url": "https://open.spotify.com/track/4Eix5hlLVmeti1vDCDqmIG"
@@ -1289,7 +1333,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 205003,
       "name": "illa illa",
       "url": "https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb"
@@ -1451,7 +1495,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 200533,
       "name": "Let's Adventure To Find A Cat",
       "url": "https://open.spotify.com/track/2k1LyGqDqXtsDa6F1T6tfP"
@@ -1517,7 +1561,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 196053,
       "name": "Making Film",
       "url": "https://open.spotify.com/track/1GRIKiCpi5WCNMTSdVFkcv"
@@ -1623,7 +1667,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 206093,
       "name": "My dream",
       "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
@@ -1949,7 +1993,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 266153,
       "name": "Rainbow \ub808\uc778\ubcf4\uc6b0 (Feat.YDG) - Prod.iDeal",
       "url": "https://open.spotify.com/track/7f4UzFFa5L96Huxa9ESdqI"
@@ -1971,7 +2015,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 183773,
       "name": "RAMIRANI",
       "url": "https://open.spotify.com/track/3xuqOPMe5k9HGbQJzP6GQT"
@@ -2023,7 +2067,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 231023,
       "name": "RUN DAMOIM \ub2ec\ub824",
       "url": "https://open.spotify.com/track/1b4FM2UG8kxlz63ugvfZR5"
@@ -2049,7 +2093,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 248000,
       "name": "Seat Belt (Feat. Dynamic Duo)",
       "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
@@ -2151,7 +2195,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 246840,
       "name": "Skin (feat. Seori)",
       "url": "https://open.spotify.com/track/4JAqA8BZ9aKqgfYVvro8QJ"
@@ -2169,7 +2213,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 229463,
       "name": "sleep tight",
       "url": "https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH"
@@ -2191,7 +2235,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 185808,
       "name": "Sleepless (feat. Heize)",
       "url": "https://open.spotify.com/track/0ifztmwdgzbJe8RU9tXBFk"
@@ -2235,7 +2279,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 228951,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4vimkdkfgJjGfkOkAESHlM"
@@ -2319,7 +2363,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 276612,
       "name": "Still (feat.Crush)",
       "url": "https://open.spotify.com/track/6z7gU9SBoBdqEaMi4jPKc2"
@@ -2443,7 +2487,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 164035,
       "name": "The Little Prince (Prod. Godic)",
       "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
@@ -2575,7 +2619,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 227941,
       "name": "Universe (feat. Lee Juck)",
       "url": "https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc"
@@ -2655,7 +2699,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 214807,
       "name": "When it rains",
       "url": "https://open.spotify.com/track/4r5VubfzbqVjQHgbgthqAU"
@@ -2713,7 +2757,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 221142,
       "name": "wish",
       "url": "https://open.spotify.com/track/1i8Gii2k5VTJqf8UNEve9U"
@@ -2731,7 +2775,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 111157,
       "name": "WooDy",
       "url": "https://open.spotify.com/track/73nqOCvDLeMPYLZT6fNusW"
@@ -2827,7 +2871,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
@@ -2915,7 +2959,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 225694,
       "name": "You Can Stay",
       "url": "https://open.spotify.com/track/5xqnnQCmadTfdamDI4wl2s"

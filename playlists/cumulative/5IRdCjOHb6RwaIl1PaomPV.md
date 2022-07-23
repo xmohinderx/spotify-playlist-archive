@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. New collaboration from Eartheater &amp; LSDXOXO, plus the latest cuts from Joel Corry, Azzecca, TDJ, niina, Ayra Star, Noizu, and more.
 
-170 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
+172 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ketamean \- NY Mix](https://open.spotify.com/track/1rXYc6RcQtlHQU3J2ng0y9) | [Anonymous Club](https://open.spotify.com/artist/1tbiYIR5Xxl9N4ubPEAvTA), [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Ketamean \(NY Mix\)](https://open.spotify.com/album/4cXCPvVCSorD1lIQaxdIak) | 2:51 | 2022-06-03 |  |
 | [lavender's love](https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [lavender's love](https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo) | 2:40 | 2022-06-03 |  |
 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 | 2022-06-03 |  |
+| [Let You Go \- Sebastian Ingrosso & Desembra Remix](https://open.spotify.com/track/0nMwQVS9TDSMdg9cI0HCzA) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Desembra](https://open.spotify.com/artist/7hWvfVGr0m1jUO2ded6LJJ) | [Let You Go \(Sebastian Ingrosso & Desembra Remix\)](https://open.spotify.com/album/25joZ90gkBl7TnPEDLduyf) | 3:53 | 2022-07-22 |  |
 | [Let's Ride](https://open.spotify.com/track/1a5LDtKvdp4nFRtXDm0gxf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [The Fool](https://open.spotify.com/album/2WEWkTfh6gj1oi63K5cFQS) | 2:25 | 2022-06-03 |  |
 | [Local Newspaper \- Eris Drew Remix](https://open.spotify.com/track/6NpPr9WnmOkEgfq0tDMVgy) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [JOY \(Deluxe\)](https://open.spotify.com/album/2JyQlVMRddAaZ9r3v15RCJ) | 7:36 | 2022-06-17 |  |
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-06-03 |  |
@@ -110,6 +111,7 @@
 | [Mosh O'Clock](https://open.spotify.com/track/5XKnUVBjVreAa44cZgqdzK) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [Mosh O'Clock](https://open.spotify.com/album/7leoTi3FriAmxsW5R3Hr6r) | 2:05 | 2022-07-12 |  |
 | [Music4TheMasses](https://open.spotify.com/track/40xhB0wBh7Kjyn2O1ZCxYM) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Music4TheMasses](https://open.spotify.com/album/0IetwS8HAxU9lu1Z5YHeNP) | 3:38 | 2022-06-03 |  |
 | [not yet.](https://open.spotify.com/track/3VIkfam8WA7bqt3gW81Ln3) | [penny p.](https://open.spotify.com/artist/0fiIHGSyHdIncaSJQAGbY9) | [not yet.](https://open.spotify.com/album/3jYtvtEuFu4cMaaZVUoWZM) | 2:36 | 2022-06-03 |  |
+| [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-22 |  |
 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2022-06-03 |  |
 | [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2022-06-03 |  |
 | [Ocean Parkway](https://open.spotify.com/track/1uloqdf6spYzacVShYYsMU) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Then Again](https://open.spotify.com/album/48u42pkXw9wIIp3LZyfjk3) | 3:13 | 2022-06-03 |  |

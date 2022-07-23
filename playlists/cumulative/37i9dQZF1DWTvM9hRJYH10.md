@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Tanner Adell
 
-201 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+203 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Damsel in this Dress](https://open.spotify.com/track/7ArpFETe69QZq26EZ9R3Gy) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Damsel in this Dress](https://open.spotify.com/album/4XtrizZf5lVQchM3vAOd9M) | 2:58 | 2021-12-31 |  |
 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 | 2022-03-25 |  |
 | [Doctor](https://open.spotify.com/track/4Nor2AyPPlYeXysD5vHcPY) | [Kamryn Palmer](https://open.spotify.com/artist/0l8kaiWF1RdEZUiUXAIccL) | [Doctor](https://open.spotify.com/album/3l0pKQEEQQnkTCgqcDsVwM) | 3:23 | 2022-02-11 | 2022-06-01 |
+| [Don't Have the Heart](https://open.spotify.com/track/6oWtcMZEvn4QlG3XWFbDcW) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Don't Have the Heart](https://open.spotify.com/album/3JKLVJ0VF6UaVI92q3fuFW) | 3:02 | 2022-07-22 |  |
 | [Elephant](https://open.spotify.com/track/0XQVTP037rHv3D4zrAJo4J) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/2TP01rVGpfAYeAie5op5el) | 3:20 | 2021-12-31 | 2022-01-08 |
 | [Even the Stars](https://open.spotify.com/track/4VUI8ZaB2FxFvFYhG2XOO7) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Even the Stars](https://open.spotify.com/album/4GHwtO4PjPA3rNNuEkFRi4) | 3:35 | 2022-03-04 |  |
 | [Every Last Thing](https://open.spotify.com/track/5qQNPkFOoOPT4IAlmHX0yH) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Every Last Thing](https://open.spotify.com/album/4vsOyrjgHxAsxklWp9DJ0X) | 2:44 | 2021-12-31 | 2022-01-08 |
@@ -199,6 +200,7 @@
 | [We'll Be](https://open.spotify.com/track/6nf5AVgf4Y4N9d21dolwpB) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [We'll Be](https://open.spotify.com/album/5VbKG5rT9ElKh5Qh0xS8NI) | 3:47 | 2021-12-31 |  |
 | [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 | 2022-05-13 |  |
 | [What I'm Missing](https://open.spotify.com/track/66GQoMh8QwUD8ogFEX2xxD) | [Tarrah](https://open.spotify.com/artist/7wAd2gJo5Hr8WUUgRiLu6l) | [What I'm Missing](https://open.spotify.com/album/5KBJHtly6fuSycf8Hou4mm) | 4:07 | 2021-12-31 | 2022-02-12 |
+| [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 | 2022-07-22 |  |
 | [When It Wasn't](https://open.spotify.com/track/2T4lQflLAaLiyXe4nVLAFL) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [When It Wasn't](https://open.spotify.com/album/0fhQxTXDGEB3ahvmWLas0W) | 2:49 | 2022-07-08 |  |
 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2021-12-31 |  |
 | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/track/0Mb7cQgxUHG1sv942JKRQN) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB), [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/album/0oQTz1ECewqKTOYgkWbiIN) | 3:18 | 2022-04-22 |  |

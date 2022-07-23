@@ -1860,6 +1860,28 @@
     },
     {
       "album": {
+        "name": "Lontano Da Qui",
+        "url": "https://open.spotify.com/album/18JrDsRl6IaU6iAV6KJRZn"
+      },
+      "artists": [
+        {
+          "name": "TerzoGrado",
+          "url": "https://open.spotify.com/artist/4LBzpop76F0OCdV1EvPkXd"
+        },
+        {
+          "name": "Don Marco",
+          "url": "https://open.spotify.com/artist/4CdYqWx1aPBlXcXZPPy1ZN"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132987,
+      "name": "Lontano Da Qui",
+      "url": "https://open.spotify.com/track/218oCaHB7IettSt4R7fHNr"
+    },
+    {
+      "album": {
         "name": "dalla terra a marte",
         "url": "https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr"
       },

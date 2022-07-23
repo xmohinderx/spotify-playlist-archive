@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Spiritbox on top of the biggest Metal playlist!",
+  "description": "I Prevail on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Bad Things",
+        "url": "https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228260,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw"
+    },
+    {
+      "album": {
         "name": "Bullet For My Valentine",
         "url": "https://open.spotify.com/album/6QoBe740np3sgfdp7FX12k"
       },
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 196979,
       "name": "Body Bag",
       "url": "https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 233309,
       "name": "EYE TO EYE",
       "url": "https://open.spotify.com/track/532PgIpf93c12uY9SAWheS"
@@ -1325,10 +1343,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 213287,
       "name": "From The Fire In You",
       "url": "https://open.spotify.com/track/4cBfIHOrhKupWbM6IkKtB5"
+    },
+    {
+      "album": {
+        "name": "Fuckboi (feat. Conquer Divide)",
+        "url": "https://open.spotify.com/album/1pVy6lUUdpYfD2b88KYf6l"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Fuckboi (feat. Conquer Divide)",
+      "url": "https://open.spotify.com/track/5TcdxibMGG4QVSW4H2ELpO"
     },
     {
       "album": {
@@ -1719,6 +1759,24 @@
       "duration_ms": 261186,
       "name": "Imaginary Fire - feat. Greg Puciato",
       "url": "https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll"
+    },
+    {
+      "album": {
+        "name": "In the Eye of the Storm",
+        "url": "https://open.spotify.com/album/2tH0JMPopirEbcf3pbGwA0"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249213,
+      "name": "In the Eye of the Storm",
+      "url": "https://open.spotify.com/track/7iBVUp42yQBW5y8nDXrXG1"
     },
     {
       "album": {
@@ -2217,7 +2275,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 173716,
       "name": "NO HELP",
       "url": "https://open.spotify.com/track/2yxjtF4f1Yw2GpKELclHw3"
@@ -2423,7 +2481,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
@@ -2661,6 +2719,24 @@
       "duration_ms": 175442,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/5wfccHW5hemTM6o1uZqETU"
+    },
+    {
+      "album": {
+        "name": "Rise to the Call",
+        "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227486,
+      "name": "Rise to the Call",
+      "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
     },
     {
       "album": {
@@ -3167,7 +3243,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 243080,
       "name": "Sunset over the Empire",
       "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
@@ -3225,6 +3301,24 @@
       "duration_ms": 358880,
       "name": "Tamashii No Houkai",
       "url": "https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx"
+    },
+    {
+      "album": {
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/7qpwjm2QJOXh4Rfh844z13"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237291,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/1gb6XmjKLsdILbHNiDzrtV"
     },
     {
       "album": {
@@ -3315,6 +3409,24 @@
       "duration_ms": 291660,
       "name": "The Chapeltown Rag",
       "url": "https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw"
+    },
+    {
+      "album": {
+        "name": "The Dying Song (Time To Sing)",
+        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
     },
     {
       "album": {
@@ -3473,7 +3585,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 214173,
       "name": "The Vulture Club",
       "url": "https://open.spotify.com/track/15R3KwPfM0dZS0TAc2vbwm"
@@ -3827,7 +3939,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 166575,
       "name": "Weight of Glory",
       "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"

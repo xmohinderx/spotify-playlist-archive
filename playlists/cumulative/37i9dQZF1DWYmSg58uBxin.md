@@ -4,13 +4,14 @@
 
 > Soothing piano and strings to help you concentrate.
 
-168 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
+169 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2020-10-20\* |  |
 | [A String in the Night](https://open.spotify.com/track/7dZ3v5DM5NvdviQ66NTcK4) | [Duo Romanza](https://open.spotify.com/artist/4c5bDKFZPlbp3EqDLyk4Hn) | [A String in the Night](https://open.spotify.com/album/2sMWuQaCwsvRsjhc5KIIfH) | 2:02 | 2021-09-03 |  |
 | [Adagio in G Minor](https://open.spotify.com/track/2AjyreHCD6PKAtRGV2qsK5) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Chamber Orchestra of Miemo](https://open.spotify.com/artist/7I4SytVVBoXQLU1IrG2pDp) | [Adagio in G Minor](https://open.spotify.com/album/71LQkDLQm2RozTdCKAFBpt) | 4:26 | 2020-10-20\* | 2021-10-21 |
+| [After The Rain](https://open.spotify.com/track/5XYAieIJYukSs5yscEgu9w) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [After The Rain](https://open.spotify.com/album/7tsPRVM0KZQrV7txpBoa4R) | 2:38 | 2022-07-22 |  |
 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 | 2020-10-20\* |  |
 | [As We Float](https://open.spotify.com/track/2mCHLtMrI4SLayY8spzC5V) | [Joe Kirby](https://open.spotify.com/artist/0Vqhg7RKoHs40Y2Nc9jA8a) | [Abbey Road Masters: Repair & Reflect](https://open.spotify.com/album/3qbfM9ChNmnFlb1iU8B3Yv) | 2:46 | 2022-05-27 |  |
 | [Aspiration](https://open.spotify.com/track/2t8KaPzrQ3Isk45ZlhXKL4) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Aspiration](https://open.spotify.com/album/4mgZqnt9d1LMagwFdV0Ic6) | 3:06 | 2020-10-20\* |  |

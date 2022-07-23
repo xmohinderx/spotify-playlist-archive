@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Joshwa + Jaded + Eliza Legzdina
 
-269 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+270 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Can't Get Enough](https://open.spotify.com/track/3PkiB253ErJjaAfsiDm7Kk) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Can’t Get Enough](https://open.spotify.com/album/1oKRqKeB5whEFhn3ceXIgo) | 3:30 | 2021-12-17 | 2022-02-18 |
 | [Can't Help U](https://open.spotify.com/track/79zAJa2VTxDkzAj1BrvVpn) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Can't Help U](https://open.spotify.com/album/3PaKSgJ1bnI6u53LbiPkES) | 3:45 | 2022-05-06 |  |
 | [Can't You See \- Radio Edit](https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Can't You See](https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy) | 3:22 | 2022-04-15 | 2022-07-08 |
+| [Chemical Embrace \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Chemical Embrace \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS) | 3:12 | 2022-07-22 |  |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2022-03-08 | 2022-03-10 |
 | [Climax](https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Climax](https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC) | 3:18 | 2022-05-19 |  |
 | [Closer](https://open.spotify.com/track/37CRlrQQUbL5sKWDAuYE7E) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Closer](https://open.spotify.com/album/6r5uJ29q6WLf2UzP7nGTJG) | 3:38 | 2022-02-25 | 2022-05-28 |

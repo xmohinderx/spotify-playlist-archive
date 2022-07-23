@@ -2,9 +2,9 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe \(◡ ‿ ◡ ✿\) cover: Ivytide
+> it's a vibe \(◡ ‿ ◡ ✿\) cover: afternoon bike ride
 
-892 songs - 1 day 21 hr 33 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+894 songs - 1 day 21 hr 38 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Filth](https://open.spotify.com/track/6ynqLEZvcA4Wqv8B23IyYN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Heavy Hitting Hurts My Head](https://open.spotify.com/album/787pfRNdf6yHmnQen8LaBo) | 3:53 | 2021-02-13 | 2021-04-17 |
 | [Fire for You](https://open.spotify.com/track/7MXMcK1xAEYzkfjKKwh6ry) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0yNnJlpbR9kNXB1fUUCuOz) | 3:51 | 2020-10-29\* | 2021-02-13 |
 | [First Place](https://open.spotify.com/track/5Td5Y4mFerZdmgs2mmGw9A) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [First Place](https://open.spotify.com/album/4t8vZxmCJHeUWcaQlKtBK6) | 2:33 | 2021-03-14 | 2021-06-19 |
-| [Flood](https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Flood](https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc) | 2:37 | 2022-02-04 |  |
+| [Flood](https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Flood](https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc) | 2:37 | 2022-02-04 | 2022-07-23 |
 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/4MjIJnPOuO83ZiKr244QKk) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Flower \(In Full Bloom\)](https://open.spotify.com/album/0Rxa9TV9eNXcVu4kblPAw0) | 3:51 | 2021-10-02 | 2022-01-29 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-08-21 | 2021-10-23 |
 | [fly](https://open.spotify.com/track/3jH30PGXQDOx1VP9nL75lU) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [it didn't know it was a butterfly](https://open.spotify.com/album/4EHYixLT41BFnQrBiBOOzI) | 3:19 | 2022-04-01 |  |
@@ -400,7 +400,7 @@
 | [i think i saw a ghost](https://open.spotify.com/track/29XWWxrDuVcKVPfCaGDGXT) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [i think i saw a ghost](https://open.spotify.com/album/1qIZPiM3lKihjfq4V6tOMc) | 2:55 | 2021-11-20 | 2022-04-23 |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-06 | 2021-06-05 |
 | [I Wonder](https://open.spotify.com/track/2jAQ2aimRlA9Mh91HbZffx) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [EREZ](https://open.spotify.com/album/5ValAPJZMl7J1tBYMlSZnz) | 2:34 | 2020-11-07 | 2020-11-18 |
-| [I! Only! Wanna! Live! Forever!](https://open.spotify.com/track/2fHRtDFVqV5KCgl5LnG8Bv) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [I! Only! Wanna! Live! Forever!](https://open.spotify.com/album/2xG3Whos27zHMLCzcgv0Xp) | 3:13 | 2022-02-18 |  |
+| [I! Only! Wanna! Live! Forever!](https://open.spotify.com/track/2fHRtDFVqV5KCgl5LnG8Bv) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [I! Only! Wanna! Live! Forever!](https://open.spotify.com/album/2xG3Whos27zHMLCzcgv0Xp) | 3:13 | 2022-02-18 | 2022-07-23 |
 | [I'd Rather Be Alone](https://open.spotify.com/track/3VhBPtQ81n2AHO5jrmGnuC) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [I'd Rather Be Alone](https://open.spotify.com/album/4hXCB2Qgpqj6DP3wjOLpSo) | 3:25 | 2021-05-03 | 2021-09-18 |
 | [i'm not gonna kill you](https://open.spotify.com/track/3yiJz5qVdA5x2ajY1kw99f) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [eleven achers](https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM) | 2:44 | 2022-03-14 | 2022-06-18 |
 | [i'm not okay](https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [i'm not okay](https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa) | 2:54 | 2021-03-14 | 2021-05-22 |
@@ -436,6 +436,7 @@
 | [Jackie Onassis](https://open.spotify.com/track/3OH7EyT8CgvW34AZLn8D79) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Jackie Onassis](https://open.spotify.com/album/0yTuTdnNybyhwLTpgbl4Br) | 3:45 | 2020-10-29\* | 2020-12-07 |
 | [Jet Lag](https://open.spotify.com/track/3AvUUJ8HopzSeDTi9aFiCN) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Jet Lag](https://open.spotify.com/album/3OACbRi43tEvh5GrPsWrJq) | 2:41 | 2021-02-06 | 2021-03-27 |
 | [Judge Me](https://open.spotify.com/track/0sWwA3apfTCkLMMrivpPeJ) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Judge Me](https://open.spotify.com/album/1koBXSMqbuHkIbQhaTQ7V5) | 3:20 | 2022-02-04 | 2022-03-19 |
+| [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 | 2022-07-22 |  |
 | [Just Because](https://open.spotify.com/track/263EQSN2t8ilPZ4W8s5RRD) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Just Because](https://open.spotify.com/album/2lMu7R88lv31od8CcVXRjI) | 2:53 | 2021-02-27 | 2021-05-29 |
 | [Just Don't](https://open.spotify.com/track/2KIIrpnsVBuHWGjiVx8YkB) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Just Don't](https://open.spotify.com/album/0XZGUc88dTR4FqXjnqbSec) | 4:01 | 2021-06-05 | 2021-09-11 |
 | [Just Existing](https://open.spotify.com/track/5LPM9FeQpWnWTZ6BqQJEzf) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [Just Existing](https://open.spotify.com/album/1O5Y4xofSFctxkXFhyjtjM) | 3:07 | 2021-08-07 | 2021-10-02 |
@@ -745,6 +746,7 @@
 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 | 2022-01-21 | 2022-03-05 |
 | [SUGARCOATED](https://open.spotify.com/track/6RxWF6z8oH5qnzm7jjjxPf) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K), [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [SUGARCOATED](https://open.spotify.com/album/14h0eLQA22KapuwPXQ8ReX) | 3:11 | 2021-05-22 | 2021-07-10 |
 | [Summerland](https://open.spotify.com/track/0dN3cttUifpkm1Oja79zJr) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Summerland](https://open.spotify.com/album/1A1dSoZMQPU0DcCfaSLvQ1) | 3:49 | 2021-07-24 | 2021-10-09 |
+| [Summertime](https://open.spotify.com/track/0WBBh6JTY5ckeZI2f6SIbz) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Summertime](https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy) | 3:29 | 2022-07-22 |  |
 | [Sunflower, Are You There?](https://open.spotify.com/track/4cExyYQMTbCgT163mKpq2O) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Sunflower, Are You There?](https://open.spotify.com/album/6obJI5H1qcVYz1wKioxSbN) | 3:32 | 2021-05-08 | 2021-06-19 |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 |  |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2022-01-14 | 2022-05-28 |

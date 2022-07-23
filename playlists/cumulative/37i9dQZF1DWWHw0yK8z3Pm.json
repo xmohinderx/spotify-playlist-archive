@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Singer-songwriters who colour outside the lines. Cover: Julian Taylor",
+  "description": "Singer-songwriters who colour outside the lines. Cover: iskw\u0113, Tom Wilson",
   "name": "Renegade Folk",
   "published_playlist_ids": [
     "5h0SoEEkn4gAx7xRIlcPhO"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 221466,
       "name": "3 Sisters",
       "url": "https://open.spotify.com/track/4dhjdRY1ThnabNKlgPB8Ri"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 276826,
       "name": "All The Good Times",
       "url": "https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 173615,
       "name": "Church Of Better Daze",
       "url": "https://open.spotify.com/track/6U4jMMusOoHs2XaxVH0qgd"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 219333,
       "name": "Did You Say Such A Thing (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 201525,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/4MhSHMQnlowD8yrHmnK6j9"
@@ -990,6 +990,28 @@
     },
     {
       "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "album": {
         "name": "Light Of Day",
         "url": "https://open.spotify.com/album/7DvZtx3flW9wmtDu5Qz1mU"
       },
@@ -1059,6 +1081,24 @@
       "duration_ms": 245568,
       "name": "If It Comes in the Morning",
       "url": "https://open.spotify.com/track/2dKbKigrQtSFGDS8c9L3fJ"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146593,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy"
     },
     {
       "album": {
@@ -1221,10 +1261,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 198783,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/1g1QGUiGeBPDepBOqDgU0U"
+    },
+    {
+      "album": {
+        "name": "Loose Future",
+        "url": "https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Loose Future",
+      "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
     },
     {
       "album": {
@@ -1390,6 +1448,28 @@
     },
     {
       "album": {
+        "name": "Mother Love",
+        "url": "https://open.spotify.com/album/7dKPc0Mj8iVLpaVvby2NSf"
+      },
+      "artists": [
+        {
+          "name": "iskw\u0113",
+          "url": "https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420"
+        },
+        {
+          "name": "Tom Wilson",
+          "url": "https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268246,
+      "name": "Mother Love",
+      "url": "https://open.spotify.com/track/6h5oSSJXgIyXHxJm256HWP"
+    },
+    {
+      "album": {
         "name": "Goodbye Nightlife",
         "url": "https://open.spotify.com/album/1llw5IJGwZzz7E2YqYQtv2"
       },
@@ -1477,6 +1557,24 @@
       "duration_ms": 173742,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/3S1jrpvGleaEv1KQ8mXCpK"
+    },
+    {
+      "album": {
+        "name": "North of the Border",
+        "url": "https://open.spotify.com/album/7q3LN4jWho4NMiBXa4EPoi"
+      },
+      "artists": [
+        {
+          "name": "Parkland",
+          "url": "https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264387,
+      "name": "North of the Border",
+      "url": "https://open.spotify.com/track/1on5aZH6WRLgP0UZsvy680"
     },
     {
       "album": {
@@ -1696,6 +1794,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3Wuu6SCOFRfoo0NVf40lef"
+      },
+      "artists": [
+        {
+          "name": "Blackbird Valley",
+          "url": "https://open.spotify.com/artist/44Q243Ct8zD0pJAT6v4jGV"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301356,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6E04ZDC2zmiBNonSpjVCe8"
+    },
+    {
+      "album": {
         "name": "Seeds",
         "url": "https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV"
       },
@@ -1801,6 +1917,24 @@
       "duration_ms": 203690,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0DZM7vZBFKRkXnPpq17siT"
+    },
+    {
+      "album": {
+        "name": "Non-Typical Find",
+        "url": "https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7"
+      },
+      "artists": [
+        {
+          "name": "Tylor & the Train Robbers",
+          "url": "https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289960,
+      "name": "Staring Down the North",
+      "url": "https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg"
     },
     {
       "album": {
@@ -2024,6 +2158,24 @@
     },
     {
       "album": {
+        "name": "This Mess We're In",
+        "url": "https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9"
+      },
+      "artists": [
+        {
+          "name": "Arlo McKinley",
+          "url": "https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203659,
+      "name": "To Die For",
+      "url": "https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH"
+    },
+    {
+      "album": {
         "name": "Top Down",
         "url": "https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW"
       },
@@ -2165,7 +2317,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 173678,
       "name": "We Need To Talk About It",
       "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"
@@ -2219,7 +2371,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 141746,
       "name": "With You",
       "url": "https://open.spotify.com/track/1WoAQ1TRwi47BqUTt5hLNV"

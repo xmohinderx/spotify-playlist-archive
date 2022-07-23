@@ -588,6 +588,28 @@
     },
     {
       "album": {
+        "name": "Contenta",
+        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
+      },
+      "artists": [
+        {
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+        },
+        {
+          "name": "Victor Rivas",
+          "url": "https://open.spotify.com/artist/6TrKb0KnHM36Gu1U5oMBky"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215347,
+      "name": "Contenta",
+      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
       },
@@ -755,7 +777,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 184000,
       "name": "DIADREAMER",
       "url": "https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv"
@@ -1051,7 +1073,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 174923,
       "name": "I Like 2 Be",
       "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
@@ -1181,7 +1203,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 160000,
       "name": "Ll\u00e1mame",
       "url": "https://open.spotify.com/track/6pUOXwDOMBTIsYKP87urb6"
@@ -1221,6 +1243,24 @@
       "duration_ms": 153711,
       "name": "LSNC",
       "url": "https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK"
+    },
+    {
+      "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/5a6ehCg907H8WCa5oSD0HS"
+      },
+      "artists": [
+        {
+          "name": "Depressiego",
+          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/2RZBRW0bViEHUgoeagzD7m"
     },
     {
       "album": {
@@ -2749,6 +2789,32 @@
       "duration_ms": 168879,
       "name": "Simplemente",
       "url": "https://open.spotify.com/track/6XGj5jW59gjiGaRygj4dbn"
+    },
+    {
+      "album": {
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232298,
+      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
     },
     {
       "album": {

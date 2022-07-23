@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719 likes - 158 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 721 likes - 158 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 76 | [Somo o No Somos](https://open.spotify.com/track/3YeImruYgPnQtn4QgHqi04) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:56 |
 | 77 | [Por Ley](https://open.spotify.com/track/3GCLIIJdXvcKfmJlICkTVL) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Por Ley](https://open.spotify.com/album/1mp0CiX238K8ikVe38GLa1) | 3:18 |
 | 78 | [Mi Favorita](https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:49 |
-| 79 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 |
-| 80 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
+| 79 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
+| 80 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 |
 | 81 | [Escape](https://open.spotify.com/track/1PPHqTL7IpYToKeIuA5pi9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:10 |
 | 82 | [Hola](https://open.spotify.com/track/2taX5z5ZLyCBxkP504Nqmu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:48 |
 | 83 | [Sin Ropa](https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Sin Ropa](https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX) | 2:35 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 85 | [Amor Prohibido](https://open.spotify.com/track/6BEegAev4N2O6arBbXgtdd) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 4:09 |
 | 86 | [Video Llamada](https://open.spotify.com/track/7wQQLVAxrmY4fox5GKasHX) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Historias de un Capricornio](https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K) | 3:35 |
 | 87 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 |
-| 88 | [Pa' Pasar El Rato](https://open.spotify.com/track/5Ar46ySD4J2cSao1iM16wp) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 3:15 |
-| 89 | [ZONA DEL PERREO](https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:11 |
+| 88 | [ZONA DEL PERREO](https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:11 |
+| 89 | [Pa' Pasar El Rato](https://open.spotify.com/track/5Ar46ySD4J2cSao1iM16wp) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 3:15 |
 | 90 | [Rumba](https://open.spotify.com/track/0dQsqDJxgqlRyNQRhSdoqi) | [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Inesperado](https://open.spotify.com/album/2z4uyqpMvD4QFq2drk1oMh) | 3:15 |
 | 91 | [Baby \- Chris Jedi / Supa Dups Remix](https://open.spotify.com/track/14Nqot3iOUgUKEHj6WZOMv) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Supa Dups](https://open.spotify.com/artist/62DQXKsIHSPmr3fZaeARfq) | [Baby \(Chris Jedi / Supa Dups Remix\)](https://open.spotify.com/album/6exYiNUpHdYJD59WTj4o3t) | 3:34 |
 | 92 | [360](https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 140 | [Rewind Selecta](https://open.spotify.com/track/0HyXMGcT0GpLt9gDvZdImX) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 2:59 |
 | 141 | [Último Baile](https://open.spotify.com/track/3jAXK3OD8P3GUBjh5KNKc0) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:18 |
 | 142 | [TU SI](https://open.spotify.com/track/1hDvFgac2a9NVCKPXjKWGr) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:36 |
-| 143 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 |
-| 144 | [Epapale](https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Epapale](https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u) | 2:00 |
+| 143 | [Epapale](https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Epapale](https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u) | 2:00 |
+| 144 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 |
 | 145 | [Que Importa](https://open.spotify.com/track/5xpaelrvdOBxwnxIO1FOQv) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:42 |
 | 146 | [Volao](https://open.spotify.com/track/2TmsUnvvMAzmrpZQbMrUcn) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:15 |
 | 147 | [Él No Te Lo Hace Como Yo](https://open.spotify.com/track/5GnU16WYRJqHNRFUXDJYdu) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Invicto \(El Patrón\)](https://open.spotify.com/album/50SHDDJI7OTh9TtqtibhtO) | 3:14 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 157 | [Vida Cara](https://open.spotify.com/track/2lewSDdMSGQzszhKYhm2mo) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:10 |
 | 158 | [La Llevo Al Cielo](https://open.spotify.com/track/0ldqpXUPtasGIhmd6p1R1J) | [Aiem](https://open.spotify.com/artist/6CrLTxGRAhecLa3EmGoJDr) | [La Llevo Al Cielo](https://open.spotify.com/album/5JHA1Yu2F7h9kutIwcB1ho) | 2:50 |
 
-Snapshot ID: `Mjc2NDA4NjIsMDAwMDAwMDBmYTBmZDIxY2M4Zjk5MGM4NjU0Yjk2Zjk0NGMzNzFjNw==`
+Snapshot ID: `Mjc2NDIzMDIsMDAwMDAwMDBlYTI4MmQ5MDJiNDFmMjMwY2Q0Y2Q1OTI5YTQyYzNlNg==`

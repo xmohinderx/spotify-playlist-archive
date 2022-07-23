@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H?si=tZIm\-URPTKyf26\-EclPQDQ">Maya Amolo</a> and <a href="https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk?si=JTXiok0RR6OyG9hUKjqwAA">Kalibwani</a>
 
-82 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
+83 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,12 @@
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-07-15 |  |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2021-12-28 |  |
 | [Fantasy](https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:30 | 2022-05-26 | 2022-07-01 |
-| [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-03-03 |  |
+| [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-03-03 | 2022-07-23 |
 | [Fire](https://open.spotify.com/track/4N7Hgi6ED70sEQvahUDz9p) | [Ayrosh](https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l) | [Fire](https://open.spotify.com/album/2WrJzd9B9IAJhq9RfRxxZK) | 3:28 | 2021-12-28 | 2022-05-13 |
 | [Forever](https://open.spotify.com/track/3w0UpkLT8xMKX0HqBkLUQV) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Forever](https://open.spotify.com/album/4Hu3aPRRM4bVU3kujeUT8H) | 3:27 | 2022-06-30 |  |
 | [Forget You](https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 4:22 | 2021-12-28 |  |
 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 | 2022-07-14 |  |
+| [Haba Na Haba](https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [Colours](https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R) | 2:59 | 2022-07-22 |  |
 | [Hit Me Up](https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Hit Me Up](https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj) | 3:42 | 2021-12-28 | 2022-05-20 |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-06-10 |  |
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 |  |

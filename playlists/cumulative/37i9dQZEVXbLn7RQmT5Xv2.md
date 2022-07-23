@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-451 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+452 songs - 1 day 1 hr 42 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Kol El Nas](https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Kol El Nas](https://open.spotify.com/album/5G6eYqkydwunUSmbRqk5gv) | 2:55 | 2021-08-26 | 2021-11-14 |
 | [Kol Shay Mizyan](https://open.spotify.com/track/4sa7Q0Pn7MkHfnvYZtD5Uo) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Kazakairo](https://open.spotify.com/album/0GEzH1TbUceyz6DT0BBikR) | 2:25 | 2022-03-06 | 2022-03-17 |
 | [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-04-30 | 2021-09-13 |
-| [Konty 2olely](https://open.spotify.com/track/49odA1EtwSkPefTEeIwqBx) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Konty 2olely](https://open.spotify.com/album/7ko3njN5mraY8cgakYCmbf) | 2:48 | 2021-12-17 |  |
+| [Konty 2olely](https://open.spotify.com/track/49odA1EtwSkPefTEeIwqBx) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Konty 2olely](https://open.spotify.com/album/7ko3njN5mraY8cgakYCmbf) | 2:48 | 2021-12-17 | 2022-07-23 |
 | [Kteer](https://open.spotify.com/track/6tSMMttH9gINpZc8P8CL3s) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Kazakairo](https://open.spotify.com/album/0GEzH1TbUceyz6DT0BBikR) | 3:28 | 2022-03-06 | 2022-03-11 |
 | [La Malama \(Bonus Track\)](https://open.spotify.com/track/5ZsSIC9ea0OEi7gMMv7b1t) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2021-11-28 | 2022-05-18 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-13 |
@@ -413,10 +413,11 @@
 | [دورك جاي](https://open.spotify.com/track/3T3N2D7c1zdbWvmJArlUfI) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [دورك جاي](https://open.spotify.com/album/4uooiC90Xdp8TExuw0XrdL) | 4:18 | 2021-09-12 | 2021-09-29 |
 | [دورك جي](https://open.spotify.com/track/09GZRZP0txDanDf3s1Ap7K) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [دورك جي](https://open.spotify.com/album/7xyObKDQplbCbfw0fN17e7) | 4:17 | 2022-04-05 | 2022-04-24 |
 | [دورك جي](https://open.spotify.com/track/56nsR8Td7CWVCQIGjznu4L) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [دورك جي](https://open.spotify.com/album/3CzE55devPfjvlHa5HjGaF) | 4:17 | 2021-03-27\* | 2022-04-06 |
-| [ديدي](https://open.spotify.com/track/5pr1lDwkRKvlUaqlLdA008) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [ديدي](https://open.spotify.com/album/2dsQxG9oNb139KGSePZ4Gv) | 3:25 | 2022-04-15 | 2022-07-20 |
+| [ديدي](https://open.spotify.com/track/5pr1lDwkRKvlUaqlLdA008) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [ديدي](https://open.spotify.com/album/2dsQxG9oNb139KGSePZ4Gv) | 3:25 | 2022-04-15 |  |
 | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/album/7g0oVx8s5TOZKU4hIwmpsG) | 2:04 | 2021-05-12 | 2021-09-09 |
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2022-05-13 |  |
 | [ستو انا](https://open.spotify.com/track/7fHN1jiFCjB18VXoU7PjzA) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb) | [ستو انا](https://open.spotify.com/album/19k0mVkRkPiLSbuJQ8M7tD) | 2:21 | 2022-05-02 | 2022-05-14 |
+| [سحمد](https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:17 | 2022-07-22 |  |
 | [سكرتي](https://open.spotify.com/track/2FntmtxOqyNgZkxaZchEn0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/2criZC8fjpHOKf1A7ApYzz) | 3:30 | 2022-04-05 |  |
 | [سكرتي](https://open.spotify.com/track/3pY3PPvp77FNQq01n4UrS1) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/1EplYRbtXvBW1IlPWWs9Yq) | 3:30 | 2021-03-27\* | 2022-04-06 |
 | [سيري](https://open.spotify.com/track/6GC2ckZFyjdbAfAHPYRER2) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [سيري](https://open.spotify.com/album/5NHI0t2ytAVZTVIM0XfTBZ) | 3:33 | 2022-04-05 | 2022-04-23 |
@@ -454,7 +455,7 @@
 | [ميري](https://open.spotify.com/track/31iqbIPciULSvmy9KGKciU) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [ميري](https://open.spotify.com/album/2fkMsPBpZ7ttdfSqj8XZLP) | 4:02 | 2021-03-27 | 2021-04-01 |
 | [واحد وعشرين](https://open.spotify.com/track/57a5ISfPIQodpJBCJyjiEz) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/5RvNtdJQJpueJce6nDvspM) | 3:51 | 2022-04-05 | 2022-06-09 |
 | [واحد وعشرين](https://open.spotify.com/track/7pBr36brGBNxCk3JahhyHb) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/4tBtjfCFQGr1K87yACxkJZ) | 3:51 | 2021-03-27\* | 2022-04-06 |
-| [واحدة من مليون](https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:54 | 2022-06-19 |  |
+| [واحدة من مليون](https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:54 | 2022-06-19 | 2022-07-23 |
 | [وسط دموع وجراح](https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [وسط دموع وجراح](https://open.spotify.com/album/5QcbolYaY1VvcTKA2mvu0T) | 4:24 | 2021-10-22 |  |
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-03-01 | 2022-03-07 |
 | [يا اصفر](https://open.spotify.com/track/5GGtKquPqPbdlom5OBeLqT) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [يا اصفر](https://open.spotify.com/album/7ILwar3dYtlYcXn0RNhsdR) | 3:52 | 2022-03-22 | 2022-05-05 |

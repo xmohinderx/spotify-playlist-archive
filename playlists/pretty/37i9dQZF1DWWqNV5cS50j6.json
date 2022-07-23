@@ -1,13 +1,29 @@
 {
   "description": "Indie music antimatter. Cover: brakence",
-  "num_followers": 653018,
+  "num_followers": 653147,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODMyODQ4OSwwMDAwMzQ3MTAwMDAwMTgyMWMxNDllYzUwMDAwMDE4MjE3MmI2Zjc2",
+  "snapshot_id": "MTY1ODUxMTQ3MSwwMDAwMzQ3MzAwMDAwMTgyMjZmY2IzYWIwMDAwMDE4MjE3MmI2Zjc2",
   "tracks": [
+    {
+      "added_at": "2022-07-22 09:35:00",
+      "album": {
+        "name": "quinn",
+        "url": "https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 186485,
+      "name": "two door tiffany",
+      "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
+    },
     {
       "added_at": "2022-07-19 15:55:17",
       "album": {
@@ -23,6 +39,42 @@
       "duration_ms": 295866,
       "name": "venus fly trap",
       "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
+    },
+    {
+      "added_at": "2022-07-22 09:35:00",
+      "album": {
+        "name": "Pretend [w/ Kota the Friend]",
+        "url": "https://open.spotify.com/album/32zuche1Ppeux5Tk7a1sOT"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 155937,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/2ktU3yNNpfKIsG3Hn186Mq"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2022-07-19 15:55:17",
@@ -43,6 +95,118 @@
       "duration_ms": 129600,
       "name": "hang tight",
       "url": "https://open.spotify.com/track/5A18c8MxOe0trcRiZwhyvV"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
+        "name": "cyanide (feat. cryogeyser)",
+        "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "Cryogeyser",
+          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
+        }
+      ],
+      "duration_ms": 125389,
+      "name": "cyanide (feat. cryogeyser)",
+      "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
+    },
+    {
+      "added_at": "2022-07-22 09:35:00",
+      "album": {
+        "name": "sydney",
+        "url": "https://open.spotify.com/album/4gL0GCWQjkf2kaiMais7At"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 143225,
+      "name": "sydney",
+      "url": "https://open.spotify.com/track/6c7BepOWSpr5gL44cLKXRW"
+    },
+    {
+      "added_at": "2022-07-22 09:35:00",
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 150941,
+      "name": "Messy (feat. Teezo Touchdown & Bktherula)",
+      "url": "https://open.spotify.com/track/79D8MCSEt4fr3qq9XZuTLd"
+    },
+    {
+      "added_at": "2022-07-22 09:35:00",
+      "album": {
+        "name": "Act One",
+        "url": "https://open.spotify.com/album/7hS3HK39ZkDsnKFfItdMRX"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 104613,
+      "name": "Fabric",
+      "url": "https://open.spotify.com/track/2oSG1lrQZHUSs4hhgv7Imu"
+    },
+    {
+      "added_at": "2022-07-22 09:35:00",
+      "album": {
+        "name": "Tickle Pink Hotel",
+        "url": "https://open.spotify.com/album/2qqPBcgbH4ydIAkMr1Pn5W"
+      },
+      "artists": [
+        {
+          "name": "EXUM",
+          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "VI. Over",
+      "url": "https://open.spotify.com/track/7u9tKpw8ja6POjwhUjxv7b"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
       "added_at": "2022-07-19 15:55:17",
@@ -75,74 +239,6 @@
     {
       "added_at": "2022-07-19 15:55:17",
       "album": {
-        "name": "cyanide (feat. cryogeyser)",
-        "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        },
-        {
-          "name": "Cryogeyser",
-          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
-        }
-      ],
-      "duration_ms": 125389,
-      "name": "cyanide (feat. cryogeyser)",
-      "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "Me and Your Boyfriend",
-        "url": "https://open.spotify.com/album/44HO5dHZ7GYmxDm7oMHHGu"
-      },
-      "artists": [
-        {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
-        }
-      ],
-      "duration_ms": 126142,
-      "name": "Me and Your Boyfriend",
-      "url": "https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "Couldn't Wait to Tell You...",
-        "url": "https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "You the One Fish in the Sea",
-      "url": "https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "Xeno",
-        "url": "https://open.spotify.com/album/3coE5Zmvd7zx2LYX6tIkOV"
-      },
-      "artists": [
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Centauri",
-      "url": "https://open.spotify.com/track/2gRRFco9B1M912c7wX5Nhg"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI"
       },
@@ -163,6 +259,106 @@
     {
       "added_at": "2022-07-19 15:55:17",
       "album": {
+        "name": "Sensitive",
+        "url": "https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3"
+    },
+    {
+      "added_at": "2022-07-22 09:35:00",
+      "album": {
+        "name": "keep my cool",
+        "url": "https://open.spotify.com/album/0RMaV7cv3a2A2vRn0nS23e"
+      },
+      "artists": [
+        {
+          "name": "Pacific",
+          "url": "https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw"
+        }
+      ],
+      "duration_ms": 177258,
+      "name": "keep my cool",
+      "url": "https://open.spotify.com/track/3TLYmF9jKDWCyXGglClcPS"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
+        "name": "Couldn't Wait to Tell You...",
+        "url": "https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "You the One Fish in the Sea",
+      "url": "https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
+        "name": "MEMO",
+        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 268151,
+      "name": "SOHO HOUSE (feat. Hello O'shay)",
+      "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
+        "name": "Me and Your Boyfriend",
+        "url": "https://open.spotify.com/album/44HO5dHZ7GYmxDm7oMHHGu"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 126142,
+      "name": "Me and Your Boyfriend",
+      "url": "https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV"
+    },
+    {
+      "added_at": "2022-07-22 09:35:00",
+      "album": {
+        "name": "Disbeliever",
+        "url": "https://open.spotify.com/album/6hUDF7eoQmAj9rpQ9YgSXL"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 115879,
+      "name": "Disbeliever",
+      "url": "https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
         "name": "Vest & Boxers",
         "url": "https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1"
       },
@@ -175,6 +371,74 @@
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
+        "name": "Xeno",
+        "url": "https://open.spotify.com/album/3coE5Zmvd7zx2LYX6tIkOV"
+      },
+      "artists": [
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Centauri",
+      "url": "https://open.spotify.com/track/2gRRFco9B1M912c7wX5Nhg"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
+        "name": "A Collection of Fleeting Moments and Daydreams",
+        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
+    },
+    {
+      "added_at": "2022-07-22 09:35:00",
+      "album": {
+        "name": "GTFO",
+        "url": "https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 200920,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
+        "name": "chump change",
+        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 132826,
+      "name": "sardines",
+      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
     },
     {
       "added_at": "2022-07-19 15:55:17",
@@ -211,22 +475,34 @@
     {
       "added_at": "2022-07-19 15:55:17",
       "album": {
-        "name": "chump change",
-        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
+        "name": "Juno (Deluxe)",
+        "url": "https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA"
       },
       "artists": [
         {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 132826,
-      "name": "sardines",
-      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
+      "duration_ms": 165453,
+      "name": "Michael",
+      "url": "https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
     },
     {
       "added_at": "2022-07-19 15:55:17",
@@ -247,54 +523,18 @@
     {
       "added_at": "2022-07-19 15:55:17",
       "album": {
-        "name": "Cracker Island (feat. Thundercat)",
-        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+        "name": "Made Your Mama Cry",
+        "url": "https://open.spotify.com/album/3am00emlDC0wnidU29zsp3"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Nana Lourdes",
+          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Cracker Island (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "Juno (Deluxe)",
-        "url": "https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 165453,
-      "name": "Michael",
-      "url": "https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+      "duration_ms": 158451,
+      "name": "Made Your Mama Cry",
+      "url": "https://open.spotify.com/track/2fyl617ehHxoAyGbrM3ELQ"
     },
     {
       "added_at": "2022-07-19 15:55:17",
@@ -313,20 +553,24 @@
       "url": "https://open.spotify.com/track/60KObg7fLDbnHmgmmG8X5m"
     },
     {
-      "added_at": "2022-07-19 15:55:17",
+      "added_at": "2022-07-22 09:35:00",
       "album": {
-        "name": "Made Your Mama Cry",
-        "url": "https://open.spotify.com/album/3am00emlDC0wnidU29zsp3"
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/0Vau5zitoLgqTvG0FAZUjH"
       },
       "artists": [
         {
-          "name": "Nana Lourdes",
-          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
+          "name": "RUNNER BOY",
+          "url": "https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv"
+        },
+        {
+          "name": "Evann McIntosh",
+          "url": "https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB"
         }
       ],
-      "duration_ms": 158451,
-      "name": "Made Your Mama Cry",
-      "url": "https://open.spotify.com/track/2fyl617ehHxoAyGbrM3ELQ"
+      "duration_ms": 175252,
+      "name": "PRETTY",
+      "url": "https://open.spotify.com/track/6n3EY5Z8cC3CJLoBk3z7Ff"
     },
     {
       "added_at": "2022-07-19 15:55:17",
@@ -443,26 +687,6 @@
     {
       "added_at": "2022-07-19 15:55:17",
       "album": {
-        "name": "MEMO",
-        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
-        }
-      ],
-      "duration_ms": 268151,
-      "name": "SOHO HOUSE (feat. Hello O'shay)",
-      "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
         "name": "Sunset Drive - A COLORS SHOW",
         "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
       },
@@ -547,22 +771,6 @@
       "duration_ms": 191627,
       "name": "99' pollen",
       "url": "https://open.spotify.com/track/5fFUfa9IruZpJfxaB5owcY"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "play pretend",
-        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
-      },
-      "artists": [
-        {
-          "name": "Cybertrash",
-          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
-        }
-      ],
-      "duration_ms": 117774,
-      "name": "play pretend",
-      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
     },
     {
       "added_at": "2022-07-19 15:55:17",
@@ -775,22 +983,6 @@
     {
       "added_at": "2022-07-19 15:55:17",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
         "name": "PORN ACTING*",
         "url": "https://open.spotify.com/album/6yUbpBVYQGs6Me7cRHBi91"
       },
@@ -819,22 +1011,6 @@
       "duration_ms": 216198,
       "name": "Ssx",
       "url": "https://open.spotify.com/track/1eCImHqurFCsE6du2nF6jh"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "A Collection of Fleeting Moments and Daydreams",
-        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
     },
     {
       "added_at": "2022-07-19 15:55:17",
@@ -1027,22 +1203,6 @@
       "duration_ms": 186000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4dN2Z5ncmkmOhzsaoqDHtS"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "Sensitive",
-        "url": "https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3"
     },
     {
       "added_at": "2022-07-19 15:55:17",
@@ -1579,22 +1739,6 @@
     {
       "added_at": "2022-07-19 15:55:17",
       "album": {
-        "name": "MCQUEEN",
-        "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
-      },
-      "artists": [
-        {
-          "name": "Yoshi T.",
-          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "MCQUEEN",
-      "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
         "name": "Walking Backwards Thru a Grocery Store",
         "url": "https://open.spotify.com/album/6kZ6QCl0oMYEEQjMUHSj3I"
       },
@@ -1607,142 +1751,6 @@
       "duration_ms": 144868,
       "name": "Walking Backwards Thru a Grocery Store",
       "url": "https://open.spotify.com/track/7qlCM17QqJPh1WG54GEydH"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "TYRON",
-        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 134746,
-      "name": "i tried",
-      "url": "https://open.spotify.com/track/5SpZDtg5U1W35HNjq1xYrM"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "lost boy",
-        "url": "https://open.spotify.com/album/6O9G1x68fqHh2dYgziAhmY"
-      },
-      "artists": [
-        {
-          "name": "Billy Marchiafava",
-          "url": "https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "lost boy",
-      "url": "https://open.spotify.com/track/5jhkfOJBGQvyM0sYxPFJmn"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "THANKFUL",
-        "url": "https://open.spotify.com/album/60DhTSI5wDl9jbNCQcIPqU"
-      },
-      "artists": [
-        {
-          "name": "454",
-          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "THANKFUL",
-      "url": "https://open.spotify.com/track/37jO4vIbJe4tmsPb38UnAC"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "Sebastian",
-        "url": "https://open.spotify.com/album/75DC1IAUH9Ep9YctfsN6CG"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 196170,
-      "name": "Only in the West",
-      "url": "https://open.spotify.com/track/6cLxofxCjrFpQYtifjK5Vf"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "help herself",
-        "url": "https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Diamond Pistols",
-          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "help herself",
-      "url": "https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "Crawl (feat. Anna Shoemaker)",
-        "url": "https://open.spotify.com/album/09X44dWv4yXjDk7c0EvoPS"
-      },
-      "artists": [
-        {
-          "name": "Richie Quake",
-          "url": "https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6"
-        },
-        {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        }
-      ],
-      "duration_ms": 135280,
-      "name": "Crawl (feat. Anna Shoemaker)",
-      "url": "https://open.spotify.com/track/2tyh6kMjnlUsAfyvrYwIDE"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "DITTO",
-        "url": "https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu"
-      },
-      "artists": [
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
-        }
-      ],
-      "duration_ms": 150322,
-      "name": "DITTO",
-      "url": "https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "Sea Sick",
-        "url": "https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ"
-      },
-      "artists": [
-        {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
-        }
-      ],
-      "duration_ms": 130714,
-      "name": "Sea Sick",
-      "url": "https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh"
     }
   ],
   "unique_name": "anti pop",

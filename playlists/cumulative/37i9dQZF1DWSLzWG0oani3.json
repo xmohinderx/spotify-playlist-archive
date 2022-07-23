@@ -144,6 +144,32 @@
     },
     {
       "album": {
+        "name": "COLALESS",
+        "url": "https://open.spotify.com/album/6ce7xozbRAShrQTAyLVlQV"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Al Records",
+          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108705,
+      "name": "COLALESS",
+      "url": "https://open.spotify.com/track/1dFLJAcfWbmi6StNxbINYC"
+    },
+    {
+      "album": {
         "name": "Combi Nueva",
         "url": "https://open.spotify.com/album/6XPF6XwJkxIZTRM3jdAzeM"
       },

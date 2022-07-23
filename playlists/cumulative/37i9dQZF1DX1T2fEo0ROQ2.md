@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-310 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+311 songs - 16 hr 25 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Rituals](https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ritual](https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD) | 3:49 | 2022-05-26 |  |
 | [Road to the Milky Way](https://open.spotify.com/track/3LJpgBi4siRUWuRlbFoU7N) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Road to the Milky Way](https://open.spotify.com/album/3Op0yAd0Ka6wXSYjpaRutT) | 4:26 | 2022-05-26 |  |
 | [Roncudo](https://open.spotify.com/track/6vxsTyUImTPvkmzXTX7ivf) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Sisargas](https://open.spotify.com/album/7dGa25PPKyKtj61YsYNrtA) | 3:25 | 2022-05-26 |  |
+| [Rosētum](https://open.spotify.com/track/0Q8YbkwiUQTvxTYvofeAJB) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Rosētum](https://open.spotify.com/album/3nug1l3A0hWw3xNS7zhflP) | 3:20 | 2022-07-22 |  |
 | [Ruhig](https://open.spotify.com/track/3zElUjNtIsgfRmC0r7ETgB) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Ruhig](https://open.spotify.com/album/5Qon2Hkc9b73ZkWBfnYXYC) | 2:46 | 2022-05-26 |  |
 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-05-26 |  |
 | [Sailing Through Our Night](https://open.spotify.com/track/0vbKO2YqTAoyjBzjLMpIOX) | [Milford Keynes](https://open.spotify.com/artist/7q7lOOGnChjRBjZ8yDGSC1) | [Sailing Through Our Night](https://open.spotify.com/album/3EQXfScxlCCbJLlH3CVRFn) | 2:13 | 2022-05-26 |  |

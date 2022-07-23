@@ -2702,6 +2702,24 @@
     },
     {
       "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/0VhcCczpRVJz1bRWOE1ZWO"
+      },
+      "artists": [
+        {
+          "name": "Grant Murdoch",
+          "url": "https://open.spotify.com/artist/69MHZfuz6RQx3JpGl1OXB0"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4MLN06rblMImScsbnLf030"
+    },
+    {
+      "album": {
         "name": "Atoms",
         "url": "https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM"
       },

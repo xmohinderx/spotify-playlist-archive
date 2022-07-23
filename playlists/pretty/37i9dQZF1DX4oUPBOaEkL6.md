@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: Rauw Alejandro, Shakira
+> The hottest Latin hits in the US! Cover: La Adictiva Banda San José Mesillas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,721,985 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,722,112 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 | 49 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 |
 | 50 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 
-Snapshot ID: `MTY1ODQzNjY0MCwwMDAwMDE3YzAwMDAwMTgyMjI4NmRmOTgwMDAwMDE4MTY4NmE4YTZm`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDE3ZDAwMDAwMTgyMjQwZmVlYWUwMDAwMDE4MjIzNmNiMjYy`

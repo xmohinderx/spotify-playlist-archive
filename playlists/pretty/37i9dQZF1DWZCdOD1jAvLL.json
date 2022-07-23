@@ -1,13 +1,33 @@
 {
   "description": "Ride the bassline. Cover: Dom Dolla",
-  "num_followers": 174711,
+  "num_followers": 174885,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzk4ODYxMiwwMDAwMDIwYTAwMDAwMTgyMDdkMjdmZjQwMDAwMDE4MjA3ZDI1ZGVk",
+  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDIwYjAwMDAwMTgyMjQxMGQ4ZTMwMDAwMDE4MjA3ZDI1ZGVk",
   "tracks": [
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 206222,
+      "name": "Children - Radio Edit",
+      "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
+    },
     {
       "added_at": "2022-07-15 16:38:14",
       "album": {
@@ -27,42 +47,6 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 201259,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 160664,
-      "name": "Strut",
-      "url": "https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -85,6 +69,90 @@
       "url": "https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "My Feelings For You (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "duration_ms": 224515,
+      "name": "My Feelings For You - Mark Knight Remix",
+      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
+    },
+    {
+      "added_at": "2022-05-27 05:59:11",
+      "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 201259,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Hey Hey (Heard You Say)",
+        "url": "https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Hey Hey (Heard You Say)",
+      "url": "https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 160664,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js"
+    },
+    {
       "added_at": "2022-05-27 05:59:11",
       "album": {
         "name": "Savage",
@@ -103,6 +171,58 @@
       "duration_ms": 167500,
       "name": "Savage",
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "All We Needed",
+        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "All We Needed",
+      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5S0RxgMhMxzza0aOQt8d70"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 143076,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -181,6 +301,22 @@
       "url": "https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/1tWIe3X9NYn4cfjc8PCujy"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1sFInK6pKCVa9Tx5Vc3TMo"
+    },
+    {
       "added_at": "2022-05-27 05:59:11",
       "album": {
         "name": "Bass",
@@ -221,6 +357,26 @@
       "url": "https://open.spotify.com/track/3l3RsIHCP7WkjxeBGSy3ep"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "El Beso (feat. Mathieu Ruz)",
+        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 211547,
+      "name": "El Beso (feat. Mathieu Ruz)",
+      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
+    },
+    {
       "added_at": "2022-05-27 05:59:11",
       "album": {
         "name": "My Type",
@@ -235,6 +391,30 @@
       "duration_ms": 200000,
       "name": "My Type",
       "url": "https://open.spotify.com/track/3czS8iG6DI6SX5X4IT0uCu"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Kerching",
+        "url": "https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Kerching",
+      "url": "https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y"
     },
     {
       "added_at": "2022-06-03 04:21:35",
@@ -259,6 +439,22 @@
       "duration_ms": 161574,
       "name": "Who U With",
       "url": "https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/5h8falyV4Z3YB590oaCSNV"
+      },
+      "artists": [
+        {
+          "name": "Brocofski",
+          "url": "https://open.spotify.com/artist/0ZDmmQEgQZ0AVY2OQ1f0LV"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/2AweUWqpmHHFgXDPGPiB95"
     },
     {
       "added_at": "2022-07-01 14:24:58",
@@ -439,26 +635,6 @@
     {
       "added_at": "2022-05-27 05:59:11",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/7jt2ZSsqgR2VG6s1XkWw7E"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Killfake",
-          "url": "https://open.spotify.com/artist/5iQ5zOYomcR6F3gYon6GNW"
-        }
-      ],
-      "duration_ms": 170833,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/2AhKFNKiRxk2NZNF47bFjn"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
         "name": "I Confess (feat. ROM\u00c9O)",
         "url": "https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b"
       },
@@ -537,50 +713,6 @@
       "url": "https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "High Jinx",
-          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
-      "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
-    },
-    {
       "added_at": "2022-05-27 05:59:11",
       "album": {
         "name": "Goodies",
@@ -655,26 +787,6 @@
     {
       "added_at": "2022-05-27 05:59:11",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/2Vo614FBJLiGi1FOXp6L9x"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
-        }
-      ],
-      "duration_ms": 160014,
-      "name": "Once Again",
-      "url": "https://open.spotify.com/track/7DXHNbMrvgJuFUtEleruSn"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
       },
@@ -687,30 +799,6 @@
       "duration_ms": 139435,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "1F2F",
-        "url": "https://open.spotify.com/album/1FHvEp9a23CmefSGUrwsrs"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "OGAQUAFINA",
-          "url": "https://open.spotify.com/artist/07E0xIjCv2xkPCR7KCr9aK"
-        }
-      ],
-      "duration_ms": 175078,
-      "name": "1F2F",
-      "url": "https://open.spotify.com/track/77sxAECGDQdMvNa82MVHGt"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -799,22 +887,6 @@
     {
       "added_at": "2022-05-27 05:59:11",
       "album": {
-        "name": "The Beat Goes",
-        "url": "https://open.spotify.com/album/7r7lEn8g3uqngwbC3Ichpm"
-      },
-      "artists": [
-        {
-          "name": "Croatia Squad",
-          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
-        }
-      ],
-      "duration_ms": 189523,
-      "name": "The Beat Goes",
-      "url": "https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
         "name": "The Players Anthem",
         "url": "https://open.spotify.com/album/0xwquOj4FyO51teiVjtpkL"
       },
@@ -835,26 +907,6 @@
     {
       "added_at": "2022-05-27 05:59:11",
       "album": {
-        "name": "079",
-        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
-      },
-      "artists": [
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
-          "name": "Block Notice",
-          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "079",
-      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
         "name": "Crave The Bassline",
         "url": "https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S"
       },
@@ -871,22 +923,6 @@
       "duration_ms": 166962,
       "name": "Crave The Bassline",
       "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/4UgTdPzJTP0HZYlsEjZ1Co"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI"
     },
     {
       "added_at": "2022-05-27 05:59:11",
@@ -1103,26 +1139,6 @@
     {
       "added_at": "2022-05-27 05:59:11",
       "album": {
-        "name": "fisticuffs (feat. tiLLie)",
-        "url": "https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd"
-      },
-      "artists": [
-        {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
-        },
-        {
-          "name": "tiLLie",
-          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "fisticuffs (feat. tiLLie)",
-      "url": "https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/4g4Ud08xXYgLuW3ltAy5X4"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 203809,
       "name": "I Don't Think U Do",
       "url": "https://open.spotify.com/track/2cyNqXxLcSV7EtEkIivrlz"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "Pathway",
-        "url": "https://open.spotify.com/album/1fzqZXdmmKi4inSKoDJM5Y"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Pathway",
-      "url": "https://open.spotify.com/track/0au2fnq9tGdAGyNWuthEew"
     },
     {
       "added_at": "2022-05-27 05:59:11",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Les nouveaut\u00e9s francophones de la semaine. Photo: Kirouac, Kodakludo",
+  "description": "Les nouveaut\u00e9s francophones de la semaine. Photo: Gab Bouchard",
   "name": "Nouveaut\u00e9s de la semaine Canada",
   "published_playlist_ids": [
     "14BQdNO6xmXnKxtcZsp2FC"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 155389,
       "name": "AQUA",
       "url": "https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 251893,
       "name": "Auburn",
       "url": "https://open.spotify.com/track/6PSlFyUoUfOE97eMpCQc6a"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 141639,
       "name": "Automatique",
       "url": "https://open.spotify.com/track/7rmWv5msGQqUx51NL0V4zq"
@@ -1403,6 +1403,46 @@
       "duration_ms": 169923,
       "name": "Balliterie (Championne)",
       "url": "https://open.spotify.com/track/0zLA1xZzgKHTgjpzlw9N2t"
+    },
+    {
+      "album": {
+        "name": "Bar-Mitzvah",
+        "url": "https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127382,
+      "name": "Bar-Mitzvah",
+      "url": "https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx"
+    },
+    {
+      "album": {
+        "name": "45 Degr\u00e9s",
+        "url": "https://open.spotify.com/album/0uffrPthhPnBvRdfdYvd4s"
+      },
+      "artists": [
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        },
+        {
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192962,
+      "name": "Barbade",
+      "url": "https://open.spotify.com/track/5zzOE42zx3RsAt8YSHeFrk"
     },
     {
       "album": {
@@ -1758,6 +1798,24 @@
     },
     {
       "album": {
+        "name": "BONKASA",
+        "url": "https://open.spotify.com/album/4WfVv45jeLIbqBm5zriHs6"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "BONKASA",
+      "url": "https://open.spotify.com/track/62u6D0NgRPtFcCdF5rNLeh"
+    },
+    {
+      "album": {
         "name": "Pax et Bonum",
         "url": "https://open.spotify.com/album/46cTZARrHo7jivv9B8mg9f"
       },
@@ -1863,7 +1921,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 172137,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/3ym3QmdWVeugFq99ml1lt5"
@@ -2384,6 +2442,24 @@
     },
     {
       "album": {
+        "name": "Cerf-volant",
+        "url": "https://open.spotify.com/album/208mJEpcsUJvhqMMDAeSck"
+      },
+      "artists": [
+        {
+          "name": "VIVACE",
+          "url": "https://open.spotify.com/artist/65pD5eCYUYBXQ8HtFFonYj"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247875,
+      "name": "Cerf-volant",
+      "url": "https://open.spotify.com/track/50ek80p3iu1DkArxrxitmn"
+    },
+    {
+      "album": {
         "name": "Champ Gauche",
         "url": "https://open.spotify.com/album/54ELUeCU5j4YtID1tMfrFt"
       },
@@ -2591,6 +2667,24 @@
       "duration_ms": 205984,
       "name": "Ch\u00e9rie",
       "url": "https://open.spotify.com/track/3ro1ucDAHXvdRnv7Se2Gyv"
+    },
+    {
+      "album": {
+        "name": "Ch\u00e9rie Ch\u00e9rie",
+        "url": "https://open.spotify.com/album/6fdzXCEnjiQ5yUDRxTKiIa"
+      },
+      "artists": [
+        {
+          "name": "Tronel",
+          "url": "https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140795,
+      "name": "Ch\u00e9rie Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/5Kmcs06OBnIlniAuymSKbF"
     },
     {
       "album": {
@@ -3280,6 +3374,28 @@
     },
     {
       "album": {
+        "name": "Dandan",
+        "url": "https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        },
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197017,
+      "name": "Dandan",
+      "url": "https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr"
+    },
+    {
+      "album": {
         "name": "La route est longue jusqu'au top",
         "url": "https://open.spotify.com/album/6MC5y0S4KXafxGhM2Bk2Mm"
       },
@@ -3549,6 +3665,28 @@
     {
       "album": {
         "name": "Derni\u00e8re danse",
+        "url": "https://open.spotify.com/album/2NZmzydGXjD71uTmwIDSFY"
+      },
+      "artists": [
+        {
+          "name": "Many Hundred Towns",
+          "url": "https://open.spotify.com/artist/3AXB2ECtH25kZuyZG1e5xU"
+        },
+        {
+          "name": "Jolane Simard",
+          "url": "https://open.spotify.com/artist/2AkZ1lqL87lS6vBuX8SYxA"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Derni\u00e8re danse",
+      "url": "https://open.spotify.com/track/7rCgUChULpKv1y0MLOaB4X"
+    },
+    {
+      "album": {
+        "name": "Derni\u00e8re danse",
         "url": "https://open.spotify.com/album/6hURADTx1Ymlwx2NnZj69H"
       },
       "artists": [
@@ -3755,6 +3893,32 @@
       "duration_ms": 176302,
       "name": "Dis-moi si la ville",
       "url": "https://open.spotify.com/track/1yhMs6ZXA0eTO7kra1pX7R"
+    },
+    {
+      "album": {
+        "name": "Discoman",
+        "url": "https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220420,
+      "name": "Discoman",
+      "url": "https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq"
     },
     {
       "album": {
@@ -4950,6 +5114,28 @@
     },
     {
       "album": {
+        "name": "Fais de l'argent",
+        "url": "https://open.spotify.com/album/12vTC7BH3Scluv2woieacw"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Guy2bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145066,
+      "name": "Fais de l'argent",
+      "url": "https://open.spotify.com/track/5a96UhbVvqjmI4dEXr7wLb"
+    },
+    {
+      "album": {
         "name": "Fais PT",
         "url": "https://open.spotify.com/album/0z1CIAY5XS6nSRc8FuF7Jd"
       },
@@ -6067,7 +6253,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 165149,
       "name": "Highway",
       "url": "https://open.spotify.com/track/2CvZNPSoSRkoVij4Jg2bCj"
@@ -6161,7 +6347,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 159560,
       "name": "Hors Piste",
       "url": "https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr"
@@ -6792,6 +6978,24 @@
     },
     {
       "album": {
+        "name": "j'aime quand tu te d\u00e9shabilles",
+        "url": "https://open.spotify.com/album/7IPpuCYfoYZGL0frdEHDKN"
+      },
+      "artists": [
+        {
+          "name": "Lonepsi",
+          "url": "https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163940,
+      "name": "j'aime quand tu te d\u00e9shabilles",
+      "url": "https://open.spotify.com/track/1eTxcSqGcYEVGBL2CjszMR"
+    },
+    {
+      "album": {
         "name": "Les crucifi\u00e9s figuratifs",
         "url": "https://open.spotify.com/album/6zGLsViSVtPNcUi4Mz92YY"
       },
@@ -6905,7 +7109,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 200000,
       "name": "J'ouvre grand les bras",
       "url": "https://open.spotify.com/track/4YZ8NzrbDpnikq3hugP1H8"
@@ -9415,7 +9619,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 224850,
       "name": "Loketo",
       "url": "https://open.spotify.com/track/0x60ynvg0eu85HcWGtNJtX"
@@ -9503,7 +9707,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 227234,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/0XhBQ21xoheZsNI7PhYHLm"
@@ -9791,7 +9995,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 203800,
       "name": "Ma maison aux vents fous",
       "url": "https://open.spotify.com/track/5x1nwSbFot6fn7P2Cr83RM"
@@ -11434,6 +11638,28 @@
     },
     {
       "album": {
+        "name": "On s'est compris (feat. Koba LaD)",
+        "url": "https://open.spotify.com/album/4MlYPC6ZjhpsI6HulUG24w"
+      },
+      "artists": [
+        {
+          "name": "Gotti Maras",
+          "url": "https://open.spotify.com/artist/0IhPOW5cO2phSUCYqWuTTb"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182184,
+      "name": "On s'est compris (feat. Koba LaD)",
+      "url": "https://open.spotify.com/track/6CysmL5giqn1fGn3C6w8hi"
+    },
+    {
+      "album": {
         "name": "French Riviera",
         "url": "https://open.spotify.com/album/7FvFGPiHSa12LO1UkgTk6d"
       },
@@ -11533,6 +11759,24 @@
       "duration_ms": 205800,
       "name": "ORAGE",
       "url": "https://open.spotify.com/track/3QD5A8ch7prqGSjwdpc7Qk"
+    },
+    {
+      "album": {
+        "name": "Ordinaire",
+        "url": "https://open.spotify.com/album/4ETAzo6wdR5Lup7xFt1oMD"
+      },
+      "artists": [
+        {
+          "name": "L'Affaire P\u00e9lican",
+          "url": "https://open.spotify.com/artist/1ksofERLywmzgMqjit8iAY"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159715,
+      "name": "Ordinaire",
+      "url": "https://open.spotify.com/track/5XOU00eDPnL8N67wD1h6RP"
     },
     {
       "album": {
@@ -11721,7 +11965,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 159466,
       "name": "Palav\u00e9 (feat. Tiakola)",
       "url": "https://open.spotify.com/track/7AVgv2DjAjyybEEJLAnd29"
@@ -12261,7 +12505,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 156946,
       "name": "Piqu\u00e9",
       "url": "https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n"
@@ -13287,7 +13531,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 217948,
       "name": "RAPPEL",
       "url": "https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw"
@@ -13589,6 +13833,24 @@
       "duration_ms": 232291,
       "name": "Reviens",
       "url": "https://open.spotify.com/track/5rofENn1ZsGytM31HoDTOD"
+    },
+    {
+      "album": {
+        "name": "RICH BUM$",
+        "url": "https://open.spotify.com/album/2EPJbDQIfwTlIB5dOYngHZ"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "RICH BUM$",
+      "url": "https://open.spotify.com/track/6TT7xeVp0uBEuETDioNz6M"
     },
     {
       "album": {
@@ -13901,7 +14163,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 152582,
       "name": "Rowzin",
       "url": "https://open.spotify.com/track/0YhTHQ37vdhsNbienW9YTB"
@@ -14369,6 +14631,28 @@
       "duration_ms": 169411,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/27dE3zWfKbtxLG62bZRVS1"
+    },
+    {
+      "album": {
+        "name": "Scell\u00e9",
+        "url": "https://open.spotify.com/album/1J4n5twTGxBK1aPjyUpAhR"
+      },
+      "artists": [
+        {
+          "name": "Stone",
+          "url": "https://open.spotify.com/artist/7MJR0VMo0Jp7eUd2mbs7vQ"
+        },
+        {
+          "name": "O.Z",
+          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162364,
+      "name": "Scell\u00e9",
+      "url": "https://open.spotify.com/track/461bGbAcrBfCbtHV8RdP4T"
     },
     {
       "album": {
@@ -15510,6 +15794,24 @@
     },
     {
       "album": {
+        "name": "Ta yeule pis joue",
+        "url": "https://open.spotify.com/album/7eHqVyDLCekDQ0NkcIgnP5"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9p\u00e9 et sa guitare",
+          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179546,
+      "name": "Ta yeule pis joue",
+      "url": "https://open.spotify.com/track/2rjq7NOLsL8pmoerT20QHH"
+    },
+    {
+      "album": {
         "name": "Tata Fatima",
         "url": "https://open.spotify.com/album/0j9fL8leSygpAuAge8MsXG"
       },
@@ -15753,7 +16055,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 220186,
       "name": "Tipatshimushtunan",
       "url": "https://open.spotify.com/track/1KZZIDJ4DyS4dnhPyXdOw0"
@@ -16062,6 +16364,24 @@
     },
     {
       "album": {
+        "name": "Toutes les filles sont belles",
+        "url": "https://open.spotify.com/album/4kNKsBAE1sWjUbf4jarGVV"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Toutes les filles sont belles",
+      "url": "https://open.spotify.com/track/1ZliLkP38q7adhN8UdMGHX"
+    },
+    {
+      "album": {
         "name": "Toxik",
         "url": "https://open.spotify.com/album/694rt03PJFmeaPRRzKmnRU"
       },
@@ -16095,6 +16415,24 @@
       "duration_ms": 150857,
       "name": "Toxique",
       "url": "https://open.spotify.com/track/5iOqSItx90udNnb61yWt6M"
+    },
+    {
+      "album": {
+        "name": "Transfert Trottinette",
+        "url": "https://open.spotify.com/album/0F8odSiMiq1pxy9ddu9Nah"
+      },
+      "artists": [
+        {
+          "name": "Bilal Hassani",
+          "url": "https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159692,
+      "name": "Transfert Trottinette",
+      "url": "https://open.spotify.com/track/4HDdOkOcPcXN4STjisEEfL"
     },
     {
       "album": {
@@ -16831,7 +17169,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 241160,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/5QowMIujytktMDC8pktNXH"
@@ -16921,7 +17259,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 225007,
       "name": "Vertige",
       "url": "https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy"
@@ -16943,6 +17281,24 @@
       "duration_ms": 244158,
       "name": "Vestiges",
       "url": "https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq"
+    },
+    {
+      "album": {
+        "name": "Vid\u00e9odrome",
+        "url": "https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe"
+      },
+      "artists": [
+        {
+          "name": "P.R2B",
+          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187655,
+      "name": "Vid\u00e9odrome",
+      "url": "https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4"
     },
     {
       "album": {
@@ -17395,7 +17751,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 158940,
       "name": "Wish u",
       "url": "https://open.spotify.com/track/5ueHK0DTbsPbtbuoXQLNbb"

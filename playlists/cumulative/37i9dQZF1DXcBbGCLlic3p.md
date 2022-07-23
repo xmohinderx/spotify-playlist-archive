@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-188 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+190 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Reality](https://open.spotify.com/track/6610gii04R3zRuWpa38XzY) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:06 | 2021-12-23 |  |
 | [Reawake](https://open.spotify.com/track/5Aew5mU2PX5VffgzLKcBrv) | [Alex Sunita](https://open.spotify.com/artist/2NQR3z3RiaO9vSSMAgbOlw) | [Reawake](https://open.spotify.com/album/02Zc1AlasloNJ7EomEUOIO) | 3:10 | 2022-03-03 |  |
 | [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 | 2021-12-23 |  |
+| [Reunion](https://open.spotify.com/track/57IlqBXnuaKI854KSBkeIQ) | [Belle Bardot](https://open.spotify.com/artist/6gvhAzNtzWKlXLxWhSJBo9) | [Reunion](https://open.spotify.com/album/3NQk2ASP9xsbRjUtlA92vx) | 2:22 | 2022-07-22 |  |
 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 | 2021-12-23 |  |
 | [Sapnis](https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC) | [Pax Gene](https://open.spotify.com/artist/1IxEav5X3hEPqk0of4PY1I) | [Sapnis](https://open.spotify.com/album/4T8YxsVIllqkGfBz1RRUhW) | 3:37 | 2021-12-23 |  |
 | [Satin](https://open.spotify.com/track/6Oi0X7GXhInlEgJC5FIZKQ) | [L’avendine](https://open.spotify.com/artist/2kid9kBSigLwz9xKNfWBGG) | [Satin](https://open.spotify.com/album/2FXzWeH11oyMWqOz9OH6NA) | 2:31 | 2022-03-03 |  |
@@ -186,6 +187,7 @@
 | [Two](https://open.spotify.com/track/3RnKx1I9P2hV1uIO9IW5En) | [Awlee](https://open.spotify.com/artist/1bc9CAR8zEADSEyBmp3T05) | [Lullah](https://open.spotify.com/album/0o7IZ2GBgrZ49NztPbHvAB) | 2:59 | 2021-12-23 |  |
 | [Unbound](https://open.spotify.com/track/5X17M78aHKmdcB0iDCe3BT) | [Nordesía](https://open.spotify.com/artist/6sbqijgtC98MAYaPcH3cuu) | [Unbound](https://open.spotify.com/album/2pkZ4r4io3uCgrdFo8h7wT) | 3:12 | 2021-12-23 | 2022-06-17 |
 | [Unclouded](https://open.spotify.com/track/2NqwxOKlF2jtWvAnmWDIpu) | [Thalia Mathis](https://open.spotify.com/artist/3qwAV5INzjLjEyls7XyA9F) | [Unclouded](https://open.spotify.com/album/5qaBWXUQR3bXsyzZ8kuzTP) | 3:08 | 2022-05-19 |  |
+| [Under Samma Himmel](https://open.spotify.com/track/620GB7wI2P5ltdAy4hJVHZ) | [Sanja Göransson](https://open.spotify.com/artist/1bMBJo82A2IeRahsh3JsQn) | [Under Samma Himmel](https://open.spotify.com/album/5N7pzonxBqijE8ZX3pIUT6) | 2:51 | 2022-07-22 |  |
 | [Vaggvisa](https://open.spotify.com/track/2swOksshgCYLGAypm1fh1v) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Vaggvisa](https://open.spotify.com/album/2q2I0k4FPubYO3EfyaN0zO) | 1:58 | 2021-12-23 |  |
 | [Valentinios Pier](https://open.spotify.com/track/4bUkrtLWyZRbG9jit1vgdY) | [Mia Bovind](https://open.spotify.com/artist/4pnDGbpRLEb0cIu7UFrswl) | [Valentinios Pier](https://open.spotify.com/album/3R42U1cgzk5F2jCz2cYd6p) | 3:02 | 2021-12-23 |  |
 | [Veilless](https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Veilless](https://open.spotify.com/album/5g3U1Y4eqaNcSffpD61Syy) | 2:18 | 2022-05-25 |  |

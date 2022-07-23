@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-67 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+68 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,5 +75,6 @@
 | [We Don't Like You](https://open.spotify.com/track/08cdH83ZfXtkGphVBTmDEa) | [Andrew Land](https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk) | [We Don't Like You](https://open.spotify.com/album/6YYArKrqw0tL9cG1y0Mr65) | 4:58 | 2022-07-08 |  |
 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2022-05-19 |  |
 | [What a day I](https://open.spotify.com/track/4rCMha9h0PZ3ghhnO2ykim) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXIIVoid XXIIII](https://open.spotify.com/album/2RhfFJKxFTEVTOYlNcqELm) | 5:34 | 2022-05-19 |  |
+| [Your Way](https://open.spotify.com/track/6FDJwjtEaug5O8F8R1j5A4) | [Old Futures](https://open.spotify.com/artist/6GqHocik7Id2Em8f7Gv0Z1) | [Your Way](https://open.spotify.com/album/0k28sUPUtxguPEe9Ww9ruO) | 2:42 | 2022-07-22 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: Mark Ambor",
-  "num_followers": 196362,
+  "num_followers": 196416,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI1MTUzMCwwMDAwMDBiMzAwMDAwMTgyMTc3ZTUxYjUwMDAwMDE4MWYyZmU1MWEw",
+  "snapshot_id": "MTY1ODQ2MzAwMCwwMDAwMDBiNDAwMDAwMTgyMjQxOTE2MTMwMDAwMDE4MWYyZmU1MWEw",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ"
     },
     {
-      "added_at": "2022-07-08 04:00:00",
+      "added_at": "2022-07-22 04:10:00",
       "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+        "name": "She\u2019s Not You",
+        "url": "https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j"
       },
       "artists": [
         {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+      "duration_ms": 187576,
+      "name": "She's Not You",
+      "url": "https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -57,36 +57,20 @@
       "url": "https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9"
     },
     {
-      "added_at": "2022-07-15 15:52:42",
+      "added_at": "2022-07-22 04:10:00",
       "album": {
-        "name": "All These Nights",
-        "url": "https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6"
+        "name": "Middle Of A Breakup",
+        "url": "https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si"
       },
       "artists": [
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 154062,
-      "name": "All These Nights",
-      "url": "https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o"
-    },
-    {
-      "added_at": "2022-07-19 17:25:30",
-      "album": {
-        "name": "WHERE I WANNA BE FOUND",
-        "url": "https://open.spotify.com/album/1E8LLpuaE6VXqq9Ca59ASc"
-      },
-      "artists": [
-        {
-          "name": "NEEVE",
-          "url": "https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "WHERE I WANNA BE FOUND",
-      "url": "https://open.spotify.com/track/4AFBCemec0cYa2JLXqvH9M"
+      "duration_ms": 200037,
+      "name": "Middle Of A Breakup",
+      "url": "https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -103,6 +87,86 @@
       "duration_ms": 183055,
       "name": "1990something",
       "url": "https://open.spotify.com/track/1bC1bEPZSKxgZgBgEVn2yj"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "The Click",
+        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 227267,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+    },
+    {
+      "added_at": "2022-07-15 15:52:42",
+      "album": {
+        "name": "All These Nights",
+        "url": "https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 154062,
+      "name": "All These Nights",
+      "url": "https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o"
+    },
+    {
+      "added_at": "2022-07-22 04:10:00",
+      "album": {
+        "name": "Does A Fish Know It's Wet?",
+        "url": "https://open.spotify.com/album/2Zi2zHzjT6aMypTgEXY2zw"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 185253,
+      "name": "Moped",
+      "url": "https://open.spotify.com/track/78qpxyEBuaJucHP2SURndk"
+    },
+    {
+      "added_at": "2022-07-19 17:25:30",
+      "album": {
+        "name": "WHERE I WANNA BE FOUND",
+        "url": "https://open.spotify.com/album/1E8LLpuaE6VXqq9Ca59ASc"
+      },
+      "artists": [
+        {
+          "name": "NEEVE",
+          "url": "https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "WHERE I WANNA BE FOUND",
+      "url": "https://open.spotify.com/track/4AFBCemec0cYa2JLXqvH9M"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -125,20 +189,20 @@
       "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-07-22 04:10:00",
       "album": {
-        "name": "The Click",
-        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/5MYFBgOf8RoVql9hXoVHfa"
       },
       "artists": [
         {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+          "name": "Faime",
+          "url": "https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4"
         }
       ],
-      "duration_ms": 227267,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
+      "duration_ms": 158922,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/5cdJiIDHw2FwVblQYT7fN0"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -155,6 +219,22 @@
       "duration_ms": 201355,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/7cLhZY2sXnlL0Rd06p8MRW"
+    },
+    {
+      "added_at": "2022-07-22 04:10:00",
+      "album": {
+        "name": "sailboat",
+        "url": "https://open.spotify.com/album/09CGLTQOVUI0HumnPS9ktq"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 101053,
+      "name": "sailboat",
+      "url": "https://open.spotify.com/track/6pVWnjQNBnRBR3mCJb0KoI"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -489,22 +569,6 @@
       "url": "https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Let U Go",
-        "url": "https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
-    },
-    {
       "added_at": "2022-07-01 03:58:18",
       "album": {
         "name": "hate you to love myself",
@@ -827,22 +891,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "CHAMPAGNE",
-        "url": "https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 180637,
-      "name": "CHAMPAGNE",
-      "url": "https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/29FYm9EmlZJ77BNOOq43pi"
       },
@@ -975,22 +1023,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "i hate her boyfriend's face",
-        "url": "https://open.spotify.com/album/2CMIqzHeKsxhR8xSvD9Cwy"
-      },
-      "artists": [
-        {
-          "name": "PmBata",
-          "url": "https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw"
-        }
-      ],
-      "duration_ms": 145444,
-      "name": "i hate her boyfriend's face",
-      "url": "https://open.spotify.com/track/5sixigDZ86eDzCHXbfzrDu"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Broken Memories",
         "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
       },
@@ -1067,22 +1099,6 @@
       "duration_ms": 164138,
       "name": "FUNERAL GREY",
       "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "the chase",
-        "url": "https://open.spotify.com/album/5IWhQ0YxYt1SRc6QODGWKv"
-      },
-      "artists": [
-        {
-          "name": "guccihighwaters",
-          "url": "https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09"
-        }
-      ],
-      "duration_ms": 205332,
-      "name": "the chase",
-      "url": "https://open.spotify.com/track/2oeKs07xK7pO5b7Nxq9zOj"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 206533,
       "name": "Straightjacket",
       "url": "https://open.spotify.com/track/51LIqkda3pTeECZUhMnool"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "sunburn",
-        "url": "https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 173218,
-      "name": "sunburn",
-      "url": "https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS"
     },
     {
       "added_at": "2022-06-10 04:00:00",

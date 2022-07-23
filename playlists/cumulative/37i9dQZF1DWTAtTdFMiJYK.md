@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Himonshu Parikh
 
-158 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+159 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Rehnuma](https://open.spotify.com/track/4l9YKebWc0WGhcNbtJFeRe) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Rehnuma](https://open.spotify.com/album/5ZG20aDD6ZyqeFHyDzufeO) | 3:13 | 2022-01-18 |  |
 | [Return](https://open.spotify.com/track/23uK4NXI8s7Qgo6rXwlBSP) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Return](https://open.spotify.com/album/2d0cmKKkMSbVSPkKbCStfe) | 3:49 | 2022-01-10 | 2022-02-01 |
 | [Rooni](https://open.spotify.com/track/0QpBibmVhtKB935pjfkYNI) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rooni](https://open.spotify.com/album/31fg61G7seuzDT0wB6Zr4e) | 2:41 | 2022-01-10 | 2022-07-02 |
-| [Roothe Saiyaan](https://open.spotify.com/track/6Y22M2lBDpfk1GEGYrsVrn) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI) | [Roothe Saiyaan](https://open.spotify.com/album/4BfsyCJjVYQc8G3ZKDW5KN) | 2:58 | 2021-12-06 |  |
+| [Roothe Saiyaan](https://open.spotify.com/track/6Y22M2lBDpfk1GEGYrsVrn) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI) | [Roothe Saiyaan](https://open.spotify.com/album/4BfsyCJjVYQc8G3ZKDW5KN) | 2:58 | 2021-12-06 | 2022-07-23 |
 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 | 2021-12-06 | 2022-01-11 |
 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2022-02-10 |  |
 | [Saal](https://open.spotify.com/track/2S3erlZaNr7EGakVORv619) | [Ishpreet Singh](https://open.spotify.com/artist/0uYkdsYTX52nJ3iiER4rg9), [Khushraj Hussain](https://open.spotify.com/artist/2F4iyLhAJANxKrKl3Iw9Dh) | [Saal](https://open.spotify.com/album/5WZa0b0DV0zS6K3sEWAuKP) | 3:08 | 2022-03-21 |  |
@@ -150,6 +150,7 @@
 | [Taare](https://open.spotify.com/track/4jflaxgK10KuHI9hzxsT1C) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c), [DJ Strings](https://open.spotify.com/artist/5dK1U4fQotxj5QCVyC7wJD) | [Taare](https://open.spotify.com/album/7n3mLvH0HLnuykbdAaR3ib) | 3:28 | 2022-03-21 |  |
 | [Taare](https://open.spotify.com/track/5tlYQMx8GyEnkrZBO77YZW) | [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Taare](https://open.spotify.com/album/7jd1UU6S0dAKbssg4ShOkc) | 2:34 | 2021-12-06 | 2022-01-18 |
 | [Tanha Rahun Main](https://open.spotify.com/track/0nJptnLo28LIFeZzcUlYG7) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr), [Jahnavi Rao](https://open.spotify.com/artist/2OjHId4Ml8WRQL40hRj1Z6) | [Tanha Rahun Main](https://open.spotify.com/album/1wdykphFC8ZpQMDx7znwdx) | 4:50 | 2022-01-10 |  |
+| [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2022-07-22 |  |
 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 | 2022-01-10 |  |
 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 | 2022-01-31 |  |
 | [That Morning](https://open.spotify.com/track/2ZNYeQ0yS3zjTOlvUrhdaW) | [Ronnie & Barty](https://open.spotify.com/artist/1VEKDeyV79I5cUU1KA2grq) | [Chapter One](https://open.spotify.com/album/7Ck1njcK2VB2BIsMHE5fzu) | 3:19 | 2022-01-10 |  |

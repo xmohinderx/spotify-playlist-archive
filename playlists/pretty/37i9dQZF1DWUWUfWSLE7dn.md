@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > The perfect score to accompany your literary quest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,813 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,892 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

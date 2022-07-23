@@ -4,7 +4,7 @@
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-79 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
+80 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Armando El Chipi Chipi](https://open.spotify.com/track/4UCRLEObUo5M0IssOoOtPz) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [Armando El Chipi Chipi](https://open.spotify.com/album/5myKtBg7PCrs5i9J5raXjl) | 3:12 | 2022-03-18 | 2022-06-07 |
 | [Bandera](https://open.spotify.com/track/3eFsHyp8k4jkfdTIoIj3BN) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X) | [Bandera](https://open.spotify.com/album/0f3uhIYi9PccAtszSB6AcM) | 2:19 | 2021-12-24 |  |
 | [CARANCHO](https://open.spotify.com/track/6PMWJlpsP6uocjP4YTUW3H) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [CARANCHO](https://open.spotify.com/album/0YnJLL2o3w6VkVWZKTpz6N) | 2:29 | 2022-03-25 |  |
+| [COLALESS](https://open.spotify.com/track/1dFLJAcfWbmi6StNxbINYC) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [COLALESS](https://open.spotify.com/album/6ce7xozbRAShrQTAyLVlQV) | 1:48 | 2022-07-22 |  |
 | [Combi Nueva](https://open.spotify.com/track/25YMD8Bf1CiQvAsYz5Bq0p) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Combi Nueva](https://open.spotify.com/album/6XPF6XwJkxIZTRM3jdAzeM) | 3:12 | 2021-12-24 |  |
 | [Corolla](https://open.spotify.com/track/76hHENeXQUPkf0cISBNytg) | [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr) | [Corolla](https://open.spotify.com/album/4lq7ZMUXWT4SKetW6ys3Bp) | 2:08 | 2022-03-25 |  |
 | [Cuarentena](https://open.spotify.com/track/2UG9dNqCwEO9kTP3Nt9Mq5) | [Emmi Dj](https://open.spotify.com/artist/08jZ32InQwotUjRjcrWsKH), [Luen](https://open.spotify.com/artist/1iqtKZfabcfYjdCuwe9Xxi), [Junka](https://open.spotify.com/artist/1NdquWNr62HcXoUjvhFSLe) | [Cuarentena](https://open.spotify.com/album/1BIQYQMFw34l0RndUR4L57) | 3:19 | 2021-12-24 | 2022-03-05 |

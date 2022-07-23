@@ -2,7 +2,7 @@
 
 ### [The RCA\-List](https://open.spotify.com/playlist/3QiPV2C1uJQ3L8sKaykshJ)
 
-> Listen to A\-List tracks from RCA Records featuring music from Latto x Mariah Carey, Kygo ft\. DNCE, Becky G &amp; Karol G, Doja Cat, and more\. Cover: Doja Cat
+> Listen to A\-List tracks from RCA Records featuring music from Steve Lacy, Chris Brown, SZA, Flo Milli, Latto, and more\. Cover: Steve Lacy
 
 61 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/2sh9qmAJ9rtmiXeIBtt7j0)
 

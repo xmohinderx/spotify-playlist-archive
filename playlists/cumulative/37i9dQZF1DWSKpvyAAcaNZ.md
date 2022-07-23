@@ -2,9 +2,9 @@
 
 ### [Blues & Roots Rock](https://open.spotify.com/playlist/37i9dQZF1DWSKpvyAAcaNZ)
 
-> It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Fantastic Negrito
+> It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-170 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+172 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 | 2021-12-17 | 2022-06-18 |
 | [Be Enough](https://open.spotify.com/track/2bZQo6fEj21r1gDz8nKBbq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Be Enough](https://open.spotify.com/album/23MBziPP4TVvxaRjIsi3Px) | 4:12 | 2022-06-24 |  |
 | [Better Feeln' Better Days](https://open.spotify.com/track/3zkdaLqbeTXcIyJnMAwA35) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 3:43 | 2021-12-17 | 2022-06-04 |
-| [Better Way](https://open.spotify.com/track/39hd4z3UN6ueATWaXqNfPn) | [Kim Logan](https://open.spotify.com/artist/3GSKpbKZfN9fIucqq2Iprh) | [Better Way](https://open.spotify.com/album/1Q3V2eobeVSrN3CQP78sWK) | 4:04 | 2021-12-17 |  |
+| [Better Way](https://open.spotify.com/track/39hd4z3UN6ueATWaXqNfPn) | [Kim Logan](https://open.spotify.com/artist/3GSKpbKZfN9fIucqq2Iprh) | [Better Way](https://open.spotify.com/album/1Q3V2eobeVSrN3CQP78sWK) | 4:04 | 2021-12-17 | 2022-07-23 |
 | [Black Crow](https://open.spotify.com/track/6f8wMPrnGpIF6qU6afkOIZ) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Black Crow](https://open.spotify.com/album/3tLk6wfBk0xHptDaImOv8Y) | 4:30 | 2021-12-17 |  |
 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 | 2021-12-17 |  |
 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 | 2022-01-28 |  |
@@ -95,7 +95,7 @@
 | [Jungle](https://open.spotify.com/track/406ZdY9JkmSy7kOGuVflrL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [The Reason EP](https://open.spotify.com/album/45rrGouDjyjtHKgLvoVw7v) | 3:09 | 2021-12-17 |  |
 | [Just to Be with You](https://open.spotify.com/track/3aAFZx6mlVu3WrwgNEK9yM) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Just to Be with You](https://open.spotify.com/album/5fmwhm7jnQTBAewN4UjKnk) | 3:23 | 2021-12-17 |  |
 | [Keep It Close](https://open.spotify.com/track/6Mxb9ZguHzhND7GiTkWJiu) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Keep It Close](https://open.spotify.com/album/2BVhMXXpSpDWFEnpC6Y07w) | 3:40 | 2021-12-17 |  |
-| [Leadfoot](https://open.spotify.com/track/2JiVNVjC8W02EZ9Nmp4rNP) | [No Sinner](https://open.spotify.com/artist/4tU4lol6tCmomJNksFxR5z) | [Leadfoot](https://open.spotify.com/album/2YrXPO1FUqr0Ybq04AweFa) | 4:05 | 2021-12-17 |  |
+| [Leadfoot](https://open.spotify.com/track/2JiVNVjC8W02EZ9Nmp4rNP) | [No Sinner](https://open.spotify.com/artist/4tU4lol6tCmomJNksFxR5z) | [Leadfoot](https://open.spotify.com/album/2YrXPO1FUqr0Ybq04AweFa) | 4:05 | 2021-12-17 | 2022-07-23 |
 | [Let You Go](https://open.spotify.com/track/2p8vubDBdUmbbdNWtC1Ots) | [Great Peacock](https://open.spotify.com/artist/5PMyfGJxTdk91f1MxHw7Uv) | [Let You Go](https://open.spotify.com/album/1p61uyfOlNgnejxbP2jMXZ) | 4:46 | 2021-12-17 |  |
 | [Lift Me Up \(Leave Me Here\)](https://open.spotify.com/track/5eoKQlJjP6A8JKjJVAcLUw) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Lift Me Up \(Leave Me Here\)](https://open.spotify.com/album/5wakVnN6GdcJVP4K7jpRS4) | 3:21 | 2021-12-17 |  |
 | [Lightning Strike](https://open.spotify.com/track/5QN2EOIp6XFXCV85dOp35H) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Lightning Strike](https://open.spotify.com/album/3x9chN0T0Z4D5wwFNmy2lc) | 2:58 | 2021-12-17 |  |
@@ -110,6 +110,7 @@
 | [Mockingbird](https://open.spotify.com/track/6NXWl8y3sGXZduzeNqhGp6) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [Mockingbird](https://open.spotify.com/album/6wtlrcgFPJd6axKzjPPZe2) | 3:19 | 2021-12-17 |  |
 | [My Babe](https://open.spotify.com/track/30jQJuhVI8riaN1K3TEwFA) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [My Babe](https://open.spotify.com/album/7b81vGpyRoiuYEs56zPnUr) | 2:18 | 2021-12-17 |  |
 | [Native Son](https://open.spotify.com/track/2Oj2Z5hy2eJ9NTXLSBWEHG) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 3:10 | 2021-12-17 | 2022-03-12 |
+| [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 | 2022-07-22 |  |
 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 | 2021-12-17 |  |
 | [Number One](https://open.spotify.com/track/4Azj4bueh878ufsertTQDb) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Capital](https://open.spotify.com/album/38jGVyF1w8OvHapB9eOaap) | 3:11 | 2021-12-17 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2021-12-17 |  |
@@ -164,7 +165,8 @@
 | [Vagabond](https://open.spotify.com/track/0p0LA0XkXLfDeQGDFsT5Uz) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Vagabond](https://open.spotify.com/album/1VNkd6veezStoL9TQp20PP) | 3:37 | 2021-12-17 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/7ICQ4gzQ74YlrDDtU8Ttsz) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Waiting for the Thunder](https://open.spotify.com/album/4ZnjSpNC9TNymP4W9jcLrC) | 4:07 | 2021-12-17 |  |
 | [Waslaha](https://open.spotify.com/track/3jaLakSC3EkBqOcXNYgy8K) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Waslaha](https://open.spotify.com/album/3QHUKfPL9dfrfOrJcKRwfF) | 2:38 | 2021-12-17 | 2022-01-29 |
-| [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 |  |
+| [We Need To Talk About It](https://open.spotify.com/track/1SWk8chKisB7HJvKizuf36) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:53 | 2022-07-22 |  |
+| [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |
 | [What've I Done To Help](https://open.spotify.com/track/30kyfRMzJ7IxwQ5rEndvwn) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [What’ve I Done to Help](https://open.spotify.com/album/4woWpmM4ghIPQeo3bGmNSY) | 6:40 | 2021-12-17 |  |
 | [When It Rains](https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/3hBNP1QpE7MWs5OIInJxAG) | 6:23 | 2021-12-17 |  |
 | [White House Road \- OurVinyl Sessions](https://open.spotify.com/track/55KHk8PhJC3HIpT3mA2smL) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/4kWFXcmFlcZTZVi68NMqKw) | 4:28 | 2021-12-17 |  |

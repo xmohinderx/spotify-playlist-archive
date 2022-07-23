@@ -4,7 +4,7 @@
 
 > Remembering Sidhu Moose Wala.
 
-117 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+118 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Black & White](https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:46 | 2022-05-29 |  |
 | [Black Effect](https://open.spotify.com/track/3u1M5fVPD73IElMCBOYyiJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Black Effect](https://open.spotify.com/album/3ur9x6ksnT3OUlgk1dghrj) | 2:55 | 2022-05-29 |  |
 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 | 2022-05-29 |  |
+| [Breakan \(feat\. Simar Kaur\)](https://open.spotify.com/track/2iMFg8rVPNZGYv0sXL9a1D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Versatile](https://open.spotify.com/album/4XJOG0BM4Lr0XfrscVLu9X) | 2:51 | 2022-07-22 |  |
 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 | 2022-05-29 |  |
 | [Champagne](https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:02 | 2022-05-29 |  |
 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 | 2022-05-29 |  |
@@ -44,7 +45,7 @@
 | [Guilty](https://open.spotify.com/track/0CEZeiRvjL3iHPu1JKI9zW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Guilty](https://open.spotify.com/album/7dK05D7NqHnhkSD3N2yaE1) | 2:59 | 2022-05-29 |  |
 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 | 2022-05-29 |  |
 | [Gutt](https://open.spotify.com/track/6Y8r5v3lwWX80fr7oRNK9V) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Gutt](https://open.spotify.com/album/1Rw1ZFDTs08NyLop4Vz9ck) | 3:38 | 2022-05-29 |  |
-| [Gutt Ch Paranda](https://open.spotify.com/track/4NyKTeLnNmWuwrYYUkak6d) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Sobha](https://open.spotify.com/artist/6Bc0kRRn7KUriyBrtzSV6z), [Deep Sandhu](https://open.spotify.com/artist/3zBJTgsnovcVTircnCf9tr) | [Gutt Ch Paranda](https://open.spotify.com/album/6Ef3ZkklKfluDkj1mBv6Li) | 3:49 | 2022-07-21 |  |
+| [Gutt Ch Paranda](https://open.spotify.com/track/4NyKTeLnNmWuwrYYUkak6d) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Sobha](https://open.spotify.com/artist/6Bc0kRRn7KUriyBrtzSV6z), [Deep Sandhu](https://open.spotify.com/artist/3zBJTgsnovcVTircnCf9tr) | [Gutt Ch Paranda](https://open.spotify.com/album/6Ef3ZkklKfluDkj1mBv6Li) | 3:49 | 2022-07-21 | 2022-07-23 |
 | [Heart Attack](https://open.spotify.com/track/2Ycj9XXWp6cASuSA5UJ2Wo) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Heart Attack](https://open.spotify.com/album/7tM1PlNCbtd1a24fiNPH9y) | 2:42 | 2022-05-29 | 2022-06-01 |
 | [Here & There](https://open.spotify.com/track/1TLNrPm7U8V8kRF17SlsAe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:05 | 2022-05-29 |  |
 | [Info](https://open.spotify.com/track/2txEM0LayfSv1AOB3M1Z8R) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Info](https://open.spotify.com/album/6VdOWF7fv6BBeR7ePttQ5M) | 3:20 | 2022-05-29 |  |

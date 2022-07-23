@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 207500,
       "name": "WINK",
       "url": "https://open.spotify.com/track/1c3J4LNuNvUUnXmk8moHHv"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 209916,
       "name": "\u0e01\u0e2d\u0e14\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/4hccrJgNG1BwPa3CWw4NNg"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 193500,
       "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/6pfGrakHsgPI8MPssDISPB"
@@ -912,6 +912,24 @@
     },
     {
       "album": {
+        "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
+        "url": "https://open.spotify.com/album/7nzdc88JydSq90v212jrfU"
+      },
+      "artists": [
+        {
+          "name": "bonnadol",
+          "url": "https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235790,
+      "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
+      "url": "https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ"
+    },
+    {
+      "album": {
         "name": "\u0e09\u0e31\u0e19\u0e08\u0e30\u0e09\u0e32\u0e1b\u0e40\u0e18\u0e2d (Curse)",
         "url": "https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP"
       },
@@ -945,6 +963,24 @@
       "duration_ms": 168770,
       "name": "\u0e0a\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e19\u0e30 - Unsend",
       "url": "https://open.spotify.com/track/0nKRTd3kTf0xyU9q608e8S"
+    },
+    {
+      "album": {
+        "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222727,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
     },
     {
       "album": {
@@ -1155,6 +1191,24 @@
       "duration_ms": 246935,
       "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
       "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e08\u0e39\u0e1a\u0e44\u0e14\u0e49\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e04\u0e23\u0e31\u0e49\u0e07 (Last Kiss)",
+        "url": "https://open.spotify.com/album/4fvLJyx7dG6ewjIT9FSXMJ"
+      },
+      "artists": [
+        {
+          "name": "LAZ1",
+          "url": "https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241379,
+      "name": "\u0e16\u0e49\u0e32\u0e08\u0e39\u0e1a\u0e44\u0e14\u0e49\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e04\u0e23\u0e31\u0e49\u0e07 (Last Kiss)",
+      "url": "https://open.spotify.com/track/768V6zjx23Sd1oqtKlxIAx"
     },
     {
       "album": {
@@ -1773,7 +1827,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 246407,
       "name": "\u0e2a\u0e1a\u0e32\u0e22\u0e14\u0e35\u0e44\u0e2b\u0e21? (how r u?)",
       "url": "https://open.spotify.com/track/6w6CKv0wpFBTjBcV6YuQJs"
@@ -1874,6 +1928,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/7G9VG9cTZYembWSw2Mk2i2"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255384,
+      "name": "\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/4A2WrMN7wUHON3QtGPtSv3"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e01\u0e31\u0e19",
         "url": "https://open.spotify.com/album/5BJVpgDdWIVwIe8OiVJDWD"
       },
@@ -1933,6 +2005,24 @@
       "duration_ms": 220120,
       "name": "\u0e2b\u0e49\u0e32\u0e21\u0e43\u0e08\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
       "url": "https://open.spotify.com/track/2hteglfTJmJmqac9pXz7rb"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e01\u0e2b\u0e31\u0e01\u0e41\u0e15\u0e48\u0e1a\u0e2d\u0e01\u0e41\u0e1f\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Shhhh!)",
+        "url": "https://open.spotify.com/album/3VnwBDrzS0Ly8e3Q7nmOzy"
+      },
+      "artists": [
+        {
+          "name": "SLAPKISS",
+          "url": "https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222272,
+      "name": "\u0e2d\u0e01\u0e2b\u0e31\u0e01\u0e41\u0e15\u0e48\u0e1a\u0e2d\u0e01\u0e41\u0e1f\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Shhhh!)",
+      "url": "https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB"
     },
     {
       "album": {
@@ -2329,7 +2419,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 195194,
       "name": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e15\u0e31\u0e27\u0e40\u0e25\u0e47\u0e01 (Chob Kub Khun)",
       "url": "https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9"
@@ -2503,6 +2593,24 @@
       "duration_ms": 207721,
       "name": "\u0e41\u0e1e\u0e49\u0e01\u0e47\u0e41\u0e04\u0e48\u0e1e\u0e2d (Just Give Up) Feat. PUN",
       "url": "https://open.spotify.com/track/069JaCJqZk3T63e7KxVqfH"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e1e\u0e49\u0e27\u0e48\u0e30",
+        "url": "https://open.spotify.com/album/6OyeZ2Fh9IxxypGwG8u1UJ"
+      },
+      "artists": [
+        {
+          "name": "Pearwah",
+          "url": "https://open.spotify.com/artist/5QJRejsVPjeqkRZkTMg6Pr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203877,
+      "name": "\u0e41\u0e1e\u0e49\u0e27\u0e48\u0e30",
+      "url": "https://open.spotify.com/track/47KUgmN7zprO29hEVvMNX1"
     },
     {
       "album": {
@@ -2691,7 +2799,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 233731,
       "name": "\u0e43\u0e0a\u0e48\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Question)",
       "url": "https://open.spotify.com/track/3SNQ3vBykjNe6WSAXca5g4"

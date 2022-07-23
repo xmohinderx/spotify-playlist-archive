@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 
 > music to help you \~ focus \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,029 likes - 78 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,201 likes - 78 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 16 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 |
 | 17 | [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 |
 | 18 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 |
-| 19 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 |
+| 19 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 |
 | 20 | [Give You Love](https://open.spotify.com/track/0H4yyuVRMIXT9hkDZMc6D6) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Give You Love](https://open.spotify.com/album/307eCZ5BF0wjOmE29qDiUj) | 2:53 |
 | 21 | [Butterflies](https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Butterflies](https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U) | 3:03 |
 | 22 | [New Normal](https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [New Normal](https://open.spotify.com/album/2Gpdm0FDnFWxvI9oB6emOB) | 3:07 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 38 | [Nice to Meet You](https://open.spotify.com/track/0nxh4ijcMIwtkUth4aClzL) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Nice to Meet You](https://open.spotify.com/album/4hCeoPdicCGskR7BYasJxi) | 4:10 |
 | 39 | [clouds](https://open.spotify.com/track/2jLM1EZ02W1dfenyJUj7Sb) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [clouds](https://open.spotify.com/album/2tAgkFFnifV9TsSdicHDyg) | 3:46 |
 | 40 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
-| 41 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 |
+| 41 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 |
 | 42 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 |
 | 43 | [Crushed](https://open.spotify.com/track/3k0SETuSN77lOH9FwSCnGS) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Crushed](https://open.spotify.com/album/6DP75FpG2ayqS3FWvGCpbO) | 3:31 |
 | 44 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 |

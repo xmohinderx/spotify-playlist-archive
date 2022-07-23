@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 229720,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 260630,
       "name": "All I See Is You",
       "url": "https://open.spotify.com/track/6dNvCU9OcpWbDTR47d1ECP"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 188182,
       "name": "Between Me and the Devil",
       "url": "https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 170293,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/027LnYtc3AvNAtEPVljiRB"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 190893,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 225133,
       "name": "Come On",
       "url": "https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 276560,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 161733,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/6WLtfOdxB7FdmY7GePc6us"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 200138,
       "name": "Half My Fault",
       "url": "https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 224266,
       "name": "Hounds Loose",
       "url": "https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 227206,
       "name": "I See You",
       "url": "https://open.spotify.com/track/4eER7CCkE8Ehb2XyuFdKAx"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 208909,
       "name": "Off the Shelf",
       "url": "https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN"
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 328093,
       "name": "The Waltz",
       "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
@@ -1733,6 +1733,24 @@
       "duration_ms": 214842,
       "name": "What's the Trick?",
       "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
+    },
+    {
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6GvNg6DywdIaWDTLaDFG1e"
+      },
+      "artists": [
+        {
+          "name": "Baba Jenkins",
+          "url": "https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219153,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/5X32g7xtJOlgmX6hNXebXa"
     },
     {
       "album": {

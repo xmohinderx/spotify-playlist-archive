@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Egg in the Backseat",
+        "url": "https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164529,
+      "name": "12345",
+      "url": "https://open.spotify.com/track/0fxUGOzBYJGKgs5ZKw1Em5"
+    },
+    {
+      "album": {
         "name": "14",
         "url": "https://open.spotify.com/album/6Y8manNCbK8DfkDFZrEQMh"
       },
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 152230,
       "name": "Baby Don't Go",
       "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 126316,
       "name": "blue",
       "url": "https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd"
@@ -5229,7 +5247,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 163727,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/7bIa6A4XjMVy4trhKI0Z3G"
@@ -7055,7 +7073,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 152224,
       "name": "Friend Like Me",
       "url": "https://open.spotify.com/track/0ArW1iNq8D7qfL8acsL1Cs"
@@ -7153,7 +7171,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 188218,
       "name": "Fuck Friday",
       "url": "https://open.spotify.com/track/42S8a0eCTdw2qYuK8oXB4Z"
@@ -7951,7 +7969,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ"
@@ -9488,6 +9506,24 @@
     },
     {
       "album": {
+        "name": "how dare you",
+        "url": "https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177247,
+      "name": "how dare you",
+      "url": "https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS"
+    },
+    {
+      "album": {
         "name": "how i feel",
         "url": "https://open.spotify.com/album/0EIDhGCT86MzboicRJbvBQ"
       },
@@ -9535,7 +9571,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 218400,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/5HgkPkJdLPsetKAB8paTNb"
@@ -10237,7 +10273,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 173105,
       "name": "Immature",
       "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
@@ -10533,7 +10569,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 185664,
       "name": "It Took A Lot To Get To This",
       "url": "https://open.spotify.com/track/1kLn3PxbnFzHV1kkXWpg4e"
@@ -11873,7 +11909,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 196142,
       "name": "Line",
       "url": "https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP"
@@ -12555,7 +12591,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 162056,
       "name": "Madonna (with Audrey Mika)",
       "url": "https://open.spotify.com/track/7xU12s4CHm1wT2M3YMmCqg"
@@ -13997,7 +14033,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 153093,
       "name": "No Time (For My Life To Suck)",
       "url": "https://open.spotify.com/track/46FwyEmZaPPzUViyEvloXo"
@@ -15436,6 +15472,24 @@
     },
     {
       "album": {
+        "name": "Pickup Lines",
+        "url": "https://open.spotify.com/album/1SlVtVG8JmqGMOeXZaT9HF"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Pickup Lines",
+      "url": "https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB"
+    },
+    {
+      "album": {
         "name": "Picnic In The Park",
         "url": "https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB"
       },
@@ -15639,7 +15693,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 191266,
       "name": "Post Party Trauma",
       "url": "https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu"
@@ -19621,7 +19675,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 170666,
       "name": "Teddy Bears",
       "url": "https://open.spotify.com/track/0OoYSngy0SJ9kJDECRlGcU"
@@ -20293,7 +20347,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 140954,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/5kzsfmg5XrlG2cxnHbBNC5"
@@ -20475,6 +20529,24 @@
       "duration_ms": 169850,
       "name": "Too Precious",
       "url": "https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG"
+    },
+    {
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204179,
+      "name": "Tornado Warnings",
+      "url": "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM"
     },
     {
       "album": {
@@ -22203,7 +22275,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 217775,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/5Agqr1d0H8GGQXZ9WHNvWL"

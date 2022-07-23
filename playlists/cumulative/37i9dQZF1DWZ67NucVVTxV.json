@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 175800,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 166736,
       "name": "Elephant Man",
       "url": "https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 232087,
       "name": "First in Class",
       "url": "https://open.spotify.com/track/6NmwEiA27SB5k66nA2VBXp"
@@ -792,6 +792,24 @@
     },
     {
       "album": {
+        "name": "Holy Gee",
+        "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164808,
+      "name": "Holy Gee",
+      "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
+    },
+    {
+      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/6mOwZyFB4QxYRlunQNNrxt"
       },
@@ -866,6 +884,28 @@
     },
     {
       "album": {
+        "name": "Kenkele",
+        "url": "https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Kenkele",
+      "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
+    },
+    {
+      "album": {
         "name": "Kuacha",
         "url": "https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln"
       },
@@ -889,7 +929,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 190839,
       "name": "Kuacha",
       "url": "https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7"
@@ -925,7 +965,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 196800,
       "name": "Lagos",
       "url": "https://open.spotify.com/track/4qhQij4PxJJ6N5IsLm6Xd3"
@@ -951,6 +991,24 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/6sP1bUcEMPD5EjUT90xpKU"
+      },
+      "artists": [
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166434,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/462XmGTnwXX23ZzHf4WWx7"
     },
     {
       "album": {
@@ -1154,6 +1212,24 @@
     },
     {
       "album": {
+        "name": "ONIPA",
+        "url": "https://open.spotify.com/album/7CG7pUu4tJwzO20syeUcrb"
+      },
+      "artists": [
+        {
+          "name": "Vondee",
+          "url": "https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175412,
+      "name": "ONIPA",
+      "url": "https://open.spotify.com/track/2KKwU8ObJcEGD5pnFZzbcI"
+    },
+    {
+      "album": {
         "name": "Born 2 Shine",
         "url": "https://open.spotify.com/album/1jQOf8rlMeHpn4ftk2Fk2F"
       },
@@ -1191,6 +1267,24 @@
       "duration_ms": 191976,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
+    },
+    {
+      "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/2t3uvnpiuaPxTLtiW0Tl7b"
+      },
+      "artists": [
+        {
+          "name": "YungAce",
+          "url": "https://open.spotify.com/artist/2wyVEXXTxGKgx6fZYReUzO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127777,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/7l9zXQwQt3lJTsRCULlPvl"
     },
     {
       "album": {
@@ -1344,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "Royal Rumble",
+        "url": "https://open.spotify.com/album/1UnGYefcAvZXmFSmOBNiFL"
+      },
+      "artists": [
+        {
+          "name": "Jinmi Abduls",
+          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Royal Rumble",
+      "url": "https://open.spotify.com/track/2If4yVXLFbGksTtbn260Se"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
       },
@@ -1399,7 +1511,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 175280,
       "name": "Snakes N Ladders",
       "url": "https://open.spotify.com/track/68gXs2xVFx628tstoQe8ag"
@@ -1603,6 +1715,24 @@
       "duration_ms": 200413,
       "name": "Way Too Big",
       "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
+    },
+    {
+      "album": {
+        "name": "ATOM",
+        "url": "https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168103,
+      "name": "Weekenjoyment",
+      "url": "https://open.spotify.com/track/3eDN2mOgfKDdYkWGHsvbFj"
     },
     {
       "album": {

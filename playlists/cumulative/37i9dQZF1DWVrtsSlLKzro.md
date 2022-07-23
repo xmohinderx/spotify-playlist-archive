@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-181 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+182 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Moment](https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Moment](https://open.spotify.com/album/4zvb6dFdrfPFHcLGtMdCXr) | 3:12 | 2022-01-21 |  |
 | [My Feelings](https://open.spotify.com/track/0QnICpnSkCXY4d4zfYA2bB) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [My Feelings](https://open.spotify.com/album/4Bp7INayLmfQyNDDsmTNM3) | 3:27 | 2021-12-03 |  |
 | [My Last Song](https://open.spotify.com/track/3JCduk0tXQFjJBzo7qsj5e) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [My Last Song](https://open.spotify.com/album/7udkEjMPP76tjv8RL1zl2q) | 2:35 | 2021-12-03 |  |
+| [Never Easy](https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Never Easy](https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo) | 3:44 | 2022-07-22 |  |
 | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo) | 3:43 | 2021-12-03 |  |
 | [Nothing Good Comes Easy](https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Nothing Good Comes Easy](https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm) | 2:54 | 2022-02-11 |  |
 | [Noticed I cried \- Flume Remix](https://open.spotify.com/track/2sA3V6IQVkdO8FhWh7ZCMN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 2:55 | 2022-01-28 |  |

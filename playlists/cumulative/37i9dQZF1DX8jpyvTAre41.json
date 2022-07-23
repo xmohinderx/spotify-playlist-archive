@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Bring Me The Horizon",
+  "description": "The hottest tunes in rock. Crank it up! Cover: The Beaches",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 149793,
       "name": "Bad Reputation - Spotify Singles",
       "url": "https://open.spotify.com/track/6qNRJFypNpGWhUhlR13ENJ"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 197159,
       "name": "Better Dayz",
       "url": "https://open.spotify.com/track/4FCsd4YCpWIk5INu62aYPx"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 173173,
       "name": "Conditional Love",
       "url": "https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y"
@@ -1937,7 +1937,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 236644,
       "name": "Feeling Like I Do - Spotify Singles",
       "url": "https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR"
@@ -2330,6 +2330,24 @@
     },
     {
       "album": {
+        "name": "Grow Up Tomorrow",
+        "url": "https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192451,
+      "name": "Grow Up Tomorrow",
+      "url": "https://open.spotify.com/track/6Anf5eqLfGEKoGy0iaKAOb"
+    },
+    {
+      "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa"
       },
@@ -2543,6 +2561,24 @@
       "duration_ms": 198166,
       "name": "Holes",
       "url": "https://open.spotify.com/track/6jauJgJ1vi8GoSnNm0hIh8"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv"
+      },
+      "artists": [
+        {
+          "name": "HUNNY",
+          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os"
     },
     {
       "album": {
@@ -3015,7 +3051,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 188127,
       "name": "Kill The Noise",
       "url": "https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9"
@@ -3806,6 +3842,24 @@
     },
     {
       "album": {
+        "name": "Middle Of A Breakup",
+        "url": "https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200037,
+      "name": "Middle Of A Breakup",
+      "url": "https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8"
+    },
+    {
+      "album": {
         "name": "Middle of Nowhere (feat. Chad Kroeger)",
         "url": "https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM"
       },
@@ -3945,6 +3999,28 @@
       "duration_ms": 161911,
       "name": "Mouth Shut (feat. Adrian Young of No Doubt)",
       "url": "https://open.spotify.com/track/0fcGYLNBOEydUC79wZ70MM"
+    },
+    {
+      "album": {
+        "name": "my ex",
+        "url": "https://open.spotify.com/album/4jwTtRDIY9ckGii0QNsCdq"
+      },
+      "artists": [
+        {
+          "name": "Chad Tepper",
+          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
+        },
+        {
+          "name": "Pierre Bouvier",
+          "url": "https://open.spotify.com/artist/1FwRuZTNH8Ys97avBNW6uJ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168587,
+      "name": "my ex",
+      "url": "https://open.spotify.com/track/1iE5bs1p6cXGkj5T4NODE2"
     },
     {
       "album": {
@@ -4107,7 +4183,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 188139,
       "name": "No Apologies",
       "url": "https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb"
@@ -4485,7 +4561,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 124130,
       "name": "Pharmacist",
       "url": "https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj"
@@ -5080,6 +5156,24 @@
     },
     {
       "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot"
+    },
+    {
+      "album": {
         "name": "Outta Sight",
         "url": "https://open.spotify.com/album/7bTPEsKhpCQbM36uZLA40j"
       },
@@ -5297,7 +5391,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 162516,
       "name": "SKIN OF MY TEETH",
       "url": "https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K"
@@ -5951,6 +6045,24 @@
       "duration_ms": 275000,
       "name": "The Beautiful",
       "url": "https://open.spotify.com/track/3fyCwnT64CHVVLXVyAnpKc"
+    },
+    {
+      "album": {
+        "name": "The Dying Song (Time To Sing)",
+        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 
 > Editor's picks: The best African songs of 2021\. Cover: <a href="https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu?si=nFgcQ\_fRQH6RnMN65adARg">LADIPOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,212 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,220 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 56 | [Bounce \- UK Remix](https://open.spotify.com/track/6kMMNN1GmeYJLLPSLqQmW5) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Bounce \(UK Remix\)](https://open.spotify.com/album/1K5vQcAwyK5vftLFXzV6CB) | 3:01 |
 | 57 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 |
 | 58 | [Music Messiah](https://open.spotify.com/track/3lPOu76tRlaN6gb38z4ptx) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Music Messiah](https://open.spotify.com/album/7cGUSuo0tL7nojDwuzfZtR) | 2:42 |
-| 59 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:33 |
+| 59 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 |
 | 60 | [My Touch](https://open.spotify.com/track/0ydo79qMlvXi8MMuLFrAl0) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [My Touch](https://open.spotify.com/album/55JLMdnqUusKWh7tdWYCvS) | 2:59 |
 | 61 | [Sere](https://open.spotify.com/track/7IDrQtd8JrnExDCPSq0W90) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Sere](https://open.spotify.com/album/32hcgwyvVbizVzvyIGLfTT) | 3:05 |
 | 62 | [Testimony](https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Testimony](https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY) | 2:26 |

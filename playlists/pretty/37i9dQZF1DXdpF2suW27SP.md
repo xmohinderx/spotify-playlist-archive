@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Deejay Telio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,248 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,276 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 15 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 |
 | 16 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 |
 | 17 | [Moncler](https://open.spotify.com/track/0DLUkSjuJxOe7kgtQlquDK) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [Moncler](https://open.spotify.com/album/5jIDnCrGqpO9CLhREHvhNg) | 3:40 |
-| 18 | [Cheques \(feat\. Mizzy Miles, Julinho KDS, Kibow & Trista\)](https://open.spotify.com/track/1D8cZxGppgdcMwflIWNsp9) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Julinho KDS](https://open.spotify.com/artist/3PvVmv99EIbByMM789NYl0), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Cheques \(feat\. Mizzy Miles, Julinho KDS, Kibow & Trista\)](https://open.spotify.com/album/0zUpP8WYAIlKKWR4IsnNvg) | 3:21 |
+| 18 | [Cheques \(feat\. Julinho KSD, Kibow & Trista\)](https://open.spotify.com/track/1D8cZxGppgdcMwflIWNsp9) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Cheques \(feat\. Julinho KSD, Kibow & Trista\)](https://open.spotify.com/album/0zUpP8WYAIlKKWR4IsnNvg) | 3:21 |
 | 19 | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Xakal Da Gun](https://open.spotify.com/artist/4swNK0k8teorELHJdglw6S) | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/album/1ROz5se04TrvGR6sIaMZGv) | 4:10 |
 | 20 | [Coração](https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu) | [Anatomia de GROG](https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y) | 4:42 |
 | 21 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 |

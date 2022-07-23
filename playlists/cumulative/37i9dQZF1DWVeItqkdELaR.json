@@ -388,6 +388,32 @@
     },
     {
       "album": {
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "album": {
         "name": "NAKAMURA",
         "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
       },
@@ -417,7 +443,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 125094,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/4tRmiWQmekkX2mx7mmhdK6"
@@ -587,7 +613,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -829,7 +855,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
@@ -1091,7 +1117,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 181573,
       "name": "ME PASE (feat. Farruko)",
       "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
@@ -1211,7 +1237,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W"
@@ -1295,7 +1321,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
@@ -1586,6 +1612,24 @@
     },
     {
       "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -1737,10 +1781,32 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 167916,
       "name": "Rover (feat. DTG)",
       "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
+    },
+    {
+      "album": {
+        "name": "Saturno (Ela \u00e9 Malvada)",
+        "url": "https://open.spotify.com/album/3EJf6g8d84fp0glrKP1ZEF"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142299,
+      "name": "Saturno (Ela \u00e9 Malvada)",
+      "url": "https://open.spotify.com/track/3DFAj6yMZ6QLWez7cbL1Vc"
     },
     {
       "album": {
@@ -1817,7 +1883,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 176285,
       "name": "SloMo",
       "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
@@ -1909,7 +1975,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
@@ -1967,7 +2033,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
@@ -2077,7 +2143,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 205013,
       "name": "Treme Treme",
       "url": "https://open.spotify.com/track/7uyxJs2ntOGvhmB7fLxYD8"

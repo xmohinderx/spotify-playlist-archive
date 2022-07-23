@@ -1,35 +1,71 @@
 {
-  "description": "Ou\u00e7a os hits do momento do pop BR! Foto: Baco Exu do Blues, Lu\u00edsa Sonza",
-  "num_followers": 2381544,
+  "description": "Ou\u00e7a os hits do momento do pop BR! Foto: Vit\u00e3o",
+  "num_followers": 2381999,
   "original_name": "Pop Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE4ODgwMCwwMDAwMDI3MzAwMDAwMTgyMTNjMTIwN2EwMDAwMDE4MTVhMWYzMDJi",
+  "snapshot_id": "MTY1ODQ1ODgwMCwwMDAwMDI3NDAwMDAwMTgyMjNkOTAwNjEwMDAwMDE4MjIzYzlhODk0",
   "tracks": [
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
-        "name": "Hotel Caro",
-        "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
+        "name": "Mais Uma Vez",
+        "url": "https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs"
       },
       "artists": [
         {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 131571,
+      "name": "Atr\u00e1s Do Meu Amor",
+      "url": "https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
+        "name": "CACHORRINHAS",
+        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
+      },
+      "artists": [
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 221857,
-      "name": "Hotel Caro",
-      "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
+      "duration_ms": 134936,
+      "name": "CACHORRINHAS",
+      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
+        "name": "Pipoco",
+        "url": "https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        },
+        {
+          "name": "Dj Chris No Beat",
+          "url": "https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk"
+        }
+      ],
+      "duration_ms": 194022,
+      "name": "Pipoco",
+      "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
@@ -61,47 +97,63 @@
       "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
-        "name": "Pipoco",
-        "url": "https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E"
+        "name": "F\u00e9",
+        "url": "https://open.spotify.com/album/1zY9fsTzRpo14orML00h25"
       },
       "artists": [
         {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        },
-        {
-          "name": "Dj Chris No Beat",
-          "url": "https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         }
       ],
-      "duration_ms": 194022,
-      "name": "Pipoco",
-      "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"
+      "duration_ms": 185400,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
-        "name": "CACHORRINHAS",
-        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
+        "name": "Hotel Caro",
+        "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
       },
       "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 134936,
-      "name": "CACHORRINHAS",
-      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
+      "duration_ms": 221857,
+      "name": "Hotel Caro",
+      "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
+        "name": "Medley Lud Session - Tudo porque voc\u00ea mentiu / penhasco / De rol\u00ea / CAF\u00c9 DA MANH\u00c3 ;P / Doutora 3",
+        "url": "https://open.spotify.com/album/4rQEAhGCxPJFlkJGymvmyz"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 579562,
+      "name": "Medley Lud Session - Tudo porque voc\u00ea mentiu / penhasco / De rol\u00ea / CAF\u00c9 DA MANH\u00c3 ;P / Doutora 3",
+      "url": "https://open.spotify.com/track/3JFB72hbbt3zy30puJTc3q"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
@@ -121,7 +173,7 @@
       "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "sentaDONA (Remix) s2",
         "url": "https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0"
@@ -149,7 +201,7 @@
       "url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
@@ -165,43 +217,7 @@
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Medley Lud Session - Tudo porque voc\u00ea mentiu / penhasco / De rol\u00ea / CAF\u00c9 DA MANH\u00c3 ;P / Doutora 3",
-        "url": "https://open.spotify.com/album/4rQEAhGCxPJFlkJGymvmyz"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 579562,
-      "name": "Medley Lud Session - Tudo porque voc\u00ea mentiu / penhasco / De rol\u00ea / CAF\u00c9 DA MANH\u00c3 ;P / Doutora 3",
-      "url": "https://open.spotify.com/track/3JFB72hbbt3zy30puJTc3q"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "F\u00e9",
-        "url": "https://open.spotify.com/album/1zY9fsTzRpo14orML00h25"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "F\u00e9",
-      "url": "https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Kikada do Ano",
         "url": "https://open.spotify.com/album/52ZcNrpr94CVDlyeGJVnj0"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/5fqfsptWtZVpULWIEm48ly"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "CAF\u00c9 DA MANH\u00c3 ;P",
         "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "TROPA",
         "url": "https://open.spotify.com/album/5ja8CvkysnLRmb2hNgC1uc"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/3WYaDvxzcESlLucPoxLiB7"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "LEIL\u00c3O",
         "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "PIRATA",
         "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Voc\u00ea Aprendeu A Amar? (feat. Emicida)",
         "url": "https://open.spotify.com/album/2hlozdNQv4uEOxtXLWEuci"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "FBI",
         "url": "https://open.spotify.com/album/6Lu78aAF95EFbMEtCfBgav"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/1njlseyMEPqQANyj9K3Khf"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Boys Don't Cry",
         "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "ANACONDA *o* ~~~",
         "url": "https://open.spotify.com/album/3lGLYMe25ojYNWqfTpwyk2"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/1Z3Y8hQXKVaD0RY72CRt5E"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "NO CH\u00c3O NOVINHA",
         "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
         "url": "https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Back to Be",
         "url": "https://open.spotify.com/album/345Rzs9N9hE2h7caTpMdmr"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/0rJZEBFFrIsNLpJ5ZKjfZt"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
@@ -469,7 +485,23 @@
       "url": "https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "BAGUN\u00c7A",
+      "url": "https://open.spotify.com/track/0w4eRv2fCerS49SgrStS1V"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Barbie (feat. Danny Bond)",
         "url": "https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx"
@@ -497,23 +529,31 @@
       "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+        "name": "arrepiou",
+        "url": "https://open.spotify.com/album/04H9F6V9ZG4oevOUFdo0TM"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        },
+        {
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+        },
+        {
+          "name": "Maikinho DJ",
+          "url": "https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh"
         }
       ],
-      "duration_ms": 128571,
-      "name": "BAGUN\u00c7A",
-      "url": "https://open.spotify.com/track/0w4eRv2fCerS49SgrStS1V"
+      "duration_ms": 142714,
+      "name": "arrepiou",
+      "url": "https://open.spotify.com/track/55JD9Pxjdqz9QX5mfrzmZ3"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Passando o Rodo (feat. Tain\u00e1 Costa)",
         "url": "https://open.spotify.com/album/6rW1RDPhTkzVFgvJZatSbY"
@@ -541,7 +581,7 @@
       "url": "https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Sem Filtro (Remix)",
         "url": "https://open.spotify.com/album/4lYcF6zK72YZaiuWag8yzc"
@@ -561,7 +601,7 @@
       "url": "https://open.spotify.com/track/5hmYzjDUg7ryYzlO734L0Y"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Saturno (Ela \u00e9 Malvada)",
         "url": "https://open.spotify.com/album/3EJf6g8d84fp0glrKP1ZEF"
@@ -581,7 +621,7 @@
       "url": "https://open.spotify.com/track/3DFAj6yMZ6QLWez7cbL1Vc"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "De Primeira",
         "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
@@ -597,7 +637,7 @@
       "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "A QUEDA",
         "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
@@ -613,7 +653,7 @@
       "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Assalto Perigoso",
         "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Socadona (feat. Mr. Vegas)",
         "url": "https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi"
@@ -657,7 +697,7 @@
       "url": "https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "GALOPA",
         "url": "https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV"
@@ -673,51 +713,7 @@
       "url": "https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Faz Direito",
-        "url": "https://open.spotify.com/album/2yDkDOLyUy36AyBr88Gjb0"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
-        },
-        {
-          "name": "Tati Quebra Barraco",
-          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
-        }
-      ],
-      "duration_ms": 154261,
-      "name": "Faz Direito",
-      "url": "https://open.spotify.com/track/4Tg3dITSSQFs49V1DhIotM"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "GG Astral (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 153237,
-      "name": "Toma - Ao Vivo",
-      "url": "https://open.spotify.com/track/5lOHHtPiIEotQp8oCMoEp0"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
@@ -737,7 +733,23 @@
       "url": "https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
+        "name": "Desculpa por Eu N\u00e3o Te Amar",
+        "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 186188,
+      "name": "Desculpa por Eu N\u00e3o Te Amar",
+      "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
@@ -757,7 +769,7 @@
       "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Gueto",
         "url": "https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB"
@@ -773,7 +785,7 @@
       "url": "https://open.spotify.com/track/2AzBHIVlSYb0fx8zHWQIgl"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "ATEN\u00c7\u00c3O",
         "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
@@ -793,7 +805,7 @@
       "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "SexToU",
         "url": "https://open.spotify.com/album/1YTcOXOhHmMCjV2MFnKA2M"
@@ -813,7 +825,7 @@
       "url": "https://open.spotify.com/track/0RMpa3qNoB6rlVyhRmwwVO"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "FALA MAL DE MIM",
         "url": "https://open.spotify.com/album/3x3CccLoOFQN8jnFJxF91n"
@@ -837,7 +849,7 @@
       "url": "https://open.spotify.com/track/5glMxRMRHGBRj6bydBjoPM"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
         "url": "https://open.spotify.com/album/3mX5V5Jbliy12mrafRMzfs"
@@ -857,7 +869,7 @@
       "url": "https://open.spotify.com/track/707X30zRZYb1HYe1BtiY69"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "BONEKINHA",
         "url": "https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y"
@@ -873,7 +885,31 @@
       "url": "https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
+        "name": "Faz Direito",
+        "url": "https://open.spotify.com/album/2yDkDOLyUy36AyBr88Gjb0"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        },
+        {
+          "name": "Tati Quebra Barraco",
+          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
+        }
+      ],
+      "duration_ms": 154261,
+      "name": "Faz Direito",
+      "url": "https://open.spotify.com/track/4Tg3dITSSQFs49V1DhIotM"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "MODO TURBO",
         "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
@@ -897,31 +933,7 @@
       "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        },
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 137695,
-      "name": "roubando a cena",
-      "url": "https://open.spotify.com/track/1jdWoanP3m1glSvH7qN2aE"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Todo Mundo Ama O Chris (Ao Vivo)",
         "url": "https://open.spotify.com/album/5bISzaxE6WVsJjQj2BpWTX"
@@ -937,7 +949,7 @@
       "url": "https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
         "url": "https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV"
@@ -957,7 +969,7 @@
       "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Rainha da Favela",
         "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
@@ -973,23 +985,7 @@
       "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
     },
     {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Apollo 11",
-        "url": "https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm"
-      },
-      "artists": [
-        {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
-        }
-      ],
-      "duration_ms": 193640,
-      "name": "Apollo 11",
-      "url": "https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
+      "added_at": "2022-07-22 03:00:00",
       "album": {
         "name": "Affair",
         "url": "https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90"

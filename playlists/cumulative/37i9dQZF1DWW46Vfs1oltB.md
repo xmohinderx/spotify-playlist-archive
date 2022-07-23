@@ -2,9 +2,9 @@
 
 ### [K\-Hip\-Hop +82](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: j\-hope\(제이홉\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
+> Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: JUSTHIS\(저스디스\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-511 songs - 1 day 5 hr 5 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+513 songs - 1 day 5 hr 13 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [For my waves](https://open.spotify.com/track/0uABBEeSV4S41B7wcPVFO5) | [Cloudybay](https://open.spotify.com/artist/0FyGoy4Ek4dQGoMM65eZ0z) | [SIDE](https://open.spotify.com/album/4wxqL0RWJK8n7LJBiXMWUB) | 2:45 | 2021-12-29 | 2022-05-30 |
 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2022-01-14 | 2022-07-08 |
 | [Freaky \(Feat\. Chillin Homie\)](https://open.spotify.com/track/298Gzc1eaI6hRDLFmOqkB7) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM) | [Freaky \(Feat\. Chillin Homie\)](https://open.spotify.com/album/3IBGi81dsaFgQpBxrnYssm) | 2:32 | 2022-01-11 | 2022-07-06 |
+| [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 | 2022-07-22 |  |
 | [FRIENDS](https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [FRIENDS](https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV) | 3:10 | 2021-12-18 | 2022-07-08 |
 | [Full of scars \(Feat.Lil Gimchi\)](https://open.spotify.com/track/1JVNIgNcoYqmdCxxpe2lQK) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [Full of scars](https://open.spotify.com/album/0adY4FBTAKkaY7iLl1nmlp) | 2:52 | 2021-12-29 | 2022-07-02 |
 | [FUXX THAT SHXX!](https://open.spotify.com/track/64ry0rj8bKfAy187cuhTeP) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TakeOne](https://open.spotify.com/artist/7MOQ2DWJNk69Hc0gqy6K7F) | [TOYSTORY2](https://open.spotify.com/album/5m6DfEcqccjMxUfBykhNaO) | 3:33 | 2022-02-03 | 2022-06-08 |
@@ -379,6 +380,7 @@
 | [Rebuild The World \(feat\. GARY & BILL STAX\)](https://open.spotify.com/track/1MHQj1DDhsDNbpdDV6J7Fk) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [Rebuild The World](https://open.spotify.com/album/2KPlOg9JNDqtwWDrzbGrDv) | 3:06 | 2022-06-13 |  |
 | [Recipient unknown](https://open.spotify.com/track/7iOmsc5LAxqRv6F0hOAHjy) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [CYWORLD BGM 2021](https://open.spotify.com/album/36752KbajX9ZAZ4tnVAQ4t) | 4:23 | 2021-12-21 | 2022-06-25 |
 | [Red Light \(Feat\. BIG Naughty\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3) | [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 4:30 | 2021-12-18 | 2022-07-01 |
+| [Red Pill \(Born from the Blue Pt\. II\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6wGvdwH0Pp9u08f28qTcGC) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 4:31 | 2022-07-22 |  |
 | [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 | 2022-07-07 |  |
 | [Reset \(Feat\. Gaeko, Kid Milli\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/5oD7cKg3DRl2HFuybvVsI5) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 4:17 | 2021-12-18 | 2022-07-08 |
 | [Rich Kids Anthem \(Feat\. Lee Hi\)](https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:37 | 2022-02-14 | 2022-07-08 |

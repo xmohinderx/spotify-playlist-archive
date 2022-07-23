@@ -1340,6 +1340,24 @@
     },
     {
       "album": {
+        "name": "ENTITY",
+        "url": "https://open.spotify.com/album/5vPwa2yaWrKF04FF32VOwK"
+      },
+      "artists": [
+        {
+          "name": "ATOMIC NO.13",
+          "url": "https://open.spotify.com/artist/5E1w3Q83DZT7WavgYQSDF3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207634,
+      "name": "ENTITY",
+      "url": "https://open.spotify.com/track/0OSnnCcaBw6L11YqmSFKfX"
+    },
+    {
+      "album": {
         "name": "Wednesday/Eternity As An Instant",
         "url": "https://open.spotify.com/album/0lpsDsYmJ8yzrXNMUuRJSi"
       },
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 236500,
       "name": "I Like Me Better Now",
       "url": "https://open.spotify.com/track/6jTqsb08gdgzHfnnQSHRsc"
@@ -3277,6 +3295,28 @@
       "duration_ms": 166480,
       "name": "Pager",
       "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
+    },
+    {
+      "album": {
+        "name": "Kelana",
+        "url": "https://open.spotify.com/album/3l8kJNJHSCPLaxmHgAyqpC"
+      },
+      "artists": [
+        {
+          "name": "Bayangan",
+          "url": "https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI"
+        },
+        {
+          "name": "Herri Hamid",
+          "url": "https://open.spotify.com/artist/0EtE4shOS9M5b0eVQt6KuI"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Pahit Manis",
+      "url": "https://open.spotify.com/track/6Bgz0aLA2UuVizhbSw0w1j"
     },
     {
       "album": {
@@ -4861,7 +4901,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 228562,
       "name": "\u0e14\u0e27\u0e07\u0e15\u0e30\u0e27\u0e31\u0e19",
       "url": "https://open.spotify.com/track/6KW6FauFAaBQ7nIXkSMMXM"

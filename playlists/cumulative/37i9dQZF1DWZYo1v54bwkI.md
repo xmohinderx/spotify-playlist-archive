@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-142 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
+143 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Renewal](https://open.spotify.com/track/7kgNuTgyO9T26DGV6aXptE) | [Liquid Mind](https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF) | [Liquid Mind XI: Deep Sleep](https://open.spotify.com/album/71br0Ijnm48UVUoLBHaZZ8) | 8:11 | 2022-07-15 |  |
 | [Restfulness](https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:55 | 2022-07-15 |  |
 | [Ritual](https://open.spotify.com/track/4OQ4Hhvd1fKTFiqhYHnUeR) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Ritual](https://open.spotify.com/album/0Bs9zCj7y6WH9ebf1gCVr6) | 3:37 | 2022-07-15 |  |
+| [Rosētum](https://open.spotify.com/track/0Q8YbkwiUQTvxTYvofeAJB) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Rosētum](https://open.spotify.com/album/3nug1l3A0hWw3xNS7zhflP) | 3:20 | 2022-07-22 |  |
 | [Rêver](https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Rêver](https://open.spotify.com/album/6Sb8XeQK9LqSeUlYHFaB9B) | 2:54 | 2022-07-15 |  |
 | [Saddleworth](https://open.spotify.com/track/2dqHZOXBMrkntSDYahuzfF) | [Tonal Blues](https://open.spotify.com/artist/4op9odiUcMauXLhmhuxU2m) | [Squares](https://open.spotify.com/album/5mjzHuXW8jh4dmN9dBkyAp) | 3:40 | 2022-07-15 |  |
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2022-07-15 |  |

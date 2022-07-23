@@ -1606,6 +1606,24 @@
     },
     {
       "album": {
+        "name": "Um Brinde",
+        "url": "https://open.spotify.com/album/1WUXK28K3aakrN7VZPbc9F"
+      },
+      "artists": [
+        {
+          "name": "C57",
+          "url": "https://open.spotify.com/artist/3A3a9O9OLay8KocxjNKlyP"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259044,
+      "name": "Um Brinde",
+      "url": "https://open.spotify.com/track/7wla2GPUvZfUwe7Lmyh9Sy"
+    },
+    {
+      "album": {
         "name": "Valsa",
         "url": "https://open.spotify.com/album/0bc70vim4DlBzPfOlLh1ij"
       },

@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-137 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+139 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-07-08 |  |
 | [Catch Me](https://open.spotify.com/track/5NFr84NNaAHt5B4zK9Vouh) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [Catch Me](https://open.spotify.com/album/5WRIApjgUfv46stqPOuANm) | 2:18 | 2022-01-25 |  |
 | [Chai Tea with Heidi](https://open.spotify.com/track/0EhQWGJFjhvVq0PllzJ7Rd) | [WeddingCake](https://open.spotify.com/artist/6Smy5hRNvMoK4C5DYiLDI8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC) | [Chai Tea with Heidi](https://open.spotify.com/album/6ULQCdbVXoexdtfeEQCKtZ) | 2:50 | 2022-01-25 |  |
+| [CHANT \(feat\. Tones And I\)](https://open.spotify.com/track/5BgeAX4HuZdcuCqmu4pIMM) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [CHANT \(feat\. Tones And I\)](https://open.spotify.com/album/4z2ItYJOliymox1iXbu9gs) | 4:30 | 2022-07-22 |  |
 | [Close](https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Close](https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd) | 3:14 | 2022-01-25 | 2022-07-09 |
 | [Come Back Home \- From "Purple Hearts"](https://open.spotify.com/track/2mPXui72mlIYR5sQUPZXwP) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Come Back Home \(From "Purple Hearts"\)](https://open.spotify.com/album/2O6Q9yickLm8XJfvy1SPdx) | 2:56 | 2022-07-15 |  |
 | [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 | 2022-05-13 |  |
@@ -102,7 +103,7 @@
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-02-25 |  |
 | [Number One](https://open.spotify.com/track/644E5d35TEHlr7UeYSdFBe) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Number One](https://open.spotify.com/album/64YHT8TnZULAh0mlpA08GY) | 4:01 | 2022-01-25 | 2022-03-18 |
 | [outside](https://open.spotify.com/track/0653Mr19pKTqIehqHP9KKh) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [outside/inside](https://open.spotify.com/album/70YpZJ4yn8c3SF74SiOvxF) | 2:39 | 2022-01-25 | 2022-03-18 |
-| [Passive Aggressive](https://open.spotify.com/track/167HWbEImETmEG2oiNTwWj) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Passive Aggressive](https://open.spotify.com/album/0cn84wdzrRfoheO2AD1p1j) | 3:08 | 2022-01-25 |  |
+| [Passive Aggressive](https://open.spotify.com/track/167HWbEImETmEG2oiNTwWj) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Passive Aggressive](https://open.spotify.com/album/0cn84wdzrRfoheO2AD1p1j) | 3:08 | 2022-01-25 | 2022-07-23 |
 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 | 2022-01-25 |  |
 | [Pray](https://open.spotify.com/track/6zwRzBGyhXiYFF3gAyuBE8) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:00 | 2022-01-25 | 2022-07-16 |
 | [Problems](https://open.spotify.com/track/2RLoxDgrrsQmF0i28pPJQ5) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [Problems](https://open.spotify.com/album/1caME5pXTQ9Q2FS3zGINm3) | 2:25 | 2022-01-25 |  |
@@ -114,6 +115,7 @@
 | [See Me Now](https://open.spotify.com/track/4DqxKIhAKHwiHk5WwBbXzU) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [See Me Now](https://open.spotify.com/album/60SPKbQofyJ9aqlWe6ugHr) | 3:04 | 2022-01-25 |  |
 | [See You \- A COLORS SHOW](https://open.spotify.com/track/7EmhpJ8ZX2n7iPaozrWn3H) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [See You \- A COLORS SHOW](https://open.spotify.com/album/5Hry7qvOXOFozXrTHOAL1n) | 3:14 | 2022-01-25 | 2022-04-09 |
 | [Self Sabotage](https://open.spotify.com/track/2iOFAc4K3JE5NSPvfc4lQR) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Self Sabotage](https://open.spotify.com/album/5vbA7Khi7o9efh7BEOorrj) | 2:55 | 2022-07-15 |  |
+| [She Can Dance](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [She Can Dance](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 | 2022-07-22 |  |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-03-18 |  |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-07-08 |  |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2022-01-25 |  |
@@ -134,7 +136,7 @@
 | [The Bakery](https://open.spotify.com/track/3JUeBSM4bsJGwYCVRqMeuC) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [After School EP](https://open.spotify.com/album/75sm9IEmN01J5MsyZr4Cw1) | 2:34 | 2022-01-25 | 2022-07-12 |
 | [The Letter](https://open.spotify.com/track/2MOoSTYPGJhxIzC5DXXom6) | [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo) | [The Letter](https://open.spotify.com/album/36BE8MfyawempfNotMIvq6) | 3:41 | 2022-01-25 |  |
 | [Things Changed](https://open.spotify.com/track/2Yte4JdWO3y8diS3EIlDgX) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Things Changed](https://open.spotify.com/album/1U7YDj8Ir8NT5JoSFMpY0Y) | 3:05 | 2022-01-25 |  |
-| [this is love](https://open.spotify.com/track/7clqHQSGvuEZzTpMM812wu) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [this is love](https://open.spotify.com/album/1Q9cSU7c4b8lFy1uD1xJfh) | 2:38 | 2022-01-25 |  |
+| [this is love](https://open.spotify.com/track/7clqHQSGvuEZzTpMM812wu) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [this is love](https://open.spotify.com/album/1Q9cSU7c4b8lFy1uD1xJfh) | 2:38 | 2022-01-25 | 2022-07-23 |
 | [u love u \(with Tate McRae\)](https://open.spotify.com/track/1xBQDoxqFyloelbnfju8na) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [u love u \(with Tate McRae\)](https://open.spotify.com/album/5Bh6CHXpl4slkIihdDKIcn) | 3:09 | 2022-01-25 |  |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-07-08 |  |
 | [WAKEUPNEXT2U](https://open.spotify.com/track/0QQIwU7QxB2lfXYvm3JA4A) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [WAKEUPNEXT2U](https://open.spotify.com/album/2yiE8oVwt7RNsVEg9IQdAz) | 2:23 | 2022-01-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 
 > A <a href="http://www.womeninmusic.org">Women in Music</a> curated list of barrier\-breaking talent impacting the music world\. Features songs from artists directly from our WIM Community \| Cover: Flo Milli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 | 31 | [BIG](https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [BIG](https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz) | 2:40 |
 | 32 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 |
 | 33 | [Worth It](https://open.spotify.com/track/7AQRpyFBYQqtWfkmlqkw4l) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 4:18 |
-| 34 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 |
+| 34 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 |
 | 35 | [Solace](https://open.spotify.com/track/1Lqr5ceE4xCEPNeCBZsM4k) | [Bobbie](https://open.spotify.com/artist/18DSBebqUjUt7uGMv4bXH3) | [Solace](https://open.spotify.com/album/140rqbHfBtHsJ4Q2bF659x) | 5:25 |
 | 36 | [2021](https://open.spotify.com/track/5KTX2DzpMC3CaOPUUqcnZS) | [Tamara Kumbula](https://open.spotify.com/artist/0UX16aLcy0oMwn4Tnnydf0), [Kalcatraz](https://open.spotify.com/artist/0KOoXNEBWvDwqcyzn400aQ) | [2021](https://open.spotify.com/album/3d2KbmqejpYTVz5YhXyyPV) | 2:33 |
 | 37 | [Nappy](https://open.spotify.com/track/7ufmJswFQ2S9OzMVIz86df) | [Arewa](https://open.spotify.com/artist/5eNwMClFhgkfRy14EDIQNV) | [Nappy](https://open.spotify.com/album/7j5e6CAm468ruvzKJW3rOo) | 2:36 |

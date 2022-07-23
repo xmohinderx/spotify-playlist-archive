@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-277 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+278 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Drift](https://open.spotify.com/track/3K202vUOi7UMALeb7udcTa) | [Ron Alan Cohen](https://open.spotify.com/artist/6GneEve11sWodJ6zHEXXn6) | [Drift](https://open.spotify.com/album/02GKbWNl7dGVPOWgNzswQY) | 4:00 | 2022-07-08 |  |
 | [Dusk Sermons](https://open.spotify.com/track/4eoA6gqXBqpCuCemOineDh) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [Dusk Sermons](https://open.spotify.com/album/6jTsueHPtmp2svmRED9FOk) | 3:21 | 2022-02-25 |  |
 | [Dvala](https://open.spotify.com/track/14N0SnNoSSqdIVSHCBXnCb) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Dvala](https://open.spotify.com/album/5eHx7IxJ0eXfVfD8KMMxD9) | 3:06 | 2022-04-07 |  |
+| [Eascodset](https://open.spotify.com/track/1BMgyrYXHolIe6e0oU9OqQ) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Eascodset](https://open.spotify.com/album/7zPoPXFJwRprw2MwaLjr7V) | 3:06 | 2022-07-22 |  |
 | [Easy Mind](https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Easy Mind](https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl) | 2:40 | 2021-12-17 |  |
 | [Een mooie droom](https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N) | [Zeb Maessen](https://open.spotify.com/artist/28GCtr7gDIxtcAeaaWwpIu) | [Een mooie droom](https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw) | 3:10 | 2022-02-25 |  |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2021-12-17 |  |

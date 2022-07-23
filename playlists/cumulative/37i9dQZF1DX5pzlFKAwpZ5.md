@@ -4,7 +4,7 @@
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-102 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+103 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Lost](https://open.spotify.com/track/7bwj1PDvfKqa0AvAhK9bwN) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 2:42 | 2022-01-07 |  |
 | [Lotusland](https://open.spotify.com/track/0XK0t54tahEMTfvSf73iUu) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Arcadia](https://open.spotify.com/album/6gy6mL4HSYzlYFgumVCdYK) | 4:40 | 2022-01-07 |  |
 | [Luminous](https://open.spotify.com/track/0x3TVsyBVHoaZnZVDdg1Vt) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Blue](https://open.spotify.com/album/1iP5wtr2dm9MdiMvwaOlgY) | 2:23 | 2022-01-07 |  |
+| [Lyrical Ambient](https://open.spotify.com/track/799an9PYCuT6vqIVVgbku3) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lyrical Ambient](https://open.spotify.com/album/1ci4darogxWg7G3p1V2J8V) | 3:05 | 2022-07-22 |  |
 | [Make A Wish](https://open.spotify.com/track/6dBhSWJOUmFCvL27QmEDKa) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Euphonious](https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S) | 2:41 | 2022-01-07 |  |
 | [Meditate Tree](https://open.spotify.com/track/3UrXhetqxfROItPT6URWHb) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Meditate Tree](https://open.spotify.com/album/07dwyiZBrQmoaQvOolbHI5) | 2:49 | 2022-01-07 |  |
 | [mellow](https://open.spotify.com/track/1VJ77OFm7zzfLcAaV7feNd) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ) | [mellow](https://open.spotify.com/album/67z28TWSWLl0K40wnmVmal) | 5:44 | 2022-01-07 |  |

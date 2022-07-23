@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain](/playlists/plain/37i9dQZF1DX3FNkD0kDpDV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3FNkD0kDpDV)
 
-### [Tomorrowland Guest List](https://open.spotify.com/playlist/37i9dQZF1DX3FNkD0kDpDV)
+### [Tomorrowland Music Guest List](https://open.spotify.com/playlist/37i9dQZF1DX3FNkD0kDpDV)
 
-> Tomorrowland Music takes over the Guest List playlist! On the day of the return of the biggest dance festival, the label behind the iconic dance imprint has curated a great mix of their releases with some big tunes from Afrojack and R3HAB including their brand\-new single “Worlds On Fire”
+> Tomorrowland Music takes over the Guest List playlist! On the day of the return of the biggest dance festival, the label behind the iconic dance imprint has curated a great mix of their releases with some big tunes from Goodboys including their brand\-new single “Jack Flip”
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,732 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,564 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 49 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 |
 | 50 | [Feel Your Love \- Tomorrowland Mix](https://open.spotify.com/track/3DZvtV9nOQ2RDfT4nvEEi9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love \(Tomorrowland Mix\)](https://open.spotify.com/album/24n3EoncsbDrqv4GI5UdDH) | 2:50 |
 
-Snapshot ID: `MTY1Nzg1NzY2MCwwMDAwMDA4ZjAwMDAwMTgyMDAwNDU1MGIwMDAwMDE4MWZlMjQwMzRj`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDA5MDAwMDAwMTgyMjQxMGQ4ZmIwMDAwMDE4MjIxZTE4MGVi`

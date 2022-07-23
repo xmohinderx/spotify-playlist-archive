@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Billie Eilish
 
-12,309 songs - 29 day 11 hr 7 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+12,310 songs - 29 day 11 hr 10 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8372,6 +8372,7 @@
 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 | 2020-04-10 | 2020-04-16 |
 | [Pretty Please](https://open.spotify.com/track/5Rse8If81NbzXL1ARjHOTB) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pretty Please](https://open.spotify.com/album/6ytnDl9t7n1ROdtbVzK7Kb) | 2:25 | 2020-09-04 | 2020-09-11 |
 | [Pretty Talk 1](https://open.spotify.com/track/1bmYd7YDEtfzr17FLvTTnO) | [Pretty Rico](https://open.spotify.com/artist/4x0FfUwA06azGJXX8Kc59U) | [Pretty Talk](https://open.spotify.com/album/5pqJdEqFzU0kxgyfI15C6F) | 1:40 | 2021-09-03 | 2021-09-10 |
+| [Pretty Wings](https://open.spotify.com/track/3W1imiYhRkEFDkHYHC1KJl) | [Martin Novales](https://open.spotify.com/artist/7hbt5COPR9EYJj9CLN89th) | [Pretty Wings](https://open.spotify.com/album/3L8whH0p5URrrT6z3TuK3l) | 2:59 | 2022-07-21 |  |
 | [PrettyGirlBop](https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [PrettyGirlBop](https://open.spotify.com/album/253sTENcjmo16asURVBroB) | 2:34 | 2020-12-11 | 2020-12-18 |
 | [Pria Bermulut Wanita](https://open.spotify.com/track/03ebKWS5YoXU6sUR6IT5O0) | [Kavenda](https://open.spotify.com/artist/0IUK4yk4qEksQFIvlan4E1) | [Pria Bermulut Wanita](https://open.spotify.com/album/411Oc8dvUcJ7GgmmJiWfvq) | 4:02 | 2021-07-09 | 2021-07-16 |
 | [Pria Malam](https://open.spotify.com/track/7FgP2R2dsWeIEaJqQXYKjr) | [Sound Of PM](https://open.spotify.com/artist/1VdSIKirkwxB8Cu3A49PfR) | [Pria Malam](https://open.spotify.com/album/6aOwDvSG9uSTtYqk1kWZAK) | 4:46 | 2020-07-24 | 2020-07-31 |
@@ -8906,7 +8907,7 @@
 | [RUB\-A\-DUM](https://open.spotify.com/track/2pVTldTTlm2lUamv5PIRBr) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [CONMIGO](https://open.spotify.com/album/7on227flmHtscIcPulRIES) | 3:19 | 2021-05-21 | 2021-05-28 |
 | [Rubber Sky \- Edit](https://open.spotify.com/track/5phkYwYlbKlOgmYNEeqkde) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Rubber Sky](https://open.spotify.com/album/1jtSSFWl7DKBtRNle3AgBU) | 3:29 | 2020-06-05 | 2020-06-12 |
 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 | 2021-01-23 | 2021-01-29 |
-| [Rubik](https://open.spotify.com/track/0zmmGejb5vgdfN5KFtYFfF) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [RUBIK](https://open.spotify.com/album/0C24r2d6TZhGGGqSwFjQcc) | 2:13 | 2022-07-21 |  |
+| [Rubik](https://open.spotify.com/track/0zmmGejb5vgdfN5KFtYFfF) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Rubik](https://open.spotify.com/album/0C24r2d6TZhGGGqSwFjQcc) | 2:13 | 2022-07-21 |  |
 | [Ruby](https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [Ruby](https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6) | 2:43 | 2022-01-06 | 2022-01-14 |
 | [Rue](https://open.spotify.com/track/6lhuBaygBqxBjdcXrM685k) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Rue](https://open.spotify.com/album/0wwsKyplQfWHtLxlMvVkvP) | 3:36 | 2020-08-30 | 2020-09-04 |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/album/0ff0J1jhzWqDJDv5Cv03Dp) | 3:19 | 2022-02-17 | 2022-02-25 |

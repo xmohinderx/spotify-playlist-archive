@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: CNCO &amp; Kenia Os
 
-249 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+250 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Muero](https://open.spotify.com/track/0eJROXHvyjJwaSwavzP7Nr) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [El Amor Que Merecemos](https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l) | 3:37 | 2022-05-27 |  |
 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 | 2022-05-03 |  |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-02-02 |  |
+| [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 | 2022-07-22 |  |
 | [Mírate Bien](https://open.spotify.com/track/7yQVxpEIfgUJZJLoucfbs3) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v) | [Mírate Bien](https://open.spotify.com/album/2ihZsxbhXzGAIWzG51ImRM) | 3:00 | 2022-04-22 |  |
 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 | 2022-02-17 |  |
 | [Nada](https://open.spotify.com/track/4ruyGzUmYFy0tanBBLCxHW) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Nada](https://open.spotify.com/album/6W5khuVvk083kMoTxM7GGY) | 3:53 | 2022-03-10 |  |

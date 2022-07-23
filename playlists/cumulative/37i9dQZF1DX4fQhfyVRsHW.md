@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-107 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+108 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Atmospheric](https://open.spotify.com/track/4p5uqijQA8OV5DjyYKeVCD) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Atmospheric](https://open.spotify.com/album/0aawXx5LA6NQfE3a7BBbzj) | 1:36 | 2022-05-25 |  |
 | [Avenoir](https://open.spotify.com/track/2uAfciE7VqSEgakqkY5z0J) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Avenoir](https://open.spotify.com/album/3foIWfeetCI1u7WwKCQWyZ) | 2:54 | 2022-05-25 |  |
 | [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 | 2022-05-25 | 2022-07-16 |
+| [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 | 2022-07-22 |  |
 | [Bare Emotions](https://open.spotify.com/track/2xf1SylC7l0lRJw6FKdHQK) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Bare Emotions](https://open.spotify.com/album/1zE88uy4qJ276809FC7Nzm) | 2:33 | 2022-05-25 |  |
 | [Beautiful Path](https://open.spotify.com/track/1BIR1oNAcL7YmST5pnN8m4) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Beautiful Path](https://open.spotify.com/album/3OQt0hZHKA3cAbzfnwAiul) | 3:41 | 2022-06-16 |  |
 | [Binaural Alpha Sinus 147Hz \- 161Hz](https://open.spotify.com/track/2kCGylqSWKkXjLws0ZpQcK) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Calm](https://open.spotify.com/album/5PO9Rm0k6K1Yqg2EDO2h9E) | 3:07 | 2022-05-25 |  |

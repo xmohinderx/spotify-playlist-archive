@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Coffey Anderson
 
-86 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+87 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/track/6SyYYyVnwYD7ovF5CdMOJp) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/album/0D4IyhPBtTywxvZxbspqwW) | 2:55 | 2021-12-03 | 2022-01-15 |
 | [Country Girl Commandments](https://open.spotify.com/track/0wqjEtWb4TBwsJQnnUu7GM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Country Girl Commandments](https://open.spotify.com/album/3CcY5dnfmGY8m1g8SIIR4G) | 2:59 | 2021-12-03 |  |
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-03 |  |
+| [Forgive Me](https://open.spotify.com/track/7E1bYsLt7mW2uKXWPkPTvV) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Forgive Me](https://open.spotify.com/album/4X64MJY6iHzrof50wWz3MZ) | 2:40 | 2022-07-22 |  |
 | [Found It in You](https://open.spotify.com/track/0t0ODvxpVPS2dcGGTgsnq9) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It in You](https://open.spotify.com/album/3CWvXdSg4Q19ypUaOwB0SI) | 3:14 | 2021-12-03 |  |
 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-12-03 |  |
 | [GAS!](https://open.spotify.com/track/3QsIonKmbe7lollXunUVRZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [GAS!](https://open.spotify.com/album/5ymTB3P1DqX0fbIHvWeb8F) | 2:28 | 2022-06-17 |  |

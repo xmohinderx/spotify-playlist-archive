@@ -2,9 +2,9 @@
 
 ### [R&B Latino](https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3)
 
-> Disfruta del más fino R&B creado en el continente y España\. Foto: Ilse Hendrix
+> Disfruta del más fino R&B creado en el continente y España\. Foto: Tiago PZK
 
-146 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+148 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bad Trip](https://open.spotify.com/track/0ktNR6tVrELYHj26SM8a0K) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3), [Marley Waters](https://open.spotify.com/artist/7zfGuFhq0tipa6G6aHuMe0) | [Bad Trip](https://open.spotify.com/album/17LuKgndkDuzwb7qm9wZ8P) | 1:50 | 2021-12-13 |  |
 | [Bandida](https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Bandida](https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN) | 3:53 | 2021-12-13 |  |
 | [Bendita Diabla \- Apaga La Luz](https://open.spotify.com/track/0OxR238zEmOy20sSBbHgyK) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Bendita Diabla \(Apaga La Luz\)](https://open.spotify.com/album/1CYinQX03mYSKxn6kataX5) | 3:30 | 2021-12-13 |  |
-| [Beso Picor](https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Beso Picor](https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR) | 3:46 | 2021-12-13 |  |
+| [Beso Picor](https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Beso Picor](https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR) | 3:46 | 2021-12-13 | 2022-07-23 |
 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 | 2021-12-13 |  |
 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 | 2022-02-18 |  |
 | [Caliope](https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Caliope](https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa) | 3:22 | 2022-01-21 |  |
@@ -51,6 +51,7 @@
 | [Direction](https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x) | [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [Ivan Orozco](https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl) | [Direction](https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM) | 3:45 | 2021-12-13 | 2022-04-26 |
 | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/track/6t6VYuRaisYZLynvLhizsF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/album/1zZxxzuPxKHMiQypEx54yx) | 4:13 | 2021-12-13 | 2022-02-09 |
 | [Duele Tanto](https://open.spotify.com/track/0mCUGCjahjhItMa9pYLMYo) | [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Duele Tanto](https://open.spotify.com/album/0GRYVA4L5LmB9x5VlhUKor) | 3:12 | 2021-12-13 |  |
+| [Dámelo](https://open.spotify.com/track/6OyOEjszTYpiRlnH68J3Nu) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:03 | 2022-07-22 |  |
 | [Déjame decirte](https://open.spotify.com/track/1sInnRtvs3lO8NAwpfYYAR) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Déjame decirte](https://open.spotify.com/album/63bCPPHlxtewXlDXrFRGEz) | 3:15 | 2021-12-13 |  |
 | [Déjame Entrar](https://open.spotify.com/track/4oM5VvGeb3Gz9tVJqRZqra) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Déjame Entrar](https://open.spotify.com/album/24oKPFIoA1Gd3iLOeJkd3K) | 3:37 | 2022-03-26 |  |
 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 | 2021-12-13 | 2022-03-25 |
@@ -67,7 +68,7 @@
 | [Fuego](https://open.spotify.com/track/6UdltNPsNpVXOjeyYiT9yH) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [VAYU](https://open.spotify.com/album/6u3eUX1lYrI7siwwc10d4p) | 2:36 | 2021-12-13 | 2022-03-08 |
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2021-12-13 |  |
 | [Gotas](https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Gotas](https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB) | 3:35 | 2022-05-12 |  |
-| [Hablando De Love](https://open.spotify.com/track/74aGIoQo8pokxzylUTw603) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hablando De Love](https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5) | 2:36 | 2022-03-25 |  |
+| [Hablando De Love](https://open.spotify.com/track/74aGIoQo8pokxzylUTw603) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hablando De Love](https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5) | 2:36 | 2022-03-25 | 2022-07-23 |
 | [Hoja de Té](https://open.spotify.com/track/1G4I25xXeV2V5aI9p6SBBv) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Hoja de Té](https://open.spotify.com/album/1lmTzfhche5HqCwezZ7f6z) | 3:37 | 2021-12-13 | 2022-03-12 |
 | [Honey](https://open.spotify.com/track/4GFTSjFirhXwj2TS4E6Baf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Honey](https://open.spotify.com/album/033OksAEhQNLvkJojYuNtL) | 3:06 | 2022-03-07 |  |
 | [Humo](https://open.spotify.com/track/4OTUMCIUroaNsqQ17gb0vn) | [Iza](https://open.spotify.com/artist/6UEg14BmF105iMIZcz9Bw7) | [Humo](https://open.spotify.com/album/1dN1HqAFOMMjRsilVKjbFf) | 3:14 | 2021-12-13 | 2022-02-19 |
@@ -96,6 +97,7 @@
 | [nada que decir](https://open.spotify.com/track/1qPf4Rl5l8QyK2BXsk1CJE) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [nada que decir](https://open.spotify.com/album/5YmFYvpGA85THfc1GYantK) | 3:06 | 2021-12-13 | 2022-05-28 |
 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 | 2022-01-12 |  |
 | [Nadie más](https://open.spotify.com/track/6HkbUFn3tdjubNlDacokMx) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Nadie más](https://open.spotify.com/album/11jo3NbufxnUqsoY4eG77m) | 3:07 | 2021-12-13 | 2022-02-15 |
+| [Nadie Más](https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:35 | 2022-07-22 |  |
 | [Navegantes](https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ) | [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Navegantes](https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC) | 4:03 | 2022-03-08 |  |
 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 | 2021-12-13 |  |
 | [No Estoy](https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 2:21 | 2021-12-13 | 2022-03-08 |

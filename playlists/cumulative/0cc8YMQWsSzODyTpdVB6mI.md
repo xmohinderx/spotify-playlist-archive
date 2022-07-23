@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-67 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+68 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [AMBIANCE](https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo) | [FEE](https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9), [Zay Doja](https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK) | [AMBIANCE](https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc) | 3:41 | 2022-07-19 |  |
 | [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 |  |
 | [Better Than That](https://open.spotify.com/track/6kNMiX4NoAtz6ohYdgfhIX) | [Fortuno](https://open.spotify.com/artist/07QJ2IEpirIQN3dlUomBxL) | [Better Than That](https://open.spotify.com/album/503RXKST7zs6k7uoun1NqN) | 2:41 | 2022-04-25 | 2022-07-02 |
+| [Clutch](https://open.spotify.com/track/3F6gcexYwqaLaRx1sCsqfE) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Clutch](https://open.spotify.com/album/2XjeQuBI4tCzwlNTsC7EZo) | 3:03 | 2022-07-22 |  |
 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 | 2021-11-05 |  |
 | [Count to Five \(Tensnake Remix\) \- Mixed](https://open.spotify.com/track/4bq9akE1BhJPFMd6SZBQa6) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Café Kitsuné Mixed by Young Franco \(Day\)](https://open.spotify.com/album/5i1BngTCStALybm8vtOFyN) | 4:26 | 2021-11-05 |  |
 | [Dancing Anymore](https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0) | [IS TROPICAL](https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi) | [I'm Leaving](https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z) | 5:18 | 2021-11-05 |  |
@@ -70,7 +71,7 @@
 | [TE NECESITO¡! \(club\)](https://open.spotify.com/track/3kTongg66uYQDvmqViLXad) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Melika](https://open.spotify.com/artist/5Om1eyevwmfGPz1PTWn8VK) | [TALES\_FOR\_NIGHTCLUBS \(extended\)](https://open.spotify.com/album/1fwN0p83Sfq9ljvfcYI7Iy) | 3:12 | 2022-04-15 | 2022-06-24 |
 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 | 2022-04-18 | 2022-06-28 |
 | [TTYL](https://open.spotify.com/track/0KBtXATQFDLMOjTKS9kiDt) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [TTYL](https://open.spotify.com/album/3dLq3aoKcbZyrUJLuAtM3G) | 3:18 | 2022-07-04 |  |
-| [Want It Bad](https://open.spotify.com/track/6r6WolFiUnf8leQpgM3kzc) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Want It Bad](https://open.spotify.com/album/2BhX3mXTSlYednKnaQmJJZ) | 3:12 | 2022-05-20 |  |
+| [Want It Bad](https://open.spotify.com/track/6r6WolFiUnf8leQpgM3kzc) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Want It Bad](https://open.spotify.com/album/2BhX3mXTSlYednKnaQmJJZ) | 3:12 | 2022-05-20 | 2022-07-23 |
 | [We Are Shadows](https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [We Are Shadows](https://open.spotify.com/album/6f9UikQyxUq3sYTc6TY2aX) | 3:39 | 2022-07-15 |  |
 | [Weekend \- Jai Wolf Remix](https://open.spotify.com/track/6GXSZaHXyN3QJ7QeoMQSw3) | [Mocki](https://open.spotify.com/artist/5Xrk8HKFWj76Jonuerfupw), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kitsuné: Weekend](https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp) | 4:09 | 2021-11-05 |  |
 | [Worship](https://open.spotify.com/track/7bNJSUTF1XreWJYN11YnuY) | [Pecas](https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU) | [Worship](https://open.spotify.com/album/5RjcxA4BGTJfkcVK2bPyDF) | 4:26 | 2022-07-08 |  |

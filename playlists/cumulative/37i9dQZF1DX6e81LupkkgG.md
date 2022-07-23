@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-126 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
+128 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 | 2022-02-18 | 2022-04-09 |
 | [Bed I Made](https://open.spotify.com/track/0YL1bs7CYi7mhG0FuctgcO) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/3qBXZkDcgHfptEbAw840wL) | 3:00 | 2022-02-18 |  |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2022-02-18 | 2022-05-07 |
-| [Best Kept Secret](https://open.spotify.com/track/7apSGYv3h29CBfwLgL13Pi) | [Moons](https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0) | [Best Kept Secret](https://open.spotify.com/album/2Rz4fn3jF3sH0WrtJwPzzm) | 2:36 | 2022-05-06 |  |
+| [Best Kept Secret](https://open.spotify.com/track/7apSGYv3h29CBfwLgL13Pi) | [Moons](https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0) | [Best Kept Secret](https://open.spotify.com/album/2Rz4fn3jF3sH0WrtJwPzzm) | 2:36 | 2022-05-06 | 2022-07-23 |
 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 | 2022-04-29 | 2022-06-04 |
 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 | 2022-02-18 |  |
 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/1caDc5BER7nRlSRf7XnDyj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Bigger Man](https://open.spotify.com/album/64fIaMIuwVr0P7Bckb8Df8) | 3:06 | 2022-02-18 |  |
@@ -46,7 +46,7 @@
 | [For Now](https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [For Now](https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA) | 3:31 | 2022-02-18 |  |
 | [Forever My Love](https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 3:10 | 2022-03-25 | 2022-05-07 |
 | [Free](https://open.spotify.com/track/1pgnjcM4HhB9bRIAbh3lne) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [The One and Only Ivan \(Original Soundtrack\)](https://open.spotify.com/album/0FHQxkiMUGGJ160ZMzBhnV) | 3:48 | 2022-02-18 |  |
-| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-24 |  |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-24 | 2022-07-23 |
 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 | 2022-02-18 |  |
 | [Green](https://open.spotify.com/track/5zRaUIOZy6XMrdcDPkCZSX) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Green](https://open.spotify.com/album/2sUvtzlszdzLwOfr0JNzbr) | 3:00 | 2022-02-18 |  |
 | [Halley's Comet](https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:54 | 2022-02-18 | 2022-05-07 |
@@ -108,6 +108,8 @@
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2022-02-18 |  |
 | [Summer Rain \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 2:44 | 2022-02-18 |  |
 | [Temporal \- A COLORS SHOW](https://open.spotify.com/track/3vL3QZ96wB8Qj4XdIzMHoX) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [Temporal \- A COLORS SHOW](https://open.spotify.com/album/4MVp03pCiFYstD68MziSTH) | 2:43 | 2022-02-18 | 2022-03-26 |
+| [Teu sim, mas não\. \(feat\. Pedro Calais\)](https://open.spotify.com/track/2ySHbwdxA32udzny7hlULo) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Pedro Calais](https://open.spotify.com/artist/5txRGZfNQ81RUk5G90Iqez) | [Teu sim, mas não\. \(feat\. Pedro Calais\)](https://open.spotify.com/album/6PZyMzlh4wTtUqO0NJzlUv) | 3:21 | 2022-07-22 |  |
+| [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 | 2022-07-22 |  |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-18 | 2022-03-26 |
 | [The Sweetest Part](https://open.spotify.com/track/6cm7s8AeYlIpwOg4vToAeq) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/6uFHbaZeX8HwXjqRLKR6hA) | 3:43 | 2022-05-06 |  |
 | [The Usual](https://open.spotify.com/track/2BypOWlak6LbJ2raGGzukY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework Part 1](https://open.spotify.com/album/1oeQryPTvkNIr90wRPrkaZ) | 3:32 | 2022-02-18 |  |

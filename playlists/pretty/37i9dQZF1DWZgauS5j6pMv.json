@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Dabeull",
-  "num_followers": 261822,
+  "num_followers": 262053,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDA4ODAwMDAwMTgyMDAwNTNmMWQwMDAwMDE4MThiZjBmMTll",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDA4OTAwMDAwMTgyMjQxMWMzMTUwMDAwMDE4MThiZjBmMTll",
   "tracks": [
     {
       "added_at": "2022-06-24 04:02:00",
@@ -43,6 +43,26 @@
       "duration_ms": 276401,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
+    },
+    {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "You Not Me (Remix)",
+        "url": "https://open.spotify.com/album/5nCT2rB99boTMRmYIvky0d"
+      },
+      "artists": [
+        {
+          "name": "Baegod",
+          "url": "https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL"
+        },
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+        }
+      ],
+      "duration_ms": 154044,
+      "name": "You Not Me - Remix",
+      "url": "https://open.spotify.com/track/6qmZKSHiYJCV09bSToTm3y"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -115,6 +135,22 @@
       "duration_ms": 178309,
       "name": "Fly Like An Eagle - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/5hGbVwHALNW6aqlY6HmSDb"
+    },
+    {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "WASABI",
+        "url": "https://open.spotify.com/album/6uNSXdsZ6dBAGHV8BMAOBM"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 167852,
+      "name": "WASABI",
+      "url": "https://open.spotify.com/track/7LafokGsEiIKUA7ziJuPga"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1369,22 +1405,6 @@
       "url": "https://open.spotify.com/track/7kGtjCDWSXuImBomjoeKS5"
     },
     {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "HIT 'EM WITH THE FUNK",
-        "url": "https://open.spotify.com/album/73ftN0Cki1TUv81OKKItdm"
-      },
-      "artists": [
-        {
-          "name": "Kalisway",
-          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
-        }
-      ],
-      "duration_ms": 236928,
-      "name": "HIT 'EM WITH THE FUNK",
-      "url": "https://open.spotify.com/track/4wT7296bGxKURlz4mwTYTm"
-    },
-    {
       "added_at": "2021-09-17 04:02:00",
       "album": {
         "name": "GET DOWN",
@@ -1827,22 +1847,6 @@
       "duration_ms": 198783,
       "name": "July",
       "url": "https://open.spotify.com/track/0foMdHRYktOIfkmQ4LNcWq"
-    },
-    {
-      "added_at": "2021-03-05 05:01:00",
-      "album": {
-        "name": "Baby, I'm Hollywood!",
-        "url": "https://open.spotify.com/album/0FZbfwIKUCSFPei35a0HbZ"
-      },
-      "artists": [
-        {
-          "name": "Judith Hill",
-          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "You Got the Right Thang",
-      "url": "https://open.spotify.com/track/46CsNpRU9Tmz8bI27J4mxC"
     }
   ],
   "unique_name": "Nu-Funk",

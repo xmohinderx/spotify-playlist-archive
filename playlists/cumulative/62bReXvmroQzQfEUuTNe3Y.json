@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 169756,
       "name": "HALLUCINATION (feat. LissA)",
       "url": "https://open.spotify.com/track/6TFYkactQoCeDb7qRYR3Cd"
@@ -2414,6 +2414,24 @@
     },
     {
       "album": {
+        "name": "I've Fallen for You",
+        "url": "https://open.spotify.com/album/0qc9Pbp37q8x1OP6Vk8OXz"
+      },
+      "artists": [
+        {
+          "name": "Tom Redwood",
+          "url": "https://open.spotify.com/artist/4Xo7QqlxfIUEPYCLaLj6Sm"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197777,
+      "name": "I've Fallen for You",
+      "url": "https://open.spotify.com/track/73OZcwiBI41R0o5TDGeZ7i"
+    },
+    {
+      "album": {
         "name": "Ice & Cold",
         "url": "https://open.spotify.com/album/5bDHFRCXitHfaQFWQ3oKfS"
       },
@@ -2547,7 +2565,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 196651,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4a5XHjTAKAoTKMgavVmh9y"
@@ -3124,6 +3142,28 @@
     },
     {
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/3W988ylVkS5vw3I5nq0MTn"
+      },
+      "artists": [
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153193,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/6VzJ202FqcnPcxaUXUeY1t"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/6SOSCpuewAjwFrbRNEPluK"
       },
@@ -3405,10 +3445,36 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 192848,
       "name": "Moment",
       "url": "https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9"
+    },
+    {
+      "album": {
+        "name": "Moment (Mahmut Orhan Remix)",
+        "url": "https://open.spotify.com/album/5aBDwb8E9GJvQruSw0eyrx"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        },
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230046,
+      "name": "Moment - Mahmut Orhan Remix",
+      "url": "https://open.spotify.com/track/3M6U1RZt2xU6GuVk80pIO0"
     },
     {
       "album": {
@@ -3512,6 +3578,24 @@
     },
     {
       "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/5yeBTEsHI8aCGwYXgRhcWC"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213479,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/6lPhnamoOdxOg7jQ3gSWOa"
+    },
+    {
+      "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
       },
@@ -3549,7 +3633,7 @@
       ],
       "date_added": "2020-09-13",
       "date_added_asterisk": true,
-      "date_removed": "2021-03-06",
+      "date_removed": null,
       "duration_ms": 294351,
       "name": "My Life",
       "url": "https://open.spotify.com/track/2NDZ6i6UfOUSKgFiTQKbnv"
@@ -5433,7 +5517,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 167056,
       "name": "Touch",
       "url": "https://open.spotify.com/track/397W12CqjA788iknS81yMB"
@@ -5727,7 +5811,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 196000,
       "name": "What's in My Head",
       "url": "https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF"

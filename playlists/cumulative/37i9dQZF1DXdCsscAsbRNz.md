@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-298 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+299 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Midnight Meandering \(Peace\)](https://open.spotify.com/track/6pxESpr2mORBYPLA63wy3D) | [Stephen M Harris](https://open.spotify.com/artist/0o0VNIjdMpG2tP6oLVdgll) | [Midnight Meandering \(Peace\)](https://open.spotify.com/album/0Dhi5zQ7W0CldoKMGP6rU4) | 3:00 | 2020-10-20\* |  |
 | [Midnight Sun](https://open.spotify.com/track/5WQDL5w2hdjltJ1aqWgFLm) | [Zach Levi](https://open.spotify.com/artist/2GR5LQXtNXyejm2nJvyYQb) | [Midnight Sun](https://open.spotify.com/album/5pkhOVnGe8LcXSgGspGeld) | 2:40 | 2021-01-30 |  |
 | [Midsummer Sun](https://open.spotify.com/track/6xxMpIFpWFlrCba55NU0e1) | [Louis Debreaux](https://open.spotify.com/artist/1AolHfMZcrDcuJEnoAis6B) | [Midsummer Sun](https://open.spotify.com/album/2zucXjha9af1Xs1FSi1bLF) | 2:43 | 2020-10-20\* |  |
+| [Mirrors](https://open.spotify.com/track/4MLN06rblMImScsbnLf030) | [Grant Murdoch](https://open.spotify.com/artist/69MHZfuz6RQx3JpGl1OXB0) | [Mirrors](https://open.spotify.com/album/0VhcCczpRVJz1bRWOE1ZWO) | 2:37 | 2022-07-22 |  |
 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 | 2021-10-09 | 2021-12-10 |
 | [Moment of Peace](https://open.spotify.com/track/3IvRypHZvFCKf6y7H4VLSX) | [Mediteight Dimensional](https://open.spotify.com/artist/2OeyY5gT2fNl8dQpBVpolj) | [Moment of Peace](https://open.spotify.com/album/5Wv1t9GPKKJUbVu7bzckgo) | 3:49 | 2020-10-20\* |  |
 | [Monita](https://open.spotify.com/track/2kYi4RwuTernByCJR6D4e1) | [Vincent Brahn](https://open.spotify.com/artist/4hHUuocKrz925cz7rAhoju) | [Lake Navis](https://open.spotify.com/album/45SgBkBj04nt7ZxfTsfpuh) | 3:16 | 2020-10-20\* |  |

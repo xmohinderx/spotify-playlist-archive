@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 182419,
       "name": "Better Day",
       "url": "https://open.spotify.com/track/7mfkmD9yALL1FhLgrcHJ3d"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 174193,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 171904,
       "name": "Breaking Me - HUGEL Remix",
       "url": "https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 190206,
       "name": "Can You Feel It (feat. James Hurr)",
       "url": "https://open.spotify.com/track/7sFYDUuaJsK45WevfiDods"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 153142,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/2ejgyUwWZ5nxQLfIHh1s2q"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 156006,
       "name": "Holiday (feat. S\u00e9b Mont)",
       "url": "https://open.spotify.com/track/4tVmnuRlT7buDLZa2hc7ao"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 203212,
       "name": "Home To You",
       "url": "https://open.spotify.com/track/2L3d9zBy8Iq8mKIde7cwmJ"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 180021,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5TYxn30EokgCbHXdr0fp8M"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 166666,
       "name": "Lose My Mind (feat. Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/5tmHc2HW2xaMkUmI4s15nC"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 196736,
       "name": "Mama (feat. Sting)",
       "url": "https://open.spotify.com/track/4VNtWSKDhvc2x99NiM5kbj"
@@ -1757,7 +1757,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 169779,
       "name": "Nah (feat. Sinead Harnett)",
       "url": "https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2"
@@ -1845,7 +1845,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 179070,
       "name": "New Chic",
       "url": "https://open.spotify.com/track/2Kxm9OKOunznvGkZrNGgL0"
@@ -2055,7 +2055,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 160796,
       "name": "Ready For Your Love",
       "url": "https://open.spotify.com/track/1bTklSZ4YHKCEnGKLVBquU"
@@ -2683,7 +2683,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 160159,
       "name": "Umbrellas",
       "url": "https://open.spotify.com/track/7HNjgPlRy6902FQrigvZBe"
@@ -2709,6 +2709,32 @@
       "duration_ms": 165245,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/6QGHCildW0p2nnrxE4BHsy"
+    },
+    {
+      "album": {
+        "name": "UP (Arem Ozguc & Arman Aydin Remix)",
+        "url": "https://open.spotify.com/album/4gUM4llwsErkQQ1VqBvE2D"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136839,
+      "name": "UP - Arem Ozguc & Arman Aydin Remix",
+      "url": "https://open.spotify.com/track/5JH7BjD9Yp1NrXBaLVBkUe"
     },
     {
       "album": {
@@ -2771,7 +2797,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 151480,
       "name": "When You're Out (feat. Mae Muller)",
       "url": "https://open.spotify.com/track/4dsm0VbaMmnLHhrOKcDNSI"

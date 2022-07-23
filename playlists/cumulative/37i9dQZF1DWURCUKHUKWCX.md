@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-125 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+126 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [At Dawn](https://open.spotify.com/track/6JOoavIQalujOEbpyN7ofg) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [At Dawn](https://open.spotify.com/album/6FIqEmWuczU1JgLbbIVJBv) | 3:00 | 2021-12-10 |  |
 | [Atoms](https://open.spotify.com/track/1b85pN99A6Mn3UU81SYUg0) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Atoms](https://open.spotify.com/album/3eP234mqeVO9RjB0RZyd9F) | 3:03 | 2021-12-10 |  |
 | [Autumn](https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Autumn](https://open.spotify.com/album/4tfc7VtpuBBON6YHnGFaXU) | 4:41 | 2021-12-10 |  |
+| [Ave María \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0) | [Sigvaldi Kaldalóns](https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Kaldalóns: Ave María \(Arr\. Víkingur Ólafsson\)](https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA) | 3:36 | 2022-07-22 |  |
 | [Balcony Hotel \- From 'Miss'](https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Balcony Hotel \(From 'Miss'\)](https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz) | 2:48 | 2021-12-10 |  |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2021-12-10 |  |
 | [Beginnings](https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Beginnings](https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp) | 3:58 | 2021-12-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Argentina en la casa! Foto: C.R.O.",
+  "description": "Argentina en la casa! Foto: Sael, el pibe.",
   "name": "Reggaet\u00f3n Argentino",
   "published_playlist_ids": [
     "6tDUGVVPmoQw2RkVQfmtJk"
@@ -249,6 +249,24 @@
       "duration_ms": 175909,
       "name": "Bombon",
       "url": "https://open.spotify.com/track/4Rq2Hu03jIex87RcHy3Kvt"
+    },
+    {
+      "album": {
+        "name": "El Pibe (Vol.1)",
+        "url": "https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164160,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA"
     },
     {
       "album": {
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 174600,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/6mFLA8Tq4MlnhyUGV7Tf4I"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 142285,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/1upN12BuuI00PtPX5RwWQA"
@@ -2020,6 +2038,24 @@
     },
     {
       "album": {
+        "name": "El Pibe (Vol.1)",
+        "url": "https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226520,
+      "name": "Sue\u00f1os H\u00famedos",
+      "url": "https://open.spotify.com/track/7lDjLRUBoWuABG7H9JU05m"
+    },
+    {
+      "album": {
         "name": "TAZA TAZA",
         "url": "https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS"
       },
@@ -2093,7 +2129,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 179815,
       "name": "Tik Tak",
       "url": "https://open.spotify.com/track/3wKRV3wHzA0XbJfAk7Hm7p"
@@ -2199,6 +2235,28 @@
       "duration_ms": 202173,
       "name": "UN BANDOLERO (feat. C.R.O)",
       "url": "https://open.spotify.com/track/3vh0hTfg90xqPMI5J6Z90p"
+    },
+    {
+      "album": {
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "album": {

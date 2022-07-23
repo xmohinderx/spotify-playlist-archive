@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Space Journey",
+        "url": "https://open.spotify.com/album/2TIRl3SqebDrKLGGPmc1OW"
+      },
+      "artists": [
+        {
+          "name": "Tranquomo",
+          "url": "https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195187,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/79XBLGHDBLc08rgl5NTHhd"
+    },
+    {
+      "album": {
         "name": "As I Lay Here",
         "url": "https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh"
       },
@@ -545,6 +563,24 @@
       "duration_ms": 173066,
       "name": "Dreaming Of Pine Trees",
       "url": "https://open.spotify.com/track/3YSkrDZCRG0bcZ4AZw5rIj"
+    },
+    {
+      "album": {
+        "name": "Dreams of Calmness",
+        "url": "https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT"
+      },
+      "artists": [
+        {
+          "name": "Niigata",
+          "url": "https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Dreams of Calmness",
+      "url": "https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-199 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+200 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aves Aristophanis](https://open.spotify.com/track/0hf4OAdQiOvMlMcRsYoHqK) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:06 | 2021-12-17 |  |
 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 | 2021-12-17 |  |
 | [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 | 2021-12-17 |  |
+| [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 | 2022-07-22 |  |
 | [Beautiful Path](https://open.spotify.com/track/1BIR1oNAcL7YmST5pnN8m4) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Beautiful Path](https://open.spotify.com/album/3OQt0hZHKA3cAbzfnwAiul) | 3:41 | 2022-06-16 |  |
 | [Binaural Alpha Sinus 147Hz \- 161Hz](https://open.spotify.com/track/2kCGylqSWKkXjLws0ZpQcK) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Calm](https://open.spotify.com/album/5PO9Rm0k6K1Yqg2EDO2h9E) | 3:07 | 2021-12-17 |  |
 | [Birds in Song](https://open.spotify.com/track/6AP5tmPtYpz14bX1Iut1mG) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Sounds](https://open.spotify.com/album/6NMpDeOYccREmbSyeMbCoy) | 3:30 | 2021-12-17 |  |

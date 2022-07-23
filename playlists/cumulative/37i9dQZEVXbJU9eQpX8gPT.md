@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-738 songs - 1 day 16 hr 40 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+739 songs - 1 day 16 hr 43 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Arabi](https://open.spotify.com/track/6l9szU9SbBqJKLU3L2QXmi) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 2:56 | 2021-03-27\* | 2021-04-30 |
 | [Argent sal](https://open.spotify.com/track/4Jr3bWulhjhWAP3UlY3AdI) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:14 | 2021-11-28 | 2021-11-28 |
 | [Arme de poing](https://open.spotify.com/track/2WYpG3Kv1xRTqMSNXVOpAN) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:35 | 2021-12-05 | 2021-12-10 |
-| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 |  |
+| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 | 2022-07-23 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-27 |
 | [ASMR](https://open.spotify.com/track/0nlsSSimo63ZCzjH2A1Rtp) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [ASMR](https://open.spotify.com/album/7oRnmQB4WVl00dQu72P9dv) | 2:13 | 2021-06-08 | 2021-06-11 |
@@ -540,6 +540,7 @@
 | [PAPA](https://open.spotify.com/track/0JAxAhh3EdJq422JUJXgzv) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [PAPA](https://open.spotify.com/album/2orG99ljSUjHmSgM0MXIHB) | 3:13 | 2021-09-08 | 2021-09-10 |
 | [Papillon](https://open.spotify.com/track/2e6OAZn3kthKizIsGugLeR) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:31 | 2022-05-07 | 2022-07-09 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-09 |
+| [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Sos \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 | 2022-07-22 |  |
 | [Passe Passe](https://open.spotify.com/track/1ERaWbmU3snPFCdLBARVqH) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo), [DJ Sim\-H](https://open.spotify.com/artist/4vhOcnMfCqZAOoLTpiDxXF), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Rap Khatr](https://open.spotify.com/album/5etSaVfiVKi4SGj55uwALP) | 2:58 | 2021-04-13 | 2021-05-30 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-06-10 |
 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 | 2022-07-14 | 2022-07-16 |
@@ -630,7 +631,7 @@
 | [Stigma](https://open.spotify.com/track/3LTwMQ9kkn5VVhP3jipBlR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:36 | 2021-12-27 | 2021-12-29 |
 | [STOP](https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:02 | 2022-07-16 | 2022-07-18 |
 | [STUNTMEN \(feat\. Alpha Wann & Wit.\)](https://open.spotify.com/track/1YEs58i4G68twRzYaFEu7T) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti), [Wit.](https://open.spotify.com/artist/4ME56PlDfT9QKf6sGcRgPm) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:24 | 2021-07-18 | 2021-07-19 |
-| [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2021-12-16 | 2022-07-22 |
+| [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2021-12-16 |  |
 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 | 2022-02-27 | 2022-05-29 |
 | [Suavemente](https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:39 | 2022-05-28 |  |
 | [Sucré Salé](https://open.spotify.com/track/4zYbjpZN7B298nBrKbXeyr) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/4Dtmqw1CiozN3bFYyiuuZj) | 2:20 | 2021-10-28 | 2022-04-10 |
@@ -679,7 +680,7 @@
 | [Tt Va Bien](https://open.spotify.com/track/4Tid3jOcqtTtvGe4IQO5Kv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tt Va Bien](https://open.spotify.com/album/2DbK52rV0HWp7jVKJXDQ2s) | 2:38 | 2021-05-17 | 2022-01-30 |
 | [TTT](https://open.spotify.com/track/5MJeXPp7TRk6FV8eLNofrA) | [Coyote Jo Bastard](https://open.spotify.com/artist/3nDLTOGw0WwwddP3tq5561), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [TTT](https://open.spotify.com/album/3r0oic7aHB18g1SifqxbaJ) | 3:02 | 2022-04-09 | 2022-04-29 |
 | [UGH!](https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:45 | 2022-02-25 | 2022-02-27 |
-| [Umbrella](https://open.spotify.com/track/4qhZCn7IiMjL49x2zlD9w1) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:36 | 2022-07-17 |  |
+| [Umbrella](https://open.spotify.com/track/4qhZCn7IiMjL49x2zlD9w1) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:36 | 2022-07-17 | 2022-07-23 |
 | [UN RÊVE ÉTRANGE](https://open.spotify.com/track/0L1JUpc6bjrBvK9pqMTGcb) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:56 | 2021-07-18 | 2021-07-19 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-27 |
 | [Uno](https://open.spotify.com/track/5uGCH8QGnH3n2i7KD7ROPb) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 2:24 | 2021-03-29 | 2021-04-02 |

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 241120,
       "name": "(This Ain't) No Thinkin' Thing",
       "url": "https://open.spotify.com/track/4AWZVz9cuAS1ZsJUB5cq8S"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 230226,
       "name": "Damn Strait",
       "url": "https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 204320,
       "name": "Demons",
       "url": "https://open.spotify.com/track/42qQfL7lQefUOXvqtSyrWM"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 191973,
       "name": "Don't Tell Me What To Do",
       "url": "https://open.spotify.com/track/7Mh25N4Iuv7lDtpVbfDyvL"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 200438,
       "name": "Little Miss Saturday Night",
       "url": "https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 199150,
       "name": "Love, Cold Beer, Cheap Smoke",
       "url": "https://open.spotify.com/track/4DkcQ60CkQtf5oYtfPu3la"
@@ -1427,6 +1427,24 @@
       "duration_ms": 198333,
       "name": "Meet In the Middle",
       "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
+    },
+    {
+      "album": {
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186549,
+      "name": "Mr. Saturday Night",
+      "url": "https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH"
     },
     {
       "album": {
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 220613,
       "name": "Old Porch Swing",
       "url": "https://open.spotify.com/track/424tTFNRNvXVbOpmD0V3D8"
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 207226,
       "name": "Ten Thousand Angels",
       "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 205740,
       "name": "Then Again",
       "url": "https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 191226,
       "name": "What He Didn't Do",
       "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
@@ -2388,6 +2406,24 @@
     },
     {
       "album": {
+        "name": "The Girls Are Back in Town",
+        "url": "https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK"
+      },
+      "artists": [
+        {
+          "name": "Chapel Hart",
+          "url": "https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "You Can Have Him Jolene",
+      "url": "https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa"
+    },
+    {
+      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -2435,7 +2471,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 211893,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"

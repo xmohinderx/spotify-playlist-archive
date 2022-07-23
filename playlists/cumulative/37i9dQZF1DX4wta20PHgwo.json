@@ -2531,7 +2531,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 204760,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/7LdrTu0apcwGJi3B5WWYnk"
@@ -2557,6 +2557,36 @@
       "duration_ms": 323200,
       "name": "My Little Brown Book",
       "url": "https://open.spotify.com/track/6Q6UjeMuOcxLaL5VBgzUdq"
+    },
+    {
+      "album": {
+        "name": "My Old Flame",
+        "url": "https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378838,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/4RdAczDZreD6n7jB64bbIe"
     },
     {
       "album": {
@@ -3773,7 +3803,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 284933,
       "name": "Strands",
       "url": "https://open.spotify.com/track/5LaxA3Vqu1huHZCQHUXnr3"
@@ -4635,7 +4665,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 572546,
       "name": "Where Can I Go Without You",
       "url": "https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb"

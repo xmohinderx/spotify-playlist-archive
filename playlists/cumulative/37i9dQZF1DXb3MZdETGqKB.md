@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Dylan Triplett
 
-128 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+129 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Mississippi Mud Pie](https://open.spotify.com/track/1ukZeSF34vnEHRU13C3FVR) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm), [Jayson Bendera](https://open.spotify.com/artist/21YQNwp6WyauNKfMRY7kYO) | [Mississippi Mud Pie](https://open.spotify.com/album/3gxXAxPqJkR3mw9t3QqInx) | 2:06 | 2022-03-04 | 2022-03-12 |
 | [Morning Light](https://open.spotify.com/track/1vC2eGIjumzgYknFrKl3Vg) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Morning Light](https://open.spotify.com/album/2eaEQlPaIwx7QI3MgGORbf) | 3:23 | 2021-04-09 | 2022-05-07 |
 | [My City](https://open.spotify.com/track/0DpJhcbwE1YtBSQEzNfX9g) | [Kat Riggins](https://open.spotify.com/artist/0gE5H6j7N6LseB5laJ8m1E), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Busta Free](https://open.spotify.com/artist/5KXhE6h6Bp27WXnENy8j9v) | [Progeny](https://open.spotify.com/album/4RWpRW36Af3RXqcJqmX7AR) | 4:33 | 2022-06-24 |  |
+| [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 | 2022-07-22 |  |
 | [Never Leave You](https://open.spotify.com/track/1sKWhJrFT6PGoXIo2mkgKq) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:56 | 2021-10-08 |  |
 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-04-23 | 2022-05-07 |
 | [NEVER TELL ME THE ODDS](https://open.spotify.com/track/2iK0Txu1uCzpGH196CsQEf) | [Watt White](https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8) | [NEVER TELL ME THE ODDS](https://open.spotify.com/album/5SuQXa5Uw9BxJUIyg735rH) | 2:42 | 2022-05-06 |  |

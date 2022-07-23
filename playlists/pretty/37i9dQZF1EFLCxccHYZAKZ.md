@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 34 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 92 likes - 34 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 6 | [Utan dig](https://open.spotify.com/track/3QLkGh1DnNKEUFbcGpzp01) | [Linus S](https://open.spotify.com/artist/6bUbaWCjpjUl7pBQ4FQKgF) | [Utan dig](https://open.spotify.com/album/64F9k0bd7Zf2b5k2yd7XzQ) | 3:12 |
 | 7 | [Who You Are \(feat\. Robin Vane\)](https://open.spotify.com/track/4wgFtDrCUzu2d333k4Yu7K) | [Maybon](https://open.spotify.com/artist/58WNaQYHzXvOY23UGICpOb), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Better With You](https://open.spotify.com/album/5IRhCZtMZgz3jATXM0YEdI) | 2:43 |
 | 8 | [Sundown](https://open.spotify.com/track/2GcFA2lRvsiq83UnWMGGeB) | [EAUXMAR](https://open.spotify.com/artist/6jjKAAi2ahf5gQ37k7rJya) | [Sundown](https://open.spotify.com/album/68gDsH0JmcQJhzu7cTaLZf) | 2:33 |
-| 9 | [Juice](https://open.spotify.com/track/6y13QPTkGol87GyA7PpCWj) | [NØ SIGNE](https://open.spotify.com/artist/28e1tcP4TyKPkQUr1A3HiU) | [Juice](https://open.spotify.com/album/4xRTNQq8Liur3aYrGNnh4B) | 2:18 |
+| 9 | [Juice](https://open.spotify.com/track/6y13QPTkGol87GyA7PpCWj) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX) | [Juice](https://open.spotify.com/album/4xRTNQq8Liur3aYrGNnh4B) | 2:18 |
 | 10 | [Hatar att vara kär](https://open.spotify.com/track/18MpuOSImIe1L4h9jZqXN0) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Hatar att vara kär](https://open.spotify.com/album/65EmbYRfiaajO4kftbC1N4) | 3:12 |
 | 11 | [Praying](https://open.spotify.com/track/4htljT3v7N8q5C1LFzE90g) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Praying](https://open.spotify.com/album/7lyiPlbNb8iZiR8cJsBrLI) | 2:57 |
 | 12 | [body in my bed](https://open.spotify.com/track/35A0hbUL2Ey3mG2TbMHo0t) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/2b0dLMRLdninQEdHJpwTiA) | 3:23 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 33 | [Avalanche](https://open.spotify.com/track/7iYuUOOv1knNy9SFF1PdQj) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `Mjc2NDA4ODEsMDAwMDAwMDBkNjAxOTY4MzNjMDdhMDlmNzE2ZTIxMDkwOGFkODA3Ng==`
+Snapshot ID: `Mjc2NDIzMjAsMDAwMDAwMDBlYzliNDU0NjVlZTNlN2Q5YWIwYTAwZTA5ODVhM2M4MQ==`

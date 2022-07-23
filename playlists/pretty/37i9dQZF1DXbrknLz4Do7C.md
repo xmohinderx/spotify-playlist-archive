@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music and Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314 likes - 95 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327 likes - 95 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 55 | [Don’t Worry Bout It](https://open.spotify.com/track/2tkA0frBybxjFnWRkNcx1H) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Don’t Worry Bout It](https://open.spotify.com/album/4LAf74AX25RuIrLIJyWrGM) | 2:52 |
 | 56 | [Relentless](https://open.spotify.com/track/2GLcLKcZG773cUa9cI6SdY) | [A.I\. The Anomaly](https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Relentless](https://open.spotify.com/album/2RkDoJRDIdo7vZMxvHf6BH) | 2:37 |
 | 57 | [Can't Tell It All](https://open.spotify.com/track/4bvNwqjzJbbmUDClgpCTG0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:42 |
-| 58 | [I Got It](https://open.spotify.com/track/6y8ZVdDFBly8GJhFJAM97L) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got It: Singles Ministry, Vol\. 1](https://open.spotify.com/album/5jxxVFeOULCVZR5K3n9Zwa) | 4:07 |
+| 58 | [I Got It \- Bonus Track](https://open.spotify.com/track/6y8ZVdDFBly8GJhFJAM97L) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got It: Singles Ministry, Vol\. 1](https://open.spotify.com/album/5jxxVFeOULCVZR5K3n9Zwa) | 4:07 |
 | 59 | [For My Good](https://open.spotify.com/track/2zRmDaYLsDw208NFV7CpFj) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Don't Lose Hope](https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0) | 3:14 |
 | 60 | [Amén \(with Kirk Franklin\)](https://open.spotify.com/track/45Ni3jzatASbwFJFBAHiM9) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Amén \(with Kirk Franklin\)](https://open.spotify.com/album/5AXZRreDc5jDfq1OFldEZL) | 4:37 |
 | 61 | [Stayed On Him \(Isaiah 26:3\)](https://open.spotify.com/track/3n6Y6eZ1PIq8DOBcQJHVkK) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Genesis of Terrian](https://open.spotify.com/album/2fGd7TWmDcPRW9Y45CKcx0) | 3:59 |

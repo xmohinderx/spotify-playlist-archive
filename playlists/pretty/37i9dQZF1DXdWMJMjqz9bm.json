@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop and a little bit of rap. Cover: Nicky Youre",
-  "num_followers": 162189,
+  "num_followers": 162389,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkxMTg5NSwwMDAwMDEzOTAwMDAwMTgyMDMzZmU0OGMwMDAwMDE4MjAzM2YzMTNk",
+  "snapshot_id": "MTY1ODQ3MTk0MCwwMDAwMDEzYTAwMDAwMTgyMjRhMTgwMDEwMDAwMDE4MjAzM2YzMTNk",
   "tracks": [
+    {
+      "added_at": "2022-07-22 06:39:00",
+      "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "act right",
+      "url": "https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn"
+    },
     {
       "added_at": "2022-07-15 13:50:15",
       "album": {
@@ -45,20 +61,20 @@
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
-      "added_at": "2022-07-11 17:06:22",
+      "added_at": "2022-07-22 06:39:00",
       "album": {
-        "name": "good day",
-        "url": "https://open.spotify.com/album/4Yyn7HIrbeCp8tQuNAF3C4"
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
       },
       "artists": [
         {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 168292,
-      "name": "good day",
-      "url": "https://open.spotify.com/track/3QK8wVrYJD2C6DAIypaXW1"
+      "duration_ms": 162875,
+      "name": "Love Lost",
+      "url": "https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi"
     },
     {
       "added_at": "2022-07-06 14:27:37",
@@ -97,20 +113,40 @@
       "url": "https://open.spotify.com/track/5FZsAaTNEEz5LNBO0bcIZv"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
+      "added_at": "2022-07-22 06:39:00",
       "album": {
-        "name": "Man On The Moon: The End Of Day (Deluxe)",
-        "url": "https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3"
+        "name": "HOLY TRINITY (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/0ev0saRGsMUB9MxtWZnliz"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         }
       ],
-      "duration_ms": 210893,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/78T9DulqSBWqkaxczcGBfk"
+      "duration_ms": 155863,
+      "name": "HOLY TRINITY (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns"
+    },
+    {
+      "added_at": "2022-07-06 14:27:37",
+      "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -127,6 +163,22 @@
       "duration_ms": 108800,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
+    },
+    {
+      "added_at": "2022-07-22 06:39:00",
+      "album": {
+        "name": "Pickup Lines",
+        "url": "https://open.spotify.com/album/1SlVtVG8JmqGMOeXZaT9HF"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Pickup Lines",
+      "url": "https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB"
     },
     {
       "added_at": "2022-07-12 20:08:49",
@@ -159,22 +211,6 @@
       "duration_ms": 126316,
       "name": "19",
       "url": "https://open.spotify.com/track/6vsXEuQuTx6eCRcTFwSUix"
-    },
-    {
-      "added_at": "2022-07-06 14:27:37",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 297404,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -223,6 +259,42 @@
       "duration_ms": 183418,
       "name": "Loved You Since I Was Young",
       "url": "https://open.spotify.com/track/0JTEcPbg192uSL2j7UJasI"
+    },
+    {
+      "added_at": "2022-07-22 06:39:00",
+      "album": {
+        "name": "true american (feat. Kyle Lux)",
+        "url": "https://open.spotify.com/album/3ZE1urLrVTsuB8KZXq6RAe"
+      },
+      "artists": [
+        {
+          "name": "Sally Boy",
+          "url": "https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf"
+        },
+        {
+          "name": "Kyle Lux",
+          "url": "https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR"
+        }
+      ],
+      "duration_ms": 171071,
+      "name": "true american (feat. Kyle Lux)",
+      "url": "https://open.spotify.com/track/0ceYW8uhnTOywJRp68iaq2"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Man On The Moon: The End Of Day (Deluxe)",
+        "url": "https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/78T9DulqSBWqkaxczcGBfk"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -297,20 +369,20 @@
       "url": "https://open.spotify.com/track/10omO03JNpJwhjo538gdNc"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
+      "added_at": "2022-07-12 20:08:49",
       "album": {
-        "name": "Never Slept Better",
-        "url": "https://open.spotify.com/album/1ff1wHohcN2BRac6Ke4K6C"
+        "name": "High 4 U",
+        "url": "https://open.spotify.com/album/2eqnG7Avs0kQlpL3bN93so"
       },
       "artists": [
         {
-          "name": "Travie McCoy",
-          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 217560,
-      "name": "Full Monarch",
-      "url": "https://open.spotify.com/track/6eD15T3BUxlhPXF8jFofPB"
+      "duration_ms": 162793,
+      "name": "High 4 U",
+      "url": "https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge"
     },
     {
       "added_at": "2022-07-12 20:08:49",
@@ -327,6 +399,22 @@
       "duration_ms": 189309,
       "name": "IMPATIENT",
       "url": "https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k"
+    },
+    {
+      "added_at": "2022-07-22 06:39:00",
+      "album": {
+        "name": "BUCKLE UP",
+        "url": "https://open.spotify.com/album/38xoZjwstC5LlgHLTpoBQN"
+      },
+      "artists": [
+        {
+          "name": "CROOK",
+          "url": "https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "BUCKLE UP",
+      "url": "https://open.spotify.com/track/1O7cBHLXgkhH81A5Jax0mk"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -361,6 +449,22 @@
       "url": "https://open.spotify.com/track/592UtxyRpf6eOrjS6b2Jur"
     },
     {
+      "added_at": "2022-07-12 20:08:49",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 131586,
+      "name": "3, 2, 1",
+      "url": "https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV"
+    },
+    {
       "added_at": "2022-07-11 17:06:22",
       "album": {
         "name": "One Mistake",
@@ -377,22 +481,6 @@
       "url": "https://open.spotify.com/track/4Issv5lPDAGvAAy2fE7EAX"
     },
     {
-      "added_at": "2022-07-12 20:08:49",
-      "album": {
-        "name": "High 4 U",
-        "url": "https://open.spotify.com/album/2eqnG7Avs0kQlpL3bN93so"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 162793,
-      "name": "High 4 U",
-      "url": "https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge"
-    },
-    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "Blueberry Biscotti",
@@ -407,6 +495,38 @@
       "duration_ms": 128785,
       "name": "Blueberry Biscotti",
       "url": "https://open.spotify.com/track/4Jdz6B3w69AHsWHBg80SZK"
+    },
+    {
+      "added_at": "2022-07-22 06:39:00",
+      "album": {
+        "name": "wonder why",
+        "url": "https://open.spotify.com/album/5gH0RB9P5hrZyvHcHBWHRB"
+      },
+      "artists": [
+        {
+          "name": "Aizayah Hills",
+          "url": "https://open.spotify.com/artist/5BLTxShcXYTib23V0lRdDt"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "wonder why",
+      "url": "https://open.spotify.com/track/6R6IEZgAq8clMRlm7KjnwS"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Never Slept Better",
+        "url": "https://open.spotify.com/album/1ff1wHohcN2BRac6Ke4K6C"
+      },
+      "artists": [
+        {
+          "name": "Travie McCoy",
+          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Full Monarch",
+      "url": "https://open.spotify.com/track/6eD15T3BUxlhPXF8jFofPB"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -461,38 +581,6 @@
       "url": "https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W"
     },
     {
-      "added_at": "2022-07-12 20:08:49",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 131586,
-      "name": "3, 2, 1",
-      "url": "https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV"
-    },
-    {
-      "added_at": "2022-07-06 14:27:37",
-      "album": {
-        "name": "the highs.",
-        "url": "https://open.spotify.com/album/2phcfZd44niczjY0xybcS6"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 228702,
-      "name": "rodman",
-      "url": "https://open.spotify.com/track/0jufehOY40rRdvB2t4dsot"
-    },
-    {
       "added_at": "2022-07-05 14:49:37",
       "album": {
         "name": "2014 Forest Hills Drive",
@@ -507,6 +595,22 @@
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "added_at": "2022-07-22 06:39:00",
+      "album": {
+        "name": "Oh My!",
+        "url": "https://open.spotify.com/album/5NBpzjZMW5PCvxVCNSTwrD"
+      },
+      "artists": [
+        {
+          "name": "Zekey",
+          "url": "https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA"
+        }
+      ],
+      "duration_ms": 191111,
+      "name": "Oh My!",
+      "url": "https://open.spotify.com/track/23GrnBNBJhVlYlraSi3sT3"
     },
     {
       "added_at": "2022-07-12 20:08:49",
@@ -1019,6 +1123,26 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
+        "name": "Ghetto Lenny's Love Songs",
+        "url": "https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 184699,
+      "name": "Trap (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/2Y8hY4rRRQQjdaZkkwzpd9"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
         "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
         "url": "https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6"
       },
@@ -1043,26 +1167,6 @@
       "duration_ms": 224042,
       "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
       "url": "https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Towards The Sun",
-        "url": "https://open.spotify.com/album/57XXE3V0P60nJkG68roJiH"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 200394,
-      "name": "Cutlass (ft. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/6vBczVPPas3vqNDFX9u7q0"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -1167,58 +1271,6 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
-        "name": "Place To Speak",
-        "url": "https://open.spotify.com/album/7fHzXzG8xBcyISqEY2DpLP"
-      },
-      "artists": [
-        {
-          "name": "Hey! Astro",
-          "url": "https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Place To Speak",
-      "url": "https://open.spotify.com/track/1MOgTSslmMoqS6WxejCXcg"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Ghetto Lenny's Love Songs",
-        "url": "https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 184699,
-      "name": "Trap (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/2Y8hY4rRRQQjdaZkkwzpd9"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "morning",
-        "url": "https://open.spotify.com/album/4pJTYvnrV8guZmGlioUtgd"
-      },
-      "artists": [
-        {
-          "name": "Aizayah Hills",
-          "url": "https://open.spotify.com/artist/5BLTxShcXYTib23V0lRdDt"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "morning",
-      "url": "https://open.spotify.com/track/0MWeEap0R36Qauy3G7vd7y"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
         "name": "GO:OD AM",
         "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
@@ -1231,22 +1283,6 @@
       "duration_ms": 278506,
       "name": "100 Grandkids",
       "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/7yM1i0hC7Dxyfb9ISXp0io"
-      },
-      "artists": [
-        {
-          "name": "Casper Jones",
-          "url": "https://open.spotify.com/artist/23sBHvNKx0DJqlO00SQiF7"
-        }
-      ],
-      "duration_ms": 158367,
-      "name": "Flavors",
-      "url": "https://open.spotify.com/track/1YshKoWMcR68W8ZYBtNal7"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -1279,38 +1315,6 @@
       "duration_ms": 145081,
       "name": "Sunsick",
       "url": "https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "clean my mess up",
-        "url": "https://open.spotify.com/album/0XYR8nrUZRXVJ3ccsrnjPw"
-      },
-      "artists": [
-        {
-          "name": "Astrus*",
-          "url": "https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR"
-        }
-      ],
-      "duration_ms": 169286,
-      "name": "clean my mess up",
-      "url": "https://open.spotify.com/track/6LqQZF2TkWVMYFq7JovaNO"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "nothing to lose",
-        "url": "https://open.spotify.com/album/70ZI0zWLDEQP4MTB0ONVCA"
-      },
-      "artists": [
-        {
-          "name": "Sally Boy",
-          "url": "https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf"
-        }
-      ],
-      "duration_ms": 74840,
-      "name": "nothing to lose",
-      "url": "https://open.spotify.com/track/1FjHCIhGZNXkuYQGziT3p4"
     }
   ],
   "unique_name": "Varsity Bars",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Real Rap. All Pressure. Cover: Lakeyah",
+  "description": "Real Rap. All Pressure. Cover: Flo Milli",
   "name": "Pressure",
   "published_playlist_ids": [
     "5y5tRmbESUW4REpQryCCFI"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 130750,
       "name": "8 Year Run",
       "url": "https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 149231,
       "name": "Ain't Going Back",
       "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 192022,
       "name": "BABA",
       "url": "https://open.spotify.com/track/2qHdVNExsj55FceFa5S2H9"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 127493,
       "name": "Box & Papers",
       "url": "https://open.spotify.com/track/7BXDc3WTYrqA87sJYlGn4A"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 185376,
       "name": "Chaa Chaa Chaa (feat. HoodCelebrityy)",
       "url": "https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ"
@@ -710,6 +710,24 @@
     },
     {
       "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136629,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/0eihPScADJKzfuUwiShQQJ"
+    },
+    {
+      "album": {
         "name": "Conceited",
         "url": "https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV"
       },
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 200500,
       "name": "Could Never",
       "url": "https://open.spotify.com/track/5T4gMIgA9HS9lt3x0S1z1m"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 131082,
       "name": "Don't Play With It",
       "url": "https://open.spotify.com/track/6GbrejIjCnfVzkNTxyMYFF"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 111280,
       "name": "Dummy Ummy",
       "url": "https://open.spotify.com/track/3nSWujJAiDBsDK80pagDBV"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 113424,
       "name": "Euphoric",
       "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
@@ -1001,6 +1019,24 @@
       "duration_ms": 137640,
       "name": "F.N.F. (Let's Go)",
       "url": "https://open.spotify.com/track/6bkRx9TWQfP5rcRnS89oXI"
+    },
+    {
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114434,
+      "name": "F.N.G.M.",
+      "url": "https://open.spotify.com/track/1Dzr6fYP7xU0DHD4U7C6WG"
     },
     {
       "album": {
@@ -1537,7 +1573,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 188014,
       "name": "Ms. Lick Back",
       "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
@@ -1591,7 +1627,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 189524,
       "name": "No Face",
       "url": "https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb"
@@ -1737,7 +1773,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 188805,
       "name": "Onnat",
       "url": "https://open.spotify.com/track/3iqbwis7OqasGC8y6f3LFf"
@@ -1831,7 +1867,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 122181,
       "name": "Pesos (feat. Peso Peso)",
       "url": "https://open.spotify.com/track/3c7G8oF298vWlCsOKK2P5B"
@@ -2401,7 +2437,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 134801,
       "name": "Tha Fuck - from the \"Bruised\" Soundtrack",
       "url": "https://open.spotify.com/track/4atXiThjKGDzHmJFUQq16I"
@@ -2477,7 +2513,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 166800,
       "name": "Thief In The Night (with G Herbo)",
       "url": "https://open.spotify.com/track/46gUCMauloWD4iuobiQdsu"
@@ -2709,7 +2745,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 109766,
       "name": "Westside Baby (Gutta)",
       "url": "https://open.spotify.com/track/3djbJUX2x2ZVqeoH22tOyN"

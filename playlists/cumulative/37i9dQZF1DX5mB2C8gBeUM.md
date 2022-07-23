@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Jillian Jacqueline
 
-239 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+241 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,13 +134,14 @@
 | [Islands To Nashville](https://open.spotify.com/track/59tIjrUIE6bdBfn0QRzmAs) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Islands To Nashville](https://open.spotify.com/album/7IDtDfgOiykmk79S7lcZiM) | 3:14 | 2021-12-10 |  |
 | [JOSIE \(feat\. Jimmie Allen\)](https://open.spotify.com/track/6BHcMNbc3ZMU4aVjWeluJb) | [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Songs From Monte Nido](https://open.spotify.com/album/3hFdLwXe8yCZOE4W6lGSsl) | 3:47 | 2021-12-10 | 2022-06-25 |
 | [Joyride](https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Joyride](https://open.spotify.com/album/4GtZQ2uTWGcd40naFI7vYF) | 3:36 | 2021-12-10 | 2022-02-26 |
-| [Karma](https://open.spotify.com/track/70Y4SxunX8iVvBLzjEukyE) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Karma](https://open.spotify.com/album/2uFl4pMQtGIlGN3onYvxfg) | 3:08 | 2022-07-08 |  |
+| [K\[no\]w Better](https://open.spotify.com/track/4oPZQzSt5mD8BxV2T9zbzI) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [K\[no\]w Better](https://open.spotify.com/album/4IF6tCmUA0seAPrh4rUABg) | 2:47 | 2022-07-22 |  |
+| [Karma](https://open.spotify.com/track/70Y4SxunX8iVvBLzjEukyE) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Karma](https://open.spotify.com/album/2uFl4pMQtGIlGN3onYvxfg) | 3:08 | 2022-07-08 | 2022-07-23 |
 | [Kids](https://open.spotify.com/track/2EJBb3MDWCoXh5vRntYVP4) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Kids](https://open.spotify.com/album/7r07SSu50xNwGjkNCLVEd9) | 3:57 | 2021-12-10 | 2022-06-11 |
 | [Kiss About It](https://open.spotify.com/track/4atQ9Mu2f3s4ym4U2y811i) | [Cash Campbell](https://open.spotify.com/artist/57niI6IBcl5QLGLY45pEdw) | [Kiss About It](https://open.spotify.com/album/0H8cRuaKhqv98RjOWowmN7) | 3:16 | 2021-12-10 | 2022-02-26 |
 | [Knock Yourself Out](https://open.spotify.com/track/6EYP9xedLZbzYh5TBEaVe1) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Knock Yourself Out](https://open.spotify.com/album/1KWDJUAB0w0oxqF3KdmAH9) | 2:52 | 2021-12-10 |  |
 | [Know My Way Around](https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Know My Way Around](https://open.spotify.com/album/3R61ViOGcEiAk1mkBQMhy4) | 2:54 | 2021-12-10 |  |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-04 |  |
-| [Left Me \(with YNW BSlime\)](https://open.spotify.com/track/2I3seK4Q5bLPtaTb9uGcxz) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [Left Me \(with YNW BSlime\)](https://open.spotify.com/album/4VP3UPCUDxDrD71ZJOQ03Q) | 2:41 | 2022-01-21 |  |
+| [Left Me \(with YNW BSlime\)](https://open.spotify.com/track/2I3seK4Q5bLPtaTb9uGcxz) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [Left Me \(with YNW BSlime\)](https://open.spotify.com/album/4VP3UPCUDxDrD71ZJOQ03Q) | 2:41 | 2022-01-21 | 2022-07-23 |
 | [LEGENDS](https://open.spotify.com/track/15x3Tsc72Wjspe8DlsIRp2) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [LEGENDS](https://open.spotify.com/album/2NEROO6mBjK1Xcv1Sr6vXU) | 2:24 | 2021-12-10 | 2022-05-20 |
 | [life got crazy](https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the highs.](https://open.spotify.com/album/2phcfZd44niczjY0xybcS6) | 2:18 | 2021-12-10 | 2022-02-26 |
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2021-12-10 | 2022-06-25 |
@@ -202,6 +203,7 @@
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2022-04-22 |  |
 | [Stop Coming Over](https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Stop Coming Over](https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt) | 2:18 | 2021-12-10 |  |
 | [Stuck](https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Stuck](https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM) | 3:09 | 2021-12-10 | 2022-01-08 |
+| [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/track/0MmVE2K5YbUxx54Kke0mWY) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/album/25ymYbAX8kx0LwzoDUSPzt) | 3:08 | 2022-07-22 |  |
 | [Summer In A Small Town](https://open.spotify.com/track/2WgY7GjYq1SLIgOLhqrczP) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Summer In A Small Town](https://open.spotify.com/album/0JubqhaKGIbLxtG8IUBG95) | 2:57 | 2021-12-10 | 2022-02-26 |
 | [Tailgate Queen](https://open.spotify.com/track/4hztsDzyfQclyDAlivrogd) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Tailgate Queen](https://open.spotify.com/album/1inQMIpxbhWs12ExHyOZQt) | 3:23 | 2021-12-10 |  |
 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 | 2021-12-10 |  |

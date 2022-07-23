@@ -1060,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "I Think I\u2019ll Stay For The Summer",
+        "url": "https://open.spotify.com/album/6LuiOp3PCyHtgmF9JHnfVh"
+      },
+      "artists": [
+        {
+          "name": "Elijah Waters",
+          "url": "https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192080,
+      "name": "I Think I\u2019ll Stay For The Summer",
+      "url": "https://open.spotify.com/track/1npDK31ZsQyCEGIFyqKHbc"
+    },
+    {
+      "album": {
         "name": "If He Won't",
         "url": "https://open.spotify.com/album/23mxFDwh1Dy8HhN5uOa0aw"
       },
@@ -1708,7 +1726,7 @@
         },
         {
           "name": "GR\u20acY",
-          "url": "https://open.spotify.com/artist/0TLPN3cOATZlnfGpNya1LA"
+          "url": "https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd"
         }
       ],
       "date_added": "2021-12-16",
@@ -1717,6 +1735,24 @@
       "duration_ms": 173653,
       "name": "Off Switch (feat. GR\u20acY)",
       "url": "https://open.spotify.com/track/7kyZIUl4X7vdckP6PPCH0h"
+    },
+    {
+      "album": {
+        "name": "One Day Less",
+        "url": "https://open.spotify.com/album/6btELiaRuDMZSrhu9PE2xY"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207034,
+      "name": "One Day Less",
+      "url": "https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy"
     },
     {
       "album": {
@@ -1869,7 +1905,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 168061,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf"
@@ -1985,7 +2021,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 181134,
       "name": "Romcom",
       "url": "https://open.spotify.com/track/5cXglIMCSuEt0ZPagAdrcN"

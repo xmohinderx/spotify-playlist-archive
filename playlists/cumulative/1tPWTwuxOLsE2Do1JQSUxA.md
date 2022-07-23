@@ -4,7 +4,7 @@
 
 > The biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more\. Image: Harry Styles.
 
-191 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/4urElZ9y19mvfNZKk2dRwe)
+192 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/4urElZ9y19mvfNZKk2dRwe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Ugly Heart](https://open.spotify.com/track/1Vv0MPcooEoQzVZYfKMgKW) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Ugly Heart](https://open.spotify.com/album/6cvanscbjwTlkleedLkWhC) | 3:19 | 2020-10-20\* |  |
 | [Underneath the Tree](https://open.spotify.com/track/0iVVPWm4An3glF9QnCtM6e) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Hits](https://open.spotify.com/album/2ojsnLAKwDMT0k3sU0ur0x) | 3:49 | 2021-11-30 | 2022-01-01 |
 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 | 2020-10-20\* | 2021-03-06 |
+| [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-07-22 |  |
 | [Up Down \(Do This All Day\) \(feat\. B.o.B\)](https://open.spotify.com/track/1uH1Nd8vet2uoZSDFSDwbh) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Up Down \(Do This All Day\) \(feat\. B.o.B\)](https://open.spotify.com/album/3fdI5StLDbsbcNMMyyYh0V) | 3:51 | 2021-02-11 | 2021-03-06 |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2021-05-05 |  |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/20xeS3akpiqflyfnHfqe3g) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Happy Songs](https://open.spotify.com/album/3dYBrvPnWpycwiclPq9Qlf) | 4:30 | 2020-10-20\* | 2021-03-06 |

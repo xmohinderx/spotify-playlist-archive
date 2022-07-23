@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Bratislava",
+  "description": "Novidades e destaques do indie nacional. Foto: Lou Garcia",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -45,6 +45,24 @@
       "duration_ms": 186063,
       "name": "20 Anos e Meio",
       "url": "https://open.spotify.com/track/3QMQqmpesGqVcHuV0vMv2m"
+    },
+    {
+      "album": {
+        "name": "A Arte de Se Bastar",
+        "url": "https://open.spotify.com/album/5EgCWm8o7qX0psDEaszJrr"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "A Arte de Se Bastar",
+      "url": "https://open.spotify.com/track/7dsbEhIpErUsTewANX617F"
     },
     {
       "album": {
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 133561,
       "name": "Amor F\u00e1cil",
       "url": "https://open.spotify.com/track/2XLBexgFy4A9U2SEYNeiB9"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 173225,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/5j0Djj1O4jWIQ4kWYs1mDa"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 201951,
       "name": "bem vindo, amanhecer",
       "url": "https://open.spotify.com/track/7mWaj5XGPlLn26oz8Ml5WT"
@@ -956,6 +974,24 @@
     },
     {
       "album": {
+        "name": "Todos os conselhos que n\u00e3o segui",
+        "url": "https://open.spotify.com/album/2zVPyiDlZdTj5lyyMXVClN"
+      },
+      "artists": [
+        {
+          "name": "Bomfim",
+          "url": "https://open.spotify.com/artist/2e8cQfFufvGVSoEATHH8Cx"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Das coisas que se perdem",
+      "url": "https://open.spotify.com/track/6Hpque3mLD1UQFOkJPDYMx"
+    },
+    {
+      "album": {
         "name": "Canicule Sauvage",
         "url": "https://open.spotify.com/album/3mJT2eEgCOvLYpilkrR2Bl"
       },
@@ -1007,6 +1043,28 @@
       "duration_ms": 178981,
       "name": "Desapego",
       "url": "https://open.spotify.com/track/2qbNEZGcFnauvoOLHwoURB"
+    },
+    {
+      "album": {
+        "name": "Desejos de um Le\u00e3o",
+        "url": "https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2"
+      },
+      "artists": [
+        {
+          "name": "Uiu Lopes",
+          "url": "https://open.spotify.com/artist/3weJGyLwPPBBvrarb0XjSZ"
+        },
+        {
+          "name": "Walfredo em Busca da Simbiose",
+          "url": "https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193950,
+      "name": "Desejos de um Le\u00e3o",
+      "url": "https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U"
     },
     {
       "album": {
@@ -1105,6 +1163,24 @@
       "duration_ms": 169489,
       "name": "do avesso",
       "url": "https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5"
+    },
+    {
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/0ypjYPdOJBi7Ed3njS6dSu"
+      },
+      "artists": [
+        {
+          "name": "Gato de Rua",
+          "url": "https://open.spotify.com/artist/2q9BBqImQUlzKzpj1k2KqH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/5YkZTtb0htLlo2F1Um6knO"
     },
     {
       "album": {
@@ -1717,7 +1793,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 287280,
       "name": "Latada",
       "url": "https://open.spotify.com/track/3moZu44G3SRQipBcorIDsd"
@@ -1779,6 +1855,28 @@
       "duration_ms": 397909,
       "name": "Let's Do It All Again",
       "url": "https://open.spotify.com/track/4JagVYqLNcy8n8Wh5Pd8cr"
+    },
+    {
+      "album": {
+        "name": "Levi",
+        "url": "https://open.spotify.com/album/0kRSqhVqdtK9t0VJECEfIo"
+      },
+      "artists": [
+        {
+          "name": "Pablo Vermell",
+          "url": "https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5"
+        },
+        {
+          "name": "a2ele",
+          "url": "https://open.spotify.com/artist/2IBOTsCvUK65Wq5eiq0Pkw"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242624,
+      "name": "Levi",
+      "url": "https://open.spotify.com/track/1ZzxFNP76eCZ1P18vEGViU"
     },
     {
       "album": {
@@ -2106,6 +2204,24 @@
     },
     {
       "album": {
+        "name": "Epopeia",
+        "url": "https://open.spotify.com/album/7uH5ApFrIm9IqKm6fjXzfW"
+      },
+      "artists": [
+        {
+          "name": "Clube Dezenove",
+          "url": "https://open.spotify.com/artist/719qMl6Gpbyr3h56RZ7RQT"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Mil Palavras",
+      "url": "https://open.spotify.com/track/0cg8VNMHhSsxmeuTNv7pZY"
+    },
+    {
+      "album": {
         "name": "OUTRO VOLUME",
         "url": "https://open.spotify.com/album/3j9Dw9lvea8ZfdinhW1s0C"
       },
@@ -2289,7 +2405,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 182230,
       "name": "Nada Vai Mudar",
       "url": "https://open.spotify.com/track/4lRljFMS2sUYJWouc5jNYZ"
@@ -2399,7 +2515,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 201958,
       "name": "Ningu\u00e9m Solta A M\u00e3o De Ningu\u00e9m - Jeff Pierre Remix",
       "url": "https://open.spotify.com/track/5vUkw7XU9iYFzBbacSqSsD"
@@ -2671,7 +2787,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 293845,
       "name": "O Som Dos Golfinhos",
       "url": "https://open.spotify.com/track/5W0m2UCowu8lY8anIFQHyO"
@@ -2761,7 +2877,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 152536,
       "name": "Pare",
       "url": "https://open.spotify.com/track/12aSXMAvxEOGocRJWKhOXP"
@@ -3534,6 +3650,24 @@
     },
     {
       "album": {
+        "name": "Sonhador",
+        "url": "https://open.spotify.com/album/6fCs7vXCg55fbnmxrfBzKC"
+      },
+      "artists": [
+        {
+          "name": "Versaliz",
+          "url": "https://open.spotify.com/artist/6KbgEz6ZShtrAiO5ieUvtK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sonhador",
+      "url": "https://open.spotify.com/track/6NZz06XMoQwCZQKImYrIKA"
+    },
+    {
+      "album": {
         "name": "Sonho",
         "url": "https://open.spotify.com/album/41umITmWrGCRQVmIjVSBv7"
       },
@@ -4197,6 +4331,24 @@
       "duration_ms": 159133,
       "name": "Vinheta do Amor",
       "url": "https://open.spotify.com/track/7kyqMS0fovEDsDAh9EPmtc"
+    },
+    {
+      "album": {
+        "name": "Vira-Lata",
+        "url": "https://open.spotify.com/album/42XXrbrpqdGr6oJ2BQ6M7E"
+      },
+      "artists": [
+        {
+          "name": "Maglore",
+          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239304,
+      "name": "Vira-Lata",
+      "url": "https://open.spotify.com/track/0rUvuGRs0uYbh1LZUtBF7g"
     },
     {
       "album": {

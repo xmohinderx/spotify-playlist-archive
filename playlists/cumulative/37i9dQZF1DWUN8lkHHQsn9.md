@@ -2,9 +2,9 @@
 
 ### [Pride Polska](https://open.spotify.com/playlist/37i9dQZF1DWUN8lkHHQsn9)
 
-> Posłuchaj głosu polskich artystów LGBTQ+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: thekayetan
+> Posłuchaj głosu polskich artystów LGBTQIA+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Zawadzki
 
-80 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
+81 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [NAJGORSZE RZECZY](https://open.spotify.com/track/14IblGaBsxqjyflCxvZkls) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [ATAK](https://open.spotify.com/album/09ILsQK7aaCtCGciftyi0z) | 4:34 | 2021-06-22 | 2022-06-01 |
 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 | 2022-06-01 |  |
 | [Nieludzie \(Ignorance Ha\)](https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 5:05 | 2021-06-22 |  |
+| [Obok mnie \- Radio edit](https://open.spotify.com/track/0YhJgS3GaY3KXsww0gPOdW) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Obok mnie \(Radio edit\)](https://open.spotify.com/album/6m4H7cotFDKmd7dMqna8qO) | 2:42 | 2022-07-22 |  |
 | [Oddalamy się od siebie](https://open.spotify.com/track/3YqJi5lBb3xg3ctnx1kHnO) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Oddalamy się od siebie](https://open.spotify.com/album/5xtNNb9YV6spu5WlxzqDV0) | 3:28 | 2021-06-22 | 2022-06-01 |
 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 | 2022-06-01 |  |
 | [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 | 2021-06-22 |  |

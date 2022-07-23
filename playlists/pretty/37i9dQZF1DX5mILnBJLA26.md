@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/31wydQx3Jc53Ql9whp9yP1?si=repPmCNuTgyrUPWN5Zki0w">Snow Deep</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,327 likes - 80 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,760 likes - 80 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

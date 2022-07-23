@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-91 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+93 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Matilda](https://open.spotify.com/track/7IPGf2SV48wzUx3KcD8T8h) | [Nikolaj Gaideur](https://open.spotify.com/artist/7BeOUN76z2LvYSqRpcXqvY) | [Matilda](https://open.spotify.com/album/74W4n7jXX8tuHl66qzA0Ws) | 2:06 | 2022-02-28 |  |
 | [Maudlin](https://open.spotify.com/track/7AsZvhrcwhWNTrmaDvITQF) | [Serge Matui](https://open.spotify.com/artist/2VqTonKthGJNoE3oYzsxzY) | [Maudlin](https://open.spotify.com/album/6dwlDjvOvNa4GFLKuWUtjs) | 2:14 | 2022-02-28 |  |
 | [Memories \(Top Gun\)](https://open.spotify.com/track/0wzH9CWSAl0UNrqODUiwkw) | [Cristopher Varela](https://open.spotify.com/artist/7GvvZWqI8qi9E13IAbYnXE) | [Classical Romantic Movies Themes on Guitar](https://open.spotify.com/album/0HS54wZJRaKNRz6sDQO1Ez) | 2:48 | 2022-02-28 |  |
+| [Midnight Rose](https://open.spotify.com/track/2vKrC9WVOelEnhhbDasiSe) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Ethereal](https://open.spotify.com/album/0rizgZBRMsmGtpor6EMBg7) | 2:58 | 2022-07-22 |  |
 | [Mind By Mind](https://open.spotify.com/track/2b5NdK8H3xoMkIw8FMJrnN) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Mind By Mind](https://open.spotify.com/album/3c9EBatnQAU6gfcGtsrtKV) | 3:35 | 2022-02-28 |  |
 | [Mind Over Matter](https://open.spotify.com/track/1qOGVdNpsQi00r2IffF9tU) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Mind Over Matter](https://open.spotify.com/album/2b1EFX3Oll9ioHZcJ2Sqj8) | 3:28 | 2022-02-28 |  |
 | [mise\-en\-scène](https://open.spotify.com/track/2p0qjcvA9P0OQhL3vaT7BR) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 2:29 | 2022-06-24 |  |
@@ -92,6 +93,7 @@
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2022-02-28 |  |
 | [The Shed](https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [The Shed](https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4) | 2:30 | 2022-02-28 |  |
 | [Thoughtsurfing](https://open.spotify.com/track/3hwHqRtc1JJD37wreiLL78) | [Thoughtsurfing](https://open.spotify.com/artist/1ecXldlIFJPftmiDd4K25a) | [Thoughtsurfing](https://open.spotify.com/album/2Q5VhpyKC9HJKeYCtNuonN) | 2:13 | 2022-02-28 |  |
+| [Transparency](https://open.spotify.com/track/73ZnCLiPERq5SRGZ3cOpEz) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Transparency](https://open.spotify.com/album/7L0fkPPLzgQWjo9CApHGOJ) | 2:14 | 2022-07-22 |  |
 | [Travel in Time](https://open.spotify.com/track/1mZIS3P7VQuPUu8hQPg0Bk) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:51 | 2022-02-28 |  |
 | [Tremoland](https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:43 | 2022-02-28 |  |
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2022-02-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Disturbed",
+  "description": "The hardest songs, loud. Very loud. Cover: Fame on Fire",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 221224,
       "name": "Changes Are Coming",
       "url": "https://open.spotify.com/track/3SSflpFdIv5r6x2fOcQvrH"
@@ -1165,6 +1165,24 @@
       "duration_ms": 231854,
       "name": "CHOKE",
       "url": "https://open.spotify.com/track/4u7RK85A85XeymVXiwtv0a"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135466,
+      "name": "Choose Your Fighter",
+      "url": "https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ"
     },
     {
       "album": {
@@ -1371,6 +1389,24 @@
       "duration_ms": 173173,
       "name": "Conditional Love",
       "url": "https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y"
+    },
+    {
+      "album": {
+        "name": "Counting Sheep",
+        "url": "https://open.spotify.com/album/4UehbXX0gOBPEtd81PBR9l"
+      },
+      "artists": [
+        {
+          "name": "The Violent",
+          "url": "https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204747,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa"
     },
     {
       "album": {
@@ -1683,7 +1719,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 295293,
       "name": "Dead Wake",
       "url": "https://open.spotify.com/track/572Y0uRnjxPXYGzEAPChtb"
@@ -1737,10 +1773,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 219586,
       "name": "Decompress",
       "url": "https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry"
+    },
+    {
+      "album": {
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254129,
+      "name": "Deep Cuts",
+      "url": "https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk"
     },
     {
       "album": {
@@ -1767,6 +1821,28 @@
       "duration_ms": 176318,
       "name": "Definition (ft. Jason Aalon Of Fever 333)",
       "url": "https://open.spotify.com/track/4un1zMkZQeTvShAIeq7TZw"
+    },
+    {
+      "album": {
+        "name": "Degradation Rules (feat. Tony Iommi)",
+        "url": "https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250274,
+      "name": "Degradation Rules (feat. Tony Iommi)",
+      "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
     },
     {
       "album": {
@@ -1893,6 +1969,28 @@
       "duration_ms": 191466,
       "name": "Dismantled",
       "url": "https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc"
+    },
+    {
+      "album": {
+        "name": "Divided",
+        "url": "https://open.spotify.com/album/1BTfhcdGakBLSOOHejwqnT"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        },
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252890,
+      "name": "Divided",
+      "url": "https://open.spotify.com/track/4X5wQ6IHdm37cOR7ZBBozz"
     },
     {
       "album": {
@@ -2715,7 +2813,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 166840,
       "name": "HADES",
       "url": "https://open.spotify.com/track/1O8rugYWOkrLMd8harTBmR"
@@ -2791,7 +2889,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 226489,
       "name": "Hanging Out With All The Wrong People",
       "url": "https://open.spotify.com/track/6niHYEQnhbmqxT5ZOL5BM0"
@@ -3063,7 +3161,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 195133,
       "name": "HTIS (feat. Luna Shadows & Carmen Vandenberg)",
       "url": "https://open.spotify.com/track/3gbagPtR7WT8reMyyGXPl0"
@@ -3139,6 +3237,24 @@
       "duration_ms": 254133,
       "name": "I Could Be Somebody Else",
       "url": "https://open.spotify.com/track/7tkQz6vnxBy0XreO6JDZ0w"
+    },
+    {
+      "album": {
+        "name": "I EXIST",
+        "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269666,
+      "name": "I EXIST",
+      "url": "https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y"
     },
     {
       "album": {
@@ -3284,6 +3400,28 @@
     },
     {
       "album": {
+        "name": "Is It Really You?",
+        "url": "https://open.spotify.com/album/3ECdQKxcDWZGwN4dSBVdoH"
+      },
+      "artists": [
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        },
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282053,
+      "name": "Is It Really You?",
+      "url": "https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ"
+    },
+    {
+      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
       },
@@ -3385,7 +3523,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 172019,
       "name": "Ketamine",
       "url": "https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj"
@@ -3443,7 +3581,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 180219,
       "name": "Kids Against The Monsters (Feat. Corey Taylor)",
       "url": "https://open.spotify.com/track/2gmnmexjXm0bM0piPpA4lU"
@@ -3465,6 +3603,24 @@
       "duration_ms": 251557,
       "name": "Kill Beautiful Things",
       "url": "https://open.spotify.com/track/3xGdLKQgJVowEX0mUDDaOg"
+    },
+    {
+      "album": {
+        "name": "Kill Or Be Killed",
+        "url": "https://open.spotify.com/album/7p4zzMN5NEUE6AMQdZFnzc"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299066,
+      "name": "Kill Or Be Killed",
+      "url": "https://open.spotify.com/track/3J93pKujr39UHezVy10MW1"
     },
     {
       "album": {
@@ -4046,6 +4202,24 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243977,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc"
+    },
+    {
+      "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/5kVYC2LhvuwUxVhfLQ9i6T"
       },
@@ -4471,10 +4645,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
+    },
+    {
+      "album": {
+        "name": "Pawns & Kings",
+        "url": "https://open.spotify.com/album/2wfXgRSZLmPjExyR5yzAOS"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378313,
+      "name": "Pawns & Kings",
+      "url": "https://open.spotify.com/track/6DtUSmnvbuMqOQSNxXfMVU"
     },
     {
       "album": {
@@ -4561,7 +4753,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 147082,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU"
@@ -4651,10 +4843,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 183350,
       "name": "Plastic Heart",
       "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Chaos",
+        "url": "https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183989,
+      "name": "Plastic Heart",
+      "url": "https://open.spotify.com/track/3RflU6XdclibViyZ50ZQts"
     },
     {
       "album": {
@@ -4753,7 +4963,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 161560,
       "name": "Puzzles",
       "url": "https://open.spotify.com/track/56F0w1wbpp3mQRpTlKXVi8"
@@ -4847,7 +5057,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 172928,
       "name": "Re-Entry (feat. Mark Hoppus)",
       "url": "https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W"
@@ -5157,7 +5367,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 225484,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/7BssDn6I8fEzYms6FlkXtC"
@@ -5619,7 +5829,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 220939,
       "name": "sorry i'm not dead",
       "url": "https://open.spotify.com/track/6GF1LMFAQpWpKNMJ5LYrrF"
@@ -5749,6 +5959,24 @@
       "duration_ms": 226456,
       "name": "Stick to Silence",
       "url": "https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc"
+    },
+    {
+      "album": {
+        "name": "Still Sinking",
+        "url": "https://open.spotify.com/album/72oYVXUkqSWHpfcHeM4CES"
+      },
+      "artists": [
+        {
+          "name": "Any Given Sin",
+          "url": "https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Still Sinking",
+      "url": "https://open.spotify.com/track/0iqIXlbrgx28l5eWWK6gXM"
     },
     {
       "album": {
@@ -6154,6 +6382,24 @@
     },
     {
       "album": {
+        "name": "The Dying Song (Time To Sing)",
+        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
+      "album": {
         "name": "The First 21",
         "url": "https://open.spotify.com/album/4on00pcLDDmrTaBE52Z1Ev"
       },
@@ -6317,7 +6563,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 207445,
       "name": "The Steeple",
       "url": "https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2"
@@ -6353,7 +6599,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 207840,
       "name": "Think Big",
       "url": "https://open.spotify.com/track/4lX4jH7rruAPMuOwdSOaH9"
@@ -6479,7 +6725,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 207906,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/7b4mcEckMUoFQEa31W93Na"
@@ -6973,6 +7219,24 @@
       "duration_ms": 202838,
       "name": "Where You Go I Go",
       "url": "https://open.spotify.com/track/1k8ItZUN3SgDbe8RJvZ2Dw"
+    },
+    {
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206959,
+      "name": "Wicked Ways",
+      "url": "https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT"
     },
     {
       "album": {

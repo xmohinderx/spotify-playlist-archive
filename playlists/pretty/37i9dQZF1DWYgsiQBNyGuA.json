@@ -1,13 +1,29 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 42267,
+  "num_followers": 42303,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ1MjY2NSwwMDAwMDAwMDVjZTY0YjhhYTI3YThmNmQ2NDhkZTg5NTJmZGM1YjM1",
+  "snapshot_id": "MTY1ODUzODc5MSwwMDAwMDAwMGUxMjFkZTVjMzkyZDdhMzQzODFlZDc4NDVkZGRkOGI2",
   "tracks": [
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Man Of The Universe",
+      "url": "https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P"
+    },
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
@@ -43,18 +59,34 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+        "name": "Land of Possibilities",
+        "url": "https://open.spotify.com/album/1ulfpc8a885mfPyqIPJdWn"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
         }
       ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/6QvdMd39Vywf87kHx03xgX"
+      "duration_ms": 224182,
+      "name": "Who Do You Think You Are",
+      "url": "https://open.spotify.com/track/3ttq2C915PZLL1WDBQcOUe"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Special Night",
+        "url": "https://open.spotify.com/album/535eEdWzIdctqDMi1LzPyG"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        }
+      ],
+      "duration_ms": 265003,
+      "name": "Never Be Another You",
+      "url": "https://open.spotify.com/track/0WOgSnlW67lN5ZpXSvPmdi"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -107,50 +139,50 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Land of Possibilities",
-        "url": "https://open.spotify.com/album/1ulfpc8a885mfPyqIPJdWn"
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
       "artists": [
         {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 224182,
-      "name": "Who Do You Think You Are",
-      "url": "https://open.spotify.com/track/3ttq2C915PZLL1WDBQcOUe"
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Special Night",
-        "url": "https://open.spotify.com/album/535eEdWzIdctqDMi1LzPyG"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
       },
       "artists": [
         {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 265003,
-      "name": "Never Be Another You",
-      "url": "https://open.spotify.com/track/0WOgSnlW67lN5ZpXSvPmdi"
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/6QvdMd39Vywf87kHx03xgX"
     },
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 177200,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
+      "duration_ms": 283879,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -171,22 +203,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/6SQyKna2OOhwpwVIrvmMEH"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 215041,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/4Cml92KwJarnjlXacVKrgh"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Follow the Sunshine",
         "url": "https://open.spotify.com/album/0nlNfR2ijY767dFDKaX3DB"
       },
@@ -203,6 +219,70 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/6SQyKna2OOhwpwVIrvmMEH"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 215041,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/4Cml92KwJarnjlXacVKrgh"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270306,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
       },
@@ -212,41 +292,41 @@
           "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 249693,
-      "name": "Man Of The Universe",
-      "url": "https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P"
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp"
     },
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+        "name": "Positivity",
+        "url": "https://open.spotify.com/album/3q2UpV35Krzbcf7Wqk2uyv"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
+      "duration_ms": 200590,
+      "name": "Positivity",
+      "url": "https://open.spotify.com/track/2agIeYLyjyxLwQV09f2NCA"
     },
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+        "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
+        "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 283879,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
+      "duration_ms": 260506,
+      "name": "Just The Two Of Us",
+      "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -271,98 +351,66 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
-        "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
       },
       "artists": [
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 260506,
-      "name": "Just The Two Of Us",
-      "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
+      "duration_ms": 233000,
+      "name": "Every Day a Dream",
+      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
     },
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Positivity",
-        "url": "https://open.spotify.com/album/3q2UpV35Krzbcf7Wqk2uyv"
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
       },
       "artists": [
         {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
         }
       ],
-      "duration_ms": 200590,
-      "name": "Positivity",
-      "url": "https://open.spotify.com/track/2agIeYLyjyxLwQV09f2NCA"
+      "duration_ms": 238906,
+      "name": "I've Got A Right",
+      "url": "https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS"
     },
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/6fqDwkVt4E4Kbg4CHMHs45"
       },
       "artists": [
         {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
+      "duration_ms": 286973,
+      "name": "True",
+      "url": "https://open.spotify.com/track/4v3zlxjqvlcFcWlIIOaEk9"
     },
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Durand Jones & The Indications (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E"
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
       },
       "artists": [
         {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 229403,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM"
+      "duration_ms": 177200,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -379,26 +427,6 @@
       "duration_ms": 273893,
       "name": "Cornbread, Fish & Collard Greens",
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Take You There",
-        "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
-      },
-      "artists": [
-        {
-          "name": "Wantigga",
-          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
-        },
-        {
-          "name": "JAEL",
-          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
-        }
-      ],
-      "duration_ms": 212116,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -423,50 +451,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
         }
       ],
-      "duration_ms": 345975,
-      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
-      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/6fqDwkVt4E4Kbg4CHMHs45"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "True",
-      "url": "https://open.spotify.com/track/4v3zlxjqvlcFcWlIIOaEk9"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
-        }
-      ],
-      "duration_ms": 354093,
-      "name": "Stop By",
-      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -487,18 +483,38 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Special Night",
-        "url": "https://open.spotify.com/album/535eEdWzIdctqDMi1LzPyG"
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
       },
       "artists": [
         {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+          "name": "Wantigga",
+          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
+        },
+        {
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
         }
       ],
-      "duration_ms": 278160,
-      "name": "Precious Love",
-      "url": "https://open.spotify.com/track/7ohIe26jIzqZeaAgmWed3p"
+      "duration_ms": 212116,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+      },
+      "artists": [
+        {
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -535,34 +551,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "The Crossing",
-        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
       "artists": [
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Every Day a Dream",
-      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
-      },
-      "artists": [
-        {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
+      "duration_ms": 345975,
+      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
+      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "These Eyes",
-      "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Movin' On",
         "url": "https://open.spotify.com/album/6SQyKna2OOhwpwVIrvmMEH"
       },
@@ -615,166 +599,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "No Time For Dreaming",
-        "url": "https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK"
+        "name": "Special Night",
+        "url": "https://open.spotify.com/album/535eEdWzIdctqDMi1LzPyG"
       },
       "artists": [
         {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
         }
       ],
-      "duration_ms": 202492,
-      "name": "The World (Is Going Up in Flames)",
-      "url": "https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 270306,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Make the Road By Walking",
-        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "Montego Sunset",
-      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 290422,
-      "name": "GotItBad",
-      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Beautifully Human: Words and Sounds Vol. 2",
-        "url": "https://open.spotify.com/album/2w9BYQcL8keWGjEHSJRwa9"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/28EL5veTZtx38TqxIZwFyQ"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Spend The Night",
-      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/6fqDwkVt4E4Kbg4CHMHs45"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Let My People Go",
-      "url": "https://open.spotify.com/track/6felGJqfRxL0caFlAgB0ba"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "I've Got A Right",
-      "url": "https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Soul Revolution",
-      "url": "https://open.spotify.com/track/1Eu7WRMIg3lUhXtVAI2jCn"
+      "duration_ms": 278160,
+      "name": "Precious Love",
+      "url": "https://open.spotify.com/track/7ohIe26jIzqZeaAgmWed3p"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -803,22 +639,218 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Return To The 37th Chamber",
-        "url": "https://open.spotify.com/album/6Nh3QPuiewbejUWvwEEvgq"
+        "name": "Beautifully Human: Words and Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/2w9BYQcL8keWGjEHSJRwa9"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
         }
       ],
-      "duration_ms": 127587,
-      "name": "Snakes",
-      "url": "https://open.spotify.com/track/1vsHxCJzyHPcLoJeHe8yEF"
+      "duration_ms": 231560,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/28EL5veTZtx38TqxIZwFyQ"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/6fqDwkVt4E4Kbg4CHMHs45"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Let My People Go",
+      "url": "https://open.spotify.com/track/6felGJqfRxL0caFlAgB0ba"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 290422,
+      "name": "GotItBad",
+      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Soul Revolution",
+      "url": "https://open.spotify.com/track/1Eu7WRMIg3lUhXtVAI2jCn"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+        }
+      ],
+      "duration_ms": 354093,
+      "name": "Stop By",
+      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 202492,
+      "name": "The World (Is Going Up in Flames)",
+      "url": "https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Wild Seed - Wild Flower",
+        "url": "https://open.spotify.com/album/2BUHZXylf9zzMmNOUo0JBW"
+      },
+      "artists": [
+        {
+          "name": "Dionne Farris",
+          "url": "https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k"
+        }
+      ],
+      "duration_ms": 342746,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/6IvKGL3DMPRPjJi8pz059W"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Take From Me",
+        "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        },
+        {
+          "name": "Roxie Ray",
+          "url": "https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Gossip in the Grain",
+        "url": "https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are The Best Thing",
+      "url": "https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Montego Sunset",
+      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "These Eyes",
+      "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -839,18 +871,54 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Gossip in the Grain",
-        "url": "https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj"
+        "name": "Honest Man",
+        "url": "https://open.spotify.com/album/5pyIhOwfpDSUUMA26NDdNt"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
         }
       ],
-      "duration_ms": 231840,
-      "name": "You Are The Best Thing",
-      "url": "https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ"
+      "duration_ms": 325145,
+      "name": "Honest Man",
+      "url": "https://open.spotify.com/track/6yPfoOEeB6F7lvmzkV5oTK"
+    },
+    {
+      "added_at": "2022-04-08 07:52:50",
+      "album": {
+        "name": "My Home (Love Brings Us Here) - Single",
+        "url": "https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB"
+      },
+      "artists": [
+        {
+          "name": "Jon Mero",
+          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
+        }
+      ],
+      "duration_ms": 213983,
+      "name": "My Home (Love Brings Us Here)",
+      "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Return To The 37th Chamber",
+        "url": "https://open.spotify.com/album/6Nh3QPuiewbejUWvwEEvgq"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 127587,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/1vsHxCJzyHPcLoJeHe8yEF"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -887,42 +955,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Take From Me",
-        "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        },
-        {
-          "name": "Roxie Ray",
-          "url": "https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Honest Man",
-        "url": "https://open.spotify.com/album/5pyIhOwfpDSUUMA26NDdNt"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 325145,
-      "name": "Honest Man",
-      "url": "https://open.spotify.com/track/6yPfoOEeB6F7lvmzkV5oTK"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "True to Myself",
         "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
       },
@@ -935,22 +967,6 @@
       "duration_ms": 240360,
       "name": "Spiritual Thang",
       "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5"
-      },
-      "artists": [
-        {
-          "name": "Chico DeBarge",
-          "url": "https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx"
-        }
-      ],
-      "duration_ms": 247560,
-      "name": "Oh No (Man)",
-      "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -971,18 +987,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "Adriana Evans",
+          "url": "https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv"
         }
       ],
-      "duration_ms": 257670,
-      "name": "Sumthin' Sumthin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
+      "duration_ms": 265560,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1003,114 +1019,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
       "artists": [
         {
-          "name": "Adriana Evans",
-          "url": "https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 265560,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
-      },
-      "artists": [
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Find A Way",
-      "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Pink Elephant (International)",
-        "url": "https://open.spotify.com/album/30PkpS49rq0BHoWKWC8Pfu"
-      },
-      "artists": [
-        {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
-        }
-      ],
-      "duration_ms": 266613,
-      "name": "Can't Hardly Wait",
-      "url": "https://open.spotify.com/track/36Pk18O34Y8aL4noAMONYz"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Question",
-        "url": "https://open.spotify.com/album/1kjt69Zh1jAXwndjY0kZ0y"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 256148,
-      "name": "Question",
-      "url": "https://open.spotify.com/track/3lWEqatHZ2wIE2RCOmQkF8"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Wild Seed - Wild Flower",
-        "url": "https://open.spotify.com/album/2BUHZXylf9zzMmNOUo0JBW"
-      },
-      "artists": [
-        {
-          "name": "Dionne Farris",
-          "url": "https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k"
-        }
-      ],
-      "duration_ms": 342746,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/6IvKGL3DMPRPjJi8pz059W"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Back To Love (Deluxe Version)",
-        "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Best of Me",
-      "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
+      "duration_ms": 257670,
+      "name": "Sumthin' Sumthin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1131,6 +1051,86 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Pink Elephant (International)",
+        "url": "https://open.spotify.com/album/30PkpS49rq0BHoWKWC8Pfu"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 266613,
+      "name": "Can't Hardly Wait",
+      "url": "https://open.spotify.com/track/36Pk18O34Y8aL4noAMONYz"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5"
+      },
+      "artists": [
+        {
+          "name": "Chico DeBarge",
+          "url": "https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx"
+        }
+      ],
+      "duration_ms": 247560,
+      "name": "Oh No (Man)",
+      "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Back To Love (Deluxe Version)",
+        "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Seven: VII",
+        "url": "https://open.spotify.com/album/5cbo0UmIkURONNZIbObXbu"
+      },
+      "artists": [
+        {
+          "name": "Conya Doss",
+          "url": "https://open.spotify.com/artist/67ONfRSpITV4rWHCQGSS3R"
+        }
+      ],
+      "duration_ms": 273137,
+      "name": "Love's Not",
+      "url": "https://open.spotify.com/track/5thLuoJ0PZHCjYzJypfpg4"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "The Woman I Am",
         "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
       },
@@ -1140,9 +1140,41 @@
           "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 352466,
-      "name": "I Want",
-      "url": "https://open.spotify.com/track/5z5mgD0gIZ5KBCQgyIUR3j"
+      "duration_ms": 284840,
+      "name": "Love You All My Lifetime",
+      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
+    },
+    {
+      "added_at": "2022-04-11 11:16:09",
+      "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD"
+      },
+      "artists": [
+        {
+          "name": "Velvet Bloom",
+          "url": "https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55"
+        }
+      ],
+      "duration_ms": 191594,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Ben L'Oncle Soul",
+        "url": "https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Soulman - New English Version",
+      "url": "https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1163,34 +1195,82 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Ben L'Oncle Soul",
-        "url": "https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7"
+        "name": "Question",
+        "url": "https://open.spotify.com/album/1kjt69Zh1jAXwndjY0kZ0y"
       },
       "artists": [
         {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Soulman - New English Version",
-      "url": "https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr"
+      "duration_ms": 256148,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/3lWEqatHZ2wIE2RCOmQkF8"
     },
     {
-      "added_at": "2022-04-08 07:52:50",
+      "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "My Home (Love Brings Us Here) - Single",
-        "url": "https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB"
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
       },
       "artists": [
         {
-          "name": "Jon Mero",
-          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
         }
       ],
-      "duration_ms": 213983,
-      "name": "My Home (Love Brings Us Here)",
-      "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
+      "duration_ms": 249573,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "The Woman I Am",
+        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/5z5mgD0gIZ5KBCQgyIUR3j"
+    },
+    {
+      "added_at": "2022-04-27 13:12:05",
+      "album": {
+        "name": "Stupid Mad Love",
+        "url": "https://open.spotify.com/album/01mhk58oxbUW8MIcNbv7MY"
+      },
+      "artists": [
+        {
+          "name": "Jeverson",
+          "url": "https://open.spotify.com/artist/4sm6r5jbyfm1lq1ENy0SnX"
+        }
+      ],
+      "duration_ms": 213642,
+      "name": "Stupid Mad Love",
+      "url": "https://open.spotify.com/track/0EmeMBuxo7JYg6EMKMhng4"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "L.A.B",
+        "url": "https://open.spotify.com/album/0mjmpOTgR8UaqUSNjCL9Aq"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 280600,
+      "name": "Ain't No Use",
+      "url": "https://open.spotify.com/track/0tjjWJfZyceooAGlRfZTh1"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1213,86 +1293,6 @@
       "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
     },
     {
-      "added_at": "2022-04-27 13:12:05",
-      "album": {
-        "name": "Stupid Mad Love",
-        "url": "https://open.spotify.com/album/01mhk58oxbUW8MIcNbv7MY"
-      },
-      "artists": [
-        {
-          "name": "Jeverson",
-          "url": "https://open.spotify.com/artist/4sm6r5jbyfm1lq1ENy0SnX"
-        }
-      ],
-      "duration_ms": 213642,
-      "name": "Stupid Mad Love",
-      "url": "https://open.spotify.com/track/0EmeMBuxo7JYg6EMKMhng4"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "The Woman I Am",
-        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Love You All My Lifetime",
-      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Seven: VII",
-        "url": "https://open.spotify.com/album/5cbo0UmIkURONNZIbObXbu"
-      },
-      "artists": [
-        {
-          "name": "Conya Doss",
-          "url": "https://open.spotify.com/artist/67ONfRSpITV4rWHCQGSS3R"
-        }
-      ],
-      "duration_ms": 273137,
-      "name": "Love's Not",
-      "url": "https://open.spotify.com/track/5thLuoJ0PZHCjYzJypfpg4"
-    },
-    {
-      "added_at": "2022-04-11 11:16:09",
-      "album": {
-        "name": "Glimmer",
-        "url": "https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD"
-      },
-      "artists": [
-        {
-          "name": "Velvet Bloom",
-          "url": "https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55"
-        }
-      ],
-      "duration_ms": 191594,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "L.A.B",
-        "url": "https://open.spotify.com/album/0mjmpOTgR8UaqUSNjCL9Aq"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 280600,
-      "name": "Ain't No Use",
-      "url": "https://open.spotify.com/track/0tjjWJfZyceooAGlRfZTh1"
-    },
-    {
       "added_at": "2022-01-05 09:24:56",
       "album": {
         "name": "A Love Story",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
       },
       "artists": [
         {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 246773,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
+      "duration_ms": 329400,
+      "name": "Lifetime - Remastered 2021",
+      "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
     }
   ],
   "unique_name": "Soulful Day",

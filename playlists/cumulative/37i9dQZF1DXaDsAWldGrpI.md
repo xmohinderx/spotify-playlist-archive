@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 
-85 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
+86 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Chicken Fried \(Live\) \[Pass the Jar \- Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta\]](https://open.spotify.com/track/1ut0xFxNXho4lONKCfAu28) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Pass the Jar \- Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)](https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb) | 5:10 | 2021-07-22 |  |
 | [Cold Beer Calling My Name \- Live](https://open.spotify.com/track/1cAWVia2LjLD7F0ESODY8u) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Live from Oxford, MS](https://open.spotify.com/album/3Pe6oAFJJTCRxNEvNrxczL) | 3:42 | 2022-05-06 |  |
 | [Colder Weather \(feat\. Little Big Town\) \[Live\] \[Pass the Jar \- Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta\]](https://open.spotify.com/track/6zshANE5F24ouL8THcKfxc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pass the Jar \- Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)](https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb) | 4:29 | 2021-07-22 |  |
+| [County Roads \- Live At The Basement East](https://open.spotify.com/track/3R9PwZfJT95NP9E2UuIcld) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [County Roads \(Live At The Basement East\)](https://open.spotify.com/album/7wrvsCtkqd3jh8qAkR5773) | 3:30 | 2022-07-22 |  |
 | [Different ‘Round Here \- Live](https://open.spotify.com/track/3ENzGRDiKCLnbWXuY8vibZ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [We Out Here: Live](https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB) | 3:36 | 2022-03-25 |  |
 | [Downtown \- Live](https://open.spotify.com/track/5OSgA8BnIaPpoYQKRSVv9x) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:29 | 2021-07-22 |  |
 | [Dreamer \(feat\. Texas Hill\) \- Live from the Ryman](https://open.spotify.com/track/2e4kqRRperR4V2TWWb36cW) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Dreamer \(feat\. Texas Hill\)](https://open.spotify.com/album/2k0iY4eN1bJRNVP4ojPhNE) | 3:31 | 2022-01-07 |  |

@@ -2,7 +2,7 @@
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: Rauw Alejandro, Shakira
+> The hottest Latin hits in the US! Cover: La Adictiva Banda San José Mesillas
 
 124 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/5twlBAlAWZLOSaOy4NqQKe)
 

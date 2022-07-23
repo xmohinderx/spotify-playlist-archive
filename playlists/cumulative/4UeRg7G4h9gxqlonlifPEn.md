@@ -2,9 +2,9 @@
 
 ### [Turnt Mode](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Skillibeing, Fivio Foreign, French Montana
+> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Southside, Lil Durk
 
-116 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
+118 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Gravity](https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Gravity](https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu) | 2:14 | 2022-06-03 |  |
 | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO) | 2:54 | 2022-06-03 |  |
 | [Hold Up \(feat\. Prell & Wallie The Sensei\)](https://open.spotify.com/track/2vyuePjxtBwCQ8MkzZY3B5) | [YS](https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN), [Helluva](https://open.spotify.com/artist/0jN4FCNlkBCQBoSE6Eo5sK), [Prell](https://open.spotify.com/artist/4on6hrXHBskhsxcpYQKX1d), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Hold Up \(feat\. Prell & Wallie The Sensei\)](https://open.spotify.com/album/4gM0MlT1DxJWPrUFD0oMcV) | 2:46 | 2022-06-03 | 2022-07-16 |
+| [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/album/0ev0saRGsMUB9MxtWZnliz) | 2:35 | 2022-07-22 |  |
 | [I Need a MIC](https://open.spotify.com/track/7mz7Xjxja8LnBqsJbxek6f) | [Everthe8](https://open.spotify.com/artist/7fZxnpq2mj2K0LBY3j1fBb), [Bmb Spacekid](https://open.spotify.com/artist/6ZlLGjV1Ml9JfAtesdWKxu) | [I Need A MIC](https://open.spotify.com/album/5ASQGw88Cw9TQttxHUMcn4) | 1:33 | 2022-06-03 |  |
 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 | 2022-06-03 | 2022-07-09 |
 | [Ice On My Baby \(feat\. Kevin Gates\) \- Remix](https://open.spotify.com/track/6muW8cSjJ3rusKJ0vH5olw) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Ice On My Baby \(feat\. Kevin Gates\) \[Remix\]](https://open.spotify.com/album/0Qqi2yVtUpp2jHYCxRYeoe) | 3:19 | 2022-06-03 |  |
@@ -99,6 +100,7 @@
 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 | 2022-07-15 |  |
 | [Ratch \(feat\. 42 Dugg\)](https://open.spotify.com/track/4300IZycSZEP0Bn20ipbxq) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ratch \(feat\. 42 Dugg\)](https://open.spotify.com/album/46IavVcX7oBl8bSqGXteE8) | 2:27 | 2022-06-03 |  |
 | [Riot](https://open.spotify.com/track/3WjZJKJGwO4xNAbTXdy5jS) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Riot](https://open.spotify.com/album/6JzElRQ0MHpuZ4UrzH1Poc) | 2:24 | 2022-06-10 |  |
+| [Save Me](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 | 2022-07-22 |  |
 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:49 | 2022-06-03 |  |
 | [Six Flags](https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Six Flags](https://open.spotify.com/album/6cxmOfnEOFk5v8nWLlazPk) | 2:03 | 2022-06-03 |  |
 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 | 2022-06-03 |  |

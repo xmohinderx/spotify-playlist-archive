@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify Fan Favorites from the last few years\.  Artist: Old Dominion
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,001,617 likes - 110 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,002,058 likes - 110 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

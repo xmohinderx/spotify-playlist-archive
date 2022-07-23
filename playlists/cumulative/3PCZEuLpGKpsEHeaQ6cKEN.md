@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Armin van Buuren &amp; Maia Wright
 
-193 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+194 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Outta Control Again](https://open.spotify.com/track/7qBrxl5C9G2z6L57tuaqHq) | [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Outta Control Again](https://open.spotify.com/album/21DT13hsLykKMH67UZRjOc) | 2:42 | 2022-06-09 |  |
 | [Paradise](https://open.spotify.com/track/5s7fSXfFEnmlyCQQaNJ5CV) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Paradise](https://open.spotify.com/album/4c1BRuiJdkhUqF9PT2KoGD) | 3:48 | 2022-06-09 | 2022-06-24 |
 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 | 2022-06-09 | 2022-07-22 |
+| [Party Shaker](https://open.spotify.com/track/1ojTgNOKNro9oghxeBIUiV) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Nicco](https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq) | [Party Shaker](https://open.spotify.com/album/4u6Etum7YWRE2e7L2YIoNn) | 2:39 | 2022-07-22 |  |
 | [Pas de Bourree](https://open.spotify.com/track/2jlBmHo2o5fKpPFob62EsH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 2:21 | 2022-06-09 |  |
 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 | 2022-06-09 |  |
 | [Pressure](https://open.spotify.com/track/6QQponNlefNZuzmbc5Lt6l) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [st4r](https://open.spotify.com/artist/6o9JSxpjLpB79jMeynTN8o) | [Pressure](https://open.spotify.com/album/1DKNtqWpKdRkB9jGOX7cUl) | 3:18 | 2022-06-09 |  |

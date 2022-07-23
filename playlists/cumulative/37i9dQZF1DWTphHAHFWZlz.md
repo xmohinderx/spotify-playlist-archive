@@ -2,9 +2,9 @@
 
 ### [Rockeando](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> El sonido del nuevo rock argentino esta acá\. Foto: Las Sombras.
+> El sonido del nuevo rock argentino esta acá\. Foto: Rayos Láser
 
-132 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
+133 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Fugitivo](https://open.spotify.com/track/1yu5P0Y8Usmf9K6Jj6PJ6e) | [Killer Burritos](https://open.spotify.com/artist/44HbZgVV4ohYTXfuQIf4Kn) | [Fugitivo](https://open.spotify.com/album/0WhoE9qZgIMwWHsiZFQrDq) | 3:09 | 2022-06-29 |  |
 | [Furia](https://open.spotify.com/track/6PeCoiOK5ki90bmdPbsreu) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O) | [Furia](https://open.spotify.com/album/5vFSEJ0oyotqfr5gOF9hXy) | 4:10 | 2022-06-29 |  |
 | [Fósil](https://open.spotify.com/track/5kL8A7Z1O99N4bIokbpA4A) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Dutsiland](https://open.spotify.com/album/651vKtW9MCYCTjtP2slWQt) | 5:13 | 2022-07-19 |  |
-| [Golpe de Suerte](https://open.spotify.com/track/7dfDXDGJCLzpIuVzMLSmnP) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Golpe De \(M\)suerte](https://open.spotify.com/album/1InbGrgp8Ibrb3TU8BwHAu) | 1:37 | 2022-06-29 |  |
+| [Golpe de Suerte](https://open.spotify.com/track/7dfDXDGJCLzpIuVzMLSmnP) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Golpe De \(M\)suerte](https://open.spotify.com/album/1InbGrgp8Ibrb3TU8BwHAu) | 1:37 | 2022-06-29 | 2022-07-23 |
 | [Hablar con los Animales](https://open.spotify.com/track/2FUFCBqUqBRpuEDuq7sD1W) | [Agrupación Juvenil Los Rayos](https://open.spotify.com/artist/2PSBggx4hVQoQcmCZmUiRQ) | [Hablar con los Animales](https://open.spotify.com/album/2CMMbpmeKt8wp2peJtQsa9) | 1:40 | 2022-06-29 |  |
 | [Hacete un Favor](https://open.spotify.com/track/3KQX0ciRwWkqm9WQhlwIWQ) | [Sinema](https://open.spotify.com/artist/4KBcO396bRZyLahvSBQCcL) | [Hacete un Favor](https://open.spotify.com/album/7LE6ZtwJmUIBGuQ4hglyo9) | 3:21 | 2022-06-29 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-29 |  |
@@ -81,6 +81,7 @@
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-07-19 |  |
 | [La Noche](https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Fin del Mundo](https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu) | 3:33 | 2022-07-19 |  |
 | [La Otra Ciudad](https://open.spotify.com/track/4fycTqg8GHP5434ND7kKvq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf) | 4:18 | 2022-06-29 |  |
+| [La Pelea](https://open.spotify.com/track/7vRfX8azRsDLRqQKxAhiFL) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [La Pelea](https://open.spotify.com/album/3d0QRePKfpYNCzlSDYUOMN) | 3:20 | 2022-07-22 |  |
 | [La Peste](https://open.spotify.com/track/79UkRwz7b63MTa6cM3vtmB) | [Ultramandaco](https://open.spotify.com/artist/0xlRF1dWUyaqHu0KjAXaYk) | [La Peste](https://open.spotify.com/album/4rOgfLqXSxCdJSd2LguAC0) | 3:22 | 2022-06-29 |  |
 | [La Vida](https://open.spotify.com/track/1hyvKvFYdsqNAyjiV9EgXg) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Poesía para Edificios](https://open.spotify.com/album/6GyP4VIgIVm4UHcgAtnVdz) | 3:17 | 2022-07-19 |  |
 | [Llave](https://open.spotify.com/track/6GIJNt8kpPdvviJTEUT83u) | [Cu4tro Cu4rtos](https://open.spotify.com/artist/2afoXYN0RY5wWIJCSydf2v), [Damián Palacios](https://open.spotify.com/artist/6cAzrlKrcDZE6afA3ksm2S), [Gabriel Simonet](https://open.spotify.com/artist/4JyTKHn394pexqe2CFPt9q), [Hernán Romero](https://open.spotify.com/artist/3IFe0nS1QsWfow70RzaAaH) | [Llave](https://open.spotify.com/album/31emrUvnCBsaL1UO9xmKeh) | 2:53 | 2022-06-29 | 2022-07-20 |

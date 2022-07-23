@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 217129,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 202308,
       "name": "Conf\u00eda",
       "url": "https://open.spotify.com/track/5kbps8unnGH4raN5WduZuq"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 217881,
       "name": "Coronao Now",
       "url": "https://open.spotify.com/track/7FbKipScVxkjQxQXwTd0gL"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 250169,
       "name": "Coronao Now (Remix)",
       "url": "https://open.spotify.com/track/047WmwIeerHyIUstFAEz5A"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 203093,
       "name": "Follow",
       "url": "https://open.spotify.com/track/2w1rq80FIrbxeJy9WYURxw"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 222301,
       "name": "Guayo",
       "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Keii",
       "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 300579,
       "name": "La Romana",
       "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 185194,
       "name": "Loco Contigo (with J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/1f38Gx6xQz6r4H1jGVNBJo"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 186723,
       "name": "Marianela",
       "url": "https://open.spotify.com/track/5AaHjij4q5xMPhOYoanpMP"
@@ -1512,6 +1512,28 @@
     },
     {
       "album": {
+        "name": "Mera Woo",
+        "url": "https://open.spotify.com/album/0UneoDNRVbr639NsyPRSyw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182677,
+      "name": "Mera Woo",
+      "url": "https://open.spotify.com/track/7gPRIgwzddQ7jga1sBQtJ6"
+    },
+    {
+      "album": {
         "name": "Mi Error (Remix)",
         "url": "https://open.spotify.com/album/5mG7RptOZno8N5iuCezmbz"
       },
@@ -1557,7 +1579,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 210367,
       "name": "MIA (feat. Drake)",
       "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
@@ -1681,7 +1703,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 240000,
       "name": "No Te Hagas la Loca",
       "url": "https://open.spotify.com/track/4NGbpyKrKMlJX4kP8iTQFJ"
@@ -1859,7 +1881,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 195174,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/2r5AwzCIgWw57ZYXuSIji6"
@@ -2078,6 +2100,24 @@
     },
     {
       "album": {
+        "name": "Rumba",
+        "url": "https://open.spotify.com/album/0YrHyGolRAyrQ508sh4Yw4"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195291,
+      "name": "Rumba",
+      "url": "https://open.spotify.com/track/04Oynte1xZfgnPh8kXhmE7"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/0PijZTpKNGUvL12y7w4tZF"
       },
@@ -2275,7 +2315,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 200045,
       "name": "Solteroski",
       "url": "https://open.spotify.com/track/0ETRyccZjuZBXoStGB5kc6"
@@ -2381,7 +2421,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 304859,
       "name": "Ta To Gucci (Remix)",
       "url": "https://open.spotify.com/track/7kuRvjpeUcn6qNV9IBXC2C"
@@ -2486,6 +2526,28 @@
     },
     {
       "album": {
+        "name": "TKN (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129370,
+      "name": "TKN (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
+    },
+    {
+      "album": {
         "name": "Toco Toco To",
         "url": "https://open.spotify.com/album/0XdI708idWwnzuvv1B2rwx"
       },
@@ -2570,6 +2632,32 @@
     },
     {
       "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Un Dia Si",
+      "url": "https://open.spotify.com/track/5qRhzFjGqvJN9RSQRFV2J2"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -2589,6 +2677,24 @@
       "duration_ms": 176133,
       "name": "Vaina Loca",
       "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
+    },
+    {
+      "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/4urLOqpBwjB1oNnLUy7PPc"
+      },
+      "artists": [
+        {
+          "name": "Liro Shaq",
+          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169404,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/2edWJMHnqmf9RnLKcLfKes"
     },
     {
       "album": {

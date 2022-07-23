@@ -2,9 +2,9 @@
 
 ### [Rock This](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> The latest from Palaye Royale along with the top Rock songs you need to know.
+> The latest from ONE OK ROCK along with the top Rock songs you need to know.
 
-168 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
+169 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 | 2021-10-20\* | 2021-12-18 |
 | [PHUCKBOI REJECTS](https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [PHUCKBOI REJECTS](https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG) | 2:07 | 2022-02-04 | 2022-03-18 |
 | [Pieces of You](https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Pieces of You](https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84) | 3:02 | 2021-10-08 | 2022-02-12 |
-| [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 | 2022-02-18 |  |
+| [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 | 2022-02-18 | 2022-07-23 |
 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 | 2021-10-20\* | 2021-11-06 |
 | [Prescription Kid](https://open.spotify.com/track/043IjYujEo3sEDuaBtWzu0) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Prescription Kid](https://open.spotify.com/album/1fR0QXuE9xmQwvQKkYcNpi) | 3:28 | 2021-10-20\* | 2021-11-06 |
 | [PURGE ft\. Siiickbrain](https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PURGE ft\. Siiickbrain](https://open.spotify.com/album/5O7wZ6lbvfTi7OJexsULS1) | 2:37 | 2022-05-13 | 2022-06-25 |
@@ -126,6 +126,7 @@
 | [Records](https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Summer](https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H) | 3:28 | 2022-06-24 |  |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-05-20 |  |
 | [Roman Candles](https://open.spotify.com/track/6jIrbJ5w2KfkLsk3LiGTOW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Roman Candles](https://open.spotify.com/album/08RMceLc7dOM9mmdoFpPBM) | 2:10 | 2022-05-27 | 2022-06-25 |
+| [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-07-22 |  |
 | [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-01 |  |
 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 | 2021-11-19 | 2022-05-14 |
 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-24 | 2022-07-06 |

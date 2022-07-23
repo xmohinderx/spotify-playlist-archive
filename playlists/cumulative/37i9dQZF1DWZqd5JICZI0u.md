@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-387 songs - 20 hr 18 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+388 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Repose](https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:33 | 2020-09-30\* |  |
 | [Reverie](https://open.spotify.com/track/7fLwX9QXiSgBSxQXmaSO6Y) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Reverie](https://open.spotify.com/album/11pRFzgN1thRcxE0PmbZn2) | 3:59 | 2021-11-10 |  |
 | [Rivers](https://open.spotify.com/track/5ymF1YOLVmBCuu4sl7lgNF) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Into The Unknown](https://open.spotify.com/album/11mE08XW63xZM1ZI7nEkxQ) | 3:22 | 2020-10-27 |  |
+| [Rosētum](https://open.spotify.com/track/0Q8YbkwiUQTvxTYvofeAJB) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Rosētum](https://open.spotify.com/album/3nug1l3A0hWw3xNS7zhflP) | 3:20 | 2022-07-22 |  |
 | [Ruby](https://open.spotify.com/track/0JH9zw05M791JyLuLifxpw) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 4](https://open.spotify.com/album/5iXA5WyskcohumbTodwGLl) | 2:47 | 2020-09-30\* | 2021-01-06 |
 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 | 2022-06-24 |  |
 | [sailing dreams](https://open.spotify.com/track/4rvuy58or74YCum7qXpPxZ) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [sailing dreams](https://open.spotify.com/album/3B4iWokKVm3QNjw7WTeYH8) | 3:03 | 2022-03-30 |  |

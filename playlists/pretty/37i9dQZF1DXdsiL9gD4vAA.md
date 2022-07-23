@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Let these contemplative couplets take you away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,726 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,746 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 39 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 |
 | 40 | [Jal Bhar De](https://open.spotify.com/track/3trMcrv75BKmVVS45moplw) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 4:23 |
 | 41 | [Yeh Watan Tumhara Hai](https://open.spotify.com/track/1LotGrrDWUGHqC0b2viZUr) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ae Mere Des](https://open.spotify.com/album/4qqhhBFB4eGbKCyDwxZRXj) | 5:38 |
-| 42 | [Bhej chhana chhan](https://open.spotify.com/track/3ABNBqGrID439kEc347fkD) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Bhupinder](https://open.spotify.com/artist/0LeUpBwj8bn5l7YR5RNK3R) | [History of Indian Film Music, Volume 5](https://open.spotify.com/album/69LiE5HBfujMW2CtFMf5YC) | 4:03 |
+| 42 | [Bhej chhana chhan](https://open.spotify.com/track/3ABNBqGrID439kEc347fkD) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [History of Indian Film Music, Volume 5](https://open.spotify.com/album/69LiE5HBfujMW2CtFMf5YC) | 4:03 |
 | 43 | [Mere Qatil](https://open.spotify.com/track/2i16NsRLKUsvLWyYRla7rn) | [Malika Pukhraj](https://open.spotify.com/artist/5rmKDntSlnGQF6Ndc5IklQ) | [Ghazals By Malika Pukhraj](https://open.spotify.com/album/2PsagHFpEZ3W1mLZYXmtmg) | 6:21 |
 | 44 | [Ranjish Hi Sahi Dil Hi Dukhane Ke Liye](https://open.spotify.com/track/4NbG28kd9gYQHnNbF5Hsjd) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan \- Greatest Ghazals](https://open.spotify.com/album/6msMzk74VrVotyZfgwb8np) | 12:12 |
 | 45 | [Yeh Arzoo Thi Tujhe Gul Ke](https://open.spotify.com/track/4LIVQbroVmruOhX8aXqu6z) | [Amanat Ali Khan](https://open.spotify.com/artist/5s29c3wPnXfRXbSKAxhmr1) | [Ustad Amanat Ali Khan Sings Ghazals](https://open.spotify.com/album/0GSK5Cdz6xnE7K5OOPyOj9) | 4:34 |

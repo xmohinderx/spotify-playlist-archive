@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187544,
+      "name": "Birthday Girl",
+      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
+    },
+    {
+      "album": {
         "name": "Colour Vision",
         "url": "https://open.spotify.com/album/2FwpEC226o3WpXoptGbk85"
       },

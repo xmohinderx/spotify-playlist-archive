@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-68 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
+70 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [nada contra \(ciúme\)](https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/0GKDqWpEF0cRw9Q6Ha1zpH) | 2:22 | 2022-04-29 |  |
 | [Nem Sinto Sua Falta](https://open.spotify.com/track/4BxNHRXUeuploDVNrxnUX6) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [LF](https://open.spotify.com/artist/4XTEaGrwzx4f87DfPztViW), [WVicttor](https://open.spotify.com/artist/4czNp3alCTl7x8X2v0Yhr5) | [Nem Sinto Sua Falta](https://open.spotify.com/album/0ptQMvWY7zn7cIGD6iWoE8) | 2:37 | 2022-04-29 |  |
 | [Noiva Cadáver](https://open.spotify.com/track/1e0S2LL2am7tFwrUxCI9oV) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Homem Torto](https://open.spotify.com/album/4ghHxBJbufMNGo6eD0NsOL) | 1:42 | 2022-04-29 |  |
-| [Novos Dias](https://open.spotify.com/track/4mn42Ofg4kUBUmRAwiZjft) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Novos Dias](https://open.spotify.com/album/5w2QDXAhOMe4SjyiM59yT5) | 2:18 | 2022-05-27 |  |
+| [Novos Dias](https://open.spotify.com/track/4mn42Ofg4kUBUmRAwiZjft) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Novos Dias](https://open.spotify.com/album/5w2QDXAhOMe4SjyiM59yT5) | 2:18 | 2022-05-27 | 2022-07-23 |
+| [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 | 2022-07-22 |  |
 | [Obra Prima](https://open.spotify.com/track/1sKpYhvUIcTewqsrIUEHoS) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Obra Prima](https://open.spotify.com/album/74x5o43BW51HjgZeWDZIGD) | 2:11 | 2022-04-29 |  |
 | [Oh, Linda](https://open.spotify.com/track/2mCs9GkmTggqhWIBm4a9RO) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T), [Pakau](https://open.spotify.com/artist/111jpJz8XiWltrlZwZPioK) | [Oh, Linda](https://open.spotify.com/album/2dD4DpNJXtmPCtxuOaLltY) | 2:33 | 2022-04-29 |  |
 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 | 2022-04-29 |  |
@@ -54,6 +55,7 @@
 | [Poesia Pra Ela](https://open.spotify.com/track/2muI2ZlXv8AVeoB2cE5kTl) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Poesia Pra Ela](https://open.spotify.com/album/4WJqg5tBknaiUoa9oH7sPU) | 5:11 | 2022-04-29 |  |
 | [Portugal](https://open.spotify.com/track/1tLBXifMqnSqLZrk1Rsl8n) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Portugal](https://open.spotify.com/album/5Acna8vDUeXMHpPTjf3J3h) | 3:36 | 2022-04-29 |  |
 | [PPRT](https://open.spotify.com/track/7jRujYuZFzPMMk2PMG7SfZ) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO](https://open.spotify.com/album/4zpfBMqFzFyDUQA2y6KKKD) | 2:42 | 2022-04-29 |  |
+| [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 | 2022-07-22 |  |
 | [Quer um sorvete?](https://open.spotify.com/track/7FvudQjnqmKHru7whaHVY3) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Quer um sorvete?](https://open.spotify.com/album/0JG3s687wofD6eQpa2FofA) | 2:48 | 2022-04-29 |  |
 | [Quero Agora](https://open.spotify.com/track/2EaOYBodrkKFceFdbIBRYC) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Quero Agora](https://open.spotify.com/album/0Wwfj23cw97BCGrOHznMvQ) | 3:25 | 2022-04-29 |  |
 | [Quinto Degrau](https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh) | [Quinto Degrau](https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8) | 2:22 | 2022-04-29 |  |
@@ -70,7 +72,7 @@
 | [Te Vi Passar](https://open.spotify.com/track/49jP8SX1HfjBi5cw3g8Ctq) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Te Vi Passar](https://open.spotify.com/album/5Cmil5GE8LJ46Nu1Yw1690) | 2:14 | 2022-04-29 |  |
 | [Terça de Tarde](https://open.spotify.com/track/2XyHmHCOvNogoRiWBA1L1I) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Terça de Tarde](https://open.spotify.com/album/0hEmoFuvmyY7UOTUElgLmu) | 1:49 | 2022-04-29 |  |
 | [Terça de Tarde 2](https://open.spotify.com/track/3MlMMabvVmUVrAGHekqAOn) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Terça de Tarde 2](https://open.spotify.com/album/7y3db4Z73wTyMTCacTcUtL) | 2:16 | 2022-04-29 |  |
-| [Tão Sem Graça!](https://open.spotify.com/track/28JOaLfd5WnRPlT4dNDgCz) | [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [O Amor Me Deixa...](https://open.spotify.com/album/1QIzh4aquIHhjljm06jqUr) | 2:11 | 2022-06-24 |  |
+| [Tão Sem Graça!](https://open.spotify.com/track/28JOaLfd5WnRPlT4dNDgCz) | [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [O Amor Me Deixa...](https://open.spotify.com/album/1QIzh4aquIHhjljm06jqUr) | 2:11 | 2022-06-24 | 2022-07-23 |
 | [Urano](https://open.spotify.com/track/4EJNoAGrRzb9020WLghozN) | [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Louwiz](https://open.spotify.com/artist/0Q7iTb96HAijk2P0kQ9Xp3) | [Urano](https://open.spotify.com/album/7AvojkVgptdIw9PBtW9uwY) | 2:49 | 2022-04-29 |  |
 | [VERÃO DA LATA](https://open.spotify.com/track/4wUmnHlr4iogXJJEinjX5q) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [VERÃO DA LATA](https://open.spotify.com/album/5cgpuZRjShzDMoHav6aT7X) | 2:12 | 2022-04-29 |  |
 | [Viajei \(Céu Azul\)](https://open.spotify.com/track/1v8d01YpILuG1zEbjoYVBl) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Viajei \(Céu Azul\)](https://open.spotify.com/album/5FvBLrkA6aphReFKdbeIMz) | 1:56 | 2022-04-29 |  |

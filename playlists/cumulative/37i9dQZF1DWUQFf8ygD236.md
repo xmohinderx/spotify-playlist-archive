@@ -4,7 +4,7 @@
 
 > Celebrate South Asian Heritage Month with Asim Azhar's favorite South Asian tracks.
 
-20 songs - 1 hr 14 min - not published yet
+20 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/4tUoJFcG0j2qOEXCvVpxfS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

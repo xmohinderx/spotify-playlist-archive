@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Rachel Bobbitt",
+  "description": "Home to all the latest indie jams. Cover: MorMor",
   "name": "Indie All Stars",
   "published_playlist_ids": [
     "4hpfeoyJCUxj1W1YZOVAqm"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 212505,
       "name": "480",
       "url": "https://open.spotify.com/track/3UWLOdQnXEVK4CNikztTsp"
@@ -434,6 +434,24 @@
     },
     {
       "album": {
+        "name": "Archetype",
+        "url": "https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168828,
+      "name": "Archetype",
+      "url": "https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g"
+    },
+    {
+      "album": {
         "name": "At the Whims",
         "url": "https://open.spotify.com/album/0kB7k2HApDcTDfyP6XnrqZ"
       },
@@ -683,7 +701,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 216920,
       "name": "Better in the Shade",
       "url": "https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 210893,
       "name": "Cold Heart - Single Edit",
       "url": "https://open.spotify.com/track/3mfGUbO81k7NKpoJV6avFk"
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 221000,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH"
@@ -2594,6 +2612,24 @@
     },
     {
       "album": {
+        "name": "Far Apart",
+        "url": "https://open.spotify.com/album/2XHYnTTmjpCcLPjJBEJbXl"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176380,
+      "name": "Far Apart",
+      "url": "https://open.spotify.com/track/4l9UNAcgLmxxknjV8ydjcR"
+    },
+    {
+      "album": {
         "name": "Fastest",
         "url": "https://open.spotify.com/album/6GIbd2iSrCwwKiCARkrp12"
       },
@@ -2725,6 +2761,24 @@
       "duration_ms": 140786,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/5ekucJquBlWaZojC2oNZHU"
+    },
+    {
+      "album": {
+        "name": "Fire Escape",
+        "url": "https://open.spotify.com/album/06B8ShQGEZ5RGRGKCfzlpF"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Fire Escape",
+      "url": "https://open.spotify.com/track/1LnNo46NXEbpIvU8OqerI8"
     },
     {
       "album": {
@@ -3306,6 +3360,24 @@
     },
     {
       "album": {
+        "name": "Grow Up Tomorrow",
+        "url": "https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192451,
+      "name": "Grow Up Tomorrow",
+      "url": "https://open.spotify.com/track/6Anf5eqLfGEKoGy0iaKAOb"
+    },
+    {
+      "album": {
         "name": "To Leave and Come Back",
         "url": "https://open.spotify.com/album/7ABzcHjyKit0ZJAmvWIk2e"
       },
@@ -3848,6 +3920,24 @@
     },
     {
       "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/5uBw6DLLVJPk86NL8G3Xde"
+      },
+      "artists": [
+        {
+          "name": "KNOWN.",
+          "url": "https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157350,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/272HBefSWeVs1Yi6vqL0Dw"
+    },
+    {
+      "album": {
         "name": "From Capelton Hill",
         "url": "https://open.spotify.com/album/62FBD0LfoeSsvII9n3YeMo"
       },
@@ -4159,7 +4249,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 231626,
       "name": "I Miss When I Smelled Like You",
       "url": "https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX"
@@ -4379,7 +4469,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 205872,
       "name": "In Flight",
       "url": "https://open.spotify.com/track/6xTZCvS7UHAVeOoNsG4bO5"
@@ -6043,7 +6133,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 202626,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/39FPED7GVRpJFLTBsBy1vE"
@@ -6263,6 +6353,24 @@
       "duration_ms": 233960,
       "name": "NW3",
       "url": "https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6"
+    },
+    {
+      "album": {
+        "name": "10 Tracks to Echo in the Dark",
+        "url": "https://open.spotify.com/album/5qVcQzxnSthvOT7OOIXDdH"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113426,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/7MRURZikVXKE80F1NPxiYW"
     },
     {
       "album": {
@@ -7247,7 +7355,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 180771,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4m5gEGYWyTVp6q3Is9T8ii"
@@ -8182,6 +8290,24 @@
     },
     {
       "album": {
+        "name": "Survivor's Guilt",
+        "url": "https://open.spotify.com/album/482gKoUvLQrjPmTx8ihrXm"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210753,
+      "name": "Survivor's Guilt",
+      "url": "https://open.spotify.com/track/2dPYz3ceO14cgKZzsrTx5A"
+    },
+    {
+      "album": {
         "name": "Live Slow Die Wise",
         "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
@@ -8528,6 +8654,24 @@
     },
     {
       "album": {
+        "name": "The Extra Sees the Film",
+        "url": "https://open.spotify.com/album/6fxUNarVTuQmvyD1wJ9ESK"
+      },
+      "artists": [
+        {
+          "name": "Kiwi jr.",
+          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277466,
+      "name": "The Extra Sees the Film",
+      "url": "https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI"
+    },
+    {
+      "album": {
         "name": "The Flow",
         "url": "https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk"
       },
@@ -8741,7 +8885,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 270945,
       "name": "Thin Thing",
       "url": "https://open.spotify.com/track/3DN8g2KmPKwvlyAWCM9mH7"
@@ -9459,7 +9603,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 213346,
       "name": "We Are The Wild Ones",
       "url": "https://open.spotify.com/track/6dYyr1j5fM0VSWqZ1vw2v2"
@@ -9499,6 +9643,24 @@
       "duration_ms": 310840,
       "name": "We're Not In Orbit Yet\u2026",
       "url": "https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL"
+    },
+    {
+      "album": {
+        "name": "Weeds",
+        "url": "https://open.spotify.com/album/6r83JgayrMdKgfGDmmvt2y"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/0V8goaHiomq5tSniH4GWQt"
     },
     {
       "album": {
@@ -9607,6 +9769,24 @@
       "duration_ms": 168905,
       "name": "Wild Imagination",
       "url": "https://open.spotify.com/track/4etPf9tU0ir7JYJItgkI7W"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0dD5lv9nE67MU25iNX7Lsd"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248733,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3BQnvX4XaBYmMDfAhtuoZ6"
     },
     {
       "album": {

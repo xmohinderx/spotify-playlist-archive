@@ -1378,6 +1378,24 @@
     },
     {
       "album": {
+        "name": "If I Get Caught",
+        "url": "https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186114,
+      "name": "If I Get Caught",
+      "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
+    },
+    {
+      "album": {
         "name": "The Lead",
         "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
       },
@@ -1579,6 +1597,28 @@
       "duration_ms": 217394,
       "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
       "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
+    },
+    {
+      "album": {
+        "name": "Kenkele",
+        "url": "https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Kenkele",
+      "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
     },
     {
       "album": {
@@ -1870,6 +1910,28 @@
     },
     {
       "album": {
+        "name": "Ocean Drive (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/0fIwvs8RMDBB2l0CGuuWcU"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204182,
+      "name": "Ocean Drive (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/67epLDPaekqbQcxV0tNMVZ"
+    },
+    {
+      "album": {
         "name": "One Night Ting (feat. Saweetie)",
         "url": "https://open.spotify.com/album/5dzapwbVC7KYnvUB5zZlTB"
       },
@@ -1999,6 +2061,28 @@
       "duration_ms": 216707,
       "name": "Persuasive",
       "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+    },
+    {
+      "album": {
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
       "album": {
@@ -2699,7 +2783,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"

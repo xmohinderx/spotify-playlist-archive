@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Martina May, Kuban
+> Il meglio dell'R&B italiano\. Cover: Livio Cori
 
 148 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 

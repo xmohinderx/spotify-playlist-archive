@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 362482,
       "name": "A Matter of Time",
       "url": "https://open.spotify.com/track/2evoS3lDuKhiTACNU8T3ny"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 252000,
       "name": "Bloodright (No Way to Hide) - Moris Blak Remix",
       "url": "https://open.spotify.com/track/2tlFPMw7kaRe0UL42iXhC7"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 228332,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/4nb2nUKvsp28TKE9NSjsrW"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 162823,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/5kfpeoBEHHmIeVYATl6khw"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 206346,
       "name": "D4TM",
       "url": "https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 287525,
       "name": "Denature",
       "url": "https://open.spotify.com/track/7kcKdTFOGQmvWEWZHjth4r"
@@ -549,10 +549,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 286586,
       "name": "Disinformation",
       "url": "https://open.spotify.com/track/1pp9mg61pN7G7oJxBIqDmX"
+    },
+    {
+      "album": {
+        "name": "Don't Pray for Me",
+        "url": "https://open.spotify.com/album/0M4jzt9bkGACpx4o8L6jfF"
+      },
+      "artists": [
+        {
+          "name": "Skold",
+          "url": "https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242356,
+      "name": "Don't Pray for Me",
+      "url": "https://open.spotify.com/track/1lKr9lOnwqxAoGo8jd9UoC"
     },
     {
       "album": {
@@ -607,6 +625,24 @@
       "duration_ms": 289266,
       "name": "Du riechst so gut",
       "url": "https://open.spotify.com/track/1hNE737dkYD9ZM1J8H9chv"
+    },
+    {
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/1CThwFm5smJHLmHflckMkD"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243400,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/7sOtLB5pwbLOa74X8g8BjK"
     },
     {
       "album": {
@@ -697,7 +733,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 246506,
       "name": "Genius",
       "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
@@ -719,7 +755,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 284000,
       "name": "God's Creatures - Jimmy Urine Remix",
       "url": "https://open.spotify.com/track/0oMC1XzzCa9IGFXMiUp9WW"
@@ -773,7 +809,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 218205,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx"
@@ -791,7 +827,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 190327,
       "name": "Hengit\u00e4",
       "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
@@ -809,7 +845,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 314440,
       "name": "Hey Man, Nice Shot - Remastered Version",
       "url": "https://open.spotify.com/track/6jc5gHCmrZW1XLcRM3wFlC"
@@ -943,7 +979,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 334968,
       "name": "Incubus",
       "url": "https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS"
@@ -979,7 +1015,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 258106,
       "name": "Jagdzeit",
       "url": "https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq"
@@ -1015,7 +1051,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 394285,
       "name": "Jim Jones",
       "url": "https://open.spotify.com/track/1vZ4lU7xoh6O9qu8o6gCK6"
@@ -1087,7 +1123,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 218203,
       "name": "Lakes of Flame",
       "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
@@ -1123,7 +1159,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 204853,
       "name": "Linchpin",
       "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
@@ -1163,7 +1199,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 238765,
       "name": "Lord Of Chaos",
       "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"
@@ -1199,7 +1235,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "March Of The Pigs",
       "url": "https://open.spotify.com/track/2Ad7XA54Jw0YyBF5rjiFyl"
@@ -1275,7 +1311,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 380885,
       "name": "My Disintegration",
       "url": "https://open.spotify.com/track/1h4QGHo9jTntOiK5A61dzP"
@@ -1477,7 +1513,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 208470,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
@@ -1589,7 +1625,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 220553,
       "name": "S E X",
       "url": "https://open.spotify.com/track/3rx6ENPfEGYiQVPP1jsVtx"
@@ -1661,7 +1697,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 187520,
       "name": "Suffering You",
       "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
@@ -1697,7 +1733,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 302693,
       "name": "Switchback",
       "url": "https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je"

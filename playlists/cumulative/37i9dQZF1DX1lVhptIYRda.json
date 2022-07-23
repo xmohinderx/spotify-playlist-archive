@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits of the week, worldwide! Cover: Lainey Wilson",
+  "description": "Today's top country hits of the week, worldwide! Cover: Jordan Davis",
   "name": "Hot Country",
   "published_playlist_ids": [
     "6kgRyUaLssWEGETpjboDD4"
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 176983,
       "name": "Country Boy Do (feat. Tyler Hubbard)",
       "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
@@ -2527,7 +2527,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 232058,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg"
@@ -6194,6 +6194,28 @@
     },
     {
       "album": {
+        "name": "Already Drank That Beer",
+        "url": "https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        },
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Never Til Now (feat. Brett Young)",
+      "url": "https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds"
+    },
+    {
+      "album": {
         "name": "Never Wanted To Be That Girl",
         "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
       },
@@ -7303,6 +7325,24 @@
       "duration_ms": 203418,
       "name": "River Road Dream",
       "url": "https://open.spotify.com/track/4QGGGxbBWidRoAsWT9vEv8"
+    },
+    {
+      "album": {
+        "name": "Rock and A Hard Place",
+        "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
     },
     {
       "album": {

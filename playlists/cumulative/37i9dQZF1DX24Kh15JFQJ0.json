@@ -894,6 +894,24 @@
     },
     {
       "album": {
+        "name": "The Rest of It's Mine",
+        "url": "https://open.spotify.com/album/6b5WQURAJNRYKYYKbtMenX"
+      },
+      "artists": [
+        {
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Hearts in the Sand",
+      "url": "https://open.spotify.com/track/3C91xtXZGNY4mM2DcbzlRt"
+    },
+    {
+      "album": {
         "name": "12th of June",
         "url": "https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR"
       },

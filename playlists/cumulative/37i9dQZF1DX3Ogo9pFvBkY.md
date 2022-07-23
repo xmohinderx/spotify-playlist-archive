@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-658 songs - 1 day 10 hr 58 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+660 songs - 1 day 11 hr 3 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,12 +418,14 @@
 | [Oceanbird Song](https://open.spotify.com/track/3bkDRZy33aVQHK8PZsIPLH) | [Europa Falls](https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz) | [Salt Dreams](https://open.spotify.com/album/2eoTpRBGtm9GtB88nb1aNS) | 3:25 | 2020-01-03 | 2021-09-14 |
 | [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:55 | 2019-05-26\* | 2020-01-03 |
 | [Offline](https://open.spotify.com/track/6BOEwn9UtUVaZm6EebzRBF) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Beyond The Range Of Sound](https://open.spotify.com/album/6F7gJopjIsZ1UVMIwleDFf) | 2:43 | 2019-05-26\* | 2020-07-11 |
+| [Ogenblik](https://open.spotify.com/track/3YKQAHI4G5qyGXHsWG7kr1) | [Casper Wiersma](https://open.spotify.com/artist/2ZEbGQS7T0YnsUHidXUVUZ) | [Ogenblik](https://open.spotify.com/album/1d0Br2pb8gu5fUvq96bstG) | 3:10 | 2022-07-22 |  |
 | [On My Way To You](https://open.spotify.com/track/0PQKfge6lvpyfI7zzt08E2) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Mindfulness](https://open.spotify.com/album/5tIYCZWWtwBY7BNutrCMKH) | 2:23 | 2020-01-03 | 2020-07-11 |
 | [One Of Those Nights](https://open.spotify.com/track/32qRVgKn3l363svFskerhv) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [One Of Those Nights](https://open.spotify.com/album/5qu4yW2TnmsS5SMlqFGSSl) | 2:48 | 2020-08-08 |  |
 | [One Path](https://open.spotify.com/track/3ciI0W5tW7zBPWEglpc3fR) | [Aster](https://open.spotify.com/artist/1ie4JpANX38QqUcnNRht7e) | [One Path](https://open.spotify.com/album/0LcPF7MaRplUP7N37LrEUo) | 2:09 | 2020-10-08 |  |
 | [Opolnoči](https://open.spotify.com/track/5VCjqZftDWL4HCmZTKuQO8) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Opolnoči](https://open.spotify.com/album/7v69wRHr3qEcbJCCfMl0bS) | 3:21 | 2021-07-14 |  |
 | [Orbit](https://open.spotify.com/track/0k2baNK3JldkN4gBfIJUOo) | [Epic Centre](https://open.spotify.com/artist/1LKqgLACkIlBWmt3nbm7iX) | [Orbit](https://open.spotify.com/album/3l95szTHiJot7IHB5luSS8) | 2:04 | 2019-12-07 |  |
 | [Organismo Ambient](https://open.spotify.com/track/69pQPXOGwCgH0NBu89cRji) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Texturalista](https://open.spotify.com/album/3dRDX0QndBDdTIda56G5xy) | 2:41 | 2019-10-26 | 2020-01-09 |
+| [Our Powers](https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [Our Powers](https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6) | 2:36 | 2022-07-22 |  |
 | [Owls](https://open.spotify.com/track/42CQUucCi6h2gHB5BQfSbb) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:26 | 2019-05-26\* | 2020-01-09 |
 | [Pacificae](https://open.spotify.com/track/4ZnpF2DTkz3F0RcvI11KFQ) | [Zena Andes](https://open.spotify.com/artist/3QxEMMVln4ehYRy753oUjl) | [Pacificae](https://open.spotify.com/album/7L6L62G7AVzn24bjfNVlUQ) | 3:36 | 2021-05-18 |  |
 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2019-05-26\* |  |

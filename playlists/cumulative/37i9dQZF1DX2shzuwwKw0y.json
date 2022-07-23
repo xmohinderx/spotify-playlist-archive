@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Grupo Arriesgado en portada. ",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Los Farmerz en portada. ",
   "name": "Corridos Perrones",
   "published_playlist_ids": [
     "7MKeGtBxLUek4q2wQW5uWo"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 197781,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
@@ -788,6 +788,24 @@
     },
     {
       "album": {
+        "name": "El Empresario",
+        "url": "https://open.spotify.com/album/4igdrkDmBw03UUw6TmOLly"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220055,
+      "name": "El Empresario",
+      "url": "https://open.spotify.com/track/50475dQbOPSa8CpLi8UIfe"
+    },
+    {
+      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -915,6 +933,28 @@
       "duration_ms": 211320,
       "name": "El Paciente",
       "url": "https://open.spotify.com/track/2omJSQbSy5nFNVj1qAQ64M"
+    },
+    {
+      "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "album": {
@@ -1143,7 +1183,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 179130,
       "name": "Hay Que Hacer Dinero",
       "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
@@ -1350,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "Puras de Servando, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164257,
+      "name": "La Muchacha del Salado \"la Nicholette\" - En Vivo",
+      "url": "https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I"
+    },
+    {
+      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -1401,7 +1459,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 153182,
       "name": "La Plebada del 09",
       "url": "https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ"
@@ -1503,7 +1561,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 163000,
       "name": "Los Mire Con Talento",
       "url": "https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV"
@@ -1521,7 +1579,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 208890,
       "name": "Los Mitotes",
       "url": "https://open.spotify.com/track/4XhjEwjPhK30lJO5f9bQkU"
@@ -1954,6 +2012,24 @@
     },
     {
       "album": {
+        "name": "Se\u00f1or Miedo",
+        "url": "https://open.spotify.com/album/7prCMJKiHc8r3WOS82bZVJ"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172625,
+      "name": "Se\u00f1or Miedo",
+      "url": "https://open.spotify.com/track/1FnswOpXkrROzW2mFCF1BE"
+    },
+    {
+      "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
       },
@@ -2179,6 +2255,28 @@
       "duration_ms": 184411,
       "name": "Un Suspir\u00f3",
       "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+    },
+    {
+      "album": {
+        "name": "Una Raya M\u00e1s al Tigre",
+        "url": "https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB"
+      },
+      "artists": [
+        {
+          "name": "Banda Elemental de Mazatl\u00e1n Sinaloa",
+          "url": "https://open.spotify.com/artist/0amZxQw9VoE1GcLXsqPnjz"
+        },
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139658,
+      "name": "Una Raya M\u00e1s al Tigre",
+      "url": "https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg"
     },
     {
       "album": {

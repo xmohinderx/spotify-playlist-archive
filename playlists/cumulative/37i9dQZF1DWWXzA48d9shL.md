@@ -4,7 +4,7 @@
 
 > 😈 😈 😈  Cover: Freddie Dredd
 
-274 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+275 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [BULLETHELL](https://open.spotify.com/track/6MjXJ76xJ7xsPNvuiNA0c9) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [BULLETHELL](https://open.spotify.com/album/6UrSFokkvOQc0bEd82e5ef) | 3:52 | 2022-04-01 | 2022-05-05 |
 | [Bullseye](https://open.spotify.com/track/4SNT8eqoy7wMXu1b8CVPOp) | [Downfvll](https://open.spotify.com/artist/11y2EjkCbWLix1tkjbiWed), [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC) | [Bullseye](https://open.spotify.com/album/3OeEwJ83ygrHxiY71LBbva) | 2:49 | 2022-04-15 | 2022-06-25 |
 | [Bungee Gum](https://open.spotify.com/track/2UboK4rDkzSDhoBkox2vxR) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Bungee Gum](https://open.spotify.com/album/0uS1LbaINYPzsp9EQBRpUd) | 1:46 | 2021-09-17 |  |
-| [Buried Alive](https://open.spotify.com/track/717pWgqqsMUEgydhiINRO1) | [Ca$tro Guapo](https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq) | [Buried Alive](https://open.spotify.com/album/1Y5YRaxd5Sg1qYwP9Cubrj) | 1:39 | 2022-05-27 |  |
+| [Buried Alive](https://open.spotify.com/track/717pWgqqsMUEgydhiINRO1) | [Ca$tro Guapo](https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq) | [Buried Alive](https://open.spotify.com/album/1Y5YRaxd5Sg1qYwP9Cubrj) | 1:39 | 2022-05-27 | 2022-07-23 |
 | [Burn](https://open.spotify.com/track/0EaoOSTTsx7zqaOFqBaleS) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [Burn](https://open.spotify.com/album/0Jzy2rfQQAnYkQ5pfvNQ1s) | 2:50 | 2021-09-17 |  |
 | [BURNER](https://open.spotify.com/track/1gANf7FccsLPFIwgueeo7u) | [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [BURNER](https://open.spotify.com/album/4DGrJDl2ReUKTqYJsCDk0V) | 2:25 | 2022-05-13 |  |
 | [BUSTER](https://open.spotify.com/track/7fm5r6dD04emTplbHD5wDP) | [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [BUSTER](https://open.spotify.com/album/2HgOwA2cq8gapCopf0NTtQ) | 2:21 | 2022-02-04 | 2022-04-21 |
@@ -73,6 +73,7 @@
 | [CHROME BERETTA](https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [void](https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L), [LEX PAIN](https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [DONNA](https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI) | 2:38 | 2022-05-11 |  |
 | [CITGO](https://open.spotify.com/track/5BuR2U9HrzaKkdSji56MFs) | [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [CITGO](https://open.spotify.com/album/6RbLZzRWkMNLNirjAmaOXy) | 2:38 | 2021-10-20 | 2022-05-12 |
 | [cold.world](https://open.spotify.com/track/6ho3mh8740rHFElC0H86RH) | [trees](https://open.spotify.com/artist/1NJKdtvnP2T0P97URYd5d5), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [cold.world](https://open.spotify.com/album/3hGbC7ApJVoV2ypPx7dujE) | 4:00 | 2022-04-01 | 2022-05-17 |
+| [Contingency Clip](https://open.spotify.com/track/5YxSPO3PPISlrqDvSbT0Dz) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Contingency Clip](https://open.spotify.com/album/7aoSX7FxnN4wAZ37tQrhrF) | 2:25 | 2022-07-22 |  |
 | [CousinEddie](https://open.spotify.com/track/7zaeTWU2pJU0OgGTPtfpEE) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Lyson](https://open.spotify.com/artist/5qSqbVmHM1dtIazNNyTP7c) | [SCRAPS](https://open.spotify.com/album/0DezD1oqJZMt5b793b1SCx) | 2:19 | 2021-12-15 | 2022-06-01 |
 | [Crisis](https://open.spotify.com/track/0IGxkEgMeF1dwOSIj2IUrT) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Crisis](https://open.spotify.com/album/75TDUUBGTBkulAJuZFpR0G) | 1:49 | 2021-09-17 | 2022-06-04 |
 | [Crooked Smile](https://open.spotify.com/track/0yaQ7Erx1XT0U6miw6zpK8) | [Unaverage Gang](https://open.spotify.com/artist/7cG98wfpXvT5BwGU85RaOA) | [Crooked Smile](https://open.spotify.com/album/6jaoIy9JvvgLYs0OvMzkvx) | 2:32 | 2022-03-10 |  |
@@ -154,7 +155,7 @@
 | [Jekyll & Hyde](https://open.spotify.com/track/7DylVsrjhxN8sdlUcWbJMk) | [Kiing Loki](https://open.spotify.com/artist/27PvM4IkuVoTlz5uSQtYgD), [unknwnshi](https://open.spotify.com/artist/6WFULoKZ38376gTjf6KpHw) | [Jekyll & Hyde](https://open.spotify.com/album/5iCk6JXpLWMKygsqQqE2Nm) | 1:50 | 2022-04-15 |  |
 | [JIGSAW](https://open.spotify.com/track/3MokBYNhESWVOuZZtMoZNm) | [Cherry Ills](https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3) | [JIGSAW](https://open.spotify.com/album/6k5aTXN5CQQh1T43IpCquG) | 1:38 | 2022-03-18 | 2022-04-21 |
 | [JUST DANCE](https://open.spotify.com/track/2GSUNdq88OmOQnWTO8yhe1) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Prompto](https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo) | [JUST DANCE](https://open.spotify.com/album/7gk0gpbOy0YP1nOlDAysCv) | 1:46 | 2021-10-01 | 2022-05-08 |
-| [King Of The Dead](https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:39 | 2022-06-10 |  |
+| [King Of The Dead](https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:39 | 2022-06-10 | 2022-07-23 |
 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 | 2022-02-16 | 2022-04-21 |
 | [KOTA](https://open.spotify.com/track/0dy38Daud7yGJskbPcuHr4) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [KOTA](https://open.spotify.com/album/2LgEcNjbm8JC8fL986lpBP) | 3:15 | 2022-07-15 |  |
 | [KUMBAYA](https://open.spotify.com/track/1e8wIuf2ZB9UnTPDDojiO6) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [KUMBAYA](https://open.spotify.com/album/6Yds3Wxk3HxQY4WgJJHya7) | 3:30 | 2021-09-17 | 2022-06-29 |

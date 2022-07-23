@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128499,
+  "num_followers": 128503,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzUzMCw1ODNkMTMxMTExY2FlZjAwYjQ4MjM2ZDBkOGQwNDAyMDMzNTBiM2Jl",
+  "snapshot_id": "MzUzNixjOTYwMzU2OTc4NWVhMmRjZTRlYmQwMTU1NDc4ZThiNDI0Njg1Nzk2",
   "tracks": [
+    {
+      "added_at": "2022-07-22 16:38:37",
+      "album": {
+        "name": "All We Needed",
+        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "All We Needed",
+      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
+    },
+    {
+      "added_at": "2022-07-22 16:38:18",
+      "album": {
+        "name": "Over The Water",
+        "url": "https://open.spotify.com/album/2HcOB7CmgTbZu3fPAvTHeL"
+      },
+      "artists": [
+        {
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
+        },
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Over The Water",
+      "url": "https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ"
+    },
     {
       "added_at": "2022-07-21 16:58:24",
       "album": {
@@ -1091,42 +1127,6 @@
       "duration_ms": 183536,
       "name": "Maze",
       "url": "https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh"
-    },
-    {
-      "added_at": "2022-05-13 16:37:36",
-      "album": {
-        "name": "wonder years pt. 2",
-        "url": "https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG"
-      },
-      "artists": [
-        {
-          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
-          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
-        },
-        {
-          "name": "Mr. Hilroy",
-          "url": "https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "roadtrip",
-      "url": "https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM"
-    },
-    {
-      "added_at": "2022-05-12 16:13:37",
-      "album": {
-        "name": "Wild Time",
-        "url": "https://open.spotify.com/album/1ye5cB0yJ8wLlGoNv4s2qN"
-      },
-      "artists": [
-        {
-          "name": "Leotrix",
-          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Wild Time",
-      "url": "https://open.spotify.com/track/0YX38wDVtPkk7FAOO3wU64"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

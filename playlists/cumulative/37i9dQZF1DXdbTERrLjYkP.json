@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: quinnie",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rene\u00e9 Rapp",
   "name": "Next Gen Singer-Songwriters",
   "published_playlist_ids": [
     "5yqeqnGwA3WW1b3xVN4nfp"
@@ -747,6 +747,24 @@
       "duration_ms": 256250,
       "name": "DECLINED",
       "url": "https://open.spotify.com/track/1OvTmyB5Rh9Gn1rqlqgTMY"
+    },
+    {
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/5NPjgNqomchHldXQcN140j"
+      },
+      "artists": [
+        {
+          "name": "Ellee Duke",
+          "url": "https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173985,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/1R7TJhZujfy7N2fk3wLTrn"
     },
     {
       "album": {
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 190243,
       "name": "I Guess That Was Goodbye",
       "url": "https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg"
@@ -1717,6 +1735,24 @@
       "duration_ms": 198823,
       "name": "if you hate me, say it",
       "url": "https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO"
+    },
+    {
+      "album": {
+        "name": "In The Kitchen",
+        "url": "https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227749,
+      "name": "In the Kitchen",
+      "url": "https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV"
     },
     {
       "album": {
@@ -2275,7 +2311,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 216661,
       "name": "NOT AGAIN",
       "url": "https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2"
@@ -2596,6 +2632,24 @@
     },
     {
       "album": {
+        "name": "Sadtown USA",
+        "url": "https://open.spotify.com/album/6mKq3sxLNkjr8k7fFkGENN"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190596,
+      "name": "Sadtown USA",
+      "url": "https://open.spotify.com/track/5isaeQhLPaB5dGg0ccJOuX"
+    },
+    {
+      "album": {
         "name": "And I'm Still Thinking About That",
         "url": "https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B"
       },
@@ -2841,7 +2895,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"

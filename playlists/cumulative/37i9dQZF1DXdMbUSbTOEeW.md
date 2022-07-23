@@ -2,9 +2,9 @@
 
 ### [mint India](https://open.spotify.com/playlist/37i9dQZF1DXdMbUSbTOEeW)
 
-> Trending dance hits in India\. Cover: Armaan Malik
+> Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
 
-124 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
+126 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,11 +13,13 @@
 | [Affection](https://open.spotify.com/track/6pv0v0OBVkNBtXcrolRyMn) | [KAVYA](https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2) | [Affection](https://open.spotify.com/album/1UbC000R3Z1soH3DRSxODB) | 5:23 | 2022-05-18 |  |
 | [Back Again](https://open.spotify.com/track/3laNvDHh50EvkBUuXWhFYK) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Back Again](https://open.spotify.com/album/79LsJBss75tTPfS4tgNk0G) | 3:24 | 2021-11-26 | 2022-05-19 |
 | [Balenciaga](https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4DigtdeXwziCXKHmEHXAr3) | 2:48 | 2022-05-18 |  |
+| [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/track/1afsdE2fV1sq37wvPHH0EU) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/album/38AVJUS2z5C5ltLyiACFum) | 2:46 | 2022-07-22 |  |
 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 | 2022-05-18 |  |
 | [Big \(feat\. Gunna\)](https://open.spotify.com/track/78oZ26xvmtCfarveRXs3dq) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Big \(feat\. Gunna\)](https://open.spotify.com/album/4oAJhbdsokVDoLHMdbqtDP) | 2:36 | 2021-11-26 | 2022-05-19 |
 | [Burnin](https://open.spotify.com/track/5D246C2tLKCTeZgcsRfvcA) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Parachute](https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl) | 2:55 | 2021-11-26 | 2022-02-02 |
 | [By Heart \(with Londin Thompson\)](https://open.spotify.com/track/1pOlNMGgYPfXbp6sWphTPo) | [DJ Shaan](https://open.spotify.com/artist/274JojhV4zGJX0Z6WPgg5x), [Londin Thompson](https://open.spotify.com/artist/2Sh4jX7pEUGGccmg4f7oKw) | [By Heart](https://open.spotify.com/album/5BoOWsLl3IJTbiYIwKhqXf) | 3:32 | 2021-11-26 | 2022-05-19 |
 | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ) | 2:58 | 2022-05-18 |  |
+| [Casanova \(feat\. Simer Kaur\)](https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S), [Simer Kaur](https://open.spotify.com/artist/4OnbwS86UPpU60MAZunN5y) | [Casanova \(feat\. Simer Kaur\)](https://open.spotify.com/album/6WMxMrIallcyiPjLQdMKwt) | 3:34 | 2022-07-22 |  |
 | [Check My Fizz](https://open.spotify.com/track/1EySCjsDw2UCbZtopFIBn2) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Check My Fizz](https://open.spotify.com/album/73kDOz97CJszxm2eZnZ70Z) | 2:40 | 2022-05-18 |  |
 | [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 | 2021-11-26 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-02-01 | 2022-05-19 |

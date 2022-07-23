@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-146 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+147 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Peaceful Here Now](https://open.spotify.com/track/6Xso6xtnjOUD4SrdvF911i) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Deliver Us \(Original Series Soundtrack\)](https://open.spotify.com/album/0g6Fo4Z3u2WTtOtBqvL8nz) | 4:59 | 2021-12-20 | 2022-07-09 |
 | [Penrose Steps, A.I\. Bloom \- From "Eden" Soundtrack](https://open.spotify.com/track/0x5s5VhaxIhuNg7guk46At) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Penrose Steps, A.I\. Bloom \(From "Eden" Soundtrack\)](https://open.spotify.com/album/3Mx2A5UAILIhOZL94KG0Hb) | 4:47 | 2021-12-20 |  |
 | [Pink Soldiers](https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 0:38 | 2021-12-20 |  |
+| [Preparing The Trap](https://open.spotify.com/track/729porTW6i1cZ53nrNJmpN) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Nope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YD6YdZrQtTDjOFc9g3x8z) | 2:40 | 2022-07-22 |  |
 | [Rebirth](https://open.spotify.com/track/1FzJIsb1IIVtUQ5EVtGUF0) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Rebirth](https://open.spotify.com/album/4Xn9IJ2iId5slx8t6N0yTr) | 5:14 | 2022-07-08 |  |
 | [Redeeming Love Theme](https://open.spotify.com/track/748kgCBjhP38e0XAU1cbk4) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Breton Vivian](https://open.spotify.com/artist/7vPwWTnoNQN2E1nAHclTll) | [Redeeming Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0tCobdEQDMXXGLVRaAbARo) | 5:22 | 2022-01-21 |  |
 | [Reflection](https://open.spotify.com/track/08PENmKvZAFzmPSakxBhlX) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [The Starling \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2W3XXyeo5CEzNHaDaR2L72) | 2:22 | 2021-12-20 |  |

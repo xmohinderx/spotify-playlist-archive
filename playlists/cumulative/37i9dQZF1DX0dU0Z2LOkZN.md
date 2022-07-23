@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-157 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+158 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [In The Zone](https://open.spotify.com/track/2GgTngIfCoDteGtVneuuTY) | [Knuckles & Tails](https://open.spotify.com/artist/2KUPQ8T5999f2EoqJ5VczV) | [In The Zone](https://open.spotify.com/album/3YH2LJD2W7voWsqFwHl8Ji) | 3:08 | 2021-11-11 | 2022-05-20 |
 | [Ingleside](https://open.spotify.com/track/0S93H7eyA5mCZdjrZAk85p) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Ingleside](https://open.spotify.com/album/7vBTC4qkmg5CQsYBp6eKsQ) | 1:24 | 2021-11-11 |  |
 | [Inner City](https://open.spotify.com/track/0gKyWgzseo8C7kLhZ4lMR1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Enter the Dojo](https://open.spotify.com/album/2utx5xxfImWZ7EwkT7qwzg) | 2:13 | 2021-11-11 |  |
+| [It Goes Without Saying](https://open.spotify.com/track/6YFC7nC5xcCSA6vXPfN28A) | [Dariush](https://open.spotify.com/artist/6zY6Ok23fglrQG3PzGR5lt) | [It Goes Without Saying](https://open.spotify.com/album/2nfeBYFTlB4thgt0LDi30I) | 2:07 | 2022-07-22 |  |
 | [It Just Is](https://open.spotify.com/track/0PPEr4f4M5TJlpSDyTRLXs) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [It Just Is](https://open.spotify.com/album/5MpzdUemANr85NiuElGJeB) | 3:12 | 2022-06-10 |  |
 | [Itchy Trigger Finger](https://open.spotify.com/track/6PkCrsCV8wWJDSP9XcEdjC) | [CVPELLV](https://open.spotify.com/artist/4SFBADSs8CVFY8w44Ti16o) | [Fat Beats, Vol\. 2](https://open.spotify.com/album/2o13OgHSSDgnqKQdzhiPXA) | 1:36 | 2021-11-11 |  |
 | [jivin'](https://open.spotify.com/track/1laDLLGATVVihYt7GmXwSa) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [jivin'](https://open.spotify.com/album/40HpdX8LbkKE2z7b1rFhSw) | 2:29 | 2022-06-17 |  |

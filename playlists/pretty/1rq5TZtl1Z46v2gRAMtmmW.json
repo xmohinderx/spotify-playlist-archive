@@ -1,18 +1,18 @@
 {
   "description": "",
-  "num_followers": 26754,
+  "num_followers": 26757,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzA5MCwzNzMzMTc5NTlkMGJkYzMzZTMyZjA0ZTVmNjgxNmViZWU0MTk3Y2Qy",
+  "snapshot_id": "MzA5MyxkMTg1M2JkNjM2MWQyMDIxOTc5ZDE0N2FjMjMzOGRhNGJhYzRjNDcy",
   "tracks": [
     {
-      "added_at": "2022-07-13 19:54:32",
+      "added_at": "2022-07-22 15:12:17",
       "album": {
-        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
-        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i"
       },
       "artists": [
         {
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 400130,
-      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
-      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
+      "duration_ms": 171785,
+      "name": "This Version Of You (feat. Julianna Barwick)",
+      "url": "https://open.spotify.com/track/2h4IoIeRasKE7moH6zhHUO"
     },
     {
       "added_at": "2022-07-12 09:33:39",
@@ -59,6 +59,26 @@
       "duration_ms": 233079,
       "name": "Hero Man",
       "url": "https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI"
+    },
+    {
+      "added_at": "2022-07-13 19:54:32",
+      "album": {
+        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 400130,
+      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
     },
     {
       "added_at": "2022-06-28 18:31:24",
@@ -279,26 +299,6 @@
       "duration_ms": 206250,
       "name": "Touch (feat. Rromarin)",
       "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
-    },
-    {
-      "added_at": "2022-06-08 16:03:26",
-      "album": {
-        "name": "Wide Awake (feat. Charlie Houston)",
-        "url": "https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Charlie Houston",
-          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
-        }
-      ],
-      "duration_ms": 215039,
-      "name": "Wide Awake (feat. Charlie Houston)",
-      "url": "https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s"
     },
     {
       "added_at": "2022-06-15 19:49:12",

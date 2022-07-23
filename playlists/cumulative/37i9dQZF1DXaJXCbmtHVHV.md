@@ -4,7 +4,7 @@
 
 > Top country hits you know and love! Cover: Travis Denning
 
-125 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
+126 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 | 2021-12-28 | 2022-01-19 |
 | [Come Back As A Country Boy](https://open.spotify.com/track/5EDtmgwR1lDmDGLZraNpJg) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Come Back As A Country Boy](https://open.spotify.com/album/3gSuTyJGP9ZFnpXC1QHimc) | 3:41 | 2021-12-28 |  |
 | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/track/6W8ip4419k9qTlOAkAU4uN) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/album/2dA4e6yg8TumkbOWZJYunN) | 3:07 | 2021-12-28 | 2022-04-05 |
+| [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-07-22 |  |
 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 | 2022-07-11 |  |
 | [Country'd Look Good On You](https://open.spotify.com/track/6d7k8PoVEnBgwBsPvKsubp) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Country'd Look Good On You](https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO) | 3:22 | 2021-12-28 |  |
 | [Cross Country](https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4) | 3:26 | 2022-07-15 |  |

@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 293826,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 298866,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
@@ -765,10 +765,28 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "album": {
+        "name": "Heartbeat City (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234332,
+      "name": "Drive - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
     },
     {
       "album": {
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 207306,
       "name": "Grease - 2007 Remaster",
       "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 191026,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG"
@@ -1813,7 +1831,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 276080,
       "name": "Ma Baker",
       "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 213333,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
@@ -2281,7 +2299,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 303699,
       "name": "Passion",
       "url": "https://open.spotify.com/track/0at8VmFfBq7oN8NeLu3wHx"
@@ -2299,7 +2317,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 223880,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/4P9iHeHiwzZAqvQCdoLkGg"
@@ -2339,6 +2357,24 @@
       "duration_ms": 261266,
       "name": "Rivers of Babylon",
       "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+    },
+    {
+      "album": {
+        "name": "Rock Me Amadeus 30th Anniversary",
+        "url": "https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO"
+      },
+      "artists": [
+        {
+          "name": "Falco",
+          "url": "https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350133,
+      "name": "Rock Me Amadeus - 12\" American Edit",
+      "url": "https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR"
     },
     {
       "album": {
@@ -2710,6 +2746,24 @@
     },
     {
       "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
+    },
+    {
+      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -2721,7 +2775,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 241333,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"

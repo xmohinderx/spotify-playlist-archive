@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 229412,
       "name": "Better",
       "url": "https://open.spotify.com/track/4SDeLyW1YUKuUn3xEU0MFD"
@@ -325,10 +325,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 201694,
       "name": "Favourite Ex",
       "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
+    },
+    {
+      "album": {
+        "name": "Free Spirit",
+        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "Free Spirit",
+      "url": "https://open.spotify.com/track/2kAIpGWnlFLQh48iut6Zzq"
     },
     {
       "album": {
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 155303,
       "name": "Head And Heart On Fire",
       "url": "https://open.spotify.com/track/4rqe64hyIfoMfiBcvVZqfT"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 205986,
       "name": "I Miss You (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 223078,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/3KZcrZ36LW9RnChK1iIkth"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 217212,
       "name": "Shallow - Radio Edit",
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 238532,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/1HkOPLwAJH3kE8UnqgxF4s"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 240706,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2QTcJmSgeLRtG1c82ZYHQc"

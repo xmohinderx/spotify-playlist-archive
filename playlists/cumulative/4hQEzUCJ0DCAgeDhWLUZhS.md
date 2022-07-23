@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Foals
 
-306 songs - 18 hr 27 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+307 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [It's Its Own Heart](https://open.spotify.com/track/0a5ekAz2dYv0mKTNPfNWae) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [It's Its Own Heart](https://open.spotify.com/album/0lJOmZQeDqP10muCJra8tF) | 2:53 | 2020-10-10\* | 2021-02-25 |
 | [Kids in America](https://open.spotify.com/track/6q0EVDx14hHj3DCmQKqFIM) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kids in America](https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8) | 3:08 | 2020-10-10\* | 2022-03-18 |
 | [Kids On Cassette](https://open.spotify.com/track/63KalZfD4ZPbzHK9ABFE3v) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Kids On Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 3:29 | 2021-07-31 |  |
+| [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 | 2022-07-22 |  |
 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 | 2021-09-11 |  |
 | [Last Chance To Dance \(Bad Friend\)](https://open.spotify.com/track/0o49yIEUZUoCTJ1qRnqFUO) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [You're Welcome](https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i) | 3:05 | 2021-03-06 | 2022-03-18 |
 | [Let Me Down \(feat\. blink\-182\)](https://open.spotify.com/track/3qRXuJ58B2wcNNMk5yyAMn) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Let Me Down \(feat\. blink\-182\)](https://open.spotify.com/album/4SK5Gr8NdFobeo1t0MIYOV) | 2:39 | 2020-10-10\* | 2021-05-13 |

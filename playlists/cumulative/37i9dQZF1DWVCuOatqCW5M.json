@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Stebin Ben ",
+  "description": "New music from popular Hindi artists. Cover- Armaan Malik",
   "name": "New Music Friday Hindi ",
   "published_playlist_ids": [
     "0VW1oqwEBCO9XMfaGKderP"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 236470,
       "name": "Aao Balam",
       "url": "https://open.spotify.com/track/1pQAV6BF0PDqi9dXVGrBha"
@@ -123,6 +123,24 @@
       "duration_ms": 224000,
       "name": "Aaya Mausam",
       "url": "https://open.spotify.com/track/4YZQWjQnuctiHfk5wgYAiu"
+    },
+    {
+      "album": {
+        "name": "AB KI BARSAAT MEIN",
+        "url": "https://open.spotify.com/album/7xsQr1heJZH3STTw5bQ8Ey"
+      },
+      "artists": [
+        {
+          "name": "Aaman Trikha",
+          "url": "https://open.spotify.com/artist/2MMPzBpMeCZVPRnV5mddc3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252703,
+      "name": "AB KI BARSAAT MEIN",
+      "url": "https://open.spotify.com/track/3hfDIkupCcvH7ZoNVD65lU"
     },
     {
       "album": {
@@ -481,7 +499,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 110400,
       "name": "BANK CHOR",
       "url": "https://open.spotify.com/track/7vibXuLnzVz7JPokR92JFx"
@@ -583,6 +601,36 @@
       "duration_ms": 226668,
       "name": "Burreh",
       "url": "https://open.spotify.com/track/6LeHPeeLwUP6cQ0pdtryWu"
+    },
+    {
+      "album": {
+        "name": "Casanova (feat. Simer Kaur)",
+        "url": "https://open.spotify.com/album/6WMxMrIallcyiPjLQdMKwt"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "DJ Shadow Dubai",
+          "url": "https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S"
+        },
+        {
+          "name": "Simer Kaur",
+          "url": "https://open.spotify.com/artist/4OnbwS86UPpU60MAZunN5y"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214639,
+      "name": "Casanova (feat. Simer Kaur)",
+      "url": "https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe"
     },
     {
       "album": {
@@ -1007,7 +1055,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 151190,
       "name": "gande ilaake se",
       "url": "https://open.spotify.com/track/3Vr7qTS3v7rJ5HdtKgZvYD"
@@ -1719,7 +1767,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 193831,
       "name": "Khaali Samay Mein",
       "url": "https://open.spotify.com/track/10s5ZW5fgUElXBHdNFyPQZ"
@@ -2624,6 +2672,28 @@
     },
     {
       "album": {
+        "name": "Saaye",
+        "url": "https://open.spotify.com/album/1Gus69A2j11p8utuhDIc4O"
+      },
+      "artists": [
+        {
+          "name": "Arijit Anand",
+          "url": "https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK"
+        },
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195669,
+      "name": "Saaye",
+      "url": "https://open.spotify.com/track/0fdsAOeCtXHyjEra16h3An"
+    },
+    {
+      "album": {
         "name": "sach kehne do",
         "url": "https://open.spotify.com/album/6inpvK9rL0BtQY9e6pcZVi"
       },
@@ -2884,6 +2954,28 @@
     },
     {
       "album": {
+        "name": "Tera Nishaan",
+        "url": "https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I"
+      },
+      "artists": [
+        {
+          "name": "Pina Colada Blues",
+          "url": "https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE"
+        },
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Tera Nishaan",
+      "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
+    },
+    {
+      "album": {
         "name": "Tera Zikr",
         "url": "https://open.spotify.com/album/0hqU29dVOem2Cq04UkB5Tq"
       },
@@ -3127,6 +3219,24 @@
       "duration_ms": 194285,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5cEO5djGR01Wfiln2o8AJF"
+    },
+    {
+      "album": {
+        "name": "Tu / You",
+        "url": "https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142511,
+      "name": "Tu / You",
+      "url": "https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0"
     },
     {
       "album": {
@@ -3413,7 +3523,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 301548,
       "name": "Ye Jhootha Samaa",
       "url": "https://open.spotify.com/track/0YQTrdP63BTZwjzaEHInx3"

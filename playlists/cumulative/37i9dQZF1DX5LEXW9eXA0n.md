@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: WSG WANNABE\) \(당신의 감성에 발라드, 려요\)
 
-467 songs - 1 day 6 hr 25 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+468 songs - 1 day 6 hr 29 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [But I'll Miss You](https://open.spotify.com/track/7AyxUdou9NrGU64bTc9dsT) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 2](https://open.spotify.com/album/25eO6EK4Lt8NLyzStPpcQN) | 4:09 | 2021-12-20 | 2022-06-23 |
 | [Butterfly](https://open.spotify.com/track/15jxI2XwZfYo7FGKex8IEf) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [화양연화 The Most Beautiful Moment In Life, Pt\. 2](https://open.spotify.com/album/1sBSHQEpD9pQOrJIv4qyFs) | 3:58 | 2022-01-17 | 2022-02-22 |
 | [By your side](https://open.spotify.com/track/4GQMxRSsNLW4abwsEjWflv) | [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [By your side \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.7](https://open.spotify.com/album/35KfS2ZS6PitvgGRbatNxo) | 4:06 | 2022-07-07 |  |
-| [By your side](https://open.spotify.com/track/0fJUrrGavib2kyGF7RY1Iv) | [Joo Hyung Jin](https://open.spotify.com/artist/6UvEfwKbmtK2NEUaKhhXD0) | [By your side](https://open.spotify.com/album/4PysUWj8vK3fX1K0My6XHR) | 3:37 | 2022-07-07 |  |
+| [By your side](https://open.spotify.com/track/0fJUrrGavib2kyGF7RY1Iv) | [Joo Hyung Jin](https://open.spotify.com/artist/6UvEfwKbmtK2NEUaKhhXD0) | [By your side](https://open.spotify.com/album/4PysUWj8vK3fX1K0My6XHR) | 3:37 | 2022-07-07 | 2022-07-23 |
 | [By Your Side](https://open.spotify.com/track/1V8VsGD0Wa2wuA8mNouZl3) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [The Witch's Diner \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/3vuUquAhs86GTkRlVbmNUN) | 3:44 | 2022-01-17 | 2022-04-15 |
 | [bye bye i finally disappear from your life](https://open.spotify.com/track/7yDkk7GZ9GemJcAG0JD0G9) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [bye bye i finally disappear from your life](https://open.spotify.com/album/32vU9jUYjAYzyESFDDrJNs) | 3:27 | 2022-01-27 | 2022-04-21 |
 | [Camellia](https://open.spotify.com/track/0oGKpQHFFae8WWCXQtfliO) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [HYUK](https://open.spotify.com/artist/1WTpKxdwQrNsYW3MBJYwiG) | [Camellia](https://open.spotify.com/album/1IKUHtQ7OFl1NxHbefAXa8) | 3:33 | 2021-12-20 | 2022-06-29 |
@@ -164,6 +164,7 @@
 | [Hangover](https://open.spotify.com/track/0vMg57uWWcnv4T3qjoXP68) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hangover](https://open.spotify.com/album/2bil4uyovEkVkPVpEAWRBp) | 3:44 | 2021-12-20 | 2022-06-14 |
 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2021-12-20 | 2022-07-06 |
 | [Happiness \(feat\. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun\)](https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Ban Gwang Ok](https://open.spotify.com/artist/0xLSqFBJp63NWp5CKTZ2aS), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Happy Ending](https://open.spotify.com/album/7kbingImpbGPK2lz8G9c1p) | 4:20 | 2021-12-20 | 2022-07-02 |
+| [Happy Ending](https://open.spotify.com/track/1Ik7tOkpdPNBArJuvbc7Rz) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Happy Ending](https://open.spotify.com/album/3gIgM2702guh1dn8taB5k3) | 3:55 | 2022-07-22 |  |
 | [He's next to you, instead of me](https://open.spotify.com/track/1vMxDpmSBRHhh0eRCLxQcQ) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [He's next to you, instead of me](https://open.spotify.com/album/0blCdfQUSARuYDtwzHUxqP) | 2:52 | 2022-02-17 | 2022-07-06 |
 | [Hello](https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Hello](https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb) | 3:35 | 2022-01-17 | 2022-03-14 |
 | [Here I Am Again](https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/476k6ufG2tovEGKDHolLSB) | 3:54 | 2021-12-20 | 2022-07-08 |

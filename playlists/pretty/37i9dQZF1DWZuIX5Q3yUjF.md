@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Martina May, Kuban
+> Il meglio dell'R&B italiano\. Cover: Livio Cori
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,837 likes - 124 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,843 likes - 124 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 123 | [confessioni](https://open.spotify.com/track/6DDjZYfWPO9f9wd5B8F9RO) | [Elea](https://open.spotify.com/artist/4zTIQEV02QCXtgDd9XFvz3), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn) | [confessioni](https://open.spotify.com/album/4SXQ82iVI2XZSRjn16qKrz) | 2:59 |
 | 124 | [balliamo](https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz) | [balliamo](https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH) | 2:49 |
 
-Snapshot ID: `MTY1ODQ0MDg2MCwwMDAwMDA4NzAwMDAwMTgyMjJjNzQxZTMwMDAwMDE4MjIxM2QwYzE5`
+Snapshot ID: `MTY1ODQ3OTQ4MywwMDAwMDA4ODAwMDAwMTgyMjUxNDliMDQwMDAwMDE4MjIxM2QwYzE5`

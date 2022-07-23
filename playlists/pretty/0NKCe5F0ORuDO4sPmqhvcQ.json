@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21314,
+  "num_followers": 21312,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTg0OCw2MTZlMmRlZGNmNzljM2ZmMjUzOTRlZmQxZGE0NWFkNmI0ZjNjNjI4",
+  "snapshot_id": "OTg3MixjNmQwZTM4ZDJiMDRhMzljNGQ4NzU4ZjE0MThmYzRhMTBiY2Q4YjYz",
   "tracks": [
     {
       "added_at": "2022-07-19 05:29:33",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/1DOBYtW1ttXbZaI7ekcbYF"
     },
     {
-      "added_at": "2022-04-18 19:03:13",
-      "album": {
-        "name": "VVYELLOW",
-        "url": "https://open.spotify.com/album/4s2XWWnnkZEF1BtVB5HrgL"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 154405,
-      "name": "aywhat + supasoaka",
-      "url": "https://open.spotify.com/track/7bfUCyvnGwly51E5Qx1XE2"
-    },
-    {
       "added_at": "2022-07-15 19:39:47",
       "album": {
         "name": "Deep End (feat. Lil Skies)",
@@ -1249,20 +1233,28 @@
       "url": "https://open.spotify.com/track/39nJPEdkQzSFakgt1mZ3V8"
     },
     {
-      "added_at": "2022-06-30 20:05:03",
+      "added_at": "2022-07-21 20:49:51",
       "album": {
-        "name": "Spaz Out",
-        "url": "https://open.spotify.com/album/6HkBbZCjDPs1pXDoYCPcI1"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
       },
       "artists": [
         {
-          "name": "Pacific Patterns",
-          "url": "https://open.spotify.com/artist/4UnRCGcuWbqRnk6MN3T76a"
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Spaz Out",
-      "url": "https://open.spotify.com/track/0EpnVwrbiZY3drT7C3CwHo"
+      "duration_ms": 221614,
+      "name": "Heart To The Night",
+      "url": "https://open.spotify.com/track/3QWKVDXzHpjAoAWe1kfoxe"
     },
     {
       "added_at": "2022-07-01 15:35:36",
@@ -1315,6 +1307,22 @@
       "duration_ms": 251694,
       "name": "Healing",
       "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2022-07-22 16:08:04",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
     },
     {
       "added_at": "2022-07-01 15:45:35",
@@ -1375,6 +1383,26 @@
       "duration_ms": 280000,
       "name": "on the hill",
       "url": "https://open.spotify.com/track/33uIddmYbMTtXea5qTfwLT"
+    },
+    {
+      "added_at": "2022-07-21 20:49:51",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Best Part About You",
+      "url": "https://open.spotify.com/track/3dxIrAJ1fp8c8rOscz0VLa"
     },
     {
       "added_at": "2022-07-07 16:15:46",
@@ -1517,6 +1545,26 @@
       "url": "https://open.spotify.com/track/0YAukHbU1yppkR0seIwTW3"
     },
     {
+      "added_at": "2022-07-21 20:49:26",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 260967,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i"
+    },
+    {
       "added_at": "2022-07-15 16:49:23",
       "album": {
         "name": "AFFIRMATIONS",
@@ -1573,138 +1621,6 @@
       "url": "https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad"
     },
     {
-      "added_at": "2022-07-21 20:49:26",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 260967,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i"
-    },
-    {
-      "added_at": "2022-07-21 20:49:51",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        }
-      ],
-      "duration_ms": 70178,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/3hdWcjWu0FNd2wSKtxhnDd"
-    },
-    {
-      "added_at": "2022-07-21 20:49:51",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 175292,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/0f0MYJ1C8IPN46v921wzFx"
-    },
-    {
-      "added_at": "2022-07-21 20:49:51",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 224391,
-      "name": "Never Easy",
-      "url": "https://open.spotify.com/track/22exPrZW0fcBOwlcA2HOhY"
-    },
-    {
-      "added_at": "2022-07-21 20:49:51",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "MADI",
-          "url": "https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0"
-        }
-      ],
-      "duration_ms": 293335,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4nVU75orKPTzRsKWFE9Fh1"
-    },
-    {
-      "added_at": "2022-07-21 20:49:51",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        }
-      ],
-      "duration_ms": 112896,
-      "name": "Liminal Spaces",
-      "url": "https://open.spotify.com/track/4o46hDiC5c1ZLJ8vh9Wjee"
-    },
-    {
-      "added_at": "2022-07-21 20:49:51",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Kwesi",
-          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
-        }
-      ],
-      "duration_ms": 235012,
-      "name": "Dark Places",
-      "url": "https://open.spotify.com/track/6I5RS743qBdKw5Uzkil6S6"
-    },
-    {
       "added_at": "2022-07-21 20:49:51",
       "album": {
         "name": "Dusk",
@@ -1721,68 +1637,44 @@
       "url": "https://open.spotify.com/track/7A19RHgKClfXscuuaLS7i9"
     },
     {
-      "added_at": "2022-07-21 20:49:51",
+      "added_at": "2022-07-22 16:11:38",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/1drSpyjhFJf9XCtS09BUBX"
       },
       "artists": [
         {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+          "name": "Sulvida",
+          "url": "https://open.spotify.com/artist/0phDitF6QOKVk0ALx5d9wI"
         },
         {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+          "name": "okafuwa",
+          "url": "https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj"
         }
       ],
-      "duration_ms": 149538,
-      "name": "Best Part About You",
-      "url": "https://open.spotify.com/track/3dxIrAJ1fp8c8rOscz0VLa"
+      "duration_ms": 214857,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/0Qq4NdNUkHBD887Dpozvhn"
     },
     {
-      "added_at": "2022-07-21 20:49:51",
+      "added_at": "2022-07-22 04:11:15",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
+        "name": "forever, for now (feat. riley biederer)",
+        "url": "https://open.spotify.com/album/7kXtJjpsQNnpPhgnD8Ky2l"
       },
       "artists": [
         {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+          "name": "Syence",
+          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
         },
         {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+          "name": "Riley Biederer",
+          "url": "https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR"
         }
       ],
-      "duration_ms": 221614,
-      "name": "Heart To The Night",
-      "url": "https://open.spotify.com/track/3QWKVDXzHpjAoAWe1kfoxe"
-    },
-    {
-      "added_at": "2022-07-21 20:49:51",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 283980,
-      "name": "Take Me Higher",
-      "url": "https://open.spotify.com/track/3HiKUx9he5EtseHYyMv27L"
+      "duration_ms": 158947,
+      "name": "forever, for now (feat. riley biederer)",
+      "url": "https://open.spotify.com/track/3Lh4hk4TO9lKLV1uz1Ctd2"
     },
     {
       "added_at": "2022-07-21 20:49:51",

@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 181945,
       "name": "A LOT",
       "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
@@ -3619,7 +3619,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
@@ -10062,6 +10062,24 @@
     },
     {
       "album": {
+        "name": "Middle Of A Breakup",
+        "url": "https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200037,
+      "name": "Middle Of A Breakup",
+      "url": "https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8"
+    },
+    {
+      "album": {
         "name": "Mind Is A Prison",
         "url": "https://open.spotify.com/album/3oFteG1YXJg2LS6R7Ge2yB"
       },
@@ -10385,6 +10403,24 @@
       "duration_ms": 277591,
       "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg"
+    },
+    {
+      "album": {
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186549,
+      "name": "Mr. Saturday Night",
+      "url": "https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH"
     },
     {
       "album": {
@@ -14050,6 +14086,32 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/0qDkNJ0azvJj9glUVIku8P"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "Diane Warren",
+          "url": "https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158238,
+      "name": "Sweet - Single Edit",
+      "url": "https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0"
+    },
+    {
+      "album": {
         "name": "Sweet Dream",
         "url": "https://open.spotify.com/album/2StstfzDqLhNXWowiBSeHr"
       },
@@ -15739,7 +15801,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 145979,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8"

@@ -966,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Lyrical Ambient",
+        "url": "https://open.spotify.com/album/1ci4darogxWg7G3p1V2J8V"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185339,
+      "name": "Lyrical Ambient",
+      "url": "https://open.spotify.com/track/799an9PYCuT6vqIVVgbku3"
+    },
+    {
+      "album": {
         "name": "Euphonious",
         "url": "https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S"
       },

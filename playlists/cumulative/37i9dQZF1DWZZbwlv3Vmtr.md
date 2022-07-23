@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-446 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+447 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-04-15 | 2022-05-14 |
 | [Cirrus](https://open.spotify.com/track/6ro25aEQrcKY8qo86jg8KN) | [Gemp](https://open.spotify.com/artist/7aGBJiUws3qcoRhY2lUizy) | [Cirrus](https://open.spotify.com/album/5SgQGMKFt3t6n1FdCucvji) | 2:23 | 2022-06-10 | 2022-07-08 |
 | [City Glow](https://open.spotify.com/track/08MUoQtJnUQjEfFO6Nyv5a) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [City Glow](https://open.spotify.com/album/2zZYmrXtRsIElvMmWtOA7d) | 2:55 | 2022-04-22 |  |
+| [City Lights](https://open.spotify.com/track/6MyvaNGQdY1j36y7yRWpUn) | [Ghostrifter Official](https://open.spotify.com/artist/1mIePRs1ixMW0gTaTSbX2p) | [City Lights](https://open.spotify.com/album/6v2B9nnoNASOyxxM9RW339) | 2:36 | 2022-07-22 |  |
 | [City Park](https://open.spotify.com/track/4lqEtgytnO3H4tDwLV3Tj3) | [Fleet Francis](https://open.spotify.com/artist/0USAl4ZgyskdW7gADLZkdn) | [City Park](https://open.spotify.com/album/6f5JLzj6RhOYa15xlLAlFX) | 2:30 | 2022-04-15 | 2022-05-20 |
 | [Close is best](https://open.spotify.com/track/773YRWgu38if25XiHHabJK) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Close is best](https://open.spotify.com/album/3hUO3QzIhu4Xc9O4WjYXBJ) | 2:15 | 2022-04-15 |  |
 | [Cloud Tops](https://open.spotify.com/track/01mBhCK8spV3tNbVkisiCC) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh) | [Travels](https://open.spotify.com/album/1utT9lyWjLansgGNGrMe8l) | 2:53 | 2022-07-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 74578,
+  "num_followers": 74682,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ1MzI0NywwMDAwMDAwMDY5Njk2Zjc3OGQwNzhjNTAxYTAzODNhN2JiODZlMjdk",
+  "snapshot_id": "MTY1ODUzOTMxNCwwMDAwMDAwMDA3OTQ2YjNjZDJlMGNjNzEzNmE0YjVjOTg2ZTY5ZmZi",
   "tracks": [
     {
       "added_at": "2022-01-04 00:41:11",
@@ -207,42 +207,18 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "So Baby (From \"Doctor\")",
-        "url": "https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp"
+        "name": "David",
+        "url": "https://open.spotify.com/album/3Gef2xMe3ihEF1UILkiriu"
       },
       "artists": [
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ananthakrrishnan",
-          "url": "https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR"
         }
       ],
-      "duration_ms": 252631,
-      "name": "So Baby (From \"Doctor\")",
-      "url": "https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Vikram Vedha (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        }
-      ],
-      "duration_ms": 270375,
-      "name": "Yaanji",
-      "url": "https://open.spotify.com/track/5NEGfbKMcNuEWOzpWufScA"
+      "duration_ms": 284784,
+      "name": "Kanave Kanave",
+      "url": "https://open.spotify.com/track/6sPW145Y3LSXd4p1LjBOcS"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -271,8 +247,48 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "David",
-        "url": "https://open.spotify.com/album/3Gef2xMe3ihEF1UILkiriu"
+        "name": "Vanakkam Chennai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Oh Penne",
+      "url": "https://open.spotify.com/track/1zAkNzJZVPrWDCnowb1vpZ"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "So Baby (From \"Doctor\")",
+        "url": "https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ananthakrrishnan",
+          "url": "https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "So Baby (From \"Doctor\")",
+      "url": "https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Enakenna Yaarum Illaye (From \"Aakko\")",
+        "url": "https://open.spotify.com/album/75VI8uBcagYXYBZMM3hqj7"
       },
       "artists": [
         {
@@ -280,9 +296,29 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         }
       ],
-      "duration_ms": 284784,
-      "name": "Kanave Kanave",
-      "url": "https://open.spotify.com/track/6sPW145Y3LSXd4p1LjBOcS"
+      "duration_ms": 260812,
+      "name": "Enakenna Yaarum Illaye (From \"Aakko\")",
+      "url": "https://open.spotify.com/track/6sAdmaffuMijDszeFrGF1H"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Vikram Vedha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        }
+      ],
+      "duration_ms": 270375,
+      "name": "Yaanji",
+      "url": "https://open.spotify.com/track/5NEGfbKMcNuEWOzpWufScA"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -311,46 +347,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Chellamma (From \"Doctor\")",
-        "url": "https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "Chellamma (From \"Doctor\")",
-      "url": "https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Vanakkam Chennai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Oh Penne",
-      "url": "https://open.spotify.com/track/1zAkNzJZVPrWDCnowb1vpZ"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "Maan Karate (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w2Ou2Z54QskBuOcQfNxOV"
       },
@@ -371,8 +367,8 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Kaththi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH"
+        "name": "Best of Love : Anirudh Ravichander",
+        "url": "https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5"
       },
       "artists": [
         {
@@ -380,29 +376,17 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        }
-      ],
-      "duration_ms": 304923,
-      "name": "Aathi (From \"Kaththi\")",
-      "url": "https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Enakenna Yaarum Illaye (From \"Aakko\")",
-        "url": "https://open.spotify.com/album/75VI8uBcagYXYBZMM3hqj7"
-      },
-      "artists": [
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
         }
       ],
-      "duration_ms": 260812,
-      "name": "Enakenna Yaarum Illaye (From \"Aakko\")",
-      "url": "https://open.spotify.com/track/6sAdmaffuMijDszeFrGF1H"
+      "duration_ms": 276705,
+      "name": "Oh Oh (From \"Thangamagan\") - The First Love of Tamizh",
+      "url": "https://open.spotify.com/track/4QcOPoawK7LrgQ3cmN27of"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -427,24 +411,8 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Remo (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Senjitaley",
-      "url": "https://open.spotify.com/track/2RB3zzgxWc2RRBaJOkSEka"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Maari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl"
+        "name": "Kaththi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH"
       },
       "artists": [
         {
@@ -452,37 +420,13 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Alisha Thomas",
-          "url": "https://open.spotify.com/artist/2JlwKfQpBmPFip5JT4d7VG"
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
         }
       ],
-      "duration_ms": 195709,
-      "name": "Don'u Don'u Don'u - The Don's Romance",
-      "url": "https://open.spotify.com/track/2kbxGCtWSV0f1ON720Bd4O"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Best of Anirudh",
-        "url": "https://open.spotify.com/album/66AenW3eBfgkiuBbtJr9wf"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 312280,
-      "name": "Velicha Poove (From \"Ethir Neechal\")",
-      "url": "https://open.spotify.com/track/0o2S5PKRkpTq8dLx8O7W4j"
+      "duration_ms": 304923,
+      "name": "Aathi (From \"Kaththi\")",
+      "url": "https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -531,8 +475,8 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Best of Love : Anirudh Ravichander",
-        "url": "https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5"
+        "name": "Chellamma (From \"Doctor\")",
+        "url": "https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8"
       },
       "artists": [
         {
@@ -540,17 +484,37 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
         }
       ],
-      "duration_ms": 276705,
-      "name": "Oh Oh (From \"Thangamagan\") - The First Love of Tamizh",
-      "url": "https://open.spotify.com/track/4QcOPoawK7LrgQ3cmN27of"
+      "duration_ms": 236500,
+      "name": "Chellamma (From \"Doctor\")",
+      "url": "https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Best of Anirudh",
+        "url": "https://open.spotify.com/album/66AenW3eBfgkiuBbtJr9wf"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 312280,
+      "name": "Velicha Poove (From \"Ethir Neechal\")",
+      "url": "https://open.spotify.com/track/0o2S5PKRkpTq8dLx8O7W4j"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -575,8 +539,8 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Ethir Neechal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg"
+        "name": "Maari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl"
       },
       "artists": [
         {
@@ -584,69 +548,13 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+          "name": "Alisha Thomas",
+          "url": "https://open.spotify.com/artist/2JlwKfQpBmPFip5JT4d7VG"
         }
       ],
-      "duration_ms": 228106,
-      "name": "Nijamellam Maranthupochu",
-      "url": "https://open.spotify.com/track/201Jot6JmkxQQD1iZEaK8d"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Kanne Kanne (From \"Ayogya\")",
-        "url": "https://open.spotify.com/album/27NXMaoKgNJR3iCHWKnpA3"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        }
-      ],
-      "duration_ms": 225558,
-      "name": "Kanne Kanne (From \"Ayogya\")",
-      "url": "https://open.spotify.com/track/6i5QcWVTuzM67pXgD9Q7Vw"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Petta (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Ilamai Thirumbudhe - From \"Petta\"",
-      "url": "https://open.spotify.com/track/4IUGuoJ41g5fLIqsO1MJoU"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Ethir Neechal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vivek Siva",
-          "url": "https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD"
-        }
-      ],
-      "duration_ms": 101133,
-      "name": "Un Paarvayil",
-      "url": "https://open.spotify.com/track/35cs2sZ24XIGequNBXfdpv"
+      "duration_ms": 195709,
+      "name": "Don'u Don'u Don'u - The Don's Romance",
+      "url": "https://open.spotify.com/track/2kbxGCtWSV0f1ON720Bd4O"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -671,8 +579,40 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Naanum Rowdy Dhaan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx"
+        "name": "Remo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Senjitaley",
+      "url": "https://open.spotify.com/track/2RB3zzgxWc2RRBaJOkSEka"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Petta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Ilamai Thirumbudhe - From \"Petta\"",
+      "url": "https://open.spotify.com/track/4IUGuoJ41g5fLIqsO1MJoU"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Kanne Kanne (From \"Ayogya\")",
+        "url": "https://open.spotify.com/album/27NXMaoKgNJR3iCHWKnpA3"
       },
       "artists": [
         {
@@ -680,89 +620,13 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
         }
       ],
-      "duration_ms": 301950,
-      "name": "Neeyum Naanum",
-      "url": "https://open.spotify.com/track/4aoko7oeXhp6ZUvFUQ3VC5"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Jigidi Killaadi (From \"Pattas\")",
-        "url": "https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vivek - Mervin",
-          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
-        }
-      ],
-      "duration_ms": 218915,
-      "name": "Jigidi Killaadi (From \"Pattas\")",
-      "url": "https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        },
-        {
-          "name": "Harish Swaminathan",
-          "url": "https://open.spotify.com/artist/3DFIYtEdg2hh7dz3g7idaX"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Po Nee Po - Remix - The Scream of Love",
-      "url": "https://open.spotify.com/track/4tC9EKLTfmLEryGR2f7Wjc"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Zero (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6P79UqoU8WKlcPAv5wB0au"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Uyire Un Uyirena",
-      "url": "https://open.spotify.com/track/4pFnIDmbwigWbeS7ohLqii"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Naanum Rowdy Dhaan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 262539,
-      "name": "Thangamey",
-      "url": "https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r"
+      "duration_ms": 225558,
+      "name": "Kanne Kanne (From \"Ayogya\")",
+      "url": "https://open.spotify.com/track/6i5QcWVTuzM67pXgD9Q7Vw"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -783,6 +647,78 @@
       "duration_ms": 266250,
       "name": "Nanbiye - From \"Teddy\"",
       "url": "https://open.spotify.com/track/1AdLxSuPIZRsIp7IM743dE"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Naanum Rowdy Dhaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 262539,
+      "name": "Thangamey",
+      "url": "https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Ethir Neechal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vivek Siva",
+          "url": "https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD"
+        }
+      ],
+      "duration_ms": 101133,
+      "name": "Un Paarvayil",
+      "url": "https://open.spotify.com/track/35cs2sZ24XIGequNBXfdpv"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Zero (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6P79UqoU8WKlcPAv5wB0au"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Uyire Un Uyirena",
+      "url": "https://open.spotify.com/track/4pFnIDmbwigWbeS7ohLqii"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Ethir Neechal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "duration_ms": 228106,
+      "name": "Nijamellam Maranthupochu",
+      "url": "https://open.spotify.com/track/201Jot6JmkxQQD1iZEaK8d"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -827,6 +763,50 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Harish Swaminathan",
+          "url": "https://open.spotify.com/artist/3DFIYtEdg2hh7dz3g7idaX"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Po Nee Po - Remix - The Scream of Love",
+      "url": "https://open.spotify.com/track/4tC9EKLTfmLEryGR2f7Wjc"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Naanum Rowdy Dhaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "duration_ms": 301950,
+      "name": "Neeyum Naanum",
+      "url": "https://open.spotify.com/track/4aoko7oeXhp6ZUvFUQ3VC5"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "Avalukena",
         "url": "https://open.spotify.com/album/2YmFZIuClRJrul4vunJR33"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 287786,
       "name": "Avalukena",
       "url": "https://open.spotify.com/track/6nP69wy9Y1PonStmqt33uk"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Jigidi Killaadi (From \"Pattas\")",
+        "url": "https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        }
+      ],
+      "duration_ms": 218915,
+      "name": "Jigidi Killaadi (From \"Pattas\")",
+      "url": "https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -883,6 +883,26 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "Vanakkam Chennai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Suchitra",
+          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "Ailasa Ailasa",
+      "url": "https://open.spotify.com/track/6n8gWl0tiqrjsrytd24prO"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "Marakkavillayae(Jersey)",
         "url": "https://open.spotify.com/album/4dOzOEIHi3QhtjnafMLrPo"
       },
@@ -899,22 +919,18 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Kaaki Sattai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4cn4bQCAZxOQSzSixRRYGb"
+        "name": "Best of Love : Anirudh Ravichander",
+        "url": "https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5"
       },
       "artists": [
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sivakarthikeyan",
-          "url": "https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr"
         }
       ],
-      "duration_ms": 229431,
-      "name": "I'm so Cool",
-      "url": "https://open.spotify.com/track/1q5HD0cyUCbM0s4hQgbtN0"
+      "duration_ms": 259594,
+      "name": "Naana Thaana (From \"Thaanaa Serndha Koottam\")",
+      "url": "https://open.spotify.com/track/5CzhbT0Ly1hcslbzAchwnx"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -935,6 +951,46 @@
       "duration_ms": 243520,
       "name": "Gaandakannazhagi",
       "url": "https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Simba (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0DUTVOWLmclAk3pfhHUwbY"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q"
+        }
+      ],
+      "duration_ms": 189105,
+      "name": "Marandhadhae",
+      "url": "https://open.spotify.com/track/6djRqSJNZnkuWYXQWaeCL8"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Kaaki Sattai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4cn4bQCAZxOQSzSixRRYGb"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sivakarthikeyan",
+          "url": "https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr"
+        }
+      ],
+      "duration_ms": 229431,
+      "name": "I'm so Cool",
+      "url": "https://open.spotify.com/track/1q5HD0cyUCbM0s4hQgbtN0"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -983,42 +1039,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Best of Love : Anirudh Ravichander",
-        "url": "https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 259594,
-      "name": "Naana Thaana (From \"Thaanaa Serndha Koottam\")",
-      "url": "https://open.spotify.com/track/5CzhbT0Ly1hcslbzAchwnx"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Vanakkam Chennai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Suchitra",
-          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "Ailasa Ailasa",
-      "url": "https://open.spotify.com/track/6n8gWl0tiqrjsrytd24prO"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "Vivegam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 256195,
       "name": "Kadhalaada",
       "url": "https://open.spotify.com/track/4zvwpmnKudoMEVpl0h2JKE"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Rum (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7wOBAKgO7PkU1tsOMPI8LN"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Alladhe Siragiye",
-      "url": "https://open.spotify.com/track/4bBvORgFl84qcZ1Q4LtMoN"
     }
   ],
   "unique_name": "Romantic Anirudh",

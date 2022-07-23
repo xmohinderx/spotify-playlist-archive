@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tracks in Canada! Cover: Preston Pablo",
+  "description": "The hottest tracks in Canada! Cover: Post Malone",
   "name": "Hot Hits Canada",
   "published_playlist_ids": [
     "6h6yvKmgSMonH6murTjQzd"
@@ -585,6 +585,28 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "album": {
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
       "album": {
@@ -1367,7 +1389,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2lK96FM2S948f6r0zauyY3"
@@ -1881,7 +1903,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 163090,
       "name": "fingers crossed",
       "url": "https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y"
@@ -4298,6 +4320,28 @@
     },
     {
       "album": {
+        "name": "Paris to Tokyo",
+        "url": "https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130897,
+      "name": "Paris to Tokyo",
+      "url": "https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7"
+    },
+    {
+      "album": {
         "name": "Party 22",
         "url": "https://open.spotify.com/album/75eIzhuTaVE3zUcYpLBn72"
       },
@@ -5483,7 +5527,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
@@ -5647,6 +5691,24 @@
       "duration_ms": 144000,
       "name": "Turning Me Up (Hadal Ahbek)",
       "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
+    },
+    {
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "album": {

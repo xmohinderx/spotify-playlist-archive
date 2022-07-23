@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vikrant Rona",
-  "num_followers": 34642,
+  "num_followers": 34734,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQwOTI4NSwwMDAwMDFiMjAwMDAwMTgyMjBlNTc2OGYwMDAwMDE4MTEzMjM5YWY1",
+  "snapshot_id": "MTY1ODQ5NjgzMSwwMDAwMDFiMzAwMDAwMTgyMjYxZDUwMGYwMDAwMDE4MTEzMjM5YWY1",
   "tracks": [
     {
       "added_at": "2022-07-18 06:13:34",
@@ -55,34 +55,6 @@
       "duration_ms": 278377,
       "name": "Kesariya Rangu (From \"Brahmastra (Kannada)\")",
       "url": "https://open.spotify.com/track/1F0i0Ynrv28aAvycSLsugZ"
-    },
-    {
-      "added_at": "2022-07-21 13:14:45",
-      "album": {
-        "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [KANNADA]",
-        "url": "https://open.spotify.com/album/5KDGBLIx7H0XCiRIW2GEEy"
-      },
-      "artists": [
-        {
-          "name": "Anup Bhandari",
-          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Harshika Devanath",
-          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [KANNADA]",
-      "url": "https://open.spotify.com/track/5J6yjAulDajwVuU9Rvgkwt"
     },
     {
       "added_at": "2022-07-21 13:01:19",
@@ -219,6 +191,34 @@
       "duration_ms": 257488,
       "name": "Naanaadada Maathellava",
       "url": "https://open.spotify.com/track/2LfLMPtq8oyLi0WIImOkih"
+    },
+    {
+      "added_at": "2022-07-21 13:14:45",
+      "album": {
+        "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [KANNADA]",
+        "url": "https://open.spotify.com/album/5KDGBLIx7H0XCiRIW2GEEy"
+      },
+      "artists": [
+        {
+          "name": "Anup Bhandari",
+          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Harshika Devanath",
+          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [KANNADA]",
+      "url": "https://open.spotify.com/track/5J6yjAulDajwVuU9Rvgkwt"
     },
     {
       "added_at": "2022-07-18 06:13:34",

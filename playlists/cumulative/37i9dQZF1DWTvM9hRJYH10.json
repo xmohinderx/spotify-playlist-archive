@@ -700,6 +700,24 @@
     },
     {
       "album": {
+        "name": "Don't Have the Heart",
+        "url": "https://open.spotify.com/album/3JKLVJ0VF6UaVI92q3fuFW"
+      },
+      "artists": [
+        {
+          "name": "Anslee Davidson",
+          "url": "https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182520,
+      "name": "Don't Have the Heart",
+      "url": "https://open.spotify.com/track/6oWtcMZEvn4QlG3XWFbDcW"
+    },
+    {
+      "album": {
         "name": "Wild Honey",
         "url": "https://open.spotify.com/album/2TP01rVGpfAYeAie5op5el"
       },
@@ -3483,6 +3501,24 @@
       "duration_ms": 247402,
       "name": "What I'm Missing",
       "url": "https://open.spotify.com/track/66GQoMh8QwUD8ogFEX2xxD"
+    },
+    {
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA"
+      },
+      "artists": [
+        {
+          "name": "King Calaway",
+          "url": "https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193417,
+      "name": "When I Get Home",
+      "url": "https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,123 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,170 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 18 | [Mood \(feat\. Buju\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 |
 | 19 | [My Lil Dancer](https://open.spotify.com/track/69EkBoYuLneOkFTJ1AyUgd) | [J Verse](https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB) | [My Lil Dancer](https://open.spotify.com/album/27Yt0uaMAKusbnwvS7dzlx) | 2:25 |
 | 20 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 |
-| 21 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:33 |
+| 21 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 |
 | 22 | [Cheetah](https://open.spotify.com/track/1CIwUGU2DAro80bYOmQgc1) | [Alutondo](https://open.spotify.com/artist/0vuNvwaPfkZ3YvGR8pQvwa) | [Midnight Business](https://open.spotify.com/album/5HfEG23uwgXUpAuOBDj7xg) | 2:50 |
 | 23 | [Be Your Man](https://open.spotify.com/track/7jS8pWrGS7BdD5MXMbciBW) | [WaiKid](https://open.spotify.com/artist/4Y4QHTHS8v9GNGEZ4Xh90Q) | [Be Your Man](https://open.spotify.com/album/3Zc3rOr3Vbkn7iPql4huXG) | 3:01 |
 | 24 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 |

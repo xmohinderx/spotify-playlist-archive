@@ -4,7 +4,7 @@
 
 > All of your favorite Disney hits, including songs from Turning Red\. Stream Disney and Pixar's Turning Red on Disney+.
 
-110 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/636MTeCEICQctVDwXtEgUe)
+111 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/636MTeCEICQctVDwXtEgUe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Circle of Life \- From "The Lion King"/ Soundtrack](https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8) | [Carmen Twillie](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:59 | 2022-04-01 |  |
 | [Colombia, Mi Encanto](https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:55 | 2022-04-01 |  |
 | [Colors of the Wind \- From "Pocahontas" / Soundtrack Version](https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 3:34 | 2022-04-01 |  |
+| [Come on Out](https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 3 \(Original Soundtrack\)](https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF) | 2:45 | 2022-07-22 |  |
 | [Dig a Little Deeper \- From "The Princess and the Frog"/Soundtrack Version](https://open.spotify.com/track/6DE96OoBcJiJXkEJKNksR9) | [Jenifer Lewis](https://open.spotify.com/artist/6e28WiPlKSu1ukkhHCZEnF), [The Pinnacle Gospel Choir](https://open.spotify.com/artist/4R1dpQ2VCZsEutiXZKeIzk) | [The Princess and the Frog](https://open.spotify.com/album/6zgvBxOmfWxrQi4Jxxki0P) | 2:47 | 2022-04-01 |  |
 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:26 | 2022-04-01 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 | 2022-04-01 |  |

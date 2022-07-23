@@ -4,7 +4,7 @@
 
 > canzoni da gridare e in cover sally cruz, mike defunto, konti flowerchild
 
-202 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+203 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Live Fast Die Numb](https://open.spotify.com/track/10omO03JNpJwhjo538gdNc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Live Fast Die Numb](https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH) | 2:14 | 2022-06-09 | 2022-07-01 |
 | [Locked Out](https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Locked Out](https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA) | 2:56 | 2022-05-19 | 2022-06-17 |
 | [Lola](https://open.spotify.com/track/7CwPk4p8ZNbI4oH3cakwUl) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [Lola](https://open.spotify.com/album/22dJpy36yuKnUkXXCxC0pC) | 2:51 | 2022-07-07 |  |
+| [Lontano Da Qui](https://open.spotify.com/track/218oCaHB7IettSt4R7fHNr) | [TerzoGrado](https://open.spotify.com/artist/4LBzpop76F0OCdV1EvPkXd), [Don Marco](https://open.spotify.com/artist/4CdYqWx1aPBlXcXZPPy1ZN) | [Lontano Da Qui](https://open.spotify.com/album/18JrDsRl6IaU6iAV6KJRZn) | 2:12 | 2022-07-21 |  |
 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-06 | 2022-05-14 |
 | [Luci](https://open.spotify.com/track/1FxHnw0caKYveCSa2IDBai) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws), [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Luci](https://open.spotify.com/album/4w4QMDRhDYHDVD8lYfBhd5) | 2:45 | 2022-05-26 | 2022-07-14 |
 | [Ma non erano te](https://open.spotify.com/track/0B1LI7BXzvtxDVdpyxCWKb) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Ma non erano te](https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM) | 2:33 | 2022-05-06 |  |

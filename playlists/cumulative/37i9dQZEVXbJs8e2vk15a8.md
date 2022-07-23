@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-262 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+263 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7dT3NxlPsOIdM6dftDNM5K) | [Nimaru Sasuki](https://open.spotify.com/artist/5UZD1JyyirR8AeaMaeQ0rs) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/2K6BxWzcd239wPWr3SVURE) | 3:39 | 2022-07-13 | 2022-07-19 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs) | [Tito Silva Music](https://open.spotify.com/artist/2IFOwmcGO4WH8r3qPOh1Y8) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/1Tc6UA5XQyaJzgCEZYS3p1) | 3:39 | 2022-06-30 | 2022-07-09 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/4Ke7vgenot8iGErbr6Bdwa) | [Tony Temperature](https://open.spotify.com/artist/39WQE9Gh5H6kiCETIwJGgv) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/1XG3gnmKvB0kC5sFztQ0E8) | 3:39 | 2022-07-20 |  |
+| [Mi Casi Algo](https://open.spotify.com/track/0JpuxOdaEbiiPQyH1UmW4H) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Mi Casi Algo](https://open.spotify.com/album/3fS8FJxewni07MgSvMKOtp) | 3:00 | 2022-07-22 |  |
 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 | 2022-04-15 | 2022-04-19 |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-05-28 | 2022-07-08 |
 | [MIDNIGHT](https://open.spotify.com/track/2lCPDg2EWErPYdO3ItPUdH) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/0xOs1J6MzsKZpf2io1FoXG) | 2:02 | 2022-05-24 | 2022-05-29 |
@@ -216,7 +217,7 @@
 | [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-04-26 | 2022-05-08 |
 | [Si Sako La 40](https://open.spotify.com/track/5lRF8YZjaXMjy6R5fDSDZN) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Si Sako La 40](https://open.spotify.com/album/6sH2qyW1587fZr8yPQ5uZa) | 4:02 | 2022-06-21 | 2022-07-14 |
 | [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 | 2022-04-26 | 2022-05-16 |
-| [Sigues Dando Vueltas](https://open.spotify.com/track/0Xx3oZp0MawleVVxr9MOlG) | [La Rue Morgue](https://open.spotify.com/artist/26ZwTqwf87K05pQDOg3Tc3) | [La Rue Morgue](https://open.spotify.com/album/0NJN9pYxkzezlzjHbj7Qp4) | 4:36 | 2022-07-16 |  |
+| [Sigues Dando Vueltas](https://open.spotify.com/track/0Xx3oZp0MawleVVxr9MOlG) | [La Rue Morgue](https://open.spotify.com/artist/26ZwTqwf87K05pQDOg3Tc3) | [La Rue Morgue](https://open.spotify.com/album/0NJN9pYxkzezlzjHbj7Qp4) | 4:36 | 2022-07-16 | 2022-07-23 |
 | [Sin Miedo](https://open.spotify.com/track/3AmapHSIVmvhxdOsp9IjMs) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Criss J.](https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe) | [Sin Miedo](https://open.spotify.com/album/4uePRLsrizKav02ugx8Yvk) | 4:38 | 2022-07-19 |  |
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-05-24 | 2022-06-01 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-06-23 |  |

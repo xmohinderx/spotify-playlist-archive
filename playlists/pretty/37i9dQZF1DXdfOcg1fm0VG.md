@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,895 likes - 97 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,172 likes - 97 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Halo](https://open.spotify.com/track/0htrx26DcVDcyXErXyJsTo) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Original Soundtrack](https://open.spotify.com/album/6GSXmRwERX2erR5xuLTajj) | 4:22 |
 | 2 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 |
-| 3 | [The Last of Us](https://open.spotify.com/track/285ieonEuLkll3zknYK2TY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 3:03 |
-| 4 | [God of War](https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 4:06 |
-| 5 | [Dragonborn](https://open.spotify.com/track/2gaZJDgE71VL9PzzUUlpMg) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 3:55 |
-| 6 | [Ezio's Family](https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) | 3:57 |
-| 7 | [The Rebel Path](https://open.spotify.com/track/3m8UfZwPMMbiWfGR8Lg2cR) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 4:10 |
-| 8 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 |
+| 3 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 |
+| 4 | [The Last of Us](https://open.spotify.com/track/285ieonEuLkll3zknYK2TY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 3:03 |
+| 5 | [God of War](https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 4:06 |
+| 6 | [Dragonborn](https://open.spotify.com/track/2gaZJDgE71VL9PzzUUlpMg) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 3:55 |
+| 7 | [Ezio's Family](https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) | 3:57 |
+| 8 | [The Rebel Path](https://open.spotify.com/track/3m8UfZwPMMbiWfGR8Lg2cR) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 4:10 |
 | 9 | [Geralt Of Rivia](https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 2:21 |
 | 10 | [Assassin's Creed IV Black Flag Main Theme](https://open.spotify.com/track/6enLk2V2s0M6D6PGLjHxYv) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Assassin's Creed 4: Black Flag \(Original Game Soundtrack\)](https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz) | 2:13 |
 | 11 | [New York's Only Spider\-Man](https://open.spotify.com/track/3sPz0HlbbJsiTL1jrrrxGT) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Marvel’s Spider\-Man: Miles Morales \(Original Video Game Soundtrack\)](https://open.spotify.com/album/6CaxswOwsM2r7jchhSyTb8) | 2:53 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 96 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 97 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `MTY1ODMwOTAyOCwwMDAwMDA1YTAwMDAwMTgyMWFlYmE4YjIwMDAwMDE4MDQxMDM4Njc2`
+Snapshot ID: `MTY1ODQ3MTkzNSwwMDAwMDA1YjAwMDAwMTgyMjRhMTZkMGIwMDAwMDE4MDQxMDM4Njc2`

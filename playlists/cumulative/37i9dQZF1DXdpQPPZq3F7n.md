@@ -4,7 +4,7 @@
 
 > Best Bollywood love songs from last 10 years\. Cover\- Shamshera
 
-91 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
+92 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Meri Jaan](https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Gangubai Kathiawadi](https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b) | 3:58 | 2022-05-19 |  |
 | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL) | 4:08 | 2022-05-19 |  |
 | [Meri Zindagi Hai Tu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6IWZKBeAkeCzaYNE8SmedK) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Meri Zindagi Hai Tu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/392fY67CeiPIn2cm7PE2X8) | 4:44 | 2022-05-19 |  |
+| [Naa Tere Bin \(From "Ek Villain Returns"\)](https://open.spotify.com/track/0d5tgymZ98ERrAm8v01ltg) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF) | [Naa Tere Bin \(From "Ek Villain Returns"\)](https://open.spotify.com/album/2m2oeKEj72BuuVp12p1bVc) | 6:11 | 2022-07-22 |  |
 | [Nazar Na Lag Jaaye \(From "Stree"\)](https://open.spotify.com/track/0cWLJcdvM6QlOQ7UJdB4jb) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Nazar Na Lag Jaaye \(From "Stree"\)](https://open.spotify.com/album/4dcCr0IJEfCIALHDKMLM4U) | 3:26 | 2022-05-19 |  |
 | [O Saathi](https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [O Saathi \(From "Baaghi 2"\)](https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A) | 4:11 | 2022-05-19 |  |
 | [Pal](https://open.spotify.com/track/79hQvdTHNBkq2fp2ZrM8b2) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jalebi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XSR5WDCh2PIYE0fp7C3cN) | 4:07 | 2022-05-19 |  |

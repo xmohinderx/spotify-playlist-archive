@@ -1,12 +1,12 @@
 {
   "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a Pau Laggies. \ud83c\udf0a\u2728 ",
-  "num_followers": 27417,
+  "num_followers": 27465,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE4ODcxNCwwMDAwMDA1NjAwMDAwMTgyMTNiZmQxMTUwMDAwMDE4MWY4YWU4MjU2",
+  "snapshot_id": "MTY1ODUyNTg2MSwwMDAwMDA1NzAwMDAwMTgyMjdkODQ0OGEwMDAwMDE4MWY4YWU4MjU2",
   "tracks": [
     {
       "added_at": "2022-07-18 23:58:34",
@@ -41,6 +41,30 @@
       "url": "https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu"
     },
     {
+      "added_at": "2022-07-22 21:37:40",
+      "album": {
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232298,
+      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
+    },
+    {
       "added_at": "2022-07-18 23:58:34",
       "album": {
         "name": "Simplemente",
@@ -55,6 +79,38 @@
       "duration_ms": 168879,
       "name": "Simplemente",
       "url": "https://open.spotify.com/track/6XGj5jW59gjiGaRygj4dbn"
+    },
+    {
+      "added_at": "2022-07-22 21:37:40",
+      "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/5a6ehCg907H8WCa5oSD0HS"
+      },
+      "artists": [
+        {
+          "name": "Depressiego",
+          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/2RZBRW0bViEHUgoeagzD7m"
+    },
+    {
+      "added_at": "2022-07-18 23:58:34",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5"
     },
     {
       "added_at": "2022-07-18 23:58:34",
@@ -81,36 +137,40 @@
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
     },
     {
-      "added_at": "2022-07-18 23:58:34",
+      "added_at": "2022-07-22 21:37:40",
       "album": {
-        "name": "estereotipo",
-        "url": "https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n"
+        "name": "Contenta",
+        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
       },
       "artists": [
         {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+        },
+        {
+          "name": "Victor Rivas",
+          "url": "https://open.spotify.com/artist/6TrKb0KnHM36Gu1U5oMBky"
         }
       ],
-      "duration_ms": 174825,
-      "name": "estereotipo",
-      "url": "https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u"
+      "duration_ms": 215347,
+      "name": "Contenta",
+      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
     },
     {
       "added_at": "2022-07-18 23:58:34",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov"
+        "name": "CHTM",
+        "url": "https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
         }
       ],
-      "duration_ms": 181240,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5"
+      "duration_ms": 189333,
+      "name": "CHTM",
+      "url": "https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI"
     },
     {
       "added_at": "2022-07-18 23:58:34",
@@ -147,6 +207,22 @@
       "duration_ms": 189621,
       "name": "vienes y te vas :|",
       "url": "https://open.spotify.com/track/7JYmphizKecTyAicTJYgco"
+    },
+    {
+      "added_at": "2022-07-18 23:58:34",
+      "album": {
+        "name": "estereotipo",
+        "url": "https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 174825,
+      "name": "estereotipo",
+      "url": "https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u"
     },
     {
       "added_at": "2022-07-18 23:58:34",
@@ -195,22 +271,6 @@
       "duration_ms": 208000,
       "name": "Natural",
       "url": "https://open.spotify.com/track/03SLmnUTzDVHThnuFsZhcK"
-    },
-    {
-      "added_at": "2022-07-18 23:58:34",
-      "album": {
-        "name": "CHTM",
-        "url": "https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "CHTM",
-      "url": "https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI"
     },
     {
       "added_at": "2022-07-18 23:58:34",
@@ -663,22 +723,6 @@
     {
       "added_at": "2022-07-18 23:58:34",
       "album": {
-        "name": "I Like 2 Be",
-        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174923,
-      "name": "I Like 2 Be",
-      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
-    },
-    {
-      "added_at": "2022-07-18 23:58:34",
-      "album": {
         "name": "qu\u00e9 voy a hacer conmigo???",
         "url": "https://open.spotify.com/album/2yfEIEiNip2zD2cO8kl1lg"
       },
@@ -847,26 +891,6 @@
       "duration_ms": 168541,
       "name": "\u00bfQu\u00e9 Dir\u00eda Tu Mam\u00e1?",
       "url": "https://open.spotify.com/track/09LvdCg0WK24zdq6ELQ0Ex"
-    },
-    {
-      "added_at": "2022-07-18 23:58:34",
-      "album": {
-        "name": "Ll\u00e1mame",
-        "url": "https://open.spotify.com/album/0fnmpFDb8x8qUkNgFJRvem"
-      },
-      "artists": [
-        {
-          "name": "Axel Olloqui",
-          "url": "https://open.spotify.com/artist/5G4Gh8x14AwqhaiH9zo5qs"
-        },
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ll\u00e1mame",
-      "url": "https://open.spotify.com/track/6pUOXwDOMBTIsYKP87urb6"
     },
     {
       "added_at": "2022-07-18 23:58:34",
@@ -1215,26 +1239,6 @@
       "duration_ms": 179000,
       "name": "me elegiste a m\u00ed <3",
       "url": "https://open.spotify.com/track/6AsXVvuBCO21Q5bVVGEmsD"
-    },
-    {
-      "added_at": "2022-07-18 23:58:34",
-      "album": {
-        "name": "DIADREAMER",
-        "url": "https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        },
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "DIADREAMER",
-      "url": "https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv"
     },
     {
       "added_at": "2022-07-18 23:58:34",

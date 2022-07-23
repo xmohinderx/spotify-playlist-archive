@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,796 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,806 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 39 | [Confession](https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Confession](https://open.spotify.com/album/2j6o2L4cimT1ufEDoymvTF) | 3:08 |
 | 40 | [Eh God \(Barnabas\)](https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 3:04 |
 | 41 | [SQUID GAME \- AMAPIANO](https://open.spotify.com/track/4MEMzBWJ8HBwj66gCcgFeU) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [SQUID GAME \(AMAPIANO\)](https://open.spotify.com/album/72vA6XYyOprPg4bwiKSDMd) | 1:46 |
-| 42 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:33 |
+| 42 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 |
 | 43 | [Forever \(Remix\)](https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Forever \(Remix\)](https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H) | 3:21 |
 | 44 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/1d1n5KjW6aH9ItdA8WmlWW) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Plead The 5th](https://open.spotify.com/album/3fs9Y3TQ3twby9Yc3b7uL8) | 3:27 |
 | 45 | [Infinity \(feat\. Omah Lay\)](https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 2:51 |

@@ -604,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Nope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0YD6YdZrQtTDjOFc9g3x8z"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "Preparing The Trap",
+      "url": "https://open.spotify.com/track/729porTW6i1cZ53nrNJmpN"
+    },
+    {
+      "album": {
         "name": "A Perfect Planet (Soundtrack from the BBC Series)",
         "url": "https://open.spotify.com/album/3ZJ14xDvYx604elVWCipDz"
       },

@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-81 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
+82 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/518hKWxnCK1L1fsYRl0OB5) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Sheku Kanneh\-Mason](https://open.spotify.com/album/59gnfcIkUBrYpXwsN5YWax) | 2:56 | 2021-11-15 |  |
 | [Ascent \- Day 1](https://open.spotify.com/track/4NqknSuLbtn77F73YzNVBf) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking](https://open.spotify.com/album/5Otajf16kZ0zkVZWhu7LtO) | 5:37 | 2021-11-15 |  |
 | [Ave Maria, S\. 558 \(after Schubert, D\. 839\)](https://open.spotify.com/track/6mfmrVSe5Cm7cvsNwW6uJk) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Liszt: Ave Maria, S\. 558 \(after Schubert, D\. 839\)](https://open.spotify.com/album/6czvXIzY7s7XwttsVTwCnQ) | 5:28 | 2021-11-15 | 2022-03-18 |
+| [Ave María \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0) | [Sigvaldi Kaldalóns](https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Kaldalóns: Ave María \(Arr\. Víkingur Ólafsson\)](https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA) | 3:36 | 2022-07-22 |  |
 | [Avril 14th \(Aphex Twin\) \- Vanessa Wagner Version](https://open.spotify.com/track/5KIOfWtUEKrxDNi4OnIpg2) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Avril 14th \(Aphex Twin\) \[Vanessa Wagner Version\]](https://open.spotify.com/album/19YciIvd4UjiNvViXU9KVv) | 2:45 | 2021-11-15 |  |
 | [Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 | 2021-11-15 |  |
 | [By the Still Waters, Op\. 114](https://open.spotify.com/track/3qLZnIVAiGexuNuG8Aptrq) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Beach: By the Still Waters, Op\. 114](https://open.spotify.com/album/52E1rqtwQBOPBGIq07YTHn) | 3:07 | 2021-11-15 |  |

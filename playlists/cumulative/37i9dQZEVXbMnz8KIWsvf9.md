@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-411 songs - 1 day 0 hr 4 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+413 songs - 1 day 0 hr 12 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2021-06-02 | 2021-06-03 |
 | [1001 \(You're Lovely\)](https://open.spotify.com/track/7ip4DUtdpLH4TkHfKgFbpf) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [1001 \(You're Lovely\)](https://open.spotify.com/album/034QxEQoDA2B6O8rtNglTe) | 3:14 | 2021-03-27\* | 2021-10-09 |
 | [134340](https://open.spotify.com/track/1MX0g22bQkr9HDVe37fLnN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 3:50 | 2022-04-23 | 2022-06-06 |
-| [17 นาที](https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [17 นาที](https://open.spotify.com/album/5SJUJTC3angIZd2p8kmBUR) | 3:35 | 2022-02-19 |  |
+| [17 นาที](https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [17 นาที](https://open.spotify.com/album/5SJUJTC3angIZd2p8kmBUR) | 3:35 | 2022-02-19 | 2022-07-23 |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2021-03-27\* | 2021-06-09 |
 | [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 | 2022-07-16 | 2022-07-21 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-03 | 2022-04-06 |
@@ -310,6 +310,7 @@
 | [จำเลยรัก \- Defendant Of Love](https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [จำเลยรัก \(Defendant Of Love\)](https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH) | 4:24 | 2021-03-27\* | 2022-02-05 |
 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 | 2021-03-27\* | 2021-08-18 |
 | [ฉบับปรับปรุง](https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q), [Lazyloxy](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MAS\[S\]TERPIECE](https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2) | 4:04 | 2022-01-15 |  |
+| [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2022-07-22 |  |
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [UrboyTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2021-03-27\* | 2022-02-02 |
 | [ซับ](https://open.spotify.com/track/0Qk8RUwooCGKghG9yClG3O) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [ว่าน วันวาน](https://open.spotify.com/artist/0QScRPnsnAmEpN7w3p1Joo) | [ซับ](https://open.spotify.com/album/1c96H5AfNuK1rbtQ54PjR7) | 4:46 | 2021-03-27\* | 2021-09-12 |
 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 | 2022-05-25 |  |
@@ -375,6 +376,7 @@
 | [อย่าบอกใครนะ](https://open.spotify.com/track/0xG48CBxqMQoYscjjXwD6v) | [SOYBAD](https://open.spotify.com/artist/0TS3m9e5r7Y8Q1jTxaPxcL) | [SOYBAD Vol.1](https://open.spotify.com/album/27U0eRZQHyEe0nkmy3zQby) | 4:48 | 2021-03-27\* | 2021-04-04 |
 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 | 2022-01-28 | 2022-07-03 |
 | [อีกนิดเดียว](https://open.spotify.com/track/4ixPZeYNdk0eMTQGZxRPsr) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [อีกนิดเดียว](https://open.spotify.com/album/3YcZNdrjPP6AeFhazOcSab) | 3:41 | 2022-05-23 | 2022-05-31 |
+| [อ๋อค่ะ](https://open.spotify.com/track/1XlaKSyICVO45By6Gf1CjM) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [อ๋อค่ะ](https://open.spotify.com/album/7CEY36trH9lWieeGRzTOgb) | 4:12 | 2022-07-22 |  |
 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 | 2022-07-11 | 2022-07-17 |
 | [เกินปุยมุ้ย!](https://open.spotify.com/track/2nhI5HdE2iZ39rgJjHOQvG) | [เอ้ย จิรัช](https://open.spotify.com/artist/57LTnxDtihPVR9HlkAN3OY) | [เกินปุยมุ้ย!](https://open.spotify.com/album/2VuEAib3nbCqK58hcIaKSV) | 3:11 | 2022-07-16 |  |
 | [เก็บไว้ในใจไม่พอ](https://open.spotify.com/track/0hdVaCnCS5d5puPAN2tQ25) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [Popstar](https://open.spotify.com/album/46bPZgDz1psyr7QOgu36lE) | 4:26 | 2021-04-14 | 2021-05-11 |
@@ -408,7 +410,7 @@
 | [โคตรพิเศษ \- From แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/7vnw2nU0xpc9RABEgc3pxQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From แปลรักฉันด้วยใจเธอ\)](https://open.spotify.com/album/6RRpP4CaftCir8eUBwG5mh) | 3:57 | 2021-08-03 | 2021-11-17 |
 | [โต๊ะริม \(Melt\)](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม \(Melt\)](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2022-05-21 |  |
 | [โลกคู่ขนาน](https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [โลกคู่ขนาน](https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk) | 4:40 | 2022-05-15 |  |
-| [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2022-04-09 |  |
+| [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2022-04-09 | 2022-07-23 |
 | [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 | 2022-06-02 |  |
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-07-11 | 2022-07-17 |
 | [ได้แต่นึกถึง](https://open.spotify.com/track/3ewJNxY8tVHvX94CAUtg89) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 4:24 | 2022-07-11 |  |

@@ -4,7 +4,7 @@
 
 > Explore the music of Franz Liszt.
 
-62 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/4ld6KBRsJTUukEy8BzbdXO)
+63 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/4ld6KBRsJTUukEy8BzbdXO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Schubert \- Mullerlieder, S565/E249: No\. 5, Wohin? \(2nd Version\)](https://open.spotify.com/track/7dNR9z4I3DtkrJO2k96Ame) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Valerie Tryon](https://open.spotify.com/artist/5QAb81QLlETPYzwp9DnZsX) | [Liszt Complete Piano Music, Vol\. 17: Schubert Song Transcriptions, Vol\. 2](https://open.spotify.com/album/7mjTSS6EirJLb3IH47Gwut) | 3:05 | 2021-08-26 |  |
 | [Schwanengesang, S.560: No.4 Ständchen](https://open.spotify.com/track/6cI2sf8Go2EDkFt0COnAcB) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Vladimir Horowitz \- Horowitz at home](https://open.spotify.com/album/29PhaYhXimGetKtZqTmbjC) | 5:35 | 2021-08-26 |  |
 | [Tasso: Lamento e trionfo, S\. 96/R\. 413](https://open.spotify.com/track/310UFn2bmq7wgs6jT0A9eF) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Liszt: Symphonic Poems, Vol\. 1](https://open.spotify.com/album/7hDEi5kb68ioi3IFyHCieu) | 21:29 | 2021-08-26 |  |
+| [Transcendental Études, S.139: XI\. Harmonies du soir](https://open.spotify.com/track/28Icv5GtXZOzVzuA0n71Q5) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Transcendental Études, S.139: XI\. Harmonies du soir](https://open.spotify.com/album/1ep1mqzJTqWdp1k0dIEXr2) | 9:59 | 2022-07-22 |  |
 | [Troisième année S.163: III.Les jeux d'eau de la Villa d'Este](https://open.spotify.com/track/4YUQCUPZZrEA4PySXP40gQ) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Liszt: Intégrale des années de pélerinage](https://open.spotify.com/album/3YXLEqHOnEjikyFP8FZtYx) | 8:20 | 2021-08-26 |  |
 | [Unstern! \-Sinistre , S208](https://open.spotify.com/track/0N4sQWENULr0EHhYWDfRw1) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [The Liszt Project \- Bartók; Berg; Messiaen; Ravel; Scriabin; Stroppa; Wagner](https://open.spotify.com/album/3RgXHfxrJinj7TJEK2zjeM) | 6:03 | 2021-08-26 |  |
 | [Valses oubliées, S\. 215: No\. 1, —](https://open.spotify.com/track/4ZD8KtkiNJI9Jh4joc7gFA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Goran Filipec](https://open.spotify.com/artist/0ay4ca3yOhNIRsqKvq2RCW) | [Liszt: Dances](https://open.spotify.com/album/07yv6Mkf1csfdMMm3jtctx) | 2:46 | 2021-08-26 |  |

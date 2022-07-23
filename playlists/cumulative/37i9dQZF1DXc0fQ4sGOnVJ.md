@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-92 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+93 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Camo Bikini](https://open.spotify.com/track/7MZzRMgH869ato8v567j0F) | [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Fish Grease](https://open.spotify.com/album/3OHLWecwSvDZHY4pGShyUI) | 3:21 | 2021-05-21 | 2022-02-05 |
 | [Camouflage Mirage](https://open.spotify.com/track/7j6UqfFyPh6VX58JgQ0YVa) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Camouflage Mirage](https://open.spotify.com/album/3Kj9H3NcShGGO8ttqSOJpQ) | 3:14 | 2021-11-12 |  |
 | [Colt 45 \(Country Remix\)](https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Colt 45 \(Country Remix\)](https://open.spotify.com/album/4hcoGCFaURlQwT0uFRdJd6) | 3:23 | 2021-07-02 |  |
+| [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-07-22 |  |
 | [Country Made](https://open.spotify.com/track/7GSxIF5RhPeJNYfMMVrPwE) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Country Made](https://open.spotify.com/album/5qcoyQvvEuFbIoAIymKIea) | 3:29 | 2021-05-21 |  |
 | [Cowboy Way](https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC) | [The Maverick Mikel Knight](https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg) | [Urban Cowboy \(Where the City Meets the Country\)](https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf) | 4:38 | 2021-05-21 |  |
 | [Crank It Up](https://open.spotify.com/track/1dlwBmalURXIQ29gMXYBnt) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Crank It Up](https://open.spotify.com/album/03X6psm4BYCDWJzN0U9a3X) | 3:20 | 2021-05-21 |  |

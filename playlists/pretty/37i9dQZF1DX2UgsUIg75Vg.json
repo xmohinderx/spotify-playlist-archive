@@ -1,13 +1,33 @@
 {
   "description": "Chilled R&B jams for your most relaxed moods.",
-  "num_followers": 2254721,
+  "num_followers": 2254994,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzgzNSwwMDAwMDRjYzAwMDAwMTgyMDAwNzAyNmMwMDAwMDE2ZDE1MjYzZjhm",
+  "snapshot_id": "MTY1ODQ5OTA2MiwwMDAwMDRjZTAwMDAwMTgyMjYzZjVhNTkwMDAwMDE2ZDE1MjYzZjhm",
   "tracks": [
+    {
+      "added_at": "2022-07-22 04:02:14",
+      "album": {
+        "name": "BEFORE WE GO (DEEPER)",
+        "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 212858,
+      "name": "CALI LOVE (feat. Ambr\u00e9)",
+      "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
+    },
     {
       "added_at": "2022-07-08 20:50:37",
       "album": {
@@ -117,20 +137,24 @@
       "url": "https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir"
     },
     {
-      "added_at": "2022-07-15 04:03:55",
+      "added_at": "2022-07-22 04:02:14",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+        "name": "b l u r r",
+        "url": "https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "pat junior",
+          "url": "https://open.spotify.com/artist/0lOsH3CaZpQIE3QO40SFvx"
         }
       ],
-      "duration_ms": 180401,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/0I6PjTwqXQlsJYwwBMP1sQ"
+      "duration_ms": 161274,
+      "name": "A Dream",
+      "url": "https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr"
     },
     {
       "added_at": "2022-05-19 23:49:06",
@@ -149,6 +173,22 @@
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
+      "added_at": "2022-07-15 04:03:55",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 180401,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/0I6PjTwqXQlsJYwwBMP1sQ"
+    },
+    {
       "added_at": "2022-05-19 23:49:06",
       "album": {
         "name": "Closer",
@@ -163,6 +203,22 @@
       "duration_ms": 258500,
       "name": "Marvin Gaye",
       "url": "https://open.spotify.com/track/4aZPzveVY9PjYAbifcal0v"
+    },
+    {
+      "added_at": "2022-07-22 04:02:14",
+      "album": {
+        "name": "BEFORE WE GO (DEEPER)",
+        "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        }
+      ],
+      "duration_ms": 242860,
+      "name": "EXCHANGE",
+      "url": "https://open.spotify.com/track/4efqAh7pv3Kw9N9IWHvHh4"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -247,6 +303,22 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1SsUx7lHTfuiSSB1KfRMdE"
+    },
+    {
+      "added_at": "2022-07-22 14:11:02",
+      "album": {
+        "name": "b l u r r",
+        "url": "https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 256202,
+      "name": "Feelings 4 You",
+      "url": "https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM"
     },
     {
       "added_at": "2022-07-08 20:50:37",

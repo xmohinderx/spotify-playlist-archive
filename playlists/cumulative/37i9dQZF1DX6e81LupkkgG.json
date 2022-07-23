@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 156485,
       "name": "Best Kept Secret",
       "url": "https://open.spotify.com/track/7apSGYv3h29CBfwLgL13Pi"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -1881,6 +1881,50 @@
       "duration_ms": 163333,
       "name": "Temporal - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3vL3QZ96wB8Qj4XdIzMHoX"
+    },
+    {
+      "album": {
+        "name": "Teu sim, mas n\u00e3o. (feat. Pedro Calais)",
+        "url": "https://open.spotify.com/album/6PZyMzlh4wTtUqO0NJzlUv"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Pedro Calais",
+          "url": "https://open.spotify.com/artist/5txRGZfNQ81RUk5G90Iqez"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201720,
+      "name": "Teu sim, mas n\u00e3o. (feat. Pedro Calais)",
+      "url": "https://open.spotify.com/track/2ySHbwdxA32udzny7hlULo"
+    },
+    {
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216448,
+      "name": "The 30th",
+      "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
     },
     {
       "album": {

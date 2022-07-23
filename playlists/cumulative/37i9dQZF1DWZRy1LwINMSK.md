@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno\. Foto: King Savagge.
+> La casa del trap chileno\. Foto: Julianno Sosa.
 
-112 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
+114 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [No Puedo Volver](https://open.spotify.com/track/79KMmSTjBXjHeKK3iCKX4F) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Moods](https://open.spotify.com/album/707uAk4QeoapehDGCcZeWb) | 3:03 | 2022-01-20 |  |
 | [Norty](https://open.spotify.com/track/41WenSWfGMM2moyuFtKwAK) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Young Kieff](https://open.spotify.com/artist/4A7KjkSSYRNjt9Cp9MNEx4) | [Onward](https://open.spotify.com/album/7thoKr7EPk4YBgSy1zVXmc) | 2:33 | 2022-01-20 |  |
 | [Pa' Brillar](https://open.spotify.com/track/3hflsANR6DqnHfZ2Tiv5Jl) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Sangre Joven](https://open.spotify.com/album/2P3LeQkfS4gV91SpXEisRl) | 4:06 | 2022-01-20 | 2022-04-29 |
+| [Party Party](https://open.spotify.com/track/1uGPbKHjriysR2dho5t66M) | [Zyron](https://open.spotify.com/artist/168Gs1VN0JCJQpvHgixevz), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Party Party](https://open.spotify.com/album/1oMDsqFLrfTG5Pom1hNmYH) | 5:05 | 2022-07-22 |  |
 | [Perco Con Mari](https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Perco Con Mari](https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA) | 3:59 | 2022-01-20 |  |
 | [Perco Con Mari \- Remastered](https://open.spotify.com/track/0HKqQcmVbtXhoxLGPZRq8J) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Inmortal](https://open.spotify.com/album/2tzC3V05vkZW60Ch6G5KJW) | 3:56 | 2022-01-20 |  |
 | [POPCORN](https://open.spotify.com/track/5ChxsXRR90JKLyOjMeTPL0) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [POPCORN](https://open.spotify.com/album/6RNKxVM0RlZQ3qTLV5Kbj7) | 3:44 | 2022-01-20 |  |
@@ -113,6 +114,7 @@
 | [Ups](https://open.spotify.com/track/1iA8v9AAhALHYp2rXR1Du2) | [Matu](https://open.spotify.com/artist/6cibaeswg2HD0yjbt9X1WH), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Dinero Al Bolsillo](https://open.spotify.com/album/1AiGOiYFmhcA3okiR58Cxb) | 2:41 | 2022-01-20 | 2022-04-02 |
 | [Vacaciones](https://open.spotify.com/track/0vaMFncaiDlOXqTcoLW9FR) | [Felipe Dayz](https://open.spotify.com/artist/3oVTZU4pon08EiGlzHYgL7), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Vacaciones](https://open.spotify.com/album/0U5MwvBCZyOlg5C4YhmiCm) | 3:01 | 2022-01-20 | 2022-03-18 |
 | [Vibras](https://open.spotify.com/track/306litzTzjMQqyXlF9HxHd) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:34 | 2022-01-20 |  |
+| [VILLANO](https://open.spotify.com/track/5Yoi4uDMs3HzVHUDjnLWyD) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [VILLANO](https://open.spotify.com/album/4GjRIvEBfya2EjG1OhKF4M) | 2:43 | 2022-07-22 |  |
 | [Vio](https://open.spotify.com/track/2NLmRhd8PyUozDQRSnQ8RD) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Vio](https://open.spotify.com/album/6WC4uEu0ZKRQbbT86dLKW1) | 2:12 | 2022-01-20 |  |
 | [Vision](https://open.spotify.com/track/4ls9U6ee7CRONWg4mfWgpN) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Vision](https://open.spotify.com/album/6kMcHwptVqA1bJdj8plMZn) | 2:29 | 2022-01-20 |  |
 | [Viva Los ShiShi](https://open.spotify.com/track/2OKvnIShlUE7G5b6eff9CP) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Viva Los ShiShi](https://open.spotify.com/album/6tFwh91QTTcIn3KCwRWIll) | 2:56 | 2022-01-20 |  |

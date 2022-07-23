@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Jay Wheeler, Mora",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Tiago PZK",
   "name": "el nuevo urbano",
   "published_playlist_ids": [
     "1VeWyX96wAd9PwEhX7cbqr"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 224842,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 174186,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 159218,
       "name": "Duelo",
       "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
@@ -1422,6 +1422,24 @@
     },
     {
       "album": {
+        "name": "KLK",
+        "url": "https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181802,
+      "name": "KLK",
+      "url": "https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg"
+    },
+    {
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -1574,6 +1592,50 @@
     },
     {
       "album": {
+        "name": "Malo",
+        "url": "https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255363,
+      "name": "Malo",
+      "url": "https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1"
+    },
+    {
+      "album": {
+        "name": "Malory",
+        "url": "https://open.spotify.com/album/407qOoTCcCGtc6DP2Wm0zi"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116635,
+      "name": "Malory",
+      "url": "https://open.spotify.com/track/4T18CIOag4LfuqqfzyBQmw"
+    },
+    {
+      "album": {
         "name": "Mal\u00e9fica",
         "url": "https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO"
       },
@@ -1589,7 +1651,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 183413,
       "name": "Mal\u00e9fica",
       "url": "https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl"
@@ -1717,7 +1779,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 208622,
       "name": "Monumento - Remix",
       "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
@@ -2298,6 +2360,28 @@
     },
     {
       "album": {
+        "name": "Q-Lito",
+        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188360,
+      "name": "Q-Lito",
+      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
+    },
+    {
+      "album": {
         "name": "Que Raro",
         "url": "https://open.spotify.com/album/7dDFKnpDJYSKDLJ2941cgu"
       },
@@ -2576,6 +2660,24 @@
     },
     {
       "album": {
+        "name": "Sin Pena",
+        "url": "https://open.spotify.com/album/4E8m3FYdXGNVB4mofcKtji"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Sin Pena",
+      "url": "https://open.spotify.com/track/1zyM7lBUZgGwZ4umEB5Pzk"
+    },
+    {
+      "album": {
         "name": "Sincero",
         "url": "https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd"
       },
@@ -2591,6 +2693,28 @@
       "duration_ms": 218391,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp"
+    },
+    {
+      "album": {
+        "name": "Sistema De Patio",
+        "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134222,
+      "name": "Sistema De Patio",
+      "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
     },
     {
       "album": {
@@ -2755,7 +2879,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 325174,
       "name": "Te Veo Bailar (feat. Brray & Alejandro Armes)",
       "url": "https://open.spotify.com/track/3CerlljsJSVaRrzESJQVWU"
@@ -2785,6 +2909,28 @@
       "duration_ms": 234402,
       "name": "Tendencia Global",
       "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
+    },
+    {
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
     },
     {
       "album": {
@@ -2994,6 +3140,28 @@
     },
     {
       "album": {
+        "name": "Vamos pa' la Calle",
+        "url": "https://open.spotify.com/album/78ve7Z6x8WDVxoR6oUetPZ"
+      },
+      "artists": [
+        {
+          "name": "TGO",
+          "url": "https://open.spotify.com/artist/60Qd4MNKoo1o3LwysjFVPV"
+        },
+        {
+          "name": "Moncas",
+          "url": "https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Vamos pa' la Calle",
+      "url": "https://open.spotify.com/track/6wYg8famUEPTy5T0GW88Ss"
+    },
+    {
+      "album": {
         "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
         "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
       },
@@ -3113,7 +3281,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 209838,
       "name": "Yo Quiero",
       "url": "https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB"

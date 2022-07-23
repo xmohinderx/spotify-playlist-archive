@@ -4,7 +4,7 @@
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/5SBFjzLYdFjuhwvf3Pcpzt)
+64 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5SBFjzLYdFjuhwvf3Pcpzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Murder Scene](https://open.spotify.com/track/25lp8iSlGkhHISSX0EgpAE) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 3:50 | 2022-07-03 | 2022-07-05 |
 | [My Apocalypse](https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 5:25 | 2022-05-30 |  |
 | [Nemesis](https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 | 2022-05-30 |  |
-| [Never Forgive, Never Forget](https://open.spotify.com/track/7gdqAiz2VMq0cybotZzls6) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 3:43 | 2022-05-30 |  |
+| [Never Forgive, Never Forget](https://open.spotify.com/track/7gdqAiz2VMq0cybotZzls6) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 3:43 | 2022-05-30 | 2022-07-23 |
 | [No Gods, No Masters](https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:14 | 2022-05-30 |  |
 | [No More Regrets](https://open.spotify.com/track/6U4PnLCxvpipBXCffkdHNo) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:05 | 2022-05-30 |  |
 | [On and On](https://open.spotify.com/track/6q6nmIUY2LWKVJQxTnGsNK) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:04 | 2022-07-03 | 2022-07-05 |
@@ -58,6 +58,7 @@
 | [Sunset over the Empire](https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Sunset over the Empire](https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9) | 4:03 | 2022-05-30 |  |
 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 | 2022-05-30 |  |
 | [Taking Back My Soul](https://open.spotify.com/track/7rk5lB4drqcl2O7fcZoTj9) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:35 | 2022-05-30 |  |
+| [Tempore Nihil Sanat \(Prelude In F Minor\)](https://open.spotify.com/track/5kzeQvA9T91h2H5Y8OU6Qk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 1:12 | 2022-07-22 |  |
 | [The Day You Died](https://open.spotify.com/track/4jVjUOl1gwcHCWxwlWY0zf) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:52 | 2022-05-30 |  |
 | [The Eagle Flies Alone \- edit](https://open.spotify.com/track/7KoWRwwVUgZV5D0zmrr25s) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:59 | 2022-05-30 |  |
 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 | 2022-05-30 |  |

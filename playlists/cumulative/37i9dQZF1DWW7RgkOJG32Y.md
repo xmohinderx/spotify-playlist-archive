@@ -4,7 +4,7 @@
 
 > Top trending new and recent tracks from the last few months\. Cover: Bailey Zimmerman
 
-192 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
+196 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Break Like You Do](https://open.spotify.com/track/7wYCzc3UhMJi2lz8flyUxB) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Break Like You Do](https://open.spotify.com/album/5xY7GlwUtjA7KP7OPQ5E9M) | 3:16 | 2021-12-17 | 2022-03-26 |
 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 | 2022-01-21 |  |
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-29 |  |
+| [Buy A Girl A Drink](https://open.spotify.com/track/3WXWxyUcD9HQBQcNaFN6xd) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Buy A Girl A Drink](https://open.spotify.com/album/36tVeUCmIWva4RKFBN0OG8) | 3:16 | 2022-07-22 |  |
 | [Bye Mom](https://open.spotify.com/track/0dVuf0NSPxHeovkeAEsvPz) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Bye Mom](https://open.spotify.com/album/22qtXQo5oMS3z5iaqBS7si) | 3:58 | 2022-03-04 | 2022-05-07 |
 | [Can't Do Without Me](https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Can't Do Without Me](https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4) | 3:21 | 2021-12-31 | 2022-03-12 |
 | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx) | 3:03 | 2022-02-25 | 2022-06-04 |
@@ -85,10 +86,12 @@
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2022-02-04 |  |
 | [I Can't Love You Any More](https://open.spotify.com/track/3Sm47s5VbZs7cHzEdqC4Tc) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Midtown Diaries](https://open.spotify.com/album/50zMs3AwxduoOoQoN17955) | 3:14 | 2021-12-17 | 2022-03-26 |
 | [I Don't Wanna Go To Heaven](https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb) | 3:21 | 2021-12-17 | 2022-02-19 |
-| [I Don’t Smoke](https://open.spotify.com/track/4Qp7t5e0oDrYbdgOaLLpOt) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am \(Repack\)](https://open.spotify.com/album/3D6sOqU3M5mTEX8o7DFFSw) | 3:00 | 2022-02-18 |  |
+| [I Don’t Smoke](https://open.spotify.com/track/4Qp7t5e0oDrYbdgOaLLpOt) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am \(Repack\)](https://open.spotify.com/album/3D6sOqU3M5mTEX8o7DFFSw) | 3:00 | 2022-02-18 | 2022-07-23 |
 | [I Hate Alabama](https://open.spotify.com/track/2j0rISwZE6tichIrU5SZ78) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [I Hate Alabama](https://open.spotify.com/album/2bCz5dI9f3wy25himhvKiL) | 3:33 | 2022-03-11 |  |
 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 | 2022-03-04 |  |
+| [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 | 2022-07-22 |  |
 | [I'm Gonna Let Her](https://open.spotify.com/track/0ypM45MRlc73Uttz1ddn9o) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [I'm Gonna Let Her](https://open.spotify.com/album/2Ief9TGkBjEaOD1soie5NC) | 2:56 | 2022-02-18 | 2022-04-16 |
+| [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 | 2022-07-22 |  |
 | [If I Didn't Love You](https://open.spotify.com/track/5f3MXmTmstozFg0BH1yPUk) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [If I Didn't Love You](https://open.spotify.com/album/6gYe3uo5YjJslbXYdSzSdf) | 3:32 | 2021-12-17 | 2021-12-24 |
 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2021-12-17 | 2022-05-14 |
 | [If I Were Rock & Roll](https://open.spotify.com/track/7GMXESVLghURYtnMXl7Ngn) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [If I Were Rock & Roll](https://open.spotify.com/album/5th0dWTiQ0WkGINantPzEC) | 3:14 | 2021-12-17 | 2022-02-12 |
@@ -157,6 +160,7 @@
 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2022-01-28 | 2022-03-12 |
 | [Stop Coming Over](https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Stop Coming Over](https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt) | 2:18 | 2022-01-07 | 2022-06-18 |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2021-12-17 | 2022-02-12 |
+| [Summer On Your Lips](https://open.spotify.com/track/7HJ54S8MPYQsC7cT6HffOX) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Summer On Your Lips](https://open.spotify.com/album/0UaUgPC7Ei0A21sG3LrDL1) | 3:30 | 2022-07-22 |  |
 | [Sunrise Tells The Story](https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story](https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0) | 3:28 | 2021-12-17 | 2022-02-05 |
 | [T\-Shirt](https://open.spotify.com/track/7xtgdNm04XHg4UphNBpLQx) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [backstory](https://open.spotify.com/album/5Ao4kczlRWv1zeEuwCy8M9) | 2:41 | 2021-12-17 | 2022-01-01 |
 | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/track/0tXjb5mxi1ALIaagFuWxkb) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/album/0L93smV9MjarVHPfB6vZia) | 3:05 | 2021-12-24 | 2022-06-04 |

@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: quinnie
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Reneé Rapp
 
-209 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+212 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cutting Corners](https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:22 | 2022-07-08 |  |
 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 | 2022-07-08 |  |
 | [DECLINED](https://open.spotify.com/track/1OvTmyB5Rh9Gn1rqlqgTMY) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [DECLINED](https://open.spotify.com/album/0BVDq72SfkUvDv11NuLyHP) | 4:16 | 2022-04-29 |  |
+| [Deeper](https://open.spotify.com/track/1R7TJhZujfy7N2fk3wLTrn) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [Deeper](https://open.spotify.com/album/5NPjgNqomchHldXQcN140j) | 2:53 | 2022-07-22 |  |
 | [Devil's Work](https://open.spotify.com/track/0RRZVMWLdovT58YKbVG4sV) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Devil's Work](https://open.spotify.com/album/5E0v1l0J7Nd3smRv9NYMKk) | 3:30 | 2022-06-03 |  |
 | [Didn’t Know Shit \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/60jrv0KF1Uy5upBN8VTUZN) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv), [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [Didn’t Know Shit \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/6MGDXlKW5AMEduAezjbQ5f) | 3:33 | 2022-01-14 | 2022-03-12 |
 | [die with my friends](https://open.spotify.com/track/3fVNNTKNNZr7qkoxk6frOL) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [die with my friends](https://open.spotify.com/album/4p0YtcDjEjfDcQ1CDclkY2) | 2:37 | 2022-04-22 |  |
@@ -90,7 +91,7 @@
 | [Hurt Again](https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Hurt Again](https://open.spotify.com/album/5CAl06ROTsSgP4z0ysJOmQ) | 2:06 | 2022-01-14 | 2022-03-12 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-07-16 |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-01-14 |  |
-| [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-04 |  |
+| [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-04 | 2022-07-23 |
 | [I Hate The Beatles](https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [I Hate The Beatles](https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ) | 3:05 | 2022-03-04 | 2022-03-12 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-01-28 |  |
 | [I Love My Birthday](https://open.spotify.com/track/7n7hPWER2dtJovBznJHa8W) | [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [I Love My Birthday](https://open.spotify.com/album/4FT9kjBjX9zpfxtqPCVUxB) | 3:07 | 2022-01-14 |  |
@@ -102,6 +103,7 @@
 | [If I Had Stayed](https://open.spotify.com/track/2C84D0vtpGcohO5yqEnF9o) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/0m8Vg18eqPH7maMYhzyBKB) | 2:11 | 2022-01-14 | 2022-03-12 |
 | [If It's Not You](https://open.spotify.com/track/45DsipA4OgPmKUvwz2ctEH) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [If It's Not You](https://open.spotify.com/album/5E8CU9zmc0U9Bw1QGm9oOk) | 3:11 | 2022-02-11 | 2022-04-29 |
 | [if you hate me, say it](https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [if you hate me, say it](https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r) | 3:18 | 2022-01-14 |  |
+| [In the Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-07-22 |  |
 | [Is It Enough](https://open.spotify.com/track/5CiwHSUDf9C1Uv0r4nUVLd) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Is It Enough](https://open.spotify.com/album/6zmkcJhd5cv7pBrQYPDYfY) | 2:33 | 2022-07-08 |  |
 | [Isolate Myself](https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Isolate Myself](https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C) | 3:05 | 2022-07-08 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-14 |  |
@@ -132,7 +134,7 @@
 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2022-03-04 | 2022-06-25 |
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2022-04-23 |
 | [Nights Like This](https://open.spotify.com/track/41UhyBzOfsI1mqBviJq6AN) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Nights Like This](https://open.spotify.com/album/5GuZOIH7CAgK0WrPIn5uAi) | 2:22 | 2022-01-14 | 2022-02-19 |
-| [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 |  |
+| [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-07-23 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-14 | 2022-03-05 |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-08 | 2022-04-29 |
 | [Out Of Excuses](https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 3:17 | 2022-01-14 | 2022-03-18 |
@@ -150,6 +152,7 @@
 | [Remember me Happy](https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember me Happy](https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj) | 2:21 | 2022-01-14 |  |
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 |  |
 | [Ride Or Die](https://open.spotify.com/track/1ly4juuAEfCQbkfioOL8v0) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9), [Griffin Lancaster](https://open.spotify.com/artist/2EsnUC4uKX3AV7CGyBClmy) | [Ride Or Die](https://open.spotify.com/album/1ZhAKhbixWHAHiZDrNLyI7) | 3:19 | 2022-01-14 |  |
+| [Sadtown USA](https://open.spotify.com/track/5isaeQhLPaB5dGg0ccJOuX) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/6mKq3sxLNkjr8k7fFkGENN) | 3:10 | 2022-07-22 |  |
 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 | 2022-02-25 |  |
 | [sammy](https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [sammy](https://open.spotify.com/album/0CXtcpl8TyuqUVNxHhTQ65) | 2:43 | 2022-03-11 | 2022-04-09 |
 | [Sausalito](https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [Sausalito](https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX) | 2:50 | 2022-06-24 |  |
@@ -163,7 +166,7 @@
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-14 | 2022-04-02 |
 | [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 | 2022-07-01 |  |
 | [Small Things](https://open.spotify.com/track/2kKGKGT7YySUdJ9s6SFzwD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Small Things](https://open.spotify.com/album/33WitbRUYLqnDU2EYxAY4Z) | 2:57 | 2022-03-18 | 2022-06-04 |
-| [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 |  |
+| [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 | 2022-07-23 |
 | [Some friends and a place to call home](https://open.spotify.com/track/0zzcjPRxa26NDyex0GoJs2) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [Some friends and a place to call home](https://open.spotify.com/album/6LObxZbQLxl6dBVRfzVAFm) | 3:07 | 2022-01-14 | 2022-03-12 |
 | [Some Things Aren't Meant Forever](https://open.spotify.com/track/3rbOx276Sg54mKg1wtw3TZ) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Some Things Aren't Meant Forever](https://open.spotify.com/album/6oXh4YBENKSxvNm1qwdwru) | 3:05 | 2022-05-27 |  |
 | [somebody](https://open.spotify.com/track/44qxpRkE9t5xutQB6zCpTF) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [i wonder if you wonder](https://open.spotify.com/album/3Mz1DFcunKLU3ki7iVX26t) | 3:45 | 2022-01-14 |  |

@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-129 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+134 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,10 +67,12 @@
 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 | 2022-05-17 |  |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-05-17 |  |
 | [I Deserve to Bleed](https://open.spotify.com/track/27cw0tNJKQQW2CJMGcCfZb) | [Sushi Soucy](https://open.spotify.com/artist/1EbbJiG9LzlH2i7fCjhkvv) | [I Deserve to Bleed](https://open.spotify.com/album/4ckUf8kp5DxcJRRsy0yjXm) | 1:44 | 2022-05-17 |  |
+| [I Don't Want to Die Tonight](https://open.spotify.com/track/72Vm3AzrhKYJr4ZOwV2Uvh) | [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Boom\. Done.](https://open.spotify.com/album/5tJcS8lOJYMD3EOHbQfQyJ) | 3:17 | 2022-07-22 |  |
 | [I Fucked Yr Mom](https://open.spotify.com/track/70WFvp0yF9m1asIb60gKcj) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Juno Goes to the Big House](https://open.spotify.com/album/0bPiaza1NaQbzdg8s1CJOn) | 2:32 | 2022-05-17 |  |
 | [I Hear a Symphony](https://open.spotify.com/track/3KfTWH9HcFZtOnZXaMT0Rt) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/0ipYqwFFvSHdNU6CcbQEsZ) | 3:05 | 2022-05-17 |  |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2022-05-17 |  |
 | [I'm in Love With an E\-Girl](https://open.spotify.com/track/44wBlg3Y1KSAEmaze5BXe7) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [I'm in Love With an E\-Girl](https://open.spotify.com/album/2IrovQloj4bX8iUnCd0Usp) | 3:59 | 2022-05-17 | 2022-06-17 |
+| [In the Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-07-22 |  |
 | [Infinite Jest](https://open.spotify.com/track/4qH2jxgvGcGuxh2JReRte4) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Infinite Jest](https://open.spotify.com/album/0qgrQvpCkOLz3kCTUPr1CZ) | 4:34 | 2022-05-17 |  |
 | [It's All Futile! It's All Pointless!](https://open.spotify.com/track/6letGsy9pQEAiVt0VLJIWg) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:40 | 2022-06-14 | 2022-07-13 |
 | [kill myself](https://open.spotify.com/track/1ESEhyt5VAkioMnh4vnDHC) | [Tom O'Donovan](https://open.spotify.com/artist/06loAWIFFerpfkQdMI0moL) | [kill myself](https://open.spotify.com/album/2FOmTkLSZvr2xVf1hVmDVm) | 3:00 | 2022-07-13 | 2022-07-16 |
@@ -82,6 +84,7 @@
 | [Meant to Be Yours](https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Michelle Duffy](https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:25 | 2022-05-17 |  |
 | [Misery Meat](https://open.spotify.com/track/56sNhxLlrFYCbR0JFaK6w0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/1GuNa6xVjgJIPS0VNll8TR) | 1:04 | 2022-05-17 |  |
 | [Miss Rhode Island](https://open.spotify.com/track/3TuRAkB0OueGVYfUTbCaVN) | [Elizabeth Gerardi](https://open.spotify.com/artist/01VYmP8UHNPe52WfMgsb4n) | [Miss Rhode Island](https://open.spotify.com/album/5CGv2NNFJPOqrtzT73eRL1) | 2:48 | 2022-06-24 |  |
+| [mold](https://open.spotify.com/track/5qH0wXpyaWpXl0bn9gUK81) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [mold](https://open.spotify.com/album/6WwFcQVjSQQE4QUFttiB8P) | 4:03 | 2022-07-22 |  |
 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 | 2022-05-17 |  |
 | [My R](https://open.spotify.com/track/4Li4x03VzGLRZW5B6hv0Xt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3) | [My R](https://open.spotify.com/album/7HbKsuGxSH4WsAK3vIaPec) | 3:34 | 2022-06-07 |  |
 | [My Time](https://open.spotify.com/track/0wZUJxxybEiafs0BIg9SAP) | [bo en](https://open.spotify.com/artist/1EotkJocwHvhFOAsoOj1jJ) | [Pale Machine](https://open.spotify.com/album/1a2UnYDnfK25QJKfgHNHnu) | 5:13 | 2022-05-17 | 2022-06-25 |
@@ -98,6 +101,7 @@
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-05-17 | 2022-06-02 |
 | [prom](https://open.spotify.com/track/1EtWJJbvPfmNsVDGOhTtSG) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [prom](https://open.spotify.com/album/3hsaSidYs7NWEn0c2ncIDA) | 3:20 | 2022-05-17 |  |
 | [putting a spin on somebody that i used to know](https://open.spotify.com/track/7oG6YAqkuBHBZ0qgtDhOAm) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [putting a spin on somebody that i used to know](https://open.spotify.com/album/0CCl0omkYtDTAYZ5dhy4W0) | 4:16 | 2022-05-17 |  |
+| [reaching](https://open.spotify.com/track/3dQzkQ4fsMV0iCHLB3hfDk) | [Jonny West](https://open.spotify.com/artist/3WZbnaao6ao4diqMVvDJXk) | [reaching](https://open.spotify.com/album/2RZGsosH7OptbzEzYFzmsU) | 2:16 | 2022-07-22 |  |
 | [Ruler of Everything](https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:42 | 2022-06-07 |  |
 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 | 2022-05-17 |  |
 | [Rät](https://open.spotify.com/track/25z6kpmIwkCUqk2IORrJ5v) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:14 | 2022-05-17 |  |
@@ -126,6 +130,7 @@
 | [Top of My School](https://open.spotify.com/track/5OKyAO31eOeJV5qEx2lv4k) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Top of My School](https://open.spotify.com/album/5B5JRU1bu2uvI8ZG5zx9yQ) | 2:37 | 2022-05-17 |  |
 | [Touch\-Tone Telephone](https://open.spotify.com/track/1tmRlF5pFo8G5OfJYUjWrR) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:42 | 2022-05-17 |  |
 | [Turn the Lights Off](https://open.spotify.com/track/3xpdefOloYCBXd3UR6MVyM) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 2:56 | 2022-05-17 |  |
+| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 |  |
 | [Two Birds](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:15 | 2022-05-17 |  |
 | [Typical Me](https://open.spotify.com/track/7qHwYBcgT5UFchyGXFyifq) | [kroh](https://open.spotify.com/artist/6IOp54e0ZK9Ccnb8WUIeUa) | [Unfinished Symphony](https://open.spotify.com/album/5QmoeSOvBYGuSLQcd0tzk7) | 3:06 | 2022-05-17 |  |
 | [Under My Skin](https://open.spotify.com/track/5oiZiF3fBLHqgTDaH0Pj7M) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Let Live & Let Ghosts](https://open.spotify.com/album/0zQxOFhjixRmW1w6LftIyX) | 3:19 | 2022-05-17 |  |

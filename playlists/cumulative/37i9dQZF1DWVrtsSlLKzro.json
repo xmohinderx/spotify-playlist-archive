@@ -2578,6 +2578,28 @@
     },
     {
       "album": {
+        "name": "Never Easy",
+        "url": "https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224391,
+      "name": "Never Easy",
+      "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
+    },
+    {
+      "album": {
         "name": "Not In Love (feat. LOWES)",
         "url": "https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo"
       },

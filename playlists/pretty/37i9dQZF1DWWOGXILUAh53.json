@@ -1,13 +1,53 @@
 {
   "description": "The hottest new pop with the all the drops. Cover: Mabel",
-  "num_followers": 94228,
+  "num_followers": 93832,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDA4OTAwMDAwMTgyMDAwMzZhY2MwMDAwMDE4MWZmZjQ0MDNj",
+  "snapshot_id": "MTY1ODQ2MjcwMCwwMDAwMDA4YTAwMDAwMTgyMjQxNDgyMzMwMDAwMDE4MWZmZjQ0MDNj",
   "tracks": [
+    {
+      "added_at": "2022-07-22 04:05:00",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 208017,
+      "name": "Forgive Me (feat. Izzy Bizu)",
+      "url": "https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP"
+    },
+    {
+      "added_at": "2022-07-22 04:05:00",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
@@ -23,6 +63,70 @@
       "duration_ms": 181760,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3WdijbYmphZ8N0MYblXDnF"
+    },
+    {
+      "added_at": "2022-07-22 04:05:00",
+      "album": {
+        "name": "So Far So Good (+ Time Bomb)",
+        "url": "https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 203061,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD"
+    },
+    {
+      "added_at": "2022-07-22 04:05:00",
+      "album": {
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2022-07-22 04:05:00",
+      "album": {
+        "name": "Love Me Anyway",
+        "url": "https://open.spotify.com/album/3BSvHCjqrDDEpRxXQT6XF6"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "Love Me Anyway",
+      "url": "https://open.spotify.com/track/371P951lrWGPczNJbBegJe"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -65,6 +169,26 @@
       "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
     },
     {
+      "added_at": "2022-07-22 04:05:00",
+      "album": {
+        "name": "Closer to You",
+        "url": "https://open.spotify.com/album/4z8XOKTP002JTe873VhgmR"
+      },
+      "artists": [
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        },
+        {
+          "name": "HIDDN",
+          "url": "https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Closer to You",
+      "url": "https://open.spotify.com/track/6u9JRvJ2fwQyw8QJufneSH"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Hot In It",
@@ -83,6 +207,26 @@
       "duration_ms": 129817,
       "name": "Hot In It",
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+    },
+    {
+      "added_at": "2022-07-22 04:05:00",
+      "album": {
+        "name": "Sci-Fi",
+        "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 198540,
+      "name": "Sci-Fi",
+      "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -119,6 +263,26 @@
       "duration_ms": 182799,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
+    },
+    {
+      "added_at": "2022-07-22 04:05:00",
+      "album": {
+        "name": "Late Night Feels",
+        "url": "https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "duration_ms": 173157,
+      "name": "Late Night Feels",
+      "url": "https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -475,26 +639,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
-        }
-      ],
-      "duration_ms": 171786,
-      "name": "Turn The Table",
-      "url": "https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Higher (Ty Sunderland Remix)",
         "url": "https://open.spotify.com/album/5n6ZV6vOBb1pOmVWJ1MLNj"
       },
@@ -751,22 +895,6 @@
       "duration_ms": 140163,
       "name": "Change for You",
       "url": "https://open.spotify.com/track/5bnuoFoMRJFEPyDlb7StOr"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Dance For You",
-        "url": "https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 201385,
-      "name": "Dance For You",
-      "url": "https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1315,22 +1443,6 @@
       "duration_ms": 143000,
       "name": "Sweetest Pie - David Guetta Dance Remix",
       "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 184038,
-      "name": "Versions of Me",
-      "url": "https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ"
     },
     {
       "added_at": "2022-07-15 04:00:00",

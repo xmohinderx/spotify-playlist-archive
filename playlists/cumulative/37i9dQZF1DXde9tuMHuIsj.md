@@ -2,9 +2,9 @@
 
 ### [Trap Land](https://open.spotify.com/playlist/37i9dQZF1DXde9tuMHuIsj)
 
-> Lo mejor del Trap en Español\. The best of Latin Trap\. Cover: Hozwal, YOVNCHIMI, Luar La L, De La Ghetto
+> The best of Latin Trap\. Cover: Duki
 
-139 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
+143 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Babymama \- Remix](https://open.spotify.com/track/1d3mQY9cJeyx0EMxBkXORn) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Babymama \(Remix\)](https://open.spotify.com/album/1s00bDiU1JmP4Hpgb7A6Hs) | 7:24 | 2022-05-03 |  |
 | [Bancario \(with Chucky73\)](https://open.spotify.com/track/1YM3lPEvD32V4fK9JkdoMe) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Bancario \(with Chucky73\)](https://open.spotify.com/album/72cMfYH2JdMo7g8TWYcbPt) | 3:29 | 2022-05-03 |  |
 | [Bandidos](https://open.spotify.com/track/0bCHso1zsLuJ9hmUxN3BwT) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Bandidos](https://open.spotify.com/album/4fheNzMBxnDS7hfnhpznea) | 2:48 | 2022-03-18 | 2022-05-04 |
+| [Bape \(Remix\)](https://open.spotify.com/track/3bfb530Lxa1CSKK1VTksBA) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Bape \(Remix\)](https://open.spotify.com/album/5bKfN6UHIlW3RMEmP10YZP) | 6:02 | 2022-07-22 |  |
 | [Bentley](https://open.spotify.com/track/0Pk6ZwGewYIwPvaYubqybf) | [Knav](https://open.spotify.com/artist/0a8uZThduDjiT70rygrrQ1) | [Bentley](https://open.spotify.com/album/0ei2RpOPbnwVMR6DGnUkCi) | 2:45 | 2022-05-03 |  |
 | [Besties](https://open.spotify.com/track/4st9O9fifFu5MH47r0M0el) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 3:01 | 2022-06-03 |  |
 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 | 2022-03-18 | 2022-05-04 |
@@ -58,6 +59,7 @@
 | [FCK U X2](https://open.spotify.com/track/7CLRoWBqSizI8Zpolsud5K) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 4:39 | 2022-03-18 |  |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2022-03-18 | 2022-05-04 |
 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 | 2022-03-18 |  |
+| [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-22 |  |
 | [Glizzy Walk 2.5](https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Glizzy Walk 2.5](https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK) | 3:44 | 2022-04-15 |  |
 | [Guarida](https://open.spotify.com/track/19FjaZwowlzROovPliZty2) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Guarida](https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K) | 3:32 | 2022-06-28 |  |
 | [Gucci En Mis Pies](https://open.spotify.com/track/4RhKIBupRs3ID7Svb8kiwX) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Gucci En Mis Pies](https://open.spotify.com/album/2BsIAX7gf3766JS3tdH0ys) | 3:51 | 2022-05-03 |  |
@@ -107,6 +109,8 @@
 | [Polvo Eterno](https://open.spotify.com/track/2hZvzzq3MbsFi4fRieBxs6) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Polvo Eterno](https://open.spotify.com/album/73WztuvJtVotpv0B8aBrAa) | 3:07 | 2022-06-28 |  |
 | [QSY](https://open.spotify.com/track/2HOjq5fN9BN9nWwm0LHT1G) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:39 | 2022-05-03 |  |
 | [Que Es Esto?](https://open.spotify.com/track/1xdoPfonxRbT79RCiMC975) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Que Es Esto?](https://open.spotify.com/album/403RuP73HHLsBDajXsIhku) | 3:14 | 2022-03-18 | 2022-05-04 |
+| [Racks On Me](https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Racks On Me](https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc) | 3:03 | 2022-07-22 |  |
+| [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-07-22 |  |
 | [ROBERT DE NIRO](https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-15 |  |
 | [Rolex](https://open.spotify.com/track/3ngemaN0E275eFYjHdrmw0) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z) | [Rolex](https://open.spotify.com/album/1LEWufsU7xMe9G83r5DGTt) | 3:58 | 2022-04-15 |  |
 | [RONCA FREESTYLE](https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:30 | 2022-05-03 |  |

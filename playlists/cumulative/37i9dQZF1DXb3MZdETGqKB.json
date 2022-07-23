@@ -1424,6 +1424,24 @@
     },
     {
       "album": {
+        "name": "Need To Know Basis",
+        "url": "https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119975,
+      "name": "Need To Know Basis",
+      "url": "https://open.spotify.com/track/03medhiG64fBChIiDBTNPK"
+    },
+    {
+      "album": {
         "name": "Play Loud",
         "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
       },

@@ -1400,6 +1400,24 @@
     },
     {
       "album": {
+        "name": "It Goes Without Saying",
+        "url": "https://open.spotify.com/album/2nfeBYFTlB4thgt0LDi30I"
+      },
+      "artists": [
+        {
+          "name": "Dariush",
+          "url": "https://open.spotify.com/artist/6zY6Ok23fglrQG3PzGR5lt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127918,
+      "name": "It Goes Without Saying",
+      "url": "https://open.spotify.com/track/6YFC7nC5xcCSA6vXPfN28A"
+    },
+    {
+      "album": {
         "name": "It Just Is",
         "url": "https://open.spotify.com/album/5MpzdUemANr85NiuElGJeB"
       },

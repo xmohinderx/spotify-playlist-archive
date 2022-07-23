@@ -1,13 +1,33 @@
 {
   "description": "\u00a1Trompetas, piano y timbal para darle saz\u00f3n a tu mediod\u00eda!",
-  "num_followers": 29222,
+  "num_followers": 29235,
   "original_name": "Brunch Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ1Mjc1OCwwMDAwMDAwMDQ0NzA0NTYzYzczOGZmZTk3NWJlMTg4MTFhOTBkN2Qw",
+  "snapshot_id": "MTY1ODUzODg3NiwwMDAwMDAwMDdhNTExYTlhZmZhZDY2MDU1MjNhZjlhMTJhMGIwOWRh",
   "tracks": [
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Ateo",
+        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Nathy Peluso",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 239925,
+      "name": "Ateo",
+      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
@@ -23,22 +43,6 @@
       "duration_ms": 245031,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Ella Me Enamor\u00f3",
-        "url": "https://open.spotify.com/album/46M72fEbiyFNH4pvyw5Pxp"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Ella Me Enamor\u00f3",
-      "url": "https://open.spotify.com/track/122nYSJuwGDvoODZxTAuE5"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -63,18 +67,22 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
+        "name": "Quiero Verte Feliz",
+        "url": "https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 223133,
-      "name": "\u00bfD\u00f3nde estabas t\u00fa?",
-      "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
+      "duration_ms": 177773,
+      "name": "Quiero Verte Feliz",
+      "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -131,18 +139,18 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+        "name": "Dub de Gaita",
+        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Los Gaiteros de San Jacinto",
+          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
         }
       ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+      "duration_ms": 263933,
+      "name": "Tierra de Poetas - Dub Mix",
+      "url": "https://open.spotify.com/track/0anwofNiH8XpIv8y8jUDaX"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -183,18 +191,18 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
+        "name": "Sicod\u00e9licos",
+        "url": "https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12"
       },
       "artists": [
         {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
         }
       ],
-      "duration_ms": 187746,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
+      "duration_ms": 212466,
+      "name": "Guajira Sicod\u00e9lica",
+      "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -215,38 +223,34 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Quiero Verte Feliz",
-        "url": "https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx"
+        "name": "Cumbias Colombianas",
+        "url": "https://open.spotify.com/album/31BoyHYM20tJPUwksf7p0L"
       },
       "artists": [
         {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
         }
       ],
-      "duration_ms": 177773,
-      "name": "Quiero Verte Feliz",
-      "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
+      "duration_ms": 227573,
+      "name": "Lejan\u00eda",
+      "url": "https://open.spotify.com/track/2OMdozfkfI186zaU7HkSjW"
     },
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Sicod\u00e9licos",
-        "url": "https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12"
+        "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
+        "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
       },
       "artists": [
         {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+          "name": "Los Hijos del sol",
+          "url": "https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Guajira Sicod\u00e9lica",
-      "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
+      "duration_ms": 189616,
+      "name": "Si Me Quieres",
+      "url": "https://open.spotify.com/track/6Bx4bfum3dd8FAEiLVntzP"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -267,34 +271,34 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Voy Pa All\u00e1",
-        "url": "https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4"
+        "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
       },
       "artists": [
         {
-          "name": "Semblanzas del Rio Guapi",
-          "url": "https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H"
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
         }
       ],
-      "duration_ms": 263253,
-      "name": "Bogando",
-      "url": "https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo"
+      "duration_ms": 161426,
+      "name": "Cumbia De Los Pajaritos",
+      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
     },
     {
       "added_at": "2022-04-20 05:00:00",
       "album": {
-        "name": "The Afrosound Of Colombia Volume 1",
-        "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
+        "name": "Noche triler",
+        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
       },
       "artists": [
         {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+          "name": "LA MECANICA POPULAR",
+          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Los sabanales",
-      "url": "https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh"
+      "duration_ms": 337576,
+      "name": "M\u00f3tame en la tormenta",
+      "url": "https://open.spotify.com/track/1xrGp1o6vGDMBV3PHmLNA7"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -319,38 +323,6 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Cumbias Colombianas",
-        "url": "https://open.spotify.com/album/31BoyHYM20tJPUwksf7p0L"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "Lejan\u00eda",
-      "url": "https://open.spotify.com/track/2OMdozfkfI186zaU7HkSjW"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Conductor",
-      "url": "https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o"
       },
@@ -371,70 +343,66 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Ca\u00f1onazo Electrocumbiero",
-        "url": "https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju"
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
       },
       "artists": [
         {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
         }
       ],
-      "duration_ms": 264254,
-      "name": "Bocanegra",
-      "url": "https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp"
+      "duration_ms": 231226,
+      "name": "Perro Rabioso",
+      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Los Aut\u00e9nticos",
-        "url": "https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B"
+        "name": "Chico de Oro",
+        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
       },
       "artists": [
         {
-          "name": "Los Shapis",
-          "url": "https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 230973,
-      "name": "El Aguajal",
-      "url": "https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z"
+      "duration_ms": 187746,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
     },
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1nBAQLlD3WPf939Jlrc2Ku"
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Cumbia del Monte Fuji",
-        "url": "https://open.spotify.com/album/75gyj3yKAFyATEEV2CtWVw"
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
       },
       "artists": [
         {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Minyo Crusaders",
-          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 264842,
-      "name": "Cumbia del Monte Fuji",
-      "url": "https://open.spotify.com/track/2ErLVOXP9j8ziacqpz5JJr"
+      "duration_ms": 223133,
+      "name": "\u00bfD\u00f3nde estabas t\u00fa?",
+      "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -457,188 +425,20 @@
       "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
     },
     {
-      "added_at": "2022-04-20 05:00:00",
-      "album": {
-        "name": "Sofrito",
-        "url": "https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 366200,
-      "name": "Sofrito",
-      "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc"
-    },
-    {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Hotline Bling",
-        "url": "https://open.spotify.com/album/1JbW8zIG1gp5vnDV7N5LJN"
+        "name": "Ella Me Enamor\u00f3",
+        "url": "https://open.spotify.com/album/46M72fEbiyFNH4pvyw5Pxp"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
         }
       ],
-      "duration_ms": 203059,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/7p6CgRGbeR6WyidudAzbsf"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
-        "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos del sol",
-          "url": "https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah"
-        }
-      ],
-      "duration_ms": 189616,
-      "name": "Si Me Quieres",
-      "url": "https://open.spotify.com/track/6Bx4bfum3dd8FAEiLVntzP"
-    },
-    {
-      "added_at": "2022-04-20 05:00:00",
-      "album": {
-        "name": "En Orbita",
-        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
-      },
-      "artists": [
-        {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Para Elisa",
-      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
-        }
-      ],
-      "duration_ms": 161426,
-      "name": "Cumbia De Los Pajaritos",
-      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Dub de Gaita",
-        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
-      },
-      "artists": [
-        {
-          "name": "Los Gaiteros de San Jacinto",
-          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
-      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/22mVIMbschh7l57uvZuKma"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Ateo",
-        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "Nathy Peluso",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 239925,
-      "name": "Ateo",
-      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
-    },
-    {
-      "added_at": "2022-04-20 05:00:00",
-      "album": {
-        "name": "Cumbia Feminista",
-        "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
-      },
-      "artists": [
-        {
-          "name": "Las Decapitadas",
-          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "Cumbia Feminista",
-      "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
-    },
-    {
-      "added_at": "2022-04-20 05:00:00",
-      "album": {
-        "name": "Ska Cubano",
-        "url": "https://open.spotify.com/album/2eWZWaeg03fmtSWUoWYQHn"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Chango",
-      "url": "https://open.spotify.com/track/41AxtTlR7ir3W9skTWyrOB"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Desesperanza",
-        "url": "https://open.spotify.com/album/41X2H1RsNkjrELghdVKNEV"
-      },
-      "artists": [
-        {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Salsa Caliente - Versi\u00f3n Aumentada",
-      "url": "https://open.spotify.com/track/5pUOPXkEVcdrnd61jfLwMf"
+      "duration_ms": 226333,
+      "name": "Ella Me Enamor\u00f3",
+      "url": "https://open.spotify.com/track/122nYSJuwGDvoODZxTAuE5"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -659,34 +459,34 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1nBAQLlD3WPf939Jlrc2Ku"
     },
     {
-      "added_at": "2021-10-20 21:31:00",
+      "added_at": "2022-04-20 05:00:00",
       "album": {
-        "name": "Estraik Back",
-        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+        "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/2eWZWaeg03fmtSWUoWYQHn"
       },
       "artists": [
         {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
         }
       ],
-      "duration_ms": 231226,
-      "name": "Perro Rabioso",
-      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
+      "duration_ms": 218640,
+      "name": "Chango",
+      "url": "https://open.spotify.com/track/41AxtTlR7ir3W9skTWyrOB"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -700,25 +500,93 @@
           "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
         }
       ],
-      "duration_ms": 174640,
-      "name": "No Pares Hasta Tener lo Suficiente - Don't Stop 'til You Get Enough",
-      "url": "https://open.spotify.com/track/7D1AsxEUv12CXEzTmyZXWX"
+      "duration_ms": 212746,
+      "name": "Otro Muerde el Polvo - Another One Bites the Dust",
+      "url": "https://open.spotify.com/track/04rjMM4TLlevascCX3GlOM"
+    },
+    {
+      "added_at": "2022-04-20 05:00:00",
+      "album": {
+        "name": "Sofrito",
+        "url": "https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "Sofrito",
+      "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc"
+    },
+    {
+      "added_at": "2022-04-20 05:00:00",
+      "album": {
+        "name": "The Afrosound Of Colombia Volume 1",
+        "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
+      },
+      "artists": [
+        {
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Los sabanales",
+      "url": "https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh"
     },
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Visit Malphino",
-        "url": "https://open.spotify.com/album/1C6Eo9PYKoTQWAtx7NyAHg"
+        "name": "Voy Pa All\u00e1",
+        "url": "https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4"
       },
       "artists": [
         {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+          "name": "Semblanzas del Rio Guapi",
+          "url": "https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H"
         }
       ],
-      "duration_ms": 185640,
-      "name": "Molienda",
-      "url": "https://open.spotify.com/track/4EOpGfxpkYyEoaCpI6dKE3"
+      "duration_ms": 263253,
+      "name": "Bogando",
+      "url": "https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Desesperanza",
+        "url": "https://open.spotify.com/album/41X2H1RsNkjrELghdVKNEV"
+      },
+      "artists": [
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "Salsa Caliente - Versi\u00f3n Aumentada",
+      "url": "https://open.spotify.com/track/5pUOPXkEVcdrnd61jfLwMf"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Ojos Negros",
+        "url": "https://open.spotify.com/album/5SgYNPLjnGFIrV37pV6mZ1"
+      },
+      "artists": [
+        {
+          "name": "Desta French",
+          "url": "https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W"
+        },
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        }
+      ],
+      "duration_ms": 224394,
+      "name": "Ojos Negros",
+      "url": "https://open.spotify.com/track/0E34QOEIpfSEvwkWOUi16T"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -753,6 +621,70 @@
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
+      "added_at": "2022-04-20 05:00:00",
+      "album": {
+        "name": "En Orbita",
+        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Para Elisa",
+      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
+    },
+    {
+      "added_at": "2022-04-20 05:00:00",
+      "album": {
+        "name": "Noche triler",
+        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
+      },
+      "artists": [
+        {
+          "name": "LA MECANICA POPULAR",
+          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
+        }
+      ],
+      "duration_ms": 238907,
+      "name": "Noche triler",
+      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Visit Malphino",
+        "url": "https://open.spotify.com/album/1C6Eo9PYKoTQWAtx7NyAHg"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Molienda",
+      "url": "https://open.spotify.com/track/4EOpGfxpkYyEoaCpI6dKE3"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+    },
+    {
       "added_at": "2021-10-20 21:31:00",
       "album": {
         "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
@@ -775,34 +707,122 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Sonido Amazonico",
-        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
       },
       "artists": [
         {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        },
+        {
+          "name": "Don Peri\u00f1on",
+          "url": "https://open.spotify.com/artist/6APOW2Up67D5rMmwj5Z0bZ"
         }
       ],
-      "duration_ms": 257333,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
+      "duration_ms": 183355,
+      "name": "Cero Guapos En Yateras",
+      "url": "https://open.spotify.com/track/1IN1IpSh3kjdXfsoPyUcHQ"
     },
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Los Miticos del Ritmo (Soundway Records)",
-        "url": "https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I"
+        "name": "Los Aut\u00e9nticos",
+        "url": "https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B"
       },
       "artists": [
         {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+          "name": "Los Shapis",
+          "url": "https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Otro Muerde el Polvo - Another One Bites the Dust",
-      "url": "https://open.spotify.com/track/04rjMM4TLlevascCX3GlOM"
+      "duration_ms": 230973,
+      "name": "El Aguajal",
+      "url": "https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Romperayo",
+        "url": "https://open.spotify.com/album/6s1doXtRUXaxXs2rnPSOsD"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 213992,
+      "name": "Alegria por un Zumo de Naranja Con Panela",
+      "url": "https://open.spotify.com/track/3c3SlCmGqAULLHI3eGuHTK"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Toma Tu Jab\u00f3n Kapax",
+        "url": "https://open.spotify.com/album/7mCtZcUQj34JoY810HGRlO"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "Lambada de Ocean\u00eda, \u00c1frica y Am\u00e9rica",
+      "url": "https://open.spotify.com/track/3vo1FajskK841e2gcxHpqB"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/22mVIMbschh7l57uvZuKma"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Me Dejo Llevar",
+        "url": "https://open.spotify.com/album/6O6TZbyRqbQ6W3yNW7P6NO"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        },
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Me Dejo Llevar - Bial Hclap Remix",
+      "url": "https://open.spotify.com/track/76CkH7K1YZUYHYFkRlv8qr"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -821,40 +841,20 @@
       "url": "https://open.spotify.com/track/5Rk5sEHwAsroPFOjRBxogp"
     },
     {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Ojos Negros",
-        "url": "https://open.spotify.com/album/5SgYNPLjnGFIrV37pV6mZ1"
-      },
-      "artists": [
-        {
-          "name": "Desta French",
-          "url": "https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W"
-        },
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        }
-      ],
-      "duration_ms": 224394,
-      "name": "Ojos Negros",
-      "url": "https://open.spotify.com/track/0E34QOEIpfSEvwkWOUi16T"
-    },
-    {
       "added_at": "2022-04-20 05:00:00",
       "album": {
-        "name": "Noche triler",
-        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
+        "name": "Cumbia Feminista",
+        "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
       },
       "artists": [
         {
-          "name": "LA MECANICA POPULAR",
-          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
+          "name": "Las Decapitadas",
+          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
         }
       ],
-      "duration_ms": 238907,
-      "name": "Noche triler",
-      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
+      "duration_ms": 233513,
+      "name": "Cumbia Feminista",
+      "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
     }
   ],
   "unique_name": "Brunch Latino",

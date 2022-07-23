@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-168 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
+169 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2021-02-05 | 2022-07-13 |
 | [Green Aisles](https://open.spotify.com/track/1H4mV1lgrNBUjZgRjjP1nu) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Days](https://open.spotify.com/album/4F6yLWrwSlHv5aZYZ3waAb) | 5:01 | 2021-02-05 | 2022-04-21 |
 | [Green Eyes](https://open.spotify.com/track/1iMOLNyzKtIMucwZzQSjZi) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 3:49 | 2022-04-11 | 2022-04-19 |
+| [Grow Up Tomorrow](https://open.spotify.com/track/6Anf5eqLfGEKoGy0iaKAOb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A) | 3:12 | 2022-07-22 |  |
 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 | 2021-02-05 | 2022-04-21 |
 | [Hawaiian Boi](https://open.spotify.com/track/6EzFRLgOG9gXBg2OwREqJu) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Lo\-Tide](https://open.spotify.com/album/5XqSocqCRgQwhAWTjeYaPv) | 2:41 | 2021-02-05 | 2022-05-10 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-04-13 |  |
@@ -90,7 +91,7 @@
 | [Johny Says Stay Cool](https://open.spotify.com/track/079PTrnF2dhq5iUI0xiq2x) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Johny Says Stay Cool](https://open.spotify.com/album/4SCvFvAPVPOst8Vk0s2nHx) | 2:36 | 2021-02-05 |  |
 | [Keep in Line](https://open.spotify.com/track/45FKtXcNaJVtbfCumiUHHe) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Keep in Line](https://open.spotify.com/album/0k5jwmJHT4lsTT9tatZ807) | 3:39 | 2021-02-05 | 2022-04-21 |
 | [Last Train Home](https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home](https://open.spotify.com/album/0N81gHRK0RnJY0vMAOKVyi) | 3:07 | 2021-08-27 | 2022-04-21 |
-| [Lemurian Promenade](https://open.spotify.com/track/1TJbIX80eZSkVCtrcU57Ja) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [Lemurian Promenade](https://open.spotify.com/album/0GVRN6mAUoizZ1zSozX9wY) | 3:57 | 2021-02-05 |  |
+| [Lemurian Promenade](https://open.spotify.com/track/1TJbIX80eZSkVCtrcU57Ja) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [Lemurian Promenade](https://open.spotify.com/album/0GVRN6mAUoizZ1zSozX9wY) | 3:57 | 2021-02-05 | 2022-07-23 |
 | [Let the Sun In](https://open.spotify.com/track/6qMiZK4mGuCRkVwRFds4Sm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:43 | 2021-02-05 | 2022-07-02 |
 | [Let's Go](https://open.spotify.com/track/4zBFWizKHRrrgHmb3VQvuJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Let's Go](https://open.spotify.com/album/2ihzFPvG24siD95PTwp2nB) | 4:00 | 2022-06-16 | 2022-07-02 |
 | [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/track/6wpYutp0e5dtaV2kCDv12O) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [Cherry Surf](https://open.spotify.com/artist/35j9UeFevD5ajbybRznTPx) | [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/album/6jJDDnkqqtxbWIqap2SNxL) | 3:36 | 2021-11-19 | 2022-06-27 |
@@ -109,10 +110,10 @@
 | [One Another](https://open.spotify.com/track/4xF9zRaPdnrLU7QmVMKOzR) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 2:46 | 2021-02-05 | 2022-07-17 |
 | [Orchestration](https://open.spotify.com/track/0dt7HhWCKFlQgQuvVLVumN) | [Cape Weather](https://open.spotify.com/artist/7J1pOyIKObwsdVRzu4scnI) | [Orchestration](https://open.spotify.com/album/4g6zb75CpvvUmnqNQPsswt) | 3:05 | 2021-02-05 | 2022-06-30 |
 | [Origins](https://open.spotify.com/track/3UFa8A2LDIh5wlHeETguP4) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Young & Old](https://open.spotify.com/album/0iYMIu3RfxzlhcJ9oK6TvB) | 3:28 | 2021-02-05 | 2022-07-18 |
-| [Out in the Country](https://open.spotify.com/track/7FWhvGFDMGo3BkuSI00rOi) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' with Wolves](https://open.spotify.com/album/6ckLqYa0vRJF9QUkEiv59p) | 2:54 | 2021-02-05 |  |
+| [Out in the Country](https://open.spotify.com/track/7FWhvGFDMGo3BkuSI00rOi) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' with Wolves](https://open.spotify.com/album/6ckLqYa0vRJF9QUkEiv59p) | 2:54 | 2021-02-05 | 2022-07-23 |
 | [Panama](https://open.spotify.com/track/6JfqUlQHtbdWDi5o7bp6qd) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/5mzRPtsvAzLBqyYtjH6gMs) | 3:18 | 2021-02-05 |  |
 | [Party Talk](https://open.spotify.com/track/6N2kBsYvZaS7tO5awPcnSV) | [Craft Spells](https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ) | [Idle Labor](https://open.spotify.com/album/3IzLouGQA5uY4NfT6zNe3j) | 3:40 | 2021-02-05 | 2022-04-20 |
-| [Peace Blossom Boogy](https://open.spotify.com/track/5qNNanYonpCwahfJGuFVRQ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow \(AUS\)](https://open.spotify.com/album/4SJjaJoFzSLiRY34F5hl2t) | 3:14 | 2021-02-05 | 2022-07-20 |
+| [Peace Blossom Boogy](https://open.spotify.com/track/5qNNanYonpCwahfJGuFVRQ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow \(AUS\)](https://open.spotify.com/album/4SJjaJoFzSLiRY34F5hl2t) | 3:14 | 2021-02-05 |  |
 | [Peace Blossom Boogy](https://open.spotify.com/track/0Mfcw67Xb68PJJNsfxRi7L) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2) | 3:14 | 2022-07-18 | 2022-07-22 |
 | [Peach Pit](https://open.spotify.com/track/4W8iitrK5csxU1kqBeT5Js) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/3Ab4CfKIqTQdJPCrz6U0Ka) | 4:47 | 2021-02-05 | 2022-07-21 |
 | [Petals](https://open.spotify.com/track/21DCAUa5hBGdNhDBSDAuCI) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Petals](https://open.spotify.com/album/3S3BIsaQzGl7WfdV8OZQfh) | 2:54 | 2021-02-05 | 2022-07-22 |
@@ -134,7 +135,7 @@
 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 | 2021-02-05 | 2022-05-26 |
 | [Shampoo Bottles](https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:44 | 2021-04-13 |  |
 | [Some Samurai](https://open.spotify.com/track/1bZcaDmkrz23KDP7U5xnWJ) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Hotstuff](https://open.spotify.com/album/7HaM93cGDzJdsKOOu1PwqC) | 4:54 | 2021-02-05 |  |
-| [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 | 2021-02-05 | 2022-07-20 |
+| [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 | 2021-02-05 |  |
 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 | 2021-02-05 | 2022-06-30 |
 | [Something New](https://open.spotify.com/track/1roGQgXbwaKojyfEGPCk8D) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Something New](https://open.spotify.com/album/2aKQxCgAkenCRpyKy040W9) | 3:13 | 2021-02-05 |  |
 | [Sports](https://open.spotify.com/track/2B9aVoZ2GWDtR09jIpFpQD) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/71zuqxUvaTrtGppFhL1ajp) | 2:44 | 2021-02-05 | 2022-04-21 |
@@ -150,7 +151,7 @@
 | [Taking Up Space](https://open.spotify.com/track/7i28aaEucsoEeEfZLHZHb1) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/5pzZw40gzDD1WR5lKkvzqZ) | 3:37 | 2021-02-05 |  |
 | [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 | 2021-02-05 | 2022-07-02 |
 | [Tangerine](https://open.spotify.com/track/5rpI91rFVNaK9ACHBIvvFO) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Tangerine](https://open.spotify.com/album/2UBJeCouDLytZCKVnWve6F) | 3:14 | 2021-02-05 |  |
-| [TERMS](https://open.spotify.com/track/57AUprrPPO1UpdwKsk80yg) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [HOT WHEELS / TERMS](https://open.spotify.com/album/3OORhTzZtBdNwSRixMdNGg) | 1:48 | 2021-11-19 |  |
+| [TERMS](https://open.spotify.com/track/57AUprrPPO1UpdwKsk80yg) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [HOT WHEELS / TERMS](https://open.spotify.com/album/3OORhTzZtBdNwSRixMdNGg) | 1:48 | 2021-11-19 | 2022-07-23 |
 | [That Thing](https://open.spotify.com/track/6IDcZXJXQzIfhkjlvVB3Gp) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/4tKnS9Q0lgN3i7SmXi4mGI) | 3:08 | 2021-02-05 | 2022-06-25 |
 | [The Boy](https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Onion](https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W) | 3:02 | 2021-02-05 |  |
 | [The Spins](https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo) | 3:15 | 2021-04-13 | 2022-06-17 |

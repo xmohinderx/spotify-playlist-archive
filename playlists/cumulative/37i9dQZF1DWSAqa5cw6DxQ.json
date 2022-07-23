@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/0rizgZBRMsmGtpor6EMBg7"
+      },
+      "artists": [
+        {
+          "name": "Dayonas Dream",
+          "url": "https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178815,
+      "name": "Midnight Rose",
+      "url": "https://open.spotify.com/track/2vKrC9WVOelEnhhbDasiSe"
+    },
+    {
+      "album": {
         "name": "Mind By Mind",
         "url": "https://open.spotify.com/album/3c9EBatnQAU6gfcGtsrtKV"
       },
@@ -1525,6 +1543,24 @@
       "duration_ms": 133000,
       "name": "Thoughtsurfing",
       "url": "https://open.spotify.com/track/3hwHqRtc1JJD37wreiLL78"
+    },
+    {
+      "album": {
+        "name": "Transparency",
+        "url": "https://open.spotify.com/album/7L0fkPPLzgQWjo9CApHGOJ"
+      },
+      "artists": [
+        {
+          "name": "Tristan Wilson",
+          "url": "https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Transparency",
+      "url": "https://open.spotify.com/track/73ZnCLiPERq5SRGZ3cOpEz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-225 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
+226 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Press Da Button](https://open.spotify.com/track/7aQGmuRCM0c6Tk4NQ3cveX) | [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Press Da Button](https://open.spotify.com/album/75sGTwzrDhW99lYcVbQ5Xe) | 2:51 | 2022-04-01 | 2022-05-14 |
 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 | 2022-03-08 | 2022-03-09 |
 | [Pressure](https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Pressure](https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU) | 2:36 | 2022-02-25 | 2022-03-11 |
+| [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/0qvlNV42mBsDjXN4c6XQyp) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/7h7vgL9hnOW6CB7XYAEIMr) | 2:53 | 2022-07-22 |  |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-02-25 | 2022-05-06 |
 | [Pump 101](https://open.spotify.com/track/4MKOj49FQ3dlI9gqCOIjIn) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Still Brickin'](https://open.spotify.com/artist/79v8bTtrn8a0Idbv9WkddX) | [Pump 101](https://open.spotify.com/album/0ZIab9a4PhidpDukWo0MX1) | 2:32 | 2022-02-25 | 2022-05-14 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-02-25 | 2022-04-08 |

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water.
 
-167 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
+168 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [NO SAD SONGS](https://open.spotify.com/track/58J6FWRdf7PSUIDe9rbqdi) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [NO SAD SONGS](https://open.spotify.com/album/0A0XLrwzkiXewwPPdEoWOA) | 2:52 | 2021-07-09 |  |
 | [No Shade](https://open.spotify.com/track/1qD3k0gSDVJNw4laVAIqjp) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Got No Choice](https://open.spotify.com/album/1529CgDLI704QwWw5A5OFS) | 2:48 | 2021-10-15 |  |
 | [No Shoes, No Shirt, No Problems](https://open.spotify.com/track/4LZqNiZHiQvGLlt0RkXtqt) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 3:29 | 2021-06-18 |  |
+| [On The Water](https://open.spotify.com/track/3axlolsPT9rh65MRDnjM7i) | [Stephen Carey](https://open.spotify.com/artist/5R4aCM4MHu9UvbvfDgW6N1) | [On The Water](https://open.spotify.com/album/72U9UOAX47zFWMBHF0ZX5X) | 2:31 | 2022-07-22 |  |
 | [One Day](https://open.spotify.com/track/3Vzj3XBPoC4wHvuOR39jD0) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [One Day](https://open.spotify.com/album/71dZ9LHhvH06KuSYoeRgJP) | 2:45 | 2021-06-18 | 2022-06-22 |
 | [One Margarita](https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [One Margarita](https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw) | 3:13 | 2021-06-18 |  |
 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2022-04-08 |  |

@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Dabeull
 
-183 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+185 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 | 2022-01-28 |  |
 | [Hide](https://open.spotify.com/track/48m0yIOWPyLYQHXEKnMJ12) | [Alton Allen](https://open.spotify.com/artist/5sQbmL5ZGPpkwWNVxCJ2nq), [Niteppl](https://open.spotify.com/artist/5jQWZiaRwd5OXJ08MdyJ5D) | [Hide](https://open.spotify.com/album/35CDn6fdaAWVNFg6YN6K4J) | 4:18 | 2022-04-22 |  |
 | [Highly Compatible](https://open.spotify.com/track/3FMZsyg0weeAzesHLC0sdU) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Highly Compatible](https://open.spotify.com/album/2JD2i0URkUYRzaO1zMVKAK) | 6:05 | 2020-11-20 | 2022-04-09 |
-| [HIT 'EM WITH THE FUNK](https://open.spotify.com/track/4wT7296bGxKURlz4mwTYTm) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/73ftN0Cki1TUv81OKKItdm) | 3:56 | 2021-10-15 |  |
+| [HIT 'EM WITH THE FUNK](https://open.spotify.com/track/4wT7296bGxKURlz4mwTYTm) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/73ftN0Cki1TUv81OKKItdm) | 3:56 | 2021-10-15 | 2022-07-23 |
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-15 |  |
 | [How Hard](https://open.spotify.com/track/0lolsWqQe1StrLfvEtlLlt) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [How Hard](https://open.spotify.com/album/0QxwUc3t7AWzTvTXzFdq7Y) | 4:11 | 2022-06-03 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-06-18 | 2022-01-29 |
@@ -175,6 +175,7 @@
 | [Wagmi Express](https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Water 4 The Soul II](https://open.spotify.com/album/7AjqMjfxFB7r5ZX1UyEMU9) | 3:35 | 2022-01-28 |  |
 | [Wait, I Lied](https://open.spotify.com/track/1INnYwu9Zn4odIzxyEAGqf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Forever Isn't Long Enough](https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W) | 3:16 | 2021-05-07 | 2022-01-29 |
 | [Wanna Go](https://open.spotify.com/track/4BSDnTwqQOARzQnsVkS8Gh) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Wanna Go](https://open.spotify.com/album/7xU2fbizvJVD9XUpqlQ8wM) | 2:18 | 2022-06-17 |  |
+| [WASABI](https://open.spotify.com/track/7LafokGsEiIKUA7ziJuPga) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [WASABI](https://open.spotify.com/album/6uNSXdsZ6dBAGHV8BMAOBM) | 2:47 | 2022-07-22 |  |
 | [Wasting Time](https://open.spotify.com/track/6qwwMUQBq2yy2bqBejBCIc) | [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Wasting Time](https://open.spotify.com/album/1l45FmdRw6IPM0jjDMd2fq) | 2:13 | 2021-04-16 | 2022-01-29 |
 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 | 2021-05-07 | 2022-07-16 |
 | [What Can We Do? \(feat\. Nate Dogg\)](https://open.spotify.com/track/0kOxmoYqRXjAnc5ZfQ6TIs) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 2:56 | 2020-11-20 | 2022-01-29 |
@@ -187,9 +188,10 @@
 | [You Are In My System](https://open.spotify.com/track/4EM5tC6fQI3tuJpya8Z2gm) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [You Are In My System](https://open.spotify.com/album/5LKTVi5SNVzjTrYnwDNPiT) | 5:43 | 2021-10-22 |  |
 | [You Don't Know](https://open.spotify.com/track/3HnTqNXder7RZTksBVxMVo) | [Sola Rosa](https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Chasing The Sun](https://open.spotify.com/album/0XUnao2RyJiTQIHPnWdwP9) | 3:47 | 2020-11-20 | 2022-04-09 |
 | [You Got Me](https://open.spotify.com/track/5nLKrvpQBb8sE3MvEfQGFI) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [You Got Me](https://open.spotify.com/album/2cogfCjxAEmXoWHFex4gDN) | 3:00 | 2021-06-11 |  |
-| [You Got the Right Thang](https://open.spotify.com/track/46CsNpRU9Tmz8bI27J4mxC) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/0FZbfwIKUCSFPei35a0HbZ) | 3:49 | 2021-03-05 |  |
+| [You Got the Right Thang](https://open.spotify.com/track/46CsNpRU9Tmz8bI27J4mxC) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/0FZbfwIKUCSFPei35a0HbZ) | 3:49 | 2021-03-05 | 2022-07-23 |
 | [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-04-22 |  |
 | [You Not Me](https://open.spotify.com/track/6FyM8JWZ1gffsvIbFWQ5JP) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL) | [You Not Me](https://open.spotify.com/album/0jANe1ZB6ZUafYRMK0vCLt) | 2:30 | 2021-07-23 |  |
+| [You Not Me \- Remix](https://open.spotify.com/track/6qmZKSHiYJCV09bSToTm3y) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [You Not Me \(Remix\)](https://open.spotify.com/album/5nCT2rB99boTMRmYIvky0d) | 2:34 | 2022-07-22 |  |
 | [Your Sweet Power](https://open.spotify.com/track/4TdfrvxJ2OD1IMMgq4ip0t) | [JB Stark](https://open.spotify.com/artist/0wDQ0wyB5XgsYkLaXsyNqm), [Kestra](https://open.spotify.com/artist/7udzSgwVGJxs3AyFnBD41K) | [Your Sweet Power](https://open.spotify.com/album/0jaJ9e6vSp9noMKJ0xlOaD) | 2:50 | 2021-10-22 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

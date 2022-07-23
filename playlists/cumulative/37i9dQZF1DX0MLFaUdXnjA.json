@@ -1478,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248895,
+      "name": "Believe - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy"
+    },
+    {
+      "album": {
         "name": "Ben & Jerry",
         "url": "https://open.spotify.com/album/1Hn5Rbk7431cLlGNQw32Cj"
       },
@@ -5735,7 +5753,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 193821,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
@@ -6665,6 +6683,24 @@
       "duration_ms": 180048,
       "name": "happy for you",
       "url": "https://open.spotify.com/track/4vBefXybmvZ8uWzjxOvZP4"
+    },
+    {
+      "album": {
+        "name": "Haunt You",
+        "url": "https://open.spotify.com/album/16sm0PLHDeBVPQhNtpxLOC"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166104,
+      "name": "Haunt You",
+      "url": "https://open.spotify.com/track/0ikj11vlWRTn6lxs5xMkOj"
     },
     {
       "album": {
@@ -8132,6 +8168,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Here Rn",
+        "url": "https://open.spotify.com/album/1idUOu9zbmQLtID4BSzZyt"
+      },
+      "artists": [
+        {
+          "name": "Alice Gray",
+          "url": "https://open.spotify.com/artist/6bSM7pvpb0bMWHl9ZuCIs1"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195498,
+      "name": "I'm Not Here Rn",
+      "url": "https://open.spotify.com/track/1jgdPCPdnRmTdJ7cwX1GI0"
+    },
+    {
+      "album": {
         "name": "Icee Pop",
         "url": "https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7"
       },
@@ -8353,7 +8407,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 191949,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq"
@@ -9721,7 +9775,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 234760,
       "name": "London Is Lonely",
       "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
@@ -10205,7 +10259,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 268528,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/287p7lbcw95SrINpsNJTzk"
@@ -10371,7 +10425,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 193429,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
@@ -10672,6 +10726,28 @@
     },
     {
       "album": {
+        "name": "Mile High",
+        "url": "https://open.spotify.com/album/2eYwdlhodCN73iyILQmfFM"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        },
+        {
+          "name": "Mills",
+          "url": "https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209083,
+      "name": "Mile High",
+      "url": "https://open.spotify.com/track/0HfrMtru5FIDJj4PsTJUzN"
+    },
+    {
+      "album": {
         "name": "MINE",
         "url": "https://open.spotify.com/album/44Pxl81Lf2lULP8eDb3PqA"
       },
@@ -10795,7 +10871,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 159157,
       "name": "Modern Art",
       "url": "https://open.spotify.com/track/5xFa3vNbwlhoNV1htRkGKK"
@@ -12213,7 +12289,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 197786,
       "name": "Out Of Excuses",
       "url": "https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj"
@@ -13589,6 +13665,24 @@
       "duration_ms": 181624,
       "name": "Sad Sad Sad",
       "url": "https://open.spotify.com/track/3WBrVcz2iXxnQpEso12Wnw"
+    },
+    {
+      "album": {
+        "name": "Sadtown USA",
+        "url": "https://open.spotify.com/album/6mKq3sxLNkjr8k7fFkGENN"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190596,
+      "name": "Sadtown USA",
+      "url": "https://open.spotify.com/track/5isaeQhLPaB5dGg0ccJOuX"
     },
     {
       "album": {
@@ -15828,6 +15922,24 @@
     },
     {
       "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216448,
+      "name": "The 30th",
+      "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
+    },
+    {
+      "album": {
         "name": "The 90s",
         "url": "https://open.spotify.com/album/19U5FODUkbk237dBgN7lQB"
       },
@@ -16849,6 +16961,24 @@
       "duration_ms": 142310,
       "name": "Trying Not To Cry (feat. Cavetown)",
       "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
+    },
+    {
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "album": {

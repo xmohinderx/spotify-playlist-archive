@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,082 likes - 74 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,193 likes - 74 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 73 | [Lucky Lips](https://open.spotify.com/track/2QD6hlIGUAqJuTzAw0eVTW) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:09 |
 | 74 | [Lucille](https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:23 |
 
-Snapshot ID: `MTY1MDY0MjIxOCwwMDAwMDAwMzAwMDAwMTgwNTFmMTZkYmQwMDAwMDE3ZjkzNDQ2ZjEz`
+Snapshot ID: `MTY1ODQ5OTMxMywwMDAwMDAwNDAwMDAwMTgyMjY0MzJmODUwMDAwMDE3ZjkzNDQ2ZjEz`

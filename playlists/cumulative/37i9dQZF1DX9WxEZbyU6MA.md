@@ -4,10 +4,11 @@
 
 > Relax to the calming sounds of choral music.
 
-65 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/1kZsP2YcL77b9nhWoq6gQJ)
+66 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/1kZsP2YcL77b9nhWoq6gQJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [26.9](https://open.spotify.com/track/74Bg9EeK0eKTWi32RCQPPV) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU), [Budapest Scoring Orchestra and Choir](https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ), [Jung Eun Hye](https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1) | [psalms](https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX) | 3:37 | 2022-07-22 |  |
 | [3 Nocturnes: No\. 1\. Ballade to the Moon](https://open.spotify.com/track/7KiV3ZJIlbrfzlAge8V4Oe) | [Daniel Elder](https://open.spotify.com/artist/4P7eJVEfhznpWSbB8mrooC), [Westminster Choir](https://open.spotify.com/artist/7bOkvwxa2SjdbvMvNawSMZ), [John Hudson](https://open.spotify.com/artist/54lm5ZFrkSjjKvblBlaWnq), [Joe Miller](https://open.spotify.com/artist/5FXCFxtSYwkVbkdKkChuit) | [The Heart's Reflection \(Music of Daniel Elder\)](https://open.spotify.com/album/1lVOWDxq9N5T5FhiaAOcvo) | 5:07 | 2021-07-21 |  |
 | [4 Russian Peasant Songs, "Podblyudniye": No\. 2\. Ovsen' \(Ovsen\)](https://open.spotify.com/track/0pC1GIUickg2z1iCZe9fLA) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Alexandra Vlasenkova](https://open.spotify.com/artist/0GAhZ40hDO1nZYEePkw2jb), [Lege Artis Chamber Choir](https://open.spotify.com/artist/4uXWdZBS0AGq9Bu0iVEysB), [Boris Abalyan](https://open.spotify.com/artist/11CZI2gbkBVUqC6lk3Wrjl) | [Russian Folk Songs in Choir Arrangements](https://open.spotify.com/album/6aYTx2HJhPiSmQWgPvOObP) | 1:04 | 2021-07-21 |  |
 | [Abide With Me \(Arr\. for Saxophone and Vocal Ensemble Christian Forshaw\)](https://open.spotify.com/track/2hsZ5e6ov7Fw86Cxe9tH50) | [Christian Forshaw](https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ), [Henry Francis Lyte](https://open.spotify.com/artist/1M90aRBFiBdBL1IzI4I13i), [William Henry Monk](https://open.spotify.com/artist/61GYUvvf0liMZ5x0HC9oRk), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [Abide With Me \(Arr\. for Saxophone and Vocal Ensemble Christian Forshaw\)](https://open.spotify.com/album/4wu8iBYdcRNUBpHwBZXXOW) | 4:07 | 2022-02-25 |  |

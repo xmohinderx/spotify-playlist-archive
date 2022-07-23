@@ -4,7 +4,7 @@
 
 > little miss 2 die 4
 
-464 songs - 1 day 1 hr 17 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+466 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-28 | 2022-06-19 |
 | [Infrunami](https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 2:58 | 2022-01-03 | 2022-03-14 |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2022-05-03 |  |
+| [it's ok!](https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [it’s ok!](https://open.spotify.com/album/4w7M4EslHGIRR3etqWniTX) | 3:05 | 2022-07-22 |  |
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-02-28 | 2022-05-04 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-05-04 | 2022-07-18 |
 | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/album/0PTGY2rz75YFy0H1jvibuD) | 3:35 | 2022-01-19 | 2022-03-23 |
@@ -243,6 +244,7 @@
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-07-07 | 2022-07-18 |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2021-12-29 | 2022-05-10 |
 | [Love in This Club \(feat\. Young Jeezy\)](https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Here I Stand](https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW) | 4:19 | 2022-04-19 | 2022-05-24 |
+| [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-22 |  |
 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 | 2022-02-18 | 2022-04-01 |
 | [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/track/5ZF6l3xKi3m6YK2dDXAsR5) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/album/3chA2MGRAajYTezCtS7f5s) | 3:13 | 2022-04-10 | 2022-06-28 |
 | [Love Me For Me](https://open.spotify.com/track/4kKhmIdFALmwCYrt90oWUW) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Love Me For Me](https://open.spotify.com/album/3uEv1aG9Akxj7cyFm4I0ub) | 2:51 | 2022-04-08 | 2022-04-18 |

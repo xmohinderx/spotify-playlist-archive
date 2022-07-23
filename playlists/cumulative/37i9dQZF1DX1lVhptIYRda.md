@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Lainey Wilson
+> Today's top country hits of the week, worldwide! Cover: Jordan Davis
 
-537 songs - 1 day 4 hr 56 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
+539 songs - 1 day 5 hr 3 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 | 2021-06-26 | 2021-10-30 |
 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 | 2021-05-03 | 2021-10-09 |
 | [Country Again](https://open.spotify.com/track/3SR6R5XetNfOcVqvUwDkTz) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3BmHqsIguuZLlnRHq5bPmg) | 3:41 | 2021-04-24 | 2021-05-03 |
-| [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-05-20 |  |
+| [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-05-20 | 2022-07-23 |
 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 | 2022-07-01 |  |
 | [Cross Country](https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4) | 3:26 | 2022-01-11 | 2022-03-12 |
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2022-04-15 |  |
@@ -140,7 +140,7 @@
 | [Everywhere But On](https://open.spotify.com/track/0ifYeH4gNXEyba41xr3I1w) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:12 | 2020-06-12 | 2020-11-07 |
 | [Everywhere But On](https://open.spotify.com/track/5ULnmELoCHMgS2VzL9qQaK) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Matt Stell](https://open.spotify.com/album/0j9HPvF8qRcifU23KR5w85) | 3:12 | 2019-10-05 | 2020-06-21 |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2019-05-26\* | 2019-07-06 |
-| [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-04-29 |  |
+| [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-04-29 | 2022-07-23 |
 | [Fall in Love](https://open.spotify.com/track/5fdzJmExgTptv36KpfKFI4) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Fall in Love](https://open.spotify.com/album/1ernqkpykh9fnUvNgWqwCP) | 2:49 | 2020-08-08 | 2020-09-05 |
 | [Famous](https://open.spotify.com/track/6HBhMdKR4HRfQ3fuGUFbzE) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Famous](https://open.spotify.com/album/5lFCULlNTvKxZ7wBaU0wcP) | 3:06 | 2019-05-26\* | 2019-10-26 |
 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 | 2020-11-22 | 2021-07-17 |
@@ -337,6 +337,7 @@
 | [Never Be Sorry](https://open.spotify.com/track/1sE1zYYMBsHd7iR6nPN16p) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Never Be Sorry](https://open.spotify.com/album/3lefhQbcxYWU4pdUgcWWiG) | 3:27 | 2019-10-26 | 2019-12-14 |
 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70) | 2:56 | 2021-11-20 | 2022-04-29 |
 | [Never Til Now](https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer \- Side A](https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r) | 2:53 | 2021-12-17 | 2022-04-16 |
+| [Never Til Now \(feat\. Brett Young\)](https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2022-07-22 |  |
 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-11-06 | 2022-06-04 |
 | [New Truck](https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [New Truck](https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM) | 2:54 | 2021-10-09 | 2022-03-18 |
 | [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 | 2020-09-05 | 2021-09-25 |
@@ -395,6 +396,7 @@
 | [Ridin' Roads](https://open.spotify.com/track/5OBtr92M0xsvOGqpnz3LzW) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Ridin' Roads](https://open.spotify.com/album/5k9qdzeVjlGweGxnb4cnGd) | 3:25 | 2019-05-26\* | 2020-04-04 |
 | [Right Now](https://open.spotify.com/track/27SEGAFBjr1CsjLcUu0Z4f) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Right Now](https://open.spotify.com/album/7K26C63gkM1i2JR0FdLPvT) | 3:55 | 2021-02-18 | 2021-03-27 |
 | [River Road Dream](https://open.spotify.com/track/4QGGGxbBWidRoAsWT9vEv8) | [Curtis Grimes](https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP) | [River Road Dream](https://open.spotify.com/album/2TZN1cY7bfs6lqvsokOlrU) | 3:23 | 2020-03-28 | 2020-04-12 |
+| [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-07-22 |  |
 | [Ruin That For Me](https://open.spotify.com/track/0ADmzFBX4aO3kFymfXpZeE) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Avenue Beat EP](https://open.spotify.com/album/3NfRWzyKldhIsvOo52IgNm) | 2:43 | 2020-01-18 | 2020-06-21 |
 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 | 2019-05-26\* | 2019-08-13 |
 | [Run](https://open.spotify.com/track/5wZs9W0nALt2QZn6yxDlxa) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Run](https://open.spotify.com/album/34nQcR0F5X8W39JfBX0zU6) | 3:19 | 2020-08-30 | 2020-10-18 |

@@ -72,6 +72,24 @@
     },
     {
       "album": {
+        "name": "Nuvens de Neon",
+        "url": "https://open.spotify.com/album/5ojGjI0TqdxY2ZFGIzJn76"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181663,
+      "name": "A Lua e Seu Olhar",
+      "url": "https://open.spotify.com/track/748v7HYonNIeIWwryS8gr2"
+    },
+    {
+      "album": {
         "name": "Aleluia",
         "url": "https://open.spotify.com/album/0WjGzvIEq8FMnK7GIQhuVU"
       },
@@ -889,7 +907,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 172374,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/00eW4H1qAvDE5R2OgMicoK"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 178203,
       "name": "Gin",
       "url": "https://open.spotify.com/track/2bPzGppvC8QntSWFtJKGjh"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 143068,
       "name": "N\u00e3o Demora",
       "url": "https://open.spotify.com/track/0VLpFyP3NruiPE3dKsACJ1"
@@ -2840,6 +2858,28 @@
     },
     {
       "album": {
+        "name": "Sentimentos Puros",
+        "url": "https://open.spotify.com/album/3oKuNqRmz2f86JjIRhdLKL"
+      },
+      "artists": [
+        {
+          "name": "Lucas Muto",
+          "url": "https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135006,
+      "name": "Sentimentos Puros",
+      "url": "https://open.spotify.com/track/0OchRg8qK1ZU26RfooJabZ"
+    },
+    {
+      "album": {
         "name": "Seus Olhos",
         "url": "https://open.spotify.com/album/3Ub8SSzzNx2c2H3WoWJcsv"
       },
@@ -3167,6 +3207,28 @@
       "duration_ms": 153245,
       "name": "Vida Toda - Spotify Singles",
       "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"
+    },
+    {
+      "album": {
+        "name": "Vontade de Voc\u00ea",
+        "url": "https://open.spotify.com/album/3TIitaKvGfhFxJcYVU0Fxa"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "Vontade de Voc\u00ea",
+      "url": "https://open.spotify.com/track/6rH6EbWRdfRmUVw1lpsMhF"
     },
     {
       "album": {

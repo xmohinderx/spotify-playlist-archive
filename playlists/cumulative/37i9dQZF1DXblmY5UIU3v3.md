@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-104 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/0obXPUtgNG5CB9BFpywdST)
+106 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/0obXPUtgNG5CB9BFpywdST)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Are You Ready](https://open.spotify.com/track/5jCBYOK6Suute7842zfYx5) | [BAD NINJA](https://open.spotify.com/artist/1e9y7soHWYgqQzdM6tWrsU) | [Tai Sabaki](https://open.spotify.com/album/6kdkeLnHlMbpupnohChqhO) | 2:59 | 2022-04-07 |  |
 | [Assassins](https://open.spotify.com/track/6BwU53sWLGiej16Y9hewW2) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf), [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Assassins](https://open.spotify.com/album/3J5MFrctYLtOhAfwqrjjpk) | 3:27 | 2022-04-07 | 2022-04-22 |
 | [Aventador](https://open.spotify.com/track/1DT949NfFNvR6ePqdghtng) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Aventador](https://open.spotify.com/album/7q2XGGusivlWPaPMOw6Xa1) | 3:00 | 2022-05-20 |  |
-| [Big Bang](https://open.spotify.com/track/1DLAecTyNRrGd2QcTf33Tc) | [BAD NINJA](https://open.spotify.com/artist/1e9y7soHWYgqQzdM6tWrsU) | [Doctor](https://open.spotify.com/album/1pdm2LpgVSsGSCBpoeXbZe) | 2:59 | 2022-05-20 |  |
+| [Big Bang](https://open.spotify.com/track/1DLAecTyNRrGd2QcTf33Tc) | [BAD NINJA](https://open.spotify.com/artist/1e9y7soHWYgqQzdM6tWrsU) | [Doctor](https://open.spotify.com/album/1pdm2LpgVSsGSCBpoeXbZe) | 2:59 | 2022-05-20 | 2022-07-23 |
 | [Blast](https://open.spotify.com/track/6IueCsicxdsbMj1HTF8jxq) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [KSKV](https://open.spotify.com/artist/07BMRyGNDQEqrjtlqjfYuh) | [Blast](https://open.spotify.com/album/7De3XSkwYMfun0zzYzQRm4) | 2:36 | 2022-04-07 |  |
 | [BOSSHEE](https://open.spotify.com/track/3kI3g7QGNojJ6lXGHdRA1j) | [KEAN DYSSO](https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5) | [BOSSHEE](https://open.spotify.com/album/12DrVocGhyqgdKBbogBNxS) | 2:55 | 2022-04-07 | 2022-05-13 |
 | [Breaking Bad](https://open.spotify.com/track/3NHdgC5rnBdgHqMLIpDaUT) | [Tommy Soprano](https://open.spotify.com/artist/1bohBNryuQpzSEtG9cytN1), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Breaking Bad](https://open.spotify.com/album/1UQiCvNh818IR2eGNyFCwX) | 3:02 | 2022-06-30 |  |
@@ -26,6 +26,7 @@
 | [DALE](https://open.spotify.com/track/6y0SGW7yBjlL8WsOvUk2Dv) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [DALE](https://open.spotify.com/album/2LvZxhfd1zJOIdl4iLRlgG) | 2:44 | 2022-06-30 |  |
 | [Dark & Dangerous](https://open.spotify.com/track/0G4bbDthDjRpeiEi7jX6RH) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Sounds Of The Street II](https://open.spotify.com/album/7xXzCE3kMsxMQ2YWldJY2V) | 2:39 | 2022-06-30 |  |
 | [Devil](https://open.spotify.com/track/6O56L08jW9J5oFmD7YKXm2) | [ISHNLV](https://open.spotify.com/artist/5qZzS4qbriUwGeqoj8U1p3) | [Devil](https://open.spotify.com/album/2oS8pY5JB8KZyiqkfgMy98) | 2:39 | 2022-04-21 | 2022-05-21 |
+| [Diddy Bop](https://open.spotify.com/track/6bNyhGcRsX3eNS2ZsBOwLN) | [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz), [Coffeeshop](https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC), [Thatsimo](https://open.spotify.com/artist/6YpREiVGQMVkSzsl4kVwdv), [OTG Stiffy](https://open.spotify.com/artist/01DxU2EiRTJfdFE9cub5hJ) | [Diddy Bop](https://open.spotify.com/album/2k36aJWIyPGVj02Ghb2den) | 2:47 | 2022-07-22 |  |
 | [Drown](https://open.spotify.com/track/69QeE5b6cEkOm7ptLhNsip) | [Donkong](https://open.spotify.com/artist/2iSzx6yX8XC77IGgRlRZgX), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Drown](https://open.spotify.com/album/6sRAShGQGmgorTBILDoFgL) | 3:30 | 2022-06-03 |  |
 | [Dubai](https://open.spotify.com/track/21JaPxq2EGDDHKxGX8Cwwl) | [Mosees](https://open.spotify.com/artist/1Bff29cYcg0JkyYiyhFguD) | [Dubai](https://open.spotify.com/album/0nxlL5KuQPIlqgj6uJ6j9C) | 2:24 | 2022-06-16 |  |
 | [Dune](https://open.spotify.com/track/3DYl0qnXwMYMKcXHn95i7d) | [Infraction](https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ), [Alexi Action](https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw) | [Dune](https://open.spotify.com/album/6IzhSilCIno7FCwaj74CmD) | 2:23 | 2022-05-20 | 2022-06-17 |
@@ -39,6 +40,7 @@
 | [Get Down](https://open.spotify.com/track/2bjbQOlosHoM9CdcYVtSbv) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Get Down](https://open.spotify.com/album/3R3jRrLKOlUxn9TEjOD64l) | 4:02 | 2022-06-10 | 2022-07-01 |
 | [Get it On](https://open.spotify.com/track/0gWDCw9fClUe8GaUapMxul) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Get it On](https://open.spotify.com/album/3LJitRgn2KL2v7VdwKoHVB) | 2:23 | 2022-07-08 |  |
 | [Get Low](https://open.spotify.com/track/6o2FQGObDH7kCpYlvJH2ai) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Get Low](https://open.spotify.com/album/7vjky38QfkVvkXF1ueWyZT) | 3:41 | 2022-04-07 |  |
+| [Get Low](https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO) | [Get Low](https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE) | 2:26 | 2022-07-22 |  |
 | [GVNG](https://open.spotify.com/track/1qeBLpAhPKExWU5PMtwm8K) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [GVNG](https://open.spotify.com/album/3cTNrgiZr6xJjh9Klm3ne7) | 2:19 | 2022-04-07 | 2022-06-17 |
 | [Hate](https://open.spotify.com/track/7LXY7z2jCdCeYENgkLNwEI) | [Libercio](https://open.spotify.com/artist/5xBPjWMU42TN6P0nwcH1f1) | [Hate](https://open.spotify.com/album/4EaWwQo0tvKH0lA0k2grua) | 3:20 | 2022-06-16 |  |
 | [Height](https://open.spotify.com/track/0tgtZPwLWIDFE7rPHkgGZ9) | [Libercio](https://open.spotify.com/artist/5xBPjWMU42TN6P0nwcH1f1) | [Height](https://open.spotify.com/album/1BQCItWDHmYvsmANKuqfDA) | 3:21 | 2022-06-03 |  |
@@ -64,7 +66,7 @@
 | [Mantra](https://open.spotify.com/track/3RZvy7noS5NHPlfkSm23qo) | [Panzer](https://open.spotify.com/artist/3CCPoNaYvH1LPFSBbRGdrl) | [Mantra](https://open.spotify.com/album/5mWO53S6YHZHjvPv1hDFvI) | 2:25 | 2022-07-08 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3FcseYxP7eeE7ihwgz2U2c) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/1Sy6Ns0eUfzS3xJWgRN00v) | 2:07 | 2022-04-07 | 2022-07-16 |
 | [My Hand](https://open.spotify.com/track/4p4IPcZ2OGzmtkOCZC799v) | [Pnan](https://open.spotify.com/artist/5VAuDbW1Pzg3Xp0V143EcL), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [My Hand](https://open.spotify.com/album/2HohLY8jDVrDv5eU1umXVh) | 2:29 | 2022-07-08 |  |
-| [Never Your Love](https://open.spotify.com/track/30B4WkloxnqXJNWPnQ8Vcq) | [Muffin](https://open.spotify.com/artist/00xeTtgDJdeHV0eGIBNdm2), [Junona Boys](https://open.spotify.com/artist/7mX60wjE4yH6BQSqxukqap) | [VIRAL](https://open.spotify.com/album/38AXCejmMct40fRrQhYPoZ) | 3:07 | 2022-07-08 |  |
+| [Never Your Love](https://open.spotify.com/track/30B4WkloxnqXJNWPnQ8Vcq) | [Muffin](https://open.spotify.com/artist/00xeTtgDJdeHV0eGIBNdm2), [Junona Boys](https://open.spotify.com/artist/7mX60wjE4yH6BQSqxukqap) | [VIRAL](https://open.spotify.com/album/38AXCejmMct40fRrQhYPoZ) | 3:07 | 2022-07-08 | 2022-07-23 |
 | [Nico And The Niners](https://open.spotify.com/track/4EbvHHWqLq8y1iM7U7loo6) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Nico And The Niners](https://open.spotify.com/album/0u0uEGYDqo1bXl9jtXTibA) | 2:48 | 2022-06-03 | 2022-07-16 |
 | [Numb](https://open.spotify.com/track/6yNvTSNpvHfIVDjlLNnVqF) | [VERVGE](https://open.spotify.com/artist/57MA3sAmDw91t1XqH6rJRk), [MGL](https://open.spotify.com/artist/55Rtgu6jVgw4Mv5NeGWUak) | [Numb](https://open.spotify.com/album/09V8HbdOk5BjmRlgY3e5a9) | 2:32 | 2022-06-10 |  |
 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 | 2022-05-12 |  |

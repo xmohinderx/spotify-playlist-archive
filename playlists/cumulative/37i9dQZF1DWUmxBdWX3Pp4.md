@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto:  Duki.
 
-223 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
+224 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 | 2022-06-03 |  |
 | [Michael Jackson](https://open.spotify.com/track/1LtLDhTfnPsnbxx6TsfY5q) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Buscándome](https://open.spotify.com/album/2q5fSdsR4ZNFFQHkrxWJmz) | 1:49 | 2022-06-17 |  |
 | [Milloneta](https://open.spotify.com/track/0J3FgRoTsES47PXTfGgLez) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Milloneta](https://open.spotify.com/album/16h3UMUGcr2MrWi0Durs5W) | 3:38 | 2021-12-06 |  |
-| [Millón](https://open.spotify.com/track/64WAtGEW18TZJypuDepkxe) | [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [Kamaro](https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk) | [Millón](https://open.spotify.com/album/0sWe9dI7ATIJcGmTVeeHv3) | 3:03 | 2022-06-17 |  |
+| [Millón](https://open.spotify.com/track/64WAtGEW18TZJypuDepkxe) | [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [Kamaro](https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk) | [Millón](https://open.spotify.com/album/0sWe9dI7ATIJcGmTVeeHv3) | 3:03 | 2022-06-17 | 2022-07-23 |
 | [Motivos](https://open.spotify.com/track/3MtXfPjTXCuH3DN5J1Mf2W) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Motivos](https://open.spotify.com/album/6wgKeewwbZPcH8lCBqN4HS) | 3:40 | 2021-12-06 | 2022-04-16 |
 | [Muy Enfierrado](https://open.spotify.com/track/4fFa0g5UIuzVNRn3d78EPx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Muy Enfierrado](https://open.spotify.com/album/5dTOmRWMGhs8BGwWpVRICI) | 2:56 | 2021-12-06 | 2022-05-07 |
 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 | 2021-12-06 |  |
@@ -182,6 +182,7 @@
 | [PUFF](https://open.spotify.com/track/2Asa5boIOZADugCzoy0lRS) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [PUFF](https://open.spotify.com/album/6jb35yKFOV9HY6QeKKaa69) | 2:20 | 2022-05-27 |  |
 | [Putero](https://open.spotify.com/track/1dAPH16FxFISqNNqYkOwg5) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:09 | 2021-12-06 | 2022-05-20 |
 | [Párrafo 8](https://open.spotify.com/track/2rQt1M95thdN1UQ7cfSNNe) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [En La Luna](https://open.spotify.com/album/3dN45Kj9R75Zbj6Xt8Ed9P) | 3:14 | 2021-12-06 | 2022-04-16 |
+| [Quien Soy?](https://open.spotify.com/track/2WJ648KGSA8bhvJe0T9N4p) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM) | [Quien Soy?](https://open.spotify.com/album/1I9cP54N1kFGnrDsmsILFY) | 3:21 | 2022-07-22 |  |
 | [Rangos](https://open.spotify.com/track/3YS9LsXzgK7cAtrOPkZawe) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/0kStFMG9fptojUUifWVUCK) | 2:08 | 2022-06-03 |  |
 | [RICO CUANDO MUERA](https://open.spotify.com/track/20xJvceMXPYkZDZwQ9EcFg) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 3:04 | 2022-03-25 | 2022-06-04 |
 | [ROBERT DE NIRO](https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-04 | 2022-04-16 |

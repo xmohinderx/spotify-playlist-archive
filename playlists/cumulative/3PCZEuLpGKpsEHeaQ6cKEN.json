@@ -2684,6 +2684,32 @@
     },
     {
       "album": {
+        "name": "Party Shaker",
+        "url": "https://open.spotify.com/album/4u6Etum7YWRE2e7L2YIoNn"
+      },
+      "artists": [
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "Nicco",
+          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159052,
+      "name": "Party Shaker",
+      "url": "https://open.spotify.com/track/1ojTgNOKNro9oghxeBIUiV"
+    },
+    {
+      "album": {
         "name": "Feel Again, Pt. 1",
         "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
       },

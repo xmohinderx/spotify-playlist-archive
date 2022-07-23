@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 180151,
       "name": "40 Love",
       "url": "https://open.spotify.com/track/3HCoyY47D7po1xC1y7HsBU"
@@ -687,6 +687,24 @@
       "duration_ms": 214851,
       "name": "Bunny",
       "url": "https://open.spotify.com/track/0TPI2OKla5SwqlPU2nG4OF"
+    },
+    {
+      "album": {
+        "name": "Francesco Yates",
+        "url": "https://open.spotify.com/album/0fZ2df3UU6G0nY27hD7Oc1"
+      },
+      "artists": [
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241880,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/4AAmPp0LnAFPKJB1MtPOrd"
     },
     {
       "album": {
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 138314,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bmCFy256PgDmS7feDNp69"
@@ -2675,7 +2693,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 257893,
       "name": "reflection eternal",
       "url": "https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498"
@@ -2933,7 +2951,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 190278,
       "name": "Seriously",
       "url": "https://open.spotify.com/track/2zVm47R9P3T4JwfCHMABXz"
@@ -3605,7 +3623,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 571000,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/7t85fcTuz1O9QDFLQ1qUGf"

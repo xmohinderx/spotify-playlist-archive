@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "(Remember Me) I'm the One Who Loves You",
+        "url": "https://open.spotify.com/album/6mSs7MCOo0rv9f25WMfFnn"
+      },
+      "artists": [
+        {
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "(Remember Me) I'm the One Who Loves You",
+      "url": "https://open.spotify.com/track/4DSG3Jl9MHt7EQRR9louzF"
+    },
+    {
+      "album": {
         "name": "12th of June",
         "url": "https://open.spotify.com/album/5szOii0PaRjMwUqV1VJpfH"
       },
@@ -73,10 +95,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 218386,
       "name": "A Man Without A Name",
       "url": "https://open.spotify.com/track/7d2IAdBCsf13DOgZtrAe9L"
+    },
+    {
+      "album": {
+        "name": "Entering Heaven Alive",
+        "url": "https://open.spotify.com/album/4GxhBXlAhfNzI7ehTDmFJ5"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162858,
+      "name": "A Tip from You to Me",
+      "url": "https://open.spotify.com/track/26YYcaZm37TALSISgpqdO2"
     },
     {
       "album": {
@@ -337,6 +377,24 @@
       "duration_ms": 259607,
       "name": "An Alien In Minneapolis - Edit",
       "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219405,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
     },
     {
       "album": {
@@ -676,6 +734,24 @@
     },
     {
       "album": {
+        "name": "Neon Blue",
+        "url": "https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hedley",
+          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151930,
+      "name": "Broke Again",
+      "url": "https://open.spotify.com/track/7etPAMAqtcun5pn5uW3zbC"
+    },
+    {
+      "album": {
         "name": "Broken Families",
         "url": "https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93"
       },
@@ -954,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "Misadventures Of Doomscroller",
+        "url": "https://open.spotify.com/album/24FkcvXRLoG17447domdkg"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330653,
+      "name": "Comes In Waves",
+      "url": "https://open.spotify.com/track/4tP7SjS89hevcazxmqshtm"
+    },
+    {
+      "album": {
         "name": "Cool Down",
         "url": "https://open.spotify.com/album/2fythGvDFHzcIGlWQ7SpXP"
       },
@@ -1157,7 +1251,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 209579,
       "name": "Don't Bother Me",
       "url": "https://open.spotify.com/track/0qXhEpz1OnQzxovxnYCG9l"
@@ -1697,7 +1791,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 252160,
       "name": "Gloryland",
       "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
@@ -1805,7 +1899,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 220706,
       "name": "Hard Line",
       "url": "https://open.spotify.com/track/1hoambC4hKUiVx4lM7VSIp"
@@ -2214,6 +2308,24 @@
     },
     {
       "album": {
+        "name": "Nightroamer",
+        "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "I Got This",
+      "url": "https://open.spotify.com/track/3KMrapCsGVYo4LtT6vHjn2"
+    },
+    {
+      "album": {
         "name": "I Just Came Home To Count The Memories",
         "url": "https://open.spotify.com/album/7rHnORf4k6tS3G8uJcPqT5"
       },
@@ -2273,6 +2385,24 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "album": {
+        "name": "I'm a Man",
+        "url": "https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181269,
+      "name": "I'm a Man",
+      "url": "https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo"
     },
     {
       "album": {
@@ -2443,6 +2573,24 @@
       "duration_ms": 272346,
       "name": "Jazz on the Autobahn",
       "url": "https://open.spotify.com/track/0X7PaSl2RFGQYTRzTmC8Xf"
+    },
+    {
+      "album": {
+        "name": "John Prine's Cadillac",
+        "url": "https://open.spotify.com/album/0L3ha9vuo1xrdDD4EnuBcA"
+      },
+      "artists": [
+        {
+          "name": "Will Hoge",
+          "url": "https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201922,
+      "name": "John Prine's Cadillac",
+      "url": "https://open.spotify.com/track/13g3NBMrRx6wIiP4CLso0o"
     },
     {
       "album": {
@@ -2675,7 +2823,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 202990,
       "name": "Learn To Love Myself",
       "url": "https://open.spotify.com/track/6yFcjFBQLfSZIx330nVmTy"
@@ -3912,6 +4060,24 @@
     },
     {
       "album": {
+        "name": "Simple as Love",
+        "url": "https://open.spotify.com/album/3SlXj3EtW3P47fka4KouxP"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waldon",
+          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "Simple as Love",
+      "url": "https://open.spotify.com/track/1eRGo8yog1epyUUgCU5FqP"
+    },
+    {
+      "album": {
         "name": "Young Man",
         "url": "https://open.spotify.com/album/6wtl82SlZKccyO9BnZoAwA"
       },
@@ -3977,7 +4143,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 566160,
       "name": "Someone Else\u2019s Cafe / Doomscroller Tries To Relax",
       "url": "https://open.spotify.com/track/3qRhhspI9c4KQagOOpPhYg"
@@ -4349,7 +4515,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 166248,
       "name": "Talkin' to Myself",
       "url": "https://open.spotify.com/track/4K20Uwh83Jf6i8RXBrLCpD"
@@ -4643,6 +4809,32 @@
       "duration_ms": 356090,
       "name": "The Weight",
       "url": "https://open.spotify.com/track/2r0O6Cdu64Op0Hn0C1wddm"
+    },
+    {
+      "album": {
+        "name": "the wild",
+        "url": "https://open.spotify.com/album/76WVWvWXqnPjhIYjNjmzXy"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        },
+        {
+          "name": "Sheila E.",
+          "url": "https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253600,
+      "name": "the wild",
+      "url": "https://open.spotify.com/track/7ikQXwUOS8Bst77bpYuXqH"
     },
     {
       "album": {

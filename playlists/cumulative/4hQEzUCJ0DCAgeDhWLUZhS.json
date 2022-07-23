@@ -2664,6 +2664,24 @@
     },
     {
       "album": {
+        "name": "Kill Or Be Killed",
+        "url": "https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299060,
+      "name": "Kill Or Be Killed",
+      "url": "https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd"
+    },
+    {
+      "album": {
         "name": "Kill The Noise",
         "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
       },

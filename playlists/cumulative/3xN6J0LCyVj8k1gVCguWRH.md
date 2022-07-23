@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,526 songs - 3 day 17 hr 0 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,527 songs - 3 day 17 hr 3 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1459,6 +1459,7 @@
 | [Welcome to the Digital Stone Age \- Radio Edit](https://open.spotify.com/track/7I2kX0IY5sCylve0o8evMm) | [Now We're in Stereo](https://open.spotify.com/artist/1st2VNgbGNMWxOMrrhHzLr) | [Welcome to the Digital Stone Age](https://open.spotify.com/album/6EcRAjhl1mV1A1FkKGhrgo) | 4:16 | 2020-12-20 | 2021-01-06 |
 | [What A Difference A Day Made](https://open.spotify.com/track/6eyvtNOtYM6PxqMkq0Hw33) | [Barbara Morrison](https://open.spotify.com/artist/4bmIZ56Upm3rOOVWJyd6b9), [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Timeless](https://open.spotify.com/album/577ta81dZuMkqj7WMnkHAX) | 4:16 | 2022-02-25 | 2022-03-14 |
 | [What a Way](https://open.spotify.com/track/1yWBXDefrIQhyyI0a8jPsV) | [Kindred Connection](https://open.spotify.com/artist/5cEEoJbXSjPdfO4xYWXPvg) | [What a Way](https://open.spotify.com/album/1s689DNOZ7yADGwMdx78Nt) | 4:00 | 2021-09-12 | 2021-09-28 |
+| [What Comes Around](https://open.spotify.com/track/5hGbinUKGdHreb5qjfCq6V) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [What Comes Around](https://open.spotify.com/album/0sIKhZMW2hv6EXEHejtlKV) | 3:29 | 2022-07-22 |  |
 | [What I Know](https://open.spotify.com/track/79Gg3a5rEcaEWFVSgpeAcL) | [LBR DPT](https://open.spotify.com/artist/4evsswEUZMesBf7Irxg8pC) | [What I Know](https://open.spotify.com/album/0ihbD1OOySf01rTmEJ0Fg2) | 3:15 | 2021-12-05 | 2021-12-20 |
 | [What Is Love](https://open.spotify.com/track/5jKjUSRlHerD1UfdWyvKfS) | [Alvin Whitte](https://open.spotify.com/artist/1FC1eTUauFiZrcIawwc6rD) | [What Is Love](https://open.spotify.com/album/3FCDH2leLj9Kdau57aZsSP) | 2:43 | 2020-02-21 | 2020-03-11 |
 | [What Is Love](https://open.spotify.com/track/7HErxkHvSktrG09jtsbG6c) | [Orion and the Melted Crayons](https://open.spotify.com/artist/2z1E9QDGOeaEg6XaUS4eSc) | [The Good Stuff](https://open.spotify.com/album/0vnEfoQOupRZdfj5wdej5U) | 3:38 | 2021-09-18 | 2021-10-03 |

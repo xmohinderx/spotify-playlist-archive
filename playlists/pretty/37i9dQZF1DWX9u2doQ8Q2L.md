@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,667 likes - 67 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,712 likes - 67 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,6 +74,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 64 | [APOLOGIZE](https://open.spotify.com/track/6DGu7wBVC8zvLHRtEOdk9S) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [APOLOGIZE](https://open.spotify.com/album/4eXXRhCwxq1M5x6nr9rnm9) | 2:33 |
 | 65 | [Tastes Like It Smells \(Remix\)](https://open.spotify.com/track/20o2ymSFHBmWiWRa1yPoYN) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl), [Osteoleuco](https://open.spotify.com/artist/42u1RJUE0BhUW7VkXntJ99), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [Sean Motorolla](https://open.spotify.com/album/4TmTdCXzIbqwjcrZ7n5r0i) | 4:57 |
 | 66 | [Here Come The Fake Jets](https://open.spotify.com/track/6h99MNKqDNejYs5qcvixu4) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [FAKE EP](https://open.spotify.com/album/5MQgGmZxzyzkdD6JUJCo7Z) | 5:01 |
-| 67 | [YUME O MOTOU](https://open.spotify.com/track/4nThYWGPWFHPBSdumRyopx) | [Yoko Ono & Plastic Ono Super Band](https://open.spotify.com/artist/2s7B7uO33VlnxIUk7OhQ6f), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Steve Khan](https://open.spotify.com/artist/59SNrXVA519VMDpAktiSk3), [Andy Muson](https://open.spotify.com/artist/0a3E0bgMlBDw0HppxrkFuG), [Rick Marotta](https://open.spotify.com/artist/24KsY9DrfNKXOVYH8MOMsK), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Don Grolnick](https://open.spotify.com/artist/0Ssqhquy8WFuqz7ZnZuBkR), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Yume O Moto](https://open.spotify.com/album/4QzzPg1n4sq3T5lUzcVcvU) | 3:32 |
+| 67 | [YUME O MOTO](https://open.spotify.com/track/4nThYWGPWFHPBSdumRyopx) | [Yoko Ono & Plastic Ono Super Band](https://open.spotify.com/artist/2s7B7uO33VlnxIUk7OhQ6f) | [YUME O MOTO](https://open.spotify.com/album/4QzzPg1n4sq3T5lUzcVcvU) | 3:32 |
 
 Snapshot ID: `MTY1ODQxNTYwMCwwMDAwMDNlMDAwMDAwMTgyMjE0NWQzOTYwMDAwMDE3Y2VmMmFkYWFj`

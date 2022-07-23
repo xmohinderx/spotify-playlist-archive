@@ -1869,7 +1869,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 107200,
       "name": "Bomby",
       "url": "https://open.spotify.com/track/3LzcbcGFtBc1mfYJ8jvWbU"
@@ -4449,7 +4449,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
@@ -6593,7 +6593,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -9995,7 +9995,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 182526,
       "name": "Nad r\u00e1nem",
       "url": "https://open.spotify.com/track/4ERjIDbLvQYSxVT3cRu2LK"
@@ -13037,7 +13037,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
@@ -13633,7 +13633,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 181384,
       "name": "Space Between",
       "url": "https://open.spotify.com/track/5owNO5tgoUtH8gETM9fjHi"
@@ -14351,7 +14351,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 181192,
       "name": "S\u00e9rum",
       "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
@@ -15333,6 +15333,28 @@
       "duration_ms": 181000,
       "name": "V mojom BMW",
       "url": "https://open.spotify.com/track/6rNP9iOEDwVjOQjmaoDeT6"
+    },
+    {
+      "album": {
+        "name": "V Oblakoch",
+        "url": "https://open.spotify.com/album/0ilGSSMKllux4qNrj4FKln"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176766,
+      "name": "V Oblakoch",
+      "url": "https://open.spotify.com/track/7qm6kPfCjzvPDMdLTVCisc"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [On Fleek](https://open.spotify.com/playlist/6j2ZnN1A2xcWQMELm6hcdI)
 
-> On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Latto
+> On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Flo Milli
 
-134 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/4ouhVZ8GHI1LOdC6avctWq)
+136 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/4ouhVZ8GHI1LOdC6avctWq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/track/108CRSzSnhShMbNgNHWrjU) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/album/11c3kLCcQAWS3ZFWWdB7vw) | 2:11 | 2022-06-03 |  |
 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv) | 3:01 | 2022-06-03 |  |
 | [Big Girl$ Don't Cry](https://open.spotify.com/track/3WeuZV4NojioFZzpQgTS8V) | [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Big Girl$ Don't Cry](https://open.spotify.com/album/45C6hBhqcivLphFmdVhkf6) | 3:27 | 2022-06-03 |  |
+| [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 | 2022-07-22 |  |
 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 | 2022-06-03 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-06-03 |  |
 | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y) | 3:12 | 2022-06-03 |  |
@@ -134,6 +135,7 @@
 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 | 2022-06-03 |  |
 | [West Like \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/72AK6S3YqO2UNdrhtoN8vu) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [West Like \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/5lkzzFYLVQ4PAjCM32Ef7m) | 3:01 | 2022-06-03 |  |
 | [What I Like](https://open.spotify.com/track/7lM9dI6wRfmA2KxQlYQdIE) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [What I Like](https://open.spotify.com/album/4YzrdjLTsezWLutVAFOTzO) | 2:39 | 2022-06-03 |  |
+| [What Is It Giving](https://open.spotify.com/track/22risEeHxsyQawxfIcy0mp) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [What Is It Giving](https://open.spotify.com/album/4zlNMiXSCrHD9hB92WWmVr) | 2:54 | 2022-07-22 |  |
 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 | 2022-06-03 |  |
 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 | 2022-06-03 |  |
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2022-06-03 |  |

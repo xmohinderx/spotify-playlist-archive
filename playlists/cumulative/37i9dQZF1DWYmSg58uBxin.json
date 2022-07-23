@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/7tsPRVM0KZQrV7txpBoa4R"
+      },
+      "artists": [
+        {
+          "name": "Francesco Siano",
+          "url": "https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158936,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/5XYAieIJYukSs5yscEgu9w"
+    },
+    {
+      "album": {
         "name": "Angustifolia",
         "url": "https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF"
       },

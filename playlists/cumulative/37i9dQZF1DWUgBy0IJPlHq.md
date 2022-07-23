@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Arlo McKinley
+> A new shade of Country\. Cover: Kelsey Waldon
 
-259 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
+261 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Other Than That](https://open.spotify.com/track/3YlHvC8fJhnQdbCbeEPsS2) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Other Than That](https://open.spotify.com/album/7jEbVyXKzcWE4rJXnES8JO) | 4:18 | 2022-07-08 |  |
 | [Paducah](https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/5V1in7tAJUHIuZ5qVkPx5K) | 3:30 | 2021-12-17 | 2022-04-29 |
 | [Paint This Town](https://open.spotify.com/track/7vSdW9hmGF0YPbqYcaOnYS) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/16Hp4iMkBsGwu90l2QyYQo) | 3:57 | 2021-12-17 | 2022-04-09 |
+| [Panorama](https://open.spotify.com/track/0pmgZmtGIq5kfoGaOD5RGh) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Panorama](https://open.spotify.com/album/2MqgZPGy5XoByGtlsxYslL) | 3:25 | 2022-07-22 |  |
 | [Paradise](https://open.spotify.com/track/03oJ08eFsEOll82tHJNAY3) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 3:18 | 2021-12-17 |  |
 | [Paycheck to Paycheck](https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Paycheck to Paycheck](https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B) | 2:36 | 2021-12-17 | 2022-06-18 |
 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 | 2021-12-17 | 2022-04-09 |
@@ -189,6 +190,7 @@
 | [Serenity Prayer](https://open.spotify.com/track/5PkBcFWKw891Q8SgwGdPyz) | [TK & The Holy Know\-Nothings](https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG) | [Serenity Prayer](https://open.spotify.com/album/6LJmIqfbWEYiqhcJG3Vinf) | 4:50 | 2021-12-17 | 2022-06-11 |
 | [Shenandoah Shakedown](https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Shenandoah Shakedown](https://open.spotify.com/album/5oHKjSgvLaRyydVKFYwA79) | 4:09 | 2021-12-17 |  |
 | [Silver Valley](https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj) | [David Miner](https://open.spotify.com/artist/6VumpqEj917mn0DCQMUbGJ) | [Silver Valley](https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo) | 4:35 | 2021-12-17 |  |
+| [Simple as Love](https://open.spotify.com/track/1eRGo8yog1epyUUgCU5FqP) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [Simple as Love](https://open.spotify.com/album/3SlXj3EtW3P47fka4KouxP) | 3:27 | 2022-07-22 |  |
 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 | 2021-12-17 |  |
 | [Some Things Never Change](https://open.spotify.com/track/0lGav1fK5Yv0N9dWhUpmKJ) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Some Things Never Change](https://open.spotify.com/album/27P6tqUt8wakV6N9UP8RBW) | 3:20 | 2021-12-17 | 2022-03-26 |
 | [Something in the Orange \- Z&E's Version](https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 4:14 | 2022-04-26 | 2022-05-20 |
@@ -200,7 +202,7 @@
 | [Storms Never Last](https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Storms Never Last](https://open.spotify.com/album/5FaXoAFB95CiYsxkJAOrIc) | 3:22 | 2022-03-25 | 2022-04-29 |
 | [Sunk Like a Stone](https://open.spotify.com/track/0caJNYdZLdahG4qWza2QyT) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [Sunk Like a Stone](https://open.spotify.com/album/5LrYFi2TMwx50iLXddh2Eb) | 3:45 | 2021-12-17 | 2022-04-16 |
 | [Sunrise Tells The Story](https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story](https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0) | 3:28 | 2021-12-17 | 2022-03-12 |
-| [Sweet Little Girl](https://open.spotify.com/track/0Bd15LI6hSJLivjObLO6F6) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [Sweet Little Girl](https://open.spotify.com/album/7zThyCXDUCgLljSDyfEw2U) | 3:18 | 2022-05-06 |  |
+| [Sweet Little Girl](https://open.spotify.com/track/0Bd15LI6hSJLivjObLO6F6) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [Sweet Little Girl](https://open.spotify.com/album/7zThyCXDUCgLljSDyfEw2U) | 3:18 | 2022-05-06 | 2022-07-23 |
 | [Sweet Mess](https://open.spotify.com/track/1dCvfDejoPdr3ZXoZxJsn7) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 5:45 | 2021-12-17 | 2022-07-02 |
 | [Sweet Misery](https://open.spotify.com/track/5QDpRgmLJaWJaV7BUX5D0Y) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 3:09 | 2021-12-17 |  |
 | [Tehachapi](https://open.spotify.com/track/7MfjR1LV7kumgLcAfpCXN2) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Tehachapi](https://open.spotify.com/album/4XxGDVn3sIpcFmdw3tGyZ3) | 3:07 | 2021-12-17 |  |
@@ -231,7 +233,7 @@
 | [Too Late Now](https://open.spotify.com/track/7MDNAxDgFYZY0kKTbj8Mxp) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Cabin Fever](https://open.spotify.com/album/4OCXEMDB1088w6rgKPlvQu) | 3:46 | 2021-12-17 | 2022-02-19 |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 | 2022-02-18 |  |
 | [Trouble](https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl) | [Sophie & The Broken Things](https://open.spotify.com/artist/620A5QNUAGBCuBYOUHf0c0), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Trouble](https://open.spotify.com/album/4zFeo0LkLXCgiYgPqKouI7) | 3:47 | 2021-12-17 | 2022-01-29 |
-| [Two Timin'](https://open.spotify.com/track/0grVSIK1Dt81ZDMnBGeJ6O) | [The Watson Twins](https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4), [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Two Timin'](https://open.spotify.com/album/404XRPTtRC0I56OL6lcACE) | 3:08 | 2022-05-20 |  |
+| [Two Timin'](https://open.spotify.com/track/0grVSIK1Dt81ZDMnBGeJ6O) | [The Watson Twins](https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4), [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Two Timin'](https://open.spotify.com/album/404XRPTtRC0I56OL6lcACE) | 3:08 | 2022-05-20 | 2022-07-23 |
 | [Vanlife](https://open.spotify.com/track/45VMPMgzOLjEc7XHcWXiJJ) | [Willi Carlisle](https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L) | [Vanlife](https://open.spotify.com/album/1R1JBKJdMh57oGTmp37vuF) | 4:46 | 2022-06-17 |  |
 | [Villain in Me](https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Villain in Me](https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY) | 3:37 | 2021-12-17 | 2022-05-20 |
 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 | 2021-12-17 | 2022-05-20 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 
 ### [The RCA\-List](https://open.spotify.com/playlist/3QiPV2C1uJQ3L8sKaykshJ)
 
-> Listen to A\-List tracks from RCA Records featuring music from Latto x Mariah Carey, Kygo ft\. DNCE, Becky G &amp; Karol G, Doja Cat, and more\. Cover: Doja Cat
+> Listen to A\-List tracks from RCA Records featuring music from Steve Lacy, Chris Brown, SZA, Flo Milli, Latto, and more\. Cover: Steve Lacy
 
-[RCA Records](https://open.spotify.com/user/rcarecords) - 14,231 likes - 61 songs - 3 hr 14 min
+[RCA Records](https://open.spotify.com/user/rcarecords) - 14,230 likes - 61 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 | 60 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 |
 | 61 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
 
-Snapshot ID: `MjEyNSw1YWYyNWZkZGQzNDg1N2FhNzRhOTE4MDQ4ODc0YmYyODNjMmQ4NzAw`
+Snapshot ID: `MjEyOCw3ZWUyYzkyZDY4NzgwZTNjNzdiY2FlNWRhM2IyMTA4NjJkYTMxODRk`

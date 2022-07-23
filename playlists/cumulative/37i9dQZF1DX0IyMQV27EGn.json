@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A collection of powerful voices and dark, alluring siren songs. Cover: Ashley Monroe",
+  "description": "A collection of powerful voices and alluring siren songs. ",
   "name": "Femme Fatale",
   "published_playlist_ids": [
     "4TFPubUIaS3b8U0Aq9oe9J"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Ain\u2019t Killed Me Yet",
+        "url": "https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181093,
+      "name": "Ain\u2019t Killed Me Yet",
+      "url": "https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3"
+    },
     {
       "album": {
         "name": "We Could Fall In Love",
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 235997,
       "name": "Beside Myself",
       "url": "https://open.spotify.com/track/2kel7wmSsmV5UOYkPGacZI"
@@ -77,7 +95,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 278196,
       "name": "Cannonball - Acoustic",
       "url": "https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH"
@@ -95,7 +113,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 217200,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/3nhWJM3a8uBrVDo3wAGBqX"
@@ -333,7 +351,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 243640,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1G3hr6HlP3d13477lbWw9Q"
@@ -646,6 +664,24 @@
     },
     {
       "album": {
+        "name": "I'm a Man",
+        "url": "https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181269,
+      "name": "I'm a Man",
+      "url": "https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo"
+    },
+    {
+      "album": {
         "name": "If The World Falls To Pieces",
         "url": "https://open.spotify.com/album/3LoyD6LaPdRtEkxpq6JOAR"
       },
@@ -675,7 +711,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 234013,
       "name": "It's All Okay",
       "url": "https://open.spotify.com/track/7FjA1ngiMjWOMUnFSZEKjp"
@@ -945,7 +981,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 256399,
       "name": "Name on a Matchbook",
       "url": "https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj"
@@ -1107,7 +1143,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 253444,
       "name": "Over",
       "url": "https://open.spotify.com/track/0gnPyPBc2FcB79JGgpbstY"
@@ -1349,7 +1385,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 158617,
       "name": "Tell That Devil",
       "url": "https://open.spotify.com/track/4wU4XL8nX0we6MXgmFAmnh"
@@ -1385,7 +1421,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 279226,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/3fOJ7Wp6b7Gg6vpX3OAFLM"
@@ -1533,7 +1569,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 256028,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/1hq9sGpM9cobP8K2jikFPX"

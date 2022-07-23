@@ -134,6 +134,32 @@
     },
     {
       "album": {
+        "name": "[PNJ]",
+        "url": "https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh"
+      },
+      "artists": [
+        {
+          "name": "Kirouac",
+          "url": "https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt"
+        },
+        {
+          "name": "Kodakludo",
+          "url": "https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ"
+        },
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168228,
+      "name": "[PNJ]",
+      "url": "https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw"
+    },
+    {
+      "album": {
         "name": "AGU\u00c0",
         "url": "https://open.spotify.com/album/0oqYoJAH51oHHwrmqlplfR"
       },
@@ -193,6 +219,28 @@
       "duration_ms": 163448,
       "name": "Algo Azul",
       "url": "https://open.spotify.com/track/6QXHUOxYSRS1eOUJ1qhNga"
+    },
+    {
+      "album": {
+        "name": "Alice Et Moi",
+        "url": "https://open.spotify.com/album/1JJbboGVo8H5BNIzG4StoA"
+      },
+      "artists": [
+        {
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
+        },
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Alice Et Moi",
+      "url": "https://open.spotify.com/track/7hOUPkIU1qDG6RnqPrBrLB"
     },
     {
       "album": {
@@ -446,6 +494,24 @@
     },
     {
       "album": {
+        "name": "A Life Designed for Fun (Pastimes Vol. II)",
+        "url": "https://open.spotify.com/album/645TLVk1UxX0AM8FWFxuQ3"
+      },
+      "artists": [
+        {
+          "name": "Baseball Gregg",
+          "url": "https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237035,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/3MGWaWeAl4XWovfBnZAGg3"
+    },
+    {
+      "album": {
         "name": "Better When We're Close",
         "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
@@ -591,7 +657,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 220856,
       "name": "Ce n'est que de l'eau",
       "url": "https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99"
@@ -697,6 +763,24 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
+    },
+    {
+      "album": {
+        "name": "Che sera",
+        "url": "https://open.spotify.com/album/4VdWz9znOuVApJnqBcBcbl"
+      },
+      "artists": [
+        {
+          "name": "I Coccodrilli",
+          "url": "https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Che sera",
+      "url": "https://open.spotify.com/track/41JsNduRhAuFLEU7gy9ckf"
     },
     {
       "album": {
@@ -1847,7 +1931,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 145324,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
@@ -1945,6 +2029,24 @@
       "duration_ms": 256664,
       "name": "Hold U",
       "url": "https://open.spotify.com/track/09gpC13mw1Pm5KqWIu9h0g"
+    },
+    {
+      "album": {
+        "name": "Holding On (to me)",
+        "url": "https://open.spotify.com/album/1pIv4AY3aQ7eqK3wjVtphV"
+      },
+      "artists": [
+        {
+          "name": "Rocketman",
+          "url": "https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239354,
+      "name": "Holding On (to me)",
+      "url": "https://open.spotify.com/track/14yuV4Bo8csljf4SMRKRkg"
     },
     {
       "album": {
@@ -2335,7 +2437,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 164120,
       "name": "Kisses",
       "url": "https://open.spotify.com/track/1y3Xp4WGv4w88itTnGuHbi"
@@ -2357,6 +2459,24 @@
       "duration_ms": 209000,
       "name": "Know My Name",
       "url": "https://open.spotify.com/track/0QWR6uiZacqptTeDT9mJ90"
+    },
+    {
+      "album": {
+        "name": "Koszulka",
+        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252226,
+      "name": "Koszulka",
+      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
     },
     {
       "album": {
@@ -2851,7 +2971,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 217038,
       "name": "Magn\u00f3lia",
       "url": "https://open.spotify.com/track/4P9lDfkVelxGAVH1YO9xXE"
@@ -3217,7 +3337,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 218146,
       "name": "My Best",
       "url": "https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd"
@@ -3488,6 +3608,24 @@
     },
     {
       "album": {
+        "name": "O Twych Nogach",
+        "url": "https://open.spotify.com/album/4aoV96ATvmWvNMe3J6mkm4"
+      },
+      "artists": [
+        {
+          "name": "Helucze",
+          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131974,
+      "name": "O Twych Nogach",
+      "url": "https://open.spotify.com/track/70m2Me37IUzMg9PxYSQrf4"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT"
       },
@@ -3637,7 +3775,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 185482,
       "name": "Oye, que perd\u00f3n",
       "url": "https://open.spotify.com/track/01h5IZ6lolrFbCw3Zd8OTt"
@@ -3663,6 +3801,24 @@
       "duration_ms": 268011,
       "name": "Paracas Cavernas",
       "url": "https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5"
+    },
+    {
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/7gG5mPrZPcu6TgIZcTxMpy"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241909,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/3rel28tkx8hBXHGeJaXtiJ"
     },
     {
       "album": {
@@ -3717,6 +3873,28 @@
       "duration_ms": 138268,
       "name": "Passion",
       "url": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
+    },
+    {
+      "album": {
+        "name": "Pastel Auras",
+        "url": "https://open.spotify.com/album/2DaizbGwu2hiV4ZMFk48Rf"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "Pastel Auras",
+      "url": "https://open.spotify.com/track/5yk7ayvIsUikEiuyMONlk4"
     },
     {
       "album": {
@@ -3797,7 +3975,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 223000,
       "name": "Pool",
       "url": "https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF"
@@ -4365,7 +4543,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 269768,
       "name": "silver lining",
       "url": "https://open.spotify.com/track/3xCPbU9pp6QEsrqZwtYo0f"
@@ -4449,6 +4627,28 @@
       "duration_ms": 190484,
       "name": "Sol de Ayer",
       "url": "https://open.spotify.com/track/7JuH6cT4H9Go3hvdGY4BbG"
+    },
+    {
+      "album": {
+        "name": "Solito",
+        "url": "https://open.spotify.com/album/3AVFbzExoOyohSHlErVcS4"
+      },
+      "artists": [
+        {
+          "name": "Moncho Berry",
+          "url": "https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC"
+        },
+        {
+          "name": "Humano En Tr\u00e1nsito",
+          "url": "https://open.spotify.com/artist/5NEHbkbEfjsmzdpXDKXIxb"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313002,
+      "name": "Solito",
+      "url": "https://open.spotify.com/track/6MVRZS9GurKrXCNtw9msiQ"
     },
     {
       "album": {
@@ -4633,7 +4833,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 158013,
       "name": "Swimming Pools",
       "url": "https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7"
@@ -5031,7 +5231,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 142997,
       "name": "T\u00fa y Yo, un Barco y el Mar",
       "url": "https://open.spotify.com/track/47xL1NHsaK0FzEpKe7jUiZ"
@@ -5215,7 +5415,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 156906,
       "name": "victim of nostalgia",
       "url": "https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS"
@@ -5353,7 +5553,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 184333,
       "name": "Why Say Why",
       "url": "https://open.spotify.com/track/7rVCdOGWg1tEZylPxAUEXN"
@@ -5487,6 +5687,24 @@
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB"
+    },
+    {
+      "album": {
+        "name": "\u0130kimiz",
+        "url": "https://open.spotify.com/album/5CHw9OzDbWrlaXe7RlscXk"
+      },
+      "artists": [
+        {
+          "name": "Palmiyeler",
+          "url": "https://open.spotify.com/artist/441Mk7JKv8WtAsaR9REPGX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Yollar",
+      "url": "https://open.spotify.com/track/3ehHsXp8F5VUpywMlxe3iH"
     },
     {
       "album": {

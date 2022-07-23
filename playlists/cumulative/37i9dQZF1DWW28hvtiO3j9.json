@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 242163,
       "name": "Blind Curve",
       "url": "https://open.spotify.com/track/6UU3qMXteOLTo49eoyo4dp"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 241360,
       "name": "Dear Breeze",
       "url": "https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX"
@@ -222,24 +222,6 @@
     },
     {
       "album": {
-        "name": "PLANETARIUM",
-        "url": "https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh"
-      },
-      "artists": [
-        {
-          "name": "Kaoru Sudo",
-          "url": "https://open.spotify.com/artist/5TSmLuqTfjcvcZVWMtomI3"
-        }
-      ],
-      "date_added": "2022-05-24",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
-      "duration_ms": 289893,
-      "name": "Front Glass Goshini",
-      "url": "https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh"
-    },
-    {
-      "album": {
         "name": "MUGSHOT",
         "url": "https://open.spotify.com/album/7u2JWvr9mkfzBbK7ZaoMpc"
       },
@@ -309,24 +291,6 @@
       "duration_ms": 249013,
       "name": "IMAGE CHANGE",
       "url": "https://open.spotify.com/track/2j4qEEUCDmotznd4NQKbnC"
-    },
-    {
-      "album": {
-        "name": "Ippon No Ongaku: Moon Years",
-        "url": "https://open.spotify.com/album/6nJtVEt3KpCEoOMwVv7DWl"
-      },
-      "artists": [
-        {
-          "name": "Kazuhito Murata",
-          "url": "https://open.spotify.com/artist/1YAn7piNSpMgdC8inGcOLd"
-        }
-      ],
-      "date_added": "2022-05-24",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
-      "duration_ms": 243480,
-      "name": "Ippon No Ongaku - 2020 Remaster",
-      "url": "https://open.spotify.com/track/5iFkWXTQadweNDIl6U3xMT"
     },
     {
       "album": {
@@ -503,7 +467,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 345266,
       "name": "Midnight Pretenders",
       "url": "https://open.spotify.com/track/0JUWF44gfMszGNhjCF7Ufs"
@@ -521,7 +485,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 204120,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/4MCbJal7Vt63forg63Fap6"
@@ -539,7 +503,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 308000,
       "name": "Mystical Composer",
       "url": "https://open.spotify.com/track/1SMO3yVhfUaCgVZ8Tj4j5a"
@@ -669,7 +633,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 278160,
       "name": "River's Island",
       "url": "https://open.spotify.com/track/22p7tgi6cFVBaH7vAbgcUY"
@@ -813,7 +777,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 379106,
       "name": "TOWN",
       "url": "https://open.spotify.com/track/13ulUUzvqr34si1Es8qbPS"
@@ -867,7 +831,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 229013,
       "name": "YOU'RE MY BABY",
       "url": "https://open.spotify.com/track/2vmaqjpCqVaQ990OQXAqCm"
@@ -1051,7 +1015,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 259800,
       "name": "\u30b0\u30c3\u30c9\u30fb\u30d0\u30a4\u30fb\u30c8\u30e9\u30f3\u30b9\u30d5\u30a1\u30fc",
       "url": "https://open.spotify.com/track/1bJjNpECiT1CDolSvtoyPJ"
@@ -1069,7 +1033,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 337306,
       "name": "\u30b5\u30b6\u30f3\u30af\u30ed\u30b9",
       "url": "https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq"
@@ -1087,7 +1051,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 257746,
       "name": "\u30b9\u30c8\u30ed\u30fc\u30cf\u30c3\u30c8\u306e\u590f\u60f3\u3044",
       "url": "https://open.spotify.com/track/34qHfYkG7xZsc2INlnf2M3"
@@ -1105,7 +1069,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 291573,
       "name": "\u30b9\u30ce\u30c3\u30d6\u306a\u591c\u3078",
       "url": "https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2"
@@ -1148,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "PLANETARIUM",
+        "url": "https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Sudo",
+          "url": "https://open.spotify.com/artist/5TSmLuqTfjcvcZVWMtomI3"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289893,
+      "name": "\u30d5\u30ed\u30f3\u30c8\u30ac\u30e9\u30b9\u8d8a\u3057\u306b",
+      "url": "https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh"
+    },
+    {
+      "album": {
         "name": "VARIETY (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
       },
@@ -1163,6 +1145,24 @@
       "duration_ms": 295453,
       "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
       "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u672c\u306e\u97f3\u697d \u301cMOON YEARS\u301c",
+        "url": "https://open.spotify.com/album/6nJtVEt3KpCEoOMwVv7DWl"
+      },
+      "artists": [
+        {
+          "name": "Kazuhito Murata",
+          "url": "https://open.spotify.com/artist/1YAn7piNSpMgdC8inGcOLd"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243480,
+      "name": "\u4e00\u672c\u306e\u97f3\u697d - 2020 Remaster",
+      "url": "https://open.spotify.com/track/5iFkWXTQadweNDIl6U3xMT"
     },
     {
       "album": {
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 264305,
       "name": "\u5824\u9632",
       "url": "https://open.spotify.com/track/7LHCJ0DMseGtg6R7F54XK9"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 189466,
       "name": "\u611f\u3058\u308b\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 211720,
       "name": "\u7d14\u60c5",
       "url": "https://open.spotify.com/track/3D1xj7EHB4q4h4WdzceVpL"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 169160,
       "name": "\u8703\u6c17\u697c\u306e\u8857",
       "url": "https://open.spotify.com/track/1SUVQE0KqqMUbeAGMadKN7"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 229520,
       "name": "\u96fb\u8a71\u3057\u3066\u3082 - 2020 Remaster",
       "url": "https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 291773,
       "name": "\u9752\u5c71Killer\u7269\u8a9e",
       "url": "https://open.spotify.com/track/4iPDYcyaMotvOULSrIg92e"

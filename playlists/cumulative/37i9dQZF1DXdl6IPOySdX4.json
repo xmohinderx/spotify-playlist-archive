@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 228373,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/4MPTj8lMMvxLwT3EwuXFop"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 204256,
       "name": "crybaby",
       "url": "https://open.spotify.com/track/6qdy9y84usFsxkfhNoGwik"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 251859,
       "name": "Drama (feat. Drake)",
       "url": "https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X"
@@ -1609,7 +1609,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 206269,
       "name": "Favorite Part",
       "url": "https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW"
@@ -2497,7 +2497,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO"
@@ -2707,7 +2707,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 269727,
       "name": "lost souls (with Brent Faiyaz)",
       "url": "https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0"
@@ -2851,7 +2851,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 216853,
       "name": "Love To Dream",
       "url": "https://open.spotify.com/track/6Q9IUoBTNLHgBib1FSFGbj"
@@ -3693,7 +3693,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
@@ -3935,7 +3935,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 195466,
       "name": "sad girls always finish first",
       "url": "https://open.spotify.com/track/16mFtGFLstwAxII0hUknUk"
@@ -4142,6 +4142,28 @@
     },
     {
       "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Skin Tight (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
+    },
+    {
+      "album": {
         "name": "War & Leisure",
         "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
       },
@@ -4233,6 +4255,24 @@
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/0ihYO4WjTtY3i5PyOJPIL5"
+      },
+      "artists": [
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159280,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD"
     },
     {
       "album": {
@@ -5213,7 +5253,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 209476,
       "name": "Wild Side (feat. Cardi B)",
       "url": "https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M"

@@ -4,7 +4,7 @@
 
 > The Real hip\-hop\. Cover: Chance The Rapper
 
-167 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
+168 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bitter](https://open.spotify.com/track/72W07qFR4D8v0vcAuWoanj) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 3](https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv) | 2:22 | 2022-01-14 | 2022-05-20 |
 | [Bleed It](https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bleed It](https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb) | 2:31 | 2022-06-03 |  |
 | [Bobby Rhude](https://open.spotify.com/track/2PJO0vmhxY35noyzior6w5) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:04 | 2022-07-08 |  |
+| [Brand New 911](https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 2:58 | 2022-07-22 |  |
 | [Breath Control \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Breath Control](https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1) | 2:27 | 2022-06-10 |  |
 | [BURNT OUT](https://open.spotify.com/track/5Qhs1lVqyEgYaubGR4sag5) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 2:50 | 2022-03-18 | 2022-07-09 |
 | [Callin' \(feat\. Big K.R.I.T\. & WESTSIDE BOOGIE\)](https://open.spotify.com/track/3zQwqYVqMOOGddjx1eQsDs) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Callin' All My Children](https://open.spotify.com/album/2r8q8lWjoaBRQpQvLPsEqt) | 3:17 | 2022-05-20 |  |
@@ -145,7 +146,7 @@
 | [STUCK](https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [STUCK](https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065) | 3:37 | 2022-05-06 |  |
 | [Subzero](https://open.spotify.com/track/1OmGrbjzEZXeC4HAiYWwmN) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Subzero](https://open.spotify.com/album/1AQMJbIC1RrLaKbM47DvYi) | 3:00 | 2022-04-08 | 2022-04-23 |
 | [Survivor's Vow](https://open.spotify.com/track/27nLL3DxE5ABpRkeXeSrWf) | [Bronze Nazareth](https://open.spotify.com/artist/4VhYUWpDsLraUG6Sd8g9TF), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Ekphrasis](https://open.spotify.com/album/7sr0ZzT6GVG5gEickXpxvq) | 3:30 | 2021-10-08 | 2022-01-15 |
-| [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 | 2022-07-08 |  |
+| [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 | 2022-07-08 | 2022-07-23 |
 | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/album/4UvC1cEP1VmZeFMvbCtHkw) | 4:11 | 2022-01-14 | 2022-05-09 |
 | [Tear Gas \(feat\. Rick Ross & Lil Wayne\)](https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 4:13 | 2022-02-25 | 2022-06-26 |
 | [Tetris](https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tetris](https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5) | 2:04 | 2022-04-22 | 2022-06-18 |

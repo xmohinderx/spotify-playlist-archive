@@ -344,6 +344,24 @@
     },
     {
       "album": {
+        "name": "cansei de falar de amor",
+        "url": "https://open.spotify.com/album/7ydUr2inEknqfGGk5s26sL"
+      },
+      "artists": [
+        {
+          "name": "gaefi",
+          "url": "https://open.spotify.com/artist/2fNMhstQezqzVqfpZEHW5M"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196078,
+      "name": "cansei de falar de amor",
+      "url": "https://open.spotify.com/track/4hUyApGomeztSlvXijsI6P"
+    },
+    {
+      "album": {
         "name": "Caos Dentro de Mim",
         "url": "https://open.spotify.com/album/6a7IHPIJbi9SPZeP0OM8as"
       },

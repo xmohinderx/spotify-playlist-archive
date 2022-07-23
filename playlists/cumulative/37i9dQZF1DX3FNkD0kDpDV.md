@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3FNkD0kDpDV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3FNkD0kDpDV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3FNkD0kDpDV)
 
-### [Tomorrowland Guest List](https://open.spotify.com/playlist/37i9dQZF1DX3FNkD0kDpDV)
+### [Tomorrowland Music Guest List](https://open.spotify.com/playlist/37i9dQZF1DX3FNkD0kDpDV)
 
-> Tomorrowland Music takes over the Guest List playlist! On the day of the return of the biggest dance festival, the label behind the iconic dance imprint has curated a great mix of their releases with some big tunes from Afrojack and R3HAB including their brand\-new single “Worlds On Fire”
+> Tomorrowland Music takes over the Guest List playlist! On the day of the return of the biggest dance festival, the label behind the iconic dance imprint has curated a great mix of their releases with some big tunes from Goodboys including their brand\-new single “Jack Flip”
 
 190 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/3ZZheCoq2krlIb03B150LK)
 

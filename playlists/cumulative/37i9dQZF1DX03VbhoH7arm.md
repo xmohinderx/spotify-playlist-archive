@@ -2,9 +2,9 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Os grandes hits do momento estão aqui! Foto: Luísa Sonza
+> Os grandes hits do momento estão aqui! Foto: Ana Castela, Melody, Dj Chris No Beat
 
-66 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/1KdstGq2CxRxvGbquOUHHu)
+68 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/1KdstGq2CxRxvGbquOUHHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 | 2022-05-20 |  |
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2022-05-20 | 2022-06-18 |
 | [Que Rabão \(feat\. Mr\. Catra\)](https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:56 | 2022-05-20 |  |
+| [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-07-22 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-03 |  |
-| [Sem Filtro](https://open.spotify.com/track/0bfyJd1OWcUUDcexrOn9bz) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Sem Filtro](https://open.spotify.com/album/7M2Wfg14YrNPGmkMyv9dtA) | 3:26 | 2022-05-20 |  |
+| [Sem Filtro](https://open.spotify.com/track/0bfyJd1OWcUUDcexrOn9bz) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Sem Filtro](https://open.spotify.com/album/7M2Wfg14YrNPGmkMyv9dtA) | 3:26 | 2022-05-20 | 2022-07-23 |
 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 | 2022-05-20 |  |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2022-05-20 |  |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-05-20 | 2022-06-04 |
@@ -70,9 +71,10 @@
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-20 | 2022-05-28 |
 | [TROPA](https://open.spotify.com/track/3WYaDvxzcESlLucPoxLiB7) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [TROPA](https://open.spotify.com/album/5ja8CvkysnLRmb2hNgC1uc) | 2:20 | 2022-06-30 |  |
 | [Tudo Nosso](https://open.spotify.com/track/5qtQJJqJUjk2zNjRroqgLk) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:48 | 2022-06-17 |  |
+| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 |  |
 | [Un Ratito](https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Un Ratito](https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B) | 3:14 | 2022-05-20 | 2022-06-04 |
 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 | 2022-05-20 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-05-20 |  |
-| [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2022-05-20 |  |
+| [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2022-05-20 | 2022-07-23 |
 
 \*This playlist was first scraped on 2022-05-27. Prior content cannot be recovered.

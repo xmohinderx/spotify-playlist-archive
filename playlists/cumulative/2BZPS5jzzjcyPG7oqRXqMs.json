@@ -486,6 +486,24 @@
     },
     {
       "album": {
+        "name": "Costly",
+        "url": "https://open.spotify.com/album/0lzHvfDNrL3RWArarLmsxJ"
+      },
+      "artists": [
+        {
+          "name": "Royal Company",
+          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249194,
+      "name": "Costly",
+      "url": "https://open.spotify.com/track/1AkL3phJ8v1QR4N6B5zYYh"
+    },
+    {
+      "album": {
         "name": "Count On",
         "url": "https://open.spotify.com/album/6R91ORPOY75HqPuoAYHQXE"
       },
@@ -1323,6 +1341,24 @@
       "duration_ms": 250360,
       "name": "Lay My Life Down",
       "url": "https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX"
+    },
+    {
+      "album": {
+        "name": "Let It Roll",
+        "url": "https://open.spotify.com/album/67Pd2ts72pip8iB0SSk0YL"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228219,
+      "name": "Let It Roll",
+      "url": "https://open.spotify.com/track/1MEGLK5SoM64SiTbp22Shx"
     },
     {
       "album": {

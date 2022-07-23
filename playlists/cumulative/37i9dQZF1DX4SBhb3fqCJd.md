@@ -2,9 +2,9 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> The pulse of R&B music today\.  Cover: Steve Lacy
+> The pulse of R&B music today\.  Cover: DVSN
 
-157 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
+160 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-04-22 |  |
 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 | 2022-04-29 |  |
 | [Ex For A Reason \(with JT from City Girls\)](https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:45 | 2022-03-25 | 2022-04-09 |
-| [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-03-18 |  |
+| [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-03-18 | 2022-07-23 |
 | [Fake Love In LA](https://open.spotify.com/track/3JpStMOHR7ypvk1TvkF3sg) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:33 | 2022-04-22 |  |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-11 | 2022-05-07 |
 | [Find A Way \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/4yIH4PcUVivcxNTy1ETMZ3) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Find A Way \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/album/2DKCodaPZGRpDuDFSIctBN) | 3:32 | 2021-12-17 | 2022-03-12 |
@@ -66,6 +66,7 @@
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-12-17 | 2022-01-29 |
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2022-01-14 | 2022-03-26 |
 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 | 2022-03-25 | 2022-05-07 |
+| [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 | 2022-07-22 |  |
 | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ) | 2:40 | 2022-06-17 |  |
 | [Guess](https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:13 | 2022-07-09 |  |
 | [Guilty](https://open.spotify.com/track/3T9VLKYbT0pGWPqhy415G0) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Guilty](https://open.spotify.com/album/7MHe3J3F71yESwmAGXvVvM) | 3:41 | 2021-12-17 | 2022-01-08 |
@@ -84,6 +85,7 @@
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2021-12-31 | 2022-06-22 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-17 | 2022-06-18 |
 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2022-07-09 |  |
+| [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 | 2022-07-22 |  |
 | [Iffy](https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Iffy](https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR) | 2:53 | 2022-01-14 | 2022-05-07 |
 | [In The Club](https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [In The Club](https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs) | 2:52 | 2022-04-29 | 2022-05-20 |
 | [Insane](https://open.spotify.com/track/3pcxxaUxAMSfz2zgetHydD) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:09 | 2022-03-25 |  |
@@ -119,7 +121,8 @@
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-07 | 2022-07-09 |
 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 | 2021-12-17 | 2022-03-12 |
 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 | 2022-03-25 |  |
-| [Pain](https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Pain](https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN) | 2:33 | 2022-05-13 |  |
+| [Pain](https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Pain](https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN) | 2:33 | 2022-05-13 | 2022-07-23 |
+| [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-22 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-22 |  |
 | [Please Don't Walk Away](https://open.spotify.com/track/5cLRmsipy54ddUeJt1h4uk) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Please Don't Walk Away](https://open.spotify.com/album/1r7kgxzwwL0fVQ4FfkA2Dy) | 3:36 | 2022-03-04 | 2022-06-04 |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-17 | 2022-04-23 |

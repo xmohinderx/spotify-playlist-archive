@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > where music and fashion meet, soundtrack for the look by designer, Brandon Blackwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,066 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,126 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

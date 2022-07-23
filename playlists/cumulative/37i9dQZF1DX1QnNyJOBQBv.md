@@ -2,7 +2,7 @@
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv)
 
-> The hottest Latin pop hits right now\. Cover: Danny Ocean
+> The hottest Latin pop hits right now\. Cover: Lasso
 
 143 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/1C2XqxMOTFW3XGWn44uwXh)
 

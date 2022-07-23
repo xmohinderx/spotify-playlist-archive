@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
+175 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Believed](https://open.spotify.com/track/6gEC3iDuOlcHatGCCcvpO6) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:49 | 2021-12-27 |  |
 | [Better](https://open.spotify.com/track/7mu0nb8PR5mpquEbwbMe6j) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:11 | 2021-12-27 |  |
 | [Better in Color](https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:13 | 2021-12-27 |  |
+| [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-22 |  |
 | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6sI8Q7TTJeA9exw6hxEqq3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Colour Vision](https://open.spotify.com/album/2FwpEC226o3WpXoptGbk85) | 2:52 | 2021-12-27 |  |
 | [Boys](https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Boys](https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8) | 2:42 | 2021-12-27 |  |
 | [Bracelet](https://open.spotify.com/track/5WAD7GRAHPQUy9Il1hM7wL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 4:22 | 2021-12-27 |  |

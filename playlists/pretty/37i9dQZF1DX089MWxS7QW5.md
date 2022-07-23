@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Babylon\(베이빌론\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,866 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,895 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

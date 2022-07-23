@@ -4,7 +4,7 @@
 
 > Remember these?
 
-64 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/71lFW5Q5BIWbFIEkdaWFgm)
+65 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/71lFW5Q5BIWbFIEkdaWFgm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Glorious](https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB) | [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Liebling \(France version\)](https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP) | 3:27 | 2018-12-12 | 2022-07-06 |
 | [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2018-12-12 |  |
 | [Here Comes the Hotstepper](https://open.spotify.com/track/4vfzROmNsxedKICcHod5Rh) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [On Your 90's Radio](https://open.spotify.com/album/3mc83JE8jhpDb9Jd0eNm7M) | 4:04 | 2018-12-12 |  |
-| [Hey There Delilah \- Bonus Track](https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:53 | 2018-12-12 | 2022-07-20 |
+| [Hey There Delilah \- Bonus Track](https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:53 | 2018-12-12 |  |
 | [How Bizarre](https://open.spotify.com/track/6RT3PxDEQOa7m6tK502DNa) | [OMC](https://open.spotify.com/artist/4vdt8TD56jjQfmxFCmhubX) | [How Bizarre](https://open.spotify.com/album/6ptQKIBekNgXIlJrLVn9dk) | 3:44 | 2018-12-12 |  |
 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/29A8JwgJHc8FNfgm6ygqup) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [I Like The Way \(UK Comm Maxi\)](https://open.spotify.com/album/3myiEO5yiTpd4UxL0hYbDC) | 3:21 | 2018-12-12 |  |
 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 | 2018-12-12 |  |
@@ -48,14 +48,15 @@
 | [My Delirium](https://open.spotify.com/track/7wvkpxqOl9qlCAtdMkG323) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Ladyhawke \(Deluxe Version\)](https://open.spotify.com/album/791BSYeYMTAXw5rrk96Fx8) | 4:15 | 2018-12-12 | 2022-07-08 |
 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 | 2018-12-12 |  |
 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 | 2018-12-12 |  |
-| [Rubber Lover](https://open.spotify.com/track/1HdOoQhmG4iQ9KTNMAF99O) | [Marmaduke Duke](https://open.spotify.com/artist/0G5NNdD9Ndp8jacGzBSCDG) | [Rubber Lover](https://open.spotify.com/album/5VjxiX6tUSW9N7Nsp7DNXA) | 1:58 | 2018-12-12 |  |
+| [Rubber Lover](https://open.spotify.com/track/1HdOoQhmG4iQ9KTNMAF99O) | [Marmaduke Duke](https://open.spotify.com/artist/0G5NNdD9Ndp8jacGzBSCDG) | [Rubber Lover](https://open.spotify.com/album/5VjxiX6tUSW9N7Nsp7DNXA) | 1:58 | 2018-12-12 | 2022-07-23 |
 | [Saturday Night \- Radio Mix](https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Saturday Night Single](https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud) | 4:07 | 2018-12-12 |  |
-| [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 | 2018-12-12 |  |
+| [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 | 2018-12-12 | 2022-07-23 |
 | [Spaceman](https://open.spotify.com/track/2Elq6GxVh8v9QFCF3ca2Xc) | [Babylon Zoo](https://open.spotify.com/artist/3k7uMwc8FLJmH8RHMh2HF8) | [Pure 90s](https://open.spotify.com/album/4w7CaDEcxpIpD6GHM4RBSO) | 4:02 | 2018-12-12 | 2022-07-10 |
 | [Spirit In The Sky](https://open.spotify.com/track/7fqhrLJzKHJ0RW32N0y2Gp) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/2gkQ6IAEhzCK1NUvEgdisT) | 4:02 | 2018-12-12 |  |
 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 | 2018-12-12 |  |
 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 | 2018-12-12 | 2022-07-13 |
 | [Sugar Sugar](https://open.spotify.com/track/6L7CjMm9gJNn8Ze62bRk3g) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [Absolutely the Best of the Archies](https://open.spotify.com/album/1OwOwwgDrVsbM1IbcFjDvG) | 2:47 | 2018-12-12 |  |
+| [Sweet Disposition](https://open.spotify.com/track/6IIjmqaDdO6vdEBasXsCve) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition](https://open.spotify.com/album/0LiajiUXzLDuQ21geqi4v4) | 3:54 | 2018-12-12 |  |
 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 | 2018-12-12 |  |
 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 | 2018-12-12 |  |
 | [The One and Only](https://open.spotify.com/track/2P6lURS2y0Hbks1hnHfm6G) | [Chesney Hawkes](https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY) | [The Very Best Of Chesney Hawkes](https://open.spotify.com/album/0CJDE1DCiPhxMcouAAomaF) | 3:44 | 2018-12-12 |  |

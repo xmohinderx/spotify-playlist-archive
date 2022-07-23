@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Crayon
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,115 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,685 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 43 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
 | 44 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 |
 | 45 | [Toko Toko](https://open.spotify.com/track/11jljbDlwqMyvQdepjse5G) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Toko Toko](https://open.spotify.com/album/3Op7cAYJ0VWN4NUAgICcMQ) | 2:54 |
-| 46 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God's Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 |
-| 47 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \- Edit](https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \[Edit\]](https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg) | 2:49 |
-| 48 | [C'EST FAUX](https://open.spotify.com/track/5CAwH02CuQV9lYCwFEqn2v) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:23 |
-| 49 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 |
-| 50 | [Ashobi](https://open.spotify.com/track/1RYxSdIlf4hLtuNS7thOUo) | [Drizilik](https://open.spotify.com/artist/0MzwQf5ScWuVeFGZhLIc2P), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Ashobi](https://open.spotify.com/album/3seySNMFlFfhy6XqT5qki5) | 3:34 |
+| 46 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 |
+| 47 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God's Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 |
+| 48 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \- Edit](https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \[Edit\]](https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg) | 2:49 |
+| 49 | [C'EST FAUX](https://open.spotify.com/track/5CAwH02CuQV9lYCwFEqn2v) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:23 |
+| 50 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 |
 
-Snapshot ID: `MTY1ODQ0MDg2MCwwMDAwMDEyZjAwMDAwMTgyMjJjNzQyMDcwMDAwMDE4MjE2MTUzNzUy`
+Snapshot ID: `MTY1ODQ4NTE3NSwwMDAwMDEzMDAwMDAwMTgyMjU2Yjc2NGMwMDAwMDE4MjE2MTUzNzUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > Dj Neptizzle & DJ FiiFii takeover Detty December with an Afro Paradise special, rounding up the biggest tracks from Africa's party season
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,264 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,270 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 38 | [Close To Me](https://open.spotify.com/track/6TyFIUgedV7EkYdk6nS4aw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:00 |
 | 39 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 |
 | 40 | [Understand](https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Understand](https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB) | 2:54 |
-| 41 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:33 |
+| 41 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 |
 | 42 | [Sere](https://open.spotify.com/track/7IDrQtd8JrnExDCPSq0W90) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Sere](https://open.spotify.com/album/32hcgwyvVbizVzvyIGLfTT) | 3:05 |
 | 43 | [Your Body \(Cocaine\)](https://open.spotify.com/track/0GXGxkfMYquJOWGfG5bC8N) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Your Body \(Cocaine\)](https://open.spotify.com/album/6eMYMGVxrjNxQ6n8FEmn4G) | 2:26 |
 | 44 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 |

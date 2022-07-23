@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK
 
-84 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+85 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Trap de Bunda](https://open.spotify.com/track/2fSSi2H4UuskMy58FowaWj) | [Ge Nunes](https://open.spotify.com/artist/3Fld6S2obQAqXJlMetQMja) | [Trap de Bunda](https://open.spotify.com/album/5ZMwGtY4KQou2MhwwZSPKq) | 2:20 | 2022-07-21 |  |
 | [Turbulência](https://open.spotify.com/track/29Tna5t6Mtlg5jJNrAD0fB) | [Fradick Draizzy](https://open.spotify.com/artist/3HSBs2HKfPygr1SpDhwQWO), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Turbulência](https://open.spotify.com/album/5EHxu0zxciAayoNkchD4xL) | 2:25 | 2022-07-07 |  |
 | [Tá Tudo Fixe](https://open.spotify.com/track/16V1tpqSJZvz2GLMmFK6SK) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Tá Tudo Fixe](https://open.spotify.com/album/0hhHD13nUy5hcUpkmhmHZF) | 3:01 | 2022-07-07 | 2022-07-22 |
+| [Um Brinde](https://open.spotify.com/track/7wla2GPUvZfUwe7Lmyh9Sy) | [C57](https://open.spotify.com/artist/3A3a9O9OLay8KocxjNKlyP) | [Um Brinde](https://open.spotify.com/album/1WUXK28K3aakrN7VZPbc9F) | 4:19 | 2022-07-21 |  |
 | [Valsa](https://open.spotify.com/track/3DrcRD28mi1ZMJBbqBXjc3) | [GoblinKN](https://open.spotify.com/artist/0OJs0er3DOXBhjT6xZhNHA) | [Valsa](https://open.spotify.com/album/0bc70vim4DlBzPfOlLh1ij) | 3:18 | 2022-07-07 |  |
 | [Vento](https://open.spotify.com/track/7sn5PxtRuPDS8HuWyWxOHr) | [Cora](https://open.spotify.com/artist/3ZC3YPJ5cPRz0CRjIcnUhB), [Jackie](https://open.spotify.com/artist/3DonXKWiwWaVZdaHuWXl4v) | [Vento](https://open.spotify.com/album/4QwnkhxCQEgVnmAvUSquRX) | 2:52 | 2022-07-07 |  |
 | [We Go](https://open.spotify.com/track/6msG1xV3gfepRRiicrnAwa) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [We Go](https://open.spotify.com/album/0yqavmWWOOLsDGUjJyAM8s) | 2:15 | 2022-07-07 | 2022-07-22 |

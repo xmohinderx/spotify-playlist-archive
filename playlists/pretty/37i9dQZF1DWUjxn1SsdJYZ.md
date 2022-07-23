@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best Hip Hop coming out of Australia\. Cover: Yaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,168 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,182 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 53 | [LET'S TROT!](https://open.spotify.com/track/2oqlgNaWn1ewr3FNKYLoie) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [LET'S TROT!](https://open.spotify.com/album/2KzG1z2SrIEFlvtPuwYgks) | 3:08 |
 | 54 | [ON MY BACK](https://open.spotify.com/track/3NdEadbqRaZtfmMxRgAvJx) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [ON MY BACK](https://open.spotify.com/album/4MYsrNvPiMSjYCIiVms8qA) | 2:05 |
 | 55 | [RICKY](https://open.spotify.com/track/2YXYSajbiZzJD5K49KUGon) | [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u) | [RICKY](https://open.spotify.com/album/4z94jJZUEw0ne7zNzozKLy) | 2:56 |
-| 56 | [COLD BLOOD](https://open.spotify.com/track/2uiu5KcP2gNtYPqGqhdMfq) | [iiiConic](https://open.spotify.com/artist/4U1CbpsDIvwXebLQTBTek9), [88YAMI](https://open.spotify.com/artist/3H9X7CGiBMJTlz4ldD5SuF), [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk) | [COLD BLOOD](https://open.spotify.com/album/6dYhxyHSvfiwMRGkccHAt1) | 3:12 |
+| 56 | [COLD BLOOD](https://open.spotify.com/track/2uiu5KcP2gNtYPqGqhdMfq) | [iiiCONIC](https://open.spotify.com/artist/4U1CbpsDIvwXebLQTBTek9), [88YAMI](https://open.spotify.com/artist/3H9X7CGiBMJTlz4ldD5SuF), [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk) | [COLD BLOOD](https://open.spotify.com/album/6dYhxyHSvfiwMRGkccHAt1) | 3:12 |
 | 57 | [Wasted](https://open.spotify.com/track/0KwwVrNjGqXzHswSeJsrx7) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR) | [Wasted](https://open.spotify.com/album/6zhiAQmpFZwE9FxSCMJLGO) | 2:27 |
 | 58 | [CITY 2 WEST](https://open.spotify.com/track/5j1HnLFIQB4BWMS2HOk1fg) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej), [JAYVY](https://open.spotify.com/artist/5nzxFTaL8FDA5lLlm5PbKj) | [CITY 2 WEST](https://open.spotify.com/album/78gTk5y1cRqMf2JnONzFtK) | 2:53 |
 | 59 | [Enough's Enough \(feat\. Hooligan Skinny\)](https://open.spotify.com/track/4M92sneuPjGS7A7h8DWM6z) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh) | [Enough's Enough](https://open.spotify.com/album/7jGqdtGptrSL7LzUQJMg1P) | 2:44 |

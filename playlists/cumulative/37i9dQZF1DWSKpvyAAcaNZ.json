@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues. Cover: Fantastic Negrito",
+  "description": "It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues. Cover: Ben Harper",
   "name": "Blues & Roots Rock",
   "published_playlist_ids": [
     "0VkXfjoWKQcjAxrDWon3jk"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 244844,
       "name": "Better Way",
       "url": "https://open.spotify.com/track/39hd4z3UN6ueATWaXqNfPn"
@@ -1649,7 +1649,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 245213,
       "name": "Leadfoot",
       "url": "https://open.spotify.com/track/2JiVNVjC8W02EZ9Nmp4rNP"
@@ -1909,6 +1909,24 @@
       "duration_ms": 190641,
       "name": "Native Son",
       "url": "https://open.spotify.com/track/2Oj2Z5hy2eJ9NTXLSBWEHG"
+    },
+    {
+      "album": {
+        "name": "Need To Know Basis",
+        "url": "https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119975,
+      "name": "Need To Know Basis",
+      "url": "https://open.spotify.com/track/03medhiG64fBChIiDBTNPK"
     },
     {
       "album": {
@@ -2908,6 +2926,24 @@
     },
     {
       "album": {
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173678,
+      "name": "We Need To Talk About It",
+      "url": "https://open.spotify.com/track/1SWk8chKisB7HJvKizuf36"
+    },
+    {
+      "album": {
         "name": "We Need To Talk About It",
         "url": "https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ"
       },
@@ -2919,7 +2955,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 173678,
       "name": "We Need To Talk About It",
       "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"

@@ -4,7 +4,7 @@
 
 > it's a cruel summer ;\)
 
-166 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
+167 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Booty 3000](https://open.spotify.com/track/1ou1ijurTcoe8lSB23rZxP) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6) | 2:09 | 2022-03-16 | 2022-06-25 |
 | [Born Yesterday](https://open.spotify.com/track/0M6kxde1FdGI95X0XPuru6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Born Yesterday](https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi) | 3:18 | 2022-03-16 | 2022-06-25 |
 | [Bubble \- Florentino Remix](https://open.spotify.com/track/5P1QwaMIdhi9N5UDwTHwOS) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Bubble \(Remixes\)](https://open.spotify.com/album/0r6dEU4DX0fxp8mEPmxdGH) | 3:16 | 2022-03-16 |  |
+| [BUY ME NOW](https://open.spotify.com/track/0TObe8QnOyojmnDAwjNRQK) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [BUY ME NOW](https://open.spotify.com/album/0bHvRDHpYMYwqHu7PLOXmI) | 3:35 | 2022-07-21 |  |
 | [CAN'T TELL ME NOTHIN](https://open.spotify.com/track/4iHD4gEUVkAIlx2qEHbkSD) | [Jaewynn](https://open.spotify.com/artist/6mdUXxeEJSI02sdoFXFgsb) | [CAN'T TELL ME NOTHIN](https://open.spotify.com/album/3MmgFRpNYkmi9GXbApdani) | 2:57 | 2022-06-24 | 2022-07-22 |
 | [Chaos \- Wax Wings Remix](https://open.spotify.com/track/1oitDP02bYLiWJTO1Z2aGC) | [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [Chaos \(Wax Wings Remix\)](https://open.spotify.com/album/6JMn6WBCOHnkDKtwrU3z0e) | 5:09 | 2022-03-16 | 2022-07-22 |
 | [Cheeks](https://open.spotify.com/track/4RSxOBKYwdT3sLIbAoIxaz) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Cheeks](https://open.spotify.com/album/188uJk6rycvo2T0dZRo6CE) | 2:37 | 2022-04-11 | 2022-07-22 |

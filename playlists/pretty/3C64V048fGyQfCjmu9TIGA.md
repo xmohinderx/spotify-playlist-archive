@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain]
 
 > As if! Your favorite 1990s throwbacks, including “Say My Name”, “Bye Bye Bye”, “…Baby One More Time” and more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,062,095 likes - 143 songs - 9 hr 45 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,062,110 likes - 143 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain]
 | 31 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 |
 | 32 | [It's All Coming Back to Me Now](https://open.spotify.com/track/2JRicL2f8tJl9TiQlH7vbJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/55UPmpHLvZKGgTPUD1woES) | 7:36 |
 | 33 | [Black or White \- Single Version](https://open.spotify.com/track/2Cy7QY8HPLk925AyNAt6OG) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:22 |
-| 34 | [Criminal](https://open.spotify.com/track/516f6F9Zd3AbWJnFHwtDF9) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/0FjSKIL4J4eJM7GnkJNtWL) | 5:41 |
+| 34 | [Criminal](https://open.spotify.com/track/516f6F9Zd3AbWJnFHwtDF9) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/0FjSKIL4J4eJM7GnkJNtWL) | 5:40 |
 | 35 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
 | 36 | [Relight My Fire \(feat\. Lulu\)](https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 4:11 |
 | 37 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 |

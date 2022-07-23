@@ -2888,6 +2888,28 @@
     },
     {
       "album": {
+        "name": "Late Night Feels",
+        "url": "https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173157,
+      "name": "Late Night Feels",
+      "url": "https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm"
+    },
+    {
+      "album": {
         "name": "Learn To Love Me (feat. Ryan Tedder)",
         "url": "https://open.spotify.com/album/1iWgVSKcE2Jiqixcq1qEsg"
       },
@@ -3087,7 +3109,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 180977,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO"

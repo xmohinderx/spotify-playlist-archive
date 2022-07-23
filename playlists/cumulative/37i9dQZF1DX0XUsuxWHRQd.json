@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Yo Gotti's CMG label and a throwback song from Tyler, The Creator. ",
+  "description": "New music from Lil Uzi Vert, Megan Thee Stallion and Internet Money.",
   "name": "RapCaviar",
   "published_playlist_ids": [
     "5P8tKmuueRelbQ17C8xRQo"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 255653,
       "name": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
       "url": "https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 138187,
       "name": "All Dz Chainz (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6f8nS2g21RNEL7gNG4WJVT"
@@ -3487,10 +3487,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 154409,
       "name": "Bows",
       "url": "https://open.spotify.com/track/4Xkk9RBSBgRBAFwPta5FlT"
+    },
+    {
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178786,
+      "name": "Brand New 911",
+      "url": "https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv"
     },
     {
       "album": {
@@ -4826,6 +4848,24 @@
     },
     {
       "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146854,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
+    },
+    {
+      "album": {
         "name": "Contact (feat. Tyga)",
         "url": "https://open.spotify.com/album/25CfSiH8FAG9802wbdftH4"
       },
@@ -5509,7 +5549,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 156000,
       "name": "Did Shit To Me (feat. Doodie Lo)",
       "url": "https://open.spotify.com/track/3MmBkzCy5EojsqR3tDesME"
@@ -5845,6 +5885,24 @@
       "duration_ms": 171453,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD"
+    },
+    {
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "album": {
@@ -8753,7 +8811,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 140601,
       "name": "Goin Up",
       "url": "https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb"
@@ -9891,7 +9949,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 221538,
       "name": "Hold That Heat (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
@@ -10505,6 +10563,24 @@
       "duration_ms": 200733,
       "name": "I Don't Sleep (ft. Takeoff)",
       "url": "https://open.spotify.com/track/03TzvVWdkVbLT9pzewYiDw"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/0uXwRisshXdfubkYqLPiff"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192137,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/7N17JE5sPConOSeEIC5AnS"
     },
     {
       "album": {
@@ -16943,7 +17019,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 163764,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
@@ -17386,6 +17462,28 @@
     },
     {
       "album": {
+        "name": "Pressurelicious (feat. Future)",
+        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173061,
+      "name": "Pressurelicious (feat. Future)",
+      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
+    },
+    {
+      "album": {
         "name": "Prospect (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/0EmINljXosug1gnqewNqnn"
       },
@@ -17679,7 +17777,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 141176,
       "name": "PUSSY",
       "url": "https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO"
@@ -19516,6 +19614,28 @@
     },
     {
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173987,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I"
+    },
+    {
+      "album": {
         "name": "So Help Me God!",
         "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
       },
@@ -19981,6 +20101,32 @@
       "duration_ms": 156560,
       "name": "She Miss Me (feat. Rich the Kid)",
       "url": "https://open.spotify.com/track/1aWWNp65SdhPci3a9HZHT8"
+    },
+    {
+      "album": {
+        "name": "She Want Some More (Feat. Ken Carson & Lil Tecca)",
+        "url": "https://open.spotify.com/album/2nJN8TOJACDkgOlhs5RplJ"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184614,
+      "name": "She Want Some More (Feat. Ken Carson & Lil Tecca)",
+      "url": "https://open.spotify.com/track/1IzxkqDIsmiFxTjaNdsiqn"
     },
     {
       "album": {
@@ -21141,6 +21287,24 @@
       "duration_ms": 258982,
       "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
       "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
+    },
+    {
+      "album": {
+        "name": "Space Cadet",
+        "url": "https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166690,
+      "name": "Space Cadet",
+      "url": "https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ"
     },
     {
       "album": {
@@ -27085,7 +27249,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 267173,
       "name": "Zipcodes",
       "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"

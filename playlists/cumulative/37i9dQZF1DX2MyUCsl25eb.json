@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 176830,
       "name": "100sadsongs",
       "url": "https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 213766,
       "name": "blue",
       "url": "https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 163240,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/4YOAzHBhNgRYdZ1d6y0Mhf"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 192352,
       "name": "Checklist",
       "url": "https://open.spotify.com/track/5Aswt4tzP6hF8SZJQkpW3S"
@@ -1279,6 +1279,24 @@
       "duration_ms": 236149,
       "name": "Count Me Down",
       "url": "https://open.spotify.com/track/5lLmwXXOLgH5gyUo3bnDTt"
+    },
+    {
+      "album": {
+        "name": "Cradle",
+        "url": "https://open.spotify.com/album/6kXBoJRgF0XbOxQNMJKKpe"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207141,
+      "name": "Cradle",
+      "url": "https://open.spotify.com/track/1E8XQHo5frQsGmrk2OFjil"
     },
     {
       "album": {
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 174557,
       "name": "Good Person",
       "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 150180,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
@@ -2445,7 +2463,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 163360,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 150156,
       "name": "Home",
       "url": "https://open.spotify.com/track/7smPGXPTC7rfvvYBs624hl"
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 232893,
       "name": "In Real Life",
       "url": "https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 227350,
       "name": "In Water",
       "url": "https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO"
@@ -3177,7 +3195,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 180177,
       "name": "last request",
       "url": "https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO"
@@ -3361,7 +3379,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 184733,
       "name": "Lonely Like Me",
       "url": "https://open.spotify.com/track/1sIBVBhdt7QRfYdebiN8jF"
@@ -3693,7 +3711,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 135796,
       "name": "Moment Of Silence",
       "url": "https://open.spotify.com/track/64AtgV3fetMTCDUHlDvNBM"
@@ -4253,7 +4271,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 196773,
       "name": "Pavement",
       "url": "https://open.spotify.com/track/21DTeeLwvvGlb3OFrd9rTT"
@@ -4397,7 +4415,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 262871,
       "name": "Radio",
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
@@ -4415,7 +4433,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 214293,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
@@ -4567,7 +4585,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
@@ -4639,7 +4657,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 203573,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
@@ -4949,7 +4967,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 188199,
       "name": "Soon Come",
       "url": "https://open.spotify.com/track/0axpkcx0olVmVJdR4vlBhk"
@@ -5155,7 +5173,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 257013,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/1DEHkieaXEuXm2SumbWQG1"
@@ -5195,7 +5213,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
@@ -5596,6 +5614,24 @@
     },
     {
       "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -5625,7 +5661,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 149890,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"

@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 265133,
       "name": "Dread and the Fugitive Mind",
       "url": "https://open.spotify.com/track/4Bfxp472zIwiSYjZsK76EN"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 234400,
       "name": "Duke Nukem",
       "url": "https://open.spotify.com/track/3VowFZMqNlHzSIa2MA2kwM"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 269933,
       "name": "Victory - Remastered 2004",
       "url": "https://open.spotify.com/track/4kPF8KNfCkQQkL22YoOJir"
@@ -1125,6 +1125,24 @@
       "duration_ms": 269466,
       "name": "We\u2019ll Be Back",
       "url": "https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB"
+    },
+    {
+      "album": {
+        "name": "Youthanasia (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247906,
+      "name": "Youthanasia - Remastered 2004",
+      "url": "https://open.spotify.com/track/491FFHeud9a0KXZ66QunVn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO17aFuo"

@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-136 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+138 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 | 2022-03-25 |  |
 | [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 | 2022-05-13 |  |
 | [Coming Out Fighting](https://open.spotify.com/track/4BhIdUwXCuraOleWckiAL5) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Coming Out Fighting](https://open.spotify.com/album/7v4kN2sY4pDsP6MpafYEbk) | 3:43 | 2022-02-17 |  |
+| [Costly](https://open.spotify.com/track/1AkL3phJ8v1QR4N6B5zYYh) | [Royal Company](https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t) | [Costly](https://open.spotify.com/album/0lzHvfDNrL3RWArarLmsxJ) | 4:09 | 2022-07-22 |  |
 | [Count On](https://open.spotify.com/track/5xyJYRFB6Mm9hn7eR2c4dK) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Count On](https://open.spotify.com/album/6R91ORPOY75HqPuoAYHQXE) | 4:17 | 2022-02-17 |  |
 | [Delightful \(The Sower Never Wastes A Tear\)](https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Are We There Yet?](https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq) | 5:07 | 2022-04-29 |  |
 | [Desesperado \- English](https://open.spotify.com/track/7wfeopS60KsVchzRItCwVj) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Desesperado \(English\)](https://open.spotify.com/album/0OioYnPykdyEy9XZWSRLo4) | 2:52 | 2022-02-17 |  |
@@ -77,6 +78,7 @@
 | [Jump \- Neon Feather Remix](https://open.spotify.com/track/0jRoOmTvENHLkXQ1Ycm1OT) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [JUMP \(Neon Feather Remix\)](https://open.spotify.com/album/5fn3S9SYdWym1nn3Y77vvC) | 3:36 | 2022-03-18 |  |
 | [Keep On Hoping](https://open.spotify.com/track/67Ggy7CFJGAaeFVXoZkVAE) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/7xSiollUHf1V98ulBd5Zzn) | 3:27 | 2022-02-17 |  |
 | [Lay My Life Down](https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX) | [LUMINS](https://open.spotify.com/artist/0vl0q3Jy5VN0GXyNWdnOyC), [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Vol 1](https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI) | 4:10 | 2022-02-17 |  |
+| [Let It Roll](https://open.spotify.com/track/1MEGLK5SoM64SiTbp22Shx) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Let It Roll](https://open.spotify.com/album/67Pd2ts72pip8iB0SSk0YL) | 3:48 | 2022-07-22 |  |
 | [Let The Light In](https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Let The Light In](https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL) | 3:24 | 2022-02-17 |  |
 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 | 2022-07-01 |  |
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-08 |  |

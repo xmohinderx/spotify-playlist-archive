@@ -2,9 +2,9 @@
 
 ### [brisa](https://open.spotify.com/playlist/37i9dQZF1DX2vsux22VuNL)
 
-> Aquele pop misturado com hip hop ou funk pura brisa\. Foto: Vitão
+> Aquele pop misturado com hip hop ou funk pura brisa\. Foto: Lukinhas
 
-102 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/6jQhl9g0LTyG58hELgK7FX)
+103 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/6jQhl9g0LTyG58hELgK7FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Angra \(Ao Vivo\)](https://open.spotify.com/track/1KyRQRnsaXa1is8P1CByWP) | [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [Sara Sol](https://open.spotify.com/artist/5t7UG6O7IDkKIUmolaNcJC) | [Bloco 1 \- Funk On The Beach \(Ao Vivo\)](https://open.spotify.com/album/7qDfTG4Lr7WtvCrCc5Ifjk) | 3:24 | 2022-05-23 | 2022-06-04 |
 | [Apê 1001](https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apê 1001](https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV) | 2:51 | 2022-05-23 |  |
 | [AQUELA SORTE](https://open.spotify.com/track/1KNgifou3TjbGa7Xs4hYw1) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [AQUELA SORTE](https://open.spotify.com/album/1AEdoC9BnOyBqdNFRfYSdY) | 2:50 | 2022-06-24 |  |
-| [Açaí](https://open.spotify.com/track/1ETkQX4nDyZHZtLfns6mcS) | [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3) | [Lipe](https://open.spotify.com/album/3DmE8wkZoWvFPJvBdTvMcN) | 2:41 | 2022-06-14 |  |
+| [Atrás Do Meu Amor](https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Mais Uma Vez](https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs) | 2:11 | 2022-07-22 |  |
+| [Açaí](https://open.spotify.com/track/1ETkQX4nDyZHZtLfns6mcS) | [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3) | [Lipe](https://open.spotify.com/album/3DmE8wkZoWvFPJvBdTvMcN) | 2:41 | 2022-06-14 | 2022-07-23 |
 | [Brigas](https://open.spotify.com/track/5kv8oFqP33vlEbfrtiTb8M) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Suh](https://open.spotify.com/artist/2pAmbNN8mzxnBgYwZ4hSSo), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Mc Nathan ZK](https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Brigas](https://open.spotify.com/album/4lXWSwBPFdisfRDLlwcOXH) | 4:52 | 2022-05-23 |  |
 | [Canto da Sereia](https://open.spotify.com/track/5onALPPboSh4z6cO24tOvW) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR) | [Canto da Sereia](https://open.spotify.com/album/6oeLs83jPMK8JodH2bpSyO) | 2:31 | 2022-05-23 |  |
 | [caos / flor \*\*\*](https://open.spotify.com/track/21XUWkizYGllIRpib9Cq6X) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:31 | 2022-05-23 |  |
@@ -91,7 +92,7 @@
 | [Refém](https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Refém](https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0) | 3:00 | 2022-05-23 |  |
 | [Salserin \#1 \- Para](https://open.spotify.com/track/4803QEhCk7Oq6J6sJEY9GB) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Klawss](https://open.spotify.com/artist/3I9C9CNau9mKZYUZk5E5MA) | [Salserin \#1 \- Para](https://open.spotify.com/album/375MzJOkgq1Dp7PNW0MOF9) | 3:30 | 2022-05-23 |  |
 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 | 2022-05-23 |  |
-| [Saturno](https://open.spotify.com/track/0NhspKUShMWkPz1RnFyNeX) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Saturno](https://open.spotify.com/album/1bUwo2rcqeWHbH1mRPHgmj) | 3:01 | 2022-06-03 |  |
+| [Saturno](https://open.spotify.com/track/0NhspKUShMWkPz1RnFyNeX) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Saturno](https://open.spotify.com/album/1bUwo2rcqeWHbH1mRPHgmj) | 3:01 | 2022-06-03 | 2022-07-23 |
 | [se você deixar](https://open.spotify.com/track/7orLIsrTqRdpxUtnAxIFYV) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [jovemCARLOS](https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC) | 2:55 | 2022-05-23 |  |
 | [Sem Caô](https://open.spotify.com/track/06fLo9eK0m0OCN6GDS1N8M) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6) | [Sem Caô](https://open.spotify.com/album/6eeSG3JJ6CIfWLzcjQ53yM) | 3:54 | 2022-05-23 |  |
 | [Sem Filtro](https://open.spotify.com/track/0bfyJd1OWcUUDcexrOn9bz) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Sem Filtro](https://open.spotify.com/album/7M2Wfg14YrNPGmkMyv9dtA) | 3:26 | 2022-05-23 |  |

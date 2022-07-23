@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 195043,
       "name": "360",
       "url": "https://open.spotify.com/track/5KGgrDNF3C5vXwgSPaYASE"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 193699,
       "name": "ADMV",
       "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 205716,
       "name": "Amapolas",
       "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 260346,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7iAXEpyYmNpEDBtALzxbMm"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 209614,
       "name": "Clima Tropical",
       "url": "https://open.spotify.com/track/7wD6WAp1lowdxnvEfgyvNV"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 240984,
       "name": "Como Si Fueras a Morir Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 208567,
       "name": "Conv\u00e9nceme",
       "url": "https://open.spotify.com/track/12oFSoib1tf0r2rd1Fgsfe"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 343413,
       "name": "Coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 145922,
       "name": "Dos Veces",
       "url": "https://open.spotify.com/track/1OBAWijV9qQIBu5fCHRomS"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 187053,
       "name": "Ingobernable",
       "url": "https://open.spotify.com/track/3SK45LddxlEkzI8OWO9Eyo"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 196225,
       "name": "Me Sabe Mal",
       "url": "https://open.spotify.com/track/53w7xjn8fwwU8Pc6rgMm5v"
@@ -1274,6 +1274,28 @@
     },
     {
       "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/4K8cyoCDovlc4FvtUr2Hfx"
+    },
+    {
+      "album": {
         "name": "Coti",
         "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
       },
@@ -1365,7 +1387,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 201370,
       "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
       "url": "https://open.spotify.com/track/19lKEvyLuIQzHlsXVXJSK3"
@@ -1507,7 +1529,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 236786,
       "name": "Puedes Contar Conmigo",
       "url": "https://open.spotify.com/track/1hbWtHgRDG25DkmxE4I28V"
@@ -1631,7 +1653,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 211651,
       "name": "Si Me Dices Que S\u00ed",
       "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 181316,
       "name": "Simplemente Pasan",
       "url": "https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM"
@@ -1813,7 +1835,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
@@ -1875,7 +1897,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 236975,
       "name": "Tu jard\u00edn con enanitos",
       "url": "https://open.spotify.com/track/6yCjU5j6YHbux2VQCBTTE1"
@@ -1959,7 +1981,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 212090,
       "name": "Una Foto en Blanco y Negro",
       "url": "https://open.spotify.com/track/4BNqM0h2wukiQkAUKZjurV"
@@ -1977,7 +1999,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 229720,
       "name": "Uno X Uno",
       "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
@@ -1999,7 +2021,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 167800,
       "name": "Vac\u00edo",
       "url": "https://open.spotify.com/track/4KnLltd5UNz4c085UAr5dR"
@@ -2021,7 +2043,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 224886,
       "name": "Valeria",
       "url": "https://open.spotify.com/track/7c9igTHW4XDvqjGhwqB8Ff"

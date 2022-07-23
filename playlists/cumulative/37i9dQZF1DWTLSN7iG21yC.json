@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 141796,
       "name": "14",
       "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 163449,
       "name": "2step (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 199773,
       "name": "Catch Myself",
       "url": "https://open.spotify.com/track/6accWkHJFVQElZ5aTwdBMQ"
@@ -2003,7 +2003,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 189093,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m"
@@ -2057,7 +2057,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 138306,
       "name": "Damn It Feels Good To Be Me",
       "url": "https://open.spotify.com/track/3LymIBUSWRoxxm7W5UQlXl"
@@ -2209,7 +2209,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 215507,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/61KpQadow081I2AsbeLcsb"
@@ -2535,7 +2535,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
@@ -2966,6 +2966,24 @@
     },
     {
       "album": {
+        "name": "Free Yourself",
+        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
+    },
+    {
+      "album": {
         "name": "Girls Like Us",
         "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
       },
@@ -3035,7 +3053,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 234186,
       "name": "Give Me The Reason",
       "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
@@ -3223,7 +3241,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 178147,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM"
@@ -3317,6 +3335,24 @@
       "duration_ms": 157500,
       "name": "Goodbye, Me",
       "url": "https://open.spotify.com/track/0hSUdUI1hHnYZN2qbql863"
+    },
+    {
+      "album": {
+        "name": "Got Me Good",
+        "url": "https://open.spotify.com/album/7KoL9bx98E7ON3odg9nRuz"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165805,
+      "name": "Got Me Good",
+      "url": "https://open.spotify.com/track/09S6z2BOILlj41DMEDogwK"
     },
     {
       "album": {
@@ -3479,7 +3515,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 225300,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
@@ -3627,7 +3663,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 204240,
       "name": "Humble Quest",
       "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
@@ -4381,7 +4417,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 152840,
       "name": "Kiss The World Goodbye",
       "url": "https://open.spotify.com/track/3oUvvUcdQCOEPujLfd805G"
@@ -4465,7 +4501,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 191375,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
@@ -5221,7 +5257,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 181094,
       "name": "Love You Right",
       "url": "https://open.spotify.com/track/2X4zeCbENnOF6cQYKLbfyq"
@@ -5319,7 +5355,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 153337,
       "name": "Memory",
       "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
@@ -5417,7 +5453,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 157560,
       "name": "Missing You Today",
       "url": "https://open.spotify.com/track/0Nr2vFKsz207NQY0LP7IvV"
@@ -5773,7 +5809,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 175755,
       "name": "Next",
       "url": "https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc"
@@ -5889,7 +5925,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
@@ -6325,7 +6361,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 171613,
       "name": "Perfect Conditions",
       "url": "https://open.spotify.com/track/5PegehfZSBLp5HZ8OuUJQz"
@@ -7127,7 +7163,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 191208,
       "name": "SING",
       "url": "https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX"
@@ -7525,7 +7561,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 136842,
       "name": "Sway My Way (with Amy Shark)",
       "url": "https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey"
@@ -8057,7 +8093,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 179597,
       "name": "This Time is Right",
       "url": "https://open.spotify.com/track/5Tds4pWlV9R0O4en5nGveF"
@@ -8435,7 +8471,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 176372,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/3VVLOvm3AV7quKn7gN9szx"
@@ -8543,7 +8579,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 192947,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR"
@@ -8677,7 +8713,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 172490,
       "name": "What's Been On Your Mind?",
       "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"
@@ -8923,7 +8959,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 200346,
       "name": "Why It Hurts",
       "url": "https://open.spotify.com/track/79tW2TBIRnQBRdiGkC6xM0"
@@ -8959,7 +8995,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 180338,
       "name": "Will It Ever Feel The Same?",
       "url": "https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG"
@@ -9235,7 +9271,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 178470,
       "name": "You Give Me More",
       "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Arlo McKinley",
+  "description": "A new shade of Country. Cover: Kelsey Waldon",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -3050,6 +3050,24 @@
     },
     {
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/2MqgZPGy5XoByGtlsxYslL"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/0pmgZmtGIq5kfoGaOD5RGh"
+    },
+    {
+      "album": {
         "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
         "url": "https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh"
       },
@@ -3458,6 +3476,24 @@
     },
     {
       "album": {
+        "name": "Simple as Love",
+        "url": "https://open.spotify.com/album/3SlXj3EtW3P47fka4KouxP"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waldon",
+          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "Simple as Love",
+      "url": "https://open.spotify.com/track/1eRGo8yog1epyUUgCU5FqP"
+    },
+    {
+      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
@@ -3683,7 +3719,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 198933,
       "name": "Sweet Little Girl",
       "url": "https://open.spotify.com/track/0Bd15LI6hSJLivjObLO6F6"
@@ -4281,7 +4317,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 188827,
       "name": "Two Timin'",
       "url": "https://open.spotify.com/track/0grVSIK1Dt81ZDMnBGeJ6O"

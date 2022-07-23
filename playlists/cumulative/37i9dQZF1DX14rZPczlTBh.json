@@ -718,6 +718,24 @@
     },
     {
       "album": {
+        "name": "King Of The Crowd 'Title Song' (From \"Ramarao On Duty\")",
+        "url": "https://open.spotify.com/album/37hM9dL91U4SDRksCn7kHJ"
+      },
+      "artists": [
+        {
+          "name": "Lavita Lobo",
+          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205253,
+      "name": "King Of The Crowd 'Title Song' (From \"Ramarao On Duty\")",
+      "url": "https://open.spotify.com/track/1X56oGyHaLQgOZxDVBJBo5"
+    },
+    {
+      "album": {
         "name": "Mahanubhavudu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7mY1PNgmJDYE5Z1riSQVLG"
       },
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 262240,
       "name": "Ratthaalu",
       "url": "https://open.spotify.com/track/49bXxI5G1fTOuVRr56s5fr"

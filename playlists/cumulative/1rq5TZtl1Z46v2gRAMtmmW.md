@@ -4,7 +4,7 @@
 
 > 
 
-60 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+61 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Stuck In The Middle](https://open.spotify.com/track/51vIyYq0fS8oZbIX0jGwuX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/2FTiYTP7AkfFehikQoGatR) | 3:12 | 2022-04-29 |  |
 | [Summer Is Calling \- LF SYSTEM Remix](https://open.spotify.com/track/2fzSI3xVHCdqGB8zAMqgJT) | [the group](https://open.spotify.com/artist/7foqf4xJtGBBy9w5CNsbqD), [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Summer Is Calling \(Post Lockdown Mixes\)](https://open.spotify.com/album/257wR5KR0y7bsbyybSvDPx) | 2:41 | 2022-07-20 |  |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-08 |  |
+| [This Version Of You \(feat\. Julianna Barwick\)](https://open.spotify.com/track/2h4IoIeRasKE7moH6zhHUO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 2:51 | 2022-07-22 |  |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2021-11-02 | 2022-07-20 |
 | [TO FIND LOVE IS TO SEEK THE END \- Ivy Lab Remix](https://open.spotify.com/track/0c2NAdPReN7SUNR809lkVR) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [TO FIND LOVE IS TO SEEK THE END \(Ivy Lab Remix\)](https://open.spotify.com/album/6G9cHPZ03iG8q1749C4PJt) | 3:42 | 2022-04-13 |  |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-07-13 |  |
@@ -67,6 +68,6 @@
 | [Vocoder](https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Vocoder](https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN) | 7:35 | 2022-03-09 |  |
 | [We Change \- Part I](https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5) | [Brandon Coleman](https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Interstellar Black Space](https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO) | 4:54 | 2022-05-20 |  |
 | [Where Did I Go](https://open.spotify.com/track/4KXIbATud2X2ev4n6LPOmv) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Before I Die](https://open.spotify.com/album/17A5C4E71HzHookLBWzjMJ) | 2:08 | 2021-09-10 | 2022-06-22 |
-| [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-08 |  |
+| [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-08 | 2022-07-23 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

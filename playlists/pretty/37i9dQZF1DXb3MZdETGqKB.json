@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Dylan Triplett",
-  "num_followers": 119565,
+  "num_followers": 119592,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDBjNTAwMDAwMTgyMDAwNTNmMjMwMDAwMDE4MWZmZjYxNmNl",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDBjNjAwMDAwMTgyMjQxMWMzMTUwMDAwMDE4MWZmZjYxNmNl",
   "tracks": [
+    {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "Need To Know Basis",
+        "url": "https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 119975,
+      "name": "Need To Know Basis",
+      "url": "https://open.spotify.com/track/03medhiG64fBChIiDBTNPK"
+    },
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {

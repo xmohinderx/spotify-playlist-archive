@@ -1196,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Revive EP",
+        "url": "https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu"
+    },
+    {
+      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
       },
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 167750,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/4uXs9sxxIQ1OdOl36HkTKB"
@@ -2530,6 +2548,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5S0RxgMhMxzza0aOQt8d70"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ"
       },
@@ -3135,6 +3171,32 @@
       "duration_ms": 270000,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/0AbrbSTdgq56Yk7FfzscPF"
+    },
+    {
+      "album": {
+        "name": "Live For The Highs",
+        "url": "https://open.spotify.com/album/2DCDcmluMHtFMmr8lnUGQe"
+      },
+      "artists": [
+        {
+          "name": "Gawm",
+          "url": "https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL"
+        },
+        {
+          "name": "Com3t",
+          "url": "https://open.spotify.com/artist/5XPHqcQ4VMSGsbHbBuDF2b"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Live For The Highs",
+      "url": "https://open.spotify.com/track/1mWNh7MfEVEpikY11w4LtA"
     },
     {
       "album": {
@@ -4225,7 +4287,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 228800,
       "name": "Power Lines",
       "url": "https://open.spotify.com/track/7HewWDoPAmqmmsMBvRUEAg"

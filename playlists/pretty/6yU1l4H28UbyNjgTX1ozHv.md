@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,956 likes - 116 songs - 6 hr 25 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,961 likes - 116 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 37 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 |
 | 38 | [Believe \- Acoustic](https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Believe \(Acoustic\)](https://open.spotify.com/album/4s5feYt6hMWRjjHYCybysv) | 3:07 |
 | 39 | [Africa \- Acoustic](https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Lisa Cimorelli](https://open.spotify.com/artist/3LnKjRAWZqaSyJnHqc05Rq) | [he said\. she said.](https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2) | 3:18 |
-| 40 | [Sweet Child O' Mine \- Acoustic](https://open.spotify.com/track/1VZmEl9wmuteCBAqkyFttF) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Child O' Mine \(Acoustic\)](https://open.spotify.com/album/75TC3uieZuC99RUFzZazo2) | 2:58 |
+| 40 | [Running Up That Hill \(A Deal With God\) \- Acoustic](https://open.spotify.com/track/0eMIhZyrQ1SqPR89AJ3oOx) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Running Up That Hill \(A Deal With God\) \[Acoustic\]](https://open.spotify.com/album/6EvmJCsRyjv2XvOxhCoGKG) | 2:47 |
 | 41 | [Stuck In A Moment You Can't Get Out Of \- Acoustic Version / Remastered 2020](https://open.spotify.com/track/4qxXipoHUokPaPX1YWs47q) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can’t Leave Behind](https://open.spotify.com/album/42zp9yVG4N0SpcejLPoko5) | 3:44 |
 | 42 | [Careless Whisper \- Acoustic](https://open.spotify.com/track/56cdkBJabIgi2gynwG8XHL) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Careless Whisper \(Acoustic\)](https://open.spotify.com/album/3kXTkygRasSbX7ckz534Ei) | 3:24 |
 | 43 | [Let Her Go \- Acoustic](https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:26 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 115 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nicholas Cloud](https://open.spotify.com/artist/13i070mBPykWRF84H8Ht3Q), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
 | 116 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 |
 
-Snapshot ID: `NzY5LGY3NTY1ZTkzYTQwNGVjYzQ5OTEzOGRkOTRlY2NlZTBlMzdhN2UxNDg=`
+Snapshot ID: `NzcxLDhkYjMyYTQ0NTQzYTFmYzQwYjIxMDIxNjIzN2IwODIzM2QyZjAzN2E=`
