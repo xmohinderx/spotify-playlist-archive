@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s?si=lpdLuVjpTFCiUI\_gzq11Ew" > Adekunle Gold </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,450 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,582 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 19 | [Satisfy My Soul](https://open.spotify.com/track/3R679xi0Ht1FrWtXpAXr6O) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 3:14 |
 | 20 | [SAD TONIGHT](https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [SAD TONIGHT](https://open.spotify.com/album/1sEFcm69RjygXdgoOKg5G4) | 3:05 |
 | 21 | [Understand](https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Understand](https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB) | 2:54 |
-| 22 | [Wickedest](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
+| 22 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
 | 23 | [Here With Me](https://open.spotify.com/track/3zTObKcN6vfo9teWsKCU34) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:17 |
 | 24 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 |
 | 25 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 |
 | 80 | [SAME AS YOU](https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 2:50 |
 
-Snapshot ID: `MTY1ODUzODQ0MCwwMDAwMDAwMDQ2YzU1ZjJkNmZlOGUxNTEzZWE0ZTNmZmQ2MTNiMDk4`
+Snapshot ID: `MTY1ODYyNTE0MCwwMDAwMDAwMDQ2YzU1ZjJkNmZlOGUxNTEzZWE0ZTNmZmQ2MTNiMDk4`

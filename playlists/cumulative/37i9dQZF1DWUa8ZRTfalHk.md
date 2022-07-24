@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Rosa Linn
 
-1,272 songs - 2 day 17 hr 49 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+1,273 songs - 2 day 17 hr 50 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-11-06 | 2022-01-22 |
 | [Do You Believe](https://open.spotify.com/track/71TRhiwsRckqoqO9CcDIE6) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Idea Of Her](https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr) | 2:36 | 2021-03-26 | 2021-05-22 |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2021-10-30 | 2021-11-13 |
+| [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-23 |  |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 |  |
 | [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-07-04 | 2021-07-17 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-08-14 | 2021-10-09 |

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ain't Nobody's Baby",
+        "url": "https://open.spotify.com/album/35MQYWJLe9qhbgTIWGqsGJ"
+      },
+      "artists": [
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "Ain't Nobody's Baby",
+      "url": "https://open.spotify.com/track/1fTuWEkpSr2MyKxR8ifack"
+    },
+    {
+      "album": {
         "name": "All 4 Nothing (I'm So In Love)",
         "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
       },
@@ -41,7 +59,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 213510,
       "name": "Another Place",
       "url": "https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ"
@@ -387,7 +405,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 251733,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/4gmnXoFTFHKDZ4kYmLlR9e"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 203734,
       "name": "Fuck It I Love You",
       "url": "https://open.spotify.com/track/7eU1oQcE89ZS7T8oVuMn4G"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 216107,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/0o58NWBiVXewJNfNDKQyjw"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 203692,
       "name": "Just Thought You Should Know",
       "url": "https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 230883,
       "name": "LDQ (Little Drama Queen)",
       "url": "https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 185786,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/7hpJ9tATWb2vztlq99hERP"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 186000,
       "name": "She\u2019s Nothing",
       "url": "https://open.spotify.com/track/06JZhG8kkmhan3G79nKnFY"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 195037,
       "name": "Single In September",
       "url": "https://open.spotify.com/track/3yqVm7Je8UssmEJzWtzyYF"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 219813,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/3IlD3SWoYcBhbMUl4Pj8Hk"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 218595,
       "name": "Steps",
       "url": "https://open.spotify.com/track/2VF8EvvtcLqQp6yqz1Eg8Q"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 137476,
       "name": "Thelma + Louise",
       "url": "https://open.spotify.com/track/4UxATpWvXewD5EZUW01EeQ"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"

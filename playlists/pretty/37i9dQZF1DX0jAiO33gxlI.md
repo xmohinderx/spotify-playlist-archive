@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Choice
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,127 likes - 77 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,176 likes - 77 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

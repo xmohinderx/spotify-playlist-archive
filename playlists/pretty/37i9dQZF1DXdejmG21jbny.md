@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 
 > Chill instrumental ambient for slow, focused movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,241 likes - 143 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,251 likes - 143 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Enumclaw",
-  "num_followers": 261934,
+  "num_followers": 262021,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwNTU1OSwwMDAwMDEyMTAwMDAwMTgyMjZhMjdmNTYwMDAwMDE4MjIxNWU0YzYx",
+  "snapshot_id": "MTY1ODYwMzk5MCwwMDAwMDEyMjAwMDAwMTgyMmM4MDZiZjkwMDAwMDE4MjIxNWU0YzYx",
   "tracks": [
     {
       "added_at": "2022-07-20 17:24:06",
@@ -23,22 +23,6 @@
       "duration_ms": 173210,
       "name": "Cowboy Bepop",
       "url": "https://open.spotify.com/track/4YYsjhh2xuXbUwn435W2WI"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 157973,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt"
     },
     {
       "added_at": "2022-07-22 04:04:00",
@@ -71,6 +55,22 @@
       "duration_ms": 231805,
       "name": "get high, breathe underwater (#3)",
       "url": "https://open.spotify.com/track/2Vb9FyBDN3XctFwyaJjhDT"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 157973,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt"
     },
     {
       "added_at": "2022-05-27 06:40:00",

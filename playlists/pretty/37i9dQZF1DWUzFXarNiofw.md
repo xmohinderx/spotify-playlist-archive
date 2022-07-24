@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: SZA & Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,581 likes - 64 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,027 likes - 64 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 8 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 |
 | 9 | [Come First](https://open.spotify.com/track/0j6q1acgHc1gNkTiepU5LV) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Come First](https://open.spotify.com/album/7LWDRZYElyvnUydfYQ8poL) | 3:28 |
 | 10 | [Love Like This](https://open.spotify.com/track/0E7fWVbBA9NxiU4qgcTeqF) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Love Like This](https://open.spotify.com/album/5tbp7mG9OkS9ChyPFpvyJd) | 2:55 |
-| 11 | [Wickedest](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
+| 11 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
 | 12 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 |
 | 13 | [Handle Me Gently](https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4) | 3:01 |
 | 14 | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 |

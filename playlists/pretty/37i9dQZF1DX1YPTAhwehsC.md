@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Dougie B
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,977 likes - 46 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,080 likes - 46 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

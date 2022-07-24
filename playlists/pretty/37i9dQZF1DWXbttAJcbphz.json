@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Beyonce",
-  "num_followers": 926062,
+  "num_followers": 926760,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUzODcwNCwwMDAwMDAwMDViZGJkMzUzMWNhMjFjNDQ2MzY4MWY2ZWMyN2E5Yzhh",
+  "snapshot_id": "MTY1ODYyNTQxNiwwMDAwMDAwMGNhYTFlYjlmZTFlNzdkZjlkYWU0MjNkZTY2YjdiMzNj",
   "tracks": [
     {
       "added_at": "2020-10-02 17:39:19",
@@ -27,22 +27,18 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Call Me Crazy, But...",
-        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
       "artists": [
         {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 281080,
-      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
-      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
+      "duration_ms": 238320,
+      "name": "oui",
+      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -83,18 +79,54 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+        "name": "Call Me Crazy, But...",
+        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
       "artists": [
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 238320,
-      "name": "oui",
-      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
+      "duration_ms": 281080,
+      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
+      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "King Of Hearts (Deluxe)",
+        "url": "https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "I Told You",
+        "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -111,26 +143,6 @@
       "duration_ms": 198293,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 275080,
-      "name": "Love Galore (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -155,34 +167,70 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "I Told You",
-        "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
       "artists": [
         {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 237786,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
+      "duration_ms": 272986,
+      "name": "How Many Drinks?",
+      "url": "https://open.spotify.com/track/5ctk3VJoHoURSiwkCJn2bf"
     },
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "King Of Hearts (Deluxe)",
-        "url": "https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 240106,
-      "name": "Lay It Down",
-      "url": "https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ"
+      "duration_ms": 275080,
+      "name": "Love Galore (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/48i37aZTC1prDr4EcpQeEa"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4NlnpZPi5Z3r1uuyRglUhO"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -207,18 +255,18 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "ANTI",
-        "url": "https://open.spotify.com/album/48i37aZTC1prDr4EcpQeEa"
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/4NlnpZPi5Z3r1uuyRglUhO"
+      "duration_ms": 213993,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -255,6 +303,38 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "SweetSexySavage (Deluxe)",
+        "url": "https://open.spotify.com/album/32jei6omhyLZDCg8Ijvoym"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/1cAL4sFzXXRMbpZnTPa7Zi"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -279,82 +359,22 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 249320,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 213993,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 272986,
-      "name": "How Many Drinks?",
-      "url": "https://open.spotify.com/track/5ctk3VJoHoURSiwkCJn2bf"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "SweetSexySavage (Deluxe)",
-        "url": "https://open.spotify.com/album/32jei6omhyLZDCg8Ijvoym"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1cAL4sFzXXRMbpZnTPa7Zi"
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -379,22 +399,18 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "4275 (Bonus Version)",
+        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+      "duration_ms": 236146,
+      "name": "B.E.D.",
+      "url": "https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -423,18 +439,18 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "4275 (Bonus Version)",
-        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
+        "name": "Ciara",
+        "url": "https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         }
       ],
-      "duration_ms": 236146,
-      "name": "B.E.D.",
-      "url": "https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x"
+      "duration_ms": 234040,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -455,22 +471,42 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 240320,
-      "name": "Planez",
-      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 245480,
+      "name": "Party (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/42qh86p7TLXyumxSHn65kc"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -491,22 +527,18 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -555,54 +587,22 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Ciara",
-        "url": "https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG"
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Body Party",
-      "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         },
         {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 245480,
-      "name": "Party (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/42qh86p7TLXyumxSHn65kc"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+      "duration_ms": 240320,
+      "name": "Planez",
+      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -623,42 +623,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Sky Walker (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "K.T.S.E.",
         "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
@@ -671,26 +635,6 @@
       "duration_ms": 166997,
       "name": "Gonna Love Me",
       "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Here I Am (Deluxe Version)",
-        "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
-      },
-      "artists": [
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -715,6 +659,22 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "East Atlanta Love Letter",
         "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
       },
@@ -735,6 +695,26 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Sky Walker (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "Rebellious Soul",
         "url": "https://open.spotify.com/album/6fGZwUN91Qe5h8xFcLV487"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 208040,
       "name": "Can't Raise a Man",
       "url": "https://open.spotify.com/track/0vvKyFjX1hzSwpNtVwnJ2H"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Here I Am (Deluxe Version)",
+        "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -767,18 +767,62 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Raymond v Raymond (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+        "name": "Passion, Pain & Pleasure",
+        "url": "https://open.spotify.com/album/5Qex4ioxOJfHrnsWbt8Zlj"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Bottoms Up (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/2IpGdrWvIZipmaxo1YRxw5"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Hard II Love",
+        "url": "https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz"
       },
       "artists": [
         {
           "name": "Usher",
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 281293,
-      "name": "There Goes My Baby",
-      "url": "https://open.spotify.com/track/6IUiqtI8tE49sqGbmtrNd8"
+      "duration_ms": 228613,
+      "name": "No Limit (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Face The Music",
+        "url": "https://open.spotify.com/album/010cogYVCU9Fu3jrDAJ6WO"
+      },
+      "artists": [
+        {
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
+        },
+        {
+          "name": "KeKe Wyatt",
+          "url": "https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/01IyLgH29kt46qu8hdwf8G"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -807,98 +851,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Passion, Pain & Pleasure",
-        "url": "https://open.spotify.com/album/5Qex4ioxOJfHrnsWbt8Zlj"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Bottoms Up (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/2IpGdrWvIZipmaxo1YRxw5"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Face The Music",
-        "url": "https://open.spotify.com/album/010cogYVCU9Fu3jrDAJ6WO"
-      },
-      "artists": [
-        {
-          "name": "Avant",
-          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
-        },
-        {
-          "name": "KeKe Wyatt",
-          "url": "https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/01IyLgH29kt46qu8hdwf8G"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Free Spirit",
-        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Talk (feat. Disclosure)",
-      "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Love and War",
-        "url": "https://open.spotify.com/album/1783Mxpt38yxafCtFlgHNF"
-      },
-      "artists": [
-        {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Love and War",
-      "url": "https://open.spotify.com/track/3fLBmhcgWkPI47LfVQ8paB"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/6YDPJOxe5wW5pTIXMH0nCI"
       },
@@ -919,6 +871,62 @@
       "duration_ms": 204169,
       "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
       "url": "https://open.spotify.com/track/7AZiZMup0bLK5f4A2jRMpP"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     }
   ],
   "unique_name": "I Love My '10s R&B",

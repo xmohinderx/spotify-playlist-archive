@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 255626,
       "name": "Best of You",
       "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 295386,
       "name": "Black Dog - Remaster",
       "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 241724,
       "name": "En Bicicleta",
       "url": "https://open.spotify.com/track/5uOCwjthQFwClu6nhJJ99P"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 355303,
       "name": "Iron Man - 2012 - Remaster",
       "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 319093,
       "name": "Jeremy - Live MTV Unplugged",
       "url": "https://open.spotify.com/track/7LYLw1MSToSNRmaL9E1Fwr"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 328426,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/2JhJOPGvtqMpj5RQC8cIYf"
@@ -1222,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0w6X3DvUlwvxIx2cSJ2L7E"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/5y4761pjcksXs1hNsCmc4n"
+    },
+    {
+      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
       },
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 232680,
       "name": "Virus Anti-Amor",
       "url": "https://open.spotify.com/track/0soaUk4mGJhBSszry7lez6"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 211026,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/2vX5WL7s6UdeQyweZEx7PP"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 272026,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv"

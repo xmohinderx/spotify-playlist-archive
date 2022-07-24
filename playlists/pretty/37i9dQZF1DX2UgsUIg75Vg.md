@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,254,994 likes - 68 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,255,272 likes - 68 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CALI LOVE \(feat\. Ambré\)](https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 3:32 |
+| 1 | [CALI LOVE \(feat\. Ambré\)](https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 3:30 |
 | 2 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 |
 | 3 | [The Mood \(feat\. D Smoke\)](https://open.spotify.com/track/6qrKGpH3OFoob1JbCibDn0) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 4:15 |
 | 4 | [No Loot](https://open.spotify.com/track/5Xq1L2ILS866R5R6udOp3P) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/6GDRF8EqwmHYR7k5CxvNU4) | 2:43 |

@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 225760,
       "name": "Beat the Devil's Tattoo",
       "url": "https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 182986,
       "name": "Black And White",
       "url": "https://open.spotify.com/track/2EwgY7yklqTPLinIIEF6Es"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 151826,
       "name": "Cha Cha Twist",
       "url": "https://open.spotify.com/track/2586sKzsK22YuT19dFVwHZ"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 215306,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
@@ -638,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh"
+      },
+      "artists": [
+        {
+          "name": "The Rapture",
+          "url": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186506,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U"
+    },
+    {
+      "album": {
         "name": "Enemies Like This",
         "url": "https://open.spotify.com/album/3y6X0IxGXmN9m5aReJmcDF"
       },
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 280852,
       "name": "Flesh War",
       "url": "https://open.spotify.com/track/07aFEW0atvmEnFNn8RkF3q"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 140906,
       "name": "Gay Bar",
       "url": "https://open.spotify.com/track/1bs2kmXeGoo8HEQaNDL1sT"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 199733,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/75ARkUKb54dQ86YezuoNhn"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 266866,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7nMcCaqSfebRAmkIV4ATzL"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 255880,
       "name": "Human Performance",
       "url": "https://open.spotify.com/track/3iyYmoZMI4o0xW0nCLwAT3"
@@ -1333,10 +1351,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 222200,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp"
+    },
+    {
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222586,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN"
     },
     {
       "album": {
@@ -1945,7 +1981,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 215293,
       "name": "Steady, as She Goes",
       "url": "https://open.spotify.com/track/2i37Y95xkPhHtoYBywVBUm"
@@ -1981,7 +2017,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
@@ -2187,7 +2223,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 188280,
       "name": "Virgins",
       "url": "https://open.spotify.com/track/40iBAAY8MupPblwUUL6AiJ"

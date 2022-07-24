@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock driving the current, every week\. Black Punk Takeover by Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,695 likes - 76 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,731 likes - 76 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

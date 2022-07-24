@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 114477,
       "name": "= (Equal Sign)",
       "url": "https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 278823,
       "name": "B\u01b0\u1edbc Qua M\u00f9a C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/7wkX67ruxr3x2GFz6vyIX9"
@@ -3017,7 +3017,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 264480,
       "name": "For Youth",
       "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
@@ -3101,7 +3101,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 139308,
       "name": "Future",
       "url": "https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h"
@@ -3447,7 +3447,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 282628,
       "name": "G\u00e1c L\u1ea1i \u00c2u Lo (feat. Miu L\u00ea)",
       "url": "https://open.spotify.com/track/1mKDbug8bbfDmLe7I4CJpe"
@@ -4183,7 +4183,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 58871,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0M7ai1yfYyb4OlyRgdmtTK"
@@ -5653,7 +5653,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 70546,
       "name": "Music Box : Reflection",
       "url": "https://open.spotify.com/track/0PJSXtjkdTjJzZAMyNus02"
@@ -6153,7 +6153,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 254476,
       "name": "N\u00e0ng Th\u01a1",
       "url": "https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt"
@@ -7881,7 +7881,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 122211,
       "name": "STOP",
       "url": "https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7"
@@ -8339,7 +8339,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 198788,
       "name": "Thi\u00eau Th\u00e2n",
       "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"
@@ -8393,7 +8393,7 @@
       ],
       "date_added": "2021-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 171741,
       "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi"
@@ -8625,6 +8625,24 @@
       "duration_ms": 248870,
       "name": "Tr\u1ed1n T\u00ecm",
       "url": "https://open.spotify.com/track/34uOIsoy6ETS2sxOTWBRDF"
+    },
+    {
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "album": {

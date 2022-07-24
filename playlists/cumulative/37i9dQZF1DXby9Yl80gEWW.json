@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 218850,
       "name": "Cup & Porch",
       "url": "https://open.spotify.com/track/69IcY4RMhhYtxDv6JTP66k"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 113506,
       "name": "First And Last Waltz",
       "url": "https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC"
@@ -1777,7 +1777,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 234847,
       "name": "Mags' 21st",
       "url": "https://open.spotify.com/track/7gMhJ4Fpo1trxaMYxSglq0"
@@ -2293,7 +2293,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 149520,
       "name": "Remy's Breakdown",
       "url": "https://open.spotify.com/track/7rPQc8ttVMWN6XGyzfSvYa"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 274760,
       "name": "Rolling Blackout",
       "url": "https://open.spotify.com/track/4649eRcX3LkZ8HU49VnWK2"
@@ -2822,6 +2822,24 @@
     },
     {
       "album": {
+        "name": "The Good, the Bad and the Ugly",
+        "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
+      },
+      "artists": [
+        {
+          "name": "Southern Raised",
+          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351091,
+      "name": "The Good, the Bad and the Ugly",
+      "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
+    },
+    {
+      "album": {
         "name": "Your Daughters & Your Sons",
         "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
       },
@@ -2833,7 +2851,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 265960,
       "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
       "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
@@ -3081,7 +3099,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 246357,
       "name": "Waiting for Erin",
       "url": "https://open.spotify.com/track/3KcLU9b2efCbtexlwWPoJI"
@@ -3164,6 +3182,24 @@
     },
     {
       "album": {
+        "name": "Hurricane Clarice",
+        "url": "https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76"
+      },
+      "artists": [
+        {
+          "name": "Allison de Groot & Tatiana Hargreaves",
+          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203621,
+      "name": "Wellington",
+      "url": "https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF"
+    },
+    {
+      "album": {
         "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
         "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
       },
@@ -3223,7 +3259,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 135453,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"

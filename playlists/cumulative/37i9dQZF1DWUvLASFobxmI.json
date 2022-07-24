@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 159703,
       "name": "Armando Acertijos",
       "url": "https://open.spotify.com/track/76WKYewcP9Q3Hs72dTyDnR"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 145906,
       "name": "Bajo Mil Llaves",
       "url": "https://open.spotify.com/track/2UnVe9XBmhrCi63CQVugfL"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 179226,
       "name": "Cuando Me Besas",
       "url": "https://open.spotify.com/track/6ZdXJXmzxsKFB4nKfpne5D"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 192913,
       "name": "Cuando Me Importabas",
       "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 154053,
       "name": "Demente",
       "url": "https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 208212,
       "name": "El del Corvette",
       "url": "https://open.spotify.com/track/1Sc2tm7aeKp7HeP54metL0"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 169500,
       "name": "El Flaco (En Vivo)",
       "url": "https://open.spotify.com/track/6Lds2bjE7FopHhTL3ikk8I"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 184354,
       "name": "El Se\u00f1or de la A",
       "url": "https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU"
@@ -881,6 +881,24 @@
       "duration_ms": 244653,
       "name": "Gato de Madrugada",
       "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
+    },
+    {
+      "album": {
+        "name": "Desde Cero",
+        "url": "https://open.spotify.com/album/16CwA4wGA3hUj1Aj9xW6Lk"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207728,
+      "name": "Gracias Al Sol",
+      "url": "https://open.spotify.com/track/6VlhbnJq05oh8AxwePFn7X"
     },
     {
       "album": {
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 191094,
       "name": "Me Sigue Calando",
       "url": "https://open.spotify.com/track/3nDuiLZyyMDIN65BovPoOW"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 198675,
       "name": "Mi Padre (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/5PyKNGmzN7zyEEC61muPA8"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 167866,
       "name": "Nuestra Profec\u00eda",
       "url": "https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 150466,
       "name": "Perd\u00f3n Porque?",
       "url": "https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP"
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 181681,
       "name": "San Juditas",
       "url": "https://open.spotify.com/track/5WqylHMUJGQ1Me46J2trNh"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 155909,
       "name": "S\u00ed Como No",
       "url": "https://open.spotify.com/track/5TOathKIZl0EoGUKUoLpdx"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 198388,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/7wEu9ssXquiC6OKt1GNtnW"

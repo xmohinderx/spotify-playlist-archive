@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Lil Uzi Vert, Megan Thee Stallion and Internet Money.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,564,348 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,565,720 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

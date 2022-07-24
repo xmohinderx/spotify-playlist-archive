@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Billie Eilish, Megan Thee Stallion & Future, Lil Uzi Vert, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,938,573 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,939,225 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 54 | [In My Face \(with 2 Chainz, Saweetie feat\. YG\)](https://open.spotify.com/track/7IfxYyZaO3S3PJf5agEEWS) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [In My Face \(with 2 Chainz, Saweetie feat\. YG\)](https://open.spotify.com/album/2uMMOoH30YHKnbg5nVXtMM) | 3:21 |
 | 55 | [Human Condition](https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Human Condition](https://open.spotify.com/album/74ITqOAxrBRws1DJty5e85) | 3:50 |
 | 56 | [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 |
-| 57 | [Mami](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Mami](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
+| 57 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 | 58 | [GTFO](https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y) | 3:20 |
 | 59 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 |
 | 60 | [Pineapple Cognac](https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Pineapple Cognac](https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM) | 2:14 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 72 | [Til U](https://open.spotify.com/track/4gwo1JbHaMOt5qer7ejxFp) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Til U](https://open.spotify.com/album/3pDdIZTG1gAelHAZBFZttT) | 3:36 |
 | 73 | [Madhouse \(feat\. Mike Posner\)](https://open.spotify.com/track/3ZH05GvzlNRKTqSrSqx0aR) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Madhouse \(feat\. Mike Posner\)](https://open.spotify.com/album/1hwRvM6QN1jV8ceSVZR0oQ) | 2:27 |
 | 74 | [Sin Señal](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Sin Señal](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 |
-| 75 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Trap Kitty](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 |
+| 75 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 |
 | 76 | [Late Night Feels](https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Late Night Feels](https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06) | 2:53 |
 | 77 | [Moped](https://open.spotify.com/track/78qpxyEBuaJucHP2SURndk) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Does A Fish Know It's Wet?](https://open.spotify.com/album/2Zi2zHzjT6aMypTgEXY2zw) | 3:05 |
 | 78 | [Not The Way](https://open.spotify.com/track/05mRjWxSDdjQzaXYQg8BQQ) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0), [Pierce.blue](https://open.spotify.com/artist/77VgINKetSqVqKgRRJi4fv) | [Not The Way](https://open.spotify.com/album/1GqrZGIFYL5PAdROYVrzzB) | 3:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 97 | [Generational Dust](https://open.spotify.com/track/3ZkMN5Spe0x8sfsW0AkWcv) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Birds in the Ceiling](https://open.spotify.com/album/4AJVnvWHUyqtlZc4JOEXpU) | 4:26 |
 | 98 | [stay volk](https://open.spotify.com/track/3JphgObk2MgLvmS0Fu26pL) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [stay volk](https://open.spotify.com/album/2gxXQJm3eMeZDP7OHKCibZ) | 2:48 |
 | 99 | [A Dream](https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [pat junior](https://open.spotify.com/artist/0lOsH3CaZpQIE3QO40SFvx) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 2:41 |
-| 100 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
+| 100 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
 
 Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDNiZjAwMDAwMTgyMjQwZmVlZjIwMDAwMDE4MjIyMmMwOTUy`

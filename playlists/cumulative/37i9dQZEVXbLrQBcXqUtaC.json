@@ -798,6 +798,24 @@
     },
     {
       "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -2473,7 +2491,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 195598,
       "name": "Etnaset",
       "url": "https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU"
@@ -3379,7 +3397,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 230587,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7crSbQ5sZmLWx9aKqdReXa"
@@ -3433,7 +3451,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -3820,6 +3838,28 @@
     },
     {
       "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140666,
+      "name": "IDGAF (with blackbear)",
+      "url": "https://open.spotify.com/track/4ZUpTMKPYFTfJqamWFU9Zv"
+    },
+    {
+      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -4133,7 +4173,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -5799,7 +5839,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
@@ -8299,7 +8339,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
@@ -8912,6 +8952,24 @@
     },
     {
       "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu"
       },
@@ -8977,7 +9035,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
@@ -9865,7 +9923,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
@@ -10765,6 +10823,24 @@
       "duration_ms": 211185,
       "name": "\u0648\u0627\u0641\u064a \u0641\u064a \u062d\u0628\u0643",
       "url": "https://open.spotify.com/track/7FB375pwhrKOrIXoaQQbRY"
+    },
+    {
+      "album": {
+        "name": "\u0648\u0634 \u062c\u0627\u0628\u0643 \u0642\u0644\u064a \u0648\u0634 \u062c\u0627\u0628\u0643",
+        "url": "https://open.spotify.com/album/4HQCv2oY1iR6UAPgplzOG2"
+      },
+      "artists": [
+        {
+          "name": "\u062c\u0648\u062f\u064a \u0627\u0644\u062d\u0648\u062a\u064a",
+          "url": "https://open.spotify.com/artist/7rIm9xf0Pz40fCsdbew2ZX"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "\u0648\u0634 \u062c\u0627\u0628\u0643 \u0642\u0644\u064a \u0648\u0634 \u062c\u0627\u0628\u0643",
+      "url": "https://open.spotify.com/track/1y7wArtYdwMin7fG9jhg4d"
     },
     {
       "album": {

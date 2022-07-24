@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,491 likes - 96 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,575 likes - 96 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 55 | [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 |
 | 56 | [Human Condition](https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Human Condition](https://open.spotify.com/album/74ITqOAxrBRws1DJty5e85) | 3:50 |
 | 57 | [two door tiffany](https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [quinn](https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2) | 3:06 |
-| 58 | [Mami](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Mami](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
+| 58 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 | 59 | [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 |
 | 60 | [GTFO](https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y) | 3:20 |
 | 61 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 83 | [Bing Bong Love Song](https://open.spotify.com/track/2QaYMOWsraUKljpfSOVJAf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Bing Bong Love Song](https://open.spotify.com/album/4MuTKimimHG4JUMaI3S1LW) | 2:18 |
 | 84 | [say you´re with me](https://open.spotify.com/track/0jH2sASKUg7hPisZl7Un6c) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Frida Amundsen](https://open.spotify.com/artist/7bWpniIKlAHKaXyn3BFPlr) | [Say You´re With Me](https://open.spotify.com/album/6llzFODJeN8QPapTacfiaA) | 2:45 |
 | 85 | [Come First](https://open.spotify.com/track/0j6q1acgHc1gNkTiepU5LV) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Come First](https://open.spotify.com/album/7LWDRZYElyvnUydfYQ8poL) | 3:28 |
-| 86 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Trap Kitty](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 |
+| 86 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 |
 | 87 | [Tears In My Eyes](https://open.spotify.com/track/0XjspR3qgd4pr4bZlj9tIB) | [Justice Carradine](https://open.spotify.com/artist/4lmyGbhv14PwBGEZmjVyzU) | [Tears In My Eyes](https://open.spotify.com/album/3Ga3cpgZr83sNYFyEe0sia) | 3:15 |
 | 88 | [Not The Way](https://open.spotify.com/track/05mRjWxSDdjQzaXYQg8BQQ) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0), [Pierce.blue](https://open.spotify.com/artist/77VgINKetSqVqKgRRJi4fv) | [Not The Way](https://open.spotify.com/album/1GqrZGIFYL5PAdROYVrzzB) | 3:08 |
 | 89 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 |

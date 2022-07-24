@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,185 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,125 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 48 | [Nie wieder \- Live](https://open.spotify.com/track/45Uf8Ck7mej1rEeC4ovEdg) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Nie wieder \(Live\)](https://open.spotify.com/album/5nRyAIL8LOytF7hvWvJ0aG) | 4:09 |
 | 49 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
 | 50 | [Copy, Paste](https://open.spotify.com/track/3BMAnT3mkWIzM405iTQ8ME) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Copy, Paste](https://open.spotify.com/album/0IS70RIfgYxZsTWHQx1DGy) | 2:13 |
-| 51 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
+| 51 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
 | 52 | [Medicine](https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Medicine](https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0) | 2:38 |
 | 53 | [BLOSSOM IN THE DARK](https://open.spotify.com/track/7z1NP2Xn0TWI2B09Tmj4mB) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [BLOSSOM IN THE DARK](https://open.spotify.com/album/16LKoRq5Ly38HAbxDMiLzc) | 2:31 |
 | 54 | [Space Cadet](https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Space Cadet](https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI) | 2:46 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 81 | [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 |
 | 82 | [Grand](https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Grand](https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4) | 2:58 |
 | 83 | [Your Shoe Is Tied to the Other](https://open.spotify.com/track/6KNgKoAm2C4yKLTGCaEcAe) | [Shuttle](https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh) | [Your Shoe Is Tied to the Other](https://open.spotify.com/album/3N1gCld1EazJcV0LrU7YiV) | 3:00 |
-| 84 | [Favourite Girl](https://open.spotify.com/track/1QuiYqQ3zBKzf3bmi6W6bo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:17 |
+| 84 | [Favourite Girl](https://open.spotify.com/track/1QuiYqQ3zBKzf3bmi6W6bo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:16 |
 | 85 | [Heaven](https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Heaven](https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW) | 3:52 |
 | 86 | [Round My Head](https://open.spotify.com/track/61wzyaAmDXaWZYh5jPCXWN) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Round My Head](https://open.spotify.com/album/0F62xYMoFWR5Nqm6Bzc0eZ) | 2:26 |
 | 87 | [Own It](https://open.spotify.com/track/7wtOGRnZcjPvqaKkPhzWnF) | [Aisha Vibes](https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN) | [Own It](https://open.spotify.com/album/7hoqPm42hYpHb7zt9YKWbn) | 2:23 |

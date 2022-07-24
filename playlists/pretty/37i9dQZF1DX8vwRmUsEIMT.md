@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,506 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,544 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 35 | [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 |
 | 36 | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 |
 | 37 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
-| 38 | [Favourite Girl](https://open.spotify.com/track/1QuiYqQ3zBKzf3bmi6W6bo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:17 |
+| 38 | [Favourite Girl](https://open.spotify.com/track/1QuiYqQ3zBKzf3bmi6W6bo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:16 |
 | 39 | [East End Coast](https://open.spotify.com/track/7iBPtgnL0CcOKy96R7JXIO) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/3mJR7KQuYUFP8ptWREijDy) | 3:46 |
 | 40 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
 | 41 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |

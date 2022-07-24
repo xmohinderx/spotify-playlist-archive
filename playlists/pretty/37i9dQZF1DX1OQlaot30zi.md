@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Massimo Pericolo, Guè, Bresh, Rhove, Paky e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,432 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,485 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

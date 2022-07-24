@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Pretty Sick
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,905 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,041 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

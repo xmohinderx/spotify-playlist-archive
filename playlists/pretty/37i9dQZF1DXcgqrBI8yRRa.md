@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,806 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,813 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 4 | [+234](https://open.spotify.com/track/371o3VFIoEDH6crkA42Kxy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [+234](https://open.spotify.com/album/76AK0KzTGvTeld5Tza5MRc) | 2:12 |
 | 5 | [Normally](https://open.spotify.com/track/2VA1XsvSN6H60KZSEvf9Bt) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love is Not Enough](https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ) | 2:31 |
 | 6 | [O2](https://open.spotify.com/track/1b5MhsiBGQyPjrb5zzAlXM) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OXYGENE](https://open.spotify.com/album/69OCIEKv6ONuYZsJw0v3iI) | 2:59 |
-| 7 | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 |
+| 7 | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 |
 | 8 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 |
 | 9 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 |
 | 10 | [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 |

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 381013,
       "name": "A Prayer",
       "url": "https://open.spotify.com/track/1Zmqt3nkQutv5X8ANO6YUE"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 226106,
       "name": "Listen to the Clock on the Wall",
       "url": "https://open.spotify.com/track/5uWUyzHQWOsw5uZOw9alPT"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 577066,
       "name": "Ship Ahoy",
       "url": "https://open.spotify.com/track/5GTd3l7ShrGaziT7kvnNnj"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 233000,
       "name": "This Air I Breathe",
       "url": "https://open.spotify.com/track/7tVyJAzdKekmH0ChZxHhxB"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 318066,
       "name": "When the World's at Peace",
       "url": "https://open.spotify.com/track/5Z52756ttqY4zJMFhK1clR"
@@ -1119,6 +1119,24 @@
       "duration_ms": 286626,
       "name": "Your Body's Here with Me (But Your Mind's on the Other Side of Town)",
       "url": "https://open.spotify.com/track/17I6vlUf2z1747kHsGmEF0"
+    },
+    {
+      "album": {
+        "name": "My Favorite Person",
+        "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349253,
+      "name": "Your True Heart (And Shining Star)",
+      "url": "https://open.spotify.com/track/5tJQbWlusbXJkCnSRTTRfH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Oq1nW"

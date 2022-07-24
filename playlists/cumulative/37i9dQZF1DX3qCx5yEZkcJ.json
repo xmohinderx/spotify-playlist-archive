@@ -63,7 +63,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 145230,
       "name": "23 'Til Infinity",
       "url": "https://open.spotify.com/track/78S4mnm98YkJnSmCaLiCQv"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 74285,
       "name": "3rd Times a Charm",
       "url": "https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 207529,
       "name": "Bubble Beat",
       "url": "https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 198777,
       "name": "City Strollin'",
       "url": "https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 191860,
       "name": "Cold Concrete",
       "url": "https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 167926,
       "name": "Dedicate",
       "url": "https://open.spotify.com/track/0ZqZasY1NcovlaPFS9T8Y0"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 207291,
       "name": "Elevator - Remastered",
       "url": "https://open.spotify.com/track/1OleyH3ir8AfmOMCpGfNyN"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 135958,
       "name": "Flor de Terciopelo",
       "url": "https://open.spotify.com/track/4Rl3L5PjoT813YQQW6w4J1"
@@ -2139,7 +2139,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 106666,
       "name": "Fresh Air",
       "url": "https://open.spotify.com/track/3Pj5p85yrHKzWShk4miojl"
@@ -2305,7 +2305,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 249717,
       "name": "glow",
       "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
@@ -2407,7 +2407,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 168746,
       "name": "Hakuna Matata",
       "url": "https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ"
@@ -2763,7 +2763,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 133294,
       "name": "Its All About Vibes",
       "url": "https://open.spotify.com/track/2tJP6iNCbZ4xKxYnXmSd84"
@@ -2821,7 +2821,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 126879,
       "name": "Jasmine Tea",
       "url": "https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf"
@@ -2958,6 +2958,24 @@
     },
     {
       "album": {
+        "name": "kageokuri",
+        "url": "https://open.spotify.com/album/0d6OaFJOV6iROQFrRhew6C"
+      },
+      "artists": [
+        {
+          "name": "ninomiya tatsuki",
+          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215917,
+      "name": "kageokuri",
+      "url": "https://open.spotify.com/track/3Nw9mVyDGmSQ3Ik9BUBBD9"
+    },
+    {
+      "album": {
         "name": "keep in mind",
         "url": "https://open.spotify.com/album/2RyHibjNTyEZgWm04yjWWn"
       },
@@ -3005,7 +3023,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 163333,
       "name": "Kurumi",
       "url": "https://open.spotify.com/track/3j1b88dEz4HILuRltaaC00"
@@ -3459,7 +3477,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 116428,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/5jSL7kbq81gOtD1QUOAAwB"
@@ -3593,7 +3611,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 106837,
       "name": "Meditations on Guitar",
       "url": "https://open.spotify.com/track/2vzAM5zjTyfH4Gfqo3p5Vv"
@@ -3909,7 +3927,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 125714,
       "name": "Nature & Me",
       "url": "https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN"
@@ -4171,7 +4189,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 167926,
       "name": "Notes",
       "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
@@ -4561,7 +4579,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 167874,
       "name": "Paddling pool",
       "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
@@ -4699,7 +4717,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 168000,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/0RZDD0fZ1C0gKU1ca1Vibm"
@@ -4775,7 +4793,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
@@ -4815,7 +4833,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 79687,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/5b2pZuGJVlnVBTMGDQVhmJ"
@@ -5337,7 +5355,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 185380,
       "name": "Shurayuki hime",
       "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"
@@ -5897,7 +5915,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 166448,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5"
@@ -6681,7 +6699,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 135357,
       "name": "waves",
       "url": "https://open.spotify.com/track/6q2NEUEnYegM5CWzcARRiY"
@@ -6811,7 +6829,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 88279,
       "name": "White Tea",
       "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
@@ -7011,7 +7029,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 126826,
       "name": "\u591c\u685c",
       "url": "https://open.spotify.com/track/5p0XdPnjJGBe3939Ythxil"

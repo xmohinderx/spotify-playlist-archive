@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 216334,
+  "num_followers": 216371,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUzOTAyOSwwMDAwMDAwMGI1NDdmMzA1ZTVlMTc1NTdmYmVkZTFjNmViNzY5Njhk",
+  "snapshot_id": "MTY1ODYyNTc0NCwwMDAwMDAwMDE5MGMxNGM5ODgxZGM5NjA1Njg1MjRlNDUxMDk4Mzli",
   "tracks": [
     {
       "added_at": "2022-07-04 15:52:13",
@@ -43,70 +43,6 @@
     {
       "added_at": "2022-07-04 15:52:13",
       "album": {
-        "name": "INVU - The 3rd Album",
-        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "strawberry moon",
-        "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "strawberry moon",
-      "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Red Diary Page.1",
-        "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Some",
-      "url": "https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS"
       },
@@ -123,66 +59,18 @@
     {
       "added_at": "2022-07-04 15:52:13",
       "album": {
-        "name": "ZERO : FEVER EPILOGUE",
-        "url": "https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v"
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 199586,
-      "name": "Turbulence",
-      "url": "https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Killing Me",
-        "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 207650,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Twenty-Five Twenty-One OST Part 1",
-        "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
-      },
-      "artists": [
-        {
-          "name": "TAEIL",
-          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
-        }
-      ],
-      "duration_ms": 225817,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
+      "duration_ms": 181373,
+      "name": "Some",
+      "url": "https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l"
     },
     {
       "added_at": "2022-07-04 15:52:13",
@@ -207,60 +95,8 @@
     {
       "added_at": "2022-07-04 15:52:13",
       "album": {
-        "name": "It's Okay to Not Be Okay",
-        "url": "https://open.spotify.com/album/7GOUuqfkBJYK47pqea8jAt"
-      },
-      "artists": [
-        {
-          "name": "Roman Kayz",
-          "url": "https://open.spotify.com/artist/6wMCLX99dfazjaH8QbnCrd"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "It's Okay to Not Be Okay",
-      "url": "https://open.spotify.com/track/0TmFsWTadkiSy6A7fjvqbB"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228615,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/3p6hnejEQYXkiTO1lAzVc0"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "See you",
-        "url": "https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG"
-      },
-      "artists": [
-        {
-          "name": "amin",
-          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
-        },
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "See you - with Noair, Nason",
-      "url": "https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
-        "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
       "artists": [
         {
@@ -268,169 +104,9 @@
           "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 232226,
-      "name": "Heaven's Cloud",
-      "url": "https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Belief",
-        "url": "https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw"
-      },
-      "artists": [
-        {
-          "name": "msftz",
-          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 153720,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "be",
-        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
-      },
-      "artists": [
-        {
-          "name": "EUNHYUK",
-          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "be",
-      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/2rKkvzVCh5GD3yh5BYBJ4a"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
-        "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 218984,
-      "name": "You make Me",
-      "url": "https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Amusement Park",
-        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Amusement Park",
-      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Je T'aime",
-        "url": "https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Je T'aime",
-      "url": "https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "FEARLESS",
-        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 168437,
-      "name": "FEARLESS",
-      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Brother Act.",
-        "url": "https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 236829,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2022-07-04 15:52:13",
@@ -455,22 +131,146 @@
     {
       "added_at": "2022-07-04 15:52:13",
       "album": {
-        "name": "Sun And Moon",
-        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 257631,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
+      "duration_ms": 153720,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "strawberry moon",
+        "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "strawberry moon",
+      "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/2rKkvzVCh5GD3yh5BYBJ4a"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228615,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/3p6hnejEQYXkiTO1lAzVc0"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "be",
+        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
+      },
+      "artists": [
+        {
+          "name": "EUNHYUK",
+          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "be",
+      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
+        "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Heaven's Cloud",
+      "url": "https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q"
     },
     {
       "added_at": "2022-07-04 15:52:13",
@@ -491,38 +291,166 @@
     {
       "added_at": "2022-07-04 15:52:13",
       "album": {
-        "name": "The Chaos Chapter: FREEZE",
-        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+        "name": "Hard to Start",
+        "url": "https://open.spotify.com/album/1qm43euNyI3RvYbphvbMNn"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Nayul",
+          "url": "https://open.spotify.com/artist/17zkr2CrPmMUmKofLqPPCF"
         }
       ],
-      "duration_ms": 159749,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS"
+      "duration_ms": 205859,
+      "name": "Hard to Start",
+      "url": "https://open.spotify.com/track/2MxlULOEyapHB4RBRd344M"
     },
     {
       "added_at": "2022-07-04 15:52:13",
       "album": {
-        "name": "I Wanna Be - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
+        "name": "ZERO : FEVER EPILOGUE",
+        "url": "https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v"
       },
       "artists": [
         {
-          "name": "KEY",
-          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
-        },
-        {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 193263,
-      "name": "I Wanna Be",
-      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
+      "duration_ms": 199586,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "WE:TH",
+        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 207650,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Cl\u00e9 : LEVANTER",
+        "url": "https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 222284,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
+        "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 218984,
+      "name": "You make Me",
+      "url": "https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "SCIENTIST",
+      "url": "https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa"
     },
     {
       "added_at": "2022-07-04 15:52:13",
@@ -543,6 +471,334 @@
       "duration_ms": 227213,
       "name": "zZ(Tired) zZ(\ud53c\uace4\ud574) (With Yebit)",
       "url": "https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 1",
+        "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "duration_ms": 225817,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 201746,
+      "name": "The View",
+      "url": "https://open.spotify.com/track/78k3g85Ud3Xo5NeX6VimHD"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "BLUE;S",
+        "url": "https://open.spotify.com/album/59QELOU685J1AMB2paryAx"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 236816,
+      "name": "Wind flower",
+      "url": "https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 159749,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "HAPPENING",
+        "url": "https://open.spotify.com/album/2I4HYm29uKgBjRtPpiFULg"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 224015,
+      "name": "HAPPENING",
+      "url": "https://open.spotify.com/track/4bvIzUmw8dl9r1PDz6OGZv"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Amusement Park",
+        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Amusement Park",
+      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Belief",
+        "url": "https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw"
+      },
+      "artists": [
+        {
+          "name": "msftz",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "See you",
+        "url": "https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG"
+      },
+      "artists": [
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        },
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "See you - with Noair, Nason",
+      "url": "https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "DUMB DUMB",
+        "url": "https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "DUMB DUMB",
+      "url": "https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 234177,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/7lthOBXNue2IvedLRfkod8"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "It's Okay to Not Be Okay",
+        "url": "https://open.spotify.com/album/7GOUuqfkBJYK47pqea8jAt"
+      },
+      "artists": [
+        {
+          "name": "Roman Kayz",
+          "url": "https://open.spotify.com/artist/6wMCLX99dfazjaH8QbnCrd"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "It's Okay to Not Be Okay",
+      "url": "https://open.spotify.com/track/0TmFsWTadkiSy6A7fjvqbB"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Tomorrow - SM STATION",
+        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "duration_ms": 145360,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "FLASHBACK",
+        "url": "https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "duration_ms": 212687,
+      "name": "BUT YOU",
+      "url": "https://open.spotify.com/track/5cDNWykOJC5d9uFRKmqyND"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/05qGSfa8Q99cIdL23iRnQ4"
+      },
+      "artists": [
+        {
+          "name": "SUNG DAM",
+          "url": "https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Sun And Moon",
+        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 257631,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Hello - Special Album",
+        "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 196170,
+      "name": "Tamed-Dashed",
+      "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
+      },
+      "artists": [
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "duration_ms": 230148,
+      "name": "BEST FRIEND",
+      "url": "https://open.spotify.com/track/5GB0hU37rKZNVsHMu7FOM9"
     },
     {
       "added_at": "2022-07-04 15:52:13",
@@ -571,282 +827,18 @@
     {
       "added_at": "2022-07-04 15:52:13",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8"
+        "name": "Superwoman",
+        "url": "https://open.spotify.com/album/2TE6FMZoC19KLaUNb89ChV"
       },
       "artists": [
         {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
         }
       ],
-      "duration_ms": 230148,
-      "name": "BEST FRIEND",
-      "url": "https://open.spotify.com/track/5GB0hU37rKZNVsHMu7FOM9"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Hello Future",
-      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/05qGSfa8Q99cIdL23iRnQ4"
-      },
-      "artists": [
-        {
-          "name": "SUNG DAM",
-          "url": "https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Get Ya! (feat. pH-1)",
-        "url": "https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "Get Ya! (feat. pH-1)",
-      "url": "https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Cl\u00e9 : LEVANTER",
-        "url": "https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 222284,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "WE:TH",
-        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "ZERO : FEVER Part.3",
-        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 209618,
-      "name": "Eternal Sunshine",
-      "url": "https://open.spotify.com/track/76mWY4B10RpcuxsA4nfqp3"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "THIS IS US",
-        "url": "https://open.spotify.com/album/1JpC31overHSqPenjJieXv"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Only one for me",
-      "url": "https://open.spotify.com/track/4vxK5XbTTDNNKYbPDmZZC3"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "FLASHBACK",
-        "url": "https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF"
-      },
-      "artists": [
-        {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
-        }
-      ],
-      "duration_ms": 212687,
-      "name": "BUT YOU",
-      "url": "https://open.spotify.com/track/5cDNWykOJC5d9uFRKmqyND"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Cherry On Top",
-        "url": "https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2"
-      },
-      "artists": [
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 148946,
-      "name": "Cherry On Top",
-      "url": "https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 201746,
-      "name": "The View",
-      "url": "https://open.spotify.com/track/78k3g85Ud3Xo5NeX6VimHD"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "Tomorrow - SM STATION",
-        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        }
-      ],
-      "duration_ms": 145360,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "I'm",
-        "url": "https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z"
-      },
-      "artists": [
-        {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
-        },
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "Warning (Feat. lIlBOI)",
-      "url": "https://open.spotify.com/track/1j795THd14Z0PmA3O18EwU"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "What Do I Call You - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/7xTDCxibzHpmUUQeso8Sg7"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 181196,
-      "name": "Not For Sale",
-      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
+      "duration_ms": 199606,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/0dCnDWWk79rSoYxcVDpuEc"
     }
   ],
   "unique_name": "Morning K-Pop!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Mimi Barks
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,496 likes - 81 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,656 likes - 81 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 53 | [AN ITERATION](https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [AN ITERATION](https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da) | 2:53 |
 | 54 | [Shrinking Violet](https://open.spotify.com/track/4zShTZDgX2g7Y9QRyMnun0) | [Wear Your Wounds](https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3) | [Shrinking Violet](https://open.spotify.com/album/5zD1inajnq3JSOmFUFs6Nh) | 5:31 |
 | 55 | [Wrecked](https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R) | [Zonal](https://open.spotify.com/artist/2FEWIj8qxL0aJKlH5QoOnt) | [Wrecked](https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL) | 6:26 |
-| 56 | [Frost \(C\)](https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2) | [Sunn 0\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Pyroclasts](https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f) | 10:56 |
+| 56 | [Frost \(C\)](https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Pyroclasts](https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f) | 10:56 |
 | 57 | [Yuve Yuve Yu](https://open.spotify.com/track/6J2VvzKwWc2f0JP5RQVZjq) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Yuve Yuve Yu](https://open.spotify.com/album/2ot7qJ6yU06AkwkAn9xeoP) | 4:42 |
 | 58 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
 | 59 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 |

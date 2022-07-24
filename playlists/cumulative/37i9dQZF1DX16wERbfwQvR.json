@@ -929,7 +929,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 167360,
       "name": "Mass No. 10 in C Major, Hob. XXII:9, \"Paukenmesse\": Agnus Dei: Agnus Dei",
       "url": "https://open.spotify.com/track/1bq75wU8N637kNKO3xDjv9"
@@ -1124,6 +1124,32 @@
     },
     {
       "album": {
+        "name": "Haydn: Piano Concerto in C Major, Hob.XVIII:5",
+        "url": "https://open.spotify.com/album/5kGnSTaRzSZUiDnsWwQc2l"
+      },
+      "artists": [
+        {
+          "name": "Franz Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Matthias Kirschnereit",
+          "url": "https://open.spotify.com/artist/48puMugH2PJXYjqzkRYlFd"
+        },
+        {
+          "name": "W\u00fcrttembergisches Kammerorchester Heilbronn",
+          "url": "https://open.spotify.com/artist/7AUztDRea3gAzwq6FKVfV4"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188728,
+      "name": "Piano Concerto in C Major, Hob.XVIII:5: III. Allegro",
+      "url": "https://open.spotify.com/track/04GIn48IyYJu2TJhvaNz5Q"
+    },
+    {
+      "album": {
         "name": "Haydn: Piano Trios, Vol. 1",
         "url": "https://open.spotify.com/album/0WUtUbaq7c5UfMbHuTv2Cm"
       },
@@ -1187,6 +1213,28 @@
       "duration_ms": 230226,
       "name": "Sonata in D Major, Hob. XVl:37: Sonata in D Major, Hob. XVI:37: II. Largo e sostenuto",
       "url": "https://open.spotify.com/track/3QAy6Mog08zbI2puUi6PE5"
+    },
+    {
+      "album": {
+        "name": "Haydn: Sonata No. 62 in E-Flat Major, Hob. XVI: 52: III. Finale",
+        "url": "https://open.spotify.com/album/3eJljhonx9vLuuTXho0u6G"
+      },
+      "artists": [
+        {
+          "name": "Franz Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Jean-Efflam Bavouzet",
+          "url": "https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347000,
+      "name": "Sonata No. 62 in E-Flat Major, Hob. XVI: 52: III. Finale",
+      "url": "https://open.spotify.com/track/4lIzzujXFnaehoeH6V53X9"
     },
     {
       "album": {
@@ -1331,7 +1379,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 502000,
       "name": "Symphony No. 104 in D Major, Hob. I:104 \"London\": I. Adagio - Allegro",
       "url": "https://open.spotify.com/track/6lvWr4Ji1wXWPUTKO3c5rD"
@@ -1669,7 +1717,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 254040,
       "name": "Symphony No. 94 in G Major \"Surprise\": IV. Finale: Allegro molto",
       "url": "https://open.spotify.com/track/4chm0GkaUjWYTPnRhsmWgP"
@@ -1855,7 +1903,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 322253,
       "name": "Trio No. 97 in D Major: Adagio cantabile",
       "url": "https://open.spotify.com/track/0DMaT7zbxedn6UsbmcVlij"

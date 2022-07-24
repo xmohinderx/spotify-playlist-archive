@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: LOUTA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,450 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,452 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 69 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 |
 | 70 | [Tuyo](https://open.spotify.com/track/4NiqCP7CvELNJDd1sue38b) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT) | [Tuyo](https://open.spotify.com/album/0I0JpmGYWTNFVOLcRlY8wR) | 2:52 |
 
-Snapshot ID: `MTY1ODUzOTM4OSwwMDAwMDAwMGZlN2QzMzBkYzA0MzZiYTBmMjRlNjk2MDkzMGEwZDk5`
+Snapshot ID: `MTY1ODYyNjEyMSwwMDAwMDAwMGZlN2QzMzBkYzA0MzZiYTBmMjRlNjk2MDkzMGEwZDk5`

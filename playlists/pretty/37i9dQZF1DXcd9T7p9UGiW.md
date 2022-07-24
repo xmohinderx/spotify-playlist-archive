@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY?si=4V\_liDJvSpe6DXXQphkByw" > Kooldrink </a>, <a href="https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE?si=EAYyf3K3TUGuwPe03mDZPQ" > Aluna </a> and <a href="https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=taeeJF3QSNWS53KJhJDKRA" > Prettyboy D\-O </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,398 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,417 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 8 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:25 |
 | 9 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 |
 | 10 | [Nominate](https://open.spotify.com/track/17w34M5Uam8PTahTUUY97q) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [Anloga Junction](https://open.spotify.com/album/58oROGFaWG6LUlfktncZ9C) | 4:14 |
-| 11 | [Wickedest](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
+| 11 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
 | 12 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
 | 13 | [Toni\-Ann Singh \(feat\. Popcaan\)](https://open.spotify.com/track/7tO7xKsLqBQFnQzsPC2MpR) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 2:55 |
 | 14 | [Champion](https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:59 |

@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 188129,
       "name": "Above It All",
       "url": "https://open.spotify.com/track/0J3e3pldo7uAns4dpLxLR0"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 183009,
       "name": "All on Me - Brennan Heart VIP Mix",
       "url": "https://open.spotify.com/track/6ZkenobbZ5In6pAvIT3C7I"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 153624,
       "name": "Bass Attack",
       "url": "https://open.spotify.com/track/3idlXH9t69kYKh6Y2KBOpx"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 161049,
       "name": "Bergen - Frontliner Remix",
       "url": "https://open.spotify.com/track/3H9KW14Jjw8erGMiRpdBXx"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 225449,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0XWQtIOEmws7pNwODEH6hW"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 159200,
       "name": "Caprice",
       "url": "https://open.spotify.com/track/5hShWhULwT3YUfIBQvh9VW"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 202754,
       "name": "Chosen Ones",
       "url": "https://open.spotify.com/track/5B68sCt7ZmqOXLsLw4FB3G"
@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 218254,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/0Wfa2mEsDhT990Fe0m8Jn5"
@@ -1225,6 +1225,54 @@
       "duration_ms": 326955,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/30xpBHCKlX7TPGuCAqqs07"
+    },
+    {
+      "album": {
+        "name": "Come Take My Hand (Ran-D Remix)",
+        "url": "https://open.spotify.com/album/06a36yj8fqrm8MUFeI7qO4"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        },
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262550,
+      "name": "Come Take My Hand - Ran-D Remix",
+      "url": "https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG"
+    },
+    {
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161589,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
     },
     {
       "album": {
@@ -1305,7 +1353,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 226147,
       "name": "Connected",
       "url": "https://open.spotify.com/track/1DtVFVNnnsUwvsJUa87uOm"
@@ -1353,7 +1401,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 228800,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/4HaMXBKZa59l6MnyhLK6Bw"
@@ -2469,7 +2517,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 182727,
       "name": "Fire And Ice - Radio Edit",
       "url": "https://open.spotify.com/track/4tQOschUTYTa8jWH6iFWhd"
@@ -2681,7 +2729,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 236812,
       "name": "For You",
       "url": "https://open.spotify.com/track/3DoOHv1HM9Arrw5PofaF2S"
@@ -2959,7 +3007,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 182908,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/1DAERWYDdlSiRLCOr7vq9t"
@@ -3065,7 +3113,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 241333,
       "name": "Hard 2 Hire",
       "url": "https://open.spotify.com/track/1OB78PnhUrUSmzDHgitVSD"
@@ -3105,7 +3153,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 150419,
       "name": "Hardcore Girl - Earsquaker Remix Edit",
       "url": "https://open.spotify.com/track/1qnljcdGqfl8YV9S0cETgm"
@@ -3495,7 +3543,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 224903,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/36KGP1dk6Pq4Vaalswving"
@@ -3557,7 +3605,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 245600,
       "name": "In Every Place",
       "url": "https://open.spotify.com/track/2ilcdIrWzHKMP1UZYEM63f"
@@ -3713,7 +3761,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 152008,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/3UzPphFplwF1AS1tjyrbtp"
@@ -4027,7 +4075,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 148040,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/070aNLQoUgiyRIUS4I721F"
@@ -4377,7 +4425,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 186315,
       "name": "Make That Body Rock",
       "url": "https://open.spotify.com/track/7kgTsBAU2a4011YI83XZEB"
@@ -4465,7 +4513,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 255483,
       "name": "Miami Vice",
       "url": "https://open.spotify.com/track/5rty5wFOh8Us1diEBIOwOS"
@@ -4695,7 +4743,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 222336,
       "name": "New Era",
       "url": "https://open.spotify.com/track/7aQZhgOzo982eeQciRymh6"
@@ -5053,7 +5101,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/5SdosZFiok1BS9LkWexfFQ"
@@ -5137,7 +5185,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 230321,
       "name": "Orange Heart",
       "url": "https://open.spotify.com/track/5pwVSplL0EaOyuTphPipJX"
@@ -5221,7 +5269,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 164000,
       "name": "Over & Done - Averro Remix",
       "url": "https://open.spotify.com/track/0zR9PEs0Udoc2f81t8DRJx"
@@ -5725,7 +5773,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 167612,
       "name": "Reach For The Sky",
       "url": "https://open.spotify.com/track/48WMx4OjrRl5GnzlBTCD4C"
@@ -6011,7 +6059,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Run With The Restless",
       "url": "https://open.spotify.com/track/1YKY6j5fyaUx7dCsz1D4Vf"
@@ -6073,7 +6121,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 227612,
       "name": "Set Myself Free",
       "url": "https://open.spotify.com/track/6NKDJqMa6yxXOOdLC9hGRz"
@@ -6209,7 +6257,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 220903,
       "name": "Show It",
       "url": "https://open.spotify.com/track/349WqcWdoFn8SpuPqabADv"
@@ -6341,7 +6389,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 340027,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/4hUgcnHG88227kHDlQLkwi"
@@ -6527,7 +6575,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 156012,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/4rWoj8zjH5mv9FdserDATf"
@@ -6943,7 +6991,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 204350,
       "name": "Symphony - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/7DmhyegXAiu0yTy7nRI0yg"
@@ -6965,7 +7013,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 179201,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/0BGDmwplApiVRFvhKlKBOr"
@@ -7115,7 +7163,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "The Enemy (You Cannot See)",
       "url": "https://open.spotify.com/track/0GAIAbeS07Run8u9BOtT3P"
@@ -7301,7 +7349,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 225418,
       "name": "The Things You Hated",
       "url": "https://open.spotify.com/track/6Hd0c6zBKqg1xNEjY2QYyM"
@@ -7799,7 +7847,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 184800,
       "name": "Two of Us",
       "url": "https://open.spotify.com/track/14f5wrDaYMep8wWSjPo0j3"

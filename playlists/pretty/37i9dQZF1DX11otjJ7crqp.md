@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: FLETCHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,881 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,961 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 51 | [say you´re with me](https://open.spotify.com/track/0jH2sASKUg7hPisZl7Un6c) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Frida Amundsen](https://open.spotify.com/artist/7bWpniIKlAHKaXyn3BFPlr) | [Say You´re With Me](https://open.spotify.com/album/6llzFODJeN8QPapTacfiaA) | 2:45 |
 | 52 | [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 |
 | 53 | [Pastel Auras](https://open.spotify.com/track/5yk7ayvIsUikEiuyMONlk4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Pastel Auras](https://open.spotify.com/album/2DaizbGwu2hiV4ZMFk48Rf) | 3:20 |
-| 54 | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 |
+| 54 | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 |
 | 55 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
 | 56 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
 | 57 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 |

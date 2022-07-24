@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Me to You",
+        "url": "https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "A Better Man",
+      "url": "https://open.spotify.com/track/7v7dx0S3dO2AKQDCJLwqLS"
+    },
+    {
+      "album": {
         "name": "Dinah Washington Sings Bessie Smith",
         "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 218866,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 250946,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
@@ -163,7 +181,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 440200,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/4kE0QjiD0IkeXGjmRaQtiO"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 255426,
       "name": "Blues Music",
       "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
@@ -203,7 +221,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 190373,
       "name": "Bring It On Home To Me",
       "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 264506,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 311226,
       "name": "Fire On The Floor",
       "url": "https://open.spotify.com/track/2FX5U6bbMwpy3VBn4sErbW"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 337413,
       "name": "Fool's Paradise",
       "url": "https://open.spotify.com/track/73Yf7OB7Wp1NGTYzr7iHXX"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 282253,
       "name": "Hell To Pay",
       "url": "https://open.spotify.com/track/3fPzrf8jirArIu9CV2r4cN"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 289266,
       "name": "I Don't Know What You've Got",
       "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 227666,
       "name": "I Know - 2008 Remaster",
       "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 237600,
       "name": "Loving You Is Sweeter Than Ever",
       "url": "https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj"
@@ -960,6 +978,24 @@
     },
     {
       "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227274,
+      "name": "Nibbadip",
+      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
+    },
+    {
+      "album": {
         "name": "No Limit to My Love",
         "url": "https://open.spotify.com/album/4Rm5WNevoHC55Fez7NO5Mj"
       },
@@ -1011,7 +1047,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 265640,
       "name": "No Other Way",
       "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
@@ -1065,7 +1101,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 278873,
       "name": "Riding Out The Storm",
       "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
@@ -1141,7 +1177,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 297893,
       "name": "Set Sail part I (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/5RDKXNErtcfCtNXGQPCynO"
@@ -1199,7 +1235,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 167840,
       "name": "Slip-In Mules",
       "url": "https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1"
@@ -1217,7 +1253,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 290973,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
@@ -1239,7 +1275,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 300373,
       "name": "Stay Around A Little Longer (feat. B.B. King)",
       "url": "https://open.spotify.com/track/48z2rCxqFdlMejXthnbCkX"
@@ -1359,7 +1395,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 308893,
       "name": "Third Degree",
       "url": "https://open.spotify.com/track/1th2vwXpgv6prxxHbVccV9"
@@ -1399,7 +1435,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
@@ -1417,7 +1453,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 210000,
       "name": "What Am I To You?",
       "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
@@ -1435,7 +1471,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 220974,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"

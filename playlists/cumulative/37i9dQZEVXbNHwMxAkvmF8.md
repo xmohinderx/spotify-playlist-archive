@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-475 songs - 1 day 1 hr 24 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+477 songs - 1 day 1 hr 28 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A szürke Patás](https://open.spotify.com/track/5Oyji0CLU1eZeKn8V9rILD) | [Zséda](https://open.spotify.com/artist/4CqxabZ2gSzwh36ttI2tHg) | [Ünnep](https://open.spotify.com/album/5HIJwrMrMeOSBpaxQomzZA) | 4:20 | 2021-12-25 | 2021-12-27 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-16 | 2022-06-08 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-05 | 2022-07-17 |
-| [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-16 |  |
+| [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-16 | 2022-07-24 |
 | [Add Nekem](https://open.spotify.com/track/4Y4C89YbMhZqpOfu4wcmOp) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Rossz Ember](https://open.spotify.com/album/0Hvlnpy8DMbkC0gPkkmJsh) | 2:52 | 2022-03-01 | 2022-03-03 |
 | [Adieu](https://open.spotify.com/track/2BUX7RHIJfxfK6LxfZBHtU) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Adieu](https://open.spotify.com/album/7LOO7LJKYJ2TD1nJyx1WZp) | 3:39 | 2022-05-06 | 2022-05-15 |
 | [Aha\-Aha](https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Aha\-Aha](https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U) | 2:12 | 2022-05-20 |  |
@@ -33,6 +33,7 @@
 | [Anya mérges](https://open.spotify.com/track/0xHCcgCYUgohuHWZmOcl6C) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Szörnyeteg](https://open.spotify.com/album/3fwAWokcyYJTxZWDsyOjYm) | 4:12 | 2021-07-31 | 2021-08-02 |
 | [Aranyapám](https://open.spotify.com/track/2b9OlSP0FG6xb6Ee49C0dm) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Aranyapám](https://open.spotify.com/album/4pkxZRCLJkMZF8NoKAtLqp) | 2:37 | 2021-12-10 | 2022-01-01 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-27\* | 2021-06-06 |
+| [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 | 2022-07-23 |  |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-31 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-09-09 |
@@ -99,6 +100,7 @@
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-11-04 | 2022-05-31 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-12-23 | 2021-12-27 |
 | [DOHÁNYBOLT](https://open.spotify.com/track/6VIRqekzE2sQOAvjDnOq2M) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [DOHÁNYBOLT](https://open.spotify.com/album/2drwY2b9rgQBlMMhYu4pOf) | 2:56 | 2022-05-21 | 2022-05-28 |
+| [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-23 |  |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-09-15 | 2022-02-22 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-07-28 | 2021-08-22 |
 | [Don't Pain](https://open.spotify.com/track/0JoGSZqLC6kVYTtsdiPa9b) | [Novak808](https://open.spotify.com/artist/3ompyAtAro1wOR6C3BNv3d) | [Don't Pain](https://open.spotify.com/album/7F0aLncs2eeXuAR6SPauCS) | 4:06 | 2022-06-02 | 2022-06-04 |
@@ -171,7 +173,7 @@
 | [HOLIDAY](https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOLIDAY](https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu) | 2:34 | 2021-03-27\* | 2021-05-12 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-11-30 | 2021-12-29 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-22 |  |
-| [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-16 |  |
+| [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-16 | 2022-07-24 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-13 |
 | [Hullik](https://open.spotify.com/track/2PHgjJwswIHOhXexoizfT0) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS), [Hiro](https://open.spotify.com/artist/06cYK1x1ocLh6MzR6MUOuB) | [Hullik](https://open.spotify.com/album/4PEbsLojFXnWSG9HEva5MM) | 3:33 | 2021-07-18 |  |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-13 |

@@ -2,9 +2,9 @@
 
 ### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
-> Alternative Arabic songs\. Cover: Nai Barghouti.
+> Alternative Arabic songs\. Cover: MoJaNaD.
 
-80 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
+84 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,10 @@
 | [BIZARRE](https://open.spotify.com/track/1G8U48aUerp6MJ3GpdH2VP) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3), [Imane Batma](https://open.spotify.com/artist/7IbIXdhtRlVPKiyIdOStgP) | [BIZARRE](https://open.spotify.com/album/65Usg4LljKNGmUiohPoJhL) | 3:11 | 2022-02-17 |  |
 | [Bla'i Hali](https://open.spotify.com/track/33TYziNjMe6yNuV2tgkmq8) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 2:59 | 2021-12-23 |  |
 | [Btehlawi](https://open.spotify.com/track/66UCyK1oHFYh5ZPWQ4HDM8) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Btehlawi](https://open.spotify.com/album/6RMeF8BJpHflkaQkgrgSvH) | 3:58 | 2022-02-17 |  |
+| [Daye3 Albi](https://open.spotify.com/track/5oGI0mFfViPH2i8sP8XnnS) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Daye3 Albi](https://open.spotify.com/album/0KYywGAwgeVKlWqAoohIw2) | 2:10 | 2022-07-23 |  |
 | [Denia Dour](https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Denia Dour](https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o) | 5:30 | 2021-12-23 |  |
 | [Emlaq](https://open.spotify.com/track/27269Mf2BDkWfLaC4oOw87) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Emlaq](https://open.spotify.com/album/3eeP7ZflvhlVWdgHDgxuWp) | 4:07 | 2021-12-23 | 2022-02-11 |
+| [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 | 2022-07-23 |  |
 | [Estana Shway \- أخرس \- استنى شوي](https://open.spotify.com/track/3TabrhNZICePlryYNcw4C9) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Estana Shway \(أخرس \- استنى شوي\)](https://open.spotify.com/album/46o2uznwnj6kiw4NYa2rtc) | 3:51 | 2022-02-09 |  |
 | [Etnaset](https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etnaset](https://open.spotify.com/album/5nE6ovXOMjYZ1UG695iIkU) | 3:15 | 2021-12-23 |  |
 | [Galbi](https://open.spotify.com/track/2XuqFsSXzQQ5VIVnxJsYuQ) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Galbi](https://open.spotify.com/album/3INMinVy8sVP4MBZmUfhCH) | 2:16 | 2022-03-21 |  |
@@ -40,6 +42,7 @@
 | [Holm](https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Holm / The Man Who Sold The World](https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY) | 4:46 | 2021-12-23 | 2022-01-21 |
 | [ISMAK](https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp) | 3:10 | 2021-12-23 |  |
 | [Kefaya](https://open.spotify.com/track/4de9VEoQzSNVUNJ365htJR) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Kefaya](https://open.spotify.com/album/1zSToNW52s7GW0rj7bDfoK) | 3:26 | 2021-12-23 | 2022-01-22 |
+| [Khaleeki](https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khaleeki](https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr) | 2:24 | 2022-07-23 |  |
 | [Khayal](https://open.spotify.com/track/6oItsPDKVtqJFtbIn8V4AW) | [DaMoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Khayal](https://open.spotify.com/album/7seFxa9r1rPYcgdCka6hcN) | 3:45 | 2021-12-23 | 2022-02-26 |
 | [Kol Elly Fi Alby](https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kol Elly Fi Alby](https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0) | 3:13 | 2021-12-23 | 2022-04-08 |
 | [La Tlou' El Daw](https://open.spotify.com/track/0pHL3idFQ7AT944IFJQVH6) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [La Tlou' El Daw](https://open.spotify.com/album/3iyIcDBdCVnRHsN0zb6Q5h) | 3:50 | 2021-12-23 |  |
@@ -82,6 +85,7 @@
 | [Ya Msafer Wahdak](https://open.spotify.com/track/1zPfv9d1zoorqjH3rVQq04) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Ya Msafer Wahdak](https://open.spotify.com/album/6C9tz8uAtt3WVIIH4P3Gjo) | 2:26 | 2022-01-06 |  |
 | [Yay](https://open.spotify.com/track/5E7b7E6SQDuCHqs35YsZGi) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Yay](https://open.spotify.com/album/3L7dNXLdUIYLjpEKCsfDnj) | 2:51 | 2021-12-23 | 2022-02-18 |
 | [أغلاط](https://open.spotify.com/track/0nDgOVERfNUrwcLisM2S80) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [أغلاط](https://open.spotify.com/album/1FdXhZQfxKyqn1mldknNgT) | 3:02 | 2022-04-07 |  |
+| [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-23 |  |
 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 | 2021-12-23 | 2022-02-16 |
 | [زي زمان](https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [زي زمان](https://open.spotify.com/album/4VvlIUieIPAhvIO3tBRwMY) | 3:54 | 2022-02-17 |  |
 | [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 | 2022-01-01 |  |

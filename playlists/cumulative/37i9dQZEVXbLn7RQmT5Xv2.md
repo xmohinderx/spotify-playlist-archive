@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-452 songs - 1 day 1 hr 42 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+453 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-02-19 |  |
 | [Amaken El Sahar](https://open.spotify.com/track/7lYXrmbJhunVGUYDGvZcL5) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Amaken El Sahar](https://open.spotify.com/album/4O72F4w5CdsrzEIbvi9al7) | 4:11 | 2021-06-11 | 2022-01-26 |
 | [Amrikkka](https://open.spotify.com/track/55LLrj5aARUqCLoDEwAp7v) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [Amrikkka](https://open.spotify.com/album/6NE77IxMk4wzSQjFWlFAte) | 3:25 | 2021-03-27\* | 2021-05-28 |
-| [Ana Ghaltan](https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:27 | 2022-06-03 | 2022-07-22 |
+| [Ana Ghaltan](https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:27 | 2022-06-03 |  |
 | [Ana Mesh Naguib Sawiris](https://open.spotify.com/track/6x2NGy1xES5Ujzk2kNKIrd) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ana Mesh Naguib Sawiris](https://open.spotify.com/album/652mBvpZNQoZdP1UKg1HLs) | 2:55 | 2021-03-27\* | 2021-04-01 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-04-16 | 2022-04-23 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-27\* | 2021-06-11 |
@@ -149,6 +149,7 @@
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2021-08-21 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-21 | 2021-05-23 |
 | [Habibty](https://open.spotify.com/track/4gyUv9zQnSbqhA5uqqgZQz) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Yasmin Raeis](https://open.spotify.com/artist/3BHCg4qPGBjwAQ4RsyofzK) | [Habibty](https://open.spotify.com/album/327BgIzYKfPFrDCabCikQU) | 3:02 | 2021-05-30 | 2022-01-03 |
+| [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2022-07-23 |  |
 | [Hadal Ahbek](https://open.spotify.com/track/0UdZzUSOLhqIFCU7wHWkgp) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/4mpBiBTgBbGdgmw6nh22Tk) | 3:29 | 2021-03-27\* | 2021-04-17 |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2021-11-25 | 2021-12-18 |
 | [Hanfantazook](https://open.spotify.com/track/1BACFcabFp5jRKgXeBDqY3) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Hanfantazook](https://open.spotify.com/album/1v1IZilOvTvNVY78mYz0d4) | 3:13 | 2022-02-06 | 2022-02-14 |
@@ -311,7 +312,7 @@
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-09 | 2022-07-13 |
 | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/track/4iRzMFqyNbX0xAY9iAtTic) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/album/1WGEKcC8jwAFoXGANK9DQn) | 4:34 | 2021-07-09 | 2021-10-27 |
 | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/track/6ZfkjaM4KONGaRkCLpHKfD) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/album/3Ou7kxBQqBBdxQHMXLFGgL) | 4:34 | 2021-06-10 | 2021-07-09 |
-| [Samurai](https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Samurai](https://open.spotify.com/album/17r6jfsKAlkpqUPuMOHClZ) | 2:55 | 2021-03-27\* |  |
+| [Samurai](https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Samurai](https://open.spotify.com/album/17r6jfsKAlkpqUPuMOHClZ) | 2:55 | 2021-03-27\* | 2022-07-24 |
 | [SAN STEFANO](https://open.spotify.com/track/0B6AYBv6KlwUwHtAIj9lzF) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/6KKkeRpV3Nf7QVouHOyqNR) | 2:57 | 2022-06-13 | 2022-07-21 |
 | [SAN STEFANO](https://open.spotify.com/track/3uuBWISXaoIBP5qzBGRHkC) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 2:57 | 2022-07-20 |  |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2022-04-26 |
@@ -413,7 +414,7 @@
 | [دورك جاي](https://open.spotify.com/track/3T3N2D7c1zdbWvmJArlUfI) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [دورك جاي](https://open.spotify.com/album/4uooiC90Xdp8TExuw0XrdL) | 4:18 | 2021-09-12 | 2021-09-29 |
 | [دورك جي](https://open.spotify.com/track/09GZRZP0txDanDf3s1Ap7K) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [دورك جي](https://open.spotify.com/album/7xyObKDQplbCbfw0fN17e7) | 4:17 | 2022-04-05 | 2022-04-24 |
 | [دورك جي](https://open.spotify.com/track/56nsR8Td7CWVCQIGjznu4L) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [دورك جي](https://open.spotify.com/album/3CzE55devPfjvlHa5HjGaF) | 4:17 | 2021-03-27\* | 2022-04-06 |
-| [ديدي](https://open.spotify.com/track/5pr1lDwkRKvlUaqlLdA008) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [ديدي](https://open.spotify.com/album/2dsQxG9oNb139KGSePZ4Gv) | 3:25 | 2022-04-15 |  |
+| [ديدي](https://open.spotify.com/track/5pr1lDwkRKvlUaqlLdA008) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [ديدي](https://open.spotify.com/album/2dsQxG9oNb139KGSePZ4Gv) | 3:25 | 2022-04-15 | 2022-07-24 |
 | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/album/7g0oVx8s5TOZKU4hIwmpsG) | 2:04 | 2021-05-12 | 2021-09-09 |
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2022-05-13 |  |
 | [ستو انا](https://open.spotify.com/track/7fHN1jiFCjB18VXoU7PjzA) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb) | [ستو انا](https://open.spotify.com/album/19k0mVkRkPiLSbuJQ8M7tD) | 2:21 | 2022-05-02 | 2022-05-14 |

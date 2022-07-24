@@ -494,6 +494,28 @@
     },
     {
       "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/67bLwGrXGnZrC1YUdsLzle"
+      },
+      "artists": [
+        {
+          "name": "Dhurata Dora",
+          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177371,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/5dj7Il9BkdU1gMfIveNrVH"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
@@ -1100,6 +1122,28 @@
     },
     {
       "album": {
+        "name": "Are You Entertained (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156083,
+      "name": "Are You Entertained (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
+    },
+    {
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
@@ -1515,7 +1559,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 140624,
       "name": "Back 2 Front",
       "url": "https://open.spotify.com/track/3GSdYoWnrEFwWeiO8ediDe"
@@ -4222,6 +4266,24 @@
     },
     {
       "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "album": {
         "name": "SCORPION TO SOCIETY",
         "url": "https://open.spotify.com/album/3Q3PWpM63pNPJjhp2l4Crg"
       },
@@ -4743,7 +4805,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 172208,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0r1kH7SIkkPP9W7mUknObF"
@@ -4973,7 +5035,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 142462,
       "name": "Einmal um die Welt",
       "url": "https://open.spotify.com/track/2L6hCTpUlR2p7Su3hiSB0s"
@@ -5399,6 +5461,24 @@
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+    },
+    {
+      "album": {
+        "name": "FALLIN",
+        "url": "https://open.spotify.com/album/6DIHHKh7V9eJ2s4YJAifqU"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151133,
+      "name": "FALLIN",
+      "url": "https://open.spotify.com/track/6XuiITnbtOxMbvSc2NmUM8"
     },
     {
       "album": {
@@ -6569,7 +6649,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -7247,6 +7327,24 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/7ufW8uOPWZXscMnz3r0POl"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157615,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/3wOfTyr0VCDkWkTJlt8wPR"
     },
     {
       "album": {
@@ -8545,7 +8643,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -8811,7 +8909,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 155500,
       "name": "Karussell",
       "url": "https://open.spotify.com/track/1YcuhTZfBHeyo9wVdNRiRR"
@@ -9387,10 +9485,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 185437,
       "name": "Layla",
       "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
+    },
+    {
+      "album": {
+        "name": "Layla (Dutch Version)",
+        "url": "https://open.spotify.com/album/0FzJ3c7iD03TfPeRnsrgwu"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
     },
     {
       "album": {
@@ -12584,6 +12704,24 @@
     },
     {
       "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
+      },
+      "artists": [
+        {
+          "name": "Die Zipfelbuben",
+          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180157,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
+    },
+    {
+      "album": {
         "name": "ON FIRE (feat. Ricky Rich)",
         "url": "https://open.spotify.com/album/5ru2XlTYvPMrtxEq05KMGQ"
       },
@@ -15763,7 +15901,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 138533,
       "name": "Sommergewitter",
       "url": "https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ"
@@ -16165,7 +16303,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
@@ -16183,7 +16321,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
@@ -16814,6 +16952,28 @@
     },
     {
       "album": {
+        "name": "Ticket nach Ketama (feat. Liaze)",
+        "url": "https://open.spotify.com/album/1VzaGDvMcgi3PbBZhfrbLV"
+      },
+      "artists": [
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4"
+        },
+        {
+          "name": "Liaze",
+          "url": "https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Ticket nach Ketama (feat. Liaze)",
+      "url": "https://open.spotify.com/track/7KWwQ8SokgUDO7es6Q4ZGW"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -17031,7 +17191,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 195548,
       "name": "Traum",
       "url": "https://open.spotify.com/track/7s3VxmIizcDgDTRCA4kDzd"
@@ -17141,6 +17301,24 @@
       "duration_ms": 179346,
       "name": "Tut mir leid",
       "url": "https://open.spotify.com/track/46wfWiR8pRgKWcE8KOGbpp"
+    },
+    {
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "album": {

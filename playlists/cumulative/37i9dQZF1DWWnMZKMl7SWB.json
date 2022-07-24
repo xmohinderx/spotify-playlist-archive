@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Luca Ricci Presents: Aenaria Chill Wmc '09 @ Night",
+        "url": "https://open.spotify.com/album/6bzOtmrMzoXqkPa2WKj6yC"
+      },
+      "artists": [
+        {
+          "name": "Youandewan",
+          "url": "https://open.spotify.com/artist/4z6FshDl8yeHQSpFWdgN32"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632267,
+      "name": "1988 - Original Mix",
+      "url": "https://open.spotify.com/track/68YRdMv167zby0ceobW8em"
+    },
+    {
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/41untqRtFjqcOw1gEdMIop"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 180151,
       "name": "40 Love",
       "url": "https://open.spotify.com/track/3HCoyY47D7po1xC1y7HsBU"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 241880,
       "name": "Call",
       "url": "https://open.spotify.com/track/4AAmPp0LnAFPKJB1MtPOrd"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 224946,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/37OANHO1XQJe3wt04CAIco"
@@ -2205,7 +2223,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 138314,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bmCFy256PgDmS7feDNp69"
@@ -3275,7 +3293,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 213197,
       "name": "Take Over You - Perttu Remix",
       "url": "https://open.spotify.com/track/0AJweQJITpq4cOKap791fX"
@@ -3623,7 +3641,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 571000,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/7t85fcTuz1O9QDFLQ1qUGf"
@@ -3721,6 +3739,24 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/3JLO3GzdHqAr0KbQnT88oW"
+    },
+    {
+      "album": {
+        "name": "Utopia Defeated",
+        "url": "https://open.spotify.com/album/1SoZY1v2hKuk7eyC7G0u3J"
+      },
+      "artists": [
+        {
+          "name": "D.D Dumbo",
+          "url": "https://open.spotify.com/artist/29PVoYGQeFwXgX9vIlnHmR"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190986,
+      "name": "Walrus",
+      "url": "https://open.spotify.com/track/7kSssvbrl9eFDZTcGD1HBL"
     },
     {
       "album": {

@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 179106,
       "name": "Afuera Est\u00e1 Lloviendo",
       "url": "https://open.spotify.com/track/3z6s6qPDYCpW44Zfpy4HWS"
@@ -2105,7 +2105,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 219373,
       "name": "El Amor De Su Vida",
       "url": "https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD"
@@ -3865,7 +3865,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
@@ -4351,7 +4351,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 233519,
       "name": "Mayor Que Usted",
       "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
@@ -5096,6 +5096,24 @@
     },
     {
       "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+    },
+    {
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -5107,7 +5125,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
@@ -5671,7 +5689,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 161906,
       "name": "Pong\u00e1monos De Acuerdo",
       "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
@@ -5865,7 +5883,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 194840,
       "name": "QUEREME",
       "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 195043,
       "name": "360",
       "url": "https://open.spotify.com/track/5KGgrDNF3C5vXwgSPaYASE"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 207333,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
@@ -713,6 +713,24 @@
       "duration_ms": 213533,
       "name": "Hist\u00e9ricos",
       "url": "https://open.spotify.com/track/60hDNXs2CwQywAzy3LWami"
+    },
+    {
+      "album": {
+        "name": "Diversi\u00f3n",
+        "url": "https://open.spotify.com/album/0PDWvltz5GHh6f6owOtr0H"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186535,
+      "name": "Huesos",
+      "url": "https://open.spotify.com/track/2gMY3JeGmCD87dKT4TQ5uK"
     },
     {
       "album": {
@@ -849,6 +867,50 @@
       "duration_ms": 204414,
       "name": "La Ni\u00f1a de la Escuela",
       "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
+    },
+    {
+      "album": {
+        "name": "LAS 12",
+        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "LAS 12",
+      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/3TpEupd2alBt0zDzDTIln7"
+      },
+      "artists": [
+        {
+          "name": "Polo Nandez",
+          "url": "https://open.spotify.com/artist/57YqxYzBuraaQNq8POH0pM"
+        },
+        {
+          "name": "Zeper",
+          "url": "https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202762,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/0M1WVPWkzCXrC9oNc83dke"
     },
     {
       "album": {
@@ -1111,7 +1173,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 235996,
       "name": "M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/1lMuQJHBznRfq7GdQrIQN4"
@@ -1187,6 +1249,28 @@
       "duration_ms": 167280,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
+    },
+    {
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182187,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
     },
     {
       "album": {
@@ -1459,7 +1543,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 194323,
       "name": "TE PIENSO A CADA HORA",
       "url": "https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL"

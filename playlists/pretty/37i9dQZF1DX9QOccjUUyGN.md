@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Nanno, Budah, CALIFFA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,514 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,529 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

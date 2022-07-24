@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Chris Lorenzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,654 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,749 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 |
-| 2 | [Mami](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Mami](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
+| 2 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 | 3 | [Que Lo Que](https://open.spotify.com/track/3tsULujkCT6HRxLqyhv9Uz) | [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Que Lo Que](https://open.spotify.com/album/7LjzvsJT0ImNudTh8SDaQE) | 3:46 |
 | 4 | [Peso](https://open.spotify.com/track/4GjHscygv79lMygei7bg9t) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ) | [Peso](https://open.spotify.com/album/50puTpfal3067GRoR15H5H) | 3:34 |
 | 5 | [What You Waiting For?](https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [What You Waiting For?](https://open.spotify.com/album/122TcLx7ilK2T5Ri3mJ92C) | 3:51 |

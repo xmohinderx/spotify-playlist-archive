@@ -4,7 +4,7 @@
 
 > next gen pop featuring Benson Boone
 
-1,028 songs - 2 day 1 hr 56 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,029 songs - 2 day 2 hr 0 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Bad for Me](https://open.spotify.com/track/7GkbmZdVmebuoeMcGhCCAx) | [Meg DeAngelis](https://open.spotify.com/artist/1yolJlMzhzK1UWcHTC7Mw2) | [Bad for Me](https://open.spotify.com/album/2i9wHKU7Sl4sUpyQMZerzo) | 2:37 | 2021-09-22 | 2021-10-23 |
 | [Bad Girl](https://open.spotify.com/track/3n1HsYVwX6qMvihf5uZDKs) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bad Girl](https://open.spotify.com/album/5TIbUyoncSx0LKnnJXgfc5) | 3:06 | 2021-02-16\* | 2021-05-15 |
 | [Bad Habit](https://open.spotify.com/track/06wjqfv04KIujAShcz1L23) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Bad Habit](https://open.spotify.com/album/27UhoXNgvLzxESPMJp0ce8) | 3:04 | 2022-05-20 | 2022-06-04 |
+| [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-07-23 |  |
 | [BAD KIDS](https://open.spotify.com/track/3s4WVKaSU112SfRBjvyXKp) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [BAD KIDS](https://open.spotify.com/album/3EN3hLzUkJuBTbu14HvZIz) | 1:47 | 2022-02-18 | 2022-03-23 |
 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 | 2021-03-26 | 2021-07-13 |
 | [Balcony](https://open.spotify.com/track/0fm7wmprleTxxPcVwDWJT3) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Balcony](https://open.spotify.com/album/0max2kuWDAQd4Hcp1ncT5j) | 2:31 | 2021-05-08 | 2021-06-05 |

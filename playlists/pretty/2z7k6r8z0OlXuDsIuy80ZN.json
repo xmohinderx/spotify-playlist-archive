@@ -1,35 +1,15 @@
 {
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 \u00a1Busca m\u00e1s playlists en nuestro perfil y en la <a href=\"http://onelink.to/los40app\">app LOS40</a>!",
-  "num_followers": 88681,
+  "num_followers": 88861,
   "original_name": "Lista de LOS 40 (Oficial) | \ud83c\uddea\ud83c\uddf8",
   "owner": {
     "name": "LOS40",
     "url": "https://open.spotify.com/user/los40_spain"
   },
-  "snapshot_id": "NTQwNixmNzNiZWI4MWUyYjkwNThhZmNmYTVhNGVlYWZmZWQ5ZmNjMmY3YWFk",
+  "snapshot_id": "NTQ2NSwzYzcwZTM4NDE1NzEwYmI1OWM3ZTY1ZjljMGE0ZDI4NWM2NGRjMTdm",
   "tracks": [
     {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
@@ -45,7 +25,7 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
@@ -65,7 +45,27 @@
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
@@ -81,23 +81,7 @@
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "Color\u00edn Colorado",
         "url": "https://open.spotify.com/album/6BUZ3G4ECoOwOwn4w77LKA"
@@ -113,7 +97,23 @@
       "url": "https://open.spotify.com/track/2WSLiFW6zmSsPWWDmG8IOi"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
@@ -129,27 +129,7 @@
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "Levantaremos al sol",
         "url": "https://open.spotify.com/album/09Sj3aE5Ib0jNRYGUK3yEs"
@@ -165,7 +145,7 @@
       "url": "https://open.spotify.com/track/3QAzPYumpjW6pi9ah0056Y"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "Maybe You\u2019re The Problem",
         "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
@@ -181,107 +161,7 @@
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "SloMo",
-        "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "SloMo",
-      "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "Quiero Decirte",
-        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 222348,
-      "name": "Quiero Decirte",
-      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "Qui\u00e9n Dir\u00eda",
-        "url": "https://open.spotify.com/album/2zZljKaQGNaogYs8QN2wMM"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 183898,
-      "name": "Qui\u00e9n Dir\u00eda",
-      "url": "https://open.spotify.com/track/0Fd3900xH77g0ARXQjtYvV"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 156116,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "DON'T YOU WORRY",
         "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
@@ -305,39 +185,111 @@
       "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
-        "name": "Amapolas",
-        "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 205716,
-      "name": "Amapolas",
-      "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+      "duration_ms": 222348,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Qui\u00e9n Dir\u00eda",
+        "url": "https://open.spotify.com/album/2zZljKaQGNaogYs8QN2wMM"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 183898,
+      "name": "Qui\u00e9n Dir\u00eda",
+      "url": "https://open.spotify.com/track/0Fd3900xH77g0ARXQjtYvV"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 156116,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "Dile a los dem\u00e1s",
         "url": "https://open.spotify.com/album/2aUw6q2WS0r9QeOGdfOOCP"
@@ -353,7 +305,39 @@
       "url": "https://open.spotify.com/track/4iK6NFBfZ94xd6UJ0dHVoh"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "No, No Vuelve",
         "url": "https://open.spotify.com/album/5Kcur0mxf34Q4BKTdeBBQj"
@@ -369,23 +353,39 @@
       "url": "https://open.spotify.com/track/1t0iDaXutz0LrGzSBbWGu5"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
-        "name": "Toy Story",
-        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+        "name": "SloMo",
+        "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
         }
       ],
-      "duration_ms": 179912,
-      "name": "Toy Story",
-      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+      "duration_ms": 176285,
+      "name": "SloMo",
+      "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Amapolas",
+        "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 205716,
+      "name": "Amapolas",
+      "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "El d\u00eda menos pensado",
         "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
@@ -401,7 +401,75 @@
       "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "LAS 12",
+        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "LAS 12",
+      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "In the Dark",
         "url": "https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x"
@@ -421,107 +489,27 @@
       "url": "https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         },
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+      "duration_ms": 182187,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "Los Ni\u00f1os del Parque",
-        "url": "https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 197217,
-      "name": "Los ni\u00f1os del parque",
-      "url": "https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/617BsKSHXqU6p32f7uKNTM"
@@ -541,43 +529,23 @@
       "url": "https://open.spotify.com/track/5o9g4FTaeI26uwyvJuoBzY"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
-        "name": "Me Quedo (feat. Ana Mena)",
-        "url": "https://open.spotify.com/album/2vVt1IgIral9JtNxlVRW3i"
+        "name": "Los Ni\u00f1os del Parque",
+        "url": "https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         }
       ],
-      "duration_ms": 163353,
-      "name": "Me Quedo (feat. Ana Mena)",
-      "url": "https://open.spotify.com/track/1MdsletWuIR9ItEnitWRwp"
+      "duration_ms": 197217,
+      "name": "Los ni\u00f1os del parque",
+      "url": "https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "El bueno acaba mal",
         "url": "https://open.spotify.com/album/7eDey8fhEV7HD0o3P7Or3y"
@@ -593,23 +561,7 @@
       "url": "https://open.spotify.com/track/3LavHlfBvpNMUiIAFhrT8G"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
-      "album": {
-        "name": "M\u00fasica Ligera",
-        "url": "https://open.spotify.com/album/77APd2Q91Ju6844akH2Xbj"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 235996,
-      "name": "M\u00fasica Ligera",
-      "url": "https://open.spotify.com/track/1lMuQJHBznRfq7GdQrIQN4"
-    },
-    {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -637,39 +589,83 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
-        "name": "360",
-        "url": "https://open.spotify.com/album/15V2zidbxeAZaYxodPkE3T"
+        "name": "Me Quedo (feat. Ana Mena)",
+        "url": "https://open.spotify.com/album/2vVt1IgIral9JtNxlVRW3i"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 195043,
-      "name": "360",
-      "url": "https://open.spotify.com/track/5KGgrDNF3C5vXwgSPaYASE"
+      "duration_ms": 163353,
+      "name": "Me Quedo (feat. Ana Mena)",
+      "url": "https://open.spotify.com/track/1MdsletWuIR9ItEnitWRwp"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
-        "name": "TE PIENSO A CADA HORA",
-        "url": "https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4"
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
       "artists": [
         {
-          "name": "Dvicio",
-          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 194323,
-      "name": "TE PIENSO A CADA HORA",
-      "url": "https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL"
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/3TpEupd2alBt0zDzDTIln7"
+      },
+      "artists": [
+        {
+          "name": "Polo Nandez",
+          "url": "https://open.spotify.com/artist/57YqxYzBuraaQNq8POH0pM"
+        },
+        {
+          "name": "Zeper",
+          "url": "https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL"
+        }
+      ],
+      "duration_ms": 202762,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/0M1WVPWkzCXrC9oNc83dke"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
       "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
@@ -689,24 +685,36 @@
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
-      "added_at": "2022-07-17 06:33:52",
+      "added_at": "2022-07-23 14:32:12",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Formentera",
-      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2022-07-23 14:32:12",
+      "album": {
+        "name": "Diversi\u00f3n",
+        "url": "https://open.spotify.com/album/0PDWvltz5GHh6f6owOtr0H"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        }
+      ],
+      "duration_ms": 186535,
+      "name": "Huesos",
+      "url": "https://open.spotify.com/track/2gMY3JeGmCD87dKT4TQ5uK"
     }
   ],
   "unique_name": "Lista de LOS 40 (Oficial) | \ud83c\uddea\ud83c\uddf8",

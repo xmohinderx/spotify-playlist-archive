@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-269 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+270 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/53HvRc4rqJa8YmssjH5GKp) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/album/1AW5jWwgZpzSyl8gELf5Iu) | 3:00 | 2022-02-15 | 2022-03-10 |
 | [Visions \- SUN/MGNETK Remix](https://open.spotify.com/track/1a40njhjzTInmBNuctG47K) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [SUN/MGNETK](https://open.spotify.com/artist/5uQ7vzfqVBvCALRIWehL1Y) | [Visions \(SUN/MGNETK Remix\)](https://open.spotify.com/album/5eHvlXvZBrxxU66x8TyKdx) | 2:35 | 2022-03-10 | 2022-03-31 |
 | [WAV3S](https://open.spotify.com/track/3WHg0730YWLaPSEnUaZ0E0) | [33col3](https://open.spotify.com/artist/3X6o8V3Hm7FIcPBfVMoNPt) | [WAV3S](https://open.spotify.com/album/1X3uxRaDKh4AChDmlpQqBF) | 3:08 | 2022-02-28 | 2022-03-31 |
+| [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 | 2022-07-23 |  |
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-24 |  |
 | [Whatever You Want](https://open.spotify.com/track/7hlml5x7bmGCjNz408WIrh) | [Zuli Jr.](https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW) | [Whatever You Want](https://open.spotify.com/album/40gxf5OtiUy2XMOUPUiG0m) | 2:38 | 2022-03-17 | 2022-04-19 |
 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-15 | 2022-03-10 |

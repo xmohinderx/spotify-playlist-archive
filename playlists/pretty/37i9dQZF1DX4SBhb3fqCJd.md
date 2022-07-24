@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > The pulse of R&B music today\.  Cover: DVSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,944,357 likes - 56 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,944,725 likes - 56 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

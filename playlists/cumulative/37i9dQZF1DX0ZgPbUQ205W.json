@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 227066,
       "name": ".oOo.",
       "url": "https://open.spotify.com/track/7vrUHvt40IKya566MZIQol"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 298293,
       "name": "22",
       "url": "https://open.spotify.com/track/14WHFYmB7bieMaJCQEQ8jE"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 183426,
       "name": "Amarinthine",
       "url": "https://open.spotify.com/track/31c6uaIRRejku8CXA4ms92"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 138466,
       "name": "Cross The Creek",
       "url": "https://open.spotify.com/track/63llMqyPCx0hz3HLFCZXE7"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 275066,
       "name": "Dans mon pays",
       "url": "https://open.spotify.com/track/5ej5LGbMYLgfpNYY85bYv9"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 315800,
       "name": "I Want To Vanish",
       "url": "https://open.spotify.com/track/4CU0tITDu4anNumT9VGYvD"
@@ -1211,6 +1211,10 @@
         {
           "name": "S\u00f8ren Dahl Jeppesen",
           "url": "https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX"
+        },
+        {
+          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
+          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
         }
       ],
       "date_added": "2021-12-17",
@@ -1769,7 +1773,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 242986,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/5N6tm37Qh5mO78e86ZWRHH"
@@ -2483,7 +2487,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 355906,
       "name": "Sound Flower",
       "url": "https://open.spotify.com/track/6ihL2LDx69EHKQQgtWRvLd"

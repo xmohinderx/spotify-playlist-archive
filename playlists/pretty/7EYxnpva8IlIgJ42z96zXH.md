@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,290 likes - 50 songs - 2 hr 45 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,303 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 20 | [By Law \(feat\. Loud Tiger\)](https://open.spotify.com/track/0Y067MfwJgUQEGXs289QUs) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Loud Tiger](https://open.spotify.com/artist/2J74jx8m4zVdsMYXdrwV7Y) | [By Law \(feat\. Loud Tiger\)](https://open.spotify.com/album/7Cy8eXNq5ZEU74KYZttmTD) | 2:31 |
 | 21 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 |
 | 22 | [Birds \(feat\. Emmanuel Jal\)](https://open.spotify.com/track/1zCJFNkdm3AzIK1Cxp0rQc) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Birds \(feat\. Emmanuel Jal\)](https://open.spotify.com/album/6yYFiDyjQeQbAf52eArJh8) | 4:02 |
-| 23 | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 |
+| 23 | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 |
 | 24 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 |
 | 25 | [Eleanor \- Edit](https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Eleanor](https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx) | 3:53 |
 | 26 | [Running Up That Hill](https://open.spotify.com/track/4dM5RiuTAMqpxMXUymNvom) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Running Up That Hill](https://open.spotify.com/album/4GZnxEVMdliCIS4fKUcYWa) | 2:38 |

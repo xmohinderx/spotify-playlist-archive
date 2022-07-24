@@ -3596,7 +3596,7 @@
     },
     {
       "album": {
-        "name": "Trap Kitty",
+        "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
       },
       "artists": [
@@ -10643,6 +10643,10 @@
         {
           "name": "Dalex",
           "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
         }
       ],
       "date_added": "2022-07-22",
@@ -20008,13 +20012,17 @@
     },
     {
       "album": {
-        "name": "METALES (feat. SASHA & Zion & Lennox)",
+        "name": "METALES (feat. Baby Records & Zion & Lennox)",
         "url": "https://open.spotify.com/album/4UvHqHVwAfyhhtj2Wno5k0"
       },
       "artists": [
         {
           "name": "Nakary",
           "url": "https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG"
         },
         {
           "name": "Yevian",
@@ -20025,10 +20033,6 @@
           "url": "https://open.spotify.com/artist/18pDTZ0BHCU0kWUdbyyUvq"
         },
         {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG"
-        },
-        {
           "name": "Zion & Lennox",
           "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
@@ -20036,8 +20040,8 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 329670,
-      "name": "METALES (feat. SASHA & Zion & Lennox)",
+      "duration_ms": 330329,
+      "name": "METALES (feat. Baby Records & Zion & Lennox)",
       "url": "https://open.spotify.com/track/048xaRPO2C3O9al7cgpXfb"
     },
     {
@@ -22547,6 +22551,28 @@
       "duration_ms": 250841,
       "name": "NO SE OLVIDA",
       "url": "https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv"
+    },
+    {
+      "album": {
+        "name": "No Soy",
+        "url": "https://open.spotify.com/album/40CelDNeqOyofJxzVsJAFD"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Norbert",
+          "url": "https://open.spotify.com/artist/04TVXKQbM8xY3Dv16vtzVK"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234594,
+      "name": "No Soy",
+      "url": "https://open.spotify.com/track/1KzdBFd8DkUz7pjG40fdxs"
     },
     {
       "album": {

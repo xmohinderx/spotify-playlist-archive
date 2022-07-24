@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Victory Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,293 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,353 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 17 | [Now Here \- In Studio](https://open.spotify.com/track/4hgrcAj2dsBf9Nen7IV3kg) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Now Here \(The Collection\)](https://open.spotify.com/album/6O3TlNhKm1rXwGGClEDMOc) | 3:42 |
 | 18 | [Hosanna! \(Will You Rise?\)](https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Climate Vigil Songs](https://open.spotify.com/album/2WHh6TmX4BFuPLBsPwaWff) | 4:51 |
 | 19 | [Rest On Us \- Single Version](https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Rest On Us](https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX) | 3:44 |
-| 20 | [Jesus The Beloved \- Live](https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 9:49 |
+| 20 | [Jesus The Beloved \- Live](https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 9:49 |
 | 21 | [Lighthouse \- Live](https://open.spotify.com/track/14e6kysjljUfMXQtWZSxzO) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R) | [Lighthouse \(Live\)](https://open.spotify.com/album/75ovaEavOTAYPe5Je4fNyx) | 4:44 |
 | 22 | [Alpha Omega \- Live](https://open.spotify.com/track/0f8tSFxXxTtDead0x8Lhhr) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [I've Got Good News \(Live\)](https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd) | 5:54 |
 | 23 | [Where the War Ends](https://open.spotify.com/track/7eSGiA4F2UYPNOqUmkT6xr) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Where the War Ends](https://open.spotify.com/album/5GRCn56qnPjg1nKfhHKg1t) | 3:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Cover: Jon Pardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,984 likes - 41 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,245 likes - 41 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

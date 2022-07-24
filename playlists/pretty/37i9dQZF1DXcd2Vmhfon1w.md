@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,995 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,148 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [Vivimos Deprisa](https://open.spotify.com/track/2B4zfsOe4F1FhQRNx7dBzJ) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Vivimos Deprisa](https://open.spotify.com/album/5HmnOKunM6YO6GFtNUAh9e) | 3:27 |
 | 50 | [Kazike](https://open.spotify.com/track/7w91FpEfNhusidwN3Xz7hK) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6), [Nadal015](https://open.spotify.com/artist/4XV4e5IqR6DKCJMJWuG7Vi) | [Kazike](https://open.spotify.com/album/1kfkqYuwTD8S0PJxNngGdG) | 3:54 |
 | 51 | [Zenit](https://open.spotify.com/track/01T6sBu7sH9ptbJcDw43Go) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Zenit](https://open.spotify.com/album/66MM8SlomcjeC7UqlTGtvI) | 2:26 |
-| 52 | [Ciego](https://open.spotify.com/track/15Yi56IMHQviMpTmHYj40N) | [Matasvandals](https://open.spotify.com/artist/77WwIwmDkRo6Frks1A89KM), [Mauri](https://open.spotify.com/artist/1HUtmqHzIj9AbYo1lVqk47) | [Ciego](https://open.spotify.com/album/1CQm79hlLFlhbv7VO4oHq4) | 1:58 |
+| 52 | [Ciego](https://open.spotify.com/track/15Yi56IMHQviMpTmHYj40N) | [Matasvandals](https://open.spotify.com/artist/77WwIwmDkRo6Frks1A89KM), [Mauri](https://open.spotify.com/artist/1HUtmqHzIj9AbYo1lVqk47), [MOFLAS](https://open.spotify.com/artist/2yxGJ8KTDafjtX1P9e3oQA) | [Ciego](https://open.spotify.com/album/1CQm79hlLFlhbv7VO4oHq4) | 1:58 |
 | 53 | [Hasta el amanecer](https://open.spotify.com/track/05WcYNSHMxuM7ryv5sKIjX) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Hasta el amanecer](https://open.spotify.com/album/3Qqrz8rw1u72reNglIxn2z) | 3:40 |
 | 54 | [Ante Todo](https://open.spotify.com/track/1rYeq652rsRn0K289Hhc6Y) | [SWIT EME](https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz) | [Ante Todo](https://open.spotify.com/album/1QaaCDAGbyYJV0Fy2sBBwQ) | 2:58 |
 | 55 | [Bengala](https://open.spotify.com/track/49FHrJRo7LTlNI2KPwpMVd) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6), [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y) | [Bengala](https://open.spotify.com/album/6nLTPZ7E0eZtUW472gZP4P) | 4:12 |

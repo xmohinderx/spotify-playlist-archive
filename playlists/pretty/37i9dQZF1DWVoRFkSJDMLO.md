@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: BNXN fka Buju 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,490 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,596 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 27 | [Slow Motion](https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Slow Motion](https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g) | 2:46 |
 | 28 | [Ride](https://open.spotify.com/track/4oJaUMuHz0X6b8mO19Eloe) | [Shiiloh](https://open.spotify.com/artist/6eSZchhWk6vMad9q0zQZGC), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0) | [Ride](https://open.spotify.com/album/2E55XAXxNxdTDjVK1j0SM2) | 2:56 |
 | 29 | [Likkle Bit So](https://open.spotify.com/track/6P9mPNXti8Vg8RCqZZ7tT4) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Likkle Bit So](https://open.spotify.com/album/42b1BmN3oRQtNrmG7VEUYH) | 2:41 |
-| 30 | [Wickedest](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
+| 30 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
 | 31 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
 | 32 | [Woman](https://open.spotify.com/track/5PjVhymNaWsU57S7zhOjgo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Woman](https://open.spotify.com/album/0ZpRrn5pcVaxmmlPnC8X5J) | 2:48 |
 | 33 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |

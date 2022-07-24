@@ -4,7 +4,7 @@
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-55 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/2A2W6E9IWWEYyaOGZZsUVO)
+56 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/2A2W6E9IWWEYyaOGZZsUVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,10 @@
 | [Feeling Good](https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:18 | 2022-01-11 |  |
 | [Follow Me](https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:50 | 2022-01-25 | 2022-04-23 |
 | [Glorious](https://open.spotify.com/track/6IfitwQQ1Gu9g9QnLWDHRY) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:41 | 2022-01-11 |  |
-| [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 | 2022-01-11 |  |
+| [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 | 2022-01-11 | 2022-07-24 |
 | [Hysteria](https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:47 | 2022-01-11 |  |
 | [I Belong to You \(+Mon Coeur S'Ouvre a Ta Voix\)](https://open.spotify.com/track/114rzL6VEy9bb3amPcY3tw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:38 | 2022-01-11 | 2022-01-17 |
+| [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 | 2022-07-23 |  |
 | [Knights of Cydonia](https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 6:06 | 2022-01-11 |  |
 | [Madness](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:41 | 2022-01-11 |  |
 | [Map of the Problematique](https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:18 | 2022-01-11 |  |

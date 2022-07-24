@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Mira Paula
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,011 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,040 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 25 | [Nada](https://open.spotify.com/track/17nqHpAG9jiJvwosUUqQ4F) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Nada](https://open.spotify.com/album/6H90daaYulhQchk0KB0uhR) | 3:59 |
 | 26 | [Perfume](https://open.spotify.com/track/3h402jVwaLyiD54T0ayC0q) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Perfume](https://open.spotify.com/album/2M5pHukoqhcqCDLJ0TH4Dp) | 3:27 |
 | 27 | [Screenshot](https://open.spotify.com/track/1B4dBOprkK0EDe8B5feWk3) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA), [Jaxx Landry](https://open.spotify.com/artist/30br5wd1HMmDYlPG4BTeV4) | [Screenshot](https://open.spotify.com/album/57rkb9AmpowUvmZdwlBfDi) | 3:26 |
-| 28 | [Contenta](https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl), [Victor Rivas](https://open.spotify.com/artist/6TrKb0KnHM36Gu1U5oMBky) | [Contenta](https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ) | 3:35 |
+| 28 | [Contenta](https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Contenta](https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ) | 3:35 |
 | 29 | [TODOS LOS DÍAS SON MÍOS](https://open.spotify.com/track/2eGnUbUR0aCHLhKzdiIf0W) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [TODOS LOS DÍAS SON MÍOS](https://open.spotify.com/album/6ywfmfHyVqxK5souhcQWBq) | 4:52 |
 | 30 | [ipanema](https://open.spotify.com/track/1YvcKJxETEMFUEGY65NmdS) | [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G), [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [ipanema](https://open.spotify.com/album/7E6zdvwanjHQ4GNVSS6Waq) | 3:09 |
 | 31 | [Piedra Azul](https://open.spotify.com/track/629o04HmSqoVW9hpEIRmsq) | [Kalfu](https://open.spotify.com/artist/1WpF9eHbFZ1v8e5BwFHFun), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Piedra Azul](https://open.spotify.com/album/0nQbrC4PIYecGn5hPHX9H7) | 3:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Esto es un perreo a lo Trueno & J Balvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,395 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,723 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 | 10 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 |
 | 11 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 |
 | 12 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
-| 13 | [En La Disco Revela](https://open.spotify.com/track/5GWYepVwLflE0z5Yy8cEhk) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [De Camino A Palomino, Vol\. 1](https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M) | 3:03 |
+| 13 | [En La Disco Revela](https://open.spotify.com/track/5GWYepVwLflE0z5Yy8cEhk) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [De Camino A Palomino, Vol\. 1](https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M) | 3:03 |
 | 14 | [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 |
 | 15 | [Adicta](https://open.spotify.com/track/6vPdyYiVrpA0uDV9xT6t0G) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Multimillo, Vol\. 1](https://open.spotify.com/album/2pfBdekMfDRVf1MfDnwTSv) | 3:42 |
 | 16 | [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 |

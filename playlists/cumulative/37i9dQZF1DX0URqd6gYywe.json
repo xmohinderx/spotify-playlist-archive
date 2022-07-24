@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 181159,
       "name": "Ahora 2",
       "url": "https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 204466,
       "name": "Bajan",
       "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 336360,
       "name": "Balada Del Diablo y La Muerte",
       "url": "https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 212386,
       "name": "Bombachitas Rosas - En Casa",
       "url": "https://open.spotify.com/track/4TQE8V6aUqjtxfN7FQhrp3"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 219773,
       "name": "Cielo Todo Gris",
       "url": "https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 286240,
       "name": "Como un Cuento",
       "url": "https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1"
@@ -610,6 +610,24 @@
     },
     {
       "album": {
+        "name": "El Tren",
+        "url": "https://open.spotify.com/album/7sFIIffw4qqW42XrGVARHO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282282,
+      "name": "El Tren",
+      "url": "https://open.spotify.com/track/0vODZMS37nXEgtS3YKhYze"
+    },
+    {
+      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 269011,
       "name": "Fuiste lo mejor",
       "url": "https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 173746,
       "name": "Inconsciente Colectivo",
       "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 284451,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 296133,
       "name": "Motor Psico",
       "url": "https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 136512,
       "name": "Ojos de R\u00edo",
       "url": "https://open.spotify.com/track/34CitYnMwJBLJ7QA8KvEmu"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 163280,
       "name": "P\u00e9talo de sal",
       "url": "https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 201402,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/0f4jyqQuSusaTYaXrWnXzS"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 127357,
       "name": "Valle de Valium",
       "url": "https://open.spotify.com/track/639KxyOYhHgaovDipRf4RY"

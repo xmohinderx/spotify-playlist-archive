@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 112660,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 109440,
       "name": "Amorous Rebound",
       "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 146499,
       "name": "Hibernia Sleep",
       "url": "https://open.spotify.com/track/35dy7TPuGURTSYJcTZIa1u"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 225110,
       "name": "Notes On Leave Taking",
       "url": "https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i"
@@ -1421,6 +1421,24 @@
       "duration_ms": 205505,
       "name": "Oriental Journey",
       "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
+    },
+    {
+      "album": {
+        "name": "Our Powers",
+        "url": "https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6"
+      },
+      "artists": [
+        {
+          "name": "Ramel Alloy",
+          "url": "https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156795,
+      "name": "Our Powers",
+      "url": "https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD"
     },
     {
       "album": {
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 145768,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"

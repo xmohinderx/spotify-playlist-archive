@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Tainy y Rauw Alejandro; Camilo y Nicki Nicole; Billie Eilish; CNCO y Kenia OS, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,321 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,436 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 13 | [Serotonina](https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Neneto](https://open.spotify.com/artist/4SRF0I10ZzUX6hFmV1RCXR) | [Serotonina](https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs) | 3:54 |
 | 14 | [Quieres](https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Quieres](https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc) | 3:33 |
 | 15 | [Marisola](https://open.spotify.com/track/2pR6bipXfJySBhje19SW02) | [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Marisola](https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp) | 3:04 |
-| 16 | [METALES \(feat\. SASHA & Zion & Lennox\)](https://open.spotify.com/track/048xaRPO2C3O9al7cgpXfb) | [Nakary](https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW), [Yevian](https://open.spotify.com/artist/1JNAWbYMAxgF4Kv0vqfNie), [Baby Records](https://open.spotify.com/artist/18pDTZ0BHCU0kWUdbyyUvq), [Sasha](https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [METALES \(feat\. SASHA & Zion & Lennox\)](https://open.spotify.com/album/4UvHqHVwAfyhhtj2Wno5k0) | 5:29 |
+| 16 | [METALES \(feat\. Baby Records & Zion & Lennox\)](https://open.spotify.com/track/048xaRPO2C3O9al7cgpXfb) | [Nakary](https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW), [Sasha](https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG), [Yevian](https://open.spotify.com/artist/1JNAWbYMAxgF4Kv0vqfNie), [Baby Records](https://open.spotify.com/artist/18pDTZ0BHCU0kWUdbyyUvq), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [METALES \(feat\. Baby Records & Zion & Lennox\)](https://open.spotify.com/album/4UvHqHVwAfyhhtj2Wno5k0) | 5:30 |
 | 17 | [Te Hice Llorar](https://open.spotify.com/track/1LUT39TVX4LAIHZLbxAVDt) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Te Hice Llorar](https://open.spotify.com/album/7H2htZEeJCoOPc3LjQK55o) | 3:34 |
 | 18 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 |
 | 19 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 |

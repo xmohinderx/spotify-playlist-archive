@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-396 songs - 22 hr 59 min - [published](https://open.spotify.com/playlist/0ZrUZpXe2rRTxSTwZ2QYuw)
+397 songs - 23 hr 2 min - [published](https://open.spotify.com/playlist/0ZrUZpXe2rRTxSTwZ2QYuw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,10 +218,11 @@
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-12 | 2022-05-15 |
 | [MAMIII](https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:46 | 2022-05-14 |  |
 | [MARIMBA GRINGA](https://open.spotify.com/track/7KI6CvvTqXCuENTM6xJ3dX) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [MARIMBA GRINGA](https://open.spotify.com/album/3nF9LhqFqL6EL1HnwTxWlS) | 3:05 | 2022-04-22 | 2022-05-08 |
+| [Marisola](https://open.spotify.com/track/2pR6bipXfJySBhje19SW02) | [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Marisola](https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp) | 3:04 | 2022-07-23 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2022-05-23 |
 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 | 2022-03-31 |  |
 | [Me Fije](https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Me Fije](https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC) | 3:22 | 2021-04-01 | 2021-08-11 |
-| [Me Fui de Vacaciones](https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:00 | 2022-05-07 |  |
+| [Me Fui de Vacaciones](https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:00 | 2022-05-07 | 2022-07-24 |
 | [Me Gusta el Vino](https://open.spotify.com/track/4phiyACOmjHDWImFfi99Fi) | [Tito Fernández](https://open.spotify.com/artist/6Km7WV9r7ozleZwjX1armg) | [Me Gusta el Vino](https://open.spotify.com/album/700KGlUtUOTmecSTZmQNFc) | 3:56 | 2021-09-20 | 2021-09-21 |
 | [Me Gusta Todo De Ti](https://open.spotify.com/track/2SEYkDv8jqEVMpppKoG3mY) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Me Gusta Todo De Ti](https://open.spotify.com/album/3kvLgFBMMD55vLEuBjJUpU) | 4:08 | 2021-09-20 | 2022-01-04 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-07 |  |

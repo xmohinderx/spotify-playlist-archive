@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: love\-sadKID
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,798 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,883 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 5 | [Tall Tales](https://open.spotify.com/track/144pmLno2ywO6gBAkMjBf7) | [Kennebec](https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc), [Hemlock Ernst](https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa), [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Tall Tales](https://open.spotify.com/album/0bPflIDZ3RpZ23QsQKBfTE) | 3:13 |
 | 6 | [Superman](https://open.spotify.com/track/4c7v2ZwjrBa2AFFbHEmywA) | [BradBrooks](https://open.spotify.com/artist/6M6rZlL20NFRT9T1kapWX4), [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s) | [Superman](https://open.spotify.com/album/6s52jTyzBsamudBcHvEHSM) | 3:16 |
 | 7 | [Camden Free Public Library](https://open.spotify.com/track/6Oxc4nkfR3SPJjBUNtf87r) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Camden Free Public Library](https://open.spotify.com/album/3WzSD6AH1XQW6DYcNcXfki) | 5:04 |
-| 8 | [ROLEPLAYER](https://open.spotify.com/track/4HXBbooAJBt5tJypc5aF2Z) | [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R), [Tyler Lauren](https://open.spotify.com/artist/2cwwAlJCFUTSnh2R9P82ep) | [ROLEPLAYER](https://open.spotify.com/album/34wggQxKdsMy7UKJuJ2wZ4) | 3:41 |
+| 8 | [ROLEPLAYER](https://open.spotify.com/track/4HXBbooAJBt5tJypc5aF2Z) | [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R), [Tyler Lauren](https://open.spotify.com/artist/6SsJjCvJ9juy5EpW8NH4VZ) | [ROLEPLAYER](https://open.spotify.com/album/34wggQxKdsMy7UKJuJ2wZ4) | 3:41 |
 | 9 | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm) | 4:24 |
 | 10 | [right these wrongs](https://open.spotify.com/track/6ZH0xwY7SoPFVmvambLgoA) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [right these wrongs](https://open.spotify.com/album/3DT7eUlQhczZZRTHJxPEyF) | 3:18 |
 | 11 | [It's Like \- 1000 Beasts Remix](https://open.spotify.com/track/20cWQNvXej3S0bx5qDWsyL) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9) | [It's Like \(1000 Beasts Remix\)](https://open.spotify.com/album/2nMqC4kfZlNoLxF3azJY1W) | 2:58 |

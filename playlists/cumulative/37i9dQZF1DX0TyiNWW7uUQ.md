@@ -4,7 +4,7 @@
 
 > Finest collection of Tamil Music from the past 5 years<br/>Cover : Vikram
 
-94 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/69GF5UsinX4QRifDXRVvJk)
+95 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/69GF5UsinX4QRifDXRVvJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Idhazhin Oram \- The Innocence of Love](https://open.spotify.com/track/6NwEpX2JUWHVKWfDDfcqC4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ajesh](https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 3:24 | 2022-01-04 | 2022-06-29 |
 | [Ilamai Thirumbudhe \- From "Petta"](https://open.spotify.com/track/4IUGuoJ41g5fLIqsO1MJoU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 3:37 | 2022-01-04 | 2022-06-15 |
 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 | 2022-01-04 |  |
-| [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 | 2022-01-04 |  |
+| [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 | 2022-01-04 | 2022-07-24 |
 | [Jolly O Gymkhana \(From "Beast"\)](https://open.spotify.com/track/6lpbzOMBOYHRsp6WEMvRvn) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jolly O Gymkhana \(From "Beast"\)](https://open.spotify.com/album/2mtWpU8LaaIDWGA3dtGEUC) | 3:28 | 2022-03-19 |  |
+| [Kaadhal En Kaviye \- From "Salmon 3D"](https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Kaadhal En Kaviye \(From "Salmon 3D"\)](https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK) | 5:11 | 2022-07-23 |  |
 | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2b4nWymybHj38A6XtQijiA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/album/2tWMHOkDRvyWN6yY57limX) | 4:06 | 2022-01-04 |  |
 | [Kadhaippoma](https://open.spotify.com/track/2CZGdpVV9OU1TslQMvovj5) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Oh My Kadavule \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Rz5sEK5x1qzlKsGxwlxGK) | 4:42 | 2022-01-04 |  |
 | [Kanave Kanave](https://open.spotify.com/track/6sPW145Y3LSXd4p1LjBOcS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [David](https://open.spotify.com/album/3Gef2xMe3ihEF1UILkiriu) | 4:44 | 2022-01-04 | 2022-06-29 |

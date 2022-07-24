@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
 
-71 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+72 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Adhirudha \- From "Navarasa"](https://open.spotify.com/track/1f8ogmapCUpWELZYbCKJmp) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Adhirudha \(From "Navarasa"\)](https://open.spotify.com/album/4WFgbYD0mb8c6O88sNznVv) | 2:03 | 2021-11-29 |  |
 | [Adiye \- From "Bachelor"](https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Adiye \(From "Bachelor"\)](https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8) | 4:32 | 2021-11-29 |  |
 | [Alai Alaiyaaga \- From "Navarasa"](https://open.spotify.com/track/3BA7DwnFY3wo2P6vtTpcvm) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Alai Alaiyaaga \(From "Navarasa"\)](https://open.spotify.com/album/1JSsWtXQT3mVFtefwk3D5F) | 1:36 | 2021-11-29 |  |
+| [Anbarey \(From "Gulu Gulu"\)](https://open.spotify.com/track/78xl1agm6jjt1u7YvgWtLo) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Anbarey \(From "Gulu Gulu"\)](https://open.spotify.com/album/4VRLCbpd2pX3zB9R47OrwH) | 3:44 | 2022-07-23 |  |
 | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/track/5TCmpwdXWcTvUvX52tHuOa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/album/5wGTuwwxCEhotwZpDTs6nL) | 3:01 | 2021-12-22 |  |
 | [Azhaikiradhae](https://open.spotify.com/track/1hsGje3u3fxklQlKXF39xY) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Samrat Prithviraj \- Tamil](https://open.spotify.com/album/7rFNqCSbDKvket5UXHyNw4) | 4:02 | 2022-05-19 | 2022-06-29 |
 | [Baby](https://open.spotify.com/track/4t14FoGOyLUyadT7RkzZNO) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Baby \(From "Madhil Mel Kaadhal"\)](https://open.spotify.com/album/1lbLfuJjIfjOMA21icZGzw) | 4:27 | 2022-06-20 |  |

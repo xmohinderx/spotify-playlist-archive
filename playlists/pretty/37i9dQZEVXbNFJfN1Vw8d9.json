@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Spain.",
-  "num_followers": 1465924,
+  "num_followers": 1466487,
   "original_name": "Top 50 - Spain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzExODA3MDg3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzExODkyOTQ4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -45,23 +45,7 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n 2",
-        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -81,7 +65,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -97,7 +81,23 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n 2",
+        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -117,47 +117,7 @@
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
-        "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
-      "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Tigini (Remix)",
-        "url": "https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Kikimoteleba",
-          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "Tigini (Remix)",
-      "url": "https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "La Llama del Amor",
         "url": "https://open.spotify.com/album/74Q0veNkYjGu2olhqfdFsW"
@@ -177,27 +137,47 @@
       "url": "https://open.spotify.com/track/4aYd4OvURiE7jrnkdbwk0t"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+        "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 258298,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+      "duration_ms": 187500,
+      "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+      "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Tigini (Remix)",
+        "url": "https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Kikimoteleba",
+          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Tigini (Remix)",
+      "url": "https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
@@ -217,7 +197,47 @@
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Sin Se\u00f1al",
+        "url": "https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 185084,
+      "name": "Sin Se\u00f1al",
+      "url": "https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
         "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
@@ -245,7 +265,23 @@
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -261,7 +297,7 @@
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
@@ -281,23 +317,7 @@
       "url": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
         "url": "https://open.spotify.com/album/1LDCTu0ZfGLtWAzV82Pop0"
@@ -317,27 +337,7 @@
       "url": "https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "LA INOCENTE",
-      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "La Prendo",
         "url": "https://open.spotify.com/album/4eCRi01qxklHWrG0sIra8x"
@@ -373,7 +373,27 @@
       "url": "https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "LA INOCENTE",
+      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
@@ -389,43 +409,7 @@
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Nos Comemos (feat. Ozuna)",
-        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 191086,
-      "name": "Nos Comemos (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "LAS 12",
         "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
@@ -445,7 +429,43 @@
       "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Nos Comemos (feat. Ozuna)",
+        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 191086,
+      "name": "Nos Comemos (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
@@ -465,27 +485,31 @@
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
-        "name": "Piel de Cordero",
-        "url": "https://open.spotify.com/album/5VIiMnuhe882wXxhOdXGdf"
+        "name": "Quieres",
+        "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
         }
       ],
-      "duration_ms": 213647,
-      "name": "Piel de Cordero",
-      "url": "https://open.spotify.com/track/04d4GpLedinwpfctvgOIhY"
+      "duration_ms": 213666,
+      "name": "Quieres",
+      "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "mariposas",
         "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
@@ -505,7 +529,7 @@
       "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
@@ -521,7 +545,27 @@
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Piel de Cordero",
+        "url": "https://open.spotify.com/album/5VIiMnuhe882wXxhOdXGdf"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "duration_ms": 213647,
+      "name": "Piel de Cordero",
+      "url": "https://open.spotify.com/track/04d4GpLedinwpfctvgOIhY"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
@@ -537,7 +581,27 @@
       "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
@@ -557,7 +621,27 @@
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
@@ -597,47 +681,7 @@
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "NASTU",
-        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mi Luz (ft. Rels B)",
-      "url": "https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
@@ -657,47 +701,27 @@
       "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
-        "name": "Suelta",
-        "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
+        "name": "NASTU",
+        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         },
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 243934,
-      "name": "Suelta",
-      "url": "https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY"
+      "duration_ms": 168000,
+      "name": "Mi Luz (ft. Rels B)",
+      "url": "https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Traductor",
-        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "NASTU",
         "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
@@ -717,23 +741,43 @@
       "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
-        "name": "Temporada de Reggaet\u00f3n 2",
-        "url": "https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA"
+        "name": "Suelta",
+        "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 176727,
-      "name": "Antes de Perderte",
-      "url": "https://open.spotify.com/track/49ev1nUTrNxbjm04jaoL5Z"
+      "duration_ms": 243934,
+      "name": "Suelta",
+      "url": "https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Si Tu Te Vas",
+        "url": "https://open.spotify.com/album/6o64BvtMCuoKXguXZtmQyr"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Si Tu Te Vas",
+      "url": "https://open.spotify.com/track/1KALUbjXvefSgNhTYJHZZt"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "She Don't Give a Fo",
         "url": "https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM"
@@ -753,7 +797,23 @@
       "url": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
@@ -777,23 +837,23 @@
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Temporada de Reggaet\u00f3n 2",
+        "url": "https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+      "duration_ms": 176727,
+      "name": "Antes de Perderte",
+      "url": "https://open.spotify.com/track/49ev1nUTrNxbjm04jaoL5Z"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/2tBxIsn2wqsOeQDWKa6fTk"
@@ -813,51 +873,7 @@
       "url": "https://open.spotify.com/track/42GxezaZ2IsakhDi6a3rsp"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n 2",
-        "url": "https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 200337,
-      "name": "Si Quieren Frontear",
-      "url": "https://open.spotify.com/track/3UT2CkCgSWjK6h5v5Ye4GH"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Ahora y Siempre",
-        "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Linton",
-          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
-        }
-      ],
-      "duration_ms": 149275,
-      "name": "Ahora y Siempre",
-      "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
@@ -881,7 +897,27 @@
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Ahora y Siempre",
+        "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
+        }
+      ],
+      "duration_ms": 149275,
+      "name": "Ahora y Siempre",
+      "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA"
@@ -890,30 +926,22 @@
         {
           "name": "Duki",
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/4FtuqEWmjtgKmVWW0iZOP7"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Si Tu Te Vas",
-        "url": "https://open.spotify.com/album/6o64BvtMCuoKXguXZtmQyr"
-      },
-      "artists": [
+        },
         {
-          "name": "Khaled",
-          "url": "https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Si Tu Te Vas",
-      "url": "https://open.spotify.com/track/1KALUbjXvefSgNhTYJHZZt"
+      "duration_ms": 200337,
+      "name": "Si Quieren Frontear",
+      "url": "https://open.spotify.com/track/3UT2CkCgSWjK6h5v5Ye4GH"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Vicios",
         "url": "https://open.spotify.com/album/3tCeb0hjwFhld6r2VJPeaC"
@@ -929,7 +957,23 @@
       "url": "https://open.spotify.com/track/0hhbgieI17DtGcjGRrtDDp"
     },
     {
-      "added_at": "2022-07-22 12:11:27",
+      "added_at": "2022-07-23 12:02:28",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n 2",
+        "url": "https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/4FtuqEWmjtgKmVWW0iZOP7"
+    },
+    {
+      "added_at": "2022-07-23 12:02:28",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -943,42 +987,6 @@
       "duration_ms": 230400,
       "name": "Despu\u00e9s de la Playa",
       "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
-        "url": "https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 258540,
-      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
-      "url": "https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM"
-    },
-    {
-      "added_at": "2022-07-22 12:11:27",
-      "album": {
-        "name": "SloMo",
-        "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "SloMo",
-      "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
     }
   ],
   "unique_name": "Top 50 - Spain",

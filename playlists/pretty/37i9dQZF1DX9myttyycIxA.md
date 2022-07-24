@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Enumclaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,934 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,021 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cowboy Bepop](https://open.spotify.com/track/4YYsjhh2xuXbUwn435W2WI) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Cowboy Bepop](https://open.spotify.com/album/3GMkAcRznb2cX3lRypqLCh) | 2:53 |
-| 2 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 |
-| 3 | [Wish](https://open.spotify.com/track/3BQnvX4XaBYmMDfAhtuoZ6) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Wish](https://open.spotify.com/album/0dD5lv9nE67MU25iNX7Lsd) | 4:08 |
-| 4 | [get high, breathe underwater \(\#3\)](https://open.spotify.com/track/2Vb9FyBDN3XctFwyaJjhDT) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [get high, breathe underwater \(\#3\)](https://open.spotify.com/album/7ijrwr6y3YBGtZt4RZeQTP) | 3:51 |
+| 2 | [Wish](https://open.spotify.com/track/3BQnvX4XaBYmMDfAhtuoZ6) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Wish](https://open.spotify.com/album/0dD5lv9nE67MU25iNX7Lsd) | 4:08 |
+| 3 | [get high, breathe underwater \(\#3\)](https://open.spotify.com/track/2Vb9FyBDN3XctFwyaJjhDT) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [get high, breathe underwater \(\#3\)](https://open.spotify.com/album/7ijrwr6y3YBGtZt4RZeQTP) | 3:51 |
+| 4 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 |
 | 5 | [Legs](https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [My Friend Mica](https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8) | 2:53 |
 | 6 | [Space Between the Bed and the Wall](https://open.spotify.com/track/0Wpls5CapHMgXgv6Xvrn0P) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Cradle](https://open.spotify.com/album/4YzM91c3bPY56P14PuyI7j) | 3:19 |
 | 7 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
 | 100 | [Poolside](https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Poolside](https://open.spotify.com/album/6ZXyOy9MkWxGPtMXl72RnX) | 2:18 |
 
-Snapshot ID: `MTY1ODUwNTU1OSwwMDAwMDEyMTAwMDAwMTgyMjZhMjdmNTYwMDAwMDE4MjIxNWU0YzYx`
+Snapshot ID: `MTY1ODYwMzk5MCwwMDAwMDEyMjAwMDAwMTgyMmM4MDZiZjkwMDAwMDE4MjIxNWU0YzYx`

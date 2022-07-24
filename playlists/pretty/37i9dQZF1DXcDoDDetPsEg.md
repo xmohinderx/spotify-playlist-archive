@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,718 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,026 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 7 | [Next Up \- S4\-E2, Pt\. 1](https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S4\-E2](https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE) | 2:00 |
 | 8 | [Elegant & Gang](https://open.spotify.com/track/78ywqAbY9QktwlTHyc8c4I) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [Elegant & Gang](https://open.spotify.com/album/6XklZC1pUcru2h12f8F0WF) | 3:25 |
 | 9 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 |
-| 10 | [Favourite Girl](https://open.spotify.com/track/1QuiYqQ3zBKzf3bmi6W6bo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:17 |
+| 10 | [Favourite Girl](https://open.spotify.com/track/1QuiYqQ3zBKzf3bmi6W6bo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:16 |
 | 11 | [Hello Mate](https://open.spotify.com/track/76F7T5zPxdpcPndQNs2dQU) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Hello Mate](https://open.spotify.com/album/0WLtXpCoQXJBoWmtcRkmKX) | 3:12 |
 | 12 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/0qvlNV42mBsDjXN4c6XQyp) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/7h7vgL9hnOW6CB7XYAEIMr) | 2:53 |
 | 13 | [Back2Roadz](https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Back2Roadz](https://open.spotify.com/album/4h4vZc4NDKHRrlV5AYEgv8) | 3:29 |
 | 14 | [IFTK](https://open.spotify.com/track/7e1WjNmwjzNsbQeg2CGlgF) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [IFTK](https://open.spotify.com/album/6UtuXgjAgX8C06C0FbdlCG) | 3:10 |
 | 15 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
 | 16 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 |
-| 17 | [Wickedest](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
+| 17 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
 | 18 | [OCEAN](https://open.spotify.com/track/5PHyvWrp5vtBS8lma8IWRo) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [OCEAN](https://open.spotify.com/album/6j5UNH6J13v4wjKVDlpOXI) | 4:06 |
 | 19 | [Hold It Down](https://open.spotify.com/track/3IjlT2JvAXQSl4l3DwnHlg) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Hold It Down](https://open.spotify.com/album/4b4GechkOz1R2G78aeBQLX) | 2:13 |
 | 20 | [Came In the Scene](https://open.spotify.com/track/4SkIdCA9Vp7XXSAlYGtohn) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Came In the Scene](https://open.spotify.com/album/6A4nLaxBv36jA24lb6CmBO) | 3:05 |

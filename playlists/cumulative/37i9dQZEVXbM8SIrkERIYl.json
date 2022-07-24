@@ -614,6 +614,28 @@
     },
     {
       "album": {
+        "name": "Are You Entertained (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156083,
+      "name": "Are You Entertained (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -2348,6 +2370,24 @@
     },
     {
       "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -2931,7 +2971,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
@@ -3523,7 +3563,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 215281,
       "name": "Freaky Deaky",
       "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
@@ -7285,7 +7325,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 184120,
       "name": "Mr Reggae",
       "url": "https://open.spotify.com/track/6J6slpqRf9jYqGUVKVEOOt"
@@ -9641,7 +9681,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 211935,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
@@ -9999,7 +10039,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -10323,6 +10363,24 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216448,
+      "name": "The 30th",
+      "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
     },
     {
       "album": {
@@ -10823,6 +10881,24 @@
       "duration_ms": 308755,
       "name": "TSU",
       "url": "https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW"
+    },
+    {
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "album": {
@@ -11377,7 +11453,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 239266,
       "name": "Wet Dreamz",
       "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"

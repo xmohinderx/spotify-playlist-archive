@@ -236,6 +236,28 @@
     },
     {
       "album": {
+        "name": "5:00 AM",
+        "url": "https://open.spotify.com/album/0j42aJ2EUyOPIZ9WwLznY5"
+      },
+      "artists": [
+        {
+          "name": "LSP",
+          "url": "https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD"
+        },
+        {
+          "name": "MORGENSHTERN",
+          "url": "https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139542,
+      "name": "5:00 AM",
+      "url": "https://open.spotify.com/track/3VrsQ6PAcP2eDJKhP1m7fa"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -1026,6 +1048,28 @@
     },
     {
       "album": {
+        "name": "Are You Entertained (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156083,
+      "name": "Are You Entertained (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR: BUSINESS",
         "url": "https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY"
       },
@@ -1789,7 +1833,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 146470,
       "name": "Betty (Get Money)",
       "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
@@ -3879,6 +3923,24 @@
       "duration_ms": 171453,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD"
+    },
+    {
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "album": {
@@ -7871,7 +7933,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 238306,
       "name": "L$D",
       "url": "https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud"
@@ -9851,7 +9913,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -13987,7 +14049,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
@@ -14231,7 +14293,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
@@ -15085,6 +15147,24 @@
       "duration_ms": 125197,
       "name": "THC",
       "url": "https://open.spotify.com/track/5Ny2QcYBJzz6JjA3v3juPd"
+    },
+    {
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216448,
+      "name": "The 30th",
+      "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
     },
     {
       "album": {
@@ -16006,6 +16086,24 @@
     },
     {
       "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "album": {
         "name": "Par Liet\u0101m, Kuras T\u0101 Ar Nekad Nep\u0101riet",
         "url": "https://open.spotify.com/album/1KRng6bu2PQSYAHvM4gGQj"
       },
@@ -16580,6 +16678,24 @@
     },
     {
       "album": {
+        "name": "We Gotta Get Love",
+        "url": "https://open.spotify.com/album/4vxj8g2gHKyJarkxxPWCgI"
+      },
+      "artists": [
+        {
+          "name": "Egor Kreed",
+          "url": "https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134142,
+      "name": "We Gotta Get Love",
+      "url": "https://open.spotify.com/track/4AMCdODHG4ZZ1BiErHt0VI"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
@@ -16885,7 +17001,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

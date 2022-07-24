@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Crayon
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,685 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,312 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

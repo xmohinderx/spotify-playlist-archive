@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "#miles",
+        "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115138,
+      "name": "#miles",
+      "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
+    },
+    {
+      "album": {
         "name": "10 Things I Hate About You",
         "url": "https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6"
       },
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 195560,
       "name": "Chop (Nouvelle \u00c9cole)",
       "url": "https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW"
@@ -4871,7 +4889,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 354666,
       "name": "Har Har Shambhu Shiv Mahadeva",
       "url": "https://open.spotify.com/track/3ndbMiA9kQ3LJq1moyHAfM"
@@ -6242,6 +6260,24 @@
     },
     {
       "album": {
+        "name": "Perspektif",
+        "url": "https://open.spotify.com/album/7KUfHZL0mIQunr64Tqy5mq"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220905,
+      "name": "L",
+      "url": "https://open.spotify.com/track/66SBpMfdxpe7B2UF0hq4DR"
+    },
+    {
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -6509,10 +6545,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 185437,
       "name": "Layla",
       "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
+    },
+    {
+      "album": {
+        "name": "Layla (Dutch Version)",
+        "url": "https://open.spotify.com/album/0FzJ3c7iD03TfPeRnsrgwu"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
     },
     {
       "album": {

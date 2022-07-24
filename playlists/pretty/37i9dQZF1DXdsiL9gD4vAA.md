@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Let these contemplative couplets take you away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,746 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,785 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 18 | [Teri Yaad..\. Yaad..\. Yaad](https://open.spotify.com/track/744tf6znd3SFZf7y2emIL7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Kathin Hai Raah Guzar: Ghazals Hits By Ghulam Ali](https://open.spotify.com/album/5uPIBx7ElnjhQxKDQhgiVn) | 8:09 |
 | 19 | [Main Teri Yaad Ko](https://open.spotify.com/track/4ZkmpKwyfIuoHWewex1NfD) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Collection of Memorable Ghazals](https://open.spotify.com/album/0l5ac88or0M9cXIm4sfZ4Q) | 8:32 |
 | 20 | [Khuda Ke Waste Ab](https://open.spotify.com/track/7zvbCWWFsWVn3pU0LqjOF1) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 7:37 |
-| 21 | [Rehna Chai Da](https://open.spotify.com/track/1fXEiq31msWJIXLd2227HD) | [Bhupinder](https://open.spotify.com/artist/0LeUpBwj8bn5l7YR5RNK3R) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 4:49 |
+| 21 | [Rehna Chai Da](https://open.spotify.com/track/1fXEiq31msWJIXLd2227HD) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 4:49 |
 | 22 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 |
 | 23 | [Dasht\-E\-Tanhai Mein](https://open.spotify.com/track/0PZO1Ih1qTQawy5Wc9B7zy) | [Iqbal Bano](https://open.spotify.com/artist/7JxXeUTiGg0vr8SS2iS0F0) | [An Evening With Iqbal Bano, Vol\. 1](https://open.spotify.com/album/28YZZXx13F7sSEwW13v1yv) | 8:58 |
 | 24 | [Har zulm tera yaad hai](https://open.spotify.com/track/3lz869qyZcRBATTT6r4omU) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Geet aur ghazlon ka haseen sangam](https://open.spotify.com/album/47nQ54mrT5meW6q0U3aaXU) | 5:43 |
-| 25 | [Ishqe Noo Ched Na Bethi](https://open.spotify.com/track/1348F6iZc4KCF7NtZv4TUx) | [Ravi Bal](https://open.spotify.com/artist/6j4Mc2MEM58arm0WwHTu5N), [Bhupinder](https://open.spotify.com/artist/0LeUpBwj8bn5l7YR5RNK3R) | [One Night Stand \(Bhangra Songs\)](https://open.spotify.com/album/1c62tmFjmhmVUT4N7tDHjE) | 6:42 |
+| 25 | [Ishqe Noo Ched Na Bethi](https://open.spotify.com/track/1348F6iZc4KCF7NtZv4TUx) | [Ravi Bal](https://open.spotify.com/artist/6j4Mc2MEM58arm0WwHTu5N), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [One Night Stand \(Bhangra Songs\)](https://open.spotify.com/album/1c62tmFjmhmVUT4N7tDHjE) | 6:42 |
 | 26 | [Awara](https://open.spotify.com/track/5ECnRRG6R0dNL1MpJ9lSeu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Horizon](https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg) | 6:22 |
 | 27 | [Jis Dil Pe Naaz tha Mujhe](https://open.spotify.com/track/1YLSXFY1i6JRl3oKovsqVb) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [50 Greatest Ghazal Hits \- Best of Ghulam Ali and Mehdi Hassan](https://open.spotify.com/album/69LGrqCkZQBrW81maqfZUt) | 4:47 |
 | 28 | [Rasm \-E\- Ulfat Sikha Gaya Koi](https://open.spotify.com/track/6IGwyk06551osZprqKSJPk) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 3:53 |

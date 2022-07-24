@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,788 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,806 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

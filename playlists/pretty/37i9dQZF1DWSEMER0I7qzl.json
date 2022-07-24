@@ -1,12 +1,12 @@
 {
   "description": "These songs will make you feel better. Or maybe worse.",
-  "num_followers": 214577,
+  "num_followers": 214573,
   "original_name": "The PMS Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUzODI4OSwwMDAwMDAwMGFiYWQ4YTY1OThjNzcxN2ZhZTI4NTI3YjE5ZTRhM2Ji",
+  "snapshot_id": "MTY1ODYyNDk4MywwMDAwMDAwMDM5ZDVkZTRiNjEwMWM2MDAzZjI3MzBjYjM3MmFlNWFl",
   "tracks": [
     {
       "added_at": "2019-10-04 13:59:10",
@@ -27,6 +27,22 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "Primadonna",
+      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -39,38 +55,6 @@
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/1mLK9n3KBlgsRgPX3nlSwf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "If I Were a Boy",
-      "url": "https://open.spotify.com/track/7cCulnTCDYdGiSmTKmvJJe"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Don't Be so Hard on Yourself",
-        "url": "https://open.spotify.com/album/6vHs6Fc9pKmJWQ6RAWZedY"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 211460,
-      "name": "Don't Be so Hard on Yourself",
-      "url": "https://open.spotify.com/track/1L8ywX9DcRYBcMTv5X1mF9"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -91,34 +75,18 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+        "name": "Don't Be so Hard on Yourself",
+        "url": "https://open.spotify.com/album/6vHs6Fc9pKmJWQ6RAWZedY"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 221075,
-      "name": "Primadonna",
-      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
+      "duration_ms": 211460,
+      "name": "Don't Be so Hard on Yourself",
+      "url": "https://open.spotify.com/track/1L8ywX9DcRYBcMTv5X1mF9"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -139,18 +107,34 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/1mLK9n3KBlgsRgPX3nlSwf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/7cCulnTCDYdGiSmTKmvJJe"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -171,50 +155,18 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "Ain't Your Mama",
+        "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 233720,
-      "name": "Love Yourself",
-      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "PRISM (Deluxe)",
-        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/684W6NpKllEexqQlGqetCi"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH"
+      "duration_ms": 218234,
+      "name": "Ain't Your Mama",
+      "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -235,18 +187,18 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Abba Gold Anniversary Edition",
-        "url": "https://open.spotify.com/album/00GMnZ71KyvmEnZfqcsFP4"
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 234573,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/1MTF3KweV9ntqiOeP5KWt5"
+      "duration_ms": 245960,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -267,6 +219,22 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -283,18 +251,18 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Think Before I Talk",
-        "url": "https://open.spotify.com/album/0AZnZ7IuXAO9k6rYNKZSxg"
+        "name": "Tell Me You Love Me (Deluxe)",
+        "url": "https://open.spotify.com/album/1MI6gNg0plcEOgs8aezsjH"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 184908,
-      "name": "Think Before I Talk",
-      "url": "https://open.spotify.com/track/4lszNcJSaz61QT6gpMhFU1"
+      "duration_ms": 203760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/7gvd8xj4QgPqbQSsn5pV7d"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -315,6 +283,22 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/2jadjpIZfrJwIIlaJbTpHE"
       },
@@ -331,86 +315,98 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "The Fame Monster (Deluxe)",
-        "url": "https://open.spotify.com/album/4yHr095BMG5I3IRH4ToE5l"
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 220626,
-      "name": "Telephone",
-      "url": "https://open.spotify.com/track/1Sl4WkY1bLzNblPDWYFDc3"
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
     },
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Cause And Effect",
-        "url": "https://open.spotify.com/album/19sjW0E7E8RvOAmTMVufKT"
+        "name": "Now & Forever - The Hits",
+        "url": "https://open.spotify.com/album/5qyn4jD90I0A7mLGAxJ2Fz"
       },
       "artists": [
         {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
         }
       ],
-      "duration_ms": 191506,
-      "name": "All This Time (Pick-Me-Up Song)",
-      "url": "https://open.spotify.com/track/01Yr9fhjtAtFQDSx3GeXgv"
+      "duration_ms": 218026,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/0x71Ua6hHfdKWgk4XPmNn6"
     },
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Ain't Your Mama",
-        "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
         }
       ],
-      "duration_ms": 218234,
-      "name": "Ain't Your Mama",
-      "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
     },
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Robyn (Special Online Edition)",
-        "url": "https://open.spotify.com/album/266CFxboeTc5o0E5wQdCkt"
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/684W6NpKllEexqQlGqetCi"
       },
       "artists": [
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 206600,
-      "name": "Be Mine!",
-      "url": "https://open.spotify.com/track/6w9AJrciVuob4llmqR7A7C"
+      "duration_ms": 207333,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH"
     },
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "So Sick",
-        "url": "https://open.spotify.com/album/47bCQ6kDcgSp12bLW1LTEA"
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 206853,
-      "name": "So Sick",
-      "url": "https://open.spotify.com/track/7qAqXbEGXCT50QfZSmRJWx"
+      "duration_ms": 224146,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/4XyAMTjMfqwZ2uJemqKRdH"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
     }
   ],
   "unique_name": "The PMS Playlist",

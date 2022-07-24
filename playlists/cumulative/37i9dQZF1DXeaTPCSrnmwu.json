@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Contra La Indecisi\u00f3n",
+        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "date_added": "2021-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252773,
+      "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
+      "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
+    },
+    {
+      "album": {
         "name": "Live At The Village Vanguard (Live)",
         "url": "https://open.spotify.com/album/4L0QLxz3BWksGpfZpXXhWj"
       },
@@ -277,7 +295,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 140432,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe"
@@ -349,10 +367,28 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 113000,
       "name": "Fin de l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
+    },
+    {
+      "album": {
+        "name": "Flamenco Sketches",
+        "url": "https://open.spotify.com/album/1VUdsgwh9tgYdTKX7LHYcS"
+      },
+      "artists": [
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "date_added": "2021-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573373,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/0i5F1upWs4HJht6e8J0GT5"
     },
     {
       "album": {
@@ -497,7 +533,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 91994,
       "name": "Las colinas del priorato",
       "url": "https://open.spotify.com/track/5mu1VAQqud9UHFLsk0u01q"
@@ -605,7 +641,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 374840,
       "name": "Miriam (El Solar de Bebo)",
       "url": "https://open.spotify.com/track/2aW1anZGJ3oFxdCKXfGKgf"
@@ -659,7 +695,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 200866,
       "name": "O Morro Nao Tem Vez",
       "url": "https://open.spotify.com/track/4D1kBJJ8JqBLHREMQuiAfq"
@@ -789,7 +825,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 123000,
       "name": "Quando sorridi",
       "url": "https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY"
@@ -825,7 +861,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 332000,
       "name": "Setembro",
       "url": "https://open.spotify.com/track/0H0bv2u1uWkxHpNxgrNHfD"
@@ -865,7 +901,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 201996,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB"
@@ -901,7 +937,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 465360,
       "name": "Sole\u00e1 del Churri",
       "url": "https://open.spotify.com/track/70AuunTcn5NMZeD2CdejBG"
@@ -1057,7 +1093,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 232720,
       "name": "Ventanales",
       "url": "https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB"

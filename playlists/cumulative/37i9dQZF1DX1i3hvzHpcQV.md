@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Kamal Haasan
 
-61 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
+62 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO) | 3:31 | 2022-05-11 |  |
 | [Per Vachaalum Vaikkaama](https://open.spotify.com/track/21r0QnhYxsxYUsoov5o0IF) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Dikkiloona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/31MR3zKN2y1tEwPpI9i5j7) | 4:28 | 2021-11-15 |  |
 | [Porkanda Singam](https://open.spotify.com/track/3yqkV2Vd0u4l9lUnlaFNZT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:18 | 2022-06-05 |  |
+| [Porkanda Singam \(EDM Version\) \[From "Vikram"\]](https://open.spotify.com/track/12LE4Omy9ze8xTOMofMVB3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Porkanda Singam \(EDM Version\) \[From "Vikram"\]](https://open.spotify.com/album/4GU1vqDAiySfL0K3sXLpT2) | 2:29 | 2022-07-23 |  |
 | [Private Party](https://open.spotify.com/track/5OotwkHgMpNYfsCwAOs4jP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 3:36 | 2022-05-25 |  |
 | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/2oNRoniEFnPdaCfkOQ9m0C) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3YSoAYHmI70SD6Wb7f4k1q) | 4:07 | 2021-11-15 | 2022-06-07 |
 | [Rolex Theme \- Background Score](https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:53 | 2022-07-08 |  |

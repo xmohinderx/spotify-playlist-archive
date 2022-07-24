@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Atlas: Seven",
+        "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263124,
+      "name": "Atlas: Seven",
+      "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
+    },
+    {
+      "album": {
         "name": "Ay, Amor",
         "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 226877,
       "name": "Bad Liar",
       "url": "https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 285027,
       "name": "Bullet Proof (Blue States Remix)",
       "url": "https://open.spotify.com/track/65HHEBdWvjC33WVYHDsiZj"
@@ -369,7 +387,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 201839,
       "name": "Clap For Them",
       "url": "https://open.spotify.com/track/4vJRj3g7OyxytClCk0FzAb"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 234271,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/1lzvsof3WhWbUvGNkUcEAg"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 188735,
       "name": "Dancing With A Stranger",
       "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 274992,
       "name": "Dreams - Piano Version",
       "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 127210,
       "name": "For You",
       "url": "https://open.spotify.com/track/50bMSujg47Xc9LRuy6Xra9"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 179510,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 213666,
       "name": "Happy Now - Acoustic",
       "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 177142,
       "name": "I Know You're Scared",
       "url": "https://open.spotify.com/track/1jsYDmtSGqiOkQ10FDAW7K"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 182118,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 182680,
       "name": "La Marelle / Amarelinha",
       "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 246222,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/5gQJkOnav0JZPh32HERWYD"
@@ -1829,6 +1847,24 @@
       "duration_ms": 242011,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173680,
+      "name": "Mad World - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
     },
     {
       "album": {
@@ -1919,7 +1955,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 207745,
       "name": "Never Leave You",
       "url": "https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO"
@@ -2052,6 +2088,24 @@
     },
     {
       "album": {
+        "name": "Old Town Road",
+        "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171866,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/38cjY4Ucs6AEhxPHhjo6bW"
       },
@@ -2063,7 +2117,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 147060,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7hfA32qNA2m0a0VuNUSwfx"
@@ -2741,7 +2795,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 241150,
       "name": "Toxicity",
       "url": "https://open.spotify.com/track/1jwbHFwZiK0VEFwbudkWA2"
@@ -3117,7 +3171,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 192334,
       "name": "Wow.",
       "url": "https://open.spotify.com/track/6pzsnbNRn8pm84lLvppo4l"

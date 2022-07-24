@@ -85,7 +85,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 207853,
       "name": "Adictiva",
       "url": "https://open.spotify.com/track/6MJUCumnQsQEKbCy28tbCP"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 327466,
       "name": "Asesina - Remix",
       "url": "https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 217129,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 158400,
       "name": "Baila Baila Baila",
       "url": "https://open.spotify.com/track/7uH27oIt4a6cIFCA8ZPcyG"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 193440,
       "name": "Bola Rebola",
       "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 193226,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 202308,
       "name": "Conf\u00eda",
       "url": "https://open.spotify.com/track/5kbps8unnGH4raN5WduZuq"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 224680,
       "name": "Contra La Pared",
       "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 219402,
       "name": "El Boom",
       "url": "https://open.spotify.com/track/4D3RlFtxWG1vcgddoovAsN"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 223586,
       "name": "En Cero",
       "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 203093,
       "name": "Follow",
       "url": "https://open.spotify.com/track/2w1rq80FIrbxeJy9WYURxw"
@@ -1210,6 +1210,32 @@
     },
     {
       "album": {
+        "name": "La Gente Ta' Loca (Remix)",
+        "url": "https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        },
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218487,
+      "name": "La Gente Ta' Loca - Remix",
+      "url": "https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt"
+    },
+    {
+      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -1351,7 +1377,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 300579,
       "name": "La Romana",
       "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
@@ -1421,7 +1447,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 185194,
       "name": "Loco Contigo (with J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/1f38Gx6xQz6r4H1jGVNBJo"
@@ -1461,7 +1487,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 186723,
       "name": "Marianela",
       "url": "https://open.spotify.com/track/5AaHjij4q5xMPhOYoanpMP"
@@ -1703,7 +1729,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "No Te Hagas la Loca",
       "url": "https://open.spotify.com/track/4NGbpyKrKMlJX4kP8iTQFJ"
@@ -1881,7 +1907,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 195174,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/2r5AwzCIgWw57ZYXuSIji6"
@@ -2111,7 +2137,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 195291,
       "name": "Rumba",
       "url": "https://open.spotify.com/track/04Oynte1xZfgnPh8kXhmE7"
@@ -2145,6 +2171,24 @@
       "duration_ms": 200693,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7BuSE9uTIw931wtZYzvZcQ"
+    },
+    {
+      "album": {
+        "name": "Rutina",
+        "url": "https://open.spotify.com/album/52ANAGxQnsXHzgkYvhloCl"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "Rutina",
+      "url": "https://open.spotify.com/track/3YntiCUU0Xqq0B68FM3YAt"
     },
     {
       "album": {
@@ -2289,7 +2333,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 213913,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/4T4CZ3Q4z3GG7lU720YYhM"
@@ -2315,7 +2359,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 200045,
       "name": "Solteroski",
       "url": "https://open.spotify.com/track/0ETRyccZjuZBXoStGB5kc6"
@@ -2446,6 +2490,24 @@
     },
     {
       "album": {
+        "name": "Tan Celoso",
+        "url": "https://open.spotify.com/album/6Bltt9n59MuY4oz6KLCAie"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166948,
+      "name": "Tan Celoso",
+      "url": "https://open.spotify.com/track/4oylgGWwjMKLSg70fGipb5"
+    },
+    {
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV"
       },
@@ -2479,7 +2541,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "Te Quemaste",
       "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
@@ -2501,7 +2563,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 201818,
       "name": "Te Robar\u00e9",
       "url": "https://open.spotify.com/track/6v0lAdFF4haL8xjBIUjtOw"
@@ -2541,7 +2603,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
@@ -2691,7 +2753,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 169404,
       "name": "Ven",
       "url": "https://open.spotify.com/track/2edWJMHnqmf9RnLKcLfKes"

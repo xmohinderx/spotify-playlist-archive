@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Bailar Riddim",
       "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 156781,
       "name": "Big (feat. Gunna)",
       "url": "https://open.spotify.com/track/2aUzzdnKuHcAG8vLqoiAFi"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 188577,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/1MOalcOOazOcBdRuteCgIm"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 189919,
       "name": "Emily",
       "url": "https://open.spotify.com/track/1iBRYT9Tq6v3qEqGL1wdtn"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
@@ -1383,7 +1383,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 182053,
       "name": "I Ain't Going Home",
       "url": "https://open.spotify.com/track/0v2WYRV8MSoFDlxTuSYp3Y"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "I'm in love",
       "url": "https://open.spotify.com/track/2Rfy50UpGrTN43GmSpn5A1"
@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 213934,
       "name": "Kiss and Tell",
       "url": "https://open.spotify.com/track/7zAmki6tuarcnPsGxH3sc3"
@@ -2043,7 +2043,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 148822,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF"
@@ -2161,7 +2161,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 169779,
       "name": "Nah (feat. Sinead Harnett)",
       "url": "https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2"
@@ -2521,7 +2521,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 173547,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/4PHDxMwPsCCb3FqbZW65qv"
@@ -2557,7 +2557,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 154500,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/0O1vEphpfuUwEN4bFk3f8q"
@@ -3001,7 +3001,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 178010,
       "name": "Stay Mine",
       "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
@@ -3166,6 +3166,28 @@
     },
     {
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129479,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
+    },
+    {
+      "album": {
         "name": "Take Me Higher",
         "url": "https://open.spotify.com/album/0GSe5e4ONUe4oN0QKvXrlq"
       },
@@ -3243,7 +3265,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 155640,
       "name": "The Chant - Majestic Remix",
       "url": "https://open.spotify.com/track/53uh4ooi1x2Tcp2AdDZ7nq"
@@ -3265,7 +3287,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 196021,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx"
@@ -3309,7 +3331,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 166079,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/0GnPdea2JxqU0LUtMyjoqa"
@@ -3331,7 +3353,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 157244,
       "name": "Touch",
       "url": "https://open.spotify.com/track/6Zvls4aPdB7gl6qBQn17Ow"
@@ -3423,7 +3445,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 184196,
       "name": "We Are Young",
       "url": "https://open.spotify.com/track/0m3DyjpzLPa3LCurw5A9IR"
@@ -3551,7 +3573,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 153600,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/5Ssl0uqpH7iTH16LVJYmvm"
@@ -3701,7 +3723,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 174193,
       "name": "Worlds On Fire (with R3HAB & Au/Ra)",
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
@@ -3871,7 +3893,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 149032,
       "name": "Zookey 2021 (feat. Roland Richards)",
       "url": "https://open.spotify.com/track/2Q3hNa3KnynBpSNWHwzAaC"

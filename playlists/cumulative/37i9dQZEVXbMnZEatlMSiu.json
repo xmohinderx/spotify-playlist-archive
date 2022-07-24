@@ -2823,7 +2823,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 185453,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm"
@@ -4891,7 +4891,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 246280,
       "name": "\u4e0d\u611b\u6211\u5c31\u62c9\u5012",
       "url": "https://open.spotify.com/track/4oeHo4sQtR0hMaLAdxYNGy"
@@ -6870,6 +6870,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 (\u300a\u5abd,\u5225\u9b27\u4e86!\u300b\u5f71\u96c6\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278914,
+      "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd,\u5225\u9b27\u4e86!\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
+    },
+    {
+      "album": {
         "name": "\u6700\u5f8c\u4e00\u79d2\u9418 (\u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u982d\u66f2)",
         "url": "https://open.spotify.com/album/2CblrkkIAydfip4r9dbO8b"
       },
@@ -7977,7 +7995,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 250898,
       "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
       "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"

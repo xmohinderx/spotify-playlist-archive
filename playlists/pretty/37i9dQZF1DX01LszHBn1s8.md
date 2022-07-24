@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > how can i be homophobic my bitch is gay?
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,947 likes - 500 songs - 1 day 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,095 likes - 500 songs - 1 day 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 6 | [Lights \- Sped Up Version](https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Lights \(Sped Up Version\)](https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR) | 3:10 |
 | 7 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
 | 8 | [Chrissy, Wake Up](https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV) | [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [Chrissy, Wake Up](https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb) | 1:05 |
-| 9 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
+| 9 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
 | 10 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 |
 | 11 | [Blitzkrieg 2022 \- Drammen](https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k) | [Kris Winther](https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG), [SuperJonny](https://open.spotify.com/artist/1qN9U0yBn6fvVbz0GXSCsc), [Rapposaurus Rex](https://open.spotify.com/artist/3ghekvbJpcKDGyauENQfzT), [LamboLaz](https://open.spotify.com/artist/65RF0CIG7aJEWRcdHIbdLN) | [Blitzkrieg 2022 \- Drammen](https://open.spotify.com/album/3GUUcR6YtDVmGPg5yEhFIf) | 3:05 |
 | 12 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 |

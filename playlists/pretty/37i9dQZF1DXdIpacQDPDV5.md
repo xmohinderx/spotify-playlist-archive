@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: ODESZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,308 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,335 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 10 | [Really Special](https://open.spotify.com/track/0UVY8JcLsmhjMd7hkqvX7j) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [Nick Fiorucci](https://open.spotify.com/artist/3YPMYCdGVCZz2xLDUbR3TY) | [Really Special](https://open.spotify.com/album/0FdnSC3UbA7fmNlJaDbBaT) | 4:51 |
 | 11 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
 | 12 | [Miracle Maker \(feat\. Clementine Douglas\)](https://open.spotify.com/track/51mycpP5uFInLw300nestX) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker \(feat\. Clementine Douglas\)](https://open.spotify.com/album/7iBzFQOfChL6eqK5dodErb) | 3:08 |
-| 13 | [Mami](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Mami](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
+| 13 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 | 14 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 |
 | 15 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 |
 | 16 | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |

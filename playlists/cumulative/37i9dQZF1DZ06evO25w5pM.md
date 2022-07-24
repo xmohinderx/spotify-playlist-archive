@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Along the High Ridges](https://open.spotify.com/track/64vIE1KwDyg4Ar9SosQR4w) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spiritual Healing](https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA) | 11:29 | 2022-06-07 |  |
+| [Along the High Ridges](https://open.spotify.com/track/64vIE1KwDyg4Ar9SosQR4w) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spiritual Healing](https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA) | 11:29 | 2022-06-07 | 2022-07-24 |
 | [Black Velvet Flirt](https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 7:00 | 2022-05-29 |  |
 | [Celestial Meadows](https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystery of Light](https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9) | 5:05 | 2022-05-29 |  |
 | [Cinque](https://open.spotify.com/track/0RDAF6UAfX2Yg6CVd9kI3p) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:56 | 2022-05-29 |  |
@@ -53,7 +53,7 @@
 | [Silent Wave](https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 7:15 | 2022-05-29 |  |
 | [Song of a Dream](https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Healing](https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP) | 5:42 | 2022-05-29 |  |
 | [Sound of Invisible Waters](https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 9:32 | 2022-05-29 |  |
-| [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 | 2022-05-29 | 2022-07-17 |
+| [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 | 2022-05-29 |  |
 | [Still Stones of Silence](https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 8:06 | 2022-05-29 | 2022-07-22 |
 | [Surfing the Clouds](https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Empty Sky](https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn) | 6:26 | 2022-05-29 |  |
 | [Temple of Silence](https://open.spotify.com/track/5RVcMhbIaIfekTjo7zL8ij) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 9:16 | 2022-05-29 |  |

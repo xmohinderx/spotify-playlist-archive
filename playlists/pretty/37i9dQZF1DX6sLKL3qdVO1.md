@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,637 likes - 74 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,975 likes - 74 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 18 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
 | 19 | [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 |
 | 20 | [Gata \(feat\. Chencho Corleone\)](https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:26 |
-| 21 | [METALES \(feat\. SASHA & Zion & Lennox\)](https://open.spotify.com/track/048xaRPO2C3O9al7cgpXfb) | [Nakary](https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW), [Yevian](https://open.spotify.com/artist/1JNAWbYMAxgF4Kv0vqfNie), [Baby Records](https://open.spotify.com/artist/18pDTZ0BHCU0kWUdbyyUvq), [Sasha](https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [METALES \(feat\. SASHA & Zion & Lennox\)](https://open.spotify.com/album/4UvHqHVwAfyhhtj2Wno5k0) | 5:29 |
+| 21 | [METALES \(feat\. Baby Records & Zion & Lennox\)](https://open.spotify.com/track/048xaRPO2C3O9al7cgpXfb) | [Nakary](https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW), [Sasha](https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG), [Yevian](https://open.spotify.com/artist/1JNAWbYMAxgF4Kv0vqfNie), [Baby Records](https://open.spotify.com/artist/18pDTZ0BHCU0kWUdbyyUvq), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [METALES \(feat\. Baby Records & Zion & Lennox\)](https://open.spotify.com/album/4UvHqHVwAfyhhtj2Wno5k0) | 5:30 |
 | 22 | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/album/1LDCTu0ZfGLtWAzV82Pop0) | 2:40 |
 | 23 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 |
 | 24 | [Llueve](https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Llueve](https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD) | 4:09 |

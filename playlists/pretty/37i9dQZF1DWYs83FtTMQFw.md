@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring Fivio Foreign & The Kid LAROI, Drake, and Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,116,878 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,117,069 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 18 | [love.](https://open.spotify.com/track/5XFoaqV1Z8XaLJidchVWhh) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [The Boy Who Flew To The Moon \(Vol\. 1\)](https://open.spotify.com/album/19ZYOtXGdqGpeeDS9SJccD) | 5:28 |
 | 19 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 |
 | 20 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
-| 21 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
+| 21 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
 | 22 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
 | 23 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:52 |
 | 24 | [She Want Some More \(Feat\. Ken Carson & Lil Tecca\)](https://open.spotify.com/track/1IzxkqDIsmiFxTjaNdsiqn) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [She Want Some More \(Feat\. Ken Carson & Lil Tecca\)](https://open.spotify.com/album/2nJN8TOJACDkgOlhs5RplJ) | 3:04 |

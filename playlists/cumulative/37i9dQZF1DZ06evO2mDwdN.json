@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 218554,
       "name": "Cry Together - Live",
       "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 604160,
       "name": "Hope We Can Be Together Soon / All Night Long - Live Medley",
       "url": "https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 331546,
       "name": "I Can't Let Go",
       "url": "https://open.spotify.com/track/75TR0y40E4auHiqhpuTI22"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 340859,
       "name": "I Wanna Know Your Name - Live",
       "url": "https://open.spotify.com/track/0vhOnAYQ0fLXqKpCtDFDDo"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 322226,
       "name": "I'm Searching for a Love (feat. Sharon Paige)",
       "url": "https://open.spotify.com/track/2HOiASEeCWnXn63B8mazDm"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 290613,
       "name": "It All Depends On You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3Hy8XnWjOEl4bjFmigA1Fr"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 205780,
       "name": "Love Is Like A Baseball Game - Live",
       "url": "https://open.spotify.com/track/76oOHuxPuW0FZ1q0CbWsak"
@@ -814,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Too Hot to Handle",
+        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161986,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/6fjTzzc7pe2d60RIzEr0fG"
+    },
+    {
+      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -829,10 +847,28 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 260226,
       "name": "Nobody Could Take Your Place (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/28pJOTBOZqFc7IVdbAVUIT"
+    },
+    {
+      "album": {
+        "name": "Too Hot to Handle",
+        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "O Holy Nite",
+      "url": "https://open.spotify.com/track/4InoM03yej3uViCdReaXVX"
     },
     {
       "album": {
@@ -873,7 +909,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 338586,
       "name": "Pretty Flower (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3RjJB4T5VClw5FoqefBrl5"
@@ -957,7 +993,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 352666,
       "name": "Tell the World How I Feel About 'Cha Baby (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8"
@@ -1016,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Too Hot to Handle",
+        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156480,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/0kIyVYQUziTwvaWqoeo3xv"
+    },
+    {
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -1053,10 +1107,28 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
+    },
+    {
+      "album": {
+        "name": "Too Hot to Handle",
+        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147813,
+      "name": "The Retribution Blues",
+      "url": "https://open.spotify.com/track/02OKedr8l69kXLmhJDllTr"
     },
     {
       "album": {
@@ -1071,7 +1143,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 263360,
       "name": "This Is The Love",
       "url": "https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk"
@@ -1341,7 +1413,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 214558,
       "name": "\u611b\u306e\u5e7b\u60f3",
       "url": "https://open.spotify.com/track/6QK48frVNsKpfWDXqoG1yH"

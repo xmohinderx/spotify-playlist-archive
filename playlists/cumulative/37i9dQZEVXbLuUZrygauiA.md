@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-409 songs - 23 hr 0 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
+410 songs - 23 hr 4 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 | 2022-07-10 |  |
 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 | 2022-02-16 | 2022-02-23 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-24 | 2022-06-15 |
-| [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-07-05 |  |
+| [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-07-05 | 2022-07-24 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-05-28 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-05-03 | 2022-05-08 |
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2022-04-09 | 2022-04-13 |
@@ -167,6 +167,7 @@
 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 | 2022-03-26 | 2022-04-07 |
 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 | 2022-03-25 | 2022-03-27 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-07-15 |  |
+| [La bebe](https://open.spotify.com/track/1yeN7zkjU0DU1SGEwvxMEk) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/3fsLDApUM08iTJDtKoXE0L) | 3:43 | 2022-07-23 |  |
 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 | 2022-05-10 |  |
 | [La Cátedra](https://open.spotify.com/track/5iZxLtBUcoQPXSO2iDERp1) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [La Cátedra](https://open.spotify.com/album/3MKb4ekNen2vqB3AimRKeZ) | 12:00 | 2022-03-11 | 2022-03-13 |
 | [La Fory Fay](https://open.spotify.com/track/78IuTC0zgUmVL4jMcpwPAw) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:28 | 2022-06-22 | 2022-07-06 |

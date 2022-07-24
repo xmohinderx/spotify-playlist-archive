@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-421 songs - 1 day 1 hr 29 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+422 songs - 1 day 1 hr 33 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-24 | 2021-12-29 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-03-27\* | 2021-03-29 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-19 |
-| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-07 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-07 | 2022-07-24 |
 | [SABINA之淚](https://open.spotify.com/track/0bVAhqMaAOEqF9ZmpBXdII) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:20 | 2021-09-01 | 2021-09-03 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-09 | 2022-01-15 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6a1hzBiTkgqTsDA0Xgfh9z) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Merry Christmas](https://open.spotify.com/album/3w6QeihCf2l0zZMBLagxDj) | 2:23 | 2021-12-26 | 2021-12-27 |
@@ -246,6 +246,7 @@
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-27 |
 | [Waiting For You \(with Gary Yang\)](https://open.spotify.com/track/3j2O0gUZaIT5SSpC9F4Emw) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [Greatest Works of Art](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:30 | 2022-07-16 | 2022-07-18 |
 | [Warrior](https://open.spotify.com/track/3jBI3hvc9Z0FUcdyj7spEm) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Warrior](https://open.spotify.com/album/2YvFttJM4ejmuoe7V8IuBz) | 4:07 | 2021-03-27 | 2021-08-28 |
+| [WE ARE](https://open.spotify.com/track/7CSW3iTdFPl3ITtljie7iW) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [WE ARE](https://open.spotify.com/album/3NojOcL4RvJ2viZf1LqqQm) | 4:15 | 2022-07-23 |  |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2021-03-27\* | 2021-04-11 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-03 | 2022-04-19 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-26 | 2022-04-28 |

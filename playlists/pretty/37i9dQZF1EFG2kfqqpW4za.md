@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280 likes - 57 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 57 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 56 | [Conscientização](https://open.spotify.com/track/2P0WN9HJPPCB2xH7t9g0m8) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Conscientização](https://open.spotify.com/album/3X1yGrd9u18zMCIBPoKUyI) | 2:52 |
 | 57 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `Mjc2NDIzMDQsMDAwMDAwMDA2NTQzYmU4ZDBlN2MzNTZhYTViZjU2YmVhZmU4ZmY4NQ==`
+Snapshot ID: `Mjc2NDM3NDQsMDAwMDAwMDBhOTMwMDNhNDU3YzQ4YmNlYTI0MjY0MDhiOTMzMmI3MA==`

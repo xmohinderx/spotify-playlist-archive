@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 159360,
       "name": "Blues Chase up a Rabbit",
       "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 232887,
       "name": "Circle Of Lies",
       "url": "https://open.spotify.com/track/6M8KpTVYG0ZqgZosDxg9HG"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 226333,
       "name": "Danger and Dread",
       "url": "https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "Death Valley Blues",
       "url": "https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 208840,
       "name": "Driftin' Blues",
       "url": "https://open.spotify.com/track/2GobDOqRDg3TZwM54xIBKX"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 270706,
       "name": "Empire State Express",
       "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
@@ -640,6 +640,24 @@
     },
     {
       "album": {
+        "name": "Go Away Hound Dog",
+        "url": "https://open.spotify.com/album/17joEUj4DSbaTt5xWRV0jP"
+      },
+      "artists": [
+        {
+          "name": "Del Rio Ramblers",
+          "url": "https://open.spotify.com/artist/6jLMFfYQjxVXQgrlYhI7pI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Feelin' Blue",
+      "url": "https://open.spotify.com/track/2SNmU4PqvXbqyOdh8HEnUP"
+    },
+    {
+      "album": {
         "name": "First McDonell's on the Moon",
         "url": "https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4"
       },
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 231133,
       "name": "First McDonell's on the Moon",
       "url": "https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm"
@@ -803,7 +821,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 178276,
       "name": "Great God Almighty - Demo, Summer 2018",
       "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 248560,
       "name": "Louis Collins",
       "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 186920,
       "name": "Man in the Ground",
       "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 186429,
       "name": "Mississippi Phone Booth",
       "url": "https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 236182,
       "name": "Money Talks",
       "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 144746,
       "name": "Mystery Train",
       "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 209400,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 160183,
       "name": "Sunshine Blue",
       "url": "https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 140906,
       "name": "That's All Right (Mama)",
       "url": "https://open.spotify.com/track/2MErQaq2RPHSoxqmyzQrYR"
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 201506,
       "name": "The Easy Blues",
       "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
@@ -1845,7 +1863,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 156465,
       "name": "The Sun is Shining",
       "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 261573,
       "name": "You Found Another Lover (I Lost Another Friend) - The Machine Shop Session",
       "url": "https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS"

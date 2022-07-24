@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ?si=CCdobvU5S5yah3Kw6sdu9Q">China Charmeleon</a> and <a href="https://open.spotify.com/artist/6PcHusHP9ow3HrIvqRJDua?si=NJpZCSShQzSSRNBJqvjjkQ">AndileAndy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,142 likes - 75 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,170 likes - 75 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

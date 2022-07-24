@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop and a little bit of rap\. Cover: Nicky Youre
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,389 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,547 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [act right](https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [act right](https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW) | 3:27 |
 | 2 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 |
 | 3 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 |
-| 4 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
+| 4 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
 | 5 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 |
 | 6 | [LYSA](https://open.spotify.com/track/5FZsAaTNEEz5LNBO0bcIZv) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [LYSA](https://open.spotify.com/album/3Hl7Pv7T7qqTMUwErYu6uk) | 2:37 |
 | 7 | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/album/0ev0saRGsMUB9MxtWZnliz) | 2:35 |

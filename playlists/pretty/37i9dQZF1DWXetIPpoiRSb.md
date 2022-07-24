@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,241 likes - 89 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,263 likes - 89 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,312 likes - 89 songs - 5 hr 0 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,311 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 87 | [My Everything](https://open.spotify.com/track/0Qq4NdNUkHBD887Dpozvhn) | [Sulvida](https://open.spotify.com/artist/0phDitF6QOKVk0ALx5d9wI), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [My Everything](https://open.spotify.com/album/1drSpyjhFJf9XCtS09BUBX) | 3:34 |
 | 88 | [forever, for now \(feat\. riley biederer\)](https://open.spotify.com/track/3Lh4hk4TO9lKLV1uz1Ctd2) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [forever, for now \(feat\. riley biederer\)](https://open.spotify.com/album/7kXtJjpsQNnpPhgnD8Ky2l) | 2:38 |
 | 89 | [The End](https://open.spotify.com/track/1jcde8M1qCE1peeOMkqNyy) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 1:28 |
+| 90 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 |
 
-Snapshot ID: `OTg3MixjNmQwZTM4ZDJiMDRhMzljNGQ4NzU4ZjE0MThmYzRhMTBiY2Q4YjYz`
+Snapshot ID: `OTg3MywwM2Y4MWNjYjM4MjE4ZDMyYzllY2QxZTkxZDQ5NGFjZDA1MDQ5Njdm`

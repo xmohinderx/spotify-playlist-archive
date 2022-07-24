@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290 likes - 113 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292 likes - 113 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 34 | [Mad at You \(with Gallant\)](https://open.spotify.com/track/4G4EoG2Dk7kjisJKv9DP5h) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Mad at You \(with Gallant\)](https://open.spotify.com/album/7dyE6UJ5D2dj2VStrMkRbI) | 3:46 |
 | 35 | [Quit You](https://open.spotify.com/track/4GJAd1nBylAEbw1dZDVzEQ) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quit You](https://open.spotify.com/album/2WPXSv8cyr0i20Z9jsPd5M) | 3:41 |
 | 36 | [Alone](https://open.spotify.com/track/3Gj3CIHeZjds77ITl8XX7r) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw) | 3:36 |
-| 37 | [I HATE EVERYBODY](https://open.spotify.com/track/35FjZytt5TukIgJD86UybL) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:51 |
-| 38 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |
+| 37 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |
+| 38 | [I HATE EVERYBODY](https://open.spotify.com/track/35FjZytt5TukIgJD86UybL) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:51 |
 | 39 | [Keeping Score \(feat\. Paige IV\)](https://open.spotify.com/track/0g1BxXBhdbhImlgjJoIGal) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:02 |
 | 40 | [History](https://open.spotify.com/track/7rIfPMmf3h0JO2GT1C2m2z) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 3:28 |
 | 41 | [distance](https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 112 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 113 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc2NDIzMTMsMDAwMDAwMDA0MzEzZTNmZTJlZTRhOTBlZmM3MzQ1ZGFhYTdlMzNmOA==`
+Snapshot ID: `Mjc2NDM3NTQsMDAwMDAwMDBiNjU2ZWRhYTIwNzBkYWEwYzM5MzBjYjEwNThiYzRiYw==`

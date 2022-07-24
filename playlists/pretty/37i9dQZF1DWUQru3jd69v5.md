@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: emanuelino, Uzi Lvke
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,250 likes - 55 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,301 likes - 55 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 166506,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0AxWzSG8MUj5CMH8XGnwHz"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 339893,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
@@ -949,10 +949,48 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 366200,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE"
+    },
+    {
+      "album": {
+        "name": "Voces Veladas, Vol.2-Un Homenaje a Letristas e Int\u00e9rpretes de Jazz",
+        "url": "https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Esteban Quintet",
+          "url": "https://open.spotify.com/artist/2sZxjmgR2KmuFB54tvc9YY"
+        },
+        {
+          "name": "Mar\u00eda Esteban",
+          "url": "https://open.spotify.com/artist/2IGB5nA5VbGU7bKSoJMqMN"
+        },
+        {
+          "name": "Edu Cabello",
+          "url": "https://open.spotify.com/artist/0THtNsDRswHw7gbFaPrVU9"
+        },
+        {
+          "name": "Rai Paz",
+          "url": "https://open.spotify.com/artist/7fyYCDMJffGkMcoatNcKHk"
+        },
+        {
+          "name": "Xavi Castillo",
+          "url": "https://open.spotify.com/artist/5dC65gJBz1D1xqPE4PnKDp"
+        },
+        {
+          "name": "Santi Colomer",
+          "url": "https://open.spotify.com/artist/39eWTAyXJRsLxEvTjJPvwa"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317800,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS"
     },
     {
       "album": {
@@ -989,7 +1027,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 293700,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/4WipUexDpNvekJbFMBsGa3"
@@ -1159,7 +1197,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 187500,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/2ZEkwS2dzMcOlBbl8Twr3h"
@@ -1427,7 +1465,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 264751,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA"
@@ -1489,7 +1527,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 219000,
       "name": "Maybe You'll Be There",
       "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
@@ -1511,7 +1549,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 260746,
       "name": "Memories Of You - Special Edition",
       "url": "https://open.spotify.com/track/5T4yRU7ihxsaSQzpvCW6dU"
@@ -1645,7 +1683,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 205078,
       "name": "Nice Work If You Can Get It",
       "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
@@ -1845,7 +1883,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 275371,
       "name": "Softly, as in a Morning Sunrise",
       "url": "https://open.spotify.com/track/15Cd5pF6Xm4nB2MVcWbuCT"
@@ -1875,7 +1913,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
@@ -2169,7 +2207,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 293124,
       "name": "The Streets of Berlin",
       "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
@@ -2305,7 +2343,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 335720,
       "name": "Undefined",
       "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
@@ -2477,7 +2515,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 283377,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo"
@@ -2543,7 +2581,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 270000,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"

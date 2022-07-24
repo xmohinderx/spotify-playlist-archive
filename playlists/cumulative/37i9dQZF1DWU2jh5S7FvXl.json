@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 191785,
       "name": "Better Day (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/5NeFmsnXBy6xVbz8pesM5l"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 174193,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
@@ -463,10 +463,36 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 196899,
       "name": "California Dreamin' (feat. High Jinx)",
       "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
+    },
+    {
+      "album": {
+        "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "High Jinx",
+          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
+      "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
     },
     {
       "album": {
@@ -849,7 +875,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 203245,
       "name": "Don't Be Afraid (feat. Jungle)",
       "url": "https://open.spotify.com/track/0zsD5I9yYEr4jNkj5SQn4k"
@@ -929,7 +955,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 162406,
       "name": "Double Dutch",
       "url": "https://open.spotify.com/track/7E4y9kiorG4jMSvND0sfYz"
@@ -1061,10 +1087,32 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 185661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
+    },
+    {
+      "album": {
+        "name": "fisticuffs (feat. tiLLie)",
+        "url": "https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd"
+      },
+      "artists": [
+        {
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        },
+        {
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "fisticuffs (feat. tiLLie)",
+      "url": "https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL"
     },
     {
       "album": {
@@ -1109,7 +1157,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 171216,
       "name": "Get Away (Radio Edit)",
       "url": "https://open.spotify.com/track/5IiYj5FQN8tFSLExxAjStf"
@@ -1175,7 +1223,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
@@ -1215,7 +1263,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 174193,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/2nJekhox9Na8lDxQOKVp7D"
@@ -1365,7 +1413,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 186480,
       "name": "I Don't Wanna Go",
       "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
@@ -1449,7 +1497,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 260540,
       "name": "Immunity",
       "url": "https://open.spotify.com/track/4RVcOvimtLKS94rEEzxYtB"
@@ -1475,7 +1523,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 188437,
       "name": "Impossible (feat. John Martin)",
       "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
@@ -1563,7 +1611,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 173742,
       "name": "It Don\u2019t Matter - Spotify Singles",
       "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
@@ -1607,7 +1655,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 308876,
       "name": "Jolene - Destructo Remix",
       "url": "https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE"
@@ -1647,7 +1695,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 156612,
       "name": "Kush",
       "url": "https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu"
@@ -1673,7 +1721,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 238585,
       "name": "Last Thought (feat. MKLA)",
       "url": "https://open.spotify.com/track/1tZC1ktebdhQSlhnFSetLk"
@@ -1941,7 +1989,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 160000,
       "name": "Love Is Killing Me",
       "url": "https://open.spotify.com/track/0WDHsTEgyvjw4EM24O0Tyd"
@@ -1989,7 +2037,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 164516,
       "name": "Love The Way You Move (feat. Sara Diamond)",
       "url": "https://open.spotify.com/track/5hMxY2lnop8kCVkNfSycMz"
@@ -2161,7 +2209,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 163298,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/1PRpJKvfeaOPhJW39ecgw2"
@@ -2205,7 +2253,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -2245,7 +2293,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
@@ -2307,7 +2355,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 210650,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/57WUsRphWcS69G9OnTJEsg"
@@ -2515,7 +2563,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 145320,
       "name": "One More Dance (with Alida)",
       "url": "https://open.spotify.com/track/2aOK6TRYn4DneIBHJOAQ4r"
@@ -2863,7 +2911,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 157477,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/002RM16TLYCpwElukqy8xq"
@@ -3069,7 +3117,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 156743,
       "name": "Still Call You Mine",
       "url": "https://open.spotify.com/track/3zcjhTt88UYnjcpU2PhHXV"
@@ -3139,7 +3187,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 149487,
       "name": "Summer Thing",
       "url": "https://open.spotify.com/track/5UbJD3lat3SVDDBXmf8gLc"
@@ -3183,7 +3231,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
@@ -3227,7 +3275,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 161372,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/7DQUAo4V9aiysYv1RUm5dZ"
@@ -3373,7 +3421,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/3MqzqG6fij34pDxd29mikA"
@@ -3589,7 +3637,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 170087,
       "name": "Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA"
@@ -3659,7 +3707,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 183090,
       "name": "Unbreakable (with Sam Gray)",
       "url": "https://open.spotify.com/track/1ymsN94JMOSZncP5WETfSh"
@@ -3681,7 +3729,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 177597,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/3SXRZuCEGbbxsPiHyqwWuG"
@@ -3725,7 +3773,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 141001,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm"
@@ -3779,7 +3827,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 145293,
       "name": "Watcha Gonna Do",
       "url": "https://open.spotify.com/track/2mJ7jA9PV3SmQKGuv8QC9G"
@@ -3827,7 +3875,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 158312,
       "name": "We'll Be Dancing Soon",
       "url": "https://open.spotify.com/track/39CyGsoGoW4yayA731IP4s"
@@ -3871,7 +3919,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 329531,
       "name": "When The Summer Dies",
       "url": "https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI"
@@ -4015,7 +4063,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 173778,
       "name": "Wish You Were Here (feat. Brandyn Burnette)",
       "url": "https://open.spotify.com/track/0GevQZGBPYjfPzK8e3jxzl"
@@ -4041,7 +4089,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 196475,
       "name": "Woke Up Late (feat. Hailee Steinfeld) - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/4ciBIS83LHQpKf4noVKP51"
@@ -4133,7 +4181,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 213546,
       "name": "You've Done Enough",
       "url": "https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz"

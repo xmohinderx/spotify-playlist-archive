@@ -440,6 +440,32 @@
     },
     {
       "album": {
+        "name": "FADE UP",
+        "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
+      },
+      "artists": [
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219187,
+      "name": "FADE UP",
+      "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
+    },
+    {
+      "album": {
         "name": "Gaw El Banat",
         "url": "https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx"
       },
@@ -685,10 +711,36 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 224864,
       "name": "KIFKIF",
       "url": "https://open.spotify.com/track/0Ssdb1vqoW6w2eRgZT1Itp"
+    },
+    {
+      "album": {
+        "name": "KIFKIF",
+        "url": "https://open.spotify.com/album/2UhLGCTnNMxR2Eyv2RorkV"
+      },
+      "artists": [
+        {
+          "name": "Moro",
+          "url": "https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW"
+        },
+        {
+          "name": "Cheb Bilal",
+          "url": "https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or"
+        },
+        {
+          "name": "Profit Za3im",
+          "url": "https://open.spotify.com/artist/1lgjg7Ws1qm4jojTua1nrn"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224931,
+      "name": "KIFKIF - Remixed By Ali S",
+      "url": "https://open.spotify.com/track/3GoQSJXtzbDtejWNADev6f"
     },
     {
       "album": {
@@ -979,7 +1031,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 226714,
       "name": "No Stop",
       "url": "https://open.spotify.com/track/6VD64LAe1raY65BTkJdt5v"
@@ -1045,6 +1097,24 @@
       "duration_ms": 159947,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4KoiLBOLPnSERA0apY9y1I"
+    },
+    {
+      "album": {
+        "name": "Sos (Chapitre 1)",
+        "url": "https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204695,
+      "name": "Paro",
+      "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD?si=x\_nRgwIaQ62keJzW6OG4iA">Louise Carver</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,624 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,631 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

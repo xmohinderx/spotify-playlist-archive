@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Early Noise出身アーティスト、ずとまよとVaundyのビデオシングルが到着！Spotifyが注目するニューカマー・プレイリスト。Cover: 秋山璃月
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,965 likes - 58 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,970 likes - 58 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

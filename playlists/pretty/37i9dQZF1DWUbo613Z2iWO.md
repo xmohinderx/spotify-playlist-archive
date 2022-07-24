@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Make room for these R&B/Soul artists on the rise! Photo: India Shawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,979 likes - 64 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,012 likes - 64 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 19 | [Taj Mahal](https://open.spotify.com/track/5VAxNirVOEJXjY6cWhAcOy) | [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [Fanclub](https://open.spotify.com/album/2aUAe6i5say6qqCczPvoXd) | 3:36 |
 | 20 | [Can We Talk?](https://open.spotify.com/track/0kIfgyxCSBueXYMLpS8j0I) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [Devvon Terrell](https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH) | [Can We Talk?](https://open.spotify.com/album/4kFnBcn3BoAH98AgkoNTdf) | 2:25 |
 | 21 | [2MANYTHINGS](https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 3:13 |
-| 22 | [Wickedest](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
+| 22 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
 | 23 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
 | 24 | [Agua](https://open.spotify.com/track/3bZNQvIowjUMGdu6GHNGlK) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Agua](https://open.spotify.com/album/4PTIzpb2IafRrTYdUjgJTr) | 2:49 |
 | 25 | [Caliber](https://open.spotify.com/track/1Okha0BLoXlC6iXrIWLVFk) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Caliber](https://open.spotify.com/album/0zwvnPJUZqs4nlSieXuM8X) | 3:02 |

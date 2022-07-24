@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,343 likes - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,490 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 10 | [Little Black Submarines](https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 4:11 |
 | 11 | [Good Love \(feat\. Billy F Gibbons\)](https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:37 |
 | 12 | [Everlasting Light](https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:23 |
-| 13 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
-| 14 | [I Got Mine](https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:59 |
+| 13 | [I Got Mine](https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:59 |
+| 14 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
 | 15 | [How Long](https://open.spotify.com/track/0hPLjCtNnCwt3InwsDgux6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:20 |
 | 16 | [Thickfreakness](https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Thickfreakness](https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa) | 3:48 |
 | 17 | [Dead and Gone](https://open.spotify.com/track/3UD4sghkq8dHUwvKxln1nB) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:41 |
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 19 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
 | 20 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 |
 | 21 | [Gotta Get Away](https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:00 |
-| 22 | [Sister](https://open.spotify.com/track/5LCuFER5mMzL0fGNpClksf) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:25 |
-| 23 | [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 |
-| 24 | [Psychotic Girl](https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 4:10 |
+| 22 | [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 |
+| 23 | [Psychotic Girl](https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 4:10 |
+| 24 | [Didn't I Love You](https://open.spotify.com/track/3ODV8hlwa7eLVuPMskWnQi) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 4:01 |
 | 25 | [Turn Blue](https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:42 |
-| 26 | [Didn't I Love You](https://open.spotify.com/track/3ODV8hlwa7eLVuPMskWnQi) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 4:01 |
-| 27 | [Meet Me in the City](https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Chulahoma](https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ) | 3:38 |
+| 26 | [Meet Me in the City](https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Chulahoma](https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ) | 3:38 |
+| 27 | [Sister](https://open.spotify.com/track/5LCuFER5mMzL0fGNpClksf) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:25 |
 | 28 | [I'll Be Your Man](https://open.spotify.com/track/1nIUgRxbi4aY4fV5A26Jrp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp) | 2:20 |
 | 29 | [10 Lovers](https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:33 |
 | 30 | [It Ain't Over](https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:48 |
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 46 | [You're the One](https://open.spotify.com/track/1ZJf6hZVPU1NoOPS5ThJvA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 3:28 |
 | 47 | [The Breaks](https://open.spotify.com/track/2W1OhZFB3uGJ3FpU19BpvZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp) | 3:01 |
 | 48 | [Crawling Kingsnake](https://open.spotify.com/track/4Yk7nkmqitDCycO0Z0UsKe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 6:08 |
+| 49 | [Oceans & Streams](https://open.spotify.com/track/0RRS27vZj5U0N2eIBctL4K) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:25 |
 
-Snapshot ID: `Mjc2NDE2OTMsMDAwMDAwMDA4MDJhMzg4M2RhNzgyNjBlMzAwYjA4MTM4NjE1Y2ZkYQ==`
+Snapshot ID: `Mjc2NDMxMTIsMDAwMDAwMDAzOGQxYzlhYmZiMjU0YWFiYmJlYjRjOTBlNzY2ZjZmNQ==`

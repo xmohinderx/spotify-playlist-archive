@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: STAYC\(스테이씨\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,498 likes - 179 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,722 likes - 179 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 11 | [See you again](https://open.spotify.com/track/2lcEq0XGKBmHun7mMsavq1) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [See you again](https://open.spotify.com/album/1Ozf1LLPCYr5k34ZIkcWlV) | 3:48 |
 | 12 | [Dear my everyday](https://open.spotify.com/track/6qJqzWsWDmzZ23y8rFgash) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Dear my everyday](https://open.spotify.com/album/2j70dd65kPtWZc4uOtxJgD) | 4:21 |
 | 13 | [Off](https://open.spotify.com/track/0053wNTghbgTvEZYuFjXEO) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [KOREAN](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [Off](https://open.spotify.com/album/1FBwRE12R1iCNBCMlLeCmk) | 2:46 |
-| 14 | [On my lips](https://open.spotify.com/track/1hkxJW81Oar3i4puhWig42) | [HAEUN \(4MEN\)](https://open.spotify.com/artist/1VPAzEmHhlGhDL6cUZj0w4) | [On my lips](https://open.spotify.com/album/6HkTrFBT35KKrjHZwog4Uy) | 3:10 |
+| 14 | [On my lips](https://open.spotify.com/track/1hkxJW81Oar3i4puhWig42) | [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [On my lips](https://open.spotify.com/album/6HkTrFBT35KKrjHZwog4Uy) | 3:10 |
 | 15 | [RATvolution](https://open.spotify.com/track/2uGctjg8CpZtqYeOVgavUP) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [RATvolution](https://open.spotify.com/album/3Tbb3JTchvUBSTjqso4SgE) | 3:35 |
 | 16 | [Hero](https://open.spotify.com/track/4ZHoRnk0ohgr50AXJ0wq3I) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [Hero](https://open.spotify.com/album/3zkmgfgnnS3CDcXJzTFRyg) | 2:57 |
 | 17 | [Mercedes Feel](https://open.spotify.com/track/77MUhAujebtcTWZmNK4DLk) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [Marco](https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh) | [Mercedes Feel](https://open.spotify.com/album/74O06ZFkIxyUB6Vil09m5d) | 2:48 |
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 109 | [Spend all the money in my wallet \(Feat\. JEON WON JU\)](https://open.spotify.com/track/2XmCbrwNoZQFwbnElr4Ero) | [Copychu](https://open.spotify.com/artist/6Z1gtF3YEE2XvqMcS3aBBH), [JEON WON JU](https://open.spotify.com/artist/20iLEsY2WrXS3aWHZkZsxK) | [Spend all the money in my wallet \(Feat\. JEON WON JU\)](https://open.spotify.com/album/3QN9VjN4Nhk70uagoBB09X) | 3:46 |
 | 110 | [Thawing season \(feat\. Dongkwan, Tamiz, Bloop\)](https://open.spotify.com/track/4MFrHuerciQRfiBQVeOOOv) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [DongKyu DongKwan](https://open.spotify.com/artist/72PWD9ip3w5qXc10Fh0k3x), [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [Bloop](https://open.spotify.com/artist/48M0tlL68ShjMNVV6qK396) | [Thawing season \(feat\. Dongkwan, Tamiz, Bloop\)](https://open.spotify.com/album/6c8W72fgK2FTDR8gFdMB4I) | 3:42 |
 | 111 | [SUN & MOON](https://open.spotify.com/track/5hydYnlC66FvUwY5nYp9sI) | [wethefuture\(위더퓨쳐\)](https://open.spotify.com/artist/1MvKRHxbDeKDNdyl4avLT2) | [SUN & MOON](https://open.spotify.com/album/6zeyo05K5MbpV6ck1m422P) | 3:19 |
-| 112 | [graduation](https://open.spotify.com/track/2NcBIGZeUFuKK8gcYNqh5b) | [KIM YEO MYUNG](https://open.spotify.com/artist/0u4a3XvD1f7cDubE33Ea2G) | [graduation](https://open.spotify.com/album/1qsxBkcePlbnzzRQt6FR1a) | 3:16 |
+| 112 | [graduation](https://open.spotify.com/track/2NcBIGZeUFuKK8gcYNqh5b) | [KIM YEO MYUNG](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [graduation](https://open.spotify.com/album/1qsxBkcePlbnzzRQt6FR1a) | 3:16 |
 | 113 | [Go Away](https://open.spotify.com/track/7kQxMaWxhxezR1yZWlVjB7) | [Fameboy](https://open.spotify.com/artist/7tLYATAccHHR2ECcXvIHhz) | [ROCKSTAR′S LOVE](https://open.spotify.com/album/5Dot96PEUYb37lVTeTxTF5) | 2:56 |
 | 114 | [Classic \(feat\. MRCH\)](https://open.spotify.com/track/04nm6ulhFSxi1xejIFWsmW) | [moneto](https://open.spotify.com/artist/2fDgVWeIDSt1EOqFbPRXu7), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Classic](https://open.spotify.com/album/7mN3JTbV6i4xL2LpM8K3g8) | 3:40 |
 | 115 | [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,764 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,874 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 4 | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm) | 4:24 |
 | 5 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 |
 | 6 | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ) | 3:47 |
-| 7 | [CALI LOVE \(feat\. Ambré\)](https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 3:32 |
+| 7 | [CALI LOVE \(feat\. Ambré\)](https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 3:30 |
 | 8 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 |
 | 9 | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/track/1I00qI4bQZyKSQ5G5AnKcv) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Refi Sings](https://open.spotify.com/artist/15X73vdLvKcEwXjB37sOIU) | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/album/6GMRzxqK9FZGpUzXwY24Vg) | 3:55 |
 | 10 | [Wanna Love You](https://open.spotify.com/track/09xccZVuNwd9vP7abwZkyu) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Wanna Love You](https://open.spotify.com/album/2ROfHzFMBfzgvx6IsQIgZB) | 2:50 |

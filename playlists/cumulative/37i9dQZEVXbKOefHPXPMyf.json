@@ -252,6 +252,24 @@
     },
     {
       "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
@@ -688,6 +706,28 @@
     },
     {
       "album": {
+        "name": "Temporada de Reggaet\u00f3n 2",
+        "url": "https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Amor Bipolar",
+      "url": "https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2"
+    },
+    {
+      "album": {
         "name": "INTER SHIBUYA (FERXXO EDITION)",
         "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
       },
@@ -899,7 +939,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 229173,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
@@ -2125,7 +2165,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 213744,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
@@ -2755,7 +2795,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 223431,
       "name": "En El Radio Un Cochinero",
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
@@ -4087,7 +4127,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 98211,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
@@ -4105,7 +4145,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
@@ -4645,7 +4685,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 180751,
       "name": "La MVP",
       "url": "https://open.spotify.com/track/74WOZ17ERaFrHXYtSid13p"
@@ -7385,7 +7425,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
@@ -8855,7 +8895,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 237894,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"

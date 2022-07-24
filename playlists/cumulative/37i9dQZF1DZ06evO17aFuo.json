@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 181093,
       "name": "Anarchy In The U.K. - Remastered",
       "url": "https://open.spotify.com/track/74EF3QE9twDF2LRByd2ATx"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 265133,
       "name": "Dread and the Fugitive Mind",
       "url": "https://open.spotify.com/track/4Bfxp472zIwiSYjZsK76EN"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 234400,
       "name": "Duke Nukem",
       "url": "https://open.spotify.com/track/3VowFZMqNlHzSIa2MA2kwM"
@@ -642,6 +642,28 @@
     },
     {
       "album": {
+        "name": "Night Stalkers / We\u2019ll Be Back",
+        "url": "https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        },
+        {
+          "name": "ICE-T",
+          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398253,
+      "name": "Night Stalkers",
+      "url": "https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN"
+    },
+    {
+      "album": {
         "name": "Hidden Treasures",
         "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
       },
@@ -653,7 +675,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 183360,
       "name": "No More Mr. Nice Guy",
       "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
@@ -1139,7 +1161,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 247906,
       "name": "Youthanasia - Remastered 2004",
       "url": "https://open.spotify.com/track/491FFHeud9a0KXZ66QunVn"

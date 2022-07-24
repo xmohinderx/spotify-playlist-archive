@@ -423,7 +423,7 @@
       ],
       "date_added": "2020-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 228111,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
@@ -1424,6 +1424,24 @@
     },
     {
       "album": {
+        "name": "Cate\u2019s Brother",
+        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180589,
+      "name": "Cate\u2019s Brother",
+      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
+    },
+    {
+      "album": {
         "name": "Chained To The Rhythm",
         "url": "https://open.spotify.com/album/1eKkyO5UKGXBfbgatavAFR"
       },
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 178156,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1jgu8MFTEGdL1wjw9gZj5y"
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "go",
       "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
@@ -2819,7 +2837,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
@@ -5869,7 +5887,7 @@
       ],
       "date_added": "2020-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 179867,
       "name": "Play Date",
       "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
@@ -6087,7 +6105,7 @@
       ],
       "date_added": "2020-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 220589,
       "name": "Rare",
       "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
@@ -6513,7 +6531,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/5WfhXulggG0c6WoVeMPA8N"

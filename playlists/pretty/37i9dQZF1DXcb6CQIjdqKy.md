@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Kirk Franklin & Maverick City Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448,907 likes - 98 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,449,174 likes - 98 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

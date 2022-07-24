@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 161106,
       "name": "Benimle Gel",
       "url": "https://open.spotify.com/track/6TQj22qKkIAd9cuBiFlvKf"
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 138855,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/3Obq1XTegJy7ISrAA9VjQk"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 207219,
       "name": "Can\u0131ma Minnet",
       "url": "https://open.spotify.com/track/5mCfj3EpRzSSjm5Y5IMzzz"
@@ -2230,6 +2230,32 @@
     },
     {
       "album": {
+        "name": "Darlama Baby",
+        "url": "https://open.spotify.com/album/2I5ZbWkidkjfnJ9gUUX2FQ"
+      },
+      "artists": [
+        {
+          "name": "Tanerman",
+          "url": "https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA"
+        },
+        {
+          "name": "Elanur",
+          "url": "https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1"
+        },
+        {
+          "name": "Ravend",
+          "url": "https://open.spotify.com/artist/0HYSrLdpldAsePdvuhxSLx"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123476,
+      "name": "Darlama Baby",
+      "url": "https://open.spotify.com/track/6V7N0yoUwO07XljMY92brA"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
       },
@@ -2317,6 +2343,24 @@
       "duration_ms": 144906,
       "name": "Dinle Beni Bi'",
       "url": "https://open.spotify.com/track/11PO9iu6PtpgL1JK4QNUEJ"
+    },
+    {
+      "album": {
+        "name": "Neogazino",
+        "url": "https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6"
+      },
+      "artists": [
+        {
+          "name": "Madrigal",
+          "url": "https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223950,
+      "name": "Dip",
+      "url": "https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B"
     },
     {
       "album": {
@@ -2978,6 +3022,24 @@
     },
     {
       "album": {
+        "name": "facia",
+        "url": "https://open.spotify.com/album/1gg3BF1verwcSphkQ7vWAI"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145212,
+      "name": "facia",
+      "url": "https://open.spotify.com/track/2KBObs1h1NpOukx2FLGQHN"
+    },
+    {
+      "album": {
         "name": "Felfena",
         "url": "https://open.spotify.com/album/2UAYLQWEsOqdFfviyzjUuy"
       },
@@ -2993,6 +3055,24 @@
       "duration_ms": 149750,
       "name": "Felfena",
       "url": "https://open.spotify.com/track/6wNy5pUtBrkqOqFo6hJmcl"
+    },
+    {
+      "album": {
+        "name": "Marka",
+        "url": "https://open.spotify.com/album/1FGFzaEK9aocXZEr7WrJ2l"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90475,
+      "name": "Fendi Gucci Prada",
+      "url": "https://open.spotify.com/track/5OKZmPWtGoK3ZOj2VCicjM"
     },
     {
       "album": {
@@ -3417,7 +3497,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -4413,10 +4493,28 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 119189,
       "name": "\u0130llegale",
       "url": "https://open.spotify.com/track/0YypAwSTM49KfC5bgHKgZ6"
+    },
+    {
+      "album": {
+        "name": "Marka",
+        "url": "https://open.spotify.com/album/1FGFzaEK9aocXZEr7WrJ2l"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119189,
+      "name": "\u0130llegale",
+      "url": "https://open.spotify.com/track/2njqaJOTwA4Itcn3TotTAk"
     },
     {
       "album": {
@@ -6328,6 +6426,24 @@
     },
     {
       "album": {
+        "name": "Nerdesin",
+        "url": "https://open.spotify.com/album/56FIQvpIezTtGm1j8yjX9q"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176268,
+      "name": "Nerdesin",
+      "url": "https://open.spotify.com/track/2SwQShWjZsxoGviEyaEMOX"
+    },
+    {
+      "album": {
         "name": "DIPSOMANIA",
         "url": "https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu"
       },
@@ -7833,7 +7949,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 236630,
       "name": "Son Dura\u011f\u0131n",
       "url": "https://open.spotify.com/track/63PJ7AVOjL5WcaYmPxiblX"
@@ -8285,7 +8401,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 282352,
       "name": "Uzunlar - V1",
       "url": "https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a"
@@ -8482,6 +8598,24 @@
     },
     {
       "album": {
+        "name": "Yap Bi G\u00fczellik",
+        "url": "https://open.spotify.com/album/3PnDqF9MGtLmxMgtdXYFmR"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187032,
+      "name": "Yap Bi G\u00fczellik",
+      "url": "https://open.spotify.com/track/5wZ4RzkwZhjbwRyA7Q29Zr"
+    },
+    {
+      "album": {
         "name": "C5MODE",
         "url": "https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu"
       },
@@ -8511,7 +8645,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 213812,
       "name": "Yara",
       "url": "https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9"
@@ -9089,6 +9223,24 @@
       "duration_ms": 199600,
       "name": "\u00dccra",
       "url": "https://open.spotify.com/track/77Ny1rmMwjTdRrYmK3Gjzg"
+    },
+    {
+      "album": {
+        "name": "Marka",
+        "url": "https://open.spotify.com/album/1FGFzaEK9aocXZEr7WrJ2l"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114681,
+      "name": "\u00dcniforma",
+      "url": "https://open.spotify.com/track/2dIgK44CaXBYjNPIBesIEJ"
     },
     {
       "album": {

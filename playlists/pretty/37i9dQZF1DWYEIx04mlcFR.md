@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a Pau Laggies\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,465 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,509 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 5 | [Madrid](https://open.spotify.com/track/2RZBRW0bViEHUgoeagzD7m) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Madrid](https://open.spotify.com/album/5a6ehCg907H8WCa5oSD0HS) | 2:48 |
 | 6 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 |
 | 7 | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT) | 2:58 |
-| 8 | [Contenta](https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl), [Victor Rivas](https://open.spotify.com/artist/6TrKb0KnHM36Gu1U5oMBky) | [Contenta](https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ) | 3:35 |
+| 8 | [Contenta](https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Contenta](https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ) | 3:35 |
 | 9 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 |
 | 10 | [El Café No Sabe Igual Sin Ti](https://open.spotify.com/track/5EksyYBHY38ERxBH5oLfi2) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [¿Te Puedo Llamar?](https://open.spotify.com/album/70tqqAbqB3ial4rZZVzmDz) | 1:56 |
 | 11 | [vienes y te vas :\|](https://open.spotify.com/track/7JYmphizKecTyAicTJYgco) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [vienes y te vas :\|](https://open.spotify.com/album/6BhQ6hPpS3saH0zGNdXIrU) | 3:09 |

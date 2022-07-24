@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 261153,
       "name": "Castle on the Hill",
       "url": "https://open.spotify.com/track/66qlqxhEMpSHOzjRK4il0b"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 182080,
       "name": "Free Spirit",
       "url": "https://open.spotify.com/track/2kAIpGWnlFLQh48iut6Zzq"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 111258,
       "name": "Hide",
       "url": "https://open.spotify.com/track/7GXG38022Aw5g67p1HTpOp"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 202363,
       "name": "Island - Acoustic Version",
       "url": "https://open.spotify.com/track/0kPTPdtltbyxVmQJ6NIO5C"
@@ -928,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214293,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
+    },
+    {
+      "album": {
         "name": "The Greatest Showman: Reimagined",
         "url": "https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0"
       },
@@ -961,7 +979,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 209546,
       "name": "Saturday Nights",
       "url": "https://open.spotify.com/track/7vGGAJBkHKxKtOnGjQduDV"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 223078,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/3KZcrZ36LW9RnChK1iIkth"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 220290,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 238532,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/1HkOPLwAJH3kE8UnqgxF4s"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 240706,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2QTcJmSgeLRtG1c82ZYHQc"

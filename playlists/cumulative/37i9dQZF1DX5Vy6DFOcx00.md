@@ -4,7 +4,7 @@
 
 > little miss 2 die 4
 
-466 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+467 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-03-03 | 2022-04-08 |
 | [Homixide \(feat\. Playboi Carti\)](https://open.spotify.com/track/4uu4CC1L13Q8ndvnXpud1J) | [Lil 1 DTE](https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lil 1 DTE](https://open.spotify.com/album/5evN4fZuIY8KvbyufENWCh) | 2:37 | 2022-03-31 | 2022-04-12 |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-07-21 |  |
-| [Hotel](https://open.spotify.com/track/01JudCVH6imG6Zh4aHBTAq) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/62HTjoHrWJW0CQ7ubx3Px7) | 2:35 | 2022-07-08 |  |
+| [Hotel](https://open.spotify.com/track/01JudCVH6imG6Zh4aHBTAq) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/62HTjoHrWJW0CQ7ubx3Px7) | 2:35 | 2022-07-08 | 2022-07-24 |
+| [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 | 2022-07-23 |  |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-20 |  |
 | [Howl's Moving Castle \- Merry Go Round of Life](https://open.spotify.com/track/1SH0BnKkEtLh8IcZnci79y) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [The World of Studio Ghibli](https://open.spotify.com/album/49lcv6t0GsJVxcoD8hjgPp) | 3:05 | 2022-02-07 | 2022-04-12 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2021-12-29 | 2022-03-14 |
@@ -244,7 +245,7 @@
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-07-07 | 2022-07-18 |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2021-12-29 | 2022-05-10 |
 | [Love in This Club \(feat\. Young Jeezy\)](https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Here I Stand](https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW) | 4:19 | 2022-04-19 | 2022-05-24 |
-| [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-22 |  |
+| [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-22 |  |
 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 | 2022-02-18 | 2022-04-01 |
 | [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/track/5ZF6l3xKi3m6YK2dDXAsR5) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/album/3chA2MGRAajYTezCtS7f5s) | 3:13 | 2022-04-10 | 2022-06-28 |
 | [Love Me For Me](https://open.spotify.com/track/4kKhmIdFALmwCYrt90oWUW) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Love Me For Me](https://open.spotify.com/album/3uEv1aG9Akxj7cyFm4I0ub) | 2:51 | 2022-04-08 | 2022-04-18 |

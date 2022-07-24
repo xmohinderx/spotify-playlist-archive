@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Bennifer finally tied the knot! \#SpotifyTBT jams to bangers from their first engagement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,087,936 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,087,949 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

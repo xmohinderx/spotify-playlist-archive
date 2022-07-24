@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5It2yyyMjbwbpSO7B4Mb0I.md) - [plain]
 
 > El playlist con la música más caliente del mundo latino!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 460 likes - 66 songs - 3 hr 40 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 459 likes - 66 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Foto: Paulo Londra
 
-70 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/7tURDhchLm4ApuqHMwUzSU)
+72 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/7tURDhchLm4ApuqHMwUzSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Apaga la Luz](https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Naked Geometry](https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl) | [Apaga la Luz](https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s) | 2:49 | 2022-04-25 |  |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-25 |  |
 | [Bandida](https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Bandida](https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN) | 3:53 | 2022-04-25 |  |
+| [Borracho](https://open.spotify.com/track/1PcZnmrMO6FOjBrpFjKyrW) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:38 | 2022-07-23 |  |
 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 | 2022-04-25 |  |
 | [Café](https://open.spotify.com/track/55jK8S4pNyrHAfkMq7oGxM) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Neutro](https://open.spotify.com/album/6vsqSYcjmlq80EUqG3le2b) | 3:47 | 2022-04-25 |  |
 | [CERO, DOS](https://open.spotify.com/track/6jSkGlUMfrhidBGTGhdKsN) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [CERO, DOS](https://open.spotify.com/album/7KChubVF25Sx3TixA4RkoJ) | 3:29 | 2022-04-25 |  |
@@ -46,6 +47,7 @@
 | [Me Olvidé De Los 2](https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 2:59 | 2022-04-25 |  |
 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 | 2022-04-25 |  |
 | [Nadie más](https://open.spotify.com/track/6HkbUFn3tdjubNlDacokMx) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Nadie más](https://open.spotify.com/album/11jo3NbufxnUqsoY4eG77m) | 3:07 | 2022-04-25 |  |
+| [Nadie Más](https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:35 | 2022-07-23 |  |
 | [NI VIVO NI MUERTO](https://open.spotify.com/track/5icFOuhDm1Fp0L2J216Weo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:01 | 2022-04-25 |  |
 | [No Eres Tú](https://open.spotify.com/track/3vd1rLbxCxDTGbxazgW91I) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [No Eres Tú](https://open.spotify.com/album/5vi7SsbnspDHTMthxaVQh4) | 3:02 | 2022-04-25 |  |
 | [No Es Mía](https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O) | 3:08 | 2022-04-25 |  |

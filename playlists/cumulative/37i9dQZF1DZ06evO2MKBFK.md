@@ -4,11 +4,11 @@
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/5x3XPazYHMb3rRzDpHUYlp)
+59 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/5x3XPazYHMb3rRzDpHUYlp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Fool Of Tears](https://open.spotify.com/track/4CHpoZ8tK0Xagah6Lcey0C) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol\. 1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 4:02 | 2022-07-10 |  |
+| [A Fool Of Tears](https://open.spotify.com/track/4CHpoZ8tK0Xagah6Lcey0C) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol\. 1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 4:02 | 2022-07-10 | 2022-07-24 |
 | [A Good Man](https://open.spotify.com/track/72NpoBNUwJFDHMbyV2iMYv) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:26 | 2022-07-10 |  |
 | [Ain't No Fun \(재미없어\)](https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 | 2022-07-10 |  |
 | [Always](https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Always](https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei) | 3:53 | 2022-07-10 |  |
@@ -21,10 +21,11 @@
 | [Blue](https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:53 | 2022-07-10 |  |
 | [Cafe](https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:39 | 2022-07-10 |  |
 | [Ego](https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:25 | 2022-07-11 |  |
+| [EYES, NOSE, LIPS \- Live](https://open.spotify.com/track/6nrgWCby7MpEpbcRJxRRZ9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG10 THE CONCERT 0.TO.10 FINAL IN SEOUL](https://open.spotify.com/album/6ep57xzNzxOuSCIw4iEfIv) | 4:45 | 2022-07-23 |  |
 | [Fantastic Baby](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:50 | 2022-07-16 |  |
 | [FANTASTIC BABY \- Japanese ver.](https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM) | 3:51 | 2022-07-10 | 2022-07-17 |
 | [FLOWER ROAD](https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [FLOWER ROAD](https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx) | 3:48 | 2022-07-10 |  |
-| [Fool](https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Hot Issue](https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC) | 3:45 | 2022-07-11 |  |
+| [Fool](https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Hot Issue](https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC) | 3:45 | 2022-07-11 | 2022-07-24 |
 | [Foolish Love](https://open.spotify.com/track/3zXL187ljM6hMO5PdhmjFk) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Remember](https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg) | 4:01 | 2022-07-10 |  |
 | [Forever With U \(Feat\. Park Bom\)](https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [Bigbang 03](https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH) | 3:38 | 2022-07-10 |  |
 | [FXXK IT](https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:51 | 2022-07-10 |  |
@@ -46,7 +47,7 @@
 | [Love Song](https://open.spotify.com/track/784qSLhmIjbc37plSfaPzF) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:45 | 2022-07-10 |  |
 | [Monster](https://open.spotify.com/track/0c7QMo952Ga2qAJMdfEcrb) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:51 | 2022-07-10 |  |
 | [Ms.LIAR](https://open.spotify.com/track/5crgHI4qrCm8ayPms3EGhS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [THE BEST OF BIGBANG 2006\-2014](https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp) | 3:54 | 2022-07-10 |  |
-| [My Girl \(Taeyang Solo\)](https://open.spotify.com/track/5MlW47ybnUooaDlfZk5RP0) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol\. 1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:51 | 2022-07-10 | 2022-07-22 |
+| [My Girl \(Taeyang Solo\)](https://open.spotify.com/track/5MlW47ybnUooaDlfZk5RP0) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol\. 1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:51 | 2022-07-10 |  |
 | [My Heaven](https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:52 | 2022-07-10 |  |
 | [Number 1](https://open.spotify.com/track/5gE2yPrsKkVIQ2WXzEKJTF) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [2009 BIGBANG LIVE CONCERT : BIG SHOW](https://open.spotify.com/album/1jEFohZ79xLBF0UxwBdi2V) | 3:18 | 2022-07-10 | 2022-07-12 |
 | [Oh Ma Baby](https://open.spotify.com/track/27vEqY0DyEDGXVFIb66kuL) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Always](https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei) | 3:51 | 2022-07-10 |  |

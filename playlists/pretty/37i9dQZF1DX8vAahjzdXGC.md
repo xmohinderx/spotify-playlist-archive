@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,007 likes - 78 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,027 likes - 78 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 48 | [Pickup Lines](https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Pickup Lines](https://open.spotify.com/album/1SlVtVG8JmqGMOeXZaT9HF) | 2:59 |
 | 49 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 |
 | 50 | [How Will I Know? \- Edit](https://open.spotify.com/track/4YOkjXrQVbax7a5W6K3l0r) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know?](https://open.spotify.com/album/5PTOn3rlvlwUEr1KCfIM9V) | 3:38 |
-| 51 | [Tidak Apa\-Apa](https://open.spotify.com/track/2SHx3P5fPmdBfbbPqAgAFK) | [Hiroaki Kato](https://open.spotify.com/artist/1cWHHmwPzQYpQdapFLRcCS), [Bennytho Siahaan](https://open.spotify.com/artist/46DdMMksyJhB85vAmcV3P4) | [Tidak Apa\-Apa](https://open.spotify.com/album/3g2RKgexvRbrD5LjbUlPkk) | 4:10 |
+| 51 | [Tidak Apa\-Apa](https://open.spotify.com/track/2SHx3P5fPmdBfbbPqAgAFK) | [Hiroaki Kato](https://open.spotify.com/artist/1cWHHmwPzQYpQdapFLRcCS) | [Tidak Apa\-Apa](https://open.spotify.com/album/3g2RKgexvRbrD5LjbUlPkk) | 4:10 |
 | 52 | [Bila](https://open.spotify.com/track/2xL8MtqGUR4M7qECopZT8g) | [Purpla](https://open.spotify.com/artist/6nLhM1QkqsfvLN0sJr6cTv) | [Bila](https://open.spotify.com/album/3HFfxukqXqPbcQJwULoDwP) | 4:13 |
 | 53 | [Local Pride](https://open.spotify.com/track/7EH51Yhadz1qhFEy6s0rdW) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Local Pride](https://open.spotify.com/album/4YIMpGdK3OVGoZufX69xHO) | 3:34 |
 | 54 | [Apalagi](https://open.spotify.com/track/6p7HS4R8uqd2oYOiXvB4j1) | [Risma Aw Aw](https://open.spotify.com/artist/0R245suLDWXPNHgeCitMhS) | [Apalagi](https://open.spotify.com/album/41zRx5NrPBhQGwHzeKgtS3) | 3:29 |

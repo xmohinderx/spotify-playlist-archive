@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-122 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
+123 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,12 +12,12 @@
 | [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 | 2022-05-26 |  |
 | [A Higher Presence](https://open.spotify.com/track/5ZQ2hn58jULkkRLCbEH0ZY) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 2:15 | 2021-12-09 |  |
 | [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 | 2021-12-09 |  |
-| [Aftermath](https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX) | [Bernard](https://open.spotify.com/artist/0qIdo63s9m0JI8LOQFFb0f) | [Aftermath](https://open.spotify.com/album/7CVds6xwlcKmedbFexbYFW) | 1:52 | 2021-12-09 |  |
+| [Aftermath](https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX) | [Bernard](https://open.spotify.com/artist/0qIdo63s9m0JI8LOQFFb0f) | [Aftermath](https://open.spotify.com/album/7CVds6xwlcKmedbFexbYFW) | 1:52 | 2021-12-09 | 2022-07-24 |
 | [Afternoon Spirits](https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 3:31 | 2021-12-09 | 2022-07-22 |
 | [Aion](https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf) | [Kolorascze](https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ) | [Aion](https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh) | 2:04 | 2021-12-09 |  |
 | [Aisling](https://open.spotify.com/track/34kjURfkT8aFxpnUevDJK1) | [Solene Edgar](https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul) | [Aisling](https://open.spotify.com/album/3H37b5Qqi4GaisCSn3kKm2) | 2:58 | 2021-12-22 |  |
 | [Ali](https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p) | [Caleufu](https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4) | [Caleufu](https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12) | 2:07 | 2021-12-09 |  |
-| [Amorous Rebound](https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amorous Rebound](https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE) | 1:49 | 2021-12-09 |  |
+| [Amorous Rebound](https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amorous Rebound](https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE) | 1:49 | 2021-12-09 | 2022-07-24 |
 | [Aragorn](https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Tenebris](https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza) | 3:53 | 2021-12-09 |  |
 | [Are You Out There](https://open.spotify.com/track/6TN8WHj5iZZRmmjbnJNOOt) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Are You Out There](https://open.spotify.com/album/01uIomsf3OpfVR0KiikG29) | 4:03 | 2021-12-09 |  |
 | [Ascending Journy](https://open.spotify.com/track/0Dudid2JOAtq9Nt0Dg0OfT) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF) | [Ascending Journey](https://open.spotify.com/album/0MGjvTelcOSXHZ7RhIQzWW) | 3:22 | 2022-07-06 |  |
@@ -53,7 +53,7 @@
 | [Headroom](https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 2:52 | 2021-12-09 |  |
 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 | 2021-12-09 |  |
 | [Heaven like](https://open.spotify.com/track/7DgGJTm2pA8tLjEp2TIh2B) | [Tiz Lillux](https://open.spotify.com/artist/4JdnWiTAFBgOomzrS67VFm) | [Heaven like](https://open.spotify.com/album/2C339OpzphzqUHIuJ26ZFr) | 4:03 | 2021-12-09 |  |
-| [Hibernia Sleep](https://open.spotify.com/track/35dy7TPuGURTSYJcTZIa1u) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [For What Awaits](https://open.spotify.com/album/2Tn3i33LXduCGay6j3ksLK) | 2:26 | 2021-12-09 | 2022-07-23 |
+| [Hibernia Sleep](https://open.spotify.com/track/35dy7TPuGURTSYJcTZIa1u) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [For What Awaits](https://open.spotify.com/album/2Tn3i33LXduCGay6j3ksLK) | 2:26 | 2021-12-09 |  |
 | [Hope And Glory](https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Hope And Glory](https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE) | 3:24 | 2021-12-09 |  |
 | [Humpback Whales](https://open.spotify.com/track/05UHTEtKF3xSVlEOszpdmO) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:21 | 2021-12-09 |  |
 | [Hvis du bare vidste](https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL) | [Silas Mathiasen](https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5) | [Hvis du bare vidste](https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk) | 2:42 | 2021-12-09 |  |
@@ -82,10 +82,11 @@
 | [Myriads](https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Myriads](https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr) | 2:55 | 2021-12-09 |  |
 | [Mysterium](https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Mysterium](https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT) | 2:47 | 2021-12-09 | 2022-04-21 |
 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 | 2021-12-09 |  |
-| [Notes On Leave Taking](https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Selah](https://open.spotify.com/album/3ucN43N5AB3IhIAOiX3MWI) | 3:45 | 2021-12-09 |  |
+| [Notes On Leave Taking](https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Selah](https://open.spotify.com/album/3ucN43N5AB3IhIAOiX3MWI) | 3:45 | 2021-12-09 | 2022-07-24 |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-01-06 |  |
 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 | 2021-12-09 |  |
 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 | 2021-12-09 |  |
+| [Our Powers](https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [Our Powers](https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6) | 2:36 | 2022-07-22 |  |
 | [Pavane, Op\. 50](https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 3:28 | 2022-03-25 | 2022-04-21 |
 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 | 2021-12-09 |  |
 | [Placidity \- Studio Edit](https://open.spotify.com/track/0vsCKqIDPPFpFgAZdKe0XV) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Placidity](https://open.spotify.com/album/5JPweRKouRByGPkZZRZ2C2) | 3:01 | 2021-12-09 |  |
@@ -98,7 +99,7 @@
 | [Saraya](https://open.spotify.com/track/3iqVvsJ10ib4hbIQYgli9f) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Saraya](https://open.spotify.com/album/2KOxOL9j37zXGXbTIrIzaN) | 2:28 | 2021-12-09 |  |
 | [Sentiments in Emptiness](https://open.spotify.com/track/5tlzeu9WthIjEDlRMY1Ko3) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/2M5fJOeUUEKlqNY0QLbjwX) | 3:41 | 2021-12-09 |  |
 | [Serum](https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM) | [Cieri](https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL) | [Serum](https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT) | 3:44 | 2021-12-09 |  |
-| [Softly](https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Softly](https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin) | 2:25 | 2021-12-09 | 2022-07-14 |
+| [Softly](https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Softly](https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin) | 2:25 | 2021-12-09 |  |
 | [Sonata Pathétique](https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 2:50 | 2021-12-09 | 2022-04-21 |
 | [Song For Wermland](https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4) | [Rasmus Jenzen](https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc) | [Song For Wermland](https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA) | 3:46 | 2021-12-09 | 2022-07-23 |
 | [Sonámbulos](https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX) | [Abril Iluso](https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd) | [Sonámbulos](https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V) | 3:12 | 2022-06-16 |  |

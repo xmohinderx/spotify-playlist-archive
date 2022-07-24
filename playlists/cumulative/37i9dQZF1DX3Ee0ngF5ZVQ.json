@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 200720,
       "name": "30 Miles",
       "url": "https://open.spotify.com/track/7JVEogoLQNWMQlIxTj0Lqw"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 210659,
       "name": "50 In The Fast Lane",
       "url": "https://open.spotify.com/track/5alOkELJvfoqRQGDkJn6Gc"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 227226,
       "name": "A Song Can't Fix Everything (feat. Paul Cauthen)",
       "url": "https://open.spotify.com/track/77nza5LdjuD35bjguHP0le"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 197225,
       "name": "Ain't Nothin New",
       "url": "https://open.spotify.com/track/4RQFhyfXz7PTXHQrWWZPYF"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 267041,
       "name": "Another You",
       "url": "https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 266581,
       "name": "Bigger Than Texas (Acoustic)",
       "url": "https://open.spotify.com/track/5Dl4entYlkGPbKJFL3yrva"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 228840,
       "name": "Build You a Bar",
       "url": "https://open.spotify.com/track/5ipv5YkZIyYCW6h7zjfjKs"
@@ -1054,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "But Me",
+        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
+      },
+      "artists": [
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235920,
+      "name": "But Me",
+      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
+    },
+    {
+      "album": {
         "name": "Buzzed Brain, Pt. 2",
         "url": "https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3"
       },
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 266556,
       "name": "Buzzed Brain",
       "url": "https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 189600,
       "name": "Cheater",
       "url": "https://open.spotify.com/track/6EPaIJavBPjo5aXlnEFfBU"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 193406,
       "name": "Cuz I'm Country",
       "url": "https://open.spotify.com/track/3djfobOj71XBOhb8eQaCzS"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 214607,
       "name": "Deconstruction of a Heartache",
       "url": "https://open.spotify.com/track/22OAfJb7n2uHuUkyfhBnk0"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 226608,
       "name": "Don't Hold Your Breath",
       "url": "https://open.spotify.com/track/120dlF8jwNeOKgjmLsL25m"
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 201333,
       "name": "El Paso",
       "url": "https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 246133,
       "name": "Fences",
       "url": "https://open.spotify.com/track/37TQSRXPacyRqVmnLT1QVi"
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 191333,
       "name": "Fly Tonight",
       "url": "https://open.spotify.com/track/3soZJPbNtUIrgBYc9CsPWe"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 186466,
       "name": "Follow",
       "url": "https://open.spotify.com/track/4QqnvcRSmylDaB135aWjun"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 194346,
       "name": "Girls Just Wanna Have Fun - Duet",
       "url": "https://open.spotify.com/track/0Z7mIPT4ULM9SJkWX9dH0i"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 249940,
       "name": "Glory of True Love",
       "url": "https://open.spotify.com/track/2vi13dqyEG3YA7fqrEZRAA"
@@ -2729,7 +2747,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 187610,
       "name": "I Found Trouble",
       "url": "https://open.spotify.com/track/54WSRFGDv7lWCcZnAA1m3M"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 214142,
       "name": "If You Want It That Much",
       "url": "https://open.spotify.com/track/6h6uTeYywawEahrjFs2gYz"
@@ -3375,7 +3393,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 241116,
       "name": "Loves Got A Hold On You",
       "url": "https://open.spotify.com/track/4Mxtx2WAbax4WzXrPjRv49"
@@ -4291,7 +4309,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 225999,
       "name": "Ship Faced",
       "url": "https://open.spotify.com/track/25u4pZIIX2jwe3xt9mJ7qL"
@@ -4453,7 +4471,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 200547,
       "name": "Stay Tuned",
       "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
@@ -4471,7 +4489,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 227360,
       "name": "Steady",
       "url": "https://open.spotify.com/track/3o0MDTv8SNnkbX09k7Ae8R"
@@ -4883,7 +4901,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 194047,
       "name": "The Whiskey Will",
       "url": "https://open.spotify.com/track/5vqu1ypiHCb4NakEl2q0zT"
@@ -5009,7 +5027,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 157665,
       "name": "Too Much Texas",
       "url": "https://open.spotify.com/track/3hEWrpdstTH1OLaQdBZWG0"
@@ -5171,7 +5189,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 252020,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/4x2AKf7AxbsdfKFAGZWDbQ"
@@ -5189,7 +5207,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 202383,
       "name": "Varsity Type",
       "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
@@ -5337,7 +5355,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 248666,
       "name": "Western Tears",
       "url": "https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq"
@@ -5651,7 +5669,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 167520,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"

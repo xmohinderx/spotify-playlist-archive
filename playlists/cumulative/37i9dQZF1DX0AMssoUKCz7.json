@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 157685,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4eZiBjSsbi4ObiL8s5rzP7"
@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/4VN9CiIqNbahM974oIIBIk"
+      },
+      "artists": [
+        {
+          "name": "Emilian Lewis",
+          "url": "https://open.spotify.com/artist/1DEFhYXVaisWLnCSLMhqqr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "American Psycho",
+      "url": "https://open.spotify.com/track/39LU0zIvfVEYxojBIQWazT"
+    },
+    {
+      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/4CEFJYar9wG5YFz9rKBLUo"
       },
@@ -499,7 +517,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 209477,
       "name": "Are You Mine",
       "url": "https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 186168,
       "name": "Backyard Stories",
       "url": "https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 146073,
       "name": "Break Through",
       "url": "https://open.spotify.com/track/7fA8lHiXjHyeMks8jTC48S"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 199322,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/0ykA4gIBawfUCPIsvOYRav"
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 132330,
       "name": "Could've Been Us",
       "url": "https://open.spotify.com/track/1oNFTQO0z6PuRH1wOOQXPe"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 212813,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/6LHvM6g4TD9ugyYs4CKwyc"
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 176640,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/7vniVkC7TKvLVMpAKMZ6Zz"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 390649,
       "name": "Electric Feel (Kygo Remix)",
       "url": "https://open.spotify.com/track/0toJeVTW2hHX9qYVmdOpBs"
@@ -2161,6 +2179,28 @@
       "duration_ms": 163500,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/0KEIkG5UaLrDjBZ5HVQIfe"
+    },
+    {
+      "album": {
+        "name": "Existe El Amor",
+        "url": "https://open.spotify.com/album/3JyjkVtZ539jj7srxSCQGY"
+      },
+      "artists": [
+        {
+          "name": "Noile",
+          "url": "https://open.spotify.com/artist/0KjXAq0C0q9edx9triuYi9"
+        },
+        {
+          "name": "Ladina Viva",
+          "url": "https://open.spotify.com/artist/6KIl9XHyJDDXbQLnbTf5wm"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125094,
+      "name": "Existe El Amor",
+      "url": "https://open.spotify.com/track/1vrFjapAsAdYA2Xmtry5de"
     },
     {
       "album": {
@@ -2479,7 +2519,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 184133,
       "name": "Fireproof - Embody Remix",
       "url": "https://open.spotify.com/track/0ZNkenDGP8wVlnEwfiBJYO"
@@ -2699,7 +2739,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 179478,
       "name": "Fresh Prince",
       "url": "https://open.spotify.com/track/2eqb2THAY8YgGXPEJasn0Z"
@@ -3659,6 +3699,10 @@
         {
           "name": "Creon Flips",
           "url": "https://open.spotify.com/artist/2qq4OFTPe8qqLnzODvRnvw"
+        },
+        {
+          "name": "Sarah Lahn",
+          "url": "https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa"
         }
       ],
       "date_added": "2022-07-22",
@@ -3703,6 +3747,32 @@
       "duration_ms": 190280,
       "name": "I Bet My Life - Alex Adair Remix",
       "url": "https://open.spotify.com/track/3bnEhDlFFXeCyyYhbRszW7"
+    },
+    {
+      "album": {
+        "name": "I Did Most",
+        "url": "https://open.spotify.com/album/5Gsewmhw0j9GzPfvJsPQmG"
+      },
+      "artists": [
+        {
+          "name": "SANDMO",
+          "url": "https://open.spotify.com/artist/6s4D1tHXN2nIoywKMPR8UF"
+        },
+        {
+          "name": "Vinil",
+          "url": "https://open.spotify.com/artist/4B9njk5H0MezHq02ZrF6SA"
+        },
+        {
+          "name": "FIXL",
+          "url": "https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "I Did Most",
+      "url": "https://open.spotify.com/track/2Etyq5tttA45vDBH7Ephtf"
     },
     {
       "album": {
@@ -4121,7 +4191,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 177812,
       "name": "Invisible Love",
       "url": "https://open.spotify.com/track/78wWcQkvGPOY7qXDTxENIt"
@@ -4199,7 +4269,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 144406,
       "name": "It's On Me",
       "url": "https://open.spotify.com/track/0ZjTWEc0eU7rm4XvO4coE6"
@@ -5699,7 +5769,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 148615,
       "name": "New Guinea",
       "url": "https://open.spotify.com/track/2aOeoucXlw56zHNrbBwHWa"
@@ -7341,7 +7411,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 122678,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/3USDDlXk3S0u4xFnv3NeaX"
@@ -7393,7 +7463,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 151218,
       "name": "Silverskin",
       "url": "https://open.spotify.com/track/2DMqiPZ8uLE2AtwHLInHOI"
@@ -7883,7 +7953,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 237694,
       "name": "Sun Don't Shine",
       "url": "https://open.spotify.com/track/6n0OQD5aGspHuwFPJ2ePGC"
@@ -8511,7 +8581,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Tranquillity",
       "url": "https://open.spotify.com/track/6FRPp1RZx4bXvAP95Qmodx"
@@ -8595,7 +8665,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 138421,
       "name": "Use a Wish",
       "url": "https://open.spotify.com/track/1f6S0tKwClVilOhvE8gcsw"
@@ -8975,7 +9045,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 124615,
       "name": "What I'm Looking For",
       "url": "https://open.spotify.com/track/6NrLhWohJARHxqQRW1cLGg"
@@ -9111,7 +9181,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 146027,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/5d6PDT0O0gosk9JpoVAV1X"

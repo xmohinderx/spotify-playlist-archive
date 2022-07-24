@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Montell Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,136 likes - 98 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,198 likes - 98 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 19 | [King Of Kings](https://open.spotify.com/track/0bHChHKTmyzZkXxGz7qfVm) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [King Of Kings](https://open.spotify.com/album/2LO7j9mYezEdSEstvoFuKv) | 4:01 |
 | 20 | [When I Say Your Name \- Live](https://open.spotify.com/track/2iCfw1ocK8tE341iwTKdAf) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Yahweh](https://open.spotify.com/album/0C8IetiUJZpIa1mArhWgpQ) | 8:21 |
 | 21 | [It Is Finished](https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Kingdom Kids, Vol\. 2](https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU) | 4:26 |
-| 22 | [Jesus The Beloved \- Live](https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 9:49 |
+| 22 | [Jesus The Beloved \- Live](https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 9:49 |
 | 23 | [Be Still, Be Still, My Soul \(Psalm 46\) \- Live](https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2 \(Live\)](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 3:57 |
 | 24 | [Alleluia](https://open.spotify.com/track/7o9EeEq2tjNBOYClVMlrr3) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [Davis](https://open.spotify.com/album/0WsqbKSN5wzNrkJL2VNKVR) | 4:48 |
 | 25 | [At All Cost](https://open.spotify.com/track/6djOo6172opLZzO3TdXlhB) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Marilyn Benedict](https://open.spotify.com/artist/0B1IKJpYFqeaHf1kANtVG7), [Nicholas Randall](https://open.spotify.com/artist/0KCeZIFURr64XmBeMWp9PW) | [At All Cost](https://open.spotify.com/album/5N4QY1HeZTbSUa55yiGOft) | 7:53 |

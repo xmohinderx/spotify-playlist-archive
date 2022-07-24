@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 205125,
       "name": "Chingas A Tu Madre",
       "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 186233,
       "name": "Conflicto de quererte - Banda",
       "url": "https://open.spotify.com/track/5qwV4ONmc2UlO1GNTMzpcl"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Descansando",
       "url": "https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 250794,
       "name": "Hasta La Miel Amarga - En Vivo",
       "url": "https://open.spotify.com/track/5Zr38rWgjHMe3zSwvsmFD1"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 154000,
       "name": "Lo Que Me Pas\u00f3 Contigo",
       "url": "https://open.spotify.com/track/7l1x4QBIt7b15imFdhIaPx"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 201465,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4dWNUUDkYKSnB5HFfgw05S"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 181512,
       "name": "Me Regalo Contigo",
       "url": "https://open.spotify.com/track/2eFkAYQU1kzdDVASc409uK"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 142819,
       "name": "Mientras Me Voy",
       "url": "https://open.spotify.com/track/184ZZoYZ0dyt0lzevDOlKS"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/1A0qhR8nxWIM4EekyTZFRO"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 182093,
       "name": "Nimodo",
       "url": "https://open.spotify.com/track/7jSJmetLa9y5DUIQC1pTiq"
@@ -1499,6 +1499,28 @@
       "duration_ms": 165613,
       "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
       "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
+    },
+    {
+      "album": {
+        "name": "Pa' la Sed",
+        "url": "https://open.spotify.com/album/3r144MpSvmsfBRq5JI5xq6"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        },
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237480,
+      "name": "Pa' la Sed",
+      "url": "https://open.spotify.com/track/6snKIrvddCrgOiYlHx8yua"
     },
     {
       "album": {
@@ -1655,7 +1677,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 204200,
       "name": "Por Si Me Adelanto - Banda",
       "url": "https://open.spotify.com/track/58fd41sZyZGnyS0XXwj8AO"
@@ -1691,7 +1713,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/7EhjgNLMiTYCh6ClCy3RIT"
@@ -1731,7 +1753,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 177912,
       "name": "Qu\u00e9 Voy A Hacer Para Olvidarte",
       "url": "https://open.spotify.com/track/04GweOJ0hUSX3URVtx0G30"
@@ -2065,7 +2087,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 182480,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
@@ -2137,7 +2159,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 186305,
       "name": "Ya Lo Pens\u00e9 Mejor",
       "url": "https://open.spotify.com/track/3JNSvYlS3VnGJaaYbRmj2J"
@@ -2213,7 +2235,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 147053,
       "name": "Ya Te Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"

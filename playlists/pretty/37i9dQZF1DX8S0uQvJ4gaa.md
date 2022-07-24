@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Alana Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,796 likes - 117 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,162 likes - 117 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 30 | [Stereotype](https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55) | 3:42 |
 | 31 | [Good Riddance](https://open.spotify.com/track/3WwZbPizrnJqJFx86kNPs1) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [Good Riddance](https://open.spotify.com/album/0wsFRTnDflqysvqN2YQ8dz) | 2:22 |
 | 32 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 |
-| 33 | [One Too \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/2wgCb69kASEz1uOUp4zjOi) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [One Too \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/1LBUZeG8sxyMMsYSye4yAL) | 3:21 |
+| 33 | [One Too](https://open.spotify.com/track/2wgCb69kASEz1uOUp4zjOi) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [One Too](https://open.spotify.com/album/1LBUZeG8sxyMMsYSye4yAL) | 3:21 |
 | 34 | [We Had It Good](https://open.spotify.com/track/7HQIudswhHicyidL1V4iiO) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 3:32 |
 | 35 | [Hear About a Girl](https://open.spotify.com/track/7oYuJA9j1pOdkRWIdWvV01) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Hear About a Girl](https://open.spotify.com/album/7G4fhfePVOdBvyHcWRJfCz) | 3:07 |
 | 36 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 |

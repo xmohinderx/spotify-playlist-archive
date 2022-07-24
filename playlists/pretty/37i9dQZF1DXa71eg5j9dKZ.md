@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover:  Eliza Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,058 likes - 112 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,154 likes - 112 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

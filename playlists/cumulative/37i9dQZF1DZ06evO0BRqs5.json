@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 314213,
       "name": "frozen eyez",
       "url": "https://open.spotify.com/track/5JmkXY4tdcONIdXI1NDNjY"
@@ -440,24 +440,6 @@
     },
     {
       "album": {
-        "name": "Lapis Lazuli",
-        "url": "https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
-      "duration_ms": 243360,
-      "name": "Utsusemi Ultimate",
-      "url": "https://open.spotify.com/track/0ps2PbZL9SO9VaHqPfrQ3x"
-    },
-    {
-      "album": {
         "name": "FRAGMENT (Special Edition)",
         "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
       },
@@ -595,7 +577,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 265906,
       "name": "\u30b5\u30c6\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6JVhxrEMzT2mWSNHWMhwFZ"
@@ -721,7 +703,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 279866,
       "name": "\u30d2\u30c8\u30ea\u30c8\u30d2\u30c8\u30ea",
       "url": "https://open.spotify.com/track/26YNGudhBMxEGkB8RluCHC"
@@ -923,6 +905,24 @@
       "duration_ms": 266400,
       "name": "\u6df1\u3044\u68ee",
       "url": "https://open.spotify.com/track/0FQCrJ6j5ZDZ7od1TkMchk"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea",
+        "url": "https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243360,
+      "name": "\u7a7a\u8749\u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/0ps2PbZL9SO9VaHqPfrQ3x"
     },
     {
       "album": {

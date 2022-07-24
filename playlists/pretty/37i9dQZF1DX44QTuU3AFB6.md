@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Los Tigres Del Norte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,969 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,004 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 36 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/6CMUbdue9apkMR5RvIuA3H) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:05 |
 | 37 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:26 |
 | 38 | [Por Debajo Del Agua](https://open.spotify.com/track/4nJPAEl70w6VjOfetvZGQn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:17 |
-| 39 | [Ando Bien Al Tiro](https://open.spotify.com/track/4CxU88d7ZT6op81SOYlrOg) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Billetes Verdes](https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5) | 2:27 |
-| 40 | [Amor Confuso](https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
-| 41 | [Ya Te Supere \- En Vivo](https://open.spotify.com/track/788e0doWXCkDlnufoDndcy) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 3:05 |
-| 42 | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 |
-| 43 | [La Buena y la Mala](https://open.spotify.com/track/17IiqbqbVVWMlq6j7xrQaD) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6I9xsd5xis4wg41FQCHsvV) | 3:24 |
-| 44 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
-| 45 | [Dolor y Amor](https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:39 |
-| 46 | [Así Quería Mirarte](https://open.spotify.com/track/1U0TaW2UNfdD8Hr5IEJXXv) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy) | 3:37 |
-| 47 | [Una Pagina Mas](https://open.spotify.com/track/6a2gIzBos0wc6yBJmrh1aY) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Pagina Mas](https://open.spotify.com/album/6Taf668GQt3vKonOZCxXpq) | 2:42 |
-| 48 | [Soñador Eterno](https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 2:57 |
-| 49 | [Ignoraste Mis Lágrimas](https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 2:54 |
-| 50 | [Ebrio De Amor](https://open.spotify.com/track/4yDTg9PkshhDpmUIVFoYI5) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [15 Exitos](https://open.spotify.com/album/6xLX5b3LhCdmqiu78iHfQd) | 2:45 |
+| 39 | [De Mal En Peor \- En Vivo](https://open.spotify.com/track/1HY5eeNOR9TE70hf3FKKPt) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Mal En Peor \(En Vivo\)](https://open.spotify.com/album/1wO2JtelquIlPWI3cEZtl6) | 2:30 |
+| 40 | [Ojalá que te mueras](https://open.spotify.com/track/2R7r52Ar8PrKCysGFUPynn) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Rezare](https://open.spotify.com/album/4pxfXBGEL0k61ELXiQuL7N) | 3:00 |
+| 41 | [Ando Bien Al Tiro](https://open.spotify.com/track/4CxU88d7ZT6op81SOYlrOg) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Billetes Verdes](https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5) | 2:27 |
+| 42 | [Eslabón Por Eslabón](https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ni Dada La Quiero](https://open.spotify.com/album/1wJklr611fFhZoveD89y4F) | 3:02 |
+| 43 | [En la Sierra y la Ciudad \(La China\)](https://open.spotify.com/track/3d4nvqVHxsY2czibr9SXu9) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/0XQIEnBFAUvoYyW6V1Ph6j) | 3:26 |
+| 44 | [Nomás Este Rey \- Bonus Track](https://open.spotify.com/track/1WHfJ4DYMdBCqpO9D0SWPT) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [De Corazon Bohemio](https://open.spotify.com/album/5xgYlFQBExiMml4K3yeDVD) | 3:36 |
+| 45 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 |
+| 46 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
+| 47 | [Un Placer, Fui El Chamaco \- En Vivo](https://open.spotify.com/track/5fJlztLjjC9akK1soyzCzu) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Un Placer, Fui El Chamaco \(En Vivo\)](https://open.spotify.com/album/1TnuJCwhjp4hVXakm0AyVX) | 2:43 |
+| 48 | [Si Una Vez \- En Vivo](https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:54 |
+| 49 | [Enhorabuena](https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Te Voy A Amar](https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC) | 3:14 |
+| 50 | [Hasta Que Salga El Sol \- Versión 30 Aniversario](https://open.spotify.com/track/5vvmkNSa5LDK4zCn315gcW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [30 Aniversario](https://open.spotify.com/album/52q5WhmITcyCrhmqHHnjgI) | 2:23 |
 
-Snapshot ID: `MTY1ODUzOTE4NCwwMDAwMDAwMDM1NTBkMGZjNmMxYWYwNWU5MWY2MjZkODVmNjlkOTUx`
+Snapshot ID: `MTY1ODYyNTkwNiwwMDAwMDAwMDIwMmNiOWUxNThiYWM5OTFiNmY5ODdiZTgzMTg0NWQx`

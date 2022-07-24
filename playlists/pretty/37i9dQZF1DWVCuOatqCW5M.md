@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Armaan Malik
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,629 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,666 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

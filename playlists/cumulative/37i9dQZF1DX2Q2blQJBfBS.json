@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 139093,
       "name": "All Things Considered",
       "url": "https://open.spotify.com/track/4rlDT2outpa4P8eiuElcy9"
@@ -612,6 +612,32 @@
     },
     {
       "album": {
+        "name": "Beep",
+        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
+      },
+      "artists": [
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        },
+        {
+          "name": "Jaywop",
+          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
+        },
+        {
+          "name": "Da-P",
+          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171219,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
+    },
+    {
+      "album": {
         "name": "Growthfully Developed",
         "url": "https://open.spotify.com/album/2rzycokngAInNwhFF3Hc0Q"
       },
@@ -817,7 +843,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Bouls On Parade",
       "url": "https://open.spotify.com/track/6TbahU1ahO9bnzrIy3BEhp"
@@ -929,7 +955,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 182551,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/3jpjbizEUW74AQPNlmoeiD"
@@ -1079,7 +1105,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 68830,
       "name": "Cherry Beach",
       "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
@@ -1399,7 +1425,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 166289,
       "name": "CUD GAWD",
       "url": "https://open.spotify.com/track/5BDmVjKFoZIl0tZ7Qdp3xW"
@@ -1479,7 +1505,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 265826,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9"
@@ -1761,7 +1787,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 182280,
       "name": "Double Nickel At MSG",
       "url": "https://open.spotify.com/track/75ug1wYxiLg46vT8IcVOqh"
@@ -2051,7 +2077,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 128250,
       "name": "Every City In America Is A Sundown Town",
       "url": "https://open.spotify.com/track/1HKEzypqMzhtA61MjO3J6f"
@@ -2145,7 +2171,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 160879,
       "name": "FEDS",
       "url": "https://open.spotify.com/track/0X9tyUxH6fPN0C2BgESONf"
@@ -2201,7 +2227,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 180500,
       "name": "Feeling Like Jah",
       "url": "https://open.spotify.com/track/0N4D8Z006iarE9WUhWCMlf"
@@ -2249,7 +2275,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 177904,
       "name": "FLASHFLOODS",
       "url": "https://open.spotify.com/track/2vXyWzST5IzkgXBDLxCVD5"
@@ -2543,7 +2569,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 116533,
       "name": "Got It For Cheap",
       "url": "https://open.spotify.com/track/7CIm9r6YGAu8KJ47RZ41hZ"
@@ -2617,7 +2643,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 262973,
       "name": "Guillotine (Swordz) (feat. Ghostface Killah, Inspectah Deck & GZA (Genius))",
       "url": "https://open.spotify.com/track/6eAIynPK19mHRypXB26o6X"
@@ -2791,7 +2817,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 245898,
       "name": "Hell or High Water",
       "url": "https://open.spotify.com/track/7u5dc7gDcwNOjd1lUmoMwo"
@@ -3097,7 +3123,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 191508,
       "name": "I Want It All (feat. Fly Anakin & Nickelus F)",
       "url": "https://open.spotify.com/track/2aqxYIQASZtHookre6o12S"
@@ -3207,7 +3233,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 134040,
       "name": "Invocation",
       "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
@@ -3549,7 +3575,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 151090,
       "name": "Late for the Bus",
       "url": "https://open.spotify.com/track/04eV3eZX2h8Tlhi1oo3fpJ"
@@ -3905,7 +3931,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 94000,
       "name": "Louie BK",
       "url": "https://open.spotify.com/track/11k8whY52rJLKjnVecp2Rf"
@@ -3967,7 +3993,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 200695,
       "name": "Luther's Janitorial",
       "url": "https://open.spotify.com/track/4sZ0fhaxm4Z9SXw04N0ELz"
@@ -4339,7 +4365,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 166640,
       "name": "My Favorite Ladies",
       "url": "https://open.spotify.com/track/1BQ7NbAotfutwilc1ErwYz"
@@ -4585,7 +4611,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 197410,
       "name": "Nightmares And Dreams",
       "url": "https://open.spotify.com/track/756fnIk0VMH2PTLjnVO7eR"
@@ -5147,7 +5173,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 271373,
       "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
       "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
@@ -5307,7 +5333,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 140500,
       "name": "Plain English",
       "url": "https://open.spotify.com/track/5zFPB7NKXniVJWgwrC8B6Y"
@@ -5601,7 +5627,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 132954,
       "name": "Rap Phenomenom",
       "url": "https://open.spotify.com/track/3KdABpJFJ6iqCIat8oyH32"
@@ -5697,7 +5723,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 157569,
       "name": "Recollect",
       "url": "https://open.spotify.com/track/1xE7Sor4YHNCpAn0074F6K"
@@ -5715,7 +5741,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 227653,
       "name": "Reefer Clouds",
       "url": "https://open.spotify.com/track/1tCIUI2b2t3R3WIrSxfXle"
@@ -5857,7 +5883,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 175581,
       "name": "Roman Candles (feat. Roc Marciano & Black Thought)",
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
@@ -6559,7 +6585,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 176551,
       "name": "Teriyaki",
       "url": "https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew"
@@ -7015,7 +7041,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 237416,
       "name": "Through The Woods",
       "url": "https://open.spotify.com/track/6aGOpmkYjhSgkSB9ekHALv"
@@ -7535,7 +7561,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 170232,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/2ecEodyktQiPhm9euwYfVr"
@@ -7839,7 +7865,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 260545,
       "name": "Zealots",
       "url": "https://open.spotify.com/track/52PgJoRz30sRQGOGqXYKdX"

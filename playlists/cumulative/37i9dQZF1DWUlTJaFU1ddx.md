@@ -4,19 +4,22 @@
 
 > The sweet sounds of Jordan.
 
-51 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/3RjKkBGdUUaqqoXkZCGwyG)
+55 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/3RjKkBGdUUaqqoXkZCGwyG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7ai](https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix), [Bader Azem](https://open.spotify.com/artist/75hMrwzTIrdi0SvamLjY9D) | [Xvibe](https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7) | 2:47 | 2021-08-25 |  |
 | [Affon Mennik](https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL) | [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas) | [Affon Mennik](https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn) | 3:20 | 2021-08-25 |  |
+| [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 | 2022-07-23 |  |
 | [Ammal Tehlaw](https://open.spotify.com/track/1hUZU0lCce1QzcaqWjwWiE) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Ammal Tehlaw](https://open.spotify.com/album/1GOZ3S72ib2ZU1MjpeRy42) | 3:09 | 2021-08-25 |  |
 | [Ardon Wahed](https://open.spotify.com/track/4kPTdotigbZh8C5d42p5sT) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Khusouf Al\-Ard](https://open.spotify.com/album/6gnf8UdhDLssZAvG3PF5Dw) | 3:30 | 2021-08-25 |  |
 | [Asheek](https://open.spotify.com/track/6G4H20LIYJELDI6fAbWKMo) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3](https://open.spotify.com/album/4noxSq67DwvvPBwYaQiYBH) | 4:51 | 2021-08-25 |  |
+| [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 | 2022-07-23 |  |
 | [Ballet](https://open.spotify.com/track/4c1JwtH7HEfIqlf0keNFGR) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Ballet](https://open.spotify.com/album/30qPLsJugZwQXGH7iHdvkY) | 4:08 | 2021-08-25 |  |
 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 | 2021-08-25 |  |
-| [Btaaref Shuur](https://open.spotify.com/track/48wOhHtZNVEDL05Vxrp7eZ) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Btaaref Shuur](https://open.spotify.com/album/1Ztk0OR6YwkmsTTnVubzLc) | 3:21 | 2021-08-25 |  |
+| [Btaaref Shuur](https://open.spotify.com/track/48wOhHtZNVEDL05Vxrp7eZ) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Btaaref Shuur](https://open.spotify.com/album/1Ztk0OR6YwkmsTTnVubzLc) | 3:21 | 2021-08-25 | 2022-07-24 |
 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 | 2021-08-25 |  |
+| [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 | 2022-07-23 |  |
 | [Fil Atmeh](https://open.spotify.com/track/4E0PF1tlJgOK23UF03wWyK) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Fil Atmeh](https://open.spotify.com/album/3roVdMcbd4OF7q853JM8Gc) | 3:40 | 2021-08-25 |  |
 | [Hada Ma Byentasa](https://open.spotify.com/track/2YSeUVN3O3t8PeK1sGtRFQ) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Hada Ma Byentasa](https://open.spotify.com/album/2BR05zm7GhqfI9G0k6jmvp) | 4:38 | 2021-08-25 |  |
 | [Hadal Ahbek](https://open.spotify.com/track/0ymn3NBfT1W2QW0d7U5kHS) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/5NUgTQnW5TqzsqzDVEVITx) | 3:29 | 2021-08-25 |  |
@@ -29,6 +32,7 @@
 | [Konna Sghar](https://open.spotify.com/track/55ExdRqYPtqMOweJaWqwbX) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/6wlJNQtXLY3ypYXVsayxnV) | 2:16 | 2021-08-25 |  |
 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 | 2021-08-25 |  |
 | [Laysa](https://open.spotify.com/track/0FJ7WZEaCsZPFxzt1LZ7Xy) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Laysa](https://open.spotify.com/album/77k4juG5fkQ0oT9zrmNA1m) | 2:26 | 2021-08-25 |  |
+| [Lazemni Break](https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Lazemni Break](https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT) | 2:22 | 2022-07-23 |  |
 | [Ma Bdi Heb](https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Ma Bdi Heb](https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z) | 4:14 | 2021-08-25 |  |
 | [Mabsoot Bhali](https://open.spotify.com/track/39efRQpfCpC418qhWOwE41) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Mabsoot Bhali](https://open.spotify.com/album/1HKy7sOwF0qCUIKLlSluNl) | 3:19 | 2021-08-25 |  |
 | [Manama](https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [Manama](https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe) | 3:40 | 2021-08-25 |  |

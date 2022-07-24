@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Jon Pardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,847 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,975 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 41 | [Knock Off](https://open.spotify.com/track/4OFyzhB3z7NI9LHk1imE5E) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Knock Off](https://open.spotify.com/album/3lGl8LGBSvrLvv89wFpy6y) | 3:04 |
 | 42 | [Wild As Her](https://open.spotify.com/track/6Fp8bcoejKxyg3D445llx1) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Wild As Her](https://open.spotify.com/album/3l7Xx5VzKP6Df3nbxOlDvo) | 3:01 |
 | 43 | [Come On With It](https://open.spotify.com/track/670avKEDoIrvyoLOgNJF7m) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Come On With It](https://open.spotify.com/album/5xPnmT5CGuQp1E0vxPXveO) | 2:37 |
-| 44 | [One Too \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/2wgCb69kASEz1uOUp4zjOi) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [One Too \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/1LBUZeG8sxyMMsYSye4yAL) | 3:21 |
+| 44 | [One Too](https://open.spotify.com/track/2wgCb69kASEz1uOUp4zjOi) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [One Too](https://open.spotify.com/album/1LBUZeG8sxyMMsYSye4yAL) | 3:21 |
 | 45 | [Honky Tonk Disco Nights](https://open.spotify.com/track/29MFOazYTBfOCg8XksAYlU) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Honky Tonk Disco Nights](https://open.spotify.com/album/6ywn9Y2pX7AqCSGp8YMwdU) | 2:42 |
 | 46 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 |
 | 47 | [Tell Me It Is](https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/track/0tXjb5mxi1ALIaagFuWxkb) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/album/0L93smV9MjarVHPfB6vZia) | 3:05 |
 | 100 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 |
 
-Snapshot ID: `MTY1ODUzODI5NiwwMDAwMDAwMGNhZjM4ZGJiZDk0MmJiZTgwN2RhMWU4MjU1NmI3OTY1`
+Snapshot ID: `MTY1ODYyNDk5MSwwMDAwMDAwMGNhZjM4ZGJiZDk0MmJiZTgwN2RhMWU4MjU1NmI3OTY1`

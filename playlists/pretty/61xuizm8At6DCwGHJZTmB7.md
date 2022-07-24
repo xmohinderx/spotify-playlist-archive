@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 112,339 likes - 90 songs - 8 hr 9 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 112,361 likes - 90 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 2 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
 | 3 | [You Remain \- Live](https://open.spotify.com/track/5OSWlFATPnMqNAidk1a0cT) | [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [You Remain \(Live\)](https://open.spotify.com/album/0mC62E1P3NyDz3IvZxPVPK) | 6:08 |
 | 4 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 |
-| 5 | [Jesus The Beloved \- Live](https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 9:49 |
+| 5 | [Jesus The Beloved \- Live](https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 9:49 |
 | 6 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 |
 | 7 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/4iaas0o0bFzalTLwhQTuBH) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/7a7spHufCfzU5ZO6O0nJJT) | 6:22 |
 | 8 | [We Come Alive](https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [We Come Alive](https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD) | 3:58 |

@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n D' Roto",
+        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
+      },
+      "artists": [
+        {
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217920,
+      "name": "Apariencia",
+      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
+    },
+    {
+      "album": {
         "name": "As\u00ed Nos Romp\u00edamos el Hocico Ayer",
         "url": "https://open.spotify.com/album/1BJcmBqzsfVXOpurvxnxZz"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 126616,
       "name": "As\u00ed Nos Romp\u00edamos el Hocico Ayer",
       "url": "https://open.spotify.com/track/08JMJA2pkJBXwwbzhvQ4av"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 226063,
       "name": "Cc (Como Compas)",
       "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
@@ -293,6 +311,28 @@
       "duration_ms": 187860,
       "name": "Cien Inviernos",
       "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
+    },
+    {
+      "album": {
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
     },
     {
       "album": {
@@ -383,7 +423,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 224680,
       "name": "Desamorados",
       "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
@@ -473,7 +513,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 198624,
       "name": "Distancias",
       "url": "https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA"
@@ -625,7 +665,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 216296,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/5inMYXf1fhZnoAC9YVFUoC"
@@ -643,7 +683,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 190093,
       "name": "Father's Day",
       "url": "https://open.spotify.com/track/3gPEdTm0aG02jeTxiniJQ3"
@@ -661,7 +701,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 216000,
       "name": "Fuera Luces",
       "url": "https://open.spotify.com/track/2v4cnmPx3f5tOBTb2InG9a"
@@ -679,7 +719,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 280475,
       "name": "Hoy Somos Dos Extra\u00f1os en la Calle",
       "url": "https://open.spotify.com/track/1PPIyz6ij82MWLSwX6G6HU"
@@ -755,7 +795,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 223960,
       "name": "La B\u00fasqueda del Tiempo Perdido",
       "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
@@ -777,6 +817,24 @@
       "duration_ms": 211110,
       "name": "La Muerte Nos Alcanz\u00f3",
       "url": "https://open.spotify.com/track/1i0qqbrYqtvlSWNSfbV6rG"
+    },
+    {
+      "album": {
+        "name": "La Naturaleza Incoherente del Ser",
+        "url": "https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW"
+      },
+      "artists": [
+        {
+          "name": "Dolores De Huevos",
+          "url": "https://open.spotify.com/artist/7wqgl1I3I8WWYs5QfeojTV"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203003,
+      "name": "La Naturaleza Incoherente del Ser",
+      "url": "https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG"
     },
     {
       "album": {
@@ -827,7 +885,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 209306,
       "name": "Ll\u00e9vate Todo",
       "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
@@ -899,7 +957,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 206438,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/47wLTuzem6hjRlTk4hJe0N"
@@ -971,7 +1029,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 186705,
       "name": "Nada Que Explicar",
       "url": "https://open.spotify.com/track/5ZirdB0vsnLf2MbnySb2Ao"
@@ -1079,7 +1137,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 151757,
       "name": "No Olvides de Enfocarte Siempre en lo Importante",
       "url": "https://open.spotify.com/track/51jqqiXt5rnEl9xKRyj86Y"
@@ -1119,7 +1177,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 243162,
       "name": "No S\u00e9 Qu\u00e9 Decir",
       "url": "https://open.spotify.com/track/4SqRftHIfHV6DgyCl2skaf"
@@ -1155,7 +1213,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 191043,
       "name": "Nunca Estara\u0301 Bien",
       "url": "https://open.spotify.com/track/31obbmT1YI5tvy0Rrx22WI"
@@ -1235,7 +1293,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 212939,
       "name": "Primer Lugar",
       "url": "https://open.spotify.com/track/0meCAzWjALDb070H6L9DsS"
@@ -1253,10 +1311,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 185493,
       "name": "Quemando Cartas",
       "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
+    },
+    {
+      "album": {
+        "name": "ReiniciaR",
+        "url": "https://open.spotify.com/album/4HuFfpp2wVLhh1LdyPRfn6"
+      },
+      "artists": [
+        {
+          "name": "May Sunday",
+          "url": "https://open.spotify.com/artist/08SkBrVjxq80ivZKnGh1LE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "ReiniciaR",
+      "url": "https://open.spotify.com/track/4fERNkRLeLdy2EqPxHzBiu"
     },
     {
       "album": {
@@ -1387,7 +1463,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 252782,
       "name": "Tennessecito",
       "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"

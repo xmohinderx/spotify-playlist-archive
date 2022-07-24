@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,512 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,513 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

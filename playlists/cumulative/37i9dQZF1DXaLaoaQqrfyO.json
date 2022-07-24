@@ -871,7 +871,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 280426,
       "name": "Dangerous (feat. Joywave)",
       "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 196465,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN"
@@ -1055,6 +1055,24 @@
       "duration_ms": 308360,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
+    },
+    {
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262520,
+      "name": "Every Time the Sun Comes Up",
+      "url": "https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT"
     },
     {
       "album": {
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 188336,
       "name": "Friends (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 212146,
       "name": "Genghis Khan",
       "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
@@ -1325,7 +1343,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 256133,
       "name": "Good Mistake",
       "url": "https://open.spotify.com/track/2C7RqNj5P1x7qDkfuxbbN4"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 187710,
       "name": "Mother & Father",
       "url": "https://open.spotify.com/track/3Nttjgkm2lDCRVFpMh22hv"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 228840,
       "name": "Sleeping With A Friend",
       "url": "https://open.spotify.com/track/0K1KOCeJBj3lpDYxEX9qP2"

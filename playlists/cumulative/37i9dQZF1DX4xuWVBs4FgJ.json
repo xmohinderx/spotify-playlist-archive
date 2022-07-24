@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 182400,
       "name": "At Last - Single Version",
       "url": "https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 187253,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/2MOsa4NltIx6KhJPaDhWAl"
@@ -2357,7 +2357,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
@@ -2476,6 +2476,24 @@
     },
     {
       "album": {
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234156,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS"
+    },
+    {
+      "album": {
         "name": "Real Love Baby",
         "url": "https://open.spotify.com/album/0IpNqqkTlVMm54WIZTn6Pk"
       },
@@ -2523,7 +2541,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 170363,
       "name": "shut up",
       "url": "https://open.spotify.com/track/4WQS72yCXQWBNcTzBzseEr"
@@ -2671,7 +2689,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 177152,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
@@ -3307,10 +3325,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 190299,
       "name": "You Are The Reason - Duet Version",
       "url": "https://open.spotify.com/track/4gJAWJnE5cvAAWyTMTxgdY"
+    },
+    {
+      "album": {
+        "name": "You Say",
+        "url": "https://open.spotify.com/album/7FwfJlq8fHPLqPH01FS6Lw"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/72b0ANL1ZiV71OiZRs0Lny"
     },
     {
       "album": {

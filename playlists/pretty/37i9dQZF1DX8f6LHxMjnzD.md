@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,855 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,030 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 20 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 |
 | 21 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
 | 22 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 |
-| 23 | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 |
+| 23 | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 |
 | 24 | [Placeholder](https://open.spotify.com/track/2mZhWoguUqZTivAnSmlBUE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Placeholder](https://open.spotify.com/album/0fjn5aDzYjBnWctsHplKAG) | 2:39 |
 | 25 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
 | 26 | [Cannibal](https://open.spotify.com/track/66sgJDWffGSEw3huWPjNWA) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4GoINkOwOUS17uL017LeP6) | 4:01 |

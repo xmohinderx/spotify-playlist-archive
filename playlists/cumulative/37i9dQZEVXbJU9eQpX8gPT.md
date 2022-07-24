@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-739 songs - 1 day 16 hr 43 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+740 songs - 1 day 16 hr 45 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Dizzy Dros \(HaBeel\)](https://open.spotify.com/track/3X5PGKqcYAo6FJuuPm8ZXD) | [Hal\-G](https://open.spotify.com/artist/0QfQcKkUINtOE32aVRGIaU) | [Dizzy Dros \(HaBeel\)](https://open.spotify.com/album/7pOgPf7B6VwEUkdKej8HWk) | 3:28 | 2021-11-03 | 2021-11-04 |
 | [Django](https://open.spotify.com/track/2xKOM4VRXqVdu2OFWxRLAq) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/398Fh5aL7eVdWRNosUR6pm) | 3:05 | 2021-05-23 | 2021-05-24 |
 | [DNT](https://open.spotify.com/track/5oYDdxcQiRynnznfGqyjKk) | [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [DNT](https://open.spotify.com/album/70eYleipLTc6AsrsdJW00j) | 3:46 | 2021-06-27 | 2022-01-08 |
+| [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-23 |  |
 | [Donda](https://open.spotify.com/track/2TJ1FOCmCBkKm418MjVw5D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:08 | 2021-08-31 | 2021-09-02 |
 | [Donda Chant](https://open.spotify.com/track/3VlW71ZRJPEjd17W0bW28D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 0:52 | 2021-08-31 | 2021-09-01 |
 | [Don’t Break My Heart](https://open.spotify.com/track/0iZ7MgaUedNHqlqg9PMqsY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 3:25 | 2022-01-08 | 2022-01-10 |
@@ -616,7 +617,7 @@
 | [Solo Solo](https://open.spotify.com/track/7Ka7aQCxxR7MbJc6AkblXT) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 2:29 | 2021-09-15 | 2021-10-03 |
 | [Sonia](https://open.spotify.com/track/5NuvJqrwmFovb6TGbnjjqR) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Sonia](https://open.spotify.com/album/3x3LtImIZjkp0Xw7MZj2DW) | 3:23 | 2021-07-22 | 2021-07-31 |
 | [Souwlo Dmou3i](https://open.spotify.com/track/5vQJ4pwYSJfbGvM0BT9VwL) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Souwlo Dmou3i](https://open.spotify.com/album/57fGQC1ZgxfQQdBEGPllJH) | 3:43 | 2021-07-05 | 2021-07-14 |
-| [Sparadra](https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:13 | 2022-05-07 |  |
+| [Sparadra](https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:13 | 2022-05-07 | 2022-07-24 |
 | [SPECIAL \(feat\. Nekfeu & Fousheé\)](https://open.spotify.com/track/11HLDMuPD3wh88XHw4udKO) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:51 | 2021-07-18 | 2021-07-19 |
 | [Spirale](https://open.spotify.com/track/48MFRTMZLuCR3LX3HURMSy) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 3:09 | 2021-03-29 | 2021-03-31 |
 | [Spring Day](https://open.spotify.com/track/5xFoqABWVj4FIAf7vQX8FN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/5liZcQeYT5zHkwdZbtRa3M) | 4:34 | 2021-11-16 | 2021-11-17 |

@@ -1,29 +1,13 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Lasso en portada.",
-  "num_followers": 411244,
+  "num_followers": 411663,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUzODgzMSwwMDAwMDAwMGMzODQ1MWUzZDY2MzY1YzNkMzY4MmE5NWE2MTk4NWEx",
+  "snapshot_id": "MTY1ODYyNTUzNywwMDAwMDAwMDI1ZDc4MTg5MDRmYzA5ZmM2YTRmZDcyY2IyNTc0MDdh",
   "tracks": [
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
-    },
     {
       "added_at": "2022-06-28 15:36:52",
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 255640,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2022-07-15 05:00:00",
@@ -135,22 +135,18 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Como Lo Hice Yo",
-        "url": "https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug"
+        "name": "Un Nuevo Amor",
+        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
       },
       "artists": [
         {
           "name": "Matisse",
           "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 177062,
-      "name": "Como Lo Hice Yo",
-      "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
+      "duration_ms": 226776,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
     },
     {
       "added_at": "2022-07-15 05:00:00",
@@ -167,6 +163,62 @@
       "duration_ms": 172321,
       "name": "El D\u00eda Que Te Fuiste",
       "url": "https://open.spotify.com/track/5ckWeqMScCK2BUrZZlBjZt"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Llorar y Llorar (con Carin Leon)",
+        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 169705,
+      "name": "Llorar y Llorar - con Carin Leon",
+      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
+    },
+    {
+      "added_at": "2022-07-15 05:00:00",
+      "album": {
+        "name": "Soda de Uva",
+        "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 154576,
+      "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
+      "url": "https://open.spotify.com/track/3LV2ZZW474RFPJFJolaJLZ"
     },
     {
       "added_at": "2022-05-27 00:00:00",
@@ -207,62 +259,6 @@
     {
       "added_at": "2022-07-15 05:00:00",
       "album": {
-        "name": "Soda de Uva",
-        "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 154576,
-      "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
-      "url": "https://open.spotify.com/track/3LV2ZZW474RFPJFJolaJLZ"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Te Marqu\u00e9 Pedo (Remix)",
-        "url": "https://open.spotify.com/album/0fRcpehAhXLPmOTyXanErg"
-      },
-      "artists": [
-        {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 217797,
-      "name": "Te Marqu\u00e9 Pedo - Remix",
-      "url": "https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI"
-    },
-    {
-      "added_at": "2022-07-15 05:00:00",
-      "album": {
         "name": "Si Yo Fuera T\u00fa",
         "url": "https://open.spotify.com/album/4ttJWxB8biE8Kv0tV5Yiqm"
       },
@@ -279,22 +275,18 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "No Sab\u00eda Cu\u00e1nto",
-        "url": "https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ"
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 165750,
-      "name": "No Sab\u00eda Cu\u00e1nto",
-      "url": "https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B"
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2022-07-15 05:00:00",
@@ -323,38 +315,42 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Un Nuevo Amor",
-        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
+        "name": "No Sab\u00eda Cu\u00e1nto",
+        "url": "https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "No Sab\u00eda Cu\u00e1nto",
+      "url": "https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Como Lo Hice Yo",
+        "url": "https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug"
       },
       "artists": [
         {
           "name": "Matisse",
           "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 226776,
-      "name": "Un Nuevo Amor",
-      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Llorar y Llorar (con Carin Leon)",
-        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         },
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 169705,
-      "name": "Llorar y Llorar - con Carin Leon",
-      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
+      "duration_ms": 177062,
+      "name": "Como Lo Hice Yo",
+      "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
     },
     {
       "added_at": "2022-07-15 05:00:00",
@@ -375,22 +371,6 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Mar y Tierra",
-        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 185870,
-      "name": "Mar y Tierra",
-      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
         "name": "Y Si Se Quiere Ir",
         "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
@@ -407,22 +387,34 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 199120,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Mar y Tierra",
+        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 185870,
+      "name": "Mar y Tierra",
+      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
     },
     {
       "added_at": "2022-06-28 15:36:52",
@@ -459,6 +451,30 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
+        "name": "Te Marqu\u00e9 Pedo (Remix)",
+        "url": "https://open.spotify.com/album/0fRcpehAhXLPmOTyXanErg"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 217797,
+      "name": "Te Marqu\u00e9 Pedo - Remix",
+      "url": "https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -479,42 +495,18 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Debo Entender",
-        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0QbLKuhvOtbjeuHy1Pt68U"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 238419,
-      "name": "Debo Entender",
-      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+      "duration_ms": 237466,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3uqDUUqiVrtbKakobkPXmv"
     },
     {
       "added_at": "2022-05-27 00:00:00",
@@ -555,38 +547,6 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0QbLKuhvOtbjeuHy1Pt68U"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/3uqDUUqiVrtbKakobkPXmv"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -599,6 +559,86 @@
       "duration_ms": 196864,
       "name": "Fuga Pa Cali 2",
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Vivo en el 6",
+        "url": "https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 192185,
+      "name": "Vivo en el 6",
+      "url": "https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Esa Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Esa Parte de M\u00ed",
+      "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Debo Entender",
+        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 238419,
+      "name": "Debo Entender",
+      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Lo Que un Hombre Deber\u00eda Saber",
+        "url": "https://open.spotify.com/album/1IZhaCBrPtsLlESO9W4bWi"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Lo Que un Hombre Deber\u00eda Saber",
+      "url": "https://open.spotify.com/track/6KR2BpnlHSze6xwPv1xQ4l"
     },
     {
       "added_at": "2022-05-27 00:00:00",
@@ -617,20 +657,44 @@
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
-      "added_at": "2022-05-27 00:00:00",
+      "added_at": "2022-07-08 05:00:00",
       "album": {
-        "name": "Lo Que un Hombre Deber\u00eda Saber",
-        "url": "https://open.spotify.com/album/1IZhaCBrPtsLlESO9W4bWi"
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 194120,
-      "name": "Lo Que un Hombre Deber\u00eda Saber",
-      "url": "https://open.spotify.com/track/6KR2BpnlHSze6xwPv1xQ4l"
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Ya acab\u00f3 (Con Becky G)",
+        "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 176458,
+      "name": "Ya acab\u00f3 - Con Becky G",
+      "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
     },
     {
       "added_at": "2022-05-27 00:00:00",
@@ -655,34 +719,18 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Vivo en el 6",
-        "url": "https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz"
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/1yN7RC8f5hMASKpgvEHRDC"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 192185,
-      "name": "Vivo en el 6",
-      "url": "https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+      "duration_ms": 224066,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/45nbChzfUPP8GO4rMthTNv"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -723,102 +771,18 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/1yN7RC8f5hMASKpgvEHRDC"
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 224066,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/45nbChzfUPP8GO4rMthTNv"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Ya acab\u00f3 (Con Becky G)",
-        "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 176458,
-      "name": "Ya acab\u00f3 - Con Becky G",
-      "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
-    },
-    {
-      "added_at": "2022-07-08 05:00:00",
-      "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Esa Parte de M\u00ed",
-        "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Esa Parte de M\u00ed",
-      "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
-      },
-      "artists": [
-        {
-          "name": "Millonario & W. Corona",
-          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 289013,
-      "name": "\u00c9xtasis (feat. Cartel de Santa)",
-      "url": "https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE"
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2022-05-27 00:00:00",
@@ -839,254 +803,18 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Forajido EP 1",
-        "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 174741,
-      "name": "Lim\u00f3n Con Sal",
-      "url": "https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 204963,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Vivir As\u00ed Es Morir de Amor",
-      "url": "https://open.spotify.com/track/2JBGoJqzvPAsGa0eo7zcNg"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "A Veces Bien Y A Veces Mal",
-        "url": "https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 145783,
-      "name": "A Veces Bien Y A Veces Mal",
-      "url": "https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
-    },
-    {
-      "added_at": "2022-07-15 05:00:00",
-      "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
-        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
-      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Con Un Botecito A Pecho",
-        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Con Un Botecito A Pecho",
-      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "como me encanta",
-        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 321662,
-      "name": "como me encanta",
-      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "As\u00ed de Enamorados",
-        "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "No Me Hace Bien",
-      "url": "https://open.spotify.com/track/4BCplEwn32Y3nQeeBsbsj9"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 135611,
-      "name": "Los Botones Azules",
-      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Estamos Aqu\u00ed",
-        "url": "https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 182698,
-      "name": "Estamos Aqu\u00ed",
-      "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2022-05-27 00:00:00",
@@ -1117,24 +845,160 @@
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
     },
     {
-      "added_at": "2022-07-01 05:00:00",
+      "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "eScoRpi\u00d3n :)",
-        "url": "https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj"
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
       },
       "artists": [
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 179799,
-      "name": "eScoRpi\u00d3n :)",
-      "url": "https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan"
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "As\u00ed de Enamorados",
+        "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "No Me Hace Bien",
+      "url": "https://open.spotify.com/track/4BCplEwn32Y3nQeeBsbsj9"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/2JBGoJqzvPAsGa0eo7zcNg"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
+      },
+      "artists": [
+        {
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 289013,
+      "name": "\u00c9xtasis (feat. Cartel de Santa)",
+      "url": "https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Forajido EP 1",
+        "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 174741,
+      "name": "Lim\u00f3n Con Sal",
+      "url": "https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "A Veces Bien Y A Veces Mal",
+        "url": "https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 145783,
+      "name": "A Veces Bien Y A Veces Mal",
+      "url": "https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 204963,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Estamos Aqu\u00ed",
+        "url": "https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 182698,
+      "name": "Estamos Aqu\u00ed",
+      "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
     },
     {
       "added_at": "2022-05-27 00:00:00",
@@ -1161,132 +1025,120 @@
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
     },
     {
-      "added_at": "2022-05-27 00:00:00",
+      "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Blue Dreams",
-        "url": "https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe"
+        "name": "como me encanta",
+        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
       },
       "artists": [
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Sapir Amar",
-          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 248780,
-      "name": "Blue Dreams",
-      "url": "https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3"
+      "duration_ms": 321662,
+      "name": "como me encanta",
+      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
     },
     {
-      "added_at": "2022-05-27 00:00:00",
+      "added_at": "2022-07-15 05:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
       "artists": [
         {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
-    },
-    {
-      "added_at": "2022-06-28 15:36:52",
-      "album": {
-        "name": "Un Chingazo",
-        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 189090,
-      "name": "Un Chingazo",
-      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 270943,
-      "name": "Hasta Que Llegue el Alba",
-      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
-    },
-    {
-      "added_at": "2022-06-28 15:36:52",
-      "album": {
-        "name": "Pensar en Ti (Remix)",
-        "url": "https://open.spotify.com/album/0rIT5HpbDY7RkiqZLfMtWK"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 242553,
-      "name": "Pensar en Ti (Remix)",
-      "url": "https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM"
-    },
-    {
-      "added_at": "2022-06-17 15:15:01",
-      "album": {
-        "name": "Bailo Sola",
-        "url": "https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 155061,
-      "name": "Bailo Sola",
-      "url": "https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk"
+      "duration_ms": 135611,
+      "name": "Los Botones Azules",
+      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Mismo Amor",
-        "url": "https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv"
+        "name": "Con Un Botecito A Pecho",
+        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 198558,
-      "name": "Mismo Amor",
-      "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
+      "duration_ms": 176133,
+      "name": "Con Un Botecito A Pecho",
+      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
+    },
+    {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
+        "name": "eScoRpi\u00d3n :)",
+        "url": "https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 179799,
+      "name": "eScoRpi\u00d3n :)",
+      "url": "https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -1311,6 +1163,150 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 187447,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Socios II",
+        "url": "https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Te Escondes",
+      "url": "https://open.spotify.com/track/5bzIKQnnY1aM9evAj1sZiZ"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Mismo Amor",
+        "url": "https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Mismo Amor",
+      "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 270943,
+      "name": "Hasta Que Llegue el Alba",
+      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
+    },
+    {
+      "added_at": "2022-06-28 15:36:52",
+      "album": {
+        "name": "Un Chingazo",
+        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Un Chingazo",
+      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
+    },
+    {
+      "added_at": "2022-06-17 15:15:01",
+      "album": {
+        "name": "Bailo Sola",
+        "url": "https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 155061,
+      "name": "Bailo Sola",
+      "url": "https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
         "name": "Mejor Que Te Acostumbres",
         "url": "https://open.spotify.com/album/3Yp8JkCeLI5bvrO2x6bjua"
       },
@@ -1327,50 +1323,62 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Sapir Amar",
+          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
         }
       ],
-      "duration_ms": 187447,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
+      "duration_ms": 248780,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3"
     },
     {
-      "added_at": "2022-07-01 05:00:00",
+      "added_at": "2022-06-28 15:36:52",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/1ceWXvh39yPWMZiR6d6rrV"
+        "name": "Pensar en Ti (Remix)",
+        "url": "https://open.spotify.com/album/0rIT5HpbDY7RkiqZLfMtWK"
       },
       "artists": [
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 220273,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn"
+      "duration_ms": 242553,
+      "name": "Pensar en Ti (Remix)",
+      "url": "https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM"
     },
     {
-      "added_at": "2022-06-17 15:15:01",
+      "added_at": "2022-06-28 15:36:52",
       "album": {
-        "name": "Creer",
-        "url": "https://open.spotify.com/album/7vSPWmsN2riZxExDa5uAi7"
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
       "artists": [
         {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 240674,
-      "name": "Creer",
-      "url": "https://open.spotify.com/track/3cysHTuWbfpl9fsAoetCge"
+      "duration_ms": 182480,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
     }
   ],
   "unique_name": "Top M\u00e9xico",

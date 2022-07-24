@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 198653,
       "name": "24",
       "url": "https://open.spotify.com/track/1LndCu88RsOgzZXnZXxnUj"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 261705,
       "name": "bath",
       "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 159386,
       "name": "Black & White Film (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 241765,
       "name": "Cigarette (Feat. Tablo, MISO)",
       "url": "https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 171221,
       "name": "ending",
       "url": "https://open.spotify.com/track/6vCJb7W9nopUECBEPVTICP"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 188630,
       "name": "Frank Ocean",
       "url": "https://open.spotify.com/track/5GIYyKQCiNobtNpU3IGgxn"
@@ -966,6 +966,28 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
+    },
+    {
+      "album": {
         "name": "When I'm With You",
         "url": "https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp"
       },
@@ -977,7 +999,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 274426,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0TVNwwR03yg6MvkDn12Oy3"
@@ -1137,7 +1159,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "If You Didn\u2019t Know (With. Peej)",
       "url": "https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW"
@@ -1383,7 +1405,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 202120,
       "name": "Love is alone",
       "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
@@ -1441,7 +1463,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 197550,
       "name": "m o v i e (feat. Jade)",
       "url": "https://open.spotify.com/track/4uEtsUadZyyeVwvRpyp8WI"
@@ -1607,7 +1629,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 150930,
       "name": "moving on",
       "url": "https://open.spotify.com/track/14y3ITOtt6FsP8xxda3at1"
@@ -1709,7 +1731,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 370659,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc"
@@ -1753,7 +1775,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Patient (Prod. By bcalm)",
       "url": "https://open.spotify.com/track/74CneYBSEO1FUT6rxsOGTF"
@@ -2021,7 +2043,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 197867,
       "name": "Silence",
       "url": "https://open.spotify.com/track/0CE4igtHymDL5Zc2y8jIWZ"
@@ -2057,7 +2079,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 147607,
       "name": "Sorry That I Love You Still",
       "url": "https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL"
@@ -2213,7 +2235,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 124913,
       "name": "the day we first met",
       "url": "https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg"
@@ -2623,7 +2645,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 284711,
       "name": "Zone",
       "url": "https://open.spotify.com/track/2BP2fJ2kEYNIvQeLKrd0a0"

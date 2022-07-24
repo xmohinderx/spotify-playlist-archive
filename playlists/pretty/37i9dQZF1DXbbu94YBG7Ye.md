@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 
 > Si la rompe está acá\. Foto: Bizarrap & Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,760,901 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,762,012 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 |
-| 2 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 |
-| 3 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
-| 4 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 |
-| 5 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 |
+| 2 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 |
+| 3 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 |
+| 4 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
+| 5 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 |
 | 6 | [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 |
 | 7 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
 | 8 | [intoxicao](https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [intoxicao](https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 | 49 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 50 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 |
 
-Snapshot ID: `MTY1ODQ0ODAwMCwwMDAwMDIwNjAwMDAwMTgyMjMzNDM0OWUwMDAwMDE4MWZlMGVhYjZm`
+Snapshot ID: `MTY1ODU4MjIxNSwwMDAwMDIwNzAwMDAwMTgyMmIzNDJiYTAwMDAwMDE4MWZlMGVhYjZm`

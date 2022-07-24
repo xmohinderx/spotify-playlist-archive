@@ -4,14 +4,14 @@
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/141W4WWrwkoW2aNnv9xRdi)
+64 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/141W4WWrwkoW2aNnv9xRdi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 | 2022-05-30 |  |
 | [Addicted To Chaos \- Remastered 2004](https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 5:27 | 2022-05-30 |  |
 | [Almost Honest \- Remastered 2004 / Remixed](https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Remastered 2004 / Remixed / Expanded Edition\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 4:08 | 2022-06-25 | 2022-06-27 |
-| [Anarchy In The U.K\. \- Remastered](https://open.spotify.com/track/74EF3QE9twDF2LRByd2ATx) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(2004 Remaster\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 3:01 | 2022-05-30 | 2022-06-28 |
+| [Anarchy In The U.K\. \- Remastered](https://open.spotify.com/track/74EF3QE9twDF2LRByd2ATx) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(2004 Remaster\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 3:01 | 2022-05-30 |  |
 | [Angry Again](https://open.spotify.com/track/3CI1JP2ooMBSFjIy1u6Yrc) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:47 | 2022-05-30 |  |
 | [Architecture Of Aggression](https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:39 | 2022-05-30 |  |
 | [Bad Omen \- Remastered](https://open.spotify.com/track/1IbxJ3jbvSLmaecRamvtui) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying?](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 4:03 | 2022-06-05 | 2022-07-14 |
@@ -25,8 +25,8 @@
 | [Death From Within](https://open.spotify.com/track/7IcKHPLfhvdfSBYTPMAbga) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:47 | 2022-06-02 | 2022-07-01 |
 | [Devils Island \- Remastered](https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying?](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:05 | 2022-05-30 |  |
 | [Dialectic Chaos](https://open.spotify.com/track/2Sl9U6mLbNeaE9lT9C32Td) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [ENDGAME](https://open.spotify.com/album/0G5qC48D3MI8YBKTVwIiz1) | 2:25 | 2022-05-30 |  |
-| [Dread and the Fugitive Mind](https://open.spotify.com/track/4Bfxp472zIwiSYjZsK76EN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:25 | 2022-06-03 | 2022-07-23 |
-| [Duke Nukem](https://open.spotify.com/track/3VowFZMqNlHzSIa2MA2kwM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:54 | 2022-05-30 |  |
+| [Dread and the Fugitive Mind](https://open.spotify.com/track/4Bfxp472zIwiSYjZsK76EN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:25 | 2022-06-03 |  |
+| [Duke Nukem](https://open.spotify.com/track/3VowFZMqNlHzSIa2MA2kwM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:54 | 2022-05-30 | 2022-07-24 |
 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 | 2022-05-30 |  |
 | [Fatal Illusion](https://open.spotify.com/track/7IVhAkmr7xdgRZYc1Thrna) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:15 | 2022-05-30 |  |
 | [Five Magics \- Remastered 2004](https://open.spotify.com/track/3tISv448Ikxvpq2ZrFyGG2) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:39 | 2022-05-30 |  |
@@ -43,7 +43,8 @@
 | [Lying In State](https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 3:34 | 2022-06-22 | 2022-07-20 |
 | [Mechanix](https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 4:25 | 2022-05-30 |  |
 | [My Last Words \- Remastered](https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying?](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 4:55 | 2022-05-30 |  |
-| [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 | 2022-05-30 |  |
+| [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-23 |  |
+| [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 | 2022-05-30 | 2022-07-24 |
 | [Paranoid](https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 2:32 | 2022-05-30 |  |
 | [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(25th Anniversary\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 | 2022-05-30 |  |
 | [Promises](https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:28 | 2022-05-30 |  |
@@ -70,6 +71,6 @@
 | [Victory \- Remastered 2004](https://open.spotify.com/track/4kPF8KNfCkQQkL22YoOJir) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:29 | 2022-05-30 | 2022-07-23 |
 | [Wake Up Dead \- Remastered](https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying?](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 3:37 | 2022-05-30 |  |
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-25 |  |
-| [Youthanasia \- Remastered 2004](https://open.spotify.com/track/491FFHeud9a0KXZ66QunVn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:07 | 2022-07-22 |  |
+| [Youthanasia \- Remastered 2004](https://open.spotify.com/track/491FFHeud9a0KXZ66QunVn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:07 | 2022-07-22 | 2022-07-24 |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

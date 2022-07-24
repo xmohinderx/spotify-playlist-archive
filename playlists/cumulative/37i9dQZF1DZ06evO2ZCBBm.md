@@ -4,7 +4,7 @@
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/3RSWdYQk2ESbtH2oh3V7bX)
+66 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/3RSWdYQk2ESbtH2oh3V7bX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,14 +20,14 @@
 | [Brain Unguent](https://open.spotify.com/track/6YYVHAMbXOyQSgFtSYYRsW) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 1:28 | 2022-01-21 | 2022-03-31 |
 | [Bulimic](https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:20 | 2022-03-01 | 2022-06-23 |
 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 | 2022-01-17 |  |
-| [Burning Down the House](https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 3:39 | 2022-01-17 |  |
+| [Burning Down the House](https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 3:39 | 2022-01-17 | 2022-07-24 |
 | [Cathedral Bell](https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:04 | 2022-01-17 |  |
 | [Choke Me](https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 2:00 | 2022-01-17 |  |
 | [Clean Cut Heals](https://open.spotify.com/track/1PAX9ynnphRVTW90f7cRnl) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 | 2022-01-19 | 2022-07-23 |
 | [Cry](https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:30 | 2022-01-17 |  |
 | [Cut up Angels](https://open.spotify.com/track/7akKg3nBKORcCNCd7Hwzek) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:47 | 2022-02-23 | 2022-06-21 |
 | [Devil Beside You](https://open.spotify.com/track/3lv9uDBvn4H2hePDrtgG0K) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:45 | 2022-03-02 | 2022-06-15 |
-| [Earthquake](https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:29 | 2022-01-17 |  |
+| [Earthquake](https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:29 | 2022-01-17 | 2022-07-24 |
 | [Empty With You](https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 3:23 | 2022-01-17 |  |
 | [Generation Throwaway](https://open.spotify.com/track/3h7413CpAUx1ZhrI1zQizA) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:05 | 2022-03-01 | 2022-07-15 |
 | [Give Me Love](https://open.spotify.com/track/6taJ6bkT6aiy0cEO3bSfSd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 3:18 | 2022-01-17 |  |
@@ -37,6 +37,7 @@
 | [I Caught Fire](https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:25 | 2022-01-17 |  |
 | [I Come Alive](https://open.spotify.com/track/006JXPV4FsK49ehd5lrWYG) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 3:16 | 2022-01-17 |  |
 | [I'm a Fake](https://open.spotify.com/track/5li1sKlA0UhTk2rY0JIVUv) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 4:06 | 2022-01-17 |  |
+| [Imaginary Enemy](https://open.spotify.com/track/7cXA3gMSOBxqBbqpNHZWrE) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:24 | 2022-07-23 |  |
 | [Kissing You Goodbye](https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 4:08 | 2022-01-17 |  |
 | [Let It Bleed](https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:10 | 2022-01-17 |  |
 | [Liar Liar \(Burn in Hell\)](https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:52 | 2022-01-17 |  |
@@ -67,7 +68,7 @@
 | [The Best of Me](https://open.spotify.com/track/5bum8mmmDUVUAhgsz69TfA) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 4:29 | 2022-01-17 |  |
 | [The Bird and the Worm](https://open.spotify.com/track/6tKky3l379dnGe7F85ztrJ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:45 | 2022-01-17 |  |
 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 | 2022-01-17 |  |
-| [The Ripper](https://open.spotify.com/track/0exqjhSWHO6SLsnEfhQI9J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:56 | 2022-01-19 | 2022-07-22 |
+| [The Ripper](https://open.spotify.com/track/0exqjhSWHO6SLsnEfhQI9J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:56 | 2022-01-19 |  |
 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 | 2022-01-17 |  |
 | [Under Pressure](https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Under Pressure](https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS) | 3:31 | 2022-01-17 |  |
 | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/track/78ITp8KLeHWvtjjf42LXck) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/album/7zQFULxk2VKVXrCsOFlGHJ) | 2:28 | 2022-01-17 |  |

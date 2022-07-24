@@ -4,12 +4,12 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-100 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/1wzNW1io1DWM2bpUlq1Ggc)
+101 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/1wzNW1io1DWM2bpUlq1Ggc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [About Time](https://open.spotify.com/track/5K8ESonoHA1Lq9MBpMiv59) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:52 | 2022-04-09 | 2022-06-21 |
-| [Aching for More](https://open.spotify.com/track/2xw0QgtPR8eqkizBgLNOX6) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 4:07 | 2022-04-05 |  |
+| [Aching for More](https://open.spotify.com/track/2xw0QgtPR8eqkizBgLNOX6) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 4:07 | 2022-04-05 | 2022-07-24 |
 | [All You Had To Do Was Stay](https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 3:30 | 2022-01-11 |  |
 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 | 2022-01-11 |  |
 | [Answering Bell](https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:05 | 2022-01-11 |  |
@@ -21,9 +21,9 @@
 | [Bartering Lines](https://open.spotify.com/track/0bkV9Clv4lnhpVRKST2Iwp) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:59 | 2022-01-15 | 2022-07-23 |
 | [Big Colors](https://open.spotify.com/track/64QHj3KzbmnvZBGEuFV9IS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:07 | 2022-01-11 |  |
 | [Blank Space](https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:21 | 2022-01-11 |  |
-| [Blue Sky Blues](https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [29](https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X) | 5:18 | 2022-01-12 | 2022-07-20 |
+| [Blue Sky Blues](https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [29](https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X) | 5:18 | 2022-01-12 |  |
 | [Burning Photographs](https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 4:12 | 2022-02-24 | 2022-03-13 |
-| [Call Me on Your Way Back Home](https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:09 | 2022-01-14 | 2022-07-19 |
+| [Call Me on Your Way Back Home](https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:09 | 2022-01-14 |  |
 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 | 2022-01-11 |  |
 | [Chris](https://open.spotify.com/track/5ALblyNR1KF33aMqeTxaCa) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:43 | 2022-04-05 | 2022-06-16 |
 | [Come Home](https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa) | 4:50 | 2022-02-06 | 2022-02-26 |
@@ -40,7 +40,7 @@
 | [Everybody Knows](https://open.spotify.com/track/68jGLpiDK7ZZ13RR8AEm1o) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:25 | 2022-01-11 |  |
 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 | 2022-01-12 |  |
 | [Flicker in the Fade](https://open.spotify.com/track/0JCXykmQ7NQxQHE8skH8xL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:50 | 2022-04-08 | 2022-04-30 |
-| [Fuck The Rain](https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:33 | 2022-01-11 |  |
+| [Fuck The Rain](https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:33 | 2022-01-11 | 2022-07-24 |
 | [Gimme Something Good](https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:54 | 2022-01-11 | 2022-07-22 |
 | [Hallelujah](https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:10 | 2022-01-11 | 2022-07-22 |
 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 | 2022-01-11 |  |
@@ -50,6 +50,7 @@
 | [I Got Lost](https://open.spotify.com/track/0x8ZFTeXx3kOPah13CvMw6) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:34 | 2022-04-05 | 2022-07-15 |
 | [I Love You But I Don't Know What To Say](https://open.spotify.com/track/0XUV9eC4BkoPQDI8t7CqUl) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa) | 4:10 | 2022-01-11 | 2022-03-04 |
 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 | 2022-01-11 |  |
+| [I Want You](https://open.spotify.com/track/7sOlvBV8tfnNY3LiyTA1XB) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Want You](https://open.spotify.com/album/0mR5G6y2f4NhfKgIUg8oUO) | 3:40 | 2022-07-23 |  |
 | [I Wish You Would](https://open.spotify.com/track/0Nb6EyYhGhH96rqSe4wmdy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 3:44 | 2022-01-11 | 2022-07-22 |
 | [I Wish You Would](https://open.spotify.com/track/7eoSnTRP8VbxcC4LvZdzn4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:44 | 2022-01-18 | 2022-03-03 |
 | [I'm Sorry and I Love You](https://open.spotify.com/track/2fwAHp0tMsBedFwvR6h8RX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wednesdays](https://open.spotify.com/album/5iCnW230jyzcbTLdJalSA6) | 3:34 | 2022-01-11 |  |
@@ -83,13 +84,13 @@
 | [Shiver And Shake](https://open.spotify.com/track/6TbOgR6jpuqkjAmgs4hdFL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:05 | 2022-01-11 |  |
 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 | 2022-01-11 |  |
 | [Somethings Missing](https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:17 | 2022-05-16 |  |
-| [Spinning Wheel](https://open.spotify.com/track/1xVQRTGM6LQJ0Ft9NIohrT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:38 | 2022-04-07 |  |
+| [Spinning Wheel](https://open.spotify.com/track/1xVQRTGM6LQJ0Ft9NIohrT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:38 | 2022-04-07 | 2022-07-24 |
 | [Stay With Me](https://open.spotify.com/track/58Zr6jYL2DAeKhvq40Rzcb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:06 | 2022-01-14 | 2022-06-17 |
-| [Strawberry Wine](https://open.spotify.com/track/0L51VUczq7ZNaaoB6fxlAe) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [29](https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X) | 7:58 | 2022-01-11 | 2022-07-21 |
-| [Style](https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 2:44 | 2022-03-29 | 2022-07-22 |
+| [Strawberry Wine](https://open.spotify.com/track/0L51VUczq7ZNaaoB6fxlAe) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [29](https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X) | 7:58 | 2022-01-11 |  |
+| [Style](https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 2:44 | 2022-03-29 |  |
 | [Style](https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 2:44 | 2022-01-11 | 2022-04-06 |
 | [Sylvia Plath](https://open.spotify.com/track/0Vof9g11F4cbctYIR5UXTk) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 4:10 | 2022-01-11 | 2022-01-13 |
-| [Take It Back](https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:07 | 2022-04-05 |  |
+| [Take It Back](https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:07 | 2022-04-05 | 2022-07-24 |
 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 | 2022-05-16 |  |
 | [The Rescue Blues](https://open.spotify.com/track/6lUY5R9gcTIUkddQkdcjuy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 3:38 | 2022-01-11 | 2022-05-17 |
 | [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 | 2022-01-11 |  |
@@ -105,7 +106,7 @@
 | [What Am I](https://open.spotify.com/track/5HQwQSkqOZOIyv1EyLRrgA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 2:48 | 2022-01-11 | 2022-04-28 |
 | [When The Stars Go Blue](https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:31 | 2022-01-11 |  |
 | [Why Do They Leave?](https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:38 | 2022-01-23 | 2022-07-12 |
-| [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 | 2022-01-17 |  |
+| [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 | 2022-01-17 | 2022-07-24 |
 | [Wonderwall](https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:08 | 2022-01-11 |  |
 | [World War 24](https://open.spotify.com/track/19C1YdOULsmmOPvsIdoSTm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:15 | 2022-01-31 | 2022-03-14 |
 

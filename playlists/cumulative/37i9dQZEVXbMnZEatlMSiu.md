@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-445 songs - 1 day 3 hr 23 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+446 songs - 1 day 3 hr 28 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Married To The Game](https://open.spotify.com/track/3e65E2oW2kvsY8sTReZ7U6) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [EARTHBOUND](https://open.spotify.com/album/5rdRFD0eRjjRFoHUfnwJh0) | 3:04 | 2022-02-23 | 2022-03-10 |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2021-12-25 | 2021-12-27 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-25 | 2021-12-27 |
-| [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 | 2022-07-16 |  |
+| [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 | 2022-07-16 | 2022-07-24 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-09-12 | 2021-12-15 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-04-10 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-06-18 |
@@ -260,7 +260,7 @@
 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 | 2021-12-11 | 2021-12-12 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-03-01 | 2022-03-26 |
 | [不想聽見的歌](https://open.spotify.com/track/6ZBWEbwzGrKZOcE2Hh2fZR) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [不想聽見的歌](https://open.spotify.com/album/39bMPyNcfUGGxHesBJGe1D) | 4:47 | 2022-04-01 | 2022-04-08 |
-| [不愛我就拉倒](https://open.spotify.com/track/4oeHo4sQtR0hMaLAdxYNGy) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:06 | 2022-07-16 |  |
+| [不愛我就拉倒](https://open.spotify.com/track/4oeHo4sQtR0hMaLAdxYNGy) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:06 | 2022-07-16 | 2022-07-24 |
 | [不搖滾](https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [\[ 人生就是用來XX的 \] 2021 線上生日趴 \(Live Session\)](https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df) | 4:51 | 2021-10-02 | 2021-10-07 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2021-06-08 |  |
 | [不期而遇的夏天 \- 電影《不期而遇的夏天》主題曲](https://open.spotify.com/track/5QRgqxZ4XQadnaOBjt2dN1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [不期而遇的夏天 \(電影《不期而遇的夏天》主題曲\)](https://open.spotify.com/album/2nLHmTomlBgsZP7OWxpEjC) | 3:30 | 2021-09-25 | 2021-09-26 |
@@ -367,6 +367,7 @@
 | [星辰大海](https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [星辰大海](https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P) | 3:27 | 2021-10-11 | 2021-12-16 |
 | [晴天](https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/41FqSrFn288xsdvADjJGxH) | 4:29 | 2022-07-09 | 2022-07-15 |
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 |  |
+| [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-07-23 |  |
 | [最後一秒鐘 \- 電視劇《無神之地不下雨》片頭曲](https://open.spotify.com/track/7I29FyReXZthfKIpO52Jm6) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [最後一秒鐘 \(電視劇《無神之地不下雨》片頭曲\)](https://open.spotify.com/album/2CblrkkIAydfip4r9dbO8b) | 5:00 | 2021-10-30 | 2021-11-04 |
 | [最悲傷的事 \- 《比悲傷更悲傷的故事》影集版 主題曲](https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [最悲傷的事 \(《比悲傷更悲傷的故事》影集版 主題曲\)](https://open.spotify.com/album/5wwMx4hWNkUijoyTVdXwln) | 4:57 | 2021-10-21 | 2021-11-19 |
 | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/track/3LkITiONSVW8eWhruHhiDJ) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe) | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/album/0oM9cYr2l14guScjTsMIKX) | 3:17 | 2021-04-18 | 2021-08-24 |
@@ -425,7 +426,7 @@
 | [親吻了再摸索](https://open.spotify.com/track/2tOHD9CrjGn4dkguAA3HDM) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [親吻了再摸索](https://open.spotify.com/album/0d0zy5vk4q8tNHsOXmFjk3) | 3:41 | 2021-10-16 | 2021-10-23 |
 | [說好不哭](https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:40 | 2022-07-15 |  |
 | [說好不哭](https://open.spotify.com/track/56wVfJKtnwlSZtC4NVgIrf) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [說好不哭](https://open.spotify.com/album/1aNkIWX1Uz0mSUK3OAFygO) | 3:42 | 2021-03-27\* | 2021-07-10 |
-| [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 | 2021-08-19 | 2022-07-23 |
+| [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 | 2021-08-19 |  |
 | [貪](https://open.spotify.com/track/15VneZI5mZKmlpOIXqskJH) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [貪](https://open.spotify.com/album/1vMyG4SY5dVTYewILoco7o) | 5:00 | 2021-10-17 | 2021-10-31 |
 | [貪](https://open.spotify.com/track/2cDQ5rXdQoWZsVUok3Gk8M) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 5:00 | 2021-10-31 | 2021-11-05 |
 | [賣花的人](https://open.spotify.com/track/2OtviiMGucID7Utqk4Rq0T) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Have A Nice Day](https://open.spotify.com/album/0JN2lwS7ZIwFWBgPSs23gF) | 4:20 | 2021-06-25 | 2021-06-26 |
