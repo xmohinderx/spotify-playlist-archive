@@ -528,6 +528,24 @@
     },
     {
       "album": {
+        "name": "ahh",
+        "url": "https://open.spotify.com/album/4ODyLYTg7aIfQsLTBaX1Er"
+      },
+      "artists": [
+        {
+          "name": "uglystephan archive",
+          "url": "https://open.spotify.com/artist/4De9u0pfKn6Eu4qSZgDnKZ"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84022,
+      "name": "ahh",
+      "url": "https://open.spotify.com/track/1x8o2E70kQnWm6pHW5ApOw"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -2777,7 +2795,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 140873,
       "name": "IMMACULATE",
       "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"

@@ -6136,6 +6136,28 @@
     },
     {
       "album": {
+        "name": "Me Critican",
+        "url": "https://open.spotify.com/album/5gLJuNSF3baTvHva7Kske5"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Cota",
+          "url": "https://open.spotify.com/artist/43TBniliwDn600EiuvJGuw"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139807,
+      "name": "Me Critican",
+      "url": "https://open.spotify.com/track/5YSP2U2zp3QjyAHo47mvLN"
+    },
+    {
+      "album": {
         "name": "Me Dijeron",
         "url": "https://open.spotify.com/album/1QjhLu4yYn0aPEX8suwjJZ"
       },

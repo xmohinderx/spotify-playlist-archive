@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-777 songs - 1 day 12 hr 29 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+778 songs - 1 day 12 hr 30 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Abu Dhabi Ba6y](https://open.spotify.com/track/3Qo7FF0WmgEt3JG3B2qngy) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 3:00 | 2021-08-15 | 2021-11-14 |
 | [adaptive strike](https://open.spotify.com/track/5jXocrsUwpKwWyI5BZLKFA) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [LXNER](https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt), [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [adaptive strike](https://open.spotify.com/album/1ZZyShGHtlIsCwLwiI3Sk5) | 2:16 | 2022-02-12 | 2022-07-02 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2022-01-10 |  |
+| [ahh](https://open.spotify.com/track/1x8o2E70kQnWm6pHW5ApOw) | [uglystephan archive](https://open.spotify.com/artist/4De9u0pfKn6Eu4qSZgDnKZ) | [ahh](https://open.spotify.com/album/4ODyLYTg7aIfQsLTBaX1Er) | 1:24 | 2022-07-24 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-19 | 2022-01-04 |
 | [Allo](https://open.spotify.com/track/5yO3MLtyhuTeRqinBGtanU) | [LOBODA](https://open.spotify.com/artist/59oe7CAquFZ5mNjQ1efKPN) | [Allo](https://open.spotify.com/album/2iiovddkmbFKZWn5wYOpje) | 3:48 | 2021-08-04 | 2021-09-05 |
 | [Andrew Story](https://open.spotify.com/track/0VVa11kcXBGm99NgSiF8Rx) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 3:12 | 2021-10-23 | 2021-12-03 |
@@ -149,7 +150,7 @@
 | [HUBLOT](https://open.spotify.com/track/6qbIECewSOpuBhWaU98Sp8) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:03 | 2021-05-29 | 2021-06-26 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-13 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-25 | 2021-11-03 |
-| [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2022-07-20 |  |
+| [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2022-07-20 | 2022-07-25 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-25 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2022-02-20 |
 | [Infinite Tsukuyomi](https://open.spotify.com/track/1w6yKhAgRhIaZhsWEay2H3) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Tsukuyomi Dream](https://open.spotify.com/album/0XJ2GHflMl75zuofYfuARg) | 3:24 | 2021-03-27\* | 2022-01-08 |

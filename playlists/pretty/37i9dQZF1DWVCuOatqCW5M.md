@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Armaan Malik
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,666 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,677 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu / You](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 |
 | 2 | [Baarish Aayi Hai](https://open.spotify.com/track/6kO2iI3NvCJV35063NEWb4) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Baarish Aayi Hai](https://open.spotify.com/album/2Zafg5M5XRCk6qQ0tYpzbi) | 3:32 |
 | 3 | [Saaye](https://open.spotify.com/track/0fdsAOeCtXHyjEra16h3An) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaye](https://open.spotify.com/album/1Gus69A2j11p8utuhDIc4O) | 3:15 |
-| 4 | [Casanova \(feat\. Simer Kaur\)](https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S), [Simer Kaur](https://open.spotify.com/artist/4OnbwS86UPpU60MAZunN5y) | [Casanova \(feat\. Simer Kaur\)](https://open.spotify.com/album/6WMxMrIallcyiPjLQdMKwt) | 3:34 |
+| 4 | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/album/6WMxMrIallcyiPjLQdMKwt) | 3:34 |
 | 5 | [Suroor Sa](https://open.spotify.com/track/2xw0QDb1kMzeFjF6SSmRAv) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Suroor Sa](https://open.spotify.com/album/1hoYZSZxDUvAbZTjkccmM2) | 3:28 |
 | 6 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
 | 7 | [Ho Gaya Hai Pyaar \(Featuring\. Arjun Bijlani, Surbhi Chandna\)](https://open.spotify.com/track/0XCJTgKNn5gQ5McayMv86D) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Arjun Bijlani](https://open.spotify.com/artist/16AdgG9cB8v609ylemhGXz), [Surbhi Chandna](https://open.spotify.com/artist/4dolEGmLEbK9ZqJAEW0o4l) | [Ho Gaya Hai Pyaar \(Featuring\. Arjun Bijlani, Surbhi Chandna\)](https://open.spotify.com/album/7tfwkCk4Cm2gu8KQGvPDqT) | 4:32 |

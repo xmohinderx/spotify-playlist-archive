@@ -546,6 +546,24 @@
     },
     {
       "album": {
+        "name": "\u30cd\u30ea\u30e4\u30ab\u30ca\u30e4 ~\u7f8e\u3089\u5944\u7f8e~",
+        "url": "https://open.spotify.com/album/0QV4t1Qt8T9hBo0UtenRvQ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352920,
+      "name": "\u30cd\u30ea\u30e4\u30ab\u30ca\u30e4 ~\u7f8e\u3089\u5944\u7f8e~",
+      "url": "https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi"
+    },
+    {
+      "album": {
         "name": "ANIMA (Special Edition)",
         "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
       },

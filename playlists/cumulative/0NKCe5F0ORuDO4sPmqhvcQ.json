@@ -1110,6 +1110,28 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/6qVMdlnLSvSZr9o8WK4uN9"
+      },
+      "artists": [
+        {
+          "name": "Frison",
+          "url": "https://open.spotify.com/artist/6rdBjC3pWmC5dKZkqgUOrP"
+        },
+        {
+          "name": "Dash30",
+          "url": "https://open.spotify.com/artist/55eCRqfYWfk2QJWjIrPPXC"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/41OIPsB7nh3GOUWD0Eukwy"
+    },
+    {
+      "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/6z2IbCqkj2layBN9GRgyfK"
       },

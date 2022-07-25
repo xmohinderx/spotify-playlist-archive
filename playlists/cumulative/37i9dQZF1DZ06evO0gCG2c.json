@@ -8,6 +8,36 @@
   "tracks": [
     {
       "album": {
+        "name": "The Greatest Story Ever Told",
+        "url": "https://open.spotify.com/album/4dlnbBnFH9CE6sbyrPP2aR"
+      },
+      "artists": [
+        {
+          "name": "David Banner",
+          "url": "https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247453,
+      "name": "9MM",
+      "url": "https://open.spotify.com/track/2K6FYgz38Kzih6BGJzfD0H"
+    },
+    {
+      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -331,7 +361,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 192666,
       "name": "Crank It Up (feat. Akon)",
       "url": "https://open.spotify.com/track/4PQA5I8Qf99He3SBKtl4Tf"
@@ -473,7 +503,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 246226,
       "name": "Gangsta Bop",
       "url": "https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE"
@@ -1219,7 +1249,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 241253,
       "name": "Snitch",
       "url": "https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr"

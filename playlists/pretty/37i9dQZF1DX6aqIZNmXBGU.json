@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 16725,
+  "num_followers": 16751,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODYyNjExMSwwMDAwMDAwMDVmZWQ4YjhmMmYxMWJmNzEwZWY1N2YwMGYxMjIyZjYz",
+  "snapshot_id": "MTY1ODcxMjAxOSwwMDAwMDAwMGIxNjVhNmQ4NTc0ZGFkZDRkMmMwNGFmMTM0MzJlMTlh",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -27,18 +27,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Freedom's Goblin",
-        "url": "https://open.spotify.com/album/3RBS1ViF2Y6kJDDs74Ug5i"
+        "name": "High Visibility",
+        "url": "https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx"
       },
       "artists": [
         {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
         }
       ],
-      "duration_ms": 232386,
-      "name": "My Lady's On Fire",
-      "url": "https://open.spotify.com/track/2hSd5IqIBoR5Ck5EDVL4kZ"
+      "duration_ms": 240600,
+      "name": "No Song Unheard",
+      "url": "https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -55,38 +55,6 @@
       "duration_ms": 131986,
       "name": "Ride A White Swan",
       "url": "https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q"
-    },
-    {
-      "added_at": "2022-03-23 15:48:35",
-      "album": {
-        "name": "Youth is Only Ever Fun in Retrospect",
-        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "She Said",
-      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Kitsun\u00e9 Maison Compilation 8",
-        "url": "https://open.spotify.com/album/16Kp9T6MHoSXKJYiSWnyFL"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Let's Go Surfing",
-      "url": "https://open.spotify.com/track/2TOoPCW05TjfwMqpVTThVZ"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -107,6 +75,70 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp"
+    },
+    {
+      "added_at": "2022-03-23 15:48:35",
+      "album": {
+        "name": "Youth is Only Ever Fun in Retrospect",
+        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Peace Love Death Metal",
+        "url": "https://open.spotify.com/album/6alFQi9OFVzSE0sud9e7GT"
+      },
+      "artists": [
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "San Berdoo Sunburn",
+      "url": "https://open.spotify.com/track/1UjyNAfP9grmHnou5c5orN"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Kitsun\u00e9 Maison Compilation 8",
+        "url": "https://open.spotify.com/album/16Kp9T6MHoSXKJYiSWnyFL"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Let's Go Surfing",
+      "url": "https://open.spotify.com/track/2TOoPCW05TjfwMqpVTThVZ"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/5nbFVTYt5nVBqDqNvaDTxs"
       },
@@ -123,18 +155,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "High Visibility",
-        "url": "https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx"
+        "name": "Their Satanic Majesties' Second Request",
+        "url": "https://open.spotify.com/album/5KzWrpVIPOWzY42Tkl4XHz"
       },
       "artists": [
         {
-          "name": "The Hellacopters",
-          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
         }
       ],
-      "duration_ms": 240600,
-      "name": "No Song Unheard",
-      "url": "https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed"
+      "duration_ms": 334466,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/5KaCn0CGbo2Mynq5VSgSya"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -155,34 +187,34 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT"
+        "name": "Freedom's Goblin",
+        "url": "https://open.spotify.com/album/3RBS1ViF2Y6kJDDs74Ug5i"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
         }
       ],
-      "duration_ms": 222200,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp"
+      "duration_ms": 232386,
+      "name": "My Lady's On Fire",
+      "url": "https://open.spotify.com/track/2hSd5IqIBoR5Ck5EDVL4kZ"
     },
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+        "name": "Common Sense",
+        "url": "https://open.spotify.com/album/7m1Sb6fRqT30QdNr0tjdDP"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 313925,
-      "name": "Lust For Life",
-      "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
+      "duration_ms": 198866,
+      "name": "Lick the Bag",
+      "url": "https://open.spotify.com/track/07iJL5aTEPKh4YGrUIBOsb"
     },
     {
       "added_at": "2021-05-31 15:16:48",
@@ -203,18 +235,34 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Their Satanic Majesties' Second Request",
-        "url": "https://open.spotify.com/album/5KzWrpVIPOWzY42Tkl4XHz"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
       "artists": [
         {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 334466,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/5KaCn0CGbo2Mynq5VSgSya"
+      "duration_ms": 313925,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "L.S.D",
+        "url": "https://open.spotify.com/album/3uwBl1AVD4FnworvYaaUox"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "L.S.D",
+      "url": "https://open.spotify.com/track/6y6GFyjVFwWI7lJbbbF0hU"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -239,18 +287,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "...Like Clockwork",
-        "url": "https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq"
+        "name": "The Slider",
+        "url": "https://open.spotify.com/album/3Dg3quPRLDCsEqnzgPl6PE"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 235586,
-      "name": "I Sat By The Ocean",
-      "url": "https://open.spotify.com/track/7oXRMDUzBPekkLRTJhSGvC"
+      "duration_ms": 214440,
+      "name": "Buick Mackane",
+      "url": "https://open.spotify.com/track/4MYQmhDkFCC7HTrVCdWhGE"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -271,70 +319,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Common Sense",
-        "url": "https://open.spotify.com/album/7m1Sb6fRqT30QdNr0tjdDP"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "Lick the Bag",
-      "url": "https://open.spotify.com/track/07iJL5aTEPKh4YGrUIBOsb"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "L.S.D",
-        "url": "https://open.spotify.com/album/3uwBl1AVD4FnworvYaaUox"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "L.S.D",
-      "url": "https://open.spotify.com/track/6y6GFyjVFwWI7lJbbbF0hU"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Peace Love Death Metal",
-        "url": "https://open.spotify.com/album/6alFQi9OFVzSE0sud9e7GT"
-      },
-      "artists": [
-        {
-          "name": "Eagles Of Death Metal",
-          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "San Berdoo Sunburn",
-      "url": "https://open.spotify.com/track/1UjyNAfP9grmHnou5c5orN"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/1YNpikcqLN0DiQ2WX9SYFF"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 416759,
-      "name": "Goatfuzz",
-      "url": "https://open.spotify.com/track/2LITu4fhbVMfjTg3mn8Vl5"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Manipulator",
         "url": "https://open.spotify.com/album/0aXcmVjzU9v63FhFcjgLxp"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 242013,
       "name": "Tall Man Skinny Lady",
       "url": "https://open.spotify.com/track/49PuPc7vsgnkzMpF0Hzfeq"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "...Like Clockwork",
+        "url": "https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "I Sat By The Ocean",
+      "url": "https://open.spotify.com/track/7oXRMDUzBPekkLRTJhSGvC"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Fuma\u00e7a Preta",
-        "url": "https://open.spotify.com/album/36wApbIcDo6iCWZdRbpNC5"
-      },
-      "artists": [
-        {
-          "name": "Fuma\u00e7a Preta",
-          "url": "https://open.spotify.com/artist/6EbouBUrGRR3KTE9m6Fcfi"
-        }
-      ],
-      "duration_ms": 159513,
-      "name": "Toda Pessoa",
-      "url": "https://open.spotify.com/track/7yfnGnzEDtVKNNNnLC2dLK"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Carter",
         "url": "https://open.spotify.com/album/3bKH6xVFa2W0wbgsbn99wX"
       },
@@ -415,134 +399,6 @@
       "duration_ms": 161156,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/5W3Auo6qVL6wwbIruLFju7"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Loopholes",
-        "url": "https://open.spotify.com/album/6VfxatIFLxyyXVmhTMBZsl"
-      },
-      "artists": [
-        {
-          "name": "The Murlocs",
-          "url": "https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus"
-        }
-      ],
-      "duration_ms": 190284,
-      "name": "Space Cadet",
-      "url": "https://open.spotify.com/track/4VAWLjoHleIvg2Dnkyv7PH"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "King Tuff",
-        "url": "https://open.spotify.com/album/1aR5ucNgsjrtLMowsaMgcd"
-      },
-      "artists": [
-        {
-          "name": "King Tuff",
-          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
-        }
-      ],
-      "duration_ms": 207480,
-      "name": "Unusual World",
-      "url": "https://open.spotify.com/track/5eSLt9mxaJFaGlk3VAQomv"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Keep Your Stupid Dreams Alive",
-        "url": "https://open.spotify.com/album/4NaHNMDgSixvdoV58jJLSF"
-      },
-      "artists": [
-        {
-          "name": "The Prefab Messiahs",
-          "url": "https://open.spotify.com/artist/5GYnYoovZYKHZwodZQ9leb"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "Weirdoz Everywhere",
-      "url": "https://open.spotify.com/track/1y1x50RPlbMxQEfdEea4jq"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "The Slider",
-        "url": "https://open.spotify.com/album/3Dg3quPRLDCsEqnzgPl6PE"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Buick Mackane",
-      "url": "https://open.spotify.com/track/4MYQmhDkFCC7HTrVCdWhGE"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "Creep in a T-Shirt",
-      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Our House on the Hill",
-        "url": "https://open.spotify.com/album/7BQtpdUIIzfRggYzqqOfmm"
-      },
-      "artists": [
-        {
-          "name": "The Babies",
-          "url": "https://open.spotify.com/artist/1ZFl1BJzJDj3SdxLD4P48Z"
-        }
-      ],
-      "duration_ms": 198992,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/69HBkY6dhDFSrXAdiyLZZG"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Astro Coast",
-        "url": "https://open.spotify.com/album/6cq0cyNdRVVgZGJBMgT24k"
-      },
-      "artists": [
-        {
-          "name": "Surfer Blood",
-          "url": "https://open.spotify.com/artist/0IlQRCafsMrd0QkTRBU6n0"
-        }
-      ],
-      "duration_ms": 240240,
-      "name": "Floating Vibes",
-      "url": "https://open.spotify.com/track/54r1NWGNCTamYgfbbsWMky"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -579,66 +435,34 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Badillac",
-        "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
       "artists": [
         {
-          "name": "Together Pangea",
-          "url": "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 147880,
-      "name": "Badillac",
-      "url": "https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O"
+      "duration_ms": 233146,
+      "name": "Creep in a T-Shirt",
+      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
     },
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Stardust Birthday Party",
-        "url": "https://open.spotify.com/album/37BmBj2brWfP9HezMAebdH"
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i"
       },
       "artists": [
         {
-          "name": "Ron Gallo",
-          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
         }
       ],
-      "duration_ms": 191986,
-      "name": "Love Supreme (Work Together!)",
-      "url": "https://open.spotify.com/track/3hdWuSgCuJKxBCrm0GSxVE"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Black Moon Spell",
-        "url": "https://open.spotify.com/album/1D2eoTz82hmyArupokjyZ5"
-      },
-      "artists": [
-        {
-          "name": "King Tuff",
-          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
-        }
-      ],
-      "duration_ms": 89520,
-      "name": "Demon From Hell",
-      "url": "https://open.spotify.com/track/3NaT4FM9fCu29Ep9DoVh0N"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Who Loves the Scum?",
-        "url": "https://open.spotify.com/album/55BOvhU61aJyPVmhL0ExwC"
-      },
-      "artists": [
-        {
-          "name": "The Growlers",
-          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
-        }
-      ],
-      "duration_ms": 208625,
-      "name": "Who Loves the Scum?",
-      "url": "https://open.spotify.com/track/2ma77DaU6vgMkRkHEABeO9"
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -659,22 +483,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1hSONHeTOofdeh2uoFBLgv"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/4QDbzpmRA6atTEEE2W7j7k"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Fun House (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3FTcomSFg2zWSqWLRgBYpv"
       },
@@ -687,22 +495,6 @@
       "duration_ms": 214186,
       "name": "Loose - 2005 Remaster",
       "url": "https://open.spotify.com/track/4jYeoH1fAXq5yRcOKOs1Df"
-    },
-    {
-      "added_at": "2022-03-23 15:48:35",
-      "album": {
-        "name": "When The World Comes Down",
-        "url": "https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gives You Hell",
-      "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -723,82 +515,114 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Chest Crawl",
-        "url": "https://open.spotify.com/album/7xgsyqkVXJD8PChs2mUEiA"
+        "name": "Astro Coast",
+        "url": "https://open.spotify.com/album/6cq0cyNdRVVgZGJBMgT24k"
       },
       "artists": [
         {
-          "name": "Guantanamo Baywatch",
-          "url": "https://open.spotify.com/artist/2uZajWbkMRUYdyCHvsh494"
+          "name": "Surfer Blood",
+          "url": "https://open.spotify.com/artist/0IlQRCafsMrd0QkTRBU6n0"
         }
       ],
-      "duration_ms": 188226,
-      "name": "Barbacoa",
-      "url": "https://open.spotify.com/track/5a7uskQ3CAOniRFSQo6DBp"
+      "duration_ms": 240240,
+      "name": "Floating Vibes",
+      "url": "https://open.spotify.com/track/54r1NWGNCTamYgfbbsWMky"
     },
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Sad Boys",
-        "url": "https://open.spotify.com/album/11aqOJ15xowZSlgGTSx7MH"
+        "name": "Fuma\u00e7a Preta",
+        "url": "https://open.spotify.com/album/36wApbIcDo6iCWZdRbpNC5"
       },
       "artists": [
         {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+          "name": "Fuma\u00e7a Preta",
+          "url": "https://open.spotify.com/artist/6EbouBUrGRR3KTE9m6Fcfi"
         }
       ],
-      "duration_ms": 159198,
-      "name": "I'm Not Making out With You",
-      "url": "https://open.spotify.com/track/6E9ab6fNK5D18BDJT8ojDs"
+      "duration_ms": 159513,
+      "name": "Toda Pessoa",
+      "url": "https://open.spotify.com/track/7yfnGnzEDtVKNNNnLC2dLK"
     },
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Arabia Mountain",
-        "url": "https://open.spotify.com/album/7GiUKzR2ImfLJK8Qxrn630"
+        "name": "Our House on the Hill",
+        "url": "https://open.spotify.com/album/7BQtpdUIIzfRggYzqqOfmm"
       },
       "artists": [
         {
-          "name": "Black Lips",
-          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
+          "name": "The Babies",
+          "url": "https://open.spotify.com/artist/1ZFl1BJzJDj3SdxLD4P48Z"
         }
       ],
-      "duration_ms": 124146,
-      "name": "Modern Art",
-      "url": "https://open.spotify.com/track/5CD1zO8FBpSjulmoQlFdse"
+      "duration_ms": 198992,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/69HBkY6dhDFSrXAdiyLZZG"
     },
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "In Utero - 20th Anniversary Remaster",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+        "name": "Loopholes",
+        "url": "https://open.spotify.com/album/6VfxatIFLxyyXVmhTMBZsl"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "The Murlocs",
+          "url": "https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus"
         }
       ],
-      "duration_ms": 218813,
-      "name": "Pennyroyal Tea",
-      "url": "https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu"
+      "duration_ms": 190284,
+      "name": "Space Cadet",
+      "url": "https://open.spotify.com/track/4VAWLjoHleIvg2Dnkyv7PH"
     },
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "King of the Beach",
-        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
+        "name": "Stardust Birthday Party",
+        "url": "https://open.spotify.com/album/37BmBj2brWfP9HezMAebdH"
       },
       "artists": [
         {
-          "name": "Wavves",
-          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
         }
       ],
-      "duration_ms": 158106,
-      "name": "King of the Beach",
-      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
+      "duration_ms": 191986,
+      "name": "Love Supreme (Work Together!)",
+      "url": "https://open.spotify.com/track/3hdWuSgCuJKxBCrm0GSxVE"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1hSONHeTOofdeh2uoFBLgv"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/4QDbzpmRA6atTEEE2W7j7k"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/1YNpikcqLN0DiQ2WX9SYFF"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 416759,
+      "name": "Goatfuzz",
+      "url": "https://open.spotify.com/track/2LITu4fhbVMfjTg3mn8Vl5"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -819,34 +643,130 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Our Love To Admire",
-        "url": "https://open.spotify.com/album/49agqemJmnDfTA8nqod1qy"
+        "name": "Sad Boys",
+        "url": "https://open.spotify.com/album/11aqOJ15xowZSlgGTSx7MH"
       },
       "artists": [
         {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
         }
       ],
-      "duration_ms": 208626,
-      "name": "The Heinrich Maneuver",
-      "url": "https://open.spotify.com/track/4VmqrMPBppKFkOw2zuEIt8"
+      "duration_ms": 159198,
+      "name": "I'm Not Making out With You",
+      "url": "https://open.spotify.com/track/6E9ab6fNK5D18BDJT8ojDs"
     },
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+        "name": "Black Moon Spell",
+        "url": "https://open.spotify.com/album/1D2eoTz82hmyArupokjyZ5"
       },
       "artists": [
         {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+          "name": "King Tuff",
+          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
         }
       ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+      "duration_ms": 89520,
+      "name": "Demon From Hell",
+      "url": "https://open.spotify.com/track/3NaT4FM9fCu29Ep9DoVh0N"
+    },
+    {
+      "added_at": "2022-03-23 15:48:35",
+      "album": {
+        "name": "When The World Comes Down",
+        "url": "https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gives You Hell",
+      "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "King of the Beach",
+        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "King of the Beach",
+      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Who Loves the Scum?",
+        "url": "https://open.spotify.com/album/55BOvhU61aJyPVmhL0ExwC"
+      },
+      "artists": [
+        {
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+        }
+      ],
+      "duration_ms": 208625,
+      "name": "Who Loves the Scum?",
+      "url": "https://open.spotify.com/track/2ma77DaU6vgMkRkHEABeO9"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Badillac",
+        "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
+      },
+      "artists": [
+        {
+          "name": "Together Pangea",
+          "url": "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Badillac",
+      "url": "https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Leash - Remastered",
+      "url": "https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "In Utero - 20th Anniversary Remaster",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Pennyroyal Tea",
+      "url": "https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -863,6 +783,166 @@
       "duration_ms": 156560,
       "name": "Hello Operator",
       "url": "https://open.spotify.com/track/5vOleliNyabx2qbIWMbyXQ"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Toad Jam",
+        "url": "https://open.spotify.com/album/0qTGqqkhpY5nezI7St0jFW"
+      },
+      "artists": [
+        {
+          "name": "Ghost King",
+          "url": "https://open.spotify.com/artist/5yJlhaqziKf3chFEX8RV84"
+        }
+      ],
+      "duration_ms": 178592,
+      "name": "Toad Jam",
+      "url": "https://open.spotify.com/track/7hYJzj15DrecxdMA9jSXnC"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Love Fuzz",
+        "url": "https://open.spotify.com/album/1PBA8BAkM4RRM80RCsvZjj"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 456200,
+      "name": "Love Fuzz",
+      "url": "https://open.spotify.com/track/7EkDukn0DSarGxnpQS5Ymq"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "King Tuff",
+        "url": "https://open.spotify.com/album/1aR5ucNgsjrtLMowsaMgcd"
+      },
+      "artists": [
+        {
+          "name": "King Tuff",
+          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
+        }
+      ],
+      "duration_ms": 207480,
+      "name": "Unusual World",
+      "url": "https://open.spotify.com/track/5eSLt9mxaJFaGlk3VAQomv"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1UZEI48x6bAvRw5M8AKQVX"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Lucidity",
+      "url": "https://open.spotify.com/track/0wIycFb49FSJY1uWDLhDfu"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Arabia Mountain",
+        "url": "https://open.spotify.com/album/7GiUKzR2ImfLJK8Qxrn630"
+      },
+      "artists": [
+        {
+          "name": "Black Lips",
+          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Modern Art",
+      "url": "https://open.spotify.com/track/5CD1zO8FBpSjulmoQlFdse"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Chest Crawl",
+        "url": "https://open.spotify.com/album/7xgsyqkVXJD8PChs2mUEiA"
+      },
+      "artists": [
+        {
+          "name": "Guantanamo Baywatch",
+          "url": "https://open.spotify.com/artist/2uZajWbkMRUYdyCHvsh494"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "Barbacoa",
+      "url": "https://open.spotify.com/track/5a7uskQ3CAOniRFSQo6DBp"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Our Love To Admire",
+        "url": "https://open.spotify.com/album/49agqemJmnDfTA8nqod1qy"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "The Heinrich Maneuver",
+      "url": "https://open.spotify.com/track/4VmqrMPBppKFkOw2zuEIt8"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Keep Your Stupid Dreams Alive",
+        "url": "https://open.spotify.com/album/4NaHNMDgSixvdoV58jJLSF"
+      },
+      "artists": [
+        {
+          "name": "The Prefab Messiahs",
+          "url": "https://open.spotify.com/artist/5GYnYoovZYKHZwodZQ9leb"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "Weirdoz Everywhere",
+      "url": "https://open.spotify.com/track/1y1x50RPlbMxQEfdEea4jq"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "King Tuff",
+        "url": "https://open.spotify.com/album/1aR5ucNgsjrtLMowsaMgcd"
+      },
+      "artists": [
+        {
+          "name": "King Tuff",
+          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Alone & Stoned",
+      "url": "https://open.spotify.com/track/3gWXj0M91hORb7ZjSZpdHW"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Aeons",
+        "url": "https://open.spotify.com/album/6iq57usboyGlSQMv9a6zaK"
+      },
+      "artists": [
+        {
+          "name": "Chemtrails",
+          "url": "https://open.spotify.com/artist/2AvNtsTKAOkaoD7aonyHHJ"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Aeons",
+      "url": "https://open.spotify.com/track/7u0h3YWV24zGDMmmALRlzN"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -895,86 +975,6 @@
       "duration_ms": 211440,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/4rp0jQx7m4aC9YwbgkUL2K"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "King Tuff",
-        "url": "https://open.spotify.com/album/1aR5ucNgsjrtLMowsaMgcd"
-      },
-      "artists": [
-        {
-          "name": "King Tuff",
-          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Alone & Stoned",
-      "url": "https://open.spotify.com/track/3gWXj0M91hORb7ZjSZpdHW"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1UZEI48x6bAvRw5M8AKQVX"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Lucidity",
-      "url": "https://open.spotify.com/track/0wIycFb49FSJY1uWDLhDfu"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Mikal Cronin",
-        "url": "https://open.spotify.com/album/54hyA5EG1MFUIF2P2tBxKe"
-      },
-      "artists": [
-        {
-          "name": "Mikal Cronin",
-          "url": "https://open.spotify.com/artist/6QobJ3vnalBTlsdOrvQTIt"
-        }
-      ],
-      "duration_ms": 234048,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/4PiWyH1ZPvH7PVEON92tDM"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Floating Coffin",
-        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Toe Cutter - Thumb Buster",
-      "url": "https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Leash - Remastered",
-      "url": "https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F"
     }
   ],
   "unique_name": "Sun & Surf",

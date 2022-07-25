@@ -1820,6 +1820,24 @@
     },
     {
       "album": {
+        "name": "Pale Summer",
+        "url": "https://open.spotify.com/album/2eShlYlfZ4t3hCfOLjKaNN"
+      },
+      "artists": [
+        {
+          "name": "THE LOCAL PINTS",
+          "url": "https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Pale Summer",
+      "url": "https://open.spotify.com/track/3u8LTDwcLfCCtu7mTj9eT9"
+    },
+    {
+      "album": {
         "name": "praystation 2",
         "url": "https://open.spotify.com/album/1OeLqztFCRzdErnNWo5YG9"
       },

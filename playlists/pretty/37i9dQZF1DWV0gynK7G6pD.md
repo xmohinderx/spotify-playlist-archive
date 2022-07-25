@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jung Jaeil
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,885 likes - 43 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,972 likes - 43 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

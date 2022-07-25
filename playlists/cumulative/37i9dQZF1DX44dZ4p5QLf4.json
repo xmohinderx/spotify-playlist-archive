@@ -588,6 +588,24 @@
     },
     {
       "album": {
+        "name": "Camden Free Public Library",
+        "url": "https://open.spotify.com/album/3WzSD6AH1XQW6DYcNcXfki"
+      },
+      "artists": [
+        {
+          "name": "Bulgarian Cartrader",
+          "url": "https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304817,
+      "name": "Camden Free Public Library",
+      "url": "https://open.spotify.com/track/6Oxc4nkfR3SPJjBUNtf87r"
+    },
+    {
+      "album": {
         "name": "Candy Drip",
         "url": "https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV"
       },
@@ -2115,6 +2133,28 @@
       "duration_ms": 168944,
       "name": "Look What We Do",
       "url": "https://open.spotify.com/track/63RWcevgfeFOhSQK9yXiY7"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/375zZDGd2aYiTXCnxIKQRM"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Charlotte Dos Santos",
+          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226231,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/0rPFXlpHqw24Z2Cg5OzmC9"
     },
     {
       "album": {

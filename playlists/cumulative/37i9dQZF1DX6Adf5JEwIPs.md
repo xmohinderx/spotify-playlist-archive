@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Grupo Marca Registrada, Junior H.
 
-529 songs - 1 day 3 hr 47 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+530 songs - 1 day 3 hr 50 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Maravillosa](https://open.spotify.com/track/2tvXFz2nrT37IeYoTrIYzp) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Temporadas Emocionales](https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ) | 4:07 | 2022-07-01 | 2022-07-09 |
 | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/track/6LsZpvm8Uq3PRBahZdtsjU) | [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Puras Pa' Tomar Con Tololoche Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5yWjSbUQXqfhBJrJOzuajh) | 3:39 | 2022-05-27 | 2022-06-04 |
 | [Me Amas](https://open.spotify.com/track/6ppO2W0MYAUqsebTz8qxQ9) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Me Amas](https://open.spotify.com/album/1lpWlWOJzNb4tdnCU3mW4S) | 2:32 | 2022-07-22 |  |
+| [Me Critican](https://open.spotify.com/track/5YSP2U2zp3QjyAHo47mvLN) | [Ernesto Cota](https://open.spotify.com/artist/43TBniliwDn600EiuvJGuw), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Me Critican](https://open.spotify.com/album/5gLJuNSF3baTvHva7Kske5) | 2:19 | 2022-07-22 |  |
 | [Me Dijeron](https://open.spotify.com/track/3MLAh0E86s5MtDqLfZ2tZj) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Me Dijeron](https://open.spotify.com/album/1QjhLu4yYn0aPEX8suwjJZ) | 3:52 | 2022-07-08 | 2022-07-16 |
 | [Me Encantas](https://open.spotify.com/track/6WR0WrghyqUXrMZCe74kLF) | [Porto Fino](https://open.spotify.com/artist/1KBAMss5TbuIZUDf9STspe), [Grupo Lucido](https://open.spotify.com/artist/4rOAcPnRfXvi5AP9gwJB4G) | [Me Encantas](https://open.spotify.com/album/6dPgxqhpa4d8pkjnZg6rcd) | 3:34 | 2022-06-24 | 2022-07-02 |
 | [Me Estás Doliendo](https://open.spotify.com/track/6UJ5SwuaEynoBEz8ulJ9X1) | [Miguelón Martínez](https://open.spotify.com/artist/5eTHk7xdW6Jf6RSEennGnz) | [Me Estás Doliendo](https://open.spotify.com/album/0aKtPIhToz6Y5ovqCCiwuo) | 2:52 | 2022-06-10 | 2022-06-18 |

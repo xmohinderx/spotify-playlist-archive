@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Phạm Nguyên Ngọc; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,067 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,078 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 53 | [Bae, Đừng Khóc](https://open.spotify.com/track/4xfcvjbyHx7U7aH7EYOf6O) | [Kiyoshi Phan](https://open.spotify.com/artist/68NSOMlOaNbs7eYe42qaAc), [Cà Nâu](https://open.spotify.com/artist/1GaNXOOINBcBKwdd58rMbW) | [Bae, Đừng Khóc](https://open.spotify.com/album/5vJP1xUaGpKIlGMRMAHI2n) | 3:21 |
 | 54 | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/track/3qv9LRzmaA4BX3v427FBi4) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6), [MaL.](https://open.spotify.com/artist/6n0P5VPfsk3qLSVja7xzb5) | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/album/0qIp0FFFHGlxfzyWuWG9zs) | 3:59 |
 | 55 | [It's Okay](https://open.spotify.com/track/7tnQIXXjQBQxDs9VDH1jBC) | [Đức Trường](https://open.spotify.com/artist/4R2engiAed6QeIV63PDAz0), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [It's Okay](https://open.spotify.com/album/4RLJ2RUzs7ZBhxyGofZC6y) | 3:43 |
-| 56 | [Bring Me Back Into My Zone](https://open.spotify.com/track/0riysjEEB9kqxtiuu30HW5) | [Zang](https://open.spotify.com/artist/6n0cB9sXTrfQ9ySmyVM5Ut) | [Bring Me Back Into My Zone](https://open.spotify.com/album/4TrlAzAIk9BgyBPCPCOcPU) | 3:05 |
+| 56 | [Bring Me Back Into My Zone](https://open.spotify.com/track/0riysjEEB9kqxtiuu30HW5) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB) | [Bring Me Back Into My Zone](https://open.spotify.com/album/4TrlAzAIk9BgyBPCPCOcPU) | 3:05 |
 | 57 | [Ngây Ngô Tình Yêu Đầu Đời](https://open.spotify.com/track/56J6ygHtKGfeeUdYlExjpO) | [DAY](https://open.spotify.com/artist/114BKkVUhX67beIiVYHPZm), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Ngây Ngô Tình Yêu Đầu Đời](https://open.spotify.com/album/2aoS50dVrBzYcfnSrYkG1L) | 4:31 |
 | 58 | [Sao Em Không Rep?](https://open.spotify.com/track/2IyaEEU6uYI20qnYpfBxeP) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [DAGIAM](https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg) | [Sao Em Không Rep?](https://open.spotify.com/album/5PAvmwRrUuTWwf3ImHeYJq) | 3:11 |
 | 59 | [Giận Nè \(OST Em Là Người Anh Thích\)](https://open.spotify.com/track/7cGbbFGuVNuFMmysp5cI4L) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj) | [Giận Nè \(OST Em Là Người Anh Thích\)](https://open.spotify.com/album/68NQU4d1hFEttXOTntU6DS) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Thành Phố Mưa Rơi](https://open.spotify.com/track/3NhzsDOJP7wmEZ7GqJsbqN) | [Khải](https://open.spotify.com/artist/2YJjdbWUlFUPMyveMVft5k) | [Thành Phố Mưa Rơi](https://open.spotify.com/album/5g22eLgvT3xdEry4ejyaDZ) | 4:07 |
 | 100 | [016 Tan Du](https://open.spotify.com/track/02it69GkrLMFN7Jisv8NGO) | [Sol Silva](https://open.spotify.com/artist/5v5wkLRk5U2penqwOKbX1N), [Lil N](https://open.spotify.com/artist/1u3Fs4ssZjDPPpBIvLsOl2) | [016 Tan Du](https://open.spotify.com/album/5QdVem6v3tY7ouzDiQSEQx) | 2:15 |
 
-Snapshot ID: `MTY1ODYyMDQxMSwwMDAwMDMxZjAwMDAwMTgyMmQ3YWZjZjEwMDAwMDE4MWM3Y2MxYjlj`
+Snapshot ID: `MTY1ODY1MzQzMiwwMDAwMDMyMDAwMDAwMTgyMmY3MmRjMGEwMDAwMDE4MWM3Y2MxYjlj`

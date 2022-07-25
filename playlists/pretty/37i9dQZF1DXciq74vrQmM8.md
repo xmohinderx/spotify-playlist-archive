@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. jazmin bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,275 likes - 85 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,598 likes - 85 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Tongue in cheek](https://open.spotify.com/track/5PEaxIDwsHnncKTlBezBpP) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/3zl3Qtgdt9tMVqiMa7RaK1) | 2:36 |
 | 85 | [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 |
 
-Snapshot ID: `MTY1ODYyNjU1NSwwMDAwMDAwMDYyZWEzMWRkMzc4Mzg1YzU3NWJlNDg3OTRkODVjZGM5`
+Snapshot ID: `MTY1ODcxMjQwNCwwMDAwMDAwMDYyZWEzMWRkMzc4Mzg1YzU3NWJlNDg3OTRkODVjZGM5`

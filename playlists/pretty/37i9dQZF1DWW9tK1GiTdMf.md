@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare e in cover sally cruz, mike defunto, konti flowerchild
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,463 likes - 90 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,475 likes - 90 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

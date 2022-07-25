@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > little miss 2 die 4
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079,578 likes - 123 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,084,019 likes - 123 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

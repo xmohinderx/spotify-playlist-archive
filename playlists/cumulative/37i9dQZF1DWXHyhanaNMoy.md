@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> De playlist voor magic, motion en love tunes\. Cover: Burna Boy
+> Een xxclusieve nieuwe track van Bokoesam!
 
-82 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+83 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Consciousness](https://open.spotify.com/track/3fDQa06TlrJoC4zDH1iuaB) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Consciousness](https://open.spotify.com/album/0D3M7NwWQe4iL0rMNfPWQk) | 1:51 | 2022-07-21 |  |
 | [Criminal](https://open.spotify.com/track/1tEulLqSCX3Q9DOXxoRugI) | [Stevy](https://open.spotify.com/artist/5zjk9uB67qJbv36gEYPLB5), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [¥ami](https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B) | [Criminal](https://open.spotify.com/album/3xOLShtc9JC735vtyQRlyl) | 2:37 | 2022-07-14 |  |
 | [DADDY](https://open.spotify.com/track/4NG1Iq0rtf3smj5DEtOzDs) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [MANDALA](https://open.spotify.com/album/5ppnaDzBstF4KnL0z5sUGy) | 2:04 | 2022-07-14 |  |
+| [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/6AhjFgx6oMbUeSy573Wt5t) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/7t3ilQDv7pSEUhpbelfXwR) | 2:41 | 2022-07-24 |  |
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-07-14 |  |
 | [Flauta](https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Flauta](https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g) | 3:09 | 2022-07-14 |  |
 | [Flits Uit](https://open.spotify.com/track/2UEgBrRofjHdoDdTu19JY8) | [Vurra](https://open.spotify.com/artist/2Qm7GttqaAhxHCgj1vTUOk), [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV), [D\-opss](https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ) | [Flits Uit](https://open.spotify.com/album/0TgmaiS4hVdr76QSEyzWoM) | 2:11 | 2022-07-14 |  |

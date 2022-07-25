@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BOWKYLION
 
-163 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+165 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-05-26 |  |
 | [All Night \(feat\. Loco\)](https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [All Night \(feat\. Loco\)](https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo) | 3:03 | 2022-06-09 | 2022-07-08 |
 | [Blurred](https://open.spotify.com/track/1wCAXionqFLLZPUNY2nd6c) | [FrameThanavuch](https://open.spotify.com/artist/0K44arrw4gdFLzifOQLORP) | [Blurred](https://open.spotify.com/album/6RCVDrIfZY3darb6ig8Vn9) | 4:27 | 2022-05-26 | 2022-06-01 |
-| [Boutchya](https://open.spotify.com/track/2cqgWnsfBS5aKUHg1pq3fN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya](https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr) | 3:19 | 2022-07-14 |  |
+| [Boutchya](https://open.spotify.com/track/2cqgWnsfBS5aKUHg1pq3fN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya](https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr) | 3:19 | 2022-07-14 | 2022-07-25 |
+| [Boutchya \- Thai Version](https://open.spotify.com/track/2HH3EYgwHjM8ama77pYtNu) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya \(Thai Version\)](https://open.spotify.com/album/7Elaz3IhrcFd3MGflDiSgt) | 3:20 | 2022-07-24 |  |
 | [Gone Gurl](https://open.spotify.com/track/2iD5UfAQlZQulHzgaV1BKW) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Gone Gurl](https://open.spotify.com/album/4KLCiY1OGHlSKrTsIwpJUY) | 3:15 | 2022-06-09 | 2022-06-24 |
 | [good boy](https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh) | [KJ](https://open.spotify.com/artist/5VsLrcMVUw2PUCqAQNPXtn) | [good boy](https://open.spotify.com/album/50oaCQAz9HH45u4SPUWcmx) | 3:21 | 2022-07-14 |  |
 | [I DON'T MISS YOU](https://open.spotify.com/track/0Xv1iMu2DaRL7R7g7dhQIa) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [I DON'T MISS YOU](https://open.spotify.com/album/58Yq6ydlcwCNCmoHmyHxuC) | 3:27 | 2022-05-26 | 2022-06-17 |
@@ -105,6 +106,7 @@
 | [วังวน\(BOXX FROM HOME\)](https://open.spotify.com/track/3o4erj1cYrVQFUNcKAYZoH) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [วังวน\(BOXX FROM HOME\)](https://open.spotify.com/album/6FGIbgcEoo3V6nnMT6H0h8) | 4:40 | 2022-05-26 |  |
 | [วัดปะหล่ะ? \(Test Me\)](https://open.spotify.com/track/0gEewSHZqPiNQa9DqeeUXj) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/5dqU6JzyweoetwSDtq2E8I) | 3:40 | 2022-05-26 |  |
 | [วันครบเลิก \- UNNIVERSARY](https://open.spotify.com/track/7vUrVGEoDUfxHZFK4lDTKR) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [วันครบเลิก \(UNNIVERSARY\)](https://open.spotify.com/album/1GtffmavEKtJaNYvsH5tK9) | 4:09 | 2022-05-26 |  |
+| [วาดไว้ \- recall](https://open.spotify.com/track/3FUAv32u0F64kcaaLRimPr) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [วาดไว้ \(recall\)](https://open.spotify.com/album/4abO31N2HMvzWtFgVhvs7Y) | 4:15 | 2022-07-24 |  |
 | [วายโอยู \(Y.O.U\)](https://open.spotify.com/track/3MZ6pw9dt75zdCZCv79FKf) | [CM Cafe](https://open.spotify.com/artist/3HIIbzo8qdutuxFS1yPCUz), [Yakoolza](https://open.spotify.com/artist/7rTs3ZRedzB7EumYiJgkYQ) | [วายโอยู \(Y.O.U\)](https://open.spotify.com/album/60YKWacud7mhWVrTqARj0p) | 3:54 | 2022-06-16 | 2022-06-24 |
 | [สบายดีไหม? \(how r u?\)](https://open.spotify.com/track/6w6CKv0wpFBTjBcV6YuQJs) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สบายดีไหม? \(how r u?\)](https://open.spotify.com/album/7FZ3wtsNBVQqvoYBuFaPv2) | 4:06 | 2022-07-01 | 2022-07-23 |
 | [สมัยนี้เค้าไม่แอบรัก\(Just Say You Love Me\) \- เพลงประกอบซีรีส์ คืนนับดาว Astrophile](https://open.spotify.com/track/2mBtzhDDwoGBKAsrGMYrev) | [Mook Worranit](https://open.spotify.com/artist/0WvnXNFhAbvUHTSYVXIudV) | [เพลงประกอบซีรีส์ คืนนับดาว Astrophile](https://open.spotify.com/album/0BX886v6YDSPtIbxRBTESe) | 3:11 | 2022-07-23 |  |

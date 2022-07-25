@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-51 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
+52 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Make It Right](https://open.spotify.com/track/2lW49SW32TCCt5qj9LfiKc) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 3:52 | 2022-05-29 |  |
 | [Mooi Begint Van Binnen](https://open.spotify.com/track/5C3cHlD6KyIBaeUpKXmbZp) | [Femke Meines](https://open.spotify.com/artist/008zrqBEErn7XcCzTxwNoV) | [Dichterbij \(Originele Soundtrack Engel\)](https://open.spotify.com/album/1OLJRUMxSCmUSz5kV6WbHX) | 2:49 | 2022-05-29 |  |
 | [More Than a Million](https://open.spotify.com/track/79Vy5vakQDBmibAFHSjINh) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Project Me](https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj) | 3:29 | 2022-05-29 |  |
-| [New York](https://open.spotify.com/track/4MD5q1ZpJd3BDga5v3CT2O) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [New York](https://open.spotify.com/album/5CKMciF7f0yw2yE4q2rs6t) | 3:04 | 2022-05-29 |  |
+| [New York](https://open.spotify.com/track/4AaMBpuRCnQ0vmRG2zRyFv) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [New York](https://open.spotify.com/album/6JxiDe2Xa9BtRJ5XPEaplo) | 3:04 | 2022-07-24 |  |
+| [New York](https://open.spotify.com/track/4MD5q1ZpJd3BDga5v3CT2O) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [New York](https://open.spotify.com/album/5CKMciF7f0yw2yE4q2rs6t) | 3:04 | 2022-05-29 | 2022-07-25 |
 | [No One Else Is You](https://open.spotify.com/track/2Ca9iYfiSZQI7McfsR4yHj) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [No One Else Is You](https://open.spotify.com/album/68nfxAQeOzGqTJmSSLzqsx) | 2:44 | 2022-05-29 |  |
 | [Other Plans](https://open.spotify.com/track/4uWMxLWuqmUeOwgJFH7PFY) | [BRÅVO](https://open.spotify.com/artist/5wbXEmUKBwInLhJS5Bmbqw), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Other Plans](https://open.spotify.com/album/06xI01SVbw3zfc0Ql9jnFd) | 3:02 | 2022-05-29 |  |
 | [Over & Over](https://open.spotify.com/track/1ter4BKAd1mVhMfdeKWN67) | [Gio Latooy](https://open.spotify.com/artist/5ssoO5NLjNQNmh5kfEPSnc) | [Over & Over](https://open.spotify.com/album/1oueMBIUYKjvdfPshNAYZJ) | 2:40 | 2022-05-29 |  |

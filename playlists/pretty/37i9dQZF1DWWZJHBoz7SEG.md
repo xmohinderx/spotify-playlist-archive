@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Tainy y Rauw Alejandro; Camilo y Nicki Nicole; Billie Eilish; CNCO y Kenia OS, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,436 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,486 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

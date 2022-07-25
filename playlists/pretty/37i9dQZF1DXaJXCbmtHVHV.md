@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Travis Denning
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,576 likes - 96 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,638 likes - 96 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

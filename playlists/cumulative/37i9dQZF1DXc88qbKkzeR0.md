@@ -4,7 +4,7 @@
 
 > The hit tracks we can't get enough of, from our favorite LGBTQ+ movies and shows\. Presented by @most, Netflix's home to queer storytelling.
 
-25 songs - 1 hr 28 min - not published yet
+25 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/0apMnsLqqy4OYzTgiQlxlm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

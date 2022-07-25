@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "De playlist voor magic, motion en love tunes. Cover: Burna Boy",
+  "description": "Een xxclusieve nieuwe track van Bokoesam!",
   "name": "La Vida Loca",
   "published_playlist_ids": [
     "5EIhsbDAXsYMVcvdmXGuEa"
@@ -317,6 +317,28 @@
       "duration_ms": 124794,
       "name": "DADDY",
       "url": "https://open.spotify.com/track/4NG1Iq0rtf3smj5DEtOzDs"
+    },
+    {
+      "album": {
+        "name": "Doe Het Nou Gewoon",
+        "url": "https://open.spotify.com/album/7t3ilQDv7pSEUhpbelfXwR"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "Digi Deng Dang (feat. Caza)",
+      "url": "https://open.spotify.com/track/6AhjFgx6oMbUeSy573Wt5t"
     },
     {
       "album": {

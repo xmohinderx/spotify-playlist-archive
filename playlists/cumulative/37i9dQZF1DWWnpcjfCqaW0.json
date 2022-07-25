@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "This Is Jean Shepard",
+        "url": "https://open.spotify.com/album/5PsuJ2gGyTHhnWFrxbOrtV"
+      },
+      "artists": [
+        {
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148893,
+      "name": "A Satisfied Mind",
+      "url": "https://open.spotify.com/track/3EL0HtVljTy0kqgSNKe4cT"
+    },
+    {
+      "album": {
         "name": "The Essential Porter Wagoner",
         "url": "https://open.spotify.com/album/76ijhEyT4DEJuwoyHd5bEk"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 166040,
       "name": "A Satisfied Mind",
       "url": "https://open.spotify.com/track/0L9wb8Sy398mMog38XcfND"
@@ -81,7 +99,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 167906,
       "name": "Alabama Jubilee",
       "url": "https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7"
@@ -175,7 +193,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 130757,
       "name": "Ballad Of A Teenage Queen",
       "url": "https://open.spotify.com/track/4Io1aec8TYbaEffiJrlTV2"
@@ -193,10 +211,46 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 156306,
       "name": "Be-Bop-A-Lula",
       "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
+    },
+    {
+      "album": {
+        "name": "The Best Of Jean Shepard",
+        "url": "https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB"
+      },
+      "artists": [
+        {
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/0TOnG6XkBU2Z9YBCCiRtMW"
+    },
+    {
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235733,
+      "name": "Big Iron",
+      "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
     },
     {
       "album": {
@@ -251,7 +305,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 171288,
       "name": "Birmingham Bounce",
       "url": "https://open.spotify.com/track/0nd00V0zyqu1oEIqHtlDU7"
@@ -269,7 +323,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 134445,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
@@ -395,7 +449,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 179600,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
@@ -453,7 +507,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 146970,
       "name": "Cry! Cry! Cry!",
       "url": "https://open.spotify.com/track/0i0kLLNXBnX31p1vWb69jr"
@@ -489,7 +543,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 122893,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
@@ -583,7 +637,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 148093,
       "name": "Forever And Always",
       "url": "https://open.spotify.com/track/1iz8GVAaRaQ3oiybsBiM7O"
@@ -735,7 +789,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 162933,
       "name": "Half As Much",
       "url": "https://open.spotify.com/track/3yqwVLiW7hHfuXIjlJafbv"
@@ -771,7 +825,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 127560,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
@@ -789,7 +843,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 149360,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/6IDlzJSrrWM9Aekoe6LwK9"
@@ -901,7 +955,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 136026,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
@@ -941,6 +995,24 @@
       "duration_ms": 113640,
       "name": "I Ain't Never - Single Version",
       "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
+    },
+    {
+      "album": {
+        "name": "Frankie Laine's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130893,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
     },
     {
       "album": {
@@ -991,7 +1063,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 175266,
       "name": "I Don't Hurt Anymore - Remastered",
       "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
@@ -1009,7 +1081,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 181506,
       "name": "I Forgot More Than You'll Ever Know - Remastered",
       "url": "https://open.spotify.com/track/1hV5guiKDYaQCKnwXXLzyH"
@@ -1027,7 +1099,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 163000,
       "name": "I Love You a Thousand Ways",
       "url": "https://open.spotify.com/track/7pWjsuL63J2CBvml3dCCS4"
@@ -1049,7 +1121,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 127746,
       "name": "I Love You Because",
       "url": "https://open.spotify.com/track/0OnnbhUUfJ23b3UAbBbzAa"
@@ -1107,7 +1179,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 132626,
       "name": "I'll Sail My Ship Alone",
       "url": "https://open.spotify.com/track/5rEggQfrPHRnZDi8fFeS0L"
@@ -1143,7 +1215,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 142000,
       "name": "If You Ain't Lovin' (You Ain't Livin')",
       "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
@@ -1165,6 +1237,24 @@
       "duration_ms": 179306,
       "name": "If You've Got the Money I've Got the Time",
       "url": "https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D"
+    },
+    {
+      "album": {
+        "name": "Patsy Cline",
+        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "In Care Of The Blues",
+      "url": "https://open.spotify.com/track/46qWzjcqItJRcBtcC9BFlK"
     },
     {
       "album": {
@@ -1197,7 +1287,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 138538,
       "name": "In the Jailhouse Now",
       "url": "https://open.spotify.com/track/1oSJCRGSS3CbV526xMogmR"
@@ -1233,7 +1323,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 168106,
       "name": "Invitation to the Blues",
       "url": "https://open.spotify.com/track/0C7M2eMM22PSLOGE1v8oTr"
@@ -1269,7 +1359,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 146480,
       "name": "Jailhouse Rock",
       "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
@@ -1305,7 +1395,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 155306,
       "name": "Just Call Me Lonesome",
       "url": "https://open.spotify.com/track/0DWFp1N36GuQTtyYY9vshy"
@@ -1348,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "Wanda Jackson",
+        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119733,
+      "name": "Long Tall Sally",
+      "url": "https://open.spotify.com/track/3EyvLmKst3E6osm8ly5v5A"
+    },
+    {
+      "album": {
         "name": "The 50 Greatest Love Songs",
         "url": "https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS"
       },
@@ -1359,7 +1467,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 162133,
       "name": "Love Me Tender - Mono",
       "url": "https://open.spotify.com/track/5ap5OgMjY85VcIDcyv02Nc"
@@ -1395,10 +1503,50 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 192960,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
+    },
+    {
+      "album": {
+        "name": "Wanda Jackson",
+        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134800,
+      "name": "Money Honey - Remastered",
+      "url": "https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM"
+    },
+    {
+      "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163426,
+      "name": "Move It On Over",
+      "url": "https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy"
     },
     {
       "album": {
@@ -1492,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123373,
+      "name": "Saddle Tramp",
+      "url": "https://open.spotify.com/track/68FTJoO8edSpzuYb6lGW6P"
+    },
+    {
+      "album": {
         "name": "Salty Dog Rag",
         "url": "https://open.spotify.com/album/6shIVa7uEFfoSkwnuf70hH"
       },
@@ -1503,7 +1669,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 164762,
       "name": "Salty Dog Rag",
       "url": "https://open.spotify.com/track/4MhFLl5381JQIMD5EDJNEe"
@@ -1593,7 +1759,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 178706,
       "name": "Slow Poke",
       "url": "https://open.spotify.com/track/6FF75qRTxIbIHQTDEiUFmm"
@@ -1611,7 +1777,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 180560,
       "name": "Slow Poke",
       "url": "https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr"
@@ -1690,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "Sixteen Tons",
+        "url": "https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155007,
+      "name": "The Shot Gun Boogie",
+      "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
+    },
+    {
+      "album": {
         "name": "Pure... Country",
         "url": "https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR"
       },
@@ -1745,6 +1929,24 @@
       "duration_ms": 146666,
       "name": "There Stands The Glass",
       "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
+    },
+    {
+      "album": {
+        "name": "Patsy Cline",
+        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133933,
+      "name": "Three Cigarettes In An Ashtray",
+      "url": "https://open.spotify.com/track/2iiVG1xHHu2zZrDNVm8NJ3"
     },
     {
       "album": {
@@ -1835,7 +2037,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 148306,
       "name": "Waterloo",
       "url": "https://open.spotify.com/track/4wVHCuK7ttuVAkLkQO3pTI"
@@ -1889,7 +2091,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 137760,
       "name": "Why Baby Why - Single Version",
       "url": "https://open.spotify.com/track/2Nl4tN3rYAnnx8PpYOhQfN"
@@ -1929,7 +2131,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 177866,
       "name": "Wildwood Flower - Instrumental",
       "url": "https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3"

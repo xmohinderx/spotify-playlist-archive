@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Nuove scoperte della scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:6hG077WYgnjPVTkzhD2a9A">Sidea</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,239 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,247 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 2 | [non sembra da me](https://open.spotify.com/track/0CdrbpQJrUjnVslKPQ0GCS) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs), [C4](https://open.spotify.com/artist/5q2ramn8vmeHWNKLajEUiM) | [non sembra da me](https://open.spotify.com/album/58a9Jh79FvciUVqkUbgDr9) | 2:54 |
 | 3 | [Boys Like You](https://open.spotify.com/track/5ttLiAKwzLynIfBye4mUhD) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Boys Like You](https://open.spotify.com/album/2KaoA33HHCgzGSbCvKM0tk) | 2:57 |
 | 4 | [Sentimenti in Giro](https://open.spotify.com/track/4qJotoxYsJRlgawZCaKMis) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [Sentimenti in Giro](https://open.spotify.com/album/2S9eFifDyuI636AXkAmYRF) | 2:57 |
-| 5 | [FuORI PoSTO](https://open.spotify.com/track/1UGyAHFjN7FbkM0Nf2bcV0) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [Fuori posto](https://open.spotify.com/album/4FQf3FGRz6UyBXXutTuhxn) | 2:34 |
+| 5 | [FuORI PoSTO](https://open.spotify.com/track/1UGyAHFjN7FbkM0Nf2bcV0) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [FuORI PoSTO](https://open.spotify.com/album/4FQf3FGRz6UyBXXutTuhxn) | 2:34 |
 | 6 | [CHIUSO IN UNA STANZA](https://open.spotify.com/track/54VJjvNP7FdV5hIP33rioP) | [Sanga](https://open.spotify.com/artist/2RFkvuwuzehpQFC4oLDqxO), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [CHIUSO IN UNA STANZA](https://open.spotify.com/album/6EitS6JGTwFrCPiTn35DoI) | 2:41 |
 | 7 | [Regina](https://open.spotify.com/track/1XQWXDjAALCMDNDGRH40o6) | [Bollenti Spiriti](https://open.spotify.com/artist/0z0WIcFmz8Ongg6uNrHB5L), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Regina](https://open.spotify.com/album/0INRunmIEZ3RmTVJwlIChS) | 2:22 |
 | 8 | [SOLE](https://open.spotify.com/track/4O1RTIl4kWFwk8DTKzWiIS) | [pug effe](https://open.spotify.com/artist/3Gp5FNIN0NzkZdOQYbYbmm), [Tommy3](https://open.spotify.com/artist/5MxvM5IMLku68VNr38ToQN), [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Claude](https://open.spotify.com/artist/2LOwCIOcMogcZ8sJWLxCHU), [Agus](https://open.spotify.com/artist/5CCbmbrmRS8qclg9mf7ToG) | [SOLE](https://open.spotify.com/album/06kqwQE7hxtcmfZzdw7AjY) | 3:47 |

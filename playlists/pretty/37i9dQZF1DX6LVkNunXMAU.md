@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Pau Laggies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,480 likes - 98 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,500 likes - 98 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

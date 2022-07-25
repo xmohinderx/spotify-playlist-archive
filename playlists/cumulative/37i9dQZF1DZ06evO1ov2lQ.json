@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 304460,
       "name": "Arafura",
       "url": "https://open.spotify.com/track/2yJMu2hzbQ8MQur8HwaSVV"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 193660,
       "name": "As Pale as a Pearl",
       "url": "https://open.spotify.com/track/06aJtZTTyz4gfBOKfhaNys"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 304831,
       "name": "Baby Satellite",
       "url": "https://open.spotify.com/track/0TvD9dSrJQ0T3ZNJjLep9Y"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 296440,
       "name": "Fujiko",
       "url": "https://open.spotify.com/track/1dLZYbQ5yr9PETbjG1e24h"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 422932,
       "name": "Gravity Assist",
       "url": "https://open.spotify.com/track/5LadeNyOAJoxnHGriRc4il"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 345560,
       "name": "Hyperborea",
       "url": "https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 398306,
       "name": "Iberia Eterea",
       "url": "https://open.spotify.com/track/64O74NcCUUafwf3wmoVisX"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 350528,
       "name": "In Triple Time",
       "url": "https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 383000,
       "name": "Interval Signal",
       "url": "https://open.spotify.com/track/1WZcAa7lyALMxQHnq4mcCB"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 103096,
       "name": "Mestigoth",
       "url": "https://open.spotify.com/track/3CAZVIDUo5qfbaAJZ664F5"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 473840,
       "name": "Silene",
       "url": "https://open.spotify.com/track/6l7ouzm1yKyTNaOKe87imj"
@@ -1591,6 +1591,24 @@
       "duration_ms": 328585,
       "name": "Whole Forests Of Them Appearing",
       "url": "https://open.spotify.com/track/5dlFor9vsIMB4Nf71nK8kE"
+    },
+    {
+      "album": {
+        "name": "Departed Glories",
+        "url": "https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282697,
+      "name": "With Precious Benefits To Both",
+      "url": "https://open.spotify.com/track/7oFtmhVs4jk16rFvikGmHq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ov2lQ"

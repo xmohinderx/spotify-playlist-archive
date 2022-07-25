@@ -1,13 +1,33 @@
 {
-  "description": "De playlist voor magic, motion en love tunes. Cover: Burna Boy",
-  "num_followers": 300898,
+  "description": "Een xxclusieve nieuwe track van Bokoesam!",
+  "num_followers": 300965,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ0MDgwMCwwMDAwMDQ3NzAwMDAwMTgyMjJjNjU3YzYwMDAwMDE4MjIwMmEwZDI2",
+  "snapshot_id": "MTY1ODcwMDAwMCwwMDAwMDQ3ODAwMDAwMTgyMzIzOTZiOTYwMDAwMDE4MjI1YmY4YWU2",
   "tracks": [
+    {
+      "added_at": "2022-07-24 22:00:00",
+      "album": {
+        "name": "Doe Het Nou Gewoon",
+        "url": "https://open.spotify.com/album/7t3ilQDv7pSEUhpbelfXwR"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Digi Deng Dang (feat. Caza)",
+      "url": "https://open.spotify.com/track/6AhjFgx6oMbUeSy573Wt5t"
+    },
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {

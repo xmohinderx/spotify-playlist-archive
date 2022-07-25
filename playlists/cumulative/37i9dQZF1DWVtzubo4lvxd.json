@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 77640,
       "name": "6 Out of 600",
       "url": "https://open.spotify.com/track/3NUOQvFY74ZAdCargElGyw"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 166363,
       "name": "BEACH",
       "url": "https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 125500,
       "name": "Coke Wind",
       "url": "https://open.spotify.com/track/3FJSbTPWAy88XfocURuf0q"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 98485,
       "name": "Cold Breeze",
       "url": "https://open.spotify.com/track/64fGgroQQGWe6AdqEW0h7H"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "Divine",
       "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
@@ -549,6 +549,24 @@
       "duration_ms": 172277,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/0IQGNx2y8xUec752lNCUQk"
+    },
+    {
+      "album": {
+        "name": "Er0.S",
+        "url": "https://open.spotify.com/album/6jdViZSOG4G4uDG0bNq4tB"
+      },
+      "artists": [
+        {
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232228,
+      "name": "Ero.S",
+      "url": "https://open.spotify.com/track/1b6OSVdinsZxbEwPNAUlu3"
     },
     {
       "album": {
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 248711,
       "name": "Floating Free",
       "url": "https://open.spotify.com/track/4T50e4TUj1kMFWi66QaBEq"
@@ -699,7 +717,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 105000,
       "name": "flowers",
       "url": "https://open.spotify.com/track/3rOEB3uDJW8njCCzZHG8ug"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 150039,
       "name": "flumes",
       "url": "https://open.spotify.com/track/2RJLaVIbhv4TvYAyHUWEYs"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 95599,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/2bWSSn9tMf9JeJB3ZPnUbB"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 132148,
       "name": "go away",
       "url": "https://open.spotify.com/track/0fXfA8rpomAF4jMx58zs67"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 147216,
       "name": "i dream of you every night",
       "url": "https://open.spotify.com/track/4Z5aQZdyQ8Fc3R7PE17T0e"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 108800,
       "name": "Into the Forest",
       "url": "https://open.spotify.com/track/0iZfjegO4FcdmzhMvk92gA"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 122626,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/3WgPd7FVAvSxjjfdeS7wj4"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 150461,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/4obY44lU6QLfMvmVauZBsy"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 179200,
       "name": "one summer's eve",
       "url": "https://open.spotify.com/track/5eDApqll4iKrtS5z53tCfS"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 260146,
       "name": "Osbourne",
       "url": "https://open.spotify.com/track/0ydin5vhIPU09KVyNJPEmF"
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 206841,
       "name": "Paperboi",
       "url": "https://open.spotify.com/track/450CM9o94E8fbdNZndtww6"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 146475,
       "name": "Popsicle",
       "url": "https://open.spotify.com/track/4ckgfk6svzgE1FmYWbJiCl"
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 137357,
       "name": "reunion",
       "url": "https://open.spotify.com/track/0TRS0L5H57ETh3S8hzrVrJ"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 153417,
       "name": "Rio Roadtrippin'",
       "url": "https://open.spotify.com/track/76RXCXdZaVZ9LHbmBypZnM"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 126280,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV"
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 90529,
       "name": "sunday morning vibes",
       "url": "https://open.spotify.com/track/4K6aHm8TzVYm55b6bPM6eb"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 139130,
       "name": "sunny",
       "url": "https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 137142,
       "name": "sunset drive",
       "url": "https://open.spotify.com/track/6HVnsENMWuewoZvCGMsghQ"
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 128000,
       "name": "sunshine",
       "url": "https://open.spotify.com/track/0PqVz6MURxcTrqQYmW2DWv"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 175151,
       "name": "Sweet Soul",
       "url": "https://open.spotify.com/track/2PtkeL9DdaMFlJa2tllW98"
@@ -2183,7 +2201,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 71393,
       "name": "tequila",
       "url": "https://open.spotify.com/track/4oeGuoefx9dkbRq19sKZwL"
@@ -2237,7 +2255,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 160615,
       "name": "Thinkin About You",
       "url": "https://open.spotify.com/track/4qOS5NoY0Y1zOx98qFxorw"
@@ -2255,7 +2273,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 78987,
       "name": "this one is for you",
       "url": "https://open.spotify.com/track/4LldbfLNmXOCgFbZdfGEAV"
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 115988,
       "name": "Tumbleup",
       "url": "https://open.spotify.com/track/3EHkSFhEGzGav41IolQ6Cd"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 124766,
       "name": "vidrio",
       "url": "https://open.spotify.com/track/7uu03iBKk4P3drouoBPjMZ"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 162391,
       "name": "Water",
       "url": "https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 123450,
       "name": "what does hiphop mean to you",
       "url": "https://open.spotify.com/track/7qFb8eLt503uCdvhUmlmvS"

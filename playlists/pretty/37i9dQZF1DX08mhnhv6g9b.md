@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > This is the PROOF of BTS history\. ARMY is unbeatable💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,946,557 likes - 287 songs - 17 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,948,592 likes - 287 songs - 17 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -296,4 +296,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 286 | [Permission to Dance \- R&B Remix](https://open.spotify.com/track/3IGM6ph0w2fERLlyQtBoQt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:36 |
 | 287 | [My Universe \- Supernova 7 Mix](https://open.spotify.com/track/6Lgbf4b6c9fwz24eFEWONX) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 4:39 |
 
-Snapshot ID: `MTY1ODYyNTYwNywwMDAwMDAwMDA3YzlhYjliMGUwMDRkNzRkZWQyMmEwMjU5ZjY0Yzk5`
+Snapshot ID: `MTY1ODcxMTU2NywwMDAwMDAwMDA3YzlhYjliMGUwMDRkNzRkZWQyMmEwMjU5ZjY0Yzk5`

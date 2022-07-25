@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more! Cover: Sam Feldt and Monsta X
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,794 likes - 176 songs - 9 hr 12 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,802 likes - 176 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

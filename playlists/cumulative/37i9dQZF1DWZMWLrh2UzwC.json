@@ -3620,6 +3620,28 @@
     },
     {
       "album": {
+        "name": "EGO 90'S",
+        "url": "https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw"
+      },
+      "artists": [
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274586,
+      "name": "Beautiful (feat. Sam Kim)",
+      "url": "https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK"
+    },
+    {
+      "album": {
         "name": "B-Side",
         "url": "https://open.spotify.com/album/5BaFlgq8oi3I0ql6zj1gmu"
       },
@@ -26650,28 +26672,6 @@
     },
     {
       "album": {
-        "name": "EGO 90'S",
-        "url": "https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw"
-      },
-      "artists": [
-        {
-          "name": "Babylon",
-          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "date_added": "2022-07-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 274586,
-      "name": "Midnight (feat. Sam Kim)",
-      "url": "https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK"
-    },
-    {
-      "album": {
         "name": "Midnight Shower",
         "url": "https://open.spotify.com/album/7LVxJi3t2gt9wUv27F3tiF"
       },
@@ -37098,7 +37098,7 @@
     },
     {
       "album": {
-        "name": "Space Cadet",
+        "name": "SPACE CADET",
         "url": "https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI"
       },
       "artists": [
@@ -37111,7 +37111,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166690,
-      "name": "Space Cadet",
+      "name": "SPACE CADET",
       "url": "https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ"
     },
     {

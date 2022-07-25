@@ -884,6 +884,24 @@
     },
     {
       "album": {
+        "name": "Rothko",
+        "url": "https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178798,
+      "name": "Rothko",
+      "url": "https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d"
+    },
+    {
+      "album": {
         "name": "Run to You (feat. Grace Ackerman)",
         "url": "https://open.spotify.com/album/7phKRhiBZZzaif1y1ldZEb"
       },
